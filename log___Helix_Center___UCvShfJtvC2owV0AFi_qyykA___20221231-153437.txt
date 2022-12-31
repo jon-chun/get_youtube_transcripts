@@ -1,0 +1,490 @@
+2022-12-31 15:34:42,637 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:34:42,765 https://www.youtube.com:443 "GET /watch?v=WG3Rzp1AUSs HTTP/1.1" 200 None
+2022-12-31 15:34:43,227 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:34:43,351 https://www.youtube.com:443 "GET /api/timedtext?v=WG3Rzp1AUSs&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544084&sparams=ip,ipbits,expire,v,caps,xoaf&signature=AEDD1B7BEF14FDB361D3463F4D0246D24FB5A88E.1795D7C0BCF9F8DE3CC199A7B1DDBF540DBA83F3&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:34:43,386 SCRAPED VideoID:WG3Rzp1AUSs - Success
+2022-12-31 15:34:48,396 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:34:48,516 https://www.youtube.com:443 "GET /watch?v=gw2GjssUafs HTTP/1.1" 200 None
+2022-12-31 15:34:48,916 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:34:49,056 https://www.youtube.com:443 "GET /api/timedtext?v=gw2GjssUafs&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544090&sparams=ip,ipbits,expire,v,caps,xoaf&signature=18272024D3CA27FA820D7D3C7774D1583AFC6874.AF080B251911736A60EB1E7AA7117E1CBF5584FC&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:34:49,101 SCRAPED VideoID:gw2GjssUafs - Success
+2022-12-31 15:34:56,108 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:34:56,226 https://www.youtube.com:443 "GET /watch?v=LwIvfQBE9bk HTTP/1.1" 200 None
+2022-12-31 15:34:56,580 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:34:56,716 https://www.youtube.com:443 "GET /api/timedtext?v=LwIvfQBE9bk&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544098&sparams=ip,ipbits,expire,v,caps,xoaf&signature=ED5F28386944B8D0C4C2C9B80D5F38BF9A6384A0.CC4B077C6DD0933E32360477D8AB34DEB8A6BFA6&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:34:56,756 SCRAPED VideoID:LwIvfQBE9bk - Success
+2022-12-31 15:35:04,771 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:04,876 https://www.youtube.com:443 "GET /watch?v=khY3pjDzqLs HTTP/1.1" 200 None
+2022-12-31 15:35:05,236 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:05,360 https://www.youtube.com:443 "GET /api/timedtext?v=khY3pjDzqLs&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544106&sparams=ip,ipbits,expire,v,caps,xoaf&signature=754019A1B1A45A8652689E52A6453FC01985E397.6F55A7B9BD3C98F95D74C0B08B57AE6A15E513BC&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:35:05,405 SCRAPED VideoID:khY3pjDzqLs - Success
+2022-12-31 15:35:15,410 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:15,520 https://www.youtube.com:443 "GET /watch?v=vCHvPQt-ABc HTTP/1.1" 200 None
+2022-12-31 15:35:15,896 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:16,086 https://www.youtube.com:443 "GET /api/timedtext?v=vCHvPQt-ABc&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544117&sparams=ip,ipbits,expire,v,caps,xoaf&signature=602BFDFE5EC515137A962E2B2D68A5489D34EA87.17830A682578E6E142D589C6CAAE579CDE758E0F&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:35:16,132 SCRAPED VideoID:vCHvPQt-ABc - Success
+2022-12-31 15:35:24,138 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:24,253 https://www.youtube.com:443 "GET /watch?v=gFVql_pcUe0 HTTP/1.1" 200 None
+2022-12-31 15:35:24,568 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:24,713 https://www.youtube.com:443 "GET /api/timedtext?v=gFVql_pcUe0&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544126&sparams=ip,ipbits,expire,v,caps,xoaf&signature=B4E674C8DF5AD16CF9ED06B4D44F26F98C25062C.1D145C7EE1A61529ED2FC7DFE0CA6472FA64C03E&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:35:24,763 SCRAPED VideoID:gFVql_pcUe0 - Success
+2022-12-31 15:35:32,778 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:32,885 https://www.youtube.com:443 "GET /watch?v=DjvndGUlncw HTTP/1.1" 200 None
+2022-12-31 15:35:33,405 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:33,546 https://www.youtube.com:443 "GET /api/timedtext?v=DjvndGUlncw&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544134&sparams=ip,ipbits,expire,v,caps,xoaf&signature=E51C987B8F6B3B0E16D9A5398ABAA2D43AAEFC38.DC7A5A2A5D71A67584BAF8C64E4F422066572BC3&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:35:33,616 SCRAPED VideoID:DjvndGUlncw - Success
+2022-12-31 15:35:42,625 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:42,738 https://www.youtube.com:443 "GET /watch?v=B2KkHTxrHGM HTTP/1.1" 200 None
+2022-12-31 15:35:43,105 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:43,257 https://www.youtube.com:443 "GET /api/timedtext?v=B2KkHTxrHGM&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544144&sparams=ip,ipbits,expire,v,caps,xoaf&signature=0F64116EB3EDF1F73F474BE3E8335773F71DB517.119A6B250D49C9F78C0BF978482DA5787B0B8ED2&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:35:43,309 SCRAPED VideoID:B2KkHTxrHGM - Success
+2022-12-31 15:35:49,315 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:49,415 https://www.youtube.com:443 "GET /watch?v=78cAeP1bmVA HTTP/1.1" 200 None
+2022-12-31 15:35:49,768 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:49,898 https://www.youtube.com:443 "GET /api/timedtext?v=78cAeP1bmVA&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544151&sparams=ip,ipbits,expire,v,caps,xoaf&signature=CECF27BFC90A74E64945839710A34B1E4BF29829.1B551228D17E111D5BE8341434BE9D8F0E89C1EC&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:35:49,945 SCRAPED VideoID:78cAeP1bmVA - Success
+2022-12-31 15:35:57,949 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:58,058 https://www.youtube.com:443 "GET /watch?v=TXuUdV2UL_0 HTTP/1.1" 200 None
+2022-12-31 15:35:58,439 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:35:58,581 https://www.youtube.com:443 "GET /api/timedtext?v=TXuUdV2UL_0&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544159&sparams=ip,ipbits,expire,v,caps,xoaf&signature=33050377C53F1B7529A68677555492083C9FE587.B4D38213FC437128BE0871BB5AF3A36AA3E38A22&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:35:58,635 SCRAPED VideoID:TXuUdV2UL_0 - Success
+2022-12-31 15:36:06,656 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:06,765 https://www.youtube.com:443 "GET /watch?v=1f3cZvGW_oE HTTP/1.1" 200 None
+2022-12-31 15:36:07,144 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:07,278 https://www.youtube.com:443 "GET /api/timedtext?v=1f3cZvGW_oE&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544168&sparams=ip,ipbits,expire,v,caps,xoaf&signature=0B219474E3FDC8E3218BEAE2ED0149653F28EA7E.CF96B98782AD763C44E30DBDBCD8C9EF2C2E8DCD&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:36:07,326 SCRAPED VideoID:1f3cZvGW_oE - Success
+2022-12-31 15:36:14,343 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:14,460 https://www.youtube.com:443 "GET /watch?v=qcM7Ux97S2Q HTTP/1.1" 200 None
+2022-12-31 15:36:14,819 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:14,981 https://www.youtube.com:443 "GET /api/timedtext?v=qcM7Ux97S2Q&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544176&sparams=ip,ipbits,expire,v,caps,xoaf&signature=B6E39EE57CF3FFB630EE8774ABB6268555B92BC8.D377EF6C04666715CB74ABB8EA04114AB73D8386&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:36:15,039 SCRAPED VideoID:qcM7Ux97S2Q - Success
+2022-12-31 15:36:24,055 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:24,173 https://www.youtube.com:443 "GET /watch?v=vS5PyZcuLUk HTTP/1.1" 200 None
+2022-12-31 15:36:24,688 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:24,825 https://www.youtube.com:443 "GET /api/timedtext?v=vS5PyZcuLUk&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544185&sparams=ip,ipbits,expire,v,caps,xoaf&signature=EF29856B93F9B92A0EB1C99A35BE4B2EA0003319.3739F4BC4F86A1CA29AE7186653DE8123B887AD2&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:36:24,894 SCRAPED VideoID:vS5PyZcuLUk - Success
+2022-12-31 15:36:31,911 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:32,025 https://www.youtube.com:443 "GET /watch?v=6fRqcNGVSWc HTTP/1.1" 200 None
+2022-12-31 15:36:32,407 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:32,536 https://www.youtube.com:443 "GET /api/timedtext?v=6fRqcNGVSWc&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544193&sparams=ip,ipbits,expire,v,caps,xoaf&signature=A37C3A002A496C19DA406D9C7F1207342A236624.4A14B235DFEEDDDD10B37D97F0A6DCA238CE17F2&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:36:32,608 SCRAPED VideoID:6fRqcNGVSWc - Success
+2022-12-31 15:36:42,612 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:42,805 https://www.youtube.com:443 "GET /watch?v=OVa-B5uXopE HTTP/1.1" 200 None
+2022-12-31 15:36:43,142 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:43,287 https://www.youtube.com:443 "GET /api/timedtext?v=OVa-B5uXopE&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544204&sparams=ip,ipbits,expire,v,caps,xoaf&signature=51D4D176FD504825FB7DDEF1A595DF5BB8DEF705.A914669FE150C7900B5D7E27DA9288B03FF8C637&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:36:43,353 SCRAPED VideoID:OVa-B5uXopE - Success
+2022-12-31 15:36:53,354 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:53,466 https://www.youtube.com:443 "GET /watch?v=CUTTvShm_dQ HTTP/1.1" 200 None
+2022-12-31 15:36:53,904 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:36:54,054 https://www.youtube.com:443 "GET /api/timedtext?v=CUTTvShm_dQ&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544215&sparams=ip,ipbits,expire,v,caps,xoaf&signature=0901958667AF5956CDAE854E854A4AD5BEF667CA.948DBFFBD497B8B40A49B959964AD5D7DE9E3F0C&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:36:54,094 SCRAPED VideoID:CUTTvShm_dQ - Success
+2022-12-31 15:37:02,103 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:02,218 https://www.youtube.com:443 "GET /watch?v=FfyLwiHhdoI HTTP/1.1" 200 None
+2022-12-31 15:37:02,617 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:02,742 https://www.youtube.com:443 "GET /api/timedtext?v=FfyLwiHhdoI&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544224&sparams=ip,ipbits,expire,v,caps,xoaf&signature=0345BE2B4DF617B80DAE3C4E3B51AB872ED4EA1E.90EFB0CBA1EEBD92C0003DB7C0FBE6887C29120A&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:37:02,786 SCRAPED VideoID:FfyLwiHhdoI - Success
+2022-12-31 15:37:09,796 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:09,917 https://www.youtube.com:443 "GET /watch?v=l1dMvQftz_g HTTP/1.1" 200 None
+2022-12-31 15:37:10,304 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:10,487 https://www.youtube.com:443 "GET /api/timedtext?v=l1dMvQftz_g&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544231&sparams=ip,ipbits,expire,v,caps,xoaf&signature=089589D9410054586AC28DA5A7D9FF4287E41F95.675393334157627750F9BEB365B2146A814C332F&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:37:10,533 SCRAPED VideoID:l1dMvQftz_g - Success
+2022-12-31 15:37:17,544 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:17,677 https://www.youtube.com:443 "GET /watch?v=KNWPmhc2sh8 HTTP/1.1" 200 None
+2022-12-31 15:37:18,047 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:18,174 https://www.youtube.com:443 "GET /api/timedtext?v=KNWPmhc2sh8&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544239&sparams=ip,ipbits,expire,v,caps,xoaf&signature=0AF45A5FFAADA53B871FB192DBD1C66E61A46212.E3816B651CA8271378B6B52850D22BD6C09C3EF1&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:37:18,218 SCRAPED VideoID:KNWPmhc2sh8 - Success
+2022-12-31 15:37:24,221 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:24,333 https://www.youtube.com:443 "GET /watch?v=GNfc4HGXY24 HTTP/1.1" 200 None
+2022-12-31 15:37:24,729 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:24,853 https://www.youtube.com:443 "GET /api/timedtext?v=GNfc4HGXY24&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544246&sparams=ip,ipbits,expire,v,caps,xoaf&signature=BD49CBD9F0D54E31AF18276B5693E88843C2677D.563A7EB25E54CCAC6C15EBFF2B39A91C1B447543&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:37:24,898 SCRAPED VideoID:GNfc4HGXY24 - Success
+2022-12-31 15:37:29,903 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:30,023 https://www.youtube.com:443 "GET /watch?v=4v04G8kooJo HTTP/1.1" 200 None
+2022-12-31 15:37:30,342 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:30,480 https://www.youtube.com:443 "GET /api/timedtext?v=4v04G8kooJo&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544251&sparams=ip,ipbits,expire,v,caps,xoaf&signature=3DFE30625DB2D9DA064B63E5E8A015EF7B4F2B25.B024CF98F58689FDB23BDF5A252477CD44C437F1&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:37:30,523 SCRAPED VideoID:4v04G8kooJo - Success
+2022-12-31 15:37:40,535 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:40,654 https://www.youtube.com:443 "GET /watch?v=NCPk3iURUsA HTTP/1.1" 200 None
+2022-12-31 15:37:41,003 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:41,153 https://www.youtube.com:443 "GET /api/timedtext?v=NCPk3iURUsA&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544262&sparams=ip,ipbits,expire,v,caps,xoaf&signature=E75EEABEA125D787A1743EE1E9CCFBB1AC0D4494.12D748B4B7B66CA323297FD8A40484C166A08324&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:37:41,249 SCRAPED VideoID:NCPk3iURUsA - Success
+2022-12-31 15:37:47,256 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:47,369 https://www.youtube.com:443 "GET /watch?v=4ylFYWbQqRA HTTP/1.1" 200 None
+2022-12-31 15:37:47,827 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:47,963 https://www.youtube.com:443 "GET /api/timedtext?v=4ylFYWbQqRA&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544269&sparams=ip,ipbits,expire,v,caps,xoaf&signature=5DA0FC26885379B430E3BCBF8B68659CDD13B624.30114BA49A1AE0E03F02AD8530CFD65D005D2F17&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:37:47,999 SCRAPED VideoID:4ylFYWbQqRA - Success
+2022-12-31 15:37:53,014 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:53,135 https://www.youtube.com:443 "GET /watch?v=R_UJNb9mVj4 HTTP/1.1" 200 None
+2022-12-31 15:37:53,539 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:37:53,661 https://www.youtube.com:443 "GET /api/timedtext?v=R_UJNb9mVj4&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544274&sparams=ip,ipbits,expire,v,caps,xoaf&signature=43295C101A7268360FE2F80D6CD287D8A98C9488.72691891EE4442EF772FB6060DC22718C4A499C4&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:37:53,704 SCRAPED VideoID:R_UJNb9mVj4 - Success
+2022-12-31 15:38:01,713 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:01,830 https://www.youtube.com:443 "GET /watch?v=7ulv5LFVV64 HTTP/1.1" 200 None
+2022-12-31 15:38:02,244 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:02,389 https://www.youtube.com:443 "GET /api/timedtext?v=7ulv5LFVV64&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544283&sparams=ip,ipbits,expire,v,caps,xoaf&signature=2262F821777CA5074F4D89B1668578BDF9EFC932.445E739975DEE89AD675DBD31BD43A857FD60157&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:38:02,433 SCRAPED VideoID:7ulv5LFVV64 - Success
+2022-12-31 15:38:11,443 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:11,556 https://www.youtube.com:443 "GET /watch?v=GUou2cUQoGI HTTP/1.1" 200 None
+2022-12-31 15:38:11,917 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:12,067 https://www.youtube.com:443 "GET /api/timedtext?v=GUou2cUQoGI&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544293&sparams=ip,ipbits,expire,v,caps,xoaf&signature=1F3ACDDEA0DF04014EB395EBCCD41D41D59CE3AE.7FCDC277A442AA36B23051CC2891C7A0E0365F9B&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:38:12,120 SCRAPED VideoID:GUou2cUQoGI - Success
+2022-12-31 15:38:17,129 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:17,253 https://www.youtube.com:443 "GET /watch?v=FYKk3JHDLa4 HTTP/1.1" 200 None
+2022-12-31 15:38:17,812 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:17,952 https://www.youtube.com:443 "GET /api/timedtext?v=FYKk3JHDLa4&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544299&sparams=ip,ipbits,expire,v,caps,xoaf&signature=13848850CE3EDABA5C5B2BBE4C7E957FAFB132B4.9EB6FD07CE836BED9FB1C15BB680FCAB2A1E4930&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:38:18,000 SCRAPED VideoID:FYKk3JHDLa4 - Success
+2022-12-31 15:38:26,014 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:26,124 https://www.youtube.com:443 "GET /watch?v=bAjBYEjeP6E HTTP/1.1" 200 None
+2022-12-31 15:38:26,515 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:26,648 https://www.youtube.com:443 "GET /api/timedtext?v=bAjBYEjeP6E&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544307&sparams=ip,ipbits,expire,v,caps,xoaf&signature=0D9FC3A7BB529518222057DB44434631C2BB0A48.D395BAD81EDAFAC1AC1020B224736F0FF388B2F3&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:38:26,695 SCRAPED VideoID:bAjBYEjeP6E - Success
+2022-12-31 15:38:36,704 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:36,814 https://www.youtube.com:443 "GET /watch?v=CgYogW-69PI HTTP/1.1" 200 None
+2022-12-31 15:38:37,160 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:37,290 https://www.youtube.com:443 "GET /api/timedtext?v=CgYogW-69PI&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544318&sparams=ip,ipbits,expire,v,caps,xoaf&signature=C3D173AC8910BD85285509E1CE0498C5F39BFA94.A702AA4617AB5415C5DB62F5B9D66A21A402FF62&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:38:37,332 SCRAPED VideoID:CgYogW-69PI - Success
+2022-12-31 15:38:42,340 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:42,461 https://www.youtube.com:443 "GET /watch?v=oAK_olUjP5Y HTTP/1.1" 200 None
+2022-12-31 15:38:42,859 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:42,990 https://www.youtube.com:443 "GET /api/timedtext?v=oAK_olUjP5Y&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544324&sparams=ip,ipbits,expire,v,caps,xoaf&signature=11DAA07249C03E0CBA2ADB1A8AC4FCCA85E41FE6.E6902E7817EE9CC1C4DC3A65B02A019AA9B50CDD&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:38:43,033 SCRAPED VideoID:oAK_olUjP5Y - Success
+2022-12-31 15:38:48,045 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:48,163 https://www.youtube.com:443 "GET /watch?v=iZgcMEoLCjA HTTP/1.1" 200 None
+2022-12-31 15:38:48,527 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:48,662 https://www.youtube.com:443 "GET /api/timedtext?v=iZgcMEoLCjA&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544329&sparams=ip,ipbits,expire,v,caps,xoaf&signature=D614435FF89C335EB353B6A0CF9770311B8C2E60.D6AFCFAB020862CE567AAAC2FBCE682156C3A07D&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:38:48,705 SCRAPED VideoID:iZgcMEoLCjA - Success
+2022-12-31 15:38:58,706 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:58,820 https://www.youtube.com:443 "GET /watch?v=ZQhoCytYphs HTTP/1.1" 200 None
+2022-12-31 15:38:59,176 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:38:59,309 https://www.youtube.com:443 "GET /api/timedtext?v=ZQhoCytYphs&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544340&sparams=ip,ipbits,expire,v,caps,xoaf&signature=A110B262E5A926027FB9DD597A59BF1ED692FC4D.7B5160F53F49E22AA7C2B3E5CBCC25D51960F89E&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:38:59,356 SCRAPED VideoID:ZQhoCytYphs - Success
+2022-12-31 15:39:07,359 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:07,471 https://www.youtube.com:443 "GET /watch?v=Sqqt1kU52I8 HTTP/1.1" 200 None
+2022-12-31 15:39:07,899 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:08,031 https://www.youtube.com:443 "GET /api/timedtext?v=Sqqt1kU52I8&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544349&sparams=ip,ipbits,expire,v,caps,xoaf&signature=C2FC00FCEC0EAA1B2A943C42080E64F0A9C1819A.3AD10A72085712FBB818C9E4065F84EDBA0D76CC&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:39:08,074 SCRAPED VideoID:Sqqt1kU52I8 - Success
+2022-12-31 15:39:15,097 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:15,202 https://www.youtube.com:443 "GET /watch?v=I24lF7gtynM HTTP/1.1" 200 None
+2022-12-31 15:39:15,488 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:15,620 https://www.youtube.com:443 "GET /api/timedtext?v=I24lF7gtynM&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544357&sparams=ip,ipbits,expire,v,caps,xoaf&signature=980419317877DEEFA79E54476A79134C4F760FAB.8412167F0E92C4D429FC1AB33B7BBC9A7FA9B013&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:39:15,662 SCRAPED VideoID:I24lF7gtynM - Success
+2022-12-31 15:39:22,679 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:22,799 https://www.youtube.com:443 "GET /watch?v=g7UhiuJy1WM HTTP/1.1" 200 None
+2022-12-31 15:39:23,146 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:23,273 https://www.youtube.com:443 "GET /api/timedtext?v=g7UhiuJy1WM&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544364&sparams=ip,ipbits,expire,v,caps,xoaf&signature=4BC93127D76160F4176E97ADCFE91EC9A5E449C8.B269EB98F769EDD87D4C6FBE6E394E31C436B04A&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:39:23,313 SCRAPED VideoID:g7UhiuJy1WM - Success
+2022-12-31 15:39:32,326 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:32,468 https://www.youtube.com:443 "GET /watch?v=a8PjUo0NULE HTTP/1.1" 200 None
+2022-12-31 15:39:32,784 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:32,928 https://www.youtube.com:443 "GET /api/timedtext?v=a8PjUo0NULE&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544374&sparams=ip,ipbits,expire,v,caps,xoaf&signature=797F7E92F7BF2770903C6992995B5174CCA9E2B9.4BBAE7A1756C1C4E9BF4987C975B61E343FE9F36&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:39:32,980 SCRAPED VideoID:a8PjUo0NULE - Success
+2022-12-31 15:39:37,993 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:38,116 https://www.youtube.com:443 "GET /watch?v=xBnYk-DAU5k HTTP/1.1" 200 None
+2022-12-31 15:39:38,406 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:38,564 https://www.youtube.com:443 "GET /api/timedtext?v=xBnYk-DAU5k&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544379&sparams=ip,ipbits,expire,v,caps,xoaf&signature=C10C322EEACB966B03E66ED48F8B9FA4E219A7ED.0D188F04396BCDA0EA9F11CBD776079230F93229&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:39:38,635 SCRAPED VideoID:xBnYk-DAU5k - Success
+2022-12-31 15:39:43,642 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:43,754 https://www.youtube.com:443 "GET /watch?v=tPB_9JC02Xg HTTP/1.1" 200 None
+2022-12-31 15:39:44,069 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:44,211 https://www.youtube.com:443 "GET /api/timedtext?v=tPB_9JC02Xg&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544385&sparams=ip,ipbits,expire,v,caps,xoaf&signature=A1C9CD1D194655A63F508F6DF37F0715D8B6AF72.9CFE8989AAFC12340436D0B5FAAA8EDE7E3C5947&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:39:44,275 SCRAPED VideoID:tPB_9JC02Xg - Success
+2022-12-31 15:39:53,287 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:53,405 https://www.youtube.com:443 "GET /watch?v=4OV_LIuSo8g HTTP/1.1" 200 None
+2022-12-31 15:39:53,684 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:39:53,817 https://www.youtube.com:443 "GET /api/timedtext?v=4OV_LIuSo8g&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544395&sparams=ip,ipbits,expire,v,caps,xoaf&signature=CA83755073EE65347D741F4B4738FF55D458D5F8.24D913C4A8AEB014A08B46D3FADDD18D98109CE8&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:39:53,856 SCRAPED VideoID:4OV_LIuSo8g - Success
+2022-12-31 15:40:01,861 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:02,020 https://www.youtube.com:443 "GET /watch?v=SwKBVfcT8Uo HTTP/1.1" 200 None
+2022-12-31 15:40:02,354 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:02,482 https://www.youtube.com:443 "GET /api/timedtext?v=SwKBVfcT8Uo&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544403&sparams=ip,ipbits,expire,v,caps,xoaf&signature=7AAD4C167DFAB19763583F404F1986EC5B60AAE6.E656D7C14B668FE7C31B004B0A07D883F1D65D82&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:40:02,524 SCRAPED VideoID:SwKBVfcT8Uo - Success
+2022-12-31 15:40:11,538 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:11,652 https://www.youtube.com:443 "GET /watch?v=m8GWT94Q9r4 HTTP/1.1" 200 None
+2022-12-31 15:40:12,041 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:12,241 https://www.youtube.com:443 "GET /api/timedtext?v=m8GWT94Q9r4&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544413&sparams=ip,ipbits,expire,v,caps,xoaf&signature=F7D58FC1AB2E39797E888AB3FFB2AC695FC1D8.349E0C84CDD268E3139C50616345EFF5394B5721&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:40:12,298 SCRAPED VideoID:m8GWT94Q9r4 - Success
+2022-12-31 15:40:22,312 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:22,424 https://www.youtube.com:443 "GET /watch?v=gHHnQuR5R70 HTTP/1.1" 200 None
+2022-12-31 15:40:22,768 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:22,916 https://www.youtube.com:443 "GET /api/timedtext?v=gHHnQuR5R70&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544424&sparams=ip,ipbits,expire,v,caps,xoaf&signature=964D1649FE885BCF0E576F116C90FD40ACDF23D4.3A095838B97745D3F630845B42648CC0E6635301&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:40:22,974 SCRAPED VideoID:gHHnQuR5R70 - Success
+2022-12-31 15:40:31,991 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:32,147 https://www.youtube.com:443 "GET /watch?v=yotM-QjF-jY HTTP/1.1" 200 None
+2022-12-31 15:40:32,501 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:32,650 https://www.youtube.com:443 "GET /api/timedtext?v=yotM-QjF-jY&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544433&sparams=ip,ipbits,expire,v,caps,xoaf&signature=B6C999393F556B477A956742AA1C10554887DA4B.DAF0DE0CCEB1C62F583AD844E18FA6E0AF873CA4&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:40:32,702 SCRAPED VideoID:yotM-QjF-jY - Success
+2022-12-31 15:40:41,704 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:41,812 https://www.youtube.com:443 "GET /watch?v=d1EUjQMgIMU HTTP/1.1" 200 None
+2022-12-31 15:40:42,162 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:42,295 https://www.youtube.com:443 "GET /api/timedtext?v=d1EUjQMgIMU&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544443&sparams=ip,ipbits,expire,v,caps,xoaf&signature=810A6D70CA04408377B069C21EA490E4F8A80C8A.1B8A89F7B7F22A7D6CFC5B16F7D13E5BD073586F&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:40:42,341 SCRAPED VideoID:d1EUjQMgIMU - Success
+2022-12-31 15:40:50,348 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:50,456 https://www.youtube.com:443 "GET /watch?v=Zv4cXpKLdhw HTTP/1.1" 200 None
+2022-12-31 15:40:50,784 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:50,978 https://www.youtube.com:443 "GET /api/timedtext?v=Zv4cXpKLdhw&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544452&sparams=ip,ipbits,expire,v,caps,xoaf&signature=8975218F7526021B776BA1B83D2EF782645B374C.83C19451E850158778F0B88F71042D28AEFE42AF&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:40:51,035 SCRAPED VideoID:Zv4cXpKLdhw - Success
+2022-12-31 15:40:58,038 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:58,149 https://www.youtube.com:443 "GET /watch?v=p5-V1j7blqU HTTP/1.1" 200 None
+2022-12-31 15:40:58,511 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:40:58,643 https://www.youtube.com:443 "GET /api/timedtext?v=p5-V1j7blqU&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544459&sparams=ip,ipbits,expire,v,caps,xoaf&signature=BE0B231C3157B7D86A48D54CF8C611A5E45F44AE.81A5C5309BE200B5E25C5A09A60A3F04656B9090&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:40:58,695 SCRAPED VideoID:p5-V1j7blqU - Success
+2022-12-31 15:41:08,701 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:41:08,825 https://www.youtube.com:443 "GET /watch?v=LiiWsIVkkd8 HTTP/1.1" 200 None
+2022-12-31 15:41:09,332 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:41:09,477 https://www.youtube.com:443 "GET /api/timedtext?v=LiiWsIVkkd8&caps=asr&xoaf=4&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544471&sparams=ip,ipbits,expire,v,caps,xoaf&signature=B7B497F1300AAC4DD92DD44E5F4F24732F186011.484BC9200D896F14CDF10F6C3239CC8909AF8483&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:41:09,546 SCRAPED VideoID:LiiWsIVkkd8 - Success
+2022-12-31 15:41:18,563 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:41:18,676 https://www.youtube.com:443 "GET /watch?v=o5NooKzB4QI HTTP/1.1" 200 None
+2022-12-31 15:41:18,919 FAILED VideoID:o5NooKzB4QI - Could not scrape
+2022-12-31 15:41:27,934 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:41:28,050 https://www.youtube.com:443 "GET /watch?v=nQwDoCzCt18 HTTP/1.1" 200 None
+2022-12-31 15:41:28,316 FAILED VideoID:nQwDoCzCt18 - Could not scrape
+2022-12-31 15:41:37,328 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:41:37,438 https://www.youtube.com:443 "GET /watch?v=k6HPcQLENrk HTTP/1.1" 200 None
+2022-12-31 15:41:37,733 FAILED VideoID:k6HPcQLENrk - Could not scrape
+2022-12-31 15:41:46,737 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:41:46,848 https://www.youtube.com:443 "GET /watch?v=k6HPcQLENrk HTTP/1.1" 200 None
+2022-12-31 15:41:47,188 FAILED VideoID:k6HPcQLENrk - Could not scrape
+2022-12-31 15:41:53,193 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:41:53,299 https://www.youtube.com:443 "GET /watch?v=0vSxqYAUPYo HTTP/1.1" 200 None
+2022-12-31 15:41:53,779 FAILED VideoID:0vSxqYAUPYo - Could not scrape
+2022-12-31 15:42:00,793 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:00,905 https://www.youtube.com:443 "GET /watch?v=Of3JFmGvWQA HTTP/1.1" 200 None
+2022-12-31 15:42:01,266 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:01,386 https://www.youtube.com:443 "GET /api/timedtext?v=Of3JFmGvWQA&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544522&sparams=ip,ipbits,expire,v,caps,xoaf&signature=C49B2D1EB7AB82A6331A3B2F7008DE8FEE2D8414.7E0A240851AEDD3D4559A4AAE33506757C2DADA9&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:42:01,416 SCRAPED VideoID:Of3JFmGvWQA - Success
+2022-12-31 15:42:10,428 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:10,534 https://www.youtube.com:443 "GET /watch?v=04cydVyp6io HTTP/1.1" 200 None
+2022-12-31 15:42:10,861 FAILED VideoID:04cydVyp6io - Could not scrape
+2022-12-31 15:42:17,878 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:17,985 https://www.youtube.com:443 "GET /watch?v=apAuqp_yADU HTTP/1.1" 200 None
+2022-12-31 15:42:18,411 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:18,561 https://www.youtube.com:443 "GET /api/timedtext?v=apAuqp_yADU&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544539&sparams=ip,ipbits,expire,v,caps,xoaf&signature=1A726CC258E7FADCAA5F2CEB13C96038355A372B.5F6967AAE1AE970D5BC1D9D572B41BD122A1E094&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:42:18,600 SCRAPED VideoID:apAuqp_yADU - Success
+2022-12-31 15:42:25,608 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:25,718 https://www.youtube.com:443 "GET /watch?v=_es96clsC9U HTTP/1.1" 200 None
+2022-12-31 15:42:26,038 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:26,177 https://www.youtube.com:443 "GET /api/timedtext?v=_es96clsC9U&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544547&sparams=ip,ipbits,expire,v,caps,xoaf&signature=D9B09336A7DAC07FDA755434AD8D4A9FFFEAA36E.07A14464208A47E96C629FA4B65D5968AD81B826&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:42:26,234 SCRAPED VideoID:_es96clsC9U - Success
+2022-12-31 15:42:36,247 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:36,364 https://www.youtube.com:443 "GET /watch?v=cuYsZ4Qw4Vg HTTP/1.1" 200 None
+2022-12-31 15:42:36,787 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:36,877 https://www.youtube.com:443 "GET /api/timedtext?v=cuYsZ4Qw4Vg&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544558&sparams=ip,ipbits,expire,v,caps,xoaf&signature=440AC1BC58B9B670DB8920B5E08E1FDD325B6857.A8EF0DD70549A91DC482671258EBE8151BDD01CA&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:42:36,881 SCRAPED VideoID:cuYsZ4Qw4Vg - Success
+2022-12-31 15:42:46,894 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:47,002 https://www.youtube.com:443 "GET /watch?v=AnHIv_d02z0 HTTP/1.1" 200 None
+2022-12-31 15:42:47,373 FAILED VideoID:AnHIv_d02z0 - Could not scrape
+2022-12-31 15:42:56,381 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:42:56,498 https://www.youtube.com:443 "GET /watch?v=Ag8kHh9Sy9g HTTP/1.1" 200 None
+2022-12-31 15:42:56,847 FAILED VideoID:Ag8kHh9Sy9g - Could not scrape
+2022-12-31 15:43:02,849 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:43:02,961 https://www.youtube.com:443 "GET /watch?v=hDvZZlPYOMc HTTP/1.1" 200 None
+2022-12-31 15:43:03,243 FAILED VideoID:hDvZZlPYOMc - Could not scrape
+2022-12-31 15:43:13,248 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:43:13,367 https://www.youtube.com:443 "GET /watch?v=YMRTnfNA84k HTTP/1.1" 200 None
+2022-12-31 15:43:13,747 FAILED VideoID:YMRTnfNA84k - Could not scrape
+2022-12-31 15:43:21,759 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:43:21,869 https://www.youtube.com:443 "GET /watch?v=OvXt6p1e3hw HTTP/1.1" 200 None
+2022-12-31 15:43:22,235 FAILED VideoID:OvXt6p1e3hw - Could not scrape
+2022-12-31 15:43:27,240 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:43:27,357 https://www.youtube.com:443 "GET /watch?v=UgpfbmJvOE8 HTTP/1.1" 200 None
+2022-12-31 15:43:27,670 FAILED VideoID:UgpfbmJvOE8 - Could not scrape
+2022-12-31 15:43:35,677 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:43:35,799 https://www.youtube.com:443 "GET /watch?v=BC2KOO79YWA HTTP/1.1" 200 None
+2022-12-31 15:43:36,129 FAILED VideoID:BC2KOO79YWA - Could not scrape
+2022-12-31 15:43:46,141 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:43:46,347 https://www.youtube.com:443 "GET /watch?v=9lmzJ9fZDz0 HTTP/1.1" 200 None
+2022-12-31 15:43:46,746 FAILED VideoID:9lmzJ9fZDz0 - Could not scrape
+2022-12-31 15:43:55,764 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:43:55,877 https://www.youtube.com:443 "GET /watch?v=8sJigvsBA6g HTTP/1.1" 200 None
+2022-12-31 15:43:56,215 FAILED VideoID:8sJigvsBA6g - Could not scrape
+2022-12-31 15:44:06,220 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:06,335 https://www.youtube.com:443 "GET /watch?v=16ma9apgNes HTTP/1.1" 200 None
+2022-12-31 15:44:06,646 FAILED VideoID:16ma9apgNes - Could not scrape
+2022-12-31 15:44:12,661 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:12,779 https://www.youtube.com:443 "GET /watch?v=vdwGaVmHRq8 HTTP/1.1" 200 None
+2022-12-31 15:44:13,082 FAILED VideoID:vdwGaVmHRq8 - Could not scrape
+2022-12-31 15:44:18,097 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:18,204 https://www.youtube.com:443 "GET /watch?v=llK2uRqtrdI HTTP/1.1" 200 None
+2022-12-31 15:44:18,558 FAILED VideoID:llK2uRqtrdI - Could not scrape
+2022-12-31 15:44:24,563 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:24,682 https://www.youtube.com:443 "GET /watch?v=rifKjr_3QvM HTTP/1.1" 200 None
+2022-12-31 15:44:25,034 FAILED VideoID:rifKjr_3QvM - Could not scrape
+2022-12-31 15:44:32,045 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:32,215 https://www.youtube.com:443 "GET /watch?v=WXip39NrMSQ HTTP/1.1" 200 None
+2022-12-31 15:44:32,519 FAILED VideoID:WXip39NrMSQ - Could not scrape
+2022-12-31 15:44:39,530 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:39,637 https://www.youtube.com:443 "GET /watch?v=WoOhIKlkAiI HTTP/1.1" 200 None
+2022-12-31 15:44:39,940 FAILED VideoID:WoOhIKlkAiI - Could not scrape
+2022-12-31 15:44:45,949 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:46,055 https://www.youtube.com:443 "GET /watch?v=NA_4RoP9u2E HTTP/1.1" 200 None
+2022-12-31 15:44:46,469 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:46,625 https://www.youtube.com:443 "GET /api/timedtext?v=NA_4RoP9u2E&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544687&sparams=ip,ipbits,expire,v,caps,xoaf&signature=0667E867E631B11C7E42E0B143761764C427DF5B.95DEE8FE83EDB032B7D77516844D40FC8A4168F3&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:44:46,682 SCRAPED VideoID:NA_4RoP9u2E - Success
+2022-12-31 15:44:56,698 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:56,813 https://www.youtube.com:443 "GET /watch?v=d3cSfgfZc18 HTTP/1.1" 200 None
+2022-12-31 15:44:57,151 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:44:57,261 https://www.youtube.com:443 "GET /api/timedtext?v=d3cSfgfZc18&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544698&sparams=ip,ipbits,expire,v,caps,xoaf&signature=A03264D64A4B73F5AC82F27A4BF927ECBFC29DDB.8CD82BAD05101C3FC4D9BDD7C4152B399AC52B8F&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:44:57,264 SCRAPED VideoID:d3cSfgfZc18 - Success
+2022-12-31 15:45:02,280 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:45:02,435 https://www.youtube.com:443 "GET /watch?v=7ILsk4RZ0i8 HTTP/1.1" 200 None
+2022-12-31 15:45:02,799 FAILED VideoID:7ILsk4RZ0i8 - Could not scrape
+2022-12-31 15:45:08,801 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:45:08,902 https://www.youtube.com:443 "GET /watch?v=vKqHyRj5v3w HTTP/1.1" 200 None
+2022-12-31 15:45:09,198 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:45:09,307 https://www.youtube.com:443 "GET /api/timedtext?v=vKqHyRj5v3w&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544710&sparams=ip,ipbits,expire,v,caps,xoaf&signature=A961C92F0F0708C7CCC35B543967446EFB374346.2E3BAECA3E96EEAAD51352181EB3D1DD2E171BC2&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:45:09,336 SCRAPED VideoID:vKqHyRj5v3w - Success
+2022-12-31 15:45:19,348 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:45:19,466 https://www.youtube.com:443 "GET /watch?v=w9OyeYxdi1Y HTTP/1.1" 200 None
+2022-12-31 15:45:19,814 FAILED VideoID:w9OyeYxdi1Y - Could not scrape
+2022-12-31 15:45:29,817 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:45:29,933 https://www.youtube.com:443 "GET /watch?v=HA6F4rcv2es HTTP/1.1" 200 None
+2022-12-31 15:45:30,270 FAILED VideoID:HA6F4rcv2es - Could not scrape
+2022-12-31 15:45:37,273 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:45:37,379 https://www.youtube.com:443 "GET /watch?v=nT0scDrB-Qw HTTP/1.1" 200 None
+2022-12-31 15:45:37,659 FAILED VideoID:nT0scDrB-Qw - Could not scrape
+2022-12-31 15:45:47,670 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:45:47,780 https://www.youtube.com:443 "GET /watch?v=9XNV9hgPdEc HTTP/1.1" 200 None
+2022-12-31 15:45:48,122 FAILED VideoID:9XNV9hgPdEc - Could not scrape
+2022-12-31 15:45:55,135 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:45:55,253 https://www.youtube.com:443 "GET /watch?v=aGzlvI1R64c HTTP/1.1" 200 None
+2022-12-31 15:45:55,571 FAILED VideoID:aGzlvI1R64c - Could not scrape
+2022-12-31 15:46:03,581 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:46:03,693 https://www.youtube.com:443 "GET /watch?v=5SQ1Vpc8TFE HTTP/1.1" 200 None
+2022-12-31 15:46:04,043 FAILED VideoID:5SQ1Vpc8TFE - Could not scrape
+2022-12-31 15:46:13,046 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:46:13,183 https://www.youtube.com:443 "GET /watch?v=5rDxNjouzdg HTTP/1.1" 200 None
+2022-12-31 15:46:13,496 FAILED VideoID:5rDxNjouzdg - Could not scrape
+2022-12-31 15:46:21,509 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:46:21,783 https://www.youtube.com:443 "GET /watch?v=XkOZKCAYKdg HTTP/1.1" 200 None
+2022-12-31 15:46:22,153 FAILED VideoID:XkOZKCAYKdg - Could not scrape
+2022-12-31 15:46:30,159 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:46:30,283 https://www.youtube.com:443 "GET /watch?v=5CjbPI0fVm0 HTTP/1.1" 200 None
+2022-12-31 15:46:30,647 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:46:30,789 https://www.youtube.com:443 "GET /api/timedtext?v=5CjbPI0fVm0&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544792&sparams=ip,ipbits,expire,v,caps,xoaf&signature=2695BCEF316A2EBAF2D9AA52DB91B539EFD97CDB.62555C19E433A0B6534FD05E18AF883D83261EE5&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:46:30,855 SCRAPED VideoID:5CjbPI0fVm0 - Success
+2022-12-31 15:46:37,864 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:46:37,975 https://www.youtube.com:443 "GET /watch?v=UOlp0dYF9k4 HTTP/1.1" 200 None
+2022-12-31 15:46:38,318 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:46:38,449 https://www.youtube.com:443 "GET /api/timedtext?v=UOlp0dYF9k4&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544799&sparams=ip,ipbits,expire,v,caps,xoaf&signature=3022F12762C5144C1BF8E135B28E34AD9EDF454B.EAB6665772D94945A68280EEEA0AABF2AFB91DE6&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:46:38,482 SCRAPED VideoID:UOlp0dYF9k4 - Success
+2022-12-31 15:46:46,496 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:46:46,612 https://www.youtube.com:443 "GET /watch?v=_pftSvHpqMM HTTP/1.1" 200 None
+2022-12-31 15:46:46,898 FAILED VideoID:_pftSvHpqMM - Could not scrape
+2022-12-31 15:46:52,901 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:46:53,014 https://www.youtube.com:443 "GET /watch?v=7-6zb_Jj2Jc HTTP/1.1" 200 None
+2022-12-31 15:46:53,304 FAILED VideoID:7-6zb_Jj2Jc - Could not scrape
+2022-12-31 15:47:00,312 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:00,421 https://www.youtube.com:443 "GET /watch?v=rt7MQ-jJTjU HTTP/1.1" 200 None
+2022-12-31 15:47:00,812 FAILED VideoID:rt7MQ-jJTjU - Could not scrape
+2022-12-31 15:47:07,823 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:07,936 https://www.youtube.com:443 "GET /watch?v=dIAn3Uxj-oE HTTP/1.1" 200 None
+2022-12-31 15:47:08,325 FAILED VideoID:dIAn3Uxj-oE - Could not scrape
+2022-12-31 15:47:15,342 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:15,446 https://www.youtube.com:443 "GET /watch?v=yASdsjkUpDo HTTP/1.1" 200 None
+2022-12-31 15:47:15,790 FAILED VideoID:yASdsjkUpDo - Could not scrape
+2022-12-31 15:47:24,804 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:24,926 https://www.youtube.com:443 "GET /watch?v=1zKT448JlWc HTTP/1.1" 200 None
+2022-12-31 15:47:25,258 FAILED VideoID:1zKT448JlWc - Could not scrape
+2022-12-31 15:47:31,261 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:31,364 https://www.youtube.com:443 "GET /watch?v=Y9fixi1fh8E HTTP/1.1" 200 None
+2022-12-31 15:47:31,720 FAILED VideoID:Y9fixi1fh8E - Could not scrape
+2022-12-31 15:47:41,732 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:41,842 https://www.youtube.com:443 "GET /watch?v=nqdI0fYfXFc HTTP/1.1" 200 None
+2022-12-31 15:47:42,128 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:42,243 https://www.youtube.com:443 "GET /api/timedtext?v=nqdI0fYfXFc&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544863&sparams=ip,ipbits,expire,v,caps,xoaf&signature=9044AC2D56C43413FEF160696303CB2080621456.2A7660012A606D93E11A5722563086D241B55912&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:47:42,273 SCRAPED VideoID:nqdI0fYfXFc - Success
+2022-12-31 15:47:47,284 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:47,393 https://www.youtube.com:443 "GET /watch?v=UO7FlZ9Gikw HTTP/1.1" 200 None
+2022-12-31 15:47:47,757 FAILED VideoID:UO7FlZ9Gikw - Could not scrape
+2022-12-31 15:47:57,764 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:57,889 https://www.youtube.com:443 "GET /watch?v=osW4qI1OXnU HTTP/1.1" 200 None
+2022-12-31 15:47:58,203 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:47:58,321 https://www.youtube.com:443 "GET /api/timedtext?v=osW4qI1OXnU&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544879&sparams=ip,ipbits,expire,v,caps,xoaf&signature=887A15EF26E1573A81B8167565C81853A041F9C7.76438B83692A34A2565B9D512576E50558F38236&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:47:58,350 SCRAPED VideoID:osW4qI1OXnU - Success
+2022-12-31 15:48:06,361 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:06,481 https://www.youtube.com:443 "GET /watch?v=_WAGakD9klk HTTP/1.1" 200 None
+2022-12-31 15:48:06,846 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:06,991 https://www.youtube.com:443 "GET /api/timedtext?v=_WAGakD9klk&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544888&sparams=ip,ipbits,expire,v,caps,xoaf&signature=5BD0F5F785CE3B283F89518D3B0C51F20839C306.1D0AF7D8194605223EAB098FBD1D9FFAE45F143F&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:48:07,040 SCRAPED VideoID:_WAGakD9klk - Success
+2022-12-31 15:48:17,043 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:17,163 https://www.youtube.com:443 "GET /watch?v=sq2EltoVZ3E HTTP/1.1" 200 None
+2022-12-31 15:48:17,476 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:17,586 https://www.youtube.com:443 "GET /api/timedtext?v=sq2EltoVZ3E&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544898&sparams=ip,ipbits,expire,v,caps,xoaf&signature=9C527926EA2900368FE2D6545CBE3814A480603A.C084EE8F42BA9C96F406372773668A120DBB0784&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:48:17,610 SCRAPED VideoID:sq2EltoVZ3E - Success
+2022-12-31 15:48:25,628 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:25,739 https://www.youtube.com:443 "GET /watch?v=11t4toF0sN0 HTTP/1.1" 200 None
+2022-12-31 15:48:26,340 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:26,500 https://www.youtube.com:443 "GET /api/timedtext?v=11t4toF0sN0&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544907&sparams=ip,ipbits,expire,v,caps,xoaf&signature=7EE0707BA2155179623132747A26BFF5957846B3.EF42E5F6279F75B11DB17FBB44297966FFB6BF8E&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:48:26,556 SCRAPED VideoID:11t4toF0sN0 - Success
+2022-12-31 15:48:35,572 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:35,678 https://www.youtube.com:443 "GET /watch?v=nDYH963z1p0 HTTP/1.1" 200 None
+2022-12-31 15:48:36,141 FAILED VideoID:nDYH963z1p0 - Could not scrape
+2022-12-31 15:48:42,157 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:42,270 https://www.youtube.com:443 "GET /watch?v=nDYH963z1p0 HTTP/1.1" 200 None
+2022-12-31 15:48:42,607 FAILED VideoID:nDYH963z1p0 - Could not scrape
+2022-12-31 15:48:50,620 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:50,733 https://www.youtube.com:443 "GET /watch?v=TpLA7QypfP8 HTTP/1.1" 200 None
+2022-12-31 15:48:51,055 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:48:51,267 https://www.youtube.com:443 "GET /api/timedtext?v=TpLA7QypfP8&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544932&sparams=ip,ipbits,expire,v,caps,xoaf&signature=CB0043D41CAF2BD1916748867443C098180BF8E2.4A25FADF0262765C4D491185BA4BBDE1AB3D42A6&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:48:51,324 SCRAPED VideoID:TpLA7QypfP8 - Success
+2022-12-31 15:49:01,340 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:01,460 https://www.youtube.com:443 "GET /watch?v=qJia-28TSbI HTTP/1.1" 200 None
+2022-12-31 15:49:01,811 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:01,924 https://www.youtube.com:443 "GET /api/timedtext?v=qJia-28TSbI&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544943&sparams=ip,ipbits,expire,v,caps,xoaf&signature=794F3350CC7734586B8A67E03D59667FB94311A8.2058896D72B696C7EACF5EBE810ADA60F4BC6C79&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:49:01,930 SCRAPED VideoID:qJia-28TSbI - Success
+2022-12-31 15:49:11,932 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:12,041 https://www.youtube.com:443 "GET /watch?v=Mia4zhoPg-8 HTTP/1.1" 200 None
+2022-12-31 15:49:12,446 FAILED VideoID:Mia4zhoPg-8 - Could not scrape
+2022-12-31 15:49:18,455 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:18,569 https://www.youtube.com:443 "GET /watch?v=KMeGefM6D34 HTTP/1.1" 200 None
+2022-12-31 15:49:18,870 FAILED VideoID:KMeGefM6D34 - Could not scrape
+2022-12-31 15:49:26,883 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:26,999 https://www.youtube.com:443 "GET /watch?v=jmtmb7djT2Y HTTP/1.1" 200 None
+2022-12-31 15:49:27,339 FAILED VideoID:jmtmb7djT2Y - Could not scrape
+2022-12-31 15:49:34,349 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:34,490 https://www.youtube.com:443 "GET /watch?v=KiIf_zfxJi4 HTTP/1.1" 200 None
+2022-12-31 15:49:34,912 FAILED VideoID:KiIf_zfxJi4 - Could not scrape
+2022-12-31 15:49:43,922 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:44,042 https://www.youtube.com:443 "GET /watch?v=fIoVTi4XC1M HTTP/1.1" 200 None
+2022-12-31 15:49:44,343 FAILED VideoID:fIoVTi4XC1M - Could not scrape
+2022-12-31 15:49:50,350 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:50,461 https://www.youtube.com:443 "GET /watch?v=-AuAwuXXCBU HTTP/1.1" 200 None
+2022-12-31 15:49:50,746 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:50,878 https://www.youtube.com:443 "GET /api/timedtext?v=-AuAwuXXCBU&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544992&sparams=ip,ipbits,expire,v,caps,xoaf&signature=B6543166F8161D663BAFE9DAC41617D357C9C4B9.67AFD9CE31B2A7B1FD7C7581845A4165B7BF2B67&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:49:50,916 SCRAPED VideoID:-AuAwuXXCBU - Success
+2022-12-31 15:49:57,919 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:58,023 https://www.youtube.com:443 "GET /watch?v=O0Ea5cS4QwE HTTP/1.1" 200 None
+2022-12-31 15:49:58,377 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:49:58,493 https://www.youtube.com:443 "GET /api/timedtext?v=O0Ea5cS4QwE&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672544999&sparams=ip,ipbits,expire,v,caps,xoaf&signature=CD405571A62EE6A0D60E267EA500727E5454D6C9.E513CE35EF6EE51B1771771DE59F809322FEC31A&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:49:58,533 SCRAPED VideoID:O0Ea5cS4QwE - Success
+2022-12-31 15:50:07,535 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:07,647 https://www.youtube.com:443 "GET /watch?v=yLI8xnwkj4U HTTP/1.1" 200 None
+2022-12-31 15:50:07,946 FAILED VideoID:yLI8xnwkj4U - Could not scrape
+2022-12-31 15:50:13,958 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:14,072 https://www.youtube.com:443 "GET /watch?v=zMyKsnjYZTI HTTP/1.1" 200 None
+2022-12-31 15:50:14,382 FAILED VideoID:zMyKsnjYZTI - Could not scrape
+2022-12-31 15:50:19,386 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:19,502 https://www.youtube.com:443 "GET /watch?v=QNiHZGX550c HTTP/1.1" 200 None
+2022-12-31 15:50:19,810 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:19,954 https://www.youtube.com:443 "GET /api/timedtext?v=QNiHZGX550c&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672545021&sparams=ip,ipbits,expire,v,caps,xoaf&signature=2F9BB3F334487BE46E0875BFEECD282DA12376EC.A176A822CC2769981B9773B714AB1FF1CF96ECC5&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:50:20,000 SCRAPED VideoID:QNiHZGX550c - Success
+2022-12-31 15:50:25,015 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:25,127 https://www.youtube.com:443 "GET /watch?v=zL9TD9GvU2o HTTP/1.1" 200 None
+2022-12-31 15:50:25,468 FAILED VideoID:zL9TD9GvU2o - Could not scrape
+2022-12-31 15:50:34,482 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:34,594 https://www.youtube.com:443 "GET /watch?v=96dMj4pf2-I HTTP/1.1" 200 None
+2022-12-31 15:50:34,909 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:35,022 https://www.youtube.com:443 "GET /api/timedtext?v=96dMj4pf2-I&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672545036&sparams=ip,ipbits,expire,v,caps,xoaf&signature=BD26C5E3040582A5877DF81D4092C2BC5AAD8B29.1071BC7CADB1B337D0939B3096F6710F91529EA0&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:50:35,053 SCRAPED VideoID:96dMj4pf2-I - Success
+2022-12-31 15:50:42,062 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:42,168 https://www.youtube.com:443 "GET /watch?v=X9lMxn_SDps HTTP/1.1" 200 None
+2022-12-31 15:50:42,513 FAILED VideoID:X9lMxn_SDps - Could not scrape
+2022-12-31 15:50:48,516 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:48,627 https://www.youtube.com:443 "GET /watch?v=FEEzQ5Kaqqo HTTP/1.1" 200 None
+2022-12-31 15:50:48,967 FAILED VideoID:FEEzQ5Kaqqo - Could not scrape
+2022-12-31 15:50:57,982 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:58,102 https://www.youtube.com:443 "GET /watch?v=59oTDSgemtE HTTP/1.1" 200 None
+2022-12-31 15:50:58,426 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 15:50:58,563 https://www.youtube.com:443 "GET /api/timedtext?v=59oTDSgemtE&caps=asr&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1672545059&sparams=ip,ipbits,expire,v,caps,xoaf&signature=3A0F173DA060F3848C588FD0D944438C183D120E.B5DEBE3215066ECF35D4D986B2D40C201B471E13&key=yt8&kind=asr&lang=en HTTP/1.1" 200 None
+2022-12-31 15:50:58,613 SCRAPED VideoID:59oTDSgemtE - Success
