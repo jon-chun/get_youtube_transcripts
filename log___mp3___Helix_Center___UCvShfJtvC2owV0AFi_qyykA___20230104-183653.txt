@@ -1,0 +1,329 @@
+2023-01-04 18:37:00,620 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:37:01,493 applying descrambler
+2023-01-04 18:37:01,494 finding initial function name
+2023-01-04 18:37:01,495 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:37:01,495 Could not parse object.
+2023-01-04 18:37:01,511 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:37:01,785 finding initial function name
+2023-01-04 18:37:01,879 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:37:01,879 getting transform plan
+2023-01-04 18:37:01,879 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:37:01,879 getting transform object
+2023-01-04 18:37:01,879 Finding throttling function name
+2023-01-04 18:37:01,894 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:01,897 Finding throttling function name
+2023-01-04 18:37:01,898 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,901 signature found, skip decipher
+2023-01-04 18:37:01,902 downloading (32685726 total bytes) file to c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\Living in Difficult Times.mp4
+2023-01-04 18:37:02,206 download remaining: 23248542
+2023-01-04 18:37:02,522 download remaining: 13811358
+2023-01-04 18:37:02,767 download remaining: 4374174
+2023-01-04 18:37:02,924 download remaining: 0
+2023-01-04 18:37:02,924 download finished
+2023-01-04 18:37:02,924 FAILED VideoID:WG3Rzp1AUSs - Could not scrape
+2023-01-04 18:37:08,931 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:37:09,681 applying descrambler
+2023-01-04 18:37:09,682 finding initial function name
+2023-01-04 18:37:09,682 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:37:09,682 Could not parse object.
+2023-01-04 18:37:09,698 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:37:09,698 finding initial function name
+2023-01-04 18:37:09,805 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:37:09,805 getting transform plan
+2023-01-04 18:37:09,806 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:37:09,806 getting transform object
+2023-01-04 18:37:09,807 Finding throttling function name
+2023-01-04 18:37:09,807 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:09,810 Finding throttling function name
+2023-01-04 18:37:09,810 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,813 signature found, skip decipher
+2023-01-04 18:37:09,814 file c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\Coding and the New Human Phenotype Is the Universe a Metaverse.mp4 already exists, skipping
+2023-01-04 18:37:09,814 download finished
+2023-01-04 18:37:09,814 FAILED VideoID:gw2GjssUafs - Could not scrape
+2023-01-04 18:37:14,819 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:37:15,615 applying descrambler
+2023-01-04 18:37:15,616 finding initial function name
+2023-01-04 18:37:15,616 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:37:15,616 Could not parse object.
+2023-01-04 18:37:15,634 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:37:15,634 finding initial function name
+2023-01-04 18:37:15,746 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:37:15,746 getting transform plan
+2023-01-04 18:37:15,746 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:37:15,746 getting transform object
+2023-01-04 18:37:15,747 Finding throttling function name
+2023-01-04 18:37:15,748 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:15,750 Finding throttling function name
+2023-01-04 18:37:15,751 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:15,753 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,754 signature found, skip decipher
+2023-01-04 18:37:15,755 file c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\Coding and the New Human Phenotype Are Natural Language Generators for Real.mp4 already exists, skipping
+2023-01-04 18:37:15,755 download finished
+2023-01-04 18:37:15,755 FAILED VideoID:LwIvfQBE9bk - Could not scrape
+2023-01-04 18:37:22,769 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:37:23,530 applying descrambler
+2023-01-04 18:37:23,530 finding initial function name
+2023-01-04 18:37:23,530 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:37:23,531 Could not parse object.
+2023-01-04 18:37:23,537 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:37:23,537 finding initial function name
+2023-01-04 18:37:23,650 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:37:23,651 getting transform plan
+2023-01-04 18:37:23,651 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:37:23,651 getting transform object
+2023-01-04 18:37:23,652 Finding throttling function name
+2023-01-04 18:37:23,652 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:23,656 Finding throttling function name
+2023-01-04 18:37:23,658 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:23,660 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 signature found, skip decipher
+2023-01-04 18:37:23,661 file c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\Coding and the Human Phenotype Coding Fiction Metafiction – the Parcellation of What Isn’t There.mp4 already exists, skipping
+2023-01-04 18:37:23,661 download finished
+2023-01-04 18:37:23,662 FAILED VideoID:khY3pjDzqLs - Could not scrape
+2023-01-04 18:37:29,667 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:37:30,450 applying descrambler
+2023-01-04 18:37:30,451 finding initial function name
+2023-01-04 18:37:30,452 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:37:30,452 Could not parse object.
+2023-01-04 18:37:30,476 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:37:30,476 finding initial function name
+2023-01-04 18:37:30,583 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:37:30,583 getting transform plan
+2023-01-04 18:37:30,583 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:37:30,583 getting transform object
+2023-01-04 18:37:30,583 Finding throttling function name
+2023-01-04 18:37:30,583 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:30,583 Finding throttling function name
+2023-01-04 18:37:30,583 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 signature found, skip decipher
+2023-01-04 18:37:30,599 file c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\Coding and the Human Phenotype Manipulated Perception Fakery Authenticity and the Birth of NFTs.mp4 already exists, skipping
+2023-01-04 18:37:30,599 download finished
+2023-01-04 18:37:30,599 FAILED VideoID:vCHvPQt-ABc - Could not scrape
+2023-01-04 18:37:37,617 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:37:38,365 applying descrambler
+2023-01-04 18:37:38,366 finding initial function name
+2023-01-04 18:37:38,366 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:37:38,366 Could not parse object.
+2023-01-04 18:37:38,382 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:37:38,382 finding initial function name
+2023-01-04 18:37:38,488 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:37:38,488 getting transform plan
+2023-01-04 18:37:38,488 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:37:38,488 getting transform object
+2023-01-04 18:37:38,489 Finding throttling function name
+2023-01-04 18:37:38,490 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:38,492 Finding throttling function name
+2023-01-04 18:37:38,493 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,495 signature found, skip decipher
+2023-01-04 18:37:38,496 signature found, skip decipher
+2023-01-04 18:37:38,496 signature found, skip decipher
+2023-01-04 18:37:38,496 downloading (40948315 total bytes) file to c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\Coding and the New Phenotype In Search for Lost Time.mp4
+2023-01-04 18:37:38,786 download remaining: 31511131
+2023-01-04 18:37:39,034 download remaining: 22073947
+2023-01-04 18:37:39,432 download remaining: 12636763
+2023-01-04 18:37:39,994 download remaining: 3199579
+2023-01-04 18:37:40,158 download remaining: 0
+2023-01-04 18:37:40,158 download finished
+2023-01-04 18:37:40,159 FAILED VideoID:gFVql_pcUe0 - Could not scrape
+2023-01-04 18:37:47,164 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:37:48,016 applying descrambler
+2023-01-04 18:37:48,018 finding initial function name
+2023-01-04 18:37:48,018 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:37:48,018 Could not parse object.
+2023-01-04 18:37:48,035 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:37:48,035 finding initial function name
+2023-01-04 18:37:48,140 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:37:48,140 getting transform plan
+2023-01-04 18:37:48,140 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:37:48,140 getting transform object
+2023-01-04 18:37:48,141 Finding throttling function name
+2023-01-04 18:37:48,142 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:48,144 Finding throttling function name
+2023-01-04 18:37:48,145 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,147 signature found, skip decipher
+2023-01-04 18:37:48,148 downloading (43204555 total bytes) file to c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\Metaphysics.mp4
+2023-01-04 18:37:48,803 download remaining: 33767371
+2023-01-04 18:37:49,272 download remaining: 24330187
+2023-01-04 18:37:49,765 download remaining: 14893003
+2023-01-04 18:37:50,280 download remaining: 5455819
+2023-01-04 18:37:50,520 download remaining: 0
+2023-01-04 18:37:50,521 download finished
+2023-01-04 18:37:50,522 FAILED VideoID:DjvndGUlncw - Could not scrape
+2023-01-04 18:37:56,525 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:37:57,301 applying descrambler
+2023-01-04 18:37:57,302 finding initial function name
+2023-01-04 18:37:57,303 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:37:57,303 Could not parse object.
+2023-01-04 18:37:57,321 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:37:57,321 finding initial function name
+2023-01-04 18:37:57,423 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:37:57,424 getting transform plan
+2023-01-04 18:37:57,424 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:37:57,424 getting transform object
+2023-01-04 18:37:57,424 Finding throttling function name
+2023-01-04 18:37:57,425 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:57,428 Finding throttling function name
+2023-01-04 18:37:57,428 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 signature found, skip decipher
+2023-01-04 18:37:57,431 downloading (44149228 total bytes) file to c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\Psychedelics.mp4
+2023-01-04 18:37:59,018 download remaining: 34712044
+2023-01-04 18:38:00,384 download remaining: 25274860
+2023-01-04 18:38:01,323 download remaining: 15837676
+2023-01-04 18:38:02,568 download remaining: 6400492
+2023-01-04 18:38:03,388 download remaining: 0
+2023-01-04 18:38:03,388 download finished
+2023-01-04 18:38:03,390 FAILED VideoID:B2KkHTxrHGM - Could not scrape
+2023-01-04 18:38:12,404 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:38:13,220 applying descrambler
+2023-01-04 18:38:13,221 finding initial function name
+2023-01-04 18:38:13,222 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:38:13,222 Could not parse object.
+2023-01-04 18:38:13,239 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:38:13,239 finding initial function name
+2023-01-04 18:38:13,345 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:38:13,345 getting transform plan
+2023-01-04 18:38:13,346 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:38:13,346 getting transform object
+2023-01-04 18:38:13,347 Finding throttling function name
+2023-01-04 18:38:13,347 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:38:13,350 Finding throttling function name
+2023-01-04 18:38:13,350 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,353 signature found, skip decipher
+2023-01-04 18:38:13,354 downloading (40460207 total bytes) file to c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\People & Things in Motion Economics and the Future.mp4
+2023-01-04 18:38:15,597 download remaining: 31023023
+2023-01-04 18:38:17,434 download remaining: 21585839
+2023-01-04 18:38:19,343 download remaining: 12148655
+2023-01-04 18:38:20,775 download remaining: 2711471
+2023-01-04 18:38:21,038 download remaining: 0
+2023-01-04 18:38:21,039 download finished
+2023-01-04 18:38:21,040 FAILED VideoID:78cAeP1bmVA - Could not scrape
+2023-01-04 18:38:30,040 matched regex search: (?:v=|\/)([0-9A-Za-z_-]{11}).*
+2023-01-04 18:38:30,857 applying descrambler
+2023-01-04 18:38:30,857 finding initial function name
+2023-01-04 18:38:30,857 Pattern failed: ytplayer\.config\s*=\s*
+2023-01-04 18:38:30,857 Could not parse object.
+2023-01-04 18:38:30,873 finished regex search, matched: (/s/player/[\w\d]+/[\w\d_/.]+/base\.js)
+2023-01-04 18:38:30,873 finding initial function name
+2023-01-04 18:38:30,991 finished regex search, matched: (?:\b|[^a-zA-Z0-9$])(?P<sig>[a-zA-Z0-9$]{2})\s*=\s*function\(\s*a\s*\)\s*{\s*a\s*=\s*a\.split\(\s*""\s*\)
+2023-01-04 18:38:30,991 getting transform plan
+2023-01-04 18:38:30,991 matched regex search: sa=function\(\w\){[a-z=\.\(\"\)]*;(.*);(?:.+)}
+2023-01-04 18:38:30,991 getting transform object
+2023-01-04 18:38:30,992 Finding throttling function name
+2023-01-04 18:38:30,992 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:38:30,995 Finding throttling function name
+2023-01-04 18:38:30,996 finished regex search, matched: a\.[a-zA-Z]\s*&&\s*\([a-z]\s*=\s*a\.get\("n"\)\)\s*&&\s*\([a-z]\s*=\s*([a-zA-Z0-9$]+)(\[\d+\])?\([a-z]\)
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 signature found, skip decipher
+2023-01-04 18:38:30,999 downloading (42716288 total bytes) file to c:\Users\jonch\code\get_youtube_transcripts\data__mp3___Helix_Center___UCvShfJtvC2owV0AFi_qyykA\Designer Genes.mp4
+2023-01-04 18:38:32,075 download remaining: 33279104
+2023-01-04 18:38:32,991 download remaining: 23841920
+2023-01-04 18:38:33,900 download remaining: 14404736
+2023-01-04 18:38:34,773 download remaining: 4967552
+2023-01-04 18:38:35,122 download remaining: 0
+2023-01-04 18:38:35,122 download finished
+2023-01-04 18:38:35,123 FAILED VideoID:TXuUdV2UL_0 - Could not scrape

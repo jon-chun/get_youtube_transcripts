@@ -103,3 +103,116 @@
 2022-12-31 16:01:11,066 Starting new HTTPS connection (1): www.youtube.com:443
 2022-12-31 16:01:11,187 https://www.youtube.com:443 "GET /watch?v=llK2uRqtrdI HTTP/1.1" 200 None
 2022-12-31 16:01:11,528 FAILED VideoID:llK2uRqtrdI - Could not scrape
+2022-12-31 16:01:19,542 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:01:19,658 https://www.youtube.com:443 "GET /watch?v=rifKjr_3QvM HTTP/1.1" 200 None
+2022-12-31 16:01:19,975 FAILED VideoID:rifKjr_3QvM - Could not scrape
+2022-12-31 16:01:28,982 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:01:29,145 https://www.youtube.com:443 "GET /watch?v=WXip39NrMSQ HTTP/1.1" 200 None
+2022-12-31 16:01:29,551 FAILED VideoID:WXip39NrMSQ - Could not scrape
+2022-12-31 16:01:38,566 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:01:38,686 https://www.youtube.com:443 "GET /watch?v=WoOhIKlkAiI HTTP/1.1" 200 None
+2022-12-31 16:01:38,991 FAILED VideoID:WoOhIKlkAiI - Could not scrape
+2022-12-31 16:01:38,992 SKIPPED VideoID:NA_4RoP9u2E - Already exists
+2022-12-31 16:01:38,992 SKIPPED VideoID:d3cSfgfZc18 - Already exists
+2022-12-31 16:01:44,005 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:01:44,117 https://www.youtube.com:443 "GET /watch?v=7ILsk4RZ0i8 HTTP/1.1" 200 None
+2022-12-31 16:01:44,485 FAILED VideoID:7ILsk4RZ0i8 - Could not scrape
+2022-12-31 16:01:44,485 SKIPPED VideoID:vKqHyRj5v3w - Already exists
+2022-12-31 16:01:53,500 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:01:53,614 https://www.youtube.com:443 "GET /watch?v=w9OyeYxdi1Y HTTP/1.1" 200 None
+2022-12-31 16:01:53,946 FAILED VideoID:w9OyeYxdi1Y - Could not scrape
+2022-12-31 16:02:02,957 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:02:03,066 https://www.youtube.com:443 "GET /watch?v=HA6F4rcv2es HTTP/1.1" 200 None
+2022-12-31 16:02:03,464 FAILED VideoID:HA6F4rcv2es - Could not scrape
+2022-12-31 16:02:09,474 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:02:09,584 https://www.youtube.com:443 "GET /watch?v=nT0scDrB-Qw HTTP/1.1" 200 None
+2022-12-31 16:02:09,899 FAILED VideoID:nT0scDrB-Qw - Could not scrape
+2022-12-31 16:02:17,900 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:02:18,014 https://www.youtube.com:443 "GET /watch?v=9XNV9hgPdEc HTTP/1.1" 200 None
+2022-12-31 16:02:18,394 FAILED VideoID:9XNV9hgPdEc - Could not scrape
+2022-12-31 16:02:23,399 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:02:23,510 https://www.youtube.com:443 "GET /watch?v=aGzlvI1R64c HTTP/1.1" 200 None
+2022-12-31 16:02:23,884 FAILED VideoID:aGzlvI1R64c - Could not scrape
+2022-12-31 16:02:29,898 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:02:30,004 https://www.youtube.com:443 "GET /watch?v=5SQ1Vpc8TFE HTTP/1.1" 200 None
+2022-12-31 16:02:30,414 FAILED VideoID:5SQ1Vpc8TFE - Could not scrape
+2022-12-31 16:02:40,442 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:02:40,648 https://www.youtube.com:443 "GET /watch?v=5rDxNjouzdg HTTP/1.1" 200 None
+2022-12-31 16:02:41,003 FAILED VideoID:5rDxNjouzdg - Could not scrape
+2022-12-31 16:02:49,028 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:02:49,216 https://www.youtube.com:443 "GET /watch?v=XkOZKCAYKdg HTTP/1.1" 200 None
+2022-12-31 16:02:49,564 FAILED VideoID:XkOZKCAYKdg - Could not scrape
+2022-12-31 16:02:49,568 SKIPPED VideoID:5CjbPI0fVm0 - Already exists
+2022-12-31 16:02:49,568 SKIPPED VideoID:UOlp0dYF9k4 - Already exists
+2022-12-31 16:02:57,583 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:02:57,782 https://www.youtube.com:443 "GET /watch?v=_pftSvHpqMM HTTP/1.1" 200 None
+2022-12-31 16:02:58,063 FAILED VideoID:_pftSvHpqMM - Could not scrape
+2022-12-31 16:03:05,078 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:03:05,263 https://www.youtube.com:443 "GET /watch?v=7-6zb_Jj2Jc HTTP/1.1" 200 None
+2022-12-31 16:03:05,623 FAILED VideoID:7-6zb_Jj2Jc - Could not scrape
+2022-12-31 16:03:13,642 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:03:13,815 https://www.youtube.com:443 "GET /watch?v=rt7MQ-jJTjU HTTP/1.1" 200 None
+2022-12-31 16:03:14,167 FAILED VideoID:rt7MQ-jJTjU - Could not scrape
+2022-12-31 16:03:19,176 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:03:19,308 https://www.youtube.com:443 "GET /watch?v=dIAn3Uxj-oE HTTP/1.1" 200 None
+2022-12-31 16:03:19,662 FAILED VideoID:dIAn3Uxj-oE - Could not scrape
+2022-12-31 16:03:28,675 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:03:28,793 https://www.youtube.com:443 "GET /watch?v=yASdsjkUpDo HTTP/1.1" 200 None
+2022-12-31 16:03:29,357 FAILED VideoID:yASdsjkUpDo - Could not scrape
+2022-12-31 16:03:37,362 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:03:37,518 https://www.youtube.com:443 "GET /watch?v=1zKT448JlWc HTTP/1.1" 200 None
+2022-12-31 16:03:37,802 FAILED VideoID:1zKT448JlWc - Could not scrape
+2022-12-31 16:03:42,806 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:03:42,952 https://www.youtube.com:443 "GET /watch?v=Y9fixi1fh8E HTTP/1.1" 200 None
+2022-12-31 16:03:43,282 FAILED VideoID:Y9fixi1fh8E - Could not scrape
+2022-12-31 16:03:43,282 SKIPPED VideoID:nqdI0fYfXFc - Already exists
+2022-12-31 16:03:50,295 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:03:50,407 https://www.youtube.com:443 "GET /watch?v=UO7FlZ9Gikw HTTP/1.1" 200 None
+2022-12-31 16:03:50,732 FAILED VideoID:UO7FlZ9Gikw - Could not scrape
+2022-12-31 16:03:50,732 SKIPPED VideoID:osW4qI1OXnU - Already exists
+2022-12-31 16:03:50,732 SKIPPED VideoID:_WAGakD9klk - Already exists
+2022-12-31 16:03:50,739 SKIPPED VideoID:sq2EltoVZ3E - Already exists
+2022-12-31 16:03:50,739 SKIPPED VideoID:11t4toF0sN0 - Already exists
+2022-12-31 16:03:56,746 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:03:56,862 https://www.youtube.com:443 "GET /watch?v=nDYH963z1p0 HTTP/1.1" 200 None
+2022-12-31 16:03:57,239 FAILED VideoID:nDYH963z1p0 - Could not scrape
+2022-12-31 16:04:06,240 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:04:06,352 https://www.youtube.com:443 "GET /watch?v=nDYH963z1p0 HTTP/1.1" 200 None
+2022-12-31 16:04:06,692 FAILED VideoID:nDYH963z1p0 - Could not scrape
+2022-12-31 16:04:06,692 SKIPPED VideoID:TpLA7QypfP8 - Already exists
+2022-12-31 16:04:06,692 SKIPPED VideoID:qJia-28TSbI - Already exists
+2022-12-31 16:04:14,695 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:04:14,806 https://www.youtube.com:443 "GET /watch?v=Mia4zhoPg-8 HTTP/1.1" 200 None
+2022-12-31 16:04:15,076 FAILED VideoID:Mia4zhoPg-8 - Could not scrape
+2022-12-31 16:04:22,078 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:04:22,192 https://www.youtube.com:443 "GET /watch?v=KMeGefM6D34 HTTP/1.1" 200 None
+2022-12-31 16:04:22,492 FAILED VideoID:KMeGefM6D34 - Could not scrape
+2022-12-31 16:04:32,506 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:04:32,621 https://www.youtube.com:443 "GET /watch?v=jmtmb7djT2Y HTTP/1.1" 200 None
+2022-12-31 16:04:33,186 FAILED VideoID:jmtmb7djT2Y - Could not scrape
+2022-12-31 16:04:41,201 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:04:41,301 https://www.youtube.com:443 "GET /watch?v=KiIf_zfxJi4 HTTP/1.1" 200 None
+2022-12-31 16:04:41,615 FAILED VideoID:KiIf_zfxJi4 - Could not scrape
+2022-12-31 16:04:47,632 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:04:47,743 https://www.youtube.com:443 "GET /watch?v=fIoVTi4XC1M HTTP/1.1" 200 None
+2022-12-31 16:04:48,038 FAILED VideoID:fIoVTi4XC1M - Could not scrape
+2022-12-31 16:04:48,038 SKIPPED VideoID:-AuAwuXXCBU - Already exists
+2022-12-31 16:04:48,038 SKIPPED VideoID:O0Ea5cS4QwE - Already exists
+2022-12-31 16:04:56,039 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:04:56,161 https://www.youtube.com:443 "GET /watch?v=yLI8xnwkj4U HTTP/1.1" 200 None
+2022-12-31 16:04:56,471 FAILED VideoID:yLI8xnwkj4U - Could not scrape
+2022-12-31 16:05:03,478 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:05:03,651 https://www.youtube.com:443 "GET /watch?v=zMyKsnjYZTI HTTP/1.1" 200 None
+2022-12-31 16:05:03,925 FAILED VideoID:zMyKsnjYZTI - Could not scrape
+2022-12-31 16:05:03,925 SKIPPED VideoID:QNiHZGX550c - Already exists
+2022-12-31 16:05:11,934 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:05:12,051 https://www.youtube.com:443 "GET /watch?v=zL9TD9GvU2o HTTP/1.1" 200 None
+2022-12-31 16:05:12,382 FAILED VideoID:zL9TD9GvU2o - Could not scrape
+2022-12-31 16:05:12,382 SKIPPED VideoID:96dMj4pf2-I - Already exists
+2022-12-31 16:05:22,391 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:05:22,503 https://www.youtube.com:443 "GET /watch?v=X9lMxn_SDps HTTP/1.1" 200 None
+2022-12-31 16:05:22,877 FAILED VideoID:X9lMxn_SDps - Could not scrape
+2022-12-31 16:05:30,890 Starting new HTTPS connection (1): www.youtube.com:443
+2022-12-31 16:05:31,010 https://www.youtube.com:443 "GET /watch?v=FEEzQ5Kaqqo HTTP/1.1" 200 None
+2022-12-31 16:05:31,292 FAILED VideoID:FEEzQ5Kaqqo - Could not scrape
+2022-12-31 16:05:31,292 SKIPPED VideoID:59oTDSgemtE - Already exists
