@@ -1,0 +1,7712 @@
+1
+00:00:00,000 --> 00:00:00,980
+I'm just going to go through my
+
+2
+00:00:00,980 --> 00:00:02,980
+Oh, you're still going to start periods.
+
+3
+00:00:03,980 --> 00:00:04,820
+And...
+
+4
+00:00:04,820 --> 00:00:06,140
+But you still need a serious attempt.
+
+5
+00:00:06,140 --> 00:00:07,700
+You still need a serious attempt.
+
+6
+00:00:07,700 --> 00:00:09,980
+Well, sometimes I'll be yes.
+
+7
+00:00:16,860 --> 00:00:18,620
+All right, I hope you don't.
+
+8
+00:00:18,620 --> 00:00:21,300
+Okay, good morning everyone.
+
+9
+00:00:21,300 --> 00:00:22,780
+Hi, good morning everyone.
+
+10
+00:00:22,780 --> 00:00:25,260
+Welcome back to Hillock Center.
+
+11
+00:00:25,260 --> 00:00:28,860
+This is round table number four in our series
+
+12
+00:00:28,860 --> 00:00:31,740
+on coding in the new human phenotype.
+
+13
+00:00:31,740 --> 00:00:35,820
+The topic for today's talk is our natural language
+
+14
+00:00:35,820 --> 00:00:37,620
+generators for real.
+
+15
+00:00:37,620 --> 00:00:42,740
+We've got to have a wonderful panel of experts
+
+16
+00:00:42,740 --> 00:00:45,300
+that talk to us about this and talk us through this.
+
+17
+00:00:46,300 --> 00:00:49,660
+If you didn't see any of the three talks from yesterday,
+
+18
+00:00:49,660 --> 00:00:53,500
+I really do recommend you take a look at them on YouTube
+
+19
+00:00:53,500 --> 00:00:58,260
+where if you look up Hillock Center, you'll find them.
+
+20
+00:00:58,260 --> 00:01:00,420
+They really were terrific.
+
+21
+00:01:00,420 --> 00:01:04,220
+So I want to, without further ado, go on and give a brief
+
+22
+00:01:04,220 --> 00:01:08,220
+bio of each of our esteemed panelists.
+
+23
+00:01:08,220 --> 00:01:11,580
+First, Francesca Rossi is an IBM fellow
+
+24
+00:01:11,580 --> 00:01:15,140
+and the IBM AI ethics global leader.
+
+25
+00:01:15,140 --> 00:01:19,740
+She is based at the TJ Watson IBM research lab in New York
+
+26
+00:01:19,740 --> 00:01:22,200
+where she leads AI research projects.
+
+27
+00:01:22,200 --> 00:01:25,380
+She co-chairs the IBM AI ethics board
+
+28
+00:01:25,380 --> 00:01:28,940
+and she participates in many global multi-stakeholder
+
+29
+00:01:28,940 --> 00:01:33,660
+initiatives on AI ethics such as the partnership on AI,
+
+30
+00:01:33,660 --> 00:01:37,780
+the World Economic Forum, the United Nations ITU AI
+
+31
+00:01:37,780 --> 00:01:42,180
+for Good Summit and the Global Partnership on AI.
+
+32
+00:01:42,180 --> 00:01:46,300
+She is the president of AAI, the worldwide association
+
+33
+00:01:46,300 --> 00:01:48,860
+of AI researchers.
+
+34
+00:01:50,660 --> 00:01:54,140
+Dennis Yitenen is an associate professor of English
+
+35
+00:01:54,140 --> 00:01:57,260
+and comparative literature at Columbia University.
+
+36
+00:01:57,260 --> 00:01:59,940
+His teaching of research happened at the intersection
+
+37
+00:01:59,940 --> 00:02:02,740
+of people, texts and technologies.
+
+38
+00:02:02,740 --> 00:02:06,500
+A long time affiliate of Columbia's Data Science Institute
+
+39
+00:02:06,500 --> 00:02:11,020
+and formerly a Microsoft engineer and a Berkman Center
+
+40
+00:02:11,020 --> 00:02:15,580
+for Internet and Society fellow, his code runs on millions
+
+41
+00:02:15,580 --> 00:02:18,140
+of personal computers worldwide.
+
+42
+00:02:18,140 --> 00:02:20,820
+Tenon received his doctorate in comparative literature
+
+43
+00:02:20,820 --> 00:02:23,380
+at Harvard University under the advisement
+
+44
+00:02:23,380 --> 00:02:27,100
+of Professor Elaine Skari and William Todd,
+
+45
+00:02:27,100 --> 00:02:30,100
+a co-founder of Columbia's group for experimental methods
+
+46
+00:02:30,100 --> 00:02:32,980
+and UNS that research and the editor
+
+47
+00:02:32,980 --> 00:02:37,500
+of the On Method book series at Columbia University Press.
+
+48
+00:02:37,500 --> 00:02:40,020
+He is the author of plain text, The Poetics
+
+49
+00:02:40,020 --> 00:02:44,220
+of Computation 2017.
+
+50
+00:02:44,220 --> 00:02:48,100
+Kyung Young Cho is an associate professor of computer science
+
+51
+00:02:48,100 --> 00:02:52,380
+and data science at New York University and CIFAR
+
+52
+00:02:52,380 --> 00:02:55,580
+fellow of learning in machines and brains.
+
+53
+00:02:55,580 --> 00:02:58,700
+He is also a senior director of frontier research
+
+54
+00:02:58,700 --> 00:03:02,740
+at the prescient design team within Genentech research
+
+55
+00:03:02,740 --> 00:03:05,540
+and early development.
+
+56
+00:03:05,540 --> 00:03:09,060
+He was a research scientist at Facebook AI research
+
+57
+00:03:09,060 --> 00:03:13,980
+from June 2017 to May 2020 and a postdoctoral fellow
+
+58
+00:03:13,980 --> 00:03:17,500
+at the University of Montreal until the summer of 2015
+
+59
+00:03:17,500 --> 00:03:21,380
+under the supervision of Professor Yashua Benjio
+
+60
+00:03:21,380 --> 00:03:26,220
+after receiving his PhD in MSC degrees from Alto University
+
+61
+00:03:26,220 --> 00:03:30,540
+in April 2011 and April 2014 respectively
+
+62
+00:03:30,540 --> 00:03:35,980
+under the supervision of Professor Yuhua Karhone.
+
+63
+00:03:35,980 --> 00:03:38,780
+Catherine Elkins has written over a dozen articles
+
+64
+00:03:38,780 --> 00:03:42,860
+on memory, consciousness, and embodied aesthetic experience
+
+65
+00:03:42,860 --> 00:03:46,300
+in a wide range of writers from Plato and Sappho
+
+66
+00:03:46,300 --> 00:03:48,220
+to Wordsworth and Wolf.
+
+67
+00:03:48,220 --> 00:03:52,500
+In proofs in search of lost time, philosophical perspectives,
+
+68
+00:03:52,500 --> 00:03:55,060
+she refrained proofs exploration of consciousness
+
+69
+00:03:55,060 --> 00:03:58,540
+and light of integrated information theory.
+
+70
+00:03:58,540 --> 00:04:02,820
+In the shape of stories, she used the AI software,
+
+71
+00:04:02,820 --> 00:04:06,980
+Sentiment ARCs, to develop the first robust methodology
+
+72
+00:04:06,980 --> 00:04:09,860
+for exploring the emotional arcs of stories.
+
+73
+00:04:09,860 --> 00:04:14,340
+Her audible.com lectures on the giants of French literature
+
+74
+00:04:14,340 --> 00:04:19,860
+and the modern novel have won her an international audience.
+
+75
+00:04:19,860 --> 00:04:24,540
+Noah Jean-Sirakuso, PhD in math from Brown University,
+
+76
+00:04:24,540 --> 00:04:26,860
+is an assistant professor of mathematics
+
+77
+00:04:26,860 --> 00:04:29,540
+and data science at Bentley University.
+
+78
+00:04:29,540 --> 00:04:33,100
+Noah's research interests include algebraic geometry,
+
+79
+00:04:33,100 --> 00:04:36,180
+the abstract study of systems of polynomial equations
+
+80
+00:04:36,180 --> 00:04:38,780
+in their solutions, machine learning,
+
+81
+00:04:38,780 --> 00:04:42,300
+especially topological and geometric data analysis,
+
+82
+00:04:42,300 --> 00:04:45,260
+artificial intelligence, empirical legal studies,
+
+83
+00:04:45,260 --> 00:04:47,300
+phylogenetics, and misinformation.
+
+84
+00:04:49,940 --> 00:04:53,380
+Ned Block is silver professor of philosophy,
+
+85
+00:04:53,380 --> 00:04:55,460
+psychology, and neural science.
+
+86
+00:04:55,460 --> 00:04:58,620
+Came to NYU in 1996 from MIT,
+
+87
+00:04:58,620 --> 00:05:01,340
+where he was chair of the philosophy program.
+
+88
+00:05:01,340 --> 00:05:03,860
+He works in philosophy of mind and foundations
+
+89
+00:05:03,860 --> 00:05:06,180
+of neuroscience and cognitive science
+
+90
+00:05:06,180 --> 00:05:08,780
+and is currently writing a book on attention.
+
+91
+00:05:08,780 --> 00:05:12,100
+He is a fellow of the American Academy of Arts and Sciences,
+
+92
+00:05:12,100 --> 00:05:14,860
+a fellow of the Cognitive Science Society,
+
+93
+00:05:14,860 --> 00:05:18,100
+has been a Guggenheim fellow, a senior fellow in the center
+
+94
+00:05:18,100 --> 00:05:20,340
+for the study of language and information,
+
+95
+00:05:20,340 --> 00:05:23,460
+a Sloan Foundation fellow, a faculty member
+
+96
+00:05:23,460 --> 00:05:26,420
+at two National Endowment for the Humanities Summer
+
+97
+00:05:26,420 --> 00:05:29,340
+Institutes and two Summer Seminars.
+
+98
+00:05:29,340 --> 00:05:32,140
+The recipient of fellowships from the National Endowment
+
+99
+00:05:32,140 --> 00:05:34,900
+for the Humanities, the American Council on Learning
+
+100
+00:05:34,900 --> 00:05:37,700
+Societies and the National Science Foundation,
+
+101
+00:05:37,700 --> 00:05:42,020
+and a recipient of the Robert A. Mu Alumni Award
+
+102
+00:05:42,020 --> 00:05:45,180
+in Humanities and Social Science from MIT.
+
+103
+00:05:45,180 --> 00:05:48,220
+He is a past president of the Society for Philosophy
+
+104
+00:05:48,220 --> 00:05:53,060
+and Psychology, a past chair of the MIT Press Cognitive Science
+
+105
+00:05:53,060 --> 00:05:56,100
+Board, and past president of the Association
+
+106
+00:05:56,100 --> 00:05:59,300
+for the Scientific Study of Consciousness.
+
+107
+00:05:59,300 --> 00:06:00,860
+It's quite a mouthful.
+
+108
+00:06:00,860 --> 00:06:03,060
+Anyway, speaking of mouthful, so we're
+
+109
+00:06:03,060 --> 00:06:06,300
+going to be talking today about language
+
+110
+00:06:06,300 --> 00:06:08,580
+and artificial language generator
+
+111
+00:06:08,580 --> 00:06:12,340
+and what that means for us in our near and more distant future.
+
+112
+00:06:12,340 --> 00:06:13,460
+So welcome, everyone.
+
+113
+00:06:21,700 --> 00:06:23,220
+OK, so apparently all I need to do
+
+114
+00:06:23,220 --> 00:06:25,260
+is start to say a few words, and you're
+
+115
+00:06:25,260 --> 00:06:26,300
+all going to fill in the rest.
+
+116
+00:06:29,780 --> 00:06:31,980
+The way that the natural language generators work,
+
+117
+00:06:31,980 --> 00:06:35,940
+as some of you may know, is that after giving a prompt
+
+118
+00:06:35,940 --> 00:06:38,060
+of a few words, an entire story will
+
+119
+00:06:38,060 --> 00:06:42,060
+come out like in search of long time.
+
+120
+00:06:42,060 --> 00:06:44,940
+So I wonder if any of you want to take a shot
+
+121
+00:06:44,940 --> 00:06:49,980
+at giving a general orientation to our general audience
+
+122
+00:06:49,980 --> 00:06:54,140
+about what, for example, the GPT-3 generator is
+
+123
+00:06:54,140 --> 00:06:58,340
+and what we might expect from it in its future iterations.
+
+124
+00:07:01,900 --> 00:07:05,140
+I can give you the start and then people can chime in.
+
+125
+00:07:05,140 --> 00:07:10,380
+So until a few years ago, artificial intelligence
+
+126
+00:07:10,380 --> 00:07:15,140
+was becoming very good at interpreting content
+
+127
+00:07:15,140 --> 00:07:18,620
+that we were producing, like images and text
+
+128
+00:07:18,620 --> 00:07:21,380
+and other content.
+
+129
+00:07:21,380 --> 00:07:23,820
+So natural language generators are,
+
+130
+00:07:23,820 --> 00:07:27,300
+instead, the most recent advances of AI,
+
+131
+00:07:27,300 --> 00:07:32,100
+where AI is becoming good, also at generating new content,
+
+132
+00:07:32,100 --> 00:07:34,140
+rather than just interpreting the content
+
+133
+00:07:34,140 --> 00:07:35,980
+that we are producing.
+
+134
+00:07:35,980 --> 00:07:40,500
+And in order to do that, it is, and I'm saying this,
+
+135
+00:07:40,500 --> 00:07:44,660
+content is not text because it's not limited to text,
+
+136
+00:07:44,660 --> 00:07:48,500
+but it can also be videos, it can also be images, for example,
+
+137
+00:07:48,500 --> 00:07:53,380
+so different kinds of data that is content that is generated,
+
+138
+00:07:53,380 --> 00:07:55,500
+so-called generative AI.
+
+139
+00:07:55,500 --> 00:07:58,100
+So AI that can generate new content
+
+140
+00:07:58,100 --> 00:08:02,740
+besides being able to interpret content that we produce.
+
+141
+00:08:02,740 --> 00:08:07,140
+And the way, I mean, I live out a lot of details,
+
+142
+00:08:07,140 --> 00:08:13,180
+but the way it can do that is by being trained
+
+143
+00:08:13,180 --> 00:08:18,620
+on vast amounts of data, unlabeled data is called,
+
+144
+00:08:18,620 --> 00:08:25,060
+so data that is found on the web without any curation
+
+145
+00:08:25,060 --> 00:08:29,340
+from human beings, any labeling is called from human beings,
+
+146
+00:08:29,340 --> 00:08:35,300
+so this data that is found on the web in vast amounts,
+
+147
+00:08:35,300 --> 00:08:39,740
+that is used to train these AI systems,
+
+148
+00:08:39,740 --> 00:08:42,460
+and for example, text that is found on the web,
+
+149
+00:08:42,460 --> 00:08:47,660
+that is trained to use these AI systems that then can,
+
+150
+00:08:47,660 --> 00:08:53,620
+again, as you said, respond to a prompt in an appropriate way.
+
+151
+00:08:53,620 --> 00:08:57,700
+This data is the source of knowledge,
+
+152
+00:08:57,700 --> 00:09:00,780
+if you wanted knowledge, of the system,
+
+153
+00:09:00,780 --> 00:09:04,940
+but there is also knowledge that is given in the prompt itself,
+
+154
+00:09:04,940 --> 00:09:08,140
+so there is an area called prompt engineering,
+
+155
+00:09:08,140 --> 00:09:12,580
+because writing a prompt, also the way you write the prompt
+
+156
+00:09:12,580 --> 00:09:16,380
+of how long the prompt is, what you put in the prompt,
+
+157
+00:09:16,380 --> 00:09:20,220
+can also trigger a different, more informative
+
+158
+00:09:20,220 --> 00:09:24,300
+or less informative response from the natural language
+
+159
+00:09:24,300 --> 00:09:25,260
+generator.
+
+160
+00:09:25,260 --> 00:09:30,700
+And if I now put the heart of a company like IBM or others,
+
+161
+00:09:30,700 --> 00:09:35,420
+they may want to use this for some applications.
+
+162
+00:09:35,420 --> 00:09:39,340
+One possibility to use them is to take them
+
+163
+00:09:39,340 --> 00:09:42,940
+as trained by these vast amounts of data,
+
+164
+00:09:42,940 --> 00:09:48,900
+and then further tune them with supervised and labeled data
+
+165
+00:09:48,900 --> 00:09:54,380
+on a specific task to, but very little amount of data
+
+166
+00:09:54,380 --> 00:09:56,260
+to solve a specific task.
+
+167
+00:09:56,260 --> 00:10:00,900
+But with the general knowledge that is given by this initial phase
+
+168
+00:10:00,900 --> 00:10:03,420
+of training over vast amounts of data,
+
+169
+00:10:03,420 --> 00:10:08,540
+and this allows you to have specialized solver
+
+170
+00:10:08,540 --> 00:10:12,820
+for one particular problem, but with this more general knowledge,
+
+171
+00:10:12,820 --> 00:10:16,980
+which is needed usually to solve well, even a specific task,
+
+172
+00:10:16,980 --> 00:10:20,780
+and especially when the kind of labeled data
+
+173
+00:10:20,780 --> 00:10:24,500
+that you need for a specific data is kind of limited.
+
+174
+00:10:24,500 --> 00:10:29,100
+So you just need a little bit of this labeled data
+
+175
+00:10:29,100 --> 00:10:31,180
+for the specific task, because you
+
+176
+00:10:31,180 --> 00:10:36,700
+rely on this vast amount of general data.
+
+177
+00:10:36,700 --> 00:10:41,020
+So that's some initial thing, but feel free to chime in.
+
+178
+00:10:41,020 --> 00:10:45,860
+I would add that I think the probably most important thing
+
+179
+00:10:45,860 --> 00:10:51,660
+for many listeners to realize is just how amazing the production
+
+180
+00:10:51,660 --> 00:10:56,060
+of some of these programs have been.
+
+181
+00:10:56,060 --> 00:11:00,300
+I think they've been so incredible that two years ago,
+
+182
+00:11:00,300 --> 00:11:03,020
+nobody would have predicted that they could, or three years ago.
+
+183
+00:11:03,020 --> 00:11:06,300
+So GPT-3 came out of 2020.
+
+184
+00:11:06,300 --> 00:11:07,820
+So a little bit.
+
+185
+00:11:07,820 --> 00:11:08,980
+So around three years ago.
+
+186
+00:11:08,980 --> 00:11:17,500
+So at the top of GPT-2, I don't think anybody would
+
+187
+00:11:17,500 --> 00:11:19,700
+have predicted what they could do.
+
+188
+00:11:19,700 --> 00:11:21,140
+If you haven't seen any of these,
+
+189
+00:11:21,140 --> 00:11:23,820
+there's been a couple articles in the New York Times, etc.
+
+190
+00:11:23,820 --> 00:11:25,700
+It's kind of amazing.
+
+191
+00:11:25,700 --> 00:11:27,700
+But it's important to realize what they're good at,
+
+192
+00:11:27,700 --> 00:11:29,020
+what they're not good at.
+
+193
+00:11:29,020 --> 00:11:33,300
+So what they're good at is open-ended contexts
+
+194
+00:11:33,300 --> 00:11:37,620
+where there's no very specific right answer,
+
+195
+00:11:37,620 --> 00:11:42,300
+where what counts as style and creativity.
+
+196
+00:11:42,300 --> 00:11:43,580
+That's what's kind of amazing.
+
+197
+00:11:43,580 --> 00:11:44,780
+Creativity.
+
+198
+00:11:44,780 --> 00:11:46,660
+These things are good.
+
+199
+00:11:46,660 --> 00:11:51,860
+They're the opposite of what everybody would have expected.
+
+200
+00:11:51,860 --> 00:11:55,500
+So for example, in New York, they're published a poem.
+
+201
+00:11:55,500 --> 00:11:59,580
+The style of Phil Plarkin was actually pretty good.
+
+202
+00:12:02,060 --> 00:12:07,060
+And people could get them to write news articles
+
+203
+00:12:07,060 --> 00:12:14,020
+and get interviews in the style of a particular person
+
+204
+00:12:14,020 --> 00:12:19,460
+with the right fine tuning that Francesca mentioned.
+
+205
+00:12:19,460 --> 00:12:21,340
+So that's kind of amazing.
+
+206
+00:12:21,340 --> 00:12:23,820
+I think that's the first thing to realize is that it's just
+
+207
+00:12:23,820 --> 00:12:26,820
+how astonishing they really are.
+
+208
+00:12:26,820 --> 00:12:31,860
+But the second thing is the severe difficulties.
+
+209
+00:12:31,860 --> 00:12:39,420
+So the main, but one really bad, severe difficulty is
+
+210
+00:12:39,420 --> 00:12:41,860
+that they have been pointed out by many people,
+
+211
+00:12:41,860 --> 00:12:43,580
+no world love.
+
+212
+00:12:43,580 --> 00:12:49,780
+So they just continue a style in a certain way
+
+213
+00:12:49,780 --> 00:12:54,260
+and with ignoring actual facts.
+
+214
+00:12:54,260 --> 00:13:02,860
+So they'll spin a web of text along a certain line,
+
+215
+00:13:02,860 --> 00:13:06,580
+but then it can just completely contradict what's really true.
+
+216
+00:13:06,580 --> 00:13:10,540
+Even though you could get the real information from Siri
+
+217
+00:13:10,540 --> 00:13:15,740
+or Google Search, importantly, and Francesca mentioned this,
+
+218
+00:13:15,740 --> 00:13:18,060
+but they don't actually, I mean, you
+
+219
+00:13:18,060 --> 00:13:22,060
+can add a Google Search to one of these large language models.
+
+220
+00:13:22,060 --> 00:13:24,900
+But then you have a problem with the interface.
+
+221
+00:13:24,900 --> 00:13:28,460
+So in just the operation of the large language models,
+
+222
+00:13:28,460 --> 00:13:30,220
+they don't have access to the internet.
+
+223
+00:13:30,220 --> 00:13:35,140
+They're trained on the internet with enough electricity
+
+224
+00:13:35,140 --> 00:13:37,260
+to power a small city.
+
+225
+00:13:37,260 --> 00:13:42,260
+And then you can run the trained model on a smaller computer.
+
+226
+00:13:42,260 --> 00:13:47,540
+But they don't actually have the ability to look things up.
+
+227
+00:13:47,540 --> 00:13:49,540
+So you'll get a better answer from Siri
+
+228
+00:13:49,540 --> 00:13:52,900
+than you will from that.
+
+229
+00:13:52,900 --> 00:13:55,300
+Now, with all their failings, people
+
+230
+00:13:55,300 --> 00:13:58,620
+have tried to hook up more standard systems to them.
+
+231
+00:13:58,620 --> 00:14:03,060
+And then there's the issues of how that interface is supposed
+
+232
+00:14:03,060 --> 00:14:04,020
+to work.
+
+233
+00:14:04,020 --> 00:14:06,780
+So the big negatives are no world model.
+
+234
+00:14:09,860 --> 00:14:12,300
+In the generation of language, no understanding
+
+235
+00:14:12,300 --> 00:14:15,260
+of long-range dependencies.
+
+236
+00:14:15,260 --> 00:14:20,020
+So some of their critics have been fond of pointing out
+
+237
+00:14:20,020 --> 00:14:24,100
+that they treat words as just like a stream
+
+238
+00:14:24,100 --> 00:14:26,340
+without getting the hierarchical structure.
+
+239
+00:14:26,340 --> 00:14:29,700
+And there was a paper that came out, I believe, just yesterday,
+
+240
+00:14:29,700 --> 00:14:32,500
+by Stan de Hans laboratory looking
+
+241
+00:14:32,500 --> 00:14:36,540
+at short-range dependencies and long-range dependencies
+
+242
+00:14:36,540 --> 00:14:37,940
+with relative clauses.
+
+243
+00:14:37,940 --> 00:14:40,860
+So the case, the example they used,
+
+244
+00:14:40,860 --> 00:14:49,660
+I think, was the key, the short-range would be the key is green.
+
+245
+00:14:49,660 --> 00:14:51,660
+Or the key, the man had its green.
+
+246
+00:14:51,660 --> 00:14:54,660
+And then you keep adding relative clauses, like the key,
+
+247
+00:14:54,660 --> 00:14:57,380
+that the man in the corner had was green.
+
+248
+00:14:57,380 --> 00:14:59,780
+And as soon as you get to a fairly long, relative clauses,
+
+249
+00:14:59,780 --> 00:15:00,700
+forget it.
+
+250
+00:15:00,700 --> 00:15:03,940
+They don't know which names did what to who.
+
+251
+00:15:03,940 --> 00:15:09,100
+So that is a general feature of their not understanding
+
+252
+00:15:09,100 --> 00:15:11,100
+the structure of language.
+
+253
+00:15:11,100 --> 00:15:13,460
+And the language is what they're made for.
+
+254
+00:15:13,460 --> 00:15:15,780
+But they keep getting things wrong.
+
+255
+00:15:15,780 --> 00:15:20,980
+And then the real, I guess, the most significant issue is,
+
+256
+00:15:20,980 --> 00:15:25,340
+some people think, OK, you just need bigger ones.
+
+257
+00:15:25,340 --> 00:15:27,420
+And then others think, no, there's something really
+
+258
+00:15:27,420 --> 00:15:28,580
+principled missing.
+
+259
+00:15:28,580 --> 00:15:31,260
+And I think that's the key to bait.
+
+260
+00:15:31,260 --> 00:15:32,700
+Another thing they're really bad at
+
+261
+00:15:32,700 --> 00:15:36,700
+is logic and arithmetic.
+
+262
+00:15:36,700 --> 00:15:40,820
+Again, like the opposite of what people think.
+
+263
+00:15:40,820 --> 00:15:48,820
+So I think people who aren't familiar with these things
+
+264
+00:15:48,820 --> 00:15:49,620
+have to reel off.
+
+265
+00:15:49,620 --> 00:15:52,140
+They're quite different from their strengths.
+
+266
+00:15:52,140 --> 00:15:54,460
+They're different from what everybody would have expected.
+
+267
+00:15:54,460 --> 00:15:57,700
+And their weaknesses are especially different
+
+268
+00:15:57,700 --> 00:15:59,300
+from what everybody would have expected.
+
+269
+00:15:59,300 --> 00:16:02,580
+So it's a pretty peculiar thing.
+
+270
+00:16:02,580 --> 00:16:06,780
+And for me, I'm more interested in the mind than I am
+
+271
+00:16:06,780 --> 00:16:07,900
+in lots of other things.
+
+272
+00:16:07,900 --> 00:16:12,460
+I want to know, what is the tells you about the mind?
+
+273
+00:16:12,460 --> 00:16:15,980
+I can actually put something on top of this.
+
+274
+00:16:15,980 --> 00:16:19,020
+So one of the issues I see, the us
+
+275
+00:16:19,020 --> 00:16:21,180
+looking at all these amazing language generators,
+
+276
+00:16:21,180 --> 00:16:23,860
+like the GPTs and whatnot, is the fact
+
+277
+00:16:23,860 --> 00:16:27,340
+that they are doing something amazing, which is very obvious,
+
+278
+00:16:27,340 --> 00:16:29,100
+because we can just see them doing amazing stuff.
+
+279
+00:16:29,100 --> 00:16:32,420
+But we actually don't know exactly how those amazing things
+
+280
+00:16:32,420 --> 00:16:33,420
+are happening.
+
+281
+00:16:33,420 --> 00:16:36,420
+So that just pointed out the creativity, which is amazing.
+
+282
+00:16:36,420 --> 00:16:38,700
+So these things are actually creating something new
+
+283
+00:16:38,700 --> 00:16:41,340
+that it has not seen before during training time.
+
+284
+00:16:41,340 --> 00:16:43,020
+And then in the term of the machine learning,
+
+285
+00:16:43,020 --> 00:16:44,500
+there's called generalization.
+
+286
+00:16:44,500 --> 00:16:47,180
+So how can these models be able to do something
+
+287
+00:16:47,180 --> 00:16:50,660
+that it was not trained on explicitly?
+
+288
+00:16:50,660 --> 00:16:52,660
+And then how it happens in the statistical sense
+
+289
+00:16:52,660 --> 00:16:55,440
+is that it does all those counting of all the parent
+
+290
+00:16:55,440 --> 00:16:56,940
+CC during training.
+
+291
+00:16:56,940 --> 00:16:58,380
+And then what it does is that because it
+
+292
+00:16:58,380 --> 00:16:59,980
+has a limited capacity, it needs
+
+293
+00:16:59,980 --> 00:17:03,100
+to compress all the things that it has seen.
+
+294
+00:17:03,100 --> 00:17:05,980
+And then while doing so, it loses some information.
+
+295
+00:17:05,980 --> 00:17:08,820
+But the information loss is information gained
+
+296
+00:17:08,820 --> 00:17:10,900
+on the things that it has not seen before.
+
+297
+00:17:10,900 --> 00:17:14,340
+And what are these new patterns that this compression
+
+298
+00:17:14,340 --> 00:17:16,780
+mechanism or the training algorithm
+
+299
+00:17:16,780 --> 00:17:20,260
+are actually focusing on that we find really amazing.
+
+300
+00:17:20,260 --> 00:17:23,100
+So the process of, let's say, generalization
+
+301
+00:17:23,100 --> 00:17:25,380
+or the creativity by compression
+
+302
+00:17:25,380 --> 00:17:28,020
+is a complete mystery at the moment.
+
+303
+00:17:28,020 --> 00:17:30,620
+A lot of people in a lot of theoreticians
+
+304
+00:17:30,620 --> 00:17:31,740
+actually do work on it.
+
+305
+00:17:31,740 --> 00:17:33,780
+From the perspective of, well, is there
+
+306
+00:17:33,780 --> 00:17:36,940
+some kind of implicit regularization happening?
+
+307
+00:17:36,940 --> 00:17:39,500
+That is, your regular is how learning happens.
+
+308
+00:17:39,500 --> 00:17:41,460
+And thereby increasing these models
+
+309
+00:17:41,460 --> 00:17:44,660
+to do something that it has never seen before.
+
+310
+00:17:44,660 --> 00:17:46,860
+And how does that actually connect
+
+311
+00:17:46,860 --> 00:17:49,860
+to the amazing nature of the generalization
+
+312
+00:17:49,860 --> 00:17:51,380
+of the creativity that we see?
+
+313
+00:17:51,380 --> 00:17:53,820
+And then this lack of our understanding
+
+314
+00:17:53,820 --> 00:17:56,740
+of these very simple fundamental things.
+
+315
+00:17:56,740 --> 00:17:58,180
+Essentially, we're saying that they will,
+
+316
+00:17:58,180 --> 00:18:00,940
+these models are counting and compressing.
+
+317
+00:18:00,940 --> 00:18:02,700
+And somehow magically, thereby, it
+
+318
+00:18:02,700 --> 00:18:05,780
+does generalize to a completely unseen or the new things
+
+319
+00:18:05,780 --> 00:18:07,660
+that look amazing to us.
+
+320
+00:18:07,660 --> 00:18:08,620
+Well, what is this?
+
+321
+00:18:08,620 --> 00:18:10,220
+It's a very simple thing, right?
+
+322
+00:18:10,220 --> 00:18:11,980
+The question is out there.
+
+323
+00:18:11,980 --> 00:18:13,620
+But we have absolutely no idea what
+
+324
+00:18:13,620 --> 00:18:16,820
+is the even right way to approach answering the question.
+
+325
+00:18:16,820 --> 00:18:19,100
+Now, let's stop for a second about the word creativity.
+
+326
+00:18:19,100 --> 00:18:21,060
+I mean, there's so many different branches
+
+327
+00:18:21,060 --> 00:18:25,900
+to look into and will hopefully do that.
+
+328
+00:18:25,900 --> 00:18:27,380
+It's amazing.
+
+329
+00:18:27,380 --> 00:18:29,260
+I want to stop about the word creativity,
+
+330
+00:18:29,260 --> 00:18:31,900
+because let's stop and imagine that.
+
+331
+00:18:31,900 --> 00:18:36,300
+I would prefer we use creativity as demonstrated
+
+332
+00:18:36,300 --> 00:18:39,300
+by these as creativity with an asterisk.
+
+333
+00:18:39,300 --> 00:18:42,220
+And not assume right off the bat that it's creativity.
+
+334
+00:18:42,220 --> 00:18:45,460
+It's the same property that we have.
+
+335
+00:18:45,460 --> 00:18:48,060
+We instantiate when we're being creative.
+
+336
+00:18:48,060 --> 00:18:51,700
+Is it just a very advanced way of being a dancing bear?
+
+337
+00:18:51,700 --> 00:18:55,580
+Are these very, very clever things that do wow us
+
+338
+00:18:55,580 --> 00:18:59,340
+because I didn't think a computer could write something
+
+339
+00:18:59,340 --> 00:19:01,180
+inventive like that?
+
+340
+00:19:01,180 --> 00:19:02,780
+And how deeply does it go?
+
+341
+00:19:02,780 --> 00:19:05,980
+And as you were saying that in some ways,
+
+342
+00:19:05,980 --> 00:19:09,020
+what does it mean about the mind and creativity in humans?
+
+343
+00:19:09,020 --> 00:19:12,420
+So does anyone want to take a little whack at that?
+
+344
+00:19:12,420 --> 00:19:14,380
+I think it's helpful to zoom in for a second
+
+345
+00:19:14,380 --> 00:19:16,060
+on the training process itself.
+
+346
+00:19:16,060 --> 00:19:18,340
+So we talked about how it scans this text.
+
+347
+00:19:18,340 --> 00:19:19,980
+It's actually a very simple process
+
+348
+00:19:19,980 --> 00:19:21,700
+that it's undertaking while it does this.
+
+349
+00:19:21,700 --> 00:19:23,380
+It doesn't read the text.
+
+350
+00:19:23,380 --> 00:19:26,780
+But as it processes the text, the computer algorithm
+
+351
+00:19:26,780 --> 00:19:30,220
+just masks or it sort of hides random words.
+
+352
+00:19:30,220 --> 00:19:32,740
+And it asks the neural network to try
+
+353
+00:19:32,740 --> 00:19:34,460
+to predict the missing words.
+
+354
+00:19:34,460 --> 00:19:35,700
+And that's the whole process.
+
+355
+00:19:35,700 --> 00:19:36,620
+It just reads along.
+
+356
+00:19:36,620 --> 00:19:38,660
+So imagine I'm talking to you and I say,
+
+357
+00:19:38,660 --> 00:19:41,620
+my dog likes to blink.
+
+358
+00:19:41,620 --> 00:19:44,100
+Everyone in this room, I'm sure it's on your head.
+
+359
+00:19:44,100 --> 00:19:46,100
+You heard sort of an auto completion.
+
+360
+00:19:46,100 --> 00:19:48,980
+Maybe my dog likes to play, my dog likes to walk.
+
+361
+00:19:48,980 --> 00:19:50,980
+And that's all we're asking the computer to do.
+
+362
+00:19:50,980 --> 00:19:53,780
+We give it some text, it reads some text.
+
+363
+00:19:53,780 --> 00:19:55,460
+And then it tries to predict the next word,
+
+364
+00:19:55,460 --> 00:19:56,620
+the missing words.
+
+365
+00:19:56,620 --> 00:19:58,900
+And as it does that, it just develops this process
+
+366
+00:19:58,900 --> 00:20:01,340
+of being able to predict the next word.
+
+367
+00:20:01,340 --> 00:20:04,340
+And I think, talking into some of the earlier things
+
+368
+00:20:04,340 --> 00:20:07,740
+as far as how it's surprisingly bad
+
+369
+00:20:07,740 --> 00:20:09,740
+at things like arithmetic and logic,
+
+370
+00:20:09,740 --> 00:20:12,300
+when you think about that process, of course it is.
+
+371
+00:20:12,300 --> 00:20:14,900
+It'll do well at things like what is,
+
+372
+00:20:14,900 --> 00:20:17,500
+you can prompt it and ask it what's two plus three.
+
+373
+00:20:17,500 --> 00:20:19,260
+Well because it's seen that in training text
+
+374
+00:20:19,260 --> 00:20:21,460
+so it can predict the answer is five.
+
+375
+00:20:21,460 --> 00:20:22,980
+But if you give it more complicated numbers
+
+376
+00:20:22,980 --> 00:20:25,420
+than it hasn't seen, it's a little bit, I think,
+
+377
+00:20:25,420 --> 00:20:27,540
+like some children learn to spell
+
+378
+00:20:27,540 --> 00:20:31,100
+by memorizing the spelling of words rather than phonetics.
+
+379
+00:20:31,100 --> 00:20:34,260
+And this algorithm is very much the non-phonetic version.
+
+380
+00:20:34,260 --> 00:20:37,380
+It's just memorizing a bunch of correlations and patterns
+
+381
+00:20:37,380 --> 00:20:39,460
+without developing that understanding.
+
+382
+00:20:39,460 --> 00:20:41,300
+What's surprising, I think, is that it does have
+
+383
+00:20:41,300 --> 00:20:44,460
+some hints of understanding that it shouldn't
+
+384
+00:20:44,460 --> 00:20:46,420
+from such a basic process.
+
+385
+00:20:46,420 --> 00:20:49,660
+And going back to your question about creativity,
+
+386
+00:20:49,660 --> 00:20:52,420
+I think one thing that's helpful to think is,
+
+387
+00:20:52,420 --> 00:20:53,700
+you know, if you have your phone
+
+388
+00:20:53,700 --> 00:20:56,740
+and you start typing text message in it suggests words,
+
+389
+00:20:56,740 --> 00:20:58,660
+you can just keep clicking those buttons.
+
+390
+00:20:58,660 --> 00:21:01,300
+You're basically running something like GPT-3
+
+391
+00:21:01,300 --> 00:21:02,540
+based on the text that's there.
+
+392
+00:21:02,540 --> 00:21:05,460
+It'll just sort of randomly predict the next word.
+
+393
+00:21:05,460 --> 00:21:07,740
+It's very improvisatory, so I think it helps
+
+394
+00:21:07,740 --> 00:21:09,900
+to think a little bit maybe like jazz,
+
+395
+00:21:09,900 --> 00:21:12,580
+where by nature it's just kind of rambling
+
+396
+00:21:12,580 --> 00:21:15,060
+and improvising and making up as it goes,
+
+397
+00:21:15,060 --> 00:21:17,460
+which actually can make it seem more creative
+
+398
+00:21:17,460 --> 00:21:19,020
+than a very structured, rigid thing
+
+399
+00:21:19,020 --> 00:21:21,340
+where it's trying to articulate and express an idea.
+
+400
+00:21:21,340 --> 00:21:24,180
+It doesn't have the idea, but it can just kind of wing it
+
+401
+00:21:24,180 --> 00:21:27,100
+and improvise words, which I think gives it
+
+402
+00:21:27,100 --> 00:21:29,420
+a kind of like local aspect of creativity,
+
+403
+00:21:29,420 --> 00:21:31,940
+but not the global, there's not a creative idea
+
+404
+00:21:31,940 --> 00:21:34,420
+that's expressing, but the wordings are creative
+
+405
+00:21:34,420 --> 00:21:36,300
+for the lack of idea that it has.
+
+406
+00:21:36,300 --> 00:21:38,740
+Well, this may be a little bit of what you said earlier,
+
+407
+00:21:38,740 --> 00:21:41,060
+and if you follow it long enough,
+
+408
+00:21:41,060 --> 00:21:43,900
+it sort of seems to go off the track a little bit, right?
+
+409
+00:21:43,900 --> 00:21:46,540
+Yeah, well, a complete change persona, et cetera,
+
+410
+00:21:46,540 --> 00:21:51,380
+but your question suggested that we're amazed
+
+411
+00:21:51,380 --> 00:21:53,940
+at how creative it is for a machine.
+
+412
+00:21:53,940 --> 00:21:54,820
+I don't think that's right.
+
+413
+00:21:54,820 --> 00:21:58,140
+I can't write a poem in the style of Philip Larkin.
+
+414
+00:21:58,140 --> 00:22:01,620
+I can draw the amazing pictures it draws,
+
+415
+00:22:01,620 --> 00:22:06,620
+and the other things it does also can be well beyond
+
+416
+00:22:06,620 --> 00:22:08,340
+what many people could do.
+
+417
+00:22:08,340 --> 00:22:11,020
+I mean, it explains jokes, for example.
+
+418
+00:22:11,020 --> 00:22:16,020
+It looks, the economist published a series of little bits
+
+419
+00:22:17,220 --> 00:22:21,460
+of where they showed the economist covers.
+
+420
+00:22:21,460 --> 00:22:23,940
+They explained the covers.
+
+421
+00:22:23,940 --> 00:22:27,420
+I mean, it did a really good job.
+
+422
+00:22:27,420 --> 00:22:29,420
+I don't remember which system it was,
+
+423
+00:22:29,420 --> 00:22:33,020
+but it did an amazing job.
+
+424
+00:22:33,020 --> 00:22:35,220
+At the same time, that same issue,
+
+425
+00:22:35,220 --> 00:22:37,980
+the economist had a wonderful little article
+
+426
+00:22:37,980 --> 00:22:42,460
+about Douglas Hofstadter, where it asked questions like,
+
+427
+00:22:46,700 --> 00:22:49,900
+the last time, when will the next time
+
+428
+00:22:49,900 --> 00:22:53,780
+that Egypt be transported over the Golden Gate Bridge?
+
+429
+00:22:53,780 --> 00:22:57,700
+And it gave an answer, assuming that Egypt
+
+430
+00:22:57,700 --> 00:22:59,980
+could be transported over the Golden Gate Bridge.
+
+431
+00:22:59,980 --> 00:23:03,340
+So that's the lack of a world.
+
+432
+00:23:03,340 --> 00:23:06,420
+So creativity, I think it's, I mean, look,
+
+433
+00:23:06,420 --> 00:23:08,220
+I don't know how to define creativity.
+
+434
+00:23:08,220 --> 00:23:13,220
+It isn't what we do probably, but it's very, very impressive.
+
+435
+00:23:14,940 --> 00:23:17,860
+Combined with these other lacks of logic
+
+436
+00:23:17,860 --> 00:23:19,300
+resitting in a world level.
+
+437
+00:23:21,580 --> 00:23:24,340
+Can I kind of push back on this word amazing
+
+438
+00:23:24,340 --> 00:23:25,180
+that we keep using?
+
+439
+00:23:25,180 --> 00:23:28,660
+Is that, so my work specifically with language generating
+
+440
+00:23:28,660 --> 00:23:31,740
+is historical, and some of the earliest materials
+
+441
+00:23:31,740 --> 00:23:36,460
+that I found were Ramon Lully, or Ramon Yui,
+
+442
+00:23:36,460 --> 00:23:40,860
+was a medieval, medieval, Mayorkan theologian
+
+443
+00:23:40,860 --> 00:23:43,500
+who created these paper machines
+
+444
+00:23:43,500 --> 00:23:46,540
+that were prototype language,
+
+445
+00:23:46,540 --> 00:23:48,740
+simple combinatorial language generators,
+
+446
+00:23:48,740 --> 00:23:51,300
+where you rotate the circles and combine
+
+447
+00:23:51,300 --> 00:23:53,300
+all possible truths about God.
+
+448
+00:23:53,300 --> 00:23:57,900
+And that work and those devices were so amazing,
+
+449
+00:23:57,900 --> 00:24:02,140
+in a sense, and so kind of unreasonably effective,
+
+450
+00:24:02,140 --> 00:24:05,340
+that it spawned a number of cults all across Europe
+
+451
+00:24:05,340 --> 00:24:08,300
+who are Lully and sort of theologians,
+
+452
+00:24:08,300 --> 00:24:11,500
+Lully and poets that persisted for centuries.
+
+453
+00:24:11,500 --> 00:24:13,740
+And I think they asked some of the same questions
+
+454
+00:24:13,740 --> 00:24:17,060
+that we are asking of these somewhat more sophisticated
+
+455
+00:24:17,060 --> 00:24:21,860
+tools, but the thing is this kind of creativity
+
+456
+00:24:21,860 --> 00:24:24,060
+that's combinatorial, that's mathematical,
+
+457
+00:24:24,060 --> 00:24:26,460
+that's statistically driven, has been with us
+
+458
+00:24:26,460 --> 00:24:28,140
+for a very, very long time.
+
+459
+00:24:28,140 --> 00:24:30,980
+It's just we tend to kind of forget that history
+
+460
+00:24:30,980 --> 00:24:33,740
+and then rediscover those devices
+
+461
+00:24:33,740 --> 00:24:37,140
+and be amazed again and kind of be discomforted again
+
+462
+00:24:37,140 --> 00:24:39,180
+by their presence in our midst.
+
+463
+00:24:39,180 --> 00:24:41,260
+But that's where I would a little bit say,
+
+464
+00:24:41,260 --> 00:24:44,860
+you know, is this a new kind of phenomenon?
+
+465
+00:24:44,860 --> 00:24:47,940
+Is this something that we're continually struggling with?
+
+466
+00:24:47,940 --> 00:24:51,660
+I will say we were teaching earlier
+
+467
+00:24:51,660 --> 00:24:54,260
+from a deep learning that would generate text,
+
+468
+00:24:54,260 --> 00:24:55,540
+and it worked pretty poorly.
+
+469
+00:24:55,540 --> 00:24:56,820
+It was somewhat word salad.
+
+470
+00:24:56,820 --> 00:24:59,060
+It seemed creative, but it didn't really make sense
+
+471
+00:24:59,060 --> 00:24:59,980
+all the time.
+
+472
+00:24:59,980 --> 00:25:03,020
+And I still remember the day that GPT-2 came out,
+
+473
+00:25:03,020 --> 00:25:05,460
+and we started working with students,
+
+474
+00:25:05,460 --> 00:25:07,980
+and we taught it to write like Oscar Wilde
+
+475
+00:25:07,980 --> 00:25:09,620
+and like check off and like all these writers.
+
+476
+00:25:09,620 --> 00:25:11,580
+And do things exactly, as you said,
+
+477
+00:25:11,580 --> 00:25:12,780
+that my students have trouble with.
+
+478
+00:25:12,780 --> 00:25:14,900
+I asked them, okay, you read Virginia Woolf,
+
+479
+00:25:14,900 --> 00:25:16,980
+write a passage like Virginia Woolf, you know,
+
+480
+00:25:16,980 --> 00:25:18,300
+they can't, right?
+
+481
+00:25:18,300 --> 00:25:20,460
+And so that's more of a paradox, right?
+
+482
+00:25:20,460 --> 00:25:23,260
+That it can do things that are very difficult for us,
+
+483
+00:25:23,260 --> 00:25:26,260
+but it can't do things that are easy, right, for us.
+
+484
+00:25:26,260 --> 00:25:28,380
+And so people get very confused about it
+
+485
+00:25:28,380 --> 00:25:30,460
+because they say, oh, it can't do this, right?
+
+486
+00:25:30,460 --> 00:25:33,900
+And therefore it's dumb, but it's part of that paradox.
+
+487
+00:25:33,900 --> 00:25:35,740
+And even in terms of counting,
+
+488
+00:25:35,740 --> 00:25:37,460
+people have found that it counts
+
+489
+00:25:37,460 --> 00:25:39,060
+like little children count, right,
+
+490
+00:25:39,060 --> 00:25:41,300
+as they're learning to count.
+
+491
+00:25:41,300 --> 00:25:43,060
+So if you haven't worked with it,
+
+492
+00:25:43,060 --> 00:25:45,180
+it can be kind of hard to understand
+
+493
+00:25:45,180 --> 00:25:47,100
+because you think how can this work?
+
+494
+00:25:47,100 --> 00:25:50,660
+The other thing that I would say is for decades,
+
+495
+00:25:50,660 --> 00:25:54,380
+people wanted to teach computers how to process language
+
+496
+00:25:54,380 --> 00:25:56,900
+and generate language based on rules, right?
+
+497
+00:25:56,900 --> 00:25:59,180
+This was Chomsky's universal grammar.
+
+498
+00:25:59,180 --> 00:26:00,940
+And we thought if we just gave it enough rules
+
+499
+00:26:00,940 --> 00:26:03,820
+and enough edge cases, somehow that would work.
+
+500
+00:26:03,820 --> 00:26:05,900
+And it really hasn't worked well at all.
+
+501
+00:26:05,900 --> 00:26:09,060
+And no one really expected that if we just gave it
+
+502
+00:26:09,060 --> 00:26:10,740
+a massive amount of language,
+
+503
+00:26:10,740 --> 00:26:13,940
+it would be able to do such a phenomenal job.
+
+504
+00:26:13,940 --> 00:26:16,100
+So we're all still trying to figure out
+
+505
+00:26:16,100 --> 00:26:17,220
+what does that mean?
+
+506
+00:26:17,220 --> 00:26:19,420
+And what does that mean about how language works?
+
+507
+00:26:19,420 --> 00:26:21,540
+And what does that mean about the nature of meaning?
+
+508
+00:26:21,540 --> 00:26:23,620
+And what does it mean about the nature of our own mind
+
+509
+00:26:23,620 --> 00:26:24,700
+and creativity?
+
+510
+00:26:24,700 --> 00:26:26,220
+So it has a lot to teach us,
+
+511
+00:26:26,220 --> 00:26:29,060
+but it doesn't fit neatly into human categories.
+
+512
+00:26:29,060 --> 00:26:32,300
+And that's kind of what we're experimenting with right now
+
+513
+00:26:32,300 --> 00:26:34,780
+to try to figure out how does it work?
+
+514
+00:26:34,780 --> 00:26:36,220
+And what does this mean?
+
+515
+00:26:36,220 --> 00:26:42,220
+In my view also, I mean, connecting also to what was said earlier,
+
+516
+00:26:42,220 --> 00:26:47,380
+many of these behaviors that we see as amazing,
+
+517
+00:26:47,380 --> 00:26:51,180
+historically, you say that this happened many times,
+
+518
+00:26:51,180 --> 00:26:54,460
+are a bit cherry-picked.
+
+519
+00:26:54,460 --> 00:26:58,220
+Because then you generate a lot of different texts
+
+520
+00:26:58,220 --> 00:27:01,340
+from prompt, and some of them are amazing,
+
+521
+00:27:01,340 --> 00:27:05,020
+and some of them are amazing in the negative and wrong way,
+
+522
+00:27:05,020 --> 00:27:07,340
+because it's completely out of track.
+
+523
+00:27:07,340 --> 00:27:13,580
+So we have to be aware that there is no real reliability
+
+524
+00:27:13,580 --> 00:27:14,580
+there.
+
+525
+00:27:14,580 --> 00:27:16,940
+So there is a problem with reliability.
+
+526
+00:27:16,940 --> 00:27:21,180
+And then there is also a problem connected,
+
+527
+00:27:21,180 --> 00:27:24,420
+going back to creativity, is how do we
+
+528
+00:27:24,420 --> 00:27:29,140
+want to use these systems to replace human creativity,
+
+529
+00:27:29,140 --> 00:27:34,660
+or to augment and support and expand human creativity?
+
+530
+00:27:34,660 --> 00:27:41,700
+Like one of my recent talks I did this PowerPoint slides,
+
+531
+00:27:41,700 --> 00:27:43,940
+all the pictures from PowerPoint slides
+
+532
+00:27:43,940 --> 00:27:48,060
+were generated with Dalib, which is not a text generator,
+
+533
+00:27:48,060 --> 00:27:52,740
+but an image generator from a text while description of a scene.
+
+534
+00:27:52,740 --> 00:27:57,140
+So all my images were generated using this algorithm,
+
+535
+00:27:57,140 --> 00:27:58,460
+and they were beautiful.
+
+536
+00:27:58,460 --> 00:28:01,500
+And I was, oh, my god, you know, a lot.
+
+537
+00:28:01,500 --> 00:28:04,220
+But then at the end, I said, OK, wait a minute.
+
+538
+00:28:04,220 --> 00:28:07,580
+I didn't use any graphic designer.
+
+539
+00:28:07,580 --> 00:28:10,100
+I didn't pay any copyright, because you
+
+540
+00:28:10,100 --> 00:28:13,620
+own the images that you generate with Dalib.
+
+541
+00:28:13,620 --> 00:28:18,500
+So what does that mean if everybody would do like that?
+
+542
+00:28:18,500 --> 00:28:21,860
+Then graphic designer would be out of a job.
+
+543
+00:28:21,860 --> 00:28:24,140
+That would be possible consequences.
+
+544
+00:28:24,140 --> 00:28:27,700
+And that's maybe economically in their business model
+
+545
+00:28:27,700 --> 00:28:29,700
+is going to be a damage for them.
+
+546
+00:28:29,700 --> 00:28:32,700
+But most importantly, if everybody would do like that,
+
+547
+00:28:32,700 --> 00:28:36,820
+what would happen to the creative process, not the outcome,
+
+548
+00:28:36,820 --> 00:28:42,260
+but the process of creation that society needs to have.
+
+549
+00:28:42,260 --> 00:28:44,740
+And people need to have, if you have a society where
+
+550
+00:28:44,740 --> 00:28:48,980
+nobody follows the creative process anymore,
+
+551
+00:28:48,980 --> 00:28:52,100
+then what kind of society is that going to become?
+
+552
+00:28:52,100 --> 00:28:54,620
+So really, the question about how we
+
+553
+00:28:54,620 --> 00:29:03,420
+want to use these new techniques and within our society.
+
+554
+00:29:03,420 --> 00:29:07,860
+So we have to be more conscious about, besides being
+
+555
+00:29:07,860 --> 00:29:10,660
+excited about the novelty of the thing, which maybe is not
+
+556
+00:29:10,660 --> 00:29:14,020
+really a novelty, as you said, but also more conscious
+
+557
+00:29:14,020 --> 00:29:17,620
+about how we want them to be embedded in our job
+
+558
+00:29:17,620 --> 00:29:19,980
+or in our interaction with each other,
+
+559
+00:29:19,980 --> 00:29:22,220
+in our creative process and so on.
+
+560
+00:29:22,220 --> 00:29:26,020
+So what is the role of this technological progress,
+
+561
+00:29:26,020 --> 00:29:31,420
+for example, by these techniques, in the progress of society?
+
+562
+00:29:31,420 --> 00:29:33,900
+So let me also give you another historical anecdote
+
+563
+00:29:33,900 --> 00:29:35,340
+that may answer a little bit.
+
+564
+00:29:35,340 --> 00:29:38,620
+We can look back and see how did we deal with this before.
+
+565
+00:29:38,620 --> 00:29:41,860
+So in my book that's upcoming, I talk
+
+566
+00:29:41,860 --> 00:29:45,820
+a lot about the previous flourishing of text generators,
+
+567
+00:29:45,820 --> 00:29:49,780
+which may surprise you was late 19th, early 20th century,
+
+568
+00:29:49,780 --> 00:29:52,940
+which were exactly the template-based generators,
+
+569
+00:29:52,940 --> 00:29:57,140
+which work like this mad libs, something blank,
+
+570
+00:29:57,140 --> 00:30:00,100
+fill in the likely bent blank, and there were devices
+
+571
+00:30:00,100 --> 00:30:05,660
+and charts and tables that were used on a massive scale
+
+572
+00:30:05,660 --> 00:30:10,220
+to generate movie plots, to generate theater plays.
+
+573
+00:30:10,220 --> 00:30:14,260
+Today, when you're looking at the Netflix show,
+
+574
+00:30:14,260 --> 00:30:19,140
+it's the practice of using template generators
+
+575
+00:30:19,140 --> 00:30:23,140
+of particular lineage that go back to the plot genie.
+
+576
+00:30:23,140 --> 00:30:28,460
+And these were like best-selling writer-aids books
+
+577
+00:30:28,460 --> 00:30:31,740
+that are completely integrated in contemporary writing,
+
+578
+00:30:31,740 --> 00:30:33,660
+creative writing programs.
+
+579
+00:30:33,660 --> 00:30:38,780
+And what they have contributed to the mass production of art.
+
+580
+00:30:38,780 --> 00:30:41,660
+So if we think about the flourishing of art
+
+581
+00:30:41,660 --> 00:30:45,900
+in the 20th century and the massive popular art,
+
+582
+00:30:45,900 --> 00:30:47,700
+it's kind of completely integrated
+
+583
+00:30:47,700 --> 00:30:49,660
+the particular form of writing.
+
+584
+00:30:49,660 --> 00:30:52,780
+When you see it early on, people are actually saying,
+
+585
+00:30:52,780 --> 00:30:54,660
+OK, I need to write more.
+
+586
+00:30:54,660 --> 00:30:57,660
+I need to sell more little, like,
+
+587
+00:30:57,660 --> 00:31:00,660
+pulpy plots to the magazines.
+
+588
+00:31:00,660 --> 00:31:05,660
+I need to sell more pulpy plots to the Hollywood studio.
+
+589
+00:31:05,660 --> 00:31:10,460
+And we are living in a kind of cultural environment
+
+590
+00:31:10,460 --> 00:31:14,340
+where this algorithmic combinatorial template-based,
+
+591
+00:31:14,340 --> 00:31:16,700
+a little bit maybe statistical to a lesser extent,
+
+592
+00:31:16,700 --> 00:31:19,620
+but it's very well integrated to our processes.
+
+593
+00:31:19,620 --> 00:31:21,980
+But to the extent that we don't normally see it, right,
+
+594
+00:31:21,980 --> 00:31:24,380
+when you see that those credits roll
+
+595
+00:31:24,380 --> 00:31:26,980
+at the end of a Netflix show, you're not thinking, like,
+
+596
+00:31:26,980 --> 00:31:28,340
+oh, wait a second.
+
+597
+00:31:28,340 --> 00:31:30,660
+They didn't actually invent this.
+
+598
+00:31:30,660 --> 00:31:34,140
+Did they use a particular writer's aid that
+
+599
+00:31:34,140 --> 00:31:36,780
+helped them in some of the unfair and creative ways?
+
+600
+00:31:36,780 --> 00:31:40,020
+But there are complaints that a plot seems formulaic,
+
+601
+00:31:40,020 --> 00:31:42,500
+or it seems you could people can perceive that from time
+
+602
+00:31:42,500 --> 00:31:42,860
+and time.
+
+603
+00:31:42,860 --> 00:31:45,580
+Like this plot seems to have been written by a computer,
+
+604
+00:31:45,580 --> 00:31:47,060
+for example.
+
+605
+00:31:47,060 --> 00:31:49,740
+I want to follow, again, along this idea
+
+606
+00:31:49,740 --> 00:31:54,020
+of what sorts of creativity are these different sort
+
+607
+00:31:54,020 --> 00:31:57,100
+of properties or categories.
+
+608
+00:31:57,100 --> 00:31:59,660
+Amazement, and it has been mentioned a lot.
+
+609
+00:31:59,660 --> 00:32:03,300
+So when you look at art, visual art,
+
+610
+00:32:03,300 --> 00:32:05,860
+and maybe it's easier in visual art to come up with this,
+
+611
+00:32:05,860 --> 00:32:11,020
+we have a history of being amazed by certain masters of art.
+
+612
+00:32:11,020 --> 00:32:14,980
+So Da Vinci draws something, and it looks amazing.
+
+613
+00:32:14,980 --> 00:32:19,180
+Part of our amazement is how did he do that?
+
+614
+00:32:19,180 --> 00:32:22,580
+What was the manual, the dexterity,
+
+615
+00:32:22,580 --> 00:32:24,660
+and whatever else goes into it?
+
+616
+00:32:24,660 --> 00:32:27,260
+I'm not equipped to say all the things that go into it,
+
+617
+00:32:27,260 --> 00:32:31,460
+but I do know that the human factor is absolutely
+
+618
+00:32:31,460 --> 00:32:35,060
+a part of what amazes me and most of us.
+
+619
+00:32:35,060 --> 00:32:38,860
+Now when a computer generates a Da Vinci-like sketch,
+
+620
+00:32:38,860 --> 00:32:40,500
+it's not doing the same thing.
+
+621
+00:32:40,500 --> 00:32:41,940
+And we might say, oh, it's amazing,
+
+622
+00:32:41,940 --> 00:32:44,820
+because, wow, what an incredible facsimile,
+
+623
+00:32:44,820 --> 00:32:48,780
+but it didn't do the steps that amazed us historically.
+
+624
+00:32:48,780 --> 00:32:52,340
+What historically accounted for our amazement and seeing art.
+
+625
+00:32:52,340 --> 00:32:56,500
+So that, I think, expresses the difference between
+
+626
+00:32:56,500 --> 00:33:00,260
+sort of formulaic and algorithmic generated creativity,
+
+627
+00:33:00,260 --> 00:33:01,940
+and the creativity that we're accustomed to,
+
+628
+00:33:01,940 --> 00:33:04,300
+and is that something that's going to be bridged some point?
+
+629
+00:33:04,300 --> 00:33:06,900
+Let me push back a bit on the aesthetic.
+
+630
+00:33:06,900 --> 00:33:11,420
+Yes, some of this is a very basic principle.
+
+631
+00:33:11,420 --> 00:33:13,780
+On top of which, we have built these large-scale language
+
+632
+00:33:13,780 --> 00:33:16,620
+models, have been here for centuries.
+
+633
+00:33:16,620 --> 00:33:19,940
+And in particular, if you read the book from 1950
+
+634
+00:33:19,940 --> 00:33:23,380
+by Paul Shetter, in fact, we actually do see the perplexity,
+
+635
+00:33:23,380 --> 00:33:25,700
+as well as the low probability, and how we want to actually
+
+636
+00:33:25,700 --> 00:33:30,140
+maximize the low probability of the correct following words.
+
+637
+00:33:30,140 --> 00:33:32,260
+Given all the context, in order to infect model,
+
+638
+00:33:32,260 --> 00:33:33,940
+the distribution is all written there.
+
+639
+00:33:33,940 --> 00:33:35,180
+Yes, that's true.
+
+640
+00:33:35,180 --> 00:33:38,700
+But that doesn't necessarily imply that we are only relying
+
+641
+00:33:38,700 --> 00:33:41,060
+on them in order to build these large-scale language models,
+
+642
+00:33:41,060 --> 00:33:42,180
+to build them.
+
+643
+00:33:42,180 --> 00:33:43,860
+And in fact, I guess, one of those people
+
+644
+00:33:43,860 --> 00:33:46,060
+who actually built a very large one was in the first place.
+
+645
+00:33:46,060 --> 00:33:50,500
+And it takes a lot more so than simple principle
+
+646
+00:33:50,500 --> 00:33:52,460
+of counting and compression.
+
+647
+00:33:52,460 --> 00:33:54,020
+Unfortunately, it's not that simple.
+
+648
+00:33:54,020 --> 00:33:56,940
+There are a lot of ways in which we can parametrize.
+
+649
+00:33:56,940 --> 00:34:00,140
+So the idea why everyone is going crazy about transformer,
+
+650
+00:34:00,140 --> 00:34:03,140
+which was only proposed about five years ago,
+
+651
+00:34:03,140 --> 00:34:07,260
+is because it took us half a century to get to that point.
+
+652
+00:34:07,260 --> 00:34:09,740
+In order to come up with all those simple,
+
+653
+00:34:09,740 --> 00:34:11,900
+but our algorithmic techniques and tricks
+
+654
+00:34:11,900 --> 00:34:13,460
+that we had to develop.
+
+655
+00:34:13,460 --> 00:34:15,860
+And then all these optimization algorithms that we use.
+
+656
+00:34:15,860 --> 00:34:18,980
+Yes, we can go all the way back to, again, 52 or so
+
+657
+00:34:18,980 --> 00:34:21,500
+to talk about the stochastic gradient descent and so on.
+
+658
+00:34:21,500 --> 00:34:23,460
+But to figure out the world or right way
+
+659
+00:34:23,460 --> 00:34:27,340
+to do the optimization took us another, let's say, half a century.
+
+660
+00:34:27,340 --> 00:34:31,340
+So what that means is that what is amazing is not the fact
+
+661
+00:34:31,340 --> 00:34:34,740
+that, OK, these are template-based as a generators that
+
+662
+00:34:34,740 --> 00:34:37,740
+have done amazing compression of the amazing amount of data
+
+663
+00:34:37,740 --> 00:34:39,540
+that looks to do something amazing.
+
+664
+00:34:39,540 --> 00:34:41,980
+But how we were able to actually build this.
+
+665
+00:34:41,980 --> 00:34:44,300
+So it's actually not that different from, let's say,
+
+666
+00:34:44,300 --> 00:34:47,340
+being amazed by, let's say, all those monsters.
+
+667
+00:34:47,340 --> 00:34:50,140
+It is doing something really, really amazing.
+
+668
+00:34:50,140 --> 00:34:54,220
+Inside that we don't know, understand how it's doing it.
+
+669
+00:34:54,220 --> 00:34:57,300
+Probably not in the way that human monsters are doing it.
+
+670
+00:34:57,300 --> 00:35:00,060
+But still, it is doing something that we didn't know
+
+671
+00:35:00,060 --> 00:35:02,460
+and that we still don't know exactly how it's doing.
+
+672
+00:35:02,460 --> 00:35:04,820
+So I think we're supposed to be amazed by this.
+
+673
+00:35:04,820 --> 00:35:06,580
+Now, of course, amazed.
+
+674
+00:35:06,580 --> 00:35:09,860
+And we have to try to figure out how not to be amazed as well.
+
+675
+00:35:09,860 --> 00:35:12,020
+Yes, and that's, I guess, our job.
+
+676
+00:35:12,020 --> 00:35:12,540
+Yes.
+
+677
+00:35:12,540 --> 00:35:16,540
+Well, connected to this, I mean, I think that the fact
+
+678
+00:35:16,540 --> 00:35:20,500
+that this is kind of a black box, that we don't know how
+
+679
+00:35:20,500 --> 00:35:25,780
+it generates this output from the prompt.
+
+680
+00:35:25,780 --> 00:35:30,660
+Also, leads us to computer science,
+
+681
+00:35:30,660 --> 00:35:34,020
+coding, programming, computer science, and AI,
+
+682
+00:35:34,020 --> 00:35:38,540
+used to be a discipline where you, the researcher,
+
+683
+00:35:38,540 --> 00:35:41,180
+the software engineer, the programmer,
+
+684
+00:35:41,180 --> 00:35:45,340
+were having some goal in mind for a machine to do that.
+
+685
+00:35:45,340 --> 00:35:47,700
+And then you were coding that.
+
+686
+00:35:47,700 --> 00:35:52,660
+So, and then there were verification, validation techniques,
+
+687
+00:35:52,660 --> 00:35:53,580
+and so on.
+
+688
+00:35:53,580 --> 00:35:57,540
+But you knew what the machine was going to do.
+
+689
+00:35:57,540 --> 00:35:59,980
+So, and then you would check that it would do it,
+
+690
+00:35:59,980 --> 00:36:02,060
+and you didn't put any bug, and so on.
+
+691
+00:36:02,060 --> 00:36:05,140
+Now, instead, so that was the computer science,
+
+692
+00:36:05,140 --> 00:36:07,980
+exact science kind of approach.
+
+693
+00:36:07,980 --> 00:36:12,180
+Now it's becoming, with data driven approaches,
+
+694
+00:36:12,180 --> 00:36:14,340
+more like a natural science.
+
+695
+00:36:14,340 --> 00:36:18,700
+So, you build this thing, but you don't know how it works,
+
+696
+00:36:18,700 --> 00:36:21,300
+and then you start experimenting and testing,
+
+697
+00:36:21,300 --> 00:36:24,020
+you develop some hypothesis, and then you test
+
+698
+00:36:24,020 --> 00:36:25,660
+whether the hypothesis is true or not.
+
+699
+00:36:25,660 --> 00:36:29,860
+So, it becomes closer to being a natural science,
+
+700
+00:36:29,860 --> 00:36:32,740
+rather than a computer science, right?
+
+701
+00:36:32,740 --> 00:36:37,580
+So, it's now merging these two approaches
+
+702
+00:36:37,580 --> 00:36:41,620
+that were typical of these two kinds of sciences,
+
+703
+00:36:41,620 --> 00:36:46,380
+disciplines, because of the nature of these machines
+
+704
+00:36:46,380 --> 00:36:49,300
+that we build, but we don't know how they work.
+
+705
+00:36:49,300 --> 00:36:54,300
+So, then we treat them as we treat the laws of physics,
+
+706
+00:36:55,180 --> 00:36:58,780
+that we try to find some properties of what we build,
+
+707
+00:36:58,780 --> 00:37:02,060
+because we don't know how they're going to behave.
+
+708
+00:37:02,060 --> 00:37:02,900
+I think that's it.
+
+709
+00:37:02,900 --> 00:37:04,180
+Let's go to another.
+
+710
+00:37:04,180 --> 00:37:06,060
+Okay, what we don't know?
+
+711
+00:37:06,060 --> 00:37:06,900
+Oh, I don't know.
+
+712
+00:37:06,900 --> 00:37:07,740
+Why?
+
+713
+00:37:07,740 --> 00:37:08,580
+Why don't we know?
+
+714
+00:37:08,580 --> 00:37:12,580
+So, I tried to answer the question myself every day.
+
+715
+00:37:12,580 --> 00:37:16,140
+So, yeah, but the reason why we don't know
+
+716
+00:37:16,140 --> 00:37:20,580
+how these things work is almost by construction.
+
+717
+00:37:20,580 --> 00:37:22,540
+And you've just pointed out,
+
+718
+00:37:22,540 --> 00:37:25,700
+so there are problems, small subset of problems
+
+719
+00:37:25,700 --> 00:37:29,220
+that we know how to solve by specifying what we want to do.
+
+720
+00:37:29,220 --> 00:37:31,300
+And then that's what the traditional computer science
+
+721
+00:37:31,300 --> 00:37:34,700
+has focused on over the past century, right?
+
+722
+00:37:34,700 --> 00:37:38,260
+And then there is a slightly bigger subset of the problems
+
+723
+00:37:38,260 --> 00:37:40,900
+for which we know the nature of the evolution
+
+724
+00:37:40,900 --> 00:37:42,460
+has figured out how to solve the problem.
+
+725
+00:37:42,460 --> 00:37:44,540
+So, yeah, for instance, us driving, right?
+
+726
+00:37:44,540 --> 00:37:47,700
+So, any person you take, give them 20 hours
+
+727
+00:37:47,700 --> 00:37:49,700
+of the driving lesson, we know that person
+
+728
+00:37:49,700 --> 00:37:52,460
+will be able to drive in the New York City without a nation.
+
+729
+00:37:52,460 --> 00:37:54,420
+So, there's a subset of the problems
+
+730
+00:37:54,420 --> 00:37:55,940
+where we know solution exists,
+
+731
+00:37:55,940 --> 00:37:57,620
+but we don't know how to implement the solution,
+
+732
+00:37:57,620 --> 00:37:59,260
+or implement the solution.
+
+733
+00:37:59,260 --> 00:38:01,860
+And then there's a subset of the bigger subset
+
+734
+00:38:01,860 --> 00:38:04,180
+of the problems where we don't yet know
+
+735
+00:38:04,180 --> 00:38:06,140
+whether nature or evolution or the universe
+
+736
+00:38:06,140 --> 00:38:07,620
+has figured out an answer to,
+
+737
+00:38:07,620 --> 00:38:09,820
+but then we want to solve those problems
+
+738
+00:38:09,820 --> 00:38:11,500
+because if you solve those problems,
+
+739
+00:38:11,500 --> 00:38:13,660
+it's going to be very, very practical and whatnot.
+
+740
+00:38:13,660 --> 00:38:15,860
+And then of course, there's a bigger set of problems
+
+741
+00:38:15,860 --> 00:38:19,340
+where maybe there's not even a solution to start with.
+
+742
+00:38:19,340 --> 00:38:21,260
+But then the machine learning, or this kind of,
+
+743
+00:38:21,260 --> 00:38:25,500
+this AEA, is there to solve the slightly larger subset
+
+744
+00:38:25,500 --> 00:38:28,860
+of the problems that we were not supposed to know
+
+745
+00:38:28,860 --> 00:38:31,260
+how to answer, but we know that the solution exists,
+
+746
+00:38:31,260 --> 00:38:32,660
+and we are going to build an algorithm
+
+747
+00:38:32,660 --> 00:38:35,180
+to come up with a solution to that one.
+
+748
+00:38:35,180 --> 00:38:38,660
+So, in a sense, if you knew how these solutions
+
+749
+00:38:38,660 --> 00:38:40,140
+that were given out by this machine learning
+
+750
+00:38:40,140 --> 00:38:42,420
+or the AEA algorithms were working,
+
+751
+00:38:42,420 --> 00:38:45,260
+then we probably would not have needed AEA
+
+752
+00:38:45,260 --> 00:38:46,540
+to be learning the solution.
+
+753
+00:38:46,540 --> 00:38:49,620
+So, let me give you some oversimplified view
+
+754
+00:38:49,620 --> 00:38:52,060
+of my answer to your question.
+
+755
+00:38:52,060 --> 00:38:55,020
+So, when you know how to solve a problem,
+
+756
+00:38:55,020 --> 00:38:57,980
+you can define an algorithm,
+
+757
+00:38:57,980 --> 00:38:59,820
+which just means a sequence of steps,
+
+758
+00:38:59,820 --> 00:39:01,700
+so you do this, and then you do this,
+
+759
+00:39:01,700 --> 00:39:04,020
+like a recipe, you take the ingredients,
+
+760
+00:39:04,020 --> 00:39:07,180
+then you mix the eggs and whatever,
+
+761
+00:39:07,180 --> 00:39:11,020
+then you do this, and then you get what you wanted as a result.
+
+762
+00:39:11,020 --> 00:39:12,940
+So, if you know how to solve a problem,
+
+763
+00:39:12,940 --> 00:39:16,420
+in that way, you could these steps into,
+
+764
+00:39:16,420 --> 00:39:18,620
+with whatever programming language you have,
+
+765
+00:39:18,620 --> 00:39:20,020
+you put this into a machine,
+
+766
+00:39:20,020 --> 00:39:21,940
+and the machine will follow the steps.
+
+767
+00:39:21,940 --> 00:39:23,580
+So, then you don't have a problem
+
+768
+00:39:23,580 --> 00:39:26,820
+of not knowing how the machine goes to the result,
+
+769
+00:39:26,820 --> 00:39:29,420
+because the machine followed exactly the steps
+
+770
+00:39:29,420 --> 00:39:32,740
+that you told them to get to the result.
+
+771
+00:39:32,740 --> 00:39:35,460
+But when you don't have these algorithms,
+
+772
+00:39:35,460 --> 00:39:39,380
+very clearly algorithm to find a result of a solution
+
+773
+00:39:39,380 --> 00:39:44,260
+to a problem, like in recognizing a face of a person,
+
+774
+00:39:44,260 --> 00:39:46,220
+or driving, or whatever,
+
+775
+00:39:46,220 --> 00:39:49,860
+you don't have this very nice recipe,
+
+776
+00:39:49,860 --> 00:39:52,780
+because there are so many variables to consider,
+
+777
+00:39:52,780 --> 00:39:55,660
+so many and so much uncertainty,
+
+778
+00:39:55,660 --> 00:39:58,940
+so what you do, you just give a lot of examples
+
+779
+00:39:58,940 --> 00:40:01,980
+of problems and solutions, problems and solutions.
+
+780
+00:40:01,980 --> 00:40:06,900
+And then let the machine learn from these examples,
+
+781
+00:40:06,900 --> 00:40:11,900
+by looking at the problem, finding something in output,
+
+782
+00:40:12,180 --> 00:40:14,260
+and if the output is different from the solution
+
+783
+00:40:14,260 --> 00:40:17,340
+that you gave, just modifying a little bit of parameters,
+
+784
+00:40:17,340 --> 00:40:20,100
+so that the distance between the two is smaller,
+
+785
+00:40:20,100 --> 00:40:22,140
+and then with the next problem, next problem is for it.
+
+786
+00:40:22,140 --> 00:40:24,980
+So, at the end, you get the machine that,
+
+787
+00:40:24,980 --> 00:40:28,060
+by testing it, it behaves rather well
+
+788
+00:40:28,060 --> 00:40:30,300
+in that problem of finding a solution,
+
+789
+00:40:30,300 --> 00:40:33,460
+but you don't know, you cannot see,
+
+790
+00:40:33,460 --> 00:40:35,660
+there is no sequence of steps,
+
+791
+00:40:35,660 --> 00:40:38,500
+that tells you what the machine is doing exactly
+
+792
+00:40:38,500 --> 00:40:39,340
+how to solve the problem,
+
+793
+00:40:39,340 --> 00:40:40,580
+because there is no sequence of that,
+
+794
+00:40:40,580 --> 00:40:43,300
+as he was saying, if there were a sequence of steps
+
+795
+00:40:43,300 --> 00:40:45,020
+to solve the problem, you would use it,
+
+796
+00:40:45,020 --> 00:40:47,420
+and you would not use these other algorithms,
+
+797
+00:40:47,420 --> 00:40:50,100
+but to recognize a face, for example,
+
+798
+00:40:50,100 --> 00:40:53,220
+there is no one sequence of steps that you can use,
+
+799
+00:40:53,220 --> 00:40:55,540
+so you have to use these other approach,
+
+800
+00:40:55,540 --> 00:40:58,820
+but then you're not sure exactly what comes out,
+
+801
+00:40:58,820 --> 00:41:00,220
+why it comes out.
+
+802
+00:41:00,220 --> 00:41:03,940
+Let me get an illustration of how little we understand.
+
+803
+00:41:03,940 --> 00:41:07,100
+So, all the big, famous successes have been driven
+
+804
+00:41:07,100 --> 00:41:11,620
+by a machine architecture called a transformer architecture.
+
+805
+00:41:14,420 --> 00:41:17,780
+However, so I think initially people thought,
+
+806
+00:41:17,780 --> 00:41:19,180
+well, look at this architecture,
+
+807
+00:41:19,180 --> 00:41:21,860
+that's really responsible for all this stuff,
+
+808
+00:41:21,860 --> 00:41:24,740
+but now it looks like people are moving
+
+809
+00:41:24,740 --> 00:41:27,300
+towards getting similar successes,
+
+810
+00:41:27,300 --> 00:41:29,260
+using other architectures,
+
+811
+00:41:29,260 --> 00:41:33,540
+so it's not even clear that it is the transformer architecture
+
+812
+00:41:33,540 --> 00:41:36,300
+that is really responsible for the big successes.
+
+813
+00:41:36,300 --> 00:41:39,500
+So, I think what you said about natural science,
+
+814
+00:41:39,500 --> 00:41:42,300
+it is much more like a natural science,
+
+815
+00:41:42,300 --> 00:41:45,020
+now you can build a successful model,
+
+816
+00:41:45,020 --> 00:41:47,620
+but understanding what they're doing
+
+817
+00:41:47,620 --> 00:41:50,740
+is like we're examining it like we examine
+
+818
+00:41:50,740 --> 00:41:53,100
+the nature of atoms or something.
+
+819
+00:41:53,100 --> 00:41:55,820
+So, it's a real puzzle.
+
+820
+00:41:55,820 --> 00:41:57,900
+Well, we don't know how we ride a bike,
+
+821
+00:41:57,900 --> 00:42:01,420
+I mean, in the sense in which we don't understand computers
+
+822
+00:42:01,420 --> 00:42:03,300
+and how they figure out problems,
+
+823
+00:42:03,300 --> 00:42:04,900
+we don't know how we ride a bike,
+
+824
+00:42:04,900 --> 00:42:06,500
+I mean, we train ourselves.
+
+825
+00:42:06,500 --> 00:42:09,220
+Careful with that, because there are things
+
+826
+00:42:09,220 --> 00:42:13,140
+that sound similar where there is a real simple algorithm,
+
+827
+00:42:13,140 --> 00:42:14,620
+like catching a fly ball.
+
+828
+00:42:14,620 --> 00:42:15,820
+Right, I was gonna say that.
+
+829
+00:42:15,820 --> 00:42:17,980
+There's a stateable algorithm,
+
+830
+00:42:17,980 --> 00:42:20,060
+it seemed mysterious like riding a bike,
+
+831
+00:42:20,060 --> 00:42:22,220
+it turns out there was a stateable algorithm.
+
+832
+00:42:22,220 --> 00:42:24,460
+But following along with Francesca's idea,
+
+833
+00:42:24,460 --> 00:42:27,700
+it required natural science investigations
+
+834
+00:42:27,700 --> 00:42:28,980
+to come up with that solution,
+
+835
+00:42:28,980 --> 00:42:31,820
+because the person on the street who rides a bike,
+
+836
+00:42:31,820 --> 00:42:34,660
+or the outfielder who catches a pop fly,
+
+837
+00:42:34,660 --> 00:42:36,980
+can't tell you, well, this is how my brain figures it out,
+
+838
+00:42:36,980 --> 00:42:41,980
+right, it's a scientific problem to look into, right?
+
+839
+00:42:41,980 --> 00:42:45,820
+So, another example like that is chicken sexting.
+
+840
+00:42:45,820 --> 00:42:49,260
+So, for many years, that was, you know, so, you.
+
+841
+00:42:49,260 --> 00:42:50,260
+But that was illegal.
+
+842
+00:42:50,260 --> 00:42:55,260
+But you used to have these, it was a school in Chicago,
+
+843
+00:42:55,300 --> 00:42:58,340
+actually called the Chicago School of Chicken Sexting.
+
+844
+00:42:58,340 --> 00:43:00,740
+And the problem was you had these baby chicks,
+
+845
+00:43:00,740 --> 00:43:02,340
+but you didn't know that they were hens,
+
+846
+00:43:02,340 --> 00:43:04,220
+or gonna grow up to be hens or roosters.
+
+847
+00:43:04,220 --> 00:43:07,060
+So, for commercial purposes, you need to separate them.
+
+848
+00:43:07,060 --> 00:43:11,700
+And for years, there were these trained people who did,
+
+849
+00:43:11,700 --> 00:43:13,580
+and nobody knew how they did.
+
+850
+00:43:13,580 --> 00:43:15,340
+And somebody did, you know,
+
+851
+00:43:15,340 --> 00:43:16,820
+quite investigated a little more,
+
+852
+00:43:16,820 --> 00:43:18,500
+and they figured out exactly what they were doing.
+
+853
+00:43:18,500 --> 00:43:21,940
+And now they have a very simple method to figure it out.
+
+854
+00:43:21,940 --> 00:43:24,100
+So, you can have a lot of things
+
+855
+00:43:24,100 --> 00:43:26,340
+that people can do through training,
+
+856
+00:43:26,340 --> 00:43:27,420
+and you don't understand them.
+
+857
+00:43:27,420 --> 00:43:30,340
+And then if you investigate, sometimes you understand them.
+
+858
+00:43:30,340 --> 00:43:33,140
+And that may well happen with these machines.
+
+859
+00:43:33,140 --> 00:43:36,460
+We, you know, if we get many different architectures
+
+860
+00:43:36,460 --> 00:43:39,860
+that can do the same thing, look, it could turn out
+
+861
+00:43:39,860 --> 00:43:43,420
+that the fundamental basis is just prediction.
+
+862
+00:43:43,420 --> 00:43:46,460
+That, you know, people didn't used to think
+
+863
+00:43:46,460 --> 00:43:50,540
+that the way the mind worked was so heavily reliant
+
+864
+00:43:50,540 --> 00:43:55,540
+on prediction, and, you know, for some years now,
+
+865
+00:43:55,540 --> 00:43:58,660
+there's people who've studied perception,
+
+866
+00:43:58,660 --> 00:44:00,660
+not cognition, but perception,
+
+867
+00:44:00,660 --> 00:44:02,340
+have been focusing on prediction.
+
+868
+00:44:02,340 --> 00:44:04,740
+Maybe that's the key here,
+
+869
+00:44:04,740 --> 00:44:07,180
+is that however you can do the prediction,
+
+870
+00:44:07,180 --> 00:44:10,420
+that's what makes the thing run.
+
+871
+00:44:10,420 --> 00:44:11,820
+If I can just add to that,
+
+872
+00:44:11,820 --> 00:44:14,620
+so what we've been doing in the lab for a number of years
+
+873
+00:44:14,620 --> 00:44:16,740
+is precisely this kind of experiment,
+
+874
+00:44:16,740 --> 00:44:19,220
+and it is extremely tricky,
+
+875
+00:44:19,220 --> 00:44:21,580
+because it is sampling from this distribution,
+
+876
+00:44:21,580 --> 00:44:23,740
+a probability, but you can actually tune it
+
+877
+00:44:23,740 --> 00:44:26,180
+to get more surprise or less surprise.
+
+878
+00:44:26,180 --> 00:44:27,780
+It doesn't work like a Google search,
+
+879
+00:44:27,780 --> 00:44:30,260
+so many times when our students start to work with it,
+
+880
+00:44:30,260 --> 00:44:32,900
+they think it's gonna work just like using Google search.
+
+881
+00:44:32,900 --> 00:44:34,900
+In fact, the interface is very different,
+
+882
+00:44:34,900 --> 00:44:37,060
+because it's gonna continue with whatever you give it.
+
+883
+00:44:37,060 --> 00:44:39,020
+If you give it very general language,
+
+884
+00:44:39,020 --> 00:44:41,740
+it won't give you anything back except generality.
+
+885
+00:44:41,740 --> 00:44:43,580
+So you have to give it the texture,
+
+886
+00:44:43,580 --> 00:44:47,140
+you have to think about language in terms of complexity
+
+887
+00:44:47,140 --> 00:44:50,620
+in order to get it to give you that complexity back.
+
+888
+00:44:50,620 --> 00:44:52,100
+And so, and then you have to think,
+
+889
+00:44:52,100 --> 00:44:53,980
+if you train it to write like a writer,
+
+890
+00:44:53,980 --> 00:44:55,180
+how long do I train it?
+
+891
+00:44:55,180 --> 00:44:57,300
+You can over train it, you can under train it.
+
+892
+00:44:57,300 --> 00:44:59,540
+So you're in this entire search space,
+
+893
+00:44:59,540 --> 00:45:02,060
+and then there's a question of how many times do you try it?
+
+894
+00:45:02,060 --> 00:45:03,220
+You try it a hundred times,
+
+895
+00:45:03,220 --> 00:45:05,020
+and how do you figure that out?
+
+896
+00:45:05,020 --> 00:45:08,540
+So it's actually extremely difficult even to experiment with it.
+
+897
+00:45:08,540 --> 00:45:10,140
+And just to give you an example,
+
+898
+00:45:10,140 --> 00:45:13,580
+we created this diva bot, an AI that the improv,
+
+899
+00:45:13,580 --> 00:45:15,820
+and we worked with an actress in LA.
+
+900
+00:45:15,820 --> 00:45:18,740
+And she had a very difficult time doing improv
+
+901
+00:45:18,740 --> 00:45:19,660
+in the typical way,
+
+902
+00:45:19,660 --> 00:45:22,660
+which is that you give a kind of general response
+
+903
+00:45:22,660 --> 00:45:24,620
+to your fellow improv,
+
+904
+00:45:24,620 --> 00:45:27,700
+improvisers so that they can do something cool with it.
+
+905
+00:45:27,700 --> 00:45:30,620
+Well, if you give a general prompt to the AI,
+
+906
+00:45:30,620 --> 00:45:32,580
+it gives a general prompt back.
+
+907
+00:45:32,580 --> 00:45:35,260
+She had a better time giving very specific things,
+
+908
+00:45:35,260 --> 00:45:37,500
+like she was comforting a crying baby,
+
+909
+00:45:37,500 --> 00:45:39,660
+and I hope I can say this on YouTube.
+
+910
+00:45:39,660 --> 00:45:41,980
+She says, how do I start my crying baby?
+
+911
+00:45:41,980 --> 00:45:43,620
+Well, the diva bot, the DPT2,
+
+912
+00:45:43,620 --> 00:45:46,460
+which is a fairly small model, said, where are condom?
+
+913
+00:45:46,460 --> 00:45:49,060
+Wow.
+
+914
+00:45:49,060 --> 00:45:50,460
+Is that created?
+
+915
+00:45:50,460 --> 00:45:51,460
+Oh.
+
+916
+00:45:53,860 --> 00:45:54,860
+You may have to delete that.
+
+917
+00:45:54,860 --> 00:45:55,860
+I apologize.
+
+918
+00:45:55,860 --> 00:45:56,860
+Oh, well.
+
+919
+00:45:56,860 --> 00:45:57,860
+No way.
+
+920
+00:45:57,860 --> 00:45:59,860
+It was too good.
+
+921
+00:45:59,860 --> 00:46:02,260
+Well, that's the computer to explain why that was so funny.
+
+922
+00:46:02,260 --> 00:46:05,180
+Well, they can do that together.
+
+923
+00:46:05,180 --> 00:46:08,380
+But you know, if we can go back to the question of not knowing,
+
+924
+00:46:08,380 --> 00:46:11,940
+and kind of, I feel like we were talking about
+
+925
+00:46:11,940 --> 00:46:13,780
+slightly different forms of not knowing.
+
+926
+00:46:13,780 --> 00:46:17,660
+So there is not knowing, there's a part inside of the process,
+
+927
+00:46:17,660 --> 00:46:20,780
+and there's a part which we can't quite explain.
+
+928
+00:46:20,780 --> 00:46:23,380
+And that doesn't seem to me that unusual.
+
+929
+00:46:23,380 --> 00:46:25,580
+So there's plenty of engineering solutions
+
+930
+00:46:25,580 --> 00:46:28,260
+where we sort of know that they work and we design them.
+
+931
+00:46:28,260 --> 00:46:31,940
+But like, if you, so for example, like slash memory.
+
+932
+00:46:31,940 --> 00:46:34,260
+Flash memory works by quantum tunneling.
+
+933
+00:46:34,260 --> 00:46:37,140
+If you ask somebody like, show me exactly how did the
+
+934
+00:46:37,140 --> 00:46:40,300
+electronic penetrate the blavo, you can't.
+
+935
+00:46:40,300 --> 00:46:41,780
+It's unpredictable.
+
+936
+00:46:41,780 --> 00:46:44,260
+But we know it's like a very predictable process.
+
+937
+00:46:44,260 --> 00:46:45,500
+Like we're comfortable with it.
+
+938
+00:46:45,500 --> 00:46:47,260
+It doesn't seem to be that.
+
+939
+00:46:47,260 --> 00:46:50,260
+But there is a part of it, part of the chain of explanation,
+
+940
+00:46:50,260 --> 00:46:51,940
+which is missing.
+
+941
+00:46:51,940 --> 00:46:54,860
+And it's, we're okay with that.
+
+942
+00:46:54,860 --> 00:46:56,780
+So that's one type of a knowing.
+
+943
+00:46:56,780 --> 00:46:59,540
+The other type of a knowing, I think very important
+
+944
+00:46:59,540 --> 00:47:02,580
+that you mentioned is we don't know the political,
+
+945
+00:47:02,580 --> 00:47:04,540
+social, cultural effects.
+
+946
+00:47:04,540 --> 00:47:09,180
+So we don't know what that technology will do to us.
+
+947
+00:47:09,180 --> 00:47:10,980
+And I think you're very, very, very,
+
+948
+00:47:10,980 --> 00:47:14,260
+it's very important to kind of like experiment and think
+
+949
+00:47:14,260 --> 00:47:18,020
+and reflect about what the effects will be.
+
+950
+00:47:18,020 --> 00:47:21,060
+You know, when I looked at, I was reading the papers
+
+951
+00:47:21,060 --> 00:47:21,900
+of Licklider.
+
+952
+00:47:21,900 --> 00:47:24,620
+So remember Licklider was a Palo Alto research lab.
+
+953
+00:47:24,620 --> 00:47:27,620
+They did the joystick and they did a lot of early,
+
+954
+00:47:27,620 --> 00:47:30,820
+also early, some of the first ward processors
+
+955
+00:47:30,820 --> 00:47:32,500
+were developed in this lab.
+
+956
+00:47:32,500 --> 00:47:34,340
+And so they developed, so for example, I remember,
+
+957
+00:47:34,340 --> 00:47:36,780
+they developed a copy and paste function.
+
+958
+00:47:36,780 --> 00:47:38,340
+And they're like, our mind is blown.
+
+959
+00:47:38,340 --> 00:47:40,700
+You can take a whole chunk of text
+
+960
+00:47:40,700 --> 00:47:43,340
+and like move it to another place.
+
+961
+00:47:43,340 --> 00:47:46,340
+But what I loved, what they did, and which we don't do is
+
+962
+00:47:46,340 --> 00:47:48,420
+they said, let's experiment with this
+
+963
+00:47:48,420 --> 00:47:50,700
+and have a diary of what that does
+
+964
+00:47:50,700 --> 00:47:52,180
+to our process of creativity.
+
+965
+00:47:52,180 --> 00:47:54,700
+Because we don't know, we don't know what this weird
+
+966
+00:47:54,700 --> 00:47:57,860
+copy and basting will do to our process of writing.
+
+967
+00:47:57,860 --> 00:47:59,660
+And then there's like this purposeful,
+
+968
+00:47:59,660 --> 00:48:01,940
+let's integrate this into our research.
+
+969
+00:48:01,940 --> 00:48:03,620
+Let's treat it like a natural.
+
+970
+00:48:03,620 --> 00:48:06,940
+It's a system that has complicated
+
+971
+00:48:06,940 --> 00:48:10,620
+and unpredictable social cognitive effects on writing.
+
+972
+00:48:10,620 --> 00:48:11,980
+And so they're like, let's have,
+
+973
+00:48:11,980 --> 00:48:14,420
+there are these cognitive diaries of like,
+
+974
+00:48:14,420 --> 00:48:16,180
+here is how my writing changed,
+
+975
+00:48:16,180 --> 00:48:20,980
+because I'm able to very fluently take a piece of text
+
+976
+00:48:20,980 --> 00:48:22,380
+and move it to a different place.
+
+977
+00:48:22,380 --> 00:48:25,220
+I can cut it apart, I can separate it.
+
+978
+00:48:25,220 --> 00:48:26,860
+So that's, and I'm like, I love it.
+
+979
+00:48:26,860 --> 00:48:28,140
+And we should do more of that.
+
+980
+00:48:28,140 --> 00:48:29,860
+We should kind of have a lab
+
+981
+00:48:29,860 --> 00:48:31,860
+which does the social, cultural,
+
+982
+00:48:31,860 --> 00:48:35,420
+and political experimentation with this new systems.
+
+983
+00:48:35,420 --> 00:48:36,940
+Well that raises the initiative
+
+984
+00:48:36,940 --> 00:48:38,300
+we really haven't talked about,
+
+985
+00:48:38,300 --> 00:48:42,980
+which is, are there gonna be bad effects of these systems?
+
+986
+00:48:42,980 --> 00:48:46,020
+And can we think about that or think about what to do?
+
+987
+00:48:46,020 --> 00:48:49,260
+But I mean, the thing that worries me the most is that,
+
+988
+00:48:50,380 --> 00:48:53,820
+you know, with a huge success of OpenAI,
+
+989
+00:48:53,820 --> 00:48:57,900
+every big tech company is making humongous machines,
+
+990
+00:48:57,900 --> 00:48:59,660
+you know, so GPD 3,
+
+991
+00:48:59,660 --> 00:49:02,300
+$175 billion in parameters and the new Google one
+
+992
+00:49:02,300 --> 00:49:04,620
+is $500 million GPT 3,
+
+993
+00:49:04,620 --> 00:49:08,540
+I'm sure GPT 4 will have sure be even bigger.
+
+994
+00:49:08,540 --> 00:49:10,860
+And the thing is, the bigger they get,
+
+995
+00:49:10,860 --> 00:49:15,220
+the more hidden are the failures.
+
+996
+00:49:15,220 --> 00:49:18,620
+So they'll be able to, you know,
+
+997
+00:49:19,820 --> 00:49:22,260
+so they won't, the failures won't be just,
+
+998
+00:49:22,260 --> 00:49:24,140
+so much they're out in the open,
+
+999
+00:49:24,140 --> 00:49:27,460
+but with all the money invested in them,
+
+1000
+00:49:27,460 --> 00:49:29,500
+there's gonna be a lot of pressure to use them.
+
+1001
+00:49:29,500 --> 00:49:34,500
+And people are experimenting with a pixel of inputs
+
+1002
+00:49:35,580 --> 00:49:38,100
+and robotic outputs now.
+
+1003
+00:49:38,100 --> 00:49:42,980
+And I think with all the so much money in this stuff now,
+
+1004
+00:49:42,980 --> 00:49:46,100
+there's gonna be, you know, robots with eyes
+
+1005
+00:49:46,100 --> 00:49:49,100
+and, you know, can do things in the world.
+
+1006
+00:49:49,100 --> 00:49:52,700
+And they're gonna be powered by these machines
+
+1007
+00:49:52,700 --> 00:49:55,980
+that in some fundamental way are unreliable.
+
+1008
+00:49:55,980 --> 00:49:58,260
+I think that's the term that Francesca used.
+
+1009
+00:49:58,260 --> 00:50:01,420
+They don't know, they don't have a world model,
+
+1010
+00:50:01,420 --> 00:50:04,100
+they don't know what the facts are,
+
+1011
+00:50:04,100 --> 00:50:06,340
+and they can't count very well,
+
+1012
+00:50:06,340 --> 00:50:08,340
+they can't do, you know, I mean,
+
+1013
+00:50:08,340 --> 00:50:11,380
+I'm sure that the GPT 4 and GPT 5
+
+1014
+00:50:11,380 --> 00:50:14,180
+will be really good in small rhythmic problems,
+
+1015
+00:50:14,180 --> 00:50:16,900
+but maybe there'll be some other rhythmic problems
+
+1016
+00:50:16,900 --> 00:50:19,340
+where it'll completely fail.
+
+1017
+00:50:19,340 --> 00:50:22,540
+And those things will be used commercially.
+
+1018
+00:50:22,540 --> 00:50:26,100
+Yeah, and it's not just a matter of being correct
+
+1019
+00:50:26,100 --> 00:50:30,060
+or failing, it's also that these models,
+
+1020
+00:50:30,060 --> 00:50:32,220
+that they don't know exactly what it means
+
+1021
+00:50:32,220 --> 00:50:33,820
+to fail and be correct.
+
+1022
+00:50:33,820 --> 00:50:37,740
+But it's also that these models are trained in this way.
+
+1023
+00:50:37,740 --> 00:50:41,300
+They don't have really a clue of the values
+
+1024
+00:50:41,300 --> 00:50:44,540
+that we want to have in our technology
+
+1025
+00:50:44,540 --> 00:50:47,780
+when we allow the technology to make decisions
+
+1026
+00:50:47,780 --> 00:50:51,420
+or to recommend decisions to a human being.
+
+1027
+00:50:51,420 --> 00:50:53,300
+Also, they don't know about fairness,
+
+1028
+00:50:53,300 --> 00:50:56,180
+so it has been shown that in many examples,
+
+1029
+00:50:56,180 --> 00:50:58,620
+these models are biased,
+
+1030
+00:50:58,620 --> 00:51:01,300
+so they make, they say things,
+
+1031
+00:51:01,300 --> 00:51:05,420
+they write things in a way that shows that they are biased.
+
+1032
+00:51:05,420 --> 00:51:09,180
+And that's because there was really no curation
+
+1033
+00:51:09,180 --> 00:51:11,580
+of the data that they were trained on.
+
+1034
+00:51:11,580 --> 00:51:15,580
+And it's not possible to have a curation of that data.
+
+1035
+00:51:15,580 --> 00:51:19,580
+Maybe it will be possible by using these two steps approach,
+
+1036
+00:51:19,580 --> 00:51:22,060
+like first you'd build something like GPT 3,
+
+1037
+00:51:22,060 --> 00:51:24,780
+and then you found a unit for a specific task,
+
+1038
+00:51:24,780 --> 00:51:27,180
+and then you try to do the best you can
+
+1039
+00:51:27,180 --> 00:51:29,940
+to do biased mitigation in that second step.
+
+1040
+00:51:29,940 --> 00:51:32,780
+But in any way, you have to find a way
+
+1041
+00:51:32,780 --> 00:51:36,620
+to make sure that they do things or write things
+
+1042
+00:51:36,620 --> 00:51:38,940
+in a way that embeds our values.
+
+1043
+00:51:38,940 --> 00:51:43,260
+Otherwise, they got, not only they tell you wrong things,
+
+1044
+00:51:43,260 --> 00:51:44,740
+but they tell you things,
+
+1045
+00:51:44,740 --> 00:51:47,420
+even when the problem is not right or wrong,
+
+1046
+00:51:47,420 --> 00:51:49,860
+but they tell you things in a way that is,
+
+1047
+00:51:49,860 --> 00:51:52,900
+I mean, the GPT 3 has been tested in a,
+
+1048
+00:51:52,900 --> 00:51:57,900
+in a tested suicide hotline,
+
+1049
+00:51:59,220 --> 00:52:03,820
+and somebody interacted saying that he wanted to,
+
+1050
+00:52:03,820 --> 00:52:08,260
+he was thinking about committing suicide and GPT 3,
+
+1051
+00:52:08,260 --> 00:52:10,220
+I don't know if it was GPT 3,
+
+1052
+00:52:10,220 --> 00:52:13,700
+but the language model responded, said, you should.
+
+1053
+00:52:13,700 --> 00:52:17,220
+So we have to be careful about deploying them.
+
+1054
+00:52:17,220 --> 00:52:21,060
+First, we have to understand how to embed our values.
+
+1055
+00:52:21,060 --> 00:52:25,660
+And I have this feeling that to embed values
+
+1056
+00:52:25,660 --> 00:52:28,700
+in these models, you cannot just do it with more data,
+
+1057
+00:52:28,700 --> 00:52:32,300
+more computing power, and only a data driven approach,
+
+1058
+00:52:32,300 --> 00:52:35,300
+but you have to combine data driven approaches
+
+1059
+00:52:35,300 --> 00:52:37,100
+with rule-based approaches.
+
+1060
+00:52:37,100 --> 00:52:40,100
+Because bottom up and the top down approach,
+
+1061
+00:52:40,100 --> 00:52:43,540
+you cannot, I mean, you cannot, it's a big word.
+
+1062
+00:52:43,540 --> 00:52:46,340
+I'm saying, I don't see that emerging for now
+
+1063
+00:52:46,340 --> 00:52:48,940
+from a data driven approach only.
+
+1064
+00:52:48,940 --> 00:52:51,940
+I can push back on that, because especially on the idea
+
+1065
+00:52:51,940 --> 00:52:55,700
+how we should, how we can now let you solve these problems
+
+1066
+00:52:55,700 --> 00:52:58,420
+from the using the data driven approach.
+
+1067
+00:52:58,420 --> 00:53:01,940
+In a sense that the, the set of approaches that we have used
+
+1068
+00:53:01,940 --> 00:53:04,580
+so far in order to build this large-scale language model
+
+1069
+00:53:04,580 --> 00:53:07,460
+is extremely, extremely narrow,
+
+1070
+00:53:07,460 --> 00:53:09,940
+in particular, we've viewed the entire field of machine
+
+1071
+00:53:09,940 --> 00:53:11,660
+learning more artificial intelligence.
+
+1072
+00:53:11,660 --> 00:53:14,300
+So let me just call it, let's say, more of a passive,
+
+1073
+00:53:14,300 --> 00:53:16,780
+let's say machine learning where the data was somewhat
+
+1074
+00:53:16,780 --> 00:53:20,740
+collected with purpose that may not necessarily align well
+
+1075
+00:53:20,740 --> 00:53:23,820
+with the purpose of how we use data.
+
+1076
+00:53:23,820 --> 00:53:26,540
+And then we try our best with this statistical approach
+
+1077
+00:53:26,540 --> 00:53:28,740
+in order to say, how better, compress better
+
+1078
+00:53:28,740 --> 00:53:30,820
+so that the work is going to generalize better.
+
+1079
+00:53:30,820 --> 00:53:32,780
+However, that's just a one very narrow sense
+
+1080
+00:53:32,780 --> 00:53:33,820
+of machine learning.
+
+1081
+00:53:33,820 --> 00:53:36,300
+In fact, you have another side that I would call
+
+1082
+00:53:36,300 --> 00:53:38,380
+as, let's say, active machine learning
+
+1083
+00:53:38,380 --> 00:53:41,700
+is where we introduce the assumption that the systems
+
+1084
+00:53:41,700 --> 00:53:44,740
+are going to actually interact with the other systems
+
+1085
+00:53:44,740 --> 00:53:46,420
+or even with the environment.
+
+1086
+00:53:46,420 --> 00:53:48,660
+And then within, of course, we can either make them
+
+1087
+00:53:48,660 --> 00:53:50,020
+actually interact with the environments
+
+1088
+00:53:50,020 --> 00:53:53,020
+or we can also say that the, well, here's a set of data
+
+1089
+00:53:53,020 --> 00:53:55,740
+that was collected based on the assumption
+
+1090
+00:53:55,740 --> 00:53:57,820
+that there were some kind of interaction
+
+1091
+00:53:57,820 --> 00:53:59,700
+that is going to happen in the future.
+
+1092
+00:53:59,700 --> 00:54:02,820
+Then you can now start using all those offline reinforcement
+
+1093
+00:54:02,820 --> 00:54:05,340
+learning algorithms, active learning algorithms,
+
+1094
+00:54:05,340 --> 00:54:07,420
+and even some of the notions from causality
+
+1095
+00:54:07,420 --> 00:54:10,180
+and things that are beyond the simple, let's say,
+
+1096
+00:54:10,180 --> 00:54:12,300
+statistical approaches coming.
+
+1097
+00:54:12,300 --> 00:54:15,780
+And then my sense is that it may not have to be role-based
+
+1098
+00:54:15,780 --> 00:54:17,020
+but something that is beyond.
+
+1099
+00:54:17,020 --> 00:54:18,980
+But already there are a lot of, let's say,
+
+1100
+00:54:18,980 --> 00:54:21,540
+candid algorithms as well as these sub disciplines
+
+1101
+00:54:21,540 --> 00:54:23,460
+of the machine learning that are being studied.
+
+1102
+00:54:23,460 --> 00:54:25,940
+And then have been studied for many years.
+
+1103
+00:54:25,940 --> 00:54:29,260
+OK, historical is saying, the Alan Turing already wrote
+
+1104
+00:54:29,260 --> 00:54:30,660
+a lot about the machine intelligence.
+
+1105
+00:54:30,660 --> 00:54:32,580
+And one of the things that Alan Turing did mention
+
+1106
+00:54:32,580 --> 00:54:35,100
+and emphasized back then in the lesson in his writing
+
+1107
+00:54:35,100 --> 00:54:38,180
+for this is the necessity of the reinforcement.
+
+1108
+00:54:38,180 --> 00:54:41,740
+So the system interacting with the users or the aline farmers
+
+1109
+00:54:41,740 --> 00:54:44,900
+and then get the signal that actually tells the system
+
+1110
+00:54:44,900 --> 00:54:47,580
+about what it observes is a line well
+
+1111
+00:54:47,580 --> 00:54:49,140
+with what is supposed to do.
+
+1112
+00:54:49,140 --> 00:54:51,780
+So I almost feel like it's not really
+
+1113
+00:54:51,780 --> 00:54:54,100
+about the overall data-driven approach
+
+1114
+00:54:54,100 --> 00:54:56,780
+but more like the narrow subset of the algorithms
+
+1115
+00:54:56,780 --> 00:54:58,180
+that we have used so far.
+
+1116
+00:54:58,180 --> 00:54:59,620
+So why is the limitation of that?
+
+1117
+00:54:59,620 --> 00:55:02,740
+And is it possible that we already have some solutions
+
+1118
+00:55:02,740 --> 00:55:05,260
+to many of the issues that have been raised
+
+1119
+00:55:05,260 --> 00:55:07,500
+with the current generation of language models?
+
+1120
+00:55:07,500 --> 00:55:10,820
+Maybe GPT-4 is going to be trained with something else
+
+1121
+00:55:10,820 --> 00:55:13,340
+or Fiverr before I heard that they already trained this
+
+1122
+00:55:13,340 --> 00:55:14,940
+on everyone.
+
+1123
+00:55:14,940 --> 00:55:16,180
+I like what you're saying.
+
+1124
+00:55:16,180 --> 00:55:18,580
+And one of the reasons why I teach humanists
+
+1125
+00:55:18,580 --> 00:55:20,740
+and social scientists and artists all about AI
+
+1126
+00:55:20,740 --> 00:55:23,620
+is because I want all of us to have a seat at the table
+
+1127
+00:55:23,620 --> 00:55:24,700
+and discuss these things.
+
+1128
+00:55:24,700 --> 00:55:27,460
+But one of the most interesting things to me so far
+
+1129
+00:55:27,460 --> 00:55:30,060
+is I ask students to come up with these rules.
+
+1130
+00:55:30,060 --> 00:55:32,100
+And they're very uncomfortable and most do not.
+
+1131
+00:55:32,100 --> 00:55:35,140
+And they find that their ethics and their value system
+
+1132
+00:55:35,140 --> 00:55:38,020
+cannot be put into rules.
+
+1133
+00:55:38,020 --> 00:55:40,780
+And so we're going to have to deal with this in an interesting
+
+1134
+00:55:40,780 --> 00:55:43,940
+and then the question is whose rules and who decides.
+
+1135
+00:55:43,940 --> 00:55:46,060
+And can we even decide amongst ourselves
+
+1136
+00:55:46,060 --> 00:55:48,780
+if we agree on what these rules are?
+
+1137
+00:55:48,780 --> 00:55:53,140
+So I agree with you that we want to have a human-centered AI
+
+1138
+00:55:53,140 --> 00:55:58,660
+but I'm not sure it's as easy as just coming up with rules.
+
+1139
+00:55:58,660 --> 00:56:01,500
+Isn't that the question to all technology?
+
+1140
+00:56:01,500 --> 00:56:03,860
+And what you're saying and what you've mentioned
+
+1141
+00:56:03,860 --> 00:56:07,020
+is embedded values are embedded.
+
+1142
+00:56:07,020 --> 00:56:10,660
+OK, what are the embedded values in the automobile?
+
+1143
+00:56:10,660 --> 00:56:13,300
+Look at the effects of roads and cars.
+
+1144
+00:56:13,300 --> 00:56:15,900
+So it's interesting how we're in this moment.
+
+1145
+00:56:15,900 --> 00:56:18,420
+I think because it's called artificial intelligence,
+
+1146
+00:56:18,420 --> 00:56:20,820
+we expect more from you.
+
+1147
+00:56:20,820 --> 00:56:27,620
+But other kind of fantastic technologies like driving,
+
+1148
+00:56:27,620 --> 00:56:30,060
+they seem banal and mundane.
+
+1149
+00:56:30,060 --> 00:56:33,300
+But yet they have, they like reformed the world
+
+1150
+00:56:33,300 --> 00:56:36,900
+from the politics of energy to the way our cities are structured.
+
+1151
+00:56:36,900 --> 00:56:40,980
+And also not, I can't say that I court to my values.
+
+1152
+00:56:40,980 --> 00:56:44,060
+Maybe it's easier to commute but then at the same time
+
+1153
+00:56:44,060 --> 00:56:45,060
+there's pollution.
+
+1154
+00:56:45,060 --> 00:56:49,060
+And again, it's the problem where the value was not necessarily
+
+1155
+00:56:49,060 --> 00:56:51,220
+embedded in engineering itself.
+
+1156
+00:56:51,220 --> 00:56:54,100
+Because the engineering often has a specific problem.
+
+1157
+00:56:54,100 --> 00:56:56,900
+Whereas the political and the social impact
+
+1158
+00:56:56,900 --> 00:57:00,980
+has, it's immersed in the complexity of human existence,
+
+1159
+00:57:00,980 --> 00:57:05,980
+which is not rule-based and it's not kind of resolved.
+
+1160
+00:57:05,980 --> 00:57:08,860
+I'm glad you raised the point about just using
+
+1161
+00:57:08,860 --> 00:57:11,020
+the phrase artificial intelligence makes us view it
+
+1162
+00:57:11,020 --> 00:57:11,740
+one way.
+
+1163
+00:57:11,740 --> 00:57:13,900
+One thought experiment I've found that kind of helps for me
+
+1164
+00:57:13,900 --> 00:57:18,860
+at least is everything GPT-3 in these models know, of course,
+
+1165
+00:57:18,860 --> 00:57:21,220
+is things that picked up from human data.
+
+1166
+00:57:21,220 --> 00:57:24,540
+It's not like a chess program where an AI plays an AI.
+
+1167
+00:57:24,540 --> 00:57:28,060
+This is a computer learning entirely from human data.
+
+1168
+00:57:28,060 --> 00:57:30,260
+So one way to think about it, if everything it
+
+1169
+00:57:30,260 --> 00:57:33,020
+knows is from humans, it's really a vehicle
+
+1170
+00:57:33,020 --> 00:57:38,900
+for providing access to a human to our sort of amass
+
+1171
+00:57:38,900 --> 00:57:40,460
+of human knowledge.
+
+1172
+00:57:40,460 --> 00:57:42,620
+But we have other technologies that do that,
+
+1173
+00:57:42,620 --> 00:57:45,060
+like Google Search, even Wikipedia.
+
+1174
+00:57:45,060 --> 00:57:48,300
+Wikipedia is a distillation of collective human knowledge
+
+1175
+00:57:48,300 --> 00:57:50,420
+that's accessible to an individual.
+
+1176
+00:57:50,420 --> 00:57:52,820
+So somehow, I know that Google Search actually
+
+1177
+00:57:52,820 --> 00:57:53,820
+does use neural networks.
+
+1178
+00:57:53,820 --> 00:57:55,740
+But no one thinks of Search and Google
+
+1179
+00:57:55,740 --> 00:57:57,940
+as talking to an artificial intelligence.
+
+1180
+00:57:57,940 --> 00:57:59,820
+And certainly no one thinks of Wikipedia
+
+1181
+00:57:59,820 --> 00:58:01,460
+as an artificial intelligence.
+
+1182
+00:58:01,460 --> 00:58:03,180
+But somehow thinking of all of these things
+
+1183
+00:58:03,180 --> 00:58:06,260
+as ways of taking the mass of human knowledge
+
+1184
+00:58:06,260 --> 00:58:08,980
+and projecting it to an individual,
+
+1185
+00:58:08,980 --> 00:58:11,900
+DPT-3 is a kind of more stochastic version of that.
+
+1186
+00:58:11,900 --> 00:58:15,580
+But at the end of the day, somehow that helps me not think
+
+1187
+00:58:15,580 --> 00:58:19,900
+of it as an AI and just think of it as a distillation tool.
+
+1188
+00:58:19,900 --> 00:58:22,260
+But it also explains why working with it
+
+1189
+00:58:22,260 --> 00:58:24,620
+can be so eerie, because you do feel
+
+1190
+00:58:24,620 --> 00:58:28,380
+like you have access to this kind of collective mind
+
+1191
+00:58:28,380 --> 00:58:31,180
+of humanity in a really interesting way.
+
+1192
+00:58:31,180 --> 00:58:33,020
+But Google Search, I could say the same.
+
+1193
+00:58:33,020 --> 00:58:33,540
+That's true.
+
+1194
+00:58:33,540 --> 00:58:36,700
+You get all the toxicity, the misinformation, the mystery.
+
+1195
+00:58:36,700 --> 00:58:39,700
+I mean, Google Search is amazing, because it's this bizarre
+
+1196
+00:58:39,700 --> 00:58:41,540
+window into human creativity.
+
+1197
+00:58:41,540 --> 00:58:44,580
+I do think there's also a kind of an existential question
+
+1198
+00:58:44,580 --> 00:58:48,180
+that I see with a lot of my students who want to be artists.
+
+1199
+00:58:48,180 --> 00:58:49,260
+They want to be writers.
+
+1200
+00:58:49,260 --> 00:58:51,180
+And they move through these stages of grief
+
+1201
+00:58:51,180 --> 00:58:53,180
+almost in working with this, right?
+
+1202
+00:58:53,180 --> 00:58:56,740
+And we thought that robotics would be further along.
+
+1203
+00:58:56,740 --> 00:58:58,940
+I would love a robot to clean my toilet
+
+1204
+00:58:58,940 --> 00:59:00,060
+and make my scrambled eggs.
+
+1205
+00:59:00,060 --> 00:59:02,460
+But in fact, that has proven very difficult.
+
+1206
+00:59:02,460 --> 00:59:05,940
+And what we found is that disembodied AI
+
+1207
+00:59:05,940 --> 00:59:09,220
+has done and now can do all these intellectual tasks,
+
+1208
+00:59:09,220 --> 00:59:10,060
+creative tasks.
+
+1209
+00:59:10,060 --> 00:59:12,300
+So I think what is most unnerving
+
+1210
+00:59:12,300 --> 00:59:14,540
+that we have to somehow come to terms with
+
+1211
+00:59:14,540 --> 00:59:17,220
+is that we thought we would have the Jetsons with the robots
+
+1212
+00:59:17,220 --> 00:59:18,060
+first.
+
+1213
+00:59:18,060 --> 00:59:21,940
+And instead, many of us whose entire way of being
+
+1214
+00:59:21,940 --> 00:59:24,100
+is based on kind of intellectual work
+
+1215
+00:59:24,100 --> 00:59:25,700
+are having to come to terms with the fact
+
+1216
+00:59:25,700 --> 00:59:28,020
+that we've actually succeeded there first.
+
+1217
+00:59:28,020 --> 00:59:29,540
+Well, I can think of a new rule.
+
+1218
+00:59:29,540 --> 00:59:34,100
+All robots must wash their hands before leaving the path.
+
+1219
+00:59:34,100 --> 00:59:39,740
+I wanted to say we all use rules when we speak to each other.
+
+1220
+00:59:39,740 --> 00:59:42,380
+So language already has rules embedded in it.
+
+1221
+00:59:42,380 --> 00:59:45,180
+But one of the things that hasn't come up so far
+
+1222
+00:59:45,180 --> 00:59:49,380
+is that in the history of human discourse,
+
+1223
+00:59:49,380 --> 00:59:52,420
+people make promises and vowels.
+
+1224
+00:59:52,420 --> 00:59:56,940
+And they swear oaths and things that those are all basically
+
+1225
+00:59:56,940 --> 01:00:01,500
+language-based behaviors that we don't see or hear so much
+
+1226
+01:00:01,500 --> 01:00:01,980
+about.
+
+1227
+01:00:01,980 --> 01:00:03,980
+And maybe it's happening.
+
+1228
+01:00:03,980 --> 01:00:04,980
+I just don't know about it.
+
+1229
+01:00:04,980 --> 01:00:07,540
+But I think that's such an important aspect
+
+1230
+01:00:07,540 --> 01:00:11,980
+of human language generation that we make promises.
+
+1231
+01:00:11,980 --> 01:00:15,300
+Well, one of the points that people often make
+
+1232
+01:00:15,300 --> 01:00:19,820
+about the large language models is they have no goals.
+
+1233
+01:00:19,820 --> 01:00:22,980
+So you can try giving them a goal.
+
+1234
+01:00:22,980 --> 01:00:28,580
+You can say you can use text to tell them their purpose.
+
+1235
+01:00:28,580 --> 01:00:31,700
+But then that's just more text that they will then
+
+1236
+01:00:31,700 --> 01:00:34,060
+follow with more predictions.
+
+1237
+01:00:34,060 --> 01:00:38,540
+So it's another way in which they're really fundamentally
+
+1238
+01:00:38,540 --> 01:00:42,420
+unlike human, whatever kind of mind they have.
+
+1239
+01:00:42,420 --> 01:00:46,220
+It's fundamentally unlike a human mind.
+
+1240
+01:00:46,220 --> 01:00:47,940
+I have a question kind of about you.
+
+1241
+01:00:47,940 --> 01:00:51,260
+Because I'm looking at the prompt that we were given.
+
+1242
+01:00:51,260 --> 01:00:55,100
+And there's nothing in there that has the words intelligence
+
+1243
+01:00:55,100 --> 01:00:56,340
+or mind.
+
+1244
+01:00:56,340 --> 01:00:59,260
+And it's interesting to me that throughout those words,
+
+1245
+01:00:59,260 --> 01:01:01,540
+immediately entered our conversation.
+
+1246
+01:01:01,540 --> 01:01:05,500
+And in fact, in the AI research program,
+
+1247
+01:01:05,500 --> 01:01:08,620
+from the very beginning, language and intelligence
+
+1248
+01:01:08,620 --> 01:01:12,820
+and mind, the language is kind of one of the most marked
+
+1249
+01:01:12,820 --> 01:01:15,180
+feature of intelligence.
+
+1250
+01:01:15,180 --> 01:01:19,140
+But we talked a little bit about vision.
+
+1251
+01:01:19,140 --> 01:01:21,620
+I mean, there's a whole bunch of other.
+
+1252
+01:01:21,620 --> 01:01:24,740
+So I feel like there's a cognitive linguistic slide
+
+1253
+01:01:24,740 --> 01:01:26,980
+that we are engaging in where we're
+
+1254
+01:01:26,980 --> 01:01:30,540
+beginning to speak about compelling language generators.
+
+1255
+01:01:30,540 --> 01:01:33,980
+But right away, we're saying, OK, is there a mind there?
+
+1256
+01:01:33,980 --> 01:01:36,100
+Or is this intelligent?
+
+1257
+01:01:36,100 --> 01:01:41,140
+Whereas, again, I don't have the same question
+
+1258
+01:01:41,140 --> 01:01:44,300
+to a calculator or to a more complicated statistical
+
+1259
+01:01:44,300 --> 01:01:46,460
+model that whatever predicts the weather.
+
+1260
+01:01:46,460 --> 01:01:48,660
+I don't go like, oh, does it actually feel the weather?
+
+1261
+01:01:48,660 --> 01:01:51,380
+Or is it intelligent in that way?
+
+1262
+01:01:51,380 --> 01:01:53,740
+So there's something, I mean, I guess it's a question to everybody.
+
+1263
+01:01:53,740 --> 01:01:58,220
+Why, what world is the, how is the connection between language
+
+1264
+01:01:58,220 --> 01:01:59,940
+and mind and intelligence?
+
+1265
+01:01:59,940 --> 01:02:02,580
+And why are we naturally sliding immediately
+
+1266
+01:02:02,580 --> 01:02:06,420
+from language and text into intelligence and mind?
+
+1267
+01:02:06,420 --> 01:02:08,540
+So I think there are two questions that
+
+1268
+01:02:08,540 --> 01:02:11,780
+have been very much prevalent in the literature
+
+1269
+01:02:11,780 --> 01:02:14,340
+on this stuff that have not come up up here.
+
+1270
+01:02:14,340 --> 01:02:15,980
+And I think there's a good reason for it.
+
+1271
+01:02:15,980 --> 01:02:17,220
+One of them is that.
+
+1272
+01:02:17,220 --> 01:02:19,140
+Is it really intelligent?
+
+1273
+01:02:19,140 --> 01:02:22,540
+I don't myself think that there are useful questions
+
+1274
+01:02:22,540 --> 01:02:24,900
+because it's such a vague notion.
+
+1275
+01:02:24,900 --> 01:02:28,380
+But here's the other one, which is kind of interesting,
+
+1276
+01:02:28,380 --> 01:02:31,540
+which is a lot of the discussion has
+
+1277
+01:02:31,540 --> 01:02:35,780
+stemmed from a paper by Dendrick Kohler, something
+
+1278
+01:02:35,780 --> 01:02:39,020
+they call the octopus test.
+
+1279
+01:02:39,020 --> 01:02:41,860
+How can they call these machines?
+
+1280
+01:02:41,860 --> 01:02:42,940
+Decastic parrots.
+
+1281
+01:02:42,940 --> 01:02:44,060
+So just trade on words.
+
+1282
+01:02:44,060 --> 01:02:45,820
+And it out comes more words.
+
+1283
+01:02:45,820 --> 01:02:48,140
+So you're never getting to the world.
+
+1284
+01:02:48,140 --> 01:02:50,780
+And I think for good reason that hasn't come up here
+
+1285
+01:02:50,780 --> 01:02:52,700
+because it's really completely irrelevant.
+
+1286
+01:02:56,460 --> 01:03:00,620
+What we've, the issue of can something
+
+1287
+01:03:00,620 --> 01:03:04,460
+trained on more words be in some reasonable sense
+
+1288
+01:03:04,460 --> 01:03:08,660
+intelligent, creative, solve problems, do things.
+
+1289
+01:03:08,660 --> 01:03:11,740
+It's a kind of non-issue, really.
+
+1290
+01:03:11,740 --> 01:03:16,300
+So I think there's a good reason why that hasn't come up here.
+
+1291
+01:03:16,300 --> 01:03:19,180
+But it has dominated a lot of literature.
+
+1292
+01:03:19,180 --> 01:03:21,180
+Well, but does it have the failings
+
+1293
+01:03:21,180 --> 01:03:23,300
+that you mentioned at the very outset,
+
+1294
+01:03:23,300 --> 01:03:26,940
+the sort of glaring failings where it seems computers
+
+1295
+01:03:26,940 --> 01:03:28,260
+don't have a worldview?
+
+1296
+01:03:28,260 --> 01:03:32,300
+Isn't that an example of how intelligence would,
+
+1297
+01:03:32,300 --> 01:03:35,860
+some definition of intelligence would perhaps
+
+1298
+01:03:35,860 --> 01:03:37,220
+address that problem?
+
+1299
+01:03:37,220 --> 01:03:40,100
+Well, I don't think you can solve it by definition.
+
+1300
+01:03:40,100 --> 01:03:44,740
+There are certain, maybe we could use a neutral term,
+
+1301
+01:03:44,740 --> 01:03:48,780
+intellectual capacities, that they do extremely well,
+
+1302
+01:03:48,780 --> 01:03:52,900
+better than us, and others where they don't.
+
+1303
+01:03:52,900 --> 01:03:57,900
+So I think we have really focused on that issue here,
+
+1304
+01:03:57,900 --> 01:04:01,500
+and also try to understand what it is they are doing.
+
+1305
+01:04:01,500 --> 01:04:03,900
+They do seem to know things a little, I mean,
+
+1306
+01:04:03,900 --> 01:04:05,700
+you mentioned that as well.
+
+1307
+01:04:05,700 --> 01:04:07,540
+And that's part of when we do experiments,
+
+1308
+01:04:07,540 --> 01:04:09,060
+we're trying to figure out what does it know.
+
+1309
+01:04:09,060 --> 01:04:10,660
+Now, do I mean no in a human way?
+
+1310
+01:04:10,660 --> 01:04:11,780
+Absolutely not.
+
+1311
+01:04:11,780 --> 01:04:13,900
+When you see it fail, those are clues.
+
+1312
+01:04:13,900 --> 01:04:16,180
+So GPT-2, the much smaller model,
+
+1313
+01:04:16,180 --> 01:04:19,420
+we had a student train it to write MTV Darya episodes.
+
+1314
+01:04:19,420 --> 01:04:20,900
+It seemed to know the characters,
+
+1315
+01:04:20,900 --> 01:04:22,780
+it seemed to know the kind of plots and the ways
+
+1316
+01:04:22,780 --> 01:04:24,060
+that people interacted.
+
+1317
+01:04:24,060 --> 01:04:26,500
+But it would make really bizarre goose,
+
+1318
+01:04:26,500 --> 01:04:27,900
+a person would pick up the phone
+
+1319
+01:04:27,900 --> 01:04:30,060
+and then pick up the phone later in the scene.
+
+1320
+01:04:30,060 --> 01:04:31,500
+Somebody stirred lasagna.
+
+1321
+01:04:31,500 --> 01:04:33,340
+You know, and you go, oh, I should start this on you.
+
+1322
+01:04:33,340 --> 01:04:34,340
+It's ridiculous.
+
+1323
+01:04:34,340 --> 01:04:36,100
+But then, right?
+
+1324
+01:04:36,100 --> 01:04:38,220
+I do the fact that you notice,
+
+1325
+01:04:38,220 --> 01:04:41,340
+means most of the time, it does actually know.
+
+1326
+01:04:41,340 --> 01:04:43,220
+And so that's the fascinating thing.
+
+1327
+01:04:43,220 --> 01:04:45,580
+And we had a creative writer give it a prompt
+
+1328
+01:04:45,580 --> 01:04:48,460
+about an inky black sea.
+
+1329
+01:04:48,460 --> 01:04:50,660
+It immediately knew that these people were probably
+
+1330
+01:04:50,660 --> 01:04:52,340
+on a boat, that they might be fishing,
+
+1331
+01:04:52,340 --> 01:04:54,740
+that when they pull up a net, usually what it has in it,
+
+1332
+01:04:54,740 --> 01:04:57,060
+it's unusual to have a body, which it did.
+
+1333
+01:04:57,060 --> 01:04:59,860
+It knows that the ocean is not native ink, right?
+
+1334
+01:04:59,860 --> 01:05:02,460
+So it does seem to know stuff,
+
+1335
+01:05:02,460 --> 01:05:04,300
+and that's what we're experimenting with.
+
+1336
+01:05:04,300 --> 01:05:06,660
+When people get upset, because it's not knowing like a human,
+
+1337
+01:05:06,660 --> 01:05:09,140
+but we're still trying to figure out what it knows
+
+1338
+01:05:09,140 --> 01:05:10,260
+and what it doesn't know.
+
+1339
+01:05:10,260 --> 01:05:12,540
+Coming back to the steering, the lasagna,
+
+1340
+01:05:12,540 --> 01:05:14,100
+the dark never made the lasagna myself.
+
+1341
+01:05:14,100 --> 01:05:15,620
+I'm really told that.
+
+1342
+01:05:15,620 --> 01:05:16,460
+But you never know.
+
+1343
+01:05:16,460 --> 01:05:18,860
+Maybe on the web, but there was somebody
+
+1344
+01:05:18,860 --> 01:05:20,420
+still in La Jolla.
+
+1345
+01:05:20,420 --> 01:05:23,380
+You never know what people can do to this.
+
+1346
+01:05:23,380 --> 01:05:26,100
+But people actually make an argument.
+
+1347
+01:05:26,100 --> 01:05:28,620
+And in fact, this is argument that quite a few people
+
+1348
+01:05:28,620 --> 01:05:30,300
+have been making over the past few years,
+
+1349
+01:05:30,300 --> 01:05:32,340
+and just two days ago, David Sharma said,
+
+1350
+01:05:32,340 --> 01:05:33,820
+well, you actually made the same argument,
+
+1351
+01:05:33,820 --> 01:05:38,980
+is that if the system had a word model,
+
+1352
+01:05:38,980 --> 01:05:41,100
+we would expect it not to say lasagna,
+
+1353
+01:05:41,100 --> 01:05:44,060
+or someone says that the idea was steering something, right?
+
+1354
+01:05:44,060 --> 01:05:45,660
+But then another way to think about it
+
+1355
+01:05:45,660 --> 01:05:47,420
+is that perhaps that actually tells us
+
+1356
+01:05:47,420 --> 01:05:50,540
+that if the model had a perfect predictive model,
+
+1357
+01:05:50,540 --> 01:05:52,260
+then you had the probability of side
+
+1358
+01:05:52,260 --> 01:05:53,620
+to lasagna in that context.
+
+1359
+01:05:53,620 --> 01:05:54,780
+It would be zero.
+
+1360
+01:05:54,780 --> 01:05:56,740
+And then in that case, can we actually
+
+1361
+01:05:56,740 --> 01:05:59,140
+say the other way around saying that, well, look
+
+1362
+01:05:59,140 --> 01:06:01,660
+at this amazing predictive model it has.
+
+1363
+01:06:01,660 --> 01:06:04,540
+It probably implies that it has the word knowledge,
+
+1364
+01:06:04,540 --> 01:06:05,980
+or the word model in it already.
+
+1365
+01:06:05,980 --> 01:06:10,180
+So then perhaps by simply making prediction better and better,
+
+1366
+01:06:10,180 --> 01:06:12,740
+or the model's predictive capability better and better,
+
+1367
+01:06:12,740 --> 01:06:13,980
+maybe it's going to automatically,
+
+1368
+01:06:13,980 --> 01:06:16,980
+we'll have to come up with a word model that's
+
+1369
+01:06:16,980 --> 01:06:20,780
+going to reflect how word works and how you think and so on.
+
+1370
+01:06:20,780 --> 01:06:22,100
+So yeah, is it really?
+
+1371
+01:06:22,100 --> 01:06:23,340
+No, I agree.
+
+1372
+01:06:23,340 --> 01:06:25,980
+That's why when I say you cannot, I mean,
+
+1373
+01:06:25,980 --> 01:06:30,260
+you cannot say this approach cannot build a word model.
+
+1374
+01:06:30,260 --> 01:06:34,100
+Maybe by building a better prediction model,
+
+1375
+01:06:34,100 --> 01:06:38,620
+then that would build not an explicit word model
+
+1376
+01:06:38,620 --> 01:06:39,900
+that you can see.
+
+1377
+01:06:39,900 --> 01:06:43,780
+But then as a result, the result would
+
+1378
+01:06:43,780 --> 01:06:49,060
+be as if it had an explicit word model.
+
+1379
+01:06:49,060 --> 01:06:51,980
+But yeah, but I don't know.
+
+1380
+01:06:51,980 --> 01:06:52,420
+I don't know.
+
+1381
+01:06:52,420 --> 01:06:53,660
+Is the big difference?
+
+1382
+01:06:53,660 --> 01:06:59,860
+We can make explicit, we can formulate explicit ideas.
+
+1383
+01:06:59,860 --> 01:07:00,380
+Right.
+
+1384
+01:07:00,380 --> 01:07:03,100
+Keep a record of explicit facts.
+
+1385
+01:07:03,100 --> 01:07:05,940
+And that's not what these machines do.
+
+1386
+01:07:05,940 --> 01:07:13,500
+And I think the question is, can the kind of compression
+
+1387
+01:07:13,500 --> 01:07:17,020
+training that they get give that effect?
+
+1388
+01:07:17,020 --> 01:07:20,140
+I mean, I'm betting on no myself.
+
+1389
+01:07:20,140 --> 01:07:23,940
+I'm betting that there is something
+
+1390
+01:07:23,940 --> 01:07:27,620
+about being able to be explicit.
+
+1391
+01:07:27,620 --> 01:07:32,980
+Yes, but of course, one could say, I mean, David's advocate,
+
+1392
+01:07:32,980 --> 01:07:36,020
+that if one opens my skull and looks inside,
+
+1393
+01:07:36,020 --> 01:07:39,180
+it doesn't find any explicit things there,
+
+1394
+01:07:39,180 --> 01:07:42,660
+an explicit rule or logic rules or whatever.
+
+1395
+01:07:42,660 --> 01:07:49,020
+But then I verbalize my explicit model in some way that
+
+1396
+01:07:49,020 --> 01:07:51,820
+says, OK, I know about these rules and these and that.
+
+1397
+01:07:51,820 --> 01:07:54,260
+But you don't find the rules by looking inside.
+
+1398
+01:07:54,260 --> 01:07:58,780
+So one could say, this is similar to these huge machines
+
+1399
+01:07:58,780 --> 01:08:01,060
+with a huge number of parameters.
+
+1400
+01:08:01,060 --> 01:08:03,260
+What you see if you look inside is just
+
+1401
+01:08:03,260 --> 01:08:06,860
+these billions parameters and the values of these parameters.
+
+1402
+01:08:06,860 --> 01:08:11,100
+Then don't tell you anything about this machine having
+
+1403
+01:08:11,100 --> 01:08:12,820
+a model or not.
+
+1404
+01:08:12,820 --> 01:08:15,700
+But then by generating the output,
+
+1405
+01:08:15,700 --> 01:08:18,540
+maybe you realize that this machine has a word more.
+
+1406
+01:08:18,540 --> 01:08:22,980
+So in some sense, I see that this doesn't
+
+1407
+01:08:22,980 --> 01:08:27,180
+rule out having a word model even without an explicit
+
+1408
+01:08:27,180 --> 01:08:32,460
+characterization of the word model of the rules that are learned.
+
+1409
+01:08:32,460 --> 01:08:36,380
+Well, we just had this example of lasagna stirring here.
+
+1410
+01:08:36,380 --> 01:08:41,580
+And I think it's interesting the way in which humans sort
+
+1411
+01:08:41,580 --> 01:08:45,100
+of curate their own information in a weird way,
+
+1412
+01:08:45,100 --> 01:08:49,100
+because it may depend on who the expert is that's teaching them
+
+1413
+01:08:49,100 --> 01:08:49,620
+about it.
+
+1414
+01:08:49,620 --> 01:08:51,700
+So you had this wonderful reaction.
+
+1415
+01:08:51,700 --> 01:08:54,100
+I hate to sound like I'm biased by the Italians
+
+1416
+01:08:54,100 --> 01:08:55,820
+and what they think about things like lasagna.
+
+1417
+01:08:55,820 --> 01:08:58,020
+But when you go, fuck them, we're not going to eat us
+
+1418
+01:08:58,020 --> 01:08:59,020
+to lasagna.
+
+1419
+01:08:59,020 --> 01:09:00,020
+No, I'm saying.
+
+1420
+01:09:00,020 --> 01:09:01,620
+If I was much more weight to me, then
+
+1421
+01:09:01,620 --> 01:09:04,780
+I'm sure there must be somebody in the world that still
+
+1422
+01:09:04,780 --> 01:09:05,620
+is a lasagna.
+
+1423
+01:09:05,620 --> 01:09:06,620
+I'm sure of that.
+
+1424
+01:09:06,620 --> 01:09:07,060
+No, exactly.
+
+1425
+01:09:07,060 --> 01:09:08,820
+Maybe in this country.
+
+1426
+01:09:08,820 --> 01:09:13,620
+No, so if your parents says something to you
+
+1427
+01:09:13,620 --> 01:09:17,220
+or someone who you know somehow as a human,
+
+1428
+01:09:17,220 --> 01:09:19,580
+this person's advice here means a lot.
+
+1429
+01:09:19,580 --> 01:09:21,100
+I'm going to pay attention to it.
+
+1430
+01:09:21,100 --> 01:09:24,380
+There's other person's advice that you learn these rules
+
+1431
+01:09:24,380 --> 01:09:26,820
+in a very different way, because of this sort
+
+1432
+01:09:26,820 --> 01:09:30,020
+of emotional balance and understanding the world view
+
+1433
+01:09:30,020 --> 01:09:32,980
+about who the expert may be.
+
+1434
+01:09:32,980 --> 01:09:34,540
+What's interesting to me is, again,
+
+1435
+01:09:34,540 --> 01:09:38,660
+we are the kind of problems that are being identified
+
+1436
+01:09:38,660 --> 01:09:39,500
+in this conversation.
+
+1437
+01:09:39,500 --> 01:09:42,380
+They're kind of a soon like a totalizing intellect.
+
+1438
+01:09:42,380 --> 01:09:45,140
+And then like, oh, these are the things
+
+1439
+01:09:45,140 --> 01:09:48,980
+that are missing to get to this notion of the perfect intelligence.
+
+1440
+01:09:48,980 --> 01:09:51,060
+And again, there's something about language,
+
+1441
+01:09:51,060 --> 01:09:53,940
+because the language pulls in all of the world.
+
+1442
+01:09:53,940 --> 01:09:56,420
+And then so we expect it kind of to do better.
+
+1443
+01:09:56,420 --> 01:09:59,580
+And we see this kind of, but they're universal failings.
+
+1444
+01:09:59,580 --> 01:10:04,460
+We don't expect the same kind of sort of the same kind of,
+
+1445
+01:10:04,460 --> 01:10:07,380
+what should I say, not hubris, but the same performance
+
+1446
+01:10:07,380 --> 01:10:09,220
+from other robots.
+
+1447
+01:10:09,220 --> 01:10:12,940
+So there are amazing robots that build machines.
+
+1448
+01:10:12,940 --> 01:10:17,100
+And they're using complex statistical vision techniques.
+
+1449
+01:10:17,100 --> 01:10:19,700
+We never go like, oh, why doesn't it have a world model
+
+1450
+01:10:19,700 --> 01:10:21,300
+of lasagna?
+
+1451
+01:10:21,300 --> 01:10:26,340
+Why doesn't the robot in whatever, Tesla, a factory?
+
+1452
+01:10:26,340 --> 01:10:28,220
+And my question would be, why?
+
+1453
+01:10:28,220 --> 01:10:29,020
+Why is it so?
+
+1454
+01:10:29,020 --> 01:10:31,980
+But as soon as we start talking about language generators,
+
+1455
+01:10:31,980 --> 01:10:34,540
+which are often built with the principle also,
+
+1456
+01:10:34,540 --> 01:10:37,060
+it's a machine that's built with a particular purpose,
+
+1457
+01:10:37,060 --> 01:10:39,780
+we right away want to say, does it have emotion?
+
+1458
+01:10:39,780 --> 01:10:40,740
+Does it have intelligence?
+
+1459
+01:10:40,740 --> 01:10:43,260
+Why doesn't it understand lasagna?
+
+1460
+01:10:43,260 --> 01:10:45,860
+In a way that we don't demand about the machines.
+
+1461
+01:10:45,860 --> 01:10:48,500
+But by the way, also with people,
+
+1462
+01:10:48,500 --> 01:10:51,020
+like I was raised in Italy.
+
+1463
+01:10:51,020 --> 01:10:56,260
+So in a very biased way about what you should do with lasagna,
+
+1464
+01:10:56,260 --> 01:10:58,060
+for example.
+
+1465
+01:10:58,060 --> 01:11:01,540
+So in some sense, I built during several years,
+
+1466
+01:11:01,540 --> 01:11:05,220
+I built like a model of what you should do with that object
+
+1467
+01:11:05,220 --> 01:11:08,140
+and what is appropriate and not appropriate to do.
+
+1468
+01:11:08,140 --> 01:11:13,580
+I was not raised or trained with data coming
+
+1469
+01:11:13,580 --> 01:11:15,260
+from all over the world.
+
+1470
+01:11:15,260 --> 01:11:17,540
+Maybe if I were trained like that,
+
+1471
+01:11:17,540 --> 01:11:20,500
+or if I grew up with data coming from all over the world,
+
+1472
+01:11:20,500 --> 01:11:23,180
+for me it would be equally good to steer
+
+1473
+01:11:23,180 --> 01:11:25,220
+or to not steer a lasagna.
+
+1474
+01:11:25,220 --> 01:11:26,420
+Maybe, you know?
+
+1475
+01:11:26,420 --> 01:11:30,700
+So in some sense, we are expecting from an object
+
+1476
+01:11:30,700 --> 01:11:35,980
+that is framed with equally important data
+
+1477
+01:11:35,980 --> 01:11:38,780
+from all over the world, all the different cultures,
+
+1478
+01:11:38,780 --> 01:11:40,460
+all the different regions.
+
+1479
+01:11:40,460 --> 01:11:43,500
+And maybe there is a lot of contradicting evidence
+
+1480
+01:11:43,500 --> 01:11:45,820
+of what you should do with an object.
+
+1481
+01:11:45,820 --> 01:11:48,660
+And then of course, I as a person,
+
+1482
+01:11:48,660 --> 01:11:51,900
+I would say, well, you could steer or not steer a lasagna.
+
+1483
+01:11:51,900 --> 01:11:55,980
+If I was raised with experiences from all over the world,
+
+1484
+01:11:55,980 --> 01:11:58,900
+which I did not, you know, I was just raised
+
+1485
+01:11:58,900 --> 01:12:01,300
+with experiences from one region of the world.
+
+1486
+01:12:01,300 --> 01:12:04,780
+So in some sense, it's not surprising
+
+1487
+01:12:04,780 --> 01:12:09,380
+that there are contradicting in pieces of information
+
+1488
+01:12:09,380 --> 01:12:14,060
+that are collected by and are helping training these machines.
+
+1489
+01:12:14,060 --> 01:12:17,340
+And then the machine speeds out pieces
+
+1490
+01:12:17,340 --> 01:12:20,620
+that are maybe consistent with the sub path
+
+1491
+01:12:20,620 --> 01:12:22,940
+of its information that it was trained on,
+
+1492
+01:12:22,940 --> 01:12:24,460
+and not the other one.
+
+1493
+01:12:24,460 --> 01:12:26,020
+Well, and to add to what you're saying,
+
+1494
+01:12:26,020 --> 01:12:28,220
+we have creative writers who are trying to get it
+
+1495
+01:12:28,220 --> 01:12:29,340
+to be creative.
+
+1496
+01:12:29,340 --> 01:12:32,540
+So we are tuning the hyperparameters to get creativity,
+
+1497
+01:12:32,540 --> 01:12:34,580
+and then we get stirred lasagna.
+
+1498
+01:12:34,580 --> 01:12:38,020
+So it could be that that stirred lasagna is sampling
+
+1499
+01:12:38,020 --> 01:12:40,780
+from the surprise, right, as well.
+
+1500
+01:12:40,780 --> 01:12:42,060
+I'm going to try it.
+
+1501
+01:12:42,060 --> 01:12:45,660
+So I'm going to push back on Dennis a little bit.
+
+1502
+01:12:45,660 --> 01:12:47,580
+So you're sort of blaming the human saying,
+
+1503
+01:12:47,580 --> 01:12:50,180
+why do we keep asking for more and expecting more
+
+1504
+01:12:50,180 --> 01:12:52,420
+from GPT-3 than other things?
+
+1505
+01:12:52,420 --> 01:12:54,900
+And I want to say it's own fault.
+
+1506
+01:12:54,900 --> 01:12:57,020
+It's the computer, not the humans.
+
+1507
+01:12:57,020 --> 01:13:00,020
+It's because it bullshits so much, right?
+
+1508
+01:13:00,020 --> 01:13:02,700
+If you have a robot that's designed to assemble a car,
+
+1509
+01:13:02,700 --> 01:13:03,980
+that's what it does.
+
+1510
+01:13:03,980 --> 01:13:07,580
+But GPT-3 makes up things about everything,
+
+1511
+01:13:07,580 --> 01:13:10,660
+and it acts like it knows so much, and it just BS's.
+
+1512
+01:13:10,660 --> 01:13:12,460
+So yeah, there's some responsibility
+
+1513
+01:13:12,460 --> 01:13:15,140
+of human that we look for more, but it's responsible.
+
+1514
+01:13:15,140 --> 01:13:17,300
+It vastly outsteps.
+
+1515
+01:13:17,300 --> 01:13:18,500
+It's not trained for a purpose.
+
+1516
+01:13:18,500 --> 01:13:20,860
+It tries to do everything, and it embarrasses itself.
+
+1517
+01:13:20,860 --> 01:13:21,540
+Isn't it?
+
+1518
+01:13:21,540 --> 01:13:23,620
+Doesn't that make it very human in a way?
+
+1519
+01:13:23,620 --> 01:13:25,140
+But the worst that human.
+
+1520
+01:13:25,140 --> 01:13:28,500
+What about these failures that are so funny?
+
+1521
+01:13:28,500 --> 01:13:30,060
+Now, we're getting a big laugh out
+
+1522
+01:13:30,060 --> 01:13:34,060
+of some of the ways in which the generator comes up
+
+1523
+01:13:34,060 --> 01:13:35,380
+with these gaffes.
+
+1524
+01:13:35,380 --> 01:13:37,380
+Like, is that a clue to anything?
+
+1525
+01:13:37,380 --> 01:13:39,260
+What do you think about creativity?
+
+1526
+01:13:39,260 --> 01:13:39,780
+Yeah.
+
+1527
+01:13:39,780 --> 01:13:42,540
+So there are actual genuine, let's say,
+
+1528
+01:13:42,540 --> 01:13:46,700
+degenerate cases that arise from the current practice
+
+1529
+01:13:46,700 --> 01:13:47,980
+of training these models.
+
+1530
+01:13:47,980 --> 01:13:49,540
+And in fact, there are quite a few people,
+
+1531
+01:13:49,540 --> 01:13:51,500
+including my own lab, where we actually
+
+1532
+01:13:51,500 --> 01:13:55,220
+look into those failures and try to come up with the mathematical
+
+1533
+01:13:55,220 --> 01:13:57,060
+or statistical, let's say, justification
+
+1534
+01:13:57,060 --> 01:13:59,700
+why those failures happen and they have to fix them.
+
+1535
+01:13:59,700 --> 01:14:02,660
+But there are so many of them at the moment.
+
+1536
+01:14:02,660 --> 01:14:04,700
+The point that they were fixing one at a time.
+
+1537
+01:14:04,700 --> 01:14:07,900
+But there is a chance that what we really need
+
+1538
+01:14:07,900 --> 01:14:10,780
+is a new paradigm of how we train these models,
+
+1539
+01:14:10,780 --> 01:14:13,780
+rather than fixing every single degenerate cases at a time.
+
+1540
+01:14:13,780 --> 01:14:16,500
+Because we're just adding a new term to the loss function
+
+1541
+01:14:16,500 --> 01:14:17,140
+every time.
+
+1542
+01:14:17,140 --> 01:14:20,260
+I saw you write in lasagna on your schedule.
+
+1543
+01:14:20,260 --> 01:14:23,860
+First thing I'm doing when I get back.
+
+1544
+01:14:23,860 --> 01:14:27,980
+And just to add to why we are fascinated by language
+
+1545
+01:14:27,980 --> 01:14:31,500
+or the language generator over at the Robos and Monadysopi,
+
+1546
+01:14:31,500 --> 01:14:33,900
+we perceive or interact with the work
+
+1547
+01:14:33,900 --> 01:14:35,460
+that they in many different ways.
+
+1548
+01:14:35,460 --> 01:14:37,380
+We perceive the world by looking at them.
+
+1549
+01:14:37,380 --> 01:14:39,740
+What you're hearing about is sometimes we touch,
+
+1550
+01:14:39,740 --> 01:14:41,180
+we move things.
+
+1551
+01:14:41,180 --> 01:14:43,660
+And the language is actually yet another medium
+
+1552
+01:14:43,660 --> 01:14:45,700
+by which we can interact with the environments.
+
+1553
+01:14:45,700 --> 01:14:47,700
+So by interacting with the other agents
+
+1554
+01:14:47,700 --> 01:14:49,900
+or interacting with the other computers or not.
+
+1555
+01:14:49,900 --> 01:14:53,220
+And then I think that one unique aspect of the language
+
+1556
+01:14:53,220 --> 01:14:57,300
+is that it actually expresses very different spectrum
+
+1557
+01:14:57,300 --> 01:14:58,940
+of the abstract mix.
+
+1558
+01:14:58,940 --> 01:15:01,540
+So let's say what we see is extremely concrete.
+
+1559
+01:15:01,540 --> 01:15:02,900
+We see what is often there.
+
+1560
+01:15:02,900 --> 01:15:04,380
+I mean, there's a bit of hallucination.
+
+1561
+01:15:04,380 --> 01:15:06,740
+Or not, but generally we see what is there.
+
+1562
+01:15:06,740 --> 01:15:10,020
+We hear what is actually being, what is hitting our actual
+
+1563
+01:15:10,020 --> 01:15:11,140
+ill-trauma.
+
+1564
+01:15:11,140 --> 01:15:13,100
+And then we touch things that are linked here.
+
+1565
+01:15:13,100 --> 01:15:15,500
+Again, you know, deep inside all those hallucinations.
+
+1566
+01:15:15,500 --> 01:15:17,620
+The language is where we can actually express all those
+
+1567
+01:15:17,620 --> 01:15:19,540
+as extremely abstract things.
+
+1568
+01:15:19,540 --> 01:15:21,620
+As well as extremely concrete things
+
+1569
+01:15:21,620 --> 01:15:24,060
+in a single-assist and single-phrase.
+
+1570
+01:15:24,060 --> 01:15:26,100
+And I think that that actually makes this medium
+
+1571
+01:15:26,100 --> 01:15:29,460
+a very, very unique and fascinating compared to other
+
+1572
+01:15:29,460 --> 01:15:31,620
+things that we can do.
+
+1573
+01:15:31,620 --> 01:15:33,660
+The other dichotomy we've not touched on
+
+1574
+01:15:33,660 --> 01:15:36,900
+is the word the distinction between sort of syntax
+
+1575
+01:15:36,900 --> 01:15:40,180
+and semantics that hasn't come up at all.
+
+1576
+01:15:40,180 --> 01:15:42,820
+I mean, does anyone want to talk a little bit to that?
+
+1577
+01:15:42,820 --> 01:15:47,500
+Well, that's the octopus test that I mentioned.
+
+1578
+01:15:47,500 --> 01:15:52,820
+Yeah, so look, it depends on what your theory of semantics
+
+1579
+01:15:52,820 --> 01:15:55,140
+is, what it is for the machine to know the meanings
+
+1580
+01:15:55,140 --> 01:15:56,500
+of the terms.
+
+1581
+01:15:56,500 --> 01:16:02,060
+I play, like a view called functional role semantics
+
+1582
+01:16:02,060 --> 01:16:04,060
+or conceptual role semantics, which
+
+1583
+01:16:04,060 --> 01:16:07,860
+says that if the roles of the representations in the machine
+
+1584
+01:16:07,860 --> 01:16:13,100
+are the right roles, then it will understand the words.
+
+1585
+01:16:13,100 --> 01:16:17,580
+And there's a recent paper by Steve Bientodosi
+
+1586
+01:16:17,580 --> 01:16:20,180
+arguing for that view.
+
+1587
+01:16:20,180 --> 01:16:23,700
+And it seems to me that they have substantial elements
+
+1588
+01:16:23,700 --> 01:16:24,980
+of the right conceptual role.
+
+1589
+01:16:24,980 --> 01:16:27,900
+So I think there is some amount of understanding
+
+1590
+01:16:27,900 --> 01:16:30,980
+of the representation of these machines.
+
+1591
+01:16:30,980 --> 01:16:34,060
+But if you forget a little bit about the importance,
+
+1592
+01:16:34,060 --> 01:16:36,580
+of course, the main importance of the contents
+
+1593
+01:16:36,580 --> 01:16:39,260
+of the semantics or what is being written.
+
+1594
+01:16:39,260 --> 01:16:41,500
+But in terms of the syntax, this is really
+
+1595
+01:16:41,500 --> 01:16:43,740
+where the first amazement is.
+
+1596
+01:16:43,740 --> 01:16:47,060
+Is how can these machines without telling them
+
+1597
+01:16:47,060 --> 01:16:51,420
+the rules of syntax, they can write in such a fluent
+
+1598
+01:16:51,420 --> 01:16:56,700
+and eloquent way in a language or even more than one.
+
+1599
+01:16:56,700 --> 01:17:02,980
+That, to me, was my first approach
+
+1600
+01:17:02,980 --> 01:17:06,100
+to language generators, what this one?
+
+1601
+01:17:06,100 --> 01:17:10,460
+Oh my god, it's writing in a very eloquent way.
+
+1602
+01:17:10,460 --> 01:17:12,780
+Then, of course, if you go and look at the semantics,
+
+1603
+01:17:12,780 --> 01:17:17,140
+then you have things to say about the quality of the semantics.
+
+1604
+01:17:17,140 --> 01:17:22,060
+But the syntax is really much more amazing than the semantics,
+
+1605
+01:17:22,060 --> 01:17:23,540
+I think.
+
+1606
+01:17:23,540 --> 01:17:26,380
+You know, the way I think about it
+
+1607
+01:17:26,380 --> 01:17:30,100
+is there is an underlying statistical representation
+
+1608
+01:17:30,100 --> 01:17:34,620
+of language that assigns kind of words and their occurrences
+
+1609
+01:17:34,620 --> 01:17:37,220
+to like a vector space model.
+
+1610
+01:17:37,220 --> 01:17:38,340
+It looks like the stars.
+
+1611
+01:17:38,340 --> 01:17:41,820
+And certain things are likely occur to next to other things.
+
+1612
+01:17:41,820 --> 01:17:45,500
+So when you say, I want to eat, you know, blank,
+
+1613
+01:17:45,500 --> 01:17:47,540
+some things are probable because they're
+
+1614
+01:17:47,540 --> 01:17:49,140
+current in the training corpus.
+
+1615
+01:17:49,140 --> 01:17:52,660
+And some things just rarely or improbable rarely occur.
+
+1616
+01:17:52,660 --> 01:17:57,740
+So now, is that, so when you translate language
+
+1617
+01:17:57,740 --> 01:18:00,940
+into a statistical model, this is where I begin to think,
+
+1618
+01:18:00,940 --> 01:18:03,980
+OK, I don't, is that model sentient?
+
+1619
+01:18:03,980 --> 01:18:05,620
+Does it have semantics?
+
+1620
+01:18:05,620 --> 01:18:06,620
+It is what it is.
+
+1621
+01:18:06,620 --> 01:18:09,020
+It's a particular mathematical model
+
+1622
+01:18:09,020 --> 01:18:11,940
+that represents language in a way.
+
+1623
+01:18:11,940 --> 01:18:15,860
+So I'm actually much more cautious to not go the next step
+
+1624
+01:18:15,860 --> 01:18:20,020
+and to say, you know, to personify it and make a metaphor
+
+1625
+01:18:20,020 --> 01:18:21,460
+and kind of animate it.
+
+1626
+01:18:21,460 --> 01:18:24,860
+To say, like, is it going to do this kind of stuff?
+
+1627
+01:18:24,860 --> 01:18:27,300
+I just want to add one more anecdote from history
+
+1628
+01:18:27,300 --> 01:18:31,420
+is that the paper by Markov and Markov,
+
+1629
+01:18:31,420 --> 01:18:35,300
+the original Markov change generator by Mr. Markov,
+
+1630
+01:18:35,300 --> 01:18:38,420
+which was published in either German or Russian.
+
+1631
+01:18:38,420 --> 01:18:40,940
+And then it made its way in translation, you know,
+
+1632
+01:18:40,940 --> 01:18:43,380
+which had you earlier, you had a great explanation.
+
+1633
+01:18:43,380 --> 01:18:45,980
+It's like, it's a chain, you know, it looks back,
+
+1634
+01:18:45,980 --> 01:18:48,580
+it sees a letter, and then it says, what's the probability?
+
+1635
+01:18:48,580 --> 01:18:49,980
+It was letter by letter.
+
+1636
+01:18:49,980 --> 01:18:51,460
+That paper wasn't pushkin.
+
+1637
+01:18:51,460 --> 01:18:53,940
+It was on generating pushkin's prose,
+
+1638
+01:18:53,940 --> 01:18:59,260
+and he by hand created like a simple letter by letter generator
+
+1639
+01:18:59,260 --> 01:19:02,540
+that produced, and it was also like, it's amazingly effective.
+
+1640
+01:19:02,540 --> 01:19:04,620
+It's the simplest mathematical model.
+
+1641
+01:19:04,620 --> 01:19:08,020
+It produces like very nonsensical pushkin,
+
+1642
+01:19:08,020 --> 01:19:10,340
+but nevertheless, it was effective, right?
+
+1643
+01:19:10,340 --> 01:19:12,700
+It right away got us to like the point where we are,
+
+1644
+01:19:12,700 --> 01:19:17,340
+saying like, wait a second, this thing is producing sentences.
+
+1645
+01:19:17,340 --> 01:19:18,980
+It also has the same kind of problems.
+
+1646
+01:19:18,980 --> 01:19:21,260
+It has difficulty with context obviously,
+
+1647
+01:19:21,260 --> 01:19:24,180
+because it only looks back one letter.
+
+1648
+01:19:24,180 --> 01:19:28,900
+So these are, you know, so I think by trying to not fall
+
+1649
+01:19:28,900 --> 01:19:32,860
+into the same metaphorical, the same kind of language
+
+1650
+01:19:32,860 --> 01:19:35,980
+which we slide into, which is intelligence, mind,
+
+1651
+01:19:35,980 --> 01:19:41,380
+you know, sentience, and just try to like restate what we mean
+
+1652
+01:19:41,380 --> 01:19:43,900
+in other ways, like this is a statistical model.
+
+1653
+01:19:43,900 --> 01:19:48,060
+Do we say, what do we, how do we talk about statistical models?
+
+1654
+01:19:48,060 --> 01:19:50,980
+I think that helps us kind of move past some of the,
+
+1655
+01:19:50,980 --> 01:19:53,900
+I think last night, you know, we saw some beautiful magic tricks.
+
+1656
+01:19:53,900 --> 01:19:56,980
+Like there are some magical tricks here that are in our minds.
+
+1657
+01:19:56,980 --> 01:20:01,140
+There are, it's, it's, I think there are our failings in the way
+
+1658
+01:20:01,140 --> 01:20:03,980
+of incorporating these techniques into our lives.
+
+1659
+01:20:03,980 --> 01:20:06,140
+There's a last comment and we're going to have questions from the audience.
+
+1660
+01:20:06,140 --> 01:20:07,700
+One thing, and that just came to mind,
+
+1661
+01:20:07,700 --> 01:20:10,060
+I haven't thought about this previously, is when you think
+
+1662
+01:20:10,060 --> 01:20:12,620
+of like the historical context of Turing test,
+
+1663
+01:20:12,620 --> 01:20:14,500
+it's kind of an artificial environment, right,
+
+1664
+01:20:14,500 --> 01:20:18,060
+where you blind yourself to the human in the computer.
+
+1665
+01:20:18,060 --> 01:20:20,620
+But one thing that's kind of amazing is, you know,
+
+1666
+01:20:20,620 --> 01:20:23,660
+over the last 20 years, so much of our interaction is
+
+1667
+01:20:23,660 --> 01:20:25,140
+in purely text form, right?
+
+1668
+01:20:25,140 --> 01:20:27,820
+I text friends, I type on social media.
+
+1669
+01:20:27,820 --> 01:20:30,700
+So we're in this world now where we interact with humans
+
+1670
+01:20:30,700 --> 01:20:32,820
+in an entirely text-only way.
+
+1671
+01:20:32,820 --> 01:20:37,580
+So when we see something like GPT-3 that I interact with text-only,
+
+1672
+01:20:37,580 --> 01:20:40,180
+I think that's part of why it feels like it's more human,
+
+1673
+01:20:40,180 --> 01:20:42,580
+or at least we think of those terms and ask about it,
+
+1674
+01:20:42,580 --> 01:20:45,580
+because that's a standard form of interaction now.
+
+1675
+01:20:45,580 --> 01:20:48,020
+We don't, you know, if you look at old school sci-fi,
+
+1676
+01:20:48,020 --> 01:20:50,620
+it's about physical robots, because that's our world.
+
+1677
+01:20:50,620 --> 01:20:52,740
+But now we live in a world of texting,
+
+1678
+01:20:52,740 --> 01:20:56,180
+and GPT-3 is potentially as real as anything else.
+
+1679
+01:20:56,180 --> 01:20:59,580
+It's not, but that's, it's just somehow our world has changed
+
+1680
+01:20:59,580 --> 01:21:03,580
+separate from the AI as well.
+
+1681
+01:21:03,580 --> 01:21:04,580
+Yeah.
+
+1682
+01:21:04,580 --> 01:21:07,580
+Okay, we have some time for some questions from the audience.
+
+1683
+01:21:07,580 --> 01:21:09,580
+Would you like to approach the microphone?
+
+1684
+01:21:09,580 --> 01:21:12,580
+Thank you.
+
+1685
+01:21:12,580 --> 01:21:14,580
+Okay, thanks for this conversation.
+
+1686
+01:21:14,580 --> 01:21:16,580
+It's very interesting.
+
+1687
+01:21:16,580 --> 01:21:19,580
+The prompt, as it's stated in the program here,
+
+1688
+01:21:19,580 --> 01:21:22,580
+says that the program can create language that gives the
+
+1689
+01:21:22,580 --> 01:21:24,580
+impression that it is thinking.
+
+1690
+01:21:24,580 --> 01:21:27,580
+And thinking is the thing that I sort of want to press the
+
+1691
+01:21:27,580 --> 01:21:30,580
+circle to talk a little bit more about.
+
+1692
+01:21:30,580 --> 01:21:35,580
+And it strikes me that when computers first arrived,
+
+1693
+01:21:35,580 --> 01:21:38,580
+we didn't tend to think of them as violating entropy.
+
+1694
+01:21:38,580 --> 01:21:41,580
+You know, you get them to go, and then they break,
+
+1695
+01:21:41,580 --> 01:21:44,580
+and they, you know, they have a lot of,
+
+1696
+01:21:44,580 --> 01:21:46,580
+they require lots of energy and vacuum tubes and all of this.
+
+1697
+01:21:46,580 --> 01:21:50,580
+But now with the rise of like language learning
+
+1698
+01:21:50,580 --> 01:21:52,580
+and the sort of artificial intelligence,
+
+1699
+01:21:52,580 --> 01:21:54,580
+there's this kind of impression that we have that the
+
+1700
+01:21:54,580 --> 01:21:59,580
+computer is somehow like us violating the second law
+
+1701
+01:21:59,580 --> 01:22:02,580
+of thermodynamics, that it's somehow creating
+
+1702
+01:22:02,580 --> 01:22:06,580
+entropy and generating things outside the realm of like,
+
+1703
+01:22:06,580 --> 01:22:08,580
+you know, the heat death of the universe.
+
+1704
+01:22:08,580 --> 01:22:10,580
+I think what I'm basically saying is that,
+
+1705
+01:22:10,580 --> 01:22:15,580
+is the problem with computer thinking basically the same
+
+1706
+01:22:15,580 --> 01:22:18,580
+problem we have in understanding our own thinking?
+
+1707
+01:22:18,580 --> 01:22:21,580
+Like if we don't understand what consciousness is in the
+
+1708
+01:22:21,580 --> 01:22:23,580
+first place, how are we, I mean, it seems like there's a
+
+1709
+01:22:23,580 --> 01:22:26,580
+really quick move to understand the computer is doing this,
+
+1710
+01:22:26,580 --> 01:22:28,580
+because it seems to be doing what we do,
+
+1711
+01:22:28,580 --> 01:22:31,580
+which is make connections, we're creative, we flourish,
+
+1712
+01:22:31,580 --> 01:22:32,580
+we do all these things.
+
+1713
+01:22:32,580 --> 01:22:35,580
+But in the end, are we even actually thinking,
+
+1714
+01:22:35,580 --> 01:22:38,580
+according to that model?
+
+1715
+01:22:38,580 --> 01:22:40,580
+One point, doesn't directly address that,
+
+1716
+01:22:40,580 --> 01:22:44,580
+but kind of tangential is, the prompt also mentioned
+
+1717
+01:22:44,580 --> 01:22:47,580
+something about does being aware of a code kind of effect?
+
+1718
+01:22:47,580 --> 01:22:48,580
+It's realness.
+
+1719
+01:22:48,580 --> 01:22:51,580
+And I hate to say it, but the fact that, okay,
+
+1720
+01:22:51,580 --> 01:22:54,580
+we don't know exactly the black box of machine learning and
+
+1721
+01:22:54,580 --> 01:22:57,580
+deep neural nets and all that, but we do understand neural
+
+1722
+01:22:57,580 --> 01:22:59,580
+networks in the sense that we've designed the algorithms,
+
+1723
+01:22:59,580 --> 01:23:01,580
+we know what a transformer is.
+
+1724
+01:23:01,580 --> 01:23:04,580
+And I hate to say it, but the fact that we know exactly what
+
+1725
+01:23:04,580 --> 01:23:07,580
+algorithm GPT-3 is running, not, you know, the parameters
+
+1726
+01:23:07,580 --> 01:23:10,580
+after it's been trained, but the raw algorithm,
+
+1727
+01:23:10,580 --> 01:23:12,580
+knowing that does take a lot of wind out of the sails,
+
+1728
+01:23:12,580 --> 01:23:14,580
+it takes away a lot of magic.
+
+1729
+01:23:14,580 --> 01:23:18,580
+We, I can't look in a human brain and understand it architecturally
+
+1730
+01:23:18,580 --> 01:23:21,580
+to the same level that I understand a transformer.
+
+1731
+01:23:21,580 --> 01:23:24,580
+So I think part of why it's easier to ascribe consciousness
+
+1732
+01:23:24,580 --> 01:23:27,580
+and thinking and sentience and all these things to organic life
+
+1733
+01:23:27,580 --> 01:23:29,580
+is we know much less.
+
+1734
+01:23:29,580 --> 01:23:31,580
+We don't know everything about neural networks,
+
+1735
+01:23:31,580 --> 01:23:35,580
+but we know so much that it's really hard to believe it's
+
+1736
+01:23:35,580 --> 01:23:37,580
+thinking that it's conscious that it's any of these human type of
+
+1737
+01:23:37,580 --> 01:23:41,580
+things or animal things.
+
+1738
+01:23:41,580 --> 01:23:44,580
+The idea of amazement, which we brought up so much to beginning
+
+1739
+01:23:44,580 --> 01:23:48,580
+also seems to be a fancy way to talk about that would be to say,
+
+1740
+01:23:48,580 --> 01:23:53,580
+oh, we observe things with low entropy that surprise us, right?
+
+1741
+01:23:53,580 --> 01:23:55,580
+And we've already learned how to do that.
+
+1742
+01:23:55,580 --> 01:24:01,580
+And you're right, humans in our human intercourse among ourselves
+
+1743
+01:24:01,580 --> 01:24:05,580
+discourse, I think is a better word, whoops.
+
+1744
+01:24:05,580 --> 01:24:11,580
+That we're exposed to those sort of flashes of low entropy
+
+1745
+01:24:11,580 --> 01:24:15,580
+that our consciousness can create, does that mean that when computers do it,
+
+1746
+01:24:15,580 --> 01:24:18,580
+that's another instance of thinking like humans?
+
+1747
+01:24:18,580 --> 01:24:22,580
+I don't think so, but people may disagree.
+
+1748
+01:24:22,580 --> 01:24:26,580
+So again, we don't really have theories necessarily that make sense
+
+1749
+01:24:26,580 --> 01:24:27,580
+of the data.
+
+1750
+01:24:27,580 --> 01:24:30,580
+And so we are in this experimental phase where we're just, you know,
+
+1751
+01:24:30,580 --> 01:24:34,580
+one of the frustrations of working on it is you just have to give
+
+1752
+01:24:34,580 --> 01:24:37,580
+data point after data point after data point, but we can't necessarily
+
+1753
+01:24:37,580 --> 01:24:39,580
+say what it all means.
+
+1754
+01:24:39,580 --> 01:24:43,580
+You know, we had one student who was a Bernie Sanders supporter,
+
+1755
+01:24:43,580 --> 01:24:48,580
+senior who decided to have GPT-3 write a lullaby by Marx,
+
+1756
+01:24:48,580 --> 01:24:49,580
+and it did a beautiful job.
+
+1757
+01:24:49,580 --> 01:24:53,580
+And then a conversation between Adam Smith and Karl Marx,
+
+1758
+01:24:53,580 --> 01:24:54,580
+and it did a beautiful job.
+
+1759
+01:24:54,580 --> 01:24:58,580
+And then, and one shot, not, you know, five times.
+
+1760
+01:24:58,580 --> 01:25:01,580
+And then, you know, what would Karl Marx say about Bitcoin?
+
+1761
+01:25:01,580 --> 01:25:03,580
+And it said, well, he might say this.
+
+1762
+01:25:03,580 --> 01:25:06,580
+I mean, it was all very, you know, so is that thinking,
+
+1763
+01:25:06,580 --> 01:25:08,580
+is it conscious, of course not?
+
+1764
+01:25:08,580 --> 01:25:12,580
+But it is doing something that we recognize that is difficult
+
+1765
+01:25:12,580 --> 01:25:16,580
+in terms of intellect, you know, and we don't really have a way of
+
+1766
+01:25:16,580 --> 01:25:19,580
+making sense of that with our current theories.
+
+1767
+01:25:19,580 --> 01:25:22,580
+We just have to look at the examples.
+
+1768
+01:25:22,580 --> 01:25:26,580
+Yeah, I think the important thing to note here is that even humans,
+
+1769
+01:25:26,580 --> 01:25:31,580
+so whatever we say and whatever the new knowledge that we seem to create
+
+1770
+01:25:31,580 --> 01:25:35,580
+does not necessarily actually become important knowledge,
+
+1771
+01:25:35,580 --> 01:25:38,580
+but it's always all about looking back, right?
+
+1772
+01:25:38,580 --> 01:25:40,580
+High side is 2020.
+
+1773
+01:25:40,580 --> 01:25:42,580
+So, you know, we do increase entropy.
+
+1774
+01:25:42,580 --> 01:25:45,580
+You know, whenever we say something, almost everything,
+
+1775
+01:25:45,580 --> 01:25:47,580
+it's going to be forgotten, and it's going to be concerned with
+
+1776
+01:25:47,580 --> 01:25:49,580
+when we look better on the tops of your spec.
+
+1777
+01:25:49,580 --> 01:25:51,580
+So, we do increase the entropy.
+
+1778
+01:25:51,580 --> 01:25:54,580
+But general, and then, you know, the discussions are the same thing, right?
+
+1779
+01:25:54,580 --> 01:25:59,580
+So, these models were trained to minimize the entropy based on the data.
+
+1780
+01:25:59,580 --> 01:26:03,580
+And what we know is that the entropy of the trend of the learned distribution
+
+1781
+01:26:03,580 --> 01:26:06,580
+has to be greater than equal to the original entropy.
+
+1782
+01:26:06,580 --> 01:26:08,580
+So, it's always going to increase the entropy.
+
+1783
+01:26:08,580 --> 01:26:13,580
+But then the thing is, it all comes down to distillation, like, process, right?
+
+1784
+01:26:13,580 --> 01:26:14,580
+So, look at all those things.
+
+1785
+01:26:14,580 --> 01:26:18,580
+And then we pick what are important, creative, amazing things,
+
+1786
+01:26:18,580 --> 01:26:20,580
+and they were going to kind of, say, kill them.
+
+1787
+01:26:20,580 --> 01:26:25,580
+And then maybe the more important process that is kind of language generation is.
+
+1788
+01:26:25,580 --> 01:26:28,580
+Great, thank you.
+
+1789
+01:26:28,580 --> 01:26:31,580
+Yes, thank you again for the great panel.
+
+1790
+01:26:31,580 --> 01:26:33,580
+I have a question.
+
+1791
+01:26:33,580 --> 01:26:37,580
+We talk about language, like in the literary sense, like putting words together.
+
+1792
+01:26:37,580 --> 01:26:43,580
+But I would be curious, what if GPT-3 can formalize
+
+1793
+01:26:43,580 --> 01:26:46,580
+and then try to predict mathematical language,
+
+1794
+01:26:46,580 --> 01:26:51,580
+and what I'm trying to get at is, you know about Gedel's theorem, right?
+
+1795
+01:26:51,580 --> 01:26:56,580
+Like the mathematical language of arithmetic is either incomplete
+
+1796
+01:26:56,580 --> 01:27:00,580
+or inconsistent, I would be curious, if a system like GPT-3
+
+1797
+01:27:00,580 --> 01:27:05,580
+can try to do all the combinations that mathematical language can generate
+
+1798
+01:27:05,580 --> 01:27:11,580
+all the possible sentences and find out a contradiction in arithmetic,
+
+1799
+01:27:11,580 --> 01:27:17,580
+which we say could exist, but I don't think anybody has fadmed
+
+1800
+01:27:17,580 --> 01:27:21,580
+what inconsistent c lurks within arithmetic.
+
+1801
+01:27:21,580 --> 01:27:25,580
+I would be curious if GPT-3 can be applied to mathematical language.
+
+1802
+01:27:25,580 --> 01:27:26,580
+Thank you.
+
+1803
+01:27:26,580 --> 01:27:31,580
+So, of course, as you see, some people are actually training these
+
+1804
+01:27:31,580 --> 01:27:36,580
+or skilled language models on the formal language of the mathematical equations and so on.
+
+1805
+01:27:36,580 --> 01:27:40,580
+But I think the one thing that is interesting is we don't even have to go into the incomplete theorem right?
+
+1806
+01:27:40,580 --> 01:27:46,580
+But in mathematics and computer science theory, we have a very well established theory
+
+1807
+01:27:46,580 --> 01:27:51,580
+of the hierarchy of the problems, problems that we can solve based on the complexity,
+
+1808
+01:27:51,580 --> 01:27:56,580
+so the memory of the clearly just a practical complexity.
+
+1809
+01:27:56,580 --> 01:27:59,580
+And the one thing we know is that if it is language models that we build
+
+1810
+01:27:59,580 --> 01:28:03,580
+have a very fixed amount of compute that is assigned to each and every input.
+
+1811
+01:28:03,580 --> 01:28:07,580
+So, for instance, let's say we are trying to solve traveling sales person problem
+
+1812
+01:28:07,580 --> 01:28:11,580
+and we know that it doesn't be a complete problem, and then we know that each GPT-3
+
+1813
+01:28:11,580 --> 01:28:16,580
+or one not has only the quadratic complexity with respect to the size of the implicit graph size.
+
+1814
+01:28:16,580 --> 01:28:21,580
+So, what we know is that unless traveling sales person or the NP-tractal to be P,
+
+1815
+01:28:21,580 --> 01:28:25,580
+unless that happens, we know that there will be instances of the traveling sales person problem
+
+1816
+01:28:25,580 --> 01:28:27,580
+that cannot be solved by this GPT-3.
+
+1817
+01:28:27,580 --> 01:28:32,580
+So, I don't think it's about the training model better and getting more data,
+
+1818
+01:28:32,580 --> 01:28:36,580
+but there are some fundamental computational limitations that are actually being imposed
+
+1819
+01:28:36,580 --> 01:28:40,580
+by our own construction, and how to go beyond that is the kind of, let's say,
+
+1820
+01:28:40,580 --> 01:28:43,580
+research direction that people are looking into and they often call it
+
+1821
+01:28:43,580 --> 01:28:46,580
+and you can very sort of transform or something.
+
+1822
+01:28:46,580 --> 01:28:53,580
+But yes, to just connect to what I said that, yes, these large-head model have been
+
+1823
+01:28:53,580 --> 01:28:58,580
+further trained to be used, for example, for generating code,
+
+1824
+01:28:58,580 --> 01:29:03,580
+which is a special kind of text with some rules because of the coding,
+
+1825
+01:29:03,580 --> 01:29:10,580
+or to generate plans, sequences of actions, or to generate other structural tests,
+
+1826
+01:29:10,580 --> 01:29:13,580
+other forms of structural test.
+
+1827
+01:29:13,580 --> 01:29:16,580
+And so the way that is done, as we mentioned at the beginning,
+
+1828
+01:29:16,580 --> 01:29:23,580
+is that you take this large language model and you further train it for that specific domain,
+
+1829
+01:29:23,580 --> 01:29:28,580
+whether it's code, or plans, or other forms of structural text.
+
+1830
+01:29:28,580 --> 01:29:32,580
+So, not related to the computational complexity thing,
+
+1831
+01:29:32,580 --> 01:29:39,580
+but to say that, yes, these language generators can be used to generate specific
+
+1832
+01:29:39,580 --> 01:29:44,580
+forms of language such as code, plans, and other things.
+
+1833
+01:29:44,580 --> 01:29:48,580
+But it's important to remember, even when you train it to create mathematical language,
+
+1834
+01:29:48,580 --> 01:29:51,580
+it's still statistical, it doesn't know when it's right or wrong.
+
+1835
+01:29:51,580 --> 01:29:57,580
+So no, it's not going to find some contradiction because it doesn't know when it's right or wrong to begin with.
+
+1836
+01:29:57,580 --> 01:29:59,580
+Don't worry about souls, so not known.
+
+1837
+01:29:59,580 --> 01:30:01,580
+What's that? No, we're still those two.
+
+1838
+01:30:01,580 --> 01:30:02,580
+Yes, we do.
+
+1839
+01:30:02,580 --> 01:30:04,580
+But we know when they're right.
+
+1840
+01:30:04,580 --> 01:30:07,580
+We think we know, but again.
+
+1841
+01:30:07,580 --> 01:30:13,580
+But actually, failures in logic is one of the main tells when you're trying to distinguish right now,
+
+1842
+01:30:13,580 --> 01:30:16,580
+which is very surprising because we think of computers as highly logical,
+
+1843
+01:30:16,580 --> 01:30:19,580
+and yet that's precisely what these models fail at.
+
+1844
+01:30:19,580 --> 01:30:23,580
+Thank you all for this amazing talk.
+
+1845
+01:30:23,580 --> 01:30:27,580
+We talked about world models a bit, and I think it might be interesting to take the view
+
+1846
+01:30:27,580 --> 01:30:32,580
+that the successor failure of an algorithm is actually nothing to do with the algorithm,
+
+1847
+01:30:32,580 --> 01:30:41,580
+but rather the human judgment that deploys in a given context, a world model to judge what a computer has done.
+
+1848
+01:30:41,580 --> 01:30:46,580
+And we mentioned about the continuing progress of AI in the future or algorithms,
+
+1849
+01:30:46,580 --> 01:30:52,580
+and I can see actually two vectors, one in which, based on how we deploy these in actual real-world systems,
+
+1850
+01:30:52,580 --> 01:30:58,580
+we are so used to seeing all this quote-unquote PS that we actually lower our judgment function
+
+1851
+01:30:58,580 --> 01:31:04,580
+to say that this is acceptable to us, or we don't have as sophisticated world models
+
+1852
+01:31:04,580 --> 01:31:09,580
+to judge the outputs of AI because we're so used to growing up with them.
+
+1853
+01:31:09,580 --> 01:31:15,580
+So if you have any comments on that point, and the other question I have for all of you is,
+
+1854
+01:31:15,580 --> 01:31:20,580
+has coming to the earlier question on what does it say about mind that we started with,
+
+1855
+01:31:20,580 --> 01:31:25,580
+has it changed for you how you understand yourselves as human beings?
+
+1856
+01:31:25,580 --> 01:31:30,580
+That's a solid question.
+
+1857
+01:31:30,580 --> 01:31:42,580
+On judging the output flow, GBT3 is about 20% or 27% correct on two digit multiplication problems,
+
+1858
+01:31:42,580 --> 01:31:46,580
+you know, 25 times 72.
+
+1859
+01:31:46,580 --> 01:31:50,580
+It's very poor, really.
+
+1860
+01:31:50,580 --> 01:31:56,580
+You know, that's a fine view in centers that's not a particularly sophisticated kind of issue.
+
+1861
+01:31:56,580 --> 01:32:01,580
+So, you know, the failures are severe.
+
+1862
+01:32:01,580 --> 01:32:06,580
+And as we were discussing earlier, I think the key issue is,
+
+1863
+01:32:06,580 --> 01:32:12,580
+is this a matter of different kind of training, bigger models, you know, more training?
+
+1864
+01:32:12,580 --> 01:32:19,580
+I'm sure that some future model will be much better at these problems,
+
+1865
+01:32:19,580 --> 01:32:28,580
+but will there still be, you know, some astonishing failure and some kind of mathematical logical thing?
+
+1866
+01:32:28,580 --> 01:32:33,580
+But, I mean, to answer the question, the answer is yes.
+
+1867
+01:32:33,580 --> 01:32:39,580
+I mean, because you've seen also in this discussion that we always often do these analogies.
+
+1868
+01:32:39,580 --> 01:32:47,580
+And so whenever we try to test or even analyze and discuss this large language generator,
+
+1869
+01:32:47,580 --> 01:32:53,580
+we always, or AI in general, we always think, at least I always think in terms of human beings,
+
+1870
+01:32:53,580 --> 01:32:58,580
+you know, we learn from data, we learn from examples, we learn from rules, we learn,
+
+1871
+01:32:58,580 --> 01:33:00,580
+we abstract from data to rules.
+
+1872
+01:33:00,580 --> 01:33:10,580
+So, and that thinking about how humans do and reason, it's translated in our, for example,
+
+1873
+01:33:10,580 --> 01:33:17,580
+in my work, in my research project, is translated by understanding of how humans do things,
+
+1874
+01:33:17,580 --> 01:33:21,580
+is then translated and tries to be adapted into the AI space.
+
+1875
+01:33:21,580 --> 01:33:27,580
+So, like, I don't know, for example, my recent project is about thinking fast and slow in AI.
+
+1876
+01:33:27,580 --> 01:33:33,580
+So, to take that cognitive theory or how human make decisions by combining the thinking fast
+
+1877
+01:33:33,580 --> 01:33:38,580
+and the thinking slow and see what it would mean inside the machine.
+
+1878
+01:33:38,580 --> 01:33:41,580
+What is the thinking fast? It's just machine.
+
+1879
+01:33:41,580 --> 01:33:43,580
+Is it a driven approach? Is it a thinking fast?
+
+1880
+01:33:43,580 --> 01:33:48,580
+Or does it also generate then emerging thinking slow behavior?
+
+1881
+01:33:48,580 --> 01:33:53,580
+Or you have to add the thinking slow behavior because it doesn't emerge from there?
+
+1882
+01:33:53,580 --> 01:34:03,580
+So, in my job, I always do this analogy between humans and machines or differences
+
+1883
+01:34:03,580 --> 01:34:12,580
+that certainly helped me in recent years to understand better how human minds work as well.
+
+1884
+01:34:12,580 --> 01:34:17,580
+I can also say, when I confront questions like this, I'm reminded of the old distinction
+
+1885
+01:34:17,580 --> 01:34:23,580
+between functional, like, is the proof going to be in the outward representations of intelligence?
+
+1886
+01:34:23,580 --> 01:34:27,580
+Or is it going to be in the inward, some kind of inside structure that, you know,
+
+1887
+01:34:27,580 --> 01:34:31,580
+there's a long philosophical tradition in thinking about it.
+
+1888
+01:34:31,580 --> 01:34:37,580
+But I myself am skeptical about these algorithms telling us anything kind of internally,
+
+1889
+01:34:37,580 --> 01:34:44,580
+kind of any answering existential questions about the mind or God or love or whatever, whatever it is.
+
+1890
+01:34:44,580 --> 01:34:51,580
+But functionally, I think the answer to, you know, what effect, what will these algorithms teach us?
+
+1891
+01:34:51,580 --> 01:34:54,580
+That's not a speculative question.
+
+1892
+01:34:54,580 --> 01:34:59,580
+The question is how will these algorithms will be integrated into our daily practice.
+
+1893
+01:34:59,580 --> 01:35:04,580
+And I think that's a matter of observation, that's a matter of engineering.
+
+1894
+01:35:04,580 --> 01:35:09,580
+One example I'll give you is that I guarantee you, all of you who teach,
+
+1895
+01:35:09,580 --> 01:35:14,580
+our students will be using these algorithms, they're already using these algorithms to write
+
+1896
+01:35:14,580 --> 01:35:19,580
+fairly mediocre, like, C++ B- papers, because it's so easy.
+
+1897
+01:35:19,580 --> 01:35:23,580
+You can right now go to a website, put in a bunch of, like, really good papers,
+
+1898
+01:35:23,580 --> 01:35:27,580
+and produce, like, a somewhat nonsensical, but you'll be like, oh, that's an interesting idea.
+
+1899
+01:35:27,580 --> 01:35:36,580
+I never thought of that, you know, B-. Now, that changes, that changes my, I mean, maybe, hopefully not at Columbia,
+
+1900
+01:35:36,580 --> 01:35:40,580
+but that changes my practice of teaching.
+
+1901
+01:35:40,580 --> 01:35:51,580
+That means when I sign papers, I can no longer view a paper as this, like, special insight into my students' ability to comprehend something.
+
+1902
+01:35:51,580 --> 01:35:59,580
+Because I know now that the student is thinking with the computer in a hybrid way, in a way we've always been doing,
+
+1903
+01:35:59,580 --> 01:36:01,580
+but now the computer is playing more of a part.
+
+1904
+01:36:01,580 --> 01:36:08,580
+So now, and this is, I don't have an answer by the way, now I'm thinking, okay, to be in front of this trade,
+
+1905
+01:36:08,580 --> 01:36:15,580
+can I give them, and I love your, the various experiments your lab is doing, can I give them papers and say,
+
+1906
+01:36:15,580 --> 01:36:25,580
+actually, explicitly write them with GPT in some way, and then show me kind of what is the next student paper format,
+
+1907
+01:36:25,580 --> 01:36:33,580
+what is it going to look like? And I think it's going to be something different post, but because these algorithms are unreasonably effective,
+
+1908
+01:36:33,580 --> 01:36:42,580
+because they're magical and they seem to surprise us in a particular way, that means they will transform our practice of teaching in this example.
+
+1909
+01:36:42,580 --> 01:36:49,580
+I think that's excellent, yes. Well, I hope my own internal language generator chooses the following word.
+
+1910
+01:36:49,580 --> 01:36:54,580
+I think this was a staring conversation, and wonderful one at that.
+
+1911
+01:36:54,580 --> 01:36:57,580
+Oh, we have another question? Yes. Oh, my goodness.
+
+1912
+01:36:57,580 --> 01:37:03,580
+Now, I hope you will not call the wagon and have me sent to the loony bin for what I'm about to say.
+
+1913
+01:37:03,580 --> 01:37:12,580
+I'm a Jungian psychoanalyst, and part of what we do is we try to learn all the mythologies of the world,
+
+1914
+01:37:12,580 --> 01:37:20,580
+which is, of course, impossible, but get trained in mythopoaic approaches, mythopoaic analogous associative approaches.
+
+1915
+01:37:20,580 --> 01:37:26,580
+And the way you're talking about what's in the computers is the same way we approach dreams.
+
+1916
+01:37:26,580 --> 01:37:36,580
+I'm really so struck by this, because a person could have a dream that Egypt was sent over to the Golden Gate Bridge,
+
+1917
+01:37:36,580 --> 01:37:40,580
+and we would look to see what the unconscious associations are.
+
+1918
+01:37:40,580 --> 01:37:48,580
+Is this a person who's putting great value and renewal of life out of an Egyptian system,
+
+1919
+01:37:48,580 --> 01:37:54,580
+but is drawn to commit suicide and thinks about doing it on the Golden Gate Bridge?
+
+1920
+01:37:54,580 --> 01:37:58,580
+So then you look at all the underlying associations.
+
+1921
+01:37:58,580 --> 01:38:10,580
+My fantasy is in some weird way, because you are all trained so well in rational thought that the unconscious
+
+1922
+01:38:10,580 --> 01:38:16,580
+associative mythopoaic level is getting picked up in some way.
+
+1923
+01:38:16,580 --> 01:38:25,580
+And so just think about it, but consider it, which means look at it from the point of view of the stars.
+
+1924
+01:38:25,580 --> 01:38:26,580
+Okay.
+
+1925
+01:38:26,580 --> 01:38:35,580
+Well, thank you again, everyone, and we will be reconvening at 2 p.m. for our talk on the metaphors.
+
+1926
+01:38:35,580 --> 01:38:36,580
+Thanks again.
+
+1927
+01:38:36,580 --> 01:38:37,580
+Thank you.
+
+1928
+01:38:37,580 --> 01:38:47,580
+Thank you.
+

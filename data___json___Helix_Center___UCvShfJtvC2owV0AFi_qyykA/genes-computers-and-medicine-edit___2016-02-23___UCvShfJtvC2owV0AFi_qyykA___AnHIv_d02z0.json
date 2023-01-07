@@ -1,0 +1,1179 @@
+{"id": "AnHIv_d02z0-t0.0", "text": "We're going to get started.", "start": 0.0, "end": 3.44}
+{"id": "AnHIv_d02z0-t3.44", "text": "Good afternoon, everybody.", "start": 3.44, "end": 4.72}
+{"id": "AnHIv_d02z0-t4.72", "text": "Welcome to the Helix Center.", "start": 4.72, "end": 7.4}
+{"id": "AnHIv_d02z0-t7.4", "text": "Before I introduce today's participants, let me tell you about a couple of round tables", "start": 7.4, "end": 12.92}
+{"id": "AnHIv_d02z0-t12.92", "text": "that are coming up.", "start": 12.92, "end": 13.92}
+{"id": "AnHIv_d02z0-t13.92", "text": "On Saturday, March 12, the meditative state, with research psychologist Sarah Lazar, Peter", "start": 13.92, "end": 20.76}
+{"id": "AnHIv_d02z0-t20.76", "text": "Melanowski, and Yi Yang Tang, and pastoral care leader, Koshan Paley Ellison, and psychoanalyst", "start": 20.76, "end": 27.6}
+{"id": "AnHIv_d02z0-t27.6", "text": "Morgan Stevens.", "start": 27.6, "end": 29.36}
+{"id": "AnHIv_d02z0-t29.36", "text": "And on Saturday, March 26, understanding genius part two women, with historians Joyce Chaplin,", "start": 29.36, "end": 36.76}
+{"id": "AnHIv_d02z0-t36.76", "text": "Kathleen Keat, and Darren McMahon, anthropologist Susan Seymour, and poet and visual artist,", "start": 36.76, "end": 43.6}
+{"id": "AnHIv_d02z0-t43.6", "text": "Ann Marie Levine, who as Helix executive committee member also organized that round table.", "start": 43.6, "end": 49.36}
+{"id": "AnHIv_d02z0-t49.36", "text": "Now for today, jeans, computers, and medicine, James Domen, assistant professor of biomedical", "start": 49.36, "end": 55.96}
+{"id": "AnHIv_d02z0-t55.96", "text": "engineering at Georgia Tech.", "start": 55.96, "end": 58.2}
+{"id": "AnHIv_d02z0-t58.2", "text": "Frances Lee, Mortimer D. Sackler professor and vice chair for research department of psychiatry", "start": 58.2, "end": 63.440000000000005}
+{"id": "AnHIv_d02z0-t63.440000000000005", "text": "at Wile Cornell Medical College.", "start": 63.440000000000005, "end": 66.2}
+{"id": "AnHIv_d02z0-t66.2", "text": "Karen Mashke, research scholar at the Hastings Center, and Hans Guido Wendell, principal", "start": 66.2, "end": 71.84}
+{"id": "AnHIv_d02z0-t71.84", "text": "investigator at the cancer genetics laboratory at Memorial Sloan Kettering.", "start": 71.84, "end": 76.16}
+{"id": "AnHIv_d02z0-t76.16", "text": "Okay, we'll begin.", "start": 76.16, "end": 85.88}
+{"id": "AnHIv_d02z0-t85.88", "text": "So what's the latest in genetics?", "start": 85.88, "end": 89.75999999999999}
+{"id": "AnHIv_d02z0-t89.75999999999999", "text": "Well, I'm really pleased that you started off with a question I could answer quickly.", "start": 89.75999999999999, "end": 98.19999999999999}
+{"id": "AnHIv_d02z0-t98.19999999999999", "text": "So from my perspective as somebody who does genetic therapies, who looks into the future", "start": 98.19999999999999, "end": 105.03999999999999}
+{"id": "AnHIv_d02z0-t105.03999999999999", "text": "and sees medicines where we target the genome, I think there's a revolution occurring in", "start": 105.03999999999999, "end": 111.88}
+{"id": "AnHIv_d02z0-t111.88", "text": "biology where with different types of new small molecules or, excuse me, DNAs or RNAs,", "start": 111.88, "end": 119.0}
+{"id": "AnHIv_d02z0-t119.0", "text": "we can actually go for the first time and effectively manipulate the genome the way that", "start": 119.0, "end": 123.8}
+{"id": "AnHIv_d02z0-t123.8", "text": "we would like to.", "start": 123.8, "end": 124.8}
+{"id": "AnHIv_d02z0-t124.8", "text": "So in genetics, one of the many revolutions is this ability to actually go in and edit", "start": 124.8, "end": 130.72}
+{"id": "AnHIv_d02z0-t130.72", "text": "the genome as we would like or manipulate the genome and see what that can do therapeutically", "start": 130.72, "end": 135.88}
+{"id": "AnHIv_d02z0-t135.88", "text": "and scientifically.", "start": 135.88, "end": 137.07999999999998}
+{"id": "AnHIv_d02z0-t137.08", "text": "That's one of the advances in genetics, I would say.", "start": 137.08, "end": 143.36}
+{"id": "AnHIv_d02z0-t143.36", "text": "If you were to take a guess, where would be the first clinical application of this type", "start": 143.36, "end": 149.36}
+{"id": "AnHIv_d02z0-t149.36", "text": "of new wave of gene editing?", "start": 149.36, "end": 153.48000000000002}
+{"id": "AnHIv_d02z0-t153.48000000000002", "text": "It's a difficult question.", "start": 153.48000000000002, "end": 156.32000000000002}
+{"id": "AnHIv_d02z0-t156.32000000000002", "text": "I guess I'd answer it by outlining sort of one of the biggest hurdles to implementing", "start": 156.32000000000002, "end": 161.44}
+{"id": "AnHIv_d02z0-t161.44", "text": "the gene editing therapies, which is the ability to safely deliver the new genetic drugs where", "start": 161.44, "end": 168.28}
+{"id": "AnHIv_d02z0-t168.28", "text": "you want to deliver them.", "start": 168.28, "end": 170.12}
+{"id": "AnHIv_d02z0-t170.12", "text": "As you might imagine, if you're going to go in and create a targeted therapy, you want", "start": 170.12, "end": 176.48}
+{"id": "AnHIv_d02z0-t176.48", "text": "to make sure it's going to the right spot in the body.", "start": 176.48, "end": 180.32}
+{"id": "AnHIv_d02z0-t180.32", "text": "For that reason, I would venture a guess and say that anywhere where you can administer", "start": 180.32, "end": 185.88}
+{"id": "AnHIv_d02z0-t185.88", "text": "the genetic medicine locally, so for instance, your eye, you can literally spray it into", "start": 185.88, "end": 190.36}
+{"id": "AnHIv_d02z0-t190.36", "text": "your eye.", "start": 190.36, "end": 193.36}
+{"id": "AnHIv_d02z0-t193.36", "text": "You can take cells out of the body like your immune cells and edit them and then put them", "start": 193.36, "end": 198.16000000000003}
+{"id": "AnHIv_d02z0-t198.16000000000003", "text": "back in.", "start": 198.16000000000003, "end": 199.16000000000003}
+{"id": "AnHIv_d02z0-t199.16000000000003", "text": "So immune cells and then perhaps also deliver, which is an organ that is a little easier", "start": 199.16000000000003, "end": 203.88000000000002}
+{"id": "AnHIv_d02z0-t203.88000000000002", "text": "to target drugs to than other organs.", "start": 203.88000000000002, "end": 208.44000000000003}
+{"id": "AnHIv_d02z0-t208.44000000000003", "text": "So just as since I'm sort of a layman of this gene editing, so what's the difference between", "start": 208.44000000000003, "end": 213.96}
+{"id": "AnHIv_d02z0-t213.96", "text": "this and the revolution I had recalled in the 1990s with gene therapy?", "start": 213.96, "end": 219.36}
+{"id": "AnHIv_d02z0-t219.36", "text": "Yeah, so again, it's tricky.", "start": 219.36, "end": 223.4}
+{"id": "AnHIv_d02z0-t223.4", "text": "The revolution in gene therapy is really actually bearing some interesting therapeutic fruit", "start": 223.4, "end": 227.20000000000002}
+{"id": "AnHIv_d02z0-t227.20000000000002", "text": "right now.", "start": 227.20000000000002, "end": 228.20000000000002}
+{"id": "AnHIv_d02z0-t228.20000000000002", "text": "So again, back in the 90s, there were these advances where people started saying, all", "start": 228.20000000000002, "end": 232.84}
+{"id": "AnHIv_d02z0-t232.84", "text": "right, we're going to actually start taking patients where they're not able to produce", "start": 232.84, "end": 238.04000000000002}
+{"id": "AnHIv_d02z0-t238.04000000000002", "text": "a particular gene.", "start": 238.04000000000002, "end": 240.24}
+{"id": "AnHIv_d02z0-t240.24", "text": "And then we're going to put that gene into patients and cure the patient in some way,", "start": 240.24, "end": 244.8}
+{"id": "AnHIv_d02z0-t244.8", "text": "shape or form.", "start": 244.8, "end": 245.8}
+{"id": "AnHIv_d02z0-t245.8", "text": "And unfortunately, in sort of the late 90s and early 2000s, there were a few hurdles", "start": 245.8, "end": 251.04000000000002}
+{"id": "AnHIv_d02z0-t251.04000000000002", "text": "and events that set the field back.", "start": 251.04000000000002, "end": 253.12}
+{"id": "AnHIv_d02z0-t253.12", "text": "But now because the delivery of some of these genetic therapies has become much more safe,", "start": 253.12, "end": 258.24}
+{"id": "AnHIv_d02z0-t258.24", "text": "we're seeing a change and we're actually seeing really impressive clinical data come", "start": 258.24, "end": 262.88}
+{"id": "AnHIv_d02z0-t262.88", "text": "out with gene therapies that were originally thought of in the 80s and 90s.", "start": 262.88, "end": 268.88}
+{"id": "AnHIv_d02z0-t268.88", "text": "So an interject, because one of the step-backs was actually a death.", "start": 268.88, "end": 272.24}
+{"id": "AnHIv_d02z0-t272.24", "text": "Yeah, that's right.", "start": 272.24, "end": 273.24}
+{"id": "AnHIv_d02z0-t273.24", "text": "That had to do with research ethics issues.", "start": 273.24, "end": 277.68}
+{"id": "AnHIv_d02z0-t277.68", "text": "And with possibly one exception, there's no FDA-approved gene therapy at this time.", "start": 277.68, "end": 283.92}
+{"id": "AnHIv_d02z0-t283.92", "text": "There's maybe more than one.", "start": 283.92, "end": 285.64}
+{"id": "AnHIv_d02z0-t285.64", "text": "Yeah, one year up, there it is.", "start": 285.64, "end": 287.6}
+{"id": "AnHIv_d02z0-t287.6", "text": "Yeah, but in the United States as a yet, so I'm not, I'm just sort of, as a part of the", "start": 287.6, "end": 293.2}
+{"id": "AnHIv_d02z0-t293.2", "text": "revolutionary language.", "start": 293.2, "end": 294.52}
+{"id": "AnHIv_d02z0-t294.52", "text": "Yeah, of course.", "start": 294.52, "end": 296.0}
+{"id": "AnHIv_d02z0-t296.0", "text": "The revolution hasn't happened yet and there was a lot of hype.", "start": 296.0, "end": 299.44}
+{"id": "AnHIv_d02z0-t299.44", "text": "That's right.", "start": 299.44, "end": 300.44}
+{"id": "AnHIv_d02z0-t300.44", "text": "Some people wonder if there's the same kind of hype with gene editing, you know, with,", "start": 300.44, "end": 306.08}
+{"id": "AnHIv_d02z0-t306.08", "text": "and also potential harms because of the exuberance that people are going into with this the same", "start": 306.08, "end": 312.16}
+{"id": "AnHIv_d02z0-t312.16", "text": "way they did with gene therapies.", "start": 312.16, "end": 313.56}
+{"id": "AnHIv_d02z0-t313.56", "text": "Yeah.", "start": 313.56, "end": 314.56}
+{"id": "AnHIv_d02z0-t314.56", "text": "Not to put you on the spot because you're not the only person.", "start": 314.56, "end": 317.56}
+{"id": "AnHIv_d02z0-t317.56", "text": "Yeah, of course.", "start": 317.56, "end": 318.56}
+{"id": "AnHIv_d02z0-t318.56", "text": "And I should clarify that when I say, you know, revolution, I'm not specifically only", "start": 318.56, "end": 323.32}
+{"id": "AnHIv_d02z0-t323.32", "text": "referring to gene editing technologies.", "start": 323.32, "end": 325.44}
+{"id": "AnHIv_d02z0-t325.44", "text": "I'm also referring to anti-sense technologies and RNAi, which, you know, small, interfering", "start": 325.44, "end": 331.84}
+{"id": "AnHIv_d02z0-t331.84", "text": "sirna, or excuse me, small interfering RNAs or sirna.", "start": 331.84, "end": 337.4}
+{"id": "AnHIv_d02z0-t337.4", "text": "So you know, I do think that there is a risk for overhyping new technologies, just like", "start": 337.4, "end": 343.64}
+{"id": "AnHIv_d02z0-t343.64", "text": "with any other technology that has ever been, you know, reported.", "start": 343.64, "end": 347.92}
+{"id": "AnHIv_d02z0-t347.92", "text": "But I think generally speaking, it is a relatively safe statement to make when we say that maybe", "start": 347.92, "end": 353.44}
+{"id": "AnHIv_d02z0-t353.44", "text": "20 years, different classes of medicine based on either small RNAs or anti-sense will have", "start": 353.44, "end": 359.08}
+{"id": "AnHIv_d02z0-t359.08", "text": "a much larger impact in the clinic than certainly they will now.", "start": 359.08, "end": 361.92}
+{"id": "AnHIv_d02z0-t361.92", "text": "So, and I think that's primarily because the delivery is going to continue to improve.", "start": 361.92, "end": 366.16}
+{"id": "AnHIv_d02z0-t366.16", "text": "So to the clinicians, are you seeing that in the clinical world?", "start": 366.16, "end": 369.44}
+{"id": "AnHIv_d02z0-t369.44", "text": "But you see this in your path?", "start": 369.44, "end": 372.04}
+{"id": "AnHIv_d02z0-t372.04", "text": "I have not seen a patient in 15 years.", "start": 372.04, "end": 374.48}
+{"id": "AnHIv_d02z0-t374.48", "text": "I'm calling myself a clinician anymore.", "start": 374.48, "end": 377.28}
+{"id": "AnHIv_d02z0-t377.28", "text": "I'm my only patient if I have a fever that's about it.", "start": 377.28, "end": 383.0}
+{"id": "AnHIv_d02z0-t383.0", "text": "I don't know.", "start": 383.0, "end": 384.0}
+{"id": "AnHIv_d02z0-t384.0", "text": "I think much of the technology is a long way to go before it's a clinical reality.", "start": 384.0, "end": 387.84}
+{"id": "AnHIv_d02z0-t387.84", "text": "So no doubt it's cool new research tools that we can use to learn a lot about how cells", "start": 387.84, "end": 396.16}
+{"id": "AnHIv_d02z0-t396.16", "text": "work, how cell biology works and what genes do and what happens if you change them and", "start": 396.16, "end": 401.08}
+{"id": "AnHIv_d02z0-t401.08", "text": "so on.", "start": 401.08, "end": 402.08}
+{"id": "AnHIv_d02z0-t402.08", "text": "I think the practical applications are very limited right at the moment.", "start": 402.08, "end": 405.32}
+{"id": "AnHIv_d02z0-t405.32", "text": "You can maybe the most promising he mentioned is that you can isolate immune cells, pull", "start": 405.32, "end": 410.88}
+{"id": "AnHIv_d02z0-t410.88", "text": "them out of your body, modify them and put them back and suddenly these cells have learned", "start": 410.88, "end": 416.28}
+{"id": "AnHIv_d02z0-t416.28", "text": "to target a leukemia and that works sometimes right.", "start": 416.28, "end": 420.64}
+{"id": "AnHIv_d02z0-t420.64", "text": "It's not risk free but if you don't have a choice then at the moment hey there's a", "start": 420.64, "end": 425.92}
+{"id": "AnHIv_d02z0-t425.92", "text": "new thing on the horizon right.", "start": 425.92, "end": 428.88}
+{"id": "AnHIv_d02z0-t428.88", "text": "So that's a reality.", "start": 428.88, "end": 429.88}
+{"id": "AnHIv_d02z0-t429.88", "text": "If you open a newspaper you're going to find much more speculative things of how we're", "start": 429.88, "end": 434.0}
+{"id": "AnHIv_d02z0-t434.0", "text": "going to engineer you know new super athletes or we'll make you know smarter children.", "start": 434.0, "end": 440.56}
+{"id": "AnHIv_d02z0-t440.56", "text": "But all these things I think are not a reality and I mean but obviously if you think that", "start": 440.56, "end": 447.2}
+{"id": "AnHIv_d02z0-t447.2", "text": "it might be then that has a lot of ethical implications that you have to think about.", "start": 447.2, "end": 452.72}
+{"id": "AnHIv_d02z0-t452.72", "text": "I'm going to hold this because I'm having problems with that.", "start": 452.72, "end": 455.92}
+{"id": "AnHIv_d02z0-t455.92", "text": "Well one of the things I wanted to point out and the reason for raising that question is", "start": 455.92, "end": 459.44}
+{"id": "AnHIv_d02z0-t459.44", "text": "a lot of the science that does get hyped in the media is really what we might call discovery", "start": 459.44, "end": 463.08}
+{"id": "AnHIv_d02z0-t463.08", "text": "science.", "start": 463.08, "end": 464.08}
+{"id": "AnHIv_d02z0-t464.08", "text": "I mean you're in the lab and you're building a body of work and you're training a body", "start": 464.08, "end": 469.6}
+{"id": "AnHIv_d02z0-t469.6", "text": "of scientists to continue to build on that work and science is a very incremental process", "start": 469.6, "end": 476.16}
+{"id": "AnHIv_d02z0-t476.16", "text": "which often is two steps forward eight steps back and maybe even more than eight steps", "start": 476.16, "end": 480.6}
+{"id": "AnHIv_d02z0-t480.6", "text": "back and cleaning up mistakes and errors and over sites and just not even thinking about", "start": 480.6, "end": 486.88}
+{"id": "AnHIv_d02z0-t486.88", "text": "certain things that you thought might happen or didn't happen.", "start": 486.88, "end": 490.88}
+{"id": "AnHIv_d02z0-t490.88", "text": "And yet in the media when we talk about technologies and we hear all these issues about brand technologies", "start": 490.88, "end": 495.76000000000005}
+{"id": "AnHIv_d02z0-t495.76", "text": "and computer interfaces and therapy, gene splicing, gene editing, there's an intermediate point", "start": 495.76, "end": 504.32}
+{"id": "AnHIv_d02z0-t504.32", "text": "and that's where I sit which is the research ethics point.", "start": 504.32, "end": 506.96}
+{"id": "AnHIv_d02z0-t506.96", "text": "You don't just come up with a discovery in the lab and then say let's take it across", "start": 506.96, "end": 510.96}
+{"id": "AnHIv_d02z0-t510.96", "text": "the street over to Well Cornale or to take it over to Slunk Hetteran and let's use it.", "start": 510.96, "end": 515.64}
+{"id": "AnHIv_d02z0-t515.64", "text": "There's another whole step that can take anywhere from 10 to 15, 20, 30, 40 years.", "start": 515.64, "end": 522.24}
+{"id": "AnHIv_d02z0-t522.24", "text": "When you were speaking I was just thinking about a month ago there was this amazing", "start": 522.24, "end": 529.24}
+{"id": "AnHIv_d02z0-t529.24", "text": "article that was in both Washington Post and New York Times that we had now made a quantum", "start": 529.24, "end": 534.04}
+{"id": "AnHIv_d02z0-t534.04", "text": "leap in our understanding of schizophrenia.", "start": 534.04, "end": 537.0}
+{"id": "AnHIv_d02z0-t537.0", "text": "They had been able to find an immune gene, an MHC gene that was one of the largest hits", "start": 537.0, "end": 543.04}
+{"id": "AnHIv_d02z0-t543.04", "text": "in the genome wide association studies.", "start": 543.04, "end": 545.52}
+{"id": "AnHIv_d02z0-t545.52", "text": "And as you read the article you just were and it was elegant.", "start": 545.52, "end": 549.08}
+{"id": "AnHIv_d02z0-t549.08", "text": "The genetics were elegant, the mouse model that they were, they found a compliment gene", "start": 549.08, "end": 553.0}
+{"id": "AnHIv_d02z0-t553.0", "text": "that was somehow related to this that would actually prune spines and neurons.", "start": 553.0, "end": 557.84}
+{"id": "AnHIv_d02z0-t557.84", "text": "And then ultimately when you read the fine print they said that this gene, this MHC complex", "start": 557.84, "end": 563.48}
+{"id": "AnHIv_d02z0-t563.48", "text": "gene, possibly explains 0.25% of the risk factor for schizophrenia.", "start": 563.48, "end": 572.12}
+{"id": "AnHIv_d02z0-t572.12", "text": "So that from a clinical point of view it has almost no worth.", "start": 572.12, "end": 576.24}
+{"id": "AnHIv_d02z0-t576.24", "text": "It would possibly help us understand something about the pathophysiology for that 0.25% of", "start": 576.24, "end": 584.08}
+{"id": "AnHIv_d02z0-t584.08", "text": "people on the planet earth who have this genetic variation.", "start": 584.08, "end": 588.8}
+{"id": "AnHIv_d02z0-t588.8", "text": "But for the rest of the people it would have no effect.", "start": 588.8, "end": 592.2}
+{"id": "AnHIv_d02z0-t592.2", "text": "So the way I think about it is that in terms of the genetic revolution, I think of it in", "start": 592.2, "end": 598.0}
+{"id": "AnHIv_d02z0-t598.0", "text": "terms of either diagnosis, pathophysiology or some type of intermediate phenotype that", "start": 598.0, "end": 605.24}
+{"id": "AnHIv_d02z0-t605.24", "text": "we could use to possibly understand things.", "start": 605.24, "end": 607.88}
+{"id": "AnHIv_d02z0-t607.88", "text": "And I would put this in the pathophysiology that we could study, as you said, it's a discovery", "start": 607.88, "end": 614.76}
+{"id": "AnHIv_d02z0-t614.76", "text": "science that possibly that there is some neuroimmune component to schizophrenia in 0.2% of the", "start": 614.76, "end": 622.72}
+{"id": "AnHIv_d02z0-t622.72", "text": "population that increases your risk by 0.25%.", "start": 622.72, "end": 627.48}
+{"id": "AnHIv_d02z0-t627.48", "text": "But by itself would not cause schizophrenia by no means at all.", "start": 627.48, "end": 633.52}
+{"id": "AnHIv_d02z0-t633.52", "text": "And I think this is the kind of things that the media does, which actually does a disservice", "start": 633.52, "end": 638.4}
+{"id": "AnHIv_d02z0-t638.4", "text": "to our field because psychiatry in particular has had many false starts.", "start": 638.4, "end": 643.64}
+{"id": "AnHIv_d02z0-t643.64", "text": "I was at a talk recently where the Nobel Prize was given for frontal lobotomies and it's", "start": 643.64, "end": 649.04}
+{"id": "AnHIv_d02z0-t649.04", "text": "absolutely clear that we do not understand many things and that when these types of articles", "start": 649.04, "end": 653.68}
+{"id": "AnHIv_d02z0-t653.68", "text": "come out they actually, now people think that we're probably, as you said, one step closer", "start": 653.68, "end": 661.56}
+{"id": "AnHIv_d02z0-t661.56", "text": "to probably eight steps back in terms of understanding this.", "start": 661.56, "end": 667.68}
+{"id": "AnHIv_d02z0-t667.68", "text": "And that makes me wonder, so from the bioethics perspective, this is something I think that", "start": 667.68, "end": 674.3199999999999}
+{"id": "AnHIv_d02z0-t674.3199999999999", "text": "many fields struggle with, how do you present your science to the public and how do you", "start": 674.3199999999999, "end": 681.28}
+{"id": "AnHIv_d02z0-t681.28", "text": "tone down some of the popular press reports?", "start": 681.28, "end": 684.56}
+{"id": "AnHIv_d02z0-t684.56", "text": "So when you guys look at the bioethics, do you guys ever consider questions like these?", "start": 684.56, "end": 689.9599999999999}
+{"id": "AnHIv_d02z0-t689.96", "text": "Yes, it's been written about a lot.", "start": 689.96, "end": 692.76}
+{"id": "AnHIv_d02z0-t692.76", "text": "And unfortunately, when I'm at sessions having these conversations, the scientists end up", "start": 692.76, "end": 698.64}
+{"id": "AnHIv_d02z0-t698.64", "text": "being in the hot seat because we're asking you, well, is this really going to happen", "start": 698.64, "end": 701.88}
+{"id": "AnHIv_d02z0-t701.88", "text": "in 10 years or 15 years.", "start": 701.88, "end": 704.32}
+{"id": "AnHIv_d02z0-t704.32", "text": "Part of it's a media problem and part of it is also, I think, the nature of our culture", "start": 704.32, "end": 708.52}
+{"id": "AnHIv_d02z0-t708.52", "text": "that institutions are in a position of competing because they want the best and the brightest", "start": 708.52, "end": 714.1600000000001}
+{"id": "AnHIv_d02z0-t714.1600000000001", "text": "and they want the NIH money and they want the venture capital money and they want the", "start": 714.1600000000001, "end": 717.32}
+{"id": "AnHIv_d02z0-t717.32", "text": "patents and they want, you know, and so they're part of the mix of promoting, I wouldn't say", "start": 717.32, "end": 724.96}
+{"id": "AnHIv_d02z0-t724.96", "text": "hype, but promoting their work and their people.", "start": 724.96, "end": 727.96}
+{"id": "AnHIv_d02z0-t727.96", "text": "And the media then takes those stories and translates it in ways and then you see movies", "start": 727.96, "end": 731.6}
+{"id": "AnHIv_d02z0-t731.6", "text": "like The Matrix and you see other movies where this gets put into the popular culture in", "start": 731.6, "end": 736.24}
+{"id": "AnHIv_d02z0-t736.24", "text": "ways that the, you know, the scientists and his or her team who are working in the lab", "start": 736.24, "end": 741.5200000000001}
+{"id": "AnHIv_d02z0-t741.52", "text": "day after day, after day, you know, you know, wonder.", "start": 741.52, "end": 746.88}
+{"id": "AnHIv_d02z0-t746.88", "text": "And yet in the popular discourse, we have these conversations about different human", "start": 746.88, "end": 751.16}
+{"id": "AnHIv_d02z0-t751.16", "text": "brains, different human organs.", "start": 751.16, "end": 752.92}
+{"id": "AnHIv_d02z0-t752.92", "text": "We can fix them in the lab.", "start": 752.92, "end": 754.0}
+{"id": "AnHIv_d02z0-t754.0", "text": "We can do petri dish organs and put them in humans and they'll live forever and it's", "start": 754.0, "end": 757.8}
+{"id": "AnHIv_d02z0-t757.8", "text": "not really close to reality.", "start": 757.8, "end": 758.8}
+{"id": "AnHIv_d02z0-t758.8", "text": "Yet it becomes a part of the public discourse and then it becomes a part of the public fear", "start": 758.8, "end": 763.28}
+{"id": "AnHIv_d02z0-t763.28", "text": "too, which can often hinder science going forward.", "start": 763.28, "end": 767.04}
+{"id": "AnHIv_d02z0-t767.04", "text": "Yeah, I would also contend that it does a disservice because it sets expectations, you", "start": 767.04, "end": 774.5999999999999}
+{"id": "AnHIv_d02z0-t774.5999999999999", "text": "know, pretty high.", "start": 774.5999999999999, "end": 775.8399999999999}
+{"id": "AnHIv_d02z0-t775.8399999999999", "text": "And as you said, I think it's a really nice way of stating it science is really two steps", "start": 775.8399999999999, "end": 780.04}
+{"id": "AnHIv_d02z0-t780.04", "text": "forward and eight steps backwards.", "start": 780.04, "end": 782.04}
+{"id": "AnHIv_d02z0-t782.04", "text": "I mean, it takes a lot of effort to make even an incremental change.", "start": 782.04, "end": 786.04}
+{"id": "AnHIv_d02z0-t786.04", "text": "And I think when we, you know, you read a popular press report about, you know, we're", "start": 786.04, "end": 790.36}
+{"id": "AnHIv_d02z0-t790.36", "text": "going to create a new organ and, you know, now you're going to be able to have new kidneys", "start": 790.36, "end": 794.88}
+{"id": "AnHIv_d02z0-t794.88", "text": "and new lungs and new whatever all the time.", "start": 794.88, "end": 797.36}
+{"id": "AnHIv_d02z0-t797.36", "text": "I think if that's what's sort of understood in the popular media, that's what people are", "start": 797.36, "end": 806.4399999999999}
+{"id": "AnHIv_d02z0-t806.4399999999999", "text": "going to read and that's how they're going to think about science and that, as you said,", "start": 806.4399999999999, "end": 809.76}
+{"id": "AnHIv_d02z0-t809.76", "text": "that's not at all how it works.", "start": 809.76, "end": 811.4}
+{"id": "AnHIv_d02z0-t811.4", "text": "It takes a really long time and there are a lot of failures before you get any kind of", "start": 811.4, "end": 815.12}
+{"id": "AnHIv_d02z0-t815.12", "text": "even mild success.", "start": 815.12, "end": 816.12}
+{"id": "AnHIv_d02z0-t816.12", "text": "Yeah, okay.", "start": 816.12, "end": 817.12}
+{"id": "AnHIv_d02z0-t817.12", "text": "So when you have a hypothesis that you have verified, like a gene editing, that has been", "start": 817.12, "end": 830.08}
+{"id": "AnHIv_d02z0-t830.08", "text": "done.", "start": 830.08, "end": 831.08}
+{"id": "AnHIv_d02z0-t831.08", "text": "So what causes the eight steps back?", "start": 831.08, "end": 835.68}
+{"id": "AnHIv_d02z0-t835.68", "text": "If you know how to do the gene editing and you know what to apply it to.", "start": 835.68, "end": 840.2}
+{"id": "AnHIv_d02z0-t840.2", "text": "And I think what Giro was saying, you can modify the immune system of the person.", "start": 840.2, "end": 845.4}
+{"id": "AnHIv_d02z0-t845.4", "text": "So what causes the steps back?", "start": 845.4, "end": 847.48}
+{"id": "AnHIv_d02z0-t847.48", "text": "I don't know.", "start": 847.48, "end": 849.48}
+{"id": "AnHIv_d02z0-t849.48", "text": "I'd defer to the people closer to the clinic than I am on that.", "start": 849.48, "end": 854.04}
+{"id": "AnHIv_d02z0-t854.04", "text": "I would defer to, I think the sex stories have mainly been in cancer.", "start": 854.04, "end": 858.12}
+{"id": "AnHIv_d02z0-t858.12", "text": "So I would ask you, like, what would you think would be?", "start": 858.12, "end": 860.84}
+{"id": "AnHIv_d02z0-t860.84", "text": "Because this is where you actually do have genetic biomarkers that inform diagnosis and", "start": 860.84, "end": 867.0799999999999}
+{"id": "AnHIv_d02z0-t867.0799999999999", "text": "treatment.", "start": 867.0799999999999, "end": 868.0799999999999}
+{"id": "AnHIv_d02z0-t868.0799999999999", "text": "The success stories.", "start": 868.0799999999999, "end": 869.0799999999999}
+{"id": "AnHIv_d02z0-t869.0799999999999", "text": "Yeah, no, there are plenty.", "start": 869.0799999999999, "end": 871.3199999999999}
+{"id": "AnHIv_d02z0-t871.32", "text": "And I think it's not just therapeutics, and it's not just gene editing and it's not science", "start": 871.32, "end": 877.0}
+{"id": "AnHIv_d02z0-t877.0", "text": "fiction.", "start": 877.0, "end": 878.0}
+{"id": "AnHIv_d02z0-t878.0", "text": "There's real life things that have improved light years since I've treated my last patient.", "start": 878.0, "end": 885.1600000000001}
+{"id": "AnHIv_d02z0-t885.1600000000001", "text": "Now if you come to a major cancer center, your cancer is going to be sequenced.", "start": 885.1600000000001, "end": 890.5200000000001}
+{"id": "AnHIv_d02z0-t890.5200000000001", "text": "The whole genome of the thing.", "start": 890.5200000000001, "end": 892.6400000000001}
+{"id": "AnHIv_d02z0-t892.6400000000001", "text": "Previously, we didn't have that.", "start": 892.6400000000001, "end": 894.5200000000001}
+{"id": "AnHIv_d02z0-t894.5200000000001", "text": "Now you can sequence the whole thing.", "start": 894.5200000000001, "end": 895.96}
+{"id": "AnHIv_d02z0-t895.96", "text": "You can find what is the mutation that drives this disease.", "start": 895.96, "end": 899.9200000000001}
+{"id": "AnHIv_d02z0-t899.92", "text": "And there's a chance you might have a drug specifically for that mutation.", "start": 899.92, "end": 904.92}
+{"id": "AnHIv_d02z0-t904.92", "text": "For some patients that benefit directly from this, that's a major breakthrough.", "start": 904.92, "end": 909.3199999999999}
+{"id": "AnHIv_d02z0-t909.3199999999999", "text": "Right suddenly you don't get, you know, the standard therapy, but you get something that", "start": 909.3199999999999, "end": 914.52}
+{"id": "AnHIv_d02z0-t914.52", "text": "is essentially tailor-made for your disease.", "start": 914.52, "end": 918.12}
+{"id": "AnHIv_d02z0-t918.12", "text": "I think that's where we are now, and probably with new drugs and we will go further.", "start": 918.12, "end": 925.3199999999999}
+{"id": "AnHIv_d02z0-t925.3199999999999", "text": "Right?", "start": 925.3199999999999, "end": 926.3199999999999}
+{"id": "AnHIv_d02z0-t926.3199999999999", "text": "So I think there is a real breakthrough here that now we can sequence a whole tumor.", "start": 926.3199999999999, "end": 929.5999999999999}
+{"id": "AnHIv_d02z0-t929.6", "text": "Now previously, how did you diagnose a tumor?", "start": 929.6, "end": 931.5600000000001}
+{"id": "AnHIv_d02z0-t931.5600000000001", "text": "You look at it under a microscope and you say, well, this kind of looks like, you know,", "start": 931.5600000000001, "end": 935.6800000000001}
+{"id": "AnHIv_d02z0-t935.6800000000001", "text": "figure 7B in the textbook, and therefore it has to be that tumor, and we usually treat", "start": 935.6800000000001, "end": 941.44}
+{"id": "AnHIv_d02z0-t941.44", "text": "them with drug B, and that kind of works.", "start": 941.44, "end": 944.24}
+{"id": "AnHIv_d02z0-t944.24", "text": "And now you have the whole genome, and you can find specific sensitive.", "start": 944.24, "end": 948.64}
+{"id": "AnHIv_d02z0-t948.64", "text": "So on the diagnostic side, I think there's like a real breakthrough.", "start": 948.64, "end": 952.6800000000001}
+{"id": "AnHIv_d02z0-t952.6800000000001", "text": "That's just sequencing, analyzing, being able to do this, which maybe 20 years ago was", "start": 952.6800000000001, "end": 957.44}
+{"id": "AnHIv_d02z0-t957.44", "text": "like flying to the moon, it was impossible.", "start": 957.44, "end": 959.9200000000001}
+{"id": "AnHIv_d02z0-t959.9200000000001", "text": "You couldn't do it.", "start": 959.9200000000001, "end": 961.2800000000001}
+{"id": "AnHIv_d02z0-t961.2800000000001", "text": "You would count individual nucleotides.", "start": 961.2800000000001, "end": 963.1600000000001}
+{"id": "AnHIv_d02z0-t963.1600000000001", "text": "Now you sequence everything.", "start": 963.1600000000001, "end": 965.12}
+{"id": "AnHIv_d02z0-t965.12", "text": "So that's a major break.", "start": 965.12, "end": 966.5600000000001}
+{"id": "AnHIv_d02z0-t966.5600000000001", "text": "And I think for us as a research group, the next major advances that we can use these", "start": 966.5600000000001, "end": 974.8800000000001}
+{"id": "AnHIv_d02z0-t974.8800000000001", "text": "genetic tools like CRISPR, like gene editing, and RNA, RNA interference, and so on, as research", "start": 974.8800000000001, "end": 982.32}
+{"id": "AnHIv_d02z0-t982.32", "text": "tools to ask in a leukemia or in a cancer, what would happen if we take away any of the", "start": 982.32, "end": 990.72}
+{"id": "AnHIv_d02z0-t990.72", "text": "genes in this cancer?", "start": 990.72, "end": 993.0400000000001}
+{"id": "AnHIv_d02z0-t993.0400000000001", "text": "Which ones can't they tolerate to lose?", "start": 993.0400000000001, "end": 996.48}
+{"id": "AnHIv_d02z0-t996.48", "text": "What are they really sensitive to?", "start": 996.48, "end": 999.88}
+{"id": "AnHIv_d02z0-t999.88", "text": "And what are these things maybe already?", "start": 999.88, "end": 1003.36}
+{"id": "AnHIv_d02z0-t1003.36", "text": "Something that we can target with a drug that we have today?", "start": 1003.36, "end": 1007.0400000000001}
+{"id": "AnHIv_d02z0-t1007.0400000000001", "text": "Or maybe tell the pharmaceutical company and say, look, we keep finding this gene and we", "start": 1007.0400000000001, "end": 1012.2}
+{"id": "AnHIv_d02z0-t1012.2", "text": "think that these liver cancers, they really need this gene.", "start": 1012.2, "end": 1017.84}
+{"id": "AnHIv_d02z0-t1017.84", "text": "Can you help us make a drug?", "start": 1017.84, "end": 1019.32}
+{"id": "AnHIv_d02z0-t1019.32", "text": "And I think that's sort of the next research level that these technologies are practically", "start": 1019.32, "end": 1026.8}
+{"id": "AnHIv_d02z0-t1026.8", "text": "immediately useful for.", "start": 1026.8, "end": 1029.3600000000001}
+{"id": "AnHIv_d02z0-t1029.3600000000001", "text": "I think those for me are the biggest sort of advances that we have there.", "start": 1029.3600000000001, "end": 1035.76}
+{"id": "AnHIv_d02z0-t1035.76", "text": "Now along those lines, I'm stepping outside my field of expertise here a little bit because", "start": 1035.76, "end": 1041.04}
+{"id": "AnHIv_d02z0-t1041.04", "text": "I do therapeutics, but one of the things that's most interesting to me is using this idea", "start": 1041.04, "end": 1047.36}
+{"id": "AnHIv_d02z0-t1047.36", "text": "of genomics and looking for mutations early on in a patient sample because I know that", "start": 1047.36, "end": 1053.08}
+{"id": "AnHIv_d02z0-t1053.08", "text": "at least my understanding is that in the clinic, especially with cancer, one of the", "start": 1053.08, "end": 1059.52}
+{"id": "AnHIv_d02z0-t1059.52", "text": "biggest limitations is being able to find out that you have the disease early.", "start": 1059.52, "end": 1064.32}
+{"id": "AnHIv_d02z0-t1064.32", "text": "And if you catch it early, then you have a much better shot of surviving or being treated", "start": 1064.32, "end": 1069.1599999999999}
+{"id": "AnHIv_d02z0-t1069.1599999999999", "text": "successfully.", "start": 1069.1599999999999, "end": 1070.76}
+{"id": "AnHIv_d02z0-t1070.76", "text": "So is it true or is it realistic that, again, not to put everybody on the spot, but in a", "start": 1070.76, "end": 1076.8799999999999}
+{"id": "AnHIv_d02z0-t1076.8799999999999", "text": "reasonable amount of time that we'll have technologies available where you can, when", "start": 1076.8799999999999, "end": 1081.32}
+{"id": "AnHIv_d02z0-t1081.32", "text": "you get your annual checkup, you can take a blood sample and say, oh, there's something", "start": 1081.32, "end": 1084.8799999999999}
+{"id": "AnHIv_d02z0-t1084.8799999999999", "text": "going on here.", "start": 1084.8799999999999, "end": 1085.8799999999999}
+{"id": "AnHIv_d02z0-t1085.8799999999999", "text": "This looks kind of wonky and we need to take in to give a CT scan and look for early signs", "start": 1085.8799999999999, "end": 1092.28}
+{"id": "AnHIv_d02z0-t1092.28", "text": "that way using genetics.", "start": 1092.28, "end": 1093.28}
+{"id": "AnHIv_d02z0-t1093.28", "text": "Yeah, so that's a difficult, I have an echo, right?", "start": 1093.28, "end": 1098.72}
+{"id": "AnHIv_d02z0-t1098.72", "text": "I think that's very attractive, right?", "start": 1098.72, "end": 1100.92}
+{"id": "AnHIv_d02z0-t1100.92", "text": "Being able to pull blood and say, well, we're going to find a specific marker or a specific", "start": 1100.92, "end": 1106.72}
+{"id": "AnHIv_d02z0-t1106.72", "text": "cell that has a specific mutation and therefore we know that you have pancreatic cancer.", "start": 1106.72, "end": 1114.52}
+{"id": "AnHIv_d02z0-t1114.52", "text": "That has a lot of difficulties to this and they're not just technical.", "start": 1114.52, "end": 1120.2}
+{"id": "AnHIv_d02z0-t1120.2", "text": "So technically it's all possible.", "start": 1120.2, "end": 1121.8}
+{"id": "AnHIv_d02z0-t1121.8", "text": "You can pull blood and you can sequence it and you can analyze and you can find things.", "start": 1121.8, "end": 1128.28}
+{"id": "AnHIv_d02z0-t1128.28", "text": "But I think they're practical issues here.", "start": 1128.28, "end": 1130.8799999999999}
+{"id": "AnHIv_d02z0-t1130.8799999999999", "text": "So let's say you find a mutation in your blood, a translocation, T1480 and it occurs in lymphomas.", "start": 1130.8799999999999, "end": 1140.52}
+{"id": "AnHIv_d02z0-t1140.52", "text": "Well it turns out 50% of healthy people, you can find it.", "start": 1140.52, "end": 1145.56}
+{"id": "AnHIv_d02z0-t1145.56", "text": "So what are you going to do with that?", "start": 1145.56, "end": 1146.92}
+{"id": "AnHIv_d02z0-t1146.92", "text": "I mean, take 50% of the population and roll them through a CAT scan and nobody's going", "start": 1146.92, "end": 1152.04}
+{"id": "AnHIv_d02z0-t1152.04", "text": "to pay for that.", "start": 1152.04, "end": 1153.04}
+{"id": "AnHIv_d02z0-t1153.04", "text": "It's impossible, right?", "start": 1153.04, "end": 1155.36}
+{"id": "AnHIv_d02z0-t1155.36", "text": "So there isn't the level of specificity to it yet that you can say, well, we really", "start": 1155.36, "end": 1161.32}
+{"id": "AnHIv_d02z0-t1161.32", "text": "have the tools to do it.", "start": 1161.32, "end": 1164.4399999999998}
+{"id": "AnHIv_d02z0-t1164.4399999999998", "text": "I think many of these diagnostic tests, they're very useful in following up.", "start": 1164.4399999999998, "end": 1169.84}
+{"id": "AnHIv_d02z0-t1169.84", "text": "So you have diagnosed someone with a cancer and you treat it and you know this marker", "start": 1169.84, "end": 1174.4399999999998}
+{"id": "AnHIv_d02z0-t1174.4399999999998", "text": "was at a certain level and you get treated and it disappears.", "start": 1174.4399999999998, "end": 1179.9599999999998}
+{"id": "AnHIv_d02z0-t1179.9599999999998", "text": "You know, you did the right thing.", "start": 1179.9599999999998, "end": 1182.32}
+{"id": "AnHIv_d02z0-t1182.32", "text": "If it comes back, you know, where we need to have another look.", "start": 1182.32, "end": 1186.48}
+{"id": "AnHIv_d02z0-t1186.48", "text": "So there are issues about specificity and about the cost associated.", "start": 1186.48, "end": 1192.4399999999998}
+{"id": "AnHIv_d02z0-t1192.4399999999998", "text": "All this was discussed and it's not just even genomics or genetic tools.", "start": 1192.4399999999998, "end": 1197.24}
+{"id": "AnHIv_d02z0-t1197.24", "text": "All this was discussed with PSA recently, right?", "start": 1197.24, "end": 1199.9199999999998}
+{"id": "AnHIv_d02z0-t1199.9199999999998", "text": "Which I mean, this is a marker that's been around for, I don't know, 30, 40, 50 years.", "start": 1199.9199999999998, "end": 1205.04}
+{"id": "AnHIv_d02z0-t1205.04", "text": "It's a protein marker you can measure in the blood and it indicates whether your prostate", "start": 1205.04, "end": 1210.3999999999999}
+{"id": "AnHIv_d02z0-t1210.4", "text": "is happy or not happy basically.", "start": 1210.4, "end": 1212.3600000000001}
+{"id": "AnHIv_d02z0-t1212.3600000000001", "text": "It also goes very high in prostate cancer.", "start": 1212.3600000000001, "end": 1216.2}
+{"id": "AnHIv_d02z0-t1216.2", "text": "But if you just screen the population for high levels of PSA, you're going to end up", "start": 1216.2, "end": 1220.8400000000001}
+{"id": "AnHIv_d02z0-t1220.8400000000001", "text": "doing a lot of biopsies and not everyone likes to have a needle stuck in their prostate", "start": 1220.8400000000001, "end": 1225.68}
+{"id": "AnHIv_d02z0-t1225.68", "text": "and it does cost a lot of money.", "start": 1225.68, "end": 1228.0}
+{"id": "AnHIv_d02z0-t1228.0", "text": "So there are practical problems of following through with these tests.", "start": 1228.0, "end": 1234.1200000000001}
+{"id": "AnHIv_d02z0-t1234.1200000000001", "text": "So yeah, I'll go ahead.", "start": 1234.1200000000001, "end": 1236.0400000000002}
+{"id": "AnHIv_d02z0-t1236.04", "text": "I'm also stepping out of my comfort area, but one of my colleagues is a geneticist and", "start": 1236.04, "end": 1242.12}
+{"id": "AnHIv_d02z0-t1242.12", "text": "he said that what he's now working on, he said, he's at Hudson Alpha in Alabama, is", "start": 1242.12, "end": 1247.56}
+{"id": "AnHIv_d02z0-t1247.56", "text": "that so what they're doing to study breast cancer, for example, some of the psychiatrists.", "start": 1247.56, "end": 1251.3999999999999}
+{"id": "AnHIv_d02z0-t1251.3999999999999", "text": "So this is obviously outside of it.", "start": 1251.3999999999999, "end": 1253.08}
+{"id": "AnHIv_d02z0-t1253.08", "text": "Is that they're actually isolating all the immune cells in the blood and they're sequencing", "start": 1253.08, "end": 1258.76}
+{"id": "AnHIv_d02z0-t1258.76", "text": "them because obviously your immune profile by genetics is different because you're generating", "start": 1258.76, "end": 1263.96}
+{"id": "AnHIv_d02z0-t1263.96", "text": "different antibodies.", "start": 1263.96, "end": 1264.96}
+{"id": "AnHIv_d02z0-t1264.96", "text": "And they'll notice that they get a completely different profile.", "start": 1264.96, "end": 1268.04}
+{"id": "AnHIv_d02z0-t1268.04", "text": "It's not a single gene.", "start": 1268.04, "end": 1270.4}
+{"id": "AnHIv_d02z0-t1270.4", "text": "It's just a different genetic profile biometratically.", "start": 1270.4, "end": 1273.8}
+{"id": "AnHIv_d02z0-t1273.8", "text": "And then after treatment, your immune system looks different on this genetic profile.", "start": 1273.8, "end": 1280.28}
+{"id": "AnHIv_d02z0-t1280.28", "text": "Was he just making this up or have you heard of this?", "start": 1280.28, "end": 1283.28}
+{"id": "AnHIv_d02z0-t1283.28", "text": "I was just having a bit of it.", "start": 1283.28, "end": 1284.72}
+{"id": "AnHIv_d02z0-t1284.72", "text": "I had a similar idea a while ago.", "start": 1284.72, "end": 1286.52}
+{"id": "AnHIv_d02z0-t1286.52", "text": "I thought, you know, this would be fun, fun thing to do with people who are exposed to", "start": 1286.52, "end": 1291.44}
+{"id": "AnHIv_d02z0-t1291.44", "text": "a lot of pathogens.", "start": 1291.44, "end": 1292.88}
+{"id": "AnHIv_d02z0-t1292.88", "text": "So you know, bacteria or something.", "start": 1292.88, "end": 1294.88}
+{"id": "AnHIv_d02z0-t1294.88", "text": "So you just take everyone who takes the subway in New York and compare them to people who", "start": 1294.88, "end": 1298.5600000000002}
+{"id": "AnHIv_d02z0-t1298.5600000000002", "text": "don't take the subway.", "start": 1298.5600000000002, "end": 1299.5600000000002}
+{"id": "AnHIv_d02z0-t1299.5600000000002", "text": "You're going to get a completely different representation of the immune system, right?", "start": 1299.5600000000002, "end": 1306.6000000000001}
+{"id": "AnHIv_d02z0-t1306.6000000000001", "text": "Again, I don't know how specific this is.", "start": 1306.6000000000001, "end": 1309.16}
+{"id": "AnHIv_d02z0-t1309.16", "text": "I'm not familiar with the specific research he's doing.", "start": 1309.16, "end": 1315.8400000000001}
+{"id": "AnHIv_d02z0-t1315.8400000000001", "text": "Maybe.", "start": 1315.8400000000001, "end": 1316.8400000000001}
+{"id": "AnHIv_d02z0-t1316.8400000000001", "text": "Your comment was what I was going to actually, it was a good comment because that's what", "start": 1316.8400000000001, "end": 1320.2800000000002}
+{"id": "AnHIv_d02z0-t1320.2800000000002", "text": "I was going to say over here was.", "start": 1320.2800000000002, "end": 1321.88}
+{"id": "AnHIv_d02z0-t1321.88", "text": "Again, I'm an enthusiastic skeptic or a skeptical enthusiastic.", "start": 1321.88, "end": 1331.64}
+{"id": "AnHIv_d02z0-t1331.64", "text": "Biomarkers are one whole category of skepticism in some ways.", "start": 1331.64, "end": 1335.92}
+{"id": "AnHIv_d02z0-t1335.92", "text": "And if we just look at genetics and look at a genetic biomarker and take out the environment", "start": 1335.92, "end": 1342.16}
+{"id": "AnHIv_d02z0-t1342.16", "text": "and the exposures of people and the epigenetic issues, we may not have the whole story.", "start": 1342.16, "end": 1347.24}
+{"id": "AnHIv_d02z0-t1347.24", "text": "So there's this much more complex picture that we don't hear about in the media and that", "start": 1347.24, "end": 1352.16}
+{"id": "AnHIv_d02z0-t1352.16", "text": "we don't even hear about in cancer genomics, which is absolutely right, it's had phenomenal", "start": 1352.16, "end": 1356.04}
+{"id": "AnHIv_d02z0-t1356.04", "text": "improvements and spectacular advances in terms of being able to sequence a cancer genome.", "start": 1356.04, "end": 1362.28}
+{"id": "AnHIv_d02z0-t1362.28", "text": "On the other hand, you have a vast amount of information that physicians and geneticists", "start": 1362.28, "end": 1366.08}
+{"id": "AnHIv_d02z0-t1366.08", "text": "know nothing about.", "start": 1366.08, "end": 1367.08}
+{"id": "AnHIv_d02z0-t1367.08", "text": "And I really understand how they interact with each other.", "start": 1367.08, "end": 1369.48}
+{"id": "AnHIv_d02z0-t1369.48", "text": "They don't understand how environmental factors interact.", "start": 1369.48, "end": 1373.48}
+{"id": "AnHIv_d02z0-t1373.48", "text": "And even within categories of ancestry, age, when the disease was actually caught in that", "start": 1373.48, "end": 1383.0}
+{"id": "AnHIv_d02z0-t1383.0", "text": "sense, there are a lot of factors that don't necessarily mean there's going to be a drug", "start": 1383.0, "end": 1388.08}
+{"id": "AnHIv_d02z0-t1388.08", "text": "for that specific patient at that specific time or that editing some piece of the genome", "start": 1388.08, "end": 1394.4}
+{"id": "AnHIv_d02z0-t1394.4", "text": "is actually going to help and may help that patient but not another one who you would", "start": 1394.4, "end": 1398.28}
+{"id": "AnHIv_d02z0-t1398.28", "text": "think looks just like that patient in terms of biophysical characteristics.", "start": 1398.28, "end": 1402.48}
+{"id": "AnHIv_d02z0-t1402.48", "text": "So again, it's a lot more complex and my skepticism comes from the precision medicine,", "start": 1402.48, "end": 1408.1200000000001}
+{"id": "AnHIv_d02z0-t1408.1200000000001", "text": "personalized medicine hype in some sense that we're just going to be able to find just", "start": 1408.1200000000001, "end": 1413.76}
+{"id": "AnHIv_d02z0-t1413.76", "text": "one person, you don't want personalize, you want something that works for everyone.", "start": 1413.76, "end": 1417.72}
+{"id": "AnHIv_d02z0-t1417.72", "text": "Exactly.", "start": 1417.72, "end": 1418.72}
+{"id": "AnHIv_d02z0-t1418.72", "text": "Who wants personalize, who wants something that works, right?", "start": 1418.72, "end": 1422.32}
+{"id": "AnHIv_d02z0-t1422.32", "text": "That was the first cancer war, that it's going to work for everybody.", "start": 1422.32, "end": 1424.84}
+{"id": "AnHIv_d02z0-t1424.84", "text": "We're going to find the drug and we're going to use powerful chemo therapeutic drugs for", "start": 1424.84, "end": 1428.88}
+{"id": "AnHIv_d02z0-t1428.88", "text": "lots of people and we're going to find the right combination and it's going to work for", "start": 1428.88, "end": 1432.88}
+{"id": "AnHIv_d02z0-t1432.88", "text": "everybody.", "start": 1432.88, "end": 1433.88}
+{"id": "AnHIv_d02z0-t1433.88", "text": "Well, the other thing I like to point out is when we think about precision medicine or", "start": 1433.88, "end": 1438.3200000000002}
+{"id": "AnHIv_d02z0-t1438.3200000000002", "text": "we think about personalized medicine, I like to sort of split diseases when I think about", "start": 1438.3200000000002, "end": 1443.7600000000002}
+{"id": "AnHIv_d02z0-t1443.7600000000002", "text": "them into basically cancer and everything else.", "start": 1443.7600000000002, "end": 1448.16}
+{"id": "AnHIv_d02z0-t1448.16", "text": "Because when I look at, you know, when I try to design something that will deliver a drug", "start": 1448.16, "end": 1453.44}
+{"id": "AnHIv_d02z0-t1453.44", "text": "to a tumor, I get a little nervous because the tumor thinks and will fight back against", "start": 1453.44, "end": 1464.96}
+{"id": "AnHIv_d02z0-t1464.96", "text": "whatever you're delivering.", "start": 1464.96, "end": 1465.96}
+{"id": "AnHIv_d02z0-t1465.96", "text": "So you'll deliver a drug and if you kill, if you have like the best drug delivering the", "start": 1465.96, "end": 1470.76}
+{"id": "AnHIv_d02z0-t1470.76", "text": "world and you have a tumor that for easy numbers has 100 cells in it and you get 99 of those", "start": 1470.76, "end": 1477.04}
+{"id": "AnHIv_d02z0-t1477.04", "text": "cells, that one little surviving cell is now smarter and won't respond to that therapy", "start": 1477.04, "end": 1482.44}
+{"id": "AnHIv_d02z0-t1482.44", "text": "later on.", "start": 1482.44, "end": 1484.72}
+{"id": "AnHIv_d02z0-t1484.72", "text": "I don't know many other diseases that evolve so rapidly in that way.", "start": 1484.72, "end": 1490.2}
+{"id": "AnHIv_d02z0-t1490.2", "text": "So a lot of times when we talk about personalized medicine, we automatically sort of default", "start": 1490.2, "end": 1495.1200000000001}
+{"id": "AnHIv_d02z0-t1495.1200000000001", "text": "to cancer and I don't, again, this is outside of my expertise but I'm a little less skeptical", "start": 1495.1200000000001, "end": 1503.96}
+{"id": "AnHIv_d02z0-t1503.96", "text": "that precision medicine will work for diseases outside of the cancer field.", "start": 1503.96, "end": 1508.8}
+{"id": "AnHIv_d02z0-t1508.8", "text": "Maybe we'll get lucky and we'll find something for aethro or we'll get something for some", "start": 1508.8, "end": 1513.3999999999999}
+{"id": "AnHIv_d02z0-t1513.3999999999999", "text": "other ischemic heart disease or something like this, something that isn't, you know,", "start": 1513.3999999999999, "end": 1516.6399999999999}
+{"id": "AnHIv_d02z0-t1516.6399999999999", "text": "so aggressively fighting against you.", "start": 1516.6399999999999, "end": 1520.04}
+{"id": "AnHIv_d02z0-t1520.04", "text": "So I think that's important to note is that, and I actually don't know if that's the case", "start": 1520.04, "end": 1523.28}
+{"id": "AnHIv_d02z0-t1523.28", "text": "in neuropsychiatric disease or not because that's complicated for a different reason,", "start": 1523.28, "end": 1527.9199999999998}
+{"id": "AnHIv_d02z0-t1527.9199999999998", "text": "is that what you're just saying?", "start": 1527.9199999999998, "end": 1528.9199999999998}
+{"id": "AnHIv_d02z0-t1528.9199999999998", "text": "Yes, it's very complicated.", "start": 1528.9199999999998, "end": 1530.9199999999998}
+{"id": "AnHIv_d02z0-t1530.9199999999998", "text": "Well first of all, the brain's very complicated.", "start": 1530.9199999999998, "end": 1533.28}
+{"id": "AnHIv_d02z0-t1533.28", "text": "You know, but I would have to say what, just in my sort of like last five years of research,", "start": 1533.28, "end": 1539.08}
+{"id": "AnHIv_d02z0-t1539.08", "text": "is that what I'd never understood particularly well even though I was trained by Dr. Narsesian", "start": 1539.08, "end": 1544.68}
+{"id": "AnHIv_d02z0-t1544.68", "text": "and others in psychiatry, is that almost every psychiatric disorder emerges between the transition", "start": 1544.68, "end": 1550.84}
+{"id": "AnHIv_d02z0-t1550.84", "text": "from childhood to adolescence to late adolescence.", "start": 1550.84, "end": 1553.6}
+{"id": "AnHIv_d02z0-t1553.6", "text": "So the entire disease progresses and then you live for the rest of your life with this.", "start": 1553.6, "end": 1558.32}
+{"id": "AnHIv_d02z0-t1558.32", "text": "So when you actually start treating them, you're actually seeing people that have had", "start": 1558.32, "end": 1561.8799999999999}
+{"id": "AnHIv_d02z0-t1561.88", "text": "this disease for a while.", "start": 1561.88, "end": 1563.72}
+{"id": "AnHIv_d02z0-t1563.72", "text": "And the idea is that we might have had to treat them at that moment when it first started", "start": 1563.72, "end": 1570.88}
+{"id": "AnHIv_d02z0-t1570.88", "text": "because the, and it, and what we're now realizing is that the adolescent or child brain is very", "start": 1570.88, "end": 1578.0800000000002}
+{"id": "AnHIv_d02z0-t1578.0800000000002", "text": "different.", "start": 1578.0800000000002, "end": 1579.0800000000002}
+{"id": "AnHIv_d02z0-t1579.0800000000002", "text": "So whatever drugs that we now have in our current armamentarian is not really set for", "start": 1579.0800000000002, "end": 1586.5600000000002}
+{"id": "AnHIv_d02z0-t1586.5600000000002", "text": "this therapies we have or set for what we are treating.", "start": 1586.5600000000002, "end": 1589.5200000000002}
+{"id": "AnHIv_d02z0-t1589.52", "text": "So it's actually quite a moving target.", "start": 1589.52, "end": 1591.8799999999999}
+{"id": "AnHIv_d02z0-t1591.8799999999999", "text": "You have a disease that began in essentially an immature developing brain and you are treating", "start": 1591.8799999999999, "end": 1598.16}
+{"id": "AnHIv_d02z0-t1598.16", "text": "it based on a completely different roadmap later on.", "start": 1598.16, "end": 1602.28}
+{"id": "AnHIv_d02z0-t1602.28", "text": "So it's very hard to design particular, both behavioral or molecular therapies based on", "start": 1602.28, "end": 1609.48}
+{"id": "AnHIv_d02z0-t1609.48", "text": "that.", "start": 1609.48, "end": 1610.48}
+{"id": "AnHIv_d02z0-t1610.48", "text": "Ultimately you would want to treat that when your symptoms first emerge but it's very", "start": 1610.48, "end": 1614.2}
+{"id": "AnHIv_d02z0-t1614.2", "text": "difficult to, it's very difficult to do clinical trials in children and adolescents which is", "start": 1614.2, "end": 1620.44}
+{"id": "AnHIv_d02z0-t1620.44", "text": "probably when what we'll ultimately find, if I had to make a prediction 20 years from", "start": 1620.44, "end": 1624.6000000000001}
+{"id": "AnHIv_d02z0-t1624.6000000000001", "text": "now we realize that we'll have to, that's when you treat it.", "start": 1624.6000000000001, "end": 1627.4}
+{"id": "AnHIv_d02z0-t1627.4", "text": "Because ultimately 10 year, if you go to disease like chronic disease go on for 10 years,", "start": 1627.4, "end": 1634.52}
+{"id": "AnHIv_d02z0-t1634.52", "text": "it's just not going to be hard.", "start": 1634.52, "end": 1635.96}
+{"id": "AnHIv_d02z0-t1635.96", "text": "I think that's sort of the lesson we're learning in the field of Alzheimer's disease that actually", "start": 1635.96, "end": 1640.64}
+{"id": "AnHIv_d02z0-t1640.64", "text": "you need to actually treat them when they first have their cognitive impairments emerging", "start": 1640.64, "end": 1645.8000000000002}
+{"id": "AnHIv_d02z0-t1645.8000000000002", "text": "and the reason why almost every clinical trial has failed is because they're treating them", "start": 1645.8000000000002, "end": 1651.24}
+{"id": "AnHIv_d02z0-t1651.24", "text": "at age of 60 and above.", "start": 1651.24, "end": 1653.92}
+{"id": "AnHIv_d02z0-t1653.92", "text": "Let me ask in your field.", "start": 1653.92, "end": 1656.0800000000002}
+{"id": "AnHIv_d02z0-t1656.0800000000002", "text": "It's a kind of genetic research.", "start": 1656.0800000000002, "end": 1660.16}
+{"id": "AnHIv_d02z0-t1660.16", "text": "Come up with new targets, new ways of treating.", "start": 1660.16, "end": 1665.3600000000001}
+{"id": "AnHIv_d02z0-t1665.36", "text": "I mean for cancers I think being put a finger on a few things that we have new drugs and", "start": 1665.36, "end": 1671.9599999999998}
+{"id": "AnHIv_d02z0-t1671.9599999999998", "text": "we know they target certain mutations and that's how they work.", "start": 1671.9599999999998, "end": 1676.28}
+{"id": "AnHIv_d02z0-t1676.28", "text": "And psychiatry and neurological diseases has there been...", "start": 1676.28, "end": 1680.04}
+{"id": "AnHIv_d02z0-t1680.04", "text": "Well first of all I would say that there's been a great revolution in studying the fact", "start": 1680.04, "end": 1685.24}
+{"id": "AnHIv_d02z0-t1685.24", "text": "that both autism and schizophrenia, there's been massive advances in genome sequencing", "start": 1685.24, "end": 1692.1999999999998}
+{"id": "AnHIv_d02z0-t1692.2", "text": "and for example the study of the MHC gene was based on the capacity of large consortiums", "start": 1692.2, "end": 1699.56}
+{"id": "AnHIv_d02z0-t1699.56", "text": "to get essentially over 100,000 schizophrenic patients entire genome sequence and there you", "start": 1699.56, "end": 1705.56}
+{"id": "AnHIv_d02z0-t1705.56", "text": "can then get genome wide significant hits.", "start": 1705.56, "end": 1708.28}
+{"id": "AnHIv_d02z0-t1708.28", "text": "The problem that they ultimately found was that it explains so little of the vary.", "start": 1708.28, "end": 1714.72}
+{"id": "AnHIv_d02z0-t1714.72", "text": "Each of these genes don't explain much.", "start": 1714.72, "end": 1717.96}
+{"id": "AnHIv_d02z0-t1717.96", "text": "What's most befuddling for autism is that after 10 years what they realized is that almost", "start": 1717.96, "end": 1725.04}
+{"id": "AnHIv_d02z0-t1725.04", "text": "every mutation in autism is essentially rare.", "start": 1725.04, "end": 1729.16}
+{"id": "AnHIv_d02z0-t1729.16", "text": "And what they said in the last five years what they realized is the word rare actually", "start": 1729.16, "end": 1733.68}
+{"id": "AnHIv_d02z0-t1733.68", "text": "means rare.", "start": 1733.68, "end": 1735.0}
+{"id": "AnHIv_d02z0-t1735.0", "text": "So that ultimately there's not going to be a common biomarker or diagnostic tool and", "start": 1735.0, "end": 1741.32}
+{"id": "AnHIv_d02z0-t1741.32", "text": "every autism spectrum disorder patient is going to probably be unique because it's sort of", "start": 1741.32, "end": 1747.0}
+{"id": "AnHIv_d02z0-t1747.0", "text": "these spontaneous deletions and mutations and in that sense that for that one patient", "start": 1747.0, "end": 1754.0}
+{"id": "AnHIv_d02z0-t1754.0", "text": "if they found one interesting gene that will help that one patient but that's about it.", "start": 1754.0, "end": 1760.72}
+{"id": "AnHIv_d02z0-t1760.72", "text": "The hope is that in the future that there will be common mutation variants that have", "start": 1760.72, "end": 1768.92}
+{"id": "AnHIv_d02z0-t1768.92", "text": "been found that can be used because the genome is filled with people that have these genetic", "start": 1768.92, "end": 1773.4}
+{"id": "AnHIv_d02z0-t1773.4", "text": "variants in these special plasticity genes that my lab actually studies and the idea", "start": 1773.4, "end": 1779.64}
+{"id": "AnHIv_d02z0-t1779.64", "text": "is that we could use this to at least guide something.", "start": 1779.64, "end": 1782.5600000000002}
+{"id": "AnHIv_d02z0-t1782.5600000000002", "text": "It's still very early days of whether or not this will happen but that's the idea that", "start": 1782.5600000000002, "end": 1788.2800000000002}
+{"id": "AnHIv_d02z0-t1788.2800000000002", "text": "there would be some common genetic variation that could be used to at least but the bar", "start": 1788.2800000000002, "end": 1793.68}
+{"id": "AnHIv_d02z0-t1793.68", "text": "is so low inside.", "start": 1793.68, "end": 1794.68}
+{"id": "AnHIv_d02z0-t1794.68", "text": "But you think of these are mutations that you think of as inherited so that it's in", "start": 1794.68, "end": 1799.88}
+{"id": "AnHIv_d02z0-t1799.88", "text": "every cell in your body basically.", "start": 1799.88, "end": 1802.2}
+{"id": "AnHIv_d02z0-t1802.2", "text": "So I think it's very different from the idea we think about cancers arising where you know", "start": 1802.2, "end": 1807.68}
+{"id": "AnHIv_d02z0-t1807.68", "text": "most cancer genes are normal in every other cell but we think really there's mutations", "start": 1807.68, "end": 1814.76}
+{"id": "AnHIv_d02z0-t1814.76", "text": "that occur in one cell somewhere that triggers a cascade of further changes that ultimately", "start": 1814.76, "end": 1822.28}
+{"id": "AnHIv_d02z0-t1822.28", "text": "lead to the tumor.", "start": 1822.28, "end": 1824.4}
+{"id": "AnHIv_d02z0-t1824.4", "text": "But I think in your field you think of the genetics as a predisposing thing that will", "start": 1824.4, "end": 1831.68}
+{"id": "AnHIv_d02z0-t1831.68", "text": "make you more sensitive to environment, to stresses, to early life's traumas or something.", "start": 1831.68, "end": 1839.16}
+{"id": "AnHIv_d02z0-t1839.16", "text": "Right, whatever that actually is.", "start": 1839.16, "end": 1841.3600000000001}
+{"id": "AnHIv_d02z0-t1841.3600000000001", "text": "So you probably don't think of it then as much as a genetic disease.", "start": 1841.3600000000001, "end": 1846.0}
+{"id": "AnHIv_d02z0-t1846.0", "text": "I mean we think of cancer as a genetic disease.", "start": 1846.0, "end": 1848.3600000000001}
+{"id": "AnHIv_d02z0-t1848.3600000000001", "text": "Basically there is a cell that gets irradiated, something goes wrong and then the things happen.", "start": 1848.3600000000001, "end": 1855.8400000000001}
+{"id": "AnHIv_d02z0-t1855.8400000000001", "text": "But to what extent do you think psychiatric diseases are genetic?", "start": 1855.8400000000001, "end": 1859.5600000000002}
+{"id": "AnHIv_d02z0-t1859.56", "text": "They have to be genetic because this is just an example because my lab also studies obsessive", "start": 1859.56, "end": 1866.3999999999999}
+{"id": "AnHIv_d02z0-t1866.3999999999999", "text": "compulsive disorder.", "start": 1866.3999999999999, "end": 1867.84}
+{"id": "AnHIv_d02z0-t1867.84", "text": "If you have an identical twin there's a 65% chance that identical twin will have obsessive", "start": 1867.84, "end": 1874.12}
+{"id": "AnHIv_d02z0-t1874.12", "text": "compulsive disorder.", "start": 1874.12, "end": 1875.3999999999999}
+{"id": "AnHIv_d02z0-t1875.3999999999999", "text": "So something is definitely being transmitted and the same with schizophrenia is almost", "start": 1875.3999999999999, "end": 1880.32}
+{"id": "AnHIv_d02z0-t1880.32", "text": "that hot or bipolar disorder.", "start": 1880.32, "end": 1882.12}
+{"id": "AnHIv_d02z0-t1882.12", "text": "So these are incredibly heritable disorders and what the field has been dealing with is", "start": 1882.12, "end": 1887.12}
+{"id": "AnHIv_d02z0-t1887.12", "text": "what we call the missing heritability.", "start": 1887.12, "end": 1890.1999999999998}
+{"id": "AnHIv_d02z0-t1890.1999999999998", "text": "There's something massive, some large elephant we're missing.", "start": 1890.1999999999998, "end": 1894.2399999999998}
+{"id": "AnHIv_d02z0-t1894.2399999999998", "text": "And you can imagine.", "start": 1894.2399999999998, "end": 1895.2399999999998}
+{"id": "AnHIv_d02z0-t1895.2399999999998", "text": "What do you mean by missing?", "start": 1895.2399999999998, "end": 1896.2399999999998}
+{"id": "AnHIv_d02z0-t1896.2399999999998", "text": "What is missing here?", "start": 1896.2399999999998, "end": 1897.2399999999998}
+{"id": "AnHIv_d02z0-t1897.2399999999998", "text": "Because not all the genome wide association studies have not found a gene that can be", "start": 1897.2399999999998, "end": 1901.9599999999998}
+{"id": "AnHIv_d02z0-t1901.9599999999998", "text": "transmitted that is in identical twins even.", "start": 1901.9599999999998, "end": 1905.4799999999998}
+{"id": "AnHIv_d02z0-t1905.4799999999998", "text": "People are very smart now.", "start": 1905.4799999999998, "end": 1907.2399999999998}
+{"id": "AnHIv_d02z0-t1907.2399999999998", "text": "They're doing twin studies and family based studies with large pedigrees to try to find", "start": 1907.2399999999998, "end": 1912.8}
+{"id": "AnHIv_d02z0-t1912.8", "text": "even sort of rare genetic and they've not been able to find.", "start": 1912.8, "end": 1916.52}
+{"id": "AnHIv_d02z0-t1916.52", "text": "There have been so many false starts.", "start": 1916.52, "end": 1918.48}
+{"id": "AnHIv_d02z0-t1918.48", "text": "That's what I'm being very...", "start": 1918.48, "end": 1921.2}
+{"id": "AnHIv_d02z0-t1921.2", "text": "They thought they found some before.", "start": 1921.2, "end": 1923.0}
+{"id": "AnHIv_d02z0-t1923.0", "text": "They named them schizophrenia genes and now they're sort of discredited.", "start": 1923.0, "end": 1927.56}
+{"id": "AnHIv_d02z0-t1927.56", "text": "So how does the field reconcile?", "start": 1927.56, "end": 1930.84}
+{"id": "AnHIv_d02z0-t1930.84", "text": "Because that's...", "start": 1930.84, "end": 1931.84}
+{"id": "AnHIv_d02z0-t1931.84", "text": "How does the field reconcile that?", "start": 1931.84, "end": 1933.2}
+{"id": "AnHIv_d02z0-t1933.2", "text": "Because you might say, okay, well then we're just going to sequence more people to which", "start": 1933.2, "end": 1936.56}
+{"id": "AnHIv_d02z0-t1936.56", "text": "the kind of argument could be made.", "start": 1936.56, "end": 1938.08}
+{"id": "AnHIv_d02z0-t1938.08", "text": "Well, if it's really that ubiquitous then you shouldn't have to sequence very many people", "start": 1938.08, "end": 1941.92}
+{"id": "AnHIv_d02z0-t1941.92", "text": "at all.", "start": 1941.92, "end": 1942.92}
+{"id": "AnHIv_d02z0-t1942.92", "text": "You should be able to pick it up.", "start": 1942.92, "end": 1943.92}
+{"id": "AnHIv_d02z0-t1943.92", "text": "Well, it's going to be something new.", "start": 1943.92, "end": 1946.52}
+{"id": "AnHIv_d02z0-t1946.52", "text": "It's the three dimensional structure of the genome which we don't know how to characterize", "start": 1946.52, "end": 1948.52}
+{"id": "AnHIv_d02z0-t1948.52", "text": "or some other sort of currently black box mechanism.", "start": 1948.52, "end": 1953.5600000000002}
+{"id": "AnHIv_d02z0-t1953.5600000000002", "text": "No, I think the...", "start": 1953.5600000000002, "end": 1954.8000000000002}
+{"id": "AnHIv_d02z0-t1954.8000000000002", "text": "At least in the neuropsychiaty field we've come to terms with the fact that we actually", "start": 1954.8000000000002, "end": 1961.0800000000002}
+{"id": "AnHIv_d02z0-t1961.0800000000002", "text": "don't know how to diagnose our patients very well.", "start": 1961.0800000000002, "end": 1963.52}
+{"id": "AnHIv_d02z0-t1963.52", "text": "We use a criteria called the Diagnostic Statistical Manual which is essentially a syndromic manual.", "start": 1963.52, "end": 1971.24}
+{"id": "AnHIv_d02z0-t1971.24", "text": "There's no quantitative biomarkers.", "start": 1971.24, "end": 1972.96}
+{"id": "AnHIv_d02z0-t1972.96", "text": "You have a histology test or you have blood pressure even to measure hypertension.", "start": 1972.96, "end": 1979.28}
+{"id": "AnHIv_d02z0-t1979.28", "text": "I was at a wonderful grand rounds at Cornell the other day where Kathleen Merrick-Hang is", "start": 1979.28, "end": 1984.0}
+{"id": "AnHIv_d02z0-t1984.0", "text": "a very talented human geneticist.", "start": 1984.0, "end": 1986.8400000000001}
+{"id": "AnHIv_d02z0-t1986.8400000000001", "text": "I had done some...", "start": 1986.8400000000001, "end": 1987.8400000000001}
+{"id": "AnHIv_d02z0-t1987.8400000000001", "text": "A very fascinating study.", "start": 1987.8400000000001, "end": 1989.28}
+{"id": "AnHIv_d02z0-t1989.28", "text": "She took bipolar patients and gave them essentially fit bits and smart watches to walk around.", "start": 1989.28, "end": 1995.76}
+{"id": "AnHIv_d02z0-t1995.76", "text": "What she noticed that what every bipolar patient had was not what we think of as a DSM-5,", "start": 1995.76, "end": 2002.1200000000001}
+{"id": "AnHIv_d02z0-t2002.12", "text": "racing thoughts, whatever, mania or hypomania, she noticed that she could predict when they", "start": 2002.12, "end": 2010.1999999999998}
+{"id": "AnHIv_d02z0-t2010.1999999999998", "text": "would become functionally ill is by the fact that they traveled more within the city or", "start": 2010.1999999999998, "end": 2016.3999999999999}
+{"id": "AnHIv_d02z0-t2016.3999999999999", "text": "within their town.", "start": 2016.3999999999999, "end": 2017.3999999999999}
+{"id": "AnHIv_d02z0-t2017.3999999999999", "text": "So it was just physical activity that there are certain aspects of the way we diagnose", "start": 2017.3999999999999, "end": 2021.4799999999998}
+{"id": "AnHIv_d02z0-t2021.4799999999998", "text": "patients that don't actually capture the disorder.", "start": 2021.4799999999998, "end": 2024.56}
+{"id": "AnHIv_d02z0-t2024.56", "text": "As an example, another example, if someone is given a diagnosis of major depression, you", "start": 2024.56, "end": 2030.36}
+{"id": "AnHIv_d02z0-t2030.36", "text": "can either eat too much, eat too little, sleep too much, sleep too little and actually get", "start": 2030.36, "end": 2034.56}
+{"id": "AnHIv_d02z0-t2034.56", "text": "the same disorder.", "start": 2034.56, "end": 2035.84}
+{"id": "AnHIv_d02z0-t2035.84", "text": "So essentially you're studying the equivalent of 1940s cough or some bad x-ray, long x-ray.", "start": 2035.84, "end": 2044.4799999999998}
+{"id": "AnHIv_d02z0-t2044.4799999999998", "text": "You're not...", "start": 2044.4799999999998, "end": 2045.4799999999998}
+{"id": "AnHIv_d02z0-t2045.4799999999998", "text": "So it's not surprising that all the genome-wide association studies have failed.", "start": 2045.4799999999998, "end": 2050.08}
+{"id": "AnHIv_d02z0-t2050.08", "text": "I've always advocated that there are certain things in psychiatry which are incredibly", "start": 2050.08, "end": 2055.08}
+{"id": "AnHIv_d02z0-t2055.08", "text": "robust.", "start": 2055.08, "end": 2056.8399999999997}
+{"id": "AnHIv_d02z0-t2056.84", "text": "If you have a panic attack, no one will say there's no...", "start": 2056.84, "end": 2060.84}
+{"id": "AnHIv_d02z0-t2060.84", "text": "It looks...", "start": 2060.84, "end": 2061.84}
+{"id": "AnHIv_d02z0-t2061.84", "text": "No one will disagree that that was a panic attack or if you wash your hands ten times", "start": 2061.84, "end": 2066.1200000000003}
+{"id": "AnHIv_d02z0-t2066.1200000000003", "text": "a day, no one will disagree that that is a repetitive behavior and if your hands are", "start": 2066.1200000000003, "end": 2070.92}
+{"id": "AnHIv_d02z0-t2070.92", "text": "chapped, then you know you have a disorder.", "start": 2070.92, "end": 2073.6000000000004}
+{"id": "AnHIv_d02z0-t2073.6000000000004", "text": "So you need to study what we call phenotypic extremes or if you have a disorder of type", "start": 2073.6000000000004, "end": 2079.1600000000003}
+{"id": "AnHIv_d02z0-t2079.1600000000003", "text": "of depression where you start hallucinating, you're now studying a very specific type of", "start": 2079.1600000000003, "end": 2084.1200000000003}
+{"id": "AnHIv_d02z0-t2084.12", "text": "depression, a subtype that is extreme in some sense.", "start": 2084.12, "end": 2088.72}
+{"id": "AnHIv_d02z0-t2088.72", "text": "And I think that's where the field is moving, that we have failed and this was a sort of", "start": 2088.72, "end": 2095.64}
+{"id": "AnHIv_d02z0-t2095.64", "text": "an argument between the head of the APA and the head of NIMH a couple of years ago that", "start": 2095.64, "end": 2100.92}
+{"id": "AnHIv_d02z0-t2100.92", "text": "was played out in the New York Times where they disagreed about the...", "start": 2100.92, "end": 2104.68}
+{"id": "AnHIv_d02z0-t2104.68", "text": "How to diagnose patients and to my senses that the fact that there is even a discussion", "start": 2104.68, "end": 2111.68}
+{"id": "AnHIv_d02z0-t2111.68", "text": "about how we even diagnose our patients tells us that we're still at a very early stage", "start": 2111.68, "end": 2117.3999999999996}
+{"id": "AnHIv_d02z0-t2117.3999999999996", "text": "for this.", "start": 2117.3999999999996, "end": 2119.16}
+{"id": "AnHIv_d02z0-t2119.16", "text": "But I should not be so negative about psychiatry just because...", "start": 2119.16, "end": 2124.72}
+{"id": "AnHIv_d02z0-t2124.72", "text": "I know technology is going to help you there.", "start": 2124.72, "end": 2126.9199999999996}
+{"id": "AnHIv_d02z0-t2126.9199999999996", "text": "I mean it's a new imaging thing is going to help you out of a lot of other medical diagnostics", "start": 2126.9199999999996, "end": 2133.16}
+{"id": "AnHIv_d02z0-t2133.16", "text": "are based on imaging or measuring activities in your EEGs.", "start": 2133.16, "end": 2137.7599999999998}
+{"id": "AnHIv_d02z0-t2137.76", "text": "But are those things providing criteria at all or are they?", "start": 2137.76, "end": 2142.1200000000003}
+{"id": "AnHIv_d02z0-t2142.1200000000003", "text": "I would even step back further and just say that the brain is complex.", "start": 2142.1200000000003, "end": 2145.84}
+{"id": "AnHIv_d02z0-t2145.84", "text": "The model of genetic disorder in the brain is Huntington's disease.", "start": 2145.84, "end": 2151.6000000000004}
+{"id": "AnHIv_d02z0-t2151.6000000000004", "text": "It's autosomal dominant.", "start": 2151.6000000000004, "end": 2153.2400000000002}
+{"id": "AnHIv_d02z0-t2153.2400000000002", "text": "You have one copy, you have the disorder and the genetics is just beautiful.", "start": 2153.2400000000002, "end": 2157.8}
+{"id": "AnHIv_d02z0-t2157.8", "text": "You have 70 repeats, you get different gradations of this phenotype and you now have a genetic", "start": 2157.8, "end": 2164.4}
+{"id": "AnHIv_d02z0-t2164.4", "text": "test you have a great MR or whatever cat scanning to basically show you that the brain is shrink...", "start": 2164.4, "end": 2171.32}
+{"id": "AnHIv_d02z0-t2171.32", "text": "certain areas of the brain are shrinking and they've known this since the 1980s.", "start": 2171.32, "end": 2177.12}
+{"id": "AnHIv_d02z0-t2177.12", "text": "And to this day it is an incurable disorder and the reason only reason why it's decreasing", "start": 2177.12, "end": 2183.48}
+{"id": "AnHIv_d02z0-t2183.48", "text": "in prevalence is because the genetic testing will allow people to decide that if you have", "start": 2183.48, "end": 2189.32}
+{"id": "AnHIv_d02z0-t2189.32", "text": "the gene you will not have children or something.", "start": 2189.32, "end": 2191.6800000000003}
+{"id": "AnHIv_d02z0-t2191.68", "text": "So this should have been like the lowest hanging fruit in terms of neurological psychiatric", "start": 2191.68, "end": 2199.7999999999997}
+{"id": "AnHIv_d02z0-t2199.7999999999997", "text": "disorders and they've been trying to put in growth factors into the brain or somehow", "start": 2199.7999999999997, "end": 2206.72}
+{"id": "AnHIv_d02z0-t2206.72", "text": "because they know exactly what circuit they know that the striatum is degenerating.", "start": 2206.72, "end": 2211.48}
+{"id": "AnHIv_d02z0-t2211.48", "text": "So even if you can't repair Huntington the protein you can at least pump it full of whatever", "start": 2211.48, "end": 2220.72}
+{"id": "AnHIv_d02z0-t2220.72", "text": "growth factors and that has not actually worked at this point.", "start": 2220.72, "end": 2224.7599999999998}
+{"id": "AnHIv_d02z0-t2224.7599999999998", "text": "Is that where this CRISPR thing should be useful?", "start": 2224.7599999999998, "end": 2228.48}
+{"id": "AnHIv_d02z0-t2228.48", "text": "So actually I think this proves your point beautifully.", "start": 2228.48, "end": 2232.04}
+{"id": "AnHIv_d02z0-t2232.04", "text": "Earlier you said you're very skeptical and that we should tone down at times our exuberance", "start": 2232.04, "end": 2240.8399999999997}
+{"id": "AnHIv_d02z0-t2240.8399999999997", "text": "for these new technologies and I think this is a great demonstration that you're correct.", "start": 2240.8399999999997, "end": 2246.64}
+{"id": "AnHIv_d02z0-t2246.64", "text": "We've known as you said the genetics on Huntington's have been clear for a very long time since", "start": 2246.64, "end": 2252.6}
+{"id": "AnHIv_d02z0-t2252.6", "text": "the original linkage studies and some of Dave Hausmann's work and worked by some really", "start": 2252.6, "end": 2256.3199999999997}
+{"id": "AnHIv_d02z0-t2256.3199999999997", "text": "other great scientists.", "start": 2256.3199999999997, "end": 2260.4}
+{"id": "AnHIv_d02z0-t2260.4", "text": "It's pretty clear that in theory if you could reduce the CAG repeats in that disease that", "start": 2260.4, "end": 2265.72}
+{"id": "AnHIv_d02z0-t2265.72", "text": "you could correct the phenotype and theory and despite that fact my field, this drug", "start": 2265.72, "end": 2275.7999999999997}
+{"id": "AnHIv_d02z0-t2275.8", "text": "delivery therapeutics field has not successfully been able to deliver a therapeutic that can", "start": 2275.8, "end": 2284.92}
+{"id": "AnHIv_d02z0-t2284.92", "text": "do this very simple genetic task despite the fact that we've known exactly what we needed", "start": 2284.92, "end": 2290.5600000000004}
+{"id": "AnHIv_d02z0-t2290.5600000000004", "text": "to do for 30 years.", "start": 2290.5600000000004, "end": 2292.44}
+{"id": "AnHIv_d02z0-t2292.44", "text": "And also to some extent proves your point when you say the brain is complex.", "start": 2292.44, "end": 2298.1600000000003}
+{"id": "AnHIv_d02z0-t2298.1600000000003", "text": "When I look at the brain from a drug delivery perspective I get extremely nervous because", "start": 2298.1600000000003, "end": 2302.04}
+{"id": "AnHIv_d02z0-t2302.04", "text": "of that fact it's just a big huge complicated organ and it's hard to get stuff to go to", "start": 2302.04, "end": 2309.88}
+{"id": "AnHIv_d02z0-t2309.88", "text": "the brain.", "start": 2309.88, "end": 2310.88}
+{"id": "AnHIv_d02z0-t2310.88", "text": "Which is a nice place in the brain.", "start": 2310.88, "end": 2312.44}
+{"id": "AnHIv_d02z0-t2312.44", "text": "Yeah I would even argue it's hard to get, I don't want to speak too broadly or too like", "start": 2312.44, "end": 2318.68}
+{"id": "AnHIv_d02z0-t2318.68", "text": "an over colloquial terminology here but I think about this very simply which is that there's", "start": 2318.68, "end": 2323.44}
+{"id": "AnHIv_d02z0-t2323.44", "text": "this thing that we're all aware of the blood brain barrier which is basically the blood", "start": 2323.44, "end": 2328.6}
+{"id": "AnHIv_d02z0-t2328.6", "text": "vessels in the brain are very good at keeping stuff out of the brain generally speaking.", "start": 2328.6, "end": 2333.24}
+{"id": "AnHIv_d02z0-t2333.24", "text": "And so if you want to deliver a drug into the brain it's really hard to do it because", "start": 2333.24, "end": 2336.64}
+{"id": "AnHIv_d02z0-t2336.64", "text": "the body has evolved and designed itself to prevent things from getting into the brain.", "start": 2336.64, "end": 2341.08}
+{"id": "AnHIv_d02z0-t2341.08", "text": "It's quite literally that simple, it's hard to get drugs into the brain so even if we have", "start": 2341.08, "end": 2344.96}
+{"id": "AnHIv_d02z0-t2344.96", "text": "clear genetics it's hard to make an impact which again like you said.", "start": 2344.96, "end": 2348.96}
+{"id": "AnHIv_d02z0-t2348.96", "text": "Well to second that with the imaging I think the next big hype is going to be the brain", "start": 2348.96, "end": 2352.72}
+{"id": "AnHIv_d02z0-t2352.72", "text": "imaging.", "start": 2352.72, "end": 2353.72}
+{"id": "AnHIv_d02z0-t2353.72", "text": "The reality is out there you can see things that we could never see before and the absolutely.", "start": 2353.72, "end": 2360.8399999999997}
+{"id": "AnHIv_d02z0-t2360.8399999999997", "text": "But it has a, well it's not a picture that's the other myth, it's not a picture of somebody's", "start": 2360.8399999999997, "end": 2366.3599999999997}
+{"id": "AnHIv_d02z0-t2366.3599999999997", "text": "brain it's a composite of a number of statistical and computerized.", "start": 2366.3599999999997, "end": 2370.9599999999996}
+{"id": "AnHIv_d02z0-t2370.9599999999996", "text": "Is this like the, half of my eyes.", "start": 2370.9599999999996, "end": 2372.72}
+{"id": "AnHIv_d02z0-t2372.72", "text": "Oh I think it's not a picture of my brain in the sense that people think of a picture.", "start": 2372.72, "end": 2376.48}
+{"id": "AnHIv_d02z0-t2376.48", "text": "So there's already the media, I have this slide in some ways.", "start": 2376.48, "end": 2380.52}
+{"id": "AnHIv_d02z0-t2380.52", "text": "But you know I think the next kind of potential hype is going to be brain imaging and Alzheimer's", "start": 2380.52, "end": 2385.88}
+{"id": "AnHIv_d02z0-t2385.88", "text": "disease because again there's pretty good information about what's happening.", "start": 2385.88, "end": 2391.96}
+{"id": "AnHIv_d02z0-t2391.96", "text": "You can see the same thing happening in Alzheimer's patients and Parkinson's patients.", "start": 2391.96, "end": 2395.72}
+{"id": "AnHIv_d02z0-t2395.72", "text": "And yet just because one can actually show that doesn't mean there's going to be some", "start": 2395.72, "end": 2400.6}
+{"id": "AnHIv_d02z0-t2400.6", "text": "kind of targeted delivery.", "start": 2400.6, "end": 2402.8}
+{"id": "AnHIv_d02z0-t2402.8", "text": "And yet we keep seeing over and over again you know the next, I have articles that said", "start": 2402.8, "end": 2407.0}
+{"id": "AnHIv_d02z0-t2407.0", "text": "in ten years we're going to have drugs or Alzheimer's, we had those articles 15 years", "start": 2407.0, "end": 2411.56}
+{"id": "AnHIv_d02z0-t2411.56", "text": "ago for gene therapy.", "start": 2411.56, "end": 2412.56}
+{"id": "AnHIv_d02z0-t2412.56", "text": "We're going to have gene therapy for these particular disorders in ten years.", "start": 2412.56, "end": 2416.04}
+{"id": "AnHIv_d02z0-t2416.04", "text": "It's an ethical problem what you do with, do you want to diagnose early a condition that", "start": 2416.04, "end": 2423.4}
+{"id": "AnHIv_d02z0-t2423.4", "text": "you can't do anything about?", "start": 2423.4, "end": 2424.96}
+{"id": "AnHIv_d02z0-t2424.96", "text": "Correct.", "start": 2424.96, "end": 2425.96}
+{"id": "AnHIv_d02z0-t2425.96", "text": "I mean.", "start": 2425.96, "end": 2426.96}
+{"id": "AnHIv_d02z0-t2426.96", "text": "And that's the whole genetics information in terms of the bio banking and the results.", "start": 2426.96, "end": 2430.96}
+{"id": "AnHIv_d02z0-t2430.96", "text": "I mean that's what I've been doing for ten years, research results exactly.", "start": 2430.96, "end": 2433.96}
+{"id": "AnHIv_d02z0-t2433.96", "text": "That's super interesting right?", "start": 2433.96, "end": 2435.64}
+{"id": "AnHIv_d02z0-t2435.64", "text": "This is, I'm so curious to hear your voice for a second on this.", "start": 2435.64, "end": 2439.8399999999997}
+{"id": "AnHIv_d02z0-t2439.8399999999997", "text": "Yeah, we have this wave, I mean total tsunami of genetic information available and it's", "start": 2439.8399999999997, "end": 2447.04}
+{"id": "AnHIv_d02z0-t2447.04", "text": "frankly difficult to interpret.", "start": 2447.04, "end": 2448.52}
+{"id": "AnHIv_d02z0-t2448.52", "text": "Even for somebody who's, you know you have a PhD in genetics you can get spin a tube", "start": 2448.52, "end": 2452.6}
+{"id": "AnHIv_d02z0-t2452.6", "text": "and get your 23andMe profile back and it's hard to interpret your own stuff.", "start": 2452.6, "end": 2457.04}
+{"id": "AnHIv_d02z0-t2457.04", "text": "So it's going to be difficult and we're going to need scientists and people who are trained", "start": 2457.04, "end": 2462.64}
+{"id": "AnHIv_d02z0-t2462.64", "text": "specifically to take all the genetic information and talk to patients in a way that's practical", "start": 2462.64, "end": 2468.12}
+{"id": "AnHIv_d02z0-t2468.12", "text": "and I don't know how you do that.", "start": 2468.12, "end": 2469.12}
+{"id": "AnHIv_d02z0-t2469.12", "text": "I mean do you guys have any idea how to do that?", "start": 2469.12, "end": 2471.3599999999997}
+{"id": "AnHIv_d02z0-t2471.3599999999997", "text": "Well the field is moving in that direction.", "start": 2471.3599999999997, "end": 2473.0}
+{"id": "AnHIv_d02z0-t2473.0", "text": "When I started thirteen years ago at the Hastings Center I was on a project, an NIH funded", "start": 2473.0, "end": 2478.0}
+{"id": "AnHIv_d02z0-t2478.0", "text": "project on the genetics education and ethics or something to that effect was the title.", "start": 2478.0, "end": 2485.4}
+{"id": "AnHIv_d02z0-t2485.4", "text": "And we talked about these issues about, you know the human genome had just started to,", "start": 2485.4, "end": 2489.92}
+{"id": "AnHIv_d02z0-t2489.92", "text": "it had just started to produce some data.", "start": 2489.92, "end": 2492.56}
+{"id": "AnHIv_d02z0-t2492.56", "text": "So this was in the early 2000s and you know the whole issue was oh my god we have all", "start": 2492.56, "end": 2496.2400000000002}
+{"id": "AnHIv_d02z0-t2496.2400000000002", "text": "this information now and we're going to have all these breakthroughs.", "start": 2496.2400000000002, "end": 2498.4}
+{"id": "AnHIv_d02z0-t2498.4", "text": "Well then the scientists and the clinicians started saying we have a lot of information", "start": 2498.4, "end": 2502.64}
+{"id": "AnHIv_d02z0-t2502.64", "text": "that tells us nothing.", "start": 2502.64, "end": 2503.88}
+{"id": "AnHIv_d02z0-t2503.88", "text": "We just have a lot of information.", "start": 2503.88, "end": 2505.88}
+{"id": "AnHIv_d02z0-t2505.88", "text": "And even if we have information that shows something that might be close to helping us", "start": 2505.88, "end": 2510.52}
+{"id": "AnHIv_d02z0-t2510.52", "text": "on a diagnosis we have no treatments.", "start": 2510.52, "end": 2512.2400000000002}
+{"id": "AnHIv_d02z0-t2512.2400000000002", "text": "And then all the other issues about familial connections and heritability and paternity", "start": 2512.2400000000002, "end": 2517.56}
+{"id": "AnHIv_d02z0-t2517.56", "text": "issues and all this came up.", "start": 2517.56, "end": 2519.2400000000002}
+{"id": "AnHIv_d02z0-t2519.24", "text": "The field in medicine and genetics has moved, I would in at least the last five years quite", "start": 2519.24, "end": 2523.7599999999998}
+{"id": "AnHIv_d02z0-t2523.7599999999998", "text": "a bit to trying to find ways for institutions and specialty groups to at least kind of have", "start": 2523.7599999999998, "end": 2535.7599999999998}
+{"id": "AnHIv_d02z0-t2535.7599999999998", "text": "some kind of a consensus on what is the key information they want to actually look at", "start": 2535.7599999999998, "end": 2540.4799999999996}
+{"id": "AnHIv_d02z0-t2540.4799999999996", "text": "and what do you actually know.", "start": 2540.4799999999996, "end": 2542.2}
+{"id": "AnHIv_d02z0-t2542.2", "text": "And to try to have that information filtered down to the clinical level as opposed to", "start": 2542.2, "end": 2546.7599999999998}
+{"id": "AnHIv_d02z0-t2546.7599999999998", "text": "everybody just has everything.", "start": 2546.7599999999998, "end": 2548.4399999999996}
+{"id": "AnHIv_d02z0-t2548.44", "text": "So a lot of institutions I'm sure your institution I know at the Mayo Clinic I had done some", "start": 2548.44, "end": 2552.68}
+{"id": "AnHIv_d02z0-t2552.68", "text": "work there.", "start": 2552.68, "end": 2554.04}
+{"id": "AnHIv_d02z0-t2554.04", "text": "At the larger professional society level there are these groups now these consortia", "start": 2554.04, "end": 2557.76}
+{"id": "AnHIv_d02z0-t2557.76", "text": "either regionally, institutionally or across the field of trying to find out you know what", "start": 2557.76, "end": 2564.12}
+{"id": "AnHIv_d02z0-t2564.12", "text": "are the key genetic variants that we need to be focused on in terms of clinical practice.", "start": 2564.12, "end": 2569.88}
+{"id": "AnHIv_d02z0-t2569.88", "text": "Even if we can't do anything is there enough information about something that we would", "start": 2569.88, "end": 2573.64}
+{"id": "AnHIv_d02z0-t2573.64", "text": "want to at least ask patients if they want that information and then try to find some", "start": 2573.64, "end": 2578.16}
+{"id": "AnHIv_d02z0-t2578.16", "text": "way to deal with even if you can't do anything with Huntington's at least you know if they", "start": 2578.16, "end": 2582.2}
+{"id": "AnHIv_d02z0-t2582.2", "text": "want to know.", "start": 2582.2, "end": 2583.2}
+{"id": "AnHIv_d02z0-t2583.2", "text": "Then you come into the ethical issue of what if they don't want to know.", "start": 2583.2, "end": 2585.64}
+{"id": "AnHIv_d02z0-t2585.64", "text": "Does a clinician have an obligation?", "start": 2585.64, "end": 2587.2799999999997}
+{"id": "AnHIv_d02z0-t2587.2799999999997", "text": "So you've got the right to know issue and right not to know issue.", "start": 2587.2799999999997, "end": 2590.16}
+{"id": "AnHIv_d02z0-t2590.16", "text": "Yeah.", "start": 2590.16, "end": 2591.16}
+{"id": "AnHIv_d02z0-t2591.16", "text": "It reminds me of the informed consent.", "start": 2591.16, "end": 2594.08}
+{"id": "AnHIv_d02z0-t2594.08", "text": "I remember as a medical student I had to consent a teenage year for an appendectomy taking", "start": 2594.08, "end": 2600.6}
+{"id": "AnHIv_d02z0-t2600.6", "text": "the appendix out and it was just really difficult to explain to him exactly what it involved", "start": 2600.6, "end": 2605.56}
+{"id": "AnHIv_d02z0-t2605.56", "text": "and so on.", "start": 2605.56, "end": 2606.56}
+{"id": "AnHIv_d02z0-t2606.56", "text": "This is just an appendix.", "start": 2606.56, "end": 2608.2799999999997}
+{"id": "AnHIv_d02z0-t2608.2799999999997", "text": "Now you talk about risk factors that may by 2% or 5% or 17.3% or to your risk of something", "start": 2608.2799999999997, "end": 2615.2799999999997}
+{"id": "AnHIv_d02z0-t2615.2799999999997", "text": "for which you it just very hard to see how you will.", "start": 2615.2799999999997, "end": 2619.52}
+{"id": "AnHIv_d02z0-t2619.52", "text": "Well if you're educated in the field how will you reach a conclusion how you will how", "start": 2619.52, "end": 2625.8399999999997}
+{"id": "AnHIv_d02z0-t2625.84", "text": "this affects your treatment and how you then tell this to broader.", "start": 2625.84, "end": 2631.2000000000003}
+{"id": "AnHIv_d02z0-t2631.2000000000003", "text": "It's really critical to take into account how your description you know when that patient", "start": 2631.2000000000003, "end": 2637.48}
+{"id": "AnHIv_d02z0-t2637.48", "text": "receives that information it could affect their even even if medically their genetic", "start": 2637.48, "end": 2642.6400000000003}
+{"id": "AnHIv_d02z0-t2642.6400000000003", "text": "code isn't going to really change the odds that they get a given disease.", "start": 2642.6400000000003, "end": 2647.04}
+{"id": "AnHIv_d02z0-t2647.04", "text": "If you say okay you know I'm your risk for disease X has now increased by 15% right as", "start": 2647.04, "end": 2653.52}
+{"id": "AnHIv_d02z0-t2653.52", "text": "a patient I might go oh my lord.", "start": 2653.52, "end": 2654.96}
+{"id": "AnHIv_d02z0-t2654.96", "text": "This is that's scary to me you know I am at risk for disease X however the overall risk", "start": 2654.96, "end": 2661.04}
+{"id": "AnHIv_d02z0-t2661.04", "text": "of any disease is like 1 in 10,000 so now you're like 1.15 out of 10,000 statistically", "start": 2661.04, "end": 2665.84}
+{"id": "AnHIv_d02z0-t2665.84", "text": "nothing really has changed.", "start": 2665.84, "end": 2667.68}
+{"id": "AnHIv_d02z0-t2667.68", "text": "Correct.", "start": 2667.68, "end": 2668.68}
+{"id": "AnHIv_d02z0-t2668.68", "text": "Right and but that's I know that even if I got that information I would be like oh man", "start": 2668.68, "end": 2671.96}
+{"id": "AnHIv_d02z0-t2671.96", "text": "this is you know.", "start": 2671.96, "end": 2674.36}
+{"id": "AnHIv_d02z0-t2674.36", "text": "Most major diseases though even though they may be genetic components and maybe even the", "start": 2674.36, "end": 2678.36}
+{"id": "AnHIv_d02z0-t2678.36", "text": "science might get us to a point where you could be the next Nobel Prize winner for finding", "start": 2678.36, "end": 2683.28}
+{"id": "AnHIv_d02z0-t2683.28", "text": "a targeted you know pathway.", "start": 2683.28, "end": 2686.92}
+{"id": "AnHIv_d02z0-t2686.92", "text": "Most major diseases we already know if you're at risk for it.", "start": 2686.92, "end": 2690.48}
+{"id": "AnHIv_d02z0-t2690.48", "text": "You have family history, you have high blood pressure, you have certain markers in your", "start": 2690.48, "end": 2694.4}
+{"id": "AnHIv_d02z0-t2694.4", "text": "blood for diabetes and for prostate cancer, you have scans imaging from mammography,", "start": 2694.4, "end": 2700.52}
+{"id": "AnHIv_d02z0-t2700.52", "text": "CAT scans, MRIs.", "start": 2700.52, "end": 2702.28}
+{"id": "AnHIv_d02z0-t2702.28", "text": "So the genetic information may not in and of itself change much already and if you're", "start": 2702.28, "end": 2707.28}
+{"id": "AnHIv_d02z0-t2707.28", "text": "talking about trying to prevent those diseases we have tons of literature and studies showing", "start": 2707.28, "end": 2712.36}
+{"id": "AnHIv_d02z0-t2712.36", "text": "that people are very very very hard to get people to change their eating, exercise, lifestyle", "start": 2712.36, "end": 2718.44}
+{"id": "AnHIv_d02z0-t2718.44", "text": "habits even when they have the information that their dad died at 45.", "start": 2718.44, "end": 2723.08}
+{"id": "AnHIv_d02z0-t2723.08", "text": "So sometimes I wonder what you know from again from the discovery science point the discovery", "start": 2723.08, "end": 2728.96}
+{"id": "AnHIv_d02z0-t2728.96", "text": "science is critically important but from the clinical point what we already know about", "start": 2728.96, "end": 2734.8}
+{"id": "AnHIv_d02z0-t2734.8", "text": "patients what we already learn in the clinic you have a lot of information already.", "start": 2734.8, "end": 2739.0}
+{"id": "AnHIv_d02z0-t2739.0", "text": "Go into a new doctor and the first thing you do is go down the list what your family history", "start": 2739.0, "end": 2741.7200000000003}
+{"id": "AnHIv_d02z0-t2741.72", "text": "have you been in the hospital, have you had any operations, have you had a stroke, do", "start": 2741.72, "end": 2744.7999999999997}
+{"id": "AnHIv_d02z0-t2744.7999999999997", "text": "you have diabetes, do you ever get dizzy, do you ever have all these things that you", "start": 2744.7999999999997, "end": 2748.8799999999997}
+{"id": "AnHIv_d02z0-t2748.8799999999997", "text": "look at and it's not completely done but it gives you a lot of information already.", "start": 2748.8799999999997, "end": 2754.3599999999997}
+{"id": "AnHIv_d02z0-t2754.3599999999997", "text": "Correct, for example one of my colleagues is a stroke specialist and all he says is that", "start": 2754.3599999999997, "end": 2761.7999999999997}
+{"id": "AnHIv_d02z0-t2761.7999999999997", "text": "if you control your blood pressure that's probably the best thing to prevent stroke,", "start": 2761.7999999999997, "end": 2766.2}
+{"id": "AnHIv_d02z0-t2766.2", "text": "Alzheimer's disease, cognitive impairment much more so than much later on and that would", "start": 2766.2, "end": 2771.3199999999997}
+{"id": "AnHIv_d02z0-t2771.32", "text": "be probably from a public health impact that's probably much more important if you just control", "start": 2771.32, "end": 2776.84}
+{"id": "AnHIv_d02z0-t2776.84", "text": "your blood pressure your chances of all these devastating neurologic disorders that decrease", "start": 2776.84, "end": 2782.88}
+{"id": "AnHIv_d02z0-t2782.88", "text": "oxygen.", "start": 2782.88, "end": 2783.88}
+{"id": "AnHIv_d02z0-t2783.88", "text": "And it would be a lot easier if I can still eat the way I eat and get a gene chip or some", "start": 2783.88, "end": 2789.52}
+{"id": "AnHIv_d02z0-t2789.52", "text": "mechanism put into my brain to get your blood pressure checked and decrease salt intake", "start": 2789.52, "end": 2795.04}
+{"id": "AnHIv_d02z0-t2795.04", "text": "which is actually what you're supposed to do.", "start": 2795.04, "end": 2797.1200000000003}
+{"id": "AnHIv_d02z0-t2797.12", "text": "Well and the other thing I'll point out too is that so this is what it looks like right", "start": 2797.12, "end": 2801.3599999999997}
+{"id": "AnHIv_d02z0-t2801.3599999999997", "text": "now but you know things change and it could be in 20 years they play this video back and", "start": 2801.3599999999997, "end": 2807.72}
+{"id": "AnHIv_d02z0-t2807.72", "text": "everybody on the stage looks like a fool as I would actually statistically this is probably", "start": 2807.72, "end": 2811.8399999999997}
+{"id": "AnHIv_d02z0-t2811.8399999999997", "text": "a good case.", "start": 2811.8399999999997, "end": 2812.8399999999997}
+{"id": "AnHIv_d02z0-t2812.8399999999997", "text": "This is why it's always better to keep skeptical stance.", "start": 2812.8399999999997, "end": 2816.68}
+{"id": "AnHIv_d02z0-t2816.68", "text": "Yeah, that's right.", "start": 2816.68, "end": 2817.68}
+{"id": "AnHIv_d02z0-t2817.68", "text": "But you know things I mean things could change it could turn out that the precision medicine", "start": 2817.68, "end": 2822.7599999999998}
+{"id": "AnHIv_d02z0-t2822.7599999999998", "text": "didn't work out as much as we want to or it could turn out that you know we have cures", "start": 2822.7599999999998, "end": 2826.3199999999997}
+{"id": "AnHIv_d02z0-t2826.32", "text": "to three or four diseases that we didn't think were on the table because in eight years", "start": 2826.32, "end": 2830.04}
+{"id": "AnHIv_d02z0-t2830.04", "text": "I think that's actually more likely.", "start": 2830.04, "end": 2831.52}
+{"id": "AnHIv_d02z0-t2831.52", "text": "Yeah, that's right.", "start": 2831.52, "end": 2832.52}
+{"id": "AnHIv_d02z0-t2832.52", "text": "Because the focus is on a siloed science focus and yes absolutely right.", "start": 2832.52, "end": 2836.2400000000002}
+{"id": "AnHIv_d02z0-t2836.2400000000002", "text": "That's right it's just impossible to predict how these things evolve.", "start": 2836.2400000000002, "end": 2838.84}
+{"id": "AnHIv_d02z0-t2838.84", "text": "They're in the business of what discovery.", "start": 2838.84, "end": 2840.1600000000003}
+{"id": "AnHIv_d02z0-t2840.1600000000003", "text": "That's right.", "start": 2840.1600000000003, "end": 2841.1600000000003}
+{"id": "AnHIv_d02z0-t2841.1600000000003", "text": "One of the areas that was promising for the gene editing were the kind of diseases that", "start": 2841.1600000000003, "end": 2846.56}
+{"id": "AnHIv_d02z0-t2846.56", "text": "we know are inherited and we know that start early like muscular dystrophy for example.", "start": 2846.56, "end": 2852.04}
+{"id": "AnHIv_d02z0-t2852.04", "text": "More sickle salinine.", "start": 2852.04, "end": 2853.04}
+{"id": "AnHIv_d02z0-t2853.04", "text": "More sickle salinine.", "start": 2853.04, "end": 2854.04}
+{"id": "AnHIv_d02z0-t2854.04", "text": "I thought those are areas where the promise was the greatest.", "start": 2854.04, "end": 2857.92}
+{"id": "AnHIv_d02z0-t2857.92", "text": "Oh yeah that's right.", "start": 2857.92, "end": 2859.36}
+{"id": "AnHIv_d02z0-t2859.36", "text": "So there are a number of disease and I'm not an expert in this because we just work on", "start": 2859.36, "end": 2865.08}
+{"id": "AnHIv_d02z0-t2865.08", "text": "the delivery.", "start": 2865.08, "end": 2866.64}
+{"id": "AnHIv_d02z0-t2866.64", "text": "But there are a subset of biological diseases where again sort of akin to Huntington's", "start": 2866.64, "end": 2871.6}
+{"id": "AnHIv_d02z0-t2871.6", "text": "where the genetics and the biology is pretty clear.", "start": 2871.6, "end": 2876.44}
+{"id": "AnHIv_d02z0-t2876.44", "text": "As a broad statement we all know here that most diseases are very complicated biologically", "start": 2876.44, "end": 2880.88}
+{"id": "AnHIv_d02z0-t2880.88", "text": "but there are subset diseases where we know okay roughly you know this gene is messed", "start": 2880.88, "end": 2885.2400000000002}
+{"id": "AnHIv_d02z0-t2885.2400000000002", "text": "up and therefore you get the disease or that gene is messed up and therefore you get the", "start": 2885.2400000000002, "end": 2888.08}
+{"id": "AnHIv_d02z0-t2888.08", "text": "disease.", "start": 2888.08, "end": 2889.28}
+{"id": "AnHIv_d02z0-t2889.28", "text": "So for disease like that I do think there's a possibility that we'll see advances before.", "start": 2889.28, "end": 2895.6800000000003}
+{"id": "AnHIv_d02z0-t2895.6800000000003", "text": "This is definitely a safe statement to make.", "start": 2895.6800000000003, "end": 2897.4}
+{"id": "AnHIv_d02z0-t2897.4", "text": "We'll see famous lawswords.", "start": 2897.4, "end": 2901.2400000000002}
+{"id": "AnHIv_d02z0-t2901.2400000000002", "text": "I do think that we'll see advances in the simple diseases before we'll see advances", "start": 2901.2400000000002, "end": 2906.04}
+{"id": "AnHIv_d02z0-t2906.04", "text": "in the complicated diseases.", "start": 2906.04, "end": 2907.92}
+{"id": "AnHIv_d02z0-t2907.92", "text": "And I do think that's the case.", "start": 2907.92, "end": 2911.32}
+{"id": "AnHIv_d02z0-t2911.32", "text": "I was going to ask you don't these current ways of working with genes allow you to alter", "start": 2911.32, "end": 2919.4}
+{"id": "AnHIv_d02z0-t2919.4", "text": "the brain blood barrier at the brain, in other words isn't that part of the job to see how", "start": 2919.4, "end": 2925.88}
+{"id": "AnHIv_d02z0-t2925.88", "text": "you can alter that barrier.", "start": 2925.88, "end": 2928.08}
+{"id": "AnHIv_d02z0-t2928.08", "text": "So it kind of depends.", "start": 2928.08, "end": 2930.08}
+{"id": "AnHIv_d02z0-t2930.08", "text": "Alter can be a scary word in the brain and I guess the best way to describe it is there's", "start": 2930.08, "end": 2936.2400000000002}
+{"id": "AnHIv_d02z0-t2936.24", "text": "a reason why that blood barrier is there.", "start": 2936.24, "end": 2939.68}
+{"id": "AnHIv_d02z0-t2939.68", "text": "And so for instance let's say theoretically you said okay I want to deliver drugs to the", "start": 2939.68, "end": 2945.52}
+{"id": "AnHIv_d02z0-t2945.52", "text": "brain so we know that there is a gene.", "start": 2945.52, "end": 2950.16}
+{"id": "AnHIv_d02z0-t2950.16", "text": "So the blood vessels that line the brain all express this one particular gene called", "start": 2950.16, "end": 2954.64}
+{"id": "AnHIv_d02z0-t2954.64", "text": "VE kit here and the VE kit here basically takes the cells that line up the brain and", "start": 2954.64, "end": 2960.52}
+{"id": "AnHIv_d02z0-t2960.52", "text": "it makes the cells stick together so that there's a tight junction nothing can get in", "start": 2960.52, "end": 2964.6}
+{"id": "AnHIv_d02z0-t2964.6", "text": "between the cells.", "start": 2964.6, "end": 2966.12}
+{"id": "AnHIv_d02z0-t2966.12", "text": "So in theory you know you go in and inject an antibody towards VE kit here and direct", "start": 2966.12, "end": 2970.68}
+{"id": "AnHIv_d02z0-t2970.68", "text": "to SIR and A against VE kit here and knock down that protein so the cells become loosened", "start": 2970.68, "end": 2975.3599999999997}
+{"id": "AnHIv_d02z0-t2975.3599999999997", "text": "up and now you can deliver your drug and it would get out.", "start": 2975.3599999999997, "end": 2979.24}
+{"id": "AnHIv_d02z0-t2979.24", "text": "However they're going to be side effects to that and they could be pretty dramatic side", "start": 2979.24, "end": 2984.7599999999998}
+{"id": "AnHIv_d02z0-t2984.7599999999998", "text": "effects.", "start": 2984.7599999999998, "end": 2985.7599999999998}
+{"id": "AnHIv_d02z0-t2985.76", "text": "So I think manipulating the brain in order to get drugs to it is in theory a workable", "start": 2985.76, "end": 2996.8}
+{"id": "AnHIv_d02z0-t2996.8", "text": "strategy been practiced I would you know if I had to put money on the table I'd probably", "start": 2996.8, "end": 2999.92}
+{"id": "AnHIv_d02z0-t2999.92", "text": "bet against it.", "start": 2999.92, "end": 3000.92}
+{"id": "AnHIv_d02z0-t3000.92", "text": "Because you get to modify the drugs so they will go up and the other way around.", "start": 3000.92, "end": 3005.96}
+{"id": "AnHIv_d02z0-t3005.96", "text": "You can change the pharmacology of molecules so that they do go to the brain.", "start": 3005.96, "end": 3010.8}
+{"id": "AnHIv_d02z0-t3010.8", "text": "Yeah.", "start": 3010.8, "end": 3011.8}
+{"id": "AnHIv_d02z0-t3011.8", "text": "And there's a lot of utility in understanding some basic biology so you know there's a", "start": 3011.8, "end": 3018.8}
+{"id": "AnHIv_d02z0-t3018.8", "text": "there are certain they're very limited number but there are a small number of pathways where", "start": 3018.8, "end": 3023.36}
+{"id": "AnHIv_d02z0-t3023.36", "text": "you can actually these molecular pathways the cells use these pathways to get things", "start": 3023.36, "end": 3028.6000000000004}
+{"id": "AnHIv_d02z0-t3028.6000000000004", "text": "across the bloodstream into the brain because the brain does need to get stuff out of the", "start": 3028.6000000000004, "end": 3032.7200000000003}
+{"id": "AnHIv_d02z0-t3032.7200000000003", "text": "bloodstream so the body has ways to get certain things into the brain and you can hijack", "start": 3032.7200000000003, "end": 3037.1200000000003}
+{"id": "AnHIv_d02z0-t3037.1200000000003", "text": "some of these molecular pathways to get things across the brain.", "start": 3037.1200000000003, "end": 3041.4}
+{"id": "AnHIv_d02z0-t3041.4", "text": "Now the efficacy is can be limited but there are a small number of pathways where you can", "start": 3041.4, "end": 3047.96}
+{"id": "AnHIv_d02z0-t3047.96", "text": "exploit them to get things across.", "start": 3047.96, "end": 3049.36}
+{"id": "AnHIv_d02z0-t3049.36", "text": "There's a lot of things to the brain.", "start": 3049.36, "end": 3051.36}
+{"id": "AnHIv_d02z0-t3051.36", "text": "I would have to say one of the miracles of modern psychiatry or of psychiatry in the", "start": 3051.36, "end": 3055.4}
+{"id": "AnHIv_d02z0-t3055.4", "text": "20th to 20th century is that we actually were serendipitously able to find prozac and", "start": 3055.4, "end": 3062.48}
+{"id": "AnHIv_d02z0-t3062.48", "text": "halloparadol and lithium which are now sort of like everything is a mainstay of that but", "start": 3062.48, "end": 3068.36}
+{"id": "AnHIv_d02z0-t3068.36", "text": "if we and they get across very well and it's amazing because these actually change the", "start": 3068.36, "end": 3074.1600000000003}
+{"id": "AnHIv_d02z0-t3074.1600000000003", "text": "practice of psychiatry and if we did not have this we would not be in the state we are now", "start": 3074.1600000000003, "end": 3080.2400000000002}
+{"id": "AnHIv_d02z0-t3080.2400000000002", "text": "where it's so these definitely went across the board and they're actually quite effective", "start": 3080.2400000000002, "end": 3085.4}
+{"id": "AnHIv_d02z0-t3085.4", "text": "so it's not as if this is we're dealing with something that is 50 to 60% effective in most", "start": 3085.4, "end": 3091.6}
+{"id": "AnHIv_d02z0-t3091.6", "text": "people what we have the main issue that we're sort of grappling with now is what do we do", "start": 3091.6, "end": 3096.52}
+{"id": "AnHIv_d02z0-t3096.52", "text": "for the 40 to 50% of people that don't respond to the third and fourth generation of prozac", "start": 3096.52, "end": 3103.08}
+{"id": "AnHIv_d02z0-t3103.08", "text": "or the third and fourth generation of lithium at this point but it is quite miraculous that", "start": 3103.08, "end": 3108.56}
+{"id": "AnHIv_d02z0-t3108.56", "text": "we have these.", "start": 3108.56, "end": 3109.56}
+{"id": "AnHIv_d02z0-t3109.56", "text": "And it's also important to note here too that when you think about getting things across", "start": 3109.56, "end": 3115.64}
+{"id": "AnHIv_d02z0-t3115.64", "text": "or across the blood brain barrier into the brain there's a size limitation so the things", "start": 3115.64, "end": 3120.96}
+{"id": "AnHIv_d02z0-t3120.96", "text": "that get across to the things that cells can handle and sort of take across on their own", "start": 3120.96, "end": 3125.56}
+{"id": "AnHIv_d02z0-t3125.56", "text": "are typically extremely small so they might be on the order of like a chemical chemical", "start": 3125.56, "end": 3130.68}
+{"id": "AnHIv_d02z0-t3130.68", "text": "compound that might weigh 500 Dalton's or maybe a thousand Dalton's at most.", "start": 3130.68, "end": 3136.12}
+{"id": "AnHIv_d02z0-t3136.12", "text": "A lot of these biological drugs that we're talking about these sort of next generation", "start": 3136.12, "end": 3139.36}
+{"id": "AnHIv_d02z0-t3139.36", "text": "drugs if you put them inside a nanoparticle people don't know how to weigh a nanoparticle", "start": 3139.36, "end": 3145.04}
+{"id": "AnHIv_d02z0-t3145.04", "text": "but I've heard estimates on the order of 20 million to 100 million Dalton's which is certainly", "start": 3145.04, "end": 3149.68}
+{"id": "AnHIv_d02z0-t3149.68", "text": "a lot different than 500 Dalton's and so getting that delivery of these large biologics across", "start": 3149.68, "end": 3157.24}
+{"id": "AnHIv_d02z0-t3157.24", "text": "is going to be a different ball game.", "start": 3157.24, "end": 3161.3599999999997}
+{"id": "AnHIv_d02z0-t3161.3599999999997", "text": "What the technical hurdle of just getting RNA across?", "start": 3161.3599999999997, "end": 3164.2}
+{"id": "AnHIv_d02z0-t3164.2", "text": "It's RNA, that's a great question, thanks.", "start": 3164.2, "end": 3167.68}
+{"id": "AnHIv_d02z0-t3167.68", "text": "I love that question, I've been living with that question for years.", "start": 3167.68, "end": 3174.96}
+{"id": "AnHIv_d02z0-t3174.96", "text": "Yeah, so if you want to get RNA out of the bloodstream into a tissue it helps if the", "start": 3174.96, "end": 3183.44}
+{"id": "AnHIv_d02z0-t3183.44", "text": "tissue helps you out on its own.", "start": 3183.44, "end": 3186.44}
+{"id": "AnHIv_d02z0-t3186.44", "text": "In the liver there are certain blood vessels so I'll take a sit back and say that the blood", "start": 3186.44, "end": 3190.7200000000003}
+{"id": "AnHIv_d02z0-t3190.7200000000003", "text": "vessels that are sort of lying your liver are different than the blood vessels that line", "start": 3190.7200000000003, "end": 3197.0}
+{"id": "AnHIv_d02z0-t3197.0", "text": "your lung and the different ones that line your brain and the blood vessels that line", "start": 3197.0, "end": 3201.56}
+{"id": "AnHIv_d02z0-t3201.56", "text": "like an average artery in your heart for instance are different than the blood vessels that", "start": 3201.56, "end": 3206.72}
+{"id": "AnHIv_d02z0-t3206.72", "text": "line a vein in your heart so there's heterogeneity both across tissues and within the tissue", "start": 3206.72, "end": 3212.92}
+{"id": "AnHIv_d02z0-t3212.92", "text": "and you can use that to your advantage.", "start": 3212.92, "end": 3215.64}
+{"id": "AnHIv_d02z0-t3215.64", "text": "There are wonderful delivery vehicles for delivering small RNAs to hepatocytes in the", "start": 3215.64, "end": 3220.88}
+{"id": "AnHIv_d02z0-t3220.88", "text": "liver and one of the reasons why allegedly they work so well is because some of the blood", "start": 3220.88, "end": 3226.2799999999997}
+{"id": "AnHIv_d02z0-t3226.28", "text": "vessels in the liver actually a little holes punched in them so the holes might be between", "start": 3226.28, "end": 3231.7200000000003}
+{"id": "AnHIv_d02z0-t3231.7200000000003", "text": "a, you know, so imagine like a garden hose with like a bunch of holes punched in it and", "start": 3231.7200000000003, "end": 3237.4}
+{"id": "AnHIv_d02z0-t3237.4", "text": "then you want to get stuff out of the garden hose it's going to get out of the garden", "start": 3237.4, "end": 3240.7200000000003}
+{"id": "AnHIv_d02z0-t3240.7200000000003", "text": "hose more so than a garden hose that doesn't have any holes on it, right?", "start": 3240.7200000000003, "end": 3244.6400000000003}
+{"id": "AnHIv_d02z0-t3244.6400000000003", "text": "And so those fenestra or like little windows in the liver help drugs get across so that's", "start": 3244.6400000000003, "end": 3249.92}
+{"id": "AnHIv_d02z0-t3249.92", "text": "one thing and you know besides that to be honest I mean we don't really know, we don't really", "start": 3249.92, "end": 3257.28}
+{"id": "AnHIv_d02z0-t3257.28", "text": "know we know that we can use these physical barriers to our advantage but if we want to", "start": 3257.28, "end": 3262.16}
+{"id": "AnHIv_d02z0-t3262.16", "text": "actively target something like the brain or the lung or something that doesn't have those", "start": 3262.16, "end": 3266.04}
+{"id": "AnHIv_d02z0-t3266.04", "text": "physical advantages and we have to get clever and you know it's hard to get clever.", "start": 3266.04, "end": 3272.6800000000003}
+{"id": "AnHIv_d02z0-t3272.6800000000003", "text": "I was thinking as you were talking the two of you brain disorders are very different", "start": 3272.6800000000003, "end": 3276.12}
+{"id": "AnHIv_d02z0-t3276.12", "text": "too it's like cancers are different although they're finding some similarities and", "start": 3276.12, "end": 3279.7200000000003}
+{"id": "AnHIv_d02z0-t3279.72", "text": "listening to them are seeing cancers comparatively easier.", "start": 3279.72, "end": 3282.7599999999998}
+{"id": "AnHIv_d02z0-t3282.7599999999998", "text": "Yeah exactly because not all brain disorders are equal and you have the package of disorders", "start": 3282.7599999999998, "end": 3288.64}
+{"id": "AnHIv_d02z0-t3288.64", "text": "it had to do with depression and mania and psychosis and then you have the package it", "start": 3288.64, "end": 3293.12}
+{"id": "AnHIv_d02z0-t3293.12", "text": "has to do with neurodegenerative disease like Alzheimer's and Parkinson's and other", "start": 3293.12, "end": 3296.8799999999997}
+{"id": "AnHIv_d02z0-t3296.8799999999997", "text": "dimensions and then the other more complex kinds of ALS kinds of things they have spinal", "start": 3296.8799999999997, "end": 3305.0}
+{"id": "AnHIv_d02z0-t3305.0", "text": "connections it's such a complex area to try to figure out a can you just figure out can", "start": 3305.0, "end": 3311.72}
+{"id": "AnHIv_d02z0-t3311.72", "text": "you just explain what's happening number one which we're not there yet.", "start": 3311.72, "end": 3315.72}
+{"id": "AnHIv_d02z0-t3315.72", "text": "Number two even if you can't explain can you at least rejigger it somehow to get some kind", "start": 3315.72, "end": 3321.0}
+{"id": "AnHIv_d02z0-t3321.0", "text": "of different outcome than what the patient is experiencing and that's going to be complex", "start": 3321.0, "end": 3327.92}
+{"id": "AnHIv_d02z0-t3327.92", "text": "because you've got these different combinations.", "start": 3327.92, "end": 3330.52}
+{"id": "AnHIv_d02z0-t3330.52", "text": "Yes I think the biology is so complex but I would have to say since I'm I hope to be", "start": 3330.52, "end": 3338.64}
+{"id": "AnHIv_d02z0-t3338.64", "text": "an optimist is that is that as a society we have figured out how to treat patients in", "start": 3338.64, "end": 3344.32}
+{"id": "AnHIv_d02z0-t3344.32", "text": "a completely different way which is through psychotherapy right which I think is one", "start": 3344.32, "end": 3348.96}
+{"id": "AnHIv_d02z0-t3348.96", "text": "of the most effective ways people have shown that whether it be psychodynamic, psychoanalytic", "start": 3348.96, "end": 3353.72}
+{"id": "AnHIv_d02z0-t3353.72", "text": "or cognitive behavioral they all seem to have an effect size that is sometimes larger than", "start": 3353.72, "end": 3359.16}
+{"id": "AnHIv_d02z0-t3359.16", "text": "the drugs we use and I think this is something we can take advantage of.", "start": 3359.16, "end": 3363.3199999999997}
+{"id": "AnHIv_d02z0-t3363.3199999999997", "text": "I mean we which I think gets to the whole point that this is what we call targeted environment", "start": 3363.3199999999997, "end": 3368.68}
+{"id": "AnHIv_d02z0-t3368.68", "text": "you're actually using the environment you're trying to we program the brain by having a", "start": 3368.68, "end": 3373.48}
+{"id": "AnHIv_d02z0-t3373.48", "text": "discussion with someone else I mean obviously I'm simplifying it beyond means but the one", "start": 3373.48, "end": 3379.52}
+{"id": "AnHIv_d02z0-t3379.52", "text": "example I'm going to give and I apologize this is an example from my lab but so it's", "start": 3379.52, "end": 3384.2}
+{"id": "AnHIv_d02z0-t3384.2", "text": "sort of biased but so we've been studying post-traumatic stress disorder and actually", "start": 3384.2, "end": 3390.3599999999997}
+{"id": "AnHIv_d02z0-t3390.3599999999997", "text": "I actually see patients coming back from Iraq and Afghanistan and actually what I first", "start": 3390.3599999999997, "end": 3395.04}
+{"id": "AnHIv_d02z0-t3395.04", "text": "of all I've noticed is they're all really young they're like they're 22 to 24 years", "start": 3395.04, "end": 3401.24}
+{"id": "AnHIv_d02z0-t3401.24", "text": "old there's young soldiers and I really makes it what I've been working with them for about", "start": 3401.24, "end": 3406.24}
+{"id": "AnHIv_d02z0-t3406.24", "text": "five six years and and I realized that they're essentially adolescents so that we essentially", "start": 3406.24, "end": 3412.04}
+{"id": "AnHIv_d02z0-t3412.04", "text": "are sending our soldiers our adolescents to war because you don't send 30 year olds to", "start": 3412.04, "end": 3417.16}
+{"id": "AnHIv_d02z0-t3417.16", "text": "war you send 18 to 22 year olds and what we're what my colleague BJ Casey who was also at", "start": 3417.16, "end": 3424.16}
+{"id": "AnHIv_d02z0-t3424.16", "text": "the Sackler Institute we're in we're very we were very much trying to tailor treatments", "start": 3424.16, "end": 3430.2799999999997}
+{"id": "AnHIv_d02z0-t3430.2799999999997", "text": "at different stages of development and we recently have made a fairly significant we think well", "start": 3430.2799999999997, "end": 3435.44}
+{"id": "AnHIv_d02z0-t3435.44", "text": "and not not like New York time significant but just like lab significance advance in the", "start": 3435.44, "end": 3441.96}
+{"id": "AnHIv_d02z0-t3441.96", "text": "sense that we find that if we do different types of what we call exposure based treatments", "start": 3441.96, "end": 3447.92}
+{"id": "AnHIv_d02z0-t3447.92", "text": "in both humans and in our mice that we study that we actually get different what different", "start": 3447.92, "end": 3453.68}
+{"id": "AnHIv_d02z0-t3453.68", "text": "levels of attenuation of memories so in many ways you can imagine as I was discussing before", "start": 3453.68, "end": 3460.68}
+{"id": "AnHIv_d02z0-t3460.68", "text": "that that the brain is really developing during different stages and we've noticed now that", "start": 3460.68, "end": 3466.2799999999997}
+{"id": "AnHIv_d02z0-t3466.2799999999997", "text": "adolescents in particular is very plastic you're much more plastic during you're actually", "start": 3466.2799999999997, "end": 3471.3999999999996}
+{"id": "AnHIv_d02z0-t3471.3999999999996", "text": "much smarter than you are at other points in development and we think that we can possibly", "start": 3471.3999999999996, "end": 3477.3199999999997}
+{"id": "AnHIv_d02z0-t3477.3199999999997", "text": "tailor new types of behavioral treatments which are not whatever don't involve blood", "start": 3477.3199999999997, "end": 3482.44}
+{"id": "AnHIv_d02z0-t3482.44", "text": "brain barrier and so you can imagine another form of precision medicine is actually trying", "start": 3482.44, "end": 3488.3599999999997}
+{"id": "AnHIv_d02z0-t3488.36", "text": "to target the right time when your brain is ready it's very similar to the way we've", "start": 3488.36, "end": 3493.8}
+{"id": "AnHIv_d02z0-t3493.8", "text": "been very much informed by the work of like decades ago there was the Nobel Prize was", "start": 3493.8, "end": 3499.6400000000003}
+{"id": "AnHIv_d02z0-t3499.6400000000003", "text": "given for what they call critical periods of visual plasticity that if you have someone", "start": 3499.6400000000003, "end": 3504.6400000000003}
+{"id": "AnHIv_d02z0-t3504.6400000000003", "text": "that has doesn't have perfect aligned vision you had a window of about five years before", "start": 3504.6400000000003, "end": 3510.92}
+{"id": "AnHIv_d02z0-t3510.92", "text": "when you had to actually close one eye and let the other eye get stronger and basically", "start": 3510.92, "end": 3515.56}
+{"id": "AnHIv_d02z0-t3515.56", "text": "and if you miss that window you could not do things and we think that in psychiatric disorders", "start": 3515.56, "end": 3521.04}
+{"id": "AnHIv_d02z0-t3521.04", "text": "at least in the simple realm of something like fear learning or fear post traumatic stress", "start": 3521.04, "end": 3526.92}
+{"id": "AnHIv_d02z0-t3526.92", "text": "disorder you might be able to find a window where you can actually alter memories or alter", "start": 3526.92, "end": 3532.12}
+{"id": "AnHIv_d02z0-t3532.12", "text": "the emotional valence of memories because the brain is much more plastic again this is just", "start": 3532.12, "end": 3536.7999999999997}
+{"id": "AnHIv_d02z0-t3536.7999999999997", "text": "like the tip of the iceberg but then you could imagine if you could bootstrap this that ultimately", "start": 3536.7999999999997, "end": 3542.56}
+{"id": "AnHIv_d02z0-t3542.56", "text": "you could possibly then add a drug on top of it so right now we're doing a clinical trial", "start": 3542.56, "end": 3548.32}
+{"id": "AnHIv_d02z0-t3548.32", "text": "with these veterans where in addition to giving them exposure therapy we're actually giving", "start": 3548.32, "end": 3553.2799999999997}
+{"id": "AnHIv_d02z0-t3553.2799999999997", "text": "them a cognitive enhancer it's not a very good one I can say that but you can imagine", "start": 3553.2799999999997, "end": 3557.68}
+{"id": "AnHIv_d02z0-t3557.68", "text": "the future in the future of psychiatry might be where you combine what is probably the", "start": 3557.68, "end": 3562.68}
+{"id": "AnHIv_d02z0-t3562.68", "text": "most effective treatment where you actually get because not only psychotherapy is not", "start": 3562.68, "end": 3567.68}
+{"id": "AnHIv_d02z0-t3567.68", "text": "just what happens in the if you think about it for a patient to be in psychotherapy or", "start": 3567.68, "end": 3573.24}
+{"id": "AnHIv_d02z0-t3573.24", "text": "see a psychiatrist or psychologist they actually have to get out of their room and travel somewhere", "start": 3573.24, "end": 3579.2}
+{"id": "AnHIv_d02z0-t3579.2", "text": "so there's something about that whole movement which we think is much more important that", "start": 3579.2, "end": 3583.8799999999997}
+{"id": "AnHIv_d02z0-t3583.8799999999997", "text": "they're re-engaged with the environment in some way and that you could imagine in the", "start": 3583.8799999999997, "end": 3588.3199999999997}
+{"id": "AnHIv_d02z0-t3588.3199999999997", "text": "future it'll be this combination of using potentially drugs RNA or other biologics and", "start": 3588.3199999999997, "end": 3594.3199999999997}
+{"id": "AnHIv_d02z0-t3594.32", "text": "also but combining with psychotherapy I think we're now at a point where we're realizing", "start": 3594.32, "end": 3598.6000000000004}
+{"id": "AnHIv_d02z0-t3598.6000000000004", "text": "that one drug won't do it or one therapy won't do it so I think that's I mean that's sort", "start": 3598.6000000000004, "end": 3603.0800000000004}
+{"id": "AnHIv_d02z0-t3603.0800000000004", "text": "of the future I think you've touched you haven't you haven't gotten there but the logical discussion", "start": 3603.0800000000004, "end": 3607.8}
+{"id": "AnHIv_d02z0-t3607.8", "text": "that's going on in the ethics literature is so where so when you when if and when we get", "start": 3607.8, "end": 3612.88}
+{"id": "AnHIv_d02z0-t3612.88", "text": "to the point where you can fix PTSD and societies have always sent young boys to war that's", "start": 3612.88, "end": 3620.32}
+{"id": "AnHIv_d02z0-t3620.32", "text": "not new it's always been young boys by by draft in most in most historical moments you", "start": 3620.32, "end": 3627.36}
+{"id": "AnHIv_d02z0-t3627.36", "text": "don't have a choice the logical extension is well if you can fix the brain after this", "start": 3627.36, "end": 3634.0}
+{"id": "AnHIv_d02z0-t3634.0", "text": "horrific trauma and maybe even erase those horrible memories which you know there are", "start": 3634.0, "end": 3638.56}
+{"id": "AnHIv_d02z0-t3638.56", "text": "some drugs that are being discussed about that then what is what are the societal implications", "start": 3638.56, "end": 3643.1200000000003}
+{"id": "AnHIv_d02z0-t3643.1200000000003", "text": "for that for nation states and wars and so on if we can and even if you could gene edit", "start": 3643.1200000000003, "end": 3647.76}
+{"id": "AnHIv_d02z0-t3647.76", "text": "something later on to erase bad memories about killing and bad memories of trauma do we then", "start": 3647.76, "end": 3655.1200000000003}
+{"id": "AnHIv_d02z0-t3655.1200000000003", "text": "have a societal or other societal implications for the use of those therapeutics and the use", "start": 3655.1200000000003, "end": 3660.88}
+{"id": "AnHIv_d02z0-t3660.88", "text": "of those techniques or reasons that may be nefarious and not necessarily what we would", "start": 3660.88, "end": 3666.36}
+{"id": "AnHIv_d02z0-t3666.36", "text": "like to talk about yes no the brain is actually quite no I think it's a very good point I think", "start": 3666.36, "end": 3672.5200000000004}
+{"id": "AnHIv_d02z0-t3672.52", "text": "the best way the best anecdote I had heard about this is from Joe Lidou who's a neuroscientist", "start": 3672.52, "end": 3678.92}
+{"id": "AnHIv_d02z0-t3678.92", "text": "at New York University if you see a car crash outside you have a memory of it you go home", "start": 3678.92, "end": 3685.64}
+{"id": "AnHIv_d02z0-t3685.64", "text": "and within six hours for some reason has to be six hours but within six hours if you then", "start": 3685.64, "end": 3689.8}
+{"id": "AnHIv_d02z0-t3689.8", "text": "watch a TV news of episode of it and it's slightly different and you will update that", "start": 3689.8, "end": 3697.24}
+{"id": "AnHIv_d02z0-t3697.24", "text": "memory and the memory will be more like the newscast than your eyewitness account of it", "start": 3697.24, "end": 3701.96}
+{"id": "AnHIv_d02z0-t3701.96", "text": "and so this is what they call updating your memory so this I think is what you're saying", "start": 3701.96, "end": 3706.16}
+{"id": "AnHIv_d02z0-t3706.16", "text": "about this is actually quite dangerous which means that memories are not as fixed in this", "start": 3706.16, "end": 3710.88}
+{"id": "AnHIv_d02z0-t3710.88", "text": "I saw it as we think and it can it's always amenable to updating or in many some cases", "start": 3710.88, "end": 3718.2}
+{"id": "AnHIv_d02z0-t3718.2", "text": "potentially erasure right yeah so that you can update or and this is how I think this", "start": 3718.2, "end": 3723.28}
+{"id": "AnHIv_d02z0-t3723.28", "text": "is the danger that you could imagine that you there are various forms of treatments", "start": 3723.28, "end": 3727.28}
+{"id": "AnHIv_d02z0-t3727.28", "text": "that could actually lead to significant updating in a different way than it was we of course", "start": 3727.28, "end": 3733.4}
+{"id": "AnHIv_d02z0-t3733.4", "text": "want to think of it in a therapeutic way that we're going to try to update it and make", "start": 3733.4, "end": 3737.92}
+{"id": "AnHIv_d02z0-t3737.92", "text": "previously bad memories lose their emotional or fearful valence but you can imagine they", "start": 3737.92, "end": 3742.84}
+{"id": "AnHIv_d02z0-t3742.84", "text": "could go the other way the best example I have of this is I was talking to a general", "start": 3742.84, "end": 3748.7200000000003}
+{"id": "AnHIv_d02z0-t3748.7200000000003", "text": "from when we're doing a DoD study the Department of Defense study and when the soldiers first", "start": 3748.7200000000003, "end": 3755.1600000000003}
+{"id": "AnHIv_d02z0-t3755.16", "text": "came off the field and this has not been published but he said that what they did add", "start": 3755.16, "end": 3759.16}
+{"id": "AnHIv_d02z0-t3759.16", "text": "and totally they were and they know that they had been under a very traumatic experience", "start": 3759.16, "end": 3763.56}
+{"id": "AnHIv_d02z0-t3763.56", "text": "they gave all of them either ambient or clonipin these are sort of tranquilizer drugs and but", "start": 3763.56, "end": 3770.04}
+{"id": "AnHIv_d02z0-t3770.04", "text": "what all neuroscientists know is that sleep consolidates memories so so they looked temporarily", "start": 3770.04, "end": 3777.2}
+{"id": "AnHIv_d02z0-t3777.2", "text": "calmer they woke up and became more frightened because their memories had been consoled", "start": 3777.2, "end": 3783.52}
+{"id": "AnHIv_d02z0-t3783.52", "text": "acquired and consolidated so you can imagine that that that especially when we put our our", "start": 3783.52, "end": 3790.52}
+{"id": "AnHIv_d02z0-t3790.52", "text": "our adolescent citizens into war situations this is actually quite a dangerous situation", "start": 3790.52, "end": 3796.68}
+{"id": "AnHIv_d02z0-t3796.68", "text": "because we could actually make things much worse and my colleague also I have a colleague", "start": 3796.68, "end": 3801.52}
+{"id": "AnHIv_d02z0-t3801.52", "text": "Richard Friedman who is a psychiatrist but also writes for the New York Times and what", "start": 3801.52, "end": 3807.56}
+{"id": "AnHIv_d02z0-t3807.56", "text": "he mentioned is that he's noticed that the people and he's written about this so this", "start": 3807.56, "end": 3811.52}
+{"id": "AnHIv_d02z0-t3811.52", "text": "is in the New York Times that that there's an incredibly high use of amphetamines because", "start": 3811.52, "end": 3816.0}
+{"id": "AnHIv_d02z0-t3816.0", "text": "when you're on on in the field you have to stay awake and so then the but then this also", "start": 3816.0, "end": 3822.36}
+{"id": "AnHIv_d02z0-t3822.36", "text": "consolidates and makes you remember things much better just as anyone who's given a patient", "start": 3822.36, "end": 3828.16}
+{"id": "AnHIv_d02z0-t3828.16", "text": "ritalin this is essentially they're giving ritalin to others the soldiers and that ultimately", "start": 3828.16, "end": 3832.8}
+{"id": "AnHIv_d02z0-t3832.8", "text": "your your fearful memories also get hyper consolidated as a result of this so again we're we are", "start": 3832.8, "end": 3838.88}
+{"id": "AnHIv_d02z0-t3838.88", "text": "already doing things right now manipulating memories even potentially inadvertently even", "start": 3838.88, "end": 3844.12}
+{"id": "AnHIv_d02z0-t3844.12", "text": "though the government doesn't really think they're doing it and it was actually very", "start": 3844.12, "end": 3848.6}
+{"id": "AnHIv_d02z0-t3848.6", "text": "hard for Richard to actually extract this information from the government actually they've been using", "start": 3848.6, "end": 3853.6400000000003}
+{"id": "AnHIv_d02z0-t3853.6400000000003", "text": "amphetamines for a long time at least since World War II absolutely yeah in the military", "start": 3853.6400000000003, "end": 3859.56}
+{"id": "AnHIv_d02z0-t3859.56", "text": "yeah I mean from my perspective I don't from a drug discovery perspective I don't think", "start": 3859.56, "end": 3865.7200000000003}
+{"id": "AnHIv_d02z0-t3865.72", "text": "we're gonna be in the game but yeah we're looking to hemophilia and cystic fibrosis", "start": 3865.72, "end": 3873.24}
+{"id": "AnHIv_d02z0-t3873.24", "text": "and yeah that's kind of what we look at where does your field does it intersect at all with", "start": 3873.24, "end": 3878.12}
+{"id": "AnHIv_d02z0-t3878.12", "text": "brain interface in any way sure I mean we look at trying to design drugs for Alzheimer's", "start": 3878.12, "end": 3885.9199999999996}
+{"id": "AnHIv_d02z0-t3885.9199999999996", "text": "or Parkinson's I mean my field specifically asks a more simple question which is can we", "start": 3885.9199999999996, "end": 3893.0}
+{"id": "AnHIv_d02z0-t3893.0", "text": "full stop can we get drugs into the brain genetic drugs into the brain the underlying", "start": 3893.0, "end": 3898.92}
+{"id": "AnHIv_d02z0-t3898.92", "text": "hypothesis is that the biologists and the geneticists are going to come up with genetic", "start": 3898.92, "end": 3903.32}
+{"id": "AnHIv_d02z0-t3903.32", "text": "targets to treat disease X or disease Y or disease Z the one thing that those diseases", "start": 3903.32, "end": 3908.64}
+{"id": "AnHIv_d02z0-t3908.64", "text": "have in common is that no matter what gene you're going after you have to deliver that", "start": 3908.64, "end": 3913.12}
+{"id": "AnHIv_d02z0-t3913.12", "text": "genetic therapy so that that's where we live as we ask the simple question which is you", "start": 3913.12, "end": 3917.48}
+{"id": "AnHIv_d02z0-t3917.48", "text": "know can we use chemical engineering or nanotechnology or bioengineering to just get a", "start": 3917.48, "end": 3922.76}
+{"id": "AnHIv_d02z0-t3922.76", "text": "genetic drug into the brain period and then you know if we succeed and we say okay we're", "start": 3922.76, "end": 3928.0400000000004}
+{"id": "AnHIv_d02z0-t3928.0400000000004", "text": "gonna go after Parkinson's or if we get it to the long we're gonna go after cystic fibrosis", "start": 3928.0400000000004, "end": 3931.88}
+{"id": "AnHIv_d02z0-t3931.88", "text": "so we do interface with with neurologists and neuroscientists but only in that context", "start": 3931.88, "end": 3936.4}
+{"id": "AnHIv_d02z0-t3936.4", "text": "yeah and when you talk about getting targeted therapeutics to the brain are you talking", "start": 3936.4, "end": 3943.44}
+{"id": "AnHIv_d02z0-t3943.44", "text": "through a pill or through a transfusion or through brain surgery or all three so a pill", "start": 3943.44, "end": 3948.8}
+{"id": "AnHIv_d02z0-t3948.8", "text": "would be great but ideally yeah but but we're talking IV infusion oral delivery is incredibly", "start": 3948.8, "end": 3961.04}
+{"id": "AnHIv_d02z0-t3961.04", "text": "hard and it's kind of interesting why it's hard IV administration is already hard enough", "start": 3961.04, "end": 3970.5600000000004}
+{"id": "AnHIv_d02z0-t3970.5600000000004", "text": "because it goes to the liver right yeah well IV just it'll go through it'll pump out everywhere", "start": 3970.5600000000004, "end": 3975.0}
+{"id": "AnHIv_d02z0-t3975.0", "text": "and then the liver tends to soak things up as does the spleen and kidney but but if you", "start": 3975.0, "end": 3982.48}
+{"id": "AnHIv_d02z0-t3982.48", "text": "give something orally if you have a hamburger 20 minutes before you take that pill or you", "start": 3982.48, "end": 3988.8}
+{"id": "AnHIv_d02z0-t3988.8", "text": "don't the entire environment in your gut the receptors that are expressed the bacteria", "start": 3988.8, "end": 3994.04}
+{"id": "AnHIv_d02z0-t3994.04", "text": "that are everything changes so it's extremely hard to get something to get oral oral delivery", "start": 3994.04, "end": 4001.52}
+{"id": "AnHIv_d02z0-t4001.52", "text": "so I think you know the first genetic drugs that you'll see are likely to be either subcutaneous", "start": 4001.52, "end": 4007.28}
+{"id": "AnHIv_d02z0-t4007.28", "text": "administration or intravenous administration well so with Parkinson's other doing stem", "start": 4007.28, "end": 4012.88}
+{"id": "AnHIv_d02z0-t4012.88", "text": "cell injections actually through surgery through so so do you work with people who are thinking", "start": 4012.88, "end": 4018.52}
+{"id": "AnHIv_d02z0-t4018.52", "text": "about going that route or are you in a different kind of fall this is kind of a third rail", "start": 4018.52, "end": 4022.8}
+{"id": "AnHIv_d02z0-t4022.8", "text": "for me right now because I'm not a stem cell biologist so I don't want to sip out on too", "start": 4022.8, "end": 4028.56}
+{"id": "AnHIv_d02z0-t4028.56", "text": "much of a limb here but I do have colleagues who work on stem cell therapies I think that", "start": 4028.56, "end": 4032.6}
+{"id": "AnHIv_d02z0-t4032.6", "text": "some stem cell therapies will have the potential to be useful others others will not I can't", "start": 4032.6, "end": 4038.4}
+{"id": "AnHIv_d02z0-t4038.4", "text": "speak to Parkinson's but would you but would you think would but would there be a potential", "start": 4038.4, "end": 4043.08}
+{"id": "AnHIv_d02z0-t4043.08", "text": "drug that would that you might be able to discover that would only be able to be through", "start": 4043.08, "end": 4049.36}
+{"id": "AnHIv_d02z0-t4049.36", "text": "brain through brain surgery actually directly into the brain so this is one of the advantages", "start": 4049.36, "end": 4054.92}
+{"id": "AnHIv_d02z0-t4054.92", "text": "to the new gene editing technology so we were talking about distinguishing between like", "start": 4054.92, "end": 4059.16}
+{"id": "AnHIv_d02z0-t4059.16", "text": "sort of traditional gene therapies and new gene therapies one of the advantages to in", "start": 4059.16, "end": 4065.64}
+{"id": "AnHIv_d02z0-t4065.64", "text": "theory and again theory to these new gene therapies is that the effects are to some extent fairly", "start": 4065.64, "end": 4073.8}
+{"id": "AnHIv_d02z0-t4073.8", "text": "permanent so the analogy is that if you were to use an sirna which has a temporary effect", "start": 4073.8, "end": 4079.96}
+{"id": "AnHIv_d02z0-t4079.96", "text": "and you wanted to do something in cardiomyocytes you know like writing though or I will just", "start": 4079.96, "end": 4084.88}
+{"id": "AnHIv_d02z0-t4084.88", "text": "stick in the brain you want to do you want to do it in the brain you know if the effect", "start": 4084.88, "end": 4090.36}
+{"id": "AnHIv_d02z0-t4090.36", "text": "of the drug lasts like if you're lucky in the last three months you're not going to be able", "start": 4090.36, "end": 4093.52}
+{"id": "AnHIv_d02z0-t4093.52", "text": "to go in and perform brain surgery every three months right so that's not really an option", "start": 4093.52, "end": 4098.8}
+{"id": "AnHIv_d02z0-t4098.8", "text": "however if you have one of these new gene therapies where the effect is again in theory", "start": 4098.8, "end": 4103.4800000000005}
+{"id": "AnHIv_d02z0-t4103.4800000000005", "text": "pretty permanent then if you got the therapy to be effective enough then you could do you", "start": 4103.4800000000005, "end": 4108.4}
+{"id": "AnHIv_d02z0-t4108.4", "text": "could say okay we're going to perform a brain surgery and just spray a ton of this stuff", "start": 4108.4, "end": 4111.599999999999}
+{"id": "AnHIv_d02z0-t4111.599999999999", "text": "where we want it and we know just because we're these new gene therapies are semi-permanent", "start": 4111.599999999999, "end": 4117.36}
+{"id": "AnHIv_d02z0-t4117.36", "text": "that the effects are going to last a really long time and therefore you know we're going", "start": 4117.36, "end": 4121.2}
+{"id": "AnHIv_d02z0-t4121.2", "text": "to look at this therapy now I don't know if people are looking into that but I know that", "start": 4121.2, "end": 4126.36}
+{"id": "AnHIv_d02z0-t4126.36", "text": "my colleagues and I when we think about this say oh this is actually kind of interesting", "start": 4126.36, "end": 4130.04}
+{"id": "AnHIv_d02z0-t4130.04", "text": "because it would open up like the pancreas or local administration to the heart in ways", "start": 4130.04, "end": 4134.36}
+{"id": "AnHIv_d02z0-t4134.36", "text": "that we haven't thought about before simply because the effect in the right type of cells", "start": 4134.36, "end": 4138.24}
+{"id": "AnHIv_d02z0-t4138.24", "text": "quiescent cells long-lasting cells is actually pretty pretty so how would you how would you", "start": 4138.24, "end": 4143.32}
+{"id": "AnHIv_d02z0-t4143.32", "text": "actually do this in human research because you can't go from the bench to the bedside", "start": 4143.32, "end": 4146.5199999999995}
+{"id": "AnHIv_d02z0-t4146.5199999999995", "text": "without doing studies and how would you actually study the long-term effects what kind of", "start": 4146.5199999999995, "end": 4153.12}
+{"id": "AnHIv_d02z0-t4153.12", "text": "endpoints would you be looking for that would be reasonably acceptable risk and yeah over", "start": 4153.12, "end": 4161.24}
+{"id": "AnHIv_d02z0-t4161.24", "text": "time I mean at least you can go back if you give somebody in some kind of a therapy with", "start": 4161.24, "end": 4165.84}
+{"id": "AnHIv_d02z0-t4165.84", "text": "the kidney or the heart or diabetes you can go back into follow-up testing that's not", "start": 4165.84, "end": 4170.56}
+{"id": "AnHIv_d02z0-t4170.56", "text": "sometimes it's invasive but it may be minimally invasive whereas if you're doing gene editing", "start": 4170.56, "end": 4175.12}
+{"id": "AnHIv_d02z0-t4175.12", "text": "yeah so and again there are people both probably on this panel and even in this room they probably", "start": 4175.12, "end": 4181.76}
+{"id": "AnHIv_d02z0-t4181.76", "text": "have more of an expertise in this and I do but when I when I think about this and I try", "start": 4181.76, "end": 4187.92}
+{"id": "AnHIv_d02z0-t4187.92", "text": "to think practically in the way that I would ever consider doing something like this I'd", "start": 4187.92, "end": 4191.28}
+{"id": "AnHIv_d02z0-t4191.28", "text": "say okay well what procedures are minimally invasive and access that tissue already in", "start": 4191.28, "end": 4196.04}
+{"id": "AnHIv_d02z0-t4196.04", "text": "other words are we going in already in a bunch of patients so if you're you know putting", "start": 4196.04, "end": 4201.12}
+{"id": "AnHIv_d02z0-t4201.12", "text": "a scope in and you're like in the heart as is could you just spray some stuff in there", "start": 4201.12, "end": 4206.0}
+{"id": "AnHIv_d02z0-t4206.0", "text": "while you're taking your pictures or if you're you know doing a colonoscopy and you're already", "start": 4206.0, "end": 4210.92}
+{"id": "AnHIv_d02z0-t4210.92", "text": "you know in that area can you just spray stuff in locally and I imagine that would be a reasonable", "start": 4210.92, "end": 4216.04}
+{"id": "AnHIv_d02z0-t4216.04", "text": "starting starting point but again there there you know that's really an answer for a practicing", "start": 4216.04, "end": 4221.0}
+{"id": "AnHIv_d02z0-t4221.0", "text": "clinician because they would say no you idiot like you know that isn't going to work you", "start": 4221.0, "end": 4224.48}
+{"id": "AnHIv_d02z0-t4224.48", "text": "know it's better to you know this would be useful I'm looking to the clinician from cancer", "start": 4224.48, "end": 4227.92}
+{"id": "AnHIv_d02z0-t4227.92", "text": "perspective because you can follow up by looking at yeah I said that one so my only", "start": 4227.92, "end": 4234.88}
+{"id": "AnHIv_d02z0-t4234.88", "text": "excursion and distanced those for Parkinson's and editing them was from a cancer point of", "start": 4234.88, "end": 4241.32}
+{"id": "AnHIv_d02z0-t4241.32", "text": "view and the idea of implanting basically precursors of neurons into the brain it's a dangerous", "start": 4241.32, "end": 4249.599999999999}
+{"id": "AnHIv_d02z0-t4249.599999999999", "text": "proposition too because these cells do have plasticity in the wrong ways right they can", "start": 4249.599999999999, "end": 4255.5599999999995}
+{"id": "AnHIv_d02z0-t4255.5599999999995", "text": "in fact form tumors and so with I think a lot of these new technologies whether it's genome", "start": 4255.5599999999995, "end": 4262.599999999999}
+{"id": "AnHIv_d02z0-t4262.6", "text": "editing or stem cells you need to think of engineering a fail-safe switch what happens", "start": 4262.6, "end": 4271.84}
+{"id": "AnHIv_d02z0-t4271.84", "text": "if these cells suddenly decided now they will form a tumor and there are studies on stem", "start": 4271.84, "end": 4276.84}
+{"id": "AnHIv_d02z0-t4276.84", "text": "cells they are just more likely to cause tumors so you need to to anticipate that and you need", "start": 4276.84, "end": 4283.4800000000005}
+{"id": "AnHIv_d02z0-t4283.4800000000005", "text": "to be able to to get rid of them genetic ways of doing it and then we can do a lot of cool", "start": 4283.4800000000005, "end": 4290.280000000001}
+{"id": "AnHIv_d02z0-t4290.28", "text": "things genetically and we can eliminate them that's sort of my my an option basically an", "start": 4290.28, "end": 4298.5199999999995}
+{"id": "AnHIv_d02z0-t4298.5199999999995", "text": "ideally you'd want it in a way that you know let's say someone needs a new liver and you're", "start": 4298.5199999999995, "end": 4304.32}
+{"id": "AnHIv_d02z0-t4304.32", "text": "able to grow it in the lab right and some population of these liver cells decide to become a liver", "start": 4304.32, "end": 4311.12}
+{"id": "AnHIv_d02z0-t4311.12", "text": "cancer the patient still needs the rest of the liver so you don't want to wipe out everything", "start": 4311.12, "end": 4316.36}
+{"id": "AnHIv_d02z0-t4316.36", "text": "you want to have a way that ideally selectively destroys these tumor cells but perhaps leaves", "start": 4316.36, "end": 4322.16}
+{"id": "AnHIv_d02z0-t4322.16", "text": "the rest of the liver intact and even that you can you can do there are ways of doing", "start": 4322.16, "end": 4330.16}
+{"id": "AnHIv_d02z0-t4330.16", "text": "this you know these are suicide genes basically that kill specific cells and a specific circumstances", "start": 4330.16, "end": 4337.88}
+{"id": "AnHIv_d02z0-t4337.88", "text": "these things are all technically possible you can engineer cells before implanting them", "start": 4337.88, "end": 4344.679999999999}
+{"id": "AnHIv_d02z0-t4344.68", "text": "in a patient or an animal for a time being and have those cells perform specific functions", "start": 4344.68, "end": 4352.68}
+{"id": "AnHIv_d02z0-t4352.68", "text": "and you can install failsafe mechanisms to take them out when they misbehave in a way", "start": 4352.68, "end": 4358.88}
+{"id": "AnHIv_d02z0-t4358.88", "text": "that you didn't want them okay questions thank you for a very interesting discussion there's", "start": 4358.88, "end": 4380.96}
+{"id": "AnHIv_d02z0-t4380.96", "text": "an area that perhaps ought to receive some attention in this age of over promise how", "start": 4380.96, "end": 4390.52}
+{"id": "AnHIv_d02z0-t4390.52", "text": "do we pay for the research when Galileo made his observations it didn't cost a billion", "start": 4390.52, "end": 4398.4}
+{"id": "AnHIv_d02z0-t4398.4", "text": "dollars the way it did to show the two black holes went were in collision so the cost of", "start": 4398.4, "end": 4406.32}
+{"id": "AnHIv_d02z0-t4406.32", "text": "this kind of research has mounted exponentially what about the cost for biomedical research", "start": 4406.32, "end": 4415.48}
+{"id": "AnHIv_d02z0-t4415.48", "text": "right now I have friends who when they hear the word socialism they faint but when I suggest", "start": 4415.48, "end": 4422.12}
+{"id": "AnHIv_d02z0-t4422.12", "text": "that the NIH is funding research they don't see that that's a form of socialism where", "start": 4422.12, "end": 4430.639999999999}
+{"id": "AnHIv_d02z0-t4430.64", "text": "should the funding come from are we funding adequately do we need to fund it more and", "start": 4430.64, "end": 4436.4800000000005}
+{"id": "AnHIv_d02z0-t4436.4800000000005", "text": "are we over promising well of course research is expensive new therapies are expensive too", "start": 4436.4800000000005, "end": 4448.360000000001}
+{"id": "AnHIv_d02z0-t4448.360000000001", "text": "I think still in the context of the budget of the country it's nothing it's a drop in", "start": 4448.360000000001, "end": 4456.12}
+{"id": "AnHIv_d02z0-t4456.12", "text": "the buckets compared to military spending compared to this successful operation in Iraq", "start": 4456.12, "end": 4462.16}
+{"id": "AnHIv_d02z0-t4462.16", "text": "a few years ago the money that is spent on cancer or psychological research is basically", "start": 4462.16, "end": 4468.92}
+{"id": "AnHIv_d02z0-t4468.92", "text": "nothing in comparison and I think it's ultimately more useful even if 99% of it will never lead", "start": 4468.92, "end": 4479.84}
+{"id": "AnHIv_d02z0-t4479.84", "text": "to clinical application a few things that actually do work immensely valuable so if", "start": 4479.84, "end": 4487.4800000000005}
+{"id": "AnHIv_d02z0-t4487.4800000000005", "text": "you are a government and you want to spend your money wisely it's probably one way to", "start": 4487.4800000000005, "end": 4492.6}
+{"id": "AnHIv_d02z0-t4492.6", "text": "go the related question I mentioned that the new therapies are also expensive so if you", "start": 4492.6, "end": 4498.84}
+{"id": "AnHIv_d02z0-t4498.84", "text": "think about the controversy about drug expenses and so on so there's a company that makes", "start": 4498.84, "end": 4504.360000000001}
+{"id": "AnHIv_d02z0-t4504.36", "text": "a new drug against hepatitis C it's a pill it's a pill right you take it for a certain", "start": 4504.36, "end": 4510.92}
+{"id": "AnHIv_d02z0-t4510.92", "text": "number of months and they want a hundred thousand dollars for it prevent just the new other", "start": 4510.92, "end": 4515.04}
+{"id": "AnHIv_d02z0-t4515.04", "text": "other drug for cancer for a second cancer thirty thousand dollars three times and you'd", "start": 4515.04, "end": 4520.24}
+{"id": "AnHIv_d02z0-t4520.24", "text": "say that's insane how's it possible and it's expensive on the other hand up to now the same", "start": 4520.24, "end": 4527.28}
+{"id": "AnHIv_d02z0-t4527.28", "text": "patient would need a liver transplant it's gone across 200 300 400 thousand dollars even", "start": 4527.28, "end": 4534.28}
+{"id": "AnHIv_d02z0-t4534.28", "text": "even in those extreme cases where a company is really trying to make a lot of profit on", "start": 4534.28, "end": 4540.28}
+{"id": "AnHIv_d02z0-t4540.28", "text": "what is not even their own research partially maybe even there I think you still have a", "start": 4540.28, "end": 4547.4}
+{"id": "AnHIv_d02z0-t4547.4", "text": "benefits so Galileo and others were funded by the Catholic Church", "start": 4547.4, "end": 4552.759999999999}
+{"id": "AnHIv_d02z0-t4552.76", "text": "a fairly wealthy and they were patrons of they were patrons of very wealthy people in", "start": 4552.76, "end": 4559.76}
+{"id": "AnHIv_d02z0-t4560.04", "text": "this culture so as an educator and an enthusiastic skeptic I absolutely agree we make prior we", "start": 4560.04, "end": 4565.76}
+{"id": "AnHIv_d02z0-t4565.76", "text": "make bad prior decision making in this country we have our priorities are wrong this is my", "start": 4565.76, "end": 4569.96}
+{"id": "AnHIv_d02z0-t4569.96", "text": "own personal view and I come from being trained and wanting to be an educator my whole life", "start": 4569.96, "end": 4575.68}
+{"id": "AnHIv_d02z0-t4575.68", "text": "and I think our priorities are wrong until recently the National Institutes of Health was", "start": 4575.68, "end": 4580.6}
+{"id": "AnHIv_d02z0-t4580.6", "text": "the largest funder of research that is in happens surpassed by private sector and mainly", "start": 4580.6, "end": 4585.84}
+{"id": "AnHIv_d02z0-t4585.84", "text": "by venture capital firms which many people here are familiar with which sometimes the", "start": 4585.84, "end": 4590.68}
+{"id": "AnHIv_d02z0-t4590.68", "text": "term venture capital sounds to those who are socialistic inclined bad but I think it's", "start": 4590.68, "end": 4597.68}
+{"id": "AnHIv_d02z0-t4598.68", "text": "a good thing that there's a mix but there's a huge problem now with conflicts of interest", "start": 4598.68, "end": 4602.160000000001}
+{"id": "AnHIv_d02z0-t4602.160000000001", "text": "in science and so that's another whole ethical dimension about where the money is coming", "start": 4602.160000000001, "end": 4607.120000000001}
+{"id": "AnHIv_d02z0-t4607.12", "text": "from and if you know all the movies that you watch you just follow the money there are", "start": 4607.12, "end": 4611.0}
+{"id": "AnHIv_d02z0-t4611.0", "text": "lots of complex issues many people argue for public private partnerships with and I come", "start": 4611.0, "end": 4616.08}
+{"id": "AnHIv_d02z0-t4616.08", "text": "from a political science background so I'm the person who always says in the sunshine", "start": 4616.08, "end": 4620.32}
+{"id": "AnHIv_d02z0-t4620.32", "text": "in the sunshine in the sunshine transparency accountability good governance with public", "start": 4620.32, "end": 4625.32}
+{"id": "AnHIv_d02z0-t4625.32", "text": "participation that's my fantasy as a non scientist where I would like to get yeah and just", "start": 4625.32, "end": 4632.32}
+{"id": "AnHIv_d02z0-t4632.32", "text": "in your early point I'd like just to sort of reemphasize things here which is that first", "start": 4632.32, "end": 4638.88}
+{"id": "AnHIv_d02z0-t4638.88", "text": "it may seem like the NIH budget is very large but it is not and I can say for a fact that", "start": 4638.88, "end": 4645.88}
+{"id": "AnHIv_d02z0-t4647.84", "text": "many of the colleagues that have grown up in sort of my scientific generation who would", "start": 4647.84, "end": 4654.84}
+{"id": "AnHIv_d02z0-t4654.84", "text": "make incredible professors incredible researchers I'd say I won't put in a exact number many", "start": 4654.84, "end": 4661.84}
+{"id": "AnHIv_d02z0-t4662.52", "text": "of them more than 50 percent well more than 50 percent do not go into academic science", "start": 4662.52, "end": 4669.52}
+{"id": "AnHIv_d02z0-t4669.8", "text": "because there is no research money and that is the exact reason why I know that when I", "start": 4669.8, "end": 4676.8}
+{"id": "AnHIv_d02z0-t4677.04", "text": "was considering taking a faculty job there were other jobs that were on the table as", "start": 4677.04, "end": 4680.92}
+{"id": "AnHIv_d02z0-t4680.92", "text": "well and I've always wanted to be a professor I think teaching students is incredible I'm", "start": 4680.92, "end": 4686.8}
+{"id": "AnHIv_d02z0-t4686.8", "text": "proud of the students I've taught so far it's the greatest joy in my life and yet I almost", "start": 4686.8, "end": 4692.8}
+{"id": "AnHIv_d02z0-t4692.8", "text": "took a different type of position because the grants are so hard to get that is the reason", "start": 4692.8, "end": 4698.68}
+{"id": "AnHIv_d02z0-t4698.68", "text": "why I almost didn't go in and it's the reason why everybody in my generation if they do", "start": 4698.68, "end": 4702.68}
+{"id": "AnHIv_d02z0-t4702.68", "text": "not go in that's the reason why they don't go in the other thing I think is a really", "start": 4702.68, "end": 4708.6}
+{"id": "AnHIv_d02z0-t4708.6", "text": "important point to understand is that it's really hard I would say it is impossible to", "start": 4708.6, "end": 4715.6}
+{"id": "AnHIv_d02z0-t4715.6", "text": "predict what is going to be useful down the line so today we've discussed a lot about", "start": 4715.6, "end": 4721.08}
+{"id": "AnHIv_d02z0-t4721.08", "text": "this new technology called these gene editing technologies and right now the most easy to", "start": 4721.08, "end": 4725.6}
+{"id": "AnHIv_d02z0-t4725.6", "text": "use gene editing technologies called CRISPR-Cas9 and right now I mean everybody knows about", "start": 4725.6, "end": 4730.76}
+{"id": "AnHIv_d02z0-t4730.76", "text": "CRISPR-Cas9 in the biological field it's considered arguably the biggest biotechnology", "start": 4730.76, "end": 4735.0}
+{"id": "AnHIv_d02z0-t4735.0", "text": "discovery in 40 years totally changing the world and that was originally discovered by", "start": 4735.0, "end": 4740.48}
+{"id": "AnHIv_d02z0-t4740.48", "text": "a bunch of bacteriologists sequencing some random repeats in an unknown bacteria and", "start": 4740.48, "end": 4747.28}
+{"id": "AnHIv_d02z0-t4747.28", "text": "saying oh that's weird these things look the same now if you put that grant in that 1980s", "start": 4747.28, "end": 4752.44}
+{"id": "AnHIv_d02z0-t4752.44", "text": "grant into the NIH system right now that doesn't get funded and 30 years down the line we don't", "start": 4752.44, "end": 4757.56}
+{"id": "AnHIv_d02z0-t4757.56", "text": "have CRISPR-Cas9 and that's the huge risk that we're facing right now is that there's", "start": 4757.56, "end": 4763.08}
+{"id": "AnHIv_d02z0-t4763.08", "text": "all these incredible transformational potentially transformational technologies 30 years 40 years", "start": 4763.08, "end": 4767.12}
+{"id": "AnHIv_d02z0-t4767.12", "text": "down the line that we're not stumbling onto because that's how science works so I think", "start": 4767.12, "end": 4772.84}
+{"id": "AnHIv_d02z0-t4772.84", "text": "it's really important to support increase in NIH funding you guys can believe me or not", "start": 4772.84, "end": 4777.32}
+{"id": "AnHIv_d02z0-t4777.32", "text": "obviously I'm sort of biased in that because this is important to me but I think there's", "start": 4777.32, "end": 4782.72}
+{"id": "AnHIv_d02z0-t4782.72", "text": "ample evidence to support the fact that that these discoveries are hard to make and there", "start": 4782.72, "end": 4787.08}
+{"id": "AnHIv_d02z0-t4787.08", "text": "are many people who want to do a great job who just are leaving the field right now because", "start": 4787.08, "end": 4791.48}
+{"id": "AnHIv_d02z0-t4791.48", "text": "there's no money but it's not just NIH funding because let's state so NIH is federal funding", "start": 4791.48, "end": 4795.759999999999}
+{"id": "AnHIv_d02z0-t4795.759999999999", "text": "so yes our federal dollars paper research but state funding for research and education", "start": 4795.759999999999, "end": 4799.28}
+{"id": "AnHIv_d02z0-t4799.28", "text": "has been decimated in my lifetime I started as an academic teaching in 1989 or no age 1985", "start": 4799.28, "end": 4806.16}
+{"id": "AnHIv_d02z0-t4806.16", "text": "and it was being decimated in its continued science programs that were at public schools", "start": 4806.16, "end": 4810.919999999999}
+{"id": "AnHIv_d02z0-t4810.919999999999", "text": "you're at a private school but Georgia Georgia Tech gets public funding I've been cut dramatically", "start": 4810.919999999999, "end": 4816.44}
+{"id": "AnHIv_d02z0-t4816.44", "text": "I wanted to ask a question I studied computer science and not biotechnology so when I look", "start": 4816.44, "end": 4826.08}
+{"id": "AnHIv_d02z0-t4826.08", "text": "at something like you know the RNA you know delivery of you know whether it's transmission", "start": 4826.08, "end": 4833.32}
+{"id": "AnHIv_d02z0-t4833.32", "text": "or messaging I think in sort of a computer model where you know we might send something", "start": 4833.32, "end": 4838.48}
+{"id": "AnHIv_d02z0-t4838.48", "text": "with an assist and rather than waiting for it to eventually succeed or break down we immediately", "start": 4838.48, "end": 4844.919999999999}
+{"id": "AnHIv_d02z0-t4844.92", "text": "see an acknowledgement like we would see you know like an AC or an ACK it would say right", "start": 4844.92, "end": 4850.6}
+{"id": "AnHIv_d02z0-t4850.6", "text": "away send back this message and you say yes it succeeded it's failed and I've never heard", "start": 4850.6, "end": 4856.36}
+{"id": "AnHIv_d02z0-t4856.36", "text": "of anything like that within sort of the study of medicine where you know I think in terms", "start": 4856.36, "end": 4863.4}
+{"id": "AnHIv_d02z0-t4863.4", "text": "of you know is there it's more like eventually you see a cancer marker or you see a disorder", "start": 4863.4, "end": 4870.4400000000005}
+{"id": "AnHIv_d02z0-t4870.44", "text": "in the blood or this thing happens and it's measured maybe through a blood test but I wondered", "start": 4870.44, "end": 4876.24}
+{"id": "AnHIv_d02z0-t4876.24", "text": "I don't know enough about it to know is there something that you can immediately see that", "start": 4876.24, "end": 4880.28}
+{"id": "AnHIv_d02z0-t4880.28", "text": "is this sort of feedback within the system loop.", "start": 4880.28, "end": 4887.0}
+{"id": "AnHIv_d02z0-t4887.0", "text": "So it's you know it's a difficult question to say yes or no to I will point you to a", "start": 4887.0, "end": 4892.36}
+{"id": "AnHIv_d02z0-t4892.36", "text": "field you may like reading about just for fun it's called synthetic biology it's a new", "start": 4892.36, "end": 4897.2}
+{"id": "AnHIv_d02z0-t4897.2", "text": "field very experimental right now but actually that sits right at the interface of basically", "start": 4897.2, "end": 4902.08}
+{"id": "AnHIv_d02z0-t4902.08", "text": "computer scientists like yourself and bioengineers and there are many universities now that actually", "start": 4902.08, "end": 4908.679999999999}
+{"id": "AnHIv_d02z0-t4908.679999999999", "text": "have faculty members whose research are sort of dedicated to living right at that interface", "start": 4908.679999999999, "end": 4914.599999999999}
+{"id": "AnHIv_d02z0-t4914.599999999999", "text": "and it's really funny you'll see a biological paper published and they'll put in diagrams", "start": 4914.599999999999, "end": 4919.72}
+{"id": "AnHIv_d02z0-t4919.72", "text": "that have resistors and transistors and the equivalent of that stuff in the circuitry of", "start": 4919.72, "end": 4924.679999999999}
+{"id": "AnHIv_d02z0-t4924.68", "text": "the cell and so you know I don't know the field one enough to say yes or no that hazard", "start": 4924.68, "end": 4930.280000000001}
+{"id": "AnHIv_d02z0-t4930.280000000001", "text": "hasn't happened yet but it may have and if so I would say synthetic biology is a likely", "start": 4930.280000000001, "end": 4934.84}
+{"id": "AnHIv_d02z0-t4934.84", "text": "place to find that.", "start": 4934.84, "end": 4938.08}
+{"id": "AnHIv_d02z0-t4938.08", "text": "I think you sort of asked about immediate readouts of whether you know your message arrives and", "start": 4938.08, "end": 4944.280000000001}
+{"id": "AnHIv_d02z0-t4944.280000000001", "text": "whether you get an effect.", "start": 4944.280000000001, "end": 4946.320000000001}
+{"id": "AnHIv_d02z0-t4946.320000000001", "text": "Sorry and I think so in drug studies certainly that's something that you need to be able", "start": 4946.320000000001, "end": 4953.360000000001}
+{"id": "AnHIv_d02z0-t4953.36", "text": "to measure immediately you give a new drug and you want to be able to know the drug hit", "start": 4953.36, "end": 4957.719999999999}
+{"id": "AnHIv_d02z0-t4957.719999999999", "text": "the target and how effectively and for how long it suppresses that so that's certainly", "start": 4957.719999999999, "end": 4963.36}
+{"id": "AnHIv_d02z0-t4963.36", "text": "part of any medical any drug study that you want.", "start": 4963.36, "end": 4967.5599999999995}
+{"id": "AnHIv_d02z0-t4967.5599999999995", "text": "You have a call it a biomarker just something that says it got there and it did what it's", "start": 4967.5599999999995, "end": 4973.08}
+{"id": "AnHIv_d02z0-t4973.08", "text": "supposed to do.", "start": 4973.08, "end": 4975.08}
+{"id": "AnHIv_d02z0-t4975.08", "text": "I have a question about the field of optogenetics and channel redoxins and also the delivery", "start": 4975.08, "end": 4983.16}
+{"id": "AnHIv_d02z0-t4983.16", "text": "how did they get it into the specific parts of the brain I've read a lot about it and", "start": 4983.16, "end": 4987.639999999999}
+{"id": "AnHIv_d02z0-t4987.639999999999", "text": "confused about that part and also the ethical implications of turning on and off neurons", "start": 4987.639999999999, "end": 4993.08}
+{"id": "AnHIv_d02z0-t4993.08", "text": "in particular parts of the brain using channel redoxins.", "start": 4993.08, "end": 4996.8}
+{"id": "AnHIv_d02z0-t4996.8", "text": "Well I'll quickly address the delivery part and I'll let the experts handle the media", "start": 4996.8, "end": 5002.76}
+{"id": "AnHIv_d02z0-t5002.76", "text": "part of the question.", "start": 5002.76, "end": 5004.44}
+{"id": "AnHIv_d02z0-t5004.44", "text": "Luckily the answer is pretty simple as far as understand it.", "start": 5004.44, "end": 5006.92}
+{"id": "AnHIv_d02z0-t5006.92", "text": "No black magic here they basically say okay we're going to take a virus that encodes the", "start": 5006.92, "end": 5011.92}
+{"id": "AnHIv_d02z0-t5011.92", "text": "optogenetic whatever channel redoxins you would like and they spray it in where they want", "start": 5011.92, "end": 5015.6}
+{"id": "AnHIv_d02z0-t5015.6", "text": "to spray it in.", "start": 5015.6, "end": 5016.6}
+{"id": "AnHIv_d02z0-t5016.6", "text": "They might use a cell type specific promoter to make sure it's only expressed in neurons", "start": 5016.6, "end": 5020.12}
+{"id": "AnHIv_d02z0-t5020.12", "text": "as opposed to glia but yeah they basically just and then you know you're good.", "start": 5020.12, "end": 5026.4400000000005}
+{"id": "AnHIv_d02z0-t5026.4400000000005", "text": "But I think interesting enough mainly because there's a technical glitch almost all optogenetics", "start": 5026.4400000000005, "end": 5032.52}
+{"id": "AnHIv_d02z0-t5032.52", "text": "now is in rats and mice because all the promoters have been done.", "start": 5032.52, "end": 5036.76}
+{"id": "AnHIv_d02z0-t5036.76", "text": "There seems to be a technical glitch of getting to primates so that there is not that much", "start": 5036.76, "end": 5040.68}
+{"id": "AnHIv_d02z0-t5040.68", "text": "of the ultimate use of optogenetics in humans is probably not going to be the reason why", "start": 5040.68, "end": 5046.4400000000005}
+{"id": "AnHIv_d02z0-t5046.4400000000005", "text": "optogenetics is so powerful up until now is because we had these very powerful promoter", "start": 5046.4400000000005, "end": 5051.4400000000005}
+{"id": "AnHIv_d02z0-t5051.4400000000005", "text": "specific expressions so you could go right to one type of dopamine neuron for example", "start": 5051.4400000000005, "end": 5056.360000000001}
+{"id": "AnHIv_d02z0-t5056.360000000001", "text": "and turn it on and in the monkey you cannot do it.", "start": 5056.360000000001, "end": 5059.320000000001}
+{"id": "AnHIv_d02z0-t5059.320000000001", "text": "So all the experiments so far in monkey and you can tell scientists are not stupid so", "start": 5059.320000000001, "end": 5067.0}
+{"id": "AnHIv_d02z0-t5067.0", "text": "if you see how many people are going towards trying to translate this to human optogenetics", "start": 5067.0, "end": 5072.52}
+{"id": "AnHIv_d02z0-t5072.52", "text": "it seems to be very low it seems to be something that not is not something because you have", "start": 5072.52, "end": 5076.88}
+{"id": "AnHIv_d02z0-t5076.88", "text": "to actually put a fiber optic cable it's very complicated.", "start": 5076.88, "end": 5081.12}
+{"id": "AnHIv_d02z0-t5081.12", "text": "I think in the future there is another type of technology which is still in its sort of", "start": 5081.12, "end": 5087.52}
+{"id": "AnHIv_d02z0-t5087.52", "text": "in essence is now being developed at many places but in particular at Rockefeller University", "start": 5087.52, "end": 5092.0}
+{"id": "AnHIv_d02z0-t5092.0", "text": "where instead of putting a virus that gets turned on by light but will get turned on", "start": 5092.0, "end": 5096.36}
+{"id": "AnHIv_d02z0-t5096.36", "text": "by a magnetic beam so that is something that is possible in terms of developing better", "start": 5096.36, "end": 5103.599999999999}
+{"id": "AnHIv_d02z0-t5103.599999999999", "text": "and stronger ways of turning on magnetic fields within a darkened chamber like the brain and", "start": 5103.599999999999, "end": 5109.2}
+{"id": "AnHIv_d02z0-t5109.2", "text": "I think that's an area.", "start": 5109.2, "end": 5110.679999999999}
+{"id": "AnHIv_d02z0-t5110.679999999999", "text": "What they have definitely been able to do is turn on a magnetic beam on the pancreas and", "start": 5110.679999999999, "end": 5116.24}
+{"id": "AnHIv_d02z0-t5116.24", "text": "get it to secrete insulin so that they can definitely do something like that so I think", "start": 5116.24, "end": 5120.759999999999}
+{"id": "AnHIv_d02z0-t5120.759999999999", "text": "that will probably be something that will people would much rather have a magnet put", "start": 5120.759999999999, "end": 5125.24}
+{"id": "AnHIv_d02z0-t5125.24", "text": "on your abdomen than a fiber optic cable so I think that will probably be the 10, 5, 10", "start": 5125.24, "end": 5132.48}
+{"id": "AnHIv_d02z0-t5132.48", "text": "years from now.", "start": 5132.48, "end": 5133.48}
+{"id": "AnHIv_d02z0-t5133.48", "text": "But the ethical concerns of optogenetics for primate human and non-human are probably", "start": 5133.48, "end": 5140.0}
+{"id": "AnHIv_d02z0-t5140.0", "text": "not that critical because the technical difficulties are a little bit too great right now and", "start": 5140.0, "end": 5145.44}
+{"id": "AnHIv_d02z0-t5145.44", "text": "you can't get funding for it.", "start": 5145.44, "end": 5147.5599999999995}
+{"id": "AnHIv_d02z0-t5147.5599999999995", "text": "Well there are some questions that have come up about controlling the brain though in some", "start": 5147.5599999999995, "end": 5151.36}
+{"id": "AnHIv_d02z0-t5151.36", "text": "other technologies so deep brain stimulation and neuro enhancement not drug neuro enhancement", "start": 5151.36, "end": 5157.679999999999}
+{"id": "AnHIv_d02z0-t5157.679999999999", "text": "but mechanisms the electronic.", "start": 5157.679999999999, "end": 5160.5199999999995}
+{"id": "AnHIv_d02z0-t5160.5199999999995", "text": "There's two issues, well there's more than two issues but free will is one but another", "start": 5160.5199999999995, "end": 5167.04}
+{"id": "AnHIv_d02z0-t5167.04", "text": "one is what if I like what happens to me when I have deep brain stimulation or I'm using", "start": 5167.04, "end": 5175.2}
+{"id": "AnHIv_d02z0-t5175.2", "text": "a neuro enhancer and I can figure out how to do it and jigger with it on my own and", "start": 5175.2, "end": 5179.759999999999}
+{"id": "AnHIv_d02z0-t5179.76", "text": "the clinician does not want to go there for a variety of reasons and there have been some", "start": 5179.76, "end": 5184.08}
+{"id": "AnHIv_d02z0-t5184.08", "text": "discussions in the ethical field about the rights of the patient to be able to say either", "start": 5184.08, "end": 5188.68}
+{"id": "AnHIv_d02z0-t5188.68", "text": "stop this which we in medical ethics we basically acknowledge the patients right to say I don't", "start": 5188.68, "end": 5194.24}
+{"id": "AnHIv_d02z0-t5194.24", "text": "want chemotherapy, I don't want the heart surgery, whatever, I don't want a brain interface.", "start": 5194.24, "end": 5199.400000000001}
+{"id": "AnHIv_d02z0-t5199.400000000001", "text": "But the other flip side is I really like this, I like being manic and there's some literature", "start": 5199.400000000001, "end": 5204.08}
+{"id": "AnHIv_d02z0-t5204.08", "text": "on this now and I like what this has done to me and I don't want to come down from whatever", "start": 5204.08, "end": 5208.8}
+{"id": "AnHIv_d02z0-t5208.8", "text": "the particular brain not drugs we're talking about are the kinds of interventions although", "start": 5208.8, "end": 5213.76}
+{"id": "AnHIv_d02z0-t5213.76", "text": "we could be talking about drugs but this is in the non drug field so it does raise some", "start": 5213.76, "end": 5217.6}
+{"id": "AnHIv_d02z0-t5217.6", "text": "interesting questions about individual control and then if people have control over what's", "start": 5217.6, "end": 5223.84}
+{"id": "AnHIv_d02z0-t5223.84", "text": "happening in terms of computers and chips and then the data that comes from that information", "start": 5223.84, "end": 5230.04}
+{"id": "AnHIv_d02z0-t5230.04", "text": "and who has access to that data is another whole realm.", "start": 5230.04, "end": 5233.4800000000005}
+{"id": "AnHIv_d02z0-t5233.48", "text": "I think the only comment I have is analgesia right so there were and maybe there's still", "start": 5233.48, "end": 5241.04}
+{"id": "AnHIv_d02z0-t5241.04", "text": "their pain control where patients can control their own medication and basically give themselves", "start": 5241.04, "end": 5246.879999999999}
+{"id": "AnHIv_d02z0-t5246.879999999999", "text": "opiates right and I think the conclusion of that research was that they actually administer", "start": 5246.879999999999, "end": 5252.719999999999}
+{"id": "AnHIv_d02z0-t5252.719999999999", "text": "less than if it is given by the doctors and the nurses who have been self-controllable", "start": 5252.719999999999, "end": 5257.5199999999995}
+{"id": "AnHIv_d02z0-t5257.52", "text": "actually do less than for better or worse it's actually a surprising.", "start": 5257.52, "end": 5264.52}
+{"id": "AnHIv_d02z0-t5264.52", "text": "And you will know when you mention that we knew all there was to know about Huntington", "start": 5264.52, "end": 5285.040000000001}
+{"id": "AnHIv_d02z0-t5285.040000000001", "text": "you know identifying it but we didn't know how to control or to take interventions this", "start": 5285.040000000001, "end": 5291.360000000001}
+{"id": "AnHIv_d02z0-t5291.36", "text": "is very disturbing to me not what you said but that it's like it's closing it's as though", "start": 5291.36, "end": 5299.759999999999}
+{"id": "AnHIv_d02z0-t5299.759999999999", "text": "it's closing so much because I think that I just heard of something and it was about", "start": 5299.759999999999, "end": 5305.28}
+{"id": "AnHIv_d02z0-t5305.28", "text": "post-traumatic syndrome and that other people have it you know we begin to realize under", "start": 5305.28, "end": 5310.44}
+{"id": "AnHIv_d02z0-t5310.44", "text": "other circumstances and it had a lot to do with mindfulness now and this was people", "start": 5310.44, "end": 5315.2}
+{"id": "AnHIv_d02z0-t5315.2", "text": "who were rather responsible saying that you know just controlling your mind and that gets", "start": 5315.2, "end": 5320.36}
+{"id": "AnHIv_d02z0-t5320.36", "text": "into the psychoanalysis of it but it seems that how do you get support when you have", "start": 5320.36, "end": 5326.48}
+{"id": "AnHIv_d02z0-t5326.48", "text": "some idea that's way out there that I have one more question and it was do you divide", "start": 5326.48, "end": 5333.16}
+{"id": "AnHIv_d02z0-t5333.16", "text": "your field into dimensions you know this is this is what is happening in the cell this", "start": 5333.16, "end": 5340.16}
+{"id": "AnHIv_d02z0-t5340.16", "text": "is what we can do to control that thing that's happening in the cell I mean are there all", "start": 5340.16, "end": 5346.599999999999}
+{"id": "AnHIv_d02z0-t5346.6", "text": "these steps that you you know do you go into this and different this I should know this", "start": 5346.6, "end": 5351.04}
+{"id": "AnHIv_d02z0-t5351.04", "text": "but do you go into different disciplines or aspects of your discipline so I there were", "start": 5351.04, "end": 5357.360000000001}
+{"id": "AnHIv_d02z0-t5357.360000000001", "text": "kind of three questions well it's a great set of questions so to your first question", "start": 5357.360000000001, "end": 5363.4800000000005}
+{"id": "AnHIv_d02z0-t5363.4800000000005", "text": "about about Huntington's so I remain optimistic that we will be able to deliver to Huntington's", "start": 5363.4800000000005, "end": 5373.360000000001}
+{"id": "AnHIv_d02z0-t5373.36", "text": "and my lab works on new delivery technologies and there are many great labs across the", "start": 5373.36, "end": 5377.44}
+{"id": "AnHIv_d02z0-t5377.44", "text": "U.S. and also work on on the delivery technologies I think historically science most of the time", "start": 5377.44, "end": 5384.0}
+{"id": "AnHIv_d02z0-t5384.0", "text": "fails but a friend of mine says that you know all your failure all your failures don't", "start": 5384.0, "end": 5389.5599999999995}
+{"id": "AnHIv_d02z0-t5389.5599999999995", "text": "don't matter it's really your the few wins that you get that actually make a difference", "start": 5389.5599999999995, "end": 5393.4}
+{"id": "AnHIv_d02z0-t5393.4", "text": "and I agree with that so I wouldn't be dissuaded or feel pessimistic yeah", "start": 5393.4, "end": 5398.16}
+{"id": "AnHIv_d02z0-t5398.16", "text": "oh well you who's who's doing more basic oh by the way you're absolutely correct we don't", "start": 5398.16, "end": 5412.2}
+{"id": "AnHIv_d02z0-t5412.2", "text": "know what the protein Huntington actually does yep we really still don't understand", "start": 5412.2, "end": 5416.8}
+{"id": "AnHIv_d02z0-t5416.8", "text": "that yeah so and I should have been more clear earlier what I meant is from a therapeutic", "start": 5416.8, "end": 5420.639999999999}
+{"id": "AnHIv_d02z0-t5420.639999999999", "text": "perspective we know the sequence to go after and that is an important distinction I didn't", "start": 5420.639999999999, "end": 5425.44}
+{"id": "AnHIv_d02z0-t5425.44", "text": "make that clearly so that's my fault to your second question I'll I'll intro that quickly", "start": 5425.44, "end": 5430.96}
+{"id": "AnHIv_d02z0-t5430.96", "text": "in my lab we do think about things in different layers and we purposefully try to position", "start": 5430.96, "end": 5436.5599999999995}
+{"id": "AnHIv_d02z0-t5436.5599999999995", "text": "ourselves at interfaces of new technology or different fields and that's how we try to", "start": 5436.5599999999995, "end": 5440.639999999999}
+{"id": "AnHIv_d02z0-t5440.639999999999", "text": "thrive so we try to use genomics and genetics and really big data sets to make our chemical", "start": 5440.639999999999, "end": 5448.599999999999}
+{"id": "AnHIv_d02z0-t5448.599999999999", "text": "engineering systems better that's how we try to distinguish ourselves so I know that", "start": 5448.599999999999, "end": 5452.919999999999}
+{"id": "AnHIv_d02z0-t5452.92", "text": "are in our lab we do purposefully subdivide things and then right look right where that", "start": 5452.92, "end": 5459.56}
+{"id": "AnHIv_d02z0-t5459.56", "text": "interface is.", "start": 5459.56, "end": 5462.0}
+{"id": "AnHIv_d02z0-t5462.0", "text": "Thank you very much for very professional conversation and I have a lot of questions", "start": 5462.0, "end": 5474.96}
+{"id": "AnHIv_d02z0-t5474.96", "text": "but I would like to ask about simple techniques not like generating interventions for example", "start": 5474.96, "end": 5485.52}
+{"id": "AnHIv_d02z0-t5485.52", "text": "couple of years ago I on routine tests I it was I got really bad results on very routine", "start": 5485.52, "end": 5496.12}
+{"id": "AnHIv_d02z0-t5496.12", "text": "tests and I of course I straight was sent to more invasive tests and I was scared to", "start": 5496.12, "end": 5505.36}
+{"id": "AnHIv_d02z0-t5505.36", "text": "that that I should do this instead of this I start to read and that I a lot of information", "start": 5505.36, "end": 5512.04}
+{"id": "AnHIv_d02z0-t5512.04", "text": "right now a lot of research that could some got some way but then lost finding and in", "start": 5512.04, "end": 5522.08}
+{"id": "AnHIv_d02z0-t5522.08", "text": "my case it was actually I should just change diet I just stop stop drink what I liked I", "start": 5522.08, "end": 5533.46}
+{"id": "AnHIv_d02z0-t5533.46", "text": "liked very much so milk that was it in couple of months my test was okay everybody but everybody", "start": 5533.46, "end": 5543.24}
+{"id": "AnHIv_d02z0-t5543.24", "text": "you're amazed it was it was not possible from their point of view so why we cannot yes maybe", "start": 5543.24, "end": 5553.599999999999}
+{"id": "AnHIv_d02z0-t5553.599999999999", "text": "really test more people and give them these some kind of connection that probably some", "start": 5553.599999999999, "end": 5561.04}
+{"id": "AnHIv_d02z0-t5561.04", "text": "something in your environment in your diet could cause it why don't don't try it for", "start": 5561.04, "end": 5568.24}
+{"id": "AnHIv_d02z0-t5568.24", "text": "example there are some research that psychological problems could be caused by our gut flow", "start": 5568.24, "end": 5580.16}
+{"id": "AnHIv_d02z0-t5580.16", "text": "micro flow and just prebiotics could change our brain functions or there are some research", "start": 5580.16, "end": 5591.76}
+{"id": "AnHIv_d02z0-t5591.76", "text": "that fish oil could really improve a lot of brain functions why we don't make these simple", "start": 5591.76, "end": 5603.72}
+{"id": "AnHIv_d02z0-t5603.72", "text": "connections without go to invasive tests and very expensive treatments because there are", "start": 5603.72, "end": 5611.72}
+{"id": "AnHIv_d02z0-t5611.72", "text": "a lot of great doctors out there who probably make a lot of those connections and can probably", "start": 5611.72, "end": 5616.52}
+{"id": "AnHIv_d02z0-t5616.52", "text": "help you I'm glad that you got better by changing the diet I think there first of all you I", "start": 5616.52, "end": 5623.56}
+{"id": "AnHIv_d02z0-t5623.56", "text": "can leave you there's smarter doctors but then also at Cornell I just realized this also we", "start": 5623.56, "end": 5628.56}
+{"id": "AnHIv_d02z0-t5628.56", "text": "hired we have a new microbiome project and I didn't realize that our entire gut floor", "start": 5628.56, "end": 5635.080000000001}
+{"id": "AnHIv_d02z0-t5635.080000000001", "text": "all our bacteria weighs more than our brain the mouth it's like five or six pounds of", "start": 5635.080000000001, "end": 5641.080000000001}
+{"id": "AnHIv_d02z0-t5641.08", "text": "bacteria inside our body so it's not so simple it's not one bacteria and it's the genome of", "start": 5641.08, "end": 5648.12}
+{"id": "AnHIv_d02z0-t5648.12", "text": "the bacteria is 30 to 40 times more complex than the genome we have ourselves so that", "start": 5648.12, "end": 5653.88}
+{"id": "AnHIv_d02z0-t5653.88", "text": "you can imagine it's it looks like on the surface like it's simple it's actually much", "start": 5653.88, "end": 5659.36}
+{"id": "AnHIv_d02z0-t5659.36", "text": "more complex because then you're it's almost like we were studying a lake and that's an", "start": 5659.36, "end": 5664.4}
+{"id": "AnHIv_d02z0-t5664.4", "text": "ocean okay anyone else okay thank you very much thank you", "start": 5664.4, "end": 5672.599999999999}
