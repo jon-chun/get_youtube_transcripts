@@ -1,0 +1,1598 @@
+I'm Edward Narcissian, Director of the
+Helix Center and I welcome you to
+today's program on the topology of
+fear. I should tell you that next
+Saturday the program is on Elizabeth
+Bishop and the participants are Bonnie
+Costello, Lloyd Schwartz, Alice Quinn, and
+Jean Valentine. Programs for April will
+be on our website. On the website we
+also now have a section for conversation
+so if there are any thoughts and
+questions that you have after today's
+meeting or opinions that you have you
+can go on that side on that
+under conversation and write whatever
+you are thinking. Today's round table
+was proposed by Professor Gratiella
+Chichilniski, she's Professor of Economics
+at Columbia University. I'm going to just
+give you very brief points from their
+biography of the group, the biography of
+the group or whatever, biography of the
+biography of the, she's Professor of
+Economics and Mathematical Statistics
+and the University Senator at Columbia
+University. She's Director of the
+Consortium for Risk Management and has
+worked extensively on the Kyoto
+Protocol. She's the lead author of the
+UN Intergovernmental Panel on Climate
+Change and acts as a special advisor to
+several UN organizations and heads of
+state. Paul Glimsz, who like Gratiella, has
+been here already before, is the Director
+for the Center for Neuroeconomics at
+New York University and Julius Silver
+Professor of Neuroscience, Economics and
+Psychology at NYU Center for Neuro
+Science. He's the author of Foundations
+for Neuroeconomic Analysis, Neuro
+Economics, Decision Making and the Brain
+and which is the winner of the American
+Association of Publishers, Economics and
+Social Sciences Book of the Year. His
+book, Decisions on Certainty and the
+Brain, the Science of Neuroeconomics is
+the winner of the American Association
+of Publishers, Publishers Medical
+Sciences Book of the Year. Linda King is
+Professor of Mathematics, Graduate
+Center and Lehman College of the City
+University of New York. She, her research
+spans various parts of complex analysis
+including complex dynamics, hyperbolic
+manifolds and tachmulert theory. She's the
+co-author of hyperbolic geometry from a
+local viewpoint and has edited five books.
+She's a recipient of the Edwin S. Webster
+Abi Maas-Rockerfiller Award from MIT.
+Joel Lidou, who has been here many times,
+is Professor, his University Professor
+and Henry and Lucy Moses, Professor of
+Science, Center for Neuroscience at the
+Department and the Center for Neural
+Science and the Department of Psychology
+at NYU. He's Director of the Emotional
+Brain Institute and the author of the book
+Emotional Brain, the mysterious under
+paintings of emotional life and
+synaptics self. How our brains become
+who we are is the editor of the self from
+soul to brain and co-editor of post-traumatic
+stress disorder, basic science and
+clinical practice. David Lichtenstein,
+who's sitting here, is co-founder of
+Aprecousa
+Forum and adjunct professor of psychology
+at the SUNY post-doctoral program and
+also he's at Adelphi University
+Durner Institute. He has written many
+articles including Born in Exile, there's
+no place like home and if it be not now,
+right? And at the Cardozo, Cardozo Law
+Review. So, Gratilla is going to get
+things going. The topology of fear, which
+is the title of this meeting today, this
+roundtable, puts together two different
+concepts. One from mathematics, pure
+mathematics and that's topology and the
+other one is fear and generally emotion.
+And we have here specialists from both.
+So, I wanted to introduce very briefly
+the topic before we have the usual format
+that these roundtables use. We're all
+very curious about emotions and the
+emotion of fear is very well understood
+by anybody who looks at what happens on
+an everyday basis and the press, what the
+press chooses etc. And the article that
+the topology of fear, which is here, is an
+article I published a few years ago.
+Essentially, looks for a mathematical
+explanation of how fear fits and helps
+define our decisions in a way that is
+not the same as we are used to. And we are
+talking, we are talking, we have here very
+impressive specialists. In fact, the best
+thing about this roundtable are the
+people here. And so, I'm not going to be
+talking too much about that because that's
+their field, although I have done some
+experimental work on this. But the
+critical thing about topology is that it
+helps you explain a form of rationality
+that puts fear in a rational context in a
+way that is different than what we are
+used to in decisions, analysis, and in
+psychology, and in economics, etc. etc.
+in the social sciences. So how does that
+work? The branch of mathematics, topology,
+we were discussing just before with
+Linda, who is a mathematician, as you can
+tell you about that, is really about what
+does it mean to be nearby? What does it
+mean to be similar nearby? And they are
+very different versions about what that
+means. For example, you can say that the
+weather in New York is similar to the
+weather in Siberia. If, on average, we
+have the same temperature. But if in
+Siberia, or in a desert, the temperature
+is extremely cold over parts of the year,
+and then very hot over others, you would
+say, no, it's not quite the same. So what
+do you mean the weather is similar in New
+York and in Siberia? What exactly do you
+mean by that? There are two versions at
+least two, but they are two actually. One
+is, let's look at things on the average.
+Let's look at the average of the weather
+over this century, over this millennium,
+that's one way, over the earth, that's
+another way. The other way is look at
+the extremals. What's the worst that can
+happen? What's the highest and the lowest?
+And we won't say that things are close
+by unless the extremals are nearby. And if
+we do that, we're looking at what nearby
+means in a completely different way. We
+define the completely different
+apology, and all of a sudden what appear
+to be rational behavior because of a
+emotional reasons appears to be
+mathematically very, very rational. So
+just wanted to be more precise in the
+paper, the topology of fear, Paul said
+brief outline and he has to be very
+brief. I looked at the disjoint that
+appears when you try to explain in
+experiments how people behave under
+conditions of fear and they appear to
+behave irrationally. An experiment upon
+experiment and upon experiment shows
+that. And where does it come from? So in
+the paper I show that if you look at the
+axioms which are the basic beliefs on
+which the theory of decision is based,
+and you assume that instead of making
+decisions on the average and valuing the
+average and caring about the average, you
+look at the extreme ones. Mathematically
+that difference is the topology of fear,
+and in terms of decisions it leads you to
+completely different decisions and
+rationality for example. You would say
+that if you wanted to invest in a fund
+you may look at the average returns that
+this fund brings to the investors. But
+you may say that's okay that's all very
+good but I'm afraid it will be a market
+crash. Fear and therefore I'm going to
+invest in the fund that assures me that
+even if there is a market crash I will
+have my money back or most of my money
+back. Those are two criteria, completely
+different criteria and depend on the
+topology and I'm saying when you have
+fear, when there is fear present, when
+there is catastrophes, real events with
+enormous consequences, you tend to use
+the topology of fear to determine what's
+close to each other and that leads you to
+make decisions which are considered to
+be irrational by the standard decision
+theory. Namely, no I'm not going to invest
+in the investment fund that gives me the
+higher expected returns. Why? What's wrong
+with you? Are you going to be rational? No,
+I'm not. I'm afraid. I will give a lot of
+weight to what happens in that fund in the
+case of a market crash and I will not
+optimize according to the what is the
+expected return alone. I will not do that.
+That's not irrational according to the
+standard theory it turns to be rational
+it cannot be explained. So by introducing
+the topology of fear you can explain a
+different form of rationality and then it
+leads to the following criteria that is
+okay I'm going to invest in the fund that
+gives me the highest expected return
+provided that the worst that can happen
+in the case of a catastrophe I'm willing
+to accept it. It's like maybe I will lose
+5% of my portfolio but no more. Now this
+sounds like a reasonable thing to do, particularly
+these days with a gun being what it is.
+But it's contradictory to what we think
+is a rational decision making and it
+leads people in experiments to say
+humans are irrational. You just don't make
+decisions by what you expect that will
+happen. The expectation part is really
+averaging things. The consideration of the
+catastrophe and the extremal is looking
+at the worst that can happen and it is
+using the topology of fear. This turns out
+to be mathematically connected with the
+theory of the incompleteness of
+mathematics and with the resolution that
+Bertrand Russell gave to some of the biggest
+contradictions that appear system that has
+the richness of mathematics. But we are
+going into details I wanted to explain
+that going way beyond the issue of the
+fund, the dimension, that is nice because
+it's an everyday phenomenon that we're
+not afraid of. How do we make decisions
+about jumping into an accident and trying
+to pull a person out? We are governed by
+fear. Well under those conditions we need
+to expand our notion of what rational
+means and what the topology of fear does
+it gives you a mathematical tool, a
+measurement tool, an experimental tool to
+define rationality in a way that admits
+certain ambiguities and allows you to
+cope both with the extremals that you
+behave with when you are involved in a
+situation that has a catastrophe or can
+cause fear and at the same time the
+average behavior that you consider when
+you are being you know naturally weighing
+the probabilities of what can happen. They
+do things emerge. So the result of that
+paper is that when you consider fear and
+when extremals do matter and you use a
+topology of fear which is your value
+system, the topology of your value system
+is what matters, what's similar to what.
+Then you will end up behaving like that.
+You will choose the electric network for
+our city so that it maximizes a throughput
+of electricity but minimizing the worst
+that can happen in the case of a blackout.
+Does it sound reasonable? Yes. It is
+inconsistent with the way we view
+rationality until now through averages.
+So what I just said is reasonable but
+there were notions of rationality until
+now have eliminated it as if it was
+irrational. I can give more and more
+examples. So instead of doing that I
+wanted to say that that gives you a use
+for mathematics that really opens up a
+completely different sphere and we will
+hear maybe more about that from Linda but
+I was told before by David that the
+French are not adverse to using topology
+when they try to study the internal
+psychological behavior and she's going
+to explain that in their own in help
+people make decisions. So I think with
+your permission I will stop here because
+I am more interested in what these people
+have to say than what I have to say. I
+hope it's an introduction. It's the beginning
+and right maybe you can pay
+any sense of vision for it. Yeah I have a
+comment and so you try to take an
+everyday word like rationality and turn
+into more of a scientific mathematical
+concept. Is that correct? No. I mean no
+it is my... No I think it's a very good
+point. I have to say that Joe's work is fantastic
+so you know it's my pleasure to be
+answering your question. No what they do
+is something different. I look at the
+definition of rationality that we use in
+just about every scientific discipline I
+know and it has to do generally speaking
+with having some actions and the
+driving from those actions to logical
+statements that we are willing to accept
+because we accept the actions. That's the
+way mathematics is constructed. I just
+described to you what mathematics is. I
+also described to you what is decision
+theory? What is probability theory? We
+start with axioms and then anything that
+we're willing to accept as rational is
+what derives from the actions in a
+logical system that we accept. That's the
+way science proceeds. I didn't say it should
+proceed. I said proceeds. So the
+rationality that I speak about is not a
+loose word that we use at breakfast. Maybe
+it should be but that's not what I'm
+talking about. I'm talking about scientific
+rationality. I'm talking about the fact
+that quantum probability, quantum theory
+has axioms that were defined by von Neumann
+in 1932. From those axioms
+logical speaking you derive the entire
+quantum theory and everything can be
+drawn back in the logical steps, mathematical
+steps to the axioms. That's rationality.
+So what have I done here? How am I
+redefining rationality? Am I changing the
+logic? No. What am I doing? I'm changing
+the axioms. Okay but it's a scientific
+view of rationality. But you started
+asking me if it was a loose way of
+understanding the language. I was more
+interested in the scientific part. So you
+have a scientific view. Yes. But you on
+the other side you took fear and used the
+everyday version of it. So you didn't
+have a scientific approach to fear. You
+had an everyday version of fear. Well yes
+and no in the sense that after I changed
+the axioms and I said golly when you
+have catastrophic events, real events at
+that terrible you need to use the topology
+of fear. Different axiom, different
+results, different rationality. And he
+says okay but with respect to fear you're
+still woosy woosy. You're not giving me
+the scientific version. Right. And he's
+right. I don't know what fear is. What I
+do know is that I have carried experiments
+in which people are subject to
+propositions that inspire extreme fear
+to see whether they behave according to
+the axioms and the logic from those
+axioms using the topology of fear will
+imply. And the answer is yes so far
+because you can never prove anything with
+experiments. You can only prove that you
+don't know that you have made a mistake.
+But if you don't define fear you can't
+scientifically use it. No what I do is I
+define the topology of fear as a topology
+that takes into consideration as a value
+focuses on extreme acts. The words that can
+happen. And that topology then gives
+rise through to a different axiom through
+logics to different behavioral patterns. I
+check them. I tested them experimentally
+with a team in France but this is baby
+stuff compared to yours. Well you know I
+think the I have a problem with fear
+myself. So. You're afraid? Of snakes yes
+but that's not the problem. The problem
+is I'm afraid of what we've been calling
+fear for hundreds or maybe thousands of
+years. And I've gotten really hung up on
+the question of how everyday language
+relates to the scientific language
+especially in emotion and fear. Because I
+think we've made a lot of mistakes. And
+in my own work I've made mistakes as
+well. So I've studied how rats detect and
+respond to threats for 30 years and have
+called the brain systems that we've
+identified the fear system. And I think
+that's a mistake. So I'm publicly
+announcing my my errors here. I think you
+should still buy his book. By the next
+one. Explain this. Which book you can give
+us a title? It's called anxious. Anxious.
+But it's a it'll be a while yet. Still
+working. So anyway so the by studying the
+way the brain detects and respond to
+danger. We've identified circuits that
+are very important and ultimately in
+fear. But they're not fear circuits. And
+for many years when I've been introduced
+to give lectures I've been introduced to
+someone who's discovered X, Y, and Z about
+how we feel fear. And nothing could be
+further than the truth. So I'm trying to
+backtrack a bit and look at what we mean
+by fear. And I'd like to just describe
+you know how you go about the science of
+doing something like this. Take a couple
+of minutes to do that. So in you know
+for studying the psychology and its
+relation to the brain psychology of fear
+into relation to the brain. We have to
+first define identified the everyday
+experience that we're interested in.
+That's basically what we do in psychology.
+Paul is interested in reward. So that's
+an everyday concept. And he turns that
+into some kind of scientific approach.
+So you first define what you're
+interested in fear. And you say well fear
+is an emotion. And it's different from
+other things that we call mental states
+like conditions or thoughts. And it's
+different from other emotions like
+sadness and anger and empathy and so
+forth. It's closer to anxiety. Maybe
+that's kind of a topological relationship
+in some sense. And in fact I think mostly
+what you were talking about is anxiety
+rather than fear. But we'll get to that in
+a minute. So you've identified the
+you've defined the thing that you're
+interested in. And then you figure out
+some experimental way to study some
+aspect of that. So I've done that by
+studying the way the brain detects and
+responds to danger. Now when you do the
+the experiment your goal is not only to
+study the little thing that you're
+modeling but also the bigger thing that
+you want to make you want to gain some
+clarity on the bigger picture that you
+started out with fear. And so these two
+processes of defining and researching
+often go hand-in-hand. So over the last
+hundred and fifty years or so when that
+fear has been studied in various ways
+it's gone through a lot of transformations.
+The first approach has been to start with
+the everyday experience. Darwin talked
+about fear as a state of mind that's
+evolved. Freud talked about fear and as
+a conscious experience it might be
+turned into an unconscious or repressed
+state. William James talked about it. And
+then the behaviorist came along and said
+well this all this talk about consciousness
+is getting in the way of doing research.
+So let's talk about fear as a
+disposition to act in a certain way. And
+then a little bit later that was
+turned into something called an
+intervening variable. So the behaviorist
+talked about observable events like
+stimuli and responses. A behaviorist
+Carl Toman introduced the intervening
+variable which is something that sits
+between the stimulus and the response but
+has no psychological or biological
+reality. So fear in that sense was a
+concept that relates an external event
+with an observable response. It wasn't a
+real thing. It wasn't a fear in the
+sense of a psychological experience. It
+was just in a variable that explains how
+certain stimuli give rise to responses.
+The next step was these got turned into
+hypothetical constructs. So the
+hypothetical construct of fear was a
+one of the main idea was as a drive. So
+it was a drive that when reduced
+eliminated the the aversive state that
+you're experiencing. And then this became
+turned into a biological entity certain
+kinds of states of the brain. Now the
+original ideas that were coming along
+when people talking about brain states
+of fear were in something called the
+conceptual nervous system because they
+didn't know enough about the details of
+the brain to talk about the real nervous
+system. So again it was all
+hypothetical. It wasn't a real thing. But
+then finally research on brain circuits
+came along and we were able to identify
+circuits of fear. And now that those
+circuits have come along to explain how
+the brain detects and responds to danger
+something else has happened. Those
+circuits you know all of this effort has
+been to not talk about the not talk
+about fear as a psychological state as
+we're studying animals and we wanted to
+be able to understand how the stimulus
+produces the response without having to
+assume anything about the psychology of
+what that animal might be experiencing.
+But then once you have the circuit the
+circuit starts to be psychologicalized
+into a fear circuit. So that circuit is
+also generating the feeling of fear which
+people who are studying those circuits
+never really say. So all of this is a
+long way of saying we have a lot of
+problems in starting with a psychological
+concept like fear and getting back to
+how the brain is working but then coming
+back to understanding the psychological
+concept. And I think there's a way to do
+that. What we have to do is first
+distinguish what is that psychological
+concept from one of the underlying things.
+And I'll just wrap up by saying that
+every organism whether it's a bacterial
+cell or a human has to be able to detect
+and respond to danger. It doesn't need to
+feel fear to do that. Even in a human
+brain the brain can detect and respond to
+danger without building the stimulus is
+there and without having any experience
+at all. So what the organism is doing
+whether it's a bacteria or a human is
+detecting and responding to a threat. And
+somewhere in the course of evolution when
+the brain acquires the capacity to be
+consciously aware of its own activities
+you have the feeling of fear that comes
+along or the feeling of anxiety or love
+or whatever else. So I think we have to
+distinguish the feelings. I think that
+the everyday language is the way we
+should think about states like fear and
+anxiety and love and so forth. And that
+the scientific way of thinking about
+these things has to explain where that
+comes from but without assuming that
+it's the same thing as the scientific
+stuff that we're studying. I don't know if
+that makes any sense at all but it's...
+This is fascinating. One thing I wanted to say is that as we start a new geological period on planet Earth
+the the anthroposphere in which humans are
+dominating the planet the notion of fear or rather as he points out
+the threats. He's saying just let's talk about threats okay we are not clear what
+we mean by fear or do we need to have an emotion
+but the response to threat is what we're talking about.
+Well we do have fear we experience it but
+that's not what the brain... the brain
+circuits that detect threats do not exist in the brain to make you feel
+afraid. They make you... they're in the brain to allow you to detect threats.
+So let's back off and say instead of fear let's talk about the response to
+threats and then I'm saying what he used a
+keyword evolution. It turns out that the brain
+is like an automobile that has pieces of all sorts of primitive material like
+bicycles and monosycles and until it gets to a modern automobile
+we have all these pieces and they're loosely connected with each other in
+some way or another that we somehow understand but the point that he's
+making is if we made it so far he's because somehow
+we relate we we reacted to threats and what I'm saying is and we are in a
+position now where emotions may be evolving as the threats are evolving
+because in the anthropocene this new geological period that started in 1945
+we are facing totally different threats so the response to threat which is what
+he says is the only thing I can be clear about which is what the brain
+is doing. It's now something that is evolving because the
+threats are completely different. We used to be afraid of our survival
+in nature as other animals where our predators
+were it is nature who has to be afraid of us now
+so we have other fears the fears of what we ourselves
+may be going to do so this evolution of emotions
+is you know I think leading a lot of people to think well
+are emotions reasonable good should they orient our actions
+or not and to the extent that the response to threat is an emotion and I
+don't even know if it is an emotion. It's not I would say no. There it is.
+Let's get the other people in the discussion. Paul what do you think?
+I'm trying to jump in right there. Gretel I'm struggling a little bit with
+understanding the relationship to topology
+and I mean I heard what Joe said very clearly which is
+maybe we aren't talking about fear maybe we're talking about the way
+organisms respond to threats and I understand when I put on my hat as an
+economist being both an economist and a neuroscientist
+I'm very sympathetic to the classical economist definition of rationality
+that people are consistent that they follow some set of rules
+or maybe even an economist would say a human behavior is maximizing something
+that we have goals that we perceive towards these are all alternative
+ways to say the word rationality. So it seems to me the classic story is
+if I'm afraid my behavior is discontinuous across this boundary where
+I become afraid and my behavior stops being rational and
+goal-directed and progression and consistent and become something else
+disordered dysfunctional and it seems to me that the
+core of the argument here is that you found a way
+to say well maybe that's not true maybe this is one thing and I was wondering
+if you could elaborate for me a little bit more for all of us a little bit more
+about topology and how it does that how it takes a
+discontinuous disordered behavior and reveals it not to be discontinuous
+disordered or unproductive.
+I did not introduce Paul so I didn't know the introduction of anybody else so I
+didn't tell you how great these people are but you probably understand
+already how they are clarifying things and cutting things down to size.
+Okay Paul yes the rationality is defined through maximums with logical
+deductions. I'm saying if I change the actions
+and I keep the rationality scheme which is using
+a logical deduction I will get to explain actions
+that were considered to be discontinuous and irrational before and you are
+asking me explain how. Well I were given some intuition
+for topologies role in that. Maybe I can say something.
+What topology is all about is in some ways
+defining what continuity is about because when you say something is
+continuous you want to say that if I move if I don't move too far and I'm
+measuring something that's happening out there it's not moving too far or
+I'm looking at my results and if these results
+are close together what people do what whether it's an economic
+model whether it's biological model whether it's a physical model
+I move a little bit that came from stimuli that were
+close together and that is what continuity
+really means and to say that it's discontinuous
+says that well if I have nearby things here
+the events that they create can be very far apart.
+So you come down to the idea of what's nearby and so how do
+so if you want to if you change the topology
+about saying what are your nearby things you can turn
+what seems in this model to be discontinuous
+because those things that you start close they got far apart here when you're
+measuring them this way but when you change the topology you
+change what's nearby here they become closer together
+so that and Graciela's example about weather for example
+if you just say things are nearby if they have nearby
+averages then you're going to have this big discontinuities
+if you say okay when are things nearby they're nearby
+if the average temperature over the year is nearby
+and their extremes are also close together
+things are different if they have very different extremes
+well then you have a different model and what's continuous one one model can be
+discontinuous in another model and so I think that
+it's very this idea of saying topology and fear
+you're taking different kinds of words that we're all used to using in different
+contexts I mean this is part of what you were saying how do we use these
+words and I think that if you want if you're trying to set up
+some kind of model that you can work with you do have to
+make these words have definite meetings in the context of what you're talking
+about so fear when we talk about the topology of fear
+we're talking about certain ways of measuring things if we change the ways
+of measuring things then maybe different things are
+closer together or not but it's very hard to take a very
+amorphous concept of fear talking about it this way
+and then here's your model and so you know you want to make the model it
+kind of reflects the things that you really are interested in
+I mean that's what people do when they try to set up mathematical models you
+try to find the things that you're really interested in
+and use those as the building blocks for your model
+and build those into your axiom system so that
+you get out things that you can predict from otherwise why do you want a model
+so far does that be?
+Helps on them let me bounce it back and you tell me
+if I got enough to really grab on to that
+I mean when I hear you say continuity the three of us are probably all
+immediately thinking about the mathematical term continuity and it
+may have slightly different meanings to different people in the room
+but what I hear saying is if we look at a change in the environment and a
+change in behavior we say oh look you know the environment's getting a
+little bit riskier and people are getting changing
+their behavior a little bit change it a little more they change it a little more
+change it a little bit more suddenly you make a little change and
+the behavior looks completely different so I think to me as an
+economist and nurse scientist that's discontinuous right yeah oh sure and
+so I had this problem which was that the thing I was manipulating the risk
+looked continuous to me and the behavior looked discontinuous to me which left
+me kind of like oh well that's not good and I'm hearing you say that the
+critical idea here is well when you see discontinuous behavior
+that doesn't line up with what you think is a continuous state of the outside
+world maybe you're looking at the outside world wrong
+maybe there there's a lens that makes the outside world
+either look discontinuous or flip the other way makes the behavior look
+continuous right yeah in fact to be very specific
+you as I said by using different polo you are using different values
+so something that you in example I gave before
+your value is on average you want to be as well as you can when you invest
+your money that's the way you value an investment
+an investment approach but then all of a sudden
+there is a small probability that this here there will be a market crash
+under the average response which is what you were saying
+and you were saying you will just you know
+neglect the market crash you will deny a market crash
+and you will dive into the market crash which is what happens to us
+so you're not looking at the worst that can happen
+that would not be your behavior if you're using the normal
+the polishing under the polishing of fear it doesn't matter to you how small is
+the probability of the event if it is bad enough you're going to
+focus on it really hard and then through these results
+I give a complete characterization that tells you how
+the human behavior the russian human behavior in corporate instead two parts
+incorporates I want to be on average as well as I can
+so I like the temperature to be on average 70 degrees
+but I'm going to also mind if there is a jump of 100 degrees from one day to the
+next I can't deal with it so I'm going to look at those two
+things and that leaves you to totally different
+behavior and not to look at the average temperature
+if you don't look at the average temperature you look irrational
+according to that criteria and it goes you know
+this can be made very very very precise mathematically as precise as you want
+so in the case of a market crash we might have avoided the market crash
+if the people in Wall Street instead of using the economics of averages
+which is the standard of unemployment theory they would have used the economics
+of reacting to a threat which is what I call the topology of fear
+and that leads to a decision criterion or function
+in which the words that can happen all of a sudden may pop up
+whoa we can go into a crash whoa stop break change behavior is that
+discontinuous well it would be if you're just doing
+a damages but if you're looking at the words that can happen it
+wouldn't be this continuous so the notion of rationality which is tied up with
+continuity as Linda says depends on how you measure things what your
+values are what you what you observe what you care for
+does it make sense yeah David why don't you know
+and then there's a great deal that's been said already that in terms of
+psychoanalysis raises a number of interesting
+questions but just this last point about continuity and discontinuity and about
+flipping the topology of the response so as to find a continuity where it
+appears that there's a discontinuity is a position that one experiences as a
+psychoanalyst all the time that is one of the things that takes place
+in listening very closely to the discourse of a patient
+is linked is one hears or finds links
+proximities continuities where it appears there are discontinuities
+in the content that's being talked about there also for example things which
+may seem highly unrelated on the face of them on the surface
+through further discourse you begin to see how they are in fact linked
+so you you find unexpected continuities unexpected proximities
+right on the level of meaning for example
+a person is to associate a little bit he will show you exactly
+if you free associate he'll give you an example yeah
+we're already using a couch but people are speaking about one topic
+in what appears to be a clear rational
+depiction of some story and suddenly they have a thought
+and they say I don't know where this comes from it's got nothing to do with
+what i'm talking about right but under the
+structure of a psychoanalytic treatment which is that you say whatever comes
+into your mind they say this thought that's random
+that seems completely unconnected as they speak about it
+and it happens this is a daily event this is not an unusual event in psychoanalytic
+work at all as they speak about it of two or three
+minutes into things of course i see why i thought about this
+it happens to us all all the time we have an association which seems entirely
+discontinuous and we discover the continuity
+right i mean how do you know it's a real continuity
+as opposed to one that's interpreted without any interpretation
+now the question there of course is what do you mean by real
+content i mean that is a question it's more about how this gets back to the
+sides of the well the way it gets back and
+uh is that it has to do with the the level of analysis
+you know each of us work in a different framework of analysis
+but uh what's of interest to the psychoanalysts is subjective
+reality its subjective experience is not just
+the description but the articulation of subjective experience putting it into
+language conveying it to another person so
+the continuity is real by virtue of the subjective experience
+what its reality is in terms of other criteria is another question
+so in my field we have something called memory
+reconsolidation where you take a memory out as as you do in
+psychoanalysis examine it and what we and others have found is that when
+memories are are taken out in this way and made in
+in a made active they go to a period of vulnerability where they can be
+changed and then restored and the new reality becomes what's restored
+rather than what the original reality was
+and so a common example is someone witnesses a crime
+and gives a report to the police on the day of the crime
+and then they go to court to testify and rather than talk about the details
+they gave the police they come up with details that were in a newspaper
+article that they read in the meantime so reading that article reactivated the
+memory caused new information to be stored and then that becomes the
+reality that they carry forth as the next memory
+so the you know the extreme version of this is your memory is only as good as
+your last memory and that's that is an extreme version but
+there's some truth okay i have to say something directly
+related to that uh and to uh poll was saying mathematically
+when you have when you have
+the foundation of how we observe reality is probability and statistics
+that's how we observe things we measure things and we take
+statistics okay that's we look at statistics of what
+you don't see one option you you look at statistics of it
+now these same axioms of are using the extreme
+at events lead to a different probability and statistics
+which when you look at the stochastic processes that they generate
+when you have a probability function and you pull out
+uh you pull balls from an urn that has a different distribution
+then you plot how many were red how many were black etc that gives you
+a stochastic process that's what it's called and the prices of the stock in
+wall street also are a stochastic process
+the observations of particles in the universe are also a stochastic process
+etc well if you take these axioms and you put
+the topology of fear and derive the stochastic process that occur
+they are not random walks and they are not smooth diffusion processes
+they are diffusion processes with jumps that's a theorem
+now what you are saying and what you are saying is you observe a person
+talking about an event and all of a sudden they make a jump
+which is discontinuous which you say unrelated
+well there is a theorem coming from these axioms that says
+that's the way it is they will be market charges
+they will be discontinuities on the second analytic chair and they will
+the discontinuities are the rule not the exception
+but they are not really discontinuities when you take into account
+the value system or the topology of fear that is underlying this form of
+rationality they are what you expect to be
+in fact you prove they are going to be jump diffusion processes
+that's why the mass in the universe is not uniformly distributed that's why
+you have stars so you have nothing for a while and then you have
+you know jumps in mass that's why people in the couch
+all of a sudden come up with something strange but could you predict what
+the patient is going to come up with you can predict the
+frequency in which they will occur you can predict
+the form that this probability distribution takes
+and then you can carry experiments about it and
+that gives rise to a new form of probability and statistics
+and it reproduces what what happens for example with earth quakes
+I just want to add a dimension to that
+and in so doing bring it back to the question of emotion and to the question
+of fear and threat because that your argument I think is that fear
+introduces a particular form of discontinuity
+which can be accounted for by a topological structure which will
+match the values of that new form of discontinuity
+what I'd like to suggest that the discontinuities are only apparent
+yet so it seems to me though that there
+there is something about you know
+you it's not clear that fear it I mean it works maybe in this context but
+there are a lot of situations people are building now these huge
+supercomputers and they've got thousands of computers that they put
+together and they know as these things go they generate
+heat you know they're going to generate heat so you know that this one is going
+to fail and you have to program them in such a way
+that when this one fails this one is taking over
+and so that people when you're looking at the output it all looks very
+continuous because you don't see that this one
+stopped and that one started but in fact
+there was this jump now this is and all of this
+has nothing to do with the emotions this is because people have thought about
+well how are you going to deal with situations where you know
+something's going to get hot you don't know which one's going to get hot
+you don't know when you have some sense of mean time to failure but
+you try to build this in to the system and
+but this is not an emotionally charged situation where you're dealing with
+some kinds of discontinuities and so you try to create models where you think
+this is going to work and in that sense you create
+topologies which are measuring what's going on
+and there is something similar to that in terms of you're saying
+you have a topology you want to create a topology that takes
+these what seem to be rationalities when we put it in the context of the market
+as discontinuities and make them into a situation where you can
+know what to expect so that you know you know how to react to them you know
+that the market that you can make a situation where you're in good shape
+so the so is using the word fear throwing in
+an emotional charge into the discussion commensor
+and you agree with him because he said well i just you know i just he's saying
+it's not really fear it's like the there is a systematic way in which we
+respond to threat and we better know how to do that because otherwise we
+wouldn't be here and that's what it is and you may or
+not feel fear right and so there is no role for the
+emotion no the once once you've detected a threat
+and it invades your consciousness then it's a whole new game then that's when
+fear is there and begins to act back on the the whole system
+and everything changes i i work in the first 15 milliseconds
+of stimulus so that's what i'm trying to understand
+but you know by the time that you have the awareness of something
+obviously it's a whole new ball game so you will say the reaction to threat
+in the first few milliseconds is what it is no fear no emotion it's just a
+reaction to threat and then eventually the brain picks up
+oops it realizes what's happening it's observing itself
+and then it feels fear right there's another step though so
+the the brain first detects first we react to danger so you're walking
+along there's a snake on the ground you stop and then you realize there's a
+snake right because your brain is detected it or you're walking down the
+street you jump back and the bus goes flying by
+so you're able to the bus the bus so our car whatever taxi so
+your brain is able to identify these these stimuli that are potentially
+dangerous uh and and allow you to react in hardwired pre-programmed ways
+now once that's happened that changes the state of the brain so that you
+become more sensitive to threatening stimuli
+you you have goal-directed behaviors that begin to be called upon through
+past learning and and so forth that allow you to then
+perform instrumental or willful behaviors that help you cope with the situation
+not necessarily consciously but then at the same time you're beginning to
+become consciously aware of everything and then that will also impact as well
+so we can think of like three levels here and then once
+you're conscious of it then it's a whole nother ballgame where
+you know you're consciously planning things and you may say that that's
+a complete artifact as well there could be a topology going on that's making
+predictions about what the next step is going to be in
+consciousness is a total epiphenome i don't think that's true
+but we certainly don't understand what consciousness is and how it works
+one question are emotions good or bad they're both
+so how do we know whether we should yield to our emotions or not
+well first of all you can't i'm just asking a simple question
+i mean you wait in terms of your reaction you can't stop that i mean first you're
+gonna react and then you may you know you may short circuit it but it starts
+uh and then that's what will determine whether you
+continue to respond or not and you may not even be able to stop it
+but if we develop emotions as part of this process of coping and observing
+etc and rationalizing what happens when we react to threat
+and now in the Anthropocene threats have changed
+are there were emotions changing different threats different emotions
+depends on what you mean by emotions i mean it's you know it's it's all about
+defining what the terms are i think the you know i think David was in the middle
+of something when we got off track so maybe we should go back to that
+well it relates to your question and and it's to introduce another
+uh term in the question of decision-making and that is the notion of desire
+because it seems to me relevant that in making a decision the subject is not
+simply engaging in a rational calculation of
+advantage and disadvantage the subject also
+experiences something about a fantasy a wish
+an idea of what the consequence of success
+will be um as part of subjective life one
+continuity one proximity that is very striking
+is that very close to the experience of desire
+is the experience of threat
+yes i'm using the topological i'm using the topological idea that is
+that is whereas we might think that nothing could be more discontinuous or
+further apologize to the experience of
+the first thing that is that is
+think that nothing could be more discontinuous or further apart
+as for example someone speaks about a wish that they have
+and they begin to articulate the nature of that wish a wish for some
+outcome some behavior some activity to take place
+as they articulate more and more about that wish including unexpected
+elaborations about that wish what often takes place is an experience of some
+kind of inhibition something stopping them
+they stop i can't go on i can't really say more
+about this to talk about what you want to talk about your desire freely
+is a very difficult thing to do something takes place something
+related to what i think joe is talking about as as a threat
+responds to threat pre-conscious the desire is a response to threat
+no no in talking about desire in articulating desire
+we observe a response to threat in the form of of of some kind of an
+inhibition some kind of a stopping some kind of a difficulty
+right going at are you saying anything more than
+if you want to put ten thousand dollars in
+grass yellow spond and you think grass yellow is gonna give you
+three thousand dollars more by the end of the year so you'll have 13 000 so your
+desire is to change your ten thousand into 13 000
+then you have the idea what if grass yellow doesn't succeed and i lose my
+money is that what you mean by desire and threat
+no because that that i mean that that's a very rational you know what you're
+worried about there well now i'm talking about the more
+and it's a garden variety i think we all experience it you think
+i have a good chance of doubling my money in this investment
+but there's something about that that bothers me there's something i
+you know what i'm not i'm not sure i can actually
+bring myself to act on that knowledge it's an inhibition
+why do people get in their own way why do what i would suggest is this
+happens constantly this happens in daily life
+this isn't a rare event under extreme conditions so you're afraid of what you
+want i think people are generally afraid of what they want
+now in post-traumatic stress disorder
+isn't it doesn't it come up in some cases where you associate something that you
+want very much with something which is a tremendous
+threat to you like what i mean what do you mean
+well let's look at the case of domestic violence
+so you are in love with his man and one day he tried to kill you
+and then out of that you have this association you love this person that
+is all these warmth and these wonderful feelings
+but then all of a sudden you relay that with the worst possible experience
+which is that your life may be at stake in a horrible way
+so you're describing to describing the person's
+subjective conscious experience but underneath that are going to be
+approach and avoidance tendencies that have been conditioned by those
+experiences so there may be some uh you know some very good times that
+created positive relationships stimuli associated with that person that
+are attractive and appealing but also the very negative things
+they're going to be pulling you in the other direction
+so these are these are the kinds of things they're going to be triggering
+these implicit unconscious processes every time you encounter that person
+uh and you know which one wins probably the
+adversity is it is uh it's going to win in every situation
+because but Joe the what you were saying seems to me would make sense
+if uh the example wasn't grads yellow's example because grads yellow's example
+is that your actual life is being threatened it's not that
+you say you know he's a nice guy because he buys me nice presence
+but whenever he comes home for dinner he starts yelling and screaming
+that's uh when you were talking about an extreme example like
+she's talking about how would you justify remaining with somebody who
+actually is threatening your life and he's saying there would be natural
+because what you most desire is also what you're most afraid of
+not really saying that
+i wouldn't put it that simply in in in the sense that it's in all cases
+all i'm saying is that there is an unexpected proximity
+in the sense that uh you were talking about it topologically there's an
+unexpected proximity between threat and desire unexpected by what we might
+think of as a an ordinary topology but the topology
+that that a psychoanalyst comes to work with
+is the expected proximity of threat and desire
+i can give you a research example that i think helps to address this question
+um one of my colleagues Regina Sullivan uh has studied
+rat pups and at a very early age while the pups are still
+nursing um pups what's pups maybe pups maybe rats
+nursing with the mother um a stimulus that's associated with the mother
+but uh is also connected to to a painful experience
+in the pup uh the the the pup will treat that stimulus
+as a positive stimulus so it's as if you know the mother may be abusive
+but the pup is dependent on them on the mother so the connections formed are
+still in the positive approach uh vein but as soon as the the pup stops
+nursing um the those same stimuli now become
+aversive and the pup will avoid those under any circumstance
+now that okay that's fine but then in the adult you can bring back
+this infant uh attraction by stress so raising cortisol levels in
+the adult rat will bring back the infantile pattern
+of approaching the dangerous harmful stimulus
+so to the extent that PTSD is often something that
+uh a person doesn't just develop PTSD after one stress in life often it's
+something where one has been traumatized as a child
+and then that sensitizes the brain to to later stress
+you can imagine how the same kind of mechanism would kick in
+wow
+so essentially what he's saying is that masochism is cortisol
+well the the topology actually is uh
+it's actually doing a lot of work for us here because it's telling us
+again values in some cases what you really care for but also
+in reality what things are close to which i mean it's really
+it's uh i mean i there is no question that
+it really depends on the topology we use depends on the way we're wired
+but also our culture certain things in our culture are considered to be
+similar and that topology that proximity is
+completely
+hard wire i mean there's no particular reason for it
+uh i was going to give examples but i want to create anything to
+uh difficult to comprehend but what you're saying is very interesting for that
+i mean i think was agreeing with what you said about desire
+and uh well so what i was saying out of that was that
+we can put a topology on emotions that our
+measure two two emotions are close together if they
+both make you feel relatively good or if they both make you feel
+relatively bad and we sort of tend to think of
+um being happy is on the way to being ecstatic which is
+sort of closer than being in great fear or
+being terribly sad and i think what you're saying is that
+off if you change your idea of what the topology is
+and you say we put emotions together it would say that they're close if they
+occur at the same time or in close
+prux you know if you see within a given individual
+these emotions occurring simultaneously then maybe that's
+when you say these should be close so that's a different topology that you
+can put on emotions saying that these are these are close together
+because they occur often together as opposed to having
+that they're far apart because they have
+uh you know they seem far apart about what they make people feel
+from it
+Paul did you get the response to the question you have?
+I think so i mean i i understand a little bit more this notion of
+what you mean by topologically consistent and i mean i think
+the discussion here has really focused on how emotions are topologically
+consistent how they that might align with the topology of
+fear and the topology of efficient decision-making
+i'm not exactly sure how these two sets of ideas the one psychological
+about topology and the other economic basically about topology
+exactly align and i see joe chafing constantly at the border between those
+two ideas but what about reward prediction error
+which is something you study i mean that's a discontinuity
+i'm sorry i didn't hear you yeah did you know did i want to go there?
+i don't want to go there i don't know if that's true
+but if you have a something that's being predicted and that
+prediction is not coming true and that's triggering
+you know i mean i i view that as a very continuous process because i'm thinking
+well i'm expecting to find a full glass of water and i find only half
+a glass of water so i'm surprised negatively by half
+i mean these are you know little things that you learn from
+don't expect whatever but i know what she's talking about
+but i i don't i don't see those as discontinuous at all
+i mean those map and normal topologies those are just straight linear spaces
+i i mean i don't want to descend into mathematics here but
+i think this is something really different
+well i have a question about topology that maybe Linda can answer
+the model that some psychoanalysts use to map the space
+where these unexpected continuities occur is
+uh it can be talked about in a variety of one of them is the cross cap
+the project the real projective plane yeah
+the self-intersecting plane yeah right
+um just does that make sense to you as a topological model
+related to the questions that we're talking about
+here
+I guess for my my sense thinking about that kind of model is
+that
+what is special about it is
+that it's an example of something that is not orientable
+so the simplest example of that is the Mobius strip
+where you take a piece of paper like this and then you
+want to glue the ends together and you glue it like this and the thing is that
+you can keep going around it it has only one side right i think
+what you're saying more about this question of
+proximities that you don't expect to find is
+that you have a situation where you're looking at
+this global question of dealing with these emotions and trying to see how they
+fit together and they're sitting it's more like a surface that comes around
+and meets itself it's not the question of orientability
+that is what characterizes cross cap but the idea that you have something
+that what we call in mathematics is immersed
+rather than embedded that you have you have a surface that comes around and
+intersects itself it comes out and then it comes around it might
+intersect itself again in some other kind of
+special place so it's more this question of
+the fact that you have self-intersections and
+immersibility as opposed to embedibility in terms of the
+mathematical technical terms for yeah that is a great
+image of those modes of intersection called singularities yes
+it's a very evocative term for a psychoanalyst
+i mean you know if you the simplest kind of
+thing is you know if you take a curve that you grow on the plane that comes
+around and intersects itself in one point
+well you can write down equations for surfaces where
+the surface lives in a bigger space because there are more variables but
+then they intersect in a whole line or in bigger and even bigger
+pieces and sometimes it does it in a nice way and sometimes it does it in a
+very not very nice way and there are lots of theories to think about these
+various singularities and see how they come about
+but you think also is that sometimes the opposite
+speaks and that's what you were saying with this type of emotions i mean the
+extreme desire and extreme fear or feeling of threat
+meat but the only thing i would say that
+somewhat differs from your position is that i find that this is
+occurs all the time i don't think it's a rare
+event i think in decision-making all the time
+there are these singularities these conjunctions of opposites these
+unexpected i agree all right what i'm saying is that
+when you look at it from a conventional approach
+you like this and you dislike a threat okay they're separate and what you're
+saying is no don't expect them to be separate expect them to
+converge and in mathematics expect them to come together all the time
+and they do and i agree with that and that leads to a totally different types of
+type of mathematics and you can predict different things
+for example believe it or not you can predict some things that's happening
+quantum probability using this type of mathematics
+that you couldn't predict otherwise and and maybe that we should be using one of
+those because the quantum probability scheme
+that is also the biological connects with the issue of frameworks and i
+don't understand why since i call ushists or understand that we think in
+frameworks those two fields have not been
+closer together
+did i say something wrong i don't know
+yeah i think i'd like to just go back to the the basic question of
+a fear versus anxiety because i i think most of the stuff you talked about in
+your example would fall into the category of what scientists call
+anxiety more than fear
+so the typical scientific definition is fear is
+a state that occurs when there's an immediately present threat so like the
+snake on the ground whereas anxiety is one where you're
+anticipating a threat now by that definition though
+really almost everything that we call fear is anxiety because
+it's usually not you know the snake itself but the
+what what you're what's you know there's nothing about the snake that's
+inherently dangerous it's the you're worried that the snake is
+going to bite you so all of that is becomes anxiety
+um now one way to to look at these things is in terms of
+what's called predatory imminence um this is a theory that michael
+phanslow ucla is advanced and he has a scale of uh different degrees of
+temporal and spatial proximity that determine uh how a rat is going to
+respond to a particular threat or any other organism
+so if the stimulus if the threat is like immediately
+in front of you uh then you have you you will freeze
+if it's a little bit further away um you will freeze but sort of be
+engaging in uh what's called risk assessment kind of head bobbing and
+moving back and forth but when you're frozen you're just
+dead solid no movement at all but if the threat is further away you're kind of
+checking it out if the threat is very far away you might
+just run away because that's uh the best thing to do if if you have
+the opportunity to escape and if it's really far away and
+is not even visible then you know there's no response at all
+even though it may be potentially present so
+an animal that is um is hungry for example he's what hungry
+we'll have to overcome certain concerns every time he goes out of the the
+nest and into the world there's a chance there's a probability that he's
+going to be eaten but uh he knows what's going on in his
+local area so he's going to take that chance to go find something to eat
+uh so there's no threat present but he has to be vigilant just in case but he's
+going to still perform the behaviors he needs to unless the threat is actually
+detected at some distance and depending on how close it is the uh
+the way it will respond to be different so it seems that maybe that's just too
+simple mud in terms of topology but it seems that there's a
+topological relationship between what the animal is going to do
+and uh what it expects and so forth that is a very good example
+yeah okay i think we can go to questions yeah
+i think there is a couple of questions here
+they have to be questions they don't have to be statements and long comments
+great questions please
+let me refer i did have a comment that was going to turn into a question so
+let me rephrase it uh i think uh joseph mentioned as
+Paul did later on but you were very explicit that one of the issues here
+is definition of terms so i went the question i have for
+Linda i think at first um in topological space especially
+mathematical top uh topology uh the notion of
+continuity versus a continuous versus discrete transformation
+is very very precise so i think the whole idea of discontinuity here
+was used in a context that strays from a strip topological
+uh interpretation so i wanted to ask you that uh and i'm quite
+understanding well in that um if one if if if you're talking about for
+example the uh transforming the topology uh based on certain axioms
+into a second topology based on different axioms
+if that's a continuous transformation that's one thing
+if there's separate type of topologies it's something else
+yeah so right so i think basically what she's defining is a separate
+okay it's not it's not that it's not that you're making a continuous
+transformation from one topology to another yeah yeah yeah no
+and then the since that's cleared up the question i have for you specifically
+would if you have looked into or think that looking into
+um abelian lee groups would have any traction in this context
+and i break i bring that up because of its relationship to quantum mechanics
+and that lee groups have been shown to um be very useful in probabilistic
+interpretations of quantum events yeah so i'm actually bresiella can probably
+answer that better than i can because she has worked with
+mathematics of those models so she would know better weather
+you really how you how you use the abelian yeah but they would kick me out of
+here if i started talking about that but yes i mean
+if you everything they were saying is very very close to quantum
+probability by that among other things you have different frameworks in which
+you look at things now when you do have that and you
+transform one framework into another that is a group of transformations
+that gives rise to either abelian or non-abelian groups
+oh very good okay so then i'll talk to you later about
+the relationship of min max uh to that statement
+wow that i i don't know it's like linda said
+they are not connected i mean typically speaking what you do there is you
+transform if a basis of coordinates into another
+and you're not using min max no but in terms of the topological
+representation of the two different uh state spaces that's what i put not now
+thanks hi i'd like to ask if you could define
+embedded versus immersed and if there is a an analogy in both psychoanalysis and
+in the work show that you do this question only in new york city
+i was an amazing question okay so it's um if i have a surface that's embedded
+it will intersect itself if i have if i have a curve
+i mean it's easier to think about a curve that comes back
+and crosses itself if it crosses but i can think of it as a curve because it
+makes sense to follow it around right so when i follow it around like
+shoelace and i go to tie it that's where it crosses itself
+if it fuses together if it doesn't come together
+if it's if if when i follow it around it never touches itself it's embedded
+very simple
+okay so your necklace isn't bad if it doesn't come together
+actually but yeah i can do it doesn't you're right
+but is there an analogy in the sense that when you start thinking about
+emotions that are close together in terms of say the way they make you feel
+or and you start going through moving through
+emotions that are close together and then these are
+would somehow feel very far apart but in terms of their occurrence within the
+space they come together again as in feeling good
+and then feeling fearful and so you've made this transition through these
+various different emotions and you come together and all of a sudden there you
+are in the same place yeah i'll i'll give you one other
+example uh it has to do with the notion of transference
+in psychoanalysis transference yeah the notion of transference
+it to put it very simply is that an event taking place
+can be simultaneously meaningful in two
+points of time two points of time i.e. a memory and an encounter in the present
+can be at that moment experienced as a simultaneous event
+so there is exactly the kind of so you've gone from when it happened before
+through some period of time and now you experience it again
+and so it is in the but it feels like so you're in the same point from the
+point of event but a different point in time yeah and that is
+transference in psychoanalysis you know defined topologically
+so from the neurobiological point of view that what you just described is
+the you know when we scientifically we think of
+being able to attend or be conscious of a particular thing in our mind
+means that that information is in what's called working memory
+so maybe you first had one state one of these states in working memory
+or the other but now they're both in working memory so they're simultaneous
+but in terms of you know so-called emotions whether you can have two
+emotions at one time in terms of the biological
+underpinnings of emotion is i don't think we we know the answer but
+you know if we think of for example
+what what these states do let's say you're in a state that's been triggered by
+the presence of a threat it begins to monopolize your brain because it
+takes over causes you know this is a survival situation
+so your brain is now in a state where everything has to be dedicated
+to survive the moment so that's why it's monopolizing so it would be hard for
+another state to take over at that point unless it had some
+greater priority so let's flip things around let's say you're really hungry
+so the the nutrition energy balance system has taken over your brain
+but um you know that there's a predator right out there where you've got to go
+get your food so you're not going to go out you're
+going to stay hungry for a while on the other hand
+let's say you know the predator's there and you're still hungry and you're
+really hungry you're on the point of starvation now so you have to risk
+encountering the predator to get some food so these are uh
+can be thought of as different points of monopolization that where the
+states are almost uh discontinuous and switching back and forth
+as needed on the momentary state
+okay
+frustrated by this idea of this this model this
+topology which is is trying to be imposed on
+something and it doesn't fit and well it seems to me that i've been
+i was a computer programmer most of my life and i understand programs that
+i understand programs that uh you know possibly predict to like which
+where you're going to put your money you know if you're
+a vase of uh you want to avoid too much risk and something like that you could
+put it but it can't be just it isn't something simple
+it's something very very complex you would have a case's well case
+from from this age to this age or this you would have right a
+very complicated program and and the complicated program
+would have to follow the analysis and the input from the people who uh
+were actually dealing with something real it's sort of like uh
+uh science following observation and then uh people coming up with
+uh this happens this time and this time and this time and then the theories
+are evolve and uh when the after the theories evolve
+something comes up that this that doesn't quite fit in so it's slightly
+modified you modified the program slightly to fit it in and to me that's
+what science is about it is i i find it very frustrating to think of
+a topology uh that uh that's very vague and i don't know
+what any practical use for it and and i don't see how it's going to
+work you if you have a programmer programming
+these decision tables interviewing every
+uh analysis and you can i could set up a i believe i could set up
+certain questions that therefore a individual patient and every person
+would be different and they would have these different things that they would
+be afraid of and when they wouldn't then you they would become very predictable
+if you fit it into a program and then you could would test it to see if
+if it would work and when it didn't work you would have to modify it
+and but i don't understand i a an abstract philosophical
+uh topology imposed somewhere or or where it isn't either
+influenced by the underlying analysis and or experiments that would say
+prove that this analysis of theory was wrong you have to start with the
+observation observation of the rats or
+observations of or much more complex observations of human beings by
+analysts uh getting uh getting all this data and then you
+come up with after the fact with a formula that would work i can't see
+coming out starting with a formula and then
+important from the outside first of all is a fascinating comment
+fascinating from your experience to tell us that um but
+let's look at the rat okay so the question is
+you want to predict what's going to happen to the rat or he wants to predict
+what's going to happen to the rat when he grows up
+so he's not pursuing that i think what he's doing well you want to predict
+no what your what what you can keep with the program
+all the same rats when they were growing up
+observe many of them see what happened to the ones who
+be who had this experience and the ones that didn't have that experience
+and then you then you do that after the fact what's your name
+ready ready what the polish is doing is telling you
+what to look at what to look at yeah what's important
+okay and if you tell me that is a large philosophical theory that doesn't
+matter that's not what the polish is telling you
+what what matters is is the average behavior of the mother
+or whether the mother at some point took a deep dive and did something
+that have caused a big impact on the young brain
+what matters more what you do on every day basis with a child
+or what you do what you did once and that's extremely
+so the same thing is through about a computer
+programming yes you want to say you want to feed data
+and then you want to see if the data is within this neighborhood i know this
+is going to be the result but suppose that you say no what matters is
+what's the minimum of all the numbers you feed and that's going to determine
+whether it's going to go this way or it's going to flip
+and your computer program so the question is what is important
+are you testing for the correct thing is that yes
+and therefore that is very crucial it's not
+oh philosophical and that's what we're talking about
+by topology by the way i take the opportunity to say that
+i brought 15 copies of the article the topology of fear
+if you want to read them they would be left i did not read it before so i'm sorry
+no of course not but i mean they're sitting there
+so in some sense it's really very fundamental because that's what science
+is looking for patterns but i think like a psychology
+it seems to me that psychologists are doing that they are coming up with
+tests they're coming up with tests that it seems to me that
+that's very anyway i don't i'm not going on
+yeah thank you very thank you and i will read your
+article thank you
+why has anybody mentioned uncertainty which seems to me
+uh the fundamental condition of human condition and
+which to link what the psychoanalysts said
+with what you were saying you've got your financial decision that
+needs to be made and at the same time somebody has
+a desire in both cases what's really an issue
+is the uncertainty of the outcome that comes with our normal day in and day
+out living and decision making we have to make
+so that what what we're talking about and it really is the response to threat
+as well because what is the threat we're responding to
+we're responding to the threat of uncertainty because that's the way life
+is we don't know what's happening from one
+one second to the other psychoanalytically if somebody has a strong
+desire it seems to me it's fairly natural to
+also have fear associated with it because it's uncertain we don't know that
+will come out it's not a matter of the
+specific desire that we fear it's another aspect of it
+that we know the uncertainty that we may encounter in reaching
+in having that desire satisfied but again what
+by basic point is what was missing in this whole discussion
+was nobody talking about uncertainty and the fact that
+in each and every case what you're really looking at
+is we're here now and we're either perceiving threat perceiving concern
+that's the future and that's where the uncertainty comes in
+and let people answer it but we're going to have a round table on uncertainty
+later in the year okay everything we said was about
+uncertainty everything from the from the word go
+when we started saying well you don't know what's going to happen with the
+market conditions are you going to invest to get
+the best possible expected return that's uncertainty
+are you going to be afraid or and focus on the market crash
+another form of uncertainty the question is how do you define uncertainty and
+what do you focus on are you focused on on the average
+uncertainty of the weather or are you focused on the maximum and the
+minimum well you see but but this is where i get
+my question regarding the the mathematical explanation
+in the uh the topography and again a couple of times you alluded to
+quantum mechanics okay and we know that quantum mechanics
+the uncertainty principle and the idea of what you're trying to do
+is predict probabilities mathematically but when we're talking about
+i think the topic of human uncertainty we're talking again to go back to the
+subjective the the individual trying to make their
+own decision and all i can say at that point
+i mean it is so much more complicated i think
+than what we've said but you still got a look at it from the standpoint of the
+individual and again each one of us has to face our future and we do it
+every minute of our lives it's too bad Paul is not here
+because that's exactly what he works on the way the brain is a Bayesian
+statistical probability generator and how our decisions are based on these
+probability estimates and incidentally what i wanted to talk with him but
+is the Bayesian decisions or the Bayesian updating
+which is that you have the belief and then you get a new piece of information
+and you update your belief that's what Bayesian uh theory does
+well how do you update your belief mathematically you updated so that they
+know updated distribution that you adopt
+uh minimize the errors given what you now know
+and the minimization of error depends on
+the topology do you want to minimize error on the average
+or do you want to minimize the extremal errors it makes a completely
+come a drastic difference to your Bayesian
+optimization whether you want to minimize the worst possible error
+or the average error so therefore you even then the the issue of the
+the polish that you use makes a big difference and
+your issues about the animals making decisions like that the frozen animal
+making a decision are getting more information as you just said that's
+making a Bayesian decision it starts sitting there
+frozen and scoping up what is that Bayesian updating
+right well is it scoping up for the average
+of what the predator is going to be or for the worst possible thing that's
+going to happen and is he going to react differently
+and the answer is very differently and that's what the
+topology of fear price of capture sorry so
+let me give you a simple example take physics you drop a ball from a
+tall building and you can predict by an equation how long it will take to
+hit the ground however if at the same time you happen to have an earthquake
+which is a rare event you get a different outcome the point of this is
+trying to explain a bit more because i think people are not used to that
+it's a very important example so so the point i'm trying to make it
+really really are two complex systems involved here
+there's the reality and then there's the brain and they both have this
+phenomenon that they are capable of all the butterfly effect
+of having a discontinuity that is a very small new piece of Bayesian input
+will cause a drastic change in your updating of your information
+so the question i have in the studies in the trying of
+the notable effort and noble effort everybody's trying to do to try to put
+this on a scientific basis there's some of the fundamental limitations
+that come with it being a complex system and even more
+fundamental when you have two interacting complex systems
+that is the brain and the reality it's trying to deal with
+so my question to the panel is how does one
+simultaneously recognize that there's no fixed point here
+that both the decision making apparatus that is perceiving the reality
+has this capacity for a butterfly effect that is to have a discontinuity
+and suddenly change its reaction instantaneously for very
+incrementally small new piece of information
+and the reality itself that it's trying to make a decision about
+has that same basic property how does one
+fix it how does one know how when this entangle where that extra little
+input came from it was in your case because the person had an experience
+in real life that was a butterfly effect it traumatized them
+and it therefore made a fundamental change in how they're going to
+subsequently react or was it something that the reality was
+essentially continuous but something else that as you talk about in the
+background suddenly made a fairly normal thing
+cause a discontinuity in their brain how does one
+disentangle those two things you go on there coupled
+you know your question is related to the one before and i think it's about the
+limits of knowledge and factoring the limits of knowledge
+into your expectations and your schemas of analysis your theory of
+rationality even to have built into it
+that idea of you know an uncertainty factor an accidental factor
+unpredictable factor it's a change in the position of
+knowing right so there's one other comment in this it seems to me that
+the thing that i always think about in this context
+is that and i think that's what uh
+residuals theory i think is useful in is that
+if we walk around with an expectation of a continuous reality
+with a machine that is inherently discontinuous in the way it functions
+that will lead to some very incorrect analysis of what is going on how the
+system is reacting and the way to compensate for that at
+some level is what i call what is called commonly
+metacognition that is to acknowledge in a feedback loop to yourself
+that you are dealing with a series of discontinuities
+and have some mechanism both scientifically and personally
+in order to process and make your decisions that ask yourself that question
+or is this new piece of information that is causing this discontinuity
+something that i should be analyze and make a fundamental change or not
+and therefore be able to somehow compensate for the fact that you know you
+have two interacting circumstances that can expose you to these very rare
+moments that could cause a very significant change in your reality
+that's not particularly warranted but there are animals that have been
+around since the uh you know earliest times of life on earth
+that are so primitive they can't possibly have metacognition yet they've
+adapted to these discontinuities pretty well
+i don't think they have 99.9 percent of the species
+bacteria for example
+yeah because they do something and so they're the lifetime
+so they've adapted to that okay that's not a that's not a mechanism
+available to us and you are 90 bacterial DNA so don't stand there
+talk against them okay next question um so i'm a
+trauma psychiatrist that's how i make my living and i did read this paper
+years ago and have thought about it for many years because i know graciolan
+have taught this paper and i i sort of the comment i sort of do want to make a
+comment follow-up question the comment is i think that this is a ground
+breaking paper and the reason i think this is a ground breaking paper
+is because it's very in some ways it has a very similar place in the history of
+this kind of science to the famous paper by
+by backer about rational addiction and what the paper by backer with rational
+addiction did was to move the boundary of what is rational to show that i could
+use purely axiomatic rational modeling to explain addiction
+which broadened the concept of what rationality was
+and shrunk the concept of what irrationally and emotionally driven things
+one that he showed that you could actually mathematically and rationally
+predict even something as unusual as it as addiction and i think graciolas
+paper takes that even a step further and expands our notion of what is
+rationality and what we mean by rationality is something to do with
+consistency something to do with compute to
+computability something to do with predictability
+and those notions of rationality so i think it expands the very concept of
+what we think is rational and what we have to think is and and therefore
+there are it's actually less that we have to explain by this vague notion of
+emotional and irrational and i think it really think it does
+an amazing job of that but i think if you want to explain that paper you have to
+sit down with a friend of yours who's a mathematician to read this paper trust
+mail that way thank you
+hi um i've got a quick question about how i raise this up
+about the proximity of fear and desire so it's been suggested that because
+these emotions oftentimes occur together that there might be some
+tight-knit relationship between them so they should be close in our topological
+map of these emotions but your that's what it is
+your example um of the rat who's hungry for something that's in the same
+area as a threat makes me think that the closeness
+the the frequent reoccurrence of these emotions in tandem
+might say more about the events than the actual proximity of those emotions
+every event has multiple components some of which are good and some of which
+are bad and it has multiple potential components some of which are good and
+some of which are bad so you have different reward circuitry and
+different fear circuitry and they might be activated at the same time
+for the same event simply because there are different components to these
+events if my fiance invites me to go to dinner with her parents i'm
+afraid to act like an idiot and i'm also excited
+so i just don't think that should inform our topology
+of these emotions it might be the case that different events
+can excite both of these emotions and i was wondering
+you agree disagree well in order to answer that uh we would have to get into
+the notion of desire and what i mean by that or what is meant by that in psycho
+analysis that there is a logical connection
+between fear and desire not a contingent connection so what is it
+uh it has to this will take a lot longer than
+than we can get into but it has to do with
+um the uh how can i do it quickly it has to do with
+the experience of satisfaction of a wish and the complex symbolic
+meanings of that satisfaction there are fantasies
+that accompany the satisfaction of a wish and those fantasies involve
+ideas that are forbidden why as i said it's going to take a
+long time to answer this question what what it touches on is the
+i just it is it's it's the notion of repression
+in a psychoanalytic sense the psychoanalytic notion of repression
+that something occurs that makes desire
+linked in some way to the forbidden and it's the linking to the forbidden
+that constitutes the threat i guess i i guess constitutes the source of the
+threat so it's not contingent joe's example was about a contingent
+connection which can also exist but also i mean
+anything that you desire is potentially threatening for its loss
+so i mean threat comes with almost everything in life
+you know and that's the the most fundamental thing of staying alive is
+warding off the threats and the opportunity to acquire something useful
+uh will usually cost you something there will be some threats involved
+that you have to overcome to get it but also then you have to face the
+uh the threats that come from maintaining hanging on to it
+but it's love or anything else i i would agree that it's about the
+the centrality of loss i'm wondering but what is there oh i'm sorry
+just to just to comment on your example of the fiancé
+there it's not a given that you should be afraid because you're going to meet
+your fiancé's parents it is then you need to see him
+i guess i'm wondering if you could consider even the psychoanalytic
+desire for mastery just to simplify the discussion might you consider that
+a component of that same stimulus the event that you fear
+and the desire for mastery of that fear couldn't that be considered
+a component and then you can avoid the difficulty of letting that influence
+your topological map that way
+um so i guess what your question is is could there be
+a more sort of Euclidean or linear explanation
+of how it is that threat and desire link up i i guess ultimately i'm thinking
+it would be a mistake to conflate the events that trigger certain desires
+and those desires or emotions generally in themselves so ultimately we're just
+dealing with different systems and i guess i i kind of agreed with your
+point uh what what is the top topological map telling us i
+understand its utility and driving research questions
+but does it really tell us anything about
+the act does it have any predictive value yes
+and that's my point that's the point if you didn't forget it
+who cares thank you okay thank you question thank you
+so we will end here

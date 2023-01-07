@@ -1,0 +1,4427 @@
+WEBVTT
+
+00:00.000 --> 00:02.000
+The Helix Centre.
+
+00:06.000 --> 00:08.600
+I'm Ed Narsesian, Director of the Helix Centre.
+
+00:08.600 --> 00:13.000
+Welcome to this program on synthetic and systemic biology.
+
+00:14.000 --> 00:21.000
+Before Rob Panzer introduces the participants and tells you a word or two about our future programs,
+
+00:21.000 --> 00:26.000
+I'd like to say that the meeting will last around an hour, an hour or 15 minutes.
+
+00:26.000 --> 00:29.000
+After that you'll have time to ask questions.
+
+00:29.000 --> 00:34.000
+But please ask questions rather than making commentaries.
+
+00:34.000 --> 00:38.000
+I think it works better that way. Thank you.
+
+00:41.000 --> 00:44.000
+So let me tell you first about some upcoming events.
+
+00:44.000 --> 00:52.000
+On Saturday, May 18th, from 6.30 to 8.30, we're going to have the second annual heavy mental variety show.
+
+00:52.000 --> 00:55.000
+It's a night of mind, brain and magic.
+
+00:55.000 --> 01:00.000
+The amygdalaids led by neuroscientist Joseph Ladoux
+
+01:00.000 --> 01:04.000
+will play several suites of original songs on mind brain topics,
+
+01:04.000 --> 01:09.000
+the mind body problem, memory, emotion, unconscious processes and mental disorders.
+
+01:09.000 --> 01:15.000
+Each suite will be preceded by a short lecture on the scientific or philosophical foundations of the topic.
+
+01:15.000 --> 01:21.000
+Also, internationally acclaimed magician Mark Mitten will dazzle you with mind bending
+
+01:21.000 --> 01:25.000
+and brain twisting tricks of his trade. Doors open at 6.15.
+
+01:25.000 --> 01:31.000
+Admission is $10 without drink tickets and $17 for tickets with two beers or glasses of wine.
+
+01:31.000 --> 01:39.000
+Saturday, June 8th, altruism and empathy is a program with Stephanie Brown, Alan Leslie,
+
+01:39.000 --> 01:42.000
+Wind Schwartz and others.
+
+01:42.000 --> 01:46.000
+Then there are some round tables that are in the works for September,
+
+01:46.000 --> 01:54.000
+but I want to make special emphasis on a symposium that will be holding on October 12th and 13th
+
+01:54.000 --> 01:57.000
+in co-sponsorship with the Algama Foundation of Switzerland.
+
+01:57.000 --> 02:02.000
+It will be a two-day symposium exploring the significance of the work of A.B. Warburg
+
+02:02.000 --> 02:05.000
+for art, science and psychoanalysis.
+
+02:05.000 --> 02:10.000
+We will re-examine his work through the compound lenses of current knowledge of dynamic memory,
+
+02:10.000 --> 02:13.000
+the Freudian unconscious and historical scholarship.
+
+02:13.000 --> 02:17.000
+It will be an international gathering of scholars drawn from the arts and sciences
+
+02:17.000 --> 02:22.000
+featuring round tables, exploring Warburg's ideas and their adenbrations,
+
+02:22.000 --> 02:28.000
+and will focus on neurostatics, memory and unconscious psychosis and creativity,
+
+02:28.000 --> 02:32.000
+and Bizwanger and Warburg. Bizwanger was his psychiatrist at one point,
+
+02:32.000 --> 02:35.000
+and classical and renaissance art.
+
+02:35.000 --> 02:39.000
+Also, the evening preceding it, Friday the 11th, will feature the
+
+02:39.000 --> 02:43.000
+Mignoloids returning for a pre-symposium performance, and joining us at the symposium
+
+02:43.000 --> 02:49.000
+thus far, or historian Christopher Johnson, historian and psychoanalyst Peter Loenberg,
+
+02:49.000 --> 02:54.000
+art historian David Friedberg, philosopher and art historian George D. D. Hubermaugh,
+
+02:54.000 --> 02:59.000
+philosopher Andrea Pinotti, Warburg Institute historian Francois Quiviget,
+
+02:59.000 --> 03:05.000
+neuroscientist Christina Alberini, Aijon Chatterjee and Vittorio Galese,
+
+03:05.000 --> 03:12.000
+and Pierre Magestretti, and psychoanalyst Francois Answarmey and Edner Ncessian,
+
+03:12.000 --> 03:17.000
+also novelist and essayist Siri Housvet.
+
+03:17.000 --> 03:22.000
+Let me go on now to today's program.
+
+03:22.000 --> 03:28.000
+No. As soon as we have the definite times of the round tables
+
+03:28.000 --> 03:32.000
+and the confirmed other participants will put it up on the website,
+
+03:32.000 --> 03:35.000
+we'll keep checking back. Thanks.
+
+03:35.000 --> 03:37.000
+So let me introduce today's participants.
+
+03:37.000 --> 03:42.000
+Andrea Califano is the Clyde and Helen Wu Professor in Chemical and Systems Biology
+
+03:42.000 --> 03:45.000
+in the Departments of Biochemistry and Molecular Biophysics
+
+03:45.000 --> 03:48.000
+and of Biomedical Informatics at Columbia University.
+
+03:48.000 --> 03:52.000
+He is currently the founding director and chair of the Columbia Initiative for Systems Biology.
+
+03:52.000 --> 03:56.000
+He also serves as Associate Director for Biotinformatics
+
+03:56.000 --> 03:59.000
+in the Herbert Irving Comprehensive Cancer Center.
+
+03:59.000 --> 04:02.000
+The Biophano serves on numerous editorial and scientific advisory boards,
+
+04:02.000 --> 04:06.000
+including the Board of Scientific Advisors of St. Jude Children's Hospital,
+
+04:06.000 --> 04:11.000
+the Sanford Burnham Institute, MD Anderson Genomic Medicine Department
+
+04:11.000 --> 04:14.000
+and National Cancer Institute. Mark Fishman,
+
+04:14.000 --> 04:18.000
+his president of the Novartis Institutes for Biomedical Research.
+
+04:18.000 --> 04:21.000
+He leads worldwide discovery in early clinical activities of Novartis,
+
+04:21.000 --> 04:24.000
+which aims to develop novel therapeutics for diseases.
+
+04:24.000 --> 04:28.000
+Prior to joining Novartis, Dr. Fishman was Professor of Medicine at Harvard Medical School,
+
+04:28.000 --> 04:31.000
+as well as Chief of Cardiology at the Mass General Hospital
+
+04:31.000 --> 04:34.000
+and the founding director of their cardiovascular research center.
+
+04:34.000 --> 04:37.000
+Dr. Fishman is a Fellow of the American Academy of Arts and Sciences
+
+04:37.000 --> 04:40.000
+and the Institutes of Medicine of the National Academies.
+
+04:40.000 --> 04:42.000
+Michael Hecht is Professor of Chemistry at Princeton
+
+04:42.000 --> 04:45.000
+and holds affiliated appointments in the Department of Molecular Biology
+
+04:45.000 --> 04:48.000
+and Institute for Integrative Genomics.
+
+04:48.000 --> 04:51.000
+His research is at the interface of chemistry and biology,
+
+04:51.000 --> 04:54.000
+specifically his lab works in protein design and synthetic biology,
+
+04:54.000 --> 04:57.000
+as well as on the molecular underpinnings of Alzheimer's disease.
+
+04:57.000 --> 05:01.000
+In addition to teaching and research, Dr. Hecht is the master of Forbes College,
+
+05:01.000 --> 05:04.000
+one of the 600 graduate colleges at Princeton University.
+
+05:04.000 --> 05:07.000
+Christopher Mason is Assistant Professor at Wile Cornell Medical College
+
+05:07.000 --> 05:09.000
+in the Department of Physiology and Biophysics
+
+05:09.000 --> 05:12.000
+and at the Institute for Computational Biomedicine.
+
+05:12.000 --> 05:16.000
+Professor Mason also holds appointments in the Tri-Institutional Program
+
+05:16.000 --> 05:19.000
+on Computational Biology and Medicine of Cornell Memorial Sloan Kettering
+
+05:19.000 --> 05:21.000
+and Rockefeller.
+
+05:21.000 --> 05:23.000
+And at the Wile Cornell Cancer Center,
+
+05:23.000 --> 05:26.000
+where he's the Director of the Single Molecule Lab,
+
+05:26.000 --> 05:30.000
+he is co-founder also of the New York Synthetic Biology Association.
+
+05:30.000 --> 05:33.000
+Said Tavasi is a systems biologist who was Professor
+
+05:33.000 --> 05:35.000
+in the Department of Molecular Biology
+
+05:35.000 --> 05:37.000
+and the Institute for Integrative Genomics at Princeton
+
+05:37.000 --> 05:41.000
+before joining the faculty at Columbia University in 2011.
+
+05:41.000 --> 05:43.000
+Over the years, his laboratory has addressed fundamental challenges
+
+05:43.000 --> 05:45.000
+in decoding the regulatory genome
+
+05:45.000 --> 05:50.000
+and revealing how networks of interacting genes implement complex phenotypes.
+
+05:50.000 --> 05:53.000
+The long-term goal of his research is to achieve a predictive understanding
+
+05:53.000 --> 05:57.000
+of biological behavior in terms of the structural and dynamical properties
+
+05:57.000 --> 05:59.000
+of the underlying molecular networks.
+
+05:59.000 --> 06:02.000
+And Michael Waldholtz most recently served for six years
+
+06:02.000 --> 06:05.000
+as managing editor at Bloomberg News Business Week
+
+06:05.000 --> 06:08.000
+following his 25-year career as a writer, editor,
+
+06:08.000 --> 06:10.000
+and bureau chief at the Wall Street Journal.
+
+06:10.000 --> 06:14.000
+At Bloomberg, he was responsible for news coverage related to health care and science,
+
+06:14.000 --> 06:17.000
+including the pharmaceutical and biotechnology industries,
+
+06:17.000 --> 06:21.000
+health insurance, medical services, public health, and health policy.
+
+06:21.000 --> 06:24.000
+Mr. Waldholtz is the author of the book Curing Cancer
+
+06:24.000 --> 06:26.000
+and a co-author of Genome.
+
+06:26.000 --> 06:29.000
+He was awarded the 1996 Pulitzer Prize
+
+06:29.000 --> 06:33.000
+for national reporting for his stories on the breakthrough in AIDS medicine.
+
+06:45.000 --> 06:48.000
+Let's start the conversation.
+
+06:48.000 --> 06:53.000
+Who would like to initiate with a question or a remark
+
+06:53.000 --> 06:58.000
+or maybe say a few words about what the subject is about?
+
+07:01.000 --> 07:05.000
+Well, I think one of the ways to discuss the topic.
+
+07:05.000 --> 07:09.000
+I'm a systems biologist, but also a dabble in synthetic biology.
+
+07:09.000 --> 07:13.000
+But these new fields, as they emerge, they have a definition problem
+
+07:13.000 --> 07:20.000
+because the initial investigators who are forging the path forward,
+
+07:20.000 --> 07:23.000
+they're all doing somewhat different things,
+
+07:23.000 --> 07:26.000
+and in the process of actually defining the field.
+
+07:26.000 --> 07:30.000
+I think one way to define systems biology
+
+07:30.000 --> 07:35.000
+is in contrast to the prevailing approaches of modern biology in the last century.
+
+07:35.000 --> 07:40.000
+There have been extremely successful two axes of which are biochemistry and genetics.
+
+07:40.000 --> 07:47.000
+So, I think if I were to describe this really powerful existing methodology
+
+07:47.000 --> 07:52.000
+that is responsible for basically everything that we know, almost everything that we know right now.
+
+07:52.000 --> 07:55.000
+There are two ways of studying biological systems.
+
+07:55.000 --> 07:59.000
+One is to break it down into its composite components
+
+07:59.000 --> 08:03.000
+and intricately study the details of those individual components
+
+08:03.000 --> 08:07.000
+in an attempt to figure out what they're doing, what the whole system is doing.
+
+08:07.000 --> 08:10.000
+That's sort of what biochemistry does.
+
+08:10.000 --> 08:14.000
+The other approach has been very successful, even older than biochemistry,
+
+08:14.000 --> 08:17.000
+which is genetics, which is to take those individual components,
+
+08:17.000 --> 08:20.000
+break them down and see the fact that that has on the system,
+
+08:20.000 --> 08:24.000
+see how that perturbation causes a malfunction in the system.
+
+08:24.000 --> 08:31.000
+And so, it's akin to essentially studying, for example, how a car works
+
+08:31.000 --> 08:36.000
+by slowly destroying little parts of it,
+
+08:36.000 --> 08:40.000
+taking out the spark plug or the carburetor and seeing what the fact that has.
+
+08:40.000 --> 08:45.000
+So, it's extremely gross and caveman approach to understanding the system,
+
+08:45.000 --> 08:47.000
+but it has been extremely successful.
+
+08:47.000 --> 08:50.000
+But the real challenge nowadays for all of us in biology,
+
+08:50.000 --> 08:54.000
+and I think that's what kind of was the impetus behind systems biology,
+
+08:54.000 --> 08:58.000
+is to attempt to understand what the whole system is all about.
+
+08:58.000 --> 09:01.000
+What is it doing? How are the parts coming together?
+
+09:01.000 --> 09:07.000
+And I think the grand vision for us to shoot for is to have an understanding
+
+09:07.000 --> 09:12.000
+of biological systems in ways that are more similar to what physicists think
+
+09:12.000 --> 09:17.000
+about systems, which is to be able to predict the dynamical trajectory of a system in time,
+
+09:17.000 --> 09:20.000
+not well enough to understand that.
+
+09:20.000 --> 09:25.000
+That's the challenge. And I would argue that we're very far from that still.
+
+09:25.000 --> 09:28.000
+But this is kind of the goal that we're shooting for.
+
+09:28.000 --> 09:31.000
+To engineer the system.
+
+09:31.000 --> 09:34.000
+Well, I think engineering a system is important because I think one way,
+
+09:34.000 --> 09:36.000
+and that sort of was synthetic biology is about,
+
+09:36.000 --> 09:41.000
+but I think in order to really, if you want to prove to someone that you really understand the system,
+
+09:41.000 --> 09:47.000
+you should be able to re-engineer an instant of it and have it,
+
+09:47.000 --> 09:49.000
+and predict what that thing is going to do.
+
+09:49.000 --> 09:53.000
+And I think that's the scientific value of synthetic biology.
+
+09:53.000 --> 09:57.000
+There are, of course, other aspects of synthetic biology that are really important.
+
+09:57.000 --> 10:02.000
+And I agree. I think that's the true test of our understanding is the ability to forward engineer,
+
+10:02.000 --> 10:05.000
+and then I discreetly predict exactly what matters.
+
+10:05.000 --> 10:07.000
+It scares some people, though. That's the thing.
+
+10:07.000 --> 10:12.000
+When you say synthetic biology, there's often people who are worried that you're going to be creating
+
+10:12.000 --> 10:17.000
+super bugs or, you know, they think of evil scientists in their lab hackling late at night.
+
+10:17.000 --> 10:22.000
+But the, you know, most biohackers or more synthetic biologists are generally just tinkerers.
+
+10:22.000 --> 10:26.000
+They just want to try to discern what is sort of this test of their understanding of the genetic system.
+
+10:26.000 --> 10:29.000
+And there's even a laboratory in Brooklyn that's called GenSpace,
+
+10:29.000 --> 10:31.000
+which is a community laboratory.
+
+10:31.000 --> 10:35.000
+The way you think of buying a gym membership today, you could go to Brooklyn on Atlantic Avenue
+
+10:35.000 --> 10:38.000
+and get membership to GenSpace and go and play with pipettes.
+
+10:38.000 --> 10:42.000
+And if you want to make some of your cells turn green with GFP, you can do that in a couple weekends
+
+10:42.000 --> 10:44.000
+and learn how to do it.
+
+10:44.000 --> 10:46.000
+So there's, you know, and that's just synthetic biology.
+
+10:46.000 --> 10:51.000
+But when they set up the lab in Brooklyn, they had the FBI come first to make sure that they were legitimate
+
+10:51.000 --> 10:52.000
+and they invited them to come home.
+
+10:52.000 --> 10:54.000
+Really, we're just a group of people who want to tinkerer.
+
+10:54.000 --> 10:56.000
+They're really tinkerers.
+
+10:56.000 --> 11:00.000
+And so you go from that impetus of tinkering, I think, in larger academic and industrial centers
+
+11:00.000 --> 11:03.000
+to make it on a real high throughput scale.
+
+11:03.000 --> 11:04.000
+So it's...
+
+11:04.000 --> 11:07.000
+Well, I was just going to say it maybe as a...
+
+11:07.000 --> 11:11.000
+as the lay person, the non-scientist on the panel,
+
+11:11.000 --> 11:14.000
+it might be good for everyone here if someone could give.
+
+11:14.000 --> 11:22.000
+Because I think that was a really great general picture of how systems biology differs from what was being done.
+
+11:22.000 --> 11:30.000
+But I think for many of us, synthetic biology leads a very specific description with examples of what's going on.
+
+11:30.000 --> 11:32.000
+Yeah, I'll do that.
+
+11:32.000 --> 11:37.000
+So, again, I think what's said was defining with systems biology, synthetic biology.
+
+11:37.000 --> 11:41.000
+In a sense, I'd like to define that by saying that biology, as we know,
+
+11:41.000 --> 11:48.000
+albeit old biology that was taking things piece at a time, or systems biology, the modern type of biology,
+
+11:48.000 --> 11:51.000
+those fields are looking at that which is.
+
+11:51.000 --> 11:56.000
+And I think synthetic biology goes a step beyond that and asks what might be possible.
+
+11:56.000 --> 12:00.000
+What might we have not yet seen, but it's still possible?
+
+12:00.000 --> 12:06.000
+Okay, so in a sense, well, just that, that synthetic biology is going beyond that, which is and explores that, which might be possible.
+
+12:06.000 --> 12:13.000
+Which really does have a bit of a science fictiony, brave new world tone to it, but it's real.
+
+12:13.000 --> 12:14.000
+So could you...
+
+12:14.000 --> 12:16.000
+Let me elaborate on that.
+
+12:16.000 --> 12:25.000
+And I'll tell, I think much of what people normally think of as synthetic biology is where people are taking pre-agisting genes,
+
+12:25.000 --> 12:34.000
+proteins, or regulatory elements from various different cells, organisms, and mixing and matching them to make new cells that have particular properties.
+
+12:34.000 --> 12:41.000
+The example you gave a moment was a moment ago where you can take a green fluorescent protein that exists in one particular system
+
+12:41.000 --> 12:48.000
+and move it into another system and people have made green fluorescent organisms that didn't fluoresce before.
+
+12:48.000 --> 12:52.000
+So that's one form of synthetic biology.
+
+12:52.000 --> 12:53.000
+And that's...
+
+12:53.000 --> 12:55.000
+That makes E. coli smell like bananas, for example.
+
+12:55.000 --> 12:59.000
+Right, so in that case, there are people who are taking pre...
+
+12:59.000 --> 13:03.000
+In a sense, one can look at it as an analogy, as a toolkit of parts.
+
+13:03.000 --> 13:10.000
+And so the natural biology that we have is a toolkit of parts, genes and proteins and regulatory elements.
+
+13:10.000 --> 13:17.000
+And much of what people do in synthetic biology is to take these tools, these parts and rearrange them into different machines.
+
+13:17.000 --> 13:22.000
+That's one form of synthetic biology, and that's what most people think of when they discuss synthetic biology.
+
+13:22.000 --> 13:25.000
+I have a different take on synthetic biology, which I'd want to...
+
+13:25.000 --> 13:27.000
+Well, I'll do it now.
+
+13:27.000 --> 13:32.000
+A different take on synthetic biology, which is a bit perhaps more synthetic, and that is...
+
+13:32.000 --> 13:38.000
+Well, you started by saying, how do we define the basics, or maybe we'll define biology before we even get going?
+
+13:38.000 --> 13:41.000
+So what does it take to be a living system?
+
+13:41.000 --> 13:42.000
+What does it take to be a cell?
+
+13:42.000 --> 13:44.000
+What are the minimal requirements to be a cell?
+
+13:44.000 --> 13:52.000
+And I think in some respects, one can say that a living system, a cell, has to have molecular machinery, molecular machines that do stuff.
+
+13:52.000 --> 13:59.000
+So a living system has to have an enzyme that digests food, that's a molecular machine, or a molecular machine that enables vision.
+
+13:59.000 --> 14:00.000
+So those are molecular machines.
+
+14:00.000 --> 14:03.000
+And most of the molecular machines and biology are proteins.
+
+14:03.000 --> 14:11.000
+So one thing living systems need are... I'm defining living systems as a collection of molecular machines that do stuff.
+
+14:11.000 --> 14:18.000
+The second thing, I think, that living system that we need to define in terms of living systems are a blueprint, or an encoding...
+
+14:18.000 --> 14:24.000
+A way of encoding those molecular machines such that can be passed down from generation to generation.
+
+14:24.000 --> 14:29.000
+So a factory is a collection of machines, not molecular machines, but it's not alive.
+
+14:29.000 --> 14:32.000
+It doesn't pass down a collection of machines to the next generation.
+
+14:32.000 --> 14:37.000
+Biological system cells have a collection of molecular machines, the proteins, that do stuff.
+
+14:37.000 --> 14:42.000
+And a genome that encodes those molecular machines, and the genome gets passed down along the way.
+
+14:42.000 --> 14:50.000
+So my view of synthetic biology is a bit different from what I mentioned earlier in the sense that instead of taking molecular machines and genes,
+
+14:50.000 --> 14:57.000
+that preexisting nature and recombining them into different systems, taking the banana smell and putting into bacteria, taking the green fluorescent protein,
+
+14:57.000 --> 15:06.000
+and putting it into cats or whatever. Instead of mixing and matching preexisting parts, I think synthetic biology in its most extreme case is now at the point where,
+
+15:06.000 --> 15:17.000
+rather than take those preexisting machines and mixing and matching them, one can ask, is it now possible to come up with new sequences, new proteins, new genes, that can sustain life?
+
+15:17.000 --> 15:25.000
+I want to challenge a little bit, because I think there's a much broader sense in which we can think of synthetic biology.
+
+15:25.000 --> 15:36.000
+For instance, if you go back to what Zayla was saying in terms of creating something that essentially a new function will not be previously seen, utilizing biological components,
+
+15:36.000 --> 15:44.000
+would say that for instance you're saying the cycle of each of these things, to synthesize alcohol in a vat was probably the oldest or most synthetic biology.
+
+15:44.000 --> 16:02.000
+And that's the next thing I have to do with Diggenome, which is there are many ways in which you can even use natural evolution to create environments in which bacteria can multiply and naturally achieve some type of selective functions,
+
+16:02.000 --> 16:06.000
+and that also means that it's a synthetic biology.
+
+16:06.000 --> 16:18.000
+So I would say there's an entire progression of application of synthetic biology that go all the way from synthesizing molecules using sort of biological forms,
+
+16:18.000 --> 16:26.000
+all the way to actually synthesizing novel forms of biological life by messing around with the DNA, I think, kind of right, they're almost synthetic.
+
+16:26.000 --> 16:30.000
+As a synthetic biology and a synthetic biology are almost at two phases of the same coin.
+
+16:30.000 --> 16:40.000
+So you exclude reproduction of the two strongest poll shows of the human mind. So one is trying to figure out how things work, and the second one is to mess around with them as soon as you understand how they work.
+
+16:40.000 --> 16:42.000
+And some extent it's exactly what the two fields are doing.
+
+16:42.000 --> 16:56.000
+This is biology is trying to figure out things work, and it's trying to do so in a way that sort of takes a step back and goes into a much more unbiased, sort of completely neutral approach to understand biology,
+
+16:56.000 --> 17:04.000
+where for instance people say, let's make an example of the English language and say the word doc, depending on how, where you say the word doc,
+
+17:04.000 --> 17:11.000
+and if somebody says doc and you're in street, you better just get out of the way, but if somebody says doc and it's in a French restaurant, then no means a completely different name.
+
+17:11.000 --> 17:25.000
+And so in biology it's exactly the same thing, the same gene may be doing, completely different things in different contexts, yet the old vision of microbiology was that this pressure, this function, this activates a photo, this is the same.
+
+17:25.000 --> 17:38.000
+These are all true observation in particular context, and I think if system biologists thought of something, that context is extraordinarily important, and context is both molecular and physical.
+
+17:38.000 --> 17:54.000
+So on the other side, I think once we have this recipe, we think of ourselves living at the boundary of systems and synthetic biology, some of the things that we use from systems to actually implement the centennial biology
+
+17:54.000 --> 18:14.000
+is we program cells, so if you take for instance two genes and you modulate them in this molecule or you're seeing genetic approaches, and you can now turn the lineage of a cell into another lineage, that's a form of a state biology, that's a necessary question for programming the DNA, but certainly we program the full cells into the complete number function.
+
+18:14.000 --> 18:31.000
+So these are, I would say, there's a type repertoire, and this is also a way to justify the field, because if you start thinking of synthetic biology as the way, you know, heroes die in the first place, then it becomes a little less frightening if you think about it as manipulating DNA and making crack and stack.
+
+18:31.000 --> 18:49.000
+And where you put exactly that threshold, what you say, it goes from being something that is controversial to being something that's not controversial, that's where you really have to move your ethical slider and try to figure out where the lead is, but it's not a real breakpoint is a type of thing.
+
+18:49.000 --> 19:04.000
+I think the breakpoint is that it's now just in the last few years become possible to not just move proteins and genes from one system to another, but to actually create new sequences that bear no resemblance to anything that ever existed before, and to have those
+
+19:04.000 --> 19:23.000
+enabled biological functions, I think that's new.
+
+19:23.000 --> 19:34.000
+So in the high, sorry, the high-mutational context, for instance, you remove the DNA-repared genes from a bacterium, you can essentially engineer the same way as if you actually put in new pieces.
+
+19:34.000 --> 19:47.000
+I have a simpler definition, which is any interaction that humans have with biological systems that changes the behavior of those systems.
+
+19:47.000 --> 19:57.000
+And the implications that come from that run a gamut as a physician, I'll start with the medical possibilities are fantastic.
+
+19:57.000 --> 20:00.000
+You can make new medicines.
+
+20:00.000 --> 20:11.000
+In fact, any medicine, in fact, is synthetic biology, both in its origin and its impact on the cell.
+
+20:11.000 --> 20:22.000
+And then the second is the scientific question, which I think is what's being addressed here too, which is a question of how do you actually influence a cellular system?
+
+20:22.000 --> 20:27.000
+And what's remarkable is how robust systems are.
+
+20:27.000 --> 20:29.000
+They tend not to change.
+
+20:29.000 --> 20:34.000
+So you can push on them in many, many ways without them changing.
+
+20:34.000 --> 20:53.000
+And that's where, as a geneticist, the caveman approach, which is what I do, is so remarkable because that approach, the genetic approach, finds those few nodes in the whole system that are critical and causes the system to either collapse or to amplify.
+
+20:53.000 --> 21:05.000
+And those are in many ways where the synthetic biologist will go because most of the places you interfere, turning genes up or down or proteins on, do nothing.
+
+21:05.000 --> 21:18.000
+And so, in fact, of course, it's actually a miracle that any of us survive any drug we're given because these drugs have very powerful effects.
+
+21:18.000 --> 21:25.000
+Somehow, the body buffers them in most cells except for the cancer cell or the cell that needs to be attacked.
+
+21:25.000 --> 21:27.000
+So that's the scientific element.
+
+21:27.000 --> 21:35.000
+But for me, it's not a complex synthetic biologist, not complicates anything you do that changes the system, the behavior of that system.
+
+21:35.000 --> 21:42.000
+I think something that's really fundamental to that point is, you know, the origin of these systems, right?
+
+21:42.000 --> 21:50.000
+Biological systems come about through this random process of mutation and natural selection over hundreds of millions, millions of years, right?
+
+21:50.000 --> 21:59.000
+And, you know, there's an organizing principle, there are bunch of organizing principles that contribute to its evolution and its function.
+
+21:59.000 --> 22:08.000
+So, if you imagine these kind of buffered systems where you perturb lots of different components quite a bit, actually, and the cells doing perfectly fine,
+
+22:08.000 --> 22:16.000
+you'd imagine that you would say that the biological systems in general are extremely robust to environmental perturbation, to noise, and so on and so forth.
+
+22:16.000 --> 22:26.000
+Whereas if you compare them to human engineered systems, like 747 or something, right, each of the components in these machines have been designed to have some tolerance.
+
+22:26.000 --> 22:32.000
+But the tolerances that they have are typically much worse than biological systems.
+
+22:32.000 --> 22:40.000
+And part of that has to do with the fact that these systems have to withstand a certain amount of mutation as they evolve with time.
+
+22:40.000 --> 22:49.000
+They have to have components that are modular because of the mix in matching that goes on, and the sharing of genetic information that happens as a function of evolution,
+
+22:49.000 --> 22:52.000
+mostly among the microbes in the horizontal gene transfer.
+
+22:52.000 --> 23:01.000
+But those kind of contingencies of natural selection are embedded in the way in which the system functions that are very different from the kind of things that people think about,
+
+23:01.000 --> 23:05.000
+when they want to design a system from scratch.
+
+23:05.000 --> 23:15.000
+And I think what's really amazing and really fascinating to look forward to in the future is the adoption of a lot of these evolutionary methods,
+
+23:15.000 --> 23:29.000
+some of which I think Michael has done in his work and others, is to utilize rapid evolutionary scenarios to design systems that are robust to a variety of different environmental perturbations and variations.
+
+23:29.000 --> 23:37.000
+And you know what's interesting about that just as a footnote is that cancer is not robust.
+
+23:37.000 --> 23:43.000
+That's why we can kill it because it didn't evolve to support the rest of the system.
+
+23:43.000 --> 23:48.000
+And to that end, I think the idea of starting to design systems, designing life again,
+
+23:48.000 --> 23:51.000
+we would probably not like some of the things that evolution has designed.
+
+23:51.000 --> 23:59.000
+For example, increasing gene expression noise as a measure of fitness in some cases or increasing mutation rate to give you a further adaptive advantage for some bacteria.
+
+23:59.000 --> 24:05.000
+We would probably not design a system to start to do those things, but their actually evolution has created them.
+
+24:05.000 --> 24:20.000
+I think as again as a lay person looking in the thing that interests me about synthetic biology is that there's an extension of using all the tools of molecular biology and genetic engineering that have come about over the last 20 to 50 years.
+
+24:20.000 --> 24:43.000
+To do what Michael says, which is to create new forms of life or new versions of existing forms of life by actually in the laboratory creating genetic sequences that don't exist, often using the same laws of that govern how we exist today.
+
+24:43.000 --> 24:58.000
+Laws of mutation. I think for most people, we don't understand that we've evolved to who we are today through some sort of natural selection, but that we aren't exactly who we might have engineered from the first place.
+
+24:58.000 --> 25:12.000
+And if we had to choose, but that a lot of this tinkering has exactly, you know, people get very concerned and I'll bet you we get questions from the public that you are playing God or tinkering with nature in a way that we can't.
+
+25:12.000 --> 25:15.000
+You know, how do you have the right and who's governing you?
+
+25:15.000 --> 25:21.000
+But that kind of tinkering, of course, mankind has been doing and nature has been doing from the get go.
+
+25:21.000 --> 25:31.000
+I often think of the piece of corn for some reason. I always look at corn when corn first evolved in this hemisphere, in the northern southern hemisphere.
+
+25:31.000 --> 25:38.000
+It didn't look anything like what corn looks like today and corn looks like what it does today because of human tinkering with it.
+
+25:38.000 --> 25:39.000
+Same with that ball.
+
+25:39.000 --> 25:43.000
+Same with that ball. Dogs are even better at that.
+
+25:43.000 --> 25:45.000
+So we've been tinkering all along.
+
+25:45.000 --> 25:50.000
+Or horses, yeah. I would even argue, I even push back against people who critique it.
+
+25:50.000 --> 26:00.000
+One is the historical context you just mentioned, but I would even argue, I guess I put forward the thesis that it's actually our duty as a species to embrace the engineering in that our survival may very well depend on it.
+
+26:00.000 --> 26:07.000
+And if you think in the long, long term, I'll posit this sort of thought experiment. So you think 100 years from now or 1,000 years from now or 1,000,000 years from now.
+
+26:07.000 --> 26:11.000
+I actually have this question, whenever we interview grad students or faculty for the department.
+
+26:11.000 --> 26:15.000
+My last question I always ask them is how long do you think the human species will survive?
+
+26:15.000 --> 26:19.000
+And it always throws people off because they're not expecting that at a job interview or a student interview.
+
+26:19.000 --> 26:23.000
+But I like it because it gives me a sense of their hope actually for the human species.
+
+26:23.000 --> 26:26.000
+And a lot of times people say 1,000 years or 1,000,000 years.
+
+26:26.000 --> 26:29.000
+I usually remind them we've been here at least for several million years in our current form.
+
+26:29.000 --> 26:34.000
+But one person even said 100 years, I think, well, humans will only be here for another 100 years and I said, well, good God, man.
+
+26:34.000 --> 26:36.000
+Why don't I just go to the beach and sell bananas and hang on?
+
+26:36.000 --> 26:42.000
+He said, well, I want the last 100 years to really count. It was actually what he said. I couldn't imagine.
+
+26:42.000 --> 26:48.000
+But I would argue it's our duty because we probably won't be here on this planet forever and the human genomes not built to live on other planets.
+
+26:48.000 --> 26:55.000
+So we may have to think of a time when we re-engineer the species on which we depend or even the human genome in order to actually survive in a long, long, long term.
+
+26:55.000 --> 27:00.000
+I think we have the ability of the species to think that far so we should consider that as a thought experiment.
+
+27:00.000 --> 27:07.000
+There's a precise moment in time. I think if you look at Albers, Natans and Smith, Nobel Prize, right, when they, restriction enzymes,
+
+27:07.000 --> 27:14.000
+that demarcated a very important milestone because before, the only thing you could do to manipulate biology was essentially look very natural.
+
+27:14.000 --> 27:21.000
+You could graft a plant on top of another plant. People have been doing that for tens of thousands of years.
+
+27:21.000 --> 27:28.000
+Nobody ever thought that would be either an ethical or potentially controversial. People have been breeding dogs, etc.
+
+27:28.000 --> 27:35.000
+But the moment you could actually do it molecularly and actually infringe on the domain of the most sacred molecules, DNA,
+
+27:35.000 --> 27:39.000
+then all of a sudden things escalate to tremendous proportion.
+
+27:39.000 --> 27:48.000
+I think, you know, obviously, one of the things that actually Mark said, I think, is extremely important is that we live to be a system of homeostasis
+
+27:48.000 --> 27:54.000
+and actually 90% of our machinery is to keep the cell doing exactly what it's doing regardless of perturbation.
+
+27:54.000 --> 28:01.000
+But the biggest domestic system is the actual world. If you go outside, you know, one of the biggest problems you have right now,
+
+28:01.000 --> 28:05.000
+people try to engineer algae to produce lipids at much higher rates.
+
+28:05.000 --> 28:10.000
+So you, for instance, get better biofuel production. And people have been very successful doing that.
+
+28:10.000 --> 28:14.000
+You know why we're not producing fuels? Because the moment you actually start breeding these things in normal environment,
+
+28:14.000 --> 28:18.000
+they are immediately out-competed by normal algae that don't do that.
+
+28:18.000 --> 28:26.000
+And so that's the way of the plan of getting back and basically telling you, look, yeah, you produce more fuel, but for the planet, it's not very helpful.
+
+28:26.000 --> 28:31.000
+And so these species will actually be out-competed and will eventually die. It will become not a dominant species.
+
+28:31.000 --> 28:39.000
+So I think that we have to always come to terms with, I think, today, right in New York Times that our CO2 levels are the highest in
+
+28:39.000 --> 28:46.000
+400 million years. That worries me. I think a lot more. Because that can trigger an absolute irreversible catastrophe and
+
+28:46.000 --> 28:53.000
+finance and no way to react to that. Most of the living organisms, if you think of the number of species that we have
+
+28:53.000 --> 29:00.000
+and the number of genetic experiments that are happening every day, and each one of them, just because of, you know, normal rates of mutations,
+
+29:00.000 --> 29:03.000
+almost everything that you could possibly do in the lab is actually being done out there.
+
+29:03.000 --> 29:11.000
+So when you say we're synthesizing new virus for influenza, is lethal and can transmit to man-to-man? That's being done every day out there.
+
+29:11.000 --> 29:15.000
+I have to disagree with that. I have to go back to what I said before and disagree with that.
+
+29:15.000 --> 29:19.000
+I think the current and the next stage of synthetic biology are profoundly different.
+
+29:19.000 --> 29:25.000
+It's not just ionizing radiation and individual mutations, and it's not just sampling sequences that may have been already sampled.
+
+29:25.000 --> 29:36.000
+I think it's at the point now when one can design proteins entirely from scratch that are not mutationly related to anything that's been seen on Earth before.
+
+29:36.000 --> 29:43.000
+And one can sample new sequences, both protein and DNA sequences, that are unrelated to anything that's ever been around.
+
+29:43.000 --> 29:47.000
+And I think that's a fundamentally different thing. It's not just making mutations.
+
+29:47.000 --> 29:52.000
+Michael, has anything been created like that that can be a specific example?
+
+29:52.000 --> 30:08.000
+Well, that's what my lab does. But there's also, I mean, I think in terms of protein design, there's David Baker in Seattle who's doing computational work to design proteins entirely from scratch with predetermined folds and predetermined activities
+
+30:08.000 --> 30:12.000
+that are unrelated to anything that any sequences that exist on Earth.
+
+30:12.000 --> 30:18.000
+My own work, we're making libraries of novel sequences unrelated to anything that has ever existed on Earth.
+
+30:18.000 --> 30:23.000
+And if a sequence base is larger than can it ever been sampled with a history of the universe?
+
+30:23.000 --> 30:32.000
+And someone can now make sequences that have never existed before and then challenge those sequences to provide to see whether they can provide life-sustaining functions.
+
+30:32.000 --> 30:43.000
+So one can actually go into bacterial cells, knock out parts of the genome, and then see if those parts of the genome can be replaced by sequences that never existed before.
+
+30:43.000 --> 30:51.000
+So if you do that, if you take a bacterial cell that has 4,000 genes and you replace four of them, well then it's an E. coli that's a little weird and it has four new genes.
+
+30:51.000 --> 30:56.000
+Again, these are not mutant genes. These are genes unrelated to anything that ever existed.
+
+30:56.000 --> 31:12.000
+So if you do it four out of four thousand, it's a minor thing. But when you start, I'm not going to do this, but we can imagine just around the corner that people can now replace large sections of a genome of, let's say, a bacterial cell with sequences that never existed before in the history of the Earth.
+
+31:12.000 --> 31:20.000
+And then that, I think, one has to come to grips with the fact that those are new forms of life that are not evolutionary variants of existing forms of life.
+
+31:20.000 --> 31:26.000
+They're fundamentally new, fundamentally new sequences, proteins designed from scratch, genomes designed from scratch.
+
+31:26.000 --> 31:34.000
+That, I think, is around the corner and I think that's, you know, in terms of philosophical or theological issues, that's sort of something that one wants to think about.
+
+31:34.000 --> 31:42.000
+Another thing would be chemotherapy. Often we use nucleoside anelones. We have variations of AC, G, and T that are just different enough that they killed the cells.
+
+31:42.000 --> 31:47.000
+And so you can use synthetic biology. I would even argue that chemotherapy could be viewed as a form of synthetic...
+
+31:47.000 --> 31:56.000
+And the genetic, the genetic code there. We're 20 amino acids for as long as the world's been around, but we can now engineer the genetic code to have more than 20 amino acids.
+
+31:56.000 --> 32:10.000
+What is the... I'm trying to understand the grasp of at least the fundamental semantic difference between having a protein that is completely different from another one and got to be completely different because of some very complex evolutionary path.
+
+32:10.000 --> 32:12.000
+God there, one that you would engineer from scratch.
+
+32:12.000 --> 32:23.000
+Parentage. The difference is parentage. The difference is linear. The difference is whether it evolved from something that pre-existed out in Darwin's swamp or whether it's something that came to be in an innocent, pathetic lab.
+
+32:23.000 --> 32:38.000
+I understand, but what I'm saying is it's a form of mental evolution. Instead of deriving from a process where the one position at a time to get there, there are by a process where the complete sedimentation is computed by computer or by AMMB.
+
+32:38.000 --> 32:44.000
+But the point is you now have a new protein. We're not saying we're creating new proteins all the time. We're doing the mutation.
+
+32:44.000 --> 32:58.000
+In some cases, we're doing big rearrangements and so other things that are... You do an inversion, for instance. That is a... I think in the public's mind, one is... evolutionary is natural.
+
+32:58.000 --> 33:05.000
+And this is synthetic. And I think that is the question that the product is the same. The protein is the same.
+
+33:05.000 --> 33:17.000
+So, for instance, again, as a journalist, we try to get down to examples. I think there are a couple of examples of synthetic biology that are out there already that are interesting.
+
+33:17.000 --> 33:33.000
+And it's interesting to see whether the public is bothered by it. One is changing the genes of algae to produce lipids or oils or fats and getting algae to produce biofuel of some type.
+
+33:33.000 --> 33:47.000
+Or in another instance, changing the genetics of yeast to not only create alcohol when they interact with sugar, but now to create fuel, which is already happening. Not in a commercial level, but it's happening.
+
+33:47.000 --> 34:02.000
+And those are examples of what at least has been described to me as synthetic biology. At that level, I think the public sort of feels, okay, you know, we're sort of tinkering with yeast in one instance, maybe bacteria or algae in another instance.
+
+34:02.000 --> 34:14.000
+But what is it when we start tinkering with humans? So you're talking about the fact that there may be medicine in the future. What do you... from synthetic biology, what do you say?
+
+34:14.000 --> 34:29.000
+Let me take it over several different ranges. The first is we can now take individual genes in a bacteria and line them up in a way so they will make novel drugs.
+
+34:29.000 --> 34:49.000
+Because you can predict from the sequence of the enzymes you put in there all the reactions that the cell will do, and then they will excrete that in. So you could, in principle, make very complex... and do you can naturally make very complicated molecules naturally in a cell.
+
+34:49.000 --> 34:59.000
+In fact, these are called natural products, even though these, of course, are unnatural in the sense that we were thinking about it. So from the point of view of new medicines, very powerful.
+
+34:59.000 --> 35:15.000
+Because these kinds of natural products are extremely good at being drugs. Let me take it to the extreme. I have taken care, let's say we're taking care of a child who has inherited disorder.
+
+35:15.000 --> 35:28.000
+Well, now we can go in with a particular set of enzymatic replacements, and this has not been done, but in principle. We certainly have done it in experimental systems.
+
+35:28.000 --> 35:34.000
+Take out the bad gene and put in the good gene. Replace it with the normal gene.
+
+35:34.000 --> 35:51.000
+Would you deny that to a child? You're changing their genome. Why would you not do that? We're not there. We're far from that. There's lots of issues about how many cells would have to take it up, etc.
+
+35:51.000 --> 36:10.000
+If you had a child with, let's say, with hemophilia, rather than getting regular injections every day, or regularly to prevent bleeding, would you not take the opportunity to fix their hemophilia gene? Of course you would. At least I would as a physician.
+
+36:10.000 --> 36:12.000
+What if it was an embryo? It's easier if it's an embryo.
+
+36:12.000 --> 36:27.000
+You can certainly do it as an embryo, and that's where it's been done in other animals' machines. But even in an adult or child in principle, if you could change enough of the liver and you get enough into the liver, you could do it.
+
+36:27.000 --> 36:37.000
+So there you have an extreme. One, you're tinkering with bacteria. Everyone says you can make a drug. The other, you're tinkering with humans. Both cases, you will revolutionize medicine for the better.
+
+36:37.000 --> 36:45.000
+There's even a more extreme scenario that's actually being used in human trials. HIV infects tel lymphocytes.
+
+36:45.000 --> 36:56.000
+There's a small fraction of a Western European population that has a variant of a core receptor on the surface of cells that is very ineffective for HIV infection.
+
+36:56.000 --> 37:15.000
+So what they're doing now in humans now is taking out some of those white cells in HIV patients and using zinc-finger nucleases to inactivate or modify that core receptor in a way that makes that patients T cell in vitro, impermeable to the HIV.
+
+37:15.000 --> 37:27.000
+Put it back into the human and have that grow and repopulate. And the idea is that eventually this could be a nice way to destroy the, to get out of HIV.
+
+37:27.000 --> 37:43.000
+So these kind of things, because of the example that Mark brought up, and there are many more examples coming up, because now, because of really amazing, fundamental basic research into understanding the way in which molecules work, we now have generated these tools
+
+37:43.000 --> 37:50.000
+that allows to go on an engineer human cells, any kind of cells that we want. And people are going to be wanting these treatments, because they're critical.
+
+37:50.000 --> 38:11.000
+And Dr. Siano has engineered this gene directly into the stem cell compartment of the bone marrow, and essentially populate the niche, these are the metabolism, and basically, this one child that was treated was effectively almost completely cured of a pretty bad disease by essentially doing the direct transplantation in the bone marrow.
+
+38:11.000 --> 38:28.000
+But, I mean what I was trying to do before was simply to some extent demystifying, when I do this, I'm kind of doing it in a more, maybe a little bit provocatory way, because obviously, I'm not trying to say that, trying to, in fact, to pass judgment at all on this entire field.
+
+38:28.000 --> 38:38.000
+I'm just basically saying that there are oversensetization of the process, and there are undersensetization of the process that are happening.
+
+38:38.000 --> 38:42.400
+cases, for instance, we think that certain things are immoral,
+
+38:42.400 --> 38:44.720
+when we've actually been doing some other things that
+
+38:44.720 --> 38:47.060
+are very, very close to them, and are not quite
+
+38:47.060 --> 38:49.680
+substantially different in theory,
+
+38:49.680 --> 38:51.520
+but that we're considered to be natural.
+
+38:51.520 --> 38:52.600
+And all of a sudden, because you're
+
+38:52.600 --> 38:56.840
+doing these at the molecular level, it's no longer natural.
+
+38:56.840 --> 38:59.000
+And to some extent, it's always when chemistry gets involved
+
+38:59.000 --> 39:00.440
+and things get complicated.
+
+39:00.440 --> 39:02.080
+But we have to remember that we all
+
+39:02.080 --> 39:05.600
+work with chemistry, whether it's natural chemistry or not.
+
+39:05.600 --> 39:07.840
+So when you actually graph the plant on another plant,
+
+39:07.840 --> 39:08.920
+and you're mixing their genomes,
+
+39:08.920 --> 39:10.760
+since I understand you are doing chemistry.
+
+39:10.760 --> 39:13.240
+But then chemistry in a way that doesn't involve pipettes,
+
+39:13.240 --> 39:14.360
+but it's still chemistry.
+
+39:17.320 --> 39:19.680
+I think I want to bring the conversation a little bit
+
+39:19.680 --> 39:23.560
+back to systems biology, because the degree
+
+39:23.560 --> 39:26.680
+to which synthetic biology is going to be successful,
+
+39:26.680 --> 39:28.360
+and people are going to rely on.
+
+39:28.360 --> 39:32.160
+And it's going to actually, over long-term produce results
+
+39:32.160 --> 39:33.720
+that people aren't going to be afraid of,
+
+39:33.720 --> 39:35.840
+relies on a foundation of understanding
+
+39:35.840 --> 39:37.880
+of how cells work.
+
+39:37.880 --> 39:40.000
+And that's where systems biology and modern biology
+
+39:40.000 --> 39:40.840
+comes in.
+
+39:40.840 --> 39:46.280
+And so one of the major challenges for us
+
+39:46.280 --> 39:48.640
+is to understand these systems well enough
+
+39:48.640 --> 39:50.440
+to be able to predict exactly what happens
+
+39:50.440 --> 39:53.040
+if you re-engineer a particular molecule in the cell.
+
+39:53.040 --> 39:56.720
+And what are the consequences of that when
+
+39:56.720 --> 40:00.640
+you put it back in in a very complex multi-scale system,
+
+40:00.640 --> 40:02.880
+which is a human body, all these organs interacting
+
+40:02.880 --> 40:05.760
+with each other, where we have just only
+
+40:05.760 --> 40:08.160
+begun to scratch the surface of that kind of potential
+
+40:08.160 --> 40:09.400
+interactions that can happen.
+
+40:09.400 --> 40:14.560
+So I think synthetic biology and systems biology
+
+40:14.560 --> 40:16.400
+are going to be interacting with each other
+
+40:16.400 --> 40:18.000
+as they co-evolve.
+
+40:18.000 --> 40:22.560
+And synthetic is going to heavily depend on systems.
+
+40:22.560 --> 40:26.200
+And I think this marks the divide between what
+
+40:26.200 --> 40:28.200
+Michael and Ray were talking about,
+
+40:28.200 --> 40:31.040
+which is using natural selection evolution
+
+40:31.040 --> 40:35.960
+to develop variants of existing molecules,
+
+40:35.960 --> 40:39.520
+is a essentially a brainless thing.
+
+40:39.520 --> 40:42.720
+You just set up the selection, cause mutations,
+
+40:42.720 --> 40:45.000
+and you'll end up finding bacteria that
+
+40:45.000 --> 40:47.760
+can do a particular thing, or mammalian cells.
+
+40:47.760 --> 40:52.520
+But having the knowledge of what are the compositional
+
+40:52.520 --> 40:56.600
+components, the organizing principles by which amino acids
+
+40:56.600 --> 40:59.560
+come together to form proteins, what do those folds do?
+
+40:59.560 --> 41:00.920
+How do the folds interact?
+
+41:00.920 --> 41:03.440
+And how do you make machines out of those folds?
+
+41:03.440 --> 41:07.000
+Is it a foundational knowledge that we need to gain?
+
+41:07.000 --> 41:09.080
+And people are gaining.
+
+41:09.080 --> 41:10.960
+Michael's laboratory, for example.
+
+41:10.960 --> 41:13.480
+In order to set up a foundation that
+
+41:13.480 --> 41:17.040
+allows us to build new things based on rational engineering
+
+41:17.040 --> 41:18.080
+principles.
+
+41:18.080 --> 41:21.360
+And I think that's where the most exciting stuff is happening,
+
+41:21.360 --> 41:24.160
+because that's where it will impact our understanding
+
+41:24.160 --> 41:26.840
+of biological systems.
+
+41:26.840 --> 41:28.760
+And so I think that's what I find really exciting.
+
+41:28.760 --> 41:30.240
+The other way around, too, I think actually
+
+41:30.240 --> 41:32.600
+what's been, to me, re-transformation is that we always
+
+41:32.600 --> 41:35.040
+think that understanding biology informs
+
+41:35.040 --> 41:36.040
+the ability of engineering.
+
+41:36.040 --> 41:37.640
+But actually, the ability of engineering
+
+41:37.640 --> 41:40.320
+also really helps dissect it.
+
+41:40.320 --> 41:44.000
+So for instance, Diego di Bernardo came from Jim Collins
+
+41:44.000 --> 41:45.720
+lab, engineered in yeast.
+
+41:45.720 --> 41:47.480
+A fairly complicated circuit.
+
+41:47.480 --> 41:49.840
+And that circuit was used in this conference
+
+41:49.840 --> 41:51.840
+that we ran off of last seven years, called
+
+41:51.840 --> 41:54.320
+Dream, where we essentially challenge
+
+41:54.320 --> 41:57.080
+systems biologists to dissect the piece of biology
+
+41:57.080 --> 41:58.160
+we actually know.
+
+41:58.160 --> 42:00.120
+The problem is that there's really no piece of biology
+
+42:00.120 --> 42:00.880
+we actually know.
+
+42:00.880 --> 42:02.960
+Literally, there's not a single one that we actually know,
+
+42:02.960 --> 42:04.800
+except for extraordinary, simple things.
+
+42:04.800 --> 42:06.840
+So having an actual engineer system
+
+42:06.840 --> 42:08.720
+and was engineered in a way that could not interact
+
+42:08.720 --> 42:11.120
+with the rest of the environment in yeast
+
+42:11.120 --> 42:13.720
+was incredibly important, because now you can get data
+
+42:13.720 --> 42:16.280
+that basically says, if you can reconstruct
+
+42:16.280 --> 42:18.800
+what the logic of the circuit was, now we
+
+42:18.800 --> 42:21.400
+know that your method works well before there's really
+
+42:21.400 --> 42:24.000
+no way to know whether it was able to be constructed.
+
+42:24.000 --> 42:24.960
+You didn't have a gold standard.
+
+42:24.960 --> 42:26.200
+You have a gold standard.
+
+42:26.200 --> 42:27.360
+And so this was actually, I think,
+
+42:27.360 --> 42:30.520
+that there's an entire new sort of discipline
+
+42:30.520 --> 42:34.320
+in synthetic biology that will help systems biology
+
+42:34.320 --> 42:36.600
+dissect regulatory models.
+
+42:36.600 --> 42:38.480
+I think to elaborate on something
+
+42:38.480 --> 42:41.040
+so you'd said a moment ago about making mutations
+
+42:41.040 --> 42:44.800
+and selecting is brainless as easy, and I agree.
+
+42:44.800 --> 42:47.840
+Versus engineering and knowing something about the system.
+
+42:47.840 --> 42:51.080
+And I think it has to do with Darwin on the one hand
+
+42:51.080 --> 42:54.000
+and engineer on the other hand and having them work together.
+
+42:54.000 --> 42:56.800
+So if you make random collections of mutations,
+
+42:56.800 --> 42:59.120
+you do selection, you said it's brainless in the mindless.
+
+42:59.120 --> 43:01.280
+We can do that into where it works.
+
+43:01.280 --> 43:03.280
+However, if you understand the system,
+
+43:03.280 --> 43:05.320
+then you can make a smart library.
+
+43:05.320 --> 43:07.920
+So suppose you can make 10 to the ninth a billion different
+
+43:07.920 --> 43:09.440
+variations of something.
+
+43:09.440 --> 43:12.480
+If you make that billion variations randomly
+
+43:12.480 --> 43:14.680
+and you select among them for a desired property,
+
+43:14.680 --> 43:17.040
+you may or may not get a hit of what you want,
+
+43:17.040 --> 43:18.320
+even among a billion.
+
+43:18.320 --> 43:20.400
+However, if you know something about the system,
+
+43:20.400 --> 43:23.440
+the system being either the molecule or the entire cell,
+
+43:23.440 --> 43:25.400
+then you can devise a collection, same number,
+
+43:25.400 --> 43:26.760
+10 to the ninth a billion.
+
+43:26.760 --> 43:29.400
+But now that billion is sampling that region of space
+
+43:29.400 --> 43:31.640
+that's most likely to succeed.
+
+43:31.640 --> 43:33.280
+And that's incredibly powerful.
+
+43:33.280 --> 43:36.120
+So if you can now make a smart library,
+
+43:36.120 --> 43:39.360
+I'm using the word library to indicate a collection, right?
+
+43:39.360 --> 43:42.400
+You now make a smart library of 10 to the ninth variations.
+
+43:42.400 --> 43:45.480
+And you select in a Darwinian sense among those,
+
+43:45.480 --> 43:49.600
+then you've combined both the smarts of the engineering
+
+43:49.600 --> 43:51.520
+and the dumb selection of Darwin,
+
+43:51.520 --> 43:53.480
+and then you have a much better chance of getting it.
+
+43:53.480 --> 43:56.440
+If I go again, I ask the question of specificity.
+
+43:56.440 --> 44:01.440
+You are making libraries of proteins or sequences, right?
+
+44:01.440 --> 44:03.720
+In a particular area?
+
+44:03.720 --> 44:04.720
+For what purpose?
+
+44:04.720 --> 44:05.560
+I'll give you an example.
+
+44:05.560 --> 44:06.960
+So for what purpose?
+
+44:06.960 --> 44:08.920
+Or give me an example.
+
+44:08.920 --> 44:12.160
+Well, an example is, so I mean, for example, Jack Schostak
+
+44:12.160 --> 44:15.560
+is a very well known scientist, Nobel Prize winner.
+
+44:15.560 --> 44:17.200
+He did some spectacular work where
+
+44:17.200 --> 44:18.880
+they made libraries of 10 to the 12th,
+
+44:18.880 --> 44:22.080
+a huge number of sequences, and selected among them
+
+44:22.080 --> 44:23.560
+for particular features.
+
+44:23.560 --> 44:25.720
+And they found them, because 10 to the 12th is a big number.
+
+44:25.720 --> 44:28.040
+And if you weed through that library,
+
+44:28.040 --> 44:29.800
+you'll find what you're looking for.
+
+44:29.800 --> 44:33.160
+In our case, we try to make designed libraries,
+
+44:33.160 --> 44:36.120
+and we'll make a library of 10 to the 6, much, much, much,
+
+44:36.120 --> 44:37.320
+much smaller.
+
+44:37.320 --> 44:40.160
+And it'll be much richer in terms of getting folded proteins
+
+44:40.160 --> 44:43.400
+or functional proteins, because you're
+
+44:43.400 --> 44:48.160
+pre-biosing a library to that part of space
+
+44:48.160 --> 44:50.600
+where you're more likely to get something that you want.
+
+44:50.600 --> 44:54.320
+Again, are you developing proteins of a certain type
+
+44:54.320 --> 44:55.520
+for a specific purpose?
+
+44:55.520 --> 44:59.480
+Or are you just doing it to see if you can do it?
+
+44:59.480 --> 45:01.560
+A 10-grained name.
+
+45:01.560 --> 45:03.280
+In our aim, what we're doing is we're
+
+45:03.280 --> 45:05.840
+trying to see what's possible.
+
+45:05.840 --> 45:07.400
+Let me give an example from something
+
+45:07.400 --> 45:09.040
+that happens in cancer all the time.
+
+45:09.040 --> 45:10.800
+So it's a very precise thing.
+
+45:10.800 --> 45:15.240
+So people do routinely, after Steve Ballage and other people
+
+45:15.240 --> 45:18.840
+introduce the technique, very large screens
+
+45:18.840 --> 45:21.520
+where they essentially knock out every single gene
+
+45:21.520 --> 45:24.040
+in a particular cell to see what are,
+
+45:24.040 --> 45:25.560
+because cancer, as Mark was saying,
+
+45:25.560 --> 45:27.080
+is a little bit less stable than normal cells.
+
+45:27.080 --> 45:29.080
+Actually, certain vulnerability emerge
+
+45:29.080 --> 45:30.880
+that are not normally in normal cells.
+
+45:30.880 --> 45:33.000
+And so they knock down every gene, and they say, OK,
+
+45:33.000 --> 45:35.360
+so we would gene kill the cell.
+
+45:35.360 --> 45:37.480
+If you do it out, it's an extraordinarily inefficient way
+
+45:37.480 --> 45:38.120
+of doing it.
+
+45:38.120 --> 45:40.640
+So one thing that we've shown, for instance,
+
+45:40.640 --> 45:44.960
+is that you can now study the regulatory model of the cell.
+
+45:44.960 --> 45:46.520
+So you reconstruct it from scratch,
+
+45:46.520 --> 45:49.080
+from a large number of observation of the cell.
+
+45:49.080 --> 45:50.640
+And when you interrogate these models
+
+45:50.640 --> 45:53.760
+with the specific question of how you would want to sort of
+
+45:53.760 --> 45:58.320
+abrogate the cell viability, they give you
+
+45:58.320 --> 45:59.560
+a set of recipes.
+
+45:59.560 --> 46:03.800
+And these recipes have typically a hit rate of about 60%,
+
+46:03.800 --> 46:06.600
+meaning that the best one was 100%.
+
+46:06.600 --> 46:09.520
+The worst one was 30% on average, we get 60% across,
+
+46:09.520 --> 46:12.000
+maybe 15 different tumor types that we looked at.
+
+46:12.000 --> 46:15.520
+So now, instead of having to shut down 24,000 genes,
+
+46:15.520 --> 46:18.880
+and then maybe you have most of the genes that actually
+
+46:18.880 --> 46:21.560
+will kill the cell that are shooting on the wheels of a car,
+
+46:21.560 --> 46:23.760
+they'll kill every cell, the one that are specific,
+
+46:23.760 --> 46:26.320
+maybe very, very small number, you now
+
+46:26.320 --> 46:31.320
+end up having a hit ratio of maybe 1 in 1,000
+
+46:31.320 --> 46:36.040
+to a hit ratio of now 60%, which is a huge change,
+
+46:36.040 --> 46:39.440
+and is exactly what Zane completely derived by,
+
+46:39.440 --> 46:42.520
+our ability to understand in a rational way
+
+46:42.520 --> 46:45.240
+what the cell is doing, mechanistically.
+
+46:45.240 --> 46:47.880
+So we still seem to have a PR problem, I guess.
+
+46:47.880 --> 46:50.680
+I think all of us are very pro-synthetic biology,
+
+46:50.680 --> 46:52.920
+pro-systems biology, but there's still,
+
+46:52.920 --> 46:54.480
+I think a large segment of the public
+
+46:54.480 --> 46:56.640
+that is frankly terrified, I guess.
+
+46:56.640 --> 46:59.120
+But I mean, what do you think are the ways we could,
+
+46:59.120 --> 47:01.040
+and we try to demystify it, so I'm
+
+47:01.040 --> 47:02.640
+going to make it more palatable?
+
+47:02.640 --> 47:03.960
+I thought that's how we're going to get
+
+47:03.960 --> 47:05.200
+mambarded in the question period.
+
+47:05.200 --> 47:06.200
+Yeah.
+
+47:06.200 --> 47:07.200
+OK.
+
+47:07.200 --> 47:10.440
+Well, yeah, I think one of the-
+
+47:10.440 --> 47:11.280
+Medical groups.
+
+47:11.280 --> 47:13.760
+I think one of the questions, you know,
+
+47:13.760 --> 47:18.040
+you can dance around some specific examples, not just-
+
+47:18.040 --> 47:19.040
+I'll give you one.
+
+47:19.040 --> 47:20.040
+OK.
+
+47:20.040 --> 47:23.400
+I mean, when you try to find a way to kill a cancer cell
+
+47:23.400 --> 47:27.520
+with an antibody, you have an antibody that carries a toxin,
+
+47:27.520 --> 47:29.880
+you will screen through artificial libraries
+
+47:29.880 --> 47:31.680
+that look like antibodies.
+
+47:31.680 --> 47:33.080
+They're made of antibody components,
+
+47:33.080 --> 47:37.040
+but they may not be real until you find one that binds tightly,
+
+47:37.040 --> 47:40.320
+will carry your toxic payload in to kill the cancer cell.
+
+47:40.320 --> 47:42.280
+That's how you do the business.
+
+47:42.280 --> 47:44.920
+So you're always- you know, these screens
+
+47:44.920 --> 47:47.200
+can lead to very powerful new drugs,
+
+47:47.200 --> 47:50.960
+and they're new proteins that may be unnatural in the sense
+
+47:50.960 --> 47:53.800
+of being seen before.
+
+47:53.800 --> 47:55.960
+So the analogy, there might be nuclear power.
+
+47:55.960 --> 47:58.800
+That we could use nuclear energy for a good, in that sense.
+
+47:58.800 --> 48:01.560
+But I'm not troubled by this, because I think it's
+
+48:01.560 --> 48:05.240
+the same issue that you have with nuclear power.
+
+48:05.240 --> 48:09.680
+If you call everything atomic, then you have the good and the bad.
+
+48:09.680 --> 48:11.880
+If you call everything synthetic biology,
+
+48:11.880 --> 48:15.120
+there will be some places we have to worry about it, right?
+
+48:15.120 --> 48:15.800
+So call it.
+
+48:15.800 --> 48:17.560
+If you throw everything into the same bucket,
+
+48:17.560 --> 48:20.440
+instead of saying, let's look at each of the kinds
+
+48:20.440 --> 48:24.200
+of specific applications and see, are there any that actually
+
+48:24.200 --> 48:25.440
+have problems?
+
+48:25.440 --> 48:28.720
+And the vast majority are either
+
+48:28.720 --> 48:31.840
+add to fundamental knowledge, or we'll add to a therapeutic
+
+48:31.840 --> 48:32.840
+armamentarium.
+
+48:32.840 --> 48:35.440
+And I think, again, the public, or at least the people
+
+48:35.440 --> 48:41.120
+I deal with when I'm answering questions as a journalist,
+
+48:41.120 --> 48:44.400
+I think an example you gave, or similar to one,
+
+48:44.400 --> 48:48.240
+would say, well, there is a drug out there called Enbrough.
+
+48:48.240 --> 48:51.320
+That works very well against rheumatoid arthritis.
+
+48:51.320 --> 48:54.080
+It is a synthetic antibody.
+
+48:54.080 --> 48:55.840
+In other words, it's a man-made antibody.
+
+48:55.840 --> 48:56.280
+It's the same thing, yeah.
+
+48:56.280 --> 48:58.720
+It's a man-made antibody.
+
+48:58.720 --> 49:01.000
+It was made in a laboratory.
+
+49:01.000 --> 49:04.040
+It takes something that was natural, which is a antibody.
+
+49:04.040 --> 49:08.320
+And scientists figured out a way of manipulating it,
+
+49:08.320 --> 49:11.640
+or creating it, in a form that it works specifically
+
+49:11.640 --> 49:16.120
+against a receptor in the immune system.
+
+49:16.120 --> 49:18.840
+In arthritis, the immune system is overactive.
+
+49:18.840 --> 49:22.600
+So this antibody turns the immune system down.
+
+49:22.600 --> 49:24.600
+Most patients given Enbrough don't know that.
+
+49:24.600 --> 49:27.160
+It's like me, when I get in my car,
+
+49:27.160 --> 49:29.280
+I don't really care how it works.
+
+49:29.280 --> 49:31.800
+I know that when I turn the key and put it in drive,
+
+49:31.800 --> 49:32.920
+it goes.
+
+49:32.920 --> 49:34.920
+All that other stuff I don't care about.
+
+49:34.920 --> 49:38.200
+So when most patients don't care that Enbrough does exactly
+
+49:38.200 --> 49:39.720
+what I just said.
+
+49:39.720 --> 49:42.640
+So in that place, people don't care about that.
+
+49:42.640 --> 49:44.520
+It's synthetic.
+
+49:44.520 --> 49:48.840
+But when we talk about creating new kinds of bacteria,
+
+49:48.840 --> 49:52.440
+new forms of yeast, or taking cells out of the body,
+
+49:52.440 --> 49:56.000
+like you said, manipulating it, and then putting it back
+
+49:56.000 --> 49:58.920
+in the body, people, I think, begin to have issues with it.
+
+49:58.920 --> 49:59.720
+Well, yeah, I know.
+
+49:59.720 --> 50:02.040
+I mean, for example, the experiments
+
+50:02.040 --> 50:03.480
+at the University of Pennsylvania,
+
+50:03.480 --> 50:06.240
+where they took lymphocytes out of patients
+
+50:06.240 --> 50:09.200
+who had terrible cancer and engineered
+
+50:09.200 --> 50:12.440
+a totally synthetic new receptor on their surface,
+
+50:12.440 --> 50:15.040
+and then those lymphocytes went and killed that cancer,
+
+50:15.040 --> 50:16.800
+cured those patients.
+
+50:16.800 --> 50:17.720
+That's about it.
+
+50:17.720 --> 50:20.080
+And stayed in that patient forever.
+
+50:20.080 --> 50:23.120
+So they're carrying this abnormal sequence forever.
+
+50:23.120 --> 50:26.960
+And my guess is quite happy to do so.
+
+50:26.960 --> 50:30.080
+So I think it, again, is important what it's for.
+
+50:30.080 --> 50:31.640
+The other point, which needs to be made
+
+50:31.640 --> 50:34.600
+and was made back at the origin of the molecular biology
+
+50:34.600 --> 50:37.000
+revolution when everyone was worried
+
+50:37.000 --> 50:39.800
+and actually shut down molecular biology, as you recall,
+
+50:39.800 --> 50:43.280
+for a few years, is that pretty much everything we make
+
+50:43.280 --> 50:48.040
+is not going to survive in the world,
+
+50:48.040 --> 50:50.480
+because it is not being selected for.
+
+50:50.480 --> 50:53.000
+It is not robust.
+
+50:53.000 --> 50:54.760
+Evolution has done a wonderful job
+
+50:54.760 --> 50:57.760
+of selecting out anything with any weakness.
+
+50:57.760 --> 51:00.600
+So pretty much anything we make, and this
+
+51:00.600 --> 51:02.400
+has been proved time and again, whether it's
+
+51:02.400 --> 51:05.520
+an unusual mouse, which was the original question,
+
+51:05.520 --> 51:09.320
+or these bacteria or yeast, will die in competition.
+
+51:09.320 --> 51:13.520
+So realistically, I think that the problem is small.
+
+51:13.520 --> 51:14.920
+But it's not nonexistent.
+
+51:14.920 --> 51:17.560
+And that's why I think we should say there will be times
+
+51:17.560 --> 51:19.240
+you should worry about it and times you don't.
+
+51:19.240 --> 51:22.400
+And I wouldn't just put it all under the one rubric, one
+
+51:22.400 --> 51:24.760
+umbrella of synthetic biology.
+
+51:24.760 --> 51:27.920
+I was saying that you just mentioned with those children
+
+51:27.920 --> 51:30.640
+what happens when those children's children,
+
+51:30.640 --> 51:34.840
+that they don't know long ago, doesn't affect the germline.
+
+51:34.840 --> 51:36.560
+So I would take even a step back.
+
+51:36.560 --> 51:38.800
+So the question is, you have to be very pragmatic about these
+
+51:38.800 --> 51:39.320
+things.
+
+51:39.320 --> 51:41.560
+So the question is, is there anything
+
+51:41.560 --> 51:45.720
+that has ever been possible to do in terms of stopping
+
+51:45.720 --> 51:46.960
+progression of knowledge?
+
+51:46.960 --> 51:50.280
+And that has never worked out.
+
+51:50.280 --> 51:53.160
+Could you have stopped understanding
+
+51:53.160 --> 51:57.240
+that you can break the atoms and that creates energy?
+
+51:57.240 --> 51:58.640
+To some extent, we could have prevented it,
+
+51:58.640 --> 52:00.440
+but somebody at some point would have done.
+
+52:00.440 --> 52:02.120
+And so I think that the more important
+
+52:02.120 --> 52:04.360
+to try and understand whether knowledge is good or bad,
+
+52:04.360 --> 52:07.920
+I think knowledge is neutral, is how we use knowledge
+
+52:07.920 --> 52:09.680
+that can become good or bad.
+
+52:09.680 --> 52:12.080
+So I think that this is a matter that is very important
+
+52:12.080 --> 52:14.320
+for legislation to take a stance.
+
+52:14.320 --> 52:18.200
+What are the things that are viable that we put safely into?
+
+52:18.200 --> 52:21.520
+So they have to be obviously a number of safety constraints
+
+52:21.520 --> 52:23.800
+that have to be satisfied, et cetera.
+
+52:23.800 --> 52:28.280
+But this is much more of a legislative matter
+
+52:28.280 --> 52:31.520
+than a matter of whether the knowledge producing
+
+52:31.520 --> 52:35.400
+exercise that essentially the scientific enterprise is
+
+52:35.400 --> 52:38.520
+undergoing should be arrested or continued.
+
+52:38.520 --> 52:42.040
+Because that's going to fail no matter why you try.
+
+52:42.040 --> 52:43.680
+There's never been one single situation
+
+52:43.680 --> 52:46.520
+where we've been able to stop the progression of scientific
+
+52:46.520 --> 52:47.000
+knowledge.
+
+52:47.000 --> 52:49.640
+So I would step ahead of that and try
+
+52:49.640 --> 52:51.120
+to figure out what we do with it.
+
+52:51.120 --> 52:52.720
+I think it's important the case where
+
+52:52.720 --> 52:54.760
+you have malicious intent, where you
+
+52:54.760 --> 53:00.720
+try to create warfare agents in this crazy world of ours today.
+
+53:00.720 --> 53:02.440
+That's possible.
+
+53:02.440 --> 53:05.680
+The only way to stay ahead of that is to just know more.
+
+53:05.680 --> 53:08.200
+That's the most important thing.
+
+53:08.200 --> 53:10.840
+Know more than the guys who are attempting
+
+53:10.840 --> 53:14.000
+to build malicious agents.
+
+53:14.000 --> 53:16.240
+The other thing is that we have to do a better job
+
+53:16.240 --> 53:19.760
+of educating the public, which is pretty dismally
+
+53:19.760 --> 53:22.600
+scientifically literate about a lot of these issues.
+
+53:22.600 --> 53:25.000
+I see it in the nuclear case, for example.
+
+53:25.000 --> 53:27.960
+It is by attaching a label onto something,
+
+53:27.960 --> 53:30.920
+you demonize it immediately, and you shut down the cortex.
+
+53:30.920 --> 53:33.000
+And nobody looks deeper.
+
+53:33.000 --> 53:36.640
+And we are in the realm where that
+
+53:36.640 --> 53:38.400
+could happen with synthetic biology.
+
+53:38.400 --> 53:40.880
+It's up to us, I think, as a scientific community
+
+53:40.880 --> 53:45.120
+to do better outreach and to educate the public more
+
+53:45.120 --> 53:47.360
+about the details of exactly what we're doing.
+
+53:47.360 --> 53:50.560
+How is it that we're generating these things?
+
+53:50.560 --> 53:51.800
+Where do they come from?
+
+53:51.800 --> 53:54.480
+What were we doing during dog domestication era?
+
+53:54.480 --> 53:56.120
+How is that different?
+
+53:56.120 --> 53:57.440
+Why do we love dogs?
+
+53:57.440 --> 53:59.920
+I mean, it was a really amazing experiment
+
+53:59.920 --> 54:02.480
+of human selection, right?
+
+54:02.480 --> 54:04.640
+And so I think those are the two things that,
+
+54:04.640 --> 54:06.280
+and I agree with Andrea, you can't really
+
+54:06.280 --> 54:08.160
+stop the pursuit of knowledge.
+
+54:08.160 --> 54:11.520
+And sometimes it'll be used for malicious purposes.
+
+54:11.520 --> 54:14.080
+The other aspect of it, I think, the bad,
+
+54:14.080 --> 54:17.240
+is the inadvertent problems that we might have
+
+54:17.240 --> 54:18.520
+with some of these things we engineer.
+
+54:18.520 --> 54:20.400
+We don't know how well they'll function.
+
+54:20.400 --> 54:23.520
+That's where, as a community, we have to set standards
+
+54:23.520 --> 54:26.120
+that, for example, the FDA will have
+
+54:26.120 --> 54:28.160
+to adopt about these therapeutics
+
+54:28.160 --> 54:31.440
+to make sure that we don't do harm on average,
+
+54:31.440 --> 54:35.240
+that we apply these methods to extreme cases
+
+54:35.240 --> 54:38.800
+where there is, for example, no other alternative.
+
+54:38.800 --> 54:40.760
+So these standards will evolve.
+
+54:40.760 --> 54:43.240
+And these things happen naturally all the time.
+
+54:43.240 --> 54:45.480
+I don't know if you looked at Aspen recently.
+
+54:45.480 --> 54:48.440
+There are no trees anymore because of the beetle
+
+54:48.440 --> 54:52.320
+infestation. The entire forest has been completely destroyed.
+
+54:52.320 --> 54:55.120
+And there was no genetic engineering at play.
+
+54:55.120 --> 54:58.760
+So these things happen in an organism
+
+54:58.760 --> 55:00.920
+or a microorganism getting out.
+
+55:00.920 --> 55:03.400
+The other one is like, I don't remember the name of this piece,
+
+55:03.400 --> 55:06.080
+but this plant that grows over vegetation
+
+55:06.080 --> 55:08.520
+if you go every US highway right now.
+
+55:08.520 --> 55:09.520
+Cousy.
+
+55:09.520 --> 55:10.520
+Cousy.
+
+55:10.520 --> 55:11.520
+Cousy.
+
+55:11.520 --> 55:12.520
+Cousy.
+
+55:12.520 --> 55:13.520
+Cousy.
+
+55:13.520 --> 55:14.520
+Cousy.
+
+55:14.520 --> 55:15.520
+Cousy.
+
+55:15.520 --> 55:16.520
+Cousy.
+
+55:16.520 --> 55:17.520
+Cousy.
+
+55:17.520 --> 55:18.520
+far Al715.
+
+55:18.520 --> 55:19.520
+lime b87aes.
+
+55:19.520 --> 55:20.720
+Non- grinded, huh.
+
+55:20.720 --> 55:21.720
+It's not resistant.
+
+55:21.720 --> 55:26.620
+How are you thinking about how we're looking at these Brand
+
+55:26.620 --> 55:27.620
+documents?
+
+55:27.620 --> 55:28.620
+And I also like that.
+
+55:28.620 --> 55:31.840
+And that counts as directed by the healthcare
+
+55:31.840 --> 55:32.840
+glycogen.
+
+55:32.840 --> 55:19.080
+So not as designed, Jackson, pawns over the
+
+55:19.080 --> 55:40.080
+plant council.
+
+55:40.080 --> 55:41.080
+Yes.
+
+55:41.080 --> 55:44.100
+And a partly, one term is linear.
+
+55:44.100 --> 55:38.240
+The bestCLE
+
+55:38.240 --> 55:41.480
+there was something implied in what you were saying.
+
+55:41.480 --> 55:49.840
+I was just putting out there the idea that the novelty is at a new scale.
+
+55:49.840 --> 55:56.040
+I was not going to put any value judgments on at all, but just to say that the possibility
+
+55:56.040 --> 56:02.240
+for one of the things I've talked about with students, it's not a question of if new forms
+
+56:02.240 --> 56:04.240
+of life are possible, it's when.
+
+56:04.240 --> 56:09.240
+It's when.
+
+56:09.240 --> 56:12.160
+That's something that one needs to think about.
+
+56:12.160 --> 56:14.400
+I sort of agree with what you two were saying before.
+
+56:14.400 --> 56:18.280
+I think transparency, right?
+
+56:18.280 --> 56:24.120
+You can't stop the progress of science, but in an attempt to prevent evil from happening,
+
+56:24.120 --> 56:26.320
+I think transparency is the most important thing.
+
+56:26.320 --> 56:29.720
+It's really better to know than not to know, because otherwise I would absolutely do it
+
+56:29.720 --> 56:30.720
+first.
+
+56:30.720 --> 56:35.360
+But I think when people do things behind closed doors in secret, then you've got to worry.
+
+56:35.360 --> 56:39.720
+We've seen that in societies forever, but when people do things out in the open, I have more
+
+56:39.720 --> 56:41.520
+faith that people will do good things.
+
+56:41.520 --> 56:44.640
+That's a standard of care in the bio-brick foundation.
+
+56:44.640 --> 56:46.640
+The idea is you want to build a house with bricks.
+
+56:46.640 --> 56:49.160
+You don't want to build a genome in an organ in the same way.
+
+56:49.160 --> 56:51.720
+All the parts, you can order them online.
+
+56:51.720 --> 56:53.720
+You can look up at what every piece is, every piece of DNA.
+
+56:53.720 --> 56:54.720
+It's all open.
+
+56:54.720 --> 57:00.720
+I wonder if you were also, though, up against a certain psychological orientation of the
+
+57:00.720 --> 57:07.080
+public who is not steeped in the science, where there tends to be an idealization followed
+
+57:07.080 --> 57:10.800
+by a de-idealization of new technology.
+
+57:10.800 --> 57:16.720
+I think the same thing happened with nanotechnology that was the promise of all these wonderful
+
+57:16.720 --> 57:22.800
+things that were going to take place in the world and transforming human life.
+
+57:22.800 --> 57:27.600
+And then there's the big, bad, gray goo that's going to the nanobots that are going to take
+
+57:27.600 --> 57:28.600
+over.
+
+57:28.600 --> 57:29.600
+I wonder if there's a...
+
+57:29.600 --> 57:32.920
+I think you make a really good point, because I think people are essentially scared of what
+
+57:32.920 --> 57:35.520
+they don't really understand in detail.
+
+57:35.520 --> 57:41.360
+When you do a graft and put a plant on top of another one, people understand that intuitively.
+
+57:41.360 --> 57:46.400
+They're not scared of it simply because they feel they have achieved that level of reassurance
+
+57:46.400 --> 57:50.120
+that is necessary to let that be in the back of their mind.
+
+57:50.120 --> 57:55.120
+When you start talking about very complicated operations, the manipulations of fundamental
+
+57:55.120 --> 58:02.440
+molecules of life, then people only grasp certain aspects of it, and it scares them to
+
+58:02.440 --> 58:05.640
+no end because simply they don't know exactly what's been done.
+
+58:05.640 --> 58:09.000
+And so I think that one of the things that really should be important about this, about
+
+58:09.000 --> 58:15.200
+demystifying this process is actually really have a major effort in education and in dissemination,
+
+58:15.200 --> 58:20.280
+because sound of these things can be explained in relatively simple layman terms.
+
+58:20.280 --> 58:24.960
+In a way that if you want to know about it, you can actually do it.
+
+58:24.960 --> 58:28.320
+I think there's the educational aspect and the fear that you referred to, but I also
+
+58:28.320 --> 58:34.400
+wonder whether you think that there's just a tendency that when the promises, especially
+
+58:34.400 --> 58:41.080
+when these new technologies are kind of hyped and people don't really know what the hard
+
+58:41.080 --> 58:45.520
+work is all about to develop the science, that there's a disappointment then when these
+
+58:45.520 --> 58:47.960
+things aren't forthcoming and so then there's tends to-
+
+58:47.960 --> 58:53.040
+But I think that disappointment currently constantly exists.
+
+58:53.040 --> 59:00.440
+The war on cancer, you know, 40 years ago, sequencing the human genome, where's all the
+
+59:00.440 --> 59:01.440
+great discoveries?
+
+59:01.440 --> 59:07.280
+Well, the truth is in the laboratories, the war on cancer has advanced and there have
+
+59:07.280 --> 59:10.640
+been breakthroughs, but cancer isn't cured.
+
+59:10.640 --> 59:17.400
+And the human genome sequencing has led to all the synthetic biology, but we're not
+
+59:17.400 --> 59:21.720
+buying anything in the grocery store, at least that I know, or the drug store as a result
+
+59:21.720 --> 59:22.720
+of it.
+
+59:22.720 --> 59:28.000
+And I think that kind of- that's just the nature of being human.
+
+59:28.000 --> 59:29.640
+I would like to make one pitch.
+
+59:29.640 --> 59:30.640
+I think that-
+
+59:30.640 --> 59:35.480
+One pitch as a retired working journalist, I mean I'm still working as a science writer,
+
+59:35.480 --> 59:41.880
+but not for a publication, is that I believe it's in the best interest of the scientific
+
+59:41.880 --> 59:51.000
+community, the pharmaceutical industry, biotechnology industry, to help educate the public.
+
+59:51.000 --> 59:55.840
+Listen, news people never think- we never think of ourselves as educating the public.
+
+59:55.840 --> 01:00:00.680
+We think of ourselves as seeking the truth, but there are very few people who are as skilled
+
+01:00:00.680 --> 01:00:02.600
+as I am in doing what I do.
+
+01:00:02.600 --> 01:00:06.320
+And it took me about 30 years to figure out how to do it.
+
+01:00:06.320 --> 01:00:15.240
+And I would argue that as the science gets more complicated, as these issues become more
+
+01:00:15.240 --> 01:00:22.680
+difficult for the lay public to grasp that a group of writers who can translate science
+
+01:00:22.680 --> 01:00:27.280
+into understandable, easily accessible, but an entertaining-
+
+01:00:27.280 --> 01:00:33.360
+Not just writing, but video and film or whatever, and someone ought to get together because
+
+01:00:33.360 --> 01:00:41.760
+the field of journalism in which those writers bubble up, I mean, there are schools that teach
+
+01:00:41.760 --> 01:00:46.000
+science writing, but there aren't places for those people to have jobs.
+
+01:00:46.000 --> 01:00:51.640
+In other words, the world, the media world has changed so dramatically that it is in
+
+01:00:51.640 --> 01:00:53.160
+a self-populating area.
+
+01:00:53.160 --> 01:00:59.080
+I would say in the 1950s and 60s that it was an explosion, and in other words, the creation
+
+01:00:59.080 --> 01:01:02.960
+of the science writers, and it was around the space probe, but there was- I mean, think
+
+01:01:02.960 --> 01:01:03.960
+about it.
+
+01:01:03.960 --> 01:01:07.840
+In New York City alone, there were six newspapers in each one of them had one or two science
+
+01:01:07.840 --> 01:01:09.840
+writers writing about the space.
+
+01:01:09.840 --> 01:01:10.840
+That's gone.
+
+01:01:10.840 --> 01:01:13.920
+Science writers are- Well, that's what I just told you.
+
+01:01:13.920 --> 01:01:14.920
+That's really disturbing.
+
+01:01:14.920 --> 01:01:21.600
+And without- and so what's happening, again, not to say, the new model is a nonprofit model.
+
+01:01:21.600 --> 01:01:27.640
+There are a number of nonprofit news organizations, investigative news organizations like ProPublica
+
+01:01:27.640 --> 01:01:33.760
+that are being funded by nonprofit organizations, sort of like the Gates Foundation, the Kaiser
+
+01:01:33.760 --> 01:01:42.320
+Foundation, Kaiser Health Foundation, underwrites the science news at PBS, and the Gates Foundation
+
+01:01:42.320 --> 01:01:45.400
+is underwriting science news at NPR.
+
+01:01:45.400 --> 01:01:49.400
+And if those didn't exist, there wouldn't be science writing at those two places.
+
+01:01:49.400 --> 01:01:50.800
+So that's my pitch.
+
+01:01:50.800 --> 01:01:53.000
+What- What about science science-
+
+01:01:53.000 --> 01:01:54.680
+Well, that's the New York Times.
+
+01:01:54.680 --> 01:01:55.680
+Yes.
+
+01:01:55.680 --> 01:01:56.680
+What about Seattle?
+
+01:01:56.680 --> 01:01:57.680
+I don't know.
+
+01:01:57.680 --> 01:01:59.780
+There's no science writers.
+
+01:01:59.780 --> 01:02:06.720
+I think there's even a bigger issue, which is not the- I think the scientific literacy
+
+01:02:06.720 --> 01:02:13.760
+issue and our ability to outreach is very critical to all these issues we're discussing.
+
+01:02:13.760 --> 01:02:19.820
+But I think the fundamental challenge that I see now in modern progressive societies is
+
+01:02:19.820 --> 01:02:28.360
+the lack of teaching of the history of science and technology to the population that is supporting
+
+01:02:28.360 --> 01:02:31.480
+it with their taxpayer money.
+
+01:02:31.480 --> 01:02:36.880
+If you ask an average person on the street, you know, what all this money is going for,
+
+01:02:36.880 --> 01:02:40.520
+they will tell you, well, they're curing cancer.
+
+01:02:40.520 --> 01:02:45.280
+They're using it to develop new nanotechnology, nanobots or whatever.
+
+01:02:45.280 --> 01:02:50.360
+But actually, what they don't appreciate is that the reason why their cell phone works,
+
+01:02:50.360 --> 01:02:56.040
+which is a miraculous technology, the reason their laptops work, has to do with a very
+
+01:02:56.040 --> 01:03:04.040
+long viewed investment in basic understanding of nature that came decades and decades ago.
+
+01:03:04.040 --> 01:03:08.200
+Microwaves, quantum mechanics, attempt to understand the fundamental working principles
+
+01:03:08.200 --> 01:03:11.760
+of the universe that had no application whatsoever.
+
+01:03:11.760 --> 01:03:18.000
+These were just crazy passionate individuals who worked on specific problems because of
+
+01:03:18.000 --> 01:03:23.480
+their taste in those problems, because of their passion, because of their love of understanding
+
+01:03:23.480 --> 01:03:24.480
+the universe.
+
+01:03:24.480 --> 01:03:29.360
+That decades later, maybe even a century later, accumulated into a level of understanding
+
+01:03:29.360 --> 01:03:35.320
+that allows us to now build whatever the hell we want based on fundamental rational principles.
+
+01:03:35.320 --> 01:03:40.400
+This is the history lesson that we fail miserably at communicating to people.
+
+01:03:40.400 --> 01:03:47.440
+And that's why the budget of the NIH, which supports all of biomedical research, is 130th
+
+01:03:47.440 --> 01:03:52.160
+or 140th of the military budget in this country, which is an outrage for modern.
+
+01:03:52.160 --> 01:03:55.800
+Let me push it even further because I think this is really important when you say that
+
+01:03:55.800 --> 01:04:01.600
+there is this perception that you can actually find applied research and that applied research
+
+01:04:01.600 --> 01:04:07.600
+will miraculously generate the microwave and the cell phone, etc.
+
+01:04:07.600 --> 01:04:12.360
+And unfortunately, everything that applied research does is to move our fundamental understanding
+
+01:04:12.360 --> 01:04:19.040
+of how matter and biological matter works or inert matter works into something that is
+
+01:04:19.040 --> 01:04:20.480
+then a lack of value.
+
+01:04:20.480 --> 01:04:23.800
+But if you don't have that knowledge, you don't push that knowledge forward, the well
+
+01:04:23.800 --> 01:04:27.760
+will dry up and we won't be able to do any more applied research.
+
+01:04:27.760 --> 01:04:32.680
+So the idea that we now, everything has to be translational, everything has to be applied
+
+01:04:32.680 --> 01:04:36.800
+is really a major problem because in the long run, we'll figure out that all these things
+
+01:04:36.800 --> 01:04:42.400
+now are being translated and there's no more basic advancements that can be translated into
+
+01:04:42.400 --> 01:04:43.400
+the data.
+
+01:04:43.400 --> 01:04:48.560
+And to follow up on that, what gets hit hardest in times of austerity are exactly the topics
+
+01:04:48.560 --> 01:04:50.000
+we're discussing today.
+
+01:04:50.000 --> 01:04:55.480
+Systems biology, synthetic biology, approaches that are out of the box that are new, that
+
+01:04:55.480 --> 01:05:02.040
+don't have a great track record because what does well is very well defined, almost no
+
+01:05:02.040 --> 01:05:08.240
+risk proposals that attempt to move science forward incrementally.
+
+01:05:08.240 --> 01:05:13.480
+So you have a very well established field of traditional biology and if you send your
+
+01:05:13.480 --> 01:05:18.600
+proposal to the NIH, your ability to get that funding for your proposal relates directly
+
+01:05:18.600 --> 01:05:24.960
+to how close you are to existing inertia of knowledge that exists in your field.
+
+01:05:24.960 --> 01:05:29.320
+If you're totally out of the box, you get penalized and in times of austerity that's
+
+01:05:29.320 --> 01:05:30.320
+even worse.
+
+01:05:30.320 --> 01:05:35.720
+So if our fields are actually suffering this innovation challenge, partly because of this
+
+01:05:35.720 --> 01:05:42.480
+funding that I alluded to, but partly because what funding limitations do is to then, you
+
+01:05:42.480 --> 01:05:47.200
+know, then it goes to the Congress and goes to the White House and these guys are saying,
+
+01:05:47.200 --> 01:05:49.480
+we need you guys to have deliverables.
+
+01:05:49.480 --> 01:05:51.600
+You need to give us deliverables within a year or two.
+
+01:05:51.600 --> 01:05:54.080
+What have you done for us in the last 10, 20 years?
+
+01:05:54.080 --> 01:05:56.760
+You promise all this stuff and you haven't delivered.
+
+01:05:56.760 --> 01:06:03.080
+So we want to make your science more applied, get, solve these specific problems that don't
+
+01:06:03.080 --> 01:06:06.920
+understand that in order to have any chance of solving these complex problems, you need
+
+01:06:06.920 --> 01:06:10.960
+a foundation of investment in basic research and that takes a long time.
+
+01:06:10.960 --> 01:06:16.120
+Part of the problem isn't the education of what you're calling the late public.
+
+01:06:16.120 --> 01:06:18.320
+Most of the problem is educating the scientist.
+
+01:06:18.320 --> 01:06:23.920
+There are very few scientists who know where their history came from.
+
+01:06:23.920 --> 01:06:31.320
+And, you know, if you take the average graduate student now, they will go back 10 years, they're
+
+01:06:31.320 --> 01:06:33.040
+considering it a history lesson.
+
+01:06:33.040 --> 01:06:39.080
+And if you look, for example, if you want to go back to the cures for cancer, many of
+
+01:06:39.080 --> 01:06:46.640
+those discoveries came out of the fundamental work by New Sline-Volehart on the fruit fly.
+
+01:06:46.640 --> 01:06:53.520
+This was to understand how a fruit fly cuticle gets patterned.
+
+01:06:53.520 --> 01:06:58.280
+Did all the work, worked out all the original pathways, all the stuff that you guys are working
+
+01:06:58.280 --> 01:07:04.280
+on now, all those pathways were discovered by a set of genetic experiments that then later,
+
+01:07:04.280 --> 01:07:09.440
+30, 40 years later, led to those cures.
+
+01:07:09.440 --> 01:07:15.280
+If you want to look at atherosclerosis cures and the statins prevention, you have to go
+
+01:07:15.280 --> 01:07:20.520
+back to 1948 for the first epidemiological scientific studies, which were really pretty
+
+01:07:20.520 --> 01:07:25.320
+much curiosity driven about what relates to heart disease.
+
+01:07:25.320 --> 01:07:28.640
+So you can draw a trajectory.
+
+01:07:28.640 --> 01:07:32.880
+And that arrow in my experience is about 40 to 50 years if you're lucky if it's going
+
+01:07:32.880 --> 01:07:35.880
+to work minimally.
+
+01:07:35.880 --> 01:07:40.240
+So I think the problem, though, is with the scientist as much as it is with the late public.
+
+01:07:40.240 --> 01:07:43.480
+And my holly kinase, the czechuan, old cell psycho, was old yeast.
+
+01:07:43.480 --> 01:07:44.480
+I know.
+
+01:07:44.480 --> 01:07:46.040
+It was like, all those old little things started.
+
+01:07:46.040 --> 01:07:48.960
+How old the major target for doing that?
+
+01:07:48.960 --> 01:07:53.200
+I went in the back to one thing that you said, because this issue, we were joking before
+
+01:07:53.200 --> 01:07:57.720
+when you guys arrived, because I arrived a little earlier, that we always promised science
+
+01:07:57.720 --> 01:07:59.240
+to solve a problem in 10 years.
+
+01:07:59.240 --> 01:08:04.520
+To some extent, Nixon's in 10 years is going to solve cancer then, Andy.
+
+01:08:04.520 --> 01:08:10.160
+For God's name, the director of the National Cancer Institute in 2000.
+
+01:08:10.160 --> 01:08:12.840
+No, no, no, no, no.
+
+01:08:12.840 --> 01:08:13.840
+It won't go there.
+
+01:08:13.840 --> 01:08:16.080
+Andy, you promised the cure for cancer.
+
+01:08:16.080 --> 01:08:17.080
+Probably the new cancer.
+
+01:08:17.080 --> 01:08:18.080
+15 years, etc.
+
+01:08:18.080 --> 01:08:20.920
+Every once in a while, we come up with another 10 years or 15 years.
+
+01:08:20.920 --> 01:08:24.960
+But the reality is that actually, the only problem is that cancer is cancer.
+
+01:08:24.960 --> 01:08:26.560
+Cancer is plural.
+
+01:08:26.560 --> 01:08:29.400
+And because a lot of cancers have been solved in the 10 years.
+
+01:08:29.400 --> 01:08:35.240
+For instance, I was in Basel when the day that actually they announced that Glevaik,
+
+01:08:35.240 --> 01:08:40.720
+because in fact approved, FDA approved, and that actually solved one cancer completely.
+
+01:08:40.720 --> 01:08:45.800
+It was essentially 30% of the patient will erupt.
+
+01:08:45.800 --> 01:08:51.880
+But people that the next day were going to die in Glevaik, all of a sudden, they were
+
+01:08:51.880 --> 01:08:52.880
+saved.
+
+01:08:52.880 --> 01:08:58.040
+The same thing in the secular cancer, same thing for instance in her two breast cancer.
+
+01:08:58.040 --> 01:09:02.520
+I used to be one of the absolute worst tumors that you could possibly get.
+
+01:09:02.520 --> 01:09:06.280
+Now they react very well to trans-susima and on and on and on.
+
+01:09:06.280 --> 01:09:12.680
+So I think that we have, if you count the number of 10 years blocks, we've solved more cancers
+
+01:09:12.680 --> 01:09:16.560
+than those number of 10 year blocks, it's just that we have discovered that this is such
+
+01:09:16.560 --> 01:09:20.640
+a heterogeneous disease, both within the patient and across patients.
+
+01:09:20.640 --> 01:09:25.560
+You want to say something with it, because I was surprised that you said that every patient's
+
+01:09:25.560 --> 01:09:27.280
+cancer is different from the next...
+
+01:09:27.280 --> 01:09:31.320
+So the spectrum of genetic alterations that lead to more agencies and progression are
+
+01:09:31.320 --> 01:09:33.920
+essentially different in every single patient.
+
+01:09:33.920 --> 01:09:37.240
+There's no two patients that have the same set of mutation.
+
+01:09:37.240 --> 01:09:40.320
+There are some recurrent mutation that occur in multiple patients.
+
+01:09:40.320 --> 01:09:41.920
+But those only tell a part of the story.
+
+01:09:41.920 --> 01:09:46.040
+In fact, we're now doing a span cancer study where we study, live about 7,000 patients
+
+01:09:46.040 --> 01:09:47.960
+that we fully profiled.
+
+01:09:47.960 --> 01:09:51.960
+And you can see that these patterns of genetic alteration, they don't co-segregate on any
+
+01:09:51.960 --> 01:09:53.680
+two patients.
+
+01:09:53.680 --> 01:09:58.160
+And so one, I mean a big initiative, I was actually part, I'm sharing the net, co-sharing
+
+01:09:58.160 --> 01:10:03.640
+the next annual meeting of the ACR, the megastation for cancer research.
+
+01:10:03.640 --> 01:10:07.960
+And one of the big topics in that meeting and also one that we had as a forum in the
+
+01:10:07.960 --> 01:10:10.960
+zero meeting is going to be the end of one study.
+
+01:10:10.960 --> 01:10:14.320
+It is studies, clinical studies that are going to have a single patient.
+
+01:10:14.320 --> 01:10:19.240
+And we have three patients in our Columbia and other places that have done these on a
+
+01:10:19.240 --> 01:10:23.840
+genetic basis, we do it on a more assisted biology basis, where we're trying to solve
+
+01:10:23.840 --> 01:10:26.320
+cancer just for one patient at a time.
+
+01:10:26.320 --> 01:10:30.200
+And not that we think that we're actually going to fight cancer one patient at a time,
+
+01:10:30.200 --> 01:10:33.880
+but we need to understand cancer one patient at a time before we can understand what other
+
+01:10:33.880 --> 01:10:35.840
+rules that can be generalized.
+
+01:10:35.840 --> 01:10:36.840
+And so this is really...
+
+01:10:36.840 --> 01:10:40.560
+Understanding the genetics under the machinery...
+
+01:10:40.560 --> 01:10:44.600
+Understanding how the genetics collapse into creating certain dependencies that are then
+
+01:10:44.600 --> 01:10:46.760
+much more universal than the genetics.
+
+01:10:46.760 --> 01:10:52.840
+So the genetics is distributed, so for instance, in an example, many very, very bad cancers
+
+01:10:52.840 --> 01:10:57.800
+have a mutation in the gene called KRAS or in other RAS genes.
+
+01:10:57.800 --> 01:11:01.280
+But if you have a mutation in another gene called NF1, you will have almost the same phenotype
+
+01:11:01.280 --> 01:11:06.280
+because NF1 actually is the protein that allows KRAS to...
+
+01:11:06.280 --> 01:11:07.280
+It's called GTPAs...
+
+01:11:07.280 --> 01:11:08.800
+I have this GPA's function.
+
+01:11:08.800 --> 01:11:12.320
+So whether you mutate one or the other, it really makes very little difference.
+
+01:11:12.320 --> 01:11:13.960
+And you can have very similar phenotype.
+
+01:11:13.960 --> 01:11:17.920
+And there's an entire set of protein downstream from that that will give you like B-RAP and
+
+01:11:17.920 --> 01:11:18.920
+the vice-RAP for it.
+
+01:11:18.920 --> 01:11:21.800
+That will give you exactly the same, or very similar phenotype.
+
+01:11:21.800 --> 01:11:24.160
+This sent to me mutated differently in different cancers.
+
+01:11:24.160 --> 01:11:31.600
+For instance, in melanoma, you may have more B-RAP mutation in pancreatic cancer, 60, 70%
+
+01:11:31.600 --> 01:11:35.920
+of the patient have KRAS mutation, but no B-RAP or very few B-RAP mutation.
+
+01:11:35.920 --> 01:11:40.040
+So the question is that if you actually go in and try to figure these things up one gene
+
+01:11:40.040 --> 01:11:43.560
+at a time, you will really never be able to get the full story.
+
+01:11:43.560 --> 01:11:47.120
+And we know, for instance, KRAS is called right now an undrugable target, although many
+
+01:11:47.120 --> 01:11:48.600
+companies, but assuming purely...
+
+01:11:48.600 --> 01:11:53.200
+Nobody is probably trying to find the drug that will shut down KRAS.
+
+01:11:53.200 --> 01:11:58.240
+And so what we're left with is trying to figure out if this is the actual mutation, what is
+
+01:11:58.240 --> 01:12:01.920
+the node in the cell that becomes the vulnerability because you have the mutation?
+
+01:12:01.920 --> 01:12:02.920
+Okay?
+
+01:12:02.920 --> 01:12:03.920
+Should maybe another gene.
+
+01:12:03.920 --> 01:12:09.120
+So for instance, right now we know that if you use in prostate cancer a combination of
+
+01:12:09.120 --> 01:12:13.640
+a gene that inactivates protein called A-K-T through a virus, different mechanism.
+
+01:12:13.640 --> 01:12:17.800
+And in one, in another protein called MEC, the tumors that have KRAS mutation tend to
+
+01:12:17.800 --> 01:12:20.800
+be respond well.
+
+01:12:20.800 --> 01:12:25.560
+But that may be just an observation, we work in patient, we don't know, etc.
+
+01:12:25.560 --> 01:12:30.760
+So I think this is exactly why I think we need to try and understand tumors on an individual
+
+01:12:30.760 --> 01:12:35.760
+basis before we can now generalize because generalized has not really helped us, certainly
+
+01:12:35.760 --> 01:12:39.160
+helped us in some cases, but we have picked up the lohanging fruits and now we're left
+
+01:12:39.160 --> 01:12:41.760
+with all the other things that we don't really understand.
+
+01:12:41.760 --> 01:12:42.760
+Yeah.
+
+01:12:42.760 --> 01:12:47.200
+For example, it's so individual.
+
+01:12:47.200 --> 01:12:51.760
+I can't speak for any other group than mine.
+
+01:12:51.760 --> 01:12:57.160
+Our approach is what we call a molecular pathways approach, which is basically a systems biology
+
+01:12:57.160 --> 01:13:00.280
+approach.
+
+01:13:00.280 --> 01:13:05.280
+Because I would agree entirely that it's very difficult to explain biology in general,
+
+01:13:05.280 --> 01:13:09.360
+whether it be cancer or regenerative biology on the basis of one protein.
+
+01:13:09.360 --> 01:13:16.920
+But what we know is that the language of biology, the grammar of biology, is the pathway.
+
+01:13:16.920 --> 01:13:23.320
+The signal, the receptor, the transaction, nuclear transcription.
+
+01:13:23.320 --> 01:13:27.800
+And those pathways are conserved from fruit fly to man.
+
+01:13:27.800 --> 01:13:31.080
+Probably only a few dozen of these pathways.
+
+01:13:31.080 --> 01:13:38.440
+So for us, what we've taken upon ourselves to do is to try to dissect these pathways,
+
+01:13:38.440 --> 01:13:44.560
+health and disease, and say not only what are the pathways that are perturbed, because
+
+01:13:44.560 --> 01:13:47.440
+they can be perturbed, as you say, in many different places.
+
+01:13:47.440 --> 01:13:53.160
+But what are the vulnerable nodes where we could hit them with a drug?
+
+01:13:53.160 --> 01:13:58.960
+And so for us, we can play with all turning up, turning down all the different parts of
+
+01:13:58.960 --> 01:14:00.200
+the pathway without effect.
+
+01:14:00.200 --> 01:14:04.880
+But then we'll find one node that may not have been ever known to be associated with
+
+01:14:04.880 --> 01:14:07.840
+that pathway before and that we can hit.
+
+01:14:07.840 --> 01:14:10.920
+We know we can turn the pathway on or off.
+
+01:14:10.920 --> 01:14:15.560
+And that's the beginning of the process that takes 10 years after that to make a medicine.
+
+01:14:15.560 --> 01:14:17.080
+And it can get more complicated.
+
+01:14:17.080 --> 01:14:21.640
+I mean, I guess I see some more things in leukemia, as some drivers describe being in
+
+01:14:21.640 --> 01:14:25.440
+other cancers, is that being like a cancer biologist today is being sort of like a molecular
+
+01:14:25.440 --> 01:14:26.440
+mechanic.
+
+01:14:26.440 --> 01:14:28.680
+And someone just comes to you and says, I have leukemia, which is the same as saying my
+
+01:14:28.680 --> 01:14:29.680
+car doesn't work.
+
+01:14:29.680 --> 01:14:33.160
+And you just say, well, it could be because you have no gas in your car, you have no wheels,
+
+01:14:33.160 --> 01:14:34.920
+you have no steering wheel, you have no headlights.
+
+01:14:34.920 --> 01:14:39.600
+It could be for any number of all these reasons that may actually intersect the same pathway.
+
+01:14:39.600 --> 01:14:43.760
+But just saying I have cancer can be very, very different for a lot of different reasons.
+
+01:14:43.760 --> 01:14:47.840
+And it's being like a mechanic makes it a bit, you know, you have to figure out which one
+
+01:14:47.840 --> 01:14:49.720
+it is, I'd say, as what the job is.
+
+01:14:49.720 --> 01:14:58.200
+I think the way in which systems biology impacts that I think is one way, as we were
+
+01:14:58.200 --> 01:15:02.000
+discussing about the molecular pathology and the pathways involved in disease.
+
+01:15:02.000 --> 01:15:06.200
+The other side of this, I think, which is a new revolution in medicine, the emerging revolution
+
+01:15:06.200 --> 01:15:12.760
+in medicine, which is an attempt to approach medicine scientifically.
+
+01:15:12.760 --> 01:15:18.200
+Medicine has evolved through these really kind of old-fashioned approaches to physical
+
+01:15:18.200 --> 01:15:20.080
+science and symptoms.
+
+01:15:20.080 --> 01:15:24.880
+And I think it has done a terrible job of doing the kind of data mining that we do on large
+
+01:15:24.880 --> 01:15:29.160
+data sets that we get from the genome that have billions of pieces of information.
+
+01:15:29.160 --> 01:15:32.520
+So you go to the doctor, you make all these measurements.
+
+01:15:32.520 --> 01:15:38.920
+You do CBC, you have various physical science and symptoms written down in paper often,
+
+01:15:38.920 --> 01:15:45.720
+not inputted into electronic form, in ways that could, in retrospect, much better define
+
+01:15:45.720 --> 01:15:47.600
+a subtype of disease.
+
+01:15:47.600 --> 01:15:51.040
+So we lump things together because, you know, we're lazy.
+
+01:15:51.040 --> 01:15:56.640
+Because we've never had a molecular pathology, molecular basis of the pathology that's
+
+01:15:56.640 --> 01:15:57.640
+going on.
+
+01:15:57.640 --> 01:16:02.400
+And so, we have, we can have that molecular pathology, the other side of medicine, which
+
+01:16:02.400 --> 01:16:07.840
+is to characterize and bin individual patients into pathologic classes.
+
+01:16:07.840 --> 01:16:13.240
+In order to then come up with the exact treatment that works for them based on this pathway,
+
+01:16:13.240 --> 01:16:15.440
+and I said, that's going to be really revolutionary.
+
+01:16:15.440 --> 01:16:23.200
+I think in the field that's most, I think, most in need of that is psychiatry, where,
+
+01:16:23.200 --> 01:16:27.560
+you know, a lot of the classification of disease states are still very old-fashioned
+
+01:16:27.560 --> 01:16:28.560
+and ossified.
+
+01:16:28.560 --> 01:16:33.840
+And I think that's a very exciting area where potentially the kinds of data that we're
+
+01:16:33.840 --> 01:16:40.440
+getting on the systems level and together with existing quantification can lead to much
+
+01:16:40.440 --> 01:16:41.440
+better.
+
+01:16:41.440 --> 01:16:42.440
+Molecular psychiatry.
+
+01:16:42.440 --> 01:16:43.440
+Yeah, I'm like, what's coming.
+
+01:16:43.440 --> 01:16:44.440
+I just can't.
+
+01:16:44.440 --> 01:16:46.440
+I just want to direct that as one question.
+
+01:16:46.440 --> 01:16:50.560
+One other pivot point, I guess, to comment on the, to go back with the mechanic analogy
+
+01:16:50.560 --> 01:16:54.880
+is that we, the humans are though difficult and we do have many, many genetic elements
+
+01:16:54.880 --> 01:16:58.640
+that are not in mice, they're not in chimps, not in rhesus macaques.
+
+01:16:58.640 --> 01:17:02.320
+You know, there is evolution and keeps adding things and moving things around.
+
+01:17:02.320 --> 01:17:06.440
+And so one of the big challenges people say, well, I haven't just figured out cancer yet.
+
+01:17:06.440 --> 01:17:09.200
+We're still discovering how many genes there are in the human genome.
+
+01:17:09.200 --> 01:17:12.040
+You know, a lot of people think 25,000 or 40,000.
+
+01:17:12.040 --> 01:17:16.200
+The number is at least 55,000 vectorin counts and I can promise you we're just going to
+
+01:17:16.200 --> 01:17:17.200
+end up hiring.
+
+01:17:17.200 --> 01:17:20.240
+And so, you know, we're just, you know, getting, even within the scientific community, people
+
+01:17:20.240 --> 01:17:24.720
+have figured out how many genes are there in the human genome is itself, you know, it could
+
+01:17:24.720 --> 01:17:28.600
+almost prompt wrestling matches at conferences and I've threatened to tackle people who use
+
+01:17:28.600 --> 01:17:31.800
+the number 25,000 genes and I'll do it again today publicly.
+
+01:17:31.800 --> 01:17:34.760
+But so it's complicated and we're still learning.
+
+01:17:34.760 --> 01:17:35.760
+Okay.
+
+01:17:35.760 --> 01:17:36.760
+So any questions?
+
+01:17:36.760 --> 01:17:50.360
+I have to come up here.
+
+01:17:50.360 --> 01:17:51.360
+Thank you.
+
+01:17:51.360 --> 01:17:52.360
+Breath taking.
+
+01:17:52.360 --> 01:17:55.560
+What comes to mind is a question of time management.
+
+01:17:55.560 --> 01:18:01.000
+You gentlemen have great goals, limited time.
+
+01:18:01.000 --> 01:18:08.000
+How do you want to spend your time and advise other people who might want to do this kind
+
+01:18:08.000 --> 01:18:15.080
+of dissemination and research to divide their time most effectively?
+
+01:18:15.080 --> 01:18:17.080
+Sleep less.
+
+01:18:17.080 --> 01:18:27.760
+Well, I would say it would be fantastic if we were supported at a level that was commensurate
+
+01:18:27.760 --> 01:18:36.520
+with the goals, ambitious goals that we have and the impact the economic and lifestyle
+
+01:18:36.520 --> 01:18:40.640
+impact that these scientific methodology will have in the future.
+
+01:18:40.640 --> 01:18:43.280
+So that would be great because they'll free us from not writing grants.
+
+01:18:43.280 --> 01:18:48.600
+Because right now we're spending 30, 40% of our times writing grants to the NIH and that's
+
+01:18:48.600 --> 01:18:49.840
+very, very painful.
+
+01:18:49.840 --> 01:18:54.960
+And nine out of ten of those, the funding right now is such that maybe the 10th percentile
+
+01:18:54.960 --> 01:18:56.360
+roughly maybe works.
+
+01:18:56.360 --> 01:18:57.360
+It's worse.
+
+01:18:57.360 --> 01:19:03.200
+So maybe the, let's be optimistic and say it was the 10th percentile.
+
+01:19:03.200 --> 01:19:08.600
+That means not the number we have here, but suppose there are ten of us in this room writing
+
+01:19:08.600 --> 01:19:14.320
+grants the NIH, nine of them or more go into the shredder and don't get funded.
+
+01:19:14.320 --> 01:19:18.680
+Then you go back and you spend however many hours or days it takes or weeks it takes.
+
+01:19:18.680 --> 01:19:19.680
+Months.
+
+01:19:19.680 --> 01:19:20.680
+And you write it again.
+
+01:19:20.680 --> 01:19:24.680
+So that's I think it's very hard to make progress when you're spending most of your
+
+01:19:24.680 --> 01:19:28.320
+time writing grants that will go into the shredder and not get funded.
+
+01:19:28.320 --> 01:19:31.040
+And the ones that go into the shredder and don't get funded are not by people who don't
+
+01:19:31.040 --> 01:19:32.040
+know what they're doing.
+
+01:19:32.040 --> 01:19:33.960
+They're by, hopefully we know what we're doing.
+
+01:19:33.960 --> 01:19:35.120
+People like us.
+
+01:19:35.120 --> 01:19:36.120
+And so that's.
+
+01:19:36.120 --> 01:19:40.560
+So it's very, it's very interesting because I spent, I did the opposite of what Marty is.
+
+01:19:40.560 --> 01:19:43.840
+So I spent 16 years in industry then I moved to academia.
+
+01:19:43.840 --> 01:19:47.640
+And I realized when I moved to academia that I had to start writing grants which was a
+
+01:19:47.640 --> 01:19:50.960
+completely foreign notion when you are in industry.
+
+01:19:50.960 --> 01:19:56.360
+And I realized that if the American industry worked on using the same metrics that the
+
+01:19:56.360 --> 01:20:00.920
+NIH works there would not be an American industry because the idea is that what you
+
+01:20:00.920 --> 01:20:06.080
+actually do in industry you have a track record and based on that track record you keep building
+
+01:20:06.080 --> 01:20:09.560
+funded and your track record goes down and you stop getting funded and you shrink your
+
+01:20:09.560 --> 01:20:10.560
+project.
+
+01:20:10.560 --> 01:20:13.840
+And then maybe you can grow again at a later stage when you come up with a new bright idea
+
+01:20:13.840 --> 01:20:21.800
+in NIH funding concepts with through the grants your track record really doesn't count very
+
+01:20:21.800 --> 01:20:22.800
+much.
+
+01:20:22.800 --> 01:20:26.400
+In fact most of these grants, old say, exception investigators you always go get top boost
+
+01:20:26.400 --> 01:20:31.040
+but in the end what counts is whether somebody says, oh you're a proposal is too ambitious.
+
+01:20:31.040 --> 01:20:33.600
+Well you know whether it's ambitious or not.
+
+01:20:33.600 --> 01:20:38.160
+You should be based on the fact that whether you accomplish in the past funding cycle.
+
+01:20:38.160 --> 01:20:43.160
+And so I think that there's pretty much a general understanding that we need to rethink
+
+01:20:43.160 --> 01:20:49.160
+a little bit the ways that sort of funds for research are managed and distributed because
+
+01:20:49.160 --> 01:20:51.280
+and then maybe we need two different mechanisms.
+
+01:20:51.280 --> 01:20:55.640
+One for establishing investigators that we should be based mostly on track record unless
+
+01:20:55.640 --> 01:21:00.160
+you propose something completely new and one for junior investigator that really starting
+
+01:21:00.160 --> 01:21:04.440
+together their career launch and it may be some extra boost in health.
+
+01:21:04.440 --> 01:21:09.640
+But the way the system works right now has become really, really very difficult to hold.
+
+01:21:09.640 --> 01:21:17.200
+And there's a series concerning here that's from friends all the time that we're going
+
+01:21:17.200 --> 01:21:21.320
+to lose a generation of scientists that the next generation coming along people who are
+
+01:21:21.320 --> 01:21:25.280
+in graduate school and doing postdocs now they look at us and they see that we spend
+
+01:21:25.280 --> 01:21:29.720
+our time writing grants that don't get funded and get demoralized and they in graduate school
+
+01:21:29.720 --> 01:21:34.320
+and postdocs say I don't want my boss's job I want to do something else because because
+
+01:21:34.320 --> 01:21:37.440
+of the you know the tightness of the funding and how time is spent it's very demoralizing.
+
+01:21:37.440 --> 01:21:40.800
+But we're certainly bruising the American scientists because the American scientists
+
+01:21:40.800 --> 01:21:47.520
+are essentially is a species that should go under protection because right now it's under
+
+01:21:47.520 --> 01:21:52.760
+the... and there's only so many times you can say failure and makes me more determined
+
+01:21:52.760 --> 01:21:55.400
+I guess it's...
+
+01:21:55.400 --> 01:22:00.060
+So Dr. Fishman had commented that the administration of a particular compound would not affect subsequent
+
+01:22:00.060 --> 01:22:01.060
+generations.
+
+01:22:01.060 --> 01:22:05.160
+Forgive me I missed it was it the compound related to emerald the drug that was being
+
+01:22:05.160 --> 01:22:11.560
+done. No we were talking about the cells that were generated artificially using a construct
+
+01:22:11.560 --> 01:22:16.840
+to target the T cells of a person to their own cancer.
+
+01:22:16.840 --> 01:22:21.960
+I'm curious if other members of the panel would feel confident making that statement
+
+01:22:21.960 --> 01:22:24.760
+that it would not affect subsequent generations.
+
+01:22:24.760 --> 01:22:28.760
+It depends on the therapy there've been publications of gene therapy that has showed up in germline
+
+01:22:28.760 --> 01:22:34.560
+tissue I mean I can't speak to this particular experiment but I think I know the literature
+
+01:22:34.560 --> 01:22:38.880
+you're probably thinking that's only T cell so it shouldn't occur in this particular case
+
+01:22:38.880 --> 01:22:44.040
+it should not as far as I know but these are not replicating viruses so you take out the
+
+01:22:44.040 --> 01:22:50.600
+T cell you put in something when that T cell dies eventually it can't go into the virus
+
+01:22:50.600 --> 01:22:51.600
+the...
+
+01:22:51.600 --> 01:22:53.440
+Your concern about epigenetic...
+
+01:22:53.440 --> 01:22:54.440
+Actually yes.
+
+01:22:54.440 --> 01:22:55.440
+Your concern about epigenetic.
+
+01:22:55.440 --> 01:22:58.120
+I'm just saying your PR problem really.
+
+01:22:58.120 --> 01:23:02.400
+So epigenetic interactions it's been intergenerational epigenetic interactions have been studied pretty
+
+01:23:02.400 --> 01:23:06.800
+well in mice but very scarcely in humans that's changing with what's called the epigenome
+
+01:23:06.800 --> 01:23:11.840
+roadmap project from the NIH is helping with that but most of that is not intergenerational
+
+01:23:11.840 --> 01:23:16.160
+and in the short answer is I'd say you know people probably haven't looked at what the
+
+01:23:16.160 --> 01:23:17.160
+the...
+
+01:23:17.160 --> 01:23:21.320
+For the audience I guess epigenetic just refers to changes that aren't to the DNA of ACGT
+
+01:23:21.320 --> 01:23:25.880
+but when you have modifications to those the ACGNT that the letters don't change but their
+
+01:23:25.880 --> 01:23:27.200
+state does.
+
+01:23:27.200 --> 01:23:32.960
+So epigenetic changes are heritable but I don't know if there's any evidence.
+
+01:23:32.960 --> 01:23:36.360
+No there is evidence that they are for example they are...
+
+01:23:36.360 --> 01:23:40.000
+It's been proved best in the nematode worm where you can...
+
+01:23:40.000 --> 01:23:44.320
+Something that happens in a grandfather worm can be passed on through two generations
+
+01:23:44.320 --> 01:23:47.920
+epigenetically without any change in the sequence of DNA.
+
+01:23:47.920 --> 01:23:54.040
+There are suggestions from old studies but they're epidemiological suggestions of epidemiological
+
+01:23:54.040 --> 01:24:02.240
+effects of a grandfather's smoking in Scandinavia upon two generations later disease.
+
+01:24:02.240 --> 01:24:04.240
+Who was the diet wasn't it?
+
+01:24:04.240 --> 01:24:05.240
+No the diet was...
+
+01:24:05.240 --> 01:24:06.240
+I think the diet...
+
+01:24:06.240 --> 01:24:07.240
+You may be right with this.
+
+01:24:07.240 --> 01:24:08.240
+No no no no no.
+
+01:24:08.240 --> 01:24:12.840
+The smoking in the grandfather affected the diet of the two generations, obesity rate
+
+01:24:12.840 --> 01:24:16.120
+in two generations but that's of course epidemiological...
+
+01:24:16.120 --> 01:24:19.480
+But there are diseases that are completely transmittent epigenetically so Wilms...
+
+01:24:19.480 --> 01:24:22.280
+Wilms do much for instance is completely epigenetic disease.
+
+01:24:22.280 --> 01:24:26.840
+And fragile ex-syndrome is an epigenetic, red syndrome is an epigenetic but the actual
+
+01:24:26.840 --> 01:24:30.640
+proof of the transmission has been passed on in the nematode worm.
+
+01:24:30.640 --> 01:24:34.480
+Well I ask my question in an attempt to address yours actually.
+
+01:24:34.480 --> 01:24:42.360
+I agree the transparency is paramount as far as PR for your industry but hubris and trust
+
+01:24:42.360 --> 01:24:46.520
+speaking as a member of the public is something will require.
+
+01:24:46.520 --> 01:24:47.520
+Thank you for this time.
+
+01:24:47.520 --> 01:24:48.520
+Thank you.
+
+01:24:48.520 --> 01:24:49.520
+Thanks.
+
+01:24:49.520 --> 01:24:56.680
+I wanted to go back to the funding issue and ask...
+
+01:24:56.680 --> 01:25:05.960
+So for you me this is a very eastern, US eastern group here and there are companies that are
+
+01:25:05.960 --> 01:25:08.360
+printing DNA.
+
+01:25:08.360 --> 01:25:12.600
+You can order it online and get little vials of DNA.
+
+01:25:12.600 --> 01:25:18.360
+There are VCs funding this kind of stuff and so I'm curious whether you guys have gone
+
+01:25:18.360 --> 01:25:23.920
+and looked for your funding not with the NIH or in Boston but out in Silicon Valley where
+
+01:25:23.920 --> 01:25:29.520
+there is in fact a lot of money and the freedom to do really interesting stuff.
+
+01:25:29.520 --> 01:25:34.360
+The VCs tend to fund, I mean especially these days they tend to fund, they tend to be essentially
+
+01:25:34.360 --> 01:25:35.360
+bankers.
+
+01:25:35.360 --> 01:25:40.360
+What they want to do is to minimize absolutely every risk possible and assure themselves
+
+01:25:40.360 --> 01:25:44.760
+that they're going to have a huge return on investment and then jump in.
+
+01:25:44.760 --> 01:25:51.640
+And also there are three to at most five years horizon and this is not the way the science
+
+01:25:51.640 --> 01:25:52.640
+can work.
+
+01:25:52.640 --> 01:25:53.640
+Not all of them.
+
+01:25:53.640 --> 01:25:54.640
+But the vast...
+
+01:25:54.640 --> 01:25:55.640
+But the vast...
+
+01:25:55.640 --> 01:25:56.640
+Could people let us know the ones that...
+
+01:25:56.640 --> 01:25:57.640
+Yeah, let us know.
+
+01:25:57.640 --> 01:25:58.640
+Are you representing one?
+
+01:25:58.640 --> 01:26:02.640
+It comes to me afterwards, I don't want to take this over but seriously.
+
+01:26:02.640 --> 01:26:07.960
+Well, some of the VC firms that they're tied to the terms of getting that money are very
+
+01:26:07.960 --> 01:26:13.520
+either onerous in terms of the timeline or what strings come attached to it there.
+
+01:26:13.520 --> 01:26:17.920
+But I've done some work with industry, just grants, just well let's say we're interested
+
+01:26:17.920 --> 01:26:22.200
+in how perfectly you can take a single cell, amplify the genome and correctly genotype
+
+01:26:22.200 --> 01:26:24.840
+it or work like that, that's industry funded.
+
+01:26:24.840 --> 01:26:29.040
+There's definitely a lot of convergence of ideas and passion from industry and academic
+
+01:26:29.040 --> 01:26:34.000
+and government researchers and clinicians but they rarely intermingle as much as they
+
+01:26:34.000 --> 01:26:35.880
+should I think is what you're getting at.
+
+01:26:35.880 --> 01:26:42.160
+The major issue is the goal directed nature of that transaction and that you can't impose
+
+01:26:42.160 --> 01:26:46.720
+that expectation on scientists who are attempting to understand the system they don't know
+
+01:26:46.720 --> 01:26:48.200
+much about, right?
+
+01:26:48.200 --> 01:26:56.760
+You need to support innovative adventurous researchers to follow for five, ten years down
+
+01:26:56.760 --> 01:27:01.480
+a path that they don't even know ahead of time and that it might not yield anything.
+
+01:27:01.480 --> 01:27:05.760
+And if you do enough of that, once in a hundred you will have the breakthrough of a generation
+
+01:27:05.760 --> 01:27:07.640
+that will solve all your problems.
+
+01:27:07.640 --> 01:27:09.840
+You just don't know who that person is going to be.
+
+01:27:09.840 --> 01:27:13.320
+And that is not the kind of structure that industry receives will support.
+
+01:27:13.320 --> 01:27:17.960
+They just cannot quantify the risk and the ROI on that.
+
+01:27:17.960 --> 01:27:20.280
+Let me give you some very practical examples.
+
+01:27:20.280 --> 01:27:27.600
+So we are all sort of asked by many confederate companies and biotech to work and collaborate
+
+01:27:27.600 --> 01:27:31.480
+with them but the kind of collaboration that they always have in mind are the ones where
+
+01:27:31.480 --> 01:27:35.400
+they look at something that we've already done and is really ready for a practice of
+
+01:27:35.400 --> 01:27:39.560
+two years, two days ago we just signed a letter of intent to do a clinical trial in breast
+
+01:27:39.560 --> 01:27:43.160
+cancer that was a complete novel cancer come from systems biology.
+
+01:27:43.160 --> 01:27:44.240
+So that's now being done.
+
+01:27:44.240 --> 01:27:46.240
+That's the kind of thing that they're looking for.
+
+01:27:46.240 --> 01:27:49.000
+They're not looking to find the research that led to that.
+
+01:27:49.000 --> 01:27:53.520
+So I think the problem is that that well will dry up and there are some companies like
+
+01:27:53.520 --> 01:27:59.480
+for instance, Novartis and others that actually have also take a step back and have a lot
+
+01:27:59.480 --> 01:28:00.920
+of collaboration on the CCLE.
+
+01:28:00.920 --> 01:28:05.800
+This is the creation of this thing called the cancer cell line in CCLE.
+
+01:28:05.800 --> 01:28:09.720
+It's been one thing that Novartis has done and it's been transformational for the entire
+
+01:28:09.720 --> 01:28:13.320
+community and it's truly a basic science effort.
+
+01:28:13.320 --> 01:28:18.120
+I wish there were even more dissemination of the data that came back from that to the
+
+01:28:18.120 --> 01:28:22.360
+open community but what has already been put out there has been really valuable.
+
+01:28:22.360 --> 01:28:26.680
+And this has been collaboration with in the case the Broad Institute and other institutes.
+
+01:28:26.680 --> 01:28:31.240
+So there are examples like that but I would say 99% of the examples that we have are very,
+
+01:28:31.240 --> 01:28:32.240
+very pragmatic.
+
+01:28:32.240 --> 01:28:34.040
+I'll talk to you ever once too.
+
+01:28:34.040 --> 01:28:35.040
+That's great.
+
+01:28:35.040 --> 01:28:36.040
+I love it.
+
+01:28:36.040 --> 01:28:37.040
+If you have ideas.
+
+01:28:37.040 --> 01:28:39.960
+Crazy billionaires need more than they seem to be.
+
+01:28:39.960 --> 01:28:42.000
+That sounds good.
+
+01:28:42.000 --> 01:28:46.120
+So we're finding a lot of the end of ones for instance using that type of support.
+
+01:28:46.120 --> 01:28:49.560
+Well I agree with all the places where Blaine was placed.
+
+01:28:49.560 --> 01:28:53.560
+I think one was not mentioned as the drug companies themselves.
+
+01:28:53.560 --> 01:28:57.640
+I can't remember the exact numbers but if you look at their marketing budgets versus
+
+01:28:57.640 --> 01:29:05.320
+their research budgets, it's opposite directions and you know just the goal of the ads on TV.
+
+01:29:05.320 --> 01:29:10.160
+My question is wouldn't that money be better spent supporting your guys research than marketing
+
+01:29:10.160 --> 01:29:12.200
+and what caused this?
+
+01:29:12.200 --> 01:29:17.960
+Why did drug companies go in this direction?
+
+01:29:17.960 --> 01:29:19.960
+We may have on buy answers.
+
+01:29:19.960 --> 01:29:25.360
+So I run research so I'm happy to have as much funding as I can get.
+
+01:29:25.360 --> 01:29:30.360
+But you have to remember that the companies, and I'm not defending it by the way, I'm just
+
+01:29:30.360 --> 01:29:35.240
+explaining what I think happened historically because I'm not an expert in marketing.
+
+01:29:35.240 --> 01:29:37.240
+But these are publicly held companies.
+
+01:29:37.240 --> 01:29:43.600
+So these are companies that part of their job is to make money and to have a share price.
+
+01:29:43.600 --> 01:29:45.240
+It worked is the answer.
+
+01:29:45.240 --> 01:29:47.040
+In other words they were able to make money.
+
+01:29:47.040 --> 01:29:51.320
+So here's the history that's an interesting history and I think is quite educational in
+
+01:29:51.320 --> 01:29:54.400
+terms of thinking how they should go forward.
+
+01:29:54.400 --> 01:30:03.760
+Historically, pharmaceutical companies could make a lot of money by making minor modifications
+
+01:30:03.760 --> 01:30:06.080
+in a drug that was there.
+
+01:30:06.080 --> 01:30:11.480
+So if you look at the history of FDA approvals over years, there's only about 20 new drugs
+
+01:30:11.480 --> 01:30:16.360
+approved a year which is very few considering the number of pharmaceutical companies.
+
+01:30:16.360 --> 01:30:21.720
+And only five, six of those are really new and would change medicine.
+
+01:30:21.720 --> 01:30:25.240
+The rest are relatively minor modifications.
+
+01:30:25.240 --> 01:30:27.920
+You say well how can a company do that?
+
+01:30:27.920 --> 01:30:30.480
+And they did that because it worked.
+
+01:30:30.480 --> 01:30:36.120
+It was cheaper to do the experiment because you already knew that it worked when you got
+
+01:30:36.120 --> 01:30:37.120
+into the clinic.
+
+01:30:37.120 --> 01:30:39.920
+All you had to do was change the slight absorption.
+
+01:30:39.920 --> 01:30:43.480
+See, it's not that they're always unimportant changes but they're relatively minor.
+
+01:30:43.480 --> 01:30:47.400
+Also patents because the new patent is running out, they just modify and do the new thing.
+
+01:30:47.400 --> 01:30:48.400
+Exactly, exactly.
+
+01:30:48.400 --> 01:30:54.920
+But here's the problem now which is I think good in the direction that you're suggesting.
+
+01:30:54.920 --> 01:31:00.080
+As governments throughout the world, not just the United States, become more conscious
+
+01:31:00.080 --> 01:31:08.040
+that the medical budgets are eating up a lot of their funding, they're pushing for novelty.
+
+01:31:08.040 --> 01:31:15.480
+They're saying I don't really want to approve or not or to fund but pay back for something
+
+01:31:15.480 --> 01:31:17.280
+that's not really innovative.
+
+01:31:17.280 --> 01:31:22.880
+So the pressures from the outside are now conspiring, I believe in a good way, to force
+
+01:31:22.880 --> 01:31:27.800
+companies to do more innovative work and to have more breakthroughs.
+
+01:31:27.800 --> 01:31:32.720
+The only thing that's changing is I think that the notion of marketing which was driven
+
+01:31:32.720 --> 01:31:38.000
+by just no sheer mass efforts, that's why it was so expensive, is what I think is going
+
+01:31:38.000 --> 01:31:44.480
+to be not necessarily the future when you have a lot more that can be available online,
+
+01:31:44.480 --> 01:31:46.640
+on the web, et cetera.
+
+01:31:46.640 --> 01:31:51.120
+So I think there may be a lot of forces conspiring to change that balance over time.
+
+01:31:51.120 --> 01:31:52.920
+At least that's my hope.
+
+01:31:52.920 --> 01:31:53.920
+Okay.
+
+01:31:53.920 --> 01:31:57.840
+Councillor Hough, I mean the one thing that we've observed actually over the last few
+
+01:31:57.840 --> 01:32:05.720
+years is that there's been a shift back towards pharmaceutical company and biotech engaging
+
+01:32:05.720 --> 01:32:12.360
+academics, centers at a much earlier stage and essentially outsourcing some extent part
+
+01:32:12.360 --> 01:32:13.360
+of the research.
+
+01:32:13.360 --> 01:32:14.640
+We do it a little differently.
+
+01:32:14.640 --> 01:32:19.160
+We have actually markedly expanded my basic science discovery group.
+
+01:32:19.160 --> 01:32:24.920
+So a very large part of what we do is fundamental pathway analysis and fundamental discovery,
+
+01:32:24.920 --> 01:32:27.640
+publishable work, we have 100 postdocs.
+
+01:32:27.640 --> 01:32:33.200
+We also interact a lot with academia so for my bed, which we don't know if it'll work
+
+01:32:33.200 --> 01:32:38.400
+as this thing takes so long is that the more we discover fundamentally in the long run,
+
+01:32:38.400 --> 01:32:41.000
+the more medicines it'll be.
+
+01:32:41.000 --> 01:32:42.000
+Hi.
+
+01:32:42.000 --> 01:32:45.880
+I might be at the wrong place, I'm not sure.
+
+01:32:45.880 --> 01:32:49.960
+I think you all feel that way actually.
+
+01:32:49.960 --> 01:32:52.560
+I needed a new disc.
+
+01:32:52.560 --> 01:32:55.040
+Is there anything going on out there right now?
+
+01:32:55.040 --> 01:33:00.040
+I broke my one bar six years ago and destroyed the disc.
+
+01:33:00.040 --> 01:33:05.840
+I can tell you a little bit about it right now, it's early stages in what's called regenerative
+
+01:33:05.840 --> 01:33:07.000
+medicine.
+
+01:33:07.000 --> 01:33:12.720
+I certainly can't promise anything now, but there are two directions that you can think
+
+01:33:12.720 --> 01:33:13.720
+about.
+
+01:33:13.720 --> 01:33:20.640
+One is that there are some studies that suggest that you have in your, so the problem is the
+
+01:33:20.640 --> 01:33:23.600
+disc is distorted, the bone is distorted.
+
+01:33:23.600 --> 01:33:26.720
+So the question is can you regenerate normal tissue?
+
+01:33:26.720 --> 01:33:33.360
+And we know we do have cells sitting in our spine and in our cartilage that can do that,
+
+01:33:33.360 --> 01:33:34.360
+but they don't.
+
+01:33:34.360 --> 01:33:37.840
+So one set of groups are looking for drugs or...
+
+01:33:37.840 --> 01:33:38.840
+Disparked that.
+
+01:33:38.840 --> 01:33:39.840
+Yeah.
+
+01:33:39.840 --> 01:33:41.040
+And the other of course are devices.
+
+01:33:41.040 --> 01:33:47.280
+And they are not an expert at all, but newer, smarter, better devices that are less destructive.
+
+01:33:47.280 --> 01:33:54.760
+But you may have an extreme form of it, but everyone has degenerative disease in their
+
+01:33:54.760 --> 01:34:01.440
+spine, pretty much everyone over in middle age or over has started having problems with
+
+01:34:01.440 --> 01:34:02.440
+it.
+
+01:34:02.440 --> 01:34:05.120
+We're not meant to stand upright, but it's a big problem.
+
+01:34:05.120 --> 01:34:07.960
+It's 94% of people over 40 that have these issues.
+
+01:34:07.960 --> 01:34:10.440
+Yeah, it's a huge problem.
+
+01:34:10.440 --> 01:34:16.080
+But I think now with our understanding of developmental biology and where the stem cells
+
+01:34:16.080 --> 01:34:19.680
+come from, I'm not talking about the kind of stem cells you read about in the newspaper,
+
+01:34:19.680 --> 01:34:23.400
+but the stem cells that sit in your cartilage or sit in your bone that could become new
+
+01:34:23.400 --> 01:34:24.400
+cartilage.
+
+01:34:24.400 --> 01:34:27.320
+And there, I can't though promise when.
+
+01:34:27.320 --> 01:34:29.800
+Has anybody working on the cure for greed?
+
+01:34:29.800 --> 01:34:30.800
+For what?
+
+01:34:30.800 --> 01:34:31.800
+A cure for greed?
+
+01:34:31.800 --> 01:34:33.800
+Greed, I think we have to understand it first.
+
+01:34:33.800 --> 01:34:38.320
+That was the life of the psychiatry, I think.
+
+01:34:38.320 --> 01:34:39.320
+That's an important one.
+
+01:34:39.320 --> 01:34:42.160
+I'm trying for that, thank you.
+
+01:34:42.160 --> 01:34:48.880
+Hi, first of all, thank you for extraordinary discussion.
+
+01:34:48.880 --> 01:34:54.760
+And to ask my question, I have to make a couple of points.
+
+01:34:54.760 --> 01:35:02.840
+First, if we always simplify, it's a matter as what was said here, it's like we believe
+
+01:35:02.840 --> 01:35:05.800
+in evolution, but we don't like it.
+
+01:35:05.800 --> 01:35:08.160
+We like creation.
+
+01:35:08.160 --> 01:35:19.760
+And second point is if we start to play and we create toys, we won't stop.
+
+01:35:19.760 --> 01:35:27.120
+And at some point, it's a question from like your question when humanity will end.
+
+01:35:27.120 --> 01:35:35.880
+It's like at some point, we will be able to create something from scratch and probably
+
+01:35:35.880 --> 01:35:38.640
+in our image.
+
+01:35:38.640 --> 01:35:41.920
+So would we do this?
+
+01:35:41.920 --> 01:35:49.920
+Would we give these new creatures absolute independence and for a view?
+
+01:35:49.920 --> 01:35:52.040
+Or we try to control them?
+
+01:35:52.040 --> 01:35:54.440
+If they're sentient, absolutely.
+
+01:35:54.440 --> 01:35:57.520
+If they're bacteria, it becomes a good question, I think.
+
+01:35:57.520 --> 01:36:01.600
+If they're bacteria that you made, I think there should be some statutory responsibility
+
+01:36:01.600 --> 01:36:03.920
+for the thing that you created that has no sentience.
+
+01:36:03.920 --> 01:36:07.240
+I think it has to otherwise people will make them and say, well, I don't know.
+
+01:36:07.240 --> 01:36:10.720
+I'm thinking about something bigger, like in our image.
+
+01:36:10.720 --> 01:36:12.720
+Well, I know.
+
+01:36:12.720 --> 01:36:15.800
+You know, children, essentially, are made in our image.
+
+01:36:15.800 --> 01:36:20.960
+But we wait until they're 18, I guess.
+
+01:36:20.960 --> 01:36:24.880
+I don't give my children a few will.
+
+01:36:24.880 --> 01:36:25.880
+They take it.
+
+01:36:25.880 --> 01:36:27.880
+But you don't have to give it.
+
+01:36:27.880 --> 01:36:28.880
+They have to take it.
+
+01:36:28.880 --> 01:36:29.880
+I'm not going to give it.
+
+01:36:29.880 --> 01:36:34.400
+This came up to when people talked about cloned or IVF babies, are they real people?
+
+01:36:34.400 --> 01:36:35.400
+Do they have souls?
+
+01:36:35.400 --> 01:36:37.000
+Are these questions have come up before?
+
+01:36:37.000 --> 01:36:42.400
+I think without question, if they have somewhere between 45 and 48 chromosomes and they look
+
+01:36:42.400 --> 01:36:46.040
+like all of us and they are what we call human, I think it's...
+
+01:36:46.040 --> 01:36:49.080
+You don't even have to go that far.
+
+01:36:49.080 --> 01:36:52.400
+I mean, right now, there's always been a problem.
+
+01:36:52.400 --> 01:36:58.040
+Half of the sci-fi literature is about getting sentient organics that are actually non-biological
+
+01:36:58.040 --> 01:37:00.320
+and they're silicon-based.
+
+01:37:00.320 --> 01:37:06.480
+I think that's probably a much earlier thing to come because now they're starting to achieve
+
+01:37:06.480 --> 01:37:09.520
+some pretty dramatic computational power.
+
+01:37:09.520 --> 01:37:11.040
+And already, they're starting to...
+
+01:37:11.040 --> 01:37:13.040
+This place I'm pretty scary characteristics.
+
+01:37:13.040 --> 01:37:16.920
+I can't speak for everyone, but I'd be happy to give more rights rather than to take them
+
+01:37:16.920 --> 01:37:17.920
+away from entities.
+
+01:37:17.920 --> 01:37:22.480
+But it's easier for control purposes, I guess, to take them away from things that are scared
+
+01:37:22.480 --> 01:37:23.480
+of.
+
+01:37:23.480 --> 01:37:24.480
+We love one last question.
+
+01:37:24.480 --> 01:37:25.480
+Great.
+
+01:37:25.480 --> 01:37:26.480
+Thanks for coming here today.
+
+01:37:26.480 --> 01:37:35.920
+My question actually comes around to the point that each of you come from different sectors
+
+01:37:35.920 --> 01:37:40.920
+of the industry, private and research and whatnot.
+
+01:37:40.920 --> 01:37:46.000
+What are you doing or what is being done in order to have more of a brain trust and a
+
+01:37:46.000 --> 01:37:48.600
+collaboration of discoveries?
+
+01:37:48.600 --> 01:37:55.000
+I come from the technology sector, so we have a lot of cross-breeding in philosophies around
+
+01:37:55.000 --> 01:37:57.400
+designing and architectures.
+
+01:37:57.400 --> 01:38:00.360
+But it's easy for us because technology's fundamentally programming is fundamentally
+
+01:38:00.360 --> 01:38:02.160
+free.
+
+01:38:02.160 --> 01:38:05.960
+But it touches the funding issue of where that money comes from and then the private sector,
+
+01:38:05.960 --> 01:38:10.120
+the profitability of the business model, and then actually the interest in the research,
+
+01:38:10.120 --> 01:38:14.600
+right, the actual why are we trying to figure out these protein sequences or what it may
+
+01:38:14.600 --> 01:38:15.600
+be.
+
+01:38:15.600 --> 01:38:19.160
+So I'm just kind of curious of your opinions on that area and how you see the future of
+
+01:38:19.160 --> 01:38:20.160
+that moving forward.
+
+01:38:20.160 --> 01:38:24.160
+So that's really a great question because if I've seen something that has been really
+
+01:38:24.160 --> 01:38:28.880
+transformational right now, is that the old model of funding, this is I'm talking about
+
+01:38:28.880 --> 01:38:33.400
+academia in this case, but the old model of funding where there was, it's called R01 based.
+
+01:38:33.400 --> 01:38:37.000
+R01 is a particular type of grants that funds an individual investigator.
+
+01:38:37.000 --> 01:38:41.320
+So, you know, Chris gets an R01 and then his labs does specific research that they propose
+
+01:38:41.320 --> 01:38:43.160
+in the R01.
+
+01:38:43.160 --> 01:38:50.800
+But there have been a number of now sort of, we call them networks of research centers.
+
+01:38:50.800 --> 01:38:55.920
+One that was, for instance, participating in the last five years, we call cancer target
+
+01:38:55.920 --> 01:38:56.920
+discovery and development.
+
+01:38:56.920 --> 01:38:59.160
+And this is essentially a group of centers.
+
+01:38:59.160 --> 01:39:02.320
+We started with five centers and then it's been expanded because it was a very successful
+
+01:39:02.320 --> 01:39:05.120
+experiment to 13 centers.
+
+01:39:05.120 --> 01:39:11.320
+And we are essentially not just forced, but really encouraged to collaborate with each
+
+01:39:11.320 --> 01:39:12.320
+other.
+
+01:39:12.320 --> 01:39:17.480
+And it's been one of the most extraordinary experiences in terms of having really valuable
+
+01:39:17.480 --> 01:39:22.120
+incredibly productive collaborations that we really would never have thought of if we
+
+01:39:22.120 --> 01:39:24.880
+had continued to do the research in a more traditional way.
+
+01:39:24.880 --> 01:39:30.160
+So I think the NIH is starting to recognize this and I think NSF as well.
+
+01:39:30.160 --> 01:39:31.640
+And so there is a trend.
+
+01:39:31.640 --> 01:39:36.160
+I'm not saying that it should be only collaborative research that needs to be done, but finding
+
+01:39:36.160 --> 01:39:40.600
+the right balance between the two is probably going to be really instrumental because most
+
+01:39:40.600 --> 01:39:45.960
+of the especially things like systems biology, when we have a system biology paper today,
+
+01:39:45.960 --> 01:39:49.520
+it has anything from people that did the mathematical model of people that actually
+
+01:39:49.520 --> 01:39:50.520
+run the self-infrastructure.
+
+01:39:50.520 --> 01:39:52.520
+We would do the experimental validation.
+
+01:39:52.520 --> 01:39:54.200
+We would do the mouse work, et cetera.
+
+01:39:54.200 --> 01:39:59.200
+And it end up being humongous team efforts, not just things that you can do in one lab.
+
+01:39:59.200 --> 01:40:04.680
+And so I think hopefully we're going to see more and more of these separate collaborations
+
+01:40:04.680 --> 01:40:08.080
+and that will be very, very productive as we've seen them be.
+
+01:40:08.080 --> 01:40:20.840
+Thank you very much.
+
+01:40:20.840 --> 01:40:42.280
+Thank you very much.
+

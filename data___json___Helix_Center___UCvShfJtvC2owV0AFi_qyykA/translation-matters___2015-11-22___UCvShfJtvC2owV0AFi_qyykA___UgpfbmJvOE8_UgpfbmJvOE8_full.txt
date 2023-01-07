@@ -1,0 +1,1113 @@
+{"id": "UgpfbmJvOE8-t0.0", "text": "I am.", "start": 0.0, "end": 7.0}
+{"id": "UgpfbmJvOE8-t7.0", "text": "Okay, my name is Philip Lumberg and is a member of the Executive Committee of the Helix Center.", "start": 7.0, "end": 13.0}
+{"id": "UgpfbmJvOE8-t13.0", "text": "I'd like both to welcome you to today's panel on translation matters and to tell you some of our future events.", "start": 13.0, "end": 20.0}
+{"id": "UgpfbmJvOE8-t20.0", "text": "Our concluding meetings of 2015 will be held on December 4th, 5th, and 6th,", "start": 20.0, "end": 28.0}
+{"id": "UgpfbmJvOE8-t28.0", "text": "and will consist of a series of round tables presented in collaboration with La Soci\u00e9tien de Am\u00e9 de Passage Committee Freud.", "start": 28.0, "end": 38.0}
+{"id": "UgpfbmJvOE8-t38.0", "text": "These interdisciplinary panels will consist of French and American social scientists, philosophers,", "start": 38.0, "end": 46.0}
+{"id": "UgpfbmJvOE8-t46.0", "text": "psychoanalysts, and literary scholars discussing issues of religious and nationalist extremism,", "start": 46.0, "end": 54.0}
+{"id": "UgpfbmJvOE8-t54.0", "text": "crises in identity formation and failures in education.", "start": 54.0, "end": 60.0}
+{"id": "UgpfbmJvOE8-t60.0", "text": "Round tables for 2016 will include a February panel on the meditative state,", "start": 60.0, "end": 68.0}
+{"id": "UgpfbmJvOE8-t68.0", "text": "a march panel on genes, computers, and medicine, and a panel on women and genius which will be held in the spring.", "start": 68.0, "end": 77.0}
+{"id": "UgpfbmJvOE8-t77.0", "text": "We hope you can attend all these events and additional information about them and other round tables", "start": 77.0, "end": 83.0}
+{"id": "UgpfbmJvOE8-t83.0", "text": "can be found on the Helix Center website.", "start": 83.0, "end": 87.0}
+{"id": "UgpfbmJvOE8-t87.0", "text": "Now I'd like to turn things over to today's round table moderator Ann Marie Levine who will introduce our participants.", "start": 87.0, "end": 95.0}
+{"id": "UgpfbmJvOE8-t95.0", "text": "Ann Marie Levine lives in New York City, a poet and visual artist who began writing while touring as a concert pianist.", "start": 95.0, "end": 103.0}
+{"id": "UgpfbmJvOE8-t103.0", "text": "She's the author of three books of poetry,", "start": 103.0, "end": 106.0}
+{"id": "UgpfbmJvOE8-t106.0", "text": "from Fourier, Busry to a Blue Movie, and Oral History, as well as an artist book called Rekule, Pouamir Saut\u00e9.", "start": 106.0, "end": 115.0}
+{"id": "UgpfbmJvOE8-t115.0", "text": "Her work also appears in various journals and in anthologies such as poetry after 9-11,", "start": 115.0, "end": 122.0}
+{"id": "UgpfbmJvOE8-t122.0", "text": "literature as meaning, and literature after 9-11.", "start": 122.0, "end": 126.0}
+{"id": "UgpfbmJvOE8-t126.0", "text": "She has published essays on Gertrude Stein's politics, on trauma and art, and on context,", "start": 126.0, "end": 133.0}
+{"id": "UgpfbmJvOE8-t133.0", "text": "and has received grants from the NYFA, Puffin, and Vogelstein foundations for her work.", "start": 133.0, "end": 140.0}
+{"id": "UgpfbmJvOE8-t140.0", "text": "She occasionally performs solo theater pieces based on her poems.", "start": 140.0, "end": 144.0}
+{"id": "UgpfbmJvOE8-t144.0", "text": "She is, as well, a maker of box art, miniature paintings on wood, and digital prints exhibited throughout the country.", "start": 144.0, "end": 153.0}
+{"id": "UgpfbmJvOE8-t153.0", "text": "Ann Marie.", "start": 153.0, "end": 160.0}
+{"id": "UgpfbmJvOE8-t160.0", "text": "Ann, welcome. You might think, what am I doing here from that introduction, but I'm on the executive committee too,", "start": 160.0, "end": 167.0}
+{"id": "UgpfbmJvOE8-t167.0", "text": "and this program was my idea.", "start": 167.0, "end": 170.0}
+{"id": "UgpfbmJvOE8-t170.0", "text": "So I'm going to read you essentially what's on the handout because sometimes people don't have it or they don't read it,", "start": 170.0, "end": 176.0}
+{"id": "UgpfbmJvOE8-t176.0", "text": "and people's bios. Does this work?", "start": 176.0, "end": 182.0}
+{"id": "UgpfbmJvOE8-t182.0", "text": "Yes.", "start": 182.0, "end": 183.0}
+{"id": "UgpfbmJvOE8-t183.0", "text": "Okay. I haven't said anything of importance yet.", "start": 183.0, "end": 187.0}
+{"id": "UgpfbmJvOE8-t187.0", "text": "So why is translation which formerly referred to a set of restricted technical procedures taking place between two languages,", "start": 187.0, "end": 195.0}
+{"id": "UgpfbmJvOE8-t195.0", "text": "now widely understood to be the basis of all human culture?", "start": 195.0, "end": 199.0}
+{"id": "UgpfbmJvOE8-t199.0", "text": "What is it about this dynamic principle of displacement, exchange, and creative renewal that also links it to the exercise of political power", "start": 199.0, "end": 208.0}
+{"id": "UgpfbmJvOE8-t208.0", "text": "and the possession of linguistic literary capital?", "start": 208.0, "end": 211.0}
+{"id": "UgpfbmJvOE8-t211.0", "text": "Why do some still consider it a necessary evil,", "start": 211.0, "end": 215.0}
+{"id": "UgpfbmJvOE8-t215.0", "text": "while others regarded as a testimony to the rich diversity of human expression?", "start": 215.0, "end": 220.0}
+{"id": "UgpfbmJvOE8-t220.0", "text": "Because its processes are so pervasive a feature of thought and experience.", "start": 220.0, "end": 225.0}
+{"id": "UgpfbmJvOE8-t225.0", "text": "Still no good? Still closer? My God. Sorry.", "start": 225.0, "end": 230.0}
+{"id": "UgpfbmJvOE8-t230.0", "text": "We must ask, on the one hand, does anything escape translation?", "start": 230.0, "end": 235.0}
+{"id": "UgpfbmJvOE8-t235.0", "text": "And on the other hand, we must also ask, is everything ultimately translatable?", "start": 235.0, "end": 239.0}
+{"id": "UgpfbmJvOE8-t239.0", "text": "Translation studies as a field has grown tremendously in the last two decades.", "start": 239.0, "end": 244.0}
+{"id": "UgpfbmJvOE8-t244.0", "text": "This event will focus on translation as a psychic, aesthetic, and cultural phenomenon.", "start": 244.0, "end": 249.0}
+{"id": "UgpfbmJvOE8-t249.0", "text": "We are extremely fortunate to have with us a group of celebrated literary translators and theorists of translation", "start": 249.0, "end": 255.0}
+{"id": "UgpfbmJvOE8-t255.0", "text": "who work in different languages and across genres and periods.", "start": 255.0, "end": 259.0}
+{"id": "UgpfbmJvOE8-t259.0", "text": "Their distinctive insights into this most significant and challenging enterprise will remind us of the countless ways", "start": 259.0, "end": 265.0}
+{"id": "UgpfbmJvOE8-t265.0", "text": "we all live in translation and are subject to its elusive and reverberating implications.", "start": 265.0, "end": 272.0}
+{"id": "UgpfbmJvOE8-t272.0", "text": "So I'll now introduce the participants.", "start": 272.0, "end": 277.0}
+{"id": "UgpfbmJvOE8-t277.0", "text": "And would you please raise your hand when I say your name so that people may identify you?", "start": 277.0, "end": 284.0}
+{"id": "UgpfbmJvOE8-t284.0", "text": "In alphabetical order, David Bellas, thank you, studied modern languages at Oxford", "start": 284.0, "end": 290.0}
+{"id": "UgpfbmJvOE8-t290.0", "text": "and taught French at the universities of Edinburgh, Southampton, and Manchester,", "start": 290.0, "end": 294.0}
+{"id": "UgpfbmJvOE8-t294.0", "text": "before moving to Princeton, where he is professor of French and comparative literature", "start": 294.0, "end": 299.0}
+{"id": "UgpfbmJvOE8-t299.0", "text": "and director of the program in translation and intercultural communication.", "start": 299.0, "end": 303.0}
+{"id": "UgpfbmJvOE8-t303.0", "text": "He is the author of Hommangary, A Tall Story, Jacques Tachie, His Life in Art, and Charles Peric,", "start": 303.0, "end": 310.0}
+{"id": "UgpfbmJvOE8-t310.0", "text": "A Life in Words, which was awarded the Gancul Prize for Biography in 1994.", "start": 310.0, "end": 316.0}
+{"id": "UgpfbmJvOE8-t316.0", "text": "He has translated more than 30 books from French, including Charles Peric's Life a User's Manual", "start": 316.0, "end": 321.0}
+{"id": "UgpfbmJvOE8-t321.0", "text": "and novels by Ismael Cadaire.", "start": 321.0, "end": 324.0}
+{"id": "UgpfbmJvOE8-t324.0", "text": "I'm not sure how to pronounce that.", "start": 324.0, "end": 326.0}
+{"id": "UgpfbmJvOE8-t326.0", "text": "I'm the author of the Inaugural Man Booker International Prize in 2005.", "start": 326.0, "end": 330.0}
+{"id": "UgpfbmJvOE8-t330.0", "text": "Bellas' essay on translation is that efficient your ear, translation and the meaning of everything,", "start": 330.0, "end": 336.0}
+{"id": "UgpfbmJvOE8-t336.0", "text": "was shortlisted for the Los Angeles Times Book Prize and the National Book Critics Circle Award.", "start": 336.0, "end": 342.0}
+{"id": "UgpfbmJvOE8-t342.0", "text": "He's currently writing a book about Victor Hugo and Les Misab, Bella Bradsky,", "start": 342.0, "end": 349.0}
+{"id": "UgpfbmJvOE8-t349.0", "text": "thank you, is professor of comparative literature at Sarah Lawrence,", "start": 349.0, "end": 354.0}
+{"id": "UgpfbmJvOE8-t354.0", "text": "she teaches courses in world literature slash global writing, translation studies,", "start": 354.0, "end": 359.0}
+{"id": "UgpfbmJvOE8-t359.0", "text": "autobiography and literary and cultural theory.", "start": 359.0, "end": 363.0}
+{"id": "UgpfbmJvOE8-t363.0", "text": "She's the co-editor of Life Lines, Theorizing Women's Autobiography,", "start": 363.0, "end": 367.0}
+{"id": "UgpfbmJvOE8-t367.0", "text": "a special issue of comparative literature studies on narrative and trauma,", "start": 367.0, "end": 372.0}
+{"id": "UgpfbmJvOE8-t372.0", "text": "and author of Can These Bones Live, Translation, Survival and Cultural Memory.", "start": 372.0, "end": 378.0}
+{"id": "UgpfbmJvOE8-t378.0", "text": "A special issue she is co-editing of translation on memory and translation in language and culture,", "start": 378.0, "end": 383.0}
+{"id": "UgpfbmJvOE8-t383.0", "text": "is forthcoming in 2016.", "start": 383.0, "end": 386.0}
+{"id": "UgpfbmJvOE8-t386.0", "text": "Additionally, she's published articles on gender and translation,", "start": 386.0, "end": 390.0}
+{"id": "UgpfbmJvOE8-t390.0", "text": "translating theory and cultural untranslated ability.", "start": 390.0, "end": 396.0}
+{"id": "UgpfbmJvOE8-t396.0", "text": "Suzanne Gill-Lavigne translated Mundo Coel, stories by Louis Negron,", "start": 396.0, "end": 403.0}
+{"id": "UgpfbmJvOE8-t403.0", "text": "which won the 2014 Lambda Prize for Fiction,", "start": 403.0, "end": 406.0}
+{"id": "UgpfbmJvOE8-t406.0", "text": "editor of the Penguin Paperback Classics of Jorge Luis Borges' Poetry and Essays,", "start": 406.0, "end": 412.0}
+{"id": "UgpfbmJvOE8-t412.0", "text": "and translator of canonical Latin American writers, such as Guillermo Cabrera in Fante,", "start": 412.0, "end": 419.0}
+{"id": "UgpfbmJvOE8-t419.0", "text": "Julio Cortazar, Manuel Puig, Civero Sardui, and Adolfo Bioy Kazaris.", "start": 419.0, "end": 426.0}
+{"id": "UgpfbmJvOE8-t426.0", "text": "She has received many honors, including NEH, NEA, Guggenheim,", "start": 426.0, "end": 431.0}
+{"id": "UgpfbmJvOE8-t431.0", "text": "Rockefeller Fellowships and Grants, and most recently received the Penn Award in 2012", "start": 431.0, "end": 437.0}
+{"id": "UgpfbmJvOE8-t437.0", "text": "for Jose Donoso's The Lizard's Tale.", "start": 437.0, "end": 440.0}
+{"id": "UgpfbmJvOE8-t440.0", "text": "Director of Translation Studies and Professor at the University of California in Santa Barbara,", "start": 440.0, "end": 445.0}
+{"id": "UgpfbmJvOE8-t445.0", "text": "she's the author of the subversive scribe,", "start": 445.0, "end": 448.0}
+{"id": "UgpfbmJvOE8-t448.0", "text": "Translating Latin American Fiction, and of the literary biography Manuel Puig and the Spider Woman,", "start": 448.0, "end": 455.0}
+{"id": "UgpfbmJvOE8-t455.0", "text": "His Life in Fictions.", "start": 455.0, "end": 457.0}
+{"id": "UgpfbmJvOE8-t457.0", "text": "She's currently translating Eduardo Lalo's La Inertilidad for the University of Chicago Press.", "start": 457.0, "end": 463.0}
+{"id": "UgpfbmJvOE8-t463.0", "text": "Mark Palazzotti's books include Revolution of the Mind, The Life of Enclave Hotel,", "start": 463.0, "end": 471.0}
+{"id": "UgpfbmJvOE8-t471.0", "text": "The Collaborative Novel S, L'Otr\u00e9almo Nomad,", "start": 471.0, "end": 475.0}
+{"id": "UgpfbmJvOE8-t475.0", "text": "Luis Bu\u00f1uel's Los Alvidados, and Bob Dylan Highway 61 Revisited.", "start": 475.0, "end": 481.0}
+{"id": "UgpfbmJvOE8-t481.0", "text": "His articles and reviews have appeared in the New Republic, the Wall Street Journal,", "start": 481.0, "end": 488.0}
+{"id": "UgpfbmJvOE8-t488.0", "text": "Art News, The Nation, Parnassas, Partisan Review, Book Form, and Elsewhere.", "start": 488.0, "end": 493.0}
+{"id": "UgpfbmJvOE8-t493.0", "text": "The translator of over 40 books from the French, including works by Flob\u00e9, Patrick Bariano,", "start": 493.0, "end": 498.0}
+{"id": "UgpfbmJvOE8-t498.0", "text": "Marguerite Duras, Aulley Wauton, Raymond Rousseau, and Jean Echinos.", "start": 498.0, "end": 503.0}
+{"id": "UgpfbmJvOE8-t503.0", "text": "He directs the Publications Program at the Metropolitan Museum of Art in New York.", "start": 503.0, "end": 509.0}
+{"id": "UgpfbmJvOE8-t509.0", "text": "Michelle Woods is the author of Kafka Translated,", "start": 509.0, "end": 514.0}
+{"id": "UgpfbmJvOE8-t514.0", "text": "how translators have shaped our reading of Kafka, Sensoring Translation,", "start": 514.0, "end": 519.0}
+{"id": "UgpfbmJvOE8-t519.0", "text": "Sensorship Theater, and the Politics of Translation, and Translating Milancundera.", "start": 519.0, "end": 525.0}
+{"id": "UgpfbmJvOE8-t525.0", "text": "She's currently editing a book of essays on literature and translation,", "start": 525.0, "end": 529.0}
+{"id": "UgpfbmJvOE8-t529.0", "text": "Authorizing Translation.", "start": 529.0, "end": 531.0}
+{"id": "UgpfbmJvOE8-t531.0", "text": "She's co-editor of a new book series for Bloomsbury, Literature's Culture's Translation.", "start": 531.0, "end": 537.0}
+{"id": "UgpfbmJvOE8-t537.0", "text": "Half Irish and Half Czech, she has written several articles on the translation of Czech", "start": 537.0, "end": 542.0}
+{"id": "UgpfbmJvOE8-t542.0", "text": "and Irish literature and film.", "start": 542.0, "end": 544.0}
+{"id": "UgpfbmJvOE8-t544.0", "text": "She's also translated work by young Czech writers published in Words Without Borders.", "start": 544.0, "end": 550.0}
+{"id": "UgpfbmJvOE8-t550.0", "text": "Woods graduated from Trinity College Dublin and was a Fulbright Fellow at Columbia University here in New York,", "start": 550.0, "end": 557.0}
+{"id": "UgpfbmJvOE8-t557.0", "text": "and an IRCHSS Government of Ireland Fellow at Dublin City University.", "start": 557.0, "end": 562.0}
+{"id": "UgpfbmJvOE8-t562.0", "text": "She's an Associate Professor of English at SUNY Newpalls, where she loves to teach as much dark", "start": 562.0, "end": 567.0}
+{"id": "UgpfbmJvOE8-t567.0", "text": "and funny Central European literature as she can get away with.", "start": 567.0, "end": 571.0}
+{"id": "UgpfbmJvOE8-t571.0", "text": "So, welcome.", "start": 571.0, "end": 574.0}
+{"id": "UgpfbmJvOE8-t574.0", "text": "I'm going to ask who wrote the description of our program to begin by amplifying a bit on that", "start": 574.0, "end": 582.0}
+{"id": "UgpfbmJvOE8-t582.0", "text": "and telling us something about her own work and ideas.", "start": 582.0, "end": 585.0}
+{"id": "UgpfbmJvOE8-t585.0", "text": "Thanks.", "start": 585.0, "end": 586.0}
+{"id": "UgpfbmJvOE8-t588.0", "text": "Thank you very much, Anne Marie.", "start": 588.0, "end": 590.0}
+{"id": "UgpfbmJvOE8-t590.0", "text": "I think this is a wonderful opportunity to hear people talk about something,", "start": 590.0, "end": 595.0}
+{"id": "UgpfbmJvOE8-t595.0", "text": "as I did say in the description, that a lot of us take for granted,", "start": 595.0, "end": 599.0}
+{"id": "UgpfbmJvOE8-t599.0", "text": "and that many of us lament about in the sense that much translation goes by way of how should I put this.", "start": 599.0, "end": 610.0}
+{"id": "UgpfbmJvOE8-t610.0", "text": "There is a very well-known book by a translator and translation theorist named Lauren Finudy,", "start": 610.0, "end": 617.0}
+{"id": "UgpfbmJvOE8-t617.0", "text": "and it's called The Translator's Invisibility.", "start": 617.0, "end": 620.0}
+{"id": "UgpfbmJvOE8-t620.0", "text": "That's something that many people who are aware of translation worry a lot about,", "start": 620.0, "end": 627.0}
+{"id": "UgpfbmJvOE8-t627.0", "text": "the extent to which translation takes place sort of behind the scenes", "start": 627.0, "end": 631.0}
+{"id": "UgpfbmJvOE8-t631.0", "text": "and doesn't get the credit that it deserves.", "start": 631.0, "end": 633.0}
+{"id": "UgpfbmJvOE8-t633.0", "text": "And yet, as I try to suggest, it is probably one of the most powerful instruments we have,", "start": 633.0, "end": 642.0}
+{"id": "UgpfbmJvOE8-t642.0", "text": "and it works for us, but also against us if we don't pay attention to how it works", "start": 642.0, "end": 651.0}
+{"id": "UgpfbmJvOE8-t651.0", "text": "and where its implications are.", "start": 651.0, "end": 653.0}
+{"id": "UgpfbmJvOE8-t653.0", "text": "And there are a lot of asymmetries attached to translation in terms of politics and cultural politics, for sure.", "start": 653.0, "end": 660.0}
+{"id": "UgpfbmJvOE8-t660.0", "text": "And probably today, those are some of the controversies that plague academics.", "start": 660.0, "end": 669.0}
+{"id": "UgpfbmJvOE8-t669.0", "text": "One of the other very current issues that people are concerned about is untranslatedability versus translatability,", "start": 669.0, "end": 676.0}
+{"id": "UgpfbmJvOE8-t676.0", "text": "the kinds of things one might take for granted, but in fact one should pay more attention to.", "start": 676.0, "end": 681.0}
+{"id": "UgpfbmJvOE8-t681.0", "text": "So, I'm really thrilled because we have a phenomenal group here.", "start": 681.0, "end": 688.0}
+{"id": "UgpfbmJvOE8-t688.0", "text": "They represent remarkable expertise and experience,", "start": 688.0, "end": 693.0}
+{"id": "UgpfbmJvOE8-t693.0", "text": "and they draw from a range of experiences and genres, as I said.", "start": 693.0, "end": 700.0}
+{"id": "UgpfbmJvOE8-t700.0", "text": "I'm the only person here, besides Ann Marie, who does not translate.", "start": 700.0, "end": 706.0}
+{"id": "UgpfbmJvOE8-t706.0", "text": "That's my conceit, I just theorize about it.", "start": 706.0, "end": 709.0}
+{"id": "UgpfbmJvOE8-t709.0", "text": "In fact, I'm an awful translator, I realize.", "start": 709.0, "end": 714.0}
+{"id": "UgpfbmJvOE8-t714.0", "text": "I teach translation studies, and I think I'm quite good at comparing translations", "start": 714.0, "end": 720.0}
+{"id": "UgpfbmJvOE8-t720.0", "text": "and what I would, perhaps I would say, comparing their vices and their virtues.", "start": 720.0, "end": 726.0}
+{"id": "UgpfbmJvOE8-t726.0", "text": "But somehow I get overwhelmed by the, not the complexities, but the ambiguities", "start": 726.0, "end": 731.0}
+{"id": "UgpfbmJvOE8-t731.0", "text": "and the seeming insurmountable challenges that translation brings.", "start": 731.0, "end": 735.0}
+{"id": "UgpfbmJvOE8-t735.0", "text": "So, I'm in awe of translators.", "start": 735.0, "end": 737.0}
+{"id": "UgpfbmJvOE8-t737.0", "text": "I really am.", "start": 737.0, "end": 739.0}
+{"id": "UgpfbmJvOE8-t739.0", "text": "And since for most of us in fact, a good bit of the world comes to us via translation,", "start": 739.0, "end": 745.0}
+{"id": "UgpfbmJvOE8-t745.0", "text": "we do really have to trust translators.", "start": 745.0, "end": 748.0}
+{"id": "UgpfbmJvOE8-t748.0", "text": "So, one of the questions I'm always interested in is, you know, how do these things get re-translated?", "start": 748.0, "end": 754.0}
+{"id": "UgpfbmJvOE8-t754.0", "text": "How do translators come to become translators in the first place?", "start": 754.0, "end": 759.0}
+{"id": "UgpfbmJvOE8-t759.0", "text": "I grew up in a multilingual household, a child of refugees,", "start": 759.0, "end": 763.0}
+{"id": "UgpfbmJvOE8-t763.0", "text": "so translation was sort of in the air and, you know, part of everything.", "start": 763.0, "end": 767.0}
+{"id": "UgpfbmJvOE8-t767.0", "text": "But that doesn't necessarily explain what intrigues scholars who end up dedicating", "start": 767.0, "end": 775.0}
+{"id": "UgpfbmJvOE8-t775.0", "text": "a tremendous amount of their time and are generally very poorly paid for it to translation.", "start": 775.0, "end": 782.0}
+{"id": "UgpfbmJvOE8-t782.0", "text": "And yet the most important legacy we have, I would argue, is, you know, what translators give us.", "start": 782.0, "end": 790.0}
+{"id": "UgpfbmJvOE8-t790.0", "text": "So, I'm always looking for different axes or different intersections with translation.", "start": 790.0, "end": 795.0}
+{"id": "UgpfbmJvOE8-t795.0", "text": "And if there's a danger, it's probably that I don't attend as much to, you know,", "start": 795.0, "end": 802.0}
+{"id": "UgpfbmJvOE8-t802.0", "text": "the technical aspects of translation as I do to the large metaphorical implications of translation.", "start": 802.0, "end": 809.0}
+{"id": "UgpfbmJvOE8-t809.0", "text": "And, you know, there's a kind of danger that comes with seeing translation everywhere,", "start": 809.0, "end": 812.0}
+{"id": "UgpfbmJvOE8-t812.0", "text": "because then, of course, as we all know, the most important thing really resides in the details.", "start": 812.0, "end": 818.0}
+{"id": "UgpfbmJvOE8-t818.0", "text": "One loses sight of those micro aspects of translation.", "start": 818.0, "end": 822.0}
+{"id": "UgpfbmJvOE8-t822.0", "text": "So it's that balance, that dynamic tension that I think we'll be addressing today.", "start": 822.0, "end": 826.0}
+{"id": "UgpfbmJvOE8-t826.0", "text": "I'm looking forward to it.", "start": 826.0, "end": 828.0}
+{"id": "UgpfbmJvOE8-t828.0", "text": "And I'm going to start off asking David something that's always bothered me.", "start": 828.0, "end": 836.0}
+{"id": "UgpfbmJvOE8-t836.0", "text": "Why and how did you come to this title of, is there a fish in your ear?", "start": 836.0, "end": 846.0}
+{"id": "UgpfbmJvOE8-t846.0", "text": "Well, not any way that I come to it, but why did the publisher not throw it out?", "start": 846.0, "end": 850.0}
+{"id": "UgpfbmJvOE8-t850.0", "text": "It's a very bizarre title, especially in America.", "start": 850.0, "end": 855.0}
+{"id": "UgpfbmJvOE8-t855.0", "text": "The first draft of this book, actually, until really quite late stage was called", "start": 855.0, "end": 862.0}
+{"id": "UgpfbmJvOE8-t862.0", "text": "The Truth About Translation.", "start": 862.0, "end": 865.0}
+{"id": "UgpfbmJvOE8-t865.0", "text": "I mean, what an absurd thing to claim.", "start": 865.0, "end": 870.0}
+{"id": "UgpfbmJvOE8-t870.0", "text": "But it was always thought of as a provisional title, a working title, until we got nearer to the end of the book.", "start": 870.0, "end": 878.0}
+{"id": "UgpfbmJvOE8-t878.0", "text": "Yeah, well, it is actually what I want to say, but then to say it effectively, you can't say that's what you're saying.", "start": 878.0, "end": 885.0}
+{"id": "UgpfbmJvOE8-t885.0", "text": "People are smarter than that.", "start": 885.0, "end": 890.0}
+{"id": "UgpfbmJvOE8-t890.0", "text": "And, well, it was getting near time to go to press, and we still hadn't got a title,", "start": 890.0, "end": 896.0}
+{"id": "UgpfbmJvOE8-t896.0", "text": "and so I went for a walk around the block.", "start": 896.0, "end": 899.0}
+{"id": "UgpfbmJvOE8-t899.0", "text": "And there's a radio serial that was very famous of, it's a spoof science fiction serial.", "start": 899.0, "end": 907.0}
+{"id": "UgpfbmJvOE8-t907.0", "text": "It was very famous in the UK long ago, when I was young, which is very long ago,", "start": 907.0, "end": 914.0}
+{"id": "UgpfbmJvOE8-t914.0", "text": "in which the problem of intergalactic communication is solved by what's called the oddest invention in the universe,", "start": 914.0, "end": 925.0}
+{"id": "UgpfbmJvOE8-t925.0", "text": "and there are lots of jokes about it being proof of the non-existence of God,", "start": 925.0, "end": 930.0}
+{"id": "UgpfbmJvOE8-t930.0", "text": "because God would never have invented anything as so useful as this thing called the Babel Fish,", "start": 930.0, "end": 935.0}
+{"id": "UgpfbmJvOE8-t935.0", "text": "which is fish who stick in your ear, and enables you to understand via telepathic communication, whatever it,", "start": 935.0, "end": 944.0}
+{"id": "UgpfbmJvOE8-t944.0", "text": "any other being in the universe might be wishing to communicate.", "start": 944.0, "end": 950.0}
+{"id": "UgpfbmJvOE8-t950.0", "text": "It's very sort of famous, and lots of websites and automatic translation machines have taken it up,", "start": 950.0, "end": 956.0}
+{"id": "UgpfbmJvOE8-t956.0", "text": "and, you know, are called Babel Fish, or Babel, or something.", "start": 956.0, "end": 960.0}
+{"id": "UgpfbmJvOE8-t960.0", "text": "And so it just occurred to me that that's the problem.", "start": 960.0, "end": 964.0}
+{"id": "UgpfbmJvOE8-t964.0", "text": "I mean, it's a joke in the radio serial, but actually lots of people think that that's what we need.", "start": 964.0, "end": 973.0}
+{"id": "UgpfbmJvOE8-t973.0", "text": "That's what it ought to be, that we ought to have some device, some little key you switch on,", "start": 973.0, "end": 978.0}
+{"id": "UgpfbmJvOE8-t978.0", "text": "and it tells you that we could get rid of all these annoying people called translators,", "start": 978.0, "end": 982.0}
+{"id": "UgpfbmJvOE8-t982.0", "text": "and indeed all the approximation and difficulties that there are.", "start": 982.0, "end": 986.0}
+{"id": "UgpfbmJvOE8-t986.0", "text": "And so it's something, you know, no, it can't be a fish in your ear.", "start": 986.0, "end": 993.0}
+{"id": "UgpfbmJvOE8-t993.0", "text": "There never will be a Babel Fish, so that's how I thought of the title, you know,", "start": 993.0, "end": 997.0}
+{"id": "UgpfbmJvOE8-t997.0", "text": "is that a fish in your ear to which the answer is inviting us, and no, it is not, it's a translator.", "start": 997.0, "end": 1002.0}
+{"id": "UgpfbmJvOE8-t1002.0", "text": "And that's what my book is about. So that's how I came to title.", "start": 1002.0, "end": 1005.0}
+{"id": "UgpfbmJvOE8-t1005.0", "text": "This book was taken up initially by UK publisher, and so that worked to the UK", "start": 1005.0, "end": 1014.0}
+{"id": "UgpfbmJvOE8-t1014.0", "text": "because everybody knows the Hitchhiker's Guide to the Galaxy.", "start": 1014.0, "end": 1017.0}
+{"id": "UgpfbmJvOE8-t1017.0", "text": "It works in German too, where the Hitchhiker's Guide is sort of part of the culture.", "start": 1017.0, "end": 1022.0}
+{"id": "UgpfbmJvOE8-t1022.0", "text": "But although it does have a cult following in the US, it's not nearly as common in own,", "start": 1022.0, "end": 1028.0}
+{"id": "UgpfbmJvOE8-t1028.0", "text": "and I was really surprised that the US publisher, who happened to be British,", "start": 1028.0, "end": 1032.0}
+{"id": "UgpfbmJvOE8-t1032.0", "text": "didn't actually know that about America and just kept the British title in the United States.", "start": 1032.0, "end": 1037.0}
+{"id": "UgpfbmJvOE8-t1037.0", "text": "So there we are. In French and in Spanish it's called something rather different.", "start": 1037.0, "end": 1041.0}
+{"id": "UgpfbmJvOE8-t1041.0", "text": "That's interesting.", "start": 1041.0, "end": 1043.0}
+{"id": "UgpfbmJvOE8-t1043.0", "text": "Could you...", "start": 1043.0, "end": 1044.0}
+{"id": "UgpfbmJvOE8-t1044.0", "text": "That's an interesting problem right there.", "start": 1044.0, "end": 1046.0}
+{"id": "UgpfbmJvOE8-t1046.0", "text": "Oh, fabulous, that translating this book into French and Spanish is really interesting.", "start": 1046.0, "end": 1051.0}
+{"id": "UgpfbmJvOE8-t1051.0", "text": "I was exceedingly lucky to have a genius translator in both places,", "start": 1051.0, "end": 1057.0}
+{"id": "UgpfbmJvOE8-t1057.0", "text": "and I would say that the French edition is definitely to be preferred in English.", "start": 1057.0, "end": 1063.0}
+{"id": "UgpfbmJvOE8-t1063.0", "text": "And how involved were you?", "start": 1063.0, "end": 1065.0}
+{"id": "UgpfbmJvOE8-t1065.0", "text": "Was I? How involved were you?", "start": 1065.0, "end": 1066.0}
+{"id": "UgpfbmJvOE8-t1066.0", "text": "With the French one very much. He was in charge, but I...", "start": 1066.0, "end": 1071.0}
+{"id": "UgpfbmJvOE8-t1071.0", "text": "I think you worked on everything.", "start": 1071.0, "end": 1073.0}
+{"id": "UgpfbmJvOE8-t1073.0", "text": "We worked out some of the games, and so all the examples are reversed, if you shoot them in and take them.", "start": 1073.0, "end": 1080.0}
+{"id": "UgpfbmJvOE8-t1080.0", "text": "So we found other examples in French to go from English to French rather than French to English.", "start": 1080.0, "end": 1085.0}
+{"id": "UgpfbmJvOE8-t1085.0", "text": "But he did some wonderful back translation.", "start": 1085.0, "end": 1088.0}
+{"id": "UgpfbmJvOE8-t1088.0", "text": "So he re-translated the translation of Mabel back into French, and it's the best of all.", "start": 1088.0, "end": 1094.0}
+{"id": "UgpfbmJvOE8-t1094.0", "text": "So yes, that was...", "start": 1094.0, "end": 1098.0}
+{"id": "UgpfbmJvOE8-t1098.0", "text": "It was exhausting because I was correcting the proofs to the American edition at the same time,", "start": 1098.0, "end": 1102.0}
+{"id": "UgpfbmJvOE8-t1102.0", "text": "and of course I get my Americans spending wrong, but I got the French right.", "start": 1102.0, "end": 1107.0}
+{"id": "UgpfbmJvOE8-t1107.0", "text": "But it was a very rewarding,", "start": 1107.0, "end": 1114.0}
+{"id": "UgpfbmJvOE8-t1114.0", "text": "and I think creative enterprises, to take it back into another language,", "start": 1114.0, "end": 1119.0}
+{"id": "UgpfbmJvOE8-t1119.0", "text": "when what it's about is going into language.", "start": 1119.0, "end": 1122.0}
+{"id": "UgpfbmJvOE8-t1122.0", "text": "And I'm really, really... I'm absolutely delighted that he got translated,", "start": 1122.0, "end": 1127.0}
+{"id": "UgpfbmJvOE8-t1127.0", "text": "because it seemed to me that for this book to mean what it means, it has to be translated.", "start": 1127.0, "end": 1132.0}
+{"id": "UgpfbmJvOE8-t1132.0", "text": "It just has to be. So there it is.", "start": 1132.0, "end": 1135.0}
+{"id": "UgpfbmJvOE8-t1135.0", "text": "So what was the Spanish translation?", "start": 1135.0, "end": 1138.0}
+{"id": "UgpfbmJvOE8-t1138.0", "text": "I don't speak Spanish very well. Pez en el Higuera.", "start": 1138.0, "end": 1143.0}
+{"id": "UgpfbmJvOE8-t1143.0", "text": "Pez en el Higuera.", "start": 1143.0, "end": 1145.0}
+{"id": "UgpfbmJvOE8-t1145.0", "text": "In the fish and fig tree.", "start": 1145.0, "end": 1147.0}
+{"id": "UgpfbmJvOE8-t1147.0", "text": "And then you get a person like...", "start": 1147.0, "end": 1149.0}
+{"id": "UgpfbmJvOE8-t1149.0", "text": "There is an idiot or a saying about being in the fig tree", "start": 1149.0, "end": 1155.0}
+{"id": "UgpfbmJvOE8-t1155.0", "text": "that my translator explains to me, maybe quite funny.", "start": 1155.0, "end": 1159.0}
+{"id": "UgpfbmJvOE8-t1159.0", "text": "Okay.", "start": 1159.0, "end": 1160.0}
+{"id": "UgpfbmJvOE8-t1160.0", "text": "He made it up.", "start": 1160.0, "end": 1161.0}
+{"id": "UgpfbmJvOE8-t1161.0", "text": "Maybe we made that one up.", "start": 1161.0, "end": 1163.0}
+{"id": "UgpfbmJvOE8-t1163.0", "text": "The French one is called the fish and the banana tree.", "start": 1163.0, "end": 1166.0}
+{"id": "UgpfbmJvOE8-t1166.0", "text": "Oh, that sounds good.", "start": 1166.0, "end": 1168.0}
+{"id": "UgpfbmJvOE8-t1168.0", "text": "So that's one of the interesting aspects about translation.", "start": 1168.0, "end": 1171.0}
+{"id": "UgpfbmJvOE8-t1171.0", "text": "It's cultural specificity.", "start": 1171.0, "end": 1173.0}
+{"id": "UgpfbmJvOE8-t1173.0", "text": "And what doesn't... and what isn't translatable across even British English and American English.", "start": 1173.0, "end": 1181.0}
+{"id": "UgpfbmJvOE8-t1181.0", "text": "But I would like to know, how did you first start translating?", "start": 1181.0, "end": 1185.0}
+{"id": "UgpfbmJvOE8-t1185.0", "text": "How did I first start translating?", "start": 1185.0, "end": 1187.0}
+{"id": "UgpfbmJvOE8-t1187.0", "text": "Well, there are two answers to that.", "start": 1187.0, "end": 1190.0}
+{"id": "UgpfbmJvOE8-t1190.0", "text": "I mean, I studied languages at school and at university,", "start": 1190.0, "end": 1195.0}
+{"id": "UgpfbmJvOE8-t1195.0", "text": "and then taught languages at university in a culture where the teaching among the students", "start": 1195.0, "end": 1200.0}
+{"id": "UgpfbmJvOE8-t1200.0", "text": "and the teaching among languages is still very much based on the teaching of classics", "start": 1200.0, "end": 1204.0}
+{"id": "UgpfbmJvOE8-t1204.0", "text": "and where the practice of translation, prose and verse,", "start": 1204.0, "end": 1208.0}
+{"id": "UgpfbmJvOE8-t1208.0", "text": "was actually... but there was a subject, I was what you did.", "start": 1208.0, "end": 1212.0}
+{"id": "UgpfbmJvOE8-t1212.0", "text": "But pedagogic translation is one thing.", "start": 1212.0, "end": 1216.0}
+{"id": "UgpfbmJvOE8-t1216.0", "text": "I started as a word translating books for a completely different reason", "start": 1216.0, "end": 1221.0}
+{"id": "UgpfbmJvOE8-t1221.0", "text": "when I read Peric's Life of Uses manual and was so struck by it.", "start": 1221.0, "end": 1229.0}
+{"id": "UgpfbmJvOE8-t1229.0", "text": "For the first time, here is a book.", "start": 1229.0, "end": 1232.0}
+{"id": "UgpfbmJvOE8-t1232.0", "text": "I really would like this to exist in English.", "start": 1232.0, "end": 1234.0}
+{"id": "UgpfbmJvOE8-t1234.0", "text": "I really would like to share this with my father and other people who don't speak French.", "start": 1234.0, "end": 1239.0}
+{"id": "UgpfbmJvOE8-t1239.0", "text": "And so that was the first adventure and I became a translator in order to translate that...", "start": 1239.0, "end": 1245.0}
+{"id": "UgpfbmJvOE8-t1245.0", "text": "in the process of translating that book.", "start": 1245.0, "end": 1249.0}
+{"id": "UgpfbmJvOE8-t1249.0", "text": "And again, I was really very fortunate.", "start": 1249.0, "end": 1251.0}
+{"id": "UgpfbmJvOE8-t1251.0", "text": "I mean, a very lucky person.", "start": 1251.0, "end": 1253.0}
+{"id": "UgpfbmJvOE8-t1253.0", "text": "I mean, it's in some sense is a very difficult book to translate.", "start": 1253.0, "end": 1257.0}
+{"id": "UgpfbmJvOE8-t1257.0", "text": "But precisely for that reason, you learn an awful lot about translating by tackling that one first.", "start": 1257.0, "end": 1262.0}
+{"id": "UgpfbmJvOE8-t1262.0", "text": "And sort of when you've done that one, you sort of... well, take on it.", "start": 1262.0, "end": 1267.0}
+{"id": "UgpfbmJvOE8-t1267.0", "text": "So that's how I got into it. I didn't have any...", "start": 1267.0, "end": 1271.0}
+{"id": "UgpfbmJvOE8-t1271.0", "text": "It wasn't anything like a family background or anything.", "start": 1271.0, "end": 1274.0}
+{"id": "UgpfbmJvOE8-t1274.0", "text": "In fact, it was really a way of striking out against my environment", "start": 1274.0, "end": 1279.0}
+{"id": "UgpfbmJvOE8-t1279.0", "text": "because, I'm sure, Britain's a very snobbish place and Oxford's even more snooty.", "start": 1279.0, "end": 1285.0}
+{"id": "UgpfbmJvOE8-t1285.0", "text": "And amongst professors of literature and language in that environment,", "start": 1285.0, "end": 1291.0}
+{"id": "UgpfbmJvOE8-t1291.0", "text": "translation was really rather looked down upon.", "start": 1291.0, "end": 1295.0}
+{"id": "UgpfbmJvOE8-t1295.0", "text": "There's a sort of thing you weren't supposed to do.", "start": 1295.0, "end": 1298.0}
+{"id": "UgpfbmJvOE8-t1298.0", "text": "It didn't get you any brownie points or didn't count towards research output.", "start": 1298.0, "end": 1305.0}
+{"id": "UgpfbmJvOE8-t1305.0", "text": "And I was at a stage in my life where I felt a little bit...", "start": 1305.0, "end": 1309.0}
+{"id": "UgpfbmJvOE8-t1309.0", "text": "...constrained and constricted.", "start": 1309.0, "end": 1313.0}
+{"id": "UgpfbmJvOE8-t1313.0", "text": "But I hadn't remotely worked out why.", "start": 1313.0, "end": 1316.0}
+{"id": "UgpfbmJvOE8-t1316.0", "text": "I didn't have a theory about translation.", "start": 1316.0, "end": 1318.0}
+{"id": "UgpfbmJvOE8-t1318.0", "text": "I just wanted to translate that book to hell with you a lot.", "start": 1318.0, "end": 1322.0}
+{"id": "UgpfbmJvOE8-t1322.0", "text": "That's what I'm going to do.", "start": 1322.0, "end": 1324.0}
+{"id": "UgpfbmJvOE8-t1324.0", "text": "But to do it, I mean, I didn't do it in university time.", "start": 1324.0, "end": 1326.0}
+{"id": "UgpfbmJvOE8-t1326.0", "text": "I took six months unpaid leave.", "start": 1326.0, "end": 1328.0}
+{"id": "UgpfbmJvOE8-t1328.0", "text": "I mean, even in my mind, I was quite senior personally.", "start": 1328.0, "end": 1331.0}
+{"id": "UgpfbmJvOE8-t1331.0", "text": "But when it didn't occur to me that a professor at a British university could spend six months translating a book as part of his or her job.", "start": 1331.0, "end": 1338.0}
+{"id": "UgpfbmJvOE8-t1338.0", "text": "That has changed.", "start": 1338.0, "end": 1340.0}
+{"id": "UgpfbmJvOE8-t1340.0", "text": "And if my career has contributed to that change, even 1%, then I'm very happy.", "start": 1340.0, "end": 1347.0}
+{"id": "UgpfbmJvOE8-t1347.0", "text": "Jill, what about you?", "start": 1347.0, "end": 1349.0}
+{"id": "UgpfbmJvOE8-t1349.0", "text": "Well, I mean, this is a very relevant subject that you're bringing up, of course.", "start": 1349.0, "end": 1353.0}
+{"id": "UgpfbmJvOE8-t1353.0", "text": "And I was just thinking that in a way, way before all these wonderful books on translation theories came out, my book came out, the subversive scribe.", "start": 1353.0, "end": 1363.0}
+{"id": "UgpfbmJvOE8-t1363.0", "text": "And it was actually a book that inspired Larry Vanuetty to become a theoretician, actually.", "start": 1363.0, "end": 1369.0}
+{"id": "UgpfbmJvOE8-t1369.0", "text": "So, I mean, I was actually, so the subversive scribe was actually first going to become a book.", "start": 1369.0, "end": 1373.0}
+{"id": "UgpfbmJvOE8-t1373.0", "text": "That's right.", "start": 1373.0, "end": 1374.0}
+{"id": "UgpfbmJvOE8-t1374.0", "text": "It was going to be called the invisible scribe.", "start": 1374.0, "end": 1376.0}
+{"id": "UgpfbmJvOE8-t1376.0", "text": "And I said, well, you know, why should we, you know, heighten the invisibility?", "start": 1376.0, "end": 1381.0}
+{"id": "UgpfbmJvOE8-t1381.0", "text": "Let's look at the other side of what translating is, which is creativity.", "start": 1381.0, "end": 1386.0}
+{"id": "UgpfbmJvOE8-t1386.0", "text": "So that's what the subversive scribe was about.", "start": 1386.0, "end": 1388.0}
+{"id": "UgpfbmJvOE8-t1388.0", "text": "But you're absolutely right.", "start": 1388.0, "end": 1389.0}
+{"id": "UgpfbmJvOE8-t1389.0", "text": "I mean, when we start out as professors, and you're maybe a little ahead of me, but still in my time, to be an academic, to be an academic, to be a", "start": 1389.0, "end": 1377.0}
+{"id": "UgpfbmJvOE8-t1377.0", "text": "translating, that was very much looked down upon.", "start": 1377.0, "end": 1402.0}
+{"id": "UgpfbmJvOE8-t1402.0", "text": "In the modern man, obviously in the classics, and in philosophy, I mean, that's all they do is like, oh, I've got any more to read.", "start": 1402.0, "end": 1410.0}
+{"id": "UgpfbmJvOE8-t1410.0", "text": "But yeah, it was in the modern languages and in literature departments where that kind of, actually fear, I think.", "start": 1410.0, "end": 1420.0}
+{"id": "UgpfbmJvOE8-t1420.0", "text": "And like you, I mean, I started out with an extremely, you know, sort of almost joyce and kind of project, you know, which was covered in fondue.", "start": 1420.0, "end": 1429.0}
+{"id": "UgpfbmJvOE8-t1429.0", "text": "You know, I mean, he's like what people would call, as in the case of Peric, on the untranslatable.", "start": 1429.0, "end": 1435.0}
+{"id": "UgpfbmJvOE8-t1435.0", "text": "No, but I never use that word.", "start": 1435.0, "end": 1437.0}
+{"id": "UgpfbmJvOE8-t1437.0", "text": "But I don't use it, you know, and as a matter of fact, Roman Jacobson with his very thick accent referred to it as the dog mob of untranslatable.", "start": 1437.0, "end": 1444.0}
+{"id": "UgpfbmJvOE8-t1444.0", "text": "So that we should, we should take it out of our vocabulary.", "start": 1444.0, "end": 1447.0}
+{"id": "UgpfbmJvOE8-t1447.0", "text": "Absolutely.", "start": 1447.0, "end": 1448.0}
+{"id": "UgpfbmJvOE8-t1448.0", "text": "But anyway, so, I mean, you know, everything, I mean, you could say everything is translatable or untranslatable, depending on how you look at it.", "start": 1448.0, "end": 1456.0}
+{"id": "UgpfbmJvOE8-t1456.0", "text": "And so that's really, that's really it. So, but cover and font.", "start": 1456.0, "end": 1460.0}
+{"id": "UgpfbmJvOE8-t1460.0", "text": "The other thing I discovered working with him was that it was basically a translation was a creative act for the writer as well.", "start": 1460.0, "end": 1468.0}
+{"id": "UgpfbmJvOE8-t1468.0", "text": "And in the sense that writing itself was already in a sense a kind of translation.", "start": 1468.0, "end": 1472.0}
+{"id": "UgpfbmJvOE8-t1472.0", "text": "He was a writer who was, well, very much like Nabokov, you know, he was bilingual, polyglot.", "start": 1472.0, "end": 1478.0}
+{"id": "UgpfbmJvOE8-t1478.0", "text": "And for him, translating his very Cuban, I would say, Havana novel into English was an opportunity to play with his ideas in English.", "start": 1478.0, "end": 1490.0}
+{"id": "UgpfbmJvOE8-t1490.0", "text": "So it was really, the book became truly a creation unto itself, the translation.", "start": 1490.0, "end": 1497.0}
+{"id": "UgpfbmJvOE8-t1497.0", "text": "And so, as you said, you know, again, a similar experience, you know, working with cover and font.", "start": 1497.0, "end": 1503.0}
+{"id": "UgpfbmJvOE8-t1503.0", "text": "It was like, you know, having a PhD in translation without having gone through a PhD in translation.", "start": 1503.0, "end": 1509.0}
+{"id": "UgpfbmJvOE8-t1509.0", "text": "So it was, and my first two writers that I worked with him and then Manuel Pueblo were just amazingly creative writers and creative translators.", "start": 1509.0, "end": 1519.0}
+{"id": "UgpfbmJvOE8-t1519.0", "text": "So just working with them was truly, you know, an amazing, amazing process.", "start": 1519.0, "end": 1525.0}
+{"id": "UgpfbmJvOE8-t1525.0", "text": "And that's why I wrote my book, the subversive scribe, to show academe precisely how creative translation was.", "start": 1525.0, "end": 1531.0}
+{"id": "UgpfbmJvOE8-t1531.0", "text": "And also how scholarly it is.", "start": 1531.0, "end": 1534.0}
+{"id": "UgpfbmJvOE8-t1534.0", "text": "I mean, it's a scholarly act, it's a creative act, and it's really at the center at the core of all literary discussion, truly.", "start": 1534.0, "end": 1542.0}
+{"id": "UgpfbmJvOE8-t1542.0", "text": "Well, well, it jolly well should be. I must say that, you know, I don't say anything bad about translators in my book and on purpose.", "start": 1542.0, "end": 1555.0}
+{"id": "UgpfbmJvOE8-t1555.0", "text": "So I'll say something bad about them now.", "start": 1555.0, "end": 1558.0}
+{"id": "UgpfbmJvOE8-t1558.0", "text": "Oh, translators aren't as good as us.", "start": 1558.0, "end": 1561.0}
+{"id": "UgpfbmJvOE8-t1561.0", "text": "No, that's right. There are some many awful ones out there.", "start": 1561.0, "end": 1565.0}
+{"id": "UgpfbmJvOE8-t1565.0", "text": "There are a lot.", "start": 1565.0, "end": 1566.0}
+{"id": "UgpfbmJvOE8-t1566.0", "text": "I was just doing some work with my students last week on Charles Dickens' Great Expectations.", "start": 1566.0, "end": 1573.0}
+{"id": "UgpfbmJvOE8-t1573.0", "text": "And I looked at the available French translations of Great Expectations that you can get to download onto your Kindle.", "start": 1573.0, "end": 1581.0}
+{"id": "UgpfbmJvOE8-t1581.0", "text": "It's a crying scandal.", "start": 1581.0, "end": 1583.0}
+{"id": "UgpfbmJvOE8-t1583.0", "text": "I mean, the French do not have Charles Dickens to read. It's absolutely awful. There are bits missed out.", "start": 1583.0, "end": 1589.0}
+{"id": "UgpfbmJvOE8-t1589.0", "text": "It's bad spelling. There's cuckoo grammar.", "start": 1589.0, "end": 1592.0}
+{"id": "UgpfbmJvOE8-t1592.0", "text": "They don't know which way the Thames flows.", "start": 1592.0, "end": 1594.0}
+{"id": "UgpfbmJvOE8-t1594.0", "text": "I mean, you know, talk about scholarly.", "start": 1594.0, "end": 1597.0}
+{"id": "UgpfbmJvOE8-t1597.0", "text": "You can tell that they've translated the beginning of the sentence without looking at the end, you know, because I've been going on there.", "start": 1597.0, "end": 1604.0}
+{"id": "UgpfbmJvOE8-t1604.0", "text": "So high standards in translation really do matter. To do it properly is a very scholarly, very learned enterprise as well as a creative one.", "start": 1604.0, "end": 1616.0}
+{"id": "UgpfbmJvOE8-t1616.0", "text": "And I think that as people currently working into English in literary translation are totally different from the generations of translators, some generations of translators before us,", "start": 1616.0, "end": 1632.0}
+{"id": "UgpfbmJvOE8-t1632.0", "text": "and some of those working into French and other languages of the movement.", "start": 1632.0, "end": 1636.0}
+{"id": "UgpfbmJvOE8-t1636.0", "text": "Well, it varies. I mean, you know, there were great translators in the past, but yes, I know what you mean.", "start": 1636.0, "end": 1641.0}
+{"id": "UgpfbmJvOE8-t1641.0", "text": "I think there are probably sins of a different color now, but you know, there are still some vices as well as virtues.", "start": 1641.0, "end": 1650.0}
+{"id": "UgpfbmJvOE8-t1650.0", "text": "Mark, what about you? How did you start?", "start": 1650.0, "end": 1653.0}
+{"id": "UgpfbmJvOE8-t1653.0", "text": "You see vices in point of view.", "start": 1653.0, "end": 1655.0}
+{"id": "UgpfbmJvOE8-t1655.0", "text": "I'm adventurous.", "start": 1655.0, "end": 1656.0}
+{"id": "UgpfbmJvOE8-t1656.0", "text": "How did you start translating?", "start": 1656.0, "end": 1661.0}
+{"id": "UgpfbmJvOE8-t1661.0", "text": "Completely by accident. I was 17 and I was living in Paris for a year between high school and my first year of university, and taking courses at the university at Nontaire, you know, as a little sort of kid among all the third-year college students.", "start": 1661.0, "end": 1679.0}
+{"id": "UgpfbmJvOE8-t1679.0", "text": "And I happened to become vaguely friendly with the professor of this one class, and he had us read on the syllabus. This experimental novel was part of the Terkel movement at the time. This was the mid-70s.", "start": 1679.0, "end": 1693.0}
+{"id": "UgpfbmJvOE8-t1693.0", "text": "It was very fashionable. It was this sort of post-joisy and post-finnigans way, highly experimental kind of literature around people like Philippe Sollars and Roland Barthe was a member of it.", "start": 1693.0, "end": 1702.0}
+{"id": "UgpfbmJvOE8-t1702.0", "text": "And he was a member, you know, sort of that group. Well, there was this one novelist who was much, much less known named Maurice Walsh, and he was on the syllabus.", "start": 1702.0, "end": 1713.0}
+{"id": "UgpfbmJvOE8-t1713.0", "text": "And the professor, Jean-Louis, said, you know, next week, buy this book, read this book, Maurice Walsh is going to come and speak to the class.", "start": 1713.0, "end": 1719.0}
+{"id": "UgpfbmJvOE8-t1719.0", "text": "I thought, all right, so I go out and buy this book and I read it.", "start": 1719.0, "end": 1722.0}
+{"id": "UgpfbmJvOE8-t1722.0", "text": "And it's just full of the most impossible word games and puns and little pictures and, you know, sort of these weird little jokes and references and cultural references.", "start": 1722.0, "end": 1731.0}
+{"id": "UgpfbmJvOE8-t1731.0", "text": "It just made no sense whatsoever to my poor little seven-year-old brain.", "start": 1731.0, "end": 1734.0}
+{"id": "UgpfbmJvOE8-t1734.0", "text": "And I'm sitting there, struggling my way through it, and it's his patient for the class thinking, boy, you'd have to be really insane to try to translate something like this.", "start": 1734.0, "end": 1741.0}
+{"id": "UgpfbmJvOE8-t1741.0", "text": "You know where the story's going, by the way. So the day comes, Maurice comes. He gives a spiel. I can barely follow anything of what he's saying.", "start": 1741.0, "end": 1748.0}
+{"id": "UgpfbmJvOE8-t1748.0", "text": "But afterward, I went up to say something to the professor, and he said, you know, he knew that I lived completely across Paris.", "start": 1748.0, "end": 1755.0}
+{"id": "UgpfbmJvOE8-t1755.0", "text": "He said, I have a car. I can give you a ride, you know, at least into town. Look at you closer. Oh, is it fine?", "start": 1755.0, "end": 1760.0}
+{"id": "UgpfbmJvOE8-t1760.0", "text": "He said, but Maurice is coming with us.", "start": 1760.0, "end": 1762.0}
+{"id": "UgpfbmJvOE8-t1762.0", "text": "All right. So here I am at 17, sitting in the back of this car, and there's this, you know, published writer is about 50 years old, and he was a friend of all these people.", "start": 1762.0, "end": 1770.0}
+{"id": "UgpfbmJvOE8-t1770.0", "text": "And, you know, I'd published about four or five books sitting in the front seat, and I'm kind of sweating bullets.", "start": 1770.0, "end": 1775.0}
+{"id": "UgpfbmJvOE8-t1775.0", "text": "And along the way, we stopped at a little cafe for whiskey because it had been about ten minutes since Maurice's last one, and that was about the limit.", "start": 1775.0, "end": 1783.0}
+{"id": "UgpfbmJvOE8-t1783.0", "text": "And I found myself sitting across this cafe table from him, and my professor would have to make a phone call or something.", "start": 1783.0, "end": 1788.0}
+{"id": "UgpfbmJvOE8-t1788.0", "text": "I thought, well, I've got to say something because I look like an idiot otherwise.", "start": 1788.0, "end": 1791.0}
+{"id": "UgpfbmJvOE8-t1791.0", "text": "And the only thing I could think of to say, of course, was, gee, how interesting would be to translate your book, which I figured he would just let go.", "start": 1791.0, "end": 1798.0}
+{"id": "UgpfbmJvOE8-t1798.0", "text": "But his face snapped up and his eyes opened up, and he said, great idea. Why don't you do it?", "start": 1798.0, "end": 1803.0}
+{"id": "UgpfbmJvOE8-t1803.0", "text": "It's like, okay. So we got back in the car. We had to Paris.", "start": 1803.0, "end": 1807.0}
+{"id": "UgpfbmJvOE8-t1807.0", "text": "You know, so you could drop me off anywhere. And he turns, I said, no, no, no.", "start": 1807.0, "end": 1810.0}
+{"id": "UgpfbmJvOE8-t1810.0", "text": "Having a dinner party tonight. Why don't you join us? Why don't you come?", "start": 1810.0, "end": 1813.0}
+{"id": "UgpfbmJvOE8-t1813.0", "text": "Okay. So we got to his apartment, and there are Roland Barthes, and, you know, Phoenix Salares, and Julie Christopher, and all those pals.", "start": 1813.0, "end": 1821.0}
+{"id": "UgpfbmJvOE8-t1821.0", "text": "He was a detective. Eating fried chicken off a paper place. I never forgot this. I'm watching television.", "start": 1821.0, "end": 1825.0}
+{"id": "UgpfbmJvOE8-t1825.0", "text": "I thought, hmm, this is what intellectuals do when they're, you know, when they go there, go down.", "start": 1825.0, "end": 1829.0}
+{"id": "UgpfbmJvOE8-t1829.0", "text": "But he kept coming back during the course of the evening and saying, so what are you going to do? You're going to translate my book.", "start": 1829.0, "end": 1835.0}
+{"id": "UgpfbmJvOE8-t1835.0", "text": "All right. So I had, you know, in my remaining six months in Paris, in my inaugural year there, I dutifully went home, and I started working on it, and it made, of course, you know, it was a terrible, terrible translation.", "start": 1835.0, "end": 1845.0}
+{"id": "UgpfbmJvOE8-t1845.0", "text": "I mean, it was just awful. And, you know, I happen to agree with you. There's no such thing as an untranslatable book, but you wouldn't know it by looking at the translation.", "start": 1845.0, "end": 1854.0}
+{"id": "UgpfbmJvOE8-t1854.0", "text": "So, you know, over the next six months, I dutifully went back and we periodically get together a few weeks and go over it, and you go over the pages, and they correct me.", "start": 1854.0, "end": 1864.0}
+{"id": "UgpfbmJvOE8-t1864.0", "text": "And I have to go over the pages and make corrections, and, you know, the bug bit, and that's, and I've been a criminal ever since.", "start": 1864.0, "end": 1871.0}
+{"id": "UgpfbmJvOE8-t1871.0", "text": "That is a great story. And you don't teach?", "start": 1871.0, "end": 1876.0}
+{"id": "UgpfbmJvOE8-t1876.0", "text": "I do not. I flirted with that idea for about ten minutes at grad school at Columbia, and it took one weekend of a little bit of soul searching, and that was the end of that.", "start": 1876.0, "end": 1886.0}
+{"id": "UgpfbmJvOE8-t1886.0", "text": "I don't blame you. I mean, basically, if I had inherited money, I wouldn't have been teaching either.", "start": 1886.0, "end": 1892.0}
+{"id": "UgpfbmJvOE8-t1892.0", "text": "Well, certainly I'm still waiting for the inheritance to come in.", "start": 1892.0, "end": 1895.0}
+{"id": "UgpfbmJvOE8-t1895.0", "text": "But, no, I chose a different poison, which was publishing.", "start": 1895.0, "end": 1900.0}
+{"id": "UgpfbmJvOE8-t1900.0", "text": "And the show, last but not least, because we were going in alphabetical order.", "start": 1900.0, "end": 1905.0}
+{"id": "UgpfbmJvOE8-t1905.0", "text": "Yeah, actually, I really identified with what you said, because I actually got interested in translation studies before, you know, I translated anything, and it actually put me off translating, or trying to translate for years, I think.", "start": 1905.0, "end": 1919.0}
+{"id": "UgpfbmJvOE8-t1919.0", "text": "But actually, I got interested in the subject of translation, because of a non-translation, which was, I decided to do my PhD on Milan, Condura, the Czech writer.", "start": 1919.0, "end": 1928.0}
+{"id": "UgpfbmJvOE8-t1928.0", "text": "And as I was kind of finding my way, I discovered that he'd written all these poems. That had never been translated.", "start": 1928.0, "end": 1934.0}
+{"id": "UgpfbmJvOE8-t1934.0", "text": "And I was like, wow, that's interesting. He was a very famous writer. This was the early 90s.", "start": 1934.0, "end": 1940.0}
+{"id": "UgpfbmJvOE8-t1940.0", "text": "And when I read his poetry, I totally understood why he didn't want to translate, or doesn't want to translate it.", "start": 1940.0, "end": 1948.0}
+{"id": "UgpfbmJvOE8-t1948.0", "text": "But it got me interested, of course, Condura is a very controversial author when it comes to translation.", "start": 1948.0, "end": 1953.0}
+{"id": "UgpfbmJvOE8-t1953.0", "text": "He's written very publicly against translators and against his own translators.", "start": 1953.0, "end": 1958.0}
+{"id": "UgpfbmJvOE8-t1958.0", "text": "And I got really interested as to why, and whether what he was saying in his essays was valid, you know, whether he was right or wrong in the way he approached translation.", "start": 1958.0, "end": 1969.0}
+{"id": "UgpfbmJvOE8-t1969.0", "text": "And I got very interested in, and his argument was some languages and to translatable, and he wrote that in his novels.", "start": 1969.0, "end": 1978.0}
+{"id": "UgpfbmJvOE8-t1978.0", "text": "He writes about untranslatable words. But he's really interested in what is translatable.", "start": 1978.0, "end": 1982.0}
+{"id": "UgpfbmJvOE8-t1982.0", "text": "And for him, it was a certain aesthetic style, certain, you know, in his case syntax, punctuation, and repeated words, you know, important words in passages and through books.", "start": 1982.0, "end": 1994.0}
+{"id": "UgpfbmJvOE8-t1994.0", "text": "And so that's how I got interested in translation, and I wrote my PhD on it.", "start": 1994.0, "end": 1999.0}
+{"id": "UgpfbmJvOE8-t1999.0", "text": "The first translation that I did was something again, like I think like everyone else has said, I read something and I loved it.", "start": 1999.0, "end": 2007.0}
+{"id": "UgpfbmJvOE8-t2007.0", "text": "I just, I loved the voice. I really identified with it. And it was a Czech writer and caricaturist from the 20s who decided to wander around Paris and knock on all these famous writers' doors and interview them.", "start": 2007.0, "end": 2022.0}
+{"id": "UgpfbmJvOE8-t2022.0", "text": "So he knocked on Joyce's door and said, Joyce wasn't doing any interviews at this point in Paris.", "start": 2022.0, "end": 2028.0}
+{"id": "UgpfbmJvOE8-t2028.0", "text": "And he went in and said, I'm going to translate Finnegan's Wake into Czech. And Joyce was like, okay.", "start": 2028.0, "end": 2034.0}
+{"id": "UgpfbmJvOE8-t2034.0", "text": "And they have this discussion and then a translation lesson. And Joyce, he literally half of my sister said, we sat in his flat.", "start": 2034.0, "end": 2043.0}
+{"id": "UgpfbmJvOE8-t2043.0", "text": "And it was as if the school bell had wronged and the master had his cane above us.", "start": 2043.0, "end": 2049.0}
+{"id": "UgpfbmJvOE8-t2049.0", "text": "Because Joyce was saying, okay, here's a passage from Anna Livia Plurabel. How would you translate this into Czech?", "start": 2049.0, "end": 2054.0}
+{"id": "UgpfbmJvOE8-t2054.0", "text": "And half of my sister's sweat coming out, you know, doing it. So it was a marvelous interview.", "start": 2054.0, "end": 2060.0}
+{"id": "UgpfbmJvOE8-t2060.0", "text": "And he also did these caricaturist of Joyce as well. So, but I realized, so I just did it.", "start": 2060.0, "end": 2066.0}
+{"id": "UgpfbmJvOE8-t2066.0", "text": "It was this kind of, you know, but I realized I felt like I was a terrible translator.", "start": 2066.0, "end": 2070.0}
+{"id": "UgpfbmJvOE8-t2070.0", "text": "And the big shock for me, who, you know, I'd been very proud of my writing and my use of English, that was the hardest thing.", "start": 2070.0, "end": 2077.0}
+{"id": "UgpfbmJvOE8-t2077.0", "text": "It was not translating knowing how to translate or how to translate a particular Czech word.", "start": 2077.0, "end": 2082.0}
+{"id": "UgpfbmJvOE8-t2082.0", "text": "But it was my English kept feeling very just this kind of bucket of poverty. You know, I couldn't come up with any beautiful language that I felt justified the voice that I was reading.", "start": 2082.0, "end": 2094.0}
+{"id": "UgpfbmJvOE8-t2094.0", "text": "You know, and that put me off translation for a few years until I did a couple of translations last year.", "start": 2094.0, "end": 2100.0}
+{"id": "UgpfbmJvOE8-t2100.0", "text": "But it's difficult. It's amazing. You don't realize how hard.", "start": 2100.0, "end": 2104.0}
+{"id": "UgpfbmJvOE8-t2104.0", "text": "And it goes back to this idea of the translator being a wonderful reader and someone who's erudized and learned it.", "start": 2104.0, "end": 2112.0}
+{"id": "UgpfbmJvOE8-t2112.0", "text": "I think, you know, I don't know.", "start": 2112.0, "end": 2114.0}
+{"id": "UgpfbmJvOE8-t2114.0", "text": "It's interesting that he brought up Analivia Plurabel because I think he translated that into Italian with the Italian translator.", "start": 2114.0, "end": 2120.0}
+{"id": "UgpfbmJvOE8-t2120.0", "text": "Isn't that the only section that he actually translated?", "start": 2120.0, "end": 2122.0}
+{"id": "UgpfbmJvOE8-t2122.0", "text": "Yeah, I think so. And it was the only one that was ever translated into Czech. So this guy half my sister did it.", "start": 2122.0, "end": 2127.0}
+{"id": "UgpfbmJvOE8-t2127.0", "text": "I think someone tried to translate it, but unfortunately died before he finished the translation.", "start": 2127.0, "end": 2132.0}
+{"id": "UgpfbmJvOE8-t2132.0", "text": "Probably killed by the translation.", "start": 2132.0, "end": 2135.0}
+{"id": "UgpfbmJvOE8-t2135.0", "text": "I mean, the fact is that generally people translate into their mother tongues.", "start": 2135.0, "end": 2141.0}
+{"id": "UgpfbmJvOE8-t2141.0", "text": "Yeah.", "start": 2141.0, "end": 2142.0}
+{"id": "UgpfbmJvOE8-t2142.0", "text": "But have any of you ever translated into one of your other translating languages?", "start": 2142.0, "end": 2149.0}
+{"id": "UgpfbmJvOE8-t2149.0", "text": "I've read a little.", "start": 2149.0, "end": 2150.0}
+{"id": "UgpfbmJvOE8-t2150.0", "text": "Yeah.", "start": 2150.0, "end": 2151.0}
+{"id": "UgpfbmJvOE8-t2151.0", "text": "So how hard is that? What is that like?", "start": 2151.0, "end": 2153.0}
+{"id": "UgpfbmJvOE8-t2153.0", "text": "Oh, it's miserable.", "start": 2153.0, "end": 2154.0}
+{"id": "UgpfbmJvOE8-t2154.0", "text": "Because you know, I mean, it depends on what it is, of course.", "start": 2154.0, "end": 2158.0}
+{"id": "UgpfbmJvOE8-t2158.0", "text": "But you know, if it's just a regular document, sure, I can easily do a business letter to French and feel like it's perfectly accurate.", "start": 2158.0, "end": 2165.0}
+{"id": "UgpfbmJvOE8-t2165.0", "text": "But no, I had to do actually some of my own work at one point from English into French.", "start": 2165.0, "end": 2171.0}
+{"id": "UgpfbmJvOE8-t2171.0", "text": "And that was a real revelation because you realize that not only do you, you know, not only is there more encoded in the actual text than even you realize when you wrote it, but then the limits of your other language are much closer in your language.", "start": 2171.0, "end": 2187.0}
+{"id": "UgpfbmJvOE8-t2187.0", "text": "And then you thought they were. And it's kind of a humbling experience.", "start": 2187.0, "end": 2190.0}
+{"id": "UgpfbmJvOE8-t2190.0", "text": "That is very true.", "start": 2190.0, "end": 2191.0}
+{"id": "UgpfbmJvOE8-t2191.0", "text": "I had the similar experience translating some academic papers or books into Spanish.", "start": 2191.0, "end": 2198.0}
+{"id": "UgpfbmJvOE8-t2198.0", "text": "And you know, I thought I could do a better job than the actual translators, but still it was a far cry from what, you know.", "start": 2198.0, "end": 2204.0}
+{"id": "UgpfbmJvOE8-t2204.0", "text": "Well, it is. And I think the thing is that, you know, there is an instinct that you fall back on.", "start": 2204.0, "end": 2209.0}
+{"id": "UgpfbmJvOE8-t2209.0", "text": "And that once if you feel comfortable as a translator, and I think, you know, the best of us sort of don't do it by theory.", "start": 2209.0, "end": 2214.0}
+{"id": "UgpfbmJvOE8-t2214.0", "text": "We don't do it.", "start": 2214.0, "end": 2215.0}
+{"id": "UgpfbmJvOE8-t2215.0", "text": "But you know, you just do it.", "start": 2215.0, "end": 2216.0}
+{"id": "UgpfbmJvOE8-t2216.0", "text": "And I mean, not to include myself in that, but you know, I think that's at least the way I feel most comfortable is to just sit down and you do it.", "start": 2216.0, "end": 2223.0}
+{"id": "UgpfbmJvOE8-t2223.0", "text": "You don't think about the approach that you're taking. You just try to make it make sense.", "start": 2223.0, "end": 2227.0}
+{"id": "UgpfbmJvOE8-t2227.0", "text": "And try to find the voice.", "start": 2227.0, "end": 2229.0}
+{"id": "UgpfbmJvOE8-t2229.0", "text": "And that voice in a translation is really a, you know, it's a blend.", "start": 2229.0, "end": 2233.0}
+{"id": "UgpfbmJvOE8-t2233.0", "text": "It's always going to be the original author's voice and yours.", "start": 2233.0, "end": 2236.0}
+{"id": "UgpfbmJvOE8-t2236.0", "text": "And which is why no two translations will be alike, which is why a translation with any personality, you know, we always say we're trying to capture the author's voice.", "start": 2236.0, "end": 2243.0}
+{"id": "UgpfbmJvOE8-t2243.0", "text": "But that's nonsense.", "start": 2243.0, "end": 2244.0}
+{"id": "UgpfbmJvOE8-t2244.0", "text": "I mean, the fact is that doesn't exist.", "start": 2244.0, "end": 2246.0}
+{"id": "UgpfbmJvOE8-t2246.0", "text": "You know, really what we're trying to do if the translation has any punch to it at all is to meld our two voices in a way that's sympathetic and resonant and doesn't betray the original text.", "start": 2246.0, "end": 2257.0}
+{"id": "UgpfbmJvOE8-t2257.0", "text": "But just to sweep around to what I was saying, you know, it's very hard to have that unless you're really, really bilingual, but almost like from birth, you know, maybe in a bulk of, you know, it's, or Beckett, you know, or someone like that.", "start": 2257.0, "end": 2270.0}
+{"id": "UgpfbmJvOE8-t2270.0", "text": "I mean, it's very, very hard to, and even Beckett.", "start": 2270.0, "end": 2273.0}
+{"id": "UgpfbmJvOE8-t2273.0", "text": "It's very hard to have that kind of instinct, I think, in another language, no matter how well you've learned it.", "start": 2273.0, "end": 2278.0}
+{"id": "UgpfbmJvOE8-t2278.0", "text": "You can have it in terms of the listening capacity and, you know, and then re-transmit it into your native tongue, but I think it's very hard to do it in the other way.", "start": 2278.0, "end": 2288.0}
+{"id": "UgpfbmJvOE8-t2288.0", "text": "I think translators have musical ears, you know, the really good ones.", "start": 2288.0, "end": 2292.0}
+{"id": "UgpfbmJvOE8-t2292.0", "text": "And so, I mean, and I think that there's a way in which there, as you say, it's a very intuitive knowledge of language, but I think that, you know, some translators are, you know, even though they're not native, like Spanish or French or whatever, they really have a talent because it's just sort of like, you're like a musician in some form, I think.", "start": 2292.0, "end": 2312.0}
+{"id": "UgpfbmJvOE8-t2312.0", "text": "But I understand what you're saying.", "start": 2312.0, "end": 2314.0}
+{"id": "UgpfbmJvOE8-t2314.0", "text": "I can think of very few, I mean, I'm so that there's more that you can think of. I can think of very few who really can go in both directions equally well.", "start": 2314.0, "end": 2323.0}
+{"id": "UgpfbmJvOE8-t2323.0", "text": "Yeah, I mean, I can, yeah, the demand in English for very natural flowing text is very high at the moment.", "start": 2323.0, "end": 2332.0}
+{"id": "UgpfbmJvOE8-t2332.0", "text": "It's our convention that you only translate into your so-called mother tongue, your dominant tongue, or your tongue of language of education.", "start": 2332.0, "end": 2340.0}
+{"id": "UgpfbmJvOE8-t2340.0", "text": "But that's not always been the case. I mean, the history of translation is full of really important examples the other way around.", "start": 2340.0, "end": 2346.0}
+{"id": "UgpfbmJvOE8-t2346.0", "text": "I mean, the very first translation of Homer into Latin, which is the first translation in the Western, which was done by a Greek slave, not by a Roman.", "start": 2346.0, "end": 2355.0}
+{"id": "UgpfbmJvOE8-t2355.0", "text": "I mean, our whole tradition of literary translation has for hundreds of years is L2 translation out, rather than translation in.", "start": 2355.0, "end": 2365.0}
+{"id": "UgpfbmJvOE8-t2365.0", "text": "But in the English-speaking world, the last century, that's changed.", "start": 2365.0, "end": 2370.0}
+{"id": "UgpfbmJvOE8-t2370.0", "text": "But the people that this situation is really acutely difficult for writers in smaller European and non-European languages, where there is no established culture of translation into English, where they just aren't any English translated.", "start": 2370.0, "end": 2390.0}
+{"id": "UgpfbmJvOE8-t2390.0", "text": "And so, you know, if you're a Bulgarian short story writer, you've almost obliged to learn English and to put up sample translations of your own on the web.", "start": 2390.0, "end": 2400.0}
+{"id": "UgpfbmJvOE8-t2400.0", "text": "And of course, everybody laughs at them, because, you know, they're not native English.", "start": 2400.0, "end": 2407.0}
+{"id": "UgpfbmJvOE8-t2407.0", "text": "But how else are they going to get to hear? How is they going to get out and beyond?", "start": 2407.0, "end": 2411.0}
+{"id": "UgpfbmJvOE8-t2411.0", "text": "And into German, too, there's quite a lot of L2 translation by writers in Central Europe for whom German is the inter-language.", "start": 2411.0, "end": 2421.0}
+{"id": "UgpfbmJvOE8-t2421.0", "text": "So I think we should be a little bit more, a little bit easier about people writing in English, even though it's not their native tongue, because without that, there are many parts of the world that just aren't going to get a voice in one go.", "start": 2421.0, "end": 2436.0}
+{"id": "UgpfbmJvOE8-t2436.0", "text": "And I'm not multi-gut, and I don't think which is so contradictory. What I'm saying is that, you know, I don't know that...", "start": 2436.0, "end": 2444.0}
+{"id": "UgpfbmJvOE8-t2444.0", "text": "I think you should...", "start": 2444.0, "end": 2445.0}
+{"id": "UgpfbmJvOE8-t2445.0", "text": "The translators here are bilingual. You could write, you could do a translation into Spanish that would be more than respectable.", "start": 2445.0, "end": 2450.0}
+{"id": "UgpfbmJvOE8-t2450.0", "text": "Well, they do some writers, though.", "start": 2450.0, "end": 2451.0}
+{"id": "UgpfbmJvOE8-t2451.0", "text": "But I don't know that we have quite that level of finesse that we like to bring into our needs.", "start": 2451.0, "end": 2457.0}
+{"id": "UgpfbmJvOE8-t2457.0", "text": "I mean, think of writers who, I mean, I think English actually has been pretty receptive to writers' fine writers writing in English.", "start": 2457.0, "end": 2464.0}
+{"id": "UgpfbmJvOE8-t2464.0", "text": "I mean, think of, well, comrade, you know, I mean, and many others.", "start": 2464.0, "end": 2468.0}
+{"id": "UgpfbmJvOE8-t2468.0", "text": "And, you know, people would say, well, comrade is unreadable, but just the same.", "start": 2468.0, "end": 2472.0}
+{"id": "UgpfbmJvOE8-t2472.0", "text": "He's published.", "start": 2472.0, "end": 2474.0}
+{"id": "UgpfbmJvOE8-t2474.0", "text": "I think he's very readable, but he wasn't trellised.", "start": 2474.0, "end": 2478.0}
+{"id": "UgpfbmJvOE8-t2478.0", "text": "I've got with him particular, he was a confidant.", "start": 2478.0, "end": 2480.0}
+{"id": "UgpfbmJvOE8-t2480.0", "text": "Well, he was a confidant. I'm grounded, he couldn't write English.", "start": 2480.0, "end": 2482.0}
+{"id": "UgpfbmJvOE8-t2482.0", "text": "That's right. That's right.", "start": 2482.0, "end": 2483.0}
+{"id": "UgpfbmJvOE8-t2483.0", "text": "And he was a real rich irony, you know.", "start": 2483.0, "end": 2485.0}
+{"id": "UgpfbmJvOE8-t2485.0", "text": "That's right.", "start": 2485.0, "end": 2486.0}
+{"id": "UgpfbmJvOE8-t2486.0", "text": "A russian slagging off a pole for his bad English.", "start": 2486.0, "end": 2488.0}
+{"id": "UgpfbmJvOE8-t2488.0", "text": "Yeah.", "start": 2488.0, "end": 2489.0}
+{"id": "UgpfbmJvOE8-t2489.0", "text": "Yes.", "start": 2489.0, "end": 2490.0}
+{"id": "UgpfbmJvOE8-t2490.0", "text": "Yeah, no, no, no.", "start": 2490.0, "end": 2491.0}
+{"id": "UgpfbmJvOE8-t2491.0", "text": "Oh, I'm a cofo...", "start": 2491.0, "end": 2492.0}
+{"id": "UgpfbmJvOE8-t2492.0", "text": "Well, he was very misogynist when it came to the famous woman translator from all the Russian literature.", "start": 2492.0, "end": 2500.0}
+{"id": "UgpfbmJvOE8-t2500.0", "text": "Oh, Constance.", "start": 2500.0, "end": 2501.0}
+{"id": "UgpfbmJvOE8-t2501.0", "text": "Constance, right.", "start": 2501.0, "end": 2502.0}
+{"id": "UgpfbmJvOE8-t2502.0", "text": "Yeah, I mean, yeah, the hand-maiden idea really got very heavy in his hand on that one.", "start": 2502.0, "end": 2507.0}
+{"id": "UgpfbmJvOE8-t2507.0", "text": "Yep.", "start": 2507.0, "end": 2508.0}
+{"id": "UgpfbmJvOE8-t2508.0", "text": "Not a very generous man.", "start": 2508.0, "end": 2511.0}
+{"id": "UgpfbmJvOE8-t2511.0", "text": "No.", "start": 2511.0, "end": 2512.0}
+{"id": "UgpfbmJvOE8-t2512.0", "text": "I have a question.", "start": 2512.0, "end": 2513.0}
+{"id": "UgpfbmJvOE8-t2513.0", "text": "If I may, can you hear me?", "start": 2513.0, "end": 2515.0}
+{"id": "UgpfbmJvOE8-t2515.0", "text": "No.", "start": 2515.0, "end": 2516.0}
+{"id": "UgpfbmJvOE8-t2516.0", "text": "No.", "start": 2516.0, "end": 2517.0}
+{"id": "UgpfbmJvOE8-t2517.0", "text": "Now we can.", "start": 2517.0, "end": 2518.0}
+{"id": "UgpfbmJvOE8-t2518.0", "text": "If I may interrupt, what about experimental writing which you mentioned as your first choice?", "start": 2518.0, "end": 2525.0}
+{"id": "UgpfbmJvOE8-t2525.0", "text": "It might be like, that's a fire.", "start": 2525.0, "end": 2527.0}
+{"id": "UgpfbmJvOE8-t2527.0", "text": "There is a lot of experimental writing probably in every language.", "start": 2527.0, "end": 2532.0}
+{"id": "UgpfbmJvOE8-t2532.0", "text": "Do you have a theory about how to go?", "start": 2532.0, "end": 2537.0}
+{"id": "UgpfbmJvOE8-t2537.0", "text": "I mean, how much leeway do you give yourself?", "start": 2537.0, "end": 2539.0}
+{"id": "UgpfbmJvOE8-t2539.0", "text": "Obviously, you can't be, you can't be literal.", "start": 2539.0, "end": 2542.0}
+{"id": "UgpfbmJvOE8-t2542.0", "text": "People play word games and so on.", "start": 2542.0, "end": 2544.0}
+{"id": "UgpfbmJvOE8-t2544.0", "text": "Can you say something about that?", "start": 2544.0, "end": 2546.0}
+{"id": "UgpfbmJvOE8-t2546.0", "text": "The other thing which is related is that Becket, for instance, did a lot of his own...", "start": 2546.0, "end": 2552.0}
+{"id": "UgpfbmJvOE8-t2552.0", "text": "Godot was written in French.", "start": 2552.0, "end": 2555.0}
+{"id": "UgpfbmJvOE8-t2555.0", "text": "I'm sure he translated himself into English and he helped in the German translation.", "start": 2555.0, "end": 2560.0}
+{"id": "UgpfbmJvOE8-t2560.0", "text": "But there were a lot of puns and word games and he changed them for the different languages,", "start": 2560.0, "end": 2567.0}
+{"id": "UgpfbmJvOE8-t2567.0", "text": "so they would rhyme and they would work and this and that.", "start": 2567.0, "end": 2570.0}
+{"id": "UgpfbmJvOE8-t2570.0", "text": "What do you think about all that?", "start": 2570.0, "end": 2572.0}
+{"id": "UgpfbmJvOE8-t2572.0", "text": "How far he's doing his own work, but how far would you go in a difficult work?", "start": 2572.0, "end": 2579.0}
+{"id": "UgpfbmJvOE8-t2579.0", "text": "You're looking at you because you're a nice looking fellow.", "start": 2579.0, "end": 2585.0}
+{"id": "UgpfbmJvOE8-t2585.0", "text": "But anyway, but...", "start": 2585.0, "end": 2588.0}
+{"id": "UgpfbmJvOE8-t2588.0", "text": "No.", "start": 2588.0, "end": 2589.0}
+{"id": "UgpfbmJvOE8-t2589.0", "text": "You can answer.", "start": 2589.0, "end": 2590.0}
+{"id": "UgpfbmJvOE8-t2590.0", "text": "But I was thinking that Ezra Pound said that every great age of literature is a great age of translation", "start": 2590.0, "end": 2594.0}
+{"id": "UgpfbmJvOE8-t2594.0", "text": "and he was a very experimental poet.", "start": 2594.0, "end": 2597.0}
+{"id": "UgpfbmJvOE8-t2597.0", "text": "He's a model of this concept of translation as sort of really at home with experiment in that sense.", "start": 2597.0, "end": 2607.0}
+{"id": "UgpfbmJvOE8-t2607.0", "text": "Yeah, well, I think translation is a creative act.", "start": 2607.0, "end": 2612.0}
+{"id": "UgpfbmJvOE8-t2612.0", "text": "And I think that we can overestimate the difficulty of a quote unquote experimental text,", "start": 2612.0, "end": 2619.0}
+{"id": "UgpfbmJvOE8-t2619.0", "text": "because in fact, all it's doing is underscoring or maybe sort of turning up the contrast", "start": 2619.0, "end": 2626.0}
+{"id": "UgpfbmJvOE8-t2626.0", "text": "on the process that happens in any translation.", "start": 2626.0, "end": 2630.0}
+{"id": "UgpfbmJvOE8-t2630.0", "text": "And when I think about the books that I've done, I mean, Maurice Vosch was, you know, yes,", "start": 2630.0, "end": 2634.0}
+{"id": "UgpfbmJvOE8-t2634.0", "text": "he was very experimental and it took a lot of...", "start": 2634.0, "end": 2636.0}
+{"id": "UgpfbmJvOE8-t2636.0", "text": "There were a lot of brain teasers and things that had the kind of puzzle out and find equivalence for", "start": 2636.0, "end": 2640.0}
+{"id": "UgpfbmJvOE8-t2640.0", "text": "and, you know, puns that had to be recreated so that they would make sense of English.", "start": 2640.0, "end": 2644.0}
+{"id": "UgpfbmJvOE8-t2644.0", "text": "I mean, all of that.", "start": 2644.0, "end": 2645.0}
+{"id": "UgpfbmJvOE8-t2645.0", "text": "And that's fun, but it's crossword puzzle.", "start": 2645.0, "end": 2647.0}
+{"id": "UgpfbmJvOE8-t2647.0", "text": "The really, really... for me, the really hard translation is the one that, from a text that sounds just very straightforward and natural.", "start": 2647.0, "end": 2655.0}
+{"id": "UgpfbmJvOE8-t2655.0", "text": "I mean, I would much rather... I find it much easier to translate Maurice Vosch", "start": 2655.0, "end": 2659.0}
+{"id": "UgpfbmJvOE8-t2659.0", "text": "than I do Patrick Modiano, because the language is so clean and so pure and so natural,", "start": 2659.0, "end": 2665.0}
+{"id": "UgpfbmJvOE8-t2665.0", "text": "and it just flows so well that you could drive yourself crazy, just working it over and over and over", "start": 2665.0, "end": 2670.0}
+{"id": "UgpfbmJvOE8-t2670.0", "text": "and over to try to get the... to try to get that same naturalness of tone,", "start": 2670.0, "end": 2673.0}
+{"id": "UgpfbmJvOE8-t2673.0", "text": "because that's really what it's about.", "start": 2673.0, "end": 2675.0}
+{"id": "UgpfbmJvOE8-t2675.0", "text": "Maurice's case, or in someone like that, it's about the word games.", "start": 2675.0, "end": 2679.0}
+{"id": "UgpfbmJvOE8-t2679.0", "text": "And if you're... you know, you want to substitute cleverness for cleverness,", "start": 2679.0, "end": 2683.0}
+{"id": "UgpfbmJvOE8-t2683.0", "text": "that's just a matter of sitting there and kind of puzzling it through.", "start": 2683.0, "end": 2685.0}
+{"id": "UgpfbmJvOE8-t2685.0", "text": "And, you know, it's the kind of thing you do while you're standing on the subway.", "start": 2685.0, "end": 2687.0}
+{"id": "UgpfbmJvOE8-t2687.0", "text": "It's like, how do I do... Okay, got it. Got that pun, you know, and then you move on.", "start": 2687.0, "end": 2691.0}
+{"id": "UgpfbmJvOE8-t2691.0", "text": "But it's... I mean, I don't mean to downplay it, but it's a different kind of work.", "start": 2691.0, "end": 2695.0}
+{"id": "UgpfbmJvOE8-t2695.0", "text": "And it's a... you know, as I said, the really our brain teasers are supposed to have very...", "start": 2695.0, "end": 2699.0}
+{"id": "UgpfbmJvOE8-t2699.0", "text": "almost aneffable quality of the prose and of the tone that you're trying to grasp.", "start": 2699.0, "end": 2705.0}
+{"id": "UgpfbmJvOE8-t2705.0", "text": "And that can just really drive you crazy.", "start": 2705.0, "end": 2707.0}
+{"id": "UgpfbmJvOE8-t2707.0", "text": "Yeah, I mean, the spoken language and the sense also.", "start": 2707.0, "end": 2709.0}
+{"id": "UgpfbmJvOE8-t2709.0", "text": "So, I mean, that concept...", "start": 2709.0, "end": 2710.0}
+{"id": "UgpfbmJvOE8-t2710.0", "text": "I mean, my book is...", "start": 2710.0, "end": 2712.0}
+{"id": "UgpfbmJvOE8-t2712.0", "text": "my book is a verse of scribe.", "start": 2712.0, "end": 2714.0}
+{"id": "UgpfbmJvOE8-t2714.0", "text": "I begin with what is the easiest, which is puns.", "start": 2714.0, "end": 2717.0}
+{"id": "UgpfbmJvOE8-t2717.0", "text": "And then I go to the spoken words, you know, a spoken language.", "start": 2717.0, "end": 2720.0}
+{"id": "UgpfbmJvOE8-t2720.0", "text": "I mean, you know, I mean, for example, you know, in Spanish, you can translate the word pendejo into jerk,", "start": 2720.0, "end": 2726.0}
+{"id": "UgpfbmJvOE8-t2726.0", "text": "but you're missing out on a lot of fun things about that word that you're not getting in jerk.", "start": 2726.0, "end": 2731.0}
+{"id": "UgpfbmJvOE8-t2731.0", "text": "Although, you're getting other things.", "start": 2731.0, "end": 2733.0}
+{"id": "UgpfbmJvOE8-t2733.0", "text": "Yeah, but again, but the spoken language, how do you translate that?", "start": 2733.0, "end": 2736.0}
+{"id": "UgpfbmJvOE8-t2736.0", "text": "And that was what fascinated me about translation, how to bring a voice into the other language.", "start": 2736.0, "end": 2741.0}
+{"id": "UgpfbmJvOE8-t2741.0", "text": "You know, spoken voice.", "start": 2741.0, "end": 2743.0}
+{"id": "UgpfbmJvOE8-t2743.0", "text": "Do you ever try to imagine yourself in that situation, but in an English context, you know, so that if you were...", "start": 2743.0, "end": 2748.0}
+{"id": "UgpfbmJvOE8-t2748.0", "text": "whatever led the character to say, you know, what would lead you to say...", "start": 2748.0, "end": 2752.0}
+{"id": "UgpfbmJvOE8-t2752.0", "text": "That's right.", "start": 2752.0, "end": 2753.0}
+{"id": "UgpfbmJvOE8-t2753.0", "text": "Whatever it is that you would say, you know.", "start": 2753.0, "end": 2755.0}
+{"id": "UgpfbmJvOE8-t2755.0", "text": "And would you say jerk, or would you say you asshole, or whatever it is that you're...", "start": 2755.0, "end": 2758.0}
+{"id": "UgpfbmJvOE8-t2758.0", "text": "Exactly, and it really depends upon the feeling that you're trying to create.", "start": 2758.0, "end": 2761.0}
+{"id": "UgpfbmJvOE8-t2761.0", "text": "And of course, you know, a translator is in a way an actor, so you have to sort of feel, you know, what the word is, you know, going to work best in that moment.", "start": 2761.0, "end": 2770.0}
+{"id": "UgpfbmJvOE8-t2770.0", "text": "But you're absolutely right about that. I mean, I think that those are more challenging.", "start": 2770.0, "end": 2775.0}
+{"id": "UgpfbmJvOE8-t2775.0", "text": "Well, yes. Can I make two comments on that point?", "start": 2775.0, "end": 2778.0}
+{"id": "UgpfbmJvOE8-t2778.0", "text": "Because a few years ago, I translated a French detective story into English.", "start": 2778.0, "end": 2784.0}
+{"id": "UgpfbmJvOE8-t2784.0", "text": "And I... obviously, I had to invent an English form of speech for him.", "start": 2784.0, "end": 2793.0}
+{"id": "UgpfbmJvOE8-t2793.0", "text": "And then I stopped.", "start": 2793.0, "end": 2795.0}
+{"id": "UgpfbmJvOE8-t2795.0", "text": "And I went for another one of my walks around the block.", "start": 2795.0, "end": 2797.0}
+{"id": "UgpfbmJvOE8-t2797.0", "text": "I thought, this is crazy.", "start": 2797.0, "end": 2799.0}
+{"id": "UgpfbmJvOE8-t2799.0", "text": "This is a French detective walking down the boulevard, San G\u00e9lma.", "start": 2799.0, "end": 2803.0}
+{"id": "UgpfbmJvOE8-t2803.0", "text": "What's he doing talking to himself in English?", "start": 2803.0, "end": 2806.0}
+{"id": "UgpfbmJvOE8-t2806.0", "text": "And maybe I said, you know, even the simplest text is metafictional when it's translated.", "start": 2806.0, "end": 2811.0}
+{"id": "UgpfbmJvOE8-t2811.0", "text": "It is.", "start": 2811.0, "end": 2812.0}
+{"id": "UgpfbmJvOE8-t2812.0", "text": "And we seem happy to accept this kind of totally ridiculous idea that Scandinavian detectives talk to each other in English.", "start": 2812.0, "end": 2820.0}
+{"id": "UgpfbmJvOE8-t2820.0", "text": "But there we are.", "start": 2820.0, "end": 2822.0}
+{"id": "UgpfbmJvOE8-t2822.0", "text": "That's the genre we're working in.", "start": 2822.0, "end": 2824.0}
+{"id": "UgpfbmJvOE8-t2824.0", "text": "And it's all ready, one about.", "start": 2824.0, "end": 2826.0}
+{"id": "UgpfbmJvOE8-t2826.0", "text": "It's already a complete invention and totally implausible.", "start": 2826.0, "end": 2829.0}
+{"id": "UgpfbmJvOE8-t2829.0", "text": "But another book that I did, and which is in your bookshops now, it's just appeared,", "start": 2829.0, "end": 2836.0}
+{"id": "UgpfbmJvOE8-t2836.0", "text": "is a problem of the opposite end of the scale.", "start": 2836.0, "end": 2841.0}
+{"id": "UgpfbmJvOE8-t2841.0", "text": "It's in very straightforward French, and I hope in very straightforward English,", "start": 2841.0, "end": 2846.0}
+{"id": "UgpfbmJvOE8-t2846.0", "text": "it's a narrative of a French publisher who suddenly encounters the iPad", "start": 2846.0, "end": 2854.0}
+{"id": "UgpfbmJvOE8-t2854.0", "text": "and all that sort of thing, and the end of print book.", "start": 2854.0, "end": 2858.0}
+{"id": "UgpfbmJvOE8-t2858.0", "text": "And it consists of 36 chapters.", "start": 2858.0, "end": 2862.0}
+{"id": "UgpfbmJvOE8-t2862.0", "text": "And that's fine, and it's all eminently translatable.", "start": 2862.0, "end": 2867.0}
+{"id": "UgpfbmJvOE8-t2867.0", "text": "There's nothing ineffable about it.", "start": 2867.0, "end": 2870.0}
+{"id": "UgpfbmJvOE8-t2870.0", "text": "But the first six chapters consist of each of 7,500 characters and spaces.", "start": 2870.0, "end": 2880.0}
+{"id": "UgpfbmJvOE8-t2880.0", "text": "And so on down to 2,500 for the last six.", "start": 2880.0, "end": 2884.0}
+{"id": "UgpfbmJvOE8-t2884.0", "text": "So you have 36.", "start": 2884.0, "end": 2886.0}
+{"id": "UgpfbmJvOE8-t2886.0", "text": "Yes, that's six by six.", "start": 2886.0, "end": 2888.0}
+{"id": "UgpfbmJvOE8-t2888.0", "text": "That's a poem.", "start": 2888.0, "end": 2889.0}
+{"id": "UgpfbmJvOE8-t2889.0", "text": "That's a sestina.", "start": 2889.0, "end": 2890.0}
+{"id": "UgpfbmJvOE8-t2890.0", "text": "And yes, indeed, it does rhyme.", "start": 2890.0, "end": 2892.0}
+{"id": "UgpfbmJvOE8-t2892.0", "text": "The same six words occur in alternation at the end of each chapter,", "start": 2892.0, "end": 2897.0}
+{"id": "UgpfbmJvOE8-t2897.0", "text": "according to the exact pattern laid down in the last six.", "start": 2897.0, "end": 2901.0}
+{"id": "UgpfbmJvOE8-t2901.0", "text": "And so on down to 2,500 for the last six.", "start": 2901.0, "end": 2904.0}
+{"id": "UgpfbmJvOE8-t2904.0", "text": "So you have 36.", "start": 2904.0, "end": 2906.0}
+{"id": "UgpfbmJvOE8-t2906.0", "text": "Yes, that's six by six.", "start": 2906.0, "end": 2908.0}
+{"id": "UgpfbmJvOE8-t2908.0", "text": "And so you're going to have to write that down to the exact pattern", "start": 2908.0, "end": 2912.0}
+{"id": "UgpfbmJvOE8-t2912.0", "text": "laid down in the 12th century by Almaudice, the spiral sestina order.", "start": 2912.0, "end": 2917.0}
+{"id": "UgpfbmJvOE8-t2917.0", "text": "And so it was really fun, I mean, filling around with it so you can get the same rhymes", "start": 2917.0, "end": 2923.0}
+{"id": "UgpfbmJvOE8-t2923.0", "text": "and adapting the English so that you have exactly the same number,", "start": 2923.0, "end": 2927.0}
+{"id": "UgpfbmJvOE8-t2927.0", "text": "the right number, 180,000 characters and spaces over all in the novel", "start": 2927.0, "end": 2932.0}
+{"id": "UgpfbmJvOE8-t2932.0", "text": "divided in exactly that way.", "start": 2932.0, "end": 2936.0}
+{"id": "UgpfbmJvOE8-t2936.0", "text": "And then, you know, it goes off to the typeset of the copy editor who puts words back in it.", "start": 2936.0, "end": 2940.0}
+{"id": "UgpfbmJvOE8-t2940.0", "text": "Take it out of here.", "start": 2940.0, "end": 2942.0}
+{"id": "UgpfbmJvOE8-t2942.0", "text": "Or tries to alter my punctuation, so I have lots of fun battles, just keeping it exactly as it is.", "start": 2942.0, "end": 2948.0}
+{"id": "UgpfbmJvOE8-t2948.0", "text": "And then it goes to the typeset.", "start": 2948.0, "end": 2950.0}
+{"id": "UgpfbmJvOE8-t2950.0", "text": "And of course, the way that Microsoft Word counts characters and spaces is not absolute.", "start": 2950.0, "end": 2957.0}
+{"id": "UgpfbmJvOE8-t2957.0", "text": "It has specific parameters.", "start": 2957.0, "end": 2960.0}
+{"id": "UgpfbmJvOE8-t2960.0", "text": "The way that the big Unix typesetting machine that produces real printed books, types,", "start": 2960.0, "end": 2966.0}
+{"id": "UgpfbmJvOE8-t2966.0", "text": "and spaces is slightly different.", "start": 2966.0, "end": 2970.0}
+{"id": "UgpfbmJvOE8-t2970.0", "text": "In particular, the long dash, which Microsoft Word counts as one character, it's an M dash.", "start": 2970.0, "end": 2977.0}
+{"id": "UgpfbmJvOE8-t2977.0", "text": "It's actually three N dashes in real typesetting.", "start": 2977.0, "end": 2982.0}
+{"id": "UgpfbmJvOE8-t2982.0", "text": "And you end up thinking, this is completely silly.", "start": 2982.0, "end": 2986.0}
+{"id": "UgpfbmJvOE8-t2986.0", "text": "The constraint is arbitrary. It's whatever you want it to be.", "start": 2986.0, "end": 2990.0}
+{"id": "UgpfbmJvOE8-t2990.0", "text": "Does it matter? And who the hell is going to notice?", "start": 2990.0, "end": 2994.0}
+{"id": "UgpfbmJvOE8-t2994.0", "text": "And indeed, nobody has noticed there have been reviews of this, but nobody has mentioned.", "start": 2994.0, "end": 2998.0}
+{"id": "UgpfbmJvOE8-t2998.0", "text": "The extraordinary neat way in which it's an invisible thing.", "start": 2998.0, "end": 3004.0}
+{"id": "UgpfbmJvOE8-t3004.0", "text": "You can't see it.", "start": 3004.0, "end": 3006.0}
+{"id": "UgpfbmJvOE8-t3006.0", "text": "And of course, unless you've got it in Word document for, even in PDF, you can't do it,", "start": 3006.0, "end": 3011.0}
+{"id": "UgpfbmJvOE8-t3011.0", "text": "you can't find out, you can't check.", "start": 3011.0, "end": 3013.0}
+{"id": "UgpfbmJvOE8-t3013.0", "text": "So why was I wasting my time trying to write under constraint to translate an experiment?", "start": 3013.0, "end": 3020.0}
+{"id": "UgpfbmJvOE8-t3020.0", "text": "Might have just translated what it said.", "start": 3020.0, "end": 3024.0}
+{"id": "UgpfbmJvOE8-t3024.0", "text": "The interesting thing, or the only curious thing about it, is that French, over any lengthy text,", "start": 3024.0, "end": 3033.0}
+{"id": "UgpfbmJvOE8-t3033.0", "text": "generally takes rather more character spaces to say the same thing as English does.", "start": 3033.0, "end": 3038.0}
+{"id": "UgpfbmJvOE8-t3038.0", "text": "So translating it into quite stylistically appropriate, and that's to say fairly concise English,", "start": 3038.0, "end": 3046.0}
+{"id": "UgpfbmJvOE8-t3046.0", "text": "produced a text that was shorter than the French.", "start": 3046.0, "end": 3049.0}
+{"id": "UgpfbmJvOE8-t3049.0", "text": "And under this constraint, I have to inject some wordage back in.", "start": 3049.0, "end": 3054.0}
+{"id": "UgpfbmJvOE8-t3054.0", "text": "So it's great fun. I was able to incorporate in the English edition a number of things that the author had to leave out.", "start": 3054.0, "end": 3064.0}
+{"id": "UgpfbmJvOE8-t3064.0", "text": "But I think this is what's interesting, what fascinates me is listening to this,", "start": 3064.0, "end": 3068.0}
+{"id": "UgpfbmJvOE8-t3068.0", "text": "is literary scholars.", "start": 3068.0, "end": 3070.0}
+{"id": "UgpfbmJvOE8-t3070.0", "text": "And what's increasingly interested me in my work as scholars,", "start": 3070.0, "end": 3074.0}
+{"id": "UgpfbmJvOE8-t3074.0", "text": "thinking about what translators do and their kind of awareness of form", "start": 3074.0, "end": 3078.0}
+{"id": "UgpfbmJvOE8-t3078.0", "text": "and how that is innately connected to meaning.", "start": 3078.0, "end": 3081.0}
+{"id": "UgpfbmJvOE8-t3081.0", "text": "And everyday reviews, the reviewers are going to talk about the characters, the plot and so on.", "start": 3081.0, "end": 3086.0}
+{"id": "UgpfbmJvOE8-t3086.0", "text": "And I think especially in the Anglo-American world, which is very into real-list fiction at the moment,", "start": 3086.0, "end": 3092.0}
+{"id": "UgpfbmJvOE8-t3092.0", "text": "and very kind of naturalistic-centered prose, and there isn't that awareness of,", "start": 3092.0, "end": 3096.0}
+{"id": "UgpfbmJvOE8-t3096.0", "text": "well, actually something more is going, so there's something deeper, there's a texture to this novel or to this poem.", "start": 3096.0, "end": 3102.0}
+{"id": "UgpfbmJvOE8-t3102.0", "text": "More so in poetry, but not in a novel. People aren't prepared to think about that.", "start": 3102.0, "end": 3106.0}
+{"id": "UgpfbmJvOE8-t3106.0", "text": "But I think when you're studying what translators do, it gets really interesting when you see,", "start": 3106.0, "end": 3111.0}
+{"id": "UgpfbmJvOE8-t3111.0", "text": "it's always the problematic bits of the text that you go,", "start": 3111.0, "end": 3114.0}
+{"id": "UgpfbmJvOE8-t3114.0", "text": "how on some things that work here, and what choices the translator made.", "start": 3114.0, "end": 3118.0}
+{"id": "UgpfbmJvOE8-t3118.0", "text": "And sometimes bad translations can be as revelatory as good translations, right?", "start": 3118.0, "end": 3122.0}
+{"id": "UgpfbmJvOE8-t3122.0", "text": "Because where they've gone wrong or something seems really awkward,", "start": 3122.0, "end": 3126.0}
+{"id": "UgpfbmJvOE8-t3126.0", "text": "there's something interesting happening, and there's a wall there that they've had to try and overcome.", "start": 3126.0, "end": 3130.0}
+{"id": "UgpfbmJvOE8-t3130.0", "text": "And that's where you get into some of these interesting parts of the structure of the novel,", "start": 3130.0, "end": 3136.0}
+{"id": "UgpfbmJvOE8-t3136.0", "text": "the texture of the novel, which is something that I always try and teach in my classes,", "start": 3136.0, "end": 3141.0}
+{"id": "UgpfbmJvOE8-t3141.0", "text": "because students are so used to wanting, they want a book club type class where they talk about characters and themes,", "start": 3141.0, "end": 3146.0}
+{"id": "UgpfbmJvOE8-t3146.0", "text": "but you're trying to get them to see that great literature, there's always more to it than that, right?", "start": 3146.0, "end": 3151.0}
+{"id": "UgpfbmJvOE8-t3151.0", "text": "There's something working at a deeper level, and that's what translators have to really get.", "start": 3151.0, "end": 3156.0}
+{"id": "UgpfbmJvOE8-t3156.0", "text": "A good translator has to really get. And I think Yuffini and Sound and so on is so important to that.", "start": 3156.0, "end": 3161.0}
+{"id": "UgpfbmJvOE8-t3161.0", "text": "And also, I think the first question that Jeff asked yourself when you're translating something is what is the list,", "start": 3161.0, "end": 3169.0}
+{"id": "UgpfbmJvOE8-t3169.0", "text": "and what is the order of priorities of what's important, and it could be humor,", "start": 3169.0, "end": 3173.0}
+{"id": "UgpfbmJvOE8-t3173.0", "text": "it could be in the case of this, that there were exactly a certain number of characters and spaces on a particular page.", "start": 3173.0, "end": 3179.0}
+{"id": "UgpfbmJvOE8-t3179.0", "text": "It really could be any number of things, it could be the strict meaning, it could be technical definition,", "start": 3179.0, "end": 3185.0}
+{"id": "UgpfbmJvOE8-t3185.0", "text": "I mean, it's any number of registers, and the thing is that no one text even stays in that register,", "start": 3185.0, "end": 3190.0}
+{"id": "UgpfbmJvOE8-t3190.0", "text": "it's constantly moving from register to register, so that you're always trying to identify what's the primary thing that I need to convey,", "start": 3190.0, "end": 3199.0}
+{"id": "UgpfbmJvOE8-t3199.0", "text": "in this particular passage of this particular sentence, what's the conceit, or what's the effect,", "start": 3199.0, "end": 3204.0}
+{"id": "UgpfbmJvOE8-t3204.0", "text": "and then keeping, sort of following it, and constantly keeping track.", "start": 3204.0, "end": 3209.0}
+{"id": "UgpfbmJvOE8-t3209.0", "text": "One of the most difficult things to translate in some ways is parody, in the sense that parody presupposes a shared convention.", "start": 3209.0, "end": 3217.0}
+{"id": "UgpfbmJvOE8-t3217.0", "text": "So if you're making fun of something, or you're referring to it,", "start": 3217.0, "end": 3223.0}
+{"id": "UgpfbmJvOE8-t3223.0", "text": "and if people aren't aware of what you're referring to, then it's hopeless.", "start": 3223.0, "end": 3226.0}
+{"id": "UgpfbmJvOE8-t3226.0", "text": "And that was some of the problems I encountered, like for example with Manuel Puig, the Argentine writer,", "start": 3226.0, "end": 3233.0}
+{"id": "UgpfbmJvOE8-t3233.0", "text": "who basically, his books are written in Argentine to the center, and the tango is such an important reference,", "start": 3233.0, "end": 3241.0}
+{"id": "UgpfbmJvOE8-t3241.0", "text": "and also the humor is created by a certain campy relationship with all this material,", "start": 3241.0, "end": 3248.0}
+{"id": "UgpfbmJvOE8-t3248.0", "text": "so if you repeat the exact words of the tango, the English reader is going to say,", "start": 3248.0, "end": 3253.0}
+{"id": "UgpfbmJvOE8-t3253.0", "text": "well that looks like bad poetry, what you doing there?", "start": 3253.0, "end": 3257.0}
+{"id": "UgpfbmJvOE8-t3257.0", "text": "Something else has to be done to make that perotical relationship.", "start": 3257.0, "end": 3261.0}
+{"id": "UgpfbmJvOE8-t3261.0", "text": "So would you let yourself...", "start": 3261.0, "end": 3263.0}
+{"id": "UgpfbmJvOE8-t3263.0", "text": "Well you see, now I've got some good questions here.", "start": 3263.0, "end": 3266.0}
+{"id": "UgpfbmJvOE8-t3266.0", "text": "Would you let your... to cope with that, would you let your...", "start": 3266.0, "end": 3270.0}
+{"id": "UgpfbmJvOE8-t3270.0", "text": "Well, stoop to a footnote.", "start": 3270.0, "end": 3272.0}
+{"id": "UgpfbmJvOE8-t3272.0", "text": "Well, I didn't stoop to a footnote.", "start": 3272.0, "end": 3274.0}
+{"id": "UgpfbmJvOE8-t3274.0", "text": "You did stoop to a footnote.", "start": 3274.0, "end": 3275.0}
+{"id": "UgpfbmJvOE8-t3275.0", "text": "I did not stoop.", "start": 3275.0, "end": 3276.0}
+{"id": "UgpfbmJvOE8-t3276.0", "text": "Oh, you did not.", "start": 3276.0, "end": 3277.0}
+{"id": "UgpfbmJvOE8-t3277.0", "text": "I did no stooping.", "start": 3277.0, "end": 3278.0}
+{"id": "UgpfbmJvOE8-t3278.0", "text": "No.", "start": 3278.0, "end": 3279.0}
+{"id": "UgpfbmJvOE8-t3279.0", "text": "It's very odd, I mean, in English literally publishing, you know, footnotes are banned.", "start": 3279.0, "end": 3284.0}
+{"id": "UgpfbmJvOE8-t3284.0", "text": "I mean, you know, the publisher will say, well, cut to a footnote.", "start": 3284.0, "end": 3287.0}
+{"id": "UgpfbmJvOE8-t3287.0", "text": "But I mean, to German, to French, it's quite common to have explanatory or expansionary footnotes that help you with that.", "start": 3287.0, "end": 3294.0}
+{"id": "UgpfbmJvOE8-t3294.0", "text": "Well, because French and German are just so scholarly, they have to have footnotes, you know.", "start": 3294.0, "end": 3298.0}
+{"id": "UgpfbmJvOE8-t3298.0", "text": "But I don't know.", "start": 3298.0, "end": 3299.0}
+{"id": "UgpfbmJvOE8-t3299.0", "text": "Anyway, but for example, you know, Boquitas Pintadas, which was little painted lips,", "start": 3299.0, "end": 3304.0}
+{"id": "UgpfbmJvOE8-t3304.0", "text": "which actually could have been translated as little painted lips,", "start": 3304.0, "end": 3306.0}
+{"id": "UgpfbmJvOE8-t3306.0", "text": "but at the time we thought heartbreak tango was much better because it really captured the feeling of that world, you know.", "start": 3306.0, "end": 3312.0}
+{"id": "UgpfbmJvOE8-t3312.0", "text": "And so... but in the case of Manuel Puig was sort of interesting because as everybody knows, he was such a film junkie,", "start": 3312.0, "end": 3318.0}
+{"id": "UgpfbmJvOE8-t3318.0", "text": "that not only was his frame of references tangos and popular lyrics, but also all these wonderful, you know, campy Hollywood films.", "start": 3318.0, "end": 3325.0}
+{"id": "UgpfbmJvOE8-t3325.0", "text": "So we sort of mixed in some of that material, and so you enabled the reader to understand that there was a whole era that was being referred to", "start": 3325.0, "end": 3334.0}
+{"id": "UgpfbmJvOE8-t3334.0", "text": "and sort of both nostalgic and sort of campy way, you know, and also funny, of course, funny and tragic at the same time.", "start": 3334.0, "end": 3342.0}
+{"id": "UgpfbmJvOE8-t3342.0", "text": "But I think we were able to recreate that world by expanding the context as it were to his other areas of references.", "start": 3342.0, "end": 3349.0}
+{"id": "UgpfbmJvOE8-t3349.0", "text": "So that was one example.", "start": 3349.0, "end": 3351.0}
+{"id": "UgpfbmJvOE8-t3351.0", "text": "I'm wondering what, you know, because when I've been working in the archives, it really opened up translation for me too,", "start": 3351.0, "end": 3357.0}
+{"id": "UgpfbmJvOE8-t3357.0", "text": "is how much power editors had.", "start": 3357.0, "end": 3360.0}
+{"id": "UgpfbmJvOE8-t3360.0", "text": "So a translator, in Condor's case, the stuff he blames is translator for was actually his editors, right?", "start": 3360.0, "end": 3366.0}
+{"id": "UgpfbmJvOE8-t3366.0", "text": "So the translator would hand in a text and one of the editors, she just went, the sentences were too long,", "start": 3366.0, "end": 3372.0}
+{"id": "UgpfbmJvOE8-t3372.0", "text": "so she just literally went through and made the sentences shorter, and they wondered what experiences you have had with editors", "start": 3372.0, "end": 3380.0}
+{"id": "UgpfbmJvOE8-t3380.0", "text": "and whether that really makes a difference to how a translator, you know, was a gentleman's an editor.", "start": 3380.0, "end": 3387.0}
+{"id": "UgpfbmJvOE8-t3387.0", "text": "I'm speaking from both sides of my mouth here.", "start": 3387.0, "end": 3390.0}
+{"id": "UgpfbmJvOE8-t3390.0", "text": "That's right.", "start": 3390.0, "end": 3391.0}
+{"id": "UgpfbmJvOE8-t3391.0", "text": "But as my translator had on, I had an interesting experience because, you know, with Modiano winning the Nobel Prize,", "start": 3391.0, "end": 3398.0}
+{"id": "UgpfbmJvOE8-t3398.0", "text": "all of a sudden all these publishers are publishing his work, and I just did three of them this year, three of his books,", "start": 3398.0, "end": 3405.0}
+{"id": "UgpfbmJvOE8-t3405.0", "text": "and two of them are published separately by an American house in a British house, same translation, but two different houses,", "start": 3405.0, "end": 3413.0}
+{"id": "UgpfbmJvOE8-t3413.0", "text": "and they both edited separately, which is something that I hadn't really run into before.", "start": 3413.0, "end": 3420.0}
+{"id": "UgpfbmJvOE8-t3420.0", "text": "Normally speaking, one would take the lead and then the other would just simply copy the plates and, you know,", "start": 3420.0, "end": 3424.0}
+{"id": "UgpfbmJvOE8-t3424.0", "text": "sort of deal with the Americanness or the Britishness, whatever.", "start": 3424.0, "end": 3427.0}
+{"id": "UgpfbmJvOE8-t3427.0", "text": "But in this particular case, because I profile author, both houses are editing or have edited separately,", "start": 3427.0, "end": 3434.0}
+{"id": "UgpfbmJvOE8-t3434.0", "text": "and you end up with these two sets of not only comments and things that people pick up,", "start": 3434.0, "end": 3440.0}
+{"id": "UgpfbmJvOE8-t3440.0", "text": "but also two sets of vocabulary because, you know, a flat becomes, an apartment becomes a flat,", "start": 3440.0, "end": 3445.0}
+{"id": "UgpfbmJvOE8-t3445.0", "text": "and then an elevator becomes a lift, and, you know, all of these things.", "start": 3445.0, "end": 3448.0}
+{"id": "UgpfbmJvOE8-t3448.0", "text": "And that, you know, fine, I can deal with that.", "start": 3448.0, "end": 3450.0}
+{"id": "UgpfbmJvOE8-t3450.0", "text": "I mean, it seems funny to me because it's not how I speak, and I do pay attention to the rhythm of a sentence,", "start": 3450.0, "end": 3455.0}
+{"id": "UgpfbmJvOE8-t3455.0", "text": "and now Partment is not quite the same as flat, you know, but, you know, one can manage,", "start": 3455.0, "end": 3461.0}
+{"id": "UgpfbmJvOE8-t3461.0", "text": "where it really became interesting were the expressions, and just those little nuggets of language", "start": 3461.0, "end": 3467.0}
+{"id": "UgpfbmJvOE8-t3467.0", "text": "that you don't even think twice about as being specifically American, for example,", "start": 3467.0, "end": 3472.0}
+{"id": "UgpfbmJvOE8-t3472.0", "text": "and the British editor would constantly, who was very good, and, you know, really went through it extremely carefully", "start": 3472.0, "end": 3480.0}
+{"id": "UgpfbmJvOE8-t3480.0", "text": "and was very respectful, but would come up with these things, you know, saying, well, you can't say that.", "start": 3480.0, "end": 3485.0}
+{"id": "UgpfbmJvOE8-t3485.0", "text": "I was like, well, why can't I say that? Because, you know, it's American. Nobody's going to understand.", "start": 3485.0, "end": 3488.0}
+{"id": "UgpfbmJvOE8-t3488.0", "text": "I think a big one was a black Mariah, which actually surprised me because of that.", "start": 3488.0, "end": 3494.0}
+{"id": "UgpfbmJvOE8-t3494.0", "text": "Yeah, yeah, I didn't know that. Yeah, so we constantly had to sort of find these equivalents,", "start": 3494.0, "end": 3499.0}
+{"id": "UgpfbmJvOE8-t3499.0", "text": "and then that led me to go back sometimes and make changes to the US edition, because, obviously, I wanted them to be as close as possible,", "start": 3499.0, "end": 3507.0}
+{"id": "UgpfbmJvOE8-t3507.0", "text": "understanding that they're just going to be certain differences along the way that you can't get away from,", "start": 3507.0, "end": 3511.0}
+{"id": "UgpfbmJvOE8-t3511.0", "text": "but if there were things that would work in English that they decided really had to be changed for the British one,", "start": 3511.0, "end": 3517.0}
+{"id": "UgpfbmJvOE8-t3517.0", "text": "but I could make it work in the US edition as well, like, sort of go back, so if there was a constant back and forth,", "start": 3517.0, "end": 3523.0}
+{"id": "UgpfbmJvOE8-t3523.0", "text": "you know, how powerful are editors, it really depends on the house, and I think the question more is how sensitive are editors,", "start": 3523.0, "end": 3530.0}
+{"id": "UgpfbmJvOE8-t3530.0", "text": "and that, you know, you can look out wonderfully and have these great editors who really understand what you're trying to do,", "start": 3530.0, "end": 3536.0}
+{"id": "UgpfbmJvOE8-t3536.0", "text": "and we'll catch you on things. I mean, let's face it, you know, no text is perfect, whether it's your own writing or whether it's a translation.", "start": 3536.0, "end": 3541.0}
+{"id": "UgpfbmJvOE8-t3541.0", "text": "So I'm very, very grateful for editors who I'm not even talking about, you know, mistakes, or, you know, you mistranslated this word,", "start": 3541.0, "end": 3548.0}
+{"id": "UgpfbmJvOE8-t3548.0", "text": "just like this doesn't sound quite right, or I'm not quite sure I get this, or, you know, this could be tweaked a little bit more,", "start": 3548.0, "end": 3553.0}
+{"id": "UgpfbmJvOE8-t3553.0", "text": "and then there are those who just run roughshod, and, you know, those you have to push back.", "start": 3553.0, "end": 3557.0}
+{"id": "UgpfbmJvOE8-t3557.0", "text": "I'll second that. I love my editors.", "start": 3557.0, "end": 3560.0}
+{"id": "UgpfbmJvOE8-t3560.0", "text": "I love my editors.", "start": 3560.0, "end": 3562.0}
+{"id": "UgpfbmJvOE8-t3562.0", "text": "I've even mentioned them anyway. I have some wonderful people making the things I've translated better.", "start": 3562.0, "end": 3568.0}
+{"id": "UgpfbmJvOE8-t3568.0", "text": "Dorothy Strait in the US and Mitzi Angel in the US, so she's now back in Britain, and Guido Waldman in the UK,", "start": 3568.0, "end": 3575.0}
+{"id": "UgpfbmJvOE8-t3575.0", "text": "and Katarina Bielenberg. I don't know how these people are born, or it comes, but these are people who can read a page with a pencil in their hand", "start": 3575.0, "end": 3587.0}
+{"id": "UgpfbmJvOE8-t3587.0", "text": "and find glitches that I, you know, these aren't things that I did in a tattoo, and they're usually right.", "start": 3587.0, "end": 3596.0}
+{"id": "UgpfbmJvOE8-t3596.0", "text": "Every now and again, as I disagree with them.", "start": 3596.0, "end": 3599.0}
+{"id": "UgpfbmJvOE8-t3599.0", "text": "So I think there are fewer number. None of them work for radlage.", "start": 3599.0, "end": 3606.0}
+{"id": "UgpfbmJvOE8-t3606.0", "text": "Right.", "start": 3606.0, "end": 3608.0}
+{"id": "UgpfbmJvOE8-t3608.0", "text": "I think you have.", "start": 3608.0, "end": 3610.0}
+{"id": "UgpfbmJvOE8-t3610.0", "text": "No, I don't know.", "start": 3610.0, "end": 3613.0}
+{"id": "UgpfbmJvOE8-t3613.0", "text": "But they do provide English language readers with very high quality, very well produced books,", "start": 3613.0, "end": 3622.0}
+{"id": "UgpfbmJvOE8-t3622.0", "text": "and again, in huge contrast with France, French books are not copy edited.", "start": 3622.0, "end": 3629.0}
+{"id": "UgpfbmJvOE8-t3629.0", "text": "They're not edited.", "start": 3629.0, "end": 3630.0}
+{"id": "UgpfbmJvOE8-t3630.0", "text": "So it's not a question of the power they have.", "start": 3630.0, "end": 3633.0}
+{"id": "UgpfbmJvOE8-t3633.0", "text": "The publisher has all the power. The publisher has the rights, the publisher can publish what the publisher wants to.", "start": 3633.0, "end": 3637.0}
+{"id": "UgpfbmJvOE8-t3637.0", "text": "The editors of the interface, and they are, the best of them, are really wonderful hand-maiden to the producing, you know, to making something smooth and so forth.", "start": 3637.0, "end": 3648.0}
+{"id": "UgpfbmJvOE8-t3648.0", "text": "But it also goes back to what you were saying before about the stature of the translation has acquired, at least in English, or the English language over the last few decades or however long it is.", "start": 3648.0, "end": 3658.0}
+{"id": "UgpfbmJvOE8-t3658.0", "text": "I think that the sensitivity to the editing of translations has also increased in the publishing industry,", "start": 3658.0, "end": 3663.0}
+{"id": "UgpfbmJvOE8-t3663.0", "text": "and I was certainly found in the days that I was in trade publishing, where, you know, it was taken as seriously as a text produced in English.", "start": 3663.0, "end": 3672.0}
+{"id": "UgpfbmJvOE8-t3672.0", "text": "If you're fortunate enough, you know, as I was to work in a place like Random House, or White and Felden-Nickelson, or Kanob, or, you know, houses that actually value and publish translations,", "start": 3672.0, "end": 3680.0}
+{"id": "UgpfbmJvOE8-t3680.0", "text": "their editors are also expected to bring that same kind of care and sensitivity.", "start": 3680.0, "end": 3685.0}
+{"id": "UgpfbmJvOE8-t3685.0", "text": "Yeah, yeah.", "start": 3685.0, "end": 3686.0}
+{"id": "UgpfbmJvOE8-t3686.0", "text": "I actually, I was working with Northwestern, actually. I was quite surprised to see what good editors I had to run into.", "start": 3686.0, "end": 3693.0}
+{"id": "UgpfbmJvOE8-t3693.0", "text": "You know, I sometimes wonder if sometimes, you know, the more commercial presses now are less careful,", "start": 3693.0, "end": 3699.0}
+{"id": "UgpfbmJvOE8-t3699.0", "text": "and maybe the smaller presses or university presses are more careful. I don't know.", "start": 3699.0, "end": 3703.0}
+{"id": "UgpfbmJvOE8-t3703.0", "text": "I don't think the big commercial presses are proposing translations, period.", "start": 3703.0, "end": 3706.0}
+{"id": "UgpfbmJvOE8-t3706.0", "text": "Yeah, right. I think it's the other way around.", "start": 3706.0, "end": 3708.0}
+{"id": "UgpfbmJvOE8-t3708.0", "text": "Yeah.", "start": 3708.0, "end": 3709.0}
+{"id": "UgpfbmJvOE8-t3709.0", "text": "Or something. I know something is changing, because I've seen a lot of...", "start": 3709.0, "end": 3712.0}
+{"id": "UgpfbmJvOE8-t3712.0", "text": "I haven't agreed to this example of editorial or publishers' intervention.", "start": 3712.0, "end": 3717.0}
+{"id": "UgpfbmJvOE8-t3717.0", "text": "I'm not exactly sure on what level it really took place.", "start": 3717.0, "end": 3720.0}
+{"id": "UgpfbmJvOE8-t3720.0", "text": "But Amazos is memoir Tale of Love and Darkness, which is, you know, over 500 pages long,", "start": 3720.0, "end": 3727.0}
+{"id": "UgpfbmJvOE8-t3727.0", "text": "and has something like 64 vignettes. You know, only a few pages each.", "start": 3727.0, "end": 3732.0}
+{"id": "UgpfbmJvOE8-t3732.0", "text": "I somehow heard, because I had read it in English, but I heard that there was one of the vignettes had been deleted.", "start": 3732.0, "end": 3743.0}
+{"id": "UgpfbmJvOE8-t3743.0", "text": "So, I was very curious about that. And my Hebrew wasn't good enough to, you know,", "start": 3743.0, "end": 3751.0}
+{"id": "UgpfbmJvOE8-t3751.0", "text": "I could easily go and find the Hebrew and then figure out the numerically.", "start": 3751.0, "end": 3754.0}
+{"id": "UgpfbmJvOE8-t3754.0", "text": "I went to the French translation, which is my strongest language.", "start": 3754.0, "end": 3759.0}
+{"id": "UgpfbmJvOE8-t3759.0", "text": "And I find the one that's missing. I read it.", "start": 3759.0, "end": 3764.0}
+{"id": "UgpfbmJvOE8-t3764.0", "text": "I'm very mystified by why it's been expunged.", "start": 3764.0, "end": 3768.0}
+{"id": "UgpfbmJvOE8-t3768.0", "text": "And I figured that there must have been some political explanation.", "start": 3768.0, "end": 3771.0}
+{"id": "UgpfbmJvOE8-t3771.0", "text": "You know, that made a lot of sense to me.", "start": 3771.0, "end": 3773.0}
+{"id": "UgpfbmJvOE8-t3773.0", "text": "But then when I thought about it more carefully, it really didn't make any sense.", "start": 3773.0, "end": 3779.0}
+{"id": "UgpfbmJvOE8-t3779.0", "text": "And it's a metaphysical chapter where it's a nonlinear narrative anyway.", "start": 3779.0, "end": 3784.0}
+{"id": "UgpfbmJvOE8-t3784.0", "text": "The narrator who's talking about his life, you know, it's not the narrator.", "start": 3784.0, "end": 3789.0}
+{"id": "UgpfbmJvOE8-t3789.0", "text": "It's the autobiography. Talking about his life sort of steps out of the story", "start": 3789.0, "end": 3794.0}
+{"id": "UgpfbmJvOE8-t3794.0", "text": "and addresses the reader directly. And it says, you know,", "start": 3794.0, "end": 3798.0}
+{"id": "UgpfbmJvOE8-t3798.0", "text": "Ipocritle Lektero, essentially. You know, I know that you're really in some salacious,", "start": 3798.0, "end": 3804.0}
+{"id": "UgpfbmJvOE8-t3804.0", "text": "brilliant way interested in figuring out whether all of this is true or not.", "start": 3804.0, "end": 3809.0}
+{"id": "UgpfbmJvOE8-t3809.0", "text": "And you're probably lifting up every rock to find out, you know, did this happen or did this not happen and all that.", "start": 3809.0, "end": 3814.0}
+{"id": "UgpfbmJvOE8-t3814.0", "text": "Let me just tell you that's not the point of this story.", "start": 3814.0, "end": 3817.0}
+{"id": "UgpfbmJvOE8-t3817.0", "text": "You know, there's truth and there's truth and you should be attending to what I'm writing and not to this other stuff,", "start": 3817.0, "end": 3822.0}
+{"id": "UgpfbmJvOE8-t3822.0", "text": "you know, because his role is this tiny country and everybody knows everybody.", "start": 3822.0, "end": 3825.0}
+{"id": "UgpfbmJvOE8-t3825.0", "text": "So you just wanted to, you know, disabuse him of whatever, you know, fantasies they may have had about discovering something.", "start": 3825.0, "end": 3832.0}
+{"id": "UgpfbmJvOE8-t3832.0", "text": "It made no sense to me why they would delete that.", "start": 3832.0, "end": 3835.0}
+{"id": "UgpfbmJvOE8-t3835.0", "text": "And not only that, not only did they delete it, but then they renumbered.", "start": 3835.0, "end": 3840.0}
+{"id": "UgpfbmJvOE8-t3840.0", "text": "And you're talking about, you know, over 60.", "start": 3840.0, "end": 3843.0}
+{"id": "UgpfbmJvOE8-t3843.0", "text": "Covered it over as if they'd killed somebody, covered it over with dirt.", "start": 3843.0, "end": 3848.0}
+{"id": "UgpfbmJvOE8-t3848.0", "text": "There was no sign of it. So if you were reading the translation, you had no idea, at least the Anglophone translation,", "start": 3848.0, "end": 3853.0}
+{"id": "UgpfbmJvOE8-t3853.0", "text": "that they'd even done this. So I wrote to the, you know, I emailed the,", "start": 3853.0, "end": 3858.0}
+{"id": "UgpfbmJvOE8-t3858.0", "text": "I emailed the translator first and then he completely, you know, he just sent me to the publisher.", "start": 3858.0, "end": 3866.0}
+{"id": "UgpfbmJvOE8-t3866.0", "text": "And I asked the publisher, well, you know, what is this about and why did you do it?", "start": 3866.0, "end": 3872.0}
+{"id": "UgpfbmJvOE8-t3872.0", "text": "And is it only in English? Because I know it's not in French.", "start": 3872.0, "end": 3875.0}
+{"id": "UgpfbmJvOE8-t3875.0", "text": "You said, well, out of all, out of the 25 languages in which this book has been translated only in English,", "start": 3875.0, "end": 3880.0}
+{"id": "UgpfbmJvOE8-t3880.0", "text": "both the British and the American editions, was this chapter deleted.", "start": 3880.0, "end": 3885.0}
+{"id": "UgpfbmJvOE8-t3885.0", "text": "This tiny little chapter for five pages. So I asked, well, was it for financial reasons?", "start": 3885.0, "end": 3890.0}
+{"id": "UgpfbmJvOE8-t3890.0", "text": "That doesn't make any sense, you know? No, not at all. It's for cultural reasons.", "start": 3890.0, "end": 3895.0}
+{"id": "UgpfbmJvOE8-t3895.0", "text": "What kind of cultural reasons? You know, Americans are very sophisticated readers.", "start": 3895.0, "end": 3902.0}
+{"id": "UgpfbmJvOE8-t3902.0", "text": "They always want mimetic real life, you know, stuff. They won't know how to understand this.", "start": 3902.0, "end": 3908.0}
+{"id": "UgpfbmJvOE8-t3908.0", "text": "They won't know what to do with this. They'll be totally confused. They'll be alienated.", "start": 3908.0, "end": 3913.0}
+{"id": "UgpfbmJvOE8-t3913.0", "text": "And since Amazos has a very high critical, you know, high critical acclaim in the United States,", "start": 3913.0, "end": 3918.0}
+{"id": "UgpfbmJvOE8-t3918.0", "text": "but he's really not popular, we're trying to really bring him in.", "start": 3918.0, "end": 3921.0}
+{"id": "UgpfbmJvOE8-t3921.0", "text": "We want the market to, you know, recognize him and appreciate him.", "start": 3921.0, "end": 3924.0}
+{"id": "UgpfbmJvOE8-t3924.0", "text": "So we decided to just strike it. And that way, you know, we're sure we'll get the kind of reception we want for him.", "start": 3924.0, "end": 3931.0}
+{"id": "UgpfbmJvOE8-t3931.0", "text": "I was mystified. And I mean, not just me, but so shocked by that.", "start": 3931.0, "end": 3937.0}
+{"id": "UgpfbmJvOE8-t3937.0", "text": "So then I started to think, I bet it happens more often than not. Only you don't know it.", "start": 3937.0, "end": 3941.0}
+{"id": "UgpfbmJvOE8-t3941.0", "text": "You know, the crime is committed, but how do you know there's no evidence left?", "start": 3941.0, "end": 3945.0}
+{"id": "UgpfbmJvOE8-t3945.0", "text": "What do you think? Is this more common than one might imagine?", "start": 3945.0, "end": 3949.0}
+{"id": "UgpfbmJvOE8-t3949.0", "text": "Well, I mean, I guess the, you know, one of the great classic examples is Kafka.", "start": 3949.0, "end": 3954.0}
+{"id": "UgpfbmJvOE8-t3954.0", "text": "You know, in the original translation, there were a number of allusions and a number of adaptations made to make it more palatable to", "start": 3954.0, "end": 3961.0}
+{"id": "UgpfbmJvOE8-t3961.0", "text": "English language audiences, American audiences. But I think, you know, the thing is that", "start": 3961.0, "end": 3967.0}
+{"id": "UgpfbmJvOE8-t3967.0", "text": "there's also, you know, it's, I mean, I don't defend it, but as a publisher, I get it.", "start": 3967.0, "end": 3973.0}
+{"id": "UgpfbmJvOE8-t3973.0", "text": "I don't understand that particular episode. I mean, that to me seems, just in terms of what they're trying to do and make the book more marketable", "start": 3973.0, "end": 3981.0}
+{"id": "UgpfbmJvOE8-t3981.0", "text": "sounds stupid regardless. But that aside, let's say that there were choices that were maybe a little bit more, you know, understandable, or a book was way too long, it needs to be brought, whatever.", "start": 3981.0, "end": 3992.0}
+{"id": "UgpfbmJvOE8-t3992.0", "text": "You know, you can argue in both ways, but I suppose that a publisher's real intention when you first bring out an author who is not known, which is not the case of us, but let's say a first book by someone that, you know, what they want to do is impose this author, make this person known.", "start": 3992.0, "end": 4010.0}
+{"id": "UgpfbmJvOE8-t4010.0", "text": "And so, you know, the cynical way of saying is, well, they just want to make a lot of money on the back of this author, but I don't think it's really that.", "start": 4010.0, "end": 4017.0}
+{"id": "UgpfbmJvOE8-t4017.0", "text": "I don't think it's quite that because no publisher, no literary publisher takes on an unknown foreign author thinking they're going to make a fortune.", "start": 4017.0, "end": 4026.0}
+{"id": "UgpfbmJvOE8-t4026.0", "text": "I mean, you know, they know better. That's not what they do. They do it because they love the book and they love the author, and they want to make this person known in the, to an English language audience.", "start": 4026.0, "end": 4035.0}
+{"id": "UgpfbmJvOE8-t4035.0", "text": "And so, misguided or not, when these collisions or whether these changes are made intentionally, and I was waiting for the punchline of your story to be, oops, we forgot a chapter, we completely forgot.", "start": 4035.0, "end": 4048.0}
+{"id": "UgpfbmJvOE8-t4048.0", "text": "Which, which happens, which happens. But let's say, you know, in cases where it's actually intentional, you know, I think it actually is done with all the best will in the world.", "start": 4048.0, "end": 4056.0}
+{"id": "UgpfbmJvOE8-t4056.0", "text": "Now, it might not be the smartest choice. And, you know, as I said, one can argue it both ways, but I don't think it's done with any nefarious intent, and it's certainly not done for, you know, they're not going to save any money on those five missing pages.", "start": 4056.0, "end": 4066.0}
+{"id": "UgpfbmJvOE8-t4066.0", "text": "What they're really trying to do is to make an author, who they really do believe in, work in English, and it could be smart, it could be not smart, you know, that depends on the publisher.", "start": 4066.0, "end": 4078.0}
+{"id": "UgpfbmJvOE8-t4078.0", "text": "Two things. It used to be much common than it is now. Translation contracts are now legally binding that it is a full translation, and publisher by and large legally bound to the holder of the head rights to produce a full translation.", "start": 4078.0, "end": 4094.0}
+{"id": "UgpfbmJvOE8-t4094.0", "text": "And these kinds of things don't happen.", "start": 4094.0, "end": 4097.0}
+{"id": "UgpfbmJvOE8-t4097.0", "text": "In most cases would have to have the permission of the author or is representative, but the actual tradition of translation into English is not like that at all.", "start": 4097.0, "end": 4110.0}
+{"id": "UgpfbmJvOE8-t4110.0", "text": "Limiserable. You know the thing on Broadway?", "start": 4110.0, "end": 4114.0}
+{"id": "UgpfbmJvOE8-t4114.0", "text": "In its standard US and UK editions from the beginning of the 20th century to the 1990s had the great essay on the meaning of the Battle of Waterloo, either completely omitted or in an appendix at the back.", "start": 4114.0, "end": 4130.0}
+{"id": "UgpfbmJvOE8-t4130.0", "text": "For the obvious reason that English readers know who won the Battle of Waterloo.", "start": 4130.0, "end": 4136.0}
+{"id": "UgpfbmJvOE8-t4136.0", "text": "It completely changes the shape of the novel, but that was the museum you had to read, and it was done on, I suppose we now call them ideological grounds, but it just seemed like common sense at the time.", "start": 4136.0, "end": 4148.0}
+{"id": "UgpfbmJvOE8-t4148.0", "text": "You don't really want to bore British readers with an Frenchman's essay on who won the Battle of Waterloo.", "start": 4148.0, "end": 4155.0}
+{"id": "UgpfbmJvOE8-t4155.0", "text": "And the rest of the book is exciting enough. It was quite common, and many English novels when they're translated into French and German also have great chunks cut out of them.", "start": 4155.0, "end": 4166.0}
+{"id": "UgpfbmJvOE8-t4166.0", "text": "Where it's really quite tricky nowadays is the extraordinary sensitivity of American publishers to legal issues about actual names of people, which are much more flexible and fluid in other literatures.", "start": 4166.0, "end": 4181.0}
+{"id": "UgpfbmJvOE8-t4181.0", "text": "Foreign novels and foreign novelists can attack, slander and libel, all sorts of living people, as long as they don't make any accusations about their sex life, which of course is the right to private life, in ways that cannot be done in English print.", "start": 4181.0, "end": 4197.0}
+{"id": "UgpfbmJvOE8-t4197.0", "text": "And quite a lot of foreign novels have to be carefully amended to conform to US and British legislation on libel.", "start": 4197.0, "end": 4206.0}
+{"id": "UgpfbmJvOE8-t4206.0", "text": "But this is also a problem with biography, for example. Oh yes, yes, with biographies of European writers read the English version.", "start": 4206.0, "end": 4215.0}
+{"id": "UgpfbmJvOE8-t4215.0", "text": "Well, I mean, when I was writing the biography of Manuel Fwig, for example, I had to change the names of certain people.", "start": 4215.0, "end": 4221.0}
+{"id": "UgpfbmJvOE8-t4221.0", "text": "So, I mean, because the laws are different, these things do get amended when they cross one to the other.", "start": 4221.0, "end": 4228.0}
+{"id": "UgpfbmJvOE8-t4228.0", "text": "Did you ever have a case of having to change names in a book that you translated?", "start": 4228.0, "end": 4234.0}
+{"id": "UgpfbmJvOE8-t4234.0", "text": "Well, because I did. You did? I did? Yeah. I've had lots of problems with that, so I'm not free to talk about.", "start": 4234.0, "end": 4244.0}
+{"id": "UgpfbmJvOE8-t4244.0", "text": "I can't remember actually. But no, it's a constant worry. It's a constant worry.", "start": 4244.0, "end": 4251.0}
+{"id": "UgpfbmJvOE8-t4251.0", "text": "And you mentioned something which also really is interesting about Les Mis\u00e9rables. I mean, the question of adaptation is also a problem of translation, really.", "start": 4251.0, "end": 4261.0}
+{"id": "UgpfbmJvOE8-t4261.0", "text": "And of course, immense changes happen to literary texts and when they go into movies or plays.", "start": 4261.0, "end": 4268.0}
+{"id": "UgpfbmJvOE8-t4268.0", "text": "And I think people should look at translation and also in that light because I don't know if we want to open it up to the audience at all.", "start": 4268.0, "end": 4277.0}
+{"id": "UgpfbmJvOE8-t4277.0", "text": "Does anybody have any questions? I would love to.", "start": 4277.0, "end": 4280.0}
+{"id": "UgpfbmJvOE8-t4280.0", "text": "Somebody must have a question.", "start": 4280.0, "end": 4285.0}
+{"id": "UgpfbmJvOE8-t4285.0", "text": "Oh, yes?", "start": 4285.0, "end": 4286.0}
+{"id": "UgpfbmJvOE8-t4286.0", "text": "Would you use the microphone? Okay.", "start": 4286.0, "end": 4288.0}
+{"id": "UgpfbmJvOE8-t4288.0", "text": "First of all, first of my name is Henry Earl.", "start": 4288.0, "end": 4300.0}
+{"id": "UgpfbmJvOE8-t4300.0", "text": "I'd like to thank the panel for giving me some insight into a craft that I haven't thought about very much and certainly knew nothing about.", "start": 4300.0, "end": 4310.0}
+{"id": "UgpfbmJvOE8-t4310.0", "text": "I'd like to shift the focus slightly into the political realm. Translation across boundaries, borders.", "start": 4310.0, "end": 4321.0}
+{"id": "UgpfbmJvOE8-t4321.0", "text": "Borders are closing. But the speed in which things are translated across the political realm is perhaps quite dangerous.", "start": 4321.0, "end": 4333.0}
+{"id": "UgpfbmJvOE8-t4333.0", "text": "When the President of Mali makes a statement 30 seconds later, this will appear on CNN in English.", "start": 4333.0, "end": 4342.0}
+{"id": "UgpfbmJvOE8-t4342.0", "text": "And what kind of translation is allowed under those circumstances?", "start": 4342.0, "end": 4353.0}
+{"id": "UgpfbmJvOE8-t4353.0", "text": "I mean, just, you know, political translation is not my lawsuit, but it's almost more interpretation.", "start": 4353.0, "end": 4361.0}
+{"id": "UgpfbmJvOE8-t4361.0", "text": "I mean, what kind of translation is allowed at the UN? You know, you have people who do simultaneous interpretation, sometimes a very sensitive political statement.", "start": 4361.0, "end": 4372.0}
+{"id": "UgpfbmJvOE8-t4372.0", "text": "And they need to be, I would say in the best of cases, you're talking about someone who is informed enough about the world situation, about political situations, to be able to represent, at the very least, the substance of what the President of Mali said to the English-speaking world in a way that is accurate.", "start": 4372.0, "end": 4388.0}
+{"id": "UgpfbmJvOE8-t4388.0", "text": "Of course, the other thing about media now and CNN and other online things is, I mean, of course, like everyone else, I've been following the news for the last week on the Paris attacks.", "start": 4388.0, "end": 4398.0}
+{"id": "UgpfbmJvOE8-t4398.0", "text": "And every day when I go in, you know, there are updates and sort of revisions. So it's not a fixed thing. It's very fluid.", "start": 4398.0, "end": 4406.0}
+{"id": "UgpfbmJvOE8-t4406.0", "text": "Unlike, at least until very, very recently, unlike what we do, which is literary translation, which, until the advent of online publication, you know, you did it.", "start": 4406.0, "end": 4417.0}
+{"id": "UgpfbmJvOE8-t4417.0", "text": "You reworked it. You revised it. You edited it. You went through the whole thing. And then it was type 7 printed.", "start": 4417.0, "end": 4422.0}
+{"id": "UgpfbmJvOE8-t4422.0", "text": "And at that point, it's more or less written in stone. If you were lucky enough, and there was a second printing, and your publisher was, you know, an understanding fellow, then you would be able to maybe make a few revisions if you noticed a couple of real clinkers that it somehow managed to get through the first time.", "start": 4422.0, "end": 4437.0}
+{"id": "UgpfbmJvOE8-t4437.0", "text": "But that's about basically all it was. You know, whereas now you have this malleability and this ability to constantly revise and revise and revise.", "start": 4437.0, "end": 4445.0}
+{"id": "UgpfbmJvOE8-t4445.0", "text": "So, you know, to answer your question, I suppose in the best of all worlds, someone who knows what they're hearing, understands what they're hearing, is able to convey what they're hearing, but also as the ability to kind of understand the gist of it and kind of get the essence of it forward.", "start": 4445.0, "end": 4460.0}
+{"id": "UgpfbmJvOE8-t4460.0", "text": "I thought you were actually going to bring up another issue which is very political, is what gets translated and what doesn't get translated. I think that's an issue which I think we were probably more qualified to address, which I think, I don't know if you want to bring it up, but that I think that's a very interesting point.", "start": 4460.0, "end": 4477.0}
+{"id": "UgpfbmJvOE8-t4477.0", "text": "For example, there was a time in terms of Latin American literature, and there's some fellow Latin American and Spanish translators amongst us here, so I don't want to say anything that's incorrect. But when certain kinds of literature were favored over others, for example, magical realism,", "start": 4477.0, "end": 4494.0}
+{"id": "UgpfbmJvOE8-t4494.0", "text": "you know, became this kind of cliche and everything had to be magical realists, so any other kind of writer was not very interesting, you know, and many wonderful writers haven't been translated because they weren't magical realists.", "start": 4494.0, "end": 4506.0}
+{"id": "UgpfbmJvOE8-t4506.0", "text": "So that's an example I think of a political situation, for example, in the Hispanic context.", "start": 4506.0, "end": 4511.0}
+{"id": "UgpfbmJvOE8-t4511.0", "text": "Political and economic, I mean, economics, obviously, it's political, but maybe not political in the sense of, you know, we want to censor the non-magical realist writers, it's just that we don't think they're going to sell, so we're not, you know, we don't know.", "start": 4511.0, "end": 4525.0}
+{"id": "UgpfbmJvOE8-t4525.0", "text": "But as the politics of publishing.", "start": 4525.0, "end": 4527.0}
+{"id": "UgpfbmJvOE8-t4527.0", "text": "I think the point is that I could try and answer the question a bit more directly because I know it's not really something literary translators know much about, but it's terribly important to understand how this works.", "start": 4527.0, "end": 4542.0}
+{"id": "UgpfbmJvOE8-t4542.0", "text": "Over in the UN building, sure, there is a cohort of extremely well-trained, very clever and hardworking professionals who are also extremely highly paid and belong to a union called the AIC, and we hope that they will be able to renew themselves and bring on the next generation, but they're having some", "start": 4542.0, "end": 4565.0}
+{"id": "UgpfbmJvOE8-t4565.0", "text": "people in doing that. Unfortunately, no, it's truly, it is getting difficult to staff the UN booths. Unfortunately, these extremely competent people spend most of their time interpreting stuff that is not very interesting because diplomats at the UN generally do not make history.", "start": 4565.0, "end": 4582.0}
+{"id": "UgpfbmJvOE8-t4582.0", "text": "What you're talking about is something that doesn't go through that kind of a circuit at all. The world news media is an amazing phenomenon of non-translation.", "start": 4582.0, "end": 4596.0}
+{"id": "UgpfbmJvOE8-t4596.0", "text": "That is to say, the President of Marimex's statement, a journalist reports it, and it goes through the wires to one of the six global news agencies that exist, AFP, PA, UPI, the Deutsche Nachshundtienst, and one of the, I've forgotten the name of Latin America, and instantly, and there it will be reissued by people who aren't translators", "start": 4596.0, "end": 4625.0}
+{"id": "UgpfbmJvOE8-t4625.0", "text": "indeed wouldn't think of themselves, but who are journalists working on one of the six language wires. Global news is circulated in six languages and not really any more to local news media, and all this happens in the blink of an eye so that his statement appears in Farsi, in Tehran, and in Mandarin, in Beijing, and in English over here.", "start": 4625.0, "end": 4649.0}
+{"id": "UgpfbmJvOE8-t4649.0", "text": "You said within 30 seconds, actually it's six seconds, it's the lag, it's the generally accepted minimum lag, and I don't know whether it's marvelous or it's terrifying because in a way it is marvelous that there is no cohort of translators translating the news.", "start": 4649.0, "end": 4672.0}
+{"id": "UgpfbmJvOE8-t4672.0", "text": "The journalists, all the people who work in these office have the local, I mean, they have the language of the place they're in, and they have one of the six international global languages, they hear in one language, they give it out in the other without thinking, you know, just straight,", "start": 4672.0, "end": 4691.0}
+{"id": "UgpfbmJvOE8-t4691.0", "text": "that's how it then gets re-translated through these six pivot languages into all the other news languages of the world. Yes, things can go wrong. Yes, a false friend or a could start a war. It happened, in any case, the 1870 war between France and", "start": 4691.0, "end": 4713.0}
+{"id": "UgpfbmJvOE8-t4713.0", "text": "France and France, was sparked off by a mistranslation of the word adjutant. And if you want, I'll tell you the story. But anyway, those bloopers agree, there was once a list in the paper of all these UN bloopers like, you know, jurist prudence became Jewish prudence.", "start": 4713.0, "end": 4729.0}
+{"id": "UgpfbmJvOE8-t4729.0", "text": "Yeah, of course there are bloopers, of course mistakes happen. Whether they happen more in the transfer between languages than in the stumbles and muffs people make when speaking their own language because they do, I mean, you don't have to look very far to think of people who", "start": 4729.0, "end": 4748.0}
+{"id": "UgpfbmJvOE8-t4748.0", "text": "well claiming to speak English said the wrong thing. I'm not sure, I don't know whether you could ever measure that, but you know, it doesn't just say it's a problem of translation. It's a problem that actually communication is forever fraught with misunderstanding and misperformance and", "start": 4748.0, "end": 4765.0}
+{"id": "UgpfbmJvOE8-t4765.0", "text": "mis-mism-somethings. I don't know that we would necessarily want to say that the people who are doing this are not translators, I mean, they might not be professional translators, but that's how they...", "start": 4765.0, "end": 4772.0}
+{"id": "UgpfbmJvOE8-t4772.0", "text": "No, and that's probably not how they make their livelihood. But the fact is, as you said, they take it in one language and put it out in another because they're used to working between two languages all the time, and probably, although not to say mistakes are made, but are probably better placed and better versed to give you a slightly more accurate, at least paraphrase of what it is that they're taking and interpreting because they're following.", "start": 4772.0, "end": 4797.0}
+{"id": "UgpfbmJvOE8-t4797.0", "text": "That's the story they're following. The only time actual translators get involved in the news is when some international star journalist, like what's he called Anderson Cooper, flies into somewhere in the world to report on it, there he was professional translators.", "start": 4797.0, "end": 4815.0}
+{"id": "UgpfbmJvOE8-t4815.0", "text": "Oh, yeah, I think it was you on Anderson Cooper. Well, that was actually an interesting during the last week, I think, a day after what happened in Paris, Christian, I was watching CNN and Christian Almond, and I was watching CNN.", "start": 4815.0, "end": 4826.0}
+{"id": "UgpfbmJvOE8-t4826.0", "text": "And then Christian Almond, and Anderson Cooper were standing there, and Francois Hollande came on, and he started talking about what's happening, and they couldn't find their translator.", "start": 4826.0, "end": 4834.0}
+{"id": "UgpfbmJvOE8-t4834.0", "text": "It was fascinating because, Christian, she can speak French, and she was obviously... They were waiting for the translator to come, and I was like, I wonder if they've gone to the Lou or something.", "start": 4834.0, "end": 4842.0}
+{"id": "UgpfbmJvOE8-t4842.0", "text": "They couldn't find them in the building. And this already awkward kind of thing, where they wanted to know what was happening, and it was the president speaking, but they couldn't find anyone to translate it.", "start": 4842.0, "end": 4852.0}
+{"id": "UgpfbmJvOE8-t4852.0", "text": "And it was a really wonderful example of how important having your translator on staff.", "start": 4852.0, "end": 4857.0}
+{"id": "UgpfbmJvOE8-t4857.0", "text": "Well, it's a good example of how important your translator on staff is.", "start": 4857.0, "end": 4862.0}
+{"id": "UgpfbmJvOE8-t4862.0", "text": "The fact that that sort of glitch is rare, just underlines the fact that 99% of the news is not done that way.", "start": 4862.0, "end": 4869.0}
+{"id": "UgpfbmJvOE8-t4869.0", "text": "Right. It's only with your media stars that that ever arises.", "start": 4869.0, "end": 4875.0}
+{"id": "UgpfbmJvOE8-t4875.0", "text": "What translations from earlier versions of English to modern English? I mean, Beowulf, thank God for Sheamus Heaney, for example.", "start": 4875.0, "end": 4884.0}
+{"id": "UgpfbmJvOE8-t4884.0", "text": "But Canterbury Tales, the translations, in some sense, probably shouldn't be necessary.", "start": 4884.0, "end": 4891.0}
+{"id": "UgpfbmJvOE8-t4891.0", "text": "And now they're doing it with Shakespeare. Come on.", "start": 4891.0, "end": 4895.0}
+{"id": "UgpfbmJvOE8-t4895.0", "text": "What do you think about that kind of movement?", "start": 4895.0, "end": 4900.0}
+{"id": "UgpfbmJvOE8-t4900.0", "text": "Well, I think it could be fun, but I remember there was a famous poetry reading where Alan Ginsburg read to be or not to be,", "start": 4900.0, "end": 4920.0}
+{"id": "UgpfbmJvOE8-t4920.0", "text": "but in sort of like a howl sort of style. So man to be, not to be, that's a question, but that sort of thing.", "start": 4920.0, "end": 4931.0}
+{"id": "UgpfbmJvOE8-t4931.0", "text": "So that's what you mean, sort of that kind of, I don't know, it's okay.", "start": 4931.0, "end": 4936.0}
+{"id": "UgpfbmJvOE8-t4936.0", "text": "I think it actually points from a slightly different point of view.", "start": 4936.0, "end": 4940.0}
+{"id": "UgpfbmJvOE8-t4940.0", "text": "It points to one of the interesting phenomena is that the language of the translation keeps evolving and changing,", "start": 4940.0, "end": 4946.0}
+{"id": "UgpfbmJvOE8-t4946.0", "text": "but the language of the original at least up to a certain point stays the same, so that we can still read Shakespeare as Shakespeare wrote it.", "start": 4946.0, "end": 4954.0}
+{"id": "UgpfbmJvOE8-t4954.0", "text": "And most of us will get it, and we might have to look a few words up, or you might need a little gloss in the margins.", "start": 4954.0, "end": 4960.0}
+{"id": "UgpfbmJvOE8-t4960.0", "text": "And the Canterbury Tales, you can, like I read it when I was in college, you know, you manage Beowulf, maybe not quite so much,", "start": 4960.0, "end": 4967.0}
+{"id": "UgpfbmJvOE8-t4967.0", "text": "but the translations of Shakespeare into other languages or Chaucer are going to constantly evolve.", "start": 4967.0, "end": 4975.0}
+{"id": "UgpfbmJvOE8-t4975.0", "text": "And it's the same thing back. If you try to translate, I mean, Montaneans, you know, is a great example.", "start": 4975.0, "end": 4980.0}
+{"id": "UgpfbmJvOE8-t4980.0", "text": "Of course, Montaneans French now is moving slowly further and further away from contemporary French,", "start": 4980.0, "end": 4985.0}
+{"id": "UgpfbmJvOE8-t4985.0", "text": "although most French, you know, educated French people can read it in the original.", "start": 4985.0, "end": 4990.0}
+{"id": "UgpfbmJvOE8-t4990.0", "text": "But, well, you know you can. I mean, but the translations, you know, you can't translate it into the English of Montaneans time,", "start": 4990.0, "end": 4997.0}
+{"id": "UgpfbmJvOE8-t4997.0", "text": "because those John Florio, that's what he did, but it would sound very silly today.", "start": 4997.0, "end": 5001.0}
+{"id": "UgpfbmJvOE8-t5001.0", "text": "And I think that is what's an interesting thing, is that people often have a similar relationship to translations that they have to the so-called original,", "start": 5001.0, "end": 5007.0}
+{"id": "UgpfbmJvOE8-t5007.0", "text": "which makes originals and translations very interchangeable.", "start": 5007.0, "end": 5011.0}
+{"id": "UgpfbmJvOE8-t5011.0", "text": "For example, I remember the first translation when I read Don Quixote in English translation, I read it in Samuel Putton's version,", "start": 5011.0, "end": 5019.0}
+{"id": "UgpfbmJvOE8-t5019.0", "text": "and I just loved it, and I didn't like any version I came afterwards.", "start": 5019.0, "end": 5022.0}
+{"id": "UgpfbmJvOE8-t5022.0", "text": "And then I remember when Boorhay said, when he was very young, because he lived in an Anglo-Argentine house,", "start": 5022.0, "end": 5027.0}
+{"id": "UgpfbmJvOE8-t5027.0", "text": "he actually first read Don Quixote in English, and we read it in Spanish, he thought it was a lousy translation.", "start": 5027.0, "end": 5033.0}
+{"id": "UgpfbmJvOE8-t5033.0", "text": "So I mean, you know, it's like a very relative sense.", "start": 5033.0, "end": 5036.0}
+{"id": "UgpfbmJvOE8-t5036.0", "text": "I hardly sympathize with that.", "start": 5036.0, "end": 5039.0}
+{"id": "UgpfbmJvOE8-t5039.0", "text": "No.", "start": 5039.0, "end": 5040.0}
+{"id": "UgpfbmJvOE8-t5040.0", "text": "I think...", "start": 5040.0, "end": 5041.0}
+{"id": "UgpfbmJvOE8-t5041.0", "text": "He's a little Nabokio, a little like Nabokos.", "start": 5041.0, "end": 5043.0}
+{"id": "UgpfbmJvOE8-t5043.0", "text": "No, no, no, I think it is true that translations in other languages can make alive texts from past ages", "start": 5043.0, "end": 5053.0}
+{"id": "UgpfbmJvOE8-t5053.0", "text": "in a way that is very difficult and contentious to do in the source languages.", "start": 5053.0, "end": 5060.0}
+{"id": "UgpfbmJvOE8-t5060.0", "text": "And I know German students read Hegel in English translation.", "start": 5060.0, "end": 5064.0}
+{"id": "UgpfbmJvOE8-t5064.0", "text": "It's actually easier because translation is always up to a point explanatory,", "start": 5064.0, "end": 5072.0}
+{"id": "UgpfbmJvOE8-t5072.0", "text": "and particularly with philosophical texts, translations always have footnotes too.", "start": 5072.0, "end": 5076.0}
+{"id": "UgpfbmJvOE8-t5076.0", "text": "So it's actually easier for the German students to go in English than in German.", "start": 5076.0, "end": 5081.0}
+{"id": "UgpfbmJvOE8-t5081.0", "text": "And up to a point it's true of Freud as well.", "start": 5081.0, "end": 5084.0}
+{"id": "UgpfbmJvOE8-t5084.0", "text": "But the language is evolving.", "start": 5084.0, "end": 5087.0}
+{"id": "UgpfbmJvOE8-t5087.0", "text": "It's not such a good English follow.", "start": 5087.0, "end": 5089.0}
+{"id": "UgpfbmJvOE8-t5089.0", "text": "It's because the distance that translation gives you allows you to clarify,", "start": 5089.0, "end": 5092.0}
+{"id": "UgpfbmJvOE8-t5092.0", "text": "and of course it's translated later on.", "start": 5092.0, "end": 5095.0}
+{"id": "UgpfbmJvOE8-t5095.0", "text": "It's always later.", "start": 5095.0, "end": 5098.0}
+{"id": "UgpfbmJvOE8-t5098.0", "text": "So I have absolutely no problem with Beowulf and Chaucer and Shakespeare translated in the modern English,", "start": 5098.0, "end": 5104.0}
+{"id": "UgpfbmJvOE8-t5104.0", "text": "but I know other people do, and if they do, we'll learn French.", "start": 5104.0, "end": 5109.0}
+{"id": "UgpfbmJvOE8-t5109.0", "text": "And you can get the same effect by making it present.", "start": 5109.0, "end": 5115.0}
+{"id": "UgpfbmJvOE8-t5115.0", "text": "The really contentious one though that my interest you is the translation of the Torah into Hebrew.", "start": 5115.0, "end": 5122.0}
+{"id": "UgpfbmJvOE8-t5122.0", "text": "It's a project that's been going on for the last ten years,", "start": 5122.0, "end": 5128.0}
+{"id": "UgpfbmJvOE8-t5128.0", "text": "causing a great deal of conflict and disagreements,", "start": 5128.0, "end": 5132.0}
+{"id": "UgpfbmJvOE8-t5132.0", "text": "and people hot under the collar as to whether you can translate biblical Hebrew into modern Hebrew,", "start": 5132.0, "end": 5138.0}
+{"id": "UgpfbmJvOE8-t5138.0", "text": "and it divides Israel.", "start": 5138.0, "end": 5140.0}
+{"id": "UgpfbmJvOE8-t5140.0", "text": "I think it's fascinating because there, well you can imagine,", "start": 5140.0, "end": 5144.0}
+{"id": "UgpfbmJvOE8-t5144.0", "text": "the issues are even more complicated than with Shakespeare or Chaucer.", "start": 5144.0, "end": 5148.0}
+{"id": "UgpfbmJvOE8-t5148.0", "text": "And the distance, and the distance much longer.", "start": 5148.0, "end": 5153.0}
+{"id": "UgpfbmJvOE8-t5153.0", "text": "Quite, yep.", "start": 5153.0, "end": 5154.0}
+{"id": "UgpfbmJvOE8-t5154.0", "text": "I think it's also interesting knowing what the translators intent is when they take the translation.", "start": 5154.0, "end": 5158.0}
+{"id": "UgpfbmJvOE8-t5158.0", "text": "I mean, he and his Beowulf, which I'm really glad I had to teach it for a few semesters.", "start": 5158.0, "end": 5162.0}
+{"id": "UgpfbmJvOE8-t5162.0", "text": "And compared to the Beowulfs, I had to read or the Beow,", "start": 5162.0, "end": 5165.0}
+{"id": "UgpfbmJvOE8-t5165.0", "text": "I don't even know what translation was and when I did it.", "start": 5165.0, "end": 5167.0}
+{"id": "UgpfbmJvOE8-t5167.0", "text": "But it was very easy to teach, but Haney had a political project going on with his version of Beowulf,", "start": 5167.0, "end": 5172.0}
+{"id": "UgpfbmJvOE8-t5172.0", "text": "right?", "start": 5172.0, "end": 5173.0}
+{"id": "UgpfbmJvOE8-t5173.0", "text": "That he was very aware that he was a post-colonial subject", "start": 5173.0, "end": 5176.0}
+{"id": "UgpfbmJvOE8-t5176.0", "text": "coming to this great work of English literature,", "start": 5176.0, "end": 5178.0}
+{"id": "UgpfbmJvOE8-t5178.0", "text": "and he really wanted to open up the idea of this kind of hybridity in English-British identity,", "start": 5178.0, "end": 5183.0}
+{"id": "UgpfbmJvOE8-t5183.0", "text": "and even keeping some high-born English words in the translation and so on.", "start": 5183.0, "end": 5187.0}
+{"id": "UgpfbmJvOE8-t5187.0", "text": "And I think once you know what Haney is up to doing it,", "start": 5187.0, "end": 5191.0}
+{"id": "UgpfbmJvOE8-t5191.0", "text": "that makes it more interesting because it's obviously,", "start": 5191.0, "end": 5193.0}
+{"id": "UgpfbmJvOE8-t5193.0", "text": "it goes back to this idea of the translators as a reader, as an interpreter,", "start": 5193.0, "end": 5197.0}
+{"id": "UgpfbmJvOE8-t5197.0", "text": "as an explainer of the text.", "start": 5197.0, "end": 5199.0}
+{"id": "UgpfbmJvOE8-t5199.0", "text": "It's not the true Beowulf, it's Haney's Beowulf, you know?", "start": 5199.0, "end": 5203.0}
+{"id": "UgpfbmJvOE8-t5203.0", "text": "And I think that's what's fascinating about interplay between the translator and what they're up to", "start": 5203.0, "end": 5207.0}
+{"id": "UgpfbmJvOE8-t5207.0", "text": "and the context that they're translating in and so on with the text itself, I think, is really fascinating.", "start": 5207.0, "end": 5213.0}
+{"id": "UgpfbmJvOE8-t5213.0", "text": "Yeah, there was a similar case recently where a number of contemporary French novelists were asked to do books of the Bible,", "start": 5213.0, "end": 5220.0}
+{"id": "UgpfbmJvOE8-t5220.0", "text": "and they don't read the original, obviously, but they sort of were from a crib,", "start": 5220.0, "end": 5225.0}
+{"id": "UgpfbmJvOE8-t5225.0", "text": "and then took that and kind of retranslated it into their own idiom and their own voice as novelists,", "start": 5225.0, "end": 5231.0}
+{"id": "UgpfbmJvOE8-t5231.0", "text": "and Eshna was being one of them, actually. It was a fascinating project, but of course, you know,", "start": 5231.0, "end": 5236.0}
+{"id": "UgpfbmJvOE8-t5236.0", "text": "it moved like years away from what we tend to think of as the Bible, but it's a great exercise.", "start": 5236.0, "end": 5242.0}
+{"id": "UgpfbmJvOE8-t5242.0", "text": "Hi, thanks. This is really interesting.", "start": 5242.0, "end": 5246.0}
+{"id": "UgpfbmJvOE8-t5246.0", "text": "I have a question, I'm not sure how to articulate it, but I was noticing reading your brief bios that", "start": 5246.0, "end": 5251.0}
+{"id": "UgpfbmJvOE8-t5251.0", "text": "several of you are practicing translators also involved with biography,", "start": 5251.0, "end": 5256.0}
+{"id": "UgpfbmJvOE8-t5256.0", "text": "either of authors that you have translated or, and I'm just wondering,", "start": 5256.0, "end": 5261.0}
+{"id": "UgpfbmJvOE8-t5261.0", "text": "sort of if you want to say something about the dynamics there, I mean, is working on someone's text", "start": 5261.0, "end": 5266.0}
+{"id": "UgpfbmJvOE8-t5266.0", "text": "to making, you know, you're entering into their lives somehow and need to really get at it in another way,", "start": 5266.0, "end": 5271.0}
+{"id": "UgpfbmJvOE8-t5271.0", "text": "or did the biography come first, and then you felt like you needed to translate more of their work,", "start": 5271.0, "end": 5276.0}
+{"id": "UgpfbmJvOE8-t5276.0", "text": "just some thoughts on that, I guess.", "start": 5276.0, "end": 5279.0}
+{"id": "UgpfbmJvOE8-t5279.0", "text": "Well, I mean, my only work as a biographer was Manuel Puyig, and I actually knew him first as a translator,", "start": 5279.0, "end": 5286.0}
+{"id": "UgpfbmJvOE8-t5286.0", "text": "you know, and he actually was a very dear friend of mine, and I knew him quite well, so,", "start": 5286.0, "end": 5292.0}
+{"id": "UgpfbmJvOE8-t5292.0", "text": "but I think it's interesting, the relationship between translation and biography, because in some ways they're,", "start": 5292.0, "end": 5298.0}
+{"id": "UgpfbmJvOE8-t5298.0", "text": "you know, they have things in common, I mean, they both have an original that they're kind of competing with,", "start": 5298.0, "end": 5304.0}
+{"id": "UgpfbmJvOE8-t5304.0", "text": "or working with, or trying to deal with, you know, and so the biographer has, you know,", "start": 5304.0, "end": 5310.0}
+{"id": "UgpfbmJvOE8-t5310.0", "text": "and in the case of Puyig, for example, his first novel was very autobiographical, I mean,", "start": 5310.0, "end": 5315.0}
+{"id": "UgpfbmJvOE8-t5315.0", "text": "as a biographer I felt very challenged, I mean, how could I do a better job on his childhood that he had done", "start": 5315.0, "end": 5321.0}
+{"id": "UgpfbmJvOE8-t5321.0", "text": "and betrayed by Rita Hayworth, you know, as a fabulous autobiographical novel, so I think that some of the challenges", "start": 5321.0, "end": 5327.0}
+{"id": "UgpfbmJvOE8-t5327.0", "text": "are very similar between translation and biography, and I do think that, I do think a translator, from my point of view,", "start": 5327.0, "end": 5336.0}
+{"id": "UgpfbmJvOE8-t5336.0", "text": "is that, you know, I think it's a great position to be, to be the biographer, but there's also, you know,", "start": 5336.0, "end": 5342.0}
+{"id": "UgpfbmJvOE8-t5342.0", "text": "there's also problems of being too close to a subject as well, so it hasn't frozen cons.", "start": 5342.0, "end": 5348.0}
+{"id": "UgpfbmJvOE8-t5348.0", "text": "Guys, girls?", "start": 5348.0, "end": 5352.0}
+{"id": "UgpfbmJvOE8-t5352.0", "text": "Yeah, I mean, my one experience as biographer is under your butterm, and I think, I don't entirely remember", "start": 5352.0, "end": 5360.0}
+{"id": "UgpfbmJvOE8-t5360.0", "text": "at this point, but I think I actually started working on the biography before I'd ever translated him,", "start": 5360.0, "end": 5364.0}
+{"id": "UgpfbmJvOE8-t5364.0", "text": "although I was translating, I translated several of his books during the course of writing the biography,", "start": 5364.0, "end": 5369.0}
+{"id": "UgpfbmJvOE8-t5369.0", "text": "so there was this overlap, but I completely agree with Jill, which is that the, it's a work of interpretation", "start": 5369.0, "end": 5377.0}
+{"id": "UgpfbmJvOE8-t5377.0", "text": "in either case, and a work of translation into a different linguistic medium, whether it's, you know,", "start": 5377.0, "end": 5383.0}
+{"id": "UgpfbmJvOE8-t5383.0", "text": "the different language of French to English, or whatever it might be, or whether it's trying to translate the fact", "start": 5383.0, "end": 5390.0}
+{"id": "UgpfbmJvOE8-t5390.0", "text": "of someone's life in existence and thought into prose on the page, and of course, remember that, you know,", "start": 5390.0, "end": 5396.0}
+{"id": "UgpfbmJvOE8-t5396.0", "text": "in most cases, I mean, you were lucky enough to know Puyg, I never knew Botone, he died when I was nine years old.", "start": 5396.0, "end": 5402.0}
+{"id": "UgpfbmJvOE8-t5402.0", "text": "I think you were lucky, though.", "start": 5402.0, "end": 5404.0}
+{"id": "UgpfbmJvOE8-t5404.0", "text": "Well, in some cases, probably him.", "start": 5404.0, "end": 5407.0}
+{"id": "UgpfbmJvOE8-t5407.0", "text": "So my experience of him is also off the page.", "start": 5407.0, "end": 5409.0}
+{"id": "UgpfbmJvOE8-t5409.0", "text": "It was through the writings and words of people who had written about him, had known him, you know,", "start": 5409.0, "end": 5413.0}
+{"id": "UgpfbmJvOE8-t5413.0", "text": "told me story, I mean, all of that, but it's still through language, and it's a translation experience", "start": 5413.0, "end": 5418.0}
+{"id": "UgpfbmJvOE8-t5418.0", "text": "of filtering all of those words into some kind of a narrative that then seems to have, you know,", "start": 5418.0, "end": 5424.0}
+{"id": "UgpfbmJvOE8-t5424.0", "text": "that feels authentic to me from what I've been able to figure out, but the two definitely feed each other,", "start": 5424.0, "end": 5431.0}
+{"id": "UgpfbmJvOE8-t5431.0", "text": "because of course, as you know, as we all know in translating, the more you translate a particular author,", "start": 5431.0, "end": 5435.0}
+{"id": "UgpfbmJvOE8-t5435.0", "text": "the more you feel like you're penetrating into that person's mind through the words that they have written,", "start": 5435.0, "end": 5442.0}
+{"id": "UgpfbmJvOE8-t5442.0", "text": "and it's the same thing with putting together the facts of biography, that, you know, it's a similar kind of journey.", "start": 5442.0, "end": 5448.0}
+{"id": "UgpfbmJvOE8-t5448.0", "text": "It's just the end product, the end product is different, that's all.", "start": 5448.0, "end": 5451.0}
+{"id": "UgpfbmJvOE8-t5451.0", "text": "In my case, the biography of Puyg, that I did,", "start": 5451.0, "end": 5456.0}
+{"id": "UgpfbmJvOE8-t5456.0", "text": "I grew out of the translation in a very material anecdotal way, in that when life for users' manual appeared,", "start": 5456.0, "end": 5466.0}
+{"id": "UgpfbmJvOE8-t5466.0", "text": "it was rather successful, in fact, there was a little bit of a cult about it, and people kept asking me,", "start": 5466.0, "end": 5473.0}
+{"id": "UgpfbmJvOE8-t5473.0", "text": "you know, well, tell us about Josh Peric, you know, the author, and I don't actually know very much about him,", "start": 5473.0, "end": 5479.0}
+{"id": "UgpfbmJvOE8-t5479.0", "text": "and then this extraordinary London publisher ran me up and said, well, why don't you write a biography on that?", "start": 5479.0, "end": 5487.0}
+{"id": "UgpfbmJvOE8-t5487.0", "text": "And so I said, well, all right, I'd never done anything of the sort before, but as I said, you know,", "start": 5487.0, "end": 5494.0}
+{"id": "UgpfbmJvOE8-t5494.0", "text": "doing the translation was already not very proper where I was in the British system,", "start": 5494.0, "end": 5500.0}
+{"id": "UgpfbmJvOE8-t5500.0", "text": "writing a biography was absolute anathema, to my French colleagues,", "start": 5500.0, "end": 5504.0}
+{"id": "UgpfbmJvOE8-t5504.0", "text": "in France's biography was not held in high, it's been put in, so I thought, you know, I lose one line, I might as well lose the other.", "start": 5504.0, "end": 5511.0}
+{"id": "UgpfbmJvOE8-t5511.0", "text": "So it was rather special because Peric had died only a few years before, and he died rather young,", "start": 5511.0, "end": 5519.0}
+{"id": "UgpfbmJvOE8-t5519.0", "text": "and his cohorts, so to speak, his social cohort, were men and women in their 50s and 60s, so they were still around,", "start": 5519.0, "end": 5526.0}
+{"id": "UgpfbmJvOE8-t5526.0", "text": "and there was, obviously, there would be a great deal of material of a human kind, you know, people to talk to,", "start": 5526.0, "end": 5533.0}
+{"id": "UgpfbmJvOE8-t5533.0", "text": "and things will come out of bottom draws and so forth.", "start": 5533.0, "end": 5537.0}
+{"id": "UgpfbmJvOE8-t5537.0", "text": "So that's how that arose.", "start": 5537.0, "end": 5541.0}
+{"id": "UgpfbmJvOE8-t5541.0", "text": "But also, I mean, it wasn't just because I was egged on to do, but because when the idea was put to me,", "start": 5541.0, "end": 5547.0}
+{"id": "UgpfbmJvOE8-t5547.0", "text": "I thought, well, hey, it's important this be done as it were from outside of France,", "start": 5547.0, "end": 5553.0}
+{"id": "UgpfbmJvOE8-t5553.0", "text": "and not from anybody, you know, to already connected, it's important this bit that my somebody who actually knows the work of Peric,", "start": 5553.0, "end": 5560.0}
+{"id": "UgpfbmJvOE8-t5560.0", "text": "and when you've translated a big book like that, you do know it.", "start": 5560.0, "end": 5564.0}
+{"id": "UgpfbmJvOE8-t5564.0", "text": "Right, right.", "start": 5564.0, "end": 5566.0}
+{"id": "UgpfbmJvOE8-t5566.0", "text": "And I thought, well, you know, there really is only me who fits that bill at the moment,", "start": 5566.0, "end": 5572.0}
+{"id": "UgpfbmJvOE8-t5572.0", "text": "and I thought it was also important to be done quite quickly before all the material dispersed or got lost and so forth.", "start": 5572.0, "end": 5579.0}
+{"id": "UgpfbmJvOE8-t5579.0", "text": "So that's how that arose. The other viruses have done have nothing to do with my workers' translator,", "start": 5579.0, "end": 5583.0}
+{"id": "UgpfbmJvOE8-t5583.0", "text": "but that first one did.", "start": 5583.0, "end": 5586.0}
+{"id": "UgpfbmJvOE8-t5586.0", "text": "And I think somehow the impulse to translate and the impulse to write a biography can sometimes also be similar,", "start": 5586.0, "end": 5592.0}
+{"id": "UgpfbmJvOE8-t5592.0", "text": "I think in the case of Puyg, I mean, in the case of translation, you want to bring a text, make it alive,", "start": 5592.0, "end": 5600.0}
+{"id": "UgpfbmJvOE8-t5600.0", "text": "bring it back to life in another language, in a sense you want to somehow resuscitate a person.", "start": 5600.0, "end": 5606.0}
+{"id": "UgpfbmJvOE8-t5606.0", "text": "And I mean, obviously, Tareka died so young, and Puyg had also died tragically quite young.", "start": 5606.0, "end": 5610.0}
+{"id": "UgpfbmJvOE8-t5610.0", "text": "And there was a way in which I don't think he was actually totally understood.", "start": 5610.0, "end": 5613.0}
+{"id": "UgpfbmJvOE8-t5613.0", "text": "So there was a way in which you really want to do this.", "start": 5613.0, "end": 5616.0}
+{"id": "UgpfbmJvOE8-t5616.0", "text": "Yeah, so the impulse is pretty strong, I think.", "start": 5616.0, "end": 5619.0}
+{"id": "UgpfbmJvOE8-t5619.0", "text": "This is also an interesting new phenomenon, which is the biography of translators.", "start": 5619.0, "end": 5623.0}
+{"id": "UgpfbmJvOE8-t5623.0", "text": "Right, Barbara Wright, the book on Barbara Wright, and Michael Heim, and how much that gives to kind of literary history,", "start": 5623.0, "end": 5630.0}
+{"id": "UgpfbmJvOE8-t5630.0", "text": "I think is really interesting.", "start": 5630.0, "end": 5632.0}
+{"id": "UgpfbmJvOE8-t5632.0", "text": "That ought to be a new genre. The lives of the translators, because we know a little bit more now, but not a lot.", "start": 5632.0, "end": 5639.0}
+{"id": "UgpfbmJvOE8-t5639.0", "text": "There's a whole encyclopedia of lives of translators.", "start": 5639.0, "end": 5643.0}
+{"id": "UgpfbmJvOE8-t5643.0", "text": "Maybe you're right.", "start": 5643.0, "end": 5645.0}
+{"id": "UgpfbmJvOE8-t5645.0", "text": "Well, I'd love for a bit if they do mind.", "start": 5645.0, "end": 5649.0}
+{"id": "UgpfbmJvOE8-t5651.0", "text": "Hello, my name is Alex, I'm a grad translator from Czech, and speaking of translators,", "start": 5651.0, "end": 5657.0}
+{"id": "UgpfbmJvOE8-t5657.0", "text": "I have a question that's bringing it more into the realm of how culture views translation and translators as humans doing this work.", "start": 5657.0, "end": 5667.0}
+{"id": "UgpfbmJvOE8-t5667.0", "text": "There was a review of the new collected works of Primo Levy, which was just published by Live Right.", "start": 5667.0, "end": 5674.0}
+{"id": "UgpfbmJvOE8-t5674.0", "text": "Tim Parks wrote the review for New York Review of Books, and he himself translates and writes a lot about translation for that publication,", "start": 5674.0, "end": 5682.0}
+{"id": "UgpfbmJvOE8-t5682.0", "text": "which is a leading intellectual publication in this country.", "start": 5682.0, "end": 5686.0}
+{"id": "UgpfbmJvOE8-t5686.0", "text": "And somehow, though, he wrote a three-page review and mentioned not to mention the names of any of the translators in the review,", "start": 5686.0, "end": 5694.0}
+{"id": "UgpfbmJvOE8-t5694.0", "text": "and there are 10 of them.", "start": 5694.0, "end": 5696.0}
+{"id": "UgpfbmJvOE8-t5696.0", "text": "So that's interesting, but what's more interesting is that a translator wrote a comment on a blog post by Gregory Conte,", "start": 5696.0, "end": 5705.0}
+{"id": "UgpfbmJvOE8-t5705.0", "text": "who's himself an Italian translator. Gregory Conte pointed it out.", "start": 5705.0, "end": 5709.0}
+{"id": "UgpfbmJvOE8-t5709.0", "text": "A translator wrote a comment on the post about it. Tim Parks has now responded on that blog post.", "start": 5709.0, "end": 5715.0}
+{"id": "UgpfbmJvOE8-t5715.0", "text": "His first reaction was to be very defensive about the fact.", "start": 5715.0, "end": 5719.0}
+{"id": "UgpfbmJvOE8-t5719.0", "text": "And you have a lot of reviewers who say, I only have a certain word count.", "start": 5719.0, "end": 5724.0}
+{"id": "UgpfbmJvOE8-t5724.0", "text": "I don't have room to put in the translator at the page review, and the New York Review of Books can't make that claim, obviously.", "start": 5724.0, "end": 5730.0}
+{"id": "UgpfbmJvOE8-t5730.0", "text": "So I thought it was interesting that Tim Parks essentially made a similar claim saying, well, there are other things I wanted to talk about.", "start": 5730.0, "end": 5738.0}
+{"id": "UgpfbmJvOE8-t5738.0", "text": "And then when he was pushed with another comment from the translator on that blog post, his response was to denigrate the translations", "start": 5738.0, "end": 5745.0}
+{"id": "UgpfbmJvOE8-t5745.0", "text": "and saying, well, actually, some of them weren't really that good.", "start": 5745.0, "end": 5749.0}
+{"id": "UgpfbmJvOE8-t5749.0", "text": "And if I mentioned one translator's name, I had to mention another one. If I talked about one, I had to talk about the other.", "start": 5749.0, "end": 5755.0}
+{"id": "UgpfbmJvOE8-t5755.0", "text": "And I really didn't want to say anything bad about them.", "start": 5755.0, "end": 5759.0}
+{"id": "UgpfbmJvOE8-t5759.0", "text": "And I do recommend Gregory Conte.com. It's a blog post. It's worth reading.", "start": 5759.0, "end": 5764.0}
+{"id": "UgpfbmJvOE8-t5764.0", "text": "And I don't know exactly what the response is to it, but I'd like to know what you think is a good response to that,", "start": 5764.0, "end": 5770.0}
+{"id": "UgpfbmJvOE8-t5770.0", "text": "both as translators and as people who care about the role of translation in our culture.", "start": 5770.0, "end": 5776.0}
+{"id": "UgpfbmJvOE8-t5776.0", "text": "Very good question.", "start": 5776.0, "end": 5780.0}
+{"id": "UgpfbmJvOE8-t5780.0", "text": "I mean, I think if one wants to show respect for a translator, one should also point out where it doesn't work.", "start": 5780.0, "end": 5787.0}
+{"id": "UgpfbmJvOE8-t5787.0", "text": "I mean, I get it. Three pages in the New York Review is a lot, but there's also a lot to say about Primo Levy.", "start": 5787.0, "end": 5793.0}
+{"id": "UgpfbmJvOE8-t5793.0", "text": "So he perhaps didn't want to open that can of worms, but the fact is that, and one could easily fill those three pages only on the translations themselves.", "start": 5793.0, "end": 5803.0}
+{"id": "UgpfbmJvOE8-t5803.0", "text": "I don't know that you would have to go through every single one of the ten translators' works in detail to make your point.", "start": 5803.0, "end": 5809.0}
+{"id": "UgpfbmJvOE8-t5809.0", "text": "I think just mentioning a few of them would have been sufficient. And I think it is.", "start": 5809.0, "end": 5813.0}
+{"id": "UgpfbmJvOE8-t5813.0", "text": "It's a little disingenuous in this particular case because I know the editor who shepherded that project,", "start": 5813.0, "end": 5819.0}
+{"id": "UgpfbmJvOE8-t5819.0", "text": "but I also know some of the translators. This was a big undertaking that I don't think all of them were retranslated,", "start": 5819.0, "end": 5826.0}
+{"id": "UgpfbmJvOE8-t5826.0", "text": "but most of them were or translated for the first time.", "start": 5826.0, "end": 5828.0}
+{"id": "UgpfbmJvOE8-t5828.0", "text": "So the translation aspect of it was even more important than with a standard, you know, a novel for which you find a translator and then publish it.", "start": 5828.0, "end": 5836.0}
+{"id": "UgpfbmJvOE8-t5836.0", "text": "This was a project in which translation was part and parcel of the point because a number of those books had been available in English before some of them,", "start": 5836.0, "end": 5845.0}
+{"id": "UgpfbmJvOE8-t5845.0", "text": "and they had gone out of their way to retranslate them if they felt that the existing translation was not up to snuff.", "start": 5845.0, "end": 5850.0}
+{"id": "UgpfbmJvOE8-t5850.0", "text": "So not to take any account of that on Tim Parks' part, especially on the part of a translator practicing translator who's known as such,", "start": 5850.0, "end": 5857.0}
+{"id": "UgpfbmJvOE8-t5857.0", "text": "does seem a little bit peculiar.", "start": 5857.0, "end": 5860.0}
+{"id": "UgpfbmJvOE8-t5860.0", "text": "You know, and I mean, you know, it's not like I want to say if you can't say something good, if you can't say something bad about something, don't say anything.", "start": 5860.0, "end": 5867.0}
+{"id": "UgpfbmJvOE8-t5867.0", "text": "But, you know, but you should, you should be on, you know, to respect the work means to be honest about it.", "start": 5867.0, "end": 5875.0}
+{"id": "UgpfbmJvOE8-t5875.0", "text": "I'm sure some of the translations are very good and some of them were probably a little less so, and we deserve to hear his point of view on both.", "start": 5875.0, "end": 5881.0}
+{"id": "UgpfbmJvOE8-t5881.0", "text": "I think also there's very limited vocabulary by reviewers when they're reviewing translations.", "start": 5881.0, "end": 5889.0}
+{"id": "UgpfbmJvOE8-t5889.0", "text": "It seems to be, you know, if they mention the translator, it tends to be the same three or four words that they use.", "start": 5889.0, "end": 5895.0}
+{"id": "UgpfbmJvOE8-t5895.0", "text": "Right, right.", "start": 5895.0, "end": 5897.0}
+{"id": "UgpfbmJvOE8-t5897.0", "text": "And you wonder, you know, because thinking about the translation is a way to reading it, you know, to think about the issues in the novel or the poetry or the biography or whatever,", "start": 5897.0, "end": 5906.0}
+{"id": "UgpfbmJvOE8-t5906.0", "text": "and I think it's a real pity.", "start": 5906.0, "end": 5908.0}
+{"id": "UgpfbmJvOE8-t5908.0", "text": "And this lack of language ability, I think.", "start": 5908.0, "end": 5911.0}
+{"id": "UgpfbmJvOE8-t5911.0", "text": "I mean, I think that's one of the genres that is at least favorable is the review, you know, in terms of dealing with translation.", "start": 5911.0, "end": 5920.0}
+{"id": "UgpfbmJvOE8-t5920.0", "text": "I mean, and when you do see a good review of the translation, for example, the New Yorker had a very good discussion, I think, anyway, of the Russian translations, you know, where they really go into the reasons of why they're thinking this and that about each time.", "start": 5920.0, "end": 5932.0}
+{"id": "UgpfbmJvOE8-t5932.0", "text": "But then it's really interesting, but to say beautifully or skillfully or, you know, or smoothly, smoothly, fluently, enthusiastically.", "start": 5932.0, "end": 5943.0}
+{"id": "UgpfbmJvOE8-t5943.0", "text": "Oh, there's a lot of adverts.", "start": 5943.0, "end": 5946.0}
+{"id": "UgpfbmJvOE8-t5946.0", "text": "Just not not.", "start": 5946.0, "end": 5947.0}
+{"id": "UgpfbmJvOE8-t5947.0", "text": "Physiastically translated by.", "start": 5947.0, "end": 5949.0}
+{"id": "UgpfbmJvOE8-t5949.0", "text": "It doesn't mean very well, but they really enjoy it.", "start": 5949.0, "end": 5952.0}
+{"id": "UgpfbmJvOE8-t5952.0", "text": "But I think that, you know, you need a very, very knowledgeable reviewer, of course, and most of the reviewers don't know the original language.", "start": 5952.0, "end": 5961.0}
+{"id": "UgpfbmJvOE8-t5961.0", "text": "Most of the reviewers are probably taking an excellent opportunity to keep their mouth shut.", "start": 5961.0, "end": 5965.0}
+{"id": "UgpfbmJvOE8-t5965.0", "text": "That's pretty good.", "start": 5965.0, "end": 5966.0}
+{"id": "UgpfbmJvOE8-t5966.0", "text": "But that's why I have these mixed feelings, because the Tim Parks is quite the opposite, is that somebody who might even have been interesting as a commentator on the translation.", "start": 5966.0, "end": 5976.0}
+{"id": "UgpfbmJvOE8-t5976.0", "text": "That's right.", "start": 5976.0, "end": 5977.0}
+{"id": "UgpfbmJvOE8-t5977.0", "text": "From Italian, since he's, well, maybe it's because he's jealous and he wanted to be one of the translators too and wasn't all, I don't know.", "start": 5977.0, "end": 5986.0}
+{"id": "UgpfbmJvOE8-t5986.0", "text": "I mean, they're all sorts of funny stories behind it.", "start": 5986.0, "end": 5989.0}
+{"id": "UgpfbmJvOE8-t5989.0", "text": "Well, we are in a cycle, and I go clinic here.", "start": 5989.0, "end": 5992.0}
+{"id": "UgpfbmJvOE8-t5992.0", "text": "Yeah, yeah, yeah.", "start": 5992.0, "end": 5993.0}
+{"id": "UgpfbmJvOE8-t5993.0", "text": "And you know, sometimes you're...", "start": 5993.0, "end": 5996.0}
+{"id": "UgpfbmJvOE8-t5996.0", "text": "Tim Parks might not want to.", "start": 5996.0, "end": 5998.0}
+{"id": "UgpfbmJvOE8-t5998.0", "text": "Sometimes when you're too close to a project, you do want to talk about it, because it, yeah.", "start": 5998.0, "end": 6003.0}
+{"id": "UgpfbmJvOE8-t6003.0", "text": "But by and large, I am pleased when books that I've translated are read as books and not as translations.", "start": 6003.0, "end": 6016.0}
+{"id": "UgpfbmJvOE8-t6016.0", "text": "And they get reviewed by people who just take them for what they are.", "start": 6016.0, "end": 6020.0}
+{"id": "UgpfbmJvOE8-t6020.0", "text": "Oh, oh, that's great.", "start": 6020.0, "end": 6021.0}
+{"id": "UgpfbmJvOE8-t6021.0", "text": "And of course, I'm very vain as well, and I'd love them to have a paragraph at the bottom pointing out how brilliant the translator is.", "start": 6021.0, "end": 6028.0}
+{"id": "UgpfbmJvOE8-t6028.0", "text": "But it actually detracts from the main point when you get a good review of a book.", "start": 6028.0, "end": 6035.0}
+{"id": "UgpfbmJvOE8-t6035.0", "text": "It's not that I assume all readers are allergic to translation.", "start": 6035.0, "end": 6039.0}
+{"id": "UgpfbmJvOE8-t6039.0", "text": "It's that it switches the tone or the, you know, what the review is actually doing to get people interested in the book.", "start": 6039.0, "end": 6048.0}
+{"id": "UgpfbmJvOE8-t6048.0", "text": "So I speak with Fort Tung. I feel very mixed on this.", "start": 6048.0, "end": 6052.0}
+{"id": "UgpfbmJvOE8-t6052.0", "text": "It is very true. I mean, I remember once, you know, John Updike never mentioned, except in certain cases, the translator.", "start": 6052.0, "end": 6059.0}
+{"id": "UgpfbmJvOE8-t6059.0", "text": "But I remember feeling extremely flattered when he reviewed a translation.", "start": 6059.0, "end": 6064.0}
+{"id": "UgpfbmJvOE8-t6064.0", "text": "And I was like, oh, I'm going to talk about the style and quoted sentences.", "start": 6064.0, "end": 6070.0}
+{"id": "UgpfbmJvOE8-t6070.0", "text": "I was like, oh, wow, I was like a little mouse under the, I was just so wonderful.", "start": 6070.0, "end": 6075.0}
+{"id": "UgpfbmJvOE8-t6075.0", "text": "It is true. I mean, we kind of complained about the little advert that we got, you know, really leaved fluidly.", "start": 6075.0, "end": 6081.0}
+{"id": "UgpfbmJvOE8-t6081.0", "text": "But when you get down to it, thank goodness for that because normally speaking, if it's just a passing mention, that means all as well.", "start": 6081.0, "end": 6087.0}
+{"id": "UgpfbmJvOE8-t6087.0", "text": "When they do talk about the translations, nine times out of ten, it's in any detail as to go into how bad it is and all the mistakes you've made.", "start": 6087.0, "end": 6093.0}
+{"id": "UgpfbmJvOE8-t6093.0", "text": "So, you know, with very few exceptions. So in the way, I just assumed I'll go with the fluidly.", "start": 6093.0, "end": 6099.0}
+{"id": "UgpfbmJvOE8-t6099.0", "text": "Yeah, for sure.", "start": 6099.0, "end": 6100.0}
+{"id": "UgpfbmJvOE8-t6100.0", "text": "Yeah.", "start": 6100.0, "end": 6101.0}
+{"id": "UgpfbmJvOE8-t6101.0", "text": "I've been informed that we're coming to the end of our time.", "start": 6101.0, "end": 6107.0}
+{"id": "UgpfbmJvOE8-t6107.0", "text": "So unless somebody has something really that means a lot to them, I think that's it.", "start": 6107.0, "end": 6115.0}
+{"id": "UgpfbmJvOE8-t6115.0", "text": "And thank you. Anyone?", "start": 6115.0, "end": 6117.0}
+{"id": "UgpfbmJvOE8-t6117.0", "text": "Yeah.", "start": 6117.0, "end": 6118.0}
+{"id": "UgpfbmJvOE8-t6118.0", "text": "Thank you very much.", "start": 6118.0, "end": 6120.0}
+{"id": "UgpfbmJvOE8-t6120.0", "text": "Thank you very much.", "start": 6120.0, "end": 6123.0}
+{"id": "UgpfbmJvOE8-t6123.0", "text": "Thank you for coming.", "start": 6123.0, "end": 6151.0}

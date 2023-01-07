@@ -1,0 +1,995 @@
+{"id": "96dMj4pf2-I-t0.0", "text": "Welcome to this first of the poetry and music series.", "start": 0.0, "end": 7.8}
+{"id": "96dMj4pf2-I-t7.8", "text": "I'm Ed Nursecien, director of the center.", "start": 7.8, "end": 10.0}
+{"id": "96dMj4pf2-I-t10.0", "text": "David Pollens, who is in charge of the poetry program", "start": 10.0, "end": 20.0}
+{"id": "96dMj4pf2-I-t20.0", "text": "for the Helix Center will introduce today's program.", "start": 20.0, "end": 23.12}
+{"id": "96dMj4pf2-I-t23.12", "text": "And maybe he'll tell you something", "start": 23.12, "end": 24.400000000000002}
+{"id": "96dMj4pf2-I-t24.400000000000002", "text": "about what else he has planned.", "start": 24.400000000000002, "end": 25.7}
+{"id": "96dMj4pf2-I-t25.7", "text": "I don't know.", "start": 25.7, "end": 27.0}
+{"id": "96dMj4pf2-I-t27.0", "text": "He hasn't given me his copy of his comments.", "start": 27.0, "end": 33.86}
+{"id": "96dMj4pf2-I-t33.86", "text": "As I said yesterday, we are having a benefit", "start": 33.86, "end": 37.0}
+{"id": "96dMj4pf2-I-t37.0", "text": "at the end of the month.", "start": 37.0, "end": 38.120000000000005}
+{"id": "96dMj4pf2-I-t38.120000000000005", "text": "But those of you who can't come, any donation of any size", "start": 38.120000000000005, "end": 41.32}
+{"id": "96dMj4pf2-I-t41.32", "text": "is welcome.", "start": 41.32, "end": 42.56}
+{"id": "96dMj4pf2-I-t42.56", "text": "So with that, David.", "start": 42.56, "end": 46.0}
+{"id": "96dMj4pf2-I-t46.0", "text": "Thanks.", "start": 46.0, "end": 46.5}
+{"id": "96dMj4pf2-I-t46.5", "text": "Thanks, Ed.", "start": 46.5, "end": 48.120000000000005}
+{"id": "96dMj4pf2-I-t48.120000000000005", "text": "Well, as Ed mentioned, this is the first of our poetry events", "start": 48.120000000000005, "end": 51.480000000000004}
+{"id": "96dMj4pf2-I-t51.480000000000004", "text": "at Helix.", "start": 51.480000000000004, "end": 53.16}
+{"id": "96dMj4pf2-I-t53.16", "text": "And I'm David Pollens.", "start": 53.16, "end": 54.6}
+{"id": "96dMj4pf2-I-t54.6", "text": "And we have a committee of people who have been helping", "start": 54.6, "end": 57.160000000000004}
+{"id": "96dMj4pf2-I-t57.160000000000004", "text": "and providing suggestions.", "start": 57.160000000000004, "end": 58.88}
+{"id": "96dMj4pf2-I-t58.88", "text": "I'll mention their names.", "start": 58.88, "end": 61.0}
+{"id": "96dMj4pf2-I-t61.0", "text": "Heather Dubna, Rachel Haddis, Anne Rieleveen, and Polly", "start": 61.0, "end": 64.64}
+{"id": "96dMj4pf2-I-t64.64", "text": "Rosenweg are all in the poetry committee.", "start": 64.64, "end": 66.32000000000001}
+{"id": "96dMj4pf2-I-t66.32000000000001", "text": "And are all helping to organize the events.", "start": 66.32000000000001, "end": 69.84}
+{"id": "96dMj4pf2-I-t69.84", "text": "We're hoping to have three, possibly four more events", "start": 69.84, "end": 73.64}
+{"id": "96dMj4pf2-I-t73.64", "text": "between now and the summer.", "start": 73.64, "end": 77.28}
+{"id": "96dMj4pf2-I-t77.28", "text": "The next thing that'll be coming up in the winter", "start": 77.28, "end": 79.64}
+{"id": "96dMj4pf2-I-t79.64", "text": "is going to be a roundtable on classical Urdu poetry", "start": 79.64, "end": 82.72}
+{"id": "96dMj4pf2-I-t82.72", "text": "and Galib.", "start": 82.72, "end": 84.96}
+{"id": "96dMj4pf2-I-t84.96", "text": "And then a little bit later on in the spring,", "start": 84.96, "end": 87.24}
+{"id": "96dMj4pf2-I-t87.24", "text": "we're going to have a roundtable on ancient Mayan poetry", "start": 87.24, "end": 90.24}
+{"id": "96dMj4pf2-I-t90.24", "text": "in the Popul vote.", "start": 90.24, "end": 92.44}
+{"id": "96dMj4pf2-I-t92.44", "text": "And there are some other roundtables in the works.", "start": 92.44, "end": 94.16}
+{"id": "96dMj4pf2-I-t94.16", "text": "And we'll let you know about them as they develop.", "start": 94.16, "end": 98.28}
+{"id": "96dMj4pf2-I-t98.28", "text": "So we have two very special artists,", "start": 98.28, "end": 99.52}
+{"id": "96dMj4pf2-I-t99.52", "text": "and with us today, Sean Singer, who", "start": 99.52, "end": 102.32}
+{"id": "96dMj4pf2-I-t102.32", "text": "won the Yell Younger Poets Prize and the Norma Farber Award", "start": 102.32, "end": 105.2}
+{"id": "96dMj4pf2-I-t105.2", "text": "from the Poetry Society of America for a first book of poems.", "start": 105.2, "end": 109.52}
+{"id": "96dMj4pf2-I-t109.52", "text": "And Lewis Porter, a wonderful, wonderful jazz", "start": 109.52, "end": 112.0}
+{"id": "96dMj4pf2-I-t112.0", "text": "musician and preeminent jazz musicologist.", "start": 112.0, "end": 115.4}
+{"id": "96dMj4pf2-I-t115.4", "text": "Did you bring CDs with you today?", "start": 115.4, "end": 116.8}
+{"id": "96dMj4pf2-I-t116.8", "text": "Or?", "start": 116.8, "end": 117.8}
+{"id": "96dMj4pf2-I-t117.8", "text": "No?", "start": 117.8, "end": 118.8}
+{"id": "96dMj4pf2-I-t118.8", "text": "I have certain that car.", "start": 118.8, "end": 121.0}
+{"id": "96dMj4pf2-I-t121.0", "text": "OK, well, the Coltrane Biographies.", "start": 121.0, "end": 123.48}
+{"id": "96dMj4pf2-I-t123.48", "text": "I can go.", "start": 123.48, "end": 124.32}
+{"id": "96dMj4pf2-I-t124.32", "text": "I can go get it.", "start": 124.32, "end": 124.96000000000001}
+{"id": "96dMj4pf2-I-t124.96000000000001", "text": "OK, the Coltrane Biography is on sale outside.", "start": 124.96000000000001, "end": 127.4}
+{"id": "96dMj4pf2-I-t127.4", "text": "And so is Sean Singer's book of poems.", "start": 127.4, "end": 130.16}
+{"id": "96dMj4pf2-I-t130.16", "text": "So if you're interested, please, please buy them.", "start": 130.16, "end": 134.6}
+{"id": "96dMj4pf2-I-t134.6", "text": "So I'll segue poetically to their collaboration today.", "start": 134.6, "end": 140.92000000000002}
+{"id": "96dMj4pf2-I-t140.92", "text": "I wonder if they'll help us to answer a question posed", "start": 140.92, "end": 143.32}
+{"id": "96dMj4pf2-I-t143.32", "text": "by Sean in his poem inside the Keith Jarrett Trio.", "start": 143.32, "end": 147.0}
+{"id": "96dMj4pf2-I-t147.0", "text": "He asks, how does a hollow bone in your head", "start": 147.0, "end": 151.32}
+{"id": "96dMj4pf2-I-t151.32", "text": "trace clear purple wavelets from waves of pain?", "start": 151.32, "end": 156.27999999999997}
+{"id": "96dMj4pf2-I-t156.27999999999997", "text": "So we're going to go for about an hour and 15 minutes.", "start": 156.27999999999997, "end": 158.83999999999997}
+{"id": "96dMj4pf2-I-t158.83999999999997", "text": "And we'll stop, and we'll have participation, questions,", "start": 158.83999999999997, "end": 161.79999999999998}
+{"id": "96dMj4pf2-I-t161.79999999999998", "text": "comments from the audience.", "start": 161.79999999999998, "end": 163.35999999999999}
+{"id": "96dMj4pf2-I-t163.35999999999999", "text": "Thank you very much.", "start": 163.35999999999999, "end": 164.04}
+{"id": "96dMj4pf2-I-t167.79999999999998", "text": "OK, thanks for coming.", "start": 167.79999999999998, "end": 169.16}
+{"id": "96dMj4pf2-I-t169.16", "text": "Nice to see you.", "start": 169.16, "end": 171.92}
+{"id": "96dMj4pf2-I-t171.92", "text": "Shall we just start?", "start": 171.92, "end": 172.92}
+{"id": "96dMj4pf2-I-t178.0", "text": "The old record rolled out of the hot machine,", "start": 178.0, "end": 181.76}
+{"id": "96dMj4pf2-I-t181.76", "text": "the scully automated lathe covered in oil.", "start": 181.76, "end": 185.35999999999999}
+{"id": "96dMj4pf2-I-t185.35999999999999", "text": "Rigged to the metal ends, dying of spin, metal on black,", "start": 185.35999999999999, "end": 189.12}
+{"id": "96dMj4pf2-I-t189.12", "text": "back to back thimbleweights, diamond", "start": 189.12, "end": 191.04}
+{"id": "96dMj4pf2-I-t191.04", "text": "and rinse to a new shine, lunge and pull into circles,", "start": 191.04, "end": 194.68}
+{"id": "96dMj4pf2-I-t194.68", "text": "100 grooves to the centimeter, calling it vinyl midnight candle,", "start": 194.68, "end": 198.4}
+{"id": "96dMj4pf2-I-t198.4", "text": "drops onto the place with the push of the night", "start": 198.4, "end": 200.88}
+{"id": "96dMj4pf2-I-t200.88", "text": "gift-figous turping needle, a bell-crank lead plant resting", "start": 200.88, "end": 205.04000000000002}
+{"id": "96dMj4pf2-I-t205.04000000000002", "text": "in a red scissor over the lumps of steel,", "start": 205.04000000000002, "end": 207.52}
+{"id": "96dMj4pf2-I-t207.52", "text": "then rising with rustle smoke, jazz dust,", "start": 207.52, "end": 210.84}
+{"id": "96dMj4pf2-I-t210.84", "text": "rumbly with the blues, the old rumor", "start": 210.84, "end": 213.04000000000002}
+{"id": "96dMj4pf2-I-t213.04000000000002", "text": "monger taking us to the juke, the bambara word that is wicked.", "start": 213.04000000000002, "end": 217.92000000000002}
+{"id": "96dMj4pf2-I-t217.92000000000002", "text": "Douncing resin polymer, lost to the racy's stuff.", "start": 217.92000000000002, "end": 221.92000000000002}
+{"id": "96dMj4pf2-I-t221.92000000000002", "text": "Baby, she got a phonograph.", "start": 221.92000000000002, "end": 223.72}
+{"id": "96dMj4pf2-I-t223.72", "text": "Won't say alone some word.", "start": 223.72, "end": 225.68}
+{"id": "96dMj4pf2-I-t225.68", "text": "Would evil have I done?", "start": 225.68, "end": 228.16}
+{"id": "96dMj4pf2-I-t228.16", "text": "Would evil as the poor girl heard?", "start": 228.16, "end": 230.64000000000001}
+{"id": "96dMj4pf2-I-t230.64000000000001", "text": "Louderford.", "start": 230.64000000000001, "end": 232.64000000000001}
+{"id": "96dMj4pf2-I-t232.64", "text": "OK.", "start": 232.64, "end": 257.68}
+{"id": "96dMj4pf2-I-t257.68", "text": "OK.", "start": 257.68, "end": 259.88}
+{"id": "96dMj4pf2-I-t259.88", "text": "That's fine.", "start": 259.88, "end": 262.08}
+{"id": "96dMj4pf2-I-t262.08", "text": "I should yell.", "start": 262.08, "end": 263.08}
+{"id": "96dMj4pf2-I-t263.08", "text": "Nice to yell.", "start": 263.08, "end": 264.08}
+{"id": "96dMj4pf2-I-t264.08", "text": "OK.", "start": 264.08, "end": 265.08}
+{"id": "96dMj4pf2-I-t265.08", "text": "OK.", "start": 265.08, "end": 266.08}
+{"id": "96dMj4pf2-I-t266.08", "text": "OK.", "start": 266.08, "end": 291.08}
+{"id": "96dMj4pf2-I-t291.08", "text": "Photo of Coltrane, 1963.", "start": 291.08, "end": 294.08}
+{"id": "96dMj4pf2-I-t294.08", "text": "Otherworldly and outreaching, a pernastis of noise with the serious", "start": 294.08, "end": 298.88}
+{"id": "96dMj4pf2-I-t298.88", "text": "clint of anestimal worry on his face.", "start": 298.88, "end": 301.08}
+{"id": "96dMj4pf2-I-t301.08", "text": "O Coltrane, what will rank for your pious gleaming and trillion", "start": 301.08, "end": 305.08}
+{"id": "96dMj4pf2-I-t305.08", "text": "euphonia?", "start": 305.08, "end": 306.08}
+{"id": "96dMj4pf2-I-t306.08", "text": "So capable, swift with no trace, no trace of stillness.", "start": 306.08, "end": 311.08}
+{"id": "96dMj4pf2-I-t311.08", "text": "The blur of the gray, gray, and gree-gree flows", "start": 311.08, "end": 314.08}
+{"id": "96dMj4pf2-I-t314.08", "text": "onward to the black bell of the saxophone, with cylinder of joy,", "start": 314.08, "end": 318.08}
+{"id": "96dMj4pf2-I-t318.08", "text": "and in purple sea of heaven, ebbing into hell.", "start": 318.08, "end": 322.08}
+{"id": "96dMj4pf2-I-t322.08", "text": "OK.", "start": 322.08, "end": 324.08}
+{"id": "96dMj4pf2-I-t324.08", "text": "I'll try to do that.", "start": 324.08, "end": 329.08}
+{"id": "96dMj4pf2-I-t329.08", "text": "It's a small place here.", "start": 329.08, "end": 337.08}
+{"id": "96dMj4pf2-I-t337.08", "text": "OK.", "start": 337.08, "end": 338.08}
+{"id": "96dMj4pf2-I-t338.08", "text": "You can maybe even not be able to find the view.", "start": 338.08, "end": 343.08}
+{"id": "96dMj4pf2-I-t343.08", "text": "I should use the natural value of the piano.", "start": 343.08, "end": 352.08}
+{"id": "96dMj4pf2-I-t352.08", "text": "That would be very good.", "start": 352.08, "end": 357.08}
+{"id": "96dMj4pf2-I-t357.08", "text": "Oh, you don't want to hit it?", "start": 357.08, "end": 362.08}
+{"id": "96dMj4pf2-I-t362.08", "text": "Yeah.", "start": 362.08, "end": 363.08}
+{"id": "96dMj4pf2-I-t363.08", "text": "I said, Janie.", "start": 363.08, "end": 364.08}
+{"id": "96dMj4pf2-I-t364.08", "text": "Can you put your picture for every being I know?", "start": 364.08, "end": 367.08}
+{"id": "96dMj4pf2-I-t367.08", "text": "It's a piece of light.", "start": 367.08, "end": 370.08}
+{"id": "96dMj4pf2-I-t370.08", "text": "OK.", "start": 370.08, "end": 373.08}
+{"id": "96dMj4pf2-I-t373.08", "text": "Sound check before the next poem.", "start": 373.08, "end": 376.08}
+{"id": "96dMj4pf2-I-t376.08", "text": "You need to see this clearer?", "start": 376.08, "end": 379.08}
+{"id": "96dMj4pf2-I-t379.08", "text": "OK.", "start": 379.08, "end": 380.08}
+{"id": "96dMj4pf2-I-t380.08", "text": "I'll do it with me.", "start": 380.08, "end": 383.08}
+{"id": "96dMj4pf2-I-t383.08", "text": "OK.", "start": 383.08, "end": 384.08}
+{"id": "96dMj4pf2-I-t384.08", "text": "Billie later.", "start": 384.08, "end": 394.08}
+{"id": "96dMj4pf2-I-t394.08", "text": "Boons etch themselves above and below, drink sober lungfuls of hush.", "start": 394.08, "end": 400.08}
+{"id": "96dMj4pf2-I-t400.08", "text": "Blood soap and well, the threadbare noises of an amber tube and a bird.", "start": 400.08, "end": 405.08}
+{"id": "96dMj4pf2-I-t405.08", "text": "Welcome to the district of snow loneliness.", "start": 405.08, "end": 408.08}
+{"id": "96dMj4pf2-I-t408.08", "text": "My list.", "start": 408.08, "end": 409.08}
+{"id": "96dMj4pf2-I-t409.08", "text": "A towel for redness, taboos for my dolls, spasms of a man,", "start": 409.08, "end": 414.08}
+{"id": "96dMj4pf2-I-t414.08", "text": "something emerges from a cord, a pigeon egg, a snow-silent, resilient secret,", "start": 414.08, "end": 419.08}
+{"id": "96dMj4pf2-I-t419.08", "text": "holding its hand toward you, holding its pink spotlight,", "start": 419.08, "end": 422.08}
+{"id": "96dMj4pf2-I-t422.08", "text": "finding a Roosevelt dime.", "start": 422.08, "end": 424.08}
+{"id": "96dMj4pf2-I-t424.08", "text": "I wake up to a new sun, a clear and tender quiet in each bone.", "start": 424.08, "end": 432.08}
+{"id": "96dMj4pf2-I-t432.08", "text": "Billie blew his momma's chinaberry tree, angry since the big being card,", "start": 432.08, "end": 436.08}
+{"id": "96dMj4pf2-I-t436.08", "text": "and not in the early black, back of the club so thick with smoke,", "start": 436.08, "end": 439.08}
+{"id": "96dMj4pf2-I-t439.08", "text": "and lady up front blowing blues till my hair hurts,", "start": 439.08, "end": 441.08}
+{"id": "96dMj4pf2-I-t441.08", "text": "spurts of shying some tiny trouble you know.", "start": 441.08, "end": 444.08}
+{"id": "96dMj4pf2-I-t444.08", "text": "In the black fracture of night, she's back,", "start": 444.08, "end": 446.08}
+{"id": "96dMj4pf2-I-t446.08", "text": "hopped on cutie killer, diller faced like a brown egg,", "start": 446.08, "end": 448.08}
+{"id": "96dMj4pf2-I-t448.08", "text": "begging the black like Jack the bear.", "start": 448.08, "end": 450.08}
+{"id": "96dMj4pf2-I-t450.08", "text": "Their lady baby, color of a chocolate dress,", "start": 450.08, "end": 452.08}
+{"id": "96dMj4pf2-I-t452.08", "text": "juicy Lucy the Shazam, do a bank bang outflose,", "start": 452.08, "end": 455.08}
+{"id": "96dMj4pf2-I-t455.08", "text": "as she called yes.", "start": 455.08, "end": 457.08}
+{"id": "96dMj4pf2-I-t460.08", "text": "I had too many husbands.", "start": 460.08, "end": 461.08}
+{"id": "96dMj4pf2-I-t461.08", "text": "Last one beat me black and blue,", "start": 461.08, "end": 463.08}
+{"id": "96dMj4pf2-I-t463.08", "text": "and he was out the door, he said,", "start": 463.08, "end": 465.08}
+{"id": "96dMj4pf2-I-t465.08", "text": "baby better me than you.", "start": 465.08, "end": 467.08}
+{"id": "96dMj4pf2-I-t467.08", "text": "I got good in trunk, I couldn't even see.", "start": 467.08, "end": 470.08}
+{"id": "96dMj4pf2-I-t470.08", "text": "No matter how much money I make, I've never been free.", "start": 470.08, "end": 473.08}
+{"id": "96dMj4pf2-I-t473.08", "text": "He used to stay out late, now he don't come home at all.", "start": 473.08, "end": 476.08}
+{"id": "96dMj4pf2-I-t476.08", "text": "I know by that there's another mule kicking in my stall.", "start": 476.08, "end": 479.08}
+{"id": "96dMj4pf2-I-t479.08", "text": "If you don't like my ocean, don't fish in my sea,", "start": 479.08, "end": 483.08}
+{"id": "96dMj4pf2-I-t483.08", "text": "stay out of my valley and let my mountain be.", "start": 483.08, "end": 486.08}
+{"id": "96dMj4pf2-I-t486.08", "text": "Let me be your rag doll until you're trying to come.", "start": 486.08, "end": 490.08}
+{"id": "96dMj4pf2-I-t490.08", "text": "If you beat me, ragged, I've got to beat you some.", "start": 490.08, "end": 493.08}
+{"id": "96dMj4pf2-I-t493.08", "text": "If he walks out the door, he won't be gone long.", "start": 493.08, "end": 497.08}
+{"id": "96dMj4pf2-I-t497.08", "text": "I'll be up on the stage in my needle of song.", "start": 497.08, "end": 515.0799999999999}
+{"id": "96dMj4pf2-I-t515.08", "text": "I'll be up on the stage in my song.", "start": 515.08, "end": 538.08}
+{"id": "96dMj4pf2-I-t538.08", "text": "I'll be up on the stage in my song.", "start": 538.08, "end": 567.08}
+{"id": "96dMj4pf2-I-t567.08", "text": "Scott Joplin.", "start": 567.08, "end": 571.08}
+{"id": "96dMj4pf2-I-t571.08", "text": "Son of a slave, your birthday is no more exact than a petal.", "start": 571.08, "end": 575.08}
+{"id": "96dMj4pf2-I-t575.08", "text": "Sunflower, you have no need to worry.", "start": 575.08, "end": 578.08}
+{"id": "96dMj4pf2-I-t578.08", "text": "Your piano rolls have played in middle and upper class homes.", "start": 578.08, "end": 582.08}
+{"id": "96dMj4pf2-I-t582.08", "text": "Maple leaf, across the plains, where is gold, we worry.", "start": 582.08, "end": 586.08}
+{"id": "96dMj4pf2-I-t586.08", "text": "Neither improvise nor play blues, but compose.", "start": 586.08, "end": 589.08}
+{"id": "96dMj4pf2-I-t589.08", "text": "Chrysanthemum, our ways of living differ, like worry.", "start": 589.08, "end": 593.08}
+{"id": "96dMj4pf2-I-t593.08", "text": "The weaponized and visible boundaries of America keep you.", "start": 593.08, "end": 597.08}
+{"id": "96dMj4pf2-I-t597.08", "text": "Eugenia, there is a reason to worry.", "start": 597.08, "end": 600.08}
+{"id": "96dMj4pf2-I-t600.08", "text": "You were composing, but not recording, only rolls with holes.", "start": 600.08, "end": 604.08}
+{"id": "96dMj4pf2-I-t604.08", "text": "Lily Queen, others have been pieces of worry.", "start": 604.08, "end": 608.08}
+{"id": "96dMj4pf2-I-t608.08", "text": "The reason you asked and the reason I don't have the answer is the same.", "start": 608.08, "end": 612.08}
+{"id": "96dMj4pf2-I-t612.08", "text": "Heliotrope, let's just not worry.", "start": 612.08, "end": 615.08}
+{"id": "96dMj4pf2-I-t615.08", "text": "Sifliss with his attendant dementia, paranoia, paralysis, pineapple,", "start": 615.08, "end": 620.08}
+{"id": "96dMj4pf2-I-t620.08", "text": "your leaves each fear and heave toward worry.", "start": 620.08, "end": 624.08}
+{"id": "96dMj4pf2-I-t740.08", "text": "From bone magic, the exeigencies of an interval, Igor Stravinsky.", "start": 740.08, "end": 753.08}
+{"id": "96dMj4pf2-I-t753.08", "text": "Ory's gooey nasty bone style with its slurs, gloss and muskrette does", "start": 753.08, "end": 759.08}
+{"id": "96dMj4pf2-I-t759.08", "text": "reveals a muskrette in Aquatic Rodin and its fur all Louisiana", "start": 759.08, "end": 763.08}
+{"id": "96dMj4pf2-I-t763.08", "text": "industry before worry relocated to Los Angeles.", "start": 763.08, "end": 767.08}
+{"id": "96dMj4pf2-I-t767.08", "text": "Thoreau described their nests not as things, but as dwellings, the border of", "start": 767.08, "end": 771.08}
+{"id": "96dMj4pf2-I-t771.08", "text": "Habitat and town.", "start": 771.08, "end": 773.08}
+{"id": "96dMj4pf2-I-t773.08", "text": "The theme beneath the soly on dropping shocks, with corn shocks and their outside", "start": 773.08, "end": 778.08}
+{"id": "96dMj4pf2-I-t778.08", "text": "maze used for toilet paper.", "start": 778.08, "end": 780.08}
+{"id": "96dMj4pf2-I-t780.08", "text": "Lil' Hardin's feelings were avenged during their divorce, dropping them on", "start": 780.08, "end": 784.08}
+{"id": "96dMj4pf2-I-t784.08", "text": "Louis' head.", "start": 784.08, "end": 786.08}
+{"id": "96dMj4pf2-I-t786.08", "text": "The raw umbrella, a bone facing backwards on a horse-drawn cart when the", "start": 786.08, "end": 791.08}
+{"id": "96dMj4pf2-I-t791.08", "text": "sun sets there is not to do.", "start": 791.08, "end": 793.08}
+{"id": "96dMj4pf2-I-t793.08", "text": "I saw you with your sweet man last night and I know you wasn't true.", "start": 793.08, "end": 798.08}
+{"id": "96dMj4pf2-I-t823.08", "text": "Just for you, low powdered color through a straw.", "start": 823.08, "end": 832.08}
+{"id": "96dMj4pf2-I-t832.08", "text": "From the cave's vantage, feel the trestles and palms.", "start": 832.08, "end": 836.08}
+{"id": "96dMj4pf2-I-t836.08", "text": "Be the flash lab, see a ball slow above the plate.", "start": 836.08, "end": 840.08}
+{"id": "96dMj4pf2-I-t840.08", "text": "Be the flesh lab too, the cream of your neck, the portion near the ear.", "start": 840.08, "end": 844.08}
+{"id": "96dMj4pf2-I-t844.08", "text": "Use your stylus, have no direct hand contact.", "start": 844.08, "end": 848.08}
+{"id": "96dMj4pf2-I-t848.08", "text": "Recall that utopia literally means not a place.", "start": 848.08, "end": 852.08}
+{"id": "96dMj4pf2-I-t852.08", "text": "Punishment, right, I will not write this poem a thousand times in a wall.", "start": 852.08, "end": 857.08}
+{"id": "96dMj4pf2-I-t857.08", "text": "Then hinge that wall or singe it.", "start": 857.08, "end": 860.08}
+{"id": "96dMj4pf2-I-t860.08", "text": "I think of Maxine sometimes, her inky bob, Ramones tea and negative definitions.", "start": 860.08, "end": 866.08}
+{"id": "96dMj4pf2-I-t866.08", "text": "We would ride her blue Toyota behind the dunes.", "start": 866.08, "end": 869.08}
+{"id": "96dMj4pf2-I-t869.08", "text": "Clear cell cancer killed her years ago.", "start": 869.08, "end": 872.08}
+{"id": "96dMj4pf2-I-t872.08", "text": "She would take my hand in the mid-grade mall and we saw our liquid happiness", "start": 872.08, "end": 877.08}
+{"id": "96dMj4pf2-I-t877.08", "text": "rising through bodies.", "start": 877.08, "end": 884.08}
+{"id": "96dMj4pf2-I-t967.08", "text": "Mountainous black garden.", "start": 967.08, "end": 988.08}
+{"id": "96dMj4pf2-I-t988.08", "text": "What good is intelligence if you cannot discover a useful melancholy?", "start": 988.08, "end": 995.08}
+{"id": "96dMj4pf2-I-t995.08", "text": "Reading grapefruit, pray and fake grief.", "start": 995.08, "end": 998.08}
+{"id": "96dMj4pf2-I-t998.08", "text": "Put on floret african and her arm drapes onto steel fibers along nerves.", "start": 998.08, "end": 1004.08}
+{"id": "96dMj4pf2-I-t1004.08", "text": "Her love fills the zinc bottle of its own body.", "start": 1004.08, "end": 1008.08}
+{"id": "96dMj4pf2-I-t1008.08", "text": "Peel me a woody base, wick the piano away from the sweet peak of Duke's pumade.", "start": 1008.08, "end": 1015.08}
+{"id": "96dMj4pf2-I-t1015.08", "text": "Black can be quiet and contain the whole thing.", "start": 1015.08, "end": 1019.08}
+{"id": "96dMj4pf2-I-t1019.08", "text": "What is a part, what is a part and not hard and hard and not a part?", "start": 1019.08, "end": 1036.08}
+{"id": "96dMj4pf2-I-t1036.08", "text": "Welding Irvine, 1943 to 2002.", "start": 1036.08, "end": 1041.08}
+{"id": "96dMj4pf2-I-t1041.08", "text": "Please forgive the long silence.", "start": 1041.08, "end": 1044.08}
+{"id": "96dMj4pf2-I-t1044.08", "text": "In my gut, which is the blue flame of the stovetop, the broken lands of fear", "start": 1044.08, "end": 1049.08}
+{"id": "96dMj4pf2-I-t1049.08", "text": "quakes my liver and my name means not celebration and critique, but concealment", "start": 1049.08, "end": 1054.08}
+{"id": "96dMj4pf2-I-t1054.08", "text": "with the dogon called Obea.", "start": 1054.08, "end": 1058.08}
+{"id": "96dMj4pf2-I-t1058.08", "text": "And so I take myself into myself, that long ribbon folded inside the cowry shell.", "start": 1058.08, "end": 1064.08}
+{"id": "96dMj4pf2-I-t1064.08", "text": "I'm a massive animal.", "start": 1064.08, "end": 1066.08}
+{"id": "96dMj4pf2-I-t1066.08", "text": "The torsion in the muscles of my neck serve up the image of a malcontented demon.", "start": 1066.08, "end": 1071.08}
+{"id": "96dMj4pf2-I-t1071.08", "text": "And I suck my own grave through my sinuous mantle groove.", "start": 1071.08, "end": 1076.08}
+{"id": "96dMj4pf2-I-t1252.08", "text": "First, tar's vinegar warmth euphoria nodding off, followed by automat cheeseburgers in vanilla milkshake.", "start": 1252.08, "end": 1259.08}
+{"id": "96dMj4pf2-I-t1259.08", "text": "The only black kid in the school picture far away swim look in the thread of his eye.", "start": 1259.08, "end": 1265.08}
+{"id": "96dMj4pf2-I-t1265.08", "text": "Japanese love cool struttin, white legs, black A-line fifth avenue.", "start": 1265.08, "end": 1270.08}
+{"id": "96dMj4pf2-I-t1270.08", "text": "As demons douse metallic nodules, a stylus pins, cold porter and a Pullman quarter.", "start": 1270.08, "end": 1277.08}
+{"id": "96dMj4pf2-I-t1277.08", "text": "What seems like a right hand with blue tabula is actually sunny Clark,", "start": 1277.08, "end": 1282.08}
+{"id": "96dMj4pf2-I-t1282.08", "text": "waking up from his vomit when he sees what he's leaving behind.", "start": 1282.08, "end": 1286.08}
+{"id": "96dMj4pf2-I-t1286.08", "text": "Only the right cord is perfect labor.", "start": 1286.08, "end": 1289.08}
+{"id": "96dMj4pf2-I-t1289.08", "text": "Everything with sunny Clark is weakness.", "start": 1289.08, "end": 1292.08}
+{"id": "96dMj4pf2-I-t1292.08", "text": "He's a city and a forest in folded quill.", "start": 1292.08, "end": 1295.08}
+{"id": "96dMj4pf2-I-t1295.08", "text": "Tranquilize with the black lung and tar black the most aristocratic color of all.", "start": 1295.08, "end": 1309.08}
+{"id": "96dMj4pf2-I-t1325.08", "text": "Ten burns.", "start": 1325.08, "end": 1344.08}
+{"id": "96dMj4pf2-I-t1344.08", "text": "There's no such thing as bot music but there's such a thing as progress, Coleman Hawkins.", "start": 1344.08, "end": 1357.08}
+{"id": "96dMj4pf2-I-t1357.08", "text": "Although jazzes sepia acetates and lacquers have dipped the black into silver nitrate and are faded little faders, they inflate like lungs.", "start": 1357.08, "end": 1366.08}
+{"id": "96dMj4pf2-I-t1366.08", "text": "The pink lung with its tortoise shell shellac appears to bulge and its inseam exhales purity and inhales spoonfuls of tempo.", "start": 1366.08, "end": 1375.08}
+{"id": "96dMj4pf2-I-t1375.08", "text": "Purity and jazz sir is thwarted and unutilized.", "start": 1375.08, "end": 1379.08}
+{"id": "96dMj4pf2-I-t1379.08", "text": "Two hundred years of minstrel snapping their red suspenders corrode and oxidize the air.", "start": 1379.08, "end": 1384.08}
+{"id": "96dMj4pf2-I-t1384.08", "text": "Mr. Tambo, what kind of a girl was she?", "start": 1384.08, "end": 1387.08}
+{"id": "96dMj4pf2-I-t1387.08", "text": "Zip, she was highly polished, yes indeed, her father was a varnish maker.", "start": 1387.08, "end": 1393.08}
+{"id": "96dMj4pf2-I-t1393.08", "text": "You see that rubber pork chop became something.", "start": 1393.08, "end": 1396.08}
+{"id": "96dMj4pf2-I-t1396.08", "text": "It's supposed to be funny, by the way.", "start": 1396.08, "end": 1399.08}
+{"id": "96dMj4pf2-I-t1399.08", "text": "Bishay shimmy shawable from its mold has been heated and mounted face to face with a hinge so that the machine opens up facing you.", "start": 1399.08, "end": 1407.08}
+{"id": "96dMj4pf2-I-t1407.08", "text": "It is not lighter or inter-metso frozen like trout beneath the flux and ratamacuing of ice.", "start": 1407.08, "end": 1413.08}
+{"id": "96dMj4pf2-I-t1413.08", "text": "It is not alpine.", "start": 1413.08, "end": 1415.08}
+{"id": "96dMj4pf2-I-t1415.08", "text": "Aing and schlaff and olf der lauer, oben east der alte ritter.", "start": 1415.08, "end": 1422.08}
+{"id": "96dMj4pf2-I-t1422.08", "text": "Through the cracked photos breaking into creosote, superlatives doused the monoliths, virtuoso, genius.", "start": 1422.08, "end": 1429.08}
+{"id": "96dMj4pf2-I-t1429.08", "text": "But there is a siphoning off of licking pink jam from the knife.", "start": 1429.08, "end": 1433.08}
+{"id": "96dMj4pf2-I-t1433.08", "text": "Negativities, the integrated bands, for example, of alcoholics, benzedrin, heads, and junkies,", "start": 1433.08, "end": 1440.08}
+{"id": "96dMj4pf2-I-t1440.08", "text": "or the deranged catastrophe of buddy-bold and feeding his hand to a ceiling fan,", "start": 1440.08, "end": 1445.08}
+{"id": "96dMj4pf2-I-t1445.08", "text": "or the wicks saturated with amphetamines, or buddy-rich telling the trumpet section of fuck faces", "start": 1445.08, "end": 1451.08}
+{"id": "96dMj4pf2-I-t1451.08", "text": "and plink them every seven bars like a neutered werewolf.", "start": 1451.08, "end": 1454.08}
+{"id": "96dMj4pf2-I-t1454.08", "text": "When Coleman Hawkins stood half nude like a mango and Friedlander's photo, 1956,", "start": 1454.08, "end": 1460.08}
+{"id": "96dMj4pf2-I-t1460.08", "text": "with his curved man-breast sweating from it may not be true, he appears modern.", "start": 1460.08, "end": 1465.08}
+{"id": "96dMj4pf2-I-t1465.08", "text": "He is not a man-cane nostalgic item logistical.", "start": 1465.08, "end": 1469.08}
+{"id": "96dMj4pf2-I-t1469.08", "text": "He, lung of air-rate, propulsive tub, urgently pumping 9ths,", "start": 1469.08, "end": 1474.08}
+{"id": "96dMj4pf2-I-t1474.08", "text": "is the living demonic fuse ripping through a blanket of vanilla radio.", "start": 1474.08, "end": 1478.08}
+{"id": "96dMj4pf2-I-t1478.08", "text": "Racial animus and tractable sources, faded scriptures,", "start": 1478.08, "end": 1482.08}
+{"id": "96dMj4pf2-I-t1482.08", "text": "the pinstripes of the story-ville mudheads, midwives, and the peach tin types", "start": 1482.08, "end": 1486.08}
+{"id": "96dMj4pf2-I-t1486.08", "text": "fitted into ladies' brooches are not jazz.", "start": 1486.08, "end": 1489.08}
+{"id": "96dMj4pf2-I-t1489.08", "text": "This strategy does not puff the uvula's blowpipe or bring an axe to the vanguard.", "start": 1489.08, "end": 1494.08}
+{"id": "96dMj4pf2-I-t1494.08", "text": "Rather, it's shuffle-bucks, pantomimes, and dab slop with a hanky.", "start": 1494.08, "end": 1499.08}
+{"id": "96dMj4pf2-I-t1499.08", "text": "Meanwhile, as the onyx rattlesnake of the century slid by 1960,", "start": 1499.08, "end": 1504.08}
+{"id": "96dMj4pf2-I-t1504.08", "text": "the year the fedora went up the flu,", "start": 1504.08, "end": 1506.08}
+{"id": "96dMj4pf2-I-t1506.08", "text": "jazz, too, opened like a fire in a woman's ceremony.", "start": 1506.08, "end": 1509.08}
+{"id": "96dMj4pf2-I-t1509.08", "text": "It did not end.", "start": 1509.08, "end": 1511.08}
+{"id": "96dMj4pf2-I-t1511.08", "text": "Euler had yet to drag the black river into rivulets of need.", "start": 1511.08, "end": 1516.08}
+{"id": "96dMj4pf2-I-t1516.08", "text": "Unkempt skinny dips, red vinyl seats of the southern buses,", "start": 1516.08, "end": 1519.08}
+{"id": "96dMj4pf2-I-t1519.08", "text": "and the vinegar cloud of the tree's harpsichords were made too of a jazz.", "start": 1519.08, "end": 1524.08}
+{"id": "96dMj4pf2-I-t1524.08", "text": "As the bus ate the road's tape measure, the ballrooms closed,", "start": 1524.08, "end": 1528.08}
+{"id": "96dMj4pf2-I-t1528.08", "text": "the hickory house sewed 52nd street into a fly-trap enmeshed with liquid static.", "start": 1528.08, "end": 1534.08}
+{"id": "96dMj4pf2-I-t1534.08", "text": "The green river you ignore is realized by the black river,", "start": 1534.08, "end": 1537.08}
+{"id": "96dMj4pf2-I-t1537.08", "text": "growing wings beneath the shoulder blades of the hatchling.", "start": 1537.08, "end": 1540.08}
+{"id": "96dMj4pf2-I-t1540.08", "text": "Coleman Hawkins, who morphs with allular quills into a hawk.", "start": 1540.08, "end": 1544.08}
+{"id": "96dMj4pf2-I-t1544.08", "text": "Dark, pitagile marks on underwings, present on all ages and races,", "start": 1544.08, "end": 1548.08}
+{"id": "96dMj4pf2-I-t1548.08", "text": "conjured shadows beyond the last section of the long film.", "start": 1548.08, "end": 1552.08}
+{"id": "96dMj4pf2-I-t1552.08", "text": "You're afraid of listening to this lady?", "start": 1552.08, "end": 1554.08}
+{"id": "96dMj4pf2-I-t1554.08", "text": "He, too, with parade-flowed head, eyes like flashing Lindyhoppers,", "start": 1554.08, "end": 1558.08}
+{"id": "96dMj4pf2-I-t1558.08", "text": "lunging with the lumpy fabric of the past, pushing a gauge,", "start": 1558.08, "end": 1562.08}
+{"id": "96dMj4pf2-I-t1562.08", "text": "a deuce of blips, blood stream lushes of vipers more righteous than scumpthein codification.", "start": 1562.08, "end": 1570.08}
+{"id": "96dMj4pf2-I-t1570.08", "text": "In closing, sir, the reed was always remoisted while you were in the booth,", "start": 1570.08, "end": 1574.08}
+{"id": "96dMj4pf2-I-t1574.08", "text": "cutting the montage sequence, but the pink sequence of Bessie Smith quenched", "start": 1574.08, "end": 1579.08}
+{"id": "96dMj4pf2-I-t1579.08", "text": "with yielding limelight to disappear to dust like eighth notes.", "start": 1579.08, "end": 1583.08}
+{"id": "96dMj4pf2-I-t1583.08", "text": "My buttony jacks and the tongue spits out the disc's rainbow.", "start": 1583.08, "end": 1593.08}
+{"id": "96dMj4pf2-I-t1763.08", "text": "Empowered cadaver at Lewis Porter.", "start": 1763.08, "end": 1781.08}
+{"id": "96dMj4pf2-I-t1781.08", "text": "Absolutely.", "start": 1781.08, "end": 1787.08}
+{"id": "96dMj4pf2-I-t1787.08", "text": "He who travels learns, Rome a proder.", "start": 1787.08, "end": 1792.08}
+{"id": "96dMj4pf2-I-t1792.08", "text": "Django means I awake.", "start": 1792.08, "end": 1794.08}
+{"id": "96dMj4pf2-I-t1794.08", "text": "This verdon wheels its wood spokes through scrollwork indigos,", "start": 1794.08, "end": 1800.08}
+{"id": "96dMj4pf2-I-t1800.08", "text": "and a transparent red stove glows by the blanket when a horse clops to the center of the moon,", "start": 1800.08, "end": 1805.08}
+{"id": "96dMj4pf2-I-t1805.08", "text": "where Belgium is born, the Manusch, the Mecc King Jones.", "start": 1805.08, "end": 1809.08}
+{"id": "96dMj4pf2-I-t1809.08", "text": "To wake up in a caravan with a plower viola, canvas-covered hatch means to exist.", "start": 1809.08, "end": 1815.08}
+{"id": "96dMj4pf2-I-t1815.08", "text": "But if we exist at the frontier robbing chickens perhaps, flirting with the viola,", "start": 1815.08, "end": 1820.08}
+{"id": "96dMj4pf2-I-t1820.08", "text": "violet, or draca grape and sloshing around in purple liquid.", "start": 1820.08, "end": 1825.08}
+{"id": "96dMj4pf2-I-t1825.08", "text": "A hedgehog has barbed arter-chokes skin and hides under its anointed bush.", "start": 1825.08, "end": 1830.08}
+{"id": "96dMj4pf2-I-t1830.08", "text": "Stuff him with rosemary time and wild garlic over a roasting pit through the clay,", "start": 1830.08, "end": 1834.08}
+{"id": "96dMj4pf2-I-t1834.08", "text": "with lacho robin and a savory liver.", "start": 1834.08, "end": 1837.08}
+{"id": "96dMj4pf2-I-t1837.08", "text": "To awake to see the window and the horse-drawn air,", "start": 1837.08, "end": 1840.08}
+{"id": "96dMj4pf2-I-t1840.08", "text": "to awake to the dark muzet and the purple vaults.", "start": 1840.08, "end": 1844.08}
+{"id": "96dMj4pf2-I-t1844.08", "text": "A hedgehog winds his piston by the chimney,", "start": 1844.08, "end": 1847.08}
+{"id": "96dMj4pf2-I-t1847.08", "text": "and gripelli and Reinhardt screaming fragrant honey under the sky's purple canvas.", "start": 1847.08, "end": 1852.08}
+{"id": "96dMj4pf2-I-t1852.08", "text": "The sound gets to be part of your body.", "start": 1852.08, "end": 1855.08}
+{"id": "96dMj4pf2-I-t1855.08", "text": "Lester Young sleeping with his horns when Billy wasn't there.", "start": 1855.08, "end": 1859.08}
+{"id": "96dMj4pf2-I-t1859.08", "text": "Black faucet, black suede, Django Reinhardt, the guitar superman.", "start": 1859.08, "end": 1864.08}
+{"id": "96dMj4pf2-I-t1864.08", "text": "His black moustaches sip the milk foam.", "start": 1864.08, "end": 1868.08}
+{"id": "96dMj4pf2-I-t1868.08", "text": "No one listening to him turn a girl into a puddle has ever complained.", "start": 1868.08, "end": 1872.08}
+{"id": "96dMj4pf2-I-t1872.08", "text": "Look to the side and he'll be there.", "start": 1872.08, "end": 1875.08}
+{"id": "96dMj4pf2-I-t2022.08", "text": "Disassembled parts of the base clarinet.", "start": 2022.08, "end": 2027.08}
+{"id": "96dMj4pf2-I-t2027.08", "text": "One.", "start": 2027.08, "end": 2035.08}
+{"id": "96dMj4pf2-I-t2035.08", "text": "Aerophone, over-blow.", "start": 2035.08, "end": 2038.08}
+{"id": "96dMj4pf2-I-t2038.08", "text": "Grenadilla, cylindrical boar, sassafrass, Contra-based, orange tiger roar.", "start": 2038.08, "end": 2043.08}
+{"id": "96dMj4pf2-I-t2043.08", "text": "Harry, Carney, half-hole, Bitch's brew, resin, cousin,", "start": 2043.08, "end": 2047.08}
+{"id": "96dMj4pf2-I-t2047.08", "text": "Mary, Eric, Dolphy, grapefruit stew, Rosen.", "start": 2047.08, "end": 2051.08}
+{"id": "96dMj4pf2-I-t2051.08", "text": "Neither a dry sound or the white rice paper mask,", "start": 2051.08, "end": 2055.08}
+{"id": "96dMj4pf2-I-t2055.08", "text": "but swallowing the moon, the notes drink like grapes.", "start": 2055.08, "end": 2059.08}
+{"id": "96dMj4pf2-I-t2059.08", "text": "The Newark photographer says that when he was a kid, there were 12 or 13 movie theaters downtown.", "start": 2059.08, "end": 2064.08}
+{"id": "96dMj4pf2-I-t2064.08", "text": "Now only a tiny porn theater, a spits distance from the museum shows octaves of skin.", "start": 2064.08, "end": 2070.08}
+{"id": "96dMj4pf2-I-t2070.08", "text": "Part of the lip stretches behind the knee, smooth as a mercury reissue,", "start": 2070.08, "end": 2074.08}
+{"id": "96dMj4pf2-I-t2074.08", "text": "and the precipice glistening like a roll glaze has been pushed up and down across", "start": 2074.08, "end": 2079.08}
+{"id": "96dMj4pf2-I-t2079.08", "text": "the surface of the surface.", "start": 2079.08, "end": 2082.08}
+{"id": "96dMj4pf2-I-t2082.08", "text": "The dough gone where purple fringes and their pearl millets", "start": 2082.08, "end": 2087.08}
+{"id": "96dMj4pf2-I-t2087.08", "text": "sing vessels of donkeys bearing caratatives.", "start": 2087.08, "end": 2092.08}
+{"id": "96dMj4pf2-I-t2092.08", "text": "Like the sandstone, bendigara, all rectilinear with masks secured by the teeth.", "start": 2092.08, "end": 2098.08}
+{"id": "96dMj4pf2-I-t2098.08", "text": "Four flutes roll off their center.", "start": 2098.08, "end": 2101.08}
+{"id": "96dMj4pf2-I-t2101.08", "text": "The cakes filling plastered, not a sigh exactly longer,", "start": 2101.08, "end": 2105.08}
+{"id": "96dMj4pf2-I-t2105.08", "text": "but a piece of barbecued peaches.", "start": 2105.08, "end": 2109.08}
+{"id": "96dMj4pf2-I-t2109.08", "text": "White and red altars catch clouds.", "start": 2109.08, "end": 2112.08}
+{"id": "96dMj4pf2-I-t2112.08", "text": "As that with Braxton means, I shook hands with elven Jones", "start": 2112.08, "end": 2116.08}
+{"id": "96dMj4pf2-I-t2116.08", "text": "and with Lawrence D. Butch Morris, the cavernous filaments of the downtown room", "start": 2116.08, "end": 2121.08}
+{"id": "96dMj4pf2-I-t2121.08", "text": "like a limb soaking in a barrel.", "start": 2121.08, "end": 2124.08}
+{"id": "96dMj4pf2-I-t2124.08", "text": "An article said, the amount of female granaries is an indication", "start": 2124.08, "end": 2128.08}
+{"id": "96dMj4pf2-I-t2128.08", "text": "for the amount of women living in Guinea.", "start": 2128.08, "end": 2131.08}
+{"id": "96dMj4pf2-I-t2131.08", "text": "As nougat-like pomade yelled, the girl can't help it.", "start": 2131.08, "end": 2135.08}
+{"id": "96dMj4pf2-I-t2135.08", "text": "Coltrane likewise said whatever he'd say about Eric Dolfi would be understatement.", "start": 2135.08, "end": 2139.08}
+{"id": "96dMj4pf2-I-t2139.08", "text": "Newerks dry rot and magnesium flares show litter and the bare branches of a maple.", "start": 2139.08, "end": 2145.08}
+{"id": "96dMj4pf2-I-t2145.08", "text": "Some looters return with armfuls of candy, coolade, and water guns.", "start": 2145.08, "end": 2150.08}
+{"id": "96dMj4pf2-I-t2150.08", "text": "The late photo of Saravon shows black triangles arranged like Batman villainous.", "start": 2150.08, "end": 2156.08}
+{"id": "96dMj4pf2-I-t2156.08", "text": "Years ago, her carefree loafers and red Parisian mime stripes swung easy.", "start": 2156.08, "end": 2161.08}
+{"id": "96dMj4pf2-I-t2161.08", "text": "The liner notes reveal that she could have succeeded in the classical field.", "start": 2161.08, "end": 2165.08}
+{"id": "96dMj4pf2-I-t2165.08", "text": "Wayne Shorter would say, what's happening?", "start": 2165.08, "end": 2168.08}
+{"id": "96dMj4pf2-I-t2168.08", "text": "And she'd say Newark, and that was enough because you know what Newark does to people.", "start": 2168.08, "end": 2172.08}
+{"id": "96dMj4pf2-I-t2172.08", "text": "Mel Torme reports that she kind of got huffy when he said operatic,", "start": 2172.08, "end": 2176.08}
+{"id": "96dMj4pf2-I-t2176.08", "text": "and then she said, do you mean jazz isn't legit?", "start": 2176.08, "end": 2179.08}
+{"id": "96dMj4pf2-I-t2179.08", "text": "You might say that powders are being crushed in the mortar", "start": 2179.08, "end": 2182.08}
+{"id": "96dMj4pf2-I-t2182.08", "text": "like some of the purple splay like limbs, the embracing limbs.", "start": 2182.08, "end": 2187.08}
+{"id": "96dMj4pf2-I-t2187.08", "text": "For a while, poetry did not interest me with its flailing, corruption, boredom,", "start": 2187.08, "end": 2192.08}
+{"id": "96dMj4pf2-I-t2192.08", "text": "obsequiousness, and general green color.", "start": 2192.08, "end": 2195.08}
+{"id": "96dMj4pf2-I-t2195.08", "text": "It was a cloak used for taunting by everyone, assholes all.", "start": 2195.08, "end": 2199.08}
+{"id": "96dMj4pf2-I-t2199.08", "text": "Flaubert thought the same thing about the bourgeoisie.", "start": 2199.08, "end": 2202.08}
+{"id": "96dMj4pf2-I-t2202.08", "text": "Nothing is ever the same as they said it was.", "start": 2202.08, "end": 2204.08}
+{"id": "96dMj4pf2-I-t2204.08", "text": "Blue lights of her hair vertical, the gray pearls of her neck,", "start": 2204.08, "end": 2208.08}
+{"id": "96dMj4pf2-I-t2208.08", "text": "and the purple lights of her hair were very colorful to the place, better or worse,", "start": 2208.08, "end": 2213.08}
+{"id": "96dMj4pf2-I-t2213.08", "text": "where eyes penetrate.", "start": 2213.08, "end": 2215.08}
+{"id": "96dMj4pf2-I-t2215.08", "text": "Bear forks, glitter, swan glasses hiding among the bushes, sort of feeling your way.", "start": 2215.08, "end": 2222.08}
+{"id": "96dMj4pf2-I-t2222.08", "text": "Arbus said the hand is the cutting edge of the mind.", "start": 2222.08, "end": 2225.08}
+{"id": "96dMj4pf2-I-t2225.08", "text": "Flawed animals, meat, and buns and slaw, she sort of lifted up her hips", "start": 2225.08, "end": 2230.08}
+{"id": "96dMj4pf2-I-t2230.08", "text": "so the rims of the bones were elevated, a sort of hand clasp of braided chestnut.", "start": 2230.08, "end": 2235.08}
+{"id": "96dMj4pf2-I-t2235.08", "text": "Rather than non-vocal to the bone, she pulled his shoulders forward hovering.", "start": 2235.08, "end": 2239.08}
+{"id": "96dMj4pf2-I-t2239.08", "text": "During rehearsal, the wordless word was loosely creased, where the lowest part of the hip is hooked to the curve.", "start": 2239.08, "end": 2245.08}
+{"id": "96dMj4pf2-I-t2245.08", "text": "Roland Kirk's no tonic press has a double meaning.", "start": 2245.08, "end": 2249.08}
+{"id": "96dMj4pf2-I-t2249.08", "text": "The first note in the scale in the double gin Lester Young was drinking without quinine water.", "start": 2249.08, "end": 2254.08}
+{"id": "96dMj4pf2-I-t2254.08", "text": "Circumference of lemon like the brim of the hat, blooming into focus in the film.", "start": 2254.08, "end": 2259.08}
+{"id": "96dMj4pf2-I-t2259.08", "text": "I gather dry kindling on the snowy mountain slope.", "start": 2259.08, "end": 2263.08}
+{"id": "96dMj4pf2-I-t2263.08", "text": "White where the branches gather in my hand.", "start": 2263.08, "end": 2266.08}
+{"id": "96dMj4pf2-I-t2266.08", "text": "Wood has dropped its pieces with trees along the way, where the couple walks the trail inside the creamy sand.", "start": 2266.08, "end": 2273.08}
+{"id": "96dMj4pf2-I-t2273.08", "text": "The bassist said the action on the bass was high, vertically so, so that the elastic boom made for instant decay.", "start": 2273.08, "end": 2280.08}
+{"id": "96dMj4pf2-I-t2280.08", "text": "Threadgill says tubas can control the decay and attack.", "start": 2280.08, "end": 2283.08}
+{"id": "96dMj4pf2-I-t2283.08", "text": "Tubas blend with everything, whereas the bass doesn't blend.", "start": 2283.08, "end": 2287.08}
+{"id": "96dMj4pf2-I-t2287.08", "text": "Brass will cut through anything, you have to wait on the bass.", "start": 2287.08, "end": 2291.08}
+{"id": "96dMj4pf2-I-t2291.08", "text": "A tuba player, he says, can shut it down because it's wind.", "start": 2291.08, "end": 2295.08}
+{"id": "96dMj4pf2-I-t2295.08", "text": "The bass player said during a long jam, he never gets a break.", "start": 2295.08, "end": 2298.08}
+{"id": "96dMj4pf2-I-t2298.08", "text": "The glass of Pepsi has water already dripping down the side of the glass, from the ice skating in the armful of warm air.", "start": 2298.08, "end": 2305.08}
+{"id": "96dMj4pf2-I-t2305.08", "text": "A woman bends to pat a multi-stripe cat, liquid gray, who prances between the aisles, listless and revolting with mystery.", "start": 2305.08, "end": 2313.08}
+{"id": "96dMj4pf2-I-t2313.08", "text": "She loves the horrendous creature, whose eyes glow, yellow like a vial of pernow.", "start": 2313.08, "end": 2318.08}
+{"id": "96dMj4pf2-I-t2318.08", "text": "Its tail upright plucking an e-minor because the story has become more complicated than when we left the house.", "start": 2318.08, "end": 2324.08}
+{"id": "96dMj4pf2-I-t2324.08", "text": "Miles played in Tokyo and then Berlin, former scorched sectors, alighted in the terror-bot scopes.", "start": 2324.08, "end": 2331.08}
+{"id": "96dMj4pf2-I-t2331.08", "text": "In Tokyo, in March 9, 1945, we, Americans, burned to death 100,000 people in a single night.", "start": 2331.08, "end": 2339.08}
+{"id": "96dMj4pf2-I-t2339.08", "text": "Men, women and children.", "start": 2339.08, "end": 2341.08}
+{"id": "96dMj4pf2-I-t2341.08", "text": "On July 14, 1964, Sam Rivers channeled T-bone Walker, among the velvet echoes,", "start": 2341.08, "end": 2347.08}
+{"id": "96dMj4pf2-I-t2347.08", "text": "a cosine Anken hall.", "start": 2347.08, "end": 2350.08}
+{"id": "96dMj4pf2-I-t2350.08", "text": "The dogan say that we should remember, God has no external ears.", "start": 2350.08, "end": 2355.08}
+{"id": "96dMj4pf2-I-t2355.08", "text": "She cuffs her hands.", "start": 2355.08, "end": 2357.08}
+{"id": "96dMj4pf2-I-t2357.08", "text": "Babies are like waterflowers who do cool leaves from the tubs of their eyes.", "start": 2357.08, "end": 2362.08}
+{"id": "96dMj4pf2-I-t2362.08", "text": "Our ways of living differ.", "start": 2362.08, "end": 2365.08}
+{"id": "96dMj4pf2-I-t2368.08", "text": "Two.", "start": 2368.08, "end": 2369.08}
+{"id": "96dMj4pf2-I-t2369.08", "text": "Think of swaggers on off switch.", "start": 2369.08, "end": 2371.08}
+{"id": "96dMj4pf2-I-t2371.08", "text": "Weldon Irvine said many of the young rappers got disconnected from a tradition of protest", "start": 2371.08, "end": 2377.08}
+{"id": "96dMj4pf2-I-t2377.08", "text": "and decided to rap about mayhem in order to get paid.", "start": 2377.08, "end": 2380.08}
+{"id": "96dMj4pf2-I-t2380.08", "text": "You can tell the political orientation of the bus driver by whether he says Lenox Avenue or Malcolm X Boulevard when he announces the stop.", "start": 2380.08, "end": 2387.08}
+{"id": "96dMj4pf2-I-t2387.08", "text": "The large blue and white wheels slapped the painted curb covered with slush.", "start": 2387.08, "end": 2392.08}
+{"id": "96dMj4pf2-I-t2392.08", "text": "November 80.", "start": 2392.08, "end": 2394.08}
+{"id": "96dMj4pf2-I-t2394.08", "text": "I walked to school not knowing how to play with.", "start": 2394.08, "end": 2397.08}
+{"id": "96dMj4pf2-I-t2397.08", "text": "I decided not unlike John Gilmour at Birdland 1956 to play Contra.", "start": 2397.08, "end": 2402.08}
+{"id": "96dMj4pf2-I-t2402.08", "text": "We play against everything in the blaze of a hearth.", "start": 2402.08, "end": 2406.08}
+{"id": "96dMj4pf2-I-t2406.08", "text": "We got the concept.", "start": 2406.08, "end": 2408.08}
+{"id": "96dMj4pf2-I-t2408.08", "text": "We got the concept.", "start": 2408.08, "end": 2409.08}
+{"id": "96dMj4pf2-I-t2409.08", "text": "We got conceptual.", "start": 2409.08, "end": 2410.08}
+{"id": "96dMj4pf2-I-t2410.08", "text": "I'm on East 80th Street.", "start": 2410.08, "end": 2412.08}
+{"id": "96dMj4pf2-I-t2412.08", "text": "The whir of pigeons have delicate lavender pockets around their eyes.", "start": 2412.08, "end": 2416.08}
+{"id": "96dMj4pf2-I-t2416.08", "text": "They ground themselves in the spring of city dust as a pillowy aplomb among the air's granules.", "start": 2416.08, "end": 2422.08}
+{"id": "96dMj4pf2-I-t2422.08", "text": "Of a city in its puzzle pieces, many tongue embraceable.", "start": 2422.08, "end": 2426.08}
+{"id": "96dMj4pf2-I-t2426.08", "text": "Two men are dancing in a bar.", "start": 2426.08, "end": 2428.08}
+{"id": "96dMj4pf2-I-t2428.08", "text": "It's 1130 according to the wall's cold aged Genesee Beer clock.", "start": 2428.08, "end": 2433.08}
+{"id": "96dMj4pf2-I-t2433.08", "text": "They're dressed in 1980 styles.", "start": 2433.08, "end": 2435.08}
+{"id": "96dMj4pf2-I-t2435.08", "text": "Valor and floppy existential caps.", "start": 2435.08, "end": 2438.08}
+{"id": "96dMj4pf2-I-t2438.08", "text": "The shadows of the men's bodies are cast on the jukebox behind and their joy.", "start": 2438.08, "end": 2443.08}
+{"id": "96dMj4pf2-I-t2443.08", "text": "What do you know about the forgotten ones?", "start": 2443.08, "end": 2446.08}
+{"id": "96dMj4pf2-I-t2446.08", "text": "Try to understand the beautiful bodies, peeling pain and upturned peaches from a Marxist perspective.", "start": 2446.08, "end": 2452.08}
+{"id": "96dMj4pf2-I-t2452.08", "text": "Why this city?", "start": 2452.08, "end": 2454.08}
+{"id": "96dMj4pf2-I-t2454.08", "text": "Dactritus, denitations and detonations?", "start": 2454.08, "end": 2457.08}
+{"id": "96dMj4pf2-I-t2457.08", "text": "Why the snail shell, uncomfortable water?", "start": 2457.08, "end": 2460.08}
+{"id": "96dMj4pf2-I-t2460.08", "text": "The caramel tone of Saravon and the air is punctuated by wings.", "start": 2460.08, "end": 2464.08}
+{"id": "96dMj4pf2-I-t2464.08", "text": "Instead of limbs, wings slice through at 80 degrees,", "start": 2464.08, "end": 2468.08}
+{"id": "96dMj4pf2-I-t2468.08", "text": "assaulting through the sky's catapult, salted in polychrome.", "start": 2468.08, "end": 2472.08}
+{"id": "96dMj4pf2-I-t2472.08", "text": "I'd like to be away from 1980 for a while and see its chemical pinks", "start": 2472.08, "end": 2476.08}
+{"id": "96dMj4pf2-I-t2476.08", "text": "stripping from the unfeeling dinosaur eye of the iridescent pigeons.", "start": 2476.08, "end": 2481.08}
+{"id": "96dMj4pf2-I-t2481.08", "text": "Another time from above or below.", "start": 2481.08, "end": 2484.08}
+{"id": "96dMj4pf2-I-t2484.08", "text": "I will not take my father's footsteps.", "start": 2484.08, "end": 2486.08}
+{"id": "96dMj4pf2-I-t2486.08", "text": "A miner's helmet with its bulb pierced with a tack and driftwood.", "start": 2486.08, "end": 2490.08}
+{"id": "96dMj4pf2-I-t2490.08", "text": "Around a wall, the light bounces on a mirror with its white cotton.", "start": 2490.08, "end": 2494.08}
+{"id": "96dMj4pf2-I-t2494.08", "text": "You are encased in the city's steel tub.", "start": 2494.08, "end": 2497.08}
+{"id": "96dMj4pf2-I-t2497.08", "text": "Washboards scrap, empty grape drink bottle, frail, fall, literal, burnished.", "start": 2497.08, "end": 2503.08}
+{"id": "96dMj4pf2-I-t2503.08", "text": "Do you feel the calm chewing the marrow from the gains the city has made?", "start": 2503.08, "end": 2516.08}
+{"id": "96dMj4pf2-I-t2516.08", "text": "A half city moves along the mouth of a canal.", "start": 2516.08, "end": 2519.08}
+{"id": "96dMj4pf2-I-t2519.08", "text": "You are living inside its corridors, breathing the air shaft smell of a fish bone.", "start": 2519.08, "end": 2524.08}
+{"id": "96dMj4pf2-I-t2524.08", "text": "Your limbs reach across the threshold down the hallway of metal doors.", "start": 2524.08, "end": 2528.08}
+{"id": "96dMj4pf2-I-t2528.08", "text": "It is that multi-hued avenue that comes at the park's edge after a mollusks snowdrift away from the window.", "start": 2528.08, "end": 2534.08}
+{"id": "96dMj4pf2-I-t2534.08", "text": "Model jams coated in conceivable rust, the pigeons' peppery throats,", "start": 2534.08, "end": 2539.08}
+{"id": "96dMj4pf2-I-t2539.08", "text": "blushed like the sorcerers bending the tab rings of their cans and all echoes.", "start": 2539.08, "end": 2545.08}
+{"id": "96dMj4pf2-I-t2545.08", "text": "It is not only pushers and gathering places, storefront churches, crates of apples.", "start": 2545.08, "end": 2550.08}
+{"id": "96dMj4pf2-I-t2550.08", "text": "We should not be east of the park, but no one knows we're here.", "start": 2550.08, "end": 2553.08}
+{"id": "96dMj4pf2-I-t2553.08", "text": "If it is the paradise or the omni, swaying along the velvet curtain of the sky.", "start": 2553.08, "end": 2558.08}
+{"id": "96dMj4pf2-I-t2558.08", "text": "Beyond the rooftops, I see the families create a father's day picnic out of a card table,", "start": 2558.08, "end": 2563.08}
+{"id": "96dMj4pf2-I-t2563.08", "text": "boombox, a ginger ale, boxes of chicken, a dominoes game, clamped to a dude's lecture.", "start": 2563.08, "end": 2569.08}
+{"id": "96dMj4pf2-I-t2569.08", "text": "I would run from the 125th Street Station down the sustained line of the sidewalk", "start": 2569.08, "end": 2574.08}
+{"id": "96dMj4pf2-I-t2574.08", "text": "and wait for the elevator that stops to raise its pulley and flywheel", "start": 2574.08, "end": 2578.08}
+{"id": "96dMj4pf2-I-t2578.08", "text": "and drop my trapezoid body and raise to the apartment to caress your hair", "start": 2578.08, "end": 2582.08}
+{"id": "96dMj4pf2-I-t2582.08", "text": "or to let up or simply hold on.", "start": 2582.08, "end": 2585.08}
+{"id": "96dMj4pf2-I-t2585.08", "text": "It is a familiar curvature, the places of valley, the cathedrals east.", "start": 2585.08, "end": 2590.08}
+{"id": "96dMj4pf2-I-t2590.08", "text": "The same streets reach out in the same places to open the same mirrored lobbies.", "start": 2590.08, "end": 2595.08}
+{"id": "96dMj4pf2-I-t2595.08", "text": "We arrive at the place where the wife relaxes and folds her legs on the floor in conjecture", "start": 2595.08, "end": 2600.08}
+{"id": "96dMj4pf2-I-t2600.08", "text": "at all the sidewalks traversed.", "start": 2600.08, "end": 2602.08}
+{"id": "96dMj4pf2-I-t2602.08", "text": "She has me, a partner who knows that her memories are bubbles,", "start": 2602.08, "end": 2606.08}
+{"id": "96dMj4pf2-I-t2606.08", "text": "that we see a far-fetched capital lift and break through tenements and wish like a creed", "start": 2606.08, "end": 2611.08}
+{"id": "96dMj4pf2-I-t2611.08", "text": "we would travel along rifts and octaves to hear the doorbells and bird coos", "start": 2611.08, "end": 2615.08}
+{"id": "96dMj4pf2-I-t2615.08", "text": "or feel the extraordinary orange of the Florida sun, a woman clutching an orange pill bottle,", "start": 2615.08, "end": 2621.08}
+{"id": "96dMj4pf2-I-t2621.08", "text": "and we go along the snake like name-six and the keratin hooves of the city can always relieve us.", "start": 2621.08, "end": 2627.08}
+{"id": "96dMj4pf2-I-t2627.08", "text": "We have people sitting around understanding the bubbles gloss anywhere the fragile numb inheritances.", "start": 2627.08, "end": 2633.08}
+{"id": "96dMj4pf2-I-t2633.08", "text": "Answer the launching terrors, her axes and closet doors she remembers.", "start": 2633.08, "end": 2638.08}
+{"id": "96dMj4pf2-I-t2638.08", "text": "We will burst them all along.", "start": 2638.08, "end": 2641.08}
+{"id": "96dMj4pf2-I-t2759.08", "text": "A calm despair is the essence of wisdom.", "start": 2759.08, "end": 2762.08}
+{"id": "96dMj4pf2-I-t2762.08", "text": "This string, she's moved over an air current.", "start": 2762.08, "end": 2766.08}
+{"id": "96dMj4pf2-I-t2766.08", "text": "Now they rewind a latex balloon in Newark like a vacated building, the place rebricked for chump dimes,", "start": 2766.08, "end": 2773.08}
+{"id": "96dMj4pf2-I-t2773.08", "text": "its thrennities slicing hammer.", "start": 2773.08, "end": 2776.08}
+{"id": "96dMj4pf2-I-t2776.08", "text": "These strings preach at a husting.", "start": 2776.08, "end": 2778.08}
+{"id": "96dMj4pf2-I-t2778.08", "text": "Pluck your needs from their housings, dive with your funnel to the back of the land in deep", "start": 2778.08, "end": 2784.08}
+{"id": "96dMj4pf2-I-t2784.08", "text": "and fracture the unbodied air.", "start": 2784.08, "end": 2787.08}
+{"id": "96dMj4pf2-I-t2787.08", "text": "This is about thick blood for a ghost in hues of sickle shaped jets.", "start": 2787.08, "end": 2793.08}
+{"id": "96dMj4pf2-I-t2793.08", "text": "Listening to Cat Edmondson with R, Portis head in the car with N, but this quartet brings them back", "start": 2793.08, "end": 2800.08}
+{"id": "96dMj4pf2-I-t2800.08", "text": "when the tenor's potato mash-er explodes above the trench.", "start": 2800.08, "end": 2818.08}
+{"id": "96dMj4pf2-I-t2831.08", "text": "The clarinet.", "start": 2831.08, "end": 2834.08}
+{"id": "96dMj4pf2-I-t2834.08", "text": "All the klezmer bands used it when they eased themselves down from dark.", "start": 2834.08, "end": 2838.08}
+{"id": "96dMj4pf2-I-t2838.08", "text": "Down, down, down, down.", "start": 2838.08, "end": 2842.08}
+{"id": "96dMj4pf2-I-t2842.08", "text": "Prospero broke his black staff and Van Glorious light beamed out.", "start": 2842.08, "end": 2846.08}
+{"id": "96dMj4pf2-I-t2846.08", "text": "The fairy light, slave light, shallow mow blue, music foot flatted the New Englander barn.", "start": 2846.08, "end": 2852.08}
+{"id": "96dMj4pf2-I-t2852.08", "text": "Moon thin and rumbled bass, yeses and linets and sounded out vanilla sugar.", "start": 2852.08, "end": 2857.08}
+{"id": "96dMj4pf2-I-t2857.08", "text": "Quavers of cholera turas made tint and abulation and eler ganda was the valve trombone and guitar,", "start": 2857.08, "end": 2863.08}
+{"id": "96dMj4pf2-I-t2863.08", "text": "hush hush in the background and got cool quiet and wake the blues.", "start": 2863.08, "end": 2868.08}
+{"id": "96dMj4pf2-I-t2868.08", "text": "Listen, listen and the light come through.", "start": 2868.08, "end": 2891.08}
+{"id": "96dMj4pf2-I-t3018.08", "text": "The sweet obsession bleeds from Singer.", "start": 3018.08, "end": 3043.08}
+{"id": "96dMj4pf2-I-t3043.08", "text": "Singer is dead today and in the ground forever.", "start": 3043.08, "end": 3046.08}
+{"id": "96dMj4pf2-I-t3046.08", "text": "How astonishing his blue vapor is seeping, not consuming itself outward from his honey and body.", "start": 3046.08, "end": 3052.08}
+{"id": "96dMj4pf2-I-t3052.08", "text": "He is buried in fine linen in the old style and his saxophone is engraved as a tiger lily.", "start": 3052.08, "end": 3057.08}
+{"id": "96dMj4pf2-I-t3057.08", "text": "There was love in him. His love was not a wild stag nor fragrant oils nor hills of cinnamon.", "start": 3057.08, "end": 3064.08}
+{"id": "96dMj4pf2-I-t3064.08", "text": "It was a light through the ocean, cool and content.", "start": 3064.08, "end": 3067.08}
+{"id": "96dMj4pf2-I-t3067.08", "text": "He handed this poem to me and was born, sifting up to the surface.", "start": 3067.08, "end": 3071.08}
+{"id": "96dMj4pf2-I-t3071.08", "text": "All the passions of my organs are soft doorways, the garden turns inside out.", "start": 3071.08, "end": 3076.08}
+{"id": "96dMj4pf2-I-t3076.08", "text": "One dreams white as a sky, one black and crowded as trees.", "start": 3076.08, "end": 3080.08}
+{"id": "96dMj4pf2-I-t3080.08", "text": "Each with a door, a rude odor, a reed.", "start": 3080.08, "end": 3084.08}
+{"id": "96dMj4pf2-I-t3084.08", "text": "Remember him, darkest eyes playing like hell in the mountains, love like that blue,", "start": 3084.08, "end": 3089.08}
+{"id": "96dMj4pf2-I-t3089.08", "text": "making up in depth for what it lacked in brightness.", "start": 3089.08, "end": 3092.08}
+{"id": "96dMj4pf2-I-t3092.08", "text": "We will not speak of love with him again.", "start": 3092.08, "end": 3096.08}
+{"id": "96dMj4pf2-I-t3096.08", "text": "Coming by a", "start": 3096.08, "end": 3117.54}
+{"id": "96dMj4pf2-I-t3156.08", "text": "You", "start": 3156.08, "end": 3158.08}
+{"id": "96dMj4pf2-I-t3186.08", "text": "You", "start": 3186.08, "end": 3188.08}
+{"id": "96dMj4pf2-I-t3216.08", "text": "You", "start": 3216.08, "end": 3218.08}
+{"id": "96dMj4pf2-I-t3228.08", "text": "Elintonia", "start": 3228.08, "end": 3230.08}
+{"id": "96dMj4pf2-I-t3230.08", "text": "In the lamp caught fire after he put a blue cashmere sweater over it", "start": 3230.08, "end": 3234.08}
+{"id": "96dMj4pf2-I-t3234.08", "text": "Settled as a Nance Obligado on Filmy Violin", "start": 3234.08, "end": 3237.08}
+{"id": "96dMj4pf2-I-t3237.08", "text": "Two brown curves and puss on", "start": 3237.08, "end": 3239.08}
+{"id": "96dMj4pf2-I-t3239.08", "text": "Perfling's ease sound out of the stank of violin parts", "start": 3239.08, "end": 3243.08}
+{"id": "96dMj4pf2-I-t3243.08", "text": "Belly, waist, chinrest, ribs, sound hole, peg box, tailpiece, rounded shoulder", "start": 3243.08, "end": 3248.08}
+{"id": "96dMj4pf2-I-t3248.08", "text": "Ellington was an expert on them all", "start": 3248.08, "end": 3252.08}
+{"id": "96dMj4pf2-I-t3252.08", "text": "Belly's straight round would wake up, composed for four hours, would wake Duke", "start": 3252.08, "end": 3257.08}
+{"id": "96dMj4pf2-I-t3257.08", "text": "Blood count or a ballad for very tired and very sad lotus eaters, for example", "start": 3257.08, "end": 3262.08}
+{"id": "96dMj4pf2-I-t3262.08", "text": "And he'd bring his golden torso up and finish off the rest of the composition", "start": 3262.08, "end": 3267.08}
+{"id": "96dMj4pf2-I-t3267.08", "text": "In the morning after composing all night, Duke would open the closet full of blue cashmere sweaters", "start": 3267.08, "end": 3272.08}
+{"id": "96dMj4pf2-I-t3272.08", "text": "Orkshrews playing the next morning", "start": 3272.08, "end": 3274.08}
+{"id": "96dMj4pf2-I-t3274.08", "text": "Plucky, plug ugly, pudselana, porous and perfect blues", "start": 3274.08, "end": 3278.08}
+{"id": "96dMj4pf2-I-t3278.08", "text": "Daffton, Dilea, Boulians, Diabutsu, Eir, Damsel, Fish, Ectogenesis", "start": 3278.08, "end": 3284.08}
+{"id": "96dMj4pf2-I-t3284.08", "text": "Darden, Ells, Edge, Darksamite, Demonax, Ellipse, Desirus, Empire", "start": 3284.08, "end": 3289.08}
+{"id": "96dMj4pf2-I-t3289.08", "text": "Dobelio, Hippis, Dove, Talis, Ballyar", "start": 3289.08, "end": 3293.08}
+{"id": "96dMj4pf2-I-t3293.08", "text": "Salieri, Ease, Drop, Mozart, Playing a word sex game", "start": 3293.08, "end": 3297.08}
+{"id": "96dMj4pf2-I-t3297.08", "text": "Just then the creamy squeezing oboe, Exalted unbolted, Kima, Philo, Omblada, Plum, Beautiful music, the color of blonde night", "start": 3297.08, "end": 3305.08}
+{"id": "96dMj4pf2-I-t3305.08", "text": "Red plum jam on Pumpernickel, a Puerto Rican hermaphrodite, putting on pink lip gloss", "start": 3305.08, "end": 3311.08}
+{"id": "96dMj4pf2-I-t3311.08", "text": "Wednesday night, Ellington, who could fulfill the slightest discolored saxophrage leaf, easing between two rocks", "start": 3311.08, "end": 3318.08}
+{"id": "96dMj4pf2-I-t3318.08", "text": "Heard through a catnap and half dozen chewed pencil tips", "start": 3318.08, "end": 3322.08}
+{"id": "96dMj4pf2-I-t3322.08", "text": "The baby green sweet pea, Billy exhale", "start": 3322.08, "end": 3325.08}
+{"id": "96dMj4pf2-I-t3325.08", "text": "Blue through blue duke, Dims passed on to accept that place which comes to each of us alone", "start": 3325.08, "end": 3333.08}
+{"id": "96dMj4pf2-I-t3355.08", "text": "Blue through blue, Ellington, Pumpernickel, Ellington, Pumpernickel, Ballyar", "start": 3355.08, "end": 3365.08}
+{"id": "96dMj4pf2-I-t3385.08", "text": "Blue through blue, Ellington, Pumpernickel, Ballyar", "start": 3385.08, "end": 3395.08}
+{"id": "96dMj4pf2-I-t3415.08", "text": "So", "start": 3415.08, "end": 3417.08}
+{"id": "96dMj4pf2-I-t3445.08", "text": "You", "start": 3445.08, "end": 3447.08}
+{"id": "96dMj4pf2-I-t3475.08", "text": "You", "start": 3475.08, "end": 3477.08}
+{"id": "96dMj4pf2-I-t3505.08", "text": "You", "start": 3505.08, "end": 3507.08}
+{"id": "96dMj4pf2-I-t3535.08", "text": "You", "start": 3535.08, "end": 3537.08}
+{"id": "96dMj4pf2-I-t3537.08", "text": "You", "start": 3537.08, "end": 3539.08}
+{"id": "96dMj4pf2-I-t3539.08", "text": "You", "start": 3539.08, "end": 3541.08}
+{"id": "96dMj4pf2-I-t3560.08", "text": "Thank you very much", "start": 3560.08, "end": 3562.08}
+{"id": "96dMj4pf2-I-t3562.08", "text": "Thank you", "start": 3562.08, "end": 3564.08}
+{"id": "96dMj4pf2-I-t3567.08", "text": "Thank you", "start": 3567.08, "end": 3569.08}
+{"id": "96dMj4pf2-I-t3573.08", "text": "I'm in the remaining time I'd be happy to address any questions you have or we would if there are any", "start": 3573.08, "end": 3579.08}
+{"id": "96dMj4pf2-I-t3579.08", "text": "Well, it's a work of fiction so it's a character but similar to the writer but sometimes", "start": 3579.08, "end": 3596.08}
+{"id": "96dMj4pf2-I-t3596.08", "text": "Not a tribute per se but sometimes in literature rather than", "start": 3596.08, "end": 3603.08}
+{"id": "96dMj4pf2-I-t3603.08", "text": "Confront unstable or unsavory or unpleasant topics you could do it through a character or a mask or some type of device to", "start": 3603.08, "end": 3613.08}
+{"id": "96dMj4pf2-I-t3613.08", "text": "Increase the psychic distance between the writer and the subject matter", "start": 3613.08, "end": 3620.08}
+{"id": "96dMj4pf2-I-t3620.08", "text": "So this character can be killed off he can do things that I wouldn't do", "start": 3620.08, "end": 3627.08}
+{"id": "96dMj4pf2-I-t3627.08", "text": "And also the double play on the meaning of the word singer was just a useful device so that's what that was", "start": 3627.08, "end": 3636.08}
+{"id": "96dMj4pf2-I-t3636.08", "text": "It's like Woody Allen they always ask him that is that based on your", "start": 3636.08, "end": 3639.08}
+{"id": "96dMj4pf2-I-t3639.08", "text": "Albie Singer from", "start": 3639.08, "end": 3641.08}
+{"id": "96dMj4pf2-I-t3641.08", "text": "But I mean even more recent films like his film from the 80s and 90s they always say that based on your life", "start": 3641.08, "end": 3647.08}
+{"id": "96dMj4pf2-I-t3647.08", "text": "You could say that it's just based on somebody who happens to go out with younger women", "start": 3647.08, "end": 3653.08}
+{"id": "96dMj4pf2-I-t3653.08", "text": "One of them happens to be a student of his or maybe a step door or something", "start": 3653.08, "end": 3658.08}
+{"id": "96dMj4pf2-I-t3658.08", "text": "But you could say it's a little like me but it's not really", "start": 3658.08, "end": 3662.08}
+{"id": "96dMj4pf2-I-t3662.08", "text": "Yeah", "start": 3662.08, "end": 3664.08}
+{"id": "96dMj4pf2-I-t3664.08", "text": "Please use the microphone if you want to ask a question or comment so we can get you out of hand", "start": 3664.08, "end": 3668.08}
+{"id": "96dMj4pf2-I-t3668.08", "text": "One other question", "start": 3668.08, "end": 3670.08}
+{"id": "96dMj4pf2-I-t3670.08", "text": "Ragi?", "start": 3670.08, "end": 3671.08}
+{"id": "96dMj4pf2-I-t3671.08", "text": "Yes?", "start": 3671.08, "end": 3672.08}
+{"id": "96dMj4pf2-I-t3672.08", "text": "I just want to say that I enjoy the music and poetry done together", "start": 3672.08, "end": 3677.08}
+{"id": "96dMj4pf2-I-t3677.08", "text": "But this is a question for the cast", "start": 3677.08, "end": 3680.08}
+{"id": "96dMj4pf2-I-t3680.08", "text": "Is the music original composition?", "start": 3680.08, "end": 3685.08}
+{"id": "96dMj4pf2-I-t3685.08", "text": "I'm just trying to hear if there were any other things to pick up from other songs", "start": 3685.08, "end": 3688.08}
+{"id": "96dMj4pf2-I-t3688.08", "text": "Which I didn't hear", "start": 3688.08, "end": 3690.08}
+{"id": "96dMj4pf2-I-t3690.08", "text": "But I don't know what all the compositions were you're on?", "start": 3690.08, "end": 3693.08}
+{"id": "96dMj4pf2-I-t3693.08", "text": "I made up all of them just now except for a few things", "start": 3693.08, "end": 3697.08}
+{"id": "96dMj4pf2-I-t3697.08", "text": "This one is kind of like a New Orleans blues", "start": 3697.08, "end": 3701.08}
+{"id": "96dMj4pf2-I-t3704.08", "text": "So even though I made it up it's within a very set format", "start": 3704.08, "end": 3707.08}
+{"id": "96dMj4pf2-I-t3707.08", "text": "And this was body and soul", "start": 3707.08, "end": 3710.08}
+{"id": "96dMj4pf2-I-t3716.08", "text": "And this is really based on all of me but I didn't really play it much", "start": 3716.08, "end": 3721.08}
+{"id": "96dMj4pf2-I-t3721.08", "text": "It really goes", "start": 3721.08, "end": 3723.08}
+{"id": "96dMj4pf2-I-t3723.08", "text": "Let's go", "start": 3723.08, "end": 3725.08}
+{"id": "96dMj4pf2-I-t3725.08", "text": "I'm not too old for me", "start": 3725.08, "end": 3728.08}
+{"id": "96dMj4pf2-I-t3728.08", "text": "Can't you see", "start": 3728.08, "end": 3730.08}
+{"id": "96dMj4pf2-I-t3730.08", "text": "But I didn't really play that", "start": 3730.08, "end": 3733.08}
+{"id": "96dMj4pf2-I-t3733.08", "text": "So it was all improvised but for those three I used so long forms that I'm familiar with", "start": 3733.08, "end": 3740.08}
+{"id": "96dMj4pf2-I-t3740.08", "text": "The rest I just made up and people sometimes tell me they say", "start": 3740.08, "end": 3743.08}
+{"id": "96dMj4pf2-I-t3743.08", "text": "Some of those were pretty good you should try and remember them and use them again", "start": 3743.08, "end": 3747.08}
+{"id": "96dMj4pf2-I-t3747.08", "text": "Maybe I'll listen back and see", "start": 3747.08, "end": 3749.08}
+{"id": "96dMj4pf2-I-t3749.08", "text": "You have a few other questions", "start": 3749.08, "end": 3751.08}
+{"id": "96dMj4pf2-I-t3751.08", "text": "I mean I do a lot of composing in fact I've done everything from short jazz tunes to symphony orchestra works", "start": 3751.08, "end": 3760.08}
+{"id": "96dMj4pf2-I-t3760.08", "text": "So I do a lot of composing it depends whether if I think it was good enough to save", "start": 3760.08, "end": 3764.08}
+{"id": "96dMj4pf2-I-t3764.08", "text": "Then I'll work on it and write it down", "start": 3764.08, "end": 3766.08}
+{"id": "96dMj4pf2-I-t3766.08", "text": "Rob you had a question?", "start": 3766.08, "end": 3768.08}
+{"id": "96dMj4pf2-I-t3768.08", "text": "Yeah, other questions for this kind of collaboration of a poet and a penis like this", "start": 3768.08, "end": 3774.08}
+{"id": "96dMj4pf2-I-t3774.08", "text": "Working together reciting and then", "start": 3774.08, "end": 3776.08}
+{"id": "96dMj4pf2-I-t3776.08", "text": "Whether it's jazz poetry collaborations since at least the 20s", "start": 3776.08, "end": 3781.08}
+{"id": "96dMj4pf2-I-t3783.08", "text": "Langston Hughes, Hart Crane, Kenneth Rexroth, Kenneth Patchin", "start": 3783.08, "end": 3788.08}
+{"id": "96dMj4pf2-I-t3788.08", "text": "Carowack and so on and so forth", "start": 3788.08, "end": 3793.08}
+{"id": "96dMj4pf2-I-t3793.08", "text": "But the two of us have done this a few times at various places", "start": 3793.08, "end": 3798.08}
+{"id": "96dMj4pf2-I-t3798.08", "text": "Cornelius Street once and I think at Rutgers once", "start": 3798.08, "end": 3801.08}
+{"id": "96dMj4pf2-I-t3801.08", "text": "So there's a precedent", "start": 3801.08, "end": 3804.08}
+{"id": "96dMj4pf2-I-t3804.08", "text": "This is more and more of it", "start": 3804.08, "end": 3805.08}
+{"id": "96dMj4pf2-I-t3805.08", "text": "My friend Vijay Arya who's a lately very successful jazz pianist", "start": 3805.08, "end": 3809.08}
+{"id": "96dMj4pf2-I-t3809.08", "text": "He used to do a lot of that in the 90s", "start": 3809.08, "end": 3812.08}
+{"id": "96dMj4pf2-I-t3812.08", "text": "He doesn't do that much anymore I don't think he's got a lot of gigs with his own band now", "start": 3812.08, "end": 3817.08}
+{"id": "96dMj4pf2-I-t3817.08", "text": "But the first time I saw him he was playing with a Mary Baraka", "start": 3817.08, "end": 3821.08}
+{"id": "96dMj4pf2-I-t3821.08", "text": "Exactly", "start": 3821.08, "end": 3822.08}
+{"id": "96dMj4pf2-I-t3822.08", "text": "But I will say this the thing about the earlier days", "start": 3822.08, "end": 3827.08}
+{"id": "96dMj4pf2-I-t3827.08", "text": "Through the 50s a lot of times what the jazz musicians did with the poets", "start": 3827.08, "end": 3832.08}
+{"id": "96dMj4pf2-I-t3832.08", "text": "It just played tunes that they had already rehearsed", "start": 3832.08, "end": 3835.08}
+{"id": "96dMj4pf2-I-t3835.08", "text": "So it's only more recently that you see people doing what we are doing", "start": 3835.08, "end": 3839.08}
+{"id": "96dMj4pf2-I-t3839.08", "text": "Where I'm just kind of listening and trying to see what will go with that", "start": 3839.08, "end": 3842.08}
+{"id": "96dMj4pf2-I-t3842.08", "text": "Some of the older collaborations are really just preset tunes that they just", "start": 3842.08, "end": 3846.08}
+{"id": "96dMj4pf2-I-t3846.08", "text": "Say okay here's a tune that we already play", "start": 3846.08, "end": 3849.08}
+{"id": "96dMj4pf2-I-t3849.08", "text": "So that might go well with this poem of yours", "start": 3849.08, "end": 3852.08}
+{"id": "96dMj4pf2-I-t3852.08", "text": "So to actually improvise at all is not that common maybe", "start": 3852.08, "end": 3856.08}
+{"id": "96dMj4pf2-I-t3856.08", "text": "I like the conversation", "start": 3856.08, "end": 3861.08}
+{"id": "96dMj4pf2-I-t3861.08", "text": "The problem was that it was frustrating not to go over words", "start": 3861.08, "end": 3867.08}
+{"id": "96dMj4pf2-I-t3867.08", "text": "So it was something about the balance between the piano and the recitation", "start": 3867.08, "end": 3874.08}
+{"id": "96dMj4pf2-I-t3874.08", "text": "Yeah that's why I kept asking you if we had it", "start": 3874.08, "end": 3878.08}
+{"id": "96dMj4pf2-I-t3878.08", "text": "Well it's an imperfect system", "start": 3878.08, "end": 3880.08}
+{"id": "96dMj4pf2-I-t3880.08", "text": "We could still work on that", "start": 3880.08, "end": 3882.08}
+{"id": "96dMj4pf2-I-t3882.08", "text": "You have to scream more when you're reading your poems", "start": 3882.08, "end": 3887.08}
+{"id": "96dMj4pf2-I-t3887.08", "text": "I would suggest something that you might want to prove of", "start": 3887.08, "end": 3891.08}
+{"id": "96dMj4pf2-I-t3891.08", "text": "And that is reading the poems before having the accomplished improvisation", "start": 3891.08, "end": 3899.08}
+{"id": "96dMj4pf2-I-t3899.08", "text": "You mean read it once and then once with the piano", "start": 3899.08, "end": 3902.08}
+{"id": "96dMj4pf2-I-t3902.08", "text": "So I think of that idea", "start": 3902.08, "end": 3906.08}
+{"id": "96dMj4pf2-I-t3906.08", "text": "Some of them don't want to hear the poem twice", "start": 3906.08, "end": 3910.08}
+{"id": "96dMj4pf2-I-t3910.08", "text": "How many people would like that idea of hearing the poem twice?", "start": 3910.08, "end": 3914.08}
+{"id": "96dMj4pf2-I-t3914.08", "text": "Some people would like that", "start": 3914.08, "end": 3916.08}
+{"id": "96dMj4pf2-I-t3916.08", "text": "How many people are too busy?", "start": 3916.08, "end": 3918.08}
+{"id": "96dMj4pf2-I-t3918.08", "text": "Life is too short they don't need to hear it twice", "start": 3918.08, "end": 3920.08}
+{"id": "96dMj4pf2-I-t3920.08", "text": "Come on, you're busy right? I understand", "start": 3920.08, "end": 3924.08}
+{"id": "96dMj4pf2-I-t3924.08", "text": "Another option might be to put the piano further away from the poet", "start": 3924.08, "end": 3928.08}
+{"id": "96dMj4pf2-I-t3928.08", "text": "And then you know the spotlight on you and your solvents", "start": 3928.08, "end": 3931.08}
+{"id": "96dMj4pf2-I-t3931.08", "text": "I had a really hard time hearing it", "start": 3931.08, "end": 3933.08}
+{"id": "96dMj4pf2-I-t3933.08", "text": "In addition to the logistics of the thing", "start": 3933.08, "end": 3937.08}
+{"id": "96dMj4pf2-I-t3937.08", "text": "They're very clearly dense complex things that I've written", "start": 3937.08, "end": 3943.08}
+{"id": "96dMj4pf2-I-t3943.08", "text": "So even if I read it twice I don't know", "start": 3943.08, "end": 3947.08}
+{"id": "96dMj4pf2-I-t3947.08", "text": "It might improve it a little but I don't know how much that would do", "start": 3947.08, "end": 3950.08}
+{"id": "96dMj4pf2-I-t3950.08", "text": "His poems are very erudite, they reflect a lot of knowledge", "start": 3950.08, "end": 3953.08}
+{"id": "96dMj4pf2-I-t3953.08", "text": "And a lot of knowledge of the history of poetry", "start": 3953.08, "end": 3955.08}
+{"id": "96dMj4pf2-I-t3955.08", "text": "So there is a lot of detail in them", "start": 3955.08, "end": 3957.08}
+{"id": "96dMj4pf2-I-t3957.08", "text": "It's not like poetry slam where you can understand it", "start": 3957.08, "end": 3963.08}
+{"id": "96dMj4pf2-I-t3963.08", "text": "The minute you hear it", "start": 3963.08, "end": 3965.08}
+{"id": "96dMj4pf2-I-t3965.08", "text": "I have a question for each of you though", "start": 3965.08, "end": 3967.08}
+{"id": "96dMj4pf2-I-t3967.08", "text": "That wasn't a question", "start": 3967.08, "end": 3969.08}
+{"id": "96dMj4pf2-I-t3969.08", "text": "In terms of when you play the piano", "start": 3969.08, "end": 3973.08}
+{"id": "96dMj4pf2-I-t3973.08", "text": "Are you improvising as you go along", "start": 3973.08, "end": 3977.08}
+{"id": "96dMj4pf2-I-t3977.08", "text": "Or have you already read the poems prior to", "start": 3977.08, "end": 3981.08}
+{"id": "96dMj4pf2-I-t3981.08", "text": "Is this the first time you're hearing the poems?", "start": 3981.08, "end": 3983.08}
+{"id": "96dMj4pf2-I-t3983.08", "text": "It's a good question", "start": 3983.08, "end": 3985.08}
+{"id": "96dMj4pf2-I-t3985.08", "text": "We actually talked about that because", "start": 3985.08, "end": 3987.08}
+{"id": "96dMj4pf2-I-t3987.08", "text": "You know I have the book", "start": 3987.08, "end": 3989.08}
+{"id": "96dMj4pf2-I-t3989.08", "text": "Which won all the prizes", "start": 3989.08, "end": 3991.08}
+{"id": "96dMj4pf2-I-t3991.08", "text": "And I have a chapbook that other thing of yours", "start": 3991.08, "end": 3995.08}
+{"id": "96dMj4pf2-I-t3995.08", "text": "So I have some of his poems", "start": 3995.08, "end": 3997.08}
+{"id": "96dMj4pf2-I-t3997.08", "text": "I've read them and enjoy them", "start": 3997.08, "end": 3999.08}
+{"id": "96dMj4pf2-I-t3999.08", "text": "I feel like I know something about poetry", "start": 3999.08, "end": 4001.08}
+{"id": "96dMj4pf2-I-t4001.08", "text": "I know something about the way poetry is structured and all this", "start": 4001.08, "end": 4003.08}
+{"id": "96dMj4pf2-I-t4003.08", "text": "But we actually talked about whether I should have the poems in front of me", "start": 4003.08, "end": 4006.08}
+{"id": "96dMj4pf2-I-t4006.08", "text": "Because I certainly don't know any of the poems", "start": 4006.08, "end": 4008.08}
+{"id": "96dMj4pf2-I-t4008.08", "text": "Well enough time I would know them by heart", "start": 4008.08, "end": 4010.08}
+{"id": "96dMj4pf2-I-t4010.08", "text": "You know so", "start": 4010.08, "end": 4011.08}
+{"id": "96dMj4pf2-I-t4011.08", "text": "And we decided that could actually be distracting for me", "start": 4011.08, "end": 4015.08}
+{"id": "96dMj4pf2-I-t4015.08", "text": "So we decided not to do it that way", "start": 4015.08, "end": 4017.08}
+{"id": "96dMj4pf2-I-t4017.08", "text": "And essentially I'm hearing the poems for the first time", "start": 4017.08, "end": 4019.08}
+{"id": "96dMj4pf2-I-t4019.08", "text": "Because you know I've read them once or twice", "start": 4019.08, "end": 4021.08}
+{"id": "96dMj4pf2-I-t4021.08", "text": "But it's not like I really know them", "start": 4021.08, "end": 4023.08}
+{"id": "96dMj4pf2-I-t4023.08", "text": "And a question from Mr. Sinner", "start": 4023.08, "end": 4025.08}
+{"id": "96dMj4pf2-I-t4025.08", "text": "I read in your bio your process of creating your poetry", "start": 4025.08, "end": 4029.08}
+{"id": "96dMj4pf2-I-t4029.08", "text": "I read about your own history", "start": 4029.08, "end": 4033.08}
+{"id": "96dMj4pf2-I-t4033.08", "text": "I read about your own history", "start": 4033.08, "end": 4035.08}
+{"id": "96dMj4pf2-I-t4035.08", "text": "But she says the question", "start": 4035.08, "end": 4037.08}
+{"id": "96dMj4pf2-I-t4037.08", "text": "I read in your bio the process of your writing", "start": 4037.08, "end": 4040.08}
+{"id": "96dMj4pf2-I-t4040.08", "text": "So you write down little snippets of observations", "start": 4040.08, "end": 4042.08}
+{"id": "96dMj4pf2-I-t4042.08", "text": "For a period of time and then it comes to you", "start": 4042.08, "end": 4044.08}
+{"id": "96dMj4pf2-I-t4044.08", "text": "With that process, how many poems do you generate per year?", "start": 4044.08, "end": 4048.08}
+{"id": "96dMj4pf2-I-t4048.08", "text": "What would you say?", "start": 4048.08, "end": 4050.08}
+{"id": "96dMj4pf2-I-t4050.08", "text": "Well the past several years not as much as I've been writing", "start": 4050.08, "end": 4054.08}
+{"id": "96dMj4pf2-I-t4054.08", "text": "Dissertation and doing under things", "start": 4054.08, "end": 4056.08}
+{"id": "96dMj4pf2-I-t4056.08", "text": "But ideally I would write as much as possible", "start": 4056.08, "end": 4060.08}
+{"id": "96dMj4pf2-I-t4060.08", "text": "But in my opinion there are too many already", "start": 4060.08, "end": 4064.08}
+{"id": "96dMj4pf2-I-t4064.08", "text": "Too many poems? Yeah, or too many of your poems?", "start": 4064.08, "end": 4070.08}
+{"id": "96dMj4pf2-I-t4070.08", "text": "Well in general but I'd rather just be open to it", "start": 4070.08, "end": 4072.08}
+{"id": "96dMj4pf2-I-t4072.08", "text": "And then have it come when it comes", "start": 4072.08, "end": 4076.08}
+{"id": "96dMj4pf2-I-t4076.08", "text": "But theoretically this has not existed", "start": 4076.08, "end": 4080.08}
+{"id": "96dMj4pf2-I-t4080.08", "text": "But I would write every day", "start": 4080.08, "end": 4084.08}
+{"id": "96dMj4pf2-I-t4084.08", "text": "But in reality I try to just do it", "start": 4084.08, "end": 4088.08}
+{"id": "96dMj4pf2-I-t4088.08", "text": "And then I try to do it", "start": 4088.08, "end": 4090.08}
+{"id": "96dMj4pf2-I-t4090.08", "text": "But in reality I try to just do it", "start": 4090.08, "end": 4094.08}
+{"id": "96dMj4pf2-I-t4094.08", "text": "As much as possible", "start": 4094.08, "end": 4096.08}
+{"id": "96dMj4pf2-I-t4096.08", "text": "I think maybe built into her question", "start": 4096.08, "end": 4098.08}
+{"id": "96dMj4pf2-I-t4098.08", "text": "Is the question is that a slow process?", "start": 4098.08, "end": 4102.08}
+{"id": "96dMj4pf2-I-t4102.08", "text": "Yeah, it takes years sometimes for a single poem", "start": 4102.08, "end": 4106.08}
+{"id": "96dMj4pf2-I-t4106.08", "text": "I'll work on it and you'll come back to it", "start": 4106.08, "end": 4108.08}
+{"id": "96dMj4pf2-I-t4108.08", "text": "I wanted to make a comment about the difficulty", "start": 4108.08, "end": 4110.08}
+{"id": "96dMj4pf2-I-t4110.08", "text": "Understanding some of the words as you were reading", "start": 4110.08, "end": 4114.08}
+{"id": "96dMj4pf2-I-t4114.08", "text": "I read your book of poems twice", "start": 4114.08, "end": 4116.08}
+{"id": "96dMj4pf2-I-t4116.08", "text": "And enjoyed the poems", "start": 4116.08, "end": 4118.08}
+{"id": "96dMj4pf2-I-t4118.08", "text": "And found myself enjoying the poems in a different way", "start": 4118.08, "end": 4120.08}
+{"id": "96dMj4pf2-I-t4120.08", "text": "Hearing them presented in this format", "start": 4120.08, "end": 4122.08}
+{"id": "96dMj4pf2-I-t4122.08", "text": "And I felt that missing out on some of the words", "start": 4122.08, "end": 4126.08}
+{"id": "96dMj4pf2-I-t4126.08", "text": "That you can get when you're reading", "start": 4126.08, "end": 4128.08}
+{"id": "96dMj4pf2-I-t4128.08", "text": "And there's silence around you", "start": 4128.08, "end": 4130.08}
+{"id": "96dMj4pf2-I-t4130.08", "text": "This was a different experience", "start": 4130.08, "end": 4132.08}
+{"id": "96dMj4pf2-I-t4132.08", "text": "In which in the fence getting all the words wasn't that important", "start": 4132.08, "end": 4136.08}
+{"id": "96dMj4pf2-I-t4136.08", "text": "And the sound of your voice was a kind of a music", "start": 4136.08, "end": 4138.08}
+{"id": "96dMj4pf2-I-t4138.08", "text": "And it was more notes than semantic units", "start": 4138.08, "end": 4142.08}
+{"id": "96dMj4pf2-I-t4142.08", "text": "I think if you...", "start": 4142.08, "end": 4146.08}
+{"id": "96dMj4pf2-I-t4146.08", "text": "This verdict is still out on what I'm about to say", "start": 4146.08, "end": 4148.08}
+{"id": "96dMj4pf2-I-t4148.08", "text": "It's my opinion", "start": 4148.08, "end": 4150.08}
+{"id": "96dMj4pf2-I-t4150.08", "text": "But I think if you've missed the rhythm in a poem", "start": 4150.08, "end": 4154.08}
+{"id": "96dMj4pf2-I-t4154.08", "text": "You've missed the whole ship", "start": 4154.08, "end": 4156.08}
+{"id": "96dMj4pf2-I-t4156.08", "text": "I mean the sound is", "start": 4156.08, "end": 4158.08}
+{"id": "96dMj4pf2-I-t4158.08", "text": "The pleasure for the ear is really what I'm there for", "start": 4158.08, "end": 4162.08}
+{"id": "96dMj4pf2-I-t4162.08", "text": "A lot of the times", "start": 4162.08, "end": 4164.08}
+{"id": "96dMj4pf2-I-t4164.08", "text": "So I like that", "start": 4164.08, "end": 4166.08}
+{"id": "96dMj4pf2-I-t4166.08", "text": "But I mean not in all cases", "start": 4166.08, "end": 4168.08}
+{"id": "96dMj4pf2-I-t4168.08", "text": "In all times I guess", "start": 4168.08, "end": 4170.08}
+{"id": "96dMj4pf2-I-t4170.08", "text": "I can't I just don't want to see the thoughts", "start": 4170.08, "end": 4172.08}
+{"id": "96dMj4pf2-I-t4172.08", "text": "And the fun is just because you're doing the poem", "start": 4172.08, "end": 4174.08}
+{"id": "96dMj4pf2-I-t4174.08", "text": "And you're about giving the non-inspirational audience", "start": 4174.08, "end": 4176.08}
+{"id": "96dMj4pf2-I-t4176.08", "text": "So that's one", "start": 4176.08, "end": 4178.08}
+{"id": "96dMj4pf2-I-t4178.08", "text": "I have a better idea", "start": 4178.08, "end": 4180.08}
+{"id": "96dMj4pf2-I-t4180.08", "text": "Everyone in the audience has to", "start": 4180.08, "end": 4182.08}
+{"id": "96dMj4pf2-I-t4182.08", "text": "Has to buy the poems", "start": 4182.08, "end": 4184.08}
+{"id": "96dMj4pf2-I-t4184.08", "text": "Yeah", "start": 4184.08, "end": 4186.08}
+{"id": "96dMj4pf2-I-t4186.08", "text": "Good one, huh? What do you think? Good?", "start": 4186.08, "end": 4188.08}
+{"id": "96dMj4pf2-I-t4188.08", "text": "I think the...", "start": 4188.08, "end": 4190.08}
+{"id": "96dMj4pf2-I-t4190.08", "text": "You know, one of my CDs", "start": 4190.08, "end": 4192.08}
+{"id": "96dMj4pf2-I-t4192.08", "text": "And then you play together when you get home", "start": 4192.08, "end": 4194.08}
+{"id": "96dMj4pf2-I-t4194.08", "text": "What the hell? Don't even stay for the performance", "start": 4194.08, "end": 4196.08}
+{"id": "96dMj4pf2-I-t4196.08", "text": "That's it, I'm going home", "start": 4196.08, "end": 4198.08}
+{"id": "96dMj4pf2-I-t4198.08", "text": "I mean ideally these would require multiple readings", "start": 4198.08, "end": 4200.08}
+{"id": "96dMj4pf2-I-t4200.08", "text": "Or whatever", "start": 4200.08, "end": 4202.08}
+{"id": "96dMj4pf2-I-t4202.08", "text": "We do", "start": 4202.08, "end": 4204.08}
+{"id": "96dMj4pf2-I-t4204.08", "text": "A kind of version of that", "start": 4204.08, "end": 4206.08}
+{"id": "96dMj4pf2-I-t4206.08", "text": "I have a two-part question", "start": 4206.08, "end": 4208.08}
+{"id": "96dMj4pf2-I-t4208.08", "text": "And I was wondering", "start": 4208.08, "end": 4210.08}
+{"id": "96dMj4pf2-I-t4210.08", "text": "The structure of jazz", "start": 4210.08, "end": 4212.08}
+{"id": "96dMj4pf2-I-t4212.08", "text": "As opposed to the context", "start": 4212.08, "end": 4214.08}
+{"id": "96dMj4pf2-I-t4214.08", "text": "You know of the poetry", "start": 4214.08, "end": 4216.08}
+{"id": "96dMj4pf2-I-t4216.08", "text": "And I don't know much about the structure of jazz", "start": 4216.08, "end": 4218.08}
+{"id": "96dMj4pf2-I-t4218.08", "text": "Could you just give us a little", "start": 4218.08, "end": 4220.08}
+{"id": "96dMj4pf2-I-t4220.08", "text": "Bit", "start": 4220.08, "end": 4222.08}
+{"id": "96dMj4pf2-I-t4222.08", "text": "An inter-dramaticism there", "start": 4222.08, "end": 4224.08}
+{"id": "96dMj4pf2-I-t4224.08", "text": "But I know classical music but I don't know", "start": 4224.08, "end": 4226.08}
+{"id": "96dMj4pf2-I-t4226.08", "text": "The structure", "start": 4226.08, "end": 4228.08}
+{"id": "96dMj4pf2-I-t4228.08", "text": "And does it go necessarily with the rhythm", "start": 4228.08, "end": 4230.08}
+{"id": "96dMj4pf2-I-t4230.08", "text": "Of the poetry", "start": 4230.08, "end": 4232.08}
+{"id": "96dMj4pf2-I-t4232.08", "text": "And then the context of subject", "start": 4232.08, "end": 4234.08}
+{"id": "96dMj4pf2-I-t4234.08", "text": "I'm going to ask that a little bit differently", "start": 4234.08, "end": 4236.08}
+{"id": "96dMj4pf2-I-t4236.08", "text": "From the way you asked it", "start": 4236.08, "end": 4238.08}
+{"id": "96dMj4pf2-I-t4238.08", "text": "Because", "start": 4238.08, "end": 4240.08}
+{"id": "96dMj4pf2-I-t4240.08", "text": "First of all, in terms of structure", "start": 4240.08, "end": 4242.08}
+{"id": "96dMj4pf2-I-t4242.08", "text": "The thing about jazz is that", "start": 4242.08, "end": 4244.08}
+{"id": "96dMj4pf2-I-t4244.08", "text": "You're improvising over a structure", "start": 4244.08, "end": 4246.08}
+{"id": "96dMj4pf2-I-t4246.08", "text": "The structures you're improvising over", "start": 4246.08, "end": 4248.08}
+{"id": "96dMj4pf2-I-t4248.08", "text": "Not so different from classical music structures", "start": 4248.08, "end": 4250.08}
+{"id": "96dMj4pf2-I-t4250.08", "text": "So we'll talk about the first theme", "start": 4250.08, "end": 4252.08}
+{"id": "96dMj4pf2-I-t4252.08", "text": "The second theme", "start": 4252.08, "end": 4253.08}
+{"id": "96dMj4pf2-I-t4253.08", "text": "But we're improvising really on the harm", "start": 4253.08, "end": 4254.08}
+{"id": "96dMj4pf2-I-t4254.08", "text": "And use of those themes", "start": 4254.08, "end": 4256.08}
+{"id": "96dMj4pf2-I-t4256.08", "text": "Jazz we always say", "start": 4256.08, "end": 4258.08}
+{"id": "96dMj4pf2-I-t4258.08", "text": "Goldberg variations", "start": 4258.08, "end": 4260.08}
+{"id": "96dMj4pf2-I-t4260.08", "text": "Are closer to jazz", "start": 4260.08, "end": 4262.08}
+{"id": "96dMj4pf2-I-t4262.08", "text": "Than most forms in classical music", "start": 4262.08, "end": 4264.08}
+{"id": "96dMj4pf2-I-t4264.08", "text": "Because he takes a harmony", "start": 4264.08, "end": 4266.08}
+{"id": "96dMj4pf2-I-t4266.08", "text": "And does 32 amazing", "start": 4266.08, "end": 4268.08}
+{"id": "96dMj4pf2-I-t4268.08", "text": "Different ways of playing over that harmony", "start": 4268.08, "end": 4270.08}
+{"id": "96dMj4pf2-I-t4270.08", "text": "So that's kind of what we do", "start": 4270.08, "end": 4272.08}
+{"id": "96dMj4pf2-I-t4272.08", "text": "But I also do free improvisation", "start": 4272.08, "end": 4274.08}
+{"id": "96dMj4pf2-I-t4274.08", "text": "Because I am a composer also", "start": 4274.08, "end": 4276.08}
+{"id": "96dMj4pf2-I-t4276.08", "text": "And I'm well versed in classical music", "start": 4276.08, "end": 4278.08}
+{"id": "96dMj4pf2-I-t4278.08", "text": "So one thing I did, I don't quite remember what it was", "start": 4278.08, "end": 4280.08}
+{"id": "96dMj4pf2-I-t4280.08", "text": "But it was kind of a debussy kind of thing", "start": 4280.08, "end": 4282.08}
+{"id": "96dMj4pf2-I-t4282.08", "text": "And I remember something like...", "start": 4282.08, "end": 4288.08}
+{"id": "96dMj4pf2-I-t4288.08", "text": "Music", "start": 4288.08, "end": 4290.08}
+{"id": "96dMj4pf2-I-t4290.08", "text": "Music", "start": 4290.08, "end": 4294.08}
+{"id": "96dMj4pf2-I-t4294.08", "text": "Music", "start": 4294.08, "end": 4298.08}
+{"id": "96dMj4pf2-I-t4298.08", "text": "Music", "start": 4298.08, "end": 4302.08}
+{"id": "96dMj4pf2-I-t4302.08", "text": "Debussy, you know, I'm thinking about Debussy", "start": 4302.08, "end": 4304.08}
+{"id": "96dMj4pf2-I-t4304.08", "text": "You know, Debussy was", "start": 4304.08, "end": 4306.08}
+{"id": "96dMj4pf2-I-t4306.08", "text": "A lot of composers will say he's the inventor", "start": 4306.08, "end": 4308.08}
+{"id": "96dMj4pf2-I-t4308.08", "text": "Of modern music, you know", "start": 4308.08, "end": 4310.08}
+{"id": "96dMj4pf2-I-t4310.08", "text": "And he composed of even Stavinsky", "start": 4310.08, "end": 4312.08}
+{"id": "96dMj4pf2-I-t4312.08", "text": "So Debussy was like a god to him", "start": 4312.08, "end": 4314.08}
+{"id": "96dMj4pf2-I-t4314.08", "text": "And I don't know if you know this", "start": 4314.08, "end": 4316.08}
+{"id": "96dMj4pf2-I-t4316.08", "text": "But Stavinsky showed the right of spring piano version", "start": 4316.08, "end": 4320.08}
+{"id": "96dMj4pf2-I-t4320.08", "text": "That he was using, not the orchestral", "start": 4320.08, "end": 4322.08}
+{"id": "96dMj4pf2-I-t4322.08", "text": "But Stavinsky was playing it on the piano to accompany the dancers", "start": 4322.08, "end": 4324.08}
+{"id": "96dMj4pf2-I-t4324.08", "text": "And he showed it to Debussy", "start": 4324.08, "end": 4326.08}
+{"id": "96dMj4pf2-I-t4326.08", "text": "And Debussy's site read it", "start": 4326.08, "end": 4328.08}
+{"id": "96dMj4pf2-I-t4328.08", "text": "He said, oh, this is rather good", "start": 4328.08, "end": 4330.08}
+{"id": "96dMj4pf2-I-t4330.08", "text": "And Stavinsky was looking at him", "start": 4330.08, "end": 4332.08}
+{"id": "96dMj4pf2-I-t4332.08", "text": "You can read that at site, you know", "start": 4332.08, "end": 4334.08}
+{"id": "96dMj4pf2-I-t4334.08", "text": "It was a whole new kind of music", "start": 4334.08, "end": 4336.08}
+{"id": "96dMj4pf2-I-t4336.08", "text": "But so it doesn't really...", "start": 4336.08, "end": 4338.08}
+{"id": "96dMj4pf2-I-t4338.08", "text": "Because the whole idea of Debussy", "start": 4338.08, "end": 4340.08}
+{"id": "96dMj4pf2-I-t4340.08", "text": "Is to get a sound that you like", "start": 4340.08, "end": 4342.08}
+{"id": "96dMj4pf2-I-t4342.08", "text": "And he would use something that I sometimes call them", "start": 4342.08, "end": 4344.08}
+{"id": "96dMj4pf2-I-t4344.08", "text": "Cluster chords. This one happens to be a diminished chord", "start": 4344.08, "end": 4346.08}
+{"id": "96dMj4pf2-I-t4346.08", "text": "This one happens to be a dominant chord", "start": 4346.08, "end": 4348.08}
+{"id": "96dMj4pf2-I-t4348.08", "text": "But it's...", "start": 4348.08, "end": 4350.08}
+{"id": "96dMj4pf2-I-t4350.08", "text": "This is not jazz", "start": 4350.08, "end": 4352.08}
+{"id": "96dMj4pf2-I-t4352.08", "text": "You understand? So you can't make that comparison", "start": 4352.08, "end": 4354.08}
+{"id": "96dMj4pf2-I-t4354.08", "text": "My point is when I do that", "start": 4354.08, "end": 4356.08}
+{"id": "96dMj4pf2-I-t4356.08", "text": "I'm not doing the jazz thing", "start": 4356.08, "end": 4358.08}
+{"id": "96dMj4pf2-I-t4358.08", "text": "I'm not taking a set harmony and improvising over it", "start": 4358.08, "end": 4360.08}
+{"id": "96dMj4pf2-I-t4360.08", "text": "I'm improvising the whole thing including the harmony", "start": 4360.08, "end": 4364.08}
+{"id": "96dMj4pf2-I-t4364.08", "text": "In the style that", "start": 4364.08, "end": 4366.08}
+{"id": "96dMj4pf2-I-t4366.08", "text": "It happened to be a little like Debussy", "start": 4366.08, "end": 4368.08}
+{"id": "96dMj4pf2-I-t4368.08", "text": "It was me, but it happened to be inspired by Debussy", "start": 4368.08, "end": 4370.08}
+{"id": "96dMj4pf2-I-t4370.08", "text": "It's like composition, but spontaneous", "start": 4370.08, "end": 4372.08}
+{"id": "96dMj4pf2-I-t4372.08", "text": "Not everybody can do that", "start": 4372.08, "end": 4374.08}
+{"id": "96dMj4pf2-I-t4374.08", "text": "I mean, I happen to be", "start": 4374.08, "end": 4376.08}
+{"id": "96dMj4pf2-I-t4376.08", "text": "A very familiar classical music", "start": 4376.08, "end": 4378.08}
+{"id": "96dMj4pf2-I-t4378.08", "text": "And I like doing that kind of thing", "start": 4378.08, "end": 4380.08}
+{"id": "96dMj4pf2-I-t4380.08", "text": "So that's different, that's not a jazz thing", "start": 4380.08, "end": 4382.08}
+{"id": "96dMj4pf2-I-t4382.08", "text": "I think with the poems also, I want to try to create", "start": 4382.08, "end": 4384.08}
+{"id": "96dMj4pf2-I-t4384.08", "text": "It's artificial to some extent", "start": 4384.08, "end": 4386.08}
+{"id": "96dMj4pf2-I-t4386.08", "text": "But I create a situation that seems like it was inevitable", "start": 4386.08, "end": 4388.08}
+{"id": "96dMj4pf2-I-t4388.08", "text": "But also somehow spontaneous", "start": 4388.08, "end": 4392.08}
+{"id": "96dMj4pf2-I-t4392.08", "text": "The context", "start": 4392.08, "end": 4394.08}
+{"id": "96dMj4pf2-I-t4394.08", "text": "Well, there's a way that it sounds", "start": 4394.08, "end": 4396.08}
+{"id": "96dMj4pf2-I-t4396.08", "text": "The way the lines are broken, etc", "start": 4396.08, "end": 4400.08}
+{"id": "96dMj4pf2-I-t4400.08", "text": "The subject, the context", "start": 4400.08, "end": 4404.08}
+{"id": "96dMj4pf2-I-t4404.08", "text": "Do you address that?", "start": 4404.08, "end": 4406.08}
+{"id": "96dMj4pf2-I-t4406.08", "text": "I try to, but I just want to say something about that", "start": 4406.08, "end": 4410.08}
+{"id": "96dMj4pf2-I-t4410.08", "text": "Which is that most poets, not only poets", "start": 4410.08, "end": 4414.08}
+{"id": "96dMj4pf2-I-t4414.08", "text": "But almost anybody who accompany", "start": 4414.08, "end": 4416.08}
+{"id": "96dMj4pf2-I-t4416.08", "text": "Whether it's a pipe work with dancers", "start": 4416.08, "end": 4418.08}
+{"id": "96dMj4pf2-I-t4418.08", "text": "You do things for film sometimes", "start": 4418.08, "end": 4420.08}
+{"id": "96dMj4pf2-I-t4420.08", "text": "Don't like it if you try to catch every nuance", "start": 4420.08, "end": 4422.08}
+{"id": "96dMj4pf2-I-t4422.08", "text": "Because then, could you read it?", "start": 4422.08, "end": 4424.08}
+{"id": "96dMj4pf2-I-t4424.08", "text": "When it's thunder and he plays it", "start": 4424.08, "end": 4426.08}
+{"id": "96dMj4pf2-I-t4426.08", "text": "You don't want that", "start": 4426.08, "end": 4428.08}
+{"id": "96dMj4pf2-I-t4428.08", "text": "They don't like it if you go and try to emulate it", "start": 4428.08, "end": 4432.08}
+{"id": "96dMj4pf2-I-t4432.08", "text": "He says, then I heard the blues", "start": 4432.08, "end": 4434.08}
+{"id": "96dMj4pf2-I-t4434.08", "text": "And then I heard some thunder", "start": 4434.08, "end": 4436.08}
+{"id": "96dMj4pf2-I-t4436.08", "text": "But then it started to rain", "start": 4436.08, "end": 4438.08}
+{"id": "96dMj4pf2-I-t4438.08", "text": "It sounds funny afterwards", "start": 4438.08, "end": 4440.08}
+{"id": "96dMj4pf2-I-t4440.08", "text": "It's like a desire of thunder", "start": 4440.08, "end": 4442.08}
+{"id": "96dMj4pf2-I-t4442.08", "text": "There's a skeleton", "start": 4442.08, "end": 4444.08}
+{"id": "96dMj4pf2-I-t4444.08", "text": "Yeah, it sounds silly", "start": 4444.08, "end": 4446.08}
+{"id": "96dMj4pf2-I-t4446.08", "text": "And by the way, in the film business", "start": 4446.08, "end": 4448.08}
+{"id": "96dMj4pf2-I-t4448.08", "text": "They used to call that Mickey Mouse thing", "start": 4448.08, "end": 4450.08}
+{"id": "96dMj4pf2-I-t4450.08", "text": "They maybe they still do", "start": 4450.08, "end": 4452.08}
+{"id": "96dMj4pf2-I-t4452.08", "text": "Because the idea is that in cartoons", "start": 4452.08, "end": 4454.08}
+{"id": "96dMj4pf2-I-t4454.08", "text": "You do that, but you wouldn't do that in a serious thing", "start": 4454.08, "end": 4456.08}
+{"id": "96dMj4pf2-I-t4456.08", "text": "So we have talked about that", "start": 4456.08, "end": 4458.08}
+{"id": "96dMj4pf2-I-t4458.08", "text": "Yeah, that's what I'm getting at", "start": 4458.08, "end": 4460.08}
+{"id": "96dMj4pf2-I-t4460.08", "text": "So we have talked about that", "start": 4460.08, "end": 4462.08}
+{"id": "96dMj4pf2-I-t4462.08", "text": "And so what I try to do", "start": 4462.08, "end": 4464.08}
+{"id": "96dMj4pf2-I-t4464.08", "text": "It's a little hard since I'm not so familiar with this poetry", "start": 4464.08, "end": 4468.08}
+{"id": "96dMj4pf2-I-t4468.08", "text": "And some of them are things I hadn't read before", "start": 4468.08, "end": 4470.08}
+{"id": "96dMj4pf2-I-t4470.08", "text": "But certainly the ones I read before", "start": 4470.08, "end": 4472.08}
+{"id": "96dMj4pf2-I-t4472.08", "text": "As soon as I heard the beginning", "start": 4472.08, "end": 4474.08}
+{"id": "96dMj4pf2-I-t4474.08", "text": "I kind of had a sense, okay, is this a dark mood?", "start": 4474.08, "end": 4476.08}
+{"id": "96dMj4pf2-I-t4476.08", "text": "Is it a light mood? Is it a blue?", "start": 4476.08, "end": 4478.08}
+{"id": "96dMj4pf2-I-t4478.08", "text": "I just mentioned the blues", "start": 4478.08, "end": 4480.08}
+{"id": "96dMj4pf2-I-t4480.08", "text": "You know, this kind of thing", "start": 4480.08, "end": 4482.08}
+{"id": "96dMj4pf2-I-t4482.08", "text": "So in that sense, I try to do the overall mood of it", "start": 4482.08, "end": 4484.08}
+{"id": "96dMj4pf2-I-t4484.08", "text": "But not try to catch every little nuance", "start": 4484.08, "end": 4486.08}
+{"id": "96dMj4pf2-I-t4486.08", "text": "And I was trying to play very softly behind them too", "start": 4486.08, "end": 4488.08}
+{"id": "96dMj4pf2-I-t4488.08", "text": "With the soft pedal on here", "start": 4488.08, "end": 4490.08}
+{"id": "96dMj4pf2-I-t4490.08", "text": "I have two comments", "start": 4490.08, "end": 4492.08}
+{"id": "96dMj4pf2-I-t4492.08", "text": "One is to combine", "start": 4492.08, "end": 4494.08}
+{"id": "96dMj4pf2-I-t4494.08", "text": "And you said make a CD", "start": 4494.08, "end": 4496.08}
+{"id": "96dMj4pf2-I-t4496.08", "text": "And you should combine it and make the poetry CD", "start": 4496.08, "end": 4498.08}
+{"id": "96dMj4pf2-I-t4498.08", "text": "So we could take it with us", "start": 4498.08, "end": 4500.08}
+{"id": "96dMj4pf2-I-t4500.08", "text": "Good idea", "start": 4500.08, "end": 4501.08}
+{"id": "96dMj4pf2-I-t4501.08", "text": "And the second part was", "start": 4501.08, "end": 4503.08}
+{"id": "96dMj4pf2-I-t4503.08", "text": "It's now for you", "start": 4503.08, "end": 4505.08}
+{"id": "96dMj4pf2-I-t4505.08", "text": "2%", "start": 4505.08, "end": 4506.08}
+{"id": "96dMj4pf2-I-t4506.08", "text": "The other part was, like other people mentioning, your words", "start": 4506.08, "end": 4510.08}
+{"id": "96dMj4pf2-I-t4510.08", "text": "Hard to pick up sometimes", "start": 4510.08, "end": 4512.08}
+{"id": "96dMj4pf2-I-t4512.08", "text": "And then you went into a kind of a", "start": 4512.08, "end": 4515.08}
+{"id": "96dMj4pf2-I-t4515.08", "text": "Philip Glass melodic piece", "start": 4515.08, "end": 4518.08}
+{"id": "96dMj4pf2-I-t4518.08", "text": "That tripped me out and I went to an altered state", "start": 4518.08, "end": 4521.08}
+{"id": "96dMj4pf2-I-t4521.08", "text": "I saw you altered", "start": 4521.08, "end": 4524.08}
+{"id": "96dMj4pf2-I-t4524.08", "text": "I noticed you altered when I played", "start": 4524.08, "end": 4526.08}
+{"id": "96dMj4pf2-I-t4526.08", "text": "I did it", "start": 4526.08, "end": 4527.08}
+{"id": "96dMj4pf2-I-t4527.08", "text": "Yes", "start": 4527.08, "end": 4530.08}
+{"id": "96dMj4pf2-I-t4530.08", "text": "Yes", "start": 4530.08, "end": 4532.08}
+{"id": "96dMj4pf2-I-t4532.08", "text": "Something like that", "start": 4532.08, "end": 4534.08}
+{"id": "96dMj4pf2-I-t4534.08", "text": "And then I was able to hear the words a lot clearer", "start": 4534.08, "end": 4538.08}
+{"id": "96dMj4pf2-I-t4538.08", "text": "Since I went into an altered state", "start": 4538.08, "end": 4540.08}
+{"id": "96dMj4pf2-I-t4540.08", "text": "And then you could hear it better?", "start": 4540.08, "end": 4542.08}
+{"id": "96dMj4pf2-I-t4542.08", "text": "Yeah, yeah", "start": 4542.08, "end": 4543.08}
+{"id": "96dMj4pf2-I-t4543.08", "text": "I dropped out and dropped in", "start": 4543.08, "end": 4545.08}
+{"id": "96dMj4pf2-I-t4545.08", "text": "So what's the problem folks?", "start": 4545.08, "end": 4546.08}
+{"id": "96dMj4pf2-I-t4546.08", "text": "Just alter", "start": 4546.08, "end": 4547.08}
+{"id": "96dMj4pf2-I-t4547.08", "text": "Come on", "start": 4547.08, "end": 4548.08}
+{"id": "96dMj4pf2-I-t4548.08", "text": "That's right", "start": 4548.08, "end": 4549.08}
+{"id": "96dMj4pf2-I-t4549.08", "text": "Well play more altered music", "start": 4549.08, "end": 4550.08}
+{"id": "96dMj4pf2-I-t4550.08", "text": "Is that so hard?", "start": 4550.08, "end": 4551.08}
+{"id": "96dMj4pf2-I-t4551.08", "text": "Come on", "start": 4551.08, "end": 4552.08}
+{"id": "96dMj4pf2-I-t4552.08", "text": "Yeah", "start": 4552.08, "end": 4553.08}
+{"id": "96dMj4pf2-I-t4553.08", "text": "You're only trying to", "start": 4553.08, "end": 4554.08}
+{"id": "96dMj4pf2-I-t4554.08", "text": "Just having out about the experience", "start": 4554.08, "end": 4556.08}
+{"id": "96dMj4pf2-I-t4556.08", "text": "What's the problem?", "start": 4556.08, "end": 4558.08}
+{"id": "96dMj4pf2-I-t4558.08", "text": "Hang on", "start": 4558.08, "end": 4559.08}
+{"id": "96dMj4pf2-I-t4559.08", "text": "Come on", "start": 4559.08, "end": 4560.08}
+{"id": "96dMj4pf2-I-t4560.08", "text": "Wait", "start": 4560.08, "end": 4562.08}
+{"id": "96dMj4pf2-I-t4562.08", "text": "Let's see", "start": 4562.08, "end": 4564.08}
+{"id": "96dMj4pf2-I-t4564.08", "text": "Somebody's happy that you saw an information about me", "start": 4564.08, "end": 4568.08}
+{"id": "96dMj4pf2-I-t4568.08", "text": "I don't think so", "start": 4568.08, "end": 4570.08}
+{"id": "96dMj4pf2-I-t4570.08", "text": "It's on the website I think, right?", "start": 4570.08, "end": 4572.08}
+{"id": "96dMj4pf2-I-t4572.08", "text": "David?", "start": 4572.08, "end": 4573.08}
+{"id": "96dMj4pf2-I-t4573.08", "text": "Well there's a description on the announcement of Dr. Zacharounds and Papa Caves", "start": 4573.08, "end": 4577.08}
+{"id": "96dMj4pf2-I-t4577.08", "text": "Yeah, and my site is easy to remember", "start": 4577.08, "end": 4579.08}
+{"id": "96dMj4pf2-I-t4579.08", "text": "LewisPorter.com", "start": 4579.08, "end": 4580.08}
+{"id": "96dMj4pf2-I-t4580.08", "text": "Do you have a site?", "start": 4580.08, "end": 4581.08}
+{"id": "96dMj4pf2-I-t4581.08", "text": "No", "start": 4581.08, "end": 4582.08}
+{"id": "96dMj4pf2-I-t4582.08", "text": "No", "start": 4582.08, "end": 4583.08}
+{"id": "96dMj4pf2-I-t4583.08", "text": "These two famous to have a site", "start": 4583.08, "end": 4586.08}
+{"id": "96dMj4pf2-I-t4586.08", "text": "Well, and", "start": 4586.08, "end": 4587.08}
+{"id": "96dMj4pf2-I-t4587.08", "text": "I also found myself drifting a lot in and out", "start": 4587.08, "end": 4591.08}
+{"id": "96dMj4pf2-I-t4591.08", "text": "And sometimes it felt like the reading was competing", "start": 4591.08, "end": 4596.08}
+{"id": "96dMj4pf2-I-t4596.08", "text": "With the music", "start": 4596.08, "end": 4599.08}
+{"id": "96dMj4pf2-I-t4599.08", "text": "And sometimes I stopped listening to the words", "start": 4599.08, "end": 4604.08}
+{"id": "96dMj4pf2-I-t4604.08", "text": "But then I'd come back and", "start": 4604.08, "end": 4607.08}
+{"id": "96dMj4pf2-I-t4607.08", "text": "I'm not sure what to say", "start": 4607.08, "end": 4610.08}
+{"id": "96dMj4pf2-I-t4610.08", "text": "I think it would be interesting to study what people hear", "start": 4610.08, "end": 4616.08}
+{"id": "96dMj4pf2-I-t4616.08", "text": "You know how much I would do that", "start": 4616.08, "end": 4618.08}
+{"id": "96dMj4pf2-I-t4618.08", "text": "And that's not the question", "start": 4618.08, "end": 4621.08}
+{"id": "96dMj4pf2-I-t4621.08", "text": "It's an interesting process", "start": 4621.08, "end": 4625.08}
+{"id": "96dMj4pf2-I-t4625.08", "text": "Listening to both things", "start": 4625.08, "end": 4627.08}
+{"id": "96dMj4pf2-I-t4627.08", "text": "And sometimes", "start": 4627.08, "end": 4629.08}
+{"id": "96dMj4pf2-I-t4629.08", "text": "You know, I wonder why people", "start": 4629.08, "end": 4631.08}
+{"id": "96dMj4pf2-I-t4631.08", "text": "Either go into altered states or trip out into reverie", "start": 4631.08, "end": 4635.08}
+{"id": "96dMj4pf2-I-t4635.08", "text": "What in the music, what in the poetry, what in their collaboration", "start": 4635.08, "end": 4641.08}
+{"id": "96dMj4pf2-I-t4641.08", "text": "I don't know, but just", "start": 4641.08, "end": 4642.08}
+{"id": "96dMj4pf2-I-t4642.08", "text": "I'm myself thinking of all these things", "start": 4642.08, "end": 4644.08}
+{"id": "96dMj4pf2-I-t4644.08", "text": "It was very pleasurable", "start": 4644.08, "end": 4646.08}
+{"id": "96dMj4pf2-I-t4646.08", "text": "All the time", "start": 4646.08, "end": 4648.08}
+{"id": "96dMj4pf2-I-t4648.08", "text": "Whatever, not understanding what I say about feeling that they were", "start": 4648.08, "end": 4653.08}
+{"id": "96dMj4pf2-I-t4653.08", "text": "In some instances competing for my attention", "start": 4653.08, "end": 4656.08}
+{"id": "96dMj4pf2-I-t4656.08", "text": "You know, I went in good places, I always came back", "start": 4656.08, "end": 4660.08}
+{"id": "96dMj4pf2-I-t4660.08", "text": "I never felt like, gee, I missed something, I don't know, I'm sure I did", "start": 4660.08, "end": 4663.08}
+{"id": "96dMj4pf2-I-t4663.08", "text": "I missed a lot of the poetry", "start": 4663.08, "end": 4665.08}
+{"id": "96dMj4pf2-I-t4665.08", "text": "I don't necessarily feel that the language or the words", "start": 4665.08, "end": 4668.08}
+{"id": "96dMj4pf2-I-t4668.08", "text": "Sort of takes supremacy", "start": 4668.08, "end": 4670.08}
+{"id": "96dMj4pf2-I-t4670.08", "text": "I think there's a deliberate interaction and a kind of", "start": 4670.08, "end": 4673.08}
+{"id": "96dMj4pf2-I-t4673.08", "text": "As you described, it was better, but give and take", "start": 4673.08, "end": 4676.08}
+{"id": "96dMj4pf2-I-t4676.08", "text": "Where you might hear that more certain moments", "start": 4676.08, "end": 4680.08}
+{"id": "96dMj4pf2-I-t4680.08", "text": "Or whatever", "start": 4680.08, "end": 4681.08}
+{"id": "96dMj4pf2-I-t4681.08", "text": "Yeah, and I think also, you know, maybe", "start": 4681.08, "end": 4683.08}
+{"id": "96dMj4pf2-I-t4683.08", "text": "When we're really successful", "start": 4683.08, "end": 4685.08}
+{"id": "96dMj4pf2-I-t4685.08", "text": "You'll hear both at the same time, but that certainly would be different from person to person", "start": 4685.08, "end": 4689.08}
+{"id": "96dMj4pf2-I-t4689.08", "text": "And another thing is that", "start": 4689.08, "end": 4692.08}
+{"id": "96dMj4pf2-I-t4692.08", "text": "But I am also doing certain specific things", "start": 4692.08, "end": 4694.08}
+{"id": "96dMj4pf2-I-t4694.08", "text": "Like you might notice, I don't do any of my fast stuff while he's reading", "start": 4694.08, "end": 4697.08}
+{"id": "96dMj4pf2-I-t4697.08", "text": "So certain rules, I just have certain rules for myself", "start": 4697.08, "end": 4700.08}
+{"id": "96dMj4pf2-I-t4700.08", "text": "Nothing really fast while he's reading some of those things", "start": 4700.08, "end": 4703.08}
+{"id": "96dMj4pf2-I-t4703.08", "text": "But my idea is slow is probably most people's idea fast", "start": 4703.08, "end": 4706.08}
+{"id": "96dMj4pf2-I-t4706.08", "text": "So I do play a lot of fast notes", "start": 4706.08, "end": 4709.08}
+{"id": "96dMj4pf2-I-t4709.08", "text": "What do you think is that a role to date?", "start": 4709.08, "end": 4711.08}
+{"id": "96dMj4pf2-I-t4711.08", "text": "Would be another way to do it like a couple of the verses", "start": 4711.08, "end": 4715.08}
+{"id": "96dMj4pf2-I-t4715.08", "text": "Well, I did that with a band called the John L. Eric Kelso", "start": 4715.08, "end": 4720.08}
+{"id": "96dMj4pf2-I-t4720.08", "text": "Quirt had its own YouTube", "start": 4720.08, "end": 4722.08}
+{"id": "96dMj4pf2-I-t4722.08", "text": "Oh yeah, I have a quirt, they're like, they play", "start": 4722.08, "end": 4727.08}
+{"id": "96dMj4pf2-I-t4727.08", "text": "I don't know what you call it, Dixie Land kind of style of music", "start": 4727.08, "end": 4731.08}
+{"id": "96dMj4pf2-I-t4731.08", "text": "But that's how we did it, that", "start": 4731.08, "end": 4733.08}
+{"id": "96dMj4pf2-I-t4733.08", "text": "Oh yeah, but I mean, I think he means like, line by line almost", "start": 4733.08, "end": 4737.08}
+{"id": "96dMj4pf2-I-t4737.08", "text": "Well, yeah, with that, I don't remember exactly what happened", "start": 4737.08, "end": 4740.08}
+{"id": "96dMj4pf2-I-t4740.08", "text": "Not necessarily", "start": 4740.08, "end": 4741.08}
+{"id": "96dMj4pf2-I-t4741.08", "text": "I think I read and they played and we kind of did it that way", "start": 4741.08, "end": 4744.08}
+{"id": "96dMj4pf2-I-t4744.08", "text": "Well, you know, again, it was my experience, which I didn't completely anticipate", "start": 4744.08, "end": 4749.08}
+{"id": "96dMj4pf2-I-t4749.08", "text": "That you felt more like a duet as if it were two instruments", "start": 4749.08, "end": 4754.08}
+{"id": "96dMj4pf2-I-t4754.08", "text": "And one of the instruments was a vocal chord vibrating", "start": 4754.08, "end": 4760.08}
+{"id": "96dMj4pf2-I-t4760.08", "text": "And the sense of the poem wasn't important, as important in this context", "start": 4760.08, "end": 4766.08}
+{"id": "96dMj4pf2-I-t4766.08", "text": "As it would be in a different kind of context", "start": 4766.08, "end": 4769.08}
+{"id": "96dMj4pf2-I-t4769.08", "text": "Okay, also it's important to know that poems really should not or can't be paraphrased", "start": 4769.08, "end": 4776.08}
+{"id": "96dMj4pf2-I-t4776.08", "text": "I mean, you've got to sort of experience the whole poem to get the poem", "start": 4776.08, "end": 4780.08}
+{"id": "96dMj4pf2-I-t4780.08", "text": "And say, what was it about, the time I journeyed over to Ithaca and well, you know, it doesn't make any sense", "start": 4780.08, "end": 4786.08}
+{"id": "96dMj4pf2-I-t4786.08", "text": "You don't get it that way", "start": 4786.08, "end": 4788.08}
+{"id": "96dMj4pf2-I-t4788.08", "text": "Well, that's a good point, because the whole point is the words that you're using", "start": 4788.08, "end": 4791.08}
+{"id": "96dMj4pf2-I-t4791.08", "text": "It's like I always say Dickens is such an amazing writer of fiction", "start": 4791.08, "end": 4794.08}
+{"id": "96dMj4pf2-I-t4794.08", "text": "You can read the plot summary, if that's all the work to it, then there would be no point to write the novel, you know?", "start": 4794.08, "end": 4810.08}
+{"id": "96dMj4pf2-I-t4810.08", "text": "The writers spoke about working over the manuscript a great many times and changing things", "start": 4810.08, "end": 4816.08}
+{"id": "96dMj4pf2-I-t4816.08", "text": "But the pianist speaks about doing the improvisation right on the spot and not necessarily being able to repeat it", "start": 4816.08, "end": 4824.08}
+{"id": "96dMj4pf2-I-t4824.08", "text": "Now that's two very different views of how to perform this work", "start": 4824.08, "end": 4830.08}
+{"id": "96dMj4pf2-I-t4830.08", "text": "Now, would you be willing to write it out, to write out the music and keep changing it", "start": 4830.08, "end": 4837.08}
+{"id": "96dMj4pf2-I-t4837.08", "text": "Under different circumstances, or is this what's unique about this presentation", "start": 4837.08, "end": 4844.08}
+{"id": "96dMj4pf2-I-t4844.08", "text": "That you have a poem, let's say, that's been worked over many times", "start": 4844.08, "end": 4848.08}
+{"id": "96dMj4pf2-I-t4848.08", "text": "But a piece of music that hasn't been worked over many times", "start": 4848.08, "end": 4852.08}
+{"id": "96dMj4pf2-I-t4852.08", "text": "Well, I mean, in that example, I think you're approaching sort of songwriting with musical accompaniment", "start": 4852.08, "end": 4861.08}
+{"id": "96dMj4pf2-I-t4861.08", "text": "I mean, like Cole Porter, for example, that we know his compositions, love for sale, or whatever it was", "start": 4861.08, "end": 4873.08}
+{"id": "96dMj4pf2-I-t4873.08", "text": "You know, every time, but like summertime, another example, I read there's 25,000 different versions of it", "start": 4873.08, "end": 4879.08}
+{"id": "96dMj4pf2-I-t4879.08", "text": "Recorded versions of it", "start": 4879.08, "end": 4881.08}
+{"id": "96dMj4pf2-I-t4881.08", "text": "Recorded versions of it, and each one is different, but they're all summertime", "start": 4881.08, "end": 4885.08}
+{"id": "96dMj4pf2-I-t4885.08", "text": "So that's how that would work", "start": 4885.08, "end": 4887.08}
+{"id": "96dMj4pf2-I-t4887.08", "text": "And also, I mean, a lot of these poems, I wrote them maybe 10 or 15 years ago", "start": 4887.08, "end": 4893.08}
+{"id": "96dMj4pf2-I-t4893.08", "text": "So I have no clue what my mind was like at that moment, I don't know anymore", "start": 4893.08, "end": 4898.08}
+{"id": "96dMj4pf2-I-t4898.08", "text": "But occasionally, when I'm reading, I kind of take something out or change it or", "start": 4898.08, "end": 4904.08}
+{"id": "96dMj4pf2-I-t4904.08", "text": "Just to amuse myself", "start": 4904.08, "end": 4906.08}
+{"id": "96dMj4pf2-I-t4906.08", "text": "Yeah, well, that's good, if you amuse yourself", "start": 4906.08, "end": 4908.08}
+{"id": "96dMj4pf2-I-t4908.08", "text": "But I would also say that that's a different thing, since I do compose", "start": 4908.08, "end": 4914.08}
+{"id": "96dMj4pf2-I-t4914.08", "text": "We could certainly collaborate, I would say I'm going to write a setting of one of your pieces, either with a written out piano", "start": 4914.08, "end": 4921.08}
+{"id": "96dMj4pf2-I-t4921.08", "text": "Or a strinkled set, which could be great, hey, you might like that", "start": 4921.08, "end": 4929.08}
+{"id": "96dMj4pf2-I-t4929.08", "text": "On the other side, there are people who improvise poetry", "start": 4929.08, "end": 4931.08}
+{"id": "96dMj4pf2-I-t4931.08", "text": "But you can't improvise the same way that I couldn't write, I couldn't improvise", "start": 4931.08, "end": 4935.08}
+{"id": "96dMj4pf2-I-t4935.08", "text": "What do you want?", "start": 4935.08, "end": 4936.08}
+{"id": "96dMj4pf2-I-t4936.08", "text": "Some of my orchestral music", "start": 4936.08, "end": 4938.08}
+{"id": "96dMj4pf2-I-t4938.08", "text": "You couldn't improvise some poems that are very erudite", "start": 4938.08, "end": 4941.08}
+{"id": "96dMj4pf2-I-t4941.08", "text": "There's a certain kind of poem that you can improvise, which tends to be more on one level, it's not a multi-level poem", "start": 4941.08, "end": 4946.08}
+{"id": "96dMj4pf2-I-t4946.08", "text": "You're having the middle of it, some kind of a reference to something that T.S. Eliot did", "start": 4946.08, "end": 4951.08}
+{"id": "96dMj4pf2-I-t4951.08", "text": "They tend to be more one-level poems and more direct and easy to understand", "start": 4951.08, "end": 4954.08}
+{"id": "96dMj4pf2-I-t4954.08", "text": "But there is such a thing as improvising poems", "start": 4954.08, "end": 4956.08}
+{"id": "96dMj4pf2-I-t4956.08", "text": "Also, when you're hearing it, you're really missing a major component, which is the lines", "start": 4956.08, "end": 4961.08}
+{"id": "96dMj4pf2-I-t4961.08", "text": "Poems versus written in lines", "start": 4961.08, "end": 4963.08}
+{"id": "96dMj4pf2-I-t4963.08", "text": "There are prose poems, which is kind of a stupid name, but", "start": 4963.08, "end": 4968.08}
+{"id": "96dMj4pf2-I-t4968.08", "text": "That a lot of the information is contained in that", "start": 4968.08, "end": 4972.08}
+{"id": "96dMj4pf2-I-t4972.08", "text": "Where the line is broken and for reasons, and so on and so forth", "start": 4972.08, "end": 4976.08}
+{"id": "96dMj4pf2-I-t4976.08", "text": "Just one comment, generally in poetry, relatively modern poetry, anyway, there's a feeling of spontaneity", "start": 4976.08, "end": 4988.08}
+{"id": "96dMj4pf2-I-t4988.08", "text": "One feels as though the words were happening by themselves", "start": 4988.08, "end": 4991.08}
+{"id": "96dMj4pf2-I-t4991.08", "text": "Jazz is sort of similar in that improvised jazz has that feeling of being spontaneous", "start": 4991.08, "end": 4998.08}
+{"id": "96dMj4pf2-I-t4998.08", "text": "Even if organized, it's spontaneous, so I think the collaboration is very much equal in the sense that", "start": 4998.08, "end": 5007.08}
+{"id": "96dMj4pf2-I-t5007.08", "text": "You have two medias that are associated with spontaneity and therefore create their own sort of spontaneous interaction as they happen", "start": 5007.08, "end": 5016.08}
+{"id": "96dMj4pf2-I-t5016.08", "text": "So I'm sort of not in favor of overworking and over-preparing because that would certainly kill the goose", "start": 5016.08, "end": 5024.08}
+{"id": "96dMj4pf2-I-t5024.08", "text": "That's a point to that, that makes sense", "start": 5024.08, "end": 5030.08}
+{"id": "96dMj4pf2-I-t5030.08", "text": "I guess our time is up?", "start": 5030.08, "end": 5034.08}
+{"id": "96dMj4pf2-I-t5034.08", "text": "No, thanks", "start": 5034.08, "end": 5035.08}
+{"id": "96dMj4pf2-I-t5035.08", "text": "Thank you", "start": 5035.08, "end": 5036.08}
+{"id": "96dMj4pf2-I-t5036.08", "text": "Thank you", "start": 5036.08, "end": 5037.08}
+{"id": "96dMj4pf2-I-t5037.08", "text": "Thank you", "start": 5037.08, "end": 5038.08}
+{"id": "96dMj4pf2-I-t5038.08", "text": "Thank you", "start": 5038.08, "end": 5039.08}
+{"id": "96dMj4pf2-I-t5039.08", "text": "Thank you", "start": 5039.08, "end": 5039.08}
+{"id": "96dMj4pf2-I-t5039.08", "text": "Thank you", "start": 5039.08, "end": 5040.08}
+{"id": "96dMj4pf2-I-t5040.08", "text": "Thank you", "start": 5040.08, "end": 5040.08}
+{"id": "96dMj4pf2-I-t5040.08", "text": "Thank you", "start": 5040.08, "end": 5041.08}
+{"id": "96dMj4pf2-I-t5041.08", "text": "Thank you", "start": 5041.08, "end": 5042.08}
+{"id": "96dMj4pf2-I-t5042.08", "text": "We have folks there, if anyone, medias, and if you have any questions, please let me know", "start": 5042.08, "end": 5047.08}
+{"id": "96dMj4pf2-I-t5047.08", "text": "Thank you", "start": 5047.08, "end": 5053.08}

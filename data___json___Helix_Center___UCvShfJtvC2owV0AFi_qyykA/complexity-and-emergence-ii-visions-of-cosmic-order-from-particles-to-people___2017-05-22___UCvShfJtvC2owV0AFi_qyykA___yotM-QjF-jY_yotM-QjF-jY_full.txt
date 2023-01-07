@@ -1,0 +1,1205 @@
+{"id": "yotM-QjF-jY-t0.0", "text": "I'm Ed Nurse-Shesian Director of the Hill Excentation.", "start": 0.0, "end": 4.0}
+{"id": "yotM-QjF-jY-t4.0", "text": "Before I introduce the participants, I'd like to say a few things about upcoming programs.", "start": 4.0, "end": 11.0}
+{"id": "yotM-QjF-jY-t11.0", "text": "We're going to have a weekend on around December 1st, 2nd, 3rd,", "start": 11.0, "end": 20.0}
+{"id": "yotM-QjF-jY-t20.0", "text": "devoted to the relationship between science and art.", "start": 20.0, "end": 24.0}
+{"id": "yotM-QjF-jY-t24.0", "text": "So we will have scientists, artists working together", "start": 24.0, "end": 29.0}
+{"id": "yotM-QjF-jY-t29.0", "text": "and we will also discuss what is called STEAM education.", "start": 29.0, "end": 34.0}
+{"id": "yotM-QjF-jY-t34.0", "text": "So that's in December.", "start": 34.0, "end": 37.0}
+{"id": "yotM-QjF-jY-t37.0", "text": "Prior to that, some of the round tables we are working on are illusion of knowledge,", "start": 37.0, "end": 43.0}
+{"id": "yotM-QjF-jY-t43.0", "text": "sleep and memory, some round table on emotions,", "start": 43.0, "end": 50.0}
+{"id": "yotM-QjF-jY-t50.0", "text": "mind hours and others, and a few other things that we are working on.", "start": 50.0, "end": 55.0}
+{"id": "yotM-QjF-jY-t55.0", "text": "And we will put it up on our website and send you emails about it as we haven't planned.", "start": 55.0, "end": 65.0}
+{"id": "yotM-QjF-jY-t65.0", "text": "Today's round table, complexity and emergence to visions of cosmic order from particles to people", "start": 65.0, "end": 72.0}
+{"id": "yotM-QjF-jY-t72.0", "text": "was proposed to us by Tyler Volk, who is a professor of biology and environmental sciences at NYU.", "start": 72.0, "end": 83.0}
+{"id": "yotM-QjF-jY-t83.0", "text": "The other participants next to Tyler is William Grassi.", "start": 83.0, "end": 88.0}
+{"id": "yotM-QjF-jY-t88.0", "text": "He is an interdisciplinary scholar, academic entrepreneur and social activist and author.", "start": 88.0, "end": 97.0}
+{"id": "yotM-QjF-jY-t97.0", "text": "Next to him is Tim Modlin, who's been here a couple of times before,", "start": 97.0, "end": 102.0}
+{"id": "yotM-QjF-jY-t102.0", "text": "who is a professor of philosophy at NYU.", "start": 102.0, "end": 106.0}
+{"id": "yotM-QjF-jY-t106.0", "text": "Next to him is David Grinspoon, astrobiologist senior scientist at the Planetary Science Institute.", "start": 106.0, "end": 113.0}
+{"id": "yotM-QjF-jY-t113.0", "text": "And on the other side, it's Ilya Tampkin, professor of biology at NOVA and research associate at NM&H.", "start": 113.0, "end": 123.0}
+{"id": "yotM-QjF-jY-t123.0", "text": "Thank you.", "start": 123.0, "end": 129.0}
+{"id": "yotM-QjF-jY-t129.0", "text": "Well, we're supposed to each say a few words about our interests.", "start": 129.0, "end": 136.0}
+{"id": "yotM-QjF-jY-t136.0", "text": "Do we get over here, maybe? David?", "start": 136.0, "end": 140.0}
+{"id": "yotM-QjF-jY-t140.0", "text": "Sure.", "start": 140.0, "end": 141.0}
+{"id": "yotM-QjF-jY-t141.0", "text": "So, as was mentioned, I'm an astrobiologist.", "start": 141.0, "end": 146.0}
+{"id": "yotM-QjF-jY-t146.0", "text": "Astrobiology is inherently a multidisciplinary endeavor, as the name implies, astronomy and biology.", "start": 146.0, "end": 157.0}
+{"id": "yotM-QjF-jY-t157.0", "text": "And now many other disciplines as well, trying to understand really the potential of the universe to produce life", "start": 157.0, "end": 167.0}
+{"id": "yotM-QjF-jY-t167.0", "text": "and what environments that may occur in and how we might search for it.", "start": 167.0, "end": 171.0}
+{"id": "yotM-QjF-jY-t171.0", "text": "And my own entree into that is as a planetary scientist, I actually do climate modeling of other planets", "start": 171.0, "end": 179.0}
+{"id": "yotM-QjF-jY-t179.0", "text": "using similar tools to what we use to try to model the future climate on Earth.", "start": 179.0, "end": 188.0}
+{"id": "yotM-QjF-jY-t188.0", "text": "And part of that is the search for extraterrestrial intelligence.", "start": 188.0, "end": 192.0}
+{"id": "yotM-QjF-jY-t192.0", "text": "It's connected in interesting ways with astrobiology.", "start": 192.0, "end": 196.0}
+{"id": "yotM-QjF-jY-t196.0", "text": "And recently, I've just completed a book that's been about a four-year project,", "start": 196.0, "end": 205.0}
+{"id": "yotM-QjF-jY-t205.0", "text": "which is looking at the Anthropocene epoch, which is the name that some geologists and now other people have proposed", "start": 205.0, "end": 213.0}
+{"id": "yotM-QjF-jY-t213.0", "text": "for our current time of Earth history, which is characterized by humans as a geological force.", "start": 213.0, "end": 219.0}
+{"id": "yotM-QjF-jY-t219.0", "text": "Looking at that through the lens of astrobiology, in other words, for someone who thinks about planetary transitions", "start": 219.0, "end": 225.0}
+{"id": "yotM-QjF-jY-t225.0", "text": "and the relationship between life and planets, what does this moment in Earth history", "start": 225.0, "end": 233.0}
+{"id": "yotM-QjF-jY-t233.0", "text": "when this species, this arguably new kind of phenomena on the planet, has become a major factor in planetary evolution?", "start": 233.0, "end": 243.0}
+{"id": "yotM-QjF-jY-t243.0", "text": "So that's what I've been focusing on recently, and it dovetails in interesting ways with this,", "start": 243.0, "end": 249.0}
+{"id": "yotM-QjF-jY-t249.0", "text": "or the whole story of cosmic evolution.", "start": 249.0, "end": 251.0}
+{"id": "yotM-QjF-jY-t251.0", "text": "What is happening on this planet now and what do human beings really represent as a factor in planetary evolution?", "start": 251.0, "end": 258.0}
+{"id": "yotM-QjF-jY-t258.0", "text": "That's my entree to this subject.", "start": 258.0, "end": 263.0}
+{"id": "yotM-QjF-jY-t263.0", "text": "Okay, Shriya, we go around forever.", "start": 263.0, "end": 267.0}
+{"id": "yotM-QjF-jY-t267.0", "text": "So I'm sort of on a different...", "start": 267.0, "end": 271.0}
+{"id": "yotM-QjF-jY-t271.0", "text": "My specialty is foundations of physics, so I mostly have been looking at trying to understand fundamental physical theories.", "start": 271.0, "end": 280.0}
+{"id": "yotM-QjF-jY-t280.0", "text": "So the connection, I guess, to this particular topic would be in the connection between the base level physical laws", "start": 280.0, "end": 291.0}
+{"id": "yotM-QjF-jY-t291.0", "text": "and emergent laws in the sense of patterns, fairly predictable patterns that appear at higher levels", "start": 291.0, "end": 300.0}
+{"id": "yotM-QjF-jY-t300.0", "text": "that are predictable without knowing all the details of the micro-physics.", "start": 300.0, "end": 306.0}
+{"id": "yotM-QjF-jY-t306.0", "text": "So far as I have much to contribute, it's just to appreciate what a mystery it is, why that should even happen.", "start": 306.0, "end": 314.0}
+{"id": "yotM-QjF-jY-t314.0", "text": "There's no particular reason why law-governed micro-physics should give rise to any interesting macro-physical structures", "start": 314.0, "end": 322.0}
+{"id": "yotM-QjF-jY-t322.0", "text": "that have both complexity and predictability.", "start": 322.0, "end": 325.0}
+{"id": "yotM-QjF-jY-t325.0", "text": "So we take it for granted because we live in a world like that, but we don't appreciate how curious it is that we do live in such a world.", "start": 325.0, "end": 334.0}
+{"id": "yotM-QjF-jY-t334.0", "text": "So maybe I can contribute something there.", "start": 334.0, "end": 338.0}
+{"id": "yotM-QjF-jY-t338.0", "text": "So I got interested in the subject 30 years ago, writing an dissertation in a religion department", "start": 338.0, "end": 346.0}
+{"id": "yotM-QjF-jY-t346.0", "text": "on what it would mean to treat the modern scientific cosmology as a mythopoetic creation story.", "start": 346.0, "end": 353.0}
+{"id": "yotM-QjF-jY-t353.0", "text": "And I sort of fell into this rabbit hole at that point.", "start": 353.0, "end": 358.0}
+{"id": "yotM-QjF-jY-t358.0", "text": "So I'd sort of been doing what we called then the Epic of Evolution or the new cosmology, what people today often call big history.", "start": 358.0, "end": 367.0}
+{"id": "yotM-QjF-jY-t367.0", "text": "So I'm involved in the exegesis of big history. What does it mean?", "start": 367.0, "end": 371.0}
+{"id": "yotM-QjF-jY-t371.0", "text": "And how do we interpret it?", "start": 371.0, "end": 373.0}
+{"id": "yotM-QjF-jY-t373.0", "text": "So I'm sort of play with lots of different interpretations at different levels.", "start": 373.0, "end": 378.0}
+{"id": "yotM-QjF-jY-t378.0", "text": "And of course part of that is to figure out the big questions.", "start": 378.0, "end": 384.0}
+{"id": "yotM-QjF-jY-t384.0", "text": "But also I'm really interested in big history as a kind of pedagogical endeavor because we've learned so much about the universe in the last 50 years", "start": 384.0, "end": 398.0}
+{"id": "yotM-QjF-jY-t398.0", "text": "and about ourselves and in origin and our psychology and of course all that has also fueled a tremendous change in the way we live, the anthropocene as you mentioned.", "start": 398.0, "end": 410.0}
+{"id": "yotM-QjF-jY-t410.0", "text": "So for me putting it all together both as a sort of metaphysical question but also as a pedagogical endeavor is what's inspired my work over the years.", "start": 410.0, "end": 421.0}
+{"id": "yotM-QjF-jY-t421.0", "text": "So I most of my bread and butter work has involved the global carbon cycle and climate over the years, energy systems, but the work in the global carbon cycle took me from the macro planet down into molecular levels", "start": 421.0, "end": 438.0}
+{"id": "yotM-QjF-jY-t438.0", "text": "and I also had a strong interest in patterns, Tim referred to patterns, patterns of different scales and how one scale can influence another scale", "start": 438.0, "end": 451.0}
+{"id": "yotM-QjF-jY-t451.0", "text": "and how sometimes similar patterns can reappear such as binary systems or certain shapes such as spheres.", "start": 451.0, "end": 460.0}
+{"id": "yotM-QjF-jY-t460.0", "text": "And I was, this began because Ed invited me to a panel in April which I could not go to but I said I have this new book called Quarks to Culture", "start": 460.0, "end": 473.0}
+{"id": "yotM-QjF-jY-t473.0", "text": "and Ed said that would seem like a good topic for panel on complexity and emergence in May so let's set that up.", "start": 473.0, "end": 483.0}
+{"id": "yotM-QjF-jY-t483.0", "text": "And what I, this, this, and you have the handout in case some things get referred to that everybody could talk to because I think tonight physics is going to come up and biology is going to come up and culture is going to come up", "start": 483.0, "end": 498.0}
+{"id": "yotM-QjF-jY-t498.0", "text": "and these figures are from, figures are from my book and what the basic idea was that you go down in the body into cells and into molecules", "start": 498.0, "end": 510.0}
+{"id": "yotM-QjF-jY-t510.0", "text": "one can be going down back in time in terms of the origin of the types of these things so the cell had to come into existence before you can have a multicellular body such as an animal", "start": 510.0, "end": 523.0}
+{"id": "yotM-QjF-jY-t523.0", "text": "and a molecule has to come into existence before you can have a cell that's made of molecules.", "start": 523.0, "end": 528.0}
+{"id": "yotM-QjF-jY-t528.0", "text": "Now not the cells of our body, not the molecules of our body but as a type of system there had to be a buildup from something small to large", "start": 528.0, "end": 539.0}
+{"id": "yotM-QjF-jY-t539.0", "text": "or there was a buildup, it doesn't have to be but science has not discovered this, a buildup from small to large and I said, oh I wonder if one could count", "start": 539.0, "end": 549.0}
+{"id": "yotM-QjF-jY-t549.0", "text": "I wonder if one could use the idea of merge of combination into new systems from small things, one could use that sequentially as a number of steps", "start": 549.0, "end": 562.0}
+{"id": "yotM-QjF-jY-t562.0", "text": "and distinguish fundamental levels of who we are and not just up to our body but then we are part of a social system too so I was just wondering can one do that", "start": 562.0, "end": 575.0}
+{"id": "yotM-QjF-jY-t575.0", "text": "and then that led me into these 12 levels that I talk about that each have, the next question beat each must have had something special that came into existence or emerged", "start": 575.0, "end": 591.0}
+{"id": "yotM-QjF-jY-t591.0", "text": "in order for the next level to happen that could not have happened at a prior level so there must have been something about the molecule that was different from what the atom was", "start": 591.0, "end": 604.0}
+{"id": "yotM-QjF-jY-t604.0", "text": "that the molecules required to form a cell, a living cell, that the atoms by themselves could not have directly gone there", "start": 604.0, "end": 613.0}
+{"id": "yotM-QjF-jY-t613.0", "text": "and the same with the fundamental particles of the standard model of physics, there was some paper in science years ago that somebody said, you don't model bulldozers with quarks, that there's these intervening levels", "start": 613.0, "end": 628.0}
+{"id": "yotM-QjF-jY-t628.0", "text": "that's been well known that there's been, the physicists talk about the onion, the layers of the onion and the biologists have had their major transitions of evolution and what I was merely doing was saying, oh one could actually see them as part of a way to do big history in terms of certain levels", "start": 628.0, "end": 648.0}
+{"id": "yotM-QjF-jY-t648.0", "text": "and it relates to things like emergence but that's the topic of the panel so I'll just leave it at that. I'm an evolutionary biologist and primarily interested in the general mechanisms that lead to the formation of the patterns we see reflected in the history of life", "start": 648.0, "end": 667.0}
+{"id": "yotM-QjF-jY-t667.0", "text": "it is clear that evolutionary processes occur at multiple levels of biological organization from molecular to all the way to ecosystem, because of systemic levels and the patterns that observe in nature, they are the outcomes of the synergistic effect of different events that occur at all these different levels", "start": 667.0, "end": 685.0}
+{"id": "yotM-QjF-jY-t685.0", "text": "So to me prior to even attempting to address the question of how these processes result in the patterns that we observe and describe as evolutionary biologists, we need to be very clear about the ontology of the structure of the organic world", "start": 685.0, "end": 700.0}
+{"id": "yotM-QjF-jY-t700.0", "text": "and it's not a surprise that by itself the level structure has been long recognized, every single textbook in biology begins with the description of the hierarchy of the living world starting with molecules leading to the formation of subcellular structures that then make cells, so this makes up tissues and so on", "start": 700.0, "end": 728.0}
+{"id": "yotM-QjF-jY-t728.0", "text": "until you get to the organisms, organisms make up populations that interact with each other in an economic way in the context of ecosystems, communities and so on up to the all encompassing biosphere", "start": 728.0, "end": 741.0}
+{"id": "yotM-QjF-jY-t741.0", "text": "However, if you look very carefully at this stereotypical structure that everybody is familiar with, you begin to recognize that this hierarchy of scale where you simply order biological entities in the order of the smallest of the largest", "start": 741.0, "end": 758.0}
+{"id": "yotM-QjF-jY-t758.0", "text": "It's probably a sufficient way to maybe describe different types of biological entities, but it doesn't provide an explanatory power to explain the processes because at the same level, there are entities that cannot be encompassed in a single uniform hierarchy", "start": 758.0, "end": 778.0}
+{"id": "yotM-QjF-jY-t778.0", "text": "Evolutionary biologists like myself who try to look more seriously at these questions recognize that there are two types of biological individuals that fundamentally differ in their nature, some of which we refer to as systems", "start": 778.0, "end": 792.0}
+{"id": "yotM-QjF-jY-t792.0", "text": "where the relationship between entities that comprise the system is based on the energy and matter of relationships", "start": 792.0, "end": 800.0}
+{"id": "yotM-QjF-jY-t800.0", "text": "An example of that would be, for instance, a cell where different organelles interact with one another in some kind of economic way to make the largest system, or they're basically part of the whole system", "start": 800.0, "end": 813.0}
+{"id": "yotM-QjF-jY-t813.0", "text": "On the other side of the spectrum, there is a system of information transfer which recognizes the replicating entities where the relationships of them or the mode of incorporating into the larger entities is not the energy and matter relationship", "start": 813.0, "end": 829.0}
+{"id": "yotM-QjF-jY-t829.0", "text": "But the matter of inclusion based on the ancestry is a geological entity which I better describe not as systems but as historical teenagers", "start": 829.0, "end": 842.0}
+{"id": "yotM-QjF-jY-t842.0", "text": "And the evolution occurs as the interplay of between these two separate, however overlapping hierarchies", "start": 842.0, "end": 850.0}
+{"id": "yotM-QjF-jY-t850.0", "text": "So an example of that would be, so within even our bodies, there is this duality of interactor and replicator systems, so our bodies composed of two fundamentally different units is a soma and the germline", "start": 850.0, "end": 861.0}
+{"id": "yotM-QjF-jY-t861.0", "text": "The whole purpose of the germline, or our cells responsible for reproduction, is only to transmit the information from one generation to the next", "start": 861.0, "end": 870.0}
+{"id": "yotM-QjF-jY-t870.0", "text": "One can be perfectly happy organism, leaving any offspring behind, so it would be perfectly functioning as a system in the economic way without ever reproducing", "start": 870.0, "end": 883.0}
+{"id": "yotM-QjF-jY-t883.0", "text": "So it's just the second aspect of our nature as well as any other biological system at every level to be able to replicate in a proliferated way", "start": 883.0, "end": 892.0}
+{"id": "yotM-QjF-jY-t892.0", "text": "So the processes like selection of sorting can take place where the evolution results from, so to me this is the most fundamental question within evolutionary biologists", "start": 892.0, "end": 903.0}
+{"id": "yotM-QjF-jY-t903.0", "text": "To see how you can understand the processes that impact the hierarchal systems at one level, so the so-called ecological, sometimes economic, hierarchy of life", "start": 903.0, "end": 914.0}
+{"id": "yotM-QjF-jY-t914.0", "text": "And how it reflects, in a synergistic effect, at the different levels in the historical or geological hierarchy that we perceive as what we described in systematics and taxonomy", "start": 914.0, "end": 928.0}
+{"id": "yotM-QjF-jY-t928.0", "text": "as a tree of life and the patterns that are being of that tree that are shaped throughout the history of life", "start": 928.0, "end": 937.0}
+{"id": "yotM-QjF-jY-t937.0", "text": "One of the problems we're going to have talking about complexity, let alone an emergence is that we're dealing with all these different scientific disciplines", "start": 937.0, "end": 948.0}
+{"id": "yotM-QjF-jY-t948.0", "text": "and there's no numeric measurement of complexity, it's not just the size of something, it's how diverse it is perhaps, or I'll focus later perhaps on how much energy it consumes", "start": 948.0, "end": 964.0}
+{"id": "yotM-QjF-jY-t964.0", "text": "How much energy flows through the system, but I think it's really important, a lot of people don't understand, I don't know, be curious what you, I talk about the great matrix, we're talking about hierarchies or scales", "start": 964.0, "end": 975.0}
+{"id": "yotM-QjF-jY-t975.0", "text": "And we do have some interesting scales, we have a scale of time, chronology, we have a scale of size, we have measurable scales of free energy flow through a system", "start": 975.0, "end": 987.0}
+{"id": "yotM-QjF-jY-t987.0", "text": "And one of the electromagnetic spectrum is an amazing scale, which is very important in our level of reality", "start": 987.0, "end": 995.0}
+{"id": "yotM-QjF-jY-t995.0", "text": "And a sound is a different type of scale, interestingly humans have a much broader many orders of magnitude auditory capacity", "start": 995.0, "end": 1006.0}
+{"id": "yotM-QjF-jY-t1006.0", "text": "And we actually perceive visual light, it's very small range, and I think then we can go to inductive scales, or let's say there's a scale of information and ingenuity", "start": 1006.0, "end": 1020.0}
+{"id": "yotM-QjF-jY-t1020.0", "text": "Or there's a scale of sentience and consciousness, or of course the scale that we're talking about is emergence of complexity", "start": 1020.0, "end": 1031.0}
+{"id": "yotM-QjF-jY-t1031.0", "text": "Those are maybe there are others, I don't know, but those are kind of ways of orienting us to all phenomena that science describes", "start": 1031.0, "end": 1041.0}
+{"id": "yotM-QjF-jY-t1041.0", "text": "So we have, I think some interesting, it's not just anything goes, there's a lot of restrictions about what science can understand or feel", "start": 1041.0, "end": 1055.0}
+{"id": "yotM-QjF-jY-t1055.0", "text": "I call it the great matrix", "start": 1055.0, "end": 1058.0}
+{"id": "yotM-QjF-jY-t1058.0", "text": "By that you mean the system composed of all these different scales?", "start": 1058.0, "end": 1063.0}
+{"id": "yotM-QjF-jY-t1063.0", "text": "No, I think everything can be, everything can be, everything can be.", "start": 1063.0, "end": 1066.0}
+{"id": "yotM-QjF-jY-t1066.0", "text": "The great matrix.", "start": 1066.0, "end": 1067.0}
+{"id": "yotM-QjF-jY-t1067.0", "text": "Oh, the great matrix, time, space, energy, electromagnetism, sound, and those.", "start": 1067.0, "end": 1076.0}
+{"id": "yotM-QjF-jY-t1076.0", "text": "So would you, but some of those seem like subsets of others?", "start": 1076.0, "end": 1080.0}
+{"id": "yotM-QjF-jY-t1080.0", "text": "They are, for sure, electromagnetism is a form of energy, for sure, so is sound", "start": 1080.0, "end": 1086.0}
+{"id": "yotM-QjF-jY-t1086.0", "text": "So some might be more primary.", "start": 1086.0, "end": 1089.0}
+{"id": "yotM-QjF-jY-t1089.0", "text": "And we live in this amazing little thermodynamic eddy, eddy in the universe where complexity runs uphill", "start": 1089.0, "end": 1097.0}
+{"id": "yotM-QjF-jY-t1097.0", "text": "And so we have this, you know, if it weren't for that thermodynamic eddy", "start": 1097.0, "end": 1105.0}
+{"id": "yotM-QjF-jY-t1105.0", "text": "Where the Goldilocks conditions were just right, we wouldn't be here talking about it", "start": 1105.0, "end": 1111.0}
+{"id": "yotM-QjF-jY-t1111.0", "text": "And so how do you see that? So the thermodynamics run uphill, meaning you can have local reduction in entropy and increase complexity", "start": 1111.0, "end": 1120.0}
+{"id": "yotM-QjF-jY-t1120.0", "text": "As long as there's a global increase in entropy, and", "start": 1120.0, "end": 1124.0}
+{"id": "yotM-QjF-jY-t1124.0", "text": "Anytime energy flows through matter, it creates order, creates information", "start": 1124.0, "end": 1130.0}
+{"id": "yotM-QjF-jY-t1130.0", "text": "And so that's what the weather is, right? It's a way of dissipating energy.", "start": 1130.0, "end": 1135.0}
+{"id": "yotM-QjF-jY-t1135.0", "text": "That's what a hurricane is, or a tornado.", "start": 1135.0, "end": 1138.0}
+{"id": "yotM-QjF-jY-t1138.0", "text": "When it passes through solid matter, it can also have memory, and it can also compute, and can make, reproduce itself", "start": 1138.0, "end": 1147.0}
+{"id": "yotM-QjF-jY-t1147.0", "text": "And so the weather, the gas molecules, as soon as the energy flows stops, they just dissipate", "start": 1147.0, "end": 1154.0}
+{"id": "yotM-QjF-jY-t1154.0", "text": "But, you know, life has achieved this internal telos to, you know, survive, reproduce, and create life more abundant and extravagant", "start": 1154.0, "end": 1164.0}
+{"id": "yotM-QjF-jY-t1164.0", "text": "So, for me, the fundamental physics of the universe is that as long as there's energy flowing through matter", "start": 1164.0, "end": 1174.0}
+{"id": "yotM-QjF-jY-t1174.0", "text": "We have a possibility of increasing complexity", "start": 1174.0, "end": 1178.0}
+{"id": "yotM-QjF-jY-t1178.0", "text": "So that's key, the possibility of increasing complexity, but it might not be an inevitability", "start": 1178.0, "end": 1186.0}
+{"id": "yotM-QjF-jY-t1186.0", "text": "Absolutely not, and it says nothing about how that complexity is going to evolve or what it's going to be, but the possibilities", "start": 1186.0, "end": 1194.0}
+{"id": "yotM-QjF-jY-t1194.0", "text": "So that's kind of fundamental level, and most people don't get it, it's very counterintuitive", "start": 1194.0, "end": 1200.0}
+{"id": "yotM-QjF-jY-t1200.0", "text": "But Eric Chason at Harvard and Tufts, astronomers, it's really interesting, sort of back to the envelope calculations", "start": 1200.0, "end": 1208.0}
+{"id": "yotM-QjF-jY-t1208.0", "text": "About how much energy flows through a system, let me just put it out there really quickly", "start": 1208.0, "end": 1213.0}
+{"id": "yotM-QjF-jY-t1213.0", "text": "Like the Sun as a unit, of course, it's really big, and it's really put on an enormous amount of energy", "start": 1213.0, "end": 1219.0}
+{"id": "yotM-QjF-jY-t1219.0", "text": "But a photosynthesizing microorganism is about 500 times the energy density flow of the Sun", "start": 1219.0, "end": 1227.0}
+{"id": "yotM-QjF-jY-t1227.0", "text": "When you normalize for the mass and the time frame", "start": 1227.0, "end": 1231.0}
+{"id": "yotM-QjF-jY-t1231.0", "text": "A mammalian body is about 10,000 times the energy density flow of the Sun", "start": 1231.0, "end": 1236.0}
+{"id": "yotM-QjF-jY-t1236.0", "text": "Our brains are about 75,000 times the energy density flow of the Sun", "start": 1236.0, "end": 1241.0}
+{"id": "yotM-QjF-jY-t1241.0", "text": "And by the way, our brains only work on about 20, 25 watts of energy", "start": 1241.0, "end": 1245.0}
+{"id": "yotM-QjF-jY-t1245.0", "text": "So our body is working about 100 watts of energy", "start": 1245.0, "end": 1249.0}
+{"id": "yotM-QjF-jY-t1249.0", "text": "And if you take all the energy that we use outside of our bodies", "start": 1249.0, "end": 1253.0}
+{"id": "yotM-QjF-jY-t1253.0", "text": "As a result of first fire mastery, then agriculture, then fossil fuels", "start": 1253.0, "end": 1260.0}
+{"id": "yotM-QjF-jY-t1260.0", "text": "Where millions of times, the people in this room, are consuming energy millions of times that of the Sun", "start": 1260.0, "end": 1269.0}
+{"id": "yotM-QjF-jY-t1269.0", "text": "So it's very counter, again, when normalized for the mass of the system", "start": 1269.0, "end": 1273.0}
+{"id": "yotM-QjF-jY-t1273.0", "text": "So energy is part of the story of complexity", "start": 1273.0, "end": 1277.0}
+{"id": "yotM-QjF-jY-t1277.0", "text": "And most people focus on the information side of it, it's informationally driven", "start": 1277.0, "end": 1282.0}
+{"id": "yotM-QjF-jY-t1282.0", "text": "But you don't get the information without the energy flowing through matter", "start": 1282.0, "end": 1286.0}
+{"id": "yotM-QjF-jY-t1286.0", "text": "So that's a sort of fundamental physics point that Tim might want to say more about that", "start": 1286.0, "end": 1292.0}
+{"id": "yotM-QjF-jY-t1292.0", "text": "Yeah, I'm not sure, let me try and make a point about information in terms of entropy", "start": 1292.0, "end": 1302.0}
+{"id": "yotM-QjF-jY-t1302.0", "text": "And then maybe I can ask you because I'm not quite sure what you have in mind by energy flow", "start": 1302.0, "end": 1307.0}
+{"id": "yotM-QjF-jY-t1307.0", "text": "So one way to see the complexity, this is an example, I guess of Sean Carroll's, but it makes the point", "start": 1307.0, "end": 1315.0}
+{"id": "yotM-QjF-jY-t1315.0", "text": "Complexity is a really hard concept to get a good grip on", "start": 1315.0, "end": 1320.0}
+{"id": "yotM-QjF-jY-t1320.0", "text": "People often try and equate it with a concept that you have a better grip on like entropy or something like that", "start": 1320.0, "end": 1326.0}
+{"id": "yotM-QjF-jY-t1326.0", "text": "But if you think about the, there's a standard example of increase of entropy where you take coffee and cream", "start": 1326.0, "end": 1335.0}
+{"id": "yotM-QjF-jY-t1335.0", "text": "And start them out where the cream is just on top of the coffee", "start": 1335.0, "end": 1339.0}
+{"id": "yotM-QjF-jY-t1339.0", "text": "And then you wait and it slowly diffuses and, or you stir it, right?", "start": 1339.0, "end": 1345.0}
+{"id": "yotM-QjF-jY-t1345.0", "text": "Which would be introducing energy and, but even if you don't introduce any energy and it will slowly diffuse", "start": 1345.0, "end": 1351.0}
+{"id": "yotM-QjF-jY-t1351.0", "text": "If you stir it, it goes through a phase where you have this tremendous complexity", "start": 1351.0, "end": 1355.0}
+{"id": "yotM-QjF-jY-t1355.0", "text": "You have the tendrils of cream that have interesting shapes that are intermixed with the coffee", "start": 1355.0, "end": 1362.0}
+{"id": "yotM-QjF-jY-t1362.0", "text": "But then as time goes on, it eventually becomes bland again, right? It just becomes a mocha brown uniform mix", "start": 1362.0, "end": 1370.0}
+{"id": "yotM-QjF-jY-t1370.0", "text": "That's the maximal entropy state, right? It's not the maximal complexity state", "start": 1370.0, "end": 1376.0}
+{"id": "yotM-QjF-jY-t1376.0", "text": "So you started from a very uncomplex system and you go through a sort of complexity maximum", "start": 1376.0, "end": 1382.0}
+{"id": "yotM-QjF-jY-t1382.0", "text": "And then it tails off as time goes on into again a very uncomplex system", "start": 1382.0, "end": 1387.0}
+{"id": "yotM-QjF-jY-t1387.0", "text": "All the time entropy is going up", "start": 1387.0, "end": 1389.0}
+{"id": "yotM-QjF-jY-t1389.0", "text": "So the conditions for there even to be complexity or how you quantify it or what you mean by it", "start": 1389.0, "end": 1396.0}
+{"id": "yotM-QjF-jY-t1396.0", "text": "I think are very difficult. I'm not sure why you would need energy flow to get complexity", "start": 1396.0, "end": 1406.0}
+{"id": "yotM-QjF-jY-t1406.0", "text": "I mean, I'm not sure what you think of the connection there between energy flow and complex, and increasing complexity", "start": 1406.0, "end": 1411.0}
+{"id": "yotM-QjF-jY-t1411.0", "text": "What the one thing about biology, so I, so", "start": 1411.0, "end": 1416.0}
+{"id": "yotM-QjF-jY-t1416.0", "text": "And I'm not, and there's things I'm not comfortable about with the information", "start": 1416.0, "end": 1420.0}
+{"id": "yotM-QjF-jY-t1420.0", "text": "I mean, I understand, you know, that's a whole discussion", "start": 1420.0, "end": 1423.0}
+{"id": "yotM-QjF-jY-t1423.0", "text": "I tend to take a very almost architectural approach, but one thing about the origin of life is that now", "start": 1423.0, "end": 1429.0}
+{"id": "yotM-QjF-jY-t1429.0", "text": "And I'd be curious, the transition from physics and chemistry to the two", "start": 1429.0, "end": 1437.0}
+{"id": "yotM-QjF-jY-t1437.0", "text": "Once you have living cells, the way I see it, you now have systems that require the import of matter and energy into them", "start": 1437.0, "end": 1449.0}
+{"id": "yotM-QjF-jY-t1449.0", "text": "And export of waste, which you do not have with an atom, you do not have with a molecule", "start": 1449.0, "end": 1455.0}
+{"id": "yotM-QjF-jY-t1455.0", "text": "They can be relatively static structures", "start": 1455.0, "end": 1459.0}
+{"id": "yotM-QjF-jY-t1459.0", "text": "And so to have life you do need a field of either molecules that contain chemical energy in the environment", "start": 1459.0, "end": 1470.0}
+{"id": "yotM-QjF-jY-t1470.0", "text": "Or radiative energy with photosynthesis", "start": 1470.0, "end": 1473.0}
+{"id": "yotM-QjF-jY-t1473.0", "text": "And so it does have to flow, that does have to flow", "start": 1473.0, "end": 1477.0}
+{"id": "yotM-QjF-jY-t1477.0", "text": "That was something, of course you understand, I know you know that, but that was something what you were asking, then what that transition meant", "start": 1477.0, "end": 1483.0}
+{"id": "yotM-QjF-jY-t1483.0", "text": "Because once you have a system that requires inputs of matter and energy and exports waste", "start": 1483.0, "end": 1490.0}
+{"id": "yotM-QjF-jY-t1490.0", "text": "It seems to me then, then biological evolution almost follows logically from that", "start": 1490.0, "end": 1497.0}
+{"id": "yotM-QjF-jY-t1497.0", "text": "Because since these creatures are replicating themselves, they can't just grow forever, they split and they form two cells", "start": 1497.0, "end": 1505.0}
+{"id": "yotM-QjF-jY-t1505.0", "text": "Now they're in competition inherently, because if one is importing a nutrient", "start": 1505.0, "end": 1511.0}
+{"id": "yotM-QjF-jY-t1511.0", "text": "That's depleting the nutrient in the environment", "start": 1511.0, "end": 1514.0}
+{"id": "yotM-QjF-jY-t1514.0", "text": "So there's depletion of the energy from the environment if we talk about matter containing energy", "start": 1514.0, "end": 1519.0}
+{"id": "yotM-QjF-jY-t1519.0", "text": "But living things also need matter as matter, they need the carbon atom to structure other molecules", "start": 1519.0, "end": 1526.0}
+{"id": "yotM-QjF-jY-t1526.0", "text": "So it's not just energy, they actually need certain kinds of material building blocks", "start": 1526.0, "end": 1532.0}
+{"id": "yotM-QjF-jY-t1532.0", "text": "And once you have something that needs imports and exports, you get biological evolution", "start": 1532.0, "end": 1538.0}
+{"id": "yotM-QjF-jY-t1538.0", "text": "Because now there's the depletion in the environment from the nutrient import", "start": 1538.0, "end": 1542.0}
+{"id": "yotM-QjF-jY-t1542.0", "text": "And there's putting out toxins as waste, because the waste these creatures are getting rid of it", "start": 1542.0, "end": 1547.0}
+{"id": "yotM-QjF-jY-t1547.0", "text": "So they are causing detrimental changes to the environment setting up a competitive so to speak field", "start": 1547.0, "end": 1556.0}
+{"id": "yotM-QjF-jY-t1556.0", "text": "You can also have cooperation in there among organisms, of course, which is important for the evolution of the eukaryotic cell", "start": 1556.0, "end": 1561.0}
+{"id": "yotM-QjF-jY-t1561.0", "text": "But it sets up this field", "start": 1561.0, "end": 1563.0}
+{"id": "yotM-QjF-jY-t1563.0", "text": "Now, so I do have this overriding question", "start": 1563.0, "end": 1567.0}
+{"id": "yotM-QjF-jY-t1567.0", "text": "That's in a way a different kind of dynamics that have been born from the physical chemical dynamics", "start": 1567.0, "end": 1578.0}
+{"id": "yotM-QjF-jY-t1578.0", "text": "Now it's not just coming out of the sky coming down, but it seems like it's a fun...", "start": 1578.0, "end": 1586.0}
+{"id": "yotM-QjF-jY-t1586.0", "text": "It seems like it's different enough that biological evolution is different enough for us to really think about what that means", "start": 1586.0, "end": 1594.0}
+{"id": "yotM-QjF-jY-t1594.0", "text": "And now you can have a combination of biological structures", "start": 1594.0, "end": 1598.0}
+{"id": "yotM-QjF-jY-t1598.0", "text": "I think another important concept here is homeostasis", "start": 1598.0, "end": 1604.0}
+{"id": "yotM-QjF-jY-t1604.0", "text": "Because it's not just enough to have those energy flows", "start": 1604.0, "end": 1608.0}
+{"id": "yotM-QjF-jY-t1608.0", "text": "And as you say, the flows of matter that maintain them", "start": 1608.0, "end": 1612.0}
+{"id": "yotM-QjF-jY-t1612.0", "text": "I think Eric Chesson's observation that energy density seems to conform to this sort of hierarchy", "start": 1612.0, "end": 1621.0}
+{"id": "yotM-QjF-jY-t1621.0", "text": "It seems to be a characteristic of this hierarchy", "start": 1621.0, "end": 1625.0}
+{"id": "yotM-QjF-jY-t1625.0", "text": "It's very interesting, the hierarchy that you've kind of named in your introductory statement", "start": 1625.0, "end": 1631.0}
+{"id": "yotM-QjF-jY-t1631.0", "text": "Does seem to carry with it this also hierarchy of energy density", "start": 1631.0, "end": 1637.0}
+{"id": "yotM-QjF-jY-t1637.0", "text": "But I don't think Eric has answered the question of why that necessarily needs to be", "start": 1637.0, "end": 1643.0}
+{"id": "yotM-QjF-jY-t1643.0", "text": "It's sort of an observation", "start": 1643.0, "end": 1645.0}
+{"id": "yotM-QjF-jY-t1645.0", "text": "When you name this hierarchy that Tyra has very well described", "start": 1645.0, "end": 1649.0}
+{"id": "yotM-QjF-jY-t1649.0", "text": "And then you look at the characteristics of these different entities", "start": 1649.0, "end": 1652.0}
+{"id": "yotM-QjF-jY-t1652.0", "text": "One thing you can observe is this energy flow density is really markedly increased at every higher level", "start": 1652.0, "end": 1659.0}
+{"id": "yotM-QjF-jY-t1659.0", "text": "It's exponentially increasing at every higher level", "start": 1659.0, "end": 1663.0}
+{"id": "yotM-QjF-jY-t1663.0", "text": "But it's also a characteristic, some of that energy, some of what it needs to do", "start": 1663.0, "end": 1667.0}
+{"id": "yotM-QjF-jY-t1667.0", "text": "Some of the point of that is to create a homeostasis so that the flows of matter and energy", "start": 1667.0, "end": 1673.0}
+{"id": "yotM-QjF-jY-t1673.0", "text": "That allow that structure can persist", "start": 1673.0, "end": 1678.0}
+{"id": "yotM-QjF-jY-t1678.0", "text": "A disequilibria's homeostasis", "start": 1678.0, "end": 1680.0}
+{"id": "yotM-QjF-jY-t1680.0", "text": "Yes, so it's not a causal, it's not a causal factor", "start": 1680.0, "end": 1686.0}
+{"id": "yotM-QjF-jY-t1686.0", "text": "It's a necessary energy flowing through gas", "start": 1686.0, "end": 1691.0}
+{"id": "yotM-QjF-jY-t1691.0", "text": "Spontaneously creates or complexity", "start": 1691.0, "end": 1695.0}
+{"id": "yotM-QjF-jY-t1695.0", "text": "I'm going to try to make one step back because we have discussed so many concepts", "start": 1695.0, "end": 1701.0}
+{"id": "yotM-QjF-jY-t1701.0", "text": "And the relationship between which is not always clear", "start": 1701.0, "end": 1704.0}
+{"id": "yotM-QjF-jY-t1704.0", "text": "We started with notion of complexity, right?", "start": 1704.0, "end": 1706.0}
+{"id": "yotM-QjF-jY-t1706.0", "text": "So we wanted to maybe get back to that a little bit, discuss it in a little bit greater detail", "start": 1706.0, "end": 1712.0}
+{"id": "yotM-QjF-jY-t1712.0", "text": "Wouldn't be, let's just try to simplify things a little bit", "start": 1712.0, "end": 1716.0}
+{"id": "yotM-QjF-jY-t1716.0", "text": "So let's pretend that we're just looking at a system at one particular comparing two systems at the same organizational level", "start": 1716.0, "end": 1723.0}
+{"id": "yotM-QjF-jY-t1723.0", "text": "So it's made from comparable parts", "start": 1723.0, "end": 1725.0}
+{"id": "yotM-QjF-jY-t1725.0", "text": "So we have a very good mathematical language to describe structures in the form of dynamic networks", "start": 1725.0, "end": 1733.0}
+{"id": "yotM-QjF-jY-t1733.0", "text": "That interact with one another, where different parts interact with one another in some non-trivial way", "start": 1733.0, "end": 1739.0}
+{"id": "yotM-QjF-jY-t1739.0", "text": "We have, we can describe the topology, the strength of the relationships", "start": 1739.0, "end": 1743.0}
+{"id": "yotM-QjF-jY-t1743.0", "text": "We define as modularity, the overall topology", "start": 1743.0, "end": 1746.0}
+{"id": "yotM-QjF-jY-t1746.0", "text": "And by doing that we can compare to a system in terms of, in some numerical ways of assessing complexity at that level", "start": 1746.0, "end": 1752.0}
+{"id": "yotM-QjF-jY-t1752.0", "text": "The difficulty comes in when you start looking at hierarchical systems", "start": 1752.0, "end": 1756.0}
+{"id": "yotM-QjF-jY-t1756.0", "text": "Where an element of a system is in itself a complex system of a different level", "start": 1756.0, "end": 1766.0}
+{"id": "yotM-QjF-jY-t1766.0", "text": "Then, you would argue that the system is more complex, the more hierarchical levels you have", "start": 1766.0, "end": 1773.0}
+{"id": "yotM-QjF-jY-t1773.0", "text": "Because what you yet, I think overall", "start": 1773.0, "end": 1775.0}
+{"id": "yotM-QjF-jY-t1775.0", "text": "And you could just clarify it, when you say hierarchical, do you mean nested?", "start": 1775.0, "end": 1779.0}
+{"id": "yotM-QjF-jY-t1779.0", "text": "I mean nested composition", "start": 1779.0, "end": 1782.0}
+{"id": "yotM-QjF-jY-t1782.0", "text": "But there are sometimes people use hierarchical to mean like a tree structure", "start": 1782.0, "end": 1785.0}
+{"id": "yotM-QjF-jY-t1785.0", "text": "Yes, or not hierarchy of control", "start": 1785.0, "end": 1787.0}
+{"id": "yotM-QjF-jY-t1787.0", "text": "No, I meant specifically, physically nested", "start": 1787.0, "end": 1789.0}
+{"id": "yotM-QjF-jY-t1789.0", "text": "Nested, you can think in like a Dan Meche sense, because I know Meche talks about one way of one form of complexity", "start": 1789.0, "end": 1795.0}
+{"id": "yotM-QjF-jY-t1795.0", "text": "Is numbers of layers of nestedness", "start": 1795.0, "end": 1800.0}
+{"id": "yotM-QjF-jY-t1800.0", "text": "And I saw that he has a paper in your new book, for example", "start": 1800.0, "end": 1805.0}
+{"id": "yotM-QjF-jY-t1805.0", "text": "But that's what you're talking about when you say hierarchical", "start": 1805.0, "end": 1808.0}
+{"id": "yotM-QjF-jY-t1808.0", "text": "Specifically about one particular type of hierarchy when you have nestedness", "start": 1808.0, "end": 1811.0}
+{"id": "yotM-QjF-jY-t1811.0", "text": "Because I think that's a different in scale, something you referred to", "start": 1811.0, "end": 1814.0}
+{"id": "yotM-QjF-jY-t1814.0", "text": "Early on regarding that scale is important", "start": 1814.0, "end": 1817.0}
+{"id": "yotM-QjF-jY-t1817.0", "text": "Scale is important because the discontinuity in that scale", "start": 1817.0, "end": 1819.0}
+{"id": "yotM-QjF-jY-t1819.0", "text": "That's what creates the discreetness of levels", "start": 1819.0, "end": 1821.0}
+{"id": "yotM-QjF-jY-t1821.0", "text": "This way we can talk about the levels as ontologically sound real thing", "start": 1821.0, "end": 1826.0}
+{"id": "yotM-QjF-jY-t1826.0", "text": "Rather than just pure our conception of something being a little small or something being a little larger", "start": 1826.0, "end": 1831.0}
+{"id": "yotM-QjF-jY-t1831.0", "text": "Because I think nobody would argue that when two individuals interact", "start": 1831.0, "end": 1834.0}
+{"id": "yotM-QjF-jY-t1834.0", "text": "It would, like two humans would interact", "start": 1834.0, "end": 1837.0}
+{"id": "yotM-QjF-jY-t1837.0", "text": "It would be correct to say that cells of one interact with an individual person of another", "start": 1837.0, "end": 1843.0}
+{"id": "yotM-QjF-jY-t1843.0", "text": "Because these are not comparable entities with regard to this scale", "start": 1843.0, "end": 1848.0}
+{"id": "yotM-QjF-jY-t1848.0", "text": "Because the rates of processes at different levels are completely different", "start": 1848.0, "end": 1852.0}
+{"id": "yotM-QjF-jY-t1852.0", "text": "So that's why when we look at the dynamic system", "start": 1852.0, "end": 1856.0}
+{"id": "yotM-QjF-jY-t1856.0", "text": "It can be only composed of the elements of the same hierarchical level", "start": 1856.0, "end": 1860.0}
+{"id": "yotM-QjF-jY-t1860.0", "text": "Because they are, if you engage in the energy and matter relationship", "start": 1860.0, "end": 1864.0}
+{"id": "yotM-QjF-jY-t1864.0", "text": "It can be only among entities that are within the same structure", "start": 1864.0, "end": 1869.0}
+{"id": "yotM-QjF-jY-t1869.0", "text": "Yeah, I'm totally into that, where then these entities at these different scales", "start": 1869.0, "end": 1874.0}
+{"id": "yotM-QjF-jY-t1874.0", "text": "They have certain kinds of relationships that they're capable of", "start": 1874.0, "end": 1878.0}
+{"id": "yotM-QjF-jY-t1878.0", "text": "So we are capable of using light and sound, of using remote sensing", "start": 1878.0, "end": 1882.0}
+{"id": "yotM-QjF-jY-t1882.0", "text": "Which cells, biological cells, they can be responsive to light", "start": 1882.0, "end": 1886.0}
+{"id": "yotM-QjF-jY-t1886.0", "text": "But they're not actually, as far as we know, communicating through, like say, a linguistic modulation on light and sound", "start": 1886.0, "end": 1894.0}
+{"id": "yotM-QjF-jY-t1894.0", "text": "So the way I see it is that it's not only the birth, what's key is not only the birth of these new scales of size", "start": 1894.0, "end": 1902.0}
+{"id": "yotM-QjF-jY-t1902.0", "text": "These entities or systems have new kinds of abilities to relate", "start": 1902.0, "end": 1908.0}
+{"id": "yotM-QjF-jY-t1908.0", "text": "And I think what you're saying is that they tend to relate to entities on that same level", "start": 1908.0, "end": 1914.0}
+{"id": "yotM-QjF-jY-t1914.0", "text": "Yes, and you tell our effort with your approach of different agnices levels", "start": 1914.0, "end": 1918.0}
+{"id": "yotM-QjF-jY-t1918.0", "text": "These are the fundamentals jumps in this level of organization", "start": 1918.0, "end": 1921.0}
+{"id": "yotM-QjF-jY-t1921.0", "text": "Something that is sometimes referred to as major transitions", "start": 1921.0, "end": 1924.0}
+{"id": "yotM-QjF-jY-t1924.0", "text": "Major transitions in the bio-biologist, yeah", "start": 1924.0, "end": 1927.0}
+{"id": "yotM-QjF-jY-t1927.0", "text": "So it's not about how the system once it's already emerged, how it starts working with this having multiple levels structure", "start": 1927.0, "end": 1933.0}
+{"id": "yotM-QjF-jY-t1933.0", "text": "But you're focusing to be on the emergence of these levels in the first place", "start": 1933.0, "end": 1937.0}
+{"id": "yotM-QjF-jY-t1937.0", "text": "Right, so it's a different story", "start": 1937.0, "end": 1940.0}
+{"id": "yotM-QjF-jY-t1940.0", "text": "Obviously you have to have these levels emerging first", "start": 1940.0, "end": 1943.0}
+{"id": "yotM-QjF-jY-t1943.0", "text": "Because now we're looking at, we're faced with the already existing system of these levels", "start": 1943.0, "end": 1948.0}
+{"id": "yotM-QjF-jY-t1948.0", "text": "But have must have emerged sometimes through history", "start": 1948.0, "end": 1950.0}
+{"id": "yotM-QjF-jY-t1950.0", "text": "But it's a different question of how these levels have appeared in the first place", "start": 1950.0, "end": 1955.0}
+{"id": "yotM-QjF-jY-t1955.0", "text": "I'm just not sure I understand", "start": 1955.0, "end": 1961.0}
+{"id": "yotM-QjF-jY-t1961.0", "text": "I understand the notion of level, I can make sense of the notion of levels", "start": 1961.0, "end": 1965.0}
+{"id": "yotM-QjF-jY-t1965.0", "text": "I don't see why you would think that only things at the same level interact", "start": 1965.0, "end": 1971.0}
+{"id": "yotM-QjF-jY-t1971.0", "text": "So suppose I'm a biologist and I'm looking at, I don't know, otters", "start": 1971.0, "end": 1977.0}
+{"id": "yotM-QjF-jY-t1977.0", "text": "And otters are able, I think, to pick up rocks or somebody is able to pick up rocks and smash", "start": 1977.0, "end": 1982.0}
+{"id": "yotM-QjF-jY-t1982.0", "text": "So the rock is at a really low level of complexity, right?", "start": 1982.0, "end": 1985.0}
+{"id": "yotM-QjF-jY-t1985.0", "text": "But it interacts with this biological organism, it's important", "start": 1985.0, "end": 1989.0}
+{"id": "yotM-QjF-jY-t1989.0", "text": "So it would be a nice world if, as it were, the levels just sort of thin themselves out and only interact", "start": 1989.0, "end": 1996.0}
+{"id": "yotM-QjF-jY-t1996.0", "text": "But there's all kinds of inter-level interactions", "start": 1996.0, "end": 1999.0}
+{"id": "yotM-QjF-jY-t1999.0", "text": "This is a really important one, it's really important", "start": 1999.0, "end": 2001.0}
+{"id": "yotM-QjF-jY-t2001.0", "text": "It's really important for particles and atoms interact with mutations", "start": 2001.0, "end": 2004.0}
+{"id": "yotM-QjF-jY-t2004.0", "text": "But it's a different kind of interaction", "start": 2004.0, "end": 2006.0}
+{"id": "yotM-QjF-jY-t2006.0", "text": "Maybe there's a certain kind of constructive or engagement that only happens at the same level", "start": 2006.0, "end": 2011.0}
+{"id": "yotM-QjF-jY-t2011.0", "text": "Obviously, we get hit by high energy protons and it can damage ourselves", "start": 2011.0, "end": 2019.0}
+{"id": "yotM-QjF-jY-t2019.0", "text": "But that's different from communicating with another organism", "start": 2019.0, "end": 2022.0}
+{"id": "yotM-QjF-jY-t2022.0", "text": "Maybe otters pick up the rock to maintain its homeostasis", "start": 2022.0, "end": 2025.0}
+{"id": "yotM-QjF-jY-t2025.0", "text": "I don't think of rock and otter at a different level", "start": 2025.0, "end": 2031.0}
+{"id": "yotM-QjF-jY-t2031.0", "text": "In terms of their roles, maybe complex, different composition, yes, at a different level", "start": 2031.0, "end": 2037.0}
+{"id": "yotM-QjF-jY-t2037.0", "text": "But I'm not putting them at different levels because of their complexity", "start": 2037.0, "end": 2041.0}
+{"id": "yotM-QjF-jY-t2041.0", "text": "At the same level of interactions, they belong to the same level", "start": 2041.0, "end": 2045.0}
+{"id": "yotM-QjF-jY-t2045.0", "text": "Because at the same time, they fly as an organism, it's a level of an organism", "start": 2045.0, "end": 2048.0}
+{"id": "yotM-QjF-jY-t2048.0", "text": "It will interact with a human, because human is an organism", "start": 2048.0, "end": 2051.0}
+{"id": "yotM-QjF-jY-t2051.0", "text": "They're at the same level of an organism", "start": 2051.0, "end": 2053.0}
+{"id": "yotM-QjF-jY-t2053.0", "text": "But obviously, you can argue that the fly may be more simpler than a human", "start": 2053.0, "end": 2058.0}
+{"id": "yotM-QjF-jY-t2058.0", "text": "That doesn't make them, but it would be a role", "start": 2058.0, "end": 2061.0}
+{"id": "yotM-QjF-jY-t2061.0", "text": "So I would take them as multicellular or...", "start": 2061.0, "end": 2063.0}
+{"id": "yotM-QjF-jY-t2063.0", "text": "Yes, that's the level of multicellularity", "start": 2063.0, "end": 2067.0}
+{"id": "yotM-QjF-jY-t2067.0", "text": "But it would be wrong to say that an otter interacts with an ecosystem", "start": 2067.0, "end": 2072.0}
+{"id": "yotM-QjF-jY-t2072.0", "text": "An ecosystem that's a level that's encompassed not in all of the otter deals with", "start": 2072.0, "end": 2077.0}
+{"id": "yotM-QjF-jY-t2077.0", "text": "So otter would interact with other abiotic and biotic elements in its own environment", "start": 2077.0, "end": 2081.0}
+{"id": "yotM-QjF-jY-t2081.0", "text": "But not with the ecosystem, such as...", "start": 2081.0, "end": 2083.0}
+{"id": "yotM-QjF-jY-t2083.0", "text": "Or the fact that a human being is a multicellular organism", "start": 2083.0, "end": 2087.0}
+{"id": "yotM-QjF-jY-t2087.0", "text": "But now we know with the microbiome that we're not only interacting with unicellular organisms", "start": 2087.0, "end": 2092.0}
+{"id": "yotM-QjF-jY-t2092.0", "text": "But that, in fact, our nature is integrally composed of unicellular organisms", "start": 2092.0, "end": 2101.0}
+{"id": "yotM-QjF-jY-t2101.0", "text": "Which are themselves, integrally composed of things at smaller levels", "start": 2101.0, "end": 2106.0}
+{"id": "yotM-QjF-jY-t2106.0", "text": "So it gets complicated, doesn't it?", "start": 2106.0, "end": 2109.0}
+{"id": "yotM-QjF-jY-t2109.0", "text": "That's where it's complicated with the question of what leads to the origin of levels", "start": 2109.0, "end": 2115.0}
+{"id": "yotM-QjF-jY-t2115.0", "text": "Because if you look at a human organs composed of multiple cells", "start": 2115.0, "end": 2119.0}
+{"id": "yotM-QjF-jY-t2119.0", "text": "If you try to look at an individual cell as an independent organism", "start": 2119.0, "end": 2124.0}
+{"id": "yotM-QjF-jY-t2124.0", "text": "Which it is not because it usually does not live under natural conditions", "start": 2124.0, "end": 2129.0}
+{"id": "yotM-QjF-jY-t2129.0", "text": "Devode of being part of a body", "start": 2129.0, "end": 2133.0}
+{"id": "yotM-QjF-jY-t2133.0", "text": "It would not be, but in the early origin of multicellularity", "start": 2133.0, "end": 2137.0}
+{"id": "yotM-QjF-jY-t2137.0", "text": "That was the mode of emergence of that multiolegrinism level", "start": 2137.0, "end": 2140.0}
+{"id": "yotM-QjF-jY-t2140.0", "text": "The problem, you can talk more about this, that the emergence of multicellular deacet", "start": 2140.0, "end": 2145.0}
+{"id": "yotM-QjF-jY-t2145.0", "text": "It has to be a fundamental step where there was this next level emerged", "start": 2145.0, "end": 2150.0}
+{"id": "yotM-QjF-jY-t2150.0", "text": "But I think with regard to interaction with humans, with its microbiome", "start": 2150.0, "end": 2154.0}
+{"id": "yotM-QjF-jY-t2154.0", "text": "We are at the same level as this organism", "start": 2154.0, "end": 2157.0}
+{"id": "yotM-QjF-jY-t2157.0", "text": "They're organisms, they're multi-cell, maybe a multicellular and unicellular organs", "start": 2157.0, "end": 2160.0}
+{"id": "yotM-QjF-jY-t2160.0", "text": "They still can't interact, they can eat each other", "start": 2160.0, "end": 2162.0}
+{"id": "yotM-QjF-jY-t2162.0", "text": "It's, well, maybe not multicellular, unicellular organs will eat multicellular ones", "start": 2162.0, "end": 2168.0}
+{"id": "yotM-QjF-jY-t2168.0", "text": "But it's an organismal level", "start": 2168.0, "end": 2171.0}
+{"id": "yotM-QjF-jY-t2171.0", "text": "Complexity and level are not necessarily can be equated", "start": 2171.0, "end": 2178.0}
+{"id": "yotM-QjF-jY-t2178.0", "text": "I think you can only compare the complexity of entities that are at the same level", "start": 2178.0, "end": 2182.0}
+{"id": "yotM-QjF-jY-t2182.0", "text": "If you can compare between levels, then what do you mean by compare?", "start": 2182.0, "end": 2185.0}
+{"id": "yotM-QjF-jY-t2185.0", "text": "What do you mean by compare?", "start": 2185.0, "end": 2188.0}
+{"id": "yotM-QjF-jY-t2188.0", "text": "When you said you can only compare two entities at the same level", "start": 2188.0, "end": 2192.0}
+{"id": "yotM-QjF-jY-t2192.0", "text": "What do you mean by, what do you do?", "start": 2192.0, "end": 2194.0}
+{"id": "yotM-QjF-jY-t2194.0", "text": "You don't use parco-physics to do economics", "start": 2194.0, "end": 2197.0}
+{"id": "yotM-QjF-jY-t2197.0", "text": "Oh, okay", "start": 2197.0, "end": 2198.0}
+{"id": "yotM-QjF-jY-t2198.0", "text": "You need to have the discourse, I mean, you have the discourse to figure out the scientific relationships", "start": 2198.0, "end": 2205.0}
+{"id": "yotM-QjF-jY-t2205.0", "text": "But I think it's important to note that the adjacent levels often do have things to say for each other", "start": 2205.0, "end": 2211.0}
+{"id": "yotM-QjF-jY-t2211.0", "text": "And there's a difference between complicated and complex", "start": 2211.0, "end": 2216.0}
+{"id": "yotM-QjF-jY-t2216.0", "text": "So the example I like to use is that cars are a really complicated thing", "start": 2216.0, "end": 2220.0}
+{"id": "yotM-QjF-jY-t2220.0", "text": "But we sort of know how to build it and how all the pieces work together", "start": 2220.0, "end": 2224.0}
+{"id": "yotM-QjF-jY-t2224.0", "text": "And we're at a traffic jam on the morning commute where everybody's driving along", "start": 2224.0, "end": 2229.0}
+{"id": "yotM-QjF-jY-t2229.0", "text": "And a little variations in somebody's speed starts replicating and all of a sudden it stops, goes stop, go", "start": 2229.0, "end": 2235.0}
+{"id": "yotM-QjF-jY-t2235.0", "text": "That's a complex phenomena", "start": 2235.0, "end": 2237.0}
+{"id": "yotM-QjF-jY-t2237.0", "text": "And complexity is a whole science of its own", "start": 2237.0, "end": 2242.0}
+{"id": "yotM-QjF-jY-t2242.0", "text": "And all the most interesting things in the universe are complex adaptive systems", "start": 2242.0, "end": 2247.0}
+{"id": "yotM-QjF-jY-t2247.0", "text": "Where there are lots of different interacting parts", "start": 2247.0, "end": 2251.0}
+{"id": "yotM-QjF-jY-t2251.0", "text": "And some freedom or possibility of things happening differently", "start": 2251.0, "end": 2257.0}
+{"id": "yotM-QjF-jY-t2257.0", "text": "So complexity as a term of science is really different than complicated", "start": 2257.0, "end": 2264.0}
+{"id": "yotM-QjF-jY-t2264.0", "text": "And a lot of what science is is trying to make things that look complex turn into complicated problems", "start": 2264.0, "end": 2271.0}
+{"id": "yotM-QjF-jY-t2271.0", "text": "But now there's a whole bunch of phenomena that we study", "start": 2271.0, "end": 2276.0}
+{"id": "yotM-QjF-jY-t2276.0", "text": "Some of them are very simple like flocks of birds which some can be described mathematically", "start": 2276.0, "end": 2282.0}
+{"id": "yotM-QjF-jY-t2282.0", "text": "Some not that are complex and I think that's an important", "start": 2282.0, "end": 2286.0}
+{"id": "yotM-QjF-jY-t2286.0", "text": "But what he described as a relationship between the complexity of a car structure and the traffic", "start": 2286.0, "end": 2293.0}
+{"id": "yotM-QjF-jY-t2293.0", "text": "Which cannot be decomposed and explained in terms of the car parts", "start": 2293.0, "end": 2298.0}
+{"id": "yotM-QjF-jY-t2298.0", "text": "That's the exact example of comparison between different levels", "start": 2298.0, "end": 2305.0}
+{"id": "yotM-QjF-jY-t2305.0", "text": "I mean in some way the traffic jam is simpler because it can be mathematically", "start": 2305.0, "end": 2310.0}
+{"id": "yotM-QjF-jY-t2310.0", "text": "Mathematically sized by little units and people write equations for it and do modeling of it", "start": 2310.0, "end": 2315.0}
+{"id": "yotM-QjF-jY-t2315.0", "text": "Where a car, yes it can be understood but to me the multiple levels of a car", "start": 2315.0, "end": 2322.0}
+{"id": "yotM-QjF-jY-t2322.0", "text": "Of course the car jam is made of cars, so that's why it's a...", "start": 2322.0, "end": 2326.0}
+{"id": "yotM-QjF-jY-t2326.0", "text": "Yeah, but I think what you just said is going to be much more true in ten years", "start": 2326.0, "end": 2330.0}
+{"id": "yotM-QjF-jY-t2330.0", "text": "About traffic jams when there are no more...", "start": 2330.0, "end": 2332.0}
+{"id": "yotM-QjF-jY-t2332.0", "text": "When there are human drivers are no longer a part of the equation", "start": 2332.0, "end": 2336.0}
+{"id": "yotM-QjF-jY-t2336.0", "text": "Whereas now there's a complex neurological sensory reactive component to that", "start": 2336.0, "end": 2344.0}
+{"id": "yotM-QjF-jY-t2344.0", "text": "It's interesting to note that soon there will be traffic jams that are probably just as complex for different reasons", "start": 2344.0, "end": 2351.0}
+{"id": "yotM-QjF-jY-t2351.0", "text": "So here's to me, so we haven't gotten into culture yet", "start": 2351.0, "end": 2355.0}
+{"id": "yotM-QjF-jY-t2355.0", "text": "I'd be really curious about how you think about this idea, how you all think about it from different angles", "start": 2355.0, "end": 2362.0}
+{"id": "yotM-QjF-jY-t2362.0", "text": "And particularly from a general principle", "start": 2362.0, "end": 2364.0}
+{"id": "yotM-QjF-jY-t2364.0", "text": "So lots of people for years have been talking about cultural evolution", "start": 2364.0, "end": 2368.0}
+{"id": "yotM-QjF-jY-t2368.0", "text": "Which is like biological evolution, not by having a genome and not by having a phenotype, genotype", "start": 2368.0, "end": 2374.0}
+{"id": "yotM-QjF-jY-t2374.0", "text": "But by having properties of propagation, variation and selection", "start": 2374.0, "end": 2380.0}
+{"id": "yotM-QjF-jY-t2380.0", "text": "So the automobile manufacturer can make more cars", "start": 2380.0, "end": 2383.0}
+{"id": "yotM-QjF-jY-t2383.0", "text": "That's propagating, they're not self propagating yet", "start": 2383.0, "end": 2387.0}
+{"id": "yotM-QjF-jY-t2387.0", "text": "But then they put out variants", "start": 2387.0, "end": 2390.0}
+{"id": "yotM-QjF-jY-t2390.0", "text": "Scientific theories can do the same thing, put out variants", "start": 2390.0, "end": 2394.0}
+{"id": "yotM-QjF-jY-t2394.0", "text": "And then it's selected in a field either in one's mind or in society", "start": 2394.0, "end": 2399.0}
+{"id": "yotM-QjF-jY-t2399.0", "text": "Now there's certain pushback against that from some of the social scientists", "start": 2399.0, "end": 2403.0}
+{"id": "yotM-QjF-jY-t2403.0", "text": "No, no, no, you don't want to make the comparison to rigid", "start": 2403.0, "end": 2407.0}
+{"id": "yotM-QjF-jY-t2407.0", "text": "But there's really sort of a tidal wave of literature happening", "start": 2407.0, "end": 2412.0}
+{"id": "yotM-QjF-jY-t2412.0", "text": "In this culture evolution studies", "start": 2412.0, "end": 2416.0}
+{"id": "yotM-QjF-jY-t2416.0", "text": "Simply saying that there's been a way I would put it", "start": 2416.0, "end": 2423.0}
+{"id": "yotM-QjF-jY-t2423.0", "text": "A rediscovery of these triple processes of propagation, variation and selection of pattern", "start": 2423.0, "end": 2432.0}
+{"id": "yotM-QjF-jY-t2432.0", "text": "That occurred at the beginning of the origin of life at the prokaryotic cell", "start": 2432.0, "end": 2437.0}
+{"id": "yotM-QjF-jY-t2437.0", "text": "And occurred again at some point in human evolution", "start": 2437.0, "end": 2440.0}
+{"id": "yotM-QjF-jY-t2440.0", "text": "I'll take it to be definitely by the time of sex tools", "start": 2440.0, "end": 2444.0}
+{"id": "yotM-QjF-jY-t2444.0", "text": "And probably we think language", "start": 2444.0, "end": 2446.0}
+{"id": "yotM-QjF-jY-t2446.0", "text": "And I think there's also a similarity between the amino acids, 20 amino acids", "start": 2446.0, "end": 2452.0}
+{"id": "yotM-QjF-jY-t2452.0", "text": "Being able to build a complexity of proteins, almost an infinite complexity of proteins", "start": 2452.0, "end": 2456.0}
+{"id": "yotM-QjF-jY-t2456.0", "text": "And human phonemes, a few units of speech", "start": 2456.0, "end": 2460.0}
+{"id": "yotM-QjF-jY-t2460.0", "text": "Being able to build almost an infinite number of words", "start": 2460.0, "end": 2463.0}
+{"id": "yotM-QjF-jY-t2463.0", "text": "I think there's kind of a parallel between this sort of element", "start": 2463.0, "end": 2469.0}
+{"id": "yotM-QjF-jY-t2469.0", "text": "Going to complex, being within the cell", "start": 2469.0, "end": 2473.0}
+{"id": "yotM-QjF-jY-t2473.0", "text": "As the genetic and amino acid system", "start": 2473.0, "end": 2475.0}
+{"id": "yotM-QjF-jY-t2475.0", "text": "And simple elements being complex in the human language system", "start": 2475.0, "end": 2480.0}
+{"id": "yotM-QjF-jY-t2480.0", "text": "Corresponding to the beginning of a propagation variation, selection process in biology", "start": 2480.0, "end": 2486.0}
+{"id": "yotM-QjF-jY-t2486.0", "text": "With a propagation, selection process in culture", "start": 2486.0, "end": 2489.0}
+{"id": "yotM-QjF-jY-t2489.0", "text": "So I'm curious as if there's been a rediscovery", "start": 2489.0, "end": 2493.0}
+{"id": "yotM-QjF-jY-t2493.0", "text": "As these levels of organization have built up", "start": 2493.0, "end": 2498.0}
+{"id": "yotM-QjF-jY-t2498.0", "text": "If suddenly the prokaryotic cell, which is using biological evolution", "start": 2498.0, "end": 2502.0}
+{"id": "yotM-QjF-jY-t2502.0", "text": "So is the eukaryotic cell, so is the multicellular organism", "start": 2502.0, "end": 2506.0}
+{"id": "yotM-QjF-jY-t2506.0", "text": "And so is the animal social group", "start": 2506.0, "end": 2508.0}
+{"id": "yotM-QjF-jY-t2508.0", "text": "And then with the anthropologist called the metagroups", "start": 2508.0, "end": 2511.0}
+{"id": "yotM-QjF-jY-t2511.0", "text": "Where groups can be not visible to each other on different sides of the mountain", "start": 2511.0, "end": 2515.0}
+{"id": "yotM-QjF-jY-t2515.0", "text": "But they're still linked in a culture", "start": 2515.0, "end": 2517.0}
+{"id": "yotM-QjF-jY-t2517.0", "text": "If that began a propagation variation and selection process again", "start": 2517.0, "end": 2524.0}
+{"id": "yotM-QjF-jY-t2524.0", "text": "That means there was a rediscovery of the similar pattern", "start": 2524.0, "end": 2529.0}
+{"id": "yotM-QjF-jY-t2529.0", "text": "Kind of a principle", "start": 2529.0, "end": 2532.0}
+{"id": "yotM-QjF-jY-t2532.0", "text": "So there's a difference between biological evolution and cultural evolution", "start": 2532.0, "end": 2538.0}
+{"id": "yotM-QjF-jY-t2538.0", "text": "And that's because we learn", "start": 2538.0, "end": 2542.0}
+{"id": "yotM-QjF-jY-t2542.0", "text": "And we pass on what we learn more or less to the next generation", "start": 2542.0, "end": 2547.0}
+{"id": "yotM-QjF-jY-t2547.0", "text": "And that becomes an exponentially growing process", "start": 2547.0, "end": 2552.0}
+{"id": "yotM-QjF-jY-t2552.0", "text": "So individually, we're not all that smart", "start": 2552.0, "end": 2555.0}
+{"id": "yotM-QjF-jY-t2555.0", "text": "We have a person by limitation, if you will, about how much we can know", "start": 2555.0, "end": 2560.0}
+{"id": "yotM-QjF-jY-t2560.0", "text": "And how much we can knowledge and know how we can contain", "start": 2560.0, "end": 2563.0}
+{"id": "yotM-QjF-jY-t2563.0", "text": "But you put us together in this quote unquote superorganism", "start": 2563.0, "end": 2567.0}
+{"id": "yotM-QjF-jY-t2567.0", "text": "And we're just...", "start": 2567.0, "end": 2569.0}
+{"id": "yotM-QjF-jY-t2569.0", "text": "We're on this exponential...", "start": 2569.0, "end": 2572.0}
+{"id": "yotM-QjF-jY-t2572.0", "text": "Don't run as individuals down too much", "start": 2572.0, "end": 2577.0}
+{"id": "yotM-QjF-jY-t2577.0", "text": "Well not you", "start": 2577.0, "end": 2579.0}
+{"id": "yotM-QjF-jY-t2579.0", "text": "I'm not saying that before... I mean I do want to mark a difference here", "start": 2579.0, "end": 2583.0}
+{"id": "yotM-QjF-jY-t2583.0", "text": "Because I think the analogy...", "start": 2583.0, "end": 2585.0}
+{"id": "yotM-QjF-jY-t2585.0", "text": "The wonderful thing about the theory of evolution", "start": 2585.0, "end": 2589.0}
+{"id": "yotM-QjF-jY-t2589.0", "text": "The original biological theory of evolution wasn't just that it was replicators with variation and selection", "start": 2589.0, "end": 2595.0}
+{"id": "yotM-QjF-jY-t2595.0", "text": "But that it was random variation", "start": 2595.0, "end": 2597.0}
+{"id": "yotM-QjF-jY-t2597.0", "text": "That you didn't need a tealological, you didn't need a purpose, you didn't need an aim or a design", "start": 2597.0, "end": 2601.0}
+{"id": "yotM-QjF-jY-t2601.0", "text": "And this could all just be happening randomly", "start": 2601.0, "end": 2604.0}
+{"id": "yotM-QjF-jY-t2604.0", "text": "Now hopefully once you get people involved", "start": 2604.0, "end": 2606.0}
+{"id": "yotM-QjF-jY-t2606.0", "text": "They're honestly not the chefs really aren't just randomly throwing stuff in", "start": 2606.0, "end": 2611.0}
+{"id": "yotM-QjF-jY-t2611.0", "text": "And seeing what happens, they come to have some understanding of what they're aiming at", "start": 2611.0, "end": 2616.0}
+{"id": "yotM-QjF-jY-t2616.0", "text": "And you get intentional behavior", "start": 2616.0, "end": 2618.0}
+{"id": "yotM-QjF-jY-t2618.0", "text": "They might come back to the restaurant", "start": 2618.0, "end": 2621.0}
+{"id": "yotM-QjF-jY-t2621.0", "text": "Which is gonna make the whole thing much more efficient you hope", "start": 2621.0, "end": 2624.0}
+{"id": "yotM-QjF-jY-t2624.0", "text": "And much faster and much more powerful", "start": 2624.0, "end": 2626.0}
+{"id": "yotM-QjF-jY-t2626.0", "text": "So I would be a little leery of...", "start": 2626.0, "end": 2628.0}
+{"id": "yotM-QjF-jY-t2628.0", "text": "It seems to be, but leery of stretching the analogy too much", "start": 2628.0, "end": 2633.0}
+{"id": "yotM-QjF-jY-t2633.0", "text": "But I would like to say it's more than an analogy, it's some deep level", "start": 2633.0, "end": 2637.0}
+{"id": "yotM-QjF-jY-t2637.0", "text": "It's the rediscovery of some of these triple principles", "start": 2637.0, "end": 2642.0}
+{"id": "yotM-QjF-jY-t2642.0", "text": "But how they're manifesting, because even the chef can't determine whether those people are gonna like", "start": 2642.0, "end": 2648.0}
+{"id": "yotM-QjF-jY-t2648.0", "text": "Yes, use the term intentional behavior", "start": 2648.0, "end": 2652.0}
+{"id": "yotM-QjF-jY-t2652.0", "text": "And I think that's an important term as far as this difference you're trying to describe", "start": 2652.0, "end": 2656.0}
+{"id": "yotM-QjF-jY-t2656.0", "text": "But then we can also ask", "start": 2656.0, "end": 2658.0}
+{"id": "yotM-QjF-jY-t2658.0", "text": "What do we really mean by that?", "start": 2658.0, "end": 2660.0}
+{"id": "yotM-QjF-jY-t2660.0", "text": "And where does intentional behavior come from?", "start": 2660.0, "end": 2663.0}
+{"id": "yotM-QjF-jY-t2663.0", "text": "And one idea, and I don't think anybody really knows", "start": 2663.0, "end": 2666.0}
+{"id": "yotM-QjF-jY-t2666.0", "text": "But one idea I've heard about that", "start": 2666.0, "end": 2669.0}
+{"id": "yotM-QjF-jY-t2669.0", "text": "And this is above my pay grade, but some of you guys might know more about this", "start": 2669.0, "end": 2674.0}
+{"id": "yotM-QjF-jY-t2674.0", "text": "But for how the mind works and how ideas emerge", "start": 2674.0, "end": 2678.0}
+{"id": "yotM-QjF-jY-t2678.0", "text": "And how intention, whatever that is, comes out of this", "start": 2678.0, "end": 2683.0}
+{"id": "yotM-QjF-jY-t2683.0", "text": "Is that there is some sort of potential, sort of Darwinian type process", "start": 2683.0, "end": 2688.0}
+{"id": "yotM-QjF-jY-t2688.0", "text": "Or at least process that's sort of analogous to that going on inside the brain", "start": 2688.0, "end": 2693.0}
+{"id": "yotM-QjF-jY-t2693.0", "text": "Where different associations and ideas are kind of competing and emerging", "start": 2693.0, "end": 2699.0}
+{"id": "yotM-QjF-jY-t2699.0", "text": "From some sort of a process", "start": 2699.0, "end": 2701.0}
+{"id": "yotM-QjF-jY-t2701.0", "text": "And so it may be that some of these qualities that you're describing", "start": 2701.0, "end": 2705.0}
+{"id": "yotM-QjF-jY-t2705.0", "text": "As the sort of universal pattern emerging, our pattern emergence are going on", "start": 2705.0, "end": 2711.0}
+{"id": "yotM-QjF-jY-t2711.0", "text": "And contributing to this, but that it's really going on as far as idea formation", "start": 2711.0, "end": 2716.0}
+{"id": "yotM-QjF-jY-t2716.0", "text": "And indeed the formation of intentionality, however that works inside our brains", "start": 2716.0, "end": 2720.0}
+{"id": "yotM-QjF-jY-t2720.0", "text": "Well most of my brain was pretty empty when I was born", "start": 2720.0, "end": 2724.0}
+{"id": "yotM-QjF-jY-t2724.0", "text": "And of course it went through a prolonged period of childhood", "start": 2724.0, "end": 2728.0}
+{"id": "yotM-QjF-jY-t2728.0", "text": "Dependency grew three times from, right?", "start": 2728.0, "end": 2732.0}
+{"id": "yotM-QjF-jY-t2732.0", "text": "That's about how big the brain grows in childhood", "start": 2732.0, "end": 2735.0}
+{"id": "yotM-QjF-jY-t2735.0", "text": "And so everything that fills our brains is largely, including our language", "start": 2735.0, "end": 2740.0}
+{"id": "yotM-QjF-jY-t2740.0", "text": "It's largely acquired through the social and environmental network", "start": 2740.0, "end": 2744.0}
+{"id": "yotM-QjF-jY-t2744.0", "text": "And so for me the brain is a really interesting thing", "start": 2744.0, "end": 2747.0}
+{"id": "yotM-QjF-jY-t2747.0", "text": "But it does nothing without oppositional sums and environment", "start": 2747.0, "end": 2751.0}
+{"id": "yotM-QjF-jY-t2751.0", "text": "And a social environment in particular", "start": 2751.0, "end": 2754.0}
+{"id": "yotM-QjF-jY-t2754.0", "text": "So to me, the real miracles, how does this stuff, how does the environment imprint itself into our brains?", "start": 2754.0, "end": 2765.0}
+{"id": "yotM-QjF-jY-t2765.0", "text": "And how do we, how do we, so you could talk about all kinds of different emergence", "start": 2765.0, "end": 2770.0}
+{"id": "yotM-QjF-jY-t2770.0", "text": "There's evolutionary emergence, there's developmental emergence from a single cell to an adult body", "start": 2770.0, "end": 2778.0}
+{"id": "yotM-QjF-jY-t2778.0", "text": "Or there's functional emergence, like all the cells are working at the same time", "start": 2778.0, "end": 2783.0}
+{"id": "yotM-QjF-jY-t2783.0", "text": "So it's the physics, right? What is it, like 40 trillion cells in our body?", "start": 2783.0, "end": 2788.0}
+{"id": "yotM-QjF-jY-t2788.0", "text": "Half of them, as many bacteria", "start": 2788.0, "end": 2793.0}
+{"id": "yotM-QjF-jY-t2793.0", "text": "And then you could even talk about intelligence emergence", "start": 2793.0, "end": 2797.0}
+{"id": "yotM-QjF-jY-t2797.0", "text": "That can happen to an individual, it can happen to a species", "start": 2797.0, "end": 2800.0}
+{"id": "yotM-QjF-jY-t2800.0", "text": "And I think we...", "start": 2800.0, "end": 2801.0}
+{"id": "yotM-QjF-jY-t2801.0", "text": "Can it happen to a planet?", "start": 2801.0, "end": 2802.0}
+{"id": "yotM-QjF-jY-t2802.0", "text": "Can it happen to a planet?", "start": 2802.0, "end": 2803.0}
+{"id": "yotM-QjF-jY-t2803.0", "text": "Well, you know, so that's the question, that's the Tejhardian, Pierre Tejhard de Chardin, the Jesuit priest, one of the patron saints of religion and science", "start": 2803.0, "end": 2814.0}
+{"id": "yotM-QjF-jY-t2814.0", "text": "To continue with, to go back to David and talk about it, and do what you said is that", "start": 2814.0, "end": 2819.0}
+{"id": "yotM-QjF-jY-t2819.0", "text": "Yes, we're born with these baby brains", "start": 2819.0, "end": 2824.0}
+{"id": "yotM-QjF-jY-t2824.0", "text": "And we suck up a lot from the environment", "start": 2824.0, "end": 2827.0}
+{"id": "yotM-QjF-jY-t2827.0", "text": "And one of the things we pull up is the ability to be intentional", "start": 2827.0, "end": 2833.0}
+{"id": "yotM-QjF-jY-t2833.0", "text": "Or at least use that language to people, oh, I thought that through", "start": 2833.0, "end": 2837.0}
+{"id": "yotM-QjF-jY-t2837.0", "text": "And I now decide this, that's in a way a propagation variation in selection", "start": 2837.0, "end": 2843.0}
+{"id": "yotM-QjF-jY-t2843.0", "text": "Well, there's a...", "start": 2843.0, "end": 2845.0}
+{"id": "yotM-QjF-jY-t2845.0", "text": "Let me again make a kind of analogy here in terms of even...", "start": 2845.0, "end": 2849.0}
+{"id": "yotM-QjF-jY-t2849.0", "text": "It's certainly true that you speed things up by, as it were, virtual processes in the brain", "start": 2849.0, "end": 2854.0}
+{"id": "yotM-QjF-jY-t2854.0", "text": "That make selections out of different...", "start": 2854.0, "end": 2856.0}
+{"id": "yotM-QjF-jY-t2856.0", "text": "I'm deciding what to do, and I think about five different possibilities", "start": 2856.0, "end": 2860.0}
+{"id": "yotM-QjF-jY-t2860.0", "text": "And I try and project out what will happen and make my choice on the basis of that", "start": 2860.0, "end": 2864.0}
+{"id": "yotM-QjF-jY-t2864.0", "text": "And those are only the ones you're consciously aware of, which is...", "start": 2864.0, "end": 2866.0}
+{"id": "yotM-QjF-jY-t2866.0", "text": "Right, but you do need a...", "start": 2866.0, "end": 2868.0}
+{"id": "yotM-QjF-jY-t2868.0", "text": "I think you...", "start": 2868.0, "end": 2869.0}
+{"id": "yotM-QjF-jY-t2869.0", "text": "Right, you need a distinction, and think about chess playing computers, right?", "start": 2869.0, "end": 2872.0}
+{"id": "yotM-QjF-jY-t2872.0", "text": "So originally, really the chess playing computers were sort of blind variation", "start": 2872.0, "end": 2877.0}
+{"id": "yotM-QjF-jY-t2877.0", "text": "And they just did massive searches of all possible move sequences,", "start": 2877.0, "end": 2881.0}
+{"id": "yotM-QjF-jY-t2881.0", "text": "Which because of combinatorial explosion, they could... had a horizon", "start": 2881.0, "end": 2885.0}
+{"id": "yotM-QjF-jY-t2885.0", "text": "But in some sense, in some sense they considered hundreds of millions of possible sequences of moves", "start": 2885.0, "end": 2892.0}
+{"id": "yotM-QjF-jY-t2892.0", "text": "And if you ask an expert chess player, he'll say, I considered four", "start": 2892.0, "end": 2897.0}
+{"id": "yotM-QjF-jY-t2897.0", "text": "You know, I looked at the board and I said, maybe it's this one, maybe it's this one, maybe it's that one", "start": 2897.0, "end": 2903.0}
+{"id": "yotM-QjF-jY-t2903.0", "text": "And then they focus down, right?", "start": 2903.0, "end": 2905.0}
+{"id": "yotM-QjF-jY-t2905.0", "text": "It's a different... it's really a different...", "start": 2905.0, "end": 2907.0}
+{"id": "yotM-QjF-jY-t2907.0", "text": "And we think they could not have it, and even unconsciously we think they could not have done hundreds of millions", "start": 2907.0, "end": 2912.0}
+{"id": "yotM-QjF-jY-t2912.0", "text": "That's right, because they don't know the unconscious question", "start": 2912.0, "end": 2914.0}
+{"id": "yotM-QjF-jY-t2914.0", "text": "That's right, so you know, it's... I mean...", "start": 2914.0, "end": 2917.0}
+{"id": "yotM-QjF-jY-t2917.0", "text": "That ability to... it's true there's a kind of variation there, at least they're looking at a variety of possibilities and selecting among them", "start": 2917.0, "end": 2928.0}
+{"id": "yotM-QjF-jY-t2928.0", "text": "But there's also a lot of interesting things going on that they can look at such a small variety of...", "start": 2928.0, "end": 2934.0}
+{"id": "yotM-QjF-jY-t2934.0", "text": "Things and apply their cognitive resources to them", "start": 2934.0, "end": 2938.0}
+{"id": "yotM-QjF-jY-t2938.0", "text": "But also to be really true to biology, the variation is also really not...", "start": 2938.0, "end": 2943.0}
+{"id": "yotM-QjF-jY-t2943.0", "text": "Also from biology we know it's not entirely a random", "start": 2943.0, "end": 2946.0}
+{"id": "yotM-QjF-jY-t2946.0", "text": "Also we know that some parts of the genome can mutate more readily than others", "start": 2946.0, "end": 2950.0}
+{"id": "yotM-QjF-jY-t2950.0", "text": "It's predictable, we know that some mutations are filtrated to the level of phenotype, not also through some random manifestation", "start": 2950.0, "end": 2958.0}
+{"id": "yotM-QjF-jY-t2958.0", "text": "But there are some constraints by the organism level, so it's not also entirely random", "start": 2958.0, "end": 2963.0}
+{"id": "yotM-QjF-jY-t2963.0", "text": "But I think in general the metaphor of relating cultural evolution to biological evolution", "start": 2963.0, "end": 2970.0}
+{"id": "yotM-QjF-jY-t2970.0", "text": "I think it's both a useful analogy and there is some truth to it in a very general sense", "start": 2970.0, "end": 2976.0}
+{"id": "yotM-QjF-jY-t2976.0", "text": "Because if we define evolution and it's simply even just basically there in terms...", "start": 2976.0, "end": 2980.0}
+{"id": "yotM-QjF-jY-t2980.0", "text": "You know, Darwin didn't use the word evolution at first, he just used descent with modification", "start": 2980.0, "end": 2985.0}
+{"id": "yotM-QjF-jY-t2985.0", "text": "Which simply in modern language we can translate it as a fate of information", "start": 2985.0, "end": 2993.0}
+{"id": "yotM-QjF-jY-t2993.0", "text": "So in that sense evolution can occur in any system whether information transfers from one generation to the next", "start": 2993.0, "end": 2999.0}
+{"id": "yotM-QjF-jY-t2999.0", "text": "As long as you have some sort of replicating system", "start": 2999.0, "end": 3001.0}
+{"id": "yotM-QjF-jY-t3001.0", "text": "So human culture, it adds to it, just adds to the new mechanism of information, transparent modification", "start": 3001.0, "end": 3007.0}
+{"id": "yotM-QjF-jY-t3007.0", "text": "Which is through our culture", "start": 3007.0, "end": 3009.0}
+{"id": "yotM-QjF-jY-t3009.0", "text": "And because that method is quite radically different, you can transfer information only to the next generation", "start": 3009.0, "end": 3014.0}
+{"id": "yotM-QjF-jY-t3014.0", "text": "But kind of laterally, almost like bacteria do with their lateral gene transfer", "start": 3014.0, "end": 3018.0}
+{"id": "yotM-QjF-jY-t3018.0", "text": "You can recover lost information from the past and there are old sorts of ways", "start": 3018.0, "end": 3022.0}
+{"id": "yotM-QjF-jY-t3022.0", "text": "How can fresh can be transferred in ways that are not found in biological systems", "start": 3022.0, "end": 3026.0}
+{"id": "yotM-QjF-jY-t3026.0", "text": "It certainly lends to some novelty and intentionality as part of it as well", "start": 3026.0, "end": 3030.0}
+{"id": "yotM-QjF-jY-t3030.0", "text": "Some creative intent of individuals, so we should not discount those as well", "start": 3030.0, "end": 3034.0}
+{"id": "yotM-QjF-jY-t3034.0", "text": "But at a higher level of maybe higher social structures within the human society", "start": 3034.0, "end": 3039.0}
+{"id": "yotM-QjF-jY-t3039.0", "text": "There is some element of maybe not necessarily selection because I don't want to draw analogy to like", "start": 3039.0, "end": 3045.0}
+{"id": "yotM-QjF-jY-t3045.0", "text": "Fitness in biological systems, I think it would be too", "start": 3045.0, "end": 3048.0}
+{"id": "yotM-QjF-jY-t3048.0", "text": "Maybe too untrue", "start": 3048.0, "end": 3050.0}
+{"id": "yotM-QjF-jY-t3050.0", "text": "But there is some sort of sorting, you have variance and they are being by some either random function or maybe not", "start": 3050.0, "end": 3058.0}
+{"id": "yotM-QjF-jY-t3058.0", "text": "They are being sorted and distributed where some persist some do not", "start": 3058.0, "end": 3061.0}
+{"id": "yotM-QjF-jY-t3061.0", "text": "In that sense it does hold", "start": 3061.0, "end": 3063.0}
+{"id": "yotM-QjF-jY-t3063.0", "text": "But would you say there is some kind of fitness maybe about a bottle or everything that we design", "start": 3063.0, "end": 3069.0}
+{"id": "yotM-QjF-jY-t3069.0", "text": "You are uncomfortable with using the word fitness", "start": 3069.0, "end": 3073.0}
+{"id": "yotM-QjF-jY-t3073.0", "text": "I am a little bit uncomfortable because you want to keep it to biology", "start": 3073.0, "end": 3076.0}
+{"id": "yotM-QjF-jY-t3076.0", "text": "Because if you are thinking of a very specific meaning, you use the ability to replicate itself more", "start": 3076.0, "end": 3082.0}
+{"id": "yotM-QjF-jY-t3082.0", "text": "Maybe having a better form in saying an element of human design shape", "start": 3082.0, "end": 3088.0}
+{"id": "yotM-QjF-jY-t3088.0", "text": "It might not necessarily translate into high rate of its reproduction", "start": 3088.0, "end": 3095.0}
+{"id": "yotM-QjF-jY-t3095.0", "text": "Right, but some...", "start": 3095.0, "end": 3097.0}
+{"id": "yotM-QjF-jY-t3097.0", "text": "Like in terms of manufacturers", "start": 3097.0, "end": 3099.0}
+{"id": "yotM-QjF-jY-t3099.0", "text": "Right, so the better way of having the typewriter in terms of ergonomics was not the way the typewriter worked", "start": 3099.0, "end": 3108.0}
+{"id": "yotM-QjF-jY-t3108.0", "text": "I just don't know what I said, I can be generalised, maybe it is true", "start": 3108.0, "end": 3112.0}
+{"id": "yotM-QjF-jY-t3112.0", "text": "I am actually one of the few people in the world who uses a Dvorak simplified keyboard", "start": 3112.0, "end": 3118.0}
+{"id": "yotM-QjF-jY-t3118.0", "text": "Which was designed in the 1930s by an efficiency expert", "start": 3118.0, "end": 3122.0}
+{"id": "yotM-QjF-jY-t3122.0", "text": "Based on the frequency of the letters and the two and three letter combinations", "start": 3122.0, "end": 3127.0}
+{"id": "yotM-QjF-jY-t3127.0", "text": "To minimise finger motion", "start": 3127.0, "end": 3130.0}
+{"id": "yotM-QjF-jY-t3130.0", "text": "But we are all locked into the QWERTY keyboard which was designed to make us type slowly", "start": 3130.0, "end": 3136.0}
+{"id": "yotM-QjF-jY-t3136.0", "text": "Because the machines would jam", "start": 3136.0, "end": 3138.0}
+{"id": "yotM-QjF-jY-t3138.0", "text": "And C-Mingigal has a lovely essay about this, in evolution", "start": 3138.0, "end": 3143.0}
+{"id": "yotM-QjF-jY-t3143.0", "text": "It doesn't have to be optimal, it just has to work and then it gets fixed and stuck", "start": 3143.0, "end": 3149.0}
+{"id": "yotM-QjF-jY-t3149.0", "text": "And so every time we look at your computer, you should think", "start": 3149.0, "end": 3153.0}
+{"id": "yotM-QjF-jY-t3153.0", "text": "My god, this is an icon of how brilliant we are and how stupid we are", "start": 3153.0, "end": 3158.0}
+{"id": "yotM-QjF-jY-t3158.0", "text": "Because the keyboard is literally pretty stupid", "start": 3158.0, "end": 3161.0}
+{"id": "yotM-QjF-jY-t3161.0", "text": "In biology, they talk about the... not optimising but satisfying", "start": 3161.0, "end": 3167.0}
+{"id": "yotM-QjF-jY-t3167.0", "text": "So anyway, that's...", "start": 3167.0, "end": 3170.0}
+{"id": "yotM-QjF-jY-t3170.0", "text": "And this is probably very true to human culture as well", "start": 3170.0, "end": 3173.0}
+{"id": "yotM-QjF-jY-t3173.0", "text": "Something that might persist for reasons other than being the best serving the needs", "start": 3173.0, "end": 3178.0}
+{"id": "yotM-QjF-jY-t3178.0", "text": "So for instance, some years ago I embarked on a project trying to apply biological methods", "start": 3178.0, "end": 3184.0}
+{"id": "yotM-QjF-jY-t3184.0", "text": "Maybe very naively trying to reconstruct the phylogeny kind of evolutionary tree of musical instruments", "start": 3184.0, "end": 3190.0}
+{"id": "yotM-QjF-jY-t3190.0", "text": "We discovered very unusual and interesting patterns that we had to do with looking at coordinates", "start": 3190.0, "end": 3195.0}
+{"id": "yotM-QjF-jY-t3195.0", "text": "From the late 19th century and up to the middle of the 20th century", "start": 3195.0, "end": 3198.0}
+{"id": "yotM-QjF-jY-t3198.0", "text": "And it turned out that some of the trumpet related musical instruments", "start": 3198.0, "end": 3203.0}
+{"id": "yotM-QjF-jY-t3203.0", "text": "And it turns out that some of the trans that we found had to do not specifically with a better design of vowels", "start": 3203.0, "end": 3210.0}
+{"id": "yotM-QjF-jY-t3210.0", "text": "And the way horn is structured overall", "start": 3210.0, "end": 3213.0}
+{"id": "yotM-QjF-jY-t3213.0", "text": "But there were some purely economic reasons for developing the industry in some ways", "start": 3213.0, "end": 3219.0}
+{"id": "yotM-QjF-jY-t3219.0", "text": "Because some people patented certain ways of making it", "start": 3219.0, "end": 3223.0}
+{"id": "yotM-QjF-jY-t3223.0", "text": "Preventing other people from doing it, there were other social forces", "start": 3223.0, "end": 3226.0}
+{"id": "yotM-QjF-jY-t3226.0", "text": "Had nothing to do with optimising a particular item", "start": 3226.0, "end": 3231.0}
+{"id": "yotM-QjF-jY-t3231.0", "text": "Obviously humanly designed in a very creative way", "start": 3231.0, "end": 3234.0}
+{"id": "yotM-QjF-jY-t3234.0", "text": "Item that was very consciously designed, but it could only develop in certain ways", "start": 3234.0, "end": 3237.0}
+{"id": "yotM-QjF-jY-t3237.0", "text": "Because higher level social structures like patent agencies", "start": 3237.0, "end": 3241.0}
+{"id": "yotM-QjF-jY-t3241.0", "text": "And maybe some individual players, some jazz players that used some of these instruments", "start": 3241.0, "end": 3246.0}
+{"id": "yotM-QjF-jY-t3246.0", "text": "They preferred something more artistic", "start": 3246.0, "end": 3249.0}
+{"id": "yotM-QjF-jY-t3249.0", "text": "And they designed purely for aesthetic and historical reasons", "start": 3249.0, "end": 3253.0}
+{"id": "yotM-QjF-jY-t3253.0", "text": "They didn't really care about maybe a better playability in some ways", "start": 3253.0, "end": 3257.0}
+{"id": "yotM-QjF-jY-t3257.0", "text": "So there are many more, I think, aspects to human ways of variations being sorted in human culture", "start": 3257.0, "end": 3265.0}
+{"id": "yotM-QjF-jY-t3265.0", "text": "That's why I didn't want to define it as a specific fitness function", "start": 3265.0, "end": 3270.0}
+{"id": "yotM-QjF-jY-t3270.0", "text": "Because fitness applies only to one thing", "start": 3270.0, "end": 3272.0}
+{"id": "yotM-QjF-jY-t3272.0", "text": "This is an interesting thing to bring into it", "start": 3272.0, "end": 3282.0}
+{"id": "yotM-QjF-jY-t3282.0", "text": "But when you start talking about fitness", "start": 3282.0, "end": 3286.0}
+{"id": "yotM-QjF-jY-t3286.0", "text": "It's very easy to say when you're talking about Darwinian evolution", "start": 3286.0, "end": 3290.0}
+{"id": "yotM-QjF-jY-t3290.0", "text": "And even neo-Darwinian evolution", "start": 3290.0, "end": 3292.0}
+{"id": "yotM-QjF-jY-t3292.0", "text": "What the sort of goal is, you don't really need a goal", "start": 3292.0, "end": 3295.0}
+{"id": "yotM-QjF-jY-t3295.0", "text": "It's just those entities that do a better job of propagating themselves", "start": 3295.0, "end": 3300.0}
+{"id": "yotM-QjF-jY-t3300.0", "text": "But when we get to cultural evolution", "start": 3300.0, "end": 3303.0}
+{"id": "yotM-QjF-jY-t3303.0", "text": "Then you do have to start saying, well, what is the goal?", "start": 3303.0, "end": 3305.0}
+{"id": "yotM-QjF-jY-t3305.0", "text": "What do we want? It's not necessarily true that the goal is for each of us to have as many offspring as we want", "start": 3305.0, "end": 3311.0}
+{"id": "yotM-QjF-jY-t3311.0", "text": "In fact, we're starting to realize that there's a whole other level of planetary fitness", "start": 3311.0, "end": 3315.0}
+{"id": "yotM-QjF-jY-t3315.0", "text": "In which that's actually bad", "start": 3315.0, "end": 3317.0}
+{"id": "yotM-QjF-jY-t3317.0", "text": "So you can't help but start to say, okay, so what really is the goal?", "start": 3317.0, "end": 3323.0}
+{"id": "yotM-QjF-jY-t3323.0", "text": "But when you get to aesthetics, it's very interesting because you could say, well, this is something that", "start": 3323.0, "end": 3328.0}
+{"id": "yotM-QjF-jY-t3328.0", "text": "Isn't really a part of biological evolution", "start": 3328.0, "end": 3330.0}
+{"id": "yotM-QjF-jY-t3330.0", "text": "Except it is because you get into sexual selection", "start": 3330.0, "end": 3333.0}
+{"id": "yotM-QjF-jY-t3333.0", "text": "And you get these ridiculous structures that are among the most useless", "start": 3333.0, "end": 3338.0}
+{"id": "yotM-QjF-jY-t3338.0", "text": "And the most beautiful parts of nature", "start": 3338.0, "end": 3341.0}
+{"id": "yotM-QjF-jY-t3341.0", "text": "Which have this whole other goal", "start": 3341.0, "end": 3344.0}
+{"id": "yotM-QjF-jY-t3344.0", "text": "But it's still the same goal, but it's attracting a mate", "start": 3344.0, "end": 3347.0}
+{"id": "yotM-QjF-jY-t3347.0", "text": "Not anything that's more useful for", "start": 3347.0, "end": 3350.0}
+{"id": "yotM-QjF-jY-t3350.0", "text": "And they agree with you, especially when they mentioned earlier that it all comes down there", "start": 3350.0, "end": 3353.0}
+{"id": "yotM-QjF-jY-t3353.0", "text": "So just the way human brain functions too, which I also don't have as much expertise to speculate about", "start": 3353.0, "end": 3359.0}
+{"id": "yotM-QjF-jY-t3359.0", "text": "But, Linus Frost has one interesting comment", "start": 3359.0, "end": 3363.0}
+{"id": "yotM-QjF-jY-t3363.0", "text": "When critiquing the purely biological transfer of the notions of evolution to the culture", "start": 3363.0, "end": 3369.0}
+{"id": "yotM-QjF-jY-t3369.0", "text": "But the X doesn't reproduce, doesn't make another X", "start": 3369.0, "end": 3373.0}
+{"id": "yotM-QjF-jY-t3373.0", "text": "So it happens to in the mind of its creator, conceiving the idea of it", "start": 3373.0, "end": 3377.0}
+{"id": "yotM-QjF-jY-t3377.0", "text": "And what happens to these ideas, how they manifested in the objects", "start": 3377.0, "end": 3381.0}
+{"id": "yotM-QjF-jY-t3381.0", "text": "So you can't necessarily even look at those coordinates and say, well, that's how they evolve", "start": 3381.0, "end": 3385.0}
+{"id": "yotM-QjF-jY-t3385.0", "text": "Now they just maybe imperfect reflection of the processes that occur in the human brain", "start": 3385.0, "end": 3393.0}
+{"id": "yotM-QjF-jY-t3393.0", "text": "And the evolution at that level", "start": 3393.0, "end": 3395.0}
+{"id": "yotM-QjF-jY-t3395.0", "text": "So I think just looking at the cultural artifacts as such", "start": 3395.0, "end": 3399.0}
+{"id": "yotM-QjF-jY-t3399.0", "text": "As divorced from the workings of the human mind", "start": 3399.0, "end": 3402.0}
+{"id": "yotM-QjF-jY-t3402.0", "text": "I don't think it's a very legitimate pursuit in that way to view cultural evolution like that", "start": 3402.0, "end": 3407.0}
+{"id": "yotM-QjF-jY-t3407.0", "text": "It's certainly just looking at organismal features", "start": 3407.0, "end": 3411.0}
+{"id": "yotM-QjF-jY-t3411.0", "text": "Can allow you to reconstruct phylogeny, maybe in quite a precise way", "start": 3411.0, "end": 3417.0}
+{"id": "yotM-QjF-jY-t3417.0", "text": "But it's not telling you the mechanism of how evolution further occurred through speciation variation", "start": 3417.0, "end": 3424.0}
+{"id": "yotM-QjF-jY-t3424.0", "text": "So in that way, you can also tell something about the way human culture works", "start": 3424.0, "end": 3428.0}
+{"id": "yotM-QjF-jY-t3428.0", "text": "By looking at some patterns of similarities between artifacts and different aspects of human culture", "start": 3428.0, "end": 3433.0}
+{"id": "yotM-QjF-jY-t3433.0", "text": "But do you really understand that you really need to look at the function of the mind?", "start": 3433.0, "end": 3438.0}
+{"id": "yotM-QjF-jY-t3438.0", "text": "I've been doing a lot of reading and research right now for a book I'm writing", "start": 3438.0, "end": 3444.0}
+{"id": "yotM-QjF-jY-t3444.0", "text": "On how this applies to finance and economics and investing", "start": 3444.0, "end": 3448.0}
+{"id": "yotM-QjF-jY-t3448.0", "text": "And one of the things that we all have these hunter-gatherer brains", "start": 3448.0, "end": 3454.0}
+{"id": "yotM-QjF-jY-t3454.0", "text": "And we live in this incredibly advanced civilization", "start": 3454.0, "end": 3458.0}
+{"id": "yotM-QjF-jY-t3458.0", "text": "But we're still on the psychological level, we have a lot in common with humans 10, 20, 30,000 years ago", "start": 3458.0, "end": 3468.0}
+{"id": "yotM-QjF-jY-t3468.0", "text": "100,000 years ago", "start": 3468.0, "end": 3470.0}
+{"id": "yotM-QjF-jY-t3470.0", "text": "And so our thinking is fast and slow, we're predictably irrational", "start": 3470.0, "end": 3475.0}
+{"id": "yotM-QjF-jY-t3475.0", "text": "And we're driven by all kinds of variable hormones in our body", "start": 3475.0, "end": 3481.0}
+{"id": "yotM-QjF-jY-t3481.0", "text": "And so there's another question, how did a complex global scientific civilization", "start": 3481.0, "end": 3491.0}
+{"id": "yotM-QjF-jY-t3491.0", "text": "Possibly emerge from such stupid primates, some of whom are president of the United States recently?", "start": 3491.0, "end": 3501.0}
+{"id": "yotM-QjF-jY-t3501.0", "text": "Well, I wonder, do you really think that we live in an incredibly advanced civilization?", "start": 3501.0, "end": 3506.0}
+{"id": "yotM-QjF-jY-t3506.0", "text": "I think we have the potential to form one, but I would say that as a basic prerequisite", "start": 3506.0, "end": 3512.0}
+{"id": "yotM-QjF-jY-t3512.0", "text": "To define an advanced civilization you would have to have the ability to imagine that", "start": 3512.0, "end": 3519.0}
+{"id": "yotM-QjF-jY-t3519.0", "text": "You're sort of a part of a sustainable civilization, and I'm not sure we're actually there yet", "start": 3519.0, "end": 3525.0}
+{"id": "yotM-QjF-jY-t3525.0", "text": "I mean, there's the normative moral side of it, and then there's just the fact of it", "start": 3525.0, "end": 3532.0}
+{"id": "yotM-QjF-jY-t3532.0", "text": "And I'm just talking about the fact that our world is so different than when people lived in 100 years ago or 1000 years ago", "start": 3532.0, "end": 3539.0}
+{"id": "yotM-QjF-jY-t3539.0", "text": "I agree with that, but I also think that it's possible that, I mean, trying to describe Manhattan to say one of the 100 gatherers who lived at a pinnacle point", "start": 3539.0, "end": 3555.0}
+{"id": "yotM-QjF-jY-t3555.0", "text": "One of the most important things that we have to do is to imagine that we have a 100,000 years ago", "start": 3555.0, "end": 3563.0}
+{"id": "yotM-QjF-jY-t3563.0", "text": "Which may have been among the first homo sapiens sapiens in southern tip of Africa would be very difficult", "start": 3563.0, "end": 3570.0}
+{"id": "yotM-QjF-jY-t3570.0", "text": "Humans have an amazing ability, capacity for reinvention, they were probably genetically pretty similar to us", "start": 3570.0, "end": 3578.0}
+{"id": "yotM-QjF-jY-t3578.0", "text": "But maybe that's more stuffed now, yeah, but maybe that difficulty of them imagining our world is as difficult as it is for us to imagine what an advanced civilization would be like", "start": 3578.0, "end": 3584.0}
+{"id": "yotM-QjF-jY-t3584.0", "text": "So, yeah, do you think that how long before we get there, I'd like to know?", "start": 3584.0, "end": 3591.0}
+{"id": "yotM-QjF-jY-t3591.0", "text": "Well, I want to see it, so when I hear you talk about speaking up and fasting", "start": 3591.0, "end": 3597.0}
+{"id": "yotM-QjF-jY-t3597.0", "text": "When I hear you talk about these levels, Adam's simple cells complex of...", "start": 3597.0, "end": 3603.0}
+{"id": "yotM-QjF-jY-t3603.0", "text": "One question that I can't help but wondering is, okay, what's next? The next level", "start": 3603.0, "end": 3608.0}
+{"id": "yotM-QjF-jY-t3608.0", "text": "I read something recently actually when I was just starting to write my book that I just finished by Isaac Asimov written in the 70s", "start": 3608.0, "end": 3616.0}
+{"id": "yotM-QjF-jY-t3616.0", "text": "Just a little short essay where he talked about this hierarchy of atoms to molecules to viruses to full-blown cells to multi-cellular", "start": 3616.0, "end": 3625.0}
+{"id": "yotM-QjF-jY-t3625.0", "text": "And then he talks about the multi-organismic and there's some examples of sort of full-blown superorganisms like insect colonies and so forth", "start": 3625.0, "end": 3634.0}
+{"id": "yotM-QjF-jY-t3634.0", "text": "And then he talked about we humans, we have leanings towards that superorganism", "start": 3634.0, "end": 3640.0}
+{"id": "yotM-QjF-jY-t3640.0", "text": "We have some identity with the tribe, with the group, but we're not quite there, we're still", "start": 3640.0, "end": 3644.0}
+{"id": "yotM-QjF-jY-t3644.0", "text": "And to me that was really powerful, like I thought, and I say the beginning of my life, yeah, well in a certain way we're stuck between the individual and the superorganism", "start": 3644.0, "end": 3656.0}
+{"id": "yotM-QjF-jY-t3656.0", "text": "In a way, that's one way of encapsulating our predicament here as human beings trying to have a sustainable society because there are ways in which we need to function as a superorganism", "start": 3656.0, "end": 3665.0}
+{"id": "yotM-QjF-jY-t3665.0", "text": "But we're not inherently good at that", "start": 3665.0, "end": 3668.0}
+{"id": "yotM-QjF-jY-t3668.0", "text": "So I found that powerful because it's just one way of trying to place our current cultural difficulties in the context of what we're talking about here", "start": 3668.0, "end": 3680.0}
+{"id": "yotM-QjF-jY-t3680.0", "text": "Where do we fit, and what's next in that? I'm really scared of that analogy", "start": 3680.0, "end": 3686.0}
+{"id": "yotM-QjF-jY-t3686.0", "text": "I don't want to be part of a superorganism", "start": 3686.0, "end": 3691.0}
+{"id": "yotM-QjF-jY-t3691.0", "text": "Cells, unicellular organisms were looking out for themselves, and in multi-cellular organisms the individual cells are easily expendable", "start": 3691.0, "end": 3701.0}
+{"id": "yotM-QjF-jY-t3701.0", "text": "They can be sacrificed quite regularly for the good of the... and I don't want to live in that in a society that's going to throw a bunch of us away", "start": 3701.0, "end": 3713.0}
+{"id": "yotM-QjF-jY-t3713.0", "text": "I don't think that's going to be progress, right? There's going to be progress when every person, nobody lives in poverty", "start": 3713.0, "end": 3721.0}
+{"id": "yotM-QjF-jY-t3721.0", "text": "When people have the resources are more or less spread much more equally than they are", "start": 3721.0, "end": 3727.0}
+{"id": "yotM-QjF-jY-t3727.0", "text": "And everybody has dignity and everybody has access to decent things", "start": 3727.0, "end": 3732.0}
+{"id": "yotM-QjF-jY-t3732.0", "text": "That doesn't look like a superorganism to me", "start": 3732.0, "end": 3735.0}
+{"id": "yotM-QjF-jY-t3735.0", "text": "It looks like a rationally designed system, right?", "start": 3735.0, "end": 3739.0}
+{"id": "yotM-QjF-jY-t3739.0", "text": "And again, rationality, it's kind of important when rationality gets in the game", "start": 3739.0, "end": 3743.0}
+{"id": "yotM-QjF-jY-t3743.0", "text": "It's rationality just isn't in the game of evolution, and we're aiming for something else", "start": 3743.0, "end": 3747.0}
+{"id": "yotM-QjF-jY-t3747.0", "text": "We're aiming for something we've thought through and that has moral principles underneath it and so on", "start": 3747.0, "end": 3752.0}
+{"id": "yotM-QjF-jY-t3752.0", "text": "Well, maybe, I mean, we're getting... I don't want to argue about semantics here, what we mean by superorganism", "start": 3752.0, "end": 3757.0}
+{"id": "yotM-QjF-jY-t3757.0", "text": "I'd certainly agree with what you just described as important goals", "start": 3757.0, "end": 3761.0}
+{"id": "yotM-QjF-jY-t3761.0", "text": "It's an interesting question, are the bacteria within us...", "start": 3761.0, "end": 3767.0}
+{"id": "yotM-QjF-jY-t3767.0", "text": "They're... they're... they're organelles within us that are pretty much the same as bacteria", "start": 3767.0, "end": 3772.0}
+{"id": "yotM-QjF-jY-t3772.0", "text": "But have found some way to live in harmony and organism that we identify as ourselves", "start": 3772.0, "end": 3779.0}
+{"id": "yotM-QjF-jY-t3779.0", "text": "Are they unhappy? Do they know that they're not bacteria?", "start": 3779.0, "end": 3783.0}
+{"id": "yotM-QjF-jY-t3783.0", "text": "And maybe the secret sauce to go from organism to healthy planetary superorganism is exactly some of what you said", "start": 3783.0, "end": 3796.0}
+{"id": "yotM-QjF-jY-t3796.0", "text": "Maybe...", "start": 3796.0, "end": 3797.0}
+{"id": "yotM-QjF-jY-t3797.0", "text": "Eliminating poverty...", "start": 3797.0, "end": 3798.0}
+{"id": "yotM-QjF-jY-t3798.0", "text": "I mean, this is why it's not strictly a biological step to go to the superorganism", "start": 3798.0, "end": 3803.0}
+{"id": "yotM-QjF-jY-t3803.0", "text": "If we're going to get into intentionality and rationality, maybe that's what's missing to...", "start": 3803.0, "end": 3808.0}
+{"id": "yotM-QjF-jY-t3808.0", "text": "to bring us to that next step", "start": 3808.0, "end": 3810.0}
+{"id": "yotM-QjF-jY-t3810.0", "text": "And evolution's just not predictive, and there's nothing strange about evolution leading a system into a complete disaster", "start": 3810.0, "end": 3817.0}
+{"id": "yotM-QjF-jY-t3817.0", "text": "But as you were saying, cultural evolution is different because we have these scenarios in our mind", "start": 3817.0, "end": 3823.0}
+{"id": "yotM-QjF-jY-t3823.0", "text": "And I think we're not thinking about the future enough as a...", "start": 3823.0, "end": 3827.0}
+{"id": "yotM-QjF-jY-t3827.0", "text": "Yes, making people smarter would be a really good idea", "start": 3827.0, "end": 3831.0}
+{"id": "yotM-QjF-jY-t3831.0", "text": "So one of the things that this little discussion brings to mind", "start": 3831.0, "end": 3837.0}
+{"id": "yotM-QjF-jY-t3837.0", "text": "The little discussion brings out is that we have all these values like human rights", "start": 3837.0, "end": 3842.0}
+{"id": "yotM-QjF-jY-t3842.0", "text": "And they're not written into nature", "start": 3842.0, "end": 3845.0}
+{"id": "yotM-QjF-jY-t3845.0", "text": "They're invented by humans", "start": 3845.0, "end": 3847.0}
+{"id": "yotM-QjF-jY-t3847.0", "text": "Or the traditional religious worldview is that they're dictated by a creator", "start": 3847.0, "end": 3853.0}
+{"id": "yotM-QjF-jY-t3853.0", "text": "That each human has innate value", "start": 3853.0, "end": 3856.0}
+{"id": "yotM-QjF-jY-t3856.0", "text": "And so the scientific and post-enlightenment world is trying to figure out how to ground concepts like human rights", "start": 3856.0, "end": 3864.0}
+{"id": "yotM-QjF-jY-t3864.0", "text": "Which is... it's a great invention, but it's a fiction", "start": 3864.0, "end": 3868.0}
+{"id": "yotM-QjF-jY-t3868.0", "text": "Just like money's a fiction, it's not really real", "start": 3868.0, "end": 3871.0}
+{"id": "yotM-QjF-jY-t3871.0", "text": "There's no other species, exchanges, matter, energy, and ingenuity based on symbolic systems about values", "start": 3871.0, "end": 3878.0}
+{"id": "yotM-QjF-jY-t3878.0", "text": "So one of the ways to ground...", "start": 3878.0, "end": 3886.0}
+{"id": "yotM-QjF-jY-t3886.0", "text": "Our intuitive sense of the innate value of human rights is in what Whitehead thought about, Alfred North Whitehead", "start": 3886.0, "end": 3898.0}
+{"id": "yotM-QjF-jY-t3898.0", "text": "The idea that emerging complexity creates at every stage a greater freedom, greater possibility", "start": 3898.0, "end": 3908.0}
+{"id": "yotM-QjF-jY-t3908.0", "text": "And there are kind of thresholds", "start": 3908.0, "end": 3912.0}
+{"id": "yotM-QjF-jY-t3912.0", "text": "And that the human is a particularly intense threshold", "start": 3912.0, "end": 3917.0}
+{"id": "yotM-QjF-jY-t3917.0", "text": "In which the complexity of the cells in our body, the social networks", "start": 3917.0, "end": 3922.0}
+{"id": "yotM-QjF-jY-t3922.0", "text": "We're kind of a nexus of a lot of freedom, a lot of choice, a lot of possibility", "start": 3922.0, "end": 3931.0}
+{"id": "yotM-QjF-jY-t3931.0", "text": "I don't think morality is really an issue for other primates", "start": 3931.0, "end": 3936.0}
+{"id": "yotM-QjF-jY-t3936.0", "text": "So it is for us", "start": 3936.0, "end": 3938.0}
+{"id": "yotM-QjF-jY-t3938.0", "text": "I think that the planetary scale that could be to overcome our fears", "start": 3938.0, "end": 3943.0}
+{"id": "yotM-QjF-jY-t3943.0", "text": "That being subsumed and being less free could be more free", "start": 3943.0, "end": 3948.0}
+{"id": "yotM-QjF-jY-t3948.0", "text": "Is that your personal hope or you think it could be even...", "start": 3948.0, "end": 3952.0}
+{"id": "yotM-QjF-jY-t3952.0", "text": "In this sort of Whiteheadian metaphysics, there is a telos to the universe", "start": 3952.0, "end": 3956.0}
+{"id": "yotM-QjF-jY-t3956.0", "text": "And that telos is a greater complexity, greater freedom, greater creativity", "start": 3956.0, "end": 3963.0}
+{"id": "yotM-QjF-jY-t3963.0", "text": "And greater beauty, for him beauty of aesthetics is an important point", "start": 3963.0, "end": 3968.0}
+{"id": "yotM-QjF-jY-t3968.0", "text": "So I think you can... it's not fully worked out", "start": 3968.0, "end": 3973.0}
+{"id": "yotM-QjF-jY-t3973.0", "text": "But I think you can start to define things that there is a real difference between killing bacteria versus killing humans", "start": 3973.0, "end": 3983.0}
+{"id": "yotM-QjF-jY-t3983.0", "text": "And there's a qualitative and quantitative difference", "start": 3983.0, "end": 3987.0}
+{"id": "yotM-QjF-jY-t3987.0", "text": "And you can't measure it, but it's not just a self-serving bias on my part", "start": 3987.0, "end": 3995.0}
+{"id": "yotM-QjF-jY-t3995.0", "text": "But otherwise human rights is... you have definite ideas about what they should be", "start": 3995.0, "end": 4002.0}
+{"id": "yotM-QjF-jY-t4002.0", "text": "Of course evolution doesn't care at all about our future and that level", "start": 4002.0, "end": 4007.0}
+{"id": "yotM-QjF-jY-t4007.0", "text": "No, biological evolution has no moral", "start": 4007.0, "end": 4012.0}
+{"id": "yotM-QjF-jY-t4012.0", "text": "I mean, I would just like to register my objection to this fictional...", "start": 4012.0, "end": 4018.0}
+{"id": "yotM-QjF-jY-t4018.0", "text": "I think there are standards of objective standards of morality that have to do with equity and fairness and so on", "start": 4018.0, "end": 4024.0}
+{"id": "yotM-QjF-jY-t4024.0", "text": "That by thinking hard, you can figure out at least some of them", "start": 4024.0, "end": 4028.0}
+{"id": "yotM-QjF-jY-t4028.0", "text": "I'm not saying that there's a rational resolution to every moral dilemma", "start": 4028.0, "end": 4032.0}
+{"id": "yotM-QjF-jY-t4032.0", "text": "But I think there are some moral principles that chattel slavery is just objectively wrong", "start": 4032.0, "end": 4037.0}
+{"id": "yotM-QjF-jY-t4037.0", "text": "But it wasn't for most of human history", "start": 4037.0, "end": 4042.0}
+{"id": "yotM-QjF-jY-t4042.0", "text": "No, it was wrong, all through human history", "start": 4042.0, "end": 4045.0}
+{"id": "yotM-QjF-jY-t4045.0", "text": "People were doing objectively morally horrible things through most of human", "start": 4045.0, "end": 4049.0}
+{"id": "yotM-QjF-jY-t4049.0", "text": "And we're still doing objectively morally horrible human things", "start": 4049.0, "end": 4052.0}
+{"id": "yotM-QjF-jY-t4052.0", "text": "I don't think these are inventions, I think they're discoveries", "start": 4052.0, "end": 4055.0}
+{"id": "yotM-QjF-jY-t4055.0", "text": "I think we've made moral progress by discovering or registering the fact that slavery was wrong", "start": 4055.0, "end": 4062.0}
+{"id": "yotM-QjF-jY-t4062.0", "text": "That discrimination was wrong, that discrimination against women was wrong", "start": 4062.0, "end": 4067.0}
+{"id": "yotM-QjF-jY-t4067.0", "text": "It was just unacceptable, morally", "start": 4067.0, "end": 4070.0}
+{"id": "yotM-QjF-jY-t4070.0", "text": "It wasn't right back when people thought it was okay", "start": 4070.0, "end": 4073.0}
+{"id": "yotM-QjF-jY-t4073.0", "text": "It's not they're thinking one thing or another that makes it okay", "start": 4073.0, "end": 4076.0}
+{"id": "yotM-QjF-jY-t4076.0", "text": "I would like to agree with you, actually, but I wish I could agree with you", "start": 4076.0, "end": 4082.0}
+{"id": "yotM-QjF-jY-t4082.0", "text": "So you're saying there is a moral evolution?", "start": 4082.0, "end": 4085.0}
+{"id": "yotM-QjF-jY-t4085.0", "text": "Yes, I think there is some more...", "start": 4085.0, "end": 4087.0}
+{"id": "yotM-QjF-jY-t4087.0", "text": "Certainly moral evolution, but I think it's directed", "start": 4087.0, "end": 4090.0}
+{"id": "yotM-QjF-jY-t4090.0", "text": "Our moral behavior has gotten in many ways better", "start": 4090.0, "end": 4094.0}
+{"id": "yotM-QjF-jY-t4094.0", "text": "Because it's through the recognition, coming through moral slays", "start": 4094.0, "end": 4098.0}
+{"id": "yotM-QjF-jY-t4098.0", "text": "When you think about the civil rights movement here", "start": 4098.0, "end": 4101.0}
+{"id": "yotM-QjF-jY-t4101.0", "text": "It was a matter of getting people, the majority of people to care about a minority on purely moral grounds", "start": 4101.0, "end": 4108.0}
+{"id": "yotM-QjF-jY-t4108.0", "text": "On saying, look, this system is just wrong, maybe I'm benefiting from it", "start": 4108.0, "end": 4113.0}
+{"id": "yotM-QjF-jY-t4113.0", "text": "So how do you think that might play out in the future as we have tendencies", "start": 4113.0, "end": 4119.0}
+{"id": "yotM-QjF-jY-t4119.0", "text": "You brought up that are frightening tendencies, maybe for the subsumption of the individual", "start": 4119.0, "end": 4124.0}
+{"id": "yotM-QjF-jY-t4124.0", "text": "Into the super organism, you know, anthill", "start": 4124.0, "end": 4129.0}
+{"id": "yotM-QjF-jY-t4129.0", "text": "Do you see that we are going to need to either invent or discover or still have to be doing that?", "start": 4129.0, "end": 4137.0}
+{"id": "yotM-QjF-jY-t4137.0", "text": "Like there's more to come?", "start": 4137.0, "end": 4138.0}
+{"id": "yotM-QjF-jY-t4138.0", "text": "Well, look, I think there are a lot of...", "start": 4138.0, "end": 4141.0}
+{"id": "yotM-QjF-jY-t4141.0", "text": "Just as people could live in a society with chattel slavery", "start": 4141.0, "end": 4146.0}
+{"id": "yotM-QjF-jY-t4146.0", "text": "And somehow avert their gaze and avert their mind from it", "start": 4146.0, "end": 4150.0}
+{"id": "yotM-QjF-jY-t4150.0", "text": "Even though they knew, I mean, Jefferson knew, these people knew they were doing something wrong at a deep level", "start": 4150.0, "end": 4156.0}
+{"id": "yotM-QjF-jY-t4156.0", "text": "But we have lots of self-rationalization, a lot of blocking, psychological blocking mechanisms", "start": 4156.0, "end": 4161.0}
+{"id": "yotM-QjF-jY-t4161.0", "text": "To keep us from recognizing how terrible certain things we are doing", "start": 4161.0, "end": 4165.0}
+{"id": "yotM-QjF-jY-t4165.0", "text": "You know, hopefully as time goes on, people will start to see...", "start": 4165.0, "end": 4169.0}
+{"id": "yotM-QjF-jY-t4169.0", "text": "They'll look back at our society and say, you were so primitive", "start": 4169.0, "end": 4173.0}
+{"id": "yotM-QjF-jY-t4173.0", "text": "Because they will have actually put into practice things that if we think about them in a calm way", "start": 4173.0, "end": 4179.0}
+{"id": "yotM-QjF-jY-t4179.0", "text": "We'll say, yeah, we're really our society", "start": 4179.0, "end": 4181.0}
+{"id": "yotM-QjF-jY-t4181.0", "text": "I mean, as I say, we live in a society where there's such a thing as the working poor", "start": 4181.0, "end": 4185.0}
+{"id": "yotM-QjF-jY-t4185.0", "text": "That if someone can be employed 40 hours a week", "start": 4185.0, "end": 4189.0}
+{"id": "yotM-QjF-jY-t4189.0", "text": "And still be hard and still be able...", "start": 4189.0, "end": 4192.0}
+{"id": "yotM-QjF-jY-t4192.0", "text": "There's just no moral principle that should allow that in any society", "start": 4192.0, "end": 4197.0}
+{"id": "yotM-QjF-jY-t4197.0", "text": "If you're a socialist, you think people shouldn't even have to work to live", "start": 4197.0, "end": 4204.0}
+{"id": "yotM-QjF-jY-t4204.0", "text": "And you can make that argument, that's going to be a harder argument around here", "start": 4204.0, "end": 4207.0}
+{"id": "yotM-QjF-jY-t4207.0", "text": "But even now, on both sides of the political spectrum", "start": 4207.0, "end": 4211.0}
+{"id": "yotM-QjF-jY-t4211.0", "text": "How could anybody say, yeah, somebody can be out there working 40 hours a week", "start": 4211.0, "end": 4216.0}
+{"id": "yotM-QjF-jY-t4216.0", "text": "And still not be above the poverty line", "start": 4216.0, "end": 4218.0}
+{"id": "yotM-QjF-jY-t4218.0", "text": "So I just want to point out again that animals and trees and plants don't have moral choices", "start": 4218.0, "end": 4226.0}
+{"id": "yotM-QjF-jY-t4226.0", "text": "We have moral choices", "start": 4226.0, "end": 4228.0}
+{"id": "yotM-QjF-jY-t4228.0", "text": "So now we need to talk about how did morality emerge in human evolution", "start": 4228.0, "end": 4234.0}
+{"id": "yotM-QjF-jY-t4234.0", "text": "And again, we have hunter-gatherer brains, we're all tribal creatures", "start": 4234.0, "end": 4240.0}
+{"id": "yotM-QjF-jY-t4240.0", "text": "We harmlessly divert that into sports or other things", "start": 4240.0, "end": 4244.0}
+{"id": "yotM-QjF-jY-t4244.0", "text": "We less so harmlessly divert that into ideologies and nationalism", "start": 4244.0, "end": 4250.0}
+{"id": "yotM-QjF-jY-t4250.0", "text": "And ethnic chauvinism and so on and so forth", "start": 4250.0, "end": 4253.0}
+{"id": "yotM-QjF-jY-t4253.0", "text": "And so there's two ways to approach our moral", "start": 4253.0, "end": 4257.0}
+{"id": "yotM-QjF-jY-t4257.0", "text": "One is what's functional, what's best for the individual for the group", "start": 4257.0, "end": 4261.0}
+{"id": "yotM-QjF-jY-t4261.0", "text": "And the other is principled", "start": 4261.0, "end": 4263.0}
+{"id": "yotM-QjF-jY-t4263.0", "text": "And so you're taking a principled position", "start": 4263.0, "end": 4267.0}
+{"id": "yotM-QjF-jY-t4267.0", "text": "And there's reasons why that's good too", "start": 4267.0, "end": 4269.0}
+{"id": "yotM-QjF-jY-t4269.0", "text": "We certainly both agree that there's moral evolution", "start": 4269.0, "end": 4272.0}
+{"id": "yotM-QjF-jY-t4272.0", "text": "But you almost sound like you'd like the God there", "start": 4272.0, "end": 4277.0}
+{"id": "yotM-QjF-jY-t4277.0", "text": "With the Ten Commandments", "start": 4277.0, "end": 4279.0}
+{"id": "yotM-QjF-jY-t4279.0", "text": "And somehow imprinting in our biology", "start": 4279.0, "end": 4283.0}
+{"id": "yotM-QjF-jY-t4283.0", "text": "Rules against slavery and fantasize", "start": 4283.0, "end": 4287.0}
+{"id": "yotM-QjF-jY-t4287.0", "text": "Like God, no, no, no, no, no, no, this is like you're merging the two things here", "start": 4287.0, "end": 4293.0}
+{"id": "yotM-QjF-jY-t4293.0", "text": "There was an old art, there's a...", "start": 4293.0, "end": 4295.0}
+{"id": "yotM-QjF-jY-t4295.0", "text": "If you go back to Plato in the youth of Fro, he gave the right argument about this", "start": 4295.0, "end": 4301.0}
+{"id": "yotM-QjF-jY-t4301.0", "text": "Creating morality isn't something even God could do", "start": 4301.0, "end": 4305.0}
+{"id": "yotM-QjF-jY-t4305.0", "text": "If you think God made up morality", "start": 4305.0, "end": 4309.0}
+{"id": "yotM-QjF-jY-t4309.0", "text": "Then you're saying, all right, I'll have Ten Commandments", "start": 4309.0, "end": 4311.0}
+{"id": "yotM-QjF-jY-t4311.0", "text": "Should it be thou shalt kill or thou shalt not kill?", "start": 4311.0, "end": 4314.0}
+{"id": "yotM-QjF-jY-t4314.0", "text": "Well, pretty much six and one and a half a dozen of the other", "start": 4314.0, "end": 4317.0}
+{"id": "yotM-QjF-jY-t4317.0", "text": "Because there's no moral principle", "start": 4317.0, "end": 4320.0}
+{"id": "yotM-QjF-jY-t4320.0", "text": "Then you think that's just an arbitrary choice", "start": 4320.0, "end": 4324.0}
+{"id": "yotM-QjF-jY-t4324.0", "text": "Then it wouldn't be a moral principle", "start": 4324.0, "end": 4326.0}
+{"id": "yotM-QjF-jY-t4326.0", "text": "But what about the fact that those societies that chose thou shalt kill?", "start": 4326.0, "end": 4329.0}
+{"id": "yotM-QjF-jY-t4329.0", "text": "Which, honey did, especially outsiders", "start": 4329.0, "end": 4333.0}
+{"id": "yotM-QjF-jY-t4333.0", "text": "Then they didn't survive as well", "start": 4333.0, "end": 4335.0}
+{"id": "yotM-QjF-jY-t4335.0", "text": "There's kind of a selection process in historical cultures", "start": 4335.0, "end": 4340.0}
+{"id": "yotM-QjF-jY-t4340.0", "text": "It's also true that the world evolves in ways", "start": 4340.0, "end": 4346.0}
+{"id": "yotM-QjF-jY-t4346.0", "text": "The reality of our situation evolves in ways that fundamentally change the moral landscape", "start": 4346.0, "end": 4352.0}
+{"id": "yotM-QjF-jY-t4352.0", "text": "There are moral challenges we have now that people didn't have a couple hundred years ago", "start": 4352.0, "end": 4358.0}
+{"id": "yotM-QjF-jY-t4358.0", "text": "There's a historian, an environmental historian named Francois Muho, a French guy", "start": 4358.0, "end": 4366.0}
+{"id": "yotM-QjF-jY-t4366.0", "text": "Who wrote an essay called Thomas Jefferson and Me a couple years ago", "start": 4366.0, "end": 4372.0}
+{"id": "yotM-QjF-jY-t4372.0", "text": "We talked about Thomas Jefferson and slavery and how, as you say, he knew that it was wrong", "start": 4372.0, "end": 4376.0}
+{"id": "yotM-QjF-jY-t4376.0", "text": "But he said that Jefferson and his contemporaries lived with what he called a moral deficit", "start": 4376.0, "end": 4380.0}
+{"id": "yotM-QjF-jY-t4380.0", "text": "Because even though their new slavery was wrong, they could not imagine", "start": 4380.0, "end": 4386.0}
+{"id": "yotM-QjF-jY-t4386.0", "text": "How they could live without it", "start": 4386.0, "end": 4389.0}
+{"id": "yotM-QjF-jY-t4389.0", "text": "And so they lived doing something they knew that it was wrong", "start": 4389.0, "end": 4392.0}
+{"id": "yotM-QjF-jY-t4392.0", "text": "And he goes further that slavery was a big part of how they got the energy to power their society", "start": 4392.0, "end": 4398.0}
+{"id": "yotM-QjF-jY-t4398.0", "text": "The way we get energy to power our society now, we know it's wrong and it's harming future generations", "start": 4398.0, "end": 4404.0}
+{"id": "yotM-QjF-jY-t4404.0", "text": "This was not something we had to confront a couple hundred years ago, or a couple thousand years ago", "start": 4404.0, "end": 4408.0}
+{"id": "yotM-QjF-jY-t4408.0", "text": "Certainly when the world was functionally infinite", "start": 4408.0, "end": 4410.0}
+{"id": "yotM-QjF-jY-t4410.0", "text": "Now the world is no longer functionally infinite for us", "start": 4410.0, "end": 4413.0}
+{"id": "yotM-QjF-jY-t4413.0", "text": "And we are confronted with new moral challenges", "start": 4413.0, "end": 4416.0}
+{"id": "yotM-QjF-jY-t4416.0", "text": "And it's very complicated because it's not enough to just say, well we have to change how we live", "start": 4416.0, "end": 4420.0}
+{"id": "yotM-QjF-jY-t4420.0", "text": "If you wrote your bicycle here, you're fine", "start": 4420.0, "end": 4423.0}
+{"id": "yotM-QjF-jY-t4423.0", "text": "Although I applaud it", "start": 4423.0, "end": 4425.0}
+{"id": "yotM-QjF-jY-t4425.0", "text": "I took the train out here, that wasn't too bad", "start": 4425.0, "end": 4428.0}
+{"id": "yotM-QjF-jY-t4428.0", "text": "But it's a global problem that we have to address globally", "start": 4428.0, "end": 4434.0}
+{"id": "yotM-QjF-jY-t4434.0", "text": "It's not enough to change our energy distribution because these issues of inequity", "start": 4434.0, "end": 4440.0}
+{"id": "yotM-QjF-jY-t4440.0", "text": "We are raising people in developing countries deserve a more high energy lifestyle than they have now", "start": 4440.0, "end": 4446.0}
+{"id": "yotM-QjF-jY-t4446.0", "text": "Because the, you know, rural electrification", "start": 4446.0, "end": 4449.0}
+{"id": "yotM-QjF-jY-t4449.0", "text": "Being able to cook their meals without having to gather wood and gun", "start": 4449.0, "end": 4453.0}
+{"id": "yotM-QjF-jY-t4453.0", "text": "That's going to cause them respiratory harm", "start": 4453.0, "end": 4455.0}
+{"id": "yotM-QjF-jY-t4455.0", "text": "There's a basic way in which they deserve and need more energy", "start": 4455.0, "end": 4459.0}
+{"id": "yotM-QjF-jY-t4459.0", "text": "And yet we all live in the same atmosphere, so it's our moral obligation", "start": 4459.0, "end": 4462.0}
+{"id": "yotM-QjF-jY-t4462.0", "text": "Not just to change the way we live, but to help them change the way they live", "start": 4462.0, "end": 4466.0}
+{"id": "yotM-QjF-jY-t4466.0", "text": "And this is an entirely new kind of moral conundrum that humanity has never had to face before", "start": 4466.0, "end": 4473.0}
+{"id": "yotM-QjF-jY-t4473.0", "text": "So there may be moral, I agree with you actually that there are moral absolutes that we can at least search for", "start": 4473.0, "end": 4480.0}
+{"id": "yotM-QjF-jY-t4480.0", "text": "But certainly the landscape has changed, so there are moral conundrums we face now", "start": 4480.0, "end": 4485.0}
+{"id": "yotM-QjF-jY-t4485.0", "text": "That people have not had to face before, and that may well be true again in the future, the landscape shifts", "start": 4485.0, "end": 4490.0}
+{"id": "yotM-QjF-jY-t4490.0", "text": "So have you thought of what that might mean for the individual psychology?", "start": 4490.0, "end": 4496.0}
+{"id": "yotM-QjF-jY-t4496.0", "text": "Well again, to me it's part of this trying to learn how to become a larger entity than ourselves", "start": 4496.0, "end": 4504.0}
+{"id": "yotM-QjF-jY-t4504.0", "text": "Work together in groups in a functional and sustainable way", "start": 4504.0, "end": 4509.0}
+{"id": "yotM-QjF-jY-t4509.0", "text": "You may not like the language of super organism, and that's fine with me", "start": 4509.0, "end": 4513.0}
+{"id": "yotM-QjF-jY-t4513.0", "text": "Because it's really more of a metaphor than anything else", "start": 4513.0, "end": 4516.0}
+{"id": "yotM-QjF-jY-t4516.0", "text": "But certainly I think we can agree that guided by compassion and principles of equity", "start": 4516.0, "end": 4522.0}
+{"id": "yotM-QjF-jY-t4522.0", "text": "And some of these principles we agree on", "start": 4522.0, "end": 4524.0}
+{"id": "yotM-QjF-jY-t4524.0", "text": "That we have to learn, we're faced now with a need to move into a mode where we can function well together in larger groups than we've had to before", "start": 4524.0, "end": 4535.0}
+{"id": "yotM-QjF-jY-t4535.0", "text": "And to me that reflects this kind of hierarchy that you've described in an interesting way", "start": 4535.0, "end": 4541.0}
+{"id": "yotM-QjF-jY-t4541.0", "text": "But even without departing from even the traditional biological hierarchy, human species is unique", "start": 4541.0, "end": 4549.0}
+{"id": "yotM-QjF-jY-t4549.0", "text": "In a way that it's the only species that exceeded the natural boundaries of its own ecosystem", "start": 4549.0, "end": 4556.0}
+{"id": "yotM-QjF-jY-t4556.0", "text": "We don't live within constraints or we give an ecosystem", "start": 4556.0, "end": 4559.0}
+{"id": "yotM-QjF-jY-t4559.0", "text": "So for us, due to a large extent to our capacity of culture, cultural exchange, we occupy the entire globe", "start": 4559.0, "end": 4568.0}
+{"id": "yotM-QjF-jY-t4568.0", "text": "And we can use the entire planet and I can't entirely agree with you that because of that, that's the unique challenge", "start": 4568.0, "end": 4574.0}
+{"id": "yotM-QjF-jY-t4574.0", "text": "Now all the species at any level have that maybe say moral obligation, but they kind of have a global role", "start": 4574.0, "end": 4581.0}
+{"id": "yotM-QjF-jY-t4581.0", "text": "In forming the future of its own environment", "start": 4581.0, "end": 4585.0}
+{"id": "yotM-QjF-jY-t4585.0", "text": "And that's why it's certainly unique, even irrespective of culture, and the culture is probably what is responsible for the global status of our species", "start": 4585.0, "end": 4594.0}
+{"id": "yotM-QjF-jY-t4594.0", "text": "There have been species, of course, in the past who have changed the planet and suffered the consequences of that", "start": 4594.0, "end": 4599.0}
+{"id": "yotM-QjF-jY-t4599.0", "text": "Going back to our friends, the cyanobacteria who poisoned the whole world", "start": 4599.0, "end": 4604.0}
+{"id": "yotM-QjF-jY-t4604.0", "text": "There's a one species that's right, there have been organisms in the past", "start": 4604.0, "end": 4609.0}
+{"id": "yotM-QjF-jY-t4609.0", "text": "And I think you can find examples of single species that have done major things to the globe", "start": 4609.0, "end": 4615.0}
+{"id": "yotM-QjF-jY-t4615.0", "text": "But at any rate, in that sense it's not a new conundrum", "start": 4615.0, "end": 4618.0}
+{"id": "yotM-QjF-jY-t4618.0", "text": "But yet it is a new conundrum, but what's new about it, we're aware of it", "start": 4618.0, "end": 4622.0}
+{"id": "yotM-QjF-jY-t4622.0", "text": "We feel this sense of responsibility, we are, whether you want to call it evolving or changing", "start": 4622.0, "end": 4628.0}
+{"id": "yotM-QjF-jY-t4628.0", "text": "Or whatever word you want to use, moving into the future as a changing entity through new mechanisms", "start": 4628.0, "end": 4633.0}
+{"id": "yotM-QjF-jY-t4633.0", "text": "And obviously we're not just doing that in some vacuum space, we're doing it against the backdrop of a planet", "start": 4633.0, "end": 4641.0}
+{"id": "yotM-QjF-jY-t4641.0", "text": "The evolution of which we have somehow suddenly found ourselves integral to", "start": 4641.0, "end": 4647.0}
+{"id": "yotM-QjF-jY-t4647.0", "text": "And so these are now, and this is my sort of fascination in the really subject of the book I've just written", "start": 4647.0, "end": 4653.0}
+{"id": "yotM-QjF-jY-t4653.0", "text": "We're not just talking about a change in biological evolution, we're talking about a change in planetary evolution", "start": 4653.0, "end": 4659.0}
+{"id": "yotM-QjF-jY-t4659.0", "text": "That is coming about through this new level of, if we can call it evolution, cultural change", "start": 4659.0, "end": 4667.0}
+{"id": "yotM-QjF-jY-t4667.0", "text": "There's one thing that intrigues me about that, then the world, so yes, cyanobacteria or what I like to call", "start": 4667.0, "end": 4673.0}
+{"id": "yotM-QjF-jY-t4673.0", "text": "Biochemical guilds have changed the world, but then it's now in our minds", "start": 4673.0, "end": 4677.0}
+{"id": "yotM-QjF-jY-t4677.0", "text": "The carbon dioxide level is above 400 parts per million, well not everybody's mind yet", "start": 4677.0, "end": 4684.0}
+{"id": "yotM-QjF-jY-t4684.0", "text": "But hopefully it will be because it's in the air and it's talked about", "start": 4684.0, "end": 4689.0}
+{"id": "yotM-QjF-jY-t4689.0", "text": "And so the world, in the way it's a problem, our minds have caused the problem, so now they're starting to appreciate that process", "start": 4689.0, "end": 4697.0}
+{"id": "yotM-QjF-jY-t4697.0", "text": "Strange feedback between our minds and the planet, it wasn't my mind, it wasn't your mind", "start": 4697.0, "end": 4704.0}
+{"id": "yotM-QjF-jY-t4704.0", "text": "I didn't invent fossil fuel consumption, I didn't invent computers", "start": 4704.0, "end": 4708.0}
+{"id": "yotM-QjF-jY-t4708.0", "text": "It was this distributed mind, and we're already involved in this larger collective, whatever you call it", "start": 4708.0, "end": 4716.0}
+{"id": "yotM-QjF-jY-t4716.0", "text": "And I think economic markets are kind of interesting in that respect", "start": 4716.0, "end": 4722.0}
+{"id": "yotM-QjF-jY-t4722.0", "text": "Because most economists and investors would agree that it's got a mind of its own", "start": 4722.0, "end": 4729.0}
+{"id": "yotM-QjF-jY-t4729.0", "text": "And if they could understand it and predict it, they'd be filthy rich until everybody else adapt their mind", "start": 4729.0, "end": 4735.0}
+{"id": "yotM-QjF-jY-t4735.0", "text": "And so we're already involved in culture and economics and discovery", "start": 4735.0, "end": 4742.0}
+{"id": "yotM-QjF-jY-t4742.0", "text": "And this whole economy of knowledge and know-how and language and everything else", "start": 4742.0, "end": 4748.0}
+{"id": "yotM-QjF-jY-t4748.0", "text": "And we're like the bacteria in our stomach trying to understand what is this thing I live in", "start": 4748.0, "end": 4756.0}
+{"id": "yotM-QjF-jY-t4756.0", "text": "I always notice, and I know nothing about economics, and I'm really glad you're addressing this on this level", "start": 4756.0, "end": 4763.0}
+{"id": "yotM-QjF-jY-t4763.0", "text": "I can't wait to read your book, but I always can't wait to write it", "start": 4763.0, "end": 4766.0}
+{"id": "yotM-QjF-jY-t4766.0", "text": "What are you doing here, go home and write it", "start": 4766.0, "end": 4769.0}
+{"id": "yotM-QjF-jY-t4769.0", "text": "I always notice when I venture to the business pages, which occasionally I do", "start": 4769.0, "end": 4776.0}
+{"id": "yotM-QjF-jY-t4776.0", "text": "The way the language that we use to describe the market", "start": 4776.0, "end": 4780.0}
+{"id": "yotM-QjF-jY-t4780.0", "text": "It has emotions, it has intentions", "start": 4780.0, "end": 4782.0}
+{"id": "yotM-QjF-jY-t4782.0", "text": "We talk about the market is spooked, or the market became afraid of this, or the market was worried about this", "start": 4782.0, "end": 4788.0}
+{"id": "yotM-QjF-jY-t4788.0", "text": "Or the market was buoyed, or happy because of this", "start": 4788.0, "end": 4791.0}
+{"id": "yotM-QjF-jY-t4791.0", "text": "The market has bipolar disorder", "start": 4791.0, "end": 4794.0}
+{"id": "yotM-QjF-jY-t4794.0", "text": "Is this just a metaphor, an easy way to describe something, or are we actually describing some sort of...", "start": 4794.0, "end": 4799.0}
+{"id": "yotM-QjF-jY-t4799.0", "text": "We talk about it like a conscious entity, and yet obviously it's some manifestation of our own individual choices", "start": 4799.0, "end": 4805.0}
+{"id": "yotM-QjF-jY-t4805.0", "text": "That's where my knowledge of this ends, it's just sort of being befuddled by that", "start": 4805.0, "end": 4810.0}
+{"id": "yotM-QjF-jY-t4810.0", "text": "We're on the same thing", "start": 4810.0, "end": 4812.0}
+{"id": "yotM-QjF-jY-t4812.0", "text": "It's the emergence part of it", "start": 4812.0, "end": 4815.0}
+{"id": "yotM-QjF-jY-t4815.0", "text": "I think, I'm sorry, I would be a little cautious about this emergence talk", "start": 4815.0, "end": 4823.0}
+{"id": "yotM-QjF-jY-t4823.0", "text": "And making it all sound so mysterious, because it seems to me we're missing", "start": 4823.0, "end": 4828.0}
+{"id": "yotM-QjF-jY-t4828.0", "text": "In the case of fossil fuels, there is just the blind greed of certain people", "start": 4828.0, "end": 4834.0}
+{"id": "yotM-QjF-jY-t4834.0", "text": "Who wanted to make a lot of money, and didn't care, just like the cigarette manufacturers and so on", "start": 4834.0, "end": 4840.0}
+{"id": "yotM-QjF-jY-t4840.0", "text": "They were doing something that for Sea of We was going to be horrible, they didn't care", "start": 4840.0, "end": 4845.0}
+{"id": "yotM-QjF-jY-t4845.0", "text": "Now you can talk about the emergence of this, but that's the problem, right?", "start": 4845.0, "end": 4851.0}
+{"id": "yotM-QjF-jY-t4851.0", "text": "Don't look at sound like it's the big one", "start": 4851.0, "end": 4853.0}
+{"id": "yotM-QjF-jY-t4853.0", "text": "But it's not interesting", "start": 4853.0, "end": 4854.0}
+{"id": "yotM-QjF-jY-t4854.0", "text": "The fossil fuel industry is making money, and they want to continue to make money", "start": 4854.0, "end": 4859.0}
+{"id": "yotM-QjF-jY-t4859.0", "text": "But that's not the whole story", "start": 4859.0, "end": 4860.0}
+{"id": "yotM-QjF-jY-t4860.0", "text": "You get no benefit from fossil fuels and the people who make money on it, you get no benefit", "start": 4860.0, "end": 4865.0}
+{"id": "yotM-QjF-jY-t4865.0", "text": "No, I didn't say that, I'm saying that", "start": 4865.0, "end": 4868.0}
+{"id": "yotM-QjF-jY-t4868.0", "text": "Well, I'm not the same, I mean fossil fuels", "start": 4868.0, "end": 4870.0}
+{"id": "yotM-QjF-jY-t4870.0", "text": "There's a conscious attempt which has succeeded to make people disbelieve scientific results", "start": 4870.0, "end": 4878.0}
+{"id": "yotM-QjF-jY-t4878.0", "text": "To question the entire scientific enterprise, to think this whole thing is a hoax", "start": 4878.0, "end": 4883.0}
+{"id": "yotM-QjF-jY-t4883.0", "text": "And that's having terrible political, making it impossible to address this politically", "start": 4883.0, "end": 4888.0}
+{"id": "yotM-QjF-jY-t4888.0", "text": "And that's the way we can do it", "start": 4888.0, "end": 4890.0}
+{"id": "yotM-QjF-jY-t4890.0", "text": "Whether I had benefited from fossil fuels or not, and at what point it became clear the damage", "start": 4890.0, "end": 4895.0}
+{"id": "yotM-QjF-jY-t4895.0", "text": "Of course, in the beginning, I can imagine people saying no matter what humans do", "start": 4895.0, "end": 4900.0}
+{"id": "yotM-QjF-jY-t4900.0", "text": "We're too puny, right? The stuff coming out of my tailpipe can't possibly mean that", "start": 4900.0, "end": 4905.0}
+{"id": "yotM-QjF-jY-t4905.0", "text": "There's going to be human change", "start": 4905.0, "end": 4907.0}
+{"id": "yotM-QjF-jY-t4907.0", "text": "Well, the greenhouse effect was not even understood", "start": 4907.0, "end": 4909.0}
+{"id": "yotM-QjF-jY-t4909.0", "text": "So there was time, it took time to figure that out", "start": 4909.0, "end": 4912.0}
+{"id": "yotM-QjF-jY-t4912.0", "text": "In a rational situation, once you figured it out, there would be steps taken to", "start": 4912.0, "end": 4917.0}
+{"id": "yotM-QjF-jY-t4917.0", "text": "Emeliorate it", "start": 4917.0, "end": 4919.0}
+{"id": "yotM-QjF-jY-t4919.0", "text": "So this being blocked by that, and it's not mysterious why we're being blocked by it, right?", "start": 4919.0, "end": 4924.0}
+{"id": "yotM-QjF-jY-t4924.0", "text": "So I think what you're describing is absolutely true, but it's not the whole story", "start": 4924.0, "end": 4928.0}
+{"id": "yotM-QjF-jY-t4928.0", "text": "I feel like this global mind we're talking about, which is actually kind of dumb and slow, is figuring it out", "start": 4928.0, "end": 4934.0}
+{"id": "yotM-QjF-jY-t4934.0", "text": "And fossil fuels have been this wonderful thing", "start": 4934.0, "end": 4939.0}
+{"id": "yotM-QjF-jY-t4939.0", "text": "They are a wonderful thing, I mean, we discovered that they replaced our slaves", "start": 4939.0, "end": 4945.0}
+{"id": "yotM-QjF-jY-t4945.0", "text": "They replaced whale oil, which seemed great for a while, and then we realized that we did that a little too long", "start": 4945.0, "end": 4952.0}
+{"id": "yotM-QjF-jY-t4952.0", "text": "It did some damage that we wish we hadn't done", "start": 4952.0, "end": 4955.0}
+{"id": "yotM-QjF-jY-t4955.0", "text": "200 years from now, that's how we look at fossil fuels", "start": 4955.0, "end": 4958.0}
+{"id": "yotM-QjF-jY-t4958.0", "text": "We did that a little bit too long, and we did damage that we wish hadn't been done", "start": 4958.0, "end": 4962.0}
+{"id": "yotM-QjF-jY-t4962.0", "text": "They've been an amazing source of energy, and if you look at the level of poverty", "start": 4962.0, "end": 4970.0}
+{"id": "yotM-QjF-jY-t4970.0", "text": "Over the last 200 years has gone down, down, down, down, down", "start": 4970.0, "end": 4975.0}
+{"id": "yotM-QjF-jY-t4975.0", "text": "There's been amazing progress, human infant mortality is half what it was 30 years ago", "start": 4975.0, "end": 4980.0}
+{"id": "yotM-QjF-jY-t4980.0", "text": "There are a lot of ways in which this is the best time to be a human being alive", "start": 4980.0, "end": 4984.0}
+{"id": "yotM-QjF-jY-t4984.0", "text": "And a lot of that has to do with fossil fuels", "start": 4984.0, "end": 4987.0}
+{"id": "yotM-QjF-jY-t4987.0", "text": "Now it's absolutely true that we need to change what we're doing", "start": 4987.0, "end": 4991.0}
+{"id": "yotM-QjF-jY-t4991.0", "text": "And a big part of the reason we're not fast enough has to do with the pandemic", "start": 4991.0, "end": 4995.0}
+{"id": "yotM-QjF-jY-t4995.0", "text": "And we're all about greed, and people denying that and delaying it", "start": 4995.0, "end": 5000.0}
+{"id": "yotM-QjF-jY-t5000.0", "text": "So I completely agree with you, but the long story is one of we did this thing that seemed great, it was great", "start": 5000.0, "end": 5006.0}
+{"id": "yotM-QjF-jY-t5006.0", "text": "And now we're realizing that we need to stop doing it as quickly as we can", "start": 5006.0, "end": 5010.0}
+{"id": "yotM-QjF-jY-t5010.0", "text": "And part of the reason we're having trouble realizing that we, this global human mind is because of this fact", "start": 5010.0, "end": 5017.0}
+{"id": "yotM-QjF-jY-t5017.0", "text": "That we're not on the same page, and in fact some people are profiting by keeping us all off the same page", "start": 5017.0, "end": 5021.0}
+{"id": "yotM-QjF-jY-t5021.0", "text": "I just want to say that the people who work in ExxonMobil or wherever do not think of themselves as evil", "start": 5021.0, "end": 5029.0}
+{"id": "yotM-QjF-jY-t5029.0", "text": "I'm sure they don't", "start": 5029.0, "end": 5031.0}
+{"id": "yotM-QjF-jY-t5031.0", "text": "And they have a very few people do", "start": 5031.0, "end": 5034.0}
+{"id": "yotM-QjF-jY-t5034.0", "text": "Exactly", "start": 5034.0, "end": 5035.0}
+{"id": "yotM-QjF-jY-t5035.0", "text": "Okay, we will stop here and go to the audience for their questions", "start": 5035.0, "end": 5045.0}
+{"id": "yotM-QjF-jY-t5045.0", "text": "for their questions. You have to go to the microphone if you have a question.", "start": 5045.0, "end": 5050.2}
+{"id": "yotM-QjF-jY-t5051.4", "text": "Yes, we also are talking once he says, okay, to ground this.", "start": 5051.4, "end": 5056.12}
+{"id": "yotM-QjF-jY-t5056.12", "text": "This is getting... Can you have a question? Yeah.", "start": 5056.12, "end": 5058.6}
+{"id": "yotM-QjF-jY-t5062.28", "text": "Hi, I'm Gio. I'm a neuroscientist by training and I stopped doing that because of my", "start": 5062.28, "end": 5067.56}
+{"id": "yotM-QjF-jY-t5067.56", "text": "new passion for psychocultural development. So emergence in culture is really the thing that", "start": 5067.56, "end": 5075.64}
+{"id": "yotM-QjF-jY-t5076.360000000001", "text": "wakes me up in the morning and I was really enjoyed this really a rich conversation.", "start": 5076.360000000001, "end": 5079.8}
+{"id": "yotM-QjF-jY-t5081.240000000001", "text": "I have one question, essentially about cultural development. And you said something really interesting", "start": 5081.240000000001, "end": 5090.360000000001}
+{"id": "yotM-QjF-jY-t5090.36", "text": "about that I didn't get before, about that if you add energy to matter, you create complexity.", "start": 5090.36, "end": 5104.839999999999}
+{"id": "yotM-QjF-jY-t5104.839999999999", "text": "Right? You said something like that. And it's kind of interesting because then you bounce back", "start": 5104.839999999999, "end": 5109.799999999999}
+{"id": "yotM-QjF-jY-t5109.799999999999", "text": "something that was said before about cultural development. I said there is a big difference", "start": 5109.799999999999, "end": 5116.28}
+{"id": "yotM-QjF-jY-t5116.28", "text": "and it's a learning we learn. And I was sort of wondering if you could make a parallel between", "start": 5116.28, "end": 5121.48}
+{"id": "yotM-QjF-jY-t5122.679999999999", "text": "matter and a flow of energy creating complexity as fueling emergence and complexity in the", "start": 5122.679999999999, "end": 5133.0}
+{"id": "yotM-QjF-jY-t5133.0", "text": "biological physical world and having mental structures that of course you didn't talk about that but", "start": 5133.0, "end": 5141.48}
+{"id": "yotM-QjF-jY-t5141.48", "text": "they are mental structures and they change. And this flow of information which is really learning,", "start": 5141.48, "end": 5149.16}
+{"id": "yotM-QjF-jY-t5149.16", "text": "which is the information that's available and that a particular individual will also be sensitive", "start": 5149.16, "end": 5154.28}
+{"id": "yotM-QjF-jY-t5154.28", "text": "to able to read, would actually fuel emerging, I mean, complexity, creativity and the emergence", "start": 5154.28, "end": 5162.759999999999}
+{"id": "yotM-QjF-jY-t5162.76", "text": "of new mental structure. I was wondering if you could, if you had like any ideas about what is", "start": 5162.76, "end": 5172.84}
+{"id": "yotM-QjF-jY-t5172.84", "text": "actually happening when we talk about cultural development or consciousness development.", "start": 5172.84, "end": 5180.280000000001}
+{"id": "yotM-QjF-jY-t5182.84", "text": "It's too complicated. I can talk. I mean, so I think culture requires energy", "start": 5182.84, "end": 5190.360000000001}
+{"id": "yotM-QjF-jY-t5190.36", "text": "as just like all biological things and for this great acceleration that we've been through in", "start": 5190.36, "end": 5198.44}
+{"id": "yotM-QjF-jY-t5198.44", "text": "the last century from three times as many people practically in my lifetime, much more consumption", "start": 5198.44, "end": 5207.48}
+{"id": "yotM-QjF-jY-t5207.48", "text": "of fossil fuels, so on and so forth. I think that all requires energy to happen. But I think I", "start": 5207.48, "end": 5214.679999999999}
+{"id": "yotM-QjF-jY-t5214.68", "text": "want to also say two things. One in Chasan's work, Eric Chasan, he talks about optimal energy flows.", "start": 5214.68, "end": 5222.4400000000005}
+{"id": "yotM-QjF-jY-t5224.280000000001", "text": "If all the energy that we use outside of our bodies was going through our bodies, we'd all", "start": 5224.280000000001, "end": 5228.280000000001}
+{"id": "yotM-QjF-jY-t5228.280000000001", "text": "be burnt toast. So there are different ranges of optimal energy. They often, in big history,", "start": 5228.280000000001, "end": 5236.92}
+{"id": "yotM-QjF-jY-t5236.92", "text": "they often use the term Goldilocks parameters and sometimes they're leaps or shifts from prokaryotes", "start": 5236.92, "end": 5244.12}
+{"id": "yotM-QjF-jY-t5244.12", "text": "to eukaryotes or whatever. But it's all the same process, whether it's single cells or human brains.", "start": 5244.12, "end": 5254.68}
+{"id": "yotM-QjF-jY-t5254.68", "text": "It's energy, matter, and ingenuity or information that contains ingenuity. So DNA is a way of coding", "start": 5254.68, "end": 5264.68}
+{"id": "yotM-QjF-jY-t5264.68", "text": "information and what's more important than the information is, it's information that does something.", "start": 5264.68, "end": 5271.96}
+{"id": "yotM-QjF-jY-t5271.96", "text": "And so our brains are also good at coding information and the stuff we remember,", "start": 5271.96, "end": 5279.24}
+{"id": "yotM-QjF-jY-t5279.24", "text": "information that does something useful. And then that information is exchanged between brains", "start": 5279.24, "end": 5287.24}
+{"id": "yotM-QjF-jY-t5287.88", "text": "and across generations. And that's what bacteria do it by lateral genes transfer. But when you get", "start": 5287.88, "end": 5295.96}
+{"id": "yotM-QjF-jY-t5295.96", "text": "into eukaryotic evolution and sexual reproduction and distinct lineages, then you have a different", "start": 5295.96, "end": 5301.88}
+{"id": "yotM-QjF-jY-t5301.88", "text": "type of selection process, a more Darwinian. And it's not that Darwinian selection doesn't", "start": 5301.88, "end": 5307.96}
+{"id": "yotM-QjF-jY-t5307.96", "text": "operate on our genes, it does. But we have this other way of evolving through collective learning,", "start": 5307.96, "end": 5314.36}
+{"id": "yotM-QjF-jY-t5314.36", "text": "through symbolic language. And maybe the most important thing we invent are fictions like money", "start": 5314.36, "end": 5320.2}
+{"id": "yotM-QjF-jY-t5320.2", "text": "or human rights or religions or cities. So I don't know if that answers your question, but there's", "start": 5320.2, "end": 5331.64}
+{"id": "yotM-QjF-jY-t5331.64", "text": "a question. Don't you think that there is a correlation or at least like a mirror image between", "start": 5331.64, "end": 5338.76}
+{"id": "yotM-QjF-jY-t5339.320000000001", "text": "flow of energy in matter, fueling biological and physical evolution and flow of information", "start": 5339.320000000001, "end": 5347.56}
+{"id": "yotM-QjF-jY-t5347.56", "text": "within mental structures, flowing the creativity and complexity in the emergence of new mental", "start": 5347.56, "end": 5355.4800000000005}
+{"id": "yotM-QjF-jY-t5355.4800000000005", "text": "structures? So you could talk about information density flow. Yeah, exactly. That would be a", "start": 5355.4800000000005, "end": 5361.400000000001}
+{"id": "yotM-QjF-jY-t5361.4", "text": "term that I use. Information density flow. So humans are particularly amazing. And now of course", "start": 5361.4, "end": 5369.24}
+{"id": "yotM-QjF-jY-t5369.24", "text": "we're creating new information, we're drowning in data. So one of the really interesting things", "start": 5369.24, "end": 5376.28}
+{"id": "yotM-QjF-jY-t5376.28", "text": "to look at their trajectory of digital information and plot it out against the amount of energy", "start": 5376.28, "end": 5384.2}
+{"id": "yotM-QjF-jY-t5384.2", "text": "required to store that information. So I think right now about 10% of the electric grid in the", "start": 5384.2, "end": 5390.04}
+{"id": "yotM-QjF-jY-t5390.04", "text": "United States is devoted to maintaining computers and computer data banks and super data centers.", "start": 5390.04, "end": 5399.72}
+{"id": "yotM-QjF-jY-t5399.72", "text": "And that, you know, if like if the banking system goes to a blockchain, that will require a new", "start": 5399.72, "end": 5406.76}
+{"id": "yotM-QjF-jY-t5406.76", "text": "leap. If you look at the amount of genetic information that is generated or the amount of", "start": 5406.76, "end": 5412.12}
+{"id": "yotM-QjF-jY-t5412.12", "text": "information that they generated, it's CERN. So we're on this exponential leap of information,", "start": 5412.12, "end": 5418.28}
+{"id": "yotM-QjF-jY-t5418.28", "text": "but it's not, it's what matters is information that does something that has some ingenuity to it.", "start": 5418.28, "end": 5424.84}
+{"id": "yotM-QjF-jY-t5425.4", "text": "And that may be lost in the jungle as it were. Okay, I'm okay with his question just in terms of", "start": 5425.4, "end": 5432.759999999999}
+{"id": "yotM-QjF-jY-t5432.759999999999", "text": "we feed, so to speak, mentally on patterns of light and sound and to some degree smell,", "start": 5432.759999999999, "end": 5439.48}
+{"id": "yotM-QjF-jY-t5439.48", "text": "but mostly in touch. But you know, so there is, we are requiring these inputs not just for the raw", "start": 5439.48, "end": 5448.599999999999}
+{"id": "yotM-QjF-jY-t5448.599999999999", "text": "energy of the light coming in. I mean, it's not really helping my body. It's way too little", "start": 5448.599999999999, "end": 5452.679999999999}
+{"id": "yotM-QjF-jY-t5452.679999999999", "text": "that's coming from your, you're asking that question of as I'm getting patterns of light and sound.", "start": 5452.679999999999, "end": 5458.28}
+{"id": "yotM-QjF-jY-t5458.28", "text": "So I know very literal sense of his, his question of I do see that there is an analogy there.", "start": 5458.28, "end": 5465.48}
+{"id": "yotM-QjF-jY-t5465.48", "text": "And then what we do with that, of course, is it's not just it's inherent that we have to do", "start": 5465.48, "end": 5470.12}
+{"id": "yotM-QjF-jY-t5470.12", "text": "something, it's not inherent, we have to do something with what he he spoke in English to us. So", "start": 5470.12, "end": 5474.599999999999}
+{"id": "yotM-QjF-jY-t5475.24", "text": "we're already receptive to that. One last response and then we move to the next question.", "start": 5475.24, "end": 5483.0}
+{"id": "yotM-QjF-jY-t5487.4", "text": "I'm not a cultural anthropologist to really provide a full answer, but as far as understand,", "start": 5487.4, "end": 5492.36}
+{"id": "yotM-QjF-jY-t5492.36", "text": "the part of the development of the human brain was a part fueled by the change of human feeding", "start": 5492.36, "end": 5503.799999999999}
+{"id": "yotM-QjF-jY-t5503.799999999999", "text": "patterns and diets, especially with regard to cooking, which led to the extremely much of my", "start": 5503.799999999999, "end": 5509.32}
+{"id": "yotM-QjF-jY-t5509.32", "text": "vision that for any other organism consumption of energy and probably at the level of individual", "start": 5509.32, "end": 5514.5199999999995}
+{"id": "yotM-QjF-jY-t5514.5199999999995", "text": "organism, even before you start talking about some communal responses to the collective consciousness.", "start": 5514.5199999999995, "end": 5521.719999999999}
+{"id": "yotM-QjF-jY-t5521.72", "text": "So for at the level of individual with the development of the brain that will lead to the", "start": 5521.72, "end": 5526.6}
+{"id": "yotM-QjF-jY-t5526.6", "text": "greater capacity of thinking processes, there was a definitely influx of energy from the change", "start": 5526.6, "end": 5536.04}
+{"id": "yotM-QjF-jY-t5536.04", "text": "of truly biological structures. So it has to do with feeding strategies change in the feeding", "start": 5536.04, "end": 5541.56}
+{"id": "yotM-QjF-jY-t5541.56", "text": "apparatus, the ability to cook and related to that utilization of tools. So I think it's directly", "start": 5541.56, "end": 5547.88}
+{"id": "yotM-QjF-jY-t5547.88", "text": "involved. Okay, next question. Oh, there are more.", "start": 5547.88, "end": 5553.72}
+{"id": "yotM-QjF-jY-t5558.4400000000005", "text": "It's been a very interesting discussion, but one in particularly in terms of the", "start": 5558.4400000000005, "end": 5565.4800000000005}
+{"id": "yotM-QjF-jY-t5566.28", "text": "question of energy and ecology and so forth, but nobody mentioned an experiment that took place", "start": 5566.28, "end": 5575.0}
+{"id": "yotM-QjF-jY-t5575.0", "text": "about 75 years ago, which was an experiment conducted by a rather small group, maybe a thousand to", "start": 5575.0, "end": 5585.56}
+{"id": "yotM-QjF-jY-t5585.56", "text": "two thousand physicists who produced an atom bomb and the history of the science of this", "start": 5585.56, "end": 5591.96}
+{"id": "yotM-QjF-jY-t5593.96", "text": "really goes back to Einstein and Bohr and so on. So it was a long process and they were very", "start": 5593.96, "end": 5601.4}
+{"id": "yotM-QjF-jY-t5601.4", "text": "conscious of the ethical and moral possibilities about this event. We don't have to go into all", "start": 5601.4, "end": 5613.16}
+{"id": "yotM-QjF-jY-t5613.16", "text": "of the discussions that took place. Among the scientists, there were differences of opinion,", "start": 5613.16, "end": 5619.0}
+{"id": "yotM-QjF-jY-t5619.5599999999995", "text": "but generally those one of the argument who said that knowledge and information is more important", "start": 5619.5599999999995, "end": 5630.04}
+{"id": "yotM-QjF-jY-t5630.04", "text": "than a decision about what the result or the consequences of this would be. Of course, they were", "start": 5630.04, "end": 5637.64}
+{"id": "yotM-QjF-jY-t5638.5199999999995", "text": "under the pressure of feeling that the Nazis were developing an atom as well as we were,", "start": 5638.5199999999995, "end": 5644.84}
+{"id": "yotM-QjF-jY-t5645.4", "text": "and that the Nazis, if they got one, would be more horrible than if we exploded it. And they also", "start": 5645.4, "end": 5652.5199999999995}
+{"id": "yotM-QjF-jY-t5652.5199999999995", "text": "thought that this would have a great effect on the expense, expansiveness and availability of", "start": 5652.5199999999995, "end": 5658.84}
+{"id": "yotM-QjF-jY-t5658.84", "text": "energy because they thought atomic energy could be, we know all about this. But this wasn't", "start": 5658.84, "end": 5669.16}
+{"id": "yotM-QjF-jY-t5669.16", "text": "discussed and one of the reasons why I suppose it wasn't discussed is that they didn't know what", "start": 5669.16, "end": 5676.2}
+{"id": "yotM-QjF-jY-t5676.2", "text": "the effects would be in the long run. They thought they knew what the effects would be in the short", "start": 5676.2, "end": 5681.4800000000005}
+{"id": "yotM-QjF-jY-t5681.4800000000005", "text": "run, but not in the long run. We still don't know whether this atomic development,", "start": 5681.4800000000005, "end": 5688.52}
+{"id": "yotM-QjF-jY-t5688.52", "text": "what the effects in the long run are going to be. And so I think that nobody has been discussing", "start": 5688.52, "end": 5695.8}
+{"id": "yotM-QjF-jY-t5695.8", "text": "how we can find some way to be able to predict the future better, not only in the stock market,", "start": 5695.8, "end": 5703.88}
+{"id": "yotM-QjF-jY-t5703.88", "text": "which will make one of us a richer or not, because I think that's the real problem. We can't predict", "start": 5703.88, "end": 5710.84}
+{"id": "yotM-QjF-jY-t5710.84", "text": "the future. We don't know what's going to happen. And we are still living in the where I am anyway,", "start": 5710.84, "end": 5720.28}
+{"id": "yotM-QjF-jY-t5720.28", "text": "in the belief that the more we know and the more we understand about nature, our own nature is in", "start": 5720.28, "end": 5725.64}
+{"id": "yotM-QjF-jY-t5725.64", "text": "the nature around us, the better off we'll be. But that hasn't been proven yet.", "start": 5725.64, "end": 5730.360000000001}
+{"id": "yotM-QjF-jY-t5730.36", "text": "Thank you. Well, you raised some excellent points. The Manhattan Project scientists, many of them were", "start": 5730.36, "end": 5741.32}
+{"id": "yotM-QjF-jY-t5741.32", "text": "aware of what was going to result and were terrified of it. But as you said, they were more terrified of", "start": 5741.32, "end": 5749.24}
+{"id": "yotM-QjF-jY-t5749.24", "text": "what would happen if they didn't do this and the Nazis did it. As far as I know, there was nobody", "start": 5749.24, "end": 5754.679999999999}
+{"id": "yotM-QjF-jY-t5754.68", "text": "involved in the Manhattan Project. None of the scientists who said, we shouldn't do this. Let's", "start": 5754.68, "end": 5760.76}
+{"id": "yotM-QjF-jY-t5760.76", "text": "stop because of what were unleashed. There were a lot of them that are immediately afterwards became", "start": 5760.76, "end": 5767.56}
+{"id": "yotM-QjF-jY-t5767.56", "text": "leaders in the disarmament movement. People like Philip Morrison, and for the rest of their lives,", "start": 5767.56, "end": 5774.84}
+{"id": "yotM-QjF-jY-t5774.84", "text": "many of them, this was what they devoted themselves to, was nuclear disarmament, because they realized", "start": 5774.84, "end": 5781.400000000001}
+{"id": "yotM-QjF-jY-t5781.4", "text": "immediately that they had helped create something that was not really a weapon in a meaningful way,", "start": 5781.4, "end": 5788.44}
+{"id": "yotM-QjF-jY-t5788.44", "text": "but was a global suicide machine, which it remains. And there was even, they were even faced with", "start": 5788.44, "end": 5800.679999999999}
+{"id": "yotM-QjF-jY-t5800.679999999999", "text": "the knowledge, the possibility that when they did the Trinity test, they might destroy the world.", "start": 5800.679999999999, "end": 5805.879999999999}
+{"id": "yotM-QjF-jY-t5805.88", "text": "There was a calculation that they weren't sure, depending on the cross sections of some of these", "start": 5805.88, "end": 5813.32}
+{"id": "yotM-QjF-jY-t5813.32", "text": "reactions that they might fuse the entire atmosphere. And at that moment, destroy all life on earth.", "start": 5813.32, "end": 5818.04}
+{"id": "yotM-QjF-jY-t5818.04", "text": "They thought it was very unlikely. And they decided to go ahead with it. So, I mean, I think they", "start": 5818.04, "end": 5824.76}
+{"id": "yotM-QjF-jY-t5824.76", "text": "were aware of these moral contradictions. They were choosing what they thought was the lesser", "start": 5824.76, "end": 5829.08}
+{"id": "yotM-QjF-jY-t5829.08", "text": "of evil. And then a lot of them spent the rest of their lives working to put the genie back in", "start": 5829.08, "end": 5834.28}
+{"id": "yotM-QjF-jY-t5834.28", "text": "the bottle that they had helped unleash. And we still live under that thread in a way that I think", "start": 5834.28, "end": 5841.0}
+{"id": "yotM-QjF-jY-t5841.0", "text": "people underestimate for reasons that have to do with your profession, probably more than mine.", "start": 5841.0, "end": 5848.2}
+{"id": "yotM-QjF-jY-t5850.2", "text": "Addressing the psychiatrist. But as far as predicting the future, let me just say one more thing.", "start": 5850.2, "end": 5855.08}
+{"id": "yotM-QjF-jY-t5856.28", "text": "Part of what I did, I was at the Library of Congress for a year, a couple years ago,", "start": 5856.28, "end": 5860.84}
+{"id": "yotM-QjF-jY-t5860.84", "text": "as the chair of astrobiology. And one of the projects I did that I wrote up as a part of this", "start": 5860.84, "end": 5865.72}
+{"id": "yotM-QjF-jY-t5865.72", "text": "book, Earth and Human Hands, was it was called a short history of the future, where I looked at", "start": 5865.72, "end": 5870.360000000001}
+{"id": "yotM-QjF-jY-t5870.360000000001", "text": "predictions of the future through a large swath of history, and particular predictions of now", "start": 5870.360000000001, "end": 5875.96}
+{"id": "yotM-QjF-jY-t5876.76", "text": "that were written 100 years ago, 200 years ago. And one thing you realize when you do this exercise", "start": 5876.76, "end": 5882.04}
+{"id": "yotM-QjF-jY-t5882.04", "text": "is that nobody can predict the future well. Even really smart people, H2Ls, and, you know,", "start": 5882.04, "end": 5889.16}
+{"id": "yotM-QjF-jY-t5889.16", "text": "Sage, people who regard as Sage, who predicted certain aspects of it really well. But nobody", "start": 5889.16, "end": 5893.4}
+{"id": "yotM-QjF-jY-t5893.4", "text": "gets the game changers. And I think that that will always be true and that I'm not even sure", "start": 5893.4, "end": 5900.2}
+{"id": "yotM-QjF-jY-t5901.8", "text": "being able to predict the future well in total should be our goal. But there are certainly", "start": 5901.8, "end": 5907.8}
+{"id": "yotM-QjF-jY-t5907.8", "text": "aspects of that that have now become essential as far as those levers that we're pooling on the", "start": 5907.8, "end": 5914.2}
+{"id": "yotM-QjF-jY-t5914.2", "text": "Earth. Obviously climate modeling is important because that's a lever that we're pooling. So,", "start": 5914.2, "end": 5919.08}
+{"id": "yotM-QjF-jY-t5920.36", "text": "you know, we'll never be able to really predict the future well, but we'll be able to increase", "start": 5920.36, "end": 5926.2}
+{"id": "yotM-QjF-jY-t5926.2", "text": "our ability to break that down into some tangible goals, such as predicting the", "start": 5926.2, "end": 5935.72}
+{"id": "yotM-QjF-jY-t5935.72", "text": "effect on the climate of the doubling of CO2, things like that we'll get better at. But as far as,", "start": 5935.72, "end": 5939.96}
+{"id": "yotM-QjF-jY-t5939.96", "text": "I mean, the problem you're addressing really has to do with managing ourselves and our behavior,", "start": 5939.96, "end": 5945.08}
+{"id": "yotM-QjF-jY-t5945.08", "text": "collective behavior as we get more powerful tools. And that, I'm not sure, is even really a problem", "start": 5945.08, "end": 5953.56}
+{"id": "yotM-QjF-jY-t5953.56", "text": "of science so much as it is of spirituality and other realms we haven't entirely addressed yet", "start": 5953.56, "end": 5959.88}
+{"id": "yotM-QjF-jY-t5959.88", "text": "in this conversation. Can I say a word about the predictability problem? This actually,", "start": 5959.88, "end": 5966.68}
+{"id": "yotM-QjF-jY-t5966.68", "text": "at the very beginning, I said, well, here's an interesting thing that it's amazing that", "start": 5966.68, "end": 5970.200000000001}
+{"id": "yotM-QjF-jY-t5971.240000000001", "text": "above the micro-physical level where we think there are these strict laws,", "start": 5971.240000000001, "end": 5975.4800000000005}
+{"id": "yotM-QjF-jY-t5976.4400000000005", "text": "that there's anything predictable at higher levels, right, that they should form enough structure", "start": 5976.4400000000005, "end": 5981.240000000001}
+{"id": "yotM-QjF-jY-t5981.240000000001", "text": "that and have enough stability and predictability. In the case of, say, atoms, you put a bunch of", "start": 5981.240000000001, "end": 5989.08}
+{"id": "yotM-QjF-jY-t5989.08", "text": "atoms together and you get the ideal gas laws, which are very simple, right, and very, very", "start": 5989.08, "end": 5995.56}
+{"id": "yotM-QjF-jY-t5995.56", "text": "predictive. And it's really important for that that all the atoms are the same or they interact", "start": 5995.56, "end": 6001.64}
+{"id": "yotM-QjF-jY-t6001.64", "text": "in very much the same ways. The climate is more or less the same thing, but you get because of", "start": 6001.64, "end": 6008.4400000000005}
+{"id": "yotM-QjF-jY-t6008.4400000000005", "text": "the flows, it's a chaotic system, and so it's more complicated. But the kinds of predictions", "start": 6008.4400000000005, "end": 6013.56}
+{"id": "yotM-QjF-jY-t6013.56", "text": "we're worried about, which have to do with human beings, that's a whole different ball game,", "start": 6013.56, "end": 6018.200000000001}
+{"id": "yotM-QjF-jY-t6018.200000000001", "text": "because every single one of us is different. And every single one of us will respond differently", "start": 6018.200000000001, "end": 6023.320000000001}
+{"id": "yotM-QjF-jY-t6023.32", "text": "to our environment and differently to inputs. And you can't have a statistical mechanical", "start": 6023.32, "end": 6029.0}
+{"id": "yotM-QjF-jY-t6029.96", "text": "theory that's going to predict human behavior. Well, you never will have, because there's too", "start": 6029.96, "end": 6033.88}
+{"id": "yotM-QjF-jY-t6033.88", "text": "much idiosyncrasy in each individual brain. So there's not the kind of uniformity that's going", "start": 6033.88, "end": 6040.92}
+{"id": "yotM-QjF-jY-t6040.92", "text": "to allow for such a thing. So I think if you wanted to predict, who predicted the last election", "start": 6040.92, "end": 6046.2}
+{"id": "yotM-QjF-jY-t6046.2", "text": "correctly? And this is something that it's not far in the future, right? We were all living in this", "start": 6046.2, "end": 6050.759999999999}
+{"id": "yotM-QjF-jY-t6050.76", "text": "society. It had to do with collective psychology, it had to do with all sorts of things that I think", "start": 6050.76, "end": 6057.24}
+{"id": "yotM-QjF-jY-t6057.24", "text": "are just not ever going to be amenable to strict prediction in any way. So I'm sorry to give you", "start": 6057.24, "end": 6064.2}
+{"id": "yotM-QjF-jY-t6064.2", "text": "that story. But I want to propose a major breakthrough in making progress in the way human beings think", "start": 6064.2, "end": 6092.5199999999995}
+{"id": "yotM-QjF-jY-t6092.52", "text": "together by sorting our different ways of being human, our different ways of thinking, our different", "start": 6092.52, "end": 6100.360000000001}
+{"id": "yotM-QjF-jY-t6100.360000000001", "text": "ways of making sense. And what I've devoted my last 50 years to is applying Freud's emphasis on", "start": 6100.360000000001, "end": 6109.64}
+{"id": "yotM-QjF-jY-t6109.64", "text": "early experiences to that single most important item in all of life. It's people, can you name me", "start": 6109.64, "end": 6117.72}
+{"id": "yotM-QjF-jY-t6117.72", "text": "one most important item in all of life? And the answer is, I believe, pretty clearly, the sun.", "start": 6117.72, "end": 6123.08}
+{"id": "yotM-QjF-jY-t6124.2", "text": "And applying Freud to the sun, I would make this proposition that the flow of solar energy to us", "start": 6124.2, "end": 6133.8}
+{"id": "yotM-QjF-jY-t6133.8", "text": "here, let's say in the middle third of the upper half of the planet goes as a curve, one curve a", "start": 6133.8, "end": 6142.4400000000005}
+{"id": "yotM-QjF-jY-t6142.44", "text": "year, it's something like 200 calories per square centimeter at the low end Christmas time for a", "start": 6142.44, "end": 6148.36}
+{"id": "yotM-QjF-jY-t6148.36", "text": "whole day to 800, six months later. So we have a solar energy flow that is sort of sinusoidal shape.", "start": 6148.36, "end": 6157.96}
+{"id": "yotM-QjF-jY-t6157.96", "text": "But the point is this, your birthday turns out to be the phase with respect to that sine curve,", "start": 6157.96, "end": 6167.639999999999}
+{"id": "yotM-QjF-jY-t6167.64", "text": "a fundamental dimension. And so we can make progress if we get rescue birthday away from", "start": 6167.64, "end": 6173.8}
+{"id": "yotM-QjF-jY-t6173.8", "text": "astrology and its nonsensical premises and approach it more in a Freudian way. We're talking about", "start": 6173.8, "end": 6182.280000000001}
+{"id": "yotM-QjF-jY-t6182.280000000001", "text": "light and dark, hot and cold. And we can sort humanity usefully so that we can learn how to think", "start": 6182.280000000001, "end": 6190.68}
+{"id": "yotM-QjF-jY-t6190.68", "text": "together and make progress in a democracy. We can even solve the riddle of justice that it turns out", "start": 6190.68, "end": 6199.56}
+{"id": "yotM-QjF-jY-t6201.16", "text": "this is going to be too heavy. It turns out that in the Old Testament, and I'm an atheist,", "start": 6201.16, "end": 6207.88}
+{"id": "yotM-QjF-jY-t6208.4400000000005", "text": "but in the Old Testament there is a useful dividing of humanity by 12 in the 12 brothers, 12 sons of", "start": 6208.4400000000005, "end": 6215.72}
+{"id": "yotM-QjF-jY-t6215.72", "text": "Jacob. And in the fathers, goodbye to his 12 sons, he identifies a lot of traits that I think are", "start": 6215.72, "end": 6223.96}
+{"id": "yotM-QjF-jY-t6223.96", "text": "important. The kids who are born when it's cold and dark, and it gets colder and darker, he said,", "start": 6223.96, "end": 6229.16}
+{"id": "yotM-QjF-jY-t6229.16", "text": "you guys have too much murder in your heart. But in particular, one of the sons, the son, I", "start": 6229.16, "end": 6235.320000000001}
+{"id": "yotM-QjF-jY-t6235.320000000001", "text": "believe, is born midwinter. He said, you guys are the ones who have the talent for being judges.", "start": 6235.320000000001, "end": 6240.92}
+{"id": "yotM-QjF-jY-t6240.92", "text": "And when we make you guys the judges will have justice. Voila. So can you imagine approaching", "start": 6240.92, "end": 6249.96}
+{"id": "yotM-QjF-jY-t6250.6", "text": "the puzzlement that we're facing here, the confounding variety of ways of being human,", "start": 6250.6, "end": 6257.56}
+{"id": "yotM-QjF-jY-t6257.56", "text": "if we could usefully sort them, if birthday indeed was a legitimate basis for profound", "start": 6257.56, "end": 6264.68}
+{"id": "yotM-QjF-jY-t6264.68", "text": "differences in human nature, could you imagine that as a basis for some progress?", "start": 6264.68, "end": 6269.8}
+{"id": "yotM-QjF-jY-t6269.8", "text": "Guess when I hear that, I think of like ant casts or something like that, you know, the 12 cast of", "start": 6269.8, "end": 6276.12}
+{"id": "yotM-QjF-jY-t6276.12", "text": "humans based on when they were born. I mean, I've wondered like whether I was born in November,", "start": 6276.12, "end": 6280.12}
+{"id": "yotM-QjF-jY-t6280.12", "text": "whether like, okay, I got like a month going down to the dark, but then started coming around soon.", "start": 6280.12, "end": 6284.52}
+{"id": "yotM-QjF-jY-t6284.52", "text": "I didn't get very far in my own head about that. I guess, I don't know, I think there was something", "start": 6284.52, "end": 6289.320000000001}
+{"id": "yotM-QjF-jY-t6289.320000000001", "text": "in nature years ago about astrological sorting. I know you're not saying it's the planets, but", "start": 6289.320000000001, "end": 6295.4800000000005}
+{"id": "yotM-QjF-jY-t6295.48", "text": "I think it was pretty much debunked. I'm not saying that the light doesn't have some effect on people,", "start": 6295.48, "end": 6301.799999999999}
+{"id": "yotM-QjF-jY-t6301.799999999999", "text": "but so does birth order, parent personality, siblings, what kind of electronics you're using.", "start": 6301.799999999999, "end": 6308.919999999999}
+{"id": "yotM-QjF-jY-t6309.48", "text": "It's complex and complicated. It's complex and complicated. So, okay, next question.", "start": 6309.48, "end": 6315.08}
+{"id": "yotM-QjF-jY-t6316.599999999999", "text": "The point that you made about the Manhattan Project and how these really smart people", "start": 6316.599999999999, "end": 6321.5599999999995}
+{"id": "yotM-QjF-jY-t6321.56", "text": "came to the conclusion that they needed to be tribal because the Germans would do it", "start": 6321.56, "end": 6327.0}
+{"id": "yotM-QjF-jY-t6328.120000000001", "text": "if they didn't do it is an example of even if we have really smart people, they're still going", "start": 6328.120000000001, "end": 6333.160000000001}
+{"id": "yotM-QjF-jY-t6333.160000000001", "text": "to end up being tribal. So, is there any any example in nature where there are people or", "start": 6333.160000000001, "end": 6342.280000000001}
+{"id": "yotM-QjF-jY-t6342.28", "text": "organisms evolved from being tribal to being not tribal? So, there's a scaling that happens all", "start": 6342.28, "end": 6354.36}
+{"id": "yotM-QjF-jY-t6354.36", "text": "through human history from small hunter groups, Rob and Dunbar thinks there's actually a neurological", "start": 6354.36, "end": 6363.32}
+{"id": "yotM-QjF-jY-t6363.32", "text": "correlation that probably the largest group the humans would feel comfortable in based on our", "start": 6363.32, "end": 6368.28}
+{"id": "yotM-QjF-jY-t6368.28", "text": "brain and the complexity of social relations is about 150 people. And then at that point,", "start": 6368.28, "end": 6374.599999999999}
+{"id": "yotM-QjF-jY-t6376.04", "text": "it would split and there are there's also sort of archetypal", "start": 6376.04, "end": 6379.48}
+{"id": "yotM-QjF-jY-t6381.0", "text": "teams like the archetypal team, the band of brothers. It's like the football team, it's 12", "start": 6381.0, "end": 6386.04}
+{"id": "yotM-QjF-jY-t6386.04", "text": "over 10 or 8 or you know, but never 20, never 30, right? So, the business units. So, there's", "start": 6386.04, "end": 6394.5199999999995}
+{"id": "yotM-QjF-jY-t6394.52", "text": "are kind of an inherited natural scale to human sociality. And one of the great mysteries is", "start": 6394.52, "end": 6401.56}
+{"id": "yotM-QjF-jY-t6401.56", "text": "how do we scale it up to millions of people? Like, you know, chimpanzees could not, you know,", "start": 6401.56, "end": 6406.76}
+{"id": "yotM-QjF-jY-t6406.76", "text": "this many chimpanzees could not sit in the same room together. I guarantee all hell would break", "start": 6406.76, "end": 6412.040000000001}
+{"id": "yotM-QjF-jY-t6412.040000000001", "text": "out, right? Especially strangers. So, right? So, you know, how we're not like a big herd animal,", "start": 6412.040000000001, "end": 6420.120000000001}
+{"id": "yotM-QjF-jY-t6420.12", "text": "we're intensely concerned about our social relationships. And if they get too complicated,", "start": 6420.12, "end": 6425.64}
+{"id": "yotM-QjF-jY-t6425.64", "text": "our brains can't deal with it. That's Dunbar's quote unquote number. So, one of the ways is", "start": 6425.64, "end": 6431.5599999999995}
+{"id": "yotM-QjF-jY-t6431.5599999999995", "text": "what part of the study, which is religion. And, you know, that's one of the ways that we scale up", "start": 6431.5599999999995, "end": 6437.88}
+{"id": "yotM-QjF-jY-t6437.88", "text": "society, right? And we go from pretty egalitarian hunter, gather troops to two hierarchical groups,", "start": 6437.88, "end": 6445.88}
+{"id": "yotM-QjF-jY-t6445.88", "text": "where there's a minority that steals the surplus production to sustain, you know, different hierarchies", "start": 6445.88, "end": 6454.28}
+{"id": "yotM-QjF-jY-t6454.28", "text": "or whatever. And one of the competitive drives, once agriculture comes into play, is that agriculture", "start": 6454.28, "end": 6462.92}
+{"id": "yotM-QjF-jY-t6463.4800000000005", "text": "is not a high growing productivity, economic activity. It gets established and then it's", "start": 6463.4800000000005, "end": 6469.4800000000005}
+{"id": "yotM-QjF-jY-t6469.4800000000005", "text": "pretty stationary. So, if you want to get rich quick, the logic is you go invade your neighbors,", "start": 6469.4800000000005, "end": 6475.400000000001}
+{"id": "yotM-QjF-jY-t6475.4", "text": "you steal their livestock or animal, you kill the men, steal the women, make them slaves,", "start": 6475.4, "end": 6480.599999999999}
+{"id": "yotM-QjF-jY-t6480.599999999999", "text": "increase your labor, increase your land. And so, within agricultural civilization, not only do you", "start": 6480.599999999999, "end": 6485.879999999999}
+{"id": "yotM-QjF-jY-t6485.879999999999", "text": "get things like patriarchy and, you also get an economic incentive to militarization. And that", "start": 6485.879999999999, "end": 6495.799999999999}
+{"id": "yotM-QjF-jY-t6495.799999999999", "text": "militarization, that competition then drives the spread of all these ideas all around the world.", "start": 6495.799999999999, "end": 6502.759999999999}
+{"id": "yotM-QjF-jY-t6502.76", "text": "And for good and for bad. So, anyway, it's a mystery that seven billion of us are on this planet right", "start": 6502.76, "end": 6513.0}
+{"id": "yotM-QjF-jY-t6513.0", "text": "now. It's a mystery. And that we are, I think, the pinnacle of cooperation in evolution. That's how", "start": 6513.0, "end": 6521.4800000000005}
+{"id": "yotM-QjF-jY-t6521.4800000000005", "text": "I would frame it rather than the pinnacle of competition. But both have played an important", "start": 6521.4800000000005, "end": 6526.76}
+{"id": "yotM-QjF-jY-t6526.76", "text": "role in human history. And to answer your strict question, biologically, there are examples.", "start": 6526.76, "end": 6533.4800000000005}
+{"id": "yotM-QjF-jY-t6533.4800000000005", "text": "There's this whole counterpoint to, you know, sort of competition and survival of the fittest.", "start": 6533.4800000000005, "end": 6538.360000000001}
+{"id": "yotM-QjF-jY-t6538.360000000001", "text": "There's this whole field of biology, social biology, where there is cooperation at different", "start": 6538.360000000001, "end": 6544.360000000001}
+{"id": "yotM-QjF-jY-t6544.360000000001", "text": "levels and group selection has led to remarkable examples of self-sacrifice in nature for the good", "start": 6544.360000000001, "end": 6553.8}
+{"id": "yotM-QjF-jY-t6553.8", "text": "of the whole. And it then does come down in some level to propagating genes. Yeah, I mean,", "start": 6553.8, "end": 6558.68}
+{"id": "yotM-QjF-jY-t6558.68", "text": "the insects are the stars at this. But there are other examples as well. So, there are biological", "start": 6558.68, "end": 6563.8}
+{"id": "yotM-QjF-jY-t6563.8", "text": "factors that have pushed in that direction. But as just mentioned, human biological capacity", "start": 6563.8, "end": 6571.08}
+{"id": "yotM-QjF-jY-t6571.08", "text": "does seem to have a limit. Fortunately, we are not limited to our genetic skills. The one thing", "start": 6571.08, "end": 6581.16}
+{"id": "yotM-QjF-jY-t6581.16", "text": "that, in addition to being, you know, uniquely perhaps cooperative species, we're also uniquely", "start": 6581.16, "end": 6586.84}
+{"id": "yotM-QjF-jY-t6586.84", "text": "adaptable and reinvented species. And, you know, the world is changing in some ways that one can", "start": 6586.84, "end": 6595.08}
+{"id": "yotM-QjF-jY-t6595.08", "text": "imagine, increase our capacity to overcome tribal differences. Global communications, right now,", "start": 6595.08, "end": 6603.24}
+{"id": "yotM-QjF-jY-t6603.24", "text": "we're at a moment of possible fragmentation and trying to struggle with some of the effects of", "start": 6603.24, "end": 6608.2}
+{"id": "yotM-QjF-jY-t6608.2", "text": "connectivity. But that may just be a moment. But it seems as though the trend is for global", "start": 6608.2, "end": 6613.24}
+{"id": "yotM-QjF-jY-t6614.12", "text": "connection. And that combined with our innate sociality may sort of come to our rescue.", "start": 6614.12, "end": 6620.5199999999995}
+{"id": "yotM-QjF-jY-t6621.16", "text": "Tyler, do you want to respond also? I'm not trying to find what everyone said.", "start": 6621.16, "end": 6624.92}
+{"id": "yotM-QjF-jY-t6631.72", "text": "And I would also mention science as something that is a global cooperative.", "start": 6631.72, "end": 6636.04}
+{"id": "yotM-QjF-jY-t6636.04", "text": "And, in fact, almost anything where people come together to seek some goal that's bigger than", "start": 6636.04, "end": 6641.48}
+{"id": "yotM-QjF-jY-t6641.48", "text": "themselves. I've been a part of some spacecraft teams, you know, and very close to people. For", "start": 6641.48, "end": 6646.84}
+{"id": "yotM-QjF-jY-t6646.84", "text": "instance, on this New Horizons mission that just made it to Pluto. And that's a team of hundreds", "start": 6646.84, "end": 6650.84}
+{"id": "yotM-QjF-jY-t6650.84", "text": "of people who genuinely, I mean, yes, they fall prey to all the petty competitive, you know,", "start": 6650.84, "end": 6656.36}
+{"id": "yotM-QjF-jY-t6657.48", "text": "motivations that we all do. But there's also this level of self-sattrophes that we're all", "start": 6657.48, "end": 6661.4}
+{"id": "yotM-QjF-jY-t6661.4", "text": "in this together that we're all seeking this common goal. And humans do have an amazing ability.", "start": 6661.4, "end": 6666.12}
+{"id": "yotM-QjF-jY-t6666.12", "text": "You know, unfortunately, a lot of times it's like our army against their army, which is what", "start": 6666.12, "end": 6669.879999999999}
+{"id": "yotM-QjF-jY-t6669.879999999999", "text": "unites us. But there's that capacity that, you know, faced with the challenges of", "start": 6669.879999999999, "end": 6675.719999999999}
+{"id": "yotM-QjF-jY-t6677.16", "text": "really the existential challenges that we're starting to become aware of that will require", "start": 6677.16, "end": 6684.12}
+{"id": "yotM-QjF-jY-t6684.12", "text": "some level of global cooperation that one can imagine those capacities being employed on a", "start": 6684.12, "end": 6688.92}
+{"id": "yotM-QjF-jY-t6688.92", "text": "global level to face those challenges. Yeah, and I'm glad you brought up science because you could", "start": 6688.92, "end": 6693.32}
+{"id": "yotM-QjF-jY-t6693.32", "text": "look at the history of science and the scientific revolution as being a very much cooperativity", "start": 6693.32, "end": 6700.2}
+{"id": "yotM-QjF-jY-t6700.2", "text": "among these scientists that were in different nations. They just transcended that, you know,", "start": 6700.2, "end": 6706.6}
+{"id": "yotM-QjF-jY-t6706.6", "text": "for the most part. We have very little time, so please make the questions brief and the responses", "start": 6706.6, "end": 6712.2}
+{"id": "yotM-QjF-jY-t6712.2", "text": "brief. Okay. The latter part of your conversation was interesting and made me think of a book by", "start": 6712.2, "end": 6717.64}
+{"id": "yotM-QjF-jY-t6717.64", "text": "Frederick Frank to be human against all odds on the ability of mankind to transcend its", "start": 6717.64, "end": 6726.280000000001}
+{"id": "yotM-QjF-jY-t6726.280000000001", "text": "reptilian brain, which one has to wonder when we look at the incredible cruelty throughout the", "start": 6726.280000000001, "end": 6731.56}
+{"id": "yotM-QjF-jY-t6731.56", "text": "world that man still, you know, perpetrates. And I'm not just talking about areas of conflict,", "start": 6731.56, "end": 6736.76}
+{"id": "yotM-QjF-jY-t6736.76", "text": "we can just look right here at home. We don't have to go that far. But the other thing that", "start": 6736.76, "end": 6741.0}
+{"id": "yotM-QjF-jY-t6741.0", "text": "was interesting is you mentioned post-enlightenment and immorality, but maybe we need to look at", "start": 6741.0, "end": 6746.360000000001}
+{"id": "yotM-QjF-jY-t6746.36", "text": "other societies. If we look at the First Nations and therefore it against the Dakota Access Pipeline", "start": 6746.36, "end": 6753.96}
+{"id": "yotM-QjF-jY-t6753.96", "text": "and having another view of the world, which is not post-enlightenment, but is much more", "start": 6753.96, "end": 6759.639999999999}
+{"id": "yotM-QjF-jY-t6759.639999999999", "text": "humane and is considerate of its fellow human beings and of the principle that we don't inherit", "start": 6759.639999999999, "end": 6767.08}
+{"id": "yotM-QjF-jY-t6767.08", "text": "society, our earth, sorry, from our elders, but that we borrow it from our children. So maybe,", "start": 6767.08, "end": 6775.32}
+{"id": "yotM-QjF-jY-t6775.32", "text": "you know, white man's post-enlightenment isn't so enlightened.", "start": 6775.32, "end": 6781.5599999999995}
+{"id": "yotM-QjF-jY-t6783.24", "text": "Well, speaking as one of the white men here, I don't want it. The panel is...", "start": 6783.24, "end": 6788.92}
+{"id": "yotM-QjF-jY-t6788.92", "text": "Is it the area where we discussed white-enlightenment?", "start": 6788.92, "end": 6790.679999999999}
+{"id": "yotM-QjF-jY-t6792.5199999999995", "text": "Last question.", "start": 6792.5199999999995, "end": 6793.16}
+{"id": "yotM-QjF-jY-t6794.36", "text": "I probably should have brought this up when mental structures were mentioned,", "start": 6794.36, "end": 6798.12}
+{"id": "yotM-QjF-jY-t6799.0", "text": "being from the arts and humanities, there is a big crisis in the arts and humanities because", "start": 6799.0, "end": 6804.599999999999}
+{"id": "yotM-QjF-jY-t6804.6", "text": "of the increase of knowledge and the changing of mental structures. And this has a tremendous", "start": 6804.6, "end": 6810.280000000001}
+{"id": "yotM-QjF-jY-t6810.280000000001", "text": "effect on the nature of art and the nature of literature and the nature of humanities.", "start": 6810.280000000001, "end": 6814.92}
+{"id": "yotM-QjF-jY-t6814.92", "text": "There are a few artists now who are trying something called Gesam Kunzwerk, which is an old term,", "start": 6814.92, "end": 6820.200000000001}
+{"id": "yotM-QjF-jY-t6820.200000000001", "text": "about trying to unite science and all the disciplines in an art form. And it has its advantages,", "start": 6820.200000000001, "end": 6825.72}
+{"id": "yotM-QjF-jY-t6825.72", "text": "but only a very few can really unite all the complexity of science and the humanities.", "start": 6825.72, "end": 6831.4800000000005}
+{"id": "yotM-QjF-jY-t6831.48", "text": "And I think it's something to begin to think of. We can't quite go back to the same mental", "start": 6831.48, "end": 6836.2}
+{"id": "yotM-QjF-jY-t6836.2", "text": "structures in the works of art. Our world is too complex. At the same time, individualism is", "start": 6836.2, "end": 6842.04}
+{"id": "yotM-QjF-jY-t6842.04", "text": "extremely important and must never be forgotten because a work of art does come from a single", "start": 6842.04, "end": 6847.24}
+{"id": "yotM-QjF-jY-t6847.24", "text": "individual. So I just want to remind you, all of this complexity is very interesting. More of the", "start": 6847.24, "end": 6852.12}
+{"id": "yotM-QjF-jY-t6852.12", "text": "artists should be listening. At the same time, it doesn't mean that it's going to have a simple", "start": 6852.12, "end": 6856.759999999999}
+{"id": "yotM-QjF-jY-t6856.76", "text": "solution. And we are in a crisis now in terms of the nature and production of the arts.", "start": 6856.76, "end": 6862.4400000000005}
+{"id": "yotM-QjF-jY-t6862.44", "text": "Great comment. Thank you. All right. Thank you very much.", "start": 6862.44, "end": 6888.44}

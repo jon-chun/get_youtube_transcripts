@@ -1,0 +1,1320 @@
+{"id": "vS5PyZcuLUk-t0.0", "text": "you", "start": 0.0, "end": 2.06}
+{"id": "vS5PyZcuLUk-t30.0", "text": "you", "start": 30.0, "end": 32.06}
+{"id": "vS5PyZcuLUk-t60.0", "text": "do", "start": 60.0, "end": 83.3}
+{"id": "vS5PyZcuLUk-t83.3", "text": "Well, it being the noon hour here in New York City, I want to welcome everyone and wish", "start": 83.3, "end": 94.02}
+{"id": "vS5PyZcuLUk-t94.02", "text": "you a good morning, good afternoon or good evening depending on where you're viewing", "start": 94.02, "end": 99.34}
+{"id": "vS5PyZcuLUk-t99.34", "text": "the Zoom roundtable.", "start": 99.34, "end": 103.02}
+{"id": "vS5PyZcuLUk-t103.02", "text": "This is I think our third Helix Center roundtable for which we've relied on the Zoom format.", "start": 103.02, "end": 112.14}
+{"id": "vS5PyZcuLUk-t112.14", "text": "And of course that's due to the COVID pandemic.", "start": 112.14, "end": 116.02}
+{"id": "vS5PyZcuLUk-t116.02", "text": "We're trying to do the best we can to make the best of it.", "start": 116.02, "end": 118.14}
+{"id": "vS5PyZcuLUk-t118.14", "text": "I think so far these Zoom meetings have been quite lively and interesting.", "start": 118.14, "end": 123.34}
+{"id": "vS5PyZcuLUk-t123.34", "text": "So before I tell you about today's roundtable, I want to make just two very brief announcements", "start": 123.34, "end": 130.06}
+{"id": "vS5PyZcuLUk-t130.06", "text": "and those relate to our upcoming roundtables scheduled for March 20th.", "start": 130.06, "end": 137.34}
+{"id": "vS5PyZcuLUk-t137.34", "text": "We will have a roundtable on placebo and the placebo and no-cibo effects.", "start": 137.34, "end": 143.22}
+{"id": "vS5PyZcuLUk-t143.22", "text": "That should be very interesting.", "start": 143.22, "end": 144.98000000000002}
+{"id": "vS5PyZcuLUk-t144.98000000000002", "text": "And then either on April 17 or 24th to be determined, we're going to have a talk on stress.", "start": 144.98000000000002, "end": 154.54}
+{"id": "vS5PyZcuLUk-t154.54", "text": "And right now we're not stressing out about which data is exactly, but we should be able", "start": 154.54, "end": 160.66}
+{"id": "vS5PyZcuLUk-t160.66", "text": "to have that nailed down shortly.", "start": 160.66, "end": 163.3}
+{"id": "vS5PyZcuLUk-t163.3", "text": "Today we have a really wonderful panel of discussions convened to discuss this topic", "start": 163.3, "end": 169.58}
+{"id": "vS5PyZcuLUk-t169.58", "text": "of populism.", "start": 169.58, "end": 172.22}
+{"id": "vS5PyZcuLUk-t172.22", "text": "And before I get things underway, I want to just say a word, a brief word about each", "start": 172.22, "end": 178.62}
+{"id": "vS5PyZcuLUk-t178.62", "text": "of our discussions and in the interest of equity, I'm going to do this in alphabetical", "start": 178.62, "end": 186.14000000000001}
+{"id": "vS5PyZcuLUk-t186.14000000000001", "text": "order.", "start": 186.14000000000001, "end": 188.74}
+{"id": "vS5PyZcuLUk-t188.74", "text": "Jeffrey Alexander is the Lillian Shavinson, Sade and Professor of Sociology at Yale University,", "start": 188.74, "end": 195.74}
+{"id": "vS5PyZcuLUk-t195.74", "text": "founder and co-director of Yale's Center for Cultural Sociology and co-editor of the", "start": 195.74, "end": 201.46}
+{"id": "vS5PyZcuLUk-t201.46", "text": "American Journal of Cultural Sociology.", "start": 201.46, "end": 205.46}
+{"id": "vS5PyZcuLUk-t205.46", "text": "A social theorist whose early work challenged the anti-cultural reductionism of classical", "start": 205.46, "end": 210.62}
+{"id": "vS5PyZcuLUk-t210.62", "text": "and modern sociology, Alexander has worked with generations of students and colleagues", "start": 210.62, "end": 215.9}
+{"id": "vS5PyZcuLUk-t215.9", "text": "to create a quote strong program unquote in cultural sociology.", "start": 215.9, "end": 223.98000000000002}
+{"id": "vS5PyZcuLUk-t223.98000000000002", "text": "Alexander has also developed the civil sphere theory, a macro sociological model of democracy", "start": 223.98000000000002, "end": 231.66}
+{"id": "vS5PyZcuLUk-t231.66", "text": "and the forces that can undermine it.", "start": 231.66, "end": 233.9}
+{"id": "vS5PyZcuLUk-t233.9", "text": "He is currently organizing a series of conferences and edited a book project, The Civil", "start": 233.9, "end": 238.3}
+{"id": "vS5PyZcuLUk-t238.3", "text": "Sphere in Latin America, The Civil Sphere in East Asia, bridging the civil order radicalism", "start": 238.3, "end": 246.46}
+{"id": "vS5PyZcuLUk-t246.46", "text": "and civil sphere.", "start": 246.46, "end": 249.86}
+{"id": "vS5PyZcuLUk-t249.86", "text": "Don J. Jaganathan is a philosophy professor and also classical studies professor at Columbia", "start": 249.86, "end": 257.62}
+{"id": "vS5PyZcuLUk-t257.62", "text": "University, his academic research centers on Aristotle's ethics and political philosophy", "start": 257.62, "end": 263.18}
+{"id": "vS5PyZcuLUk-t263.18", "text": "and contemporary virtue ethics.", "start": 263.18, "end": 265.86}
+{"id": "vS5PyZcuLUk-t265.86", "text": "He's also written about issues at the intersection of philosophy and literature, including on", "start": 265.86, "end": 270.42}
+{"id": "vS5PyZcuLUk-t270.42", "text": "tragedy and the novel.", "start": 270.42, "end": 272.58000000000004}
+{"id": "vS5PyZcuLUk-t272.58000000000004", "text": "At present he is completing a book manuscript entitled Aristotle's Practical Epistemology,", "start": 272.58000000000004, "end": 278.90000000000003}
+{"id": "vS5PyZcuLUk-t278.90000000000003", "text": "which seeks to situate Aristotle's theory of practical wisdom within his views of knowledge", "start": 278.90000000000003, "end": 283.46000000000004}
+{"id": "vS5PyZcuLUk-t283.46000000000004", "text": "and understanding and thereby to explain why Aristotle thinks of practical wisdom as an", "start": 283.46000000000004, "end": 288.82}
+{"id": "vS5PyZcuLUk-t288.82", "text": "extraordinary achievement as equivalent to political wisdom.", "start": 288.82, "end": 294.22}
+{"id": "vS5PyZcuLUk-t294.22", "text": "Thakas Pappas has a PhD from Yale in political science.", "start": 294.22, "end": 300.18}
+{"id": "vS5PyZcuLUk-t300.18", "text": "He's a Greek author and researcher currently associated with the University of Helsinki", "start": 300.18, "end": 305.06}
+{"id": "vS5PyZcuLUk-t305.06", "text": "in Finland.", "start": 305.06, "end": 306.98}
+{"id": "vS5PyZcuLUk-t306.98", "text": "Formerly a professor of comparative politics at the University of Thessalonica in Greece", "start": 306.98, "end": 311.46000000000004}
+{"id": "vS5PyZcuLUk-t311.46000000000004", "text": "is also held teaching and research appointments at the universities of Strasbourg, Oslo,", "start": 311.46000000000004, "end": 317.78000000000003}
+{"id": "vS5PyZcuLUk-t317.78", "text": "Freiburg, Luxembourg, Central Europe University, and Budapest, European University in Florence,", "start": 317.78, "end": 324.26}
+{"id": "vS5PyZcuLUk-t324.26", "text": "Yale, and Princeton.", "start": 324.26, "end": 326.02}
+{"id": "vS5PyZcuLUk-t326.02", "text": "Among his books are Making Democracy in Greece, The Charismatic Party, and Populism and Crisis", "start": 326.02, "end": 336.85999999999996}
+{"id": "vS5PyZcuLUk-t336.85999999999996", "text": "Politics in Greece.", "start": 336.85999999999996, "end": 339.65999999999997}
+{"id": "vS5PyZcuLUk-t339.65999999999997", "text": "And lastly, Harry L. Watson is an Atlanta distinguished professor in Southern culture", "start": 339.65999999999997, "end": 346.5}
+{"id": "vS5PyZcuLUk-t346.5", "text": "in the history department of the University of North Carolina at Chapel Hill.", "start": 346.5, "end": 350.78}
+{"id": "vS5PyZcuLUk-t350.78", "text": "A native of Greensboro, North Carolina, he received his bachelor degree from Brown University", "start": 350.78, "end": 355.42}
+{"id": "vS5PyZcuLUk-t355.42", "text": "and his doctorate from Northwestern before joining the UNC history department in 1976.", "start": 355.42, "end": 362.02}
+{"id": "vS5PyZcuLUk-t362.02", "text": "His teaching and research interests focus on American political history, the early American", "start": 362.02, "end": 366.98}
+{"id": "vS5PyZcuLUk-t366.98", "text": "Republic, and the Antebellum South.", "start": 366.98, "end": 370.14}
+{"id": "vS5PyZcuLUk-t370.14", "text": "He served as director of the UNC Center for the Study of American South from 1999 until", "start": 370.14, "end": 376.14}
+{"id": "vS5PyZcuLUk-t376.14", "text": "2012, and an editor of its journal, Southern Culture, from 1993 to 2019.", "start": 376.14, "end": 382.94}
+{"id": "vS5PyZcuLUk-t382.94", "text": "He is the author or editor of eight books, including Andrew Jackson versus Henry Clay,", "start": 382.94, "end": 388.26}
+{"id": "vS5PyZcuLUk-t388.26", "text": "Democracy in Development and Development in America, Liberty in Power, the Politics of", "start": 388.26, "end": 393.82}
+{"id": "vS5PyZcuLUk-t393.82", "text": "Jacksonian America, and Building the American Republic, A Narrative History to 1877.", "start": 393.82, "end": 402.26}
+{"id": "vS5PyZcuLUk-t402.26", "text": "Okay, that they're with, I'm going to open up our conversation by asking each of our", "start": 402.26, "end": 409.62}
+{"id": "vS5PyZcuLUk-t409.62", "text": "discussants to make some comments about how they define populism, and I want to make it", "start": 409.62, "end": 418.86}
+{"id": "vS5PyZcuLUk-t418.86", "text": "clear at the outset that I think everyone will agree that the term populism is not something", "start": 418.86, "end": 425.14}
+{"id": "vS5PyZcuLUk-t425.14", "text": "it has an exact and precise definition, but it's something that we all at some point seem", "start": 425.14, "end": 432.9}
+{"id": "vS5PyZcuLUk-t432.9", "text": "to be wrapping our minds around, and then especially recently with the developments in", "start": 432.9, "end": 439.41999999999996}
+{"id": "vS5PyZcuLUk-t439.41999999999996", "text": "our modern history, I think it's become a very hot topic.", "start": 439.41999999999996, "end": 443.78}
+{"id": "vS5PyZcuLUk-t443.78", "text": "So I throw it open.", "start": 443.78, "end": 447.02}
+{"id": "vS5PyZcuLUk-t447.02", "text": "Who wants to take a quick shot at just making a quick definition so we can get things underway?", "start": 447.02, "end": 457.26}
+{"id": "vS5PyZcuLUk-t457.26", "text": "Well I don't know if that's a student or any account, if I may, if everybody else is going", "start": 457.26, "end": 462.26}
+{"id": "vS5PyZcuLUk-t462.26", "text": "to be shy.", "start": 462.26, "end": 463.26}
+{"id": "vS5PyZcuLUk-t463.26", "text": "First of all, thank you very much for inviting me to participate.", "start": 463.26, "end": 466.78}
+{"id": "vS5PyZcuLUk-t466.78", "text": "I look forward to this as being very interesting.", "start": 466.78, "end": 470.09999999999997}
+{"id": "vS5PyZcuLUk-t470.1", "text": "It seems to me that you're very right to stress that populism is a fuzzy category, but it seems", "start": 470.1, "end": 478.1}
+{"id": "vS5PyZcuLUk-t478.1", "text": "to me, almost always to refer to a mass movement, usually a mass political movement but not", "start": 478.1, "end": 485.54}
+{"id": "vS5PyZcuLUk-t485.54", "text": "always, of a large group of people who define themselves as simply the people, usually not", "start": 485.54, "end": 494.62}
+{"id": "vS5PyZcuLUk-t494.62", "text": "subdivided further than that, they usually have agreements against elites who may feel", "start": 494.62, "end": 502.74}
+{"id": "vS5PyZcuLUk-t502.74", "text": "have deserved them and who are not too, who are there to serve the people but have not.", "start": 502.74, "end": 511.5}
+{"id": "vS5PyZcuLUk-t511.5", "text": "And the people are asked to replace, overthrow, displace these elites and govern more directly", "start": 511.5, "end": 520.7}
+{"id": "vS5PyZcuLUk-t520.7", "text": "themselves.", "start": 520.7, "end": 522.54}
+{"id": "vS5PyZcuLUk-t522.54", "text": "Sometimes the people also define themselves against a subordinate group and they regard", "start": 522.54, "end": 527.4599999999999}
+{"id": "vS5PyZcuLUk-t527.4599999999999", "text": "as also undeserving and who perhaps are allies of elites who are working from both ends,", "start": 527.4599999999999, "end": 537.8199999999999}
+{"id": "vS5PyZcuLUk-t537.8199999999999", "text": "as it were, against the people.", "start": 537.8199999999999, "end": 545.0999999999999}
+{"id": "vS5PyZcuLUk-t545.0999999999999", "text": "Yeah I think I can endorse quite a lot of that.", "start": 545.0999999999999, "end": 547.9}
+{"id": "vS5PyZcuLUk-t547.9", "text": "What I want to add is I think something that distinguishes a lot of populist movements is", "start": 547.9, "end": 553.62}
+{"id": "vS5PyZcuLUk-t553.62", "text": "that it's not just that they want to define a group of people as the people, but also", "start": 553.62, "end": 561.74}
+{"id": "vS5PyZcuLUk-t561.74", "text": "that the people are kind of repository for certain kinds of qualities that are underappreciated", "start": 561.74, "end": 568.66}
+{"id": "vS5PyZcuLUk-t568.66", "text": "by that elite that the people are defined in relation to.", "start": 568.66, "end": 572.3}
+{"id": "vS5PyZcuLUk-t572.3", "text": "So I think coming from a kind of classical perspective, populist movements, you might", "start": 572.3, "end": 578.4599999999999}
+{"id": "vS5PyZcuLUk-t578.4599999999999", "text": "say, appeal to the virtues that the masses possessed that are not commonly recognized", "start": 578.4599999999999, "end": 583.38}
+{"id": "vS5PyZcuLUk-t583.38", "text": "and that it's a reaction to a construal of the people as lacking those virtues and deserving", "start": 583.38, "end": 591.38}
+{"id": "vS5PyZcuLUk-t591.38", "text": "only secondary forms of political or social participation.", "start": 591.38, "end": 596.02}
+{"id": "vS5PyZcuLUk-t596.02", "text": "I can go with that.", "start": 596.02, "end": 600.42}
+{"id": "vS5PyZcuLUk-t600.42", "text": "Can we begin talking without?", "start": 600.42, "end": 608.54}
+{"id": "vS5PyZcuLUk-t608.54", "text": "Yeah.", "start": 608.54, "end": 610.02}
+{"id": "vS5PyZcuLUk-t610.02", "text": "So I will go next.", "start": 610.02, "end": 611.8199999999999}
+{"id": "vS5PyZcuLUk-t611.8199999999999", "text": "And I beg to differ here because I do not believe that optimism is a fuzzy category and", "start": 611.8199999999999, "end": 617.78}
+{"id": "vS5PyZcuLUk-t617.78", "text": "I think that we can arrive at exactly the precise definitions of that.", "start": 617.78, "end": 625.14}
+{"id": "vS5PyZcuLUk-t625.14", "text": "But before that, let me take a different approach here.", "start": 625.14, "end": 628.9399999999999}
+{"id": "vS5PyZcuLUk-t628.94", "text": "My concern is when we talk about populism is why do we care about populism and why do", "start": 628.94, "end": 634.62}
+{"id": "vS5PyZcuLUk-t634.62", "text": "we care about it now?", "start": 634.62, "end": 636.34}
+{"id": "vS5PyZcuLUk-t636.34", "text": "And I think that there are, we're talking about modern populist here.", "start": 636.34, "end": 639.3800000000001}
+{"id": "vS5PyZcuLUk-t639.3800000000001", "text": "Of course, there have been populist phenomenon history from, you know, from the Greek demagogues,", "start": 639.3800000000001, "end": 644.1400000000001}
+{"id": "vS5PyZcuLUk-t644.1400000000001", "text": "for example, to the Romare public and all the way down to our own days, right?", "start": 644.1400000000001, "end": 649.7800000000001}
+{"id": "vS5PyZcuLUk-t649.7800000000001", "text": "But we're talking about modern populist now.", "start": 649.7800000000001, "end": 652.4200000000001}
+{"id": "vS5PyZcuLUk-t652.4200000000001", "text": "So what is very interesting about populism and about our concern about populist is that", "start": 652.4200000000001, "end": 658.62}
+{"id": "vS5PyZcuLUk-t658.62", "text": "first it is a novelty.", "start": 658.62, "end": 660.18}
+{"id": "vS5PyZcuLUk-t660.18", "text": "It is a new phenomenon that emerges in the aftermath of World War II in the liberal democracies", "start": 660.18, "end": 667.82}
+{"id": "vS5PyZcuLUk-t667.82", "text": "that developed after the end of World War II.", "start": 667.82, "end": 671.14}
+{"id": "vS5PyZcuLUk-t671.14", "text": "Secondly, it is a geographically diffused phenomenon.", "start": 671.14, "end": 674.22}
+{"id": "vS5PyZcuLUk-t674.22", "text": "We see that firstly in Latin America, then it comes into Europe in the late 70s and then", "start": 674.22, "end": 680.14}
+{"id": "vS5PyZcuLUk-t680.14", "text": "it expands to the United States.", "start": 680.14, "end": 682.18}
+{"id": "vS5PyZcuLUk-t682.18", "text": "Thirdly, it is a very ambivalent phenomenon.", "start": 682.18, "end": 685.78}
+{"id": "vS5PyZcuLUk-t685.78", "text": "We have left-wing populist and right-wing populist.", "start": 685.78, "end": 689.38}
+{"id": "vS5PyZcuLUk-t689.38", "text": "And sometimes they come together very nicely and neatly like it happened in my country", "start": 689.38, "end": 693.9}
+{"id": "vS5PyZcuLUk-t693.9", "text": "a few years ago.", "start": 693.9, "end": 695.42}
+{"id": "vS5PyZcuLUk-t695.42", "text": "And finally, the fourth factor that makes populist such an intriguing phenomenon is", "start": 695.42, "end": 701.02}
+{"id": "vS5PyZcuLUk-t701.02", "text": "that it has a strong impulse for autocracy.", "start": 701.02, "end": 704.26}
+{"id": "vS5PyZcuLUk-t704.26", "text": "Although populist leaders come into power by the ballot box, okay, it has a very, very", "start": 704.26, "end": 709.3399999999999}
+{"id": "vS5PyZcuLUk-t709.3399999999999", "text": "strong impulse for authoritarianist for autocracy.", "start": 709.3399999999999, "end": 712.54}
+{"id": "vS5PyZcuLUk-t712.54", "text": "We saw that in the United States quite recently.", "start": 712.54, "end": 715.22}
+{"id": "vS5PyZcuLUk-t715.22", "text": "Now, all of those four factors lead us to a very, very simple definition.", "start": 715.22, "end": 721.62}
+{"id": "vS5PyZcuLUk-t721.62", "text": "If we put them together and my definition has two words.", "start": 721.62, "end": 725.14}
+{"id": "vS5PyZcuLUk-t725.14", "text": "It is the most minimal definition you can get around.", "start": 725.14, "end": 727.9}
+{"id": "vS5PyZcuLUk-t727.9", "text": "There's nothing more minimal than that.", "start": 727.9, "end": 729.98}
+{"id": "vS5PyZcuLUk-t729.98", "text": "So I define populism in my work.", "start": 729.98, "end": 731.94}
+{"id": "vS5PyZcuLUk-t731.94", "text": "I've been here in this area for many, many years actually working on populist democracy.", "start": 731.94, "end": 737.74}
+{"id": "vS5PyZcuLUk-t737.74", "text": "So I define that as democratic liberalism.", "start": 737.74, "end": 740.02}
+{"id": "vS5PyZcuLUk-t740.02", "text": "So it is a system, it is a political party or a party.", "start": 740.02, "end": 742.46}
+{"id": "vS5PyZcuLUk-t742.46", "text": "So it's for a system or a leader if you like any kind of level of unit of analysis that", "start": 742.46, "end": 750.38}
+{"id": "vS5PyZcuLUk-t750.38", "text": "abides by the rules of democracy, but not by the rules of post-war liberal democracy.", "start": 750.38, "end": 757.5400000000001}
+{"id": "vS5PyZcuLUk-t757.5400000000001", "text": "It is a democratic, illiberal kind of rule.", "start": 757.5400000000001, "end": 763.0600000000001}
+{"id": "vS5PyZcuLUk-t763.0600000000001", "text": "And I will leave it here for the moment.", "start": 763.0600000000001, "end": 765.62}
+{"id": "vS5PyZcuLUk-t765.62", "text": "But illiberal democracy and illiberal democracy, a democracy that is not liberal.", "start": 765.62, "end": 773.62}
+{"id": "vS5PyZcuLUk-t773.62", "text": "By the way, this is the question used by Viktor Orban.", "start": 773.62, "end": 781.9}
+{"id": "vS5PyZcuLUk-t781.9", "text": "I think a lot of the people wouldn't agree with Orban's definition.", "start": 781.9, "end": 790.86}
+{"id": "vS5PyZcuLUk-t790.86", "text": "But I don't think there's anything to argue with any of these definitions.", "start": 790.86, "end": 798.98}
+{"id": "vS5PyZcuLUk-t798.98", "text": "And people who are listening to this podcast have to realize that this word is a fuzzy", "start": 798.98, "end": 805.14}
+{"id": "vS5PyZcuLUk-t805.14", "text": "concept.", "start": 805.14, "end": 806.38}
+{"id": "vS5PyZcuLUk-t806.38", "text": "And anybody who says that they have a precise definition is just taking a position in the", "start": 806.38, "end": 813.34}
+{"id": "vS5PyZcuLUk-t813.34", "text": "field of discussion.", "start": 813.34, "end": 816.14}
+{"id": "vS5PyZcuLUk-t816.14", "text": "And that definition will stand for certain other associated positions.", "start": 816.14, "end": 823.62}
+{"id": "vS5PyZcuLUk-t823.62", "text": "I would like to argue, I would like to add on to these, I don't have any disagreement", "start": 823.62, "end": 828.74}
+{"id": "vS5PyZcuLUk-t828.74", "text": "that with a few questions, one, populism isn't a post-war phenomenon that it goes back to.", "start": 828.74, "end": 837.58}
+{"id": "vS5PyZcuLUk-t837.58", "text": "Certainly, it's endemic to, in fact, it's endemic to a Republican idea of democracy.", "start": 837.58, "end": 846.02}
+{"id": "vS5PyZcuLUk-t846.02", "text": "It's a theme, it's a dimension, and it's a strain.", "start": 846.02, "end": 850.78}
+{"id": "vS5PyZcuLUk-t850.78", "text": "Why is it a strain?", "start": 850.78, "end": 852.5}
+{"id": "vS5PyZcuLUk-t852.5", "text": "Because a democracy, let's just call it, always has a reference to the people.", "start": 852.5, "end": 861.5799999999999}
+{"id": "vS5PyZcuLUk-t861.5799999999999", "text": "It always has a presupposition that there is a civil community regulated by law and that", "start": 861.5799999999999, "end": 869.74}
+{"id": "vS5PyZcuLUk-t869.74", "text": "the people vote and elect somebody.", "start": 869.74, "end": 874.9}
+{"id": "vS5PyZcuLUk-t874.9", "text": "So you're never going to have a democratic process, even if it's a relatively elitist", "start": 874.9, "end": 881.9}
+{"id": "vS5PyZcuLUk-t881.9", "text": "18th century process or something more incorporated like the one we have now, that doesn't have", "start": 881.9, "end": 888.86}
+{"id": "vS5PyZcuLUk-t888.86", "text": "continuous references to the people.", "start": 888.86, "end": 891.78}
+{"id": "vS5PyZcuLUk-t891.78", "text": "The people should rule.", "start": 891.78, "end": 893.02}
+{"id": "vS5PyZcuLUk-t893.02", "text": "This movement is on behalf of the people, et cetera.", "start": 893.02, "end": 896.06}
+{"id": "vS5PyZcuLUk-t896.06", "text": "Obama, who's not a populist, had populist dimensions, he talked constantly about the", "start": 896.06, "end": 904.14}
+{"id": "vS5PyZcuLUk-t904.14", "text": "people.", "start": 904.14, "end": 905.14}
+{"id": "vS5PyZcuLUk-t905.14", "text": "The other thing is I'd say that there's a continuum of populism, therefore, that moves", "start": 905.14, "end": 911.9}
+{"id": "vS5PyZcuLUk-t911.9", "text": "from within the institutions of democracy to beyond what I call radical populism, which", "start": 911.9, "end": 922.8199999999999}
+{"id": "vS5PyZcuLUk-t922.8199999999999", "text": "breaks then the institutions and results in one man or one woman rule on the left or the", "start": 922.8199999999999, "end": 933.18}
+{"id": "vS5PyZcuLUk-t933.18", "text": "right.", "start": 933.18, "end": 938.18}
+{"id": "vS5PyZcuLUk-t938.18", "text": "I certainly agree with the idea that there's a kind of endemic feature that, especially", "start": 938.18, "end": 944.9399999999999}
+{"id": "vS5PyZcuLUk-t944.9399999999999", "text": "in Republican politics, because lowercase-R Republican politics has this internal tension,", "start": 944.9399999999999, "end": 952.26}
+{"id": "vS5PyZcuLUk-t952.26", "text": "and you can see populism as one kind of way that that tension comes to the surface.", "start": 952.26, "end": 958.06}
+{"id": "vS5PyZcuLUk-t958.06", "text": "I think as one of the prompts for this panel, we got this quote from either Madison or Hamilton", "start": 958.06, "end": 964.3}
+{"id": "vS5PyZcuLUk-t964.3", "text": "from the Federalist Papers about how even if every opinion citizen had been a Socrates,", "start": 964.3, "end": 969.18}
+{"id": "vS5PyZcuLUk-t969.18", "text": "a group of them would still have been a mob.", "start": 969.18, "end": 971.54}
+{"id": "vS5PyZcuLUk-t971.54", "text": "This idea that when you, for Republican politics to work, you need a suitable number of people", "start": 971.54, "end": 976.5799999999999}
+{"id": "vS5PyZcuLUk-t976.5799999999999", "text": "who are fit to the task of governing, but who in governing represent, in some sense,", "start": 976.5799999999999, "end": 982.6199999999999}
+{"id": "vS5PyZcuLUk-t982.6199999999999", "text": "the will of the people and are accountable to them, but whom the people as a whole see", "start": 982.6199999999999, "end": 987.3399999999999}
+{"id": "vS5PyZcuLUk-t987.34", "text": "is better than that.", "start": 987.34, "end": 989.38}
+{"id": "vS5PyZcuLUk-t989.38", "text": "That particular intrinsically elite dimension of Republican forms of democracy is, I think,", "start": 989.38, "end": 996.0600000000001}
+{"id": "vS5PyZcuLUk-t996.0600000000001", "text": "unpopular in the 20th century and the 21st century.", "start": 996.0600000000001, "end": 1000.5}
+{"id": "vS5PyZcuLUk-t1000.5", "text": "It's no longer seen as appropriate to regard the political elite as superior in virtue", "start": 1000.5, "end": 1005.5}
+{"id": "vS5PyZcuLUk-t1005.5", "text": "or in decision making or anything like that.", "start": 1005.5, "end": 1009.6600000000001}
+{"id": "vS5PyZcuLUk-t1009.6600000000001", "text": "As a result, I think that explains why populist movements have emerged.", "start": 1009.6600000000001, "end": 1013.5}
+{"id": "vS5PyZcuLUk-t1013.5", "text": "It's the suspicion of a governing elite who are better at the job than the rest of us.", "start": 1013.5, "end": 1024.06}
+{"id": "vS5PyZcuLUk-t1024.06", "text": "We can see other circumstances in which these kinds of suspicions have broken forth in the", "start": 1024.06, "end": 1028.58}
+{"id": "vS5PyZcuLUk-t1028.58", "text": "past where elites have not done a good job of maintaining the illusion, let's say, at", "start": 1028.58, "end": 1034.22}
+{"id": "vS5PyZcuLUk-t1034.22", "text": "least of governing well or of representing the will of the people or remaining accountable", "start": 1034.22, "end": 1039.46}
+{"id": "vS5PyZcuLUk-t1039.46", "text": "to them.", "start": 1039.46, "end": 1040.46}
+{"id": "vS5PyZcuLUk-t1040.46", "text": "I do think it's intrinsic to Republican politics because it has this combination of a popular", "start": 1040.46, "end": 1046.18}
+{"id": "vS5PyZcuLUk-t1046.18", "text": "basis and the establishment of a governing class.", "start": 1046.18, "end": 1051.9}
+{"id": "vS5PyZcuLUk-t1051.9", "text": "I'd like to endorse that.", "start": 1051.9, "end": 1054.6200000000001}
+{"id": "vS5PyZcuLUk-t1054.6200000000001", "text": "I think that's very well put.", "start": 1054.6200000000001, "end": 1058.18}
+{"id": "vS5PyZcuLUk-t1058.18", "text": "My perspective as an American historian focuses my attention, I guess, so I'm less familiar", "start": 1058.18, "end": 1066.02}
+{"id": "vS5PyZcuLUk-t1066.02", "text": "with some of the other examples, but if we restrict populism to the post-World War II", "start": 1066.02, "end": 1074.78}
+{"id": "vS5PyZcuLUk-t1074.78", "text": "period, it leaves out the biggest episode in American history that's been labeled as", "start": 1074.78, "end": 1080.82}
+{"id": "vS5PyZcuLUk-t1080.82", "text": "populist ever since it happened.", "start": 1080.82, "end": 1083.18}
+{"id": "vS5PyZcuLUk-t1083.18", "text": "That was the uprising of the emergence of the so-called People's Party of the 1890s.", "start": 1083.18, "end": 1091.62}
+{"id": "vS5PyZcuLUk-t1091.62", "text": "I think going back, there have been several conspicuous occasions in American history", "start": 1091.62, "end": 1101.06}
+{"id": "vS5PyZcuLUk-t1101.06", "text": "again where movements have appeared that say the people have inherently more virtue than", "start": 1101.06, "end": 1111.58}
+{"id": "vS5PyZcuLUk-t1111.58", "text": "the elites.", "start": 1111.58, "end": 1113.26}
+{"id": "vS5PyZcuLUk-t1113.26", "text": "While it's true that virtue is essential to Republican government, we, the people, have", "start": 1113.26, "end": 1120.06}
+{"id": "vS5PyZcuLUk-t1120.06", "text": "more of it than those stuff shirts at the top and we demand that they be displaced and", "start": 1120.06, "end": 1127.06}
+{"id": "vS5PyZcuLUk-t1127.06", "text": "replaced by people who are more authentic representatives of our will.", "start": 1127.06, "end": 1133.06}
+{"id": "vS5PyZcuLUk-t1133.06", "text": "I think that was very much a characteristic of Andrew Jackson's political movement.", "start": 1133.06, "end": 1138.82}
+{"id": "vS5PyZcuLUk-t1138.82", "text": "I think they're going back into episodes like the Whiskey Rebellion or the North Carolina", "start": 1138.82, "end": 1146.58}
+{"id": "vS5PyZcuLUk-t1146.58", "text": "regulation even in colonial period at times, there have been mass movements with populist", "start": 1146.58, "end": 1152.3799999999999}
+{"id": "vS5PyZcuLUk-t1152.3799999999999", "text": "features like that.", "start": 1152.3799999999999, "end": 1155.06}
+{"id": "vS5PyZcuLUk-t1155.06", "text": "I think that's one of the benefits of calling it, of using a fuzzy definition because you", "start": 1155.06, "end": 1160.62}
+{"id": "vS5PyZcuLUk-t1160.62", "text": "can legitimately talk about a movement with populist features without getting utterly bogged", "start": 1160.62, "end": 1168.58}
+{"id": "vS5PyZcuLUk-t1168.58", "text": "down into whether it fits this box exactly or that one.", "start": 1168.58, "end": 1174.6599999999999}
+{"id": "vS5PyZcuLUk-t1174.66", "text": "Okay, let me try to link some dots here if I may.", "start": 1174.66, "end": 1180.26}
+{"id": "vS5PyZcuLUk-t1180.26", "text": "Do we care about populist mass historians?", "start": 1180.26, "end": 1183.26}
+{"id": "vS5PyZcuLUk-t1183.26", "text": "That would be fine, of course, and populist has been out there in history since Memorial", "start": 1183.26, "end": 1189.5800000000002}
+{"id": "vS5PyZcuLUk-t1189.5800000000002", "text": "Times.", "start": 1189.5800000000002, "end": 1190.5800000000002}
+{"id": "vS5PyZcuLUk-t1190.5800000000002", "text": "I mean, all societies have been divided between elites and the people, right?", "start": 1190.5800000000002, "end": 1193.98}
+{"id": "vS5PyZcuLUk-t1193.98", "text": "If you go back to the Roman Republic, for example, you can find the party that is called", "start": 1193.98, "end": 1198.22}
+{"id": "vS5PyZcuLUk-t1198.22", "text": "the Populares, that was the party that went against the Senate, against the optimatists,", "start": 1198.22, "end": 1205.26}
+{"id": "vS5PyZcuLUk-t1205.26", "text": "and the tribunes of the plebs like Tiberius Gr\u00e1k, who's, for example, his brother, Gaius", "start": 1205.26, "end": 1211.3}
+{"id": "vS5PyZcuLUk-t1211.3", "text": "Gr\u00e1k, who's were populist leaders.", "start": 1211.3, "end": 1213.58}
+{"id": "vS5PyZcuLUk-t1213.58", "text": "And this is why they were assassinated because they went against the Senate, against the elites", "start": 1213.58, "end": 1218.26}
+{"id": "vS5PyZcuLUk-t1218.26", "text": "of that time.", "start": 1218.26, "end": 1219.42}
+{"id": "vS5PyZcuLUk-t1219.42", "text": "And if you go all the way up to today, you find many, many populist movements.", "start": 1219.42, "end": 1223.26}
+{"id": "vS5PyZcuLUk-t1223.26", "text": "I mean, no one doubts about that, and when it comes to the United States, Michael Kazan", "start": 1223.26, "end": 1228.1}
+{"id": "vS5PyZcuLUk-t1228.1", "text": "has written a marvelous book about populist in the United States since the 19th century.", "start": 1228.1, "end": 1233.82}
+{"id": "vS5PyZcuLUk-t1233.82", "text": "But and of course, Jackson was a populist leader.", "start": 1233.82, "end": 1237.3799999999999}
+{"id": "vS5PyZcuLUk-t1237.3799999999999", "text": "I mean, he was divisive.", "start": 1237.3799999999999, "end": 1238.78}
+{"id": "vS5PyZcuLUk-t1238.78", "text": "He was the one who relied on the spoiling system.", "start": 1238.78, "end": 1241.74}
+{"id": "vS5PyZcuLUk-t1241.74", "text": "And those are phenomena that we see in contemporary populist galore, I mean, polarization, patron", "start": 1241.74, "end": 1248.5}
+{"id": "vS5PyZcuLUk-t1248.5", "text": "of politics, et cetera, but it's not the reason.", "start": 1248.5, "end": 1253.5}
+{"id": "vS5PyZcuLUk-t1253.5", "text": "I mean, we're not historians.", "start": 1253.5, "end": 1254.78}
+{"id": "vS5PyZcuLUk-t1254.78", "text": "I mean, we care about populist because-", "start": 1254.78, "end": 1257.06}
+{"id": "vS5PyZcuLUk-t1257.06", "text": "Wait a minute.", "start": 1257.06, "end": 1258.06}
+{"id": "vS5PyZcuLUk-t1258.06", "text": "I am.", "start": 1258.06, "end": 1259.06}
+{"id": "vS5PyZcuLUk-t1259.06", "text": "Yes, you are.", "start": 1259.06, "end": 1260.06}
+{"id": "vS5PyZcuLUk-t1260.06", "text": "You are.", "start": 1260.06, "end": 1261.06}
+{"id": "vS5PyZcuLUk-t1261.06", "text": "Yeah, yeah.", "start": 1261.06, "end": 1262.06}
+{"id": "vS5PyZcuLUk-t1262.06", "text": "I mean, I mean, yes.", "start": 1262.06, "end": 1263.06}
+{"id": "vS5PyZcuLUk-t1263.06", "text": "I mean, we the people, the ordinary people, okay, we are not historians like, you know,", "start": 1263.06, "end": 1270.86}
+{"id": "vS5PyZcuLUk-t1270.86", "text": "like you.", "start": 1270.86, "end": 1271.86}
+{"id": "vS5PyZcuLUk-t1271.86", "text": "Now, it affects our lives.", "start": 1271.86, "end": 1274.5}
+{"id": "vS5PyZcuLUk-t1274.5", "text": "I mean, this is why there is this booming thing about since 2016, actually, about populist,", "start": 1274.5, "end": 1283.54}
+{"id": "vS5PyZcuLUk-t1283.54", "text": "because populist and populist governments affect our lives.", "start": 1283.54, "end": 1287.7}
+{"id": "vS5PyZcuLUk-t1287.7", "text": "And this stands on two puzzles.", "start": 1287.7, "end": 1290.86}
+{"id": "vS5PyZcuLUk-t1290.86", "text": "This presents us with two puzzles.", "start": 1290.86, "end": 1292.82}
+{"id": "vS5PyZcuLUk-t1292.82", "text": "First, how can that populist emerges in recent times in our liberal democracies?", "start": 1292.82, "end": 1300.26}
+{"id": "vS5PyZcuLUk-t1300.26", "text": "We used to live in liberal democracies.", "start": 1300.26, "end": 1302.18}
+{"id": "vS5PyZcuLUk-t1302.18", "text": "Now, something is happening here.", "start": 1302.18, "end": 1304.1}
+{"id": "vS5PyZcuLUk-t1304.1", "text": "We see one of those guys who are not liberal, pull, do, period.", "start": 1304.1, "end": 1309.98}
+{"id": "vS5PyZcuLUk-t1309.98", "text": "What do we do with that?", "start": 1309.98, "end": 1311.2199999999998}
+{"id": "vS5PyZcuLUk-t1311.2199999999998", "text": "How can we deal with that?", "start": 1311.2199999999998, "end": 1312.62}
+{"id": "vS5PyZcuLUk-t1312.62", "text": "And secondly, what would populism, if successful as it sometimes is, how does it do to liberal", "start": 1312.62, "end": 1320.4599999999998}
+{"id": "vS5PyZcuLUk-t1320.4599999999998", "text": "democracies?", "start": 1320.4599999999998, "end": 1321.4599999999998}
+{"id": "vS5PyZcuLUk-t1321.4599999999998", "text": "How can people like Chavez or Bond, Trump, et cetera, how, what can they do to our lives", "start": 1321.4599999999998, "end": 1331.2199999999998}
+{"id": "vS5PyZcuLUk-t1331.2199999999998", "text": "for liberal democracies?", "start": 1331.2199999999998, "end": 1333.9399999999998}
+{"id": "vS5PyZcuLUk-t1333.94", "text": "So this is why I focus on the modern times, because I'm not a historian, first of all.", "start": 1333.94, "end": 1339.9}
+{"id": "vS5PyZcuLUk-t1339.9", "text": "And secondly, because I care about the future, my future and my children's future.", "start": 1339.9, "end": 1348.06}
+{"id": "vS5PyZcuLUk-t1348.06", "text": "I want, can I respond to that?", "start": 1348.06, "end": 1350.06}
+{"id": "vS5PyZcuLUk-t1350.06", "text": "Yeah, I think, you know, one of the things that a historical perspective offers you is", "start": 1350.06, "end": 1354.7}
+{"id": "vS5PyZcuLUk-t1354.7", "text": "alternatives to liberal democracy.", "start": 1354.7, "end": 1356.54}
+{"id": "vS5PyZcuLUk-t1356.54", "text": "I mean, I think it depends a little bit on how optimistic or pessimistic you are about", "start": 1356.54, "end": 1361.1000000000001}
+{"id": "vS5PyZcuLUk-t1361.1", "text": "the liberal project in the post-World War II period.", "start": 1361.1, "end": 1364.3799999999999}
+{"id": "vS5PyZcuLUk-t1364.3799999999999", "text": "And if you feel that there are, you know, that the, for instance, the rise in economic", "start": 1364.3799999999999, "end": 1369.3}
+{"id": "vS5PyZcuLUk-t1369.3", "text": "inequality over the last 50 years is a, you know, it's a feature, not a bug of the liberal", "start": 1369.3, "end": 1375.02}
+{"id": "vS5PyZcuLUk-t1375.02", "text": "order.", "start": 1375.02, "end": 1376.9399999999998}
+{"id": "vS5PyZcuLUk-t1376.9399999999998", "text": "It's a consequence of concentration of certain kinds of power in the hands of some people.", "start": 1376.9399999999998, "end": 1381.2199999999998}
+{"id": "vS5PyZcuLUk-t1381.2199999999998", "text": "Then you might not be so optimistic about thinking, well, what we need to do is to get", "start": 1381.2199999999998, "end": 1384.1}
+{"id": "vS5PyZcuLUk-t1384.1", "text": "back to that.", "start": 1384.1, "end": 1385.1}
+{"id": "vS5PyZcuLUk-t1385.1", "text": "I'm very suspicious of Golden Age thinking whether it's looking back to the 17th century", "start": 1385.1, "end": 1389.8999999999999}
+{"id": "vS5PyZcuLUk-t1389.9", "text": "or looking back to the 1950s.", "start": 1389.9, "end": 1392.5800000000002}
+{"id": "vS5PyZcuLUk-t1392.5800000000002", "text": "And you know, if there are vulnerabilities in our form of life, our form of political", "start": 1392.5800000000002, "end": 1397.5800000000002}
+{"id": "vS5PyZcuLUk-t1397.5800000000002", "text": "life, then looking to some of the alternatives and thinking in historical terms can give", "start": 1397.5800000000002, "end": 1401.94}
+{"id": "vS5PyZcuLUk-t1401.94", "text": "you perspective.", "start": 1401.94, "end": 1403.98}
+{"id": "vS5PyZcuLUk-t1403.98", "text": "And I think this applies, you know, even when you're thinking sort of cross-constitutionally,", "start": 1403.98, "end": 1409.02}
+{"id": "vS5PyZcuLUk-t1409.02", "text": "I find it very illuminating to think about the groggy and their land reforms when I'm", "start": 1409.02, "end": 1412.94}
+{"id": "vS5PyZcuLUk-t1412.94", "text": "trying to understand what Narendra Modi is up to, you know, how he came to power on the", "start": 1412.94, "end": 1417.5800000000002}
+{"id": "vS5PyZcuLUk-t1417.58", "text": "back of the struggles of ordinary farmers in India and the kind of land reforms that", "start": 1417.58, "end": 1422.46}
+{"id": "vS5PyZcuLUk-t1422.46", "text": "he's put into place.", "start": 1422.46, "end": 1424.46}
+{"id": "vS5PyZcuLUk-t1424.46", "text": "Monty is not the tribe, you know, the blabs.", "start": 1424.46, "end": 1426.6599999999999}
+{"id": "vS5PyZcuLUk-t1426.6599999999999", "text": "Monty is the prime minister.", "start": 1426.6599999999999, "end": 1429.26}
+{"id": "vS5PyZcuLUk-t1429.26", "text": "So he's the senate.", "start": 1429.26, "end": 1430.26}
+{"id": "vS5PyZcuLUk-t1430.26", "text": "Yeah.", "start": 1430.26, "end": 1431.26}
+{"id": "vS5PyZcuLUk-t1431.26", "text": "It is here to draw the analogy.", "start": 1431.26, "end": 1433.26}
+{"id": "vS5PyZcuLUk-t1433.26", "text": "Go ahead, Jeff.", "start": 1433.26, "end": 1435.54}
+{"id": "vS5PyZcuLUk-t1435.54", "text": "I mean, I think that most of the populism that people are afraid of most but not all", "start": 1435.54, "end": 1446.1799999999998}
+{"id": "vS5PyZcuLUk-t1446.18", "text": "is populism of the extreme right today.", "start": 1446.18, "end": 1451.8200000000002}
+{"id": "vS5PyZcuLUk-t1451.8200000000002", "text": "There are some exceptions like Manuel Lope has Obrador in Mexico.", "start": 1451.8200000000002, "end": 1458.94}
+{"id": "vS5PyZcuLUk-t1458.94", "text": "But the fear, the ones that move to the right usually combine an anti-elitist movement on", "start": 1458.94, "end": 1465.8200000000002}
+{"id": "vS5PyZcuLUk-t1465.8200000000002", "text": "behalf of the people with a deep person with, well, that's part of populism on the left,", "start": 1465.8200000000002, "end": 1472.18}
+{"id": "vS5PyZcuLUk-t1472.18", "text": "extreme left.", "start": 1472.18, "end": 1473.46}
+{"id": "vS5PyZcuLUk-t1473.46", "text": "But also with bigotry and anti-Semitism, anti-Islamism, some kind of anti-civil discourse that targets", "start": 1473.46, "end": 1487.46}
+{"id": "vS5PyZcuLUk-t1487.46", "text": "not just an elite.", "start": 1487.46, "end": 1488.94}
+{"id": "vS5PyZcuLUk-t1488.94", "text": "I think one of you referred to that earlier, but another group as a tremendous danger.", "start": 1488.94, "end": 1495.74}
+{"id": "vS5PyZcuLUk-t1495.74", "text": "So that the country that they or the people that they want to set up are ethnically homogeneous", "start": 1495.74, "end": 1502.66}
+{"id": "vS5PyZcuLUk-t1502.66", "text": "group.", "start": 1502.66, "end": 1504.14}
+{"id": "vS5PyZcuLUk-t1504.14", "text": "The left populist is not as concerned usually with that, but thinks more in terms of the", "start": 1504.14, "end": 1511.0600000000002}
+{"id": "vS5PyZcuLUk-t1511.0600000000002", "text": "class so that there's a pure class that they will represent and they'll come to power.", "start": 1511.0600000000002, "end": 1517.74}
+{"id": "vS5PyZcuLUk-t1517.74", "text": "But they're also just at Sanders because they will then possibly well eliminate members of", "start": 1517.74, "end": 1524.3000000000002}
+{"id": "vS5PyZcuLUk-t1524.3000000000002", "text": "all the other classes that the people don't represent.", "start": 1524.3000000000002, "end": 1530.18}
+{"id": "vS5PyZcuLUk-t1530.18", "text": "I was interested in this reference to virtue because of course, virtue is also, I don't", "start": 1530.18, "end": 1538.38}
+{"id": "vS5PyZcuLUk-t1538.38", "text": "want to say, I don't want to keep repeating that it's a fuzzy category, but it's certainly", "start": 1538.38, "end": 1542.5}
+{"id": "vS5PyZcuLUk-t1542.5", "text": "not something easily defined or it can take it tomes to define virtue.", "start": 1542.5, "end": 1548.3400000000001}
+{"id": "vS5PyZcuLUk-t1548.3400000000001", "text": "And yet it seems to be an engine, the issue of virtue and who has it seems to be an engine", "start": 1548.3400000000001, "end": 1554.78}
+{"id": "vS5PyZcuLUk-t1554.78", "text": "driving these conflicts.", "start": 1554.78, "end": 1557.22}
+{"id": "vS5PyZcuLUk-t1557.22", "text": "And I think similarly, this is the idea of who are the elites because I think elitism", "start": 1557.22, "end": 1562.66}
+{"id": "vS5PyZcuLUk-t1562.66", "text": "also has been changing over time.", "start": 1562.66, "end": 1564.3}
+{"id": "vS5PyZcuLUk-t1564.3", "text": "What exactly, who are those people?", "start": 1564.3, "end": 1566.3}
+{"id": "vS5PyZcuLUk-t1566.3", "text": "Just a moment.", "start": 1566.3, "end": 1567.3}
+{"id": "vS5PyZcuLUk-t1567.3", "text": "Just a moment.", "start": 1567.3, "end": 1568.3}
+{"id": "vS5PyZcuLUk-t1568.3", "text": "I mean, populist comes into power quite often.", "start": 1568.3, "end": 1571.06}
+{"id": "vS5PyZcuLUk-t1571.06", "text": "I mean, it has happened in many, many places.", "start": 1571.06, "end": 1573.3}
+{"id": "vS5PyZcuLUk-t1573.3", "text": "Not only with left-wing populist like in Venezuela, for example, think about Soutes and Maduro.", "start": 1573.3, "end": 1580.1000000000001}
+{"id": "vS5PyZcuLUk-t1580.1000000000001", "text": "Think about my little country Greece.", "start": 1580.1000000000001, "end": 1582.18}
+{"id": "vS5PyZcuLUk-t1582.18", "text": "We have had our share of left-populism for many, many years under Papindreo and under", "start": 1582.18, "end": 1588.14}
+{"id": "vS5PyZcuLUk-t1588.14", "text": "Tupras more recently or under right-wing governments.", "start": 1588.14, "end": 1593.5800000000002}
+{"id": "vS5PyZcuLUk-t1593.5800000000002", "text": "Now what happens here is when they come into power, they become the elites.", "start": 1593.5800000000002, "end": 1598.46}
+{"id": "vS5PyZcuLUk-t1598.46", "text": "How do we deal with that?", "start": 1598.46, "end": 1600.0600000000002}
+{"id": "vS5PyZcuLUk-t1600.0600000000002", "text": "I mean, populists have been in power in several countries for many, many years.", "start": 1600.0600000000002, "end": 1604.46}
+{"id": "vS5PyZcuLUk-t1604.46", "text": "They are the elites.", "start": 1604.46, "end": 1606.54}
+{"id": "vS5PyZcuLUk-t1606.54", "text": "It is very simple or simplistic to say that those are against the elites because they", "start": 1606.54, "end": 1611.0600000000002}
+{"id": "vS5PyZcuLUk-t1611.06", "text": "do become elites.", "start": 1611.06, "end": 1613.8999999999999}
+{"id": "vS5PyZcuLUk-t1613.8999999999999", "text": "Think about Trump.", "start": 1613.8999999999999, "end": 1615.4199999999998}
+{"id": "vS5PyZcuLUk-t1615.4199999999998", "text": "Think about Orba.", "start": 1615.4199999999998, "end": 1616.4199999999998}
+{"id": "vS5PyZcuLUk-t1616.4199999999998", "text": "He has been in power since 2010, 11 years now.", "start": 1616.4199999999998, "end": 1620.22}
+{"id": "vS5PyZcuLUk-t1620.22", "text": "First, secondly, if I may, left-wing populist, right-wing populist, I alluded to that earlier,", "start": 1620.22, "end": 1630.62}
+{"id": "vS5PyZcuLUk-t1630.62", "text": "often come, they form a tandem and they rule together.", "start": 1630.62, "end": 1635.34}
+{"id": "vS5PyZcuLUk-t1635.34", "text": "This happened again in my country in 2015 until 2019 for four years, full years.", "start": 1635.34, "end": 1643.02}
+{"id": "vS5PyZcuLUk-t1643.02", "text": "A populist party, Syriza and a right-wing party, a stream right-wing party, a native party,", "start": 1643.02, "end": 1649.34}
+{"id": "vS5PyZcuLUk-t1649.34", "text": "independent Greeks, rule together.", "start": 1649.34, "end": 1650.8999999999999}
+{"id": "vS5PyZcuLUk-t1650.8999999999999", "text": "No problem there.", "start": 1650.8999999999999, "end": 1652.26}
+{"id": "vS5PyZcuLUk-t1652.26", "text": "Or think about Peronism in Argentina.", "start": 1652.26, "end": 1655.26}
+{"id": "vS5PyZcuLUk-t1655.26", "text": "Peron was a right-winger.", "start": 1655.26, "end": 1657.62}
+{"id": "vS5PyZcuLUk-t1657.62", "text": "And today, the Peronist party, the judicialist party, is a left-wing party under the Kirchner.", "start": 1657.62, "end": 1664.4199999999998}
+{"id": "vS5PyZcuLUk-t1664.42", "text": "So, it is not that simple.", "start": 1664.42, "end": 1672.8600000000001}
+{"id": "vS5PyZcuLUk-t1672.8600000000001", "text": "So you're making it simple by arguing that left and right are the same.", "start": 1672.8600000000001, "end": 1678.94}
+{"id": "vS5PyZcuLUk-t1678.94", "text": "This is a common argument of people who attack populism, which is, well, there's no real", "start": 1678.94, "end": 1684.18}
+{"id": "vS5PyZcuLUk-t1684.18", "text": "difference between the left populism and the right.", "start": 1684.18, "end": 1687.02}
+{"id": "vS5PyZcuLUk-t1687.02", "text": "In fact, there's a great deal of difference.", "start": 1687.02, "end": 1689.22}
+{"id": "vS5PyZcuLUk-t1689.22", "text": "I mean, going back to what Donaje said, if there are vast structural inequalities in", "start": 1689.22, "end": 1696.98}
+{"id": "vS5PyZcuLUk-t1696.98", "text": "a country that has a democratic form of government, there have to be, and there should be, constant", "start": 1696.98, "end": 1705.8600000000001}
+{"id": "vS5PyZcuLUk-t1705.8600000000001", "text": "movements to overthrow the people who have privilege or to restructure the society.", "start": 1705.8600000000001, "end": 1713.5}
+{"id": "vS5PyZcuLUk-t1713.5", "text": "Now as long as you have democratic institutions, that's not going to end up in an anti-democratic", "start": 1713.5, "end": 1719.94}
+{"id": "vS5PyZcuLUk-t1719.94", "text": "form of power.", "start": 1719.94, "end": 1720.94}
+{"id": "vS5PyZcuLUk-t1720.94", "text": "It will be metabolized in various ways.", "start": 1720.94, "end": 1723.98}
+{"id": "vS5PyZcuLUk-t1723.98", "text": "But these populist threads, I think, throbbed through the history of all stratified societies", "start": 1723.98, "end": 1731.26}
+{"id": "vS5PyZcuLUk-t1731.26", "text": "that have democratic forms of government.", "start": 1731.26, "end": 1733.42}
+{"id": "vS5PyZcuLUk-t1733.42", "text": "I actually want to say something that might be surprising given what I said earlier,", "start": 1733.42, "end": 1738.74}
+{"id": "vS5PyZcuLUk-t1738.74", "text": "which is that I actually, you know, I think in our contemporary global context, I want", "start": 1738.74, "end": 1742.54}
+{"id": "vS5PyZcuLUk-t1742.54", "text": "to endorse what Taka said about the contrast between populism and liberalism, because I", "start": 1742.54, "end": 1748.06}
+{"id": "vS5PyZcuLUk-t1748.06", "text": "think that is the most illuminating pairing of phenomena.", "start": 1748.06, "end": 1753.62}
+{"id": "vS5PyZcuLUk-t1753.62", "text": "But I think, you know, one way in which the, I mean, there are left liberals and right", "start": 1753.62, "end": 1758.22}
+{"id": "vS5PyZcuLUk-t1758.22", "text": "liberals, and I think this helps us get some clarity on the differences in the origins", "start": 1758.22, "end": 1761.62}
+{"id": "vS5PyZcuLUk-t1761.62", "text": "of fluffing and right populism.", "start": 1761.62, "end": 1764.78}
+{"id": "vS5PyZcuLUk-t1764.78", "text": "And in particular, I think there are different kinds of elites or phenomena of elite capture", "start": 1764.78, "end": 1771.06}
+{"id": "vS5PyZcuLUk-t1771.06", "text": "that drive populist movements.", "start": 1771.06, "end": 1773.46}
+{"id": "vS5PyZcuLUk-t1773.46", "text": "And this might be one of the reasons there's overlap between the left and the right, because", "start": 1773.46, "end": 1777.3}
+{"id": "vS5PyZcuLUk-t1777.3", "text": "it's not all economic.", "start": 1777.3, "end": 1778.98}
+{"id": "vS5PyZcuLUk-t1778.98", "text": "If it were just about economic elites and a corresponding sort of class critique, then", "start": 1778.98, "end": 1783.78}
+{"id": "vS5PyZcuLUk-t1783.78", "text": "we would not expect left and right wing populism to overlap.", "start": 1783.78, "end": 1786.82}
+{"id": "vS5PyZcuLUk-t1786.82", "text": "But in addition to economic elites or phenomena of economic inequality, there's also, I think,", "start": 1786.82, "end": 1792.26}
+{"id": "vS5PyZcuLUk-t1792.26", "text": "political and cultural phenomenon.", "start": 1792.26, "end": 1794.3}
+{"id": "vS5PyZcuLUk-t1794.3", "text": "So I think this is especially true in the United States context where economic, political", "start": 1794.3, "end": 1799.62}
+{"id": "vS5PyZcuLUk-t1799.62", "text": "and cultural capital come apart in very visible ways.", "start": 1799.62, "end": 1802.86}
+{"id": "vS5PyZcuLUk-t1802.86", "text": "You can think about Wall Street, K Street and Hollywood.", "start": 1802.86, "end": 1805.82}
+{"id": "vS5PyZcuLUk-t1805.82", "text": "That's kind of the totemic, you know, things to pin this on.", "start": 1805.82, "end": 1810.82}
+{"id": "vS5PyZcuLUk-t1810.82", "text": "So you know, as has been documented extensively, especially in recent years, we have this phenomenon", "start": 1810.82, "end": 1815.86}
+{"id": "vS5PyZcuLUk-t1815.86", "text": "stagnation of wages and rising economic inequality in this country.", "start": 1815.86, "end": 1819.58}
+{"id": "vS5PyZcuLUk-t1819.58", "text": "But the government, I think related to that, but separate, conceptually separate from that", "start": 1819.58, "end": 1824.1799999999998}
+{"id": "vS5PyZcuLUk-t1824.1799999999998", "text": "is the fact that our government institutions are increasingly responsive to certain kinds", "start": 1824.1799999999998, "end": 1828.86}
+{"id": "vS5PyZcuLUk-t1828.86", "text": "of private interests.", "start": 1828.86, "end": 1831.06}
+{"id": "vS5PyZcuLUk-t1831.06", "text": "And people don't feel like they have the possibility of political accountability.", "start": 1831.06, "end": 1835.1}
+{"id": "vS5PyZcuLUk-t1835.1", "text": "And that's for a wide range of reasons, including our campaigns, our electoral system and our", "start": 1835.1, "end": 1839.78}
+{"id": "vS5PyZcuLUk-t1839.78", "text": "campaign finance system, lots of other reasons.", "start": 1839.78, "end": 1842.26}
+{"id": "vS5PyZcuLUk-t1842.26", "text": "Those are the things that I care about the most.", "start": 1842.26, "end": 1844.2199999999998}
+{"id": "vS5PyZcuLUk-t1844.2199999999998", "text": "But, and then there's a kind of phenomenon of cultural elitism, where, you know, I think", "start": 1844.2199999999998, "end": 1849.4199999999998}
+{"id": "vS5PyZcuLUk-t1849.4199999999998", "text": "we've lost a kind of mass culture that we have had in the past in various ways, which", "start": 1849.4199999999998, "end": 1855.5}
+{"id": "vS5PyZcuLUk-t1855.5", "text": "help to unite people across different kinds of social strata.", "start": 1855.5, "end": 1859.42}
+{"id": "vS5PyZcuLUk-t1859.42", "text": "And you know, there's a kind of, there's a sort of pluralism, a form of cultural pluralism", "start": 1859.42, "end": 1866.06}
+{"id": "vS5PyZcuLUk-t1866.06", "text": "that has taken hold in elite institutions, like universities, and many of us are affiliated", "start": 1866.06, "end": 1870.3}
+{"id": "vS5PyZcuLUk-t1870.3", "text": "with the media, certain other kinds of institutions, that I would call a pluralism without aspiration.", "start": 1870.3, "end": 1878.34}
+{"id": "vS5PyZcuLUk-t1878.34", "text": "It says that people are essentially different from each other, and we don't have any common", "start": 1878.34, "end": 1883.56}
+{"id": "vS5PyZcuLUk-t1883.56", "text": "values around which to unite, and you have to accept these essential differences and", "start": 1883.56, "end": 1887.8999999999999}
+{"id": "vS5PyZcuLUk-t1887.8999999999999", "text": "not try to make common cause with people across those differences.", "start": 1887.8999999999999, "end": 1894.1799999999998}
+{"id": "vS5PyZcuLUk-t1894.1799999999998", "text": "And I think that that particular cultural phenomenon has driven a kind of popular insurgency in", "start": 1894.1799999999998, "end": 1900.6599999999999}
+{"id": "vS5PyZcuLUk-t1900.6599999999999", "text": "the United States that crosses the left-right wing distinction.", "start": 1900.6599999999999, "end": 1904.26}
+{"id": "vS5PyZcuLUk-t1904.26", "text": "Whereas I think when it comes to the economic issues, and I think to some extent the political", "start": 1904.26, "end": 1908.3}
+{"id": "vS5PyZcuLUk-t1908.3", "text": "issues, that's been much more polarized.", "start": 1908.3, "end": 1910.6599999999999}
+{"id": "vS5PyZcuLUk-t1910.66", "text": "And I think those things stand much more behind the success of someone like Bernie Sanders", "start": 1910.66, "end": 1915.5400000000002}
+{"id": "vS5PyZcuLUk-t1915.5400000000002", "text": "and Democratic Party politics than it does explain the rise of Donald Trump.", "start": 1915.5400000000002, "end": 1920.8600000000001}
+{"id": "vS5PyZcuLUk-t1920.8600000000001", "text": "But famously it was documented that in the 2016 election, people who actually were at", "start": 1920.8600000000001, "end": 1926.66}
+{"id": "vS5PyZcuLUk-t1926.66", "text": "the bottom of the economic poll went for Clinton over Trump by some extent, which put the lie", "start": 1926.66, "end": 1931.8600000000001}
+{"id": "vS5PyZcuLUk-t1931.8600000000001", "text": "to the idea that this is an economic populism that was really driving the Trump phenomenon.", "start": 1931.8600000000001, "end": 1937.74}
+{"id": "vS5PyZcuLUk-t1937.74", "text": "So I think because of this sort of plurality of forms of elitism or elites and the ways", "start": 1937.74, "end": 1943.9}
+{"id": "vS5PyZcuLUk-t1943.9", "text": "of these come apart, I think you actually have overlapping populist energies that can", "start": 1943.9, "end": 1949.6200000000001}
+{"id": "vS5PyZcuLUk-t1949.6200000000001", "text": "get sucked into different forms of populism across the political spectrum.", "start": 1949.6200000000001, "end": 1958.42}
+{"id": "vS5PyZcuLUk-t1958.42", "text": "John Rawls had written in laws of people that liberal democracies had a sort of, I'd", "start": 1958.42, "end": 1966.54}
+{"id": "vS5PyZcuLUk-t1966.54", "text": "call it a homious static principle where liberal people educated in liberal democracies", "start": 1966.54, "end": 1975.18}
+{"id": "vS5PyZcuLUk-t1975.18", "text": "grew to value the democratic process so much so that they would not allow it to slip back", "start": 1975.18, "end": 1981.26}
+{"id": "vS5PyZcuLUk-t1981.26", "text": "into tyranny.", "start": 1981.26, "end": 1982.86}
+{"id": "vS5PyZcuLUk-t1982.86", "text": "And I think latter day developments and developments in history sort of put the lie to that approach", "start": 1982.86, "end": 1988.74}
+{"id": "vS5PyZcuLUk-t1988.74", "text": "and perhaps overly optimistic.", "start": 1988.74, "end": 1990.7}
+{"id": "vS5PyZcuLUk-t1990.7", "text": "Well, I think if you've got democratic forms that have created results that are profoundly", "start": 1990.7, "end": 2003.3}
+{"id": "vS5PyZcuLUk-t2003.3", "text": "alienating, disillusioning, engraving to those who define themselves as the people, then they", "start": 2003.3, "end": 2011.98}
+{"id": "vS5PyZcuLUk-t2011.98", "text": "may decide that those democratic forms are the source of their deprivation and may turn", "start": 2011.98, "end": 2020.66}
+{"id": "vS5PyZcuLUk-t2020.66", "text": "against those.", "start": 2020.66, "end": 2021.66}
+{"id": "vS5PyZcuLUk-t2021.66", "text": "So I think we all recognize that democracy is a lot more fragile than maybe Professor", "start": 2021.66, "end": 2029.3000000000002}
+{"id": "vS5PyZcuLUk-t2029.3000000000002", "text": "Rawls appreciated at the time he was writing it.", "start": 2029.3000000000002, "end": 2035.18}
+{"id": "vS5PyZcuLUk-t2035.18", "text": "I mean, I think that we have to realize that when we let talk us first, because I think", "start": 2035.18, "end": 2040.8200000000002}
+{"id": "vS5PyZcuLUk-t2040.8200000000002", "text": "his his feed delay kind of got him behind the behind the eight ball go ahead, talk us.", "start": 2040.8200000000002, "end": 2046.78}
+{"id": "vS5PyZcuLUk-t2046.78", "text": "No, I'm fine.", "start": 2046.78, "end": 2051.7799999999997}
+{"id": "vS5PyZcuLUk-t2051.7799999999997", "text": "I mean, let me see how how to how to how to work how populist works.", "start": 2051.7799999999997, "end": 2059.7799999999997}
+{"id": "vS5PyZcuLUk-t2059.7799999999997", "text": "So what we have in the beginning that's the situation of nature.", "start": 2059.7799999999997, "end": 2062.3}
+{"id": "vS5PyZcuLUk-t2062.3", "text": "We have a liberal democracy.", "start": 2062.3, "end": 2063.9}
+{"id": "vS5PyZcuLUk-t2063.9", "text": "What's a liberal democracy, right?", "start": 2063.9, "end": 2065.74}
+{"id": "vS5PyZcuLUk-t2065.74", "text": "A liberal democracy is a system that acknowledges that there are many divisions in society, class", "start": 2065.74, "end": 2070.82}
+{"id": "vS5PyZcuLUk-t2070.82", "text": "divisions, cultural divisions.", "start": 2070.82, "end": 2073.42}
+{"id": "vS5PyZcuLUk-t2073.42", "text": "So again, I'm trying to link the dots, but regional divisions, religious divisions, you", "start": 2073.42, "end": 2079.58}
+{"id": "vS5PyZcuLUk-t2079.58", "text": "name it, right?", "start": 2079.58, "end": 2080.58}
+{"id": "vS5PyZcuLUk-t2080.58", "text": "Now, Rawls comes and says, Hey, guys, let us play moderately.", "start": 2080.58, "end": 2088.02}
+{"id": "vS5PyZcuLUk-t2088.02", "text": "Let us know what he calls over overlapping consensus.", "start": 2088.02, "end": 2091.34}
+{"id": "vS5PyZcuLUk-t2091.34", "text": "He uses this phrase overlapping consensus.", "start": 2091.34, "end": 2094.26}
+{"id": "vS5PyZcuLUk-t2094.26", "text": "How do we do that by applying the rule of law and protecting the rights of minorities?", "start": 2094.26, "end": 2100.42}
+{"id": "vS5PyZcuLUk-t2100.42", "text": "Now this is liberal democracy.", "start": 2100.42, "end": 2102.2200000000003}
+{"id": "vS5PyZcuLUk-t2102.22", "text": "This is what we have.", "start": 2102.22, "end": 2103.7}
+{"id": "vS5PyZcuLUk-t2103.7", "text": "Now a guy comes.", "start": 2103.7, "end": 2105.66}
+{"id": "vS5PyZcuLUk-t2105.66", "text": "Okay.", "start": 2105.66, "end": 2107.14}
+{"id": "vS5PyZcuLUk-t2107.14", "text": "And he says, because it is always a he, by the way, but I don't want to get into that.", "start": 2107.14, "end": 2112.22}
+{"id": "vS5PyZcuLUk-t2112.22", "text": "He says, no, no, no, no, no, no, democracy.", "start": 2112.22, "end": 2114.62}
+{"id": "vS5PyZcuLUk-t2114.62", "text": "I mean, our societies are not divided by so many divisions.", "start": 2114.62, "end": 2117.5}
+{"id": "vS5PyZcuLUk-t2117.5", "text": "We have one one over our division, the people versus the elites.", "start": 2117.5, "end": 2121.54}
+{"id": "vS5PyZcuLUk-t2121.54", "text": "Therefore we cannot build bridges.", "start": 2121.54, "end": 2124.4599999999996}
+{"id": "vS5PyZcuLUk-t2124.4599999999996", "text": "There will be polarization.", "start": 2124.4599999999996, "end": 2126.18}
+{"id": "vS5PyZcuLUk-t2126.18", "text": "Forget it.", "start": 2126.18, "end": 2127.18}
+{"id": "vS5PyZcuLUk-t2127.18", "text": "Yes, adversity conflict.", "start": 2127.18, "end": 2129.1}
+{"id": "vS5PyZcuLUk-t2129.1", "text": "We have to fight against each other.", "start": 2129.1, "end": 2131.62}
+{"id": "vS5PyZcuLUk-t2131.62", "text": "Who's going to win?", "start": 2131.62, "end": 2133.22}
+{"id": "vS5PyZcuLUk-t2133.22", "text": "We?", "start": 2133.22, "end": 2134.22}
+{"id": "vS5PyZcuLUk-t2134.22", "text": "Why?", "start": 2134.22, "end": 2135.22}
+{"id": "vS5PyZcuLUk-t2135.22", "text": "Because we are the majority.", "start": 2135.22, "end": 2136.22}
+{"id": "vS5PyZcuLUk-t2136.22", "text": "We are the people.", "start": 2136.22, "end": 2137.22}
+{"id": "vS5PyZcuLUk-t2137.22", "text": "Okay.", "start": 2137.22, "end": 2138.22}
+{"id": "vS5PyZcuLUk-t2138.22", "text": "Forget rule of law, forget the protection of minority rights, et cetera, et cetera.", "start": 2138.22, "end": 2142.9}
+{"id": "vS5PyZcuLUk-t2142.9", "text": "And this is how you get wrong.", "start": 2142.9, "end": 2146.1}
+{"id": "vS5PyZcuLUk-t2146.1", "text": "And this is how I just said I disagree with that.", "start": 2146.1, "end": 2149.06}
+{"id": "vS5PyZcuLUk-t2149.06", "text": "Five million.", "start": 2149.06, "end": 2150.06}
+{"id": "vS5PyZcuLUk-t2150.06", "text": "Forters.", "start": 2150.06, "end": 2151.06}
+{"id": "vS5PyZcuLUk-t2151.06", "text": "You have to realize that we are social movements that have that communicate our society all", "start": 2151.06, "end": 2158.1}
+{"id": "vS5PyZcuLUk-t2158.1", "text": "the time.", "start": 2158.1, "end": 2159.1}
+{"id": "vS5PyZcuLUk-t2159.1", "text": "I mean, Rawls is describing an idealized.", "start": 2159.1, "end": 2164.8199999999997}
+{"id": "vS5PyZcuLUk-t2164.8199999999997", "text": "He's a political theorist.", "start": 2164.8199999999997, "end": 2166.2999999999997}
+{"id": "vS5PyZcuLUk-t2166.2999999999997", "text": "He's a normative political theorist.", "start": 2166.2999999999997, "end": 2168.5}
+{"id": "vS5PyZcuLUk-t2168.5", "text": "He's not a sociologist.", "start": 2168.5, "end": 2169.7799999999997}
+{"id": "vS5PyZcuLUk-t2169.7799999999997", "text": "You can't wear political empirical social scientists.", "start": 2169.7799999999997, "end": 2173.46}
+{"id": "vS5PyZcuLUk-t2173.46", "text": "You can't convert Rawls's idea into a empirical description of how democracy actually works", "start": 2173.46, "end": 2184.38}
+{"id": "vS5PyZcuLUk-t2184.38", "text": "in an actual society.", "start": 2184.38, "end": 2189.06}
+{"id": "vS5PyZcuLUk-t2189.06", "text": "So you can't criticize an actually existing society from the point of view of Rawls and", "start": 2189.06, "end": 2194.42}
+{"id": "vS5PyZcuLUk-t2194.42", "text": "say it doesn't work right.", "start": 2194.42, "end": 2196.7799999999997}
+{"id": "vS5PyZcuLUk-t2196.7799999999997", "text": "No.", "start": 2196.7799999999997, "end": 2197.7799999999997}
+{"id": "vS5PyZcuLUk-t2197.7799999999997", "text": "It, in se we have to think about how does it work?", "start": 2197.7799999999997, "end": 2201.46}
+{"id": "vS5PyZcuLUk-t2201.46", "text": "And I think it's fascinating to me that despite the most radical right-wing challenge in American", "start": 2201.46, "end": 2209.46}
+{"id": "vS5PyZcuLUk-t2209.46", "text": "history, which was Trump, because he took the presidency, the structural difference", "start": 2209.46, "end": 2219.02}
+{"id": "vS5PyZcuLUk-t2219.02", "text": "in the administration of the United States, the set of office obligations of many office", "start": 2219.02, "end": 2224.34}
+{"id": "vS5PyZcuLUk-t2224.34", "text": "holders, the legal order, other civil associations, and the institution of journalism as a profession,", "start": 2224.34, "end": 2233.74}
+{"id": "vS5PyZcuLUk-t2233.74", "text": "it contained this very dangerous populist movement.", "start": 2233.74, "end": 2239.54}
+{"id": "vS5PyZcuLUk-t2239.54", "text": "And so we can't just broadly talk about populism taking over countries.", "start": 2239.54, "end": 2244.7}
+{"id": "vS5PyZcuLUk-t2244.7", "text": "We have to think of them as movements.", "start": 2244.7, "end": 2246.5}
+{"id": "vS5PyZcuLUk-t2246.5", "text": "And we need to think of institutions and other kinds of virtues.", "start": 2246.5, "end": 2253.86}
+{"id": "vS5PyZcuLUk-t2253.86", "text": "I think it's sort of a populism as a stress test, I think, is an interesting way of thinking", "start": 2253.86, "end": 2259.98}
+{"id": "vS5PyZcuLUk-t2259.98", "text": "about it.", "start": 2259.98, "end": 2260.98}
+{"id": "vS5PyZcuLUk-t2260.98", "text": "Insofar as it's not just individuals who are singled out as the bad elites, but actually", "start": 2260.98, "end": 2267.9}
+{"id": "vS5PyZcuLUk-t2267.9", "text": "institutions like the media, like universities, I mean, I would say the United States has", "start": 2267.9, "end": 2273.18}
+{"id": "vS5PyZcuLUk-t2273.18", "text": "passed a stress test a lot better than Hungary currently is, given the state of civil society", "start": 2273.18, "end": 2280.4199999999996}
+{"id": "vS5PyZcuLUk-t2280.4199999999996", "text": "institutions there.", "start": 2280.4199999999996, "end": 2282.66}
+{"id": "vS5PyZcuLUk-t2282.66", "text": "And that might have to do with the particular forms of decentralization of power that are", "start": 2282.66, "end": 2291.94}
+{"id": "vS5PyZcuLUk-t2291.94", "text": "possible.", "start": 2291.94, "end": 2292.94}
+{"id": "vS5PyZcuLUk-t2292.94", "text": "And power thought of very broadly, not just as political power, but also as economic,", "start": 2292.94, "end": 2297.14}
+{"id": "vS5PyZcuLUk-t2297.14", "text": "cultural power.", "start": 2297.14, "end": 2299.98}
+{"id": "vS5PyZcuLUk-t2299.98", "text": "How many people know each other in certain kinds of political circles?", "start": 2299.98, "end": 2303.26}
+{"id": "vS5PyZcuLUk-t2303.26", "text": "And can a political party take over a media apparatus or not?", "start": 2303.26, "end": 2307.62}
+{"id": "vS5PyZcuLUk-t2307.62", "text": "Those kinds of things depend on networks of affinity that are much harder to pull off", "start": 2307.62, "end": 2311.1}
+{"id": "vS5PyZcuLUk-t2311.1", "text": "in a country of 330 million people.", "start": 2311.1, "end": 2313.26}
+{"id": "vS5PyZcuLUk-t2313.26", "text": "Oh, no, I don't think that's exactly true.", "start": 2313.26, "end": 2316.9}
+{"id": "vS5PyZcuLUk-t2316.9", "text": "I mean, we have big countries like Brazil and Turkey.", "start": 2316.9, "end": 2323.1}
+{"id": "vS5PyZcuLUk-t2323.1", "text": "I think if you have a democracy for 200 years and you have a gradual institutionalization", "start": 2323.1, "end": 2329.22}
+{"id": "vS5PyZcuLUk-t2329.22", "text": "of professions, I mean, most of the weak, the illiberal democracies, including Greece,", "start": 2329.22, "end": 2337.9399999999996}
+{"id": "vS5PyZcuLUk-t2337.9399999999996", "text": "including Poland, including Hungary, including Brazil, are very recently established.", "start": 2337.9399999999996, "end": 2345.3399999999997}
+{"id": "vS5PyZcuLUk-t2345.3399999999997", "text": "They have very, very fragile.", "start": 2345.3399999999997, "end": 2347.7799999999997}
+{"id": "vS5PyZcuLUk-t2347.7799999999997", "text": "Look in the liberal democracy.", "start": 2347.7799999999997, "end": 2350.02}
+{"id": "vS5PyZcuLUk-t2350.02", "text": "No, it's not, but it has a very unstable democracy.", "start": 2350.02, "end": 2354.3399999999997}
+{"id": "vS5PyZcuLUk-t2354.3399999999997", "text": "It has had in the past your references to the right.", "start": 2354.3399999999997, "end": 2358.02}
+{"id": "vS5PyZcuLUk-t2358.02", "text": "I mean, it's a great democracy is very stable.", "start": 2358.02, "end": 2363.42}
+{"id": "vS5PyZcuLUk-t2363.42", "text": "I'm sorry.", "start": 2363.42, "end": 2364.42}
+{"id": "vS5PyZcuLUk-t2364.42", "text": "I mean, we didn't say now.", "start": 2364.42, "end": 2366.42}
+{"id": "vS5PyZcuLUk-t2366.42", "text": "I didn't say now.", "start": 2366.42, "end": 2367.42}
+{"id": "vS5PyZcuLUk-t2367.42", "text": "It is almost 50 years in the scheme of things.", "start": 2367.42, "end": 2371.2599999999998}
+{"id": "vS5PyZcuLUk-t2371.2599999999998", "text": "That's not very wrong.", "start": 2371.2599999999998, "end": 2374.14}
+{"id": "vS5PyZcuLUk-t2374.14", "text": "I'm sorry.", "start": 2374.14, "end": 2375.58}
+{"id": "vS5PyZcuLUk-t2375.58", "text": "I mean, I'm glad that that's fine.", "start": 2375.58, "end": 2378.14}
+{"id": "vS5PyZcuLUk-t2378.14", "text": "That's fine.", "start": 2378.14, "end": 2379.14}
+{"id": "vS5PyZcuLUk-t2379.14", "text": "No problem.", "start": 2379.14, "end": 2380.14}
+{"id": "vS5PyZcuLUk-t2380.14", "text": "No problem.", "start": 2380.14, "end": 2381.14}
+{"id": "vS5PyZcuLUk-t2381.14", "text": "I don't take that personally.", "start": 2381.14, "end": 2382.14}
+{"id": "vS5PyZcuLUk-t2382.14", "text": "Don't worry.", "start": 2382.14, "end": 2383.14}
+{"id": "vS5PyZcuLUk-t2383.14", "text": "But, you know, democracies, right.", "start": 2383.14, "end": 2389.94}
+{"id": "vS5PyZcuLUk-t2389.94", "text": "I mean, the thing is that when a populist party comes into power and this has happened", "start": 2389.94, "end": 2394.98}
+{"id": "vS5PyZcuLUk-t2394.98", "text": "in Greece, as I said earlier, I mean, I've lived through this.", "start": 2394.98, "end": 2398.8199999999997}
+{"id": "vS5PyZcuLUk-t2398.8199999999997", "text": "I mean, this is the story of my life as a matter of fact.", "start": 2398.8199999999997, "end": 2402.2599999999998}
+{"id": "vS5PyZcuLUk-t2402.2599999999998", "text": "They stop the weakening situations and then another populist may come down the road and", "start": 2402.2599999999998, "end": 2409.46}
+{"id": "vS5PyZcuLUk-t2409.46", "text": "then another one and then you do not know what will happen to your democracy.", "start": 2409.46, "end": 2414.66}
+{"id": "vS5PyZcuLUk-t2414.66", "text": "And this is what happened in the Republican room, by the way, after Tiberius Gracus, we", "start": 2414.66, "end": 2420.1}
+{"id": "vS5PyZcuLUk-t2420.1", "text": "mentioned earlier that 60 years down the road, another guy came that's in a gun called", "start": 2420.1, "end": 2425.94}
+{"id": "vS5PyZcuLUk-t2425.94", "text": "Marius and another one called Silla and then Bruce's and then the Republic was gone.", "start": 2425.94, "end": 2433.02}
+{"id": "vS5PyZcuLUk-t2433.02", "text": "This is what we get.", "start": 2433.02, "end": 2435.06}
+{"id": "vS5PyZcuLUk-t2435.06", "text": "I mean, I cannot see how Hungary, for example, Poland can go back to even weak liberalism.", "start": 2435.06, "end": 2442.1}
+{"id": "vS5PyZcuLUk-t2442.1", "text": "Yes, those are weak liberal democracies, but liberal have been in the past.", "start": 2442.1, "end": 2450.02}
+{"id": "vS5PyZcuLUk-t2450.02", "text": "This is what I'm saying.", "start": 2450.02, "end": 2451.2599999999998}
+{"id": "vS5PyZcuLUk-t2451.2599999999998", "text": "And Greece might go down that same road again.", "start": 2451.2599999999998, "end": 2456.2599999999998}
+{"id": "vS5PyZcuLUk-t2456.2599999999998", "text": "I know what you mean.", "start": 2456.2599999999998, "end": 2457.2599999999998}
+{"id": "vS5PyZcuLUk-t2457.2599999999998", "text": "I mean, I didn't mean to disagree with you, but democracy has been stable in Greece for", "start": 2457.2599999999998, "end": 2462.7}
+{"id": "vS5PyZcuLUk-t2462.7", "text": "a number of years, but the institutions are not that strong.", "start": 2462.7, "end": 2465.74}
+{"id": "vS5PyZcuLUk-t2465.74", "text": "Yes, I know what you mean.", "start": 2465.74, "end": 2466.8199999999997}
+{"id": "vS5PyZcuLUk-t2466.8199999999997", "text": "So I don't disagree with you at all.", "start": 2466.8199999999997, "end": 2469.54}
+{"id": "vS5PyZcuLUk-t2469.54", "text": "But it is exactly those feeble institutions that charismatic leader because there is", "start": 2469.54, "end": 2477.74}
+{"id": "vS5PyZcuLUk-t2477.74", "text": "charisma there and there is agency.", "start": 2477.74, "end": 2481.66}
+{"id": "vS5PyZcuLUk-t2481.66", "text": "They may win power over and over again and lead those democracies to some authoritarian", "start": 2481.66, "end": 2486.3799999999997}
+{"id": "vS5PyZcuLUk-t2486.3799999999997", "text": "direction.", "start": 2486.3799999999997, "end": 2487.3799999999997}
+{"id": "vS5PyZcuLUk-t2487.3799999999997", "text": "That is the fear.", "start": 2487.3799999999997, "end": 2489.3399999999997}
+{"id": "vS5PyZcuLUk-t2489.34", "text": "So this populism is a deep tendency in, I would say, all societies and it's counteracted by", "start": 2489.34, "end": 2499.1400000000003}
+{"id": "vS5PyZcuLUk-t2499.1400000000003", "text": "what?", "start": 2499.1400000000003, "end": 2500.3}
+{"id": "vS5PyZcuLUk-t2500.3", "text": "By deeply structured autonomous institutions committed to certain virtues that are run", "start": 2500.3, "end": 2508.86}
+{"id": "vS5PyZcuLUk-t2508.86", "text": "that are deeply professionalized by strong civic traditions.", "start": 2508.86, "end": 2515.06}
+{"id": "vS5PyZcuLUk-t2515.06", "text": "But that won't stop the populist impulse, right?", "start": 2515.06, "end": 2520.14}
+{"id": "vS5PyZcuLUk-t2520.14", "text": "And the populist impulse can be very productive if you have these institutions.", "start": 2520.14, "end": 2525.18}
+{"id": "vS5PyZcuLUk-t2525.18", "text": "It can lead to reforms like the working man's movement in the 19th century or socialism", "start": 2525.18, "end": 2532.18}
+{"id": "vS5PyZcuLUk-t2532.18", "text": "being transformed into social democracy and the big welfare state in Western Europe.", "start": 2532.18, "end": 2539.34}
+{"id": "vS5PyZcuLUk-t2539.34", "text": "And these are very positive developments, but then you can have something like the peasant", "start": 2539.34, "end": 2546.34}
+{"id": "vS5PyZcuLUk-t2546.34", "text": "movements in China and the workers and peasants movement in Russia that end up creating dictatorships", "start": 2546.34, "end": 2554.94}
+{"id": "vS5PyZcuLUk-t2554.94", "text": "that last for a long, long, long time.", "start": 2554.94, "end": 2559.2200000000003}
+{"id": "vS5PyZcuLUk-t2559.2200000000003", "text": "They don't have populism, right?", "start": 2559.2200000000003, "end": 2563.3}
+{"id": "vS5PyZcuLUk-t2563.3", "text": "They don't have populism.", "start": 2563.3, "end": 2568.94}
+{"id": "vS5PyZcuLUk-t2568.94", "text": "One point I want to make and I challenge here is that I do not know in the modern world", "start": 2568.94, "end": 2575.26}
+{"id": "vS5PyZcuLUk-t2575.26", "text": "again any case in which anywhere in the liberal world, meaning the Americas, Europe, Canada,", "start": 2575.26, "end": 2584.82}
+{"id": "vS5PyZcuLUk-t2584.82", "text": "Australia, etc., Japan, any case in which populism has had positive outcomes that populism has", "start": 2584.82, "end": 2593.14}
+{"id": "vS5PyZcuLUk-t2593.14", "text": "been positive after being in power.", "start": 2593.14, "end": 2597.94}
+{"id": "vS5PyZcuLUk-t2597.94", "text": "Olivia?", "start": 2597.94, "end": 2598.94}
+{"id": "vS5PyZcuLUk-t2598.94", "text": "Well, I honestly think that's one of the advantages of his talk with perspective because it gives", "start": 2598.94, "end": 2604.82}
+{"id": "vS5PyZcuLUk-t2604.82", "text": "you a lot more examples of populist movements that have been very beneficial.", "start": 2604.82, "end": 2613.82}
+{"id": "vS5PyZcuLUk-t2613.82", "text": "And I think the working men's party in the United States is a good example.", "start": 2613.82, "end": 2617.7000000000003}
+{"id": "vS5PyZcuLUk-t2617.7000000000003", "text": "I think the People's Party in the 1890s was a good example.", "start": 2617.7000000000003, "end": 2622.2200000000003}
+{"id": "vS5PyZcuLUk-t2622.22", "text": "I think we can all think of revolutionary movements that looked maybe pretty awful and close,", "start": 2622.22, "end": 2630.8199999999997}
+{"id": "vS5PyZcuLUk-t2630.8199999999997", "text": "but had beneficial results over a longer degree.", "start": 2630.8199999999997, "end": 2636.5}
+{"id": "vS5PyZcuLUk-t2636.5", "text": "So let me put in a plug for historical examples and a historical perspective because I think", "start": 2636.5, "end": 2646.3799999999997}
+{"id": "vS5PyZcuLUk-t2646.38", "text": "that gives us a much more complicated nuanced view of what the possibilities are.", "start": 2646.38, "end": 2654.58}
+{"id": "vS5PyZcuLUk-t2654.58", "text": "What would you be aware of?", "start": 2654.58, "end": 2656.78}
+{"id": "vS5PyZcuLUk-t2656.78", "text": "I think I focused on modern populations.", "start": 2656.78, "end": 2660.26}
+{"id": "vS5PyZcuLUk-t2660.26", "text": "Yeah.", "start": 2660.26, "end": 2661.26}
+{"id": "vS5PyZcuLUk-t2661.26", "text": "Would there be a way to distinguish?", "start": 2661.26, "end": 2664.26}
+{"id": "vS5PyZcuLUk-t2664.26", "text": "I know this is not likely, but good populist movements.", "start": 2664.26, "end": 2668.26}
+{"id": "vS5PyZcuLUk-t2668.26", "text": "What is that may be in a good populist movement that leads to reform versus one that seems", "start": 2668.26, "end": 2674.46}
+{"id": "vS5PyZcuLUk-t2674.46", "text": "to be what we use the words divisive, polarizing, et cetera?", "start": 2674.46, "end": 2678.86}
+{"id": "vS5PyZcuLUk-t2678.86", "text": "I don't think polarization is necessarily bad.", "start": 2678.86, "end": 2681.66}
+{"id": "vS5PyZcuLUk-t2681.66", "text": "I mean, right, I think-", "start": 2681.66, "end": 2684.06}
+{"id": "vS5PyZcuLUk-t2684.06", "text": "Polarization.", "start": 2684.06, "end": 2685.06}
+{"id": "vS5PyZcuLUk-t2685.06", "text": "The fracturing of civil society is bad.", "start": 2685.06, "end": 2687.82}
+{"id": "vS5PyZcuLUk-t2687.82", "text": "And maybe that's a characteristic effect of long-term polarization.", "start": 2687.82, "end": 2691.18}
+{"id": "vS5PyZcuLUk-t2691.18", "text": "But if we think about corruption as obviously one phenomenon we can identify, it's possible", "start": 2691.18, "end": 2698.46}
+{"id": "vS5PyZcuLUk-t2698.46", "text": "for a mass movement to demand more accountability from political actors and economic actors for", "start": 2698.46, "end": 2705.02}
+{"id": "vS5PyZcuLUk-t2705.02", "text": "that matter that reduces corruption.", "start": 2705.02, "end": 2706.46}
+{"id": "vS5PyZcuLUk-t2706.46", "text": "And that's something that's quite measurable.", "start": 2706.46, "end": 2710.14}
+{"id": "vS5PyZcuLUk-t2710.14", "text": "And I would say that that's one phenomenon.", "start": 2710.14, "end": 2713.98}
+{"id": "vS5PyZcuLUk-t2713.98", "text": "Another- The reason I brought up Bolivia is that inequality has gone down.", "start": 2713.98, "end": 2718.94}
+{"id": "vS5PyZcuLUk-t2718.94", "text": "And of course, there- Under Morales, who has obviously had authoritarian tendencies, which", "start": 2718.94, "end": 2726.1}
+{"id": "vS5PyZcuLUk-t2726.1", "text": "we should think are bad, to maintain power and to self-aggrandize in certain ways.", "start": 2726.1, "end": 2732.02}
+{"id": "vS5PyZcuLUk-t2732.02", "text": "But infrastructure spending is massively up.", "start": 2732.02, "end": 2736.2999999999997}
+{"id": "vS5PyZcuLUk-t2736.2999999999997", "text": "The welfare of people in rural poverty is massively up in Bolivia over that time frame.", "start": 2736.2999999999997, "end": 2741.66}
+{"id": "vS5PyZcuLUk-t2741.66", "text": "And you might think that's a happy accident of the resource extraction economy and market", "start": 2741.66, "end": 2748.1}
+{"id": "vS5PyZcuLUk-t2748.1", "text": "prices and so on.", "start": 2748.1, "end": 2749.1}
+{"id": "vS5PyZcuLUk-t2749.1", "text": "There's disagreement to be had.", "start": 2749.1, "end": 2750.66}
+{"id": "vS5PyZcuLUk-t2750.66", "text": "But one interpretation of those events is that that was a situation in which- This is", "start": 2750.66, "end": 2755.22}
+{"id": "vS5PyZcuLUk-t2755.22", "text": "especially a problem in petrostates or resource-dependent states that that money gets tied up in the", "start": 2755.22, "end": 2763.3399999999997}
+{"id": "vS5PyZcuLUk-t2763.3399999999997", "text": "hands of a handful of people and does not get used to bring people out of poverty.", "start": 2763.3399999999997, "end": 2769.14}
+{"id": "vS5PyZcuLUk-t2769.14", "text": "Of course, Norway is a petrostate too, and they seem to do a pretty good job of taking", "start": 2769.14, "end": 2772.9399999999996}
+{"id": "vS5PyZcuLUk-t2772.9399999999996", "text": "care of people there.", "start": 2772.9399999999996, "end": 2775.7799999999997}
+{"id": "vS5PyZcuLUk-t2775.7799999999997", "text": "And you can see how resource extraction can be to the benefit of a welfare state and to", "start": 2775.7799999999997, "end": 2780.74}
+{"id": "vS5PyZcuLUk-t2780.74", "text": "the welfare of the worst-off people.", "start": 2780.74, "end": 2784.74}
+{"id": "vS5PyZcuLUk-t2784.74", "text": "And I think there are different trajectories that a populist movement can take.", "start": 2784.74, "end": 2788.5}
+{"id": "vS5PyZcuLUk-t2788.5", "text": "And I think Venezuela versus Bolivia is an interesting contrast because of the relatively", "start": 2788.5, "end": 2792.1}
+{"id": "vS5PyZcuLUk-t2792.1", "text": "similar time frames.", "start": 2792.1, "end": 2793.2599999999998}
+{"id": "vS5PyZcuLUk-t2793.2599999999998", "text": "I mean, Bolivia is a very unusual movement of a very unusual example of left populism.", "start": 2793.2599999999998, "end": 2800.8199999999997}
+{"id": "vS5PyZcuLUk-t2800.8199999999997", "text": "Radical.", "start": 2800.8199999999997, "end": 2801.8199999999997}
+{"id": "vS5PyZcuLUk-t2801.8199999999997", "text": "I mean, radical left populism staying within the tracks barely of democracy and the recent", "start": 2801.8199999999997, "end": 2809.3399999999997}
+{"id": "vS5PyZcuLUk-t2809.34", "text": "elections, a great example of a populist being elected again after an interim liberal.", "start": 2809.34, "end": 2816.7000000000003}
+{"id": "vS5PyZcuLUk-t2816.7000000000003", "text": "But I mean, what I'd like to ask the panel, like, what about the surging of black people's", "start": 2816.7000000000003, "end": 2823.6600000000003}
+{"id": "vS5PyZcuLUk-t2823.6600000000003", "text": "movements in the United States from the 1960s?", "start": 2823.6600000000003, "end": 2827.34}
+{"id": "vS5PyZcuLUk-t2827.34", "text": "That's a social movement, and they call themselves the people acting on behalf of the people.", "start": 2827.34, "end": 2833.6200000000003}
+{"id": "vS5PyZcuLUk-t2833.6200000000003", "text": "I mean, they have charismatic leaders.", "start": 2833.6200000000003, "end": 2835.94}
+{"id": "vS5PyZcuLUk-t2835.94", "text": "How do you fit that in?", "start": 2835.94, "end": 2837.54}
+{"id": "vS5PyZcuLUk-t2837.54", "text": "I mean, there's this tendency to look at the issue as elites dominating or populism.", "start": 2837.54, "end": 2844.7799999999997}
+{"id": "vS5PyZcuLUk-t2844.7799999999997", "text": "But there's very positive social movements starting with the socialist or working people's", "start": 2844.7799999999997, "end": 2851.14}
+{"id": "vS5PyZcuLUk-t2851.14", "text": "movements in the 19th century that have...", "start": 2851.14, "end": 2854.42}
+{"id": "vS5PyZcuLUk-t2854.42", "text": "So what do you deal with the mass movement against racial oppression?", "start": 2854.42, "end": 2861.18}
+{"id": "vS5PyZcuLUk-t2861.18", "text": "And how do you classify that in these terms?", "start": 2861.18, "end": 2867.3399999999997}
+{"id": "vS5PyZcuLUk-t2867.3399999999997", "text": "Mass movements are part of, you know, they fit very well in the framework of a liberal", "start": 2867.3399999999997, "end": 2872.1}
+{"id": "vS5PyZcuLUk-t2872.1", "text": "democracy.", "start": 2872.1, "end": 2873.1}
+{"id": "vS5PyZcuLUk-t2873.1", "text": "I mean, those mass movements have two flurries.", "start": 2873.1, "end": 2875.7799999999997}
+{"id": "vS5PyZcuLUk-t2875.7799999999997", "text": "They may flurries.", "start": 2875.7799999999997, "end": 2876.7799999999997}
+{"id": "vS5PyZcuLUk-t2876.7799999999997", "text": "They may have their leaders as long and they may act and produce their results as long as", "start": 2876.7799999999997, "end": 2883.2999999999997}
+{"id": "vS5PyZcuLUk-t2883.2999999999997", "text": "they abide by the rules of liberal democracy by the institutions.", "start": 2883.2999999999997, "end": 2887.2999999999997}
+{"id": "vS5PyZcuLUk-t2887.3", "text": "There's nothing problematic about those movements.", "start": 2887.3, "end": 2891.7400000000002}
+{"id": "vS5PyZcuLUk-t2891.7400000000002", "text": "I mean, by the way, let me say that Bolivia, Bolivia is not a good example, because Bolivia", "start": 2891.7400000000002, "end": 2898.42}
+{"id": "vS5PyZcuLUk-t2898.42", "text": "is the only country in Latin America in which you have the majority of the population is", "start": 2898.42, "end": 2904.0600000000004}
+{"id": "vS5PyZcuLUk-t2904.0600000000004", "text": "in the US.", "start": 2904.0600000000004, "end": 2905.0600000000004}
+{"id": "vS5PyZcuLUk-t2905.0600000000004", "text": "So if you don't take the ratio issue, you cannot make sense of Bolivia, and you cannot compare", "start": 2905.0600000000004, "end": 2909.38}
+{"id": "vS5PyZcuLUk-t2909.38", "text": "Bolivia to any other country in Latin America and the world, actually, because...", "start": 2909.38, "end": 2914.6200000000003}
+{"id": "vS5PyZcuLUk-t2914.62", "text": "And this is what Morales was an individual, right?", "start": 2914.62, "end": 2918.8199999999997}
+{"id": "vS5PyZcuLUk-t2918.8199999999997", "text": "So here, we support of his people, essentially, and he became president of Bolivia, and then", "start": 2918.8199999999997, "end": 2925.58}
+{"id": "vS5PyZcuLUk-t2925.58", "text": "the end was not very happy.", "start": 2925.58, "end": 2927.94}
+{"id": "vS5PyZcuLUk-t2927.94", "text": "It was a very unhappy end, but that was...", "start": 2927.94, "end": 2930.8199999999997}
+{"id": "vS5PyZcuLUk-t2930.8199999999997", "text": "I mean, Bolivia is not comparable because of the racial composition of the country.", "start": 2930.8199999999997, "end": 2935.5}
+{"id": "vS5PyZcuLUk-t2935.5", "text": "So let us leave Bolivia out.", "start": 2935.5, "end": 2937.7799999999997}
+{"id": "vS5PyZcuLUk-t2937.7799999999997", "text": "It's a bad case.", "start": 2937.7799999999997, "end": 2939.62}
+{"id": "vS5PyZcuLUk-t2939.62", "text": "It sounds like it's a case that doesn't fit your priors, and that's why it's a bad case.", "start": 2939.62, "end": 2943.8599999999997}
+{"id": "vS5PyZcuLUk-t2943.86", "text": "I think it's a very interesting and illuminating...", "start": 2943.86, "end": 2944.86}
+{"id": "vS5PyZcuLUk-t2944.86", "text": "It doesn't fit in the others.", "start": 2944.86, "end": 2945.86}
+{"id": "vS5PyZcuLUk-t2945.86", "text": "But anyway, I want to respond to the question about...", "start": 2945.86, "end": 2947.86}
+{"id": "vS5PyZcuLUk-t2947.86", "text": "I think I examined...", "start": 2947.86, "end": 2948.86}
+{"id": "vS5PyZcuLUk-t2948.86", "text": "I mean, I think I answered by, you know, data.", "start": 2948.86, "end": 2953.86}
+{"id": "vS5PyZcuLUk-t2953.86", "text": "I mean, I'm giving you data, and there is something that distinguishes Bolivia, and this is race.", "start": 2953.86, "end": 2963.2200000000003}
+{"id": "vS5PyZcuLUk-t2963.2200000000003", "text": "Well, let me talk about race in America for a moment.", "start": 2963.2200000000003, "end": 2965.94}
+{"id": "vS5PyZcuLUk-t2965.94", "text": "So I think...", "start": 2965.94, "end": 2966.94}
+{"id": "vS5PyZcuLUk-t2966.94", "text": "I'm a compartment.", "start": 2966.94, "end": 2967.94}
+{"id": "vS5PyZcuLUk-t2967.94", "text": "I think the 1963 March on Washington is a fantastic example of what the civil rights", "start": 2967.94, "end": 2973.06}
+{"id": "vS5PyZcuLUk-t2973.06", "text": "movement accomplished and what it didn't.", "start": 2973.06, "end": 2974.82}
+{"id": "vS5PyZcuLUk-t2974.82", "text": "This is the March on Washington for jobs and freedom, and in the writing of American history,", "start": 2974.82, "end": 2980.06}
+{"id": "vS5PyZcuLUk-t2980.06", "text": "the jobs part has dropped out.", "start": 2980.06, "end": 2982.02}
+{"id": "vS5PyZcuLUk-t2982.02", "text": "The minimum wage that is being debated in our country now is roughly corresponds to", "start": 2982.02, "end": 2986.94}
+{"id": "vS5PyZcuLUk-t2986.94", "text": "the minimum wage that was one of the main demands of that march, a $2 minimum wage in", "start": 2986.94, "end": 2991.22}
+{"id": "vS5PyZcuLUk-t2991.22", "text": "1963, which works out to something like $15 or $16 I think today.", "start": 2991.22, "end": 2996.9}
+{"id": "vS5PyZcuLUk-t2996.9", "text": "And it didn't get passed.", "start": 2996.9, "end": 2998.54}
+{"id": "vS5PyZcuLUk-t2998.54", "text": "And in general, you know, people remember the... I have a dream and the content of the", "start": 2998.54, "end": 3002.7799999999997}
+{"id": "vS5PyZcuLUk-t3002.7799999999997", "text": "character and things like that.", "start": 3002.7799999999997, "end": 3004.5}
+{"id": "vS5PyZcuLUk-t3004.5", "text": "And that's been written into sort of American history, but not the economic demands.", "start": 3004.5, "end": 3010.5}
+{"id": "vS5PyZcuLUk-t3010.5", "text": "And I think the profound failures of the labor movement, both through internal fracturing", "start": 3010.5, "end": 3016.82}
+{"id": "vS5PyZcuLUk-t3016.82", "text": "and through external pressures and the failure of the kind of regulatory apparatus in the", "start": 3016.82, "end": 3020.82}
+{"id": "vS5PyZcuLUk-t3020.82", "text": "government side, that is one of the reasons for the continued massive gap in wealth between", "start": 3020.82, "end": 3025.74}
+{"id": "vS5PyZcuLUk-t3025.74", "text": "black Americans and other Americans.", "start": 3025.74, "end": 3027.82}
+{"id": "vS5PyZcuLUk-t3027.82", "text": "And one way of looking at that is that the civil rights movement was a beginning, obviously", "start": 3027.82, "end": 3032.98}
+{"id": "vS5PyZcuLUk-t3032.98", "text": "guaranteeing civil rights in legislation and constitutions is crucial.", "start": 3032.98, "end": 3038.38}
+{"id": "vS5PyZcuLUk-t3038.38", "text": "But it was seen as only one piece of a larger platform of changes to the material benefit", "start": 3038.38, "end": 3044.7400000000002}
+{"id": "vS5PyZcuLUk-t3044.7400000000002", "text": "of black people that have largely not been realized in the country.", "start": 3044.7400000000002, "end": 3048.98}
+{"id": "vS5PyZcuLUk-t3048.98", "text": "And I think from that perspective, that I think is a huge stain.", "start": 3048.98, "end": 3053.6200000000003}
+{"id": "vS5PyZcuLUk-t3053.62", "text": "And I think there will be... There's a continued opportunity on that front for multiracial", "start": 3053.62, "end": 3062.7799999999997}
+{"id": "vS5PyZcuLUk-t3062.7799999999997", "text": "coalitions of people within the labor movement and in other venues in America.", "start": 3062.7799999999997, "end": 3066.9}
+{"id": "vS5PyZcuLUk-t3066.9", "text": "And I think there will be a kind of resurgence of economic populism along those lines before", "start": 3066.9, "end": 3071.42}
+{"id": "vS5PyZcuLUk-t3071.42", "text": "too long because it looks like the basically center left and center right policies of the", "start": 3071.42, "end": 3076.38}
+{"id": "vS5PyZcuLUk-t3076.38", "text": "democratic and republican parties are not sufficient to address those kinds of problems.", "start": 3076.38, "end": 3080.58}
+{"id": "vS5PyZcuLUk-t3080.58", "text": "But what I was really asking is whether the black movements in the 20th century have...", "start": 3080.58, "end": 3087.2999999999997}
+{"id": "vS5PyZcuLUk-t3087.2999999999997", "text": "Don't they have many of the elements of populism, not whether they're incompatible with liberal", "start": 3087.2999999999997, "end": 3093.66}
+{"id": "vS5PyZcuLUk-t3093.66", "text": "democracy?", "start": 3093.66, "end": 3094.66}
+{"id": "vS5PyZcuLUk-t3094.66", "text": "No, no, I think they absolutely did.", "start": 3094.66, "end": 3096.7}
+{"id": "vS5PyZcuLUk-t3096.7", "text": "And I think their economic dimensions are underplayed.", "start": 3096.7, "end": 3099.02}
+{"id": "vS5PyZcuLUk-t3099.02", "text": "So that's what I was suggesting is that actually seeing them as a... Seeing that movement as", "start": 3099.02, "end": 3103.2599999999998}
+{"id": "vS5PyZcuLUk-t3103.2599999999998", "text": "an economic populist movement is really essential to understanding what it was.", "start": 3103.2599999999998, "end": 3106.8199999999997}
+{"id": "vS5PyZcuLUk-t3106.8199999999997", "text": "Yeah, exactly.", "start": 3106.8199999999997, "end": 3107.8199999999997}
+{"id": "vS5PyZcuLUk-t3107.82", "text": "And they also critique the white even if you take the non-economic dimensions.", "start": 3107.82, "end": 3112.02}
+{"id": "vS5PyZcuLUk-t3112.02", "text": "They were a movement and are a movement against an elite.", "start": 3112.02, "end": 3115.46}
+{"id": "vS5PyZcuLUk-t3115.46", "text": "They called the white elite.", "start": 3115.46, "end": 3117.46}
+{"id": "vS5PyZcuLUk-t3117.46", "text": "And just as the women's movement is... Has been very, very anti-black male elites.", "start": 3117.46, "end": 3126.02}
+{"id": "vS5PyZcuLUk-t3126.02", "text": "It's been a mass movement of attack on male power.", "start": 3126.02, "end": 3130.98}
+{"id": "vS5PyZcuLUk-t3130.98", "text": "I mean, the Me Too movement.", "start": 3130.98, "end": 3132.3}
+{"id": "vS5PyZcuLUk-t3132.3", "text": "These are massive uprisings of people in a quote unquote class that I regard as a part", "start": 3132.3, "end": 3141.26}
+{"id": "vS5PyZcuLUk-t3141.26", "text": "of this populist impulse that nobody would call them populist though.", "start": 3141.26, "end": 3146.42}
+{"id": "vS5PyZcuLUk-t3146.42", "text": "Because they like them too much or many of the elites like them too much.", "start": 3146.42, "end": 3151.78}
+{"id": "vS5PyZcuLUk-t3151.78", "text": "Harry?", "start": 3151.78, "end": 3152.78}
+{"id": "vS5PyZcuLUk-t3152.78", "text": "Well, I would say there, if I could interject just a moment, I think the women's movement", "start": 3152.78, "end": 3160.82}
+{"id": "vS5PyZcuLUk-t3160.82", "text": "or the civil rights movement are good examples of movements with populist features.", "start": 3160.82, "end": 3166.46}
+{"id": "vS5PyZcuLUk-t3166.46", "text": "But the race-based civil rights movement cannot claim in the United States to represent the", "start": 3166.46, "end": 3174.1000000000004}
+{"id": "vS5PyZcuLUk-t3174.1000000000004", "text": "whole people because African Americans are what?", "start": 3174.1000000000004, "end": 3180.1400000000003}
+{"id": "vS5PyZcuLUk-t3180.1400000000003", "text": "20% of the population, 11% of the population in some counts.", "start": 3180.1400000000003, "end": 3184.54}
+{"id": "vS5PyZcuLUk-t3184.54", "text": "We've seen in recent years coalition building efforts.", "start": 3184.54, "end": 3191.34}
+{"id": "vS5PyZcuLUk-t3191.34", "text": "So now you hear about black and brown people or broader or black Latins and indigenous.", "start": 3191.34, "end": 3202.14}
+{"id": "vS5PyZcuLUk-t3202.14", "text": "And so there's coalition building.", "start": 3202.14, "end": 3204.3}
+{"id": "vS5PyZcuLUk-t3204.3", "text": "But nevertheless, the civil rights movement doesn't claim to represent the whole people.", "start": 3204.3, "end": 3210.22}
+{"id": "vS5PyZcuLUk-t3210.22", "text": "But it, Jeffery's absolutely right there, it has very strong populist features.", "start": 3210.22, "end": 3215.3799999999997}
+{"id": "vS5PyZcuLUk-t3215.3799999999997", "text": "Women's movement, the same way the women's movement can represent half the people, but", "start": 3215.3799999999997, "end": 3220.9399999999996}
+{"id": "vS5PyZcuLUk-t3220.9399999999996", "text": "not the whole people.", "start": 3220.9399999999996, "end": 3224.54}
+{"id": "vS5PyZcuLUk-t3224.54", "text": "So this I think is one of the benefits of fuzzy categories is you can say, look at the populist", "start": 3224.54, "end": 3232.3399999999997}
+{"id": "vS5PyZcuLUk-t3232.34", "text": "features of civil rights, look at the populist features of anti-sexism and make those kind", "start": 3232.34, "end": 3241.7000000000003}
+{"id": "vS5PyZcuLUk-t3241.7000000000003", "text": "of productive comparisons without getting hung up on just exactly how well they fit your", "start": 3241.7000000000003, "end": 3251.06}
+{"id": "vS5PyZcuLUk-t3251.06", "text": "prayer definition.", "start": 3251.06, "end": 3252.06}
+{"id": "vS5PyZcuLUk-t3252.06", "text": "Are these movements we're describing now, the degree they partake of populism as a driving", "start": 3252.06, "end": 3258.46}
+{"id": "vS5PyZcuLUk-t3258.46", "text": "force, do they succeed to the degree that they also partake of some, they moderate this", "start": 3258.46, "end": 3268.1}
+{"id": "vS5PyZcuLUk-t3268.1", "text": "radical part of it.", "start": 3268.1, "end": 3270.06}
+{"id": "vS5PyZcuLUk-t3270.06", "text": "I think MLK is a good example of someone who sort of promised to white folks that he was", "start": 3270.06, "end": 3275.62}
+{"id": "vS5PyZcuLUk-t3275.62", "text": "not a radical.", "start": 3275.62, "end": 3277.9}
+{"id": "vS5PyZcuLUk-t3277.9", "text": "And I think to some degree that was helpful, I think abolitionists also a century earlier", "start": 3277.9, "end": 3283.94}
+{"id": "vS5PyZcuLUk-t3283.94", "text": "tried to make the case or win over the hearts of the rest of the country as a way to sort", "start": 3283.94, "end": 3288.54}
+{"id": "vS5PyZcuLUk-t3288.54", "text": "of spear, and some of them of course were quite radical, but is that the case that this sort", "start": 3288.54, "end": 3294.86}
+{"id": "vS5PyZcuLUk-t3294.86", "text": "of moderating their radical?", "start": 3294.86, "end": 3296.82}
+{"id": "vS5PyZcuLUk-t3296.82", "text": "I wouldn't go to the radicalism effort, but I would say that populist movements, like", "start": 3296.82, "end": 3306.66}
+{"id": "vS5PyZcuLUk-t3306.66", "text": "minority populist movements, if we can use that expression, succeed to the degree to", "start": 3306.66, "end": 3312.18}
+{"id": "vS5PyZcuLUk-t3312.18", "text": "which they can build a majority coalition by persuading people outside their base that", "start": 3312.18, "end": 3318.7}
+{"id": "vS5PyZcuLUk-t3318.7", "text": "hey, I think that's just, or I can see how our people would benefit from that also.", "start": 3318.7, "end": 3326.4199999999996}
+{"id": "vS5PyZcuLUk-t3326.4199999999996", "text": "So the degree to which they can build coalitions for radical measures or radical measures,", "start": 3326.4199999999996, "end": 3334.02}
+{"id": "vS5PyZcuLUk-t3334.02", "text": "but the point is that they can move towards a majority in a democratic framework.", "start": 3334.02, "end": 3343.1}
+{"id": "vS5PyZcuLUk-t3343.1", "text": "Yeah, I mean, I mean, I think that's a good point.", "start": 3343.1, "end": 3346.98}
+{"id": "vS5PyZcuLUk-t3346.98", "text": "I mean, the idea of a civil sphere or a republic has the idea that there's a vital center.", "start": 3346.98, "end": 3354.7}
+{"id": "vS5PyZcuLUk-t3354.7", "text": "And if a populist movement moves too far to the right or the left, it says, I don't care.", "start": 3354.7, "end": 3365.22}
+{"id": "vS5PyZcuLUk-t3365.22", "text": "Nope.", "start": 3365.22, "end": 3366.22}
+{"id": "vS5PyZcuLUk-t3366.22", "text": "I think we have.", "start": 3366.22, "end": 3367.66}
+{"id": "vS5PyZcuLUk-t3367.66", "text": "We will.", "start": 3367.66, "end": 3368.66}
+{"id": "vS5PyZcuLUk-t3368.66", "text": "Yeah, yeah.", "start": 3368.66, "end": 3369.66}
+{"id": "vS5PyZcuLUk-t3369.66", "text": "Yeah.", "start": 3369.66, "end": 3370.66}
+{"id": "vS5PyZcuLUk-t3370.66", "text": "Who else wants to jump in?", "start": 3370.66, "end": 3374.58}
+{"id": "vS5PyZcuLUk-t3374.58", "text": "I mean, I want to endorse that point.", "start": 3374.58, "end": 3376.46}
+{"id": "vS5PyZcuLUk-t3376.46", "text": "I think the kind of stability of movement depends on coalition building in important", "start": 3376.46, "end": 3381.4199999999996}
+{"id": "vS5PyZcuLUk-t3381.42", "text": "ways, and this is one of the puzzles is that yes, you set yourself up against the elite", "start": 3381.42, "end": 3388.66}
+{"id": "vS5PyZcuLUk-t3388.66", "text": "and you might complain about the domination of certain kinds of institutions by the elite.", "start": 3388.66, "end": 3394.3}
+{"id": "vS5PyZcuLUk-t3394.3", "text": "But do you want to get rid of the institutions themselves or do you want to innovate them", "start": 3394.3, "end": 3397.3}
+{"id": "vS5PyZcuLUk-t3397.3", "text": "so fully that they can't function?", "start": 3397.3, "end": 3399.82}
+{"id": "vS5PyZcuLUk-t3399.82", "text": "That's the point of which I think this starts to become sort of consumptive of the civil", "start": 3399.82, "end": 3402.9}
+{"id": "vS5PyZcuLUk-t3402.9", "text": "sphere, the republican spheres.", "start": 3402.9, "end": 3404.7000000000003}
+{"id": "vS5PyZcuLUk-t3404.7000000000003", "text": "I think Jeff was saying.", "start": 3404.7000000000003, "end": 3406.34}
+{"id": "vS5PyZcuLUk-t3406.34", "text": "Jeff, I think you're freed up.", "start": 3406.34, "end": 3408.66}
+{"id": "vS5PyZcuLUk-t3408.66", "text": "You want to finish your thought?", "start": 3408.66, "end": 3412.5}
+{"id": "vS5PyZcuLUk-t3412.5", "text": "I'm not sure where I was cut off.", "start": 3412.5, "end": 3414.2599999999998}
+{"id": "vS5PyZcuLUk-t3414.2599999999998", "text": "It's hard to finish it when I didn't know where I was.", "start": 3414.2599999999998, "end": 3417.06}
+{"id": "vS5PyZcuLUk-t3417.06", "text": "I was saying that, I mean, if a movement on the right or the left moves away and says", "start": 3417.06, "end": 3421.2999999999997}
+{"id": "vS5PyZcuLUk-t3421.2999999999997", "text": "I give up on the Bible center, I'm going to establish a power simply on behalf of my", "start": 3421.2999999999997, "end": 3427.42}
+{"id": "vS5PyZcuLUk-t3427.42", "text": "own movement.", "start": 3427.42, "end": 3428.74}
+{"id": "vS5PyZcuLUk-t3428.74", "text": "So in that sense, black power in terms of black panther, that was a populism.", "start": 3428.74, "end": 3435.2599999999998}
+{"id": "vS5PyZcuLUk-t3435.26", "text": "They spoke to the people all the time by the way.", "start": 3435.26, "end": 3440.0200000000004}
+{"id": "vS5PyZcuLUk-t3440.0200000000004", "text": "And Trump, as to the good point that Harry Mann, I mean, Trump spoke on behalf of the", "start": 3440.0200000000004, "end": 3445.9}
+{"id": "vS5PyZcuLUk-t3445.9", "text": "people all the time, but we know it was on behalf of only white people.", "start": 3445.9, "end": 3451.38}
+{"id": "vS5PyZcuLUk-t3451.38", "text": "His people, especially white people, and he left out.", "start": 3451.38, "end": 3456.82}
+{"id": "vS5PyZcuLUk-t3456.82", "text": "So this tension is always there, of course.", "start": 3456.82, "end": 3461.5800000000004}
+{"id": "vS5PyZcuLUk-t3461.58", "text": "Let me go back to social movements, if I may.", "start": 3461.58, "end": 3469.22}
+{"id": "vS5PyZcuLUk-t3469.22", "text": "When I went to school, we called them movements and the whole field was called consensus politics.", "start": 3469.22, "end": 3476.06}
+{"id": "vS5PyZcuLUk-t3476.06", "text": "So there was, by the eighties, nineies, et cetera, the whole gamut emerged around the", "start": 3476.06, "end": 3486.66}
+{"id": "vS5PyZcuLUk-t3486.66", "text": "time and they were asking power, essentially.", "start": 3486.66, "end": 3489.74}
+{"id": "vS5PyZcuLUk-t3489.74", "text": "And the most important of those movements was the Green movement, of course.", "start": 3489.74, "end": 3492.58}
+{"id": "vS5PyZcuLUk-t3492.58", "text": "They created lots of parties in Europe, some of the parties formed coalition governments,", "start": 3492.58, "end": 3498.4199999999996}
+{"id": "vS5PyZcuLUk-t3498.4199999999996", "text": "some of those are in power even today in a number of countries.", "start": 3498.4199999999996, "end": 3503.1}
+{"id": "vS5PyZcuLUk-t3503.1", "text": "Now, those movements are the gist and the essence of liberal democracy.", "start": 3503.1, "end": 3507.9799999999996}
+{"id": "vS5PyZcuLUk-t3507.9799999999996", "text": "We need those those movements because they do not go against the constitution.", "start": 3507.9799999999996, "end": 3512.74}
+{"id": "vS5PyZcuLUk-t3512.74", "text": "They want to change how politics works.", "start": 3512.74, "end": 3515.74}
+{"id": "vS5PyZcuLUk-t3515.74", "text": "They bring in new issues.", "start": 3515.74, "end": 3517.54}
+{"id": "vS5PyZcuLUk-t3517.54", "text": "Why do we call them populist?", "start": 3517.54, "end": 3519.66}
+{"id": "vS5PyZcuLUk-t3519.66", "text": "The world populist did not exist back then.", "start": 3519.66, "end": 3522.3399999999997}
+{"id": "vS5PyZcuLUk-t3522.3399999999997", "text": "I mean, we knew that Peron was populist, but no one understood what the terror meant.", "start": 3522.3399999999997, "end": 3527.8599999999997}
+{"id": "vS5PyZcuLUk-t3527.8599999999997", "text": "So those movements are always there.", "start": 3527.8599999999997, "end": 3530.66}
+{"id": "vS5PyZcuLUk-t3530.66", "text": "A very sensual part of democracy.", "start": 3530.66, "end": 3532.8999999999996}
+{"id": "vS5PyZcuLUk-t3532.8999999999996", "text": "They did not popularly speak for particular electrics, constituencies.", "start": 3532.8999999999996, "end": 3540.58}
+{"id": "vS5PyZcuLUk-t3540.58", "text": "And that's not.", "start": 3540.58, "end": 3543.02}
+{"id": "vS5PyZcuLUk-t3543.02", "text": "What about the sort of...", "start": 3543.02, "end": 3544.02}
+{"id": "vS5PyZcuLUk-t3544.02", "text": "What about the...", "start": 3544.02, "end": 3545.02}
+{"id": "vS5PyZcuLUk-t3545.02", "text": "Making some claims.", "start": 3545.02, "end": 3546.02}
+{"id": "vS5PyZcuLUk-t3546.02", "text": "Let me...", "start": 3546.02, "end": 3547.02}
+{"id": "vS5PyZcuLUk-t3547.02", "text": "Yep.", "start": 3547.02, "end": 3548.02}
+{"id": "vS5PyZcuLUk-t3548.02", "text": "I was going to say, what about laying some claim to a particular kind of virtue?", "start": 3548.02, "end": 3554.46}
+{"id": "vS5PyZcuLUk-t3554.46", "text": "Some particular sort of virtue based on their who they are as a people.", "start": 3554.46, "end": 3560.06}
+{"id": "vS5PyZcuLUk-t3560.06", "text": "That is a component of this.", "start": 3560.06, "end": 3564.5}
+{"id": "vS5PyZcuLUk-t3564.5", "text": "These movements.", "start": 3564.5, "end": 3565.74}
+{"id": "vS5PyZcuLUk-t3565.74", "text": "They are not there as people.", "start": 3565.74, "end": 3569.3}
+{"id": "vS5PyZcuLUk-t3569.3", "text": "They are there as carriers of particular interests.", "start": 3569.3, "end": 3572.66}
+{"id": "vS5PyZcuLUk-t3572.66", "text": "They want all goals.", "start": 3572.66, "end": 3574.9}
+{"id": "vS5PyZcuLUk-t3574.9", "text": "Political goals.", "start": 3574.9, "end": 3575.9}
+{"id": "vS5PyZcuLUk-t3575.9", "text": "They want a better climate, a green development, feminist movement, for example.", "start": 3575.9, "end": 3585.1800000000003}
+{"id": "vS5PyZcuLUk-t3585.1800000000003", "text": "I mean, they want to pursue the interests and the rights of the feminist movement, for", "start": 3585.1800000000003, "end": 3590.06}
+{"id": "vS5PyZcuLUk-t3590.06", "text": "example.", "start": 3590.06, "end": 3591.54}
+{"id": "vS5PyZcuLUk-t3591.54", "text": "And then let me ask something, the whole panel, because this is a very interesting question.", "start": 3591.54, "end": 3596.1}
+{"id": "vS5PyZcuLUk-t3596.1", "text": "I mean, this is one of the elephants, a number of elephants, when it comes to populism.", "start": 3596.1, "end": 3603.02}
+{"id": "vS5PyZcuLUk-t3603.02", "text": "What do we mean when we say the people?", "start": 3603.02, "end": 3605.42}
+{"id": "vS5PyZcuLUk-t3605.42", "text": "I mean, do we mean the nation, like, you know, make America great again?", "start": 3605.42, "end": 3611.38}
+{"id": "vS5PyZcuLUk-t3611.38", "text": "Do we mean the underprivileged?", "start": 3611.38, "end": 3613.38}
+{"id": "vS5PyZcuLUk-t3613.38", "text": "Straight up?", "start": 3613.38, "end": 3614.38}
+{"id": "vS5PyZcuLUk-t3614.38", "text": "All over the place?", "start": 3614.38, "end": 3615.38}
+{"id": "vS5PyZcuLUk-t3615.38", "text": "The poorer people, the ordinary people?", "start": 3615.38, "end": 3617.78}
+{"id": "vS5PyZcuLUk-t3617.78", "text": "Do we mean the working class, in which case where the Marxist domain, for example?", "start": 3617.78, "end": 3626.82}
+{"id": "vS5PyZcuLUk-t3626.82", "text": "Do we mean race?", "start": 3626.82, "end": 3628.02}
+{"id": "vS5PyZcuLUk-t3628.02", "text": "Like in Bolivia?", "start": 3628.02, "end": 3629.7000000000003}
+{"id": "vS5PyZcuLUk-t3629.7000000000003", "text": "Do we mean...", "start": 3629.7000000000003, "end": 3631.7000000000003}
+{"id": "vS5PyZcuLUk-t3631.7000000000003", "text": "Stay in English?", "start": 3631.7000000000003, "end": 3633.3}
+{"id": "vS5PyZcuLUk-t3633.3", "text": "Like in India?", "start": 3633.3, "end": 3634.3}
+{"id": "vS5PyZcuLUk-t3634.3", "text": "For example, who are the people in India?", "start": 3634.3, "end": 3637.02}
+{"id": "vS5PyZcuLUk-t3637.02", "text": "Define the people?", "start": 3637.02, "end": 3638.5}
+{"id": "vS5PyZcuLUk-t3638.5", "text": "Well, according to Modi, it's Hindus.", "start": 3638.5, "end": 3640.9}
+{"id": "vS5PyZcuLUk-t3640.9", "text": "But there is an open question.", "start": 3640.9, "end": 3642.5}
+{"id": "vS5PyZcuLUk-t3642.5", "text": "Right?", "start": 3642.5, "end": 3643.5}
+{"id": "vS5PyZcuLUk-t3643.5", "text": "I mean, it's pretty straightforward in some case, what the relevant form of populism", "start": 3643.5, "end": 3647.2200000000003}
+{"id": "vS5PyZcuLUk-t3647.2200000000003", "text": "is trading on.", "start": 3647.2200000000003, "end": 3648.2200000000003}
+{"id": "vS5PyZcuLUk-t3648.2200000000003", "text": "I mean, changing the laws on citizenship is a pretty clear move to define the people.", "start": 3648.2200000000003, "end": 3653.2200000000003}
+{"id": "vS5PyZcuLUk-t3653.2200000000003", "text": "If you want to look at a concrete political action, you know, the 2009-19 Citizenship Act,", "start": 3653.2200000000003, "end": 3660.54}
+{"id": "vS5PyZcuLUk-t3660.54", "text": "you know, to make it impossible for large numbers of Muslims living in India to remain", "start": 3660.54, "end": 3665.94}
+{"id": "vS5PyZcuLUk-t3665.94", "text": "or become citizens, you know, that kind of religious test is a pretty clear, you know,", "start": 3665.94, "end": 3672.1}
+{"id": "vS5PyZcuLUk-t3672.1", "text": "attempt to define the boundaries.", "start": 3672.1, "end": 3674.06}
+{"id": "vS5PyZcuLUk-t3674.06", "text": "So what do you say in the United States?", "start": 3674.06, "end": 3675.7}
+{"id": "vS5PyZcuLUk-t3675.7", "text": "The people that don't exist, the people that don't exist, the people that don't exist,", "start": 3675.7, "end": 3681.02}
+{"id": "vS5PyZcuLUk-t3681.02", "text": "the people that are made, yep, it is a construction.", "start": 3681.02, "end": 3683.7}
+{"id": "vS5PyZcuLUk-t3683.7", "text": "Right?", "start": 3683.7, "end": 3684.7}
+{"id": "vS5PyZcuLUk-t3684.7", "text": "I mean, Buddha talked about that, I mean, the making of the class.", "start": 3684.7, "end": 3688.74}
+{"id": "vS5PyZcuLUk-t3688.74", "text": "So you have a populist leader who makes his own people, and then he has his own clients", "start": 3688.74, "end": 3694.18}
+{"id": "vS5PyZcuLUk-t3694.18", "text": "for going to vote for him, and he's going to stay there in power forever.", "start": 3694.18, "end": 3697.8199999999997}
+{"id": "vS5PyZcuLUk-t3697.8199999999997", "text": "And that's that.", "start": 3697.8199999999997, "end": 3698.9799999999996}
+{"id": "vS5PyZcuLUk-t3698.9799999999996", "text": "Enjoy.", "start": 3698.9799999999996, "end": 3699.9799999999996}
+{"id": "vS5PyZcuLUk-t3699.9799999999996", "text": "It's a function of language to a degree, to label some group.", "start": 3699.9799999999996, "end": 3704.7}
+{"id": "vS5PyZcuLUk-t3704.7", "text": "And it's interesting now, and I wanted to open up the conversation to incorporate information,", "start": 3704.7, "end": 3709.7}
+{"id": "vS5PyZcuLUk-t3709.7", "text": "the flow of information.", "start": 3709.7, "end": 3710.7}
+{"id": "vS5PyZcuLUk-t3710.7", "text": "We talked about, you know, the free press and how that's important.", "start": 3710.7, "end": 3714.9399999999996}
+{"id": "vS5PyZcuLUk-t3714.94", "text": "And it's attacked by populist leaders, demagogues anyway, is often a part of their game plan.", "start": 3714.94, "end": 3723.02}
+{"id": "vS5PyZcuLUk-t3723.02", "text": "You know, labeling any group with any label, elite people, you know, is a language game", "start": 3723.02, "end": 3730.06}
+{"id": "vS5PyZcuLUk-t3730.06", "text": "in a way, right?", "start": 3730.06, "end": 3732.06}
+{"id": "vS5PyZcuLUk-t3732.06", "text": "But I wonder how much you all think information, how it flows and who controls it has an effect", "start": 3732.06, "end": 3738.78}
+{"id": "vS5PyZcuLUk-t3738.78", "text": "on populism.", "start": 3738.78, "end": 3740.78}
+{"id": "vS5PyZcuLUk-t3740.78", "text": "I mean, I think this is one of the differences in modern populist movements is now the attempt", "start": 3740.78, "end": 3748.98}
+{"id": "vS5PyZcuLUk-t3748.98", "text": "to bypass traditional media and use social media.", "start": 3748.98, "end": 3752.3}
+{"id": "vS5PyZcuLUk-t3752.3", "text": "You know, that's one way of kind of doing an end run.", "start": 3752.3, "end": 3756.26}
+{"id": "vS5PyZcuLUk-t3756.26", "text": "I think that's been proven to be pretty successful worldwide in various cases.", "start": 3756.26, "end": 3761.5800000000004}
+{"id": "vS5PyZcuLUk-t3761.5800000000004", "text": "I mean, I'll move this to pandemic on filtering the reality for the people in the movement", "start": 3761.5800000000004, "end": 3769.02}
+{"id": "vS5PyZcuLUk-t3769.02", "text": "so that it recapitulates the tenets of the movement.", "start": 3769.02, "end": 3773.9}
+{"id": "vS5PyZcuLUk-t3773.9", "text": "But every social movement for the last 200 years has always had its own misfampers, its", "start": 3773.9, "end": 3780.98}
+{"id": "vS5PyZcuLUk-t3780.98", "text": "own, you know, you didn't need social media to have Hitler, right?", "start": 3780.98, "end": 3789.18}
+{"id": "vS5PyZcuLUk-t3789.18", "text": "And yet grasping a new form of communication has been effective for populist movements", "start": 3789.18, "end": 3798.54}
+{"id": "vS5PyZcuLUk-t3798.54", "text": "and not just in our lifetimes in an early Republican society where communication was", "start": 3798.54, "end": 3805.66}
+{"id": "vS5PyZcuLUk-t3805.66", "text": "based on drawing room conversation.", "start": 3805.66, "end": 3807.46}
+{"id": "vS5PyZcuLUk-t3807.46", "text": "It suddenly introduced mass circulation newspapers and political rallies with hundreds of people.", "start": 3807.46, "end": 3817.2599999999998}
+{"id": "vS5PyZcuLUk-t3817.2599999999998", "text": "That's a new form of political communication and it can be very effective.", "start": 3817.2599999999998, "end": 3823.94}
+{"id": "vS5PyZcuLUk-t3823.94", "text": "Even populist are very innovative in their political techniques and seizing new forms", "start": 3823.94, "end": 3830.78}
+{"id": "vS5PyZcuLUk-t3830.78", "text": "of political communication can be, you know, part of the winning strategy.", "start": 3830.78, "end": 3837.7000000000003}
+{"id": "vS5PyZcuLUk-t3837.7000000000003", "text": "Well, but Obama was a campaigner and President introduced the digital revolution first.", "start": 3837.7000000000003, "end": 3846.1}
+{"id": "vS5PyZcuLUk-t3846.1", "text": "Yeah, and you can see how, you know, you can have these features of populism without maybe", "start": 3846.1, "end": 3851.26}
+{"id": "vS5PyZcuLUk-t3851.26", "text": "being a full-throated populist.", "start": 3851.26, "end": 3852.7400000000002}
+{"id": "vS5PyZcuLUk-t3852.74", "text": "And of course populist leaders are very good at learning, you know, these kinds of techniques", "start": 3852.74, "end": 3856.7799999999997}
+{"id": "vS5PyZcuLUk-t3856.7799999999997", "text": "and adapting them and it takes time.", "start": 3856.7799999999997, "end": 3859.06}
+{"id": "vS5PyZcuLUk-t3859.06", "text": "And I think, you know, the common thread is a kind of attempted direct communication", "start": 3859.06, "end": 3863.9799999999996}
+{"id": "vS5PyZcuLUk-t3863.9799999999996", "text": "unmediated by the kinds of traditional institutional actors.", "start": 3863.9799999999996, "end": 3867.66}
+{"id": "vS5PyZcuLUk-t3867.66", "text": "So instead of, you know, primary politics in America have changed dramatically in the", "start": 3867.66, "end": 3872.22}
+{"id": "vS5PyZcuLUk-t3872.22", "text": "last 25 years.", "start": 3872.22, "end": 3873.58}
+{"id": "vS5PyZcuLUk-t3873.58", "text": "It used to be that, you know, it was a very, is a hyper-local sort of phenomenon and you", "start": 3873.58, "end": 3879.54}
+{"id": "vS5PyZcuLUk-t3879.54", "text": "had to have the kind of grassroots organizing which meant that you had to get hold of people.", "start": 3879.54, "end": 3884.18}
+{"id": "vS5PyZcuLUk-t3884.18", "text": "But going back to Howard Dean up to the present, you know, the internet has really changed", "start": 3884.18, "end": 3887.66}
+{"id": "vS5PyZcuLUk-t3887.66", "text": "that.", "start": 3887.66, "end": 3888.66}
+{"id": "vS5PyZcuLUk-t3888.66", "text": "The flow of money has changed.", "start": 3888.66, "end": 3890.1}
+{"id": "vS5PyZcuLUk-t3890.1", "text": "The flow of information has changed.", "start": 3890.1, "end": 3891.1}
+{"id": "vS5PyZcuLUk-t3891.1", "text": "There's been a kind of nationalization of party primaries and that's really changed the", "start": 3891.1, "end": 3895.62}
+{"id": "vS5PyZcuLUk-t3895.62", "text": "influence of political parties and their ability to keep certain kinds of radical people out", "start": 3895.62, "end": 3900.58}
+{"id": "vS5PyZcuLUk-t3900.58", "text": "of, you know, presidential primaries in the US.", "start": 3900.58, "end": 3902.86}
+{"id": "vS5PyZcuLUk-t3902.86", "text": "And I think that's a fascinating change.", "start": 3902.86, "end": 3904.54}
+{"id": "vS5PyZcuLUk-t3904.54", "text": "And lots of people are learning that lesson all across the political spectrum, sort of", "start": 3904.54, "end": 3908.38}
+{"id": "vS5PyZcuLUk-t3908.38", "text": "all at once.", "start": 3908.38, "end": 3909.38}
+{"id": "vS5PyZcuLUk-t3909.38", "text": "I would put that in a broader perspective because it is not only the type of the medium, the", "start": 3909.38, "end": 3916.62}
+{"id": "vS5PyZcuLUk-t3916.62", "text": "type of the, how do they try to reach larger audiences and what do they do, the technique.", "start": 3916.62, "end": 3924.38}
+{"id": "vS5PyZcuLUk-t3924.38", "text": "It is that obviously this, when they come into power, they try to silence the practice", "start": 3924.38, "end": 3930.78}
+{"id": "vS5PyZcuLUk-t3930.78", "text": "that opposes the rule.", "start": 3930.78, "end": 3934.1}
+{"id": "vS5PyZcuLUk-t3934.1", "text": "So I would put that in the broader framework of institutions because what we see, we put", "start": 3934.1, "end": 3940.98}
+{"id": "vS5PyZcuLUk-t3940.98", "text": "the playbook there, the populist playbook, is that when they take power, they attack", "start": 3940.98, "end": 3947.8199999999997}
+{"id": "vS5PyZcuLUk-t3947.8199999999997", "text": "the institutions, all of them, press is one of them, freedom of the press.", "start": 3947.8199999999997, "end": 3952.2999999999997}
+{"id": "vS5PyZcuLUk-t3952.2999999999997", "text": "They attack the judiciary.", "start": 3952.2999999999997, "end": 3953.2999999999997}
+{"id": "vS5PyZcuLUk-t3953.2999999999997", "text": "They go against the courts.", "start": 3953.2999999999997, "end": 3955.7799999999997}
+{"id": "vS5PyZcuLUk-t3955.7799999999997", "text": "We saw that in America.", "start": 3955.7799999999997, "end": 3956.7799999999997}
+{"id": "vS5PyZcuLUk-t3956.7799999999997", "text": "We saw that in all other cases, populist rule.", "start": 3956.7799999999997, "end": 3960.9}
+{"id": "vS5PyZcuLUk-t3960.9", "text": "They try to violate the division of powers.", "start": 3960.9, "end": 3965.54}
+{"id": "vS5PyZcuLUk-t3965.54", "text": "They try to control education.", "start": 3965.54, "end": 3968.7400000000002}
+{"id": "vS5PyZcuLUk-t3968.7400000000002", "text": "So they meditate against institutions of liberal democracy, hence my definition of democratic", "start": 3968.7400000000002, "end": 3974.58}
+{"id": "vS5PyZcuLUk-t3974.58", "text": "liberalism.", "start": 3974.58, "end": 3975.58}
+{"id": "vS5PyZcuLUk-t3975.58", "text": "Okay.", "start": 3975.58, "end": 3976.58}
+{"id": "vS5PyZcuLUk-t3976.58", "text": "And this is very typical.", "start": 3976.58, "end": 3977.58}
+{"id": "vS5PyZcuLUk-t3977.58", "text": "I mean, there is not any case of populist rule that I happen to know that you do not", "start": 3977.58, "end": 3983.26}
+{"id": "vS5PyZcuLUk-t3983.26", "text": "see the same moves over and over again.", "start": 3983.26, "end": 3985.7000000000003}
+{"id": "vS5PyZcuLUk-t3985.7000000000003", "text": "It's like a playbook.", "start": 3985.7000000000003, "end": 3986.7000000000003}
+{"id": "vS5PyZcuLUk-t3986.7", "text": "I think the exact same thing.", "start": 3986.7, "end": 3991.46}
+{"id": "vS5PyZcuLUk-t3991.46", "text": "I think the fact that we know there are actors, China, Russia in particular, who have made", "start": 3991.46, "end": 3998.8599999999997}
+{"id": "vS5PyZcuLUk-t3998.8599999999997", "text": "an effort to redirect the conversation on or the ideas flowing through social media,", "start": 3998.8599999999997, "end": 4007.8599999999997}
+{"id": "vS5PyZcuLUk-t4007.8599999999997", "text": "that that's an important aspect of what we're seeing in modern modern times.", "start": 4007.8599999999997, "end": 4012.22}
+{"id": "vS5PyZcuLUk-t4012.22", "text": "These are not the most important questions though.", "start": 4012.22, "end": 4016.98}
+{"id": "vS5PyZcuLUk-t4016.98", "text": "I think we can sign them.", "start": 4016.98, "end": 4018.62}
+{"id": "vS5PyZcuLUk-t4018.62", "text": "China, no questions.", "start": 4018.62, "end": 4020.62}
+{"id": "vS5PyZcuLUk-t4020.62", "text": "Yeah, are the democracies.", "start": 4020.62, "end": 4022.98}
+{"id": "vS5PyZcuLUk-t4022.98", "text": "Say that again.", "start": 4022.98, "end": 4023.98}
+{"id": "vS5PyZcuLUk-t4023.98", "text": "I'm sorry.", "start": 4023.98, "end": 4028.2599999999998}
+{"id": "vS5PyZcuLUk-t4028.2599999999998", "text": "Repeat that.", "start": 4028.2599999999998, "end": 4029.2599999999998}
+{"id": "vS5PyZcuLUk-t4029.2599999999998", "text": "Talk to us.", "start": 4029.2599999999998, "end": 4030.2599999999998}
+{"id": "vS5PyZcuLUk-t4030.2599999999998", "text": "You repeat that.", "start": 4030.2599999999998, "end": 4032.2599999999998}
+{"id": "vS5PyZcuLUk-t4032.2599999999998", "text": "Okay.", "start": 4032.2599999999998, "end": 4033.2599999999998}
+{"id": "vS5PyZcuLUk-t4033.2599999999998", "text": "For some reason, I think he's sorry.", "start": 4033.2599999999998, "end": 4036.2599999999998}
+{"id": "vS5PyZcuLUk-t4036.2599999999998", "text": "Yeah, I didn't say anything.", "start": 4036.2599999999998, "end": 4038.4599999999996}
+{"id": "vS5PyZcuLUk-t4038.4599999999996", "text": "Okay.", "start": 4038.4599999999996, "end": 4039.4599999999996}
+{"id": "vS5PyZcuLUk-t4039.4599999999996", "text": "All right.", "start": 4039.4599999999996, "end": 4040.4599999999996}
+{"id": "vS5PyZcuLUk-t4040.46", "text": "So the ideas we will open up some of the questions that have come from the audience.", "start": 4040.46, "end": 4046.42}
+{"id": "vS5PyZcuLUk-t4046.42", "text": "And Alex is here to help guide us through that.", "start": 4046.42, "end": 4051.46}
+{"id": "vS5PyZcuLUk-t4051.46", "text": "Yeah.", "start": 4051.46, "end": 4052.46}
+{"id": "vS5PyZcuLUk-t4052.46", "text": "So if anyone wants to write more, because only I only have one question so far, I guess", "start": 4052.46, "end": 4055.38}
+{"id": "vS5PyZcuLUk-t4055.38", "text": "too, from Susanna Black through the Zoom.", "start": 4055.38, "end": 4057.78}
+{"id": "vS5PyZcuLUk-t4057.78", "text": "So if anyone has any questions, please write it in the Q&A part or on the chat and I'll", "start": 4057.78, "end": 4062.7}
+{"id": "vS5PyZcuLUk-t4062.7", "text": "relay it.", "start": 4062.7, "end": 4063.7}
+{"id": "vS5PyZcuLUk-t4063.7", "text": "But yeah.", "start": 4063.7, "end": 4065.18}
+{"id": "vS5PyZcuLUk-t4065.18", "text": "So Susanna Black wrote something, I guess, based on what sort of Jeffrey had asked, which", "start": 4065.18, "end": 4070.58}
+{"id": "vS5PyZcuLUk-t4070.58", "text": "was, are contemporary race and sex-focused progressive movements populist or anti-pop", "start": 4070.58, "end": 4075.5}
+{"id": "vS5PyZcuLUk-t4075.5", "text": "list?", "start": 4075.5, "end": 4076.5}
+{"id": "vS5PyZcuLUk-t4076.5", "text": "Can you speak to distinction between class-based left populism of the 2016 Bernie type and", "start": 4076.5, "end": 4081.8599999999997}
+{"id": "vS5PyZcuLUk-t4081.8599999999997", "text": "contemporary progressive politics, which tend to center issues other than in class and", "start": 4081.8599999999997, "end": 4086.94}
+{"id": "vS5PyZcuLUk-t4086.94", "text": "may tend in certain cases to reinforce existing institutional power, i.e. the phenomenon of", "start": 4086.94, "end": 4092.7}
+{"id": "vS5PyZcuLUk-t4092.7", "text": "will capitalism, and then they wrote, alternatively, how can we do a better job in creating a", "start": 4092.7, "end": 4098.139999999999}
+{"id": "vS5PyZcuLUk-t4098.139999999999", "text": "common good politics that speaks to and includes all people in a polity as opposed to ontologizing", "start": 4098.139999999999, "end": 4105.5}
+{"id": "vS5PyZcuLUk-t4105.5", "text": "the division or antagonism between the people and the elites?", "start": 4105.5, "end": 4109.94}
+{"id": "vS5PyZcuLUk-t4109.94", "text": "Is that possible or desirable?", "start": 4109.94, "end": 4111.94}
+{"id": "vS5PyZcuLUk-t4111.94", "text": "I mean, one thing that I was saying earlier, I think, in response to that, which is that", "start": 4111.94, "end": 4116.38}
+{"id": "vS5PyZcuLUk-t4116.38", "text": "there's different kinds of different forms of pluralist politics.", "start": 4116.38, "end": 4121.9}
+{"id": "vS5PyZcuLUk-t4121.9", "text": "And one of them is sort of concerned with, say, the rectification of historical or present", "start": 4121.9, "end": 4127.58}
+{"id": "vS5PyZcuLUk-t4127.58", "text": "injustices and attempts to point to places where people cannot meet on an even footing", "start": 4127.58, "end": 4137.339999999999}
+{"id": "vS5PyZcuLUk-t4137.339999999999", "text": "in the public sphere as is desired by the principles of Republican politics.", "start": 4137.339999999999, "end": 4142.78}
+{"id": "vS5PyZcuLUk-t4142.78", "text": "And I think we don't have a lot of talk about our Republican form of government anymore.", "start": 4142.78, "end": 4149.099999999999}
+{"id": "vS5PyZcuLUk-t4149.1", "text": "We spend very little time, you know, there's attention as paid to the eroding of our institutions", "start": 4149.1, "end": 4153.42}
+{"id": "vS5PyZcuLUk-t4153.42", "text": "or to certain kind of issues about dark money in our politics and so on.", "start": 4153.42, "end": 4160.780000000001}
+{"id": "vS5PyZcuLUk-t4160.780000000001", "text": "We don't talk very much about things like, well, citizens need certain kinds of virtues", "start": 4160.780000000001, "end": 4164.820000000001}
+{"id": "vS5PyZcuLUk-t4164.820000000001", "text": "for our system of government to survive, the very things that you can see littered all", "start": 4164.820000000001, "end": 4168.1}
+{"id": "vS5PyZcuLUk-t4168.1", "text": "over the federalist papers, as I mentioned at the beginning.", "start": 4168.1, "end": 4171.900000000001}
+{"id": "vS5PyZcuLUk-t4171.900000000001", "text": "And I think one result of that is that we get a kind of empty pluralist politics, which", "start": 4171.900000000001, "end": 4175.820000000001}
+{"id": "vS5PyZcuLUk-t4175.82", "text": "says not taking into account whether people are subject to any form of injustice or meeting", "start": 4175.82, "end": 4182.299999999999}
+{"id": "vS5PyZcuLUk-t4182.299999999999", "text": "each other and even playing field, that certain kinds of identities are more important than", "start": 4182.299999999999, "end": 4188.66}
+{"id": "vS5PyZcuLUk-t4188.66", "text": "one's identity as a citizen and need to be sort of celebrated or valued in certain ways.", "start": 4188.66, "end": 4195.299999999999}
+{"id": "vS5PyZcuLUk-t4195.299999999999", "text": "And to some extent, this is a kind of, this is fine because it might be pushing back against", "start": 4195.299999999999, "end": 4199.259999999999}
+{"id": "vS5PyZcuLUk-t4199.259999999999", "text": "a homogenizing impulse that's also inappropriate to a large plural society.", "start": 4199.259999999999, "end": 4204.179999999999}
+{"id": "vS5PyZcuLUk-t4204.18", "text": "But unless it's framed with a certain set of aspirations about what we want to do together", "start": 4204.18, "end": 4208.26}
+{"id": "vS5PyZcuLUk-t4208.26", "text": "in civil society, my fear is that it tends to be more, you know, to contribute to certain", "start": 4208.26, "end": 4216.860000000001}
+{"id": "vS5PyZcuLUk-t4216.860000000001", "text": "kinds of fracturing that make it impossible to have broad coalition-based politics of", "start": 4216.860000000001, "end": 4225.5}
+{"id": "vS5PyZcuLUk-t4225.5", "text": "a kind that, you know, is in defense of our common life.", "start": 4225.5, "end": 4232.38}
+{"id": "vS5PyZcuLUk-t4232.38", "text": "So that's sort of my concern about what I call pluralism without aspiration or empty", "start": 4232.38, "end": 4237.14}
+{"id": "vS5PyZcuLUk-t4237.14", "text": "pluralism that I think maybe certain strands of progressive politics point in this direction,", "start": 4237.14, "end": 4243.62}
+{"id": "vS5PyZcuLUk-t4243.62", "text": "not all of them.", "start": 4243.62, "end": 4245.18}
+{"id": "vS5PyZcuLUk-t4245.18", "text": "And I think it's very easy to sort of paint different political movements and dismiss", "start": 4245.18, "end": 4249.66}
+{"id": "vS5PyZcuLUk-t4249.66", "text": "them.", "start": 4249.66, "end": 4251.900000000001}
+{"id": "vS5PyZcuLUk-t4251.900000000001", "text": "And I don't mean to be doing that, but that's a sort of reservation that I have.", "start": 4251.900000000001, "end": 4255.58}
+{"id": "vS5PyZcuLUk-t4255.58", "text": "I really like to endorse that, Jay, because you mentioned the Federalist Papers and the", "start": 4255.58, "end": 4264.42}
+{"id": "vS5PyZcuLUk-t4264.42", "text": "invocation of virtue over and over again in the Federalist Papers, going past that word", "start": 4264.42, "end": 4271.98}
+{"id": "vS5PyZcuLUk-t4271.98", "text": "virtue to think about what people in that era meant by the word virtue.", "start": 4271.98, "end": 4280.74}
+{"id": "vS5PyZcuLUk-t4280.74", "text": "When you were talking about public life, they meant virtue to them was the ability to set", "start": 4280.74, "end": 4286.5}
+{"id": "vS5PyZcuLUk-t4286.5", "text": "aside narrow personal self-interest and to advocate for the common good, however that", "start": 4286.5, "end": 4292.139999999999}
+{"id": "vS5PyZcuLUk-t4292.139999999999", "text": "might be defined.", "start": 4292.139999999999, "end": 4295.0599999999995}
+{"id": "vS5PyZcuLUk-t4295.0599999999995", "text": "And the pitfall there was that every pluralistic group tended to define the common good as", "start": 4295.0599999999995, "end": 4300.82}
+{"id": "vS5PyZcuLUk-t4300.82", "text": "their good, and it sort of collapsed into brokerage liberalism.", "start": 4300.82, "end": 4307.26}
+{"id": "vS5PyZcuLUk-t4307.26", "text": "But if there were a way for us to recapture a vision of the common good or to advocate", "start": 4307.26, "end": 4316.74}
+{"id": "vS5PyZcuLUk-t4316.74", "text": "for a vision of the common good that would embrace more than relatively small, certainly", "start": 4316.74, "end": 4326.900000000001}
+{"id": "vS5PyZcuLUk-t4326.900000000001", "text": "minority-sized slices of the population, then I think we'd be taking a step in the right", "start": 4326.900000000001, "end": 4335.06}
+{"id": "vS5PyZcuLUk-t4335.06", "text": "direction.", "start": 4335.06, "end": 4336.06}
+{"id": "vS5PyZcuLUk-t4336.06", "text": "One of the problems is that the word virtue was so hokey these days that anybody who stands", "start": 4336.06, "end": 4342.3}
+{"id": "vS5PyZcuLUk-t4342.3", "text": "up and tries to advocate for it kind of gets wet.", "start": 4342.3, "end": 4344.900000000001}
+{"id": "vS5PyZcuLUk-t4344.900000000001", "text": "I guess we're supposed to say good character now or something like that.", "start": 4344.900000000001, "end": 4349.14}
+{"id": "vS5PyZcuLUk-t4349.14", "text": "There's something like that.", "start": 4349.14, "end": 4351.14}
+{"id": "vS5PyZcuLUk-t4351.14", "text": "I mean, I disagree with both of you guys.", "start": 4351.14, "end": 4355.06}
+{"id": "vS5PyZcuLUk-t4355.06", "text": "I think that virtues are completely at the heart of all most of our public discourse", "start": 4355.06, "end": 4362.42}
+{"id": "vS5PyZcuLUk-t4362.42", "text": "today, and that the idea that we need to go back to an earlier smaller form of republicanism", "start": 4362.42, "end": 4370.78}
+{"id": "vS5PyZcuLUk-t4370.78", "text": "based on the Greeks or the founding fathers, it's not right because virtues still are here.", "start": 4370.78, "end": 4378.62}
+{"id": "vS5PyZcuLUk-t4378.62", "text": "For example, when people say Trump was selfish and he only cared about himself, and then his", "start": 4378.62, "end": 4384.78}
+{"id": "vS5PyZcuLUk-t4384.78", "text": "opponents argued we need somebody who cares about the whole society.", "start": 4384.78, "end": 4389.7}
+{"id": "vS5PyZcuLUk-t4389.7", "text": "Just as virtue talk, when somebody says people are dishonest, when they say they're corrupt,", "start": 4389.7, "end": 4397.9}
+{"id": "vS5PyZcuLUk-t4397.9", "text": "when they say that they're irrational or insane, that they don't have common sense, this concern", "start": 4397.9, "end": 4405.98}
+{"id": "vS5PyZcuLUk-t4405.98", "text": "with virtue permeates left, right, and center in all these democracies.", "start": 4405.98, "end": 4414.5}
+{"id": "vS5PyZcuLUk-t4414.5", "text": "I don't think that the way to get a good society is to say that we need a new set of virtues.", "start": 4414.5, "end": 4423.34}
+{"id": "vS5PyZcuLUk-t4423.34", "text": "I think that in fact there's an ideal of a good society in back of left, right, and center", "start": 4423.34, "end": 4431.38}
+{"id": "vS5PyZcuLUk-t4431.38", "text": "except for the extremes, and that that ideal is going to be incorporated in a partisan way", "start": 4431.38, "end": 4437.82}
+{"id": "vS5PyZcuLUk-t4437.82", "text": "through ideology.", "start": 4437.82, "end": 4439.46}
+{"id": "vS5PyZcuLUk-t4439.46", "text": "You will never have us all sharing this whole thing, but we'll have us talking about it", "start": 4439.46, "end": 4444.34}
+{"id": "vS5PyZcuLUk-t4444.34", "text": "all the time.", "start": 4444.34, "end": 4445.34}
+{"id": "vS5PyZcuLUk-t4445.34", "text": "I want to push back on that because I think a lot of the, if you look at the polling,", "start": 4445.34, "end": 4450.82}
+{"id": "vS5PyZcuLUk-t4450.82", "text": "people thought that Trump was not a very honest or a public minded person when they voted", "start": 4450.82, "end": 4456.9400000000005}
+{"id": "vS5PyZcuLUk-t4456.9400000000005", "text": "for him, and that's the scandal, right?", "start": 4456.9400000000005, "end": 4459.7}
+{"id": "vS5PyZcuLUk-t4459.7", "text": "The thought is, and it doesn't have to be Trump in particular, you can apply it to whoever", "start": 4459.7, "end": 4463.14}
+{"id": "vS5PyZcuLUk-t4463.14", "text": "else you like, the idea is that virtue should be a criterion for high office, and it should", "start": 4463.14, "end": 4469.34}
+{"id": "vS5PyZcuLUk-t4469.34", "text": "also be what we try to promote in society rather than factional interest rather than", "start": 4469.34, "end": 4473.9400000000005}
+{"id": "vS5PyZcuLUk-t4473.94", "text": "monetary benefit.", "start": 4473.94, "end": 4476.379999999999}
+{"id": "vS5PyZcuLUk-t4476.379999999999", "text": "This is true of technocratic liberals on the left as well as the right that they want", "start": 4476.379999999999, "end": 4480.099999999999}
+{"id": "vS5PyZcuLUk-t4480.099999999999", "text": "to measure the flourishing of the society based on how much money is in your pocketbook", "start": 4480.099999999999, "end": 4484.379999999999}
+{"id": "vS5PyZcuLUk-t4484.379999999999", "text": "or how good you feel about things rather than character.", "start": 4484.379999999999, "end": 4488.46}
+{"id": "vS5PyZcuLUk-t4488.46", "text": "I think that is the part of the Republican ideal that is lacking.", "start": 4488.46, "end": 4493.74}
+{"id": "vS5PyZcuLUk-t4493.74", "text": "Not leaving\u2014all of our moral talk is virtue talk, of course.", "start": 4493.74, "end": 4498.0599999999995}
+{"id": "vS5PyZcuLUk-t4498.0599999999995", "text": "I agree with that.", "start": 4498.0599999999995, "end": 4499.0599999999995}
+{"id": "vS5PyZcuLUk-t4499.0599999999995", "text": "Yes.", "start": 4499.0599999999995, "end": 4500.0599999999995}
+{"id": "vS5PyZcuLUk-t4500.06", "text": "And Trump, you're taking a poll that says, polls are impossible to use as ways of judging", "start": 4500.06, "end": 4506.780000000001}
+{"id": "vS5PyZcuLUk-t4506.780000000001", "text": "how people think of leaders, but I'm sure that people thought that Trump, his supporters,", "start": 4506.780000000001, "end": 4514.620000000001}
+{"id": "vS5PyZcuLUk-t4514.620000000001", "text": "that he has the virtue of telling the truth.", "start": 4514.620000000001, "end": 4518.700000000001}
+{"id": "vS5PyZcuLUk-t4518.700000000001", "text": "And truthfulness is a virtue.", "start": 4518.700000000001, "end": 4520.700000000001}
+{"id": "vS5PyZcuLUk-t4520.700000000001", "text": "It's an important virtue.", "start": 4520.700000000001, "end": 4523.26}
+{"id": "vS5PyZcuLUk-t4523.26", "text": "But isn't virtue or pretend virtue what essentially ends up creating the groups?", "start": 4523.26, "end": 4531.38}
+{"id": "vS5PyZcuLUk-t4531.38", "text": "Yeah, I mean, but the thing is we can't try to find what's the true virtue.", "start": 4531.38, "end": 4538.06}
+{"id": "vS5PyZcuLUk-t4538.06", "text": "I mean, not if we stand back and look at the discourse of a complex pluralistic society.", "start": 4538.06, "end": 4547.18}
+{"id": "vS5PyZcuLUk-t4547.18", "text": "Every group will claim that it has the right virtue.", "start": 4547.18, "end": 4551.1}
+{"id": "vS5PyZcuLUk-t4551.1", "text": "Right, but that's what creates the group.", "start": 4551.1, "end": 4554.54}
+{"id": "vS5PyZcuLUk-t4554.54", "text": "Yeah, I agree totally.", "start": 4554.54, "end": 4556.620000000001}
+{"id": "vS5PyZcuLUk-t4556.620000000001", "text": "It is.", "start": 4556.620000000001, "end": 4557.620000000001}
+{"id": "vS5PyZcuLUk-t4557.620000000001", "text": "But I think that's also what creates the aggression between the groups because I think", "start": 4557.620000000001, "end": 4565.660000000001}
+{"id": "vS5PyZcuLUk-t4565.660000000001", "text": "my virtue is better than your virtue and therefore you are wrong and so I can attack you.", "start": 4565.660000000001, "end": 4572.14}
+{"id": "vS5PyZcuLUk-t4572.14", "text": "Yes.", "start": 4572.14, "end": 4574.1}
+{"id": "vS5PyZcuLUk-t4574.1", "text": "But if you want to see what is an operational definition of a better society, to me as a", "start": 4574.1, "end": 4578.9800000000005}
+{"id": "vS5PyZcuLUk-t4578.98", "text": "more incorporated one that allows more people the use of their full life forces.", "start": 4578.98, "end": 4588.86}
+{"id": "vS5PyZcuLUk-t4588.86", "text": "And I think that that's really what Trump, the right populace, are a reaction against", "start": 4588.86, "end": 4596.259999999999}
+{"id": "vS5PyZcuLUk-t4596.259999999999", "text": "the expansion of the civil sphere in the United States.", "start": 4596.259999999999, "end": 4600.9}
+{"id": "vS5PyZcuLUk-t4600.9", "text": "And so Susan, I wouldn't be so depressed about this.", "start": 4600.9, "end": 4606.5}
+{"id": "vS5PyZcuLUk-t4606.5", "text": "I don't, I think that these movements are reactions against progress that we may be in", "start": 4606.5, "end": 4612.34}
+{"id": "vS5PyZcuLUk-t4612.34", "text": "store for another few years of a progressive movement.", "start": 4612.34, "end": 4618.42}
+{"id": "vS5PyZcuLUk-t4618.42", "text": "Not a populist one.", "start": 4618.42, "end": 4620.78}
+{"id": "vS5PyZcuLUk-t4620.78", "text": "May I take a different approach perhaps?", "start": 4620.78, "end": 4626.3}
+{"id": "vS5PyZcuLUk-t4626.3", "text": "I like this discussion about virtue.", "start": 4626.3, "end": 4628.82}
+{"id": "vS5PyZcuLUk-t4628.82", "text": "Of course, we need that.", "start": 4628.82, "end": 4630.1}
+{"id": "vS5PyZcuLUk-t4630.1", "text": "We need tons of that.", "start": 4630.1, "end": 4632.3}
+{"id": "vS5PyZcuLUk-t4632.3", "text": "But thinking about our lives and about the future and about what we're going to do in", "start": 4632.3, "end": 4638.26}
+{"id": "vS5PyZcuLUk-t4638.26", "text": "future, let's see what are the problems first of all.", "start": 4638.26, "end": 4644.06}
+{"id": "vS5PyZcuLUk-t4644.06", "text": "I mean, what are the problems we face as humanity, public health, pandemic, next epidemic, the", "start": 4644.06, "end": 4651.38}
+{"id": "vS5PyZcuLUk-t4651.38", "text": "other one, the third one, that's it.", "start": 4651.38, "end": 4656.18}
+{"id": "vS5PyZcuLUk-t4656.18", "text": "I mean, my graduation and multiculturalist, fourth, I think, I mean, what do we do?", "start": 4656.18, "end": 4673.66}
+{"id": "vS5PyZcuLUk-t4673.66", "text": "I mean, with an ethos who happened to live in the same neighborhood.", "start": 4673.66, "end": 4677.9800000000005}
+{"id": "vS5PyZcuLUk-t4677.9800000000005", "text": "And finally, the survival of democracy.", "start": 4677.9800000000005, "end": 4681.06}
+{"id": "vS5PyZcuLUk-t4681.06", "text": "It is not evident that our democracies will survive forever.", "start": 4681.06, "end": 4684.26}
+{"id": "vS5PyZcuLUk-t4684.26", "text": "Now, my question is this.", "start": 4684.26, "end": 4687.18}
+{"id": "vS5PyZcuLUk-t4687.18", "text": "I will make two points actually.", "start": 4687.18, "end": 4689.54}
+{"id": "vS5PyZcuLUk-t4689.54", "text": "First, I think that in all of those things, technocracy, technology is very crucial in", "start": 4689.54, "end": 4695.5}
+{"id": "vS5PyZcuLUk-t4695.5", "text": "all of those things.", "start": 4695.5, "end": 4697.1}
+{"id": "vS5PyZcuLUk-t4697.1", "text": "And I think that populists are very much inimical to the technology and the technocracy.", "start": 4697.1, "end": 4703.9400000000005}
+{"id": "vS5PyZcuLUk-t4703.9400000000005", "text": "It is the elite after all, okay?", "start": 4703.9400000000005, "end": 4707.34}
+{"id": "vS5PyZcuLUk-t4707.34", "text": "We don't like the elites because we're populists, but it so happens.", "start": 4707.34, "end": 4711.46}
+{"id": "vS5PyZcuLUk-t4711.46", "text": "But among the elites, most of the technocrats from bigade to the universities where all", "start": 4711.46, "end": 4719.78}
+{"id": "vS5PyZcuLUk-t4719.78", "text": "of you teach in the United States, you are very fond of technocracy and technology and", "start": 4719.78, "end": 4726.46}
+{"id": "vS5PyZcuLUk-t4726.46", "text": "populists don't like that.", "start": 4726.46, "end": 4728.22}
+{"id": "vS5PyZcuLUk-t4728.22", "text": "So we have to do something about it.", "start": 4728.22, "end": 4731.78}
+{"id": "vS5PyZcuLUk-t4731.78", "text": "So populists do not play a positive role.", "start": 4731.78, "end": 4734.06}
+{"id": "vS5PyZcuLUk-t4734.06", "text": "And my second point is that populists do not solve any of those big problems.", "start": 4734.06, "end": 4739.94}
+{"id": "vS5PyZcuLUk-t4739.94", "text": "Apparently, accept or theoretically accept inequality.", "start": 4739.94, "end": 4744.54}
+{"id": "vS5PyZcuLUk-t4744.54", "text": "But do they have the means?", "start": 4744.54, "end": 4745.7}
+{"id": "vS5PyZcuLUk-t4745.7", "text": "Do they have the policies?", "start": 4745.7, "end": 4747.46}
+{"id": "vS5PyZcuLUk-t4747.46", "text": "Do they have the agenda to solve socio-economic inequality?", "start": 4747.46, "end": 4751.9}
+{"id": "vS5PyZcuLUk-t4751.9", "text": "No.", "start": 4751.9, "end": 4752.9}
+{"id": "vS5PyZcuLUk-t4752.9", "text": "So I will leave it here by saying that liberal democracy is the only and better solution", "start": 4752.9, "end": 4758.9}
+{"id": "vS5PyZcuLUk-t4758.9", "text": "that we have and we have to improve the institutions of our liberal democracies.", "start": 4758.9, "end": 4765.0599999999995}
+{"id": "vS5PyZcuLUk-t4765.0599999999995", "text": "And this is the stance I will take in this discussion.", "start": 4765.0599999999995, "end": 4768.099999999999}
+{"id": "vS5PyZcuLUk-t4768.1", "text": "Maybe the panelists could respond to the Fishline question that's on the Q&A.", "start": 4768.1, "end": 4776.22}
+{"id": "vS5PyZcuLUk-t4776.22", "text": "Yeah, yeah.", "start": 4776.22, "end": 4777.22}
+{"id": "vS5PyZcuLUk-t4777.22", "text": "I'll read it out for you.", "start": 4777.22, "end": 4778.3}
+{"id": "vS5PyZcuLUk-t4778.3", "text": "So the first one, Scott wrote, thank you, Scott, for writing these questions.", "start": 4778.3, "end": 4782.660000000001}
+{"id": "vS5PyZcuLUk-t4782.660000000001", "text": "The first one he wrote was, what do the panelists think about the idea of popular and communitarian", "start": 4782.660000000001, "end": 4788.22}
+{"id": "vS5PyZcuLUk-t4788.22", "text": "thought and again after Trump that the rise of right-wing populists movements in the", "start": 4788.22, "end": 4793.860000000001}
+{"id": "vS5PyZcuLUk-t4793.86", "text": "United States is a result of a hollowing out of America's civil society and engagement", "start": 4793.86, "end": 4799.74}
+{"id": "vS5PyZcuLUk-t4799.74", "text": "in local politics is a big part of left and right-wing populism, some sort of illusion", "start": 4799.74, "end": 4805.339999999999}
+{"id": "vS5PyZcuLUk-t4805.339999999999", "text": "of national engagement in politics that replaces the vital role of engagement in community life", "start": 4805.339999999999, "end": 4811.299999999999}
+{"id": "vS5PyZcuLUk-t4811.299999999999", "text": "in societies.", "start": 4811.299999999999, "end": 4812.58}
+{"id": "vS5PyZcuLUk-t4812.58", "text": "We'll talk about a second question.", "start": 4812.58, "end": 4818.0599999999995}
+{"id": "vS5PyZcuLUk-t4818.0599999999995", "text": "And then the second one, excuse me, it seems that all right-wing populism is immediately", "start": 4818.0599999999995, "end": 4823.38}
+{"id": "vS5PyZcuLUk-t4823.38", "text": "labeled fascism by the left media and all left-wing populism is immediately labeled socialism", "start": 4823.38, "end": 4829.18}
+{"id": "vS5PyZcuLUk-t4829.18", "text": "by the right-wing media.", "start": 4829.18, "end": 4830.900000000001}
+{"id": "vS5PyZcuLUk-t4830.900000000001", "text": "And that ultimately this prevents any real engagement for the country with the very real", "start": 4830.900000000001, "end": 4835.5}
+{"id": "vS5PyZcuLUk-t4835.5", "text": "problems that generate these movements and give demagogues like Trump a platform.", "start": 4835.5, "end": 4840.7}
+{"id": "vS5PyZcuLUk-t4840.7", "text": "How can we engage with people's outrage in a more constructive way than populism or labeling", "start": 4840.7, "end": 4845.900000000001}
+{"id": "vS5PyZcuLUk-t4845.900000000001", "text": "people's grievances as politically radical and therefore invalid?", "start": 4845.900000000001, "end": 4852.06}
+{"id": "vS5PyZcuLUk-t4852.06", "text": "And I think I'll just say briefly, I really like that second point.", "start": 4852.06, "end": 4856.34}
+{"id": "vS5PyZcuLUk-t4856.34", "text": "It's very, it's really fascinating and important which is that populism tends to be a label", "start": 4856.34, "end": 4864.02}
+{"id": "vS5PyZcuLUk-t4864.02", "text": "of denigration often used to undermine the valid dimension of massive social movements.", "start": 4864.02, "end": 4875.46}
+{"id": "vS5PyZcuLUk-t4875.46", "text": "We are right to be very worried about the anti-democratic dimensions as Tarkis has talked", "start": 4875.46, "end": 4882.82}
+{"id": "vS5PyZcuLUk-t4882.82", "text": "about throughout.", "start": 4882.82, "end": 4883.82}
+{"id": "vS5PyZcuLUk-t4883.82", "text": "At the same time, I think we want to respond to Trumpism by saying it reveals as Don and", "start": 4883.82, "end": 4894.38}
+{"id": "vS5PyZcuLUk-t4894.38", "text": "Jay's talk about the underlying displacement of masses of Americans economically.", "start": 4894.38, "end": 4902.18}
+{"id": "vS5PyZcuLUk-t4902.18", "text": "So I think that's a good point that populism is a label that is right to use in a sense", "start": 4902.18, "end": 4910.780000000001}
+{"id": "vS5PyZcuLUk-t4910.780000000001", "text": "to pollute the anti-democratic and demagogu-d aspect but yet usually populism responds to", "start": 4910.780000000001, "end": 4917.700000000001}
+{"id": "vS5PyZcuLUk-t4917.700000000001", "text": "deep fractures that need to be repaired in a society.", "start": 4917.700000000001, "end": 4922.1}
+{"id": "vS5PyZcuLUk-t4922.1", "text": "I mean, I think one thing we can think about is sort of what is government for and what", "start": 4922.1, "end": 4929.66}
+{"id": "vS5PyZcuLUk-t4929.66", "text": "are the limits of what government can achieve and what are political movements for.", "start": 4929.66, "end": 4935.139999999999}
+{"id": "vS5PyZcuLUk-t4935.139999999999", "text": "And when I think about economic issues or issues of distributive justice or even issues", "start": 4935.139999999999, "end": 4940.38}
+{"id": "vS5PyZcuLUk-t4940.38", "text": "of access to certain kinds of institutions, those seem like places where government can", "start": 4940.38, "end": 4947.0599999999995}
+{"id": "vS5PyZcuLUk-t4947.0599999999995", "text": "do something and ought to do something.", "start": 4947.0599999999995, "end": 4949.94}
+{"id": "vS5PyZcuLUk-t4949.94", "text": "But if the grievances are related to there are too many brown people in my neighborhood,", "start": 4949.94, "end": 4955.099999999999}
+{"id": "vS5PyZcuLUk-t4955.099999999999", "text": "I don't think that's something that government should be in the business of doing quite the", "start": 4955.099999999999, "end": 4957.74}
+{"id": "vS5PyZcuLUk-t4957.74", "text": "opposite.", "start": 4957.74, "end": 4959.82}
+{"id": "vS5PyZcuLUk-t4959.82", "text": "So politics of grievance can be politics of legitimate grievance or illegitimate grievance", "start": 4959.82, "end": 4965.66}
+{"id": "vS5PyZcuLUk-t4965.66", "text": "and we have to hold the line on we have a multicultural, plural society.", "start": 4965.66, "end": 4970.0199999999995}
+{"id": "vS5PyZcuLUk-t4970.0199999999995", "text": "I'm an immigrant, a legal immigrant and a naturalized citizen of this country and I've", "start": 4970.0199999999995, "end": 4974.38}
+{"id": "vS5PyZcuLUk-t4974.38", "text": "also immigrated to other countries.", "start": 4974.38, "end": 4975.82}
+{"id": "vS5PyZcuLUk-t4975.82", "text": "I spent some years living in the UK and I think that's been central to the kind of American", "start": 4975.82, "end": 4983.0599999999995}
+{"id": "vS5PyZcuLUk-t4983.06", "text": "experiment in American national ideology and politicians of all strikes should agree with", "start": 4983.06, "end": 4987.620000000001}
+{"id": "vS5PyZcuLUk-t4987.620000000001", "text": "that.", "start": 4987.620000000001, "end": 4989.3}
+{"id": "vS5PyZcuLUk-t4989.3", "text": "But we can also say that these kinds of grievance politics are exacerbated by certain kinds of", "start": 4989.3, "end": 4996.54}
+{"id": "vS5PyZcuLUk-t4996.54", "text": "economic phenomena and you don't have to respond directly to people's feelings but you can", "start": 4996.54, "end": 5005.02}
+{"id": "vS5PyZcuLUk-t5005.02", "text": "respond to what their feelings might be driven by if you think that's a legitimate side for", "start": 5005.02, "end": 5008.740000000001}
+{"id": "vS5PyZcuLUk-t5008.74", "text": "government intervention in a problem of distributive justice or a problem of equality and rights.", "start": 5008.74, "end": 5016.5}
+{"id": "vS5PyZcuLUk-t5016.5", "text": "And again, not to sort of jump on the Republican hobby horse too much but solidarity is also", "start": 5016.5, "end": 5025.139999999999}
+{"id": "vS5PyZcuLUk-t5025.139999999999", "text": "a word that's kind of dropped out of our politics.", "start": 5025.139999999999, "end": 5027.34}
+{"id": "vS5PyZcuLUk-t5027.34", "text": "The fraternity element of our Republican imagination and I think there ought to be a bigger space", "start": 5027.34, "end": 5035.179999999999}
+{"id": "vS5PyZcuLUk-t5035.18", "text": "for solidarity, not just solidarity among say the working class or anything like that but", "start": 5035.18, "end": 5042.02}
+{"id": "vS5PyZcuLUk-t5042.02", "text": "solidarity across class divisions, across racial divisions and this is really central", "start": 5042.02, "end": 5046.780000000001}
+{"id": "vS5PyZcuLUk-t5046.780000000001", "text": "and needs to be restored to our politics too.", "start": 5046.780000000001, "end": 5050.22}
+{"id": "vS5PyZcuLUk-t5050.22", "text": "And so far as we think of populism as a bad thing, I think part of the appropriate response", "start": 5050.22, "end": 5055.14}
+{"id": "vS5PyZcuLUk-t5055.14", "text": "also has to be building a culture of solidarity.", "start": 5055.14, "end": 5058.740000000001}
+{"id": "vS5PyZcuLUk-t5058.74", "text": "Well I would say that populism can be redeemed if you will, it is not always bad.", "start": 5058.74, "end": 5067.0599999999995}
+{"id": "vS5PyZcuLUk-t5067.0599999999995", "text": "If it embraces a coalition building ethos that says let's reach out to other aggrieved", "start": 5067.0599999999995, "end": 5076.38}
+{"id": "vS5PyZcuLUk-t5076.38", "text": "people who don't look exactly like us and let's build a movement, then populism can", "start": 5076.38, "end": 5085.78}
+{"id": "vS5PyZcuLUk-t5085.78", "text": "be a very good thing.", "start": 5085.78, "end": 5087.82}
+{"id": "vS5PyZcuLUk-t5087.82", "text": "I guess so far as to say that populism created liberal democracy from the 18th century forward.", "start": 5087.82, "end": 5096.7}
+{"id": "vS5PyZcuLUk-t5096.7", "text": "It's not automatically an opposite force that we have to choose either or instead we need", "start": 5096.7, "end": 5107.099999999999}
+{"id": "vS5PyZcuLUk-t5107.099999999999", "text": "desperately to have a populist element in liberal democracy and we needed to have a coalition", "start": 5107.099999999999, "end": 5115.099999999999}
+{"id": "vS5PyZcuLUk-t5115.1", "text": "building ethos to it.", "start": 5115.1, "end": 5119.820000000001}
+{"id": "vS5PyZcuLUk-t5119.820000000001", "text": "That's how you get things done in a majority based political system.", "start": 5119.820000000001, "end": 5125.620000000001}
+{"id": "vS5PyZcuLUk-t5125.620000000001", "text": "And I mean what about going back to talk at this first point about illiberal democracy", "start": 5125.620000000001, "end": 5130.38}
+{"id": "vS5PyZcuLUk-t5130.38", "text": "being a definition in that there are certain virtues associated with illiberalism, they're", "start": 5130.38, "end": 5138.700000000001}
+{"id": "vS5PyZcuLUk-t5138.7", "text": "actually what they call with these folks who promote it, call their virtues and it's interesting", "start": 5138.7, "end": 5145.74}
+{"id": "vS5PyZcuLUk-t5145.74", "text": "to think well what are those and how might we neutralize them or engage them in a way", "start": 5145.74, "end": 5150.26}
+{"id": "vS5PyZcuLUk-t5150.26", "text": "that's more constructive.", "start": 5150.26, "end": 5154.54}
+{"id": "vS5PyZcuLUk-t5154.54", "text": "Can you be more specific about the virtues of illiberal democracy?", "start": 5154.54, "end": 5159.5}
+{"id": "vS5PyZcuLUk-t5159.5", "text": "Well let's see, one comes to mind.", "start": 5159.5, "end": 5162.94}
+{"id": "vS5PyZcuLUk-t5162.94", "text": "If the elites are overly educated in their egg heads they don't really know how the plain", "start": 5162.94, "end": 5168.78}
+{"id": "vS5PyZcuLUk-t5168.78", "text": "folk what they experience, what they do, there's this virtue which is we don't listen to experts.", "start": 5168.78, "end": 5178.0599999999995}
+{"id": "vS5PyZcuLUk-t5178.0599999999995", "text": "In fact listening to experts is considered a negative virtue.", "start": 5178.0599999999995, "end": 5181.78}
+{"id": "vS5PyZcuLUk-t5181.78", "text": "So that would be an example of what I mean.", "start": 5181.78, "end": 5184.98}
+{"id": "vS5PyZcuLUk-t5184.98", "text": "Also I think that there's such a thing as impartiality or that anyone might strive towards impartiality.", "start": 5184.98, "end": 5190.78}
+{"id": "vS5PyZcuLUk-t5190.78", "text": "I made this comment several times that Trump made a comment about their Republican judges", "start": 5190.78, "end": 5196.5}
+{"id": "vS5PyZcuLUk-t5196.5", "text": "and their Democratic judges and Justice Roberts said no no they're not and Trump said well", "start": 5196.5, "end": 5201.98}
+{"id": "vS5PyZcuLUk-t5201.98", "text": "of course they are you're being a chump and I know.", "start": 5201.98, "end": 5205.099999999999}
+{"id": "vS5PyZcuLUk-t5205.099999999999", "text": "He was going to speak the truth on that occasion of course.", "start": 5205.099999999999, "end": 5208.34}
+{"id": "vS5PyZcuLUk-t5208.34", "text": "We have a lifetime appointment super legislature that runs large parts of our public life.", "start": 5208.34, "end": 5214.86}
+{"id": "vS5PyZcuLUk-t5214.86", "text": "Of course we do.", "start": 5214.86, "end": 5215.86}
+{"id": "vS5PyZcuLUk-t5215.86", "text": "Every single political scientist would tell you that.", "start": 5215.86, "end": 5217.94}
+{"id": "vS5PyZcuLUk-t5217.94", "text": "But wait wait okay but yes if people want to write and if people left both seem to endorse", "start": 5217.94, "end": 5222.9}
+{"id": "vS5PyZcuLUk-t5222.9", "text": "that claim of Trump's which I would say is unfortunate in this sense that it's not prescriptive", "start": 5222.9, "end": 5231.139999999999}
+{"id": "vS5PyZcuLUk-t5231.139999999999", "text": "of the Democratic spirit.", "start": 5231.139999999999, "end": 5233.74}
+{"id": "vS5PyZcuLUk-t5233.74", "text": "Because judges do think they're being impartial and we have ways of discerning people who", "start": 5233.74, "end": 5239.179999999999}
+{"id": "vS5PyZcuLUk-t5239.179999999999", "text": "tend to be impartial were deliberative in their judgments and people who are not and", "start": 5239.179999999999, "end": 5244.54}
+{"id": "vS5PyZcuLUk-t5244.54", "text": "I think everyone can recognize that or usually can and it's an important virtue that I don't", "start": 5244.54, "end": 5250.62}
+{"id": "vS5PyZcuLUk-t5250.62", "text": "hear from it very much and not to use a clang term.", "start": 5250.62, "end": 5254.54}
+{"id": "vS5PyZcuLUk-t5254.54", "text": "But just on the point of intention of impartiality I mean one issue we haven't spoken about is", "start": 5254.54, "end": 5261.54}
+{"id": "vS5PyZcuLUk-t5261.54", "text": "nationalism versus cosmopolitanism.", "start": 5261.54, "end": 5265.62}
+{"id": "vS5PyZcuLUk-t5265.62", "text": "That's a different version of it but it's complementary to what you're saying and illiberal", "start": 5265.62, "end": 5270.62}
+{"id": "vS5PyZcuLUk-t5270.62", "text": "politics are usually highly nationalistic and explicitly anti-conson-polliton which they", "start": 5270.62, "end": 5278.78}
+{"id": "vS5PyZcuLUk-t5278.78", "text": "associate cosmopolitanism with intellectuals choose and other people like bankers etc.", "start": 5278.78, "end": 5289.26}
+{"id": "vS5PyZcuLUk-t5289.26", "text": "Just can I give a Jerry's point about expertise because I think this is really interesting.", "start": 5289.26, "end": 5293.66}
+{"id": "vS5PyZcuLUk-t5293.66", "text": "I mean I think listening to experts you framed it very carefully listening to experts is", "start": 5293.66, "end": 5299.7}
+{"id": "vS5PyZcuLUk-t5299.7", "text": "a good thing we might think because there are problems that arise in complex political", "start": 5299.7, "end": 5305.139999999999}
+{"id": "vS5PyZcuLUk-t5305.139999999999", "text": "societies that require expertise to address them.", "start": 5305.139999999999, "end": 5308.66}
+{"id": "vS5PyZcuLUk-t5308.66", "text": "But rule by experts is bad anti-democratic and inappropriate.", "start": 5308.66, "end": 5315.5}
+{"id": "vS5PyZcuLUk-t5315.5", "text": "And there's a strain of anti-democracy on the technocratic left just as there is on", "start": 5315.5, "end": 5321.74}
+{"id": "vS5PyZcuLUk-t5321.74", "text": "the kind of hyper-nationalist or hyper-populist right which wants to exclude people from voter", "start": 5321.74, "end": 5329.82}
+{"id": "vS5PyZcuLUk-t5329.82", "text": "rolls and things like that.", "start": 5329.82, "end": 5332.54}
+{"id": "vS5PyZcuLUk-t5332.54", "text": "And one way of being anti-democratic is being technocratic, two technocratic and saying", "start": 5332.54, "end": 5337.3}
+{"id": "vS5PyZcuLUk-t5337.3", "text": "I think a great example of this is in the current pandemic we've had this kind of polarized", "start": 5337.3, "end": 5343.38}
+{"id": "vS5PyZcuLUk-t5343.38", "text": "response to public health guidance that either wants to say well public health experts are", "start": 5343.38, "end": 5348.98}
+{"id": "vS5PyZcuLUk-t5348.98", "text": "the right people to make these political decisions on our behalf and Anthony Fauci should decide", "start": 5348.98, "end": 5354.0199999999995}
+{"id": "vS5PyZcuLUk-t5354.0199999999995", "text": "whether we should shut down or not which fails to recognize that there are lots of goals,", "start": 5354.0199999999995, "end": 5359.9}
+{"id": "vS5PyZcuLUk-t5359.9", "text": "political goals that we have in a public health crisis that have to be balanced against each", "start": 5359.9, "end": 5363.219999999999}
+{"id": "vS5PyZcuLUk-t5363.219999999999", "text": "other.", "start": 5363.219999999999, "end": 5364.219999999999}
+{"id": "vS5PyZcuLUk-t5364.219999999999", "text": "And I think this comes out most clearly in the conversation about school closures.", "start": 5364.219999999999, "end": 5368.179999999999}
+{"id": "vS5PyZcuLUk-t5368.179999999999", "text": "Even after it's been, it seems like schools can be reopened pretty safely, it's become", "start": 5368.179999999999, "end": 5372.259999999999}
+{"id": "vS5PyZcuLUk-t5372.259999999999", "text": "a kind of principle in certain corners of the left in our current political system to say", "start": 5372.259999999999, "end": 5378.099999999999}
+{"id": "vS5PyZcuLUk-t5378.1", "text": "no the schools have to stay shut which ignores the massive inequality that is drive as when", "start": 5378.1, "end": 5382.660000000001}
+{"id": "vS5PyZcuLUk-t5382.660000000001", "text": "you think about the radically higher effects of school closures on poorer and minority", "start": 5382.660000000001, "end": 5387.620000000001}
+{"id": "vS5PyZcuLUk-t5387.620000000001", "text": "children.", "start": 5387.620000000001, "end": 5389.1}
+{"id": "vS5PyZcuLUk-t5389.1", "text": "And so I think just realizing that there is no such thing as political expertise that", "start": 5389.1, "end": 5395.820000000001}
+{"id": "vS5PyZcuLUk-t5395.820000000001", "text": "there is only political wisdom which is to say there is a sense of the different kinds", "start": 5395.820000000001, "end": 5400.38}
+{"id": "vS5PyZcuLUk-t5400.38", "text": "of goals that we are trying to pursue on behalf of all of us.", "start": 5400.38, "end": 5404.9400000000005}
+{"id": "vS5PyZcuLUk-t5404.94", "text": "And we have an sort of imperfect people who are sufficiently different from each other", "start": 5404.94, "end": 5408.5}
+{"id": "vS5PyZcuLUk-t5408.5", "text": "who are going to deliberate and figure this out but they are not experts in anything.", "start": 5408.5, "end": 5413.259999999999}
+{"id": "vS5PyZcuLUk-t5413.259999999999", "text": "They should listen to experts and so far as expert knowledge is relevant and available.", "start": 5413.259999999999, "end": 5418.139999999999}
+{"id": "vS5PyZcuLUk-t5418.139999999999", "text": "And of course saying you never listen to experts is just as foolish as saying always", "start": 5418.139999999999, "end": 5420.98}
+{"id": "vS5PyZcuLUk-t5420.98", "text": "listen to experts.", "start": 5420.98, "end": 5422.46}
+{"id": "vS5PyZcuLUk-t5422.46", "text": "But I think there is a deeper truth that is not a nonpartisan truth about the nature of", "start": 5422.46, "end": 5427.339999999999}
+{"id": "vS5PyZcuLUk-t5427.339999999999", "text": "politics that we can get to here just by careful reflection on what it is that we are doing", "start": 5427.339999999999, "end": 5431.78}
+{"id": "vS5PyZcuLUk-t5431.78", "text": "when we are deliberating together.", "start": 5431.78, "end": 5432.78}
+{"id": "vS5PyZcuLUk-t5432.78", "text": "I think one of the things that gives expertise a bad name is that experts claim their authority", "start": 5432.78, "end": 5441.099999999999}
+{"id": "vS5PyZcuLUk-t5441.099999999999", "text": "on universal characteristics they would say we know the scientific truth and that is good", "start": 5441.099999999999, "end": 5448.54}
+{"id": "vS5PyZcuLUk-t5448.54", "text": "for everybody and we sort of insist that it go down.", "start": 5448.54, "end": 5455.5}
+{"id": "vS5PyZcuLUk-t5455.5", "text": "When in fact they are advocating a set of policies that benefit a very narrow slice of", "start": 5455.5, "end": 5462.62}
+{"id": "vS5PyZcuLUk-t5462.62", "text": "the population.", "start": 5462.62, "end": 5464.38}
+{"id": "vS5PyZcuLUk-t5464.38", "text": "So when experts claim to be to have universal validity but actually are being very selfish", "start": 5464.38, "end": 5473.14}
+{"id": "vS5PyZcuLUk-t5473.14", "text": "then that is a perfect ticket for getting discredited on the populist level.", "start": 5473.14, "end": 5480.86}
+{"id": "vS5PyZcuLUk-t5480.86", "text": "So I think one of the reasons, one of the things that sets off populist movements is", "start": 5480.86, "end": 5488.58}
+{"id": "vS5PyZcuLUk-t5488.58", "text": "that the elites really have failed for people.", "start": 5488.58, "end": 5491.9}
+{"id": "vS5PyZcuLUk-t5491.9", "text": "And that means that if information based elites that is experts want to retain the", "start": 5491.9, "end": 5503.339999999999}
+{"id": "vS5PyZcuLUk-t5503.339999999999", "text": "respect of the public and they have to kind of keep doing a gut check about whether their", "start": 5503.339999999999, "end": 5510.259999999999}
+{"id": "vS5PyZcuLUk-t5510.259999999999", "text": "advice is truly beneficial for people at large or only a fraction.", "start": 5510.259999999999, "end": 5518.86}
+{"id": "vS5PyZcuLUk-t5518.86", "text": "Well last century in his public opinion Walter Lippmann had written about the use of stereotypes", "start": 5518.86, "end": 5527.58}
+{"id": "vS5PyZcuLUk-t5527.58", "text": "as a potent force in driving public opinion how much they repressed ideas as much as they", "start": 5527.58, "end": 5535.299999999999}
+{"id": "vS5PyZcuLUk-t5535.299999999999", "text": "put forward ideas which is an interestingly psychoanalytic way of looking at stereotypes.", "start": 5535.299999999999, "end": 5542.5}
+{"id": "vS5PyZcuLUk-t5542.5", "text": "But I would say that the issue about let's say experts and expertise is that in this information", "start": 5542.5, "end": 5548.98}
+{"id": "vS5PyZcuLUk-t5548.98", "text": "marketplace some of these stereotypes end up acting as tokens and the sort of subtleties", "start": 5548.98, "end": 5555.62}
+{"id": "vS5PyZcuLUk-t5555.62", "text": "that you just both of you just expressed about expertise which is wonderful and should be", "start": 5555.62, "end": 5560.54}
+{"id": "vS5PyZcuLUk-t5560.54", "text": "out there ends up being repressed pushed away because of the effect of these stereotypes.", "start": 5560.54, "end": 5567.38}
+{"id": "vS5PyZcuLUk-t5567.38", "text": "Okay, how many questions are we feeling sorry just because there's one on YouTube and I", "start": 5567.38, "end": 5574.5}
+{"id": "vS5PyZcuLUk-t5574.5", "text": "have one myself but I don't want to abuse my position as a Q&A moderator.", "start": 5574.5, "end": 5580.22}
+{"id": "vS5PyZcuLUk-t5580.22", "text": "So if that's cautious so there's one on YouTube and then I could give mine if that's okay", "start": 5580.22, "end": 5584.54}
+{"id": "vS5PyZcuLUk-t5584.54", "text": "with all of you otherwise I'll just do the one on YouTube.", "start": 5584.54, "end": 5587.46}
+{"id": "vS5PyZcuLUk-t5587.46", "text": "No no you can do that too.", "start": 5587.46, "end": 5589.46}
+{"id": "vS5PyZcuLUk-t5589.46", "text": "Okay, okay.", "start": 5589.46, "end": 5590.46}
+{"id": "vS5PyZcuLUk-t5590.46", "text": "You're both.", "start": 5590.46, "end": 5591.46}
+{"id": "vS5PyZcuLUk-t5591.46", "text": "Okay so the one on YouTube is from Robert Price thank you Robert.", "start": 5591.46, "end": 5595.66}
+{"id": "vS5PyZcuLUk-t5595.66", "text": "So Robert wrote what is the balance between identity versus issue or virtue with regard", "start": 5595.66, "end": 5601.74}
+{"id": "vS5PyZcuLUk-t5601.74", "text": "to intensity of emotions?", "start": 5601.74, "end": 5603.98}
+{"id": "vS5PyZcuLUk-t5603.98", "text": "Are different orders of passion generated by identity and issues or virtues?", "start": 5603.98, "end": 5612.46}
+{"id": "vS5PyZcuLUk-t5612.46", "text": "I mean just I just like to say that a lot of can be popular.", "start": 5612.46, "end": 5616.94}
+{"id": "vS5PyZcuLUk-t5616.94", "text": "Let me let me try.", "start": 5616.94, "end": 5618.94}
+{"id": "vS5PyZcuLUk-t5618.94", "text": "Wait hold on Taka's we got a little delay here but Jeff why don't you go first then we'll", "start": 5618.94, "end": 5622.9}
+{"id": "vS5PyZcuLUk-t5622.9", "text": "take you talk to us.", "start": 5622.9, "end": 5625.22}
+{"id": "vS5PyZcuLUk-t5625.22", "text": "I think that's a good question because a lot of the fear of populism is the fear of emotions", "start": 5625.22, "end": 5632.1}
+{"id": "vS5PyZcuLUk-t5632.1", "text": "in politics as endangering supposedly the virtue of deliberative rationality and I don't", "start": 5632.1, "end": 5643.46}
+{"id": "vS5PyZcuLUk-t5643.46", "text": "agree with that I think that sociologically mass movements are emotional and in that sense", "start": 5643.46, "end": 5652.02}
+{"id": "vS5PyZcuLUk-t5652.02", "text": "they all engage in stereotypes they engage in in passion and non rational behavior that", "start": 5652.02, "end": 5661.860000000001}
+{"id": "vS5PyZcuLUk-t5661.860000000001", "text": "gives them if you want to start from every the center yes it gives them a dimension of", "start": 5661.860000000001, "end": 5667.620000000001}
+{"id": "vS5PyZcuLUk-t5667.620000000001", "text": "populism but it doesn't make an anti-democratic.", "start": 5667.620000000001, "end": 5672.620000000001}
+{"id": "vS5PyZcuLUk-t5672.620000000001", "text": "Taka's?", "start": 5672.620000000001, "end": 5674.820000000001}
+{"id": "vS5PyZcuLUk-t5674.82", "text": "Well more or less what Jeffrey said but from a slightly different perspective I do not", "start": 5674.82, "end": 5683.219999999999}
+{"id": "vS5PyZcuLUk-t5683.219999999999", "text": "understand why mass movements are emotional I think they are rational to a very large", "start": 5683.219999999999, "end": 5689.219999999999}
+{"id": "vS5PyZcuLUk-t5689.219999999999", "text": "extent but let us not argue about that.", "start": 5689.219999999999, "end": 5693.74}
+{"id": "vS5PyZcuLUk-t5693.74", "text": "I think that again going trying to answer both questions I was listening to you earlier", "start": 5693.74, "end": 5700.219999999999}
+{"id": "vS5PyZcuLUk-t5700.22", "text": "guys I mean talking about perhaps populists might be a good thing and populists created", "start": 5700.22, "end": 5705.26}
+{"id": "vS5PyZcuLUk-t5705.26", "text": "liberallies meant you know to take to technocracy and I was thinking from my little place in", "start": 5705.26, "end": 5712.02}
+{"id": "vS5PyZcuLUk-t5712.02", "text": "Europe because I'm in Europe that if I remember well you had an election a few months ago", "start": 5712.02, "end": 5718.38}
+{"id": "vS5PyZcuLUk-t5718.38", "text": "in the United States and the whole society became very much polarized about those issues", "start": 5718.38, "end": 5724.860000000001}
+{"id": "vS5PyZcuLUk-t5724.86", "text": "we are all of the motions we are all of technology what do we do with you know COVID-19 how do", "start": 5724.86, "end": 5729.82}
+{"id": "vS5PyZcuLUk-t5729.82", "text": "we face that and you know rationality technocracy etc etc so that did you forget about that", "start": 5729.82, "end": 5738.139999999999}
+{"id": "vS5PyZcuLUk-t5738.139999999999", "text": "so populist was not a good thing and this is why the American people voted for you know", "start": 5738.139999999999, "end": 5743.94}
+{"id": "vS5PyZcuLUk-t5743.94", "text": "a different administration and non populist one because that was the issue I mean a liberallies", "start": 5743.94, "end": 5749.099999999999}
+{"id": "vS5PyZcuLUk-t5749.099999999999", "text": "versus liberallies.", "start": 5749.099999999999, "end": 5751.099999999999}
+{"id": "vS5PyZcuLUk-t5751.1", "text": "So the interesting thing here is that emotions versus rationality are populists it's always", "start": 5751.1, "end": 5760.58}
+{"id": "vS5PyZcuLUk-t5760.58", "text": "about words about ethos about emotions about resentment resentment vindictiveness those", "start": 5760.58, "end": 5769.58}
+{"id": "vS5PyZcuLUk-t5769.58", "text": "are crucial feelings behind the rise of populist movements on the other hand you have rationality", "start": 5769.58, "end": 5778.34}
+{"id": "vS5PyZcuLUk-t5778.34", "text": "problem solving making positive some games not zero some games how to build positive some", "start": 5778.34, "end": 5785.7}
+{"id": "vS5PyZcuLUk-t5785.7", "text": "games this is not the game of populist this is the game of liberallies okay so that is", "start": 5785.7, "end": 5793.5}
+{"id": "vS5PyZcuLUk-t5793.5", "text": "the the thing that has a balance that has to be achieved in our societies I mean how much", "start": 5793.5, "end": 5799.46}
+{"id": "vS5PyZcuLUk-t5799.46", "text": "emotion how much rationality what do we want how do we what do we prefer what do we choose", "start": 5799.46, "end": 5806.58}
+{"id": "vS5PyZcuLUk-t5806.58", "text": "when you know the chips go down like now with COVID for example so that is you're describing", "start": 5806.58, "end": 5813.1}
+{"id": "vS5PyZcuLUk-t5813.1", "text": "this is an enormous process for us to understand what they are.", "start": 5813.1, "end": 5816.94}
+{"id": "vS5PyZcuLUk-t5816.94", "text": "Well it seems to me I don't know they go to get us forward sample of the importance of", "start": 5816.94, "end": 5822.18}
+{"id": "vS5PyZcuLUk-t5822.18", "text": "a long term perspective because populism was part of the collapse of the Soviet Union populism", "start": 5822.18, "end": 5831.22}
+{"id": "vS5PyZcuLUk-t5831.22", "text": "a represent was throughout the Arab Spring that didn't work out as well as it should have", "start": 5831.22, "end": 5837.46}
+{"id": "vS5PyZcuLUk-t5837.46", "text": "but populism is part of the legacy of the American and French revolutions and that ultimately", "start": 5837.46, "end": 5843.900000000001}
+{"id": "vS5PyZcuLUk-t5843.900000000001", "text": "strengthens liberal democracy populism can be an enormously liberating thing in the proper", "start": 5843.900000000001, "end": 5855.14}
+{"id": "vS5PyZcuLUk-t5855.14", "text": "context and so that's why I'd like to keep a window open to the the positive aspects of", "start": 5855.14, "end": 5867.22}
+{"id": "vS5PyZcuLUk-t5867.22", "text": "populism because in the law in historical long run there it has been very important to my", "start": 5867.22, "end": 5876.780000000001}
+{"id": "vS5PyZcuLUk-t5876.780000000001", "text": "way thank you anyway.", "start": 5876.780000000001, "end": 5877.780000000001}
+{"id": "vS5PyZcuLUk-t5877.780000000001", "text": "That is fully legitimate Harry I understand that of course but I don't forget that there", "start": 5877.780000000001, "end": 5884.820000000001}
+{"id": "vS5PyZcuLUk-t5884.82", "text": "was a populist president in your country a few months ago.", "start": 5884.82, "end": 5890.299999999999}
+{"id": "vS5PyZcuLUk-t5890.299999999999", "text": "Yes I think that's a perfect example I think the remarks you've made and the remarks I've", "start": 5890.299999999999, "end": 5898.54}
+{"id": "vS5PyZcuLUk-t5898.54", "text": "made are good examples of the way that populism has in effect a two-faced character it can", "start": 5898.54, "end": 5908.139999999999}
+{"id": "vS5PyZcuLUk-t5908.14", "text": "be beneficial and it can be very harmful and you know like like so many other things it", "start": 5908.14, "end": 5916.700000000001}
+{"id": "vS5PyZcuLUk-t5916.700000000001", "text": "needs to be deployed properly.", "start": 5916.700000000001, "end": 5922.38}
+{"id": "vS5PyZcuLUk-t5922.38", "text": "Alex you want to go back fire away with your question?", "start": 5922.38, "end": 5925.26}
+{"id": "vS5PyZcuLUk-t5925.26", "text": "Yeah so I kind of want to put the mirrors on to the populist leaders so what do you think", "start": 5925.26, "end": 5930.3}
+{"id": "vS5PyZcuLUk-t5930.3", "text": "about this statement the populism that we see you especially amongst Trump and the other", "start": 5930.3, "end": 5935.34}
+{"id": "vS5PyZcuLUk-t5935.34", "text": "leaders you mentioned is a reflection of the road in competence and sadism and incompetence", "start": 5935.34, "end": 5940.860000000001}
+{"id": "vS5PyZcuLUk-t5940.860000000001", "text": "being even emotional and confidence and so I've heard references to Venezuela and then", "start": 5940.860000000001, "end": 5945.78}
+{"id": "vS5PyZcuLUk-t5945.78", "text": "some of Modi's failed policies in India like with the land reform and I think the demonetization", "start": 5945.78, "end": 5951.5}
+{"id": "vS5PyZcuLUk-t5951.5", "text": "that was a complete catastrophe but I also thought of a funnier example I think it's", "start": 5951.5, "end": 5955.62}
+{"id": "vS5PyZcuLUk-t5955.62", "text": "also rather telling is the MVP so the member of European Parliament from Hungary I can't", "start": 5955.62, "end": 5962.82}
+{"id": "vS5PyZcuLUk-t5962.82", "text": "I don't want to pronounce his name because I'm not going to get it right but he wrote", "start": 5962.82, "end": 5966.46}
+{"id": "vS5PyZcuLUk-t5966.46", "text": "the Constitution of Hungary that Hungary currently has on his iPad he made gay marriage illegal", "start": 5966.46, "end": 5973.5}
+{"id": "vS5PyZcuLUk-t5973.5", "text": "and he was found in Belgium at a orgy amongst like 20 other men during the lockdown with", "start": 5973.5, "end": 5980.42}
+{"id": "vS5PyZcuLUk-t5980.42", "text": "ecstasy on him and so he's like oh that's not mine but boy it's like you know that's", "start": 5980.42, "end": 5985.38}
+{"id": "vS5PyZcuLUk-t5985.38", "text": "I the other reason I came up with this besides that funny story is that in Hayek Friedrich", "start": 5985.38, "end": 5989.62}
+{"id": "vS5PyZcuLUk-t5989.62", "text": "Hayek's wrote the serfdom when he looks back on the collectivism amongst Naziism Italian", "start": 5989.62, "end": 5995.22}
+{"id": "vS5PyZcuLUk-t5995.22", "text": "fascism and US sarcommism that you have these characters who really exact really brutal", "start": 5995.22, "end": 6001.86}
+{"id": "vS5PyZcuLUk-t6001.86", "text": "like this brutalism amongst the people and you really sort of wonder what would these", "start": 6001.86, "end": 6005.5}
+{"id": "vS5PyZcuLUk-t6005.5", "text": "people be doing if they didn't live in these societies in this way like would they have", "start": 6005.5, "end": 6009.98}
+{"id": "vS5PyZcuLUk-t6009.98", "text": "this political power and then lastly to bring it more modern if you look at the distinction", "start": 6009.98, "end": 6014.66}
+{"id": "vS5PyZcuLUk-t6014.66", "text": "in immigration policy between Trump and Obama they did similar things Obama deported I think", "start": 6014.66, "end": 6021.139999999999}
+{"id": "vS5PyZcuLUk-t6021.139999999999", "text": "more people than Trump did and a lot of the pictures of kids and cages were also during", "start": 6021.139999999999, "end": 6025.34}
+{"id": "vS5PyZcuLUk-t6025.34", "text": "Obama I think Obama was better in general I'm not I'm just saying like what I guess yeah", "start": 6025.34, "end": 6030.42}
+{"id": "vS5PyZcuLUk-t6030.42", "text": "so what line do we draw between like this incompetence and sadism seen amongst these", "start": 6030.42, "end": 6035.0199999999995}
+{"id": "vS5PyZcuLUk-t6035.0199999999995", "text": "populist leaders versus I guess what we see with leaders that we're seeing are normal", "start": 6035.0199999999995, "end": 6039.86}
+{"id": "vS5PyZcuLUk-t6039.86", "text": "or you know fit the mold that are not populist I mean I think there's definitely a dimension", "start": 6039.86, "end": 6046.74}
+{"id": "vS5PyZcuLUk-t6046.74", "text": "to which some of these differences are about language about the kind of form of political", "start": 6046.74, "end": 6051.58}
+{"id": "vS5PyZcuLUk-t6051.58", "text": "communication and I'm always very interested in what the actual material impact of people's", "start": 6051.58, "end": 6058.46}
+{"id": "vS5PyZcuLUk-t6058.46", "text": "policies are rather than in the way they talk but you have to admit that you know the", "start": 6058.46, "end": 6063.98}
+{"id": "vS5PyZcuLUk-t6063.98", "text": "way that politicians and leaders talk does have an effect on the limits of acceptable", "start": 6063.98, "end": 6069.94}
+{"id": "vS5PyZcuLUk-t6069.94", "text": "discourse on the demonization of minorities in particular I mean I think I think especially", "start": 6069.94, "end": 6077.379999999999}
+{"id": "vS5PyZcuLUk-t6077.379999999999", "text": "if you look at the corruption that has come hand in hand with with populist leaders all", "start": 6077.379999999999, "end": 6084.9}
+{"id": "vS5PyZcuLUk-t6084.9", "text": "over the map you know the kind of patronage politics or cronyism that you know those are", "start": 6084.9, "end": 6089.82}
+{"id": "vS5PyZcuLUk-t6089.82", "text": "those are very material impacts that you can see like our contracts going to the friends", "start": 6089.82, "end": 6094.0199999999995}
+{"id": "vS5PyZcuLUk-t6094.0199999999995", "text": "of this charismatic leader or not so that those kinds of very concrete authoritarian tendencies", "start": 6094.0199999999995, "end": 6101.099999999999}
+{"id": "vS5PyZcuLUk-t6101.099999999999", "text": "I think are important to keep in mind in competence that's interesting I mean the tendency is", "start": 6101.099999999999, "end": 6108.46}
+{"id": "vS5PyZcuLUk-t6108.46", "text": "for populist leaders to come in from the outside but not always right Modi is a good example", "start": 6108.46, "end": 6113.98}
+{"id": "vS5PyZcuLUk-t6113.98", "text": "he was sort of normal part of BJP politics for a very long time before he came to power", "start": 6113.98, "end": 6121.7}
+{"id": "vS5PyZcuLUk-t6121.7", "text": "and it was only because he was stained from from the 2002 scandal in Gujarat the sectarian", "start": 6121.7, "end": 6126.66}
+{"id": "vS5PyZcuLUk-t6126.66", "text": "violence there that he he had to wait his time before he could he could successfully", "start": 6126.66, "end": 6132.0599999999995}
+{"id": "vS5PyZcuLUk-t6132.0599999999995", "text": "run for higher office and he did you know he was kind of forgiven by the elite in various", "start": 6132.0599999999995, "end": 6137.98}
+{"id": "vS5PyZcuLUk-t6137.98", "text": "ways for his role in that and you know I think some of some of his trade policies and", "start": 6137.98, "end": 6145.78}
+{"id": "vS5PyZcuLUk-t6145.78", "text": "international development policies and infrastructure policies have worked and some of them have", "start": 6145.78, "end": 6149.9}
+{"id": "vS5PyZcuLUk-t6149.9", "text": "been disastrous but you know the I think the lasting legacy is not going to be sort of", "start": 6149.9, "end": 6155.5}
+{"id": "vS5PyZcuLUk-t6155.5", "text": "the normal politics but rather the demonization of Muslims the reconstruction of India not", "start": 6155.5, "end": 6161.099999999999}
+{"id": "vS5PyZcuLUk-t6161.099999999999", "text": "as a secular but as a Hindu country and if you think about Trump and his effect we have", "start": 6161.099999999999, "end": 6165.219999999999}
+{"id": "vS5PyZcuLUk-t6165.22", "text": "a kind of nationalist strain a xenophobic strain in our politics that has not succeeded before", "start": 6165.22, "end": 6171.3}
+{"id": "vS5PyZcuLUk-t6171.3", "text": "post-World War II I mean other people have had this strain you know think about Pat Buchanan", "start": 6171.3, "end": 6176.3}
+{"id": "vS5PyZcuLUk-t6176.3", "text": "and various other people who have been sort of openly nationalistic but you can just sort", "start": 6176.3, "end": 6180.900000000001}
+{"id": "vS5PyZcuLUk-t6180.900000000001", "text": "of say white nationalist things as a normal member of the Republican Party especially", "start": 6180.900000000001, "end": 6184.860000000001}
+{"id": "vS5PyZcuLUk-t6184.860000000001", "text": "at the local level and that scene is acceptable and that's a change from the top so I think", "start": 6184.860000000001, "end": 6189.06}
+{"id": "vS5PyZcuLUk-t6189.06", "text": "I think that's the kind of that's that's the worrisome legacy outlasting any of the", "start": 6189.06, "end": 6194.38}
+{"id": "vS5PyZcuLUk-t6194.38", "text": "incompetence or the competence of particular economic or tax policy or whatever else you", "start": 6194.38, "end": 6198.78}
+{"id": "vS5PyZcuLUk-t6198.78", "text": "got.", "start": 6198.78, "end": 6199.78}
+{"id": "vS5PyZcuLUk-t6199.78", "text": "Okay.", "start": 6199.78, "end": 6200.78}
+{"id": "vS5PyZcuLUk-t6200.78", "text": "Well, what do you mean by incompetence?", "start": 6200.78, "end": 6206.9400000000005}
+{"id": "vS5PyZcuLUk-t6206.9400000000005", "text": "Can I?", "start": 6206.9400000000005, "end": 6208.74}
+{"id": "vS5PyZcuLUk-t6208.74", "text": "Yeah well yeah because I yeah because even sort of saw this with because yeah just sorry", "start": 6208.74, "end": 6215.86}
+{"id": "vS5PyZcuLUk-t6215.86", "text": "just to clarify because you know with the with the people who stormed the Michigan State", "start": 6215.86, "end": 6219.82}
+{"id": "vS5PyZcuLUk-t6219.82", "text": "House and then even the people who stormed the Capitol building on June January 6th", "start": 6219.82, "end": 6227.38}
+{"id": "vS5PyZcuLUk-t6227.38", "text": "there was this idea that they were larping like their live action role playing and so", "start": 6227.38, "end": 6230.78}
+{"id": "vS5PyZcuLUk-t6230.78", "text": "this idea that they're enacting a fantasy and then in a way when people talk about even", "start": 6230.78, "end": 6235.179999999999}
+{"id": "vS5PyZcuLUk-t6235.179999999999", "text": "Trump and some of the policies he did a lot of the time you're like what you know what", "start": 6235.179999999999, "end": 6239.74}
+{"id": "vS5PyZcuLUk-t6239.74", "text": "like why is he hiring these people who are obviously not good at their jobs like he's", "start": 6239.74, "end": 6243.82}
+{"id": "vS5PyZcuLUk-t6243.82", "text": "not good at his job to pick competent people so that's what I meant by I guess incompetence", "start": 6243.82, "end": 6248.94}
+{"id": "vS5PyZcuLUk-t6248.94", "text": "in that way and I guess even mentally or emotional incompetence would be with the with the you", "start": 6248.94, "end": 6253.54}
+{"id": "vS5PyZcuLUk-t6253.54", "text": "know talking about the guy from Hungary obviously having maybe being closeted and then enacting", "start": 6253.54, "end": 6259.259999999999}
+{"id": "vS5PyZcuLUk-t6259.259999999999", "text": "and then creating a constitution doesn't allow you know civil rights to gay and lesbian couples", "start": 6259.259999999999, "end": 6265.179999999999}
+{"id": "vS5PyZcuLUk-t6265.179999999999", "text": "so I guess that's it's yeah it's not the most concise definition of incompetence but that's", "start": 6265.179999999999, "end": 6270.139999999999}
+{"id": "vS5PyZcuLUk-t6270.139999999999", "text": "sort of what I just think words because I mean yeah I mean the Hungarian guy I mean this", "start": 6270.139999999999, "end": 6277.94}
+{"id": "vS5PyZcuLUk-t6277.94", "text": "happened here in my neighborhood by the way three weeks ago four weeks ago he was you", "start": 6277.94, "end": 6284.66}
+{"id": "vS5PyZcuLUk-t6284.66", "text": "know he was a creep I mean he went to that boardy and he was caught and tried to escape", "start": 6284.66, "end": 6289.74}
+{"id": "vS5PyZcuLUk-t6289.74", "text": "the police he was taken to the police station etc etc I mean that's that's that's okay he", "start": 6289.74, "end": 6295.339999999999}
+{"id": "vS5PyZcuLUk-t6295.339999999999", "text": "was a hypocrite anyways I mean he's one of the students of all-bound in Budapest but", "start": 6295.339999999999, "end": 6303.379999999999}
+{"id": "vS5PyZcuLUk-t6303.38", "text": "that's not the point the point is that police leaders when they come to power they have proven", "start": 6303.38, "end": 6311.34}
+{"id": "vS5PyZcuLUk-t6311.34", "text": "their competence okay they're strong charismatic leaders in most of the cases they create from", "start": 6311.34, "end": 6317.54}
+{"id": "vS5PyZcuLUk-t6317.54", "text": "scratch their own parties like Chavez like Orban himself by the way like the Ruscone or", "start": 6317.54, "end": 6324.58}
+{"id": "vS5PyZcuLUk-t6324.58", "text": "they take over parties created by others like your Trump for example right or Perron he", "start": 6324.58, "end": 6331.62}
+{"id": "vS5PyZcuLUk-t6331.62", "text": "created his own party Alberto Fichimor in Peru created his own party Rafael Correa in Ecuador", "start": 6331.62, "end": 6337.14}
+{"id": "vS5PyZcuLUk-t6337.14", "text": "so those are important strong people with great you know blunt ideas about the future and they", "start": 6337.14, "end": 6347.86}
+{"id": "vS5PyZcuLUk-t6347.86", "text": "apply radical policies now they may be confident in implementing their policies I don't disagree", "start": 6347.86, "end": 6358.0599999999995}
+{"id": "vS5PyZcuLUk-t6358.06", "text": "with that of course but they are very charismatic leaders in all the cases there's not any case", "start": 6358.06, "end": 6364.780000000001}
+{"id": "vS5PyZcuLUk-t6364.780000000001", "text": "of charismatic leaders if I know again in power that has not had previously a charismatic leader", "start": 6364.780000000001, "end": 6372.660000000001}
+{"id": "vS5PyZcuLUk-t6372.660000000001", "text": "so it is that's a fact yeah all right well I think we should as much as I'd like to hear this go on", "start": 6372.660000000001, "end": 6382.42}
+{"id": "vS5PyZcuLUk-t6382.42", "text": "this has been a wonderful conversation I would say it's incredible I think it's time to wrap up", "start": 6382.42, "end": 6387.820000000001}
+{"id": "vS5PyZcuLUk-t6387.82", "text": "I want to again thank our our participants for such a lively conversation and our audience too for", "start": 6387.82, "end": 6395.66}
+{"id": "vS5PyZcuLUk-t6395.66", "text": "their their participation and their listening again we're going to be reconvening on what was", "start": 6395.66, "end": 6404.62}
+{"id": "vS5PyZcuLUk-t6404.62", "text": "the date I gave you March 20th for the placebo roundtable and further information to follow in our", "start": 6404.62, "end": 6413.179999999999}
+{"id": "vS5PyZcuLUk-t6413.18", "text": "website thank you again gentlemen and have a great great day and good weekend thank you thank you very", "start": 6413.18, "end": 6419.9800000000005}
+{"id": "vS5PyZcuLUk-t6419.98", "text": "much thanks everybody enjoyed it", "start": 6419.98, "end": 6444.54}
+{"id": "vS5PyZcuLUk-t6449.98", "text": "you", "start": 6449.98, "end": 6451.98}

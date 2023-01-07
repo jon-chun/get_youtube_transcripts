@@ -1,0 +1,891 @@
+{"id": "iZgcMEoLCjA-t0.0", "text": "Okay, thank you.", "start": 0.0, "end": 5.0}
+{"id": "iZgcMEoLCjA-t5.0", "text": "Okay, I'm at the necessity and director of the center.", "start": 5.0, "end": 10.0}
+{"id": "iZgcMEoLCjA-t10.0", "text": "Welcome to the meeting today on the completeness of physics.", "start": 10.0, "end": 14.0}
+{"id": "iZgcMEoLCjA-t18.0", "text": "The participants today are Joseph Cohen, who's professor emeritus of mathematics from Princeton University.", "start": 18.0, "end": 27.0}
+{"id": "iZgcMEoLCjA-t27.0", "text": "Team Modlin, who's professor of philosophy at New York University.", "start": 27.0, "end": 33.0}
+{"id": "iZgcMEoLCjA-t33.0", "text": "Priyam Vadhan Nataryan, who's professor of astronomy and physics at Yale University.", "start": 33.0, "end": 40.0}
+{"id": "iZgcMEoLCjA-t40.0", "text": "Jonathan Kramnik, professor of main art math, professor of English, also at Yale.", "start": 40.0, "end": 46.0}
+{"id": "iZgcMEoLCjA-t46.0", "text": "And Kallorovane, professor of philosophy at Columbia University.", "start": 46.0, "end": 51.0}
+{"id": "iZgcMEoLCjA-t51.0", "text": "We have one more meeting scheduled this year.", "start": 51.0, "end": 54.0}
+{"id": "iZgcMEoLCjA-t54.0", "text": "It will be in June and its combination of science and art and its own turbulence.", "start": 54.0, "end": 65.0}
+{"id": "iZgcMEoLCjA-t65.0", "text": "And there will be an art show during that week.", "start": 65.0, "end": 71.0}
+{"id": "iZgcMEoLCjA-t71.0", "text": "And the meeting, unlike our usual meetings, will not be on a Saturday, but on a Thursday night.", "start": 71.0, "end": 77.0}
+{"id": "iZgcMEoLCjA-t77.0", "text": "I think it's June, the first Thursday, you can find it on the website.", "start": 77.0, "end": 95.0}
+{"id": "iZgcMEoLCjA-t95.0", "text": "That's it.", "start": 95.0, "end": 100.0}
+{"id": "iZgcMEoLCjA-t100.0", "text": "Why is everybody looking at me? What are we supposed to be talking about?", "start": 100.0, "end": 108.0}
+{"id": "iZgcMEoLCjA-t108.0", "text": "The completeness of physics. I'm sorry, I can't remember the time.", "start": 108.0, "end": 111.0}
+{"id": "iZgcMEoLCjA-t111.0", "text": "Yeah, that's it.", "start": 111.0, "end": 113.0}
+{"id": "iZgcMEoLCjA-t113.0", "text": "The implications of the completeness of physics.", "start": 113.0, "end": 117.0}
+{"id": "iZgcMEoLCjA-t117.0", "text": "I'll start. I'll start. I will start. Just to give. So there's a kind of sense in the science community that the physicists are a little bit uppity.", "start": 117.0, "end": 136.0}
+{"id": "iZgcMEoLCjA-t136.0", "text": "And yeah, just a little and feel like there occupy some higher position in virtual of their subject matter than the other scientists.", "start": 136.0, "end": 148.0}
+{"id": "iZgcMEoLCjA-t148.0", "text": "And, you know, there's some manner of hostility around that.", "start": 148.0, "end": 156.0}
+{"id": "iZgcMEoLCjA-t156.0", "text": "It's certainly true that the physicists have been able, just as a matter of fact, to be incredibly successful at making quite precise predictions for certain experiments and testing them to many degrees, many, many decimal places", "start": 156.0, "end": 175.0}
+{"id": "iZgcMEoLCjA-t175.0", "text": "and having them come out right in a way that the biologists or the economists or the chemists even never will give them as long as you want. There will never be a biological thesis that gives rise to a prediction to 14 decimal places and check to that accuracy.", "start": 175.0, "end": 195.0}
+{"id": "iZgcMEoLCjA-t195.0", "text": "And so there's this sort of ambient sense that physics holds a primary in some sense a primary or foundational role among the sciences and at the height of arrogance.", "start": 195.0, "end": 214.0}
+{"id": "iZgcMEoLCjA-t214.0", "text": "A physicist might say, well, all of chemistry that's really physics just done a little sloppily and all biology that's really chemistry just done even more sloppily.", "start": 214.0, "end": 228.0}
+{"id": "iZgcMEoLCjA-t228.0", "text": "And so on up the scale.", "start": 228.0, "end": 232.0}
+{"id": "iZgcMEoLCjA-t232.0", "text": "And that is for a perfectly trained mind.", "start": 232.0, "end": 237.0}
+{"id": "iZgcMEoLCjA-t237.0", "text": "Everything would be clear if it was reduced to physics.", "start": 237.0, "end": 242.0}
+{"id": "iZgcMEoLCjA-t242.0", "text": "And I guess I guess I can start at least with a comment about about that, which is that there's something to it but not anything like what I just said.", "start": 242.0, "end": 253.0}
+{"id": "iZgcMEoLCjA-t253.0", "text": "And the something to it is that physics alone of the sciences has programmatically the requirement to cover everything in a certain sense within its own scope within its own vocabulary.", "start": 253.0, "end": 271.0}
+{"id": "iZgcMEoLCjA-t271.0", "text": "And within its own concepts.", "start": 271.0, "end": 274.0}
+{"id": "iZgcMEoLCjA-t274.0", "text": "So to give an example of the way the other sciences don't have this, think of medicine.", "start": 274.0, "end": 282.0}
+{"id": "iZgcMEoLCjA-t282.0", "text": "You go to your doctor and he examines you and he pronounces, you're going to live another 40 years.", "start": 282.0, "end": 289.0}
+{"id": "iZgcMEoLCjA-t289.0", "text": "And very happily you walk out of the doctor's office across the street, get hit by a bus and are killed.", "start": 289.0, "end": 298.0}
+{"id": "iZgcMEoLCjA-t298.0", "text": "And if you go to the doctor and say that was a pretty bad prediction, the doctor quite rightly will say, that's not my department.", "start": 298.0, "end": 310.0}
+{"id": "iZgcMEoLCjA-t310.0", "text": "My medical prognosis didn't cover collisions with buses.", "start": 310.0, "end": 317.0}
+{"id": "iZgcMEoLCjA-t317.0", "text": "That's out of my field.", "start": 317.0, "end": 320.0}
+{"id": "iZgcMEoLCjA-t320.0", "text": "And the difference is that the physicists can never say that.", "start": 320.0, "end": 328.0}
+{"id": "iZgcMEoLCjA-t328.0", "text": "Every medical event is a physical event.", "start": 328.0, "end": 331.0}
+{"id": "iZgcMEoLCjA-t331.0", "text": "Every economic event is a physical event.", "start": 331.0, "end": 335.0}
+{"id": "iZgcMEoLCjA-t335.0", "text": "Every biological event is also a physical event.", "start": 335.0, "end": 338.0}
+{"id": "iZgcMEoLCjA-t338.0", "text": "Every astronomical event is also a physical event.", "start": 338.0, "end": 342.0}
+{"id": "iZgcMEoLCjA-t342.0", "text": "Everything that happens in principle ought to be covered by physics using its own vocabulary and using its own set of concepts.", "start": 342.0, "end": 354.0}
+{"id": "iZgcMEoLCjA-t354.0", "text": "And it's never appropriate for a physicist to say that's not my department.", "start": 354.0, "end": 359.0}
+{"id": "iZgcMEoLCjA-t359.0", "text": "And the demand also for complete precision and accuracy is unique to physics.", "start": 359.0, "end": 364.0}
+{"id": "iZgcMEoLCjA-t364.0", "text": "Having said that, it's just false that the other sciences reduce to physics or are nothing but physics.", "start": 364.0, "end": 372.0}
+{"id": "iZgcMEoLCjA-t372.0", "text": "The other sciences use their own conceptual systems, their own vocabularies, their own explanatory structures and give insight and understanding into events that you'll never get studied the physics as much as you want.", "start": 372.0, "end": 391.0}
+{"id": "iZgcMEoLCjA-t391.0", "text": "If you want to understand what Joyce was doing when he wrote Finnegan's Wake, we were just having a discussion about this, a complete physical description down to the last detail of his brain will not help you.", "start": 391.0, "end": 409.0}
+{"id": "iZgcMEoLCjA-t409.0", "text": "Study it as much as you want.", "start": 409.0, "end": 414.0}
+{"id": "iZgcMEoLCjA-t414.0", "text": "So there's an interesting question of how the sciences relate to each other and how different forms of understanding and comprehension relate to each other and how independent the sciences, the special sciences can become of the physical basis, which I don't think there's a general answer to.", "start": 414.0, "end": 436.0}
+{"id": "iZgcMEoLCjA-t436.0", "text": "So I think before we move on to looking at the relationship between other sciences, it is worthwhile pointing out how physics has achieved the kind of successes that it has and sort of looking perhaps at what the metaphysical, epistemological suppositions that were needed to understand sort of this success.", "start": 436.0, "end": 462.0}
+{"id": "iZgcMEoLCjA-t462.0", "text": "And this notion of being able to order phenomena to formulate laws.", "start": 462.0, "end": 473.0}
+{"id": "iZgcMEoLCjA-t473.0", "text": "And I think that's sort of one particular intellectual claim that physics would make, right?", "start": 473.0, "end": 482.0}
+{"id": "iZgcMEoLCjA-t482.0", "text": "That there's something deep about the nature of reality and the order of the physical world that physicists, in combination with mathematics, have just found the right vocabulary to distill.", "start": 482.0, "end": 502.0}
+{"id": "iZgcMEoLCjA-t502.0", "text": "I would say that in this pecking order, if you're going to have a pecking order, mathematics obviously goes on top of what we do.", "start": 502.0, "end": 519.0}
+{"id": "iZgcMEoLCjA-t519.0", "text": "But we can do that one out.", "start": 519.0, "end": 522.0}
+{"id": "iZgcMEoLCjA-t522.0", "text": "You have to do not know what you can do.", "start": 522.0, "end": 524.0}
+{"id": "iZgcMEoLCjA-t524.0", "text": "You have to do something about mathematics.", "start": 524.0, "end": 527.0}
+{"id": "iZgcMEoLCjA-t527.0", "text": "I just thought philosophy of science and the first day of class, I said, how do we divide, we have the arts and sciences, where does everybody go?", "start": 527.0, "end": 537.0}
+{"id": "iZgcMEoLCjA-t537.0", "text": "And of course mathematics was just off by itself, because it's not empirical, it doesn't have laboratories.", "start": 537.0, "end": 545.0}
+{"id": "iZgcMEoLCjA-t545.0", "text": "It doesn't fit with any of the other sciences, although in some sense it's a science.", "start": 545.0, "end": 549.0}
+{"id": "iZgcMEoLCjA-t549.0", "text": "It's an interesting question. Let me just say this, we have a weird quote from a physicist.", "start": 549.0, "end": 557.0}
+{"id": "iZgcMEoLCjA-t557.0", "text": "And I think it's something funny.", "start": 557.0, "end": 560.0}
+{"id": "iZgcMEoLCjA-t560.0", "text": "Neil's bore said that there are two kinds of truths.", "start": 560.0, "end": 565.0}
+{"id": "iZgcMEoLCjA-t565.0", "text": "The small truths and the great truths.", "start": 565.0, "end": 569.0}
+{"id": "iZgcMEoLCjA-t569.0", "text": "The small truths have the property that the opposite of a small truth is false.", "start": 569.0, "end": 579.0}
+{"id": "iZgcMEoLCjA-t579.0", "text": "But the great truths have the property that the opposite of a great truth is also true.", "start": 579.0, "end": 586.0}
+{"id": "iZgcMEoLCjA-t586.0", "text": "So, I mean, this is nonsense of course in some ways, but in some ways there's something to it.", "start": 586.0, "end": 592.0}
+{"id": "iZgcMEoLCjA-t592.0", "text": "I want to say that what's in there is that I don't view, I mean there's a kind of division about physics and biology and so on.", "start": 592.0, "end": 606.0}
+{"id": "iZgcMEoLCjA-t606.0", "text": "People say disciplines are divided inside a discipline.", "start": 606.0, "end": 611.0}
+{"id": "iZgcMEoLCjA-t611.0", "text": "There is cosmology and there's solid state physics and I don't know what.", "start": 611.0, "end": 615.0}
+{"id": "iZgcMEoLCjA-t615.0", "text": "But I just want to look at the general picture.", "start": 615.0, "end": 619.0}
+{"id": "iZgcMEoLCjA-t619.0", "text": "The general picture, how do people, what science, what do people understand the science?", "start": 619.0, "end": 625.0}
+{"id": "iZgcMEoLCjA-t625.0", "text": "So, science seems to me is taking something that's demonstrably false, a model.", "start": 625.0, "end": 634.0}
+{"id": "iZgcMEoLCjA-t634.0", "text": "In the early days science was mostly plotting, figuring out how large plots are and doing architecture and so on.", "start": 634.0, "end": 647.0}
+{"id": "iZgcMEoLCjA-t647.0", "text": "And so, you start drawing lines on paper and you say that represents something real.", "start": 647.0, "end": 655.0}
+{"id": "iZgcMEoLCjA-t655.0", "text": "Well, there's no such thing.", "start": 655.0, "end": 657.0}
+{"id": "iZgcMEoLCjA-t657.0", "text": "I mean, a point is not, it's an abstraction.", "start": 657.0, "end": 661.0}
+{"id": "iZgcMEoLCjA-t661.0", "text": "I mean, if you look closely, what is a point?", "start": 661.0, "end": 664.0}
+{"id": "iZgcMEoLCjA-t664.0", "text": "It's some kind of thing, quarks or something.", "start": 664.0, "end": 668.0}
+{"id": "iZgcMEoLCjA-t668.0", "text": "I don't know.", "start": 668.0, "end": 669.0}
+{"id": "iZgcMEoLCjA-t669.0", "text": "So, you start out with something that's what people call a toy model, or a model.", "start": 669.0, "end": 678.0}
+{"id": "iZgcMEoLCjA-t678.0", "text": "And you say, okay, now we have this beautiful thing called plane geometry that seems to describe our world.", "start": 678.0, "end": 684.0}
+{"id": "iZgcMEoLCjA-t684.0", "text": "We can design buildings, we can design pyramids, we can design cities using plane geometry.", "start": 684.0, "end": 690.0}
+{"id": "iZgcMEoLCjA-t690.0", "text": "Well, it turns out that if you try to design routes for airplanes, plane geometry doesn't work.", "start": 690.0, "end": 698.0}
+{"id": "iZgcMEoLCjA-t698.0", "text": "You have to use spherical geometry.", "start": 698.0, "end": 700.0}
+{"id": "iZgcMEoLCjA-t700.0", "text": "And then you say, okay, so that's part of our geometrical world.", "start": 700.0, "end": 706.0}
+{"id": "iZgcMEoLCjA-t706.0", "text": "You have spheres and you know how to draw triangles on spheres and you have a spherical geometry.", "start": 706.0, "end": 711.0}
+{"id": "iZgcMEoLCjA-t711.0", "text": "Okay, but then after a while you find out that that doesn't work either and you have a Romanian geometry, you have a Lorentz in there and so on.", "start": 711.0, "end": 721.0}
+{"id": "iZgcMEoLCjA-t721.0", "text": "So, it seems to me that all of science consists of having some kind of model, which is usually a mathematical model or something.", "start": 721.0, "end": 735.0}
+{"id": "iZgcMEoLCjA-t735.0", "text": "And you know them, well, that's not the thing.", "start": 735.0, "end": 737.0}
+{"id": "iZgcMEoLCjA-t737.0", "text": "It's a model.", "start": 737.0, "end": 739.0}
+{"id": "iZgcMEoLCjA-t739.0", "text": "And then you make logical deductions from that.", "start": 739.0, "end": 746.0}
+{"id": "iZgcMEoLCjA-t746.0", "text": "And lo and behold, you'll find new phenomena, you look at the world and find that they work.", "start": 746.0, "end": 752.0}
+{"id": "iZgcMEoLCjA-t752.0", "text": "Maybe I'll give an example of that.", "start": 752.0, "end": 755.0}
+{"id": "iZgcMEoLCjA-t755.0", "text": "But anyway.", "start": 755.0, "end": 756.0}
+{"id": "iZgcMEoLCjA-t756.0", "text": "But the point is that these idealized models, right, they're very powerful.", "start": 756.0, "end": 761.0}
+{"id": "iZgcMEoLCjA-t761.0", "text": "They're very powerful.", "start": 761.0, "end": 762.0}
+{"id": "iZgcMEoLCjA-t762.0", "text": "They're extremely powerful.", "start": 762.0, "end": 763.0}
+{"id": "iZgcMEoLCjA-t763.0", "text": "And they come in very strange ways.", "start": 763.0, "end": 766.0}
+{"id": "iZgcMEoLCjA-t766.0", "text": "For example, you know, mathematicians had been from centuries trying to find formulas to solve equations.", "start": 766.0, "end": 774.0}
+{"id": "iZgcMEoLCjA-t774.0", "text": "The famous quadratic equation, you know, that formula to learn in high school.", "start": 774.0, "end": 779.0}
+{"id": "iZgcMEoLCjA-t779.0", "text": "It was a great achievement.", "start": 779.0, "end": 780.0}
+{"id": "iZgcMEoLCjA-t780.0", "text": "And then they worked very hard and actually found a solution, a cubic equation, you know, and a fifth degree equation.", "start": 780.0, "end": 788.0}
+{"id": "iZgcMEoLCjA-t788.0", "text": "And it was all mysterious.", "start": 788.0, "end": 789.0}
+{"id": "iZgcMEoLCjA-t789.0", "text": "What happens?", "start": 789.0, "end": 790.0}
+{"id": "iZgcMEoLCjA-t790.0", "text": "And then group theory was discovered.", "start": 790.0, "end": 794.0}
+{"id": "iZgcMEoLCjA-t794.0", "text": "And they found exactly what kind of formulas can be used for what equations from group theory, from what's called Galois theory.", "start": 794.0, "end": 803.0}
+{"id": "iZgcMEoLCjA-t803.0", "text": "And they developed a certain theory of groups, which means really symmetries of the roots of the polynomial.", "start": 803.0, "end": 810.0}
+{"id": "iZgcMEoLCjA-t810.0", "text": "Anyway, it's kind of a symmetric group.", "start": 810.0, "end": 813.0}
+{"id": "iZgcMEoLCjA-t813.0", "text": "Okay.", "start": 813.0, "end": 814.0}
+{"id": "iZgcMEoLCjA-t814.0", "text": "We're coming back to order, right?", "start": 814.0, "end": 815.0}
+{"id": "iZgcMEoLCjA-t815.0", "text": "We're coming back to order.", "start": 815.0, "end": 816.0}
+{"id": "iZgcMEoLCjA-t816.0", "text": "And so then came really one of the great mathematicians of all times, Emi Nerther, who noticed that the conservation laws of physics have to do,", "start": 816.0, "end": 829.0}
+{"id": "iZgcMEoLCjA-t829.0", "text": "the conservation laws of physics have to do with symmetries of space, of certain group.", "start": 829.0, "end": 834.0}
+{"id": "iZgcMEoLCjA-t834.0", "text": "And certain group, which mathematicians call it, so three, never mind.", "start": 834.0, "end": 839.0}
+{"id": "iZgcMEoLCjA-t839.0", "text": "But anyway, certain group analysis of that predicts the conservation laws of classical physics.", "start": 839.0, "end": 847.0}
+{"id": "iZgcMEoLCjA-t847.0", "text": "And then using the same idea, using other groups, you know, they were Herman Weil and Eugene Wigner and others,", "start": 847.0, "end": 856.0}
+{"id": "iZgcMEoLCjA-t856.0", "text": "developed a way of studying particle physics, using those groups as these ideas of group theory.", "start": 856.0, "end": 865.0}
+{"id": "iZgcMEoLCjA-t865.0", "text": "And they could do remarkable things.", "start": 865.0, "end": 867.0}
+{"id": "iZgcMEoLCjA-t867.0", "text": "They could predict quarks, predict new particles, just from the study of group theory.", "start": 867.0, "end": 875.0}
+{"id": "iZgcMEoLCjA-t875.0", "text": "So it's a kind of a back and forth business.", "start": 875.0, "end": 878.0}
+{"id": "iZgcMEoLCjA-t878.0", "text": "It's ideas sometimes are originally mathematics, sometimes are engineering physics, sometimes are engineering somewhere else,", "start": 878.0, "end": 888.0}
+{"id": "iZgcMEoLCjA-t888.0", "text": "are then abstracted into some kind of model and you work with that and use mathematical methods and find certain consequences.", "start": 888.0, "end": 899.0}
+{"id": "iZgcMEoLCjA-t899.0", "text": "And then you go and check in the real world if those consequences work.", "start": 899.0, "end": 904.0}
+{"id": "iZgcMEoLCjA-t904.0", "text": "And if they do, then you have an explanation.", "start": 904.0, "end": 908.0}
+{"id": "iZgcMEoLCjA-t908.0", "text": "But then, then, somewhat later, you may find out that kind of thing explains lots of stuff, the theory, right?", "start": 908.0, "end": 918.0}
+{"id": "iZgcMEoLCjA-t918.0", "text": "But at a certain point, it doesn't explain something.", "start": 918.0, "end": 921.0}
+{"id": "iZgcMEoLCjA-t921.0", "text": "So you'll modify the whole works and start a new theory.", "start": 921.0, "end": 924.0}
+{"id": "iZgcMEoLCjA-t924.0", "text": "And so you don't...", "start": 924.0, "end": 926.0}
+{"id": "iZgcMEoLCjA-t926.0", "text": "The goal is to explain everything.", "start": 926.0, "end": 929.0}
+{"id": "iZgcMEoLCjA-t929.0", "text": "The goal is to explain everything but step by step.", "start": 929.0, "end": 932.0}
+{"id": "iZgcMEoLCjA-t932.0", "text": "You don't explain everything in one blow.", "start": 932.0, "end": 935.0}
+{"id": "iZgcMEoLCjA-t935.0", "text": "The goal, if I understood you, if the goal is to explain everything, you were saying it's not possible.", "start": 935.0, "end": 942.0}
+{"id": "iZgcMEoLCjA-t942.0", "text": "The goal of physics is to account for all physical phenomena, which includes all the careful phenomena.", "start": 942.0, "end": 953.0}
+{"id": "iZgcMEoLCjA-t953.0", "text": "What does all mean? All is a function of time.", "start": 953.0, "end": 963.0}
+{"id": "iZgcMEoLCjA-t963.0", "text": "But it's a function of time.", "start": 963.0, "end": 966.0}
+{"id": "iZgcMEoLCjA-t966.0", "text": "Once I discover a new electron microscope or something, I'll find a new cyclotron or more powerful cyclotron.", "start": 966.0, "end": 976.0}
+{"id": "iZgcMEoLCjA-t976.0", "text": "I'll may discover new things. And then all would have to include that. And the previous theory explained everything before that may not explain that one.", "start": 976.0, "end": 986.0}
+{"id": "iZgcMEoLCjA-t986.0", "text": "But the reality exists whether or not. Whether you have an electron microscope when you are able to see viruses or not.", "start": 986.0, "end": 993.0}
+{"id": "iZgcMEoLCjA-t993.0", "text": "Viruses exist.", "start": 993.0, "end": 995.0}
+{"id": "iZgcMEoLCjA-t995.0", "text": "But somebody has to discover them before you say they exist.", "start": 995.0, "end": 1000.0}
+{"id": "iZgcMEoLCjA-t1000.0", "text": "I take it in a slightly different direction though to follow up on Tim.", "start": 1000.0, "end": 1006.0}
+{"id": "iZgcMEoLCjA-t1006.0", "text": "The two points that you are making that seem to be in a kind of interesting tension with each other.", "start": 1006.0, "end": 1010.0}
+{"id": "iZgcMEoLCjA-t1010.0", "text": "On the one hand that the goal of physics is to provide an account for everything.", "start": 1010.0, "end": 1014.0}
+{"id": "iZgcMEoLCjA-t1014.0", "text": "All of reality, all of the physical reality. At the same time, there's much that physics can't explain that lies outside of physics.", "start": 1014.0, "end": 1021.0}
+{"id": "iZgcMEoLCjA-t1021.0", "text": "It seems like you're committed to the degree to which I understand the propositions.", "start": 1021.0, "end": 1028.0}
+{"id": "iZgcMEoLCjA-t1028.0", "text": "I think I'm also committed to each one of those things.", "start": 1028.0, "end": 1031.0}
+{"id": "iZgcMEoLCjA-t1031.0", "text": "But it also seems to me that there is an interesting tension between the two.", "start": 1031.0, "end": 1035.0}
+{"id": "iZgcMEoLCjA-t1035.0", "text": "And perhaps we could just sort of spell that out of it.", "start": 1035.0, "end": 1037.0}
+{"id": "iZgcMEoLCjA-t1037.0", "text": "Because I think that lies at the heart of what it is that animates this question.", "start": 1037.0, "end": 1042.0}
+{"id": "iZgcMEoLCjA-t1042.0", "text": "Yeah. Can I give a really simple example?", "start": 1042.0, "end": 1045.0}
+{"id": "iZgcMEoLCjA-t1045.0", "text": "One thing I don't want it to do is sound mystical.", "start": 1045.0, "end": 1048.0}
+{"id": "iZgcMEoLCjA-t1048.0", "text": "So let me demystify it as much as possible.", "start": 1048.0, "end": 1053.0}
+{"id": "iZgcMEoLCjA-t1053.0", "text": "I have an object in front of me on the desk and there is a pattern of light coming at me from it.", "start": 1053.0, "end": 1062.0}
+{"id": "iZgcMEoLCjA-t1062.0", "text": "And I say to the physicist, way physicist.", "start": 1062.0, "end": 1068.0}
+{"id": "iZgcMEoLCjA-t1068.0", "text": "And you please predict what's going to happen with this pattern.", "start": 1068.0, "end": 1073.0}
+{"id": "iZgcMEoLCjA-t1073.0", "text": "And they take the object and they subject it to complete physical analysis.", "start": 1073.0, "end": 1077.0}
+{"id": "iZgcMEoLCjA-t1077.0", "text": "And they say, all right, what you have is a spectrum of light that's shifting in a certain patterned way.", "start": 1077.0, "end": 1085.0}
+{"id": "iZgcMEoLCjA-t1085.0", "text": "From our analysis, it will continue doing this for exactly 2.83 years and then stop.", "start": 1085.0, "end": 1092.0}
+{"id": "iZgcMEoLCjA-t1092.0", "text": "Good. And I can't describe to you how difficult what I'm saying would be to do.", "start": 1092.0, "end": 1099.0}
+{"id": "iZgcMEoLCjA-t1099.0", "text": "That is you take this thing and you have to analyze it down to the level of electrons and solve impossible equations.", "start": 1099.0, "end": 1106.0}
+{"id": "iZgcMEoLCjA-t1106.0", "text": "And you have to find the physicists all kinds of powers he doesn't have.", "start": 1106.0, "end": 1110.0}
+{"id": "iZgcMEoLCjA-t1110.0", "text": "But in principle, physics could do.", "start": 1110.0, "end": 1114.0}
+{"id": "iZgcMEoLCjA-t1114.0", "text": "And then I ask the computer scientist to come into the office.", "start": 1114.0, "end": 1120.0}
+{"id": "iZgcMEoLCjA-t1120.0", "text": "And he walks in front of the same object.", "start": 1120.0, "end": 1123.0}
+{"id": "iZgcMEoLCjA-t1123.0", "text": "He doesn't even look at it. He glances at it and looks at the sheets of paper that are sitting next to it.", "start": 1123.0, "end": 1129.0}
+{"id": "iZgcMEoLCjA-t1129.0", "text": "And he says, what you're seeing is this little spinning disk of death that comes up on your computer, right?", "start": 1129.0, "end": 1139.0}
+{"id": "iZgcMEoLCjA-t1139.0", "text": "When it's just thinking. And he just glances down at the papers and says, you idiot.", "start": 1139.0, "end": 1144.0}
+{"id": "iZgcMEoLCjA-t1144.0", "text": "Step 12 in your program is go to step 18 and step 18 is to go to step 12.", "start": 1144.0, "end": 1150.0}
+{"id": "iZgcMEoLCjA-t1150.0", "text": "You've built a loop into your program and that little guy is going to spin forever.", "start": 1150.0, "end": 1156.0}
+{"id": "iZgcMEoLCjA-t1156.0", "text": "That is your program will never stop.", "start": 1156.0, "end": 1159.0}
+{"id": "iZgcMEoLCjA-t1159.0", "text": "Now, he makes a prediction too. He says that this little light will go on forever. He's wrong.", "start": 1159.0, "end": 1165.0}
+{"id": "iZgcMEoLCjA-t1165.0", "text": "It's actually going to go off in 2.83 years when certain circuits burn out of the computer, which the physicist is fine with, right?", "start": 1165.0, "end": 1176.0}
+{"id": "iZgcMEoLCjA-t1176.0", "text": "But the computer scientist has given me a heck of a lot more insight or understanding or comprehension of what's going on.", "start": 1176.0, "end": 1185.0}
+{"id": "iZgcMEoLCjA-t1185.0", "text": "Then the physicist has. And this has exactly to do with building a model.", "start": 1185.0, "end": 1192.0}
+{"id": "iZgcMEoLCjA-t1192.0", "text": "The computer scientist has an abstract model of the computer and of the programming that he says, I don't care how you realize this thing in physics, right?", "start": 1192.0, "end": 1203.0}
+{"id": "iZgcMEoLCjA-t1203.0", "text": "I don't care what kind of chips you're using. I don't care what kind of elements there are.", "start": 1203.0, "end": 1208.0}
+{"id": "iZgcMEoLCjA-t1208.0", "text": "As long as what you've realized is described well by this abstract model, I can tell you what it's going to do.", "start": 1208.0, "end": 1216.0}
+{"id": "iZgcMEoLCjA-t1216.0", "text": "And so this is again, this is the example of bringing. So there's no tension between.", "start": 1216.0, "end": 1221.0}
+{"id": "iZgcMEoLCjA-t1221.0", "text": "I think I understand this better now. So in a sense, so Jins Zooming out even further, if you imagine this as being like a still life painting,", "start": 1221.0, "end": 1228.0}
+{"id": "iZgcMEoLCjA-t1228.0", "text": "using your example from the arts from earlier. So this is still life painting of a table with a bottle on it.", "start": 1228.0, "end": 1234.0}
+{"id": "iZgcMEoLCjA-t1234.0", "text": "You can give a physical account of it. And so far as you're describing the properties of light and the way you just did.", "start": 1234.0, "end": 1240.0}
+{"id": "iZgcMEoLCjA-t1240.0", "text": "So it lies within physics in that sense. But that account probably will not tell you very much about the painting itself.", "start": 1240.0, "end": 1247.0}
+{"id": "iZgcMEoLCjA-t1247.0", "text": "Or making predictions for the future of that object.", "start": 1247.0, "end": 1253.0}
+{"id": "iZgcMEoLCjA-t1253.0", "text": "So it's a description that's valid for a moment of time.", "start": 1253.0, "end": 1258.0}
+{"id": "iZgcMEoLCjA-t1258.0", "text": "Snapshot. Yeah. And in terms of our understanding is valid if you were interested in the questions that it answers, I suppose.", "start": 1258.0, "end": 1266.0}
+{"id": "iZgcMEoLCjA-t1266.0", "text": "But doesn't go very far to answer the question, well, tell me about this painting.", "start": 1266.0, "end": 1271.0}
+{"id": "iZgcMEoLCjA-t1271.0", "text": "Tell me what tell me about its aesthetic properties. Tell me about its historical meaning.", "start": 1271.0, "end": 1275.0}
+{"id": "iZgcMEoLCjA-t1275.0", "text": "Right. We're even even let's go to prediction. You've taken the painting into some of these.", "start": 1275.0, "end": 1281.0}
+{"id": "iZgcMEoLCjA-t1281.0", "text": "And you say, I would like a prediction for how much someone's going to be willing to pay for this object next week.", "start": 1281.0, "end": 1288.0}
+{"id": "iZgcMEoLCjA-t1288.0", "text": "The physicists is not going to have a chance at that, right? No way.", "start": 1288.0, "end": 1291.0}
+{"id": "iZgcMEoLCjA-t1291.0", "text": "And this person may very well be able to look at it and say, yeah, this looks like an authentic, you know, and I know the market and I know what people are thinking.", "start": 1291.0, "end": 1299.0}
+{"id": "iZgcMEoLCjA-t1299.0", "text": "And here's my prediction for how much it's going to go for.", "start": 1299.0, "end": 1302.0}
+{"id": "iZgcMEoLCjA-t1302.0", "text": "We just say, I don't get this line of argumentation. Are we talking about, I mean, this program since we're talking about possibilities in the future?", "start": 1302.0, "end": 1314.0}
+{"id": "iZgcMEoLCjA-t1314.0", "text": "I was saying today the physics is nothing to say about anything. That's physics. Can't say anything about joys or something like that.", "start": 1314.0, "end": 1321.0}
+{"id": "iZgcMEoLCjA-t1321.0", "text": "But we're talking about future of mankind, right? Physics and science has existed for a few hundred years, but it's developed enormously.", "start": 1321.0, "end": 1333.0}
+{"id": "iZgcMEoLCjA-t1333.0", "text": "And I don't think you can limit just by saying, because you don't understand what the physics can do today, you can't say that physics or science can't do something in the future.", "start": 1333.0, "end": 1344.0}
+{"id": "iZgcMEoLCjA-t1344.0", "text": "You don't know what it'll be able to do. You don't know what kind of understanding of the market forces there will be so that you can really predict by your move.", "start": 1344.0, "end": 1357.0}
+{"id": "iZgcMEoLCjA-t1357.0", "text": "I think it was just being excessive for the sake of argument.", "start": 1357.0, "end": 1360.0}
+{"id": "iZgcMEoLCjA-t1360.0", "text": "No, I was saying everything I said was perfectly sincere.", "start": 1360.0, "end": 1364.0}
+{"id": "iZgcMEoLCjA-t1364.0", "text": "Since I'm not being obsessive about anything.", "start": 1364.0, "end": 1367.0}
+{"id": "iZgcMEoLCjA-t1367.0", "text": "You mean you don't think you're being obsessive when you say that there are lots of purposes and explanatory enterprises that we pursue, which look right now as though they give us information that it would be hard to get just doing physics.", "start": 1367.0, "end": 1385.0}
+{"id": "iZgcMEoLCjA-t1385.0", "text": "I think that it will never give us that information.", "start": 1385.0, "end": 1388.0}
+{"id": "iZgcMEoLCjA-t1388.0", "text": "Well, I think that we should just be, you know, it's odd, so I want to jump in here. I think it's really interesting how much certitude there is in these discussions rather than agnosticism.", "start": 1388.0, "end": 1398.0}
+{"id": "iZgcMEoLCjA-t1398.0", "text": "So, okay.", "start": 1398.0, "end": 1402.0}
+{"id": "iZgcMEoLCjA-t1402.0", "text": "And the very idea of the completeness of physics is ambiguous between a lot of things, and that's why the conversation had a hard time getting going.", "start": 1402.0, "end": 1410.0}
+{"id": "iZgcMEoLCjA-t1410.0", "text": "And I've heard a number of different things already come up. You made clear you don't think it is the case that every truth you might want to know would be a truth that counts as the truth of physical theory, right?", "start": 1410.0, "end": 1424.0}
+{"id": "iZgcMEoLCjA-t1424.0", "text": "Because we might have other enterprises.", "start": 1424.0, "end": 1427.0}
+{"id": "iZgcMEoLCjA-t1427.0", "text": "That's one way in which you could think about an incompleteness of physics.", "start": 1427.0, "end": 1431.0}
+{"id": "iZgcMEoLCjA-t1431.0", "text": "And then you say, oh, well, but it turns out it's complete because there's no event that takes place that doesn't come within the purview of sort of the question, how did it happen where the answer would get a physical explanation.", "start": 1431.0, "end": 1443.0}
+{"id": "iZgcMEoLCjA-t1443.0", "text": "So that's another notion of completeness, which looks ontological almost.", "start": 1443.0, "end": 1447.0}
+{"id": "iZgcMEoLCjA-t1447.0", "text": "Then you have fundamental order. That's your notion. And so there's some notion of fundamentality there.", "start": 1447.0, "end": 1454.0}
+{"id": "iZgcMEoLCjA-t1454.0", "text": "Okay. So my colleague David Albert says things like, you know, what if we've discovered all the fundamental particles and all the fundamental laws that govern the fundamental particles, then that's everything.", "start": 1454.0, "end": 1464.0}
+{"id": "iZgcMEoLCjA-t1464.0", "text": "Now, but what notion of everything is it? You've already, so I think there's a concession about how, if you know that, there's much you still don't know, right?", "start": 1464.0, "end": 1474.0}
+{"id": "iZgcMEoLCjA-t1474.0", "text": "Literally don't know if the descriptions of James's work or the truth about a program that's about possibilities and not physical facts.", "start": 1474.0, "end": 1485.0}
+{"id": "iZgcMEoLCjA-t1485.0", "text": "And so at that point, once you know all the fundamental forces, you know, all the fundamental particles and you know how the forces are mediated, then what you don't know is the relationship between those.", "start": 1485.0, "end": 1500.0}
+{"id": "iZgcMEoLCjA-t1500.0", "text": "There are two terms. There are two terms. There's a thing already tracked by physics and there are the things that we describe not in the terms of physical theory, not in terms of those fundamental particles and so on.", "start": 1500.0, "end": 1513.0}
+{"id": "iZgcMEoLCjA-t1513.0", "text": "So there are two related. I mean, there's no, I'm talking about the previous layer, like even within physics one, there is an argument about whether you can have a theory of everything.", "start": 1513.0, "end": 1522.0}
+{"id": "iZgcMEoLCjA-t1522.0", "text": "That's totally unified. Okay. So that's another sense. Okay. So good. All right. So that's another sense. And then we could add in, I think, a further sense about what's unknowable by human beings.", "start": 1522.0, "end": 1534.0}
+{"id": "iZgcMEoLCjA-t1534.0", "text": "Right. So the aspiration to a kind of complete true theory of the world, at least in the sense that the physicist is interested, which might be", "start": 1534.0, "end": 1543.0}
+{"id": "iZgcMEoLCjA-t1543.0", "text": "obsessive about what doesn't fall inside the theory and what's not reducible to it. And I would just say for the record there that I would plump for.", "start": 1543.0, "end": 1553.0}
+{"id": "iZgcMEoLCjA-t1553.0", "text": "That's where I stop being agnostic, I guess. I think it's a very theological picture of ourselves that we can know everything. And if we really believe we've evolved and we believe that we have cognitive abilities that are products of evolution, I think it's", "start": 1553.0, "end": 1567.0}
+{"id": "iZgcMEoLCjA-t1567.0", "text": "a small step to say that they're limited. Yeah. I mean, you know, and it's a small step also to say that they're various and that what they deliver might not be integratable into a single unified theory.", "start": 1567.0, "end": 1583.0}
+{"id": "iZgcMEoLCjA-t1583.0", "text": "Right. So there might be things beyond those capacities and what those capacities deliver might not all fit together in a unified theory.", "start": 1583.0, "end": 1592.0}
+{"id": "iZgcMEoLCjA-t1592.0", "text": "I think that's just stepping far back from the details of physics. I think those are sure things to bet on. Sure. Yeah. Okay. So the pretensions of the completeness of physics and have to be specified much more carefully, so you don't sound like you're just", "start": 1592.0, "end": 1606.0}
+{"id": "iZgcMEoLCjA-t1606.0", "text": "seeing something pretty obviously not true. And the other thing that I would just inject into the conversation is if you want to step back and just say, well, we have physical theory, we have the goals of physical theory as Tim described,", "start": 1606.0, "end": 1621.0}
+{"id": "iZgcMEoLCjA-t1621.0", "text": "and as you've described them, not as just modeling, but actually, purporting to get at fundamental ontology, fundamental laws, fundamental order, and that things in space and time can always fall under the net of physical explanation.", "start": 1621.0, "end": 1638.0}
+{"id": "iZgcMEoLCjA-t1638.0", "text": "I think that's a sense of completeness of physics. That's consistent with us not knowing everything and consistent with maybe not everything that we think take ourselves to know being integratable into a single theory.", "start": 1638.0, "end": 1650.0}
+{"id": "iZgcMEoLCjA-t1650.0", "text": "Unified, reductive, or whatever. Once you get that far with the question of the completeness of physics, then I think I would just suggest that one good way to proceed is to ask, are there things we haven't yet put on the table that look like they're not promising candidates for understanding", "start": 1650.0, "end": 1678.0}
+{"id": "iZgcMEoLCjA-t1678.0", "text": "and physical terms, and that they're so distant from it that it starts to look, then you start to worry about completeness of physics. So the example I would give is first person point of view.", "start": 1678.0, "end": 1692.0}
+{"id": "iZgcMEoLCjA-t1692.0", "text": "There are many ways to think about it. There's bodily point of view from which you perceive and move. There's phenomenological point of view from which it's something that it's like to feel things.", "start": 1692.0, "end": 1704.0}
+{"id": "iZgcMEoLCjA-t1704.0", "text": "There's also a normative point of view from which you can reason and deliberate. They're not the same thing at all. But there are questions about whether I suppose physicists now say that there's something fundamentally", "start": 1704.0, "end": 1717.0}
+{"id": "iZgcMEoLCjA-t1717.0", "text": "perspectival about reality itself. I would start by just trying to think about what are the features of things accessible, we're inclined to say only from a first person point of view. And is there a tension between thinking about things under that description, accessible only from a first person point of view,", "start": 1717.0, "end": 1739.0}
+{"id": "iZgcMEoLCjA-t1739.0", "text": "and bringing it under the scope of physical explanation. That's one place where I would push and explore.", "start": 1739.0, "end": 1747.0}
+{"id": "iZgcMEoLCjA-t1747.0", "text": "That sounds right to me. I think this is compatible, I believe, with the point that Tim and I were working out earlier, which is that you could perhaps give something like a physical account of that.", "start": 1747.0, "end": 1758.0}
+{"id": "iZgcMEoLCjA-t1758.0", "text": "There wouldn't be an explanation of it, I suppose, or it wouldn't be a satisfying explanation of what something is like from a first person point of view. I would just add to that that there's most of the questions and topics that I think people care deeply", "start": 1758.0, "end": 1768.0}
+{"id": "iZgcMEoLCjA-t1768.0", "text": "about who aren't working on physics probably would fall under that broad domain, which is to say you could give it, you know, they're not outside of the scope of physical reality, but they nevertheless can't really be given a physical explanation.", "start": 1768.0, "end": 1783.0}
+{"id": "iZgcMEoLCjA-t1783.0", "text": "And I would add to first person point of view, most of human culture, that was my example of the arts earlier, but that's just one piece of it. I mean, most of human history, most of human culture, most of the kind of questions that people care about and are interested in who are not actually working", "start": 1783.0, "end": 1803.0}
+{"id": "iZgcMEoLCjA-t1803.0", "text": "on a physical basis, which is maybe to be sort of consensus from the other side, which is to say that physics is obviously very powerful in the ways that we've been just been told, but it's also the way that it could actually provide knowledge for us about much of what we care about is actually quite limited,", "start": 1803.0, "end": 1827.0}
+{"id": "iZgcMEoLCjA-t1827.0", "text": "I think probably a pretty deep relationship between those limits and its power. If that makes sense.", "start": 1827.0, "end": 1834.0}
+{"id": "iZgcMEoLCjA-t1834.0", "text": "That makes sense, yeah. It's, I guess what I take that point. What I'm looking for is perhaps an exploration of the features of the first person point of view that are detailed enough,", "start": 1834.0, "end": 1854.0}
+{"id": "iZgcMEoLCjA-t1854.0", "text": "that so not like broad things about the kinds of things we care about and being acculturated and so on and products of history and having lots of purposes besides physical explanation, all of that's true.", "start": 1854.0, "end": 1865.0}
+{"id": "iZgcMEoLCjA-t1865.0", "text": "But if you just think of the nature of the first person, that nature threw up first person points of view, so to speak, you know, just think about some of their most fundamental features and ask what would it look like to try to tackle that in a physicist spirit.", "start": 1865.0, "end": 1880.0}
+{"id": "iZgcMEoLCjA-t1880.0", "text": "That's what I'm looking for. I'm kind of agnostic, but I have places where I have doubts anyway, so that's what I am inviting.", "start": 1880.0, "end": 1887.0}
+{"id": "iZgcMEoLCjA-t1887.0", "text": "Well, look, I sort of agree with the sentiments that you're expressing, but I still don't want to stick to the thing as a situation like this that we are talking about science.", "start": 1887.0, "end": 1899.0}
+{"id": "iZgcMEoLCjA-t1899.0", "text": "Science is something that's very young and just starting, and it's not just models, it is only models, I would say science is only models.", "start": 1899.0, "end": 1912.0}
+{"id": "iZgcMEoLCjA-t1912.0", "text": "You don't have, there's no way of doing something without presupposing some kind of simplified object which we then work with.", "start": 1912.0, "end": 1924.0}
+{"id": "iZgcMEoLCjA-t1924.0", "text": "You don't, if you say the distance from this point to that point is so much, there's no such thing as a point, no such thing as this.", "start": 1924.0, "end": 1933.0}
+{"id": "iZgcMEoLCjA-t1933.0", "text": "This is some sort of model that you can describe very precisely and it has some sort of relation to what we call distance, but it's all models.", "start": 1933.0, "end": 1944.0}
+{"id": "iZgcMEoLCjA-t1944.0", "text": "That's what I say, model.", "start": 1944.0, "end": 1947.0}
+{"id": "iZgcMEoLCjA-t1947.0", "text": "That's my first, let me just make another little point. So, I think science is models. I agree with the other things that sentiments expressed, I think, where the beginning of science, but I don't think we can upreory put on limitations and say science will not be able ever to explain such and such.", "start": 1947.0, "end": 1967.0}
+{"id": "iZgcMEoLCjA-t1967.0", "text": "You don't know, it's been historically it's been proven that many things that were thought completely unexplainable suddenly became explainable by science.", "start": 1967.0, "end": 1977.0}
+{"id": "iZgcMEoLCjA-t1977.0", "text": "Science is an evolving thing, there's no such thing as something that's been completely established.", "start": 1977.0, "end": 1986.0}
+{"id": "iZgcMEoLCjA-t1986.0", "text": "History is that you find a certain model that corresponds to a certain situation and it's very good if it corresponds to further stuff that you didn't expect, but you can't say that it's not going to be good forever because history has shown that usually you find something beyond that", "start": 1986.0, "end": 2005.0}
+{"id": "iZgcMEoLCjA-t2005.0", "text": "that the model doesn't apply to and then you have to change the model.", "start": 2005.0, "end": 2008.0}
+{"id": "iZgcMEoLCjA-t2008.0", "text": "I mean the provisionality is sort of a given, but I wanted to sort of make two points. The first is that this question in itself to make it an interdisciplinary one requires sort of a few rounds of the merry-go-round before we can really get to the question.", "start": 2008.0, "end": 2028.0}
+{"id": "iZgcMEoLCjA-t2028.0", "text": "I think that the key point for me is it's really the nature of reality. So the nature of reality that complexity of the nature of reality.", "start": 2028.0, "end": 2042.0}
+{"id": "iZgcMEoLCjA-t2042.0", "text": "So for example, I actually disagree that the only things we care about are the painting or representation.", "start": 2042.0, "end": 2049.0}
+{"id": "iZgcMEoLCjA-t2049.0", "text": "We care about the physical world, the fact that you can make predictions with physics, we care about that.", "start": 2049.0, "end": 2055.0}
+{"id": "iZgcMEoLCjA-t2055.0", "text": "That's part of the things that we care about. It's not separate. It's not separate. The way you were sitting at sound like that's the separate thing other than the light going back to Tim's example that there's the representation of this object or whatever.", "start": 2055.0, "end": 2069.0}
+{"id": "iZgcMEoLCjA-t2069.0", "text": "So I think the first issue is reality and the descriptors of reality be they subjective or mathematical descriptors. Let's just collapse all the model mathematics. Let's just make it mathematics.", "start": 2069.0, "end": 2086.0}
+{"id": "iZgcMEoLCjA-t2086.0", "text": "So that kind of description of reality, the individual person, there's something obviously innately universal within quotation marks where it doesn't matter if I don't like 2 plus 2 equals 4.", "start": 2086.0, "end": 2107.0}
+{"id": "iZgcMEoLCjA-t2107.0", "text": "It's not a matter of my subjective desires or particular perspective on what the sum of those 2 numbers is.", "start": 2107.0, "end": 2121.0}
+{"id": "iZgcMEoLCjA-t2121.0", "text": "I think to me the fact that there is this domain of reality, a description that we can all agree upon and demarcating that from the domains that we cannot agree upon because of each individual haptic experience of reality.", "start": 2121.0, "end": 2144.0}
+{"id": "iZgcMEoLCjA-t2144.0", "text": "I think introducing the idea of the first person point of view suggests this notion of subjectivity and disagreement, but it isn't what I meant.", "start": 2144.0, "end": 2154.0}
+{"id": "iZgcMEoLCjA-t2154.0", "text": "I think it's quite possible that what we think about when we deliberate and ask what it would be best to do is not a matter of what I like and it might be that there aren't in the end really truly irrez eyeable disagreements about that.", "start": 2154.0, "end": 2171.0}
+{"id": "iZgcMEoLCjA-t2171.0", "text": "It might be that there are real matters of value to investigate and find out about.", "start": 2171.0, "end": 2176.0}
+{"id": "iZgcMEoLCjA-t2176.0", "text": "But the point about a deliberative point of view is that you have to ask the question from the first person point of view.", "start": 2176.0, "end": 2185.0}
+{"id": "iZgcMEoLCjA-t2185.0", "text": "What would it be best for me to do given all that I think?", "start": 2185.0, "end": 2188.0}
+{"id": "iZgcMEoLCjA-t2188.0", "text": "Now, thinking isn't the same thing as thinking from the fact you have to think from what you think.", "start": 2188.0, "end": 2193.0}
+{"id": "iZgcMEoLCjA-t2193.0", "text": "Okay, so that's where the subjectivity comes in.", "start": 2193.0, "end": 2195.0}
+{"id": "iZgcMEoLCjA-t2195.0", "text": "Those thoughts are still answerable to reality, whether they're evaluative thoughts or cognitive attitudes, I would say.", "start": 2195.0, "end": 2203.0}
+{"id": "iZgcMEoLCjA-t2203.0", "text": "Yeah, Tim's been waiting a while.", "start": 2203.0, "end": 2205.0}
+{"id": "iZgcMEoLCjA-t2205.0", "text": "I'll try and be very brief.", "start": 2205.0, "end": 2207.0}
+{"id": "iZgcMEoLCjA-t2207.0", "text": "I just want to reframe some of what was said in a way, at least I find helpful.", "start": 2207.0, "end": 2215.0}
+{"id": "iZgcMEoLCjA-t2215.0", "text": "So here are some things that I think cannot and never will be reducible to physical truth.", "start": 2215.0, "end": 2222.0}
+{"id": "iZgcMEoLCjA-t2222.0", "text": "The big one with respect to first person point of view is consciousness.", "start": 2222.0, "end": 2227.0}
+{"id": "iZgcMEoLCjA-t2227.0", "text": "That's the mind body problem.", "start": 2227.0, "end": 2228.0}
+{"id": "iZgcMEoLCjA-t2228.0", "text": "I see no prospect of physics ever solving the mind body problem.", "start": 2228.0, "end": 2232.0}
+{"id": "iZgcMEoLCjA-t2232.0", "text": "I'm agnostic.", "start": 2232.0, "end": 2233.0}
+{"id": "iZgcMEoLCjA-t2233.0", "text": "Let me just talk about it.", "start": 2233.0, "end": 2234.0}
+{"id": "iZgcMEoLCjA-t2234.0", "text": "This is my credo.", "start": 2234.0, "end": 2235.0}
+{"id": "iZgcMEoLCjA-t2235.0", "text": "Okay?", "start": 2235.0, "end": 2236.0}
+{"id": "iZgcMEoLCjA-t2236.0", "text": "What else is there that's not physical truth?", "start": 2236.0, "end": 2238.0}
+{"id": "iZgcMEoLCjA-t2238.0", "text": "I think there's such a thing as mathematical truth.", "start": 2238.0, "end": 2240.0}
+{"id": "iZgcMEoLCjA-t2240.0", "text": "It's not physical truth.", "start": 2240.0, "end": 2241.0}
+{"id": "iZgcMEoLCjA-t2241.0", "text": "It's independent of physics.", "start": 2241.0, "end": 2242.0}
+{"id": "iZgcMEoLCjA-t2242.0", "text": "The mathematician may well disagree with me, curiously enough.", "start": 2242.0, "end": 2246.0}
+{"id": "iZgcMEoLCjA-t2246.0", "text": "I think they're ethical and moral truths.", "start": 2246.0, "end": 2248.0}
+{"id": "iZgcMEoLCjA-t2248.0", "text": "Some of them, which are not physical truths, and are completely unaffected by physics.", "start": 2248.0, "end": 2253.0}
+{"id": "iZgcMEoLCjA-t2253.0", "text": "They don't have to be fixed.", "start": 2253.0, "end": 2254.0}
+{"id": "iZgcMEoLCjA-t2254.0", "text": "I think some of them are fixed.", "start": 2254.0, "end": 2257.0}
+{"id": "iZgcMEoLCjA-t2257.0", "text": "Is this controversial?", "start": 2257.0, "end": 2258.0}
+{"id": "iZgcMEoLCjA-t2258.0", "text": "I'm just laying out there.", "start": 2258.0, "end": 2260.0}
+{"id": "iZgcMEoLCjA-t2260.0", "text": "Okay?", "start": 2260.0, "end": 2261.0}
+{"id": "iZgcMEoLCjA-t2261.0", "text": "That's objective moral realist.", "start": 2261.0, "end": 2265.0}
+{"id": "iZgcMEoLCjA-t2265.0", "text": "I'm a plate-mist in mathematics.", "start": 2265.0, "end": 2268.0}
+{"id": "iZgcMEoLCjA-t2268.0", "text": "The last little point, just conceptually, just to make sure we don't drift, there are two questions that got compressed at a moment.", "start": 2268.0, "end": 2276.0}
+{"id": "iZgcMEoLCjA-t2276.0", "text": "Oh, I'll make one more point after this, which was how much can physics explain and how much can science explain?", "start": 2276.0, "end": 2282.0}
+{"id": "iZgcMEoLCjA-t2282.0", "text": "And my whole point was that there's lots of science that is in physics.", "start": 2282.0, "end": 2285.0}
+{"id": "iZgcMEoLCjA-t2285.0", "text": "And I was talking about the limitations of physics.", "start": 2285.0, "end": 2287.0}
+{"id": "iZgcMEoLCjA-t2287.0", "text": "Those are not the limitations of science.", "start": 2287.0, "end": 2289.0}
+{"id": "iZgcMEoLCjA-t2289.0", "text": "How far science goes and what in principle can be brought under a scientific method in so far as there is one?", "start": 2289.0, "end": 2297.0}
+{"id": "iZgcMEoLCjA-t2297.0", "text": "Is it quite a different and much more difficult problem?", "start": 2297.0, "end": 2300.0}
+{"id": "iZgcMEoLCjA-t2300.0", "text": "And what's your big one?", "start": 2300.0, "end": 2301.0}
+{"id": "iZgcMEoLCjA-t2301.0", "text": "Consciousness and that?", "start": 2301.0, "end": 2302.0}
+{"id": "iZgcMEoLCjA-t2302.0", "text": "Well, could there be a science of consciousness?", "start": 2302.0, "end": 2306.0}
+{"id": "iZgcMEoLCjA-t2306.0", "text": "So you see how these intersect?", "start": 2306.0, "end": 2307.0}
+{"id": "iZgcMEoLCjA-t2307.0", "text": "The last point, I'll just make it very quickly, is just a point of disagreement.", "start": 2307.0, "end": 2311.0}
+{"id": "iZgcMEoLCjA-t2311.0", "text": "I don't believe that physics or science has to always be models and so on.", "start": 2311.0, "end": 2316.0}
+{"id": "iZgcMEoLCjA-t2316.0", "text": "I think that when you could write down the rules of Euclidean geometry, he was under the belief that he was describing the physical world.", "start": 2316.0, "end": 2326.0}
+{"id": "iZgcMEoLCjA-t2326.0", "text": "He was describing the thing I'm waving my hands around it, can I finish?", "start": 2326.0, "end": 2329.0}
+{"id": "iZgcMEoLCjA-t2329.0", "text": "And he thought it was accurate and perfectly correct, and he could have been right.", "start": 2329.0, "end": 2334.0}
+{"id": "iZgcMEoLCjA-t2334.0", "text": "It just turns out he wasn't, but he could have been right.", "start": 2334.0, "end": 2337.0}
+{"id": "iZgcMEoLCjA-t2337.0", "text": "And if he was right, then geometry would have been done.", "start": 2337.0, "end": 2342.0}
+{"id": "iZgcMEoLCjA-t2342.0", "text": "Period.", "start": 2342.0, "end": 2343.0}
+{"id": "iZgcMEoLCjA-t2343.0", "text": "And I think physicists think that can still happen and I believe it can still happen.", "start": 2343.0, "end": 2347.0}
+{"id": "iZgcMEoLCjA-t2347.0", "text": "I disagree with everything you said.", "start": 2347.0, "end": 2350.0}
+{"id": "iZgcMEoLCjA-t2350.0", "text": "Yes, as I would have predicted.", "start": 2350.0, "end": 2353.0}
+{"id": "iZgcMEoLCjA-t2353.0", "text": "Predictive accuracy.", "start": 2353.0, "end": 2355.0}
+{"id": "iZgcMEoLCjA-t2355.0", "text": "Let's see now.", "start": 2355.0, "end": 2359.0}
+{"id": "iZgcMEoLCjA-t2359.0", "text": "I don't know if you want to go through all of this, but it seems to me, first of all, that when you have a discussion like this, you can't differentiate between science, what science, what physics, what's this.", "start": 2359.0, "end": 2370.0}
+{"id": "iZgcMEoLCjA-t2370.0", "text": "There's something called a scientific method.", "start": 2370.0, "end": 2373.0}
+{"id": "iZgcMEoLCjA-t2373.0", "text": "And that's what we are, I think, talking about.", "start": 2373.0, "end": 2377.0}
+{"id": "iZgcMEoLCjA-t2377.0", "text": "And it seems to me that scientific method is something that's been very successful up to a certain point, and we can hope that it will continue to be more and more successful.", "start": 2377.0, "end": 2388.0}
+{"id": "iZgcMEoLCjA-t2388.0", "text": "And whether we, and it's very...", "start": 2388.0, "end": 2391.0}
+{"id": "iZgcMEoLCjA-t2391.0", "text": "But it's very...", "start": 2391.0, "end": 2392.0}
+{"id": "iZgcMEoLCjA-t2392.0", "text": "It doesn't really work.", "start": 2392.0, "end": 2393.0}
+{"id": "iZgcMEoLCjA-t2393.0", "text": "What?", "start": 2393.0, "end": 2394.0}
+{"id": "iZgcMEoLCjA-t2394.0", "text": "But in practice, scientific method doesn't quite work the way...", "start": 2394.0, "end": 2398.0}
+{"id": "iZgcMEoLCjA-t2398.0", "text": "No, of course, it seems to say here that I mean, this should come from outside of philosophy.", "start": 2398.0, "end": 2402.0}
+{"id": "iZgcMEoLCjA-t2402.0", "text": "It was one of the most interesting work and philosophy of science that I've read has been about establishing relations between physics and the special sciences.", "start": 2402.0, "end": 2410.0}
+{"id": "iZgcMEoLCjA-t2410.0", "text": "I mean, there's interesting questions of production there.", "start": 2410.0, "end": 2412.0}
+{"id": "iZgcMEoLCjA-t2412.0", "text": "Okay, look, the next one.", "start": 2412.0, "end": 2414.0}
+{"id": "iZgcMEoLCjA-t2414.0", "text": "The other one.", "start": 2414.0, "end": 2415.0}
+{"id": "iZgcMEoLCjA-t2415.0", "text": "Okay, there.", "start": 2415.0, "end": 2416.0}
+{"id": "iZgcMEoLCjA-t2416.0", "text": "I think there are two questions here.", "start": 2416.0, "end": 2417.0}
+{"id": "iZgcMEoLCjA-t2417.0", "text": "Yeah.", "start": 2417.0, "end": 2418.0}
+{"id": "iZgcMEoLCjA-t2418.0", "text": "There's a question about reductionism inside each specialty.", "start": 2418.0, "end": 2423.0}
+{"id": "iZgcMEoLCjA-t2423.0", "text": "Even a very big question about reductionism inside mathematics, because there are various parts of mathematics, how they relate, how they're reduced to each other, and in physics.", "start": 2423.0, "end": 2433.0}
+{"id": "iZgcMEoLCjA-t2433.0", "text": "And inside and by... how is biology can be reduced to...", "start": 2433.0, "end": 2436.0}
+{"id": "iZgcMEoLCjA-t2436.0", "text": "Those are the...", "start": 2436.0, "end": 2437.0}
+{"id": "iZgcMEoLCjA-t2437.0", "text": "In my field, those are details.", "start": 2437.0, "end": 2439.0}
+{"id": "iZgcMEoLCjA-t2439.0", "text": "The question, the whole philosophical question seems to me, is how far science can reach to explain things, scientific scientific method, which is everything that we call science.", "start": 2439.0, "end": 2452.0}
+{"id": "iZgcMEoLCjA-t2452.0", "text": "And there, it seems to me, you cannot... right now it reaches only a certain extent a lot, but a little at the same time.", "start": 2452.0, "end": 2464.0}
+{"id": "iZgcMEoLCjA-t2464.0", "text": "It's lots of things that we have no idea about, but even for mathematics too, for that matter.", "start": 2464.0, "end": 2471.0}
+{"id": "iZgcMEoLCjA-t2471.0", "text": "But then, so beyond that, the question is, can you say, point to something and say, this will never be understood or enlightened by the scientific method?", "start": 2471.0, "end": 2484.0}
+{"id": "iZgcMEoLCjA-t2484.0", "text": "I say, that's just false.", "start": 2484.0, "end": 2486.0}
+{"id": "iZgcMEoLCjA-t2486.0", "text": "We don't...", "start": 2486.0, "end": 2488.0}
+{"id": "iZgcMEoLCjA-t2488.0", "text": "We...", "start": 2488.0, "end": 2489.0}
+{"id": "iZgcMEoLCjA-t2489.0", "text": "It may be true in that particular case, but you cannot assert that with any certainty that you'll never understand something.", "start": 2489.0, "end": 2496.0}
+{"id": "iZgcMEoLCjA-t2496.0", "text": "I understand that as a kind of faith and I admire it, but I think also at the same time that there are dimensions to their world that required really to understand them ways of...", "start": 2496.0, "end": 2507.0}
+{"id": "iZgcMEoLCjA-t2507.0", "text": "ways of investigating that really are not... that are not scientific or don't follow the scientific method.", "start": 2507.0, "end": 2512.0}
+{"id": "iZgcMEoLCjA-t2512.0", "text": "And then again, just to follow up on that point, I think much of what not all of what we care about, but much of what we care about, actually would fall under that code.", "start": 2512.0, "end": 2525.0}
+{"id": "iZgcMEoLCjA-t2525.0", "text": "I agree with you.", "start": 2525.0, "end": 2527.0}
+{"id": "iZgcMEoLCjA-t2527.0", "text": "I want to give you an example of something which agrees with your point, but it illustrates my point also.", "start": 2527.0, "end": 2534.0}
+{"id": "iZgcMEoLCjA-t2534.0", "text": "Many years ago, I was in a very situation where we had a person in South America who was taken to a hospital and infection on his foot, and they decided to amputate the lake.", "start": 2534.0, "end": 2554.0}
+{"id": "iZgcMEoLCjA-t2554.0", "text": "And this person, a 16-year-old kid, ran away from the hospital, went to the mountains to the shaman or something, and they treated him with some kind of thing, and this was what was saved.", "start": 2554.0, "end": 2568.0}
+{"id": "iZgcMEoLCjA-t2568.0", "text": "Okay?", "start": 2568.0, "end": 2569.0}
+{"id": "iZgcMEoLCjA-t2569.0", "text": "So obviously, this sort of points your point, that in some situations you should get away from the scientists and have people who have experiences, such and such.", "start": 2569.0, "end": 2583.0}
+{"id": "iZgcMEoLCjA-t2583.0", "text": "But later on, if you investigate that, it was shown that the shaman applied something that... before antibiotics were discovered, it was really had antibiotics with it, and boiling the moon-nose-watt together.", "start": 2583.0, "end": 2599.0}
+{"id": "iZgcMEoLCjA-t2599.0", "text": "So it seems to me that it's true that at any given moment of time, there are lots of things which are not going to be understood for the point of view of science, of scientific reasoning, and you have to rely on experiences and traditions and guesses of all sorts and intuitions, etc.", "start": 2599.0, "end": 2620.0}
+{"id": "iZgcMEoLCjA-t2620.0", "text": "But to say, a priori that such and such will never be understood by scientific method, I think, is just not reasonable.", "start": 2620.0, "end": 2628.0}
+{"id": "iZgcMEoLCjA-t2628.0", "text": "I think it's a matter of worldview, and I think that, and where and why I call it worldview is you can come from a worldview, like the one that probably Tim and I share, which is of epistemic humility, which is why should this gelatinous thing between our years", "start": 2628.0, "end": 2652.0}
+{"id": "iZgcMEoLCjA-t2652.0", "text": "give us the capability to figure everything out, including itself?", "start": 2652.0, "end": 2658.0}
+{"id": "iZgcMEoLCjA-t2658.0", "text": "Saying never is not a sign of humility.", "start": 2658.0, "end": 2664.0}
+{"id": "iZgcMEoLCjA-t2664.0", "text": "There it is.", "start": 2664.0, "end": 2666.0}
+{"id": "iZgcMEoLCjA-t2666.0", "text": "Can I just again make one brief and very controversial intervention here.", "start": 2666.0, "end": 2675.0}
+{"id": "iZgcMEoLCjA-t2675.0", "text": "I'll go out of character for a minute.", "start": 2675.0, "end": 2682.0}
+{"id": "iZgcMEoLCjA-t2682.0", "text": "I don't think as a philosopher of science, and I think the general agreement of all philosophers of science at this point, there is no such thing as a scientific method.", "start": 2682.0, "end": 2692.0}
+{"id": "iZgcMEoLCjA-t2692.0", "text": "That's just a myth.", "start": 2692.0, "end": 2693.0}
+{"id": "iZgcMEoLCjA-t2693.0", "text": "There is no method that all sciences use.", "start": 2693.0, "end": 2696.0}
+{"id": "iZgcMEoLCjA-t2696.0", "text": "And so to say, we just have to use the scientific method is empty.", "start": 2696.0, "end": 2706.0}
+{"id": "iZgcMEoLCjA-t2706.0", "text": "There are certain there are some good experimental techniques.", "start": 2706.0, "end": 2711.0}
+{"id": "iZgcMEoLCjA-t2711.0", "text": "There's double-blinding.", "start": 2711.0, "end": 2713.0}
+{"id": "iZgcMEoLCjA-t2713.0", "text": "There's some things you can guard yourself against that are fairly general.", "start": 2713.0, "end": 2717.0}
+{"id": "iZgcMEoLCjA-t2717.0", "text": "But there's no, you know, take the scientific method and do economics.", "start": 2717.0, "end": 2722.0}
+{"id": "iZgcMEoLCjA-t2722.0", "text": "What does that even mean?", "start": 2722.0, "end": 2723.0}
+{"id": "iZgcMEoLCjA-t2723.0", "text": "And ask for the particular evidence they have and criticize it.", "start": 2723.0, "end": 2727.0}
+{"id": "iZgcMEoLCjA-t2727.0", "text": "But there just is no such thing.", "start": 2727.0, "end": 2731.0}
+{"id": "iZgcMEoLCjA-t2731.0", "text": "Okay, so I think that there is such a thing as a scientific method.", "start": 2731.0, "end": 2735.0}
+{"id": "iZgcMEoLCjA-t2735.0", "text": "And it's something that all of us know and agree with deep inside if they think about it.", "start": 2735.0, "end": 2742.0}
+{"id": "iZgcMEoLCjA-t2742.0", "text": "The scientific method basically is that you observe the world or think about the world and in some way organize ideas about it and then check it out where it's true or not.", "start": 2742.0, "end": 2764.0}
+{"id": "iZgcMEoLCjA-t2764.0", "text": "That's basically the scientific method.", "start": 2764.0, "end": 2766.0}
+{"id": "iZgcMEoLCjA-t2766.0", "text": "And that actually covers at least all of the disciplines in which case I entirely agree with you.", "start": 2766.0, "end": 2774.0}
+{"id": "iZgcMEoLCjA-t2774.0", "text": "That's not scientific.", "start": 2774.0, "end": 2777.0}
+{"id": "iZgcMEoLCjA-t2777.0", "text": "You're uniquely scientific about it.", "start": 2777.0, "end": 2779.0}
+{"id": "iZgcMEoLCjA-t2779.0", "text": "It means rigor, it means aiming at truth, accounting for the world, then sure.", "start": 2779.0, "end": 2784.0}
+{"id": "iZgcMEoLCjA-t2784.0", "text": "I mean, that's the same for my department of English literature, the same for the anthropology department.", "start": 2784.0, "end": 2789.0}
+{"id": "iZgcMEoLCjA-t2789.0", "text": "Another way of saying it.", "start": 2789.0, "end": 2791.0}
+{"id": "iZgcMEoLCjA-t2791.0", "text": "But I don't think any of us are going to be physics in the long run.", "start": 2791.0, "end": 2793.0}
+{"id": "iZgcMEoLCjA-t2793.0", "text": "Another way of saying it is that you're thinking about things, you're forming a certain model, and then you check it against reality.", "start": 2793.0, "end": 2801.0}
+{"id": "iZgcMEoLCjA-t2801.0", "text": "Okay, so one thing that for sure, according to you, does not follow the scientific method is mathematics.", "start": 2801.0, "end": 2806.0}
+{"id": "iZgcMEoLCjA-t2806.0", "text": "No, no.", "start": 2806.0, "end": 2809.0}
+{"id": "iZgcMEoLCjA-t2809.0", "text": "It's a...", "start": 2809.0, "end": 2811.0}
+{"id": "iZgcMEoLCjA-t2811.0", "text": "I mean, we should kick you out of the science department.", "start": 2811.0, "end": 2813.0}
+{"id": "iZgcMEoLCjA-t2813.0", "text": "The science part of science and human science.", "start": 2813.0, "end": 2815.0}
+{"id": "iZgcMEoLCjA-t2815.0", "text": "The scientific method is to construct this concept, and that's usually done by using mathematics.", "start": 2815.0, "end": 2825.0}
+{"id": "iZgcMEoLCjA-t2825.0", "text": "But you don't check mathematics empirically.", "start": 2825.0, "end": 2828.0}
+{"id": "iZgcMEoLCjA-t2828.0", "text": "Yeah, you don't check mathematics in itself, right?", "start": 2828.0, "end": 2831.0}
+{"id": "iZgcMEoLCjA-t2831.0", "text": "No, well, sure.", "start": 2831.0, "end": 2833.0}
+{"id": "iZgcMEoLCjA-t2833.0", "text": "You have something called...", "start": 2833.0, "end": 2836.0}
+{"id": "iZgcMEoLCjA-t2836.0", "text": "You have language and mathematics and things to communicate with, that's...", "start": 2836.0, "end": 2842.0}
+{"id": "iZgcMEoLCjA-t2842.0", "text": "No, but it's an internal consistency.", "start": 2842.0, "end": 2845.0}
+{"id": "iZgcMEoLCjA-t2845.0", "text": "And those who understand the science of our time, as well as the mathematician here, a question about the significance of our mathematical capacities.", "start": 2845.0, "end": 2857.0}
+{"id": "iZgcMEoLCjA-t2857.0", "text": "Since, you know, one of the really exciting things about physics that everybody's been emphasizing is that the world became mathematically tractable in a new and exciting way with the rise of physics.", "start": 2857.0, "end": 2866.0}
+{"id": "iZgcMEoLCjA-t2866.0", "text": "And it continues beyond expectations.", "start": 2866.0, "end": 2869.0}
+{"id": "iZgcMEoLCjA-t2869.0", "text": "And it continues beyond expectations.", "start": 2869.0, "end": 2871.0}
+{"id": "iZgcMEoLCjA-t2871.0", "text": "Okay, so...", "start": 2871.0, "end": 2873.0}
+{"id": "iZgcMEoLCjA-t2873.0", "text": "So that is exciting.", "start": 2873.0, "end": 2876.0}
+{"id": "iZgcMEoLCjA-t2876.0", "text": "I even remember in high school physics, I was in a school where it was progressive science, so you actually were supposed to figure out scientific theory, which was silly.", "start": 2876.0, "end": 2887.0}
+{"id": "iZgcMEoLCjA-t2887.0", "text": "But anyway, I was taking calculus at the same time that I was doing physics experiments and loading carts with stones and timing their velocity and plotting acceleration.", "start": 2887.0, "end": 2897.0}
+{"id": "iZgcMEoLCjA-t2897.0", "text": "And I got to this point where the graphs I was learning to plot in calculus were identical, but the graphs I was plotting about velocity and acceleration.", "start": 2897.0, "end": 2907.0}
+{"id": "iZgcMEoLCjA-t2907.0", "text": "And I got goosebumps.", "start": 2907.0, "end": 2909.0}
+{"id": "iZgcMEoLCjA-t2909.0", "text": "It was like, ooh, you know, this a priori thing.", "start": 2909.0, "end": 2912.0}
+{"id": "iZgcMEoLCjA-t2912.0", "text": "It's not just a model.", "start": 2912.0, "end": 2913.0}
+{"id": "iZgcMEoLCjA-t2913.0", "text": "It seems like our capacity to work with these a priori concepts was enabling us to mainline features, like very stable features of change in space and time.", "start": 2913.0, "end": 2923.0}
+{"id": "iZgcMEoLCjA-t2923.0", "text": "And that was like an incredibly exciting moment.", "start": 2923.0, "end": 2926.0}
+{"id": "iZgcMEoLCjA-t2926.0", "text": "My 17-year-old life left an indelible impression.", "start": 2926.0, "end": 2929.0}
+{"id": "iZgcMEoLCjA-t2929.0", "text": "Okay.", "start": 2929.0, "end": 2930.0}
+{"id": "iZgcMEoLCjA-t2930.0", "text": "So when I think about the fact that, you know, if you're not a non-naturalist altogether about human beings and human capacities, this capacity to do mathematics, which gave us a capacity to track so many interesting features of things in space and time, just looks like it calls for some sort of study.", "start": 2930.0, "end": 2954.0}
+{"id": "iZgcMEoLCjA-t2954.0", "text": "Right. So, and I'm sure people have done it.", "start": 2954.0, "end": 2956.0}
+{"id": "iZgcMEoLCjA-t2956.0", "text": "This is not my field.", "start": 2956.0, "end": 2957.0}
+{"id": "iZgcMEoLCjA-t2957.0", "text": "I came to inject stuff about point of view today, which I'm not even doing very much of.", "start": 2957.0, "end": 2961.0}
+{"id": "iZgcMEoLCjA-t2961.0", "text": "Maybe we'll get through later.", "start": 2961.0, "end": 2963.0}
+{"id": "iZgcMEoLCjA-t2963.0", "text": "But, you know, some of the capacities we're born with, I think arguably aren't helpful for doing science.", "start": 2963.0, "end": 2972.0}
+{"id": "iZgcMEoLCjA-t2972.0", "text": "So I think personally that our disposition to track things in terms of essences, to say, you know, what's the essence of a table?", "start": 2972.0, "end": 2981.0}
+{"id": "iZgcMEoLCjA-t2981.0", "text": "Or it's necessary and sufficient conditions for being a table is not very useful for science.", "start": 2981.0, "end": 2986.0}
+{"id": "iZgcMEoLCjA-t2986.0", "text": "Biology got rid of it.", "start": 2986.0, "end": 2987.0}
+{"id": "iZgcMEoLCjA-t2987.0", "text": "We no longer look for the essences of species.", "start": 2987.0, "end": 2989.0}
+{"id": "iZgcMEoLCjA-t2989.0", "text": "Right.", "start": 2989.0, "end": 2990.0}
+{"id": "iZgcMEoLCjA-t2990.0", "text": "So, but we are all essentialists in our cognitive development.", "start": 2990.0, "end": 2994.0}
+{"id": "iZgcMEoLCjA-t2994.0", "text": "We just think in essentialist terms.", "start": 2994.0, "end": 2996.0}
+{"id": "iZgcMEoLCjA-t2996.0", "text": "And I think scientifically we've learned to transcend that capacity.", "start": 2996.0, "end": 2999.0}
+{"id": "iZgcMEoLCjA-t2999.0", "text": "We've learned to transcend the way things look in order to get deeper physical explanations of some of the things we learned by sight.", "start": 2999.0, "end": 3006.0}
+{"id": "iZgcMEoLCjA-t3006.0", "text": "And so there are these questions I have about which of our psychological capacities are our best tools for actually the project of the tracking mind independent reality.", "start": 3006.0, "end": 3017.0}
+{"id": "iZgcMEoLCjA-t3017.0", "text": "And it's most elevated ambition, right, you know, to do that.", "start": 3017.0, "end": 3021.0}
+{"id": "iZgcMEoLCjA-t3021.0", "text": "And so wouldn't it be interesting if there was a physical explanation of an emergence of a capacity to track in these structures so that you're kind of of what you're tracking in some sense.", "start": 3021.0, "end": 3034.0}
+{"id": "iZgcMEoLCjA-t3034.0", "text": "Right.", "start": 3034.0, "end": 3035.0}
+{"id": "iZgcMEoLCjA-t3035.0", "text": "And that to me looks like in a sort of interesting way of completing physics, right, to sort of understand how one of the capacities you need to do at mathematics would have, interestingly, possibly some kind of physical explanation because of the way in which the physics of the brain", "start": 3035.0, "end": 3058.0}
+{"id": "iZgcMEoLCjA-t3058.0", "text": "enables these funny structures to be constructed mentally, which then are useful for, as you say, modeling or predicting or whatever else things outside it, right.", "start": 3058.0, "end": 3069.0}
+{"id": "iZgcMEoLCjA-t3069.0", "text": "You know, that just looks like a really exciting domain of study to me.", "start": 3069.0, "end": 3072.0}
+{"id": "iZgcMEoLCjA-t3072.0", "text": "And that's part of psychology, which I wouldn't say is the first person point of view.", "start": 3072.0, "end": 3076.0}
+{"id": "iZgcMEoLCjA-t3076.0", "text": "That's a capacity to compute certain things.", "start": 3076.0, "end": 3080.0}
+{"id": "iZgcMEoLCjA-t3080.0", "text": "That's not got to do with the first person point of view.", "start": 3080.0, "end": 3083.0}
+{"id": "iZgcMEoLCjA-t3083.0", "text": "So anyway, so I was just wondering what, like, I'm sure you, we all marvel at how the fact that we can do mathematics seems independent of induction and empirical methods, and yet it drives them when science gets good.", "start": 3083.0, "end": 3095.0}
+{"id": "iZgcMEoLCjA-t3095.0", "text": "Right.", "start": 3095.0, "end": 3096.0}
+{"id": "iZgcMEoLCjA-t3096.0", "text": "That's like an interesting and exciting fact.", "start": 3096.0, "end": 3098.0}
+{"id": "iZgcMEoLCjA-t3098.0", "text": "And so what would it be to be open minded about a way in which physical understanding could complete our understanding of ourselves as having a capacity for mathematics.", "start": 3098.0, "end": 3112.0}
+{"id": "iZgcMEoLCjA-t3112.0", "text": "I can give a really quick sketch of something that is in the area of what you just said, and is highly speculative.", "start": 3112.0, "end": 3122.0}
+{"id": "iZgcMEoLCjA-t3122.0", "text": "The Greeks divided mathematics into arithmetic and geometry.", "start": 3122.0, "end": 3129.0}
+{"id": "iZgcMEoLCjA-t3129.0", "text": "And arithmetic, they really meant the theory of whole numbers, as we would say, counting numbers.", "start": 3129.0, "end": 3134.0}
+{"id": "iZgcMEoLCjA-t3134.0", "text": "Those were the only numbers there were.", "start": 3134.0, "end": 3136.0}
+{"id": "iZgcMEoLCjA-t3136.0", "text": "And geometry, the theory of magnitudes, and in particular, what we would call spatial structure.", "start": 3136.0, "end": 3142.0}
+{"id": "iZgcMEoLCjA-t3142.0", "text": "That we have a capacity to think about spatial structure, especially kind of Euclidean space, is explained perfectly well by evolution on the assumption that we live in a sort of spatial structure, which is pretty nearly not quite Euclidean.", "start": 3142.0, "end": 3163.0}
+{"id": "iZgcMEoLCjA-t3163.0", "text": "And so to survive any animal would have to evolve a really efficient map, way to map, and think about and predict, because you think any animal that's going to make a decision has to make a prediction.", "start": 3163.0, "end": 3177.0}
+{"id": "iZgcMEoLCjA-t3177.0", "text": "If I do this, this will happen.", "start": 3177.0, "end": 3179.0}
+{"id": "iZgcMEoLCjA-t3179.0", "text": "If I do that, that'll happen.", "start": 3179.0, "end": 3181.0}
+{"id": "iZgcMEoLCjA-t3181.0", "text": "All of this is modeled in this geometrical arena.", "start": 3181.0, "end": 3186.0}
+{"id": "iZgcMEoLCjA-t3186.0", "text": "So that we can do that well is not so surprising, visual processing, this is all again bringing things into a kind of spatial representation.", "start": 3186.0, "end": 3196.0}
+{"id": "iZgcMEoLCjA-t3196.0", "text": "The interesting thing that happened in math was that at a certain point, the arithmetic part that had to do with numbers, what they kept doing was inventing or discovering more and more numbers.", "start": 3196.0, "end": 3208.0}
+{"id": "iZgcMEoLCjA-t3208.0", "text": "So start with the integers, then you get the rational numbers, then you get the real numbers, then you get the negative numbers, then you get the complex numbers.", "start": 3208.0, "end": 3214.0}
+{"id": "iZgcMEoLCjA-t3214.0", "text": "And then there was this amazing thing of being able to translate between geometry and algebra and take geometrical problems and put them in algebraic form and have these powerful ways of solving the algebraic problems and then translating them back into the geometrical", "start": 3214.0, "end": 3231.0}
+{"id": "iZgcMEoLCjA-t3231.0", "text": "language, and then geometry itself got pushed into a smaller, smaller corner and everything grew the other way.", "start": 3231.0, "end": 3245.0}
+{"id": "iZgcMEoLCjA-t3245.0", "text": "All of that, I think, is extremely interesting.", "start": 3245.0, "end": 3249.0}
+{"id": "iZgcMEoLCjA-t3249.0", "text": "I mean, that's a kind of magical part, these interconnections among mathematical concepts themselves that you don't think are going to be there that turn out to be true, which is just astonishing.", "start": 3249.0, "end": 3255.0}
+{"id": "iZgcMEoLCjA-t3255.0", "text": "But our ability anyway to think geometrically, I think, has a pretty clear explanation, and the basics of counting do too.", "start": 3255.0, "end": 3262.0}
+{"id": "iZgcMEoLCjA-t3262.0", "text": "And more interested in our capacity to think the dot dot dot of infinity and to do mathematical induction and other things.", "start": 3262.0, "end": 3271.0}
+{"id": "iZgcMEoLCjA-t3271.0", "text": "Yeah.", "start": 3271.0, "end": 3272.0}
+{"id": "iZgcMEoLCjA-t3272.0", "text": "Well, I think the way I interpret your question is the following, and I think that's the real interpretation is that, okay, there are all these intuitions that we have about space and so on, that comes, as you say,", "start": 3272.0, "end": 3284.0}
+{"id": "iZgcMEoLCjA-t3284.0", "text": "but the real thing that makes mathematics mathematics is the fact that you can have rules for deduction, which have been, and that's the great discovery of the Greek city beyond geometry, that you have the rules of logic.", "start": 3284.0, "end": 3304.0}
+{"id": "iZgcMEoLCjA-t3304.0", "text": "And that really hasn't been developed over the centuries and hasn't really been understood completely until Gertel,", "start": 3304.0, "end": 3312.0}
+{"id": "iZgcMEoLCjA-t3312.0", "text": "where he actually has a complete, all these various books that are, from Aristotle on, that he wrote on these different ways of different logical principles and different reductions in this.", "start": 3312.0, "end": 3329.0}
+{"id": "iZgcMEoLCjA-t3329.0", "text": "All of that can be, has been sort of something called Gertel completeness theorem, showed exactly the complete system of rules that you can ever use to deduce things.", "start": 3329.0, "end": 3345.0}
+{"id": "iZgcMEoLCjA-t3345.0", "text": "And that is, I think the important thing, how can the human mind have ever gotten to that, takes to hundreds of years?", "start": 3345.0, "end": 3354.0}
+{"id": "iZgcMEoLCjA-t3354.0", "text": "And then I think is the essence of mathematical reasoning is that you have these things of proofs, you start with certain assumptions and you have proofs which are sort of incontrovertible, everybody agrees that this follows from that.", "start": 3354.0, "end": 3372.0}
+{"id": "iZgcMEoLCjA-t3372.0", "text": "And I think that's the question, which is probably, which, but...", "start": 3372.0, "end": 3379.0}
+{"id": "iZgcMEoLCjA-t3379.0", "text": "The physical realization of mathematical process is kind of what I'm saying.", "start": 3379.0, "end": 3384.0}
+{"id": "iZgcMEoLCjA-t3384.0", "text": "One of the questions that would be very hard to get some insight, maybe you can get some insight by some understanding of the brain and so on, but that's a kind of a very hard question.", "start": 3384.0, "end": 3402.0}
+{"id": "iZgcMEoLCjA-t3402.0", "text": "Still though, sorry to keep harping about reality and our capacity to comprehend that reality beyond just sensory comprehension, right, modelled to abstract it, use mathematics.", "start": 3402.0, "end": 3417.0}
+{"id": "iZgcMEoLCjA-t3417.0", "text": "Do we still the most intriguing question, meta question that, you know, for given what you pointed out, is why the heck is mathematics? Why does it work so well?", "start": 3417.0, "end": 3432.0}
+{"id": "iZgcMEoLCjA-t3432.0", "text": "Not just our capacity to do it, but in its explanatory power about physical phenomena, what is it about physical phenomena, right?", "start": 3432.0, "end": 3444.0}
+{"id": "iZgcMEoLCjA-t3444.0", "text": "That's why it's so tempting to think about something.", "start": 3444.0, "end": 3447.0}
+{"id": "iZgcMEoLCjA-t3447.0", "text": "So it's not merely just a language, so you can't just abstract it to the level of language learning, which again, you know, one could easily say, evolutionally advantageous and so on, right, but beyond that, there's a deeper, to me, what's intriguing is that it appears to be something", "start": 3447.0, "end": 3464.0}
+{"id": "iZgcMEoLCjA-t3464.0", "text": "deeper than that, right, which is why it has the explanatory power that it does, right?", "start": 3464.0, "end": 3471.0}
+{"id": "iZgcMEoLCjA-t3471.0", "text": "Is there something deeper about the nature of reality itself that is organized in such a fashion that this is the framework that allows you to access it, and therefore, the kinds of questions, qualia that you might be interested in, that this", "start": 3471.0, "end": 3491.0}
+{"id": "iZgcMEoLCjA-t3491.0", "text": "framework is not automatically adaptable to mathematical framework. They don't give you the same glimpse of reality, right? So I think that's one way to frame.", "start": 3491.0, "end": 3504.0}
+{"id": "iZgcMEoLCjA-t3504.0", "text": "I mean, observation is quite right, but also, of course, they are around because in many ways, mathematics comes out of physics. Like, for example, not only from the, you started doing these things by measurement and so on, but almost anything like, for example,", "start": 3504.0, "end": 3526.0}
+{"id": "iZgcMEoLCjA-t3526.0", "text": "a very powerful thing that was in the 19th century, something called, it was discovered called the Dirichlet principle, which basically means that you can do a certain way of proving existence of things by, I don't know mind, I wasn't.", "start": 3526.0, "end": 3549.0}
+{"id": "iZgcMEoLCjA-t3549.0", "text": "Anyway, so this is principle, and then amazingly enough, Riemann used this to prove all sorts of mathematical theorems, which are geometry, which are very powerful in anthropology, and then came Varystrass and said, this principle doesn't work.", "start": 3549.0, "end": 3569.0}
+{"id": "iZgcMEoLCjA-t3569.0", "text": "And gave examples where the principle doesn't work. Then there was a period of about 50 years where people tried to figure out what's really going on there and found out exactly under what circumstances the principle works, and that developed the theory of partial differential equations and also Riemann's work applied to flows, analysis of liquid flows.", "start": 3569.0, "end": 3594.0}
+{"id": "iZgcMEoLCjA-t3594.0", "text": "So there's a kind of complete, you know, something made of somebody, I may come from physics, then it gets...", "start": 3594.0, "end": 3600.0}
+{"id": "iZgcMEoLCjA-t3600.0", "text": "I'm not as intrigued about the causative connections. I mean, yes, sometimes this, you know, things come out of whatever.", "start": 3600.0, "end": 3611.0}
+{"id": "iZgcMEoLCjA-t3611.0", "text": "But to me still, the question is...", "start": 3611.0, "end": 3614.0}
+{"id": "iZgcMEoLCjA-t3614.0", "text": "With that mystery, sorry, you want to tell you...", "start": 3614.0, "end": 3617.0}
+{"id": "iZgcMEoLCjA-t3617.0", "text": "I think I understand your question correctly, Brie, why is it that reality, physical reality seems to be so uniquely explainable by or fit with mathematical rules formula.", "start": 3617.0, "end": 3629.0}
+{"id": "iZgcMEoLCjA-t3629.0", "text": "And that's...", "start": 3629.0, "end": 3633.0}
+{"id": "iZgcMEoLCjA-t3633.0", "text": "I'd like to hear more about that. That sounds fascinating to me. This is not nothing I know anything about, except for that it seems to be in some potential interesting, again, tension with what Carol was describing earlier as our moving away from the", "start": 3633.0, "end": 3620.0}
+{"id": "iZgcMEoLCjA-t3620.0", "text": "essence is, since you're talking about things are somehow kind of boiling in the sense that it's not going to be a problem.", "start": 3620.0, "end": 3649.0}
+{"id": "iZgcMEoLCjA-t3649.0", "text": "So there's something intrinsically orderable about the physical world that seems to fit up with the formal order of mathematics.", "start": 3649.0, "end": 3660.0}
+{"id": "iZgcMEoLCjA-t3660.0", "text": "And so the kinds of things that might be of interest to us that don't fit that rubric of mathematics might be what limit those points of view from being encompassed into physics and a description of freedom.", "start": 3660.0, "end": 3678.0}
+{"id": "iZgcMEoLCjA-t3678.0", "text": "And a description of reality.", "start": 3678.0, "end": 3681.0}
+{"id": "iZgcMEoLCjA-t3681.0", "text": "I'm going to make a kind of weird thing here, because I feel like Jonathan's been sitting here very patiently.", "start": 3681.0, "end": 3689.0}
+{"id": "iZgcMEoLCjA-t3689.0", "text": "And something went by quickly, and then I just want to come back and ask you about this.", "start": 3689.0, "end": 3695.0}
+{"id": "iZgcMEoLCjA-t3695.0", "text": "So there was the idea that the essence of scientific method is that in science you come up with a theory, it makes some empirical predictions.", "start": 3695.0, "end": 3707.0}
+{"id": "iZgcMEoLCjA-t3707.0", "text": "You go and check and the world can push back on your theory, because the empirical predictions can just turn out to be wrong.", "start": 3707.0, "end": 3718.0}
+{"id": "iZgcMEoLCjA-t3718.0", "text": "And this is certainly part of the understanding of why physics is at a certain point was so successful because they got lots of data that would push back.", "start": 3718.0, "end": 3729.0}
+{"id": "iZgcMEoLCjA-t3729.0", "text": "And you said, well, then that's sort of everything.", "start": 3729.0, "end": 3733.0}
+{"id": "iZgcMEoLCjA-t3733.0", "text": "And I'm just curious about how far you think that goes. I mean, you'd certainly a historian, right?", "start": 3733.0, "end": 3738.0}
+{"id": "iZgcMEoLCjA-t3738.0", "text": "The world can push back. A literary theorist. Do you think the world can push back?", "start": 3738.0, "end": 3743.0}
+{"id": "iZgcMEoLCjA-t3743.0", "text": "Or, of course. So can you just...", "start": 3743.0, "end": 3745.0}
+{"id": "iZgcMEoLCjA-t3745.0", "text": "Yeah, no, the world can push back in so far as the corner of the world, that literary theorist or literary scholars or those who work in that section of the humanities are concerned with is the world of text or artworks.", "start": 3745.0, "end": 3758.0}
+{"id": "iZgcMEoLCjA-t3758.0", "text": "They push back all the time. In some ways I think actually my section of the humanities is perhaps the most empirical corner of the academy.", "start": 3758.0, "end": 3768.0}
+{"id": "iZgcMEoLCjA-t3768.0", "text": "And so far as we are constantly trying to make our interpretations or explanations of our phenomena adequate to the material that we're engaging.", "start": 3768.0, "end": 3778.0}
+{"id": "iZgcMEoLCjA-t3778.0", "text": "Texts, artworks, what have you.", "start": 3778.0, "end": 3780.0}
+{"id": "iZgcMEoLCjA-t3780.0", "text": "So they push back in the sense that something seems wrong about what we are saying or attempting to describe our time.", "start": 3780.0, "end": 3790.0}
+{"id": "iZgcMEoLCjA-t3790.0", "text": "So let me just, sure, be sure I understand.", "start": 3790.0, "end": 3792.0}
+{"id": "iZgcMEoLCjA-t3792.0", "text": "It's not my understanding and I would be curious to know.", "start": 3792.0, "end": 3795.0}
+{"id": "iZgcMEoLCjA-t3795.0", "text": "So there are literary theories. I don't know them well. I'm way out of my depth.", "start": 3795.0, "end": 3802.0}
+{"id": "iZgcMEoLCjA-t3802.0", "text": "Sure.", "start": 3802.0, "end": 3803.0}
+{"id": "iZgcMEoLCjA-t3803.0", "text": "But at some point deconstruction was a big deal.", "start": 3803.0, "end": 3805.0}
+{"id": "iZgcMEoLCjA-t3805.0", "text": "Very, very, very deal.", "start": 3805.0, "end": 3807.0}
+{"id": "iZgcMEoLCjA-t3807.0", "text": "Is it that you could go into a library and find in a dusty corner a text and open it and say, hey, Derrida, I was wrong.", "start": 3807.0, "end": 3815.0}
+{"id": "iZgcMEoLCjA-t3815.0", "text": "Well, this text is incompatible with whatever it was he was doing. Can we kill off literary crazes, theoretical crazes?", "start": 3815.0, "end": 3826.0}
+{"id": "iZgcMEoLCjA-t3826.0", "text": "Yeah.", "start": 3826.0, "end": 3827.0}
+{"id": "iZgcMEoLCjA-t3827.0", "text": "Empirically like that?", "start": 3827.0, "end": 3828.0}
+{"id": "iZgcMEoLCjA-t3828.0", "text": "No, it wouldn't work exactly like that.", "start": 3828.0, "end": 3831.0}
+{"id": "iZgcMEoLCjA-t3831.0", "text": "But I think it would be more along the lines of certain schools of thought that guided interpretation seemed like they were over time less compelling or convincing with what they had to say about the world that we were endeavoring to explain.", "start": 3831.0, "end": 3848.0}
+{"id": "iZgcMEoLCjA-t3848.0", "text": "There may be dimensions to them that actually one wants to hold on to.", "start": 3848.0, "end": 3853.0}
+{"id": "iZgcMEoLCjA-t3853.0", "text": "But I think that actually literary critical practice was on the ground very rarely taking a set of ideas from a theorist or a philosopher like Derrida and then just using it to smush whatever we were engaging.", "start": 3853.0, "end": 3870.0}
+{"id": "iZgcMEoLCjA-t3870.0", "text": "At least not when it was done well.", "start": 3870.0, "end": 3872.0}
+{"id": "iZgcMEoLCjA-t3872.0", "text": "But isn't the notion of validation that we have in science is fundamentally different?", "start": 3872.0, "end": 3879.0}
+{"id": "iZgcMEoLCjA-t3879.0", "text": "Of course, yes, in the sense of prediction, for example.", "start": 3879.0, "end": 3884.0}
+{"id": "iZgcMEoLCjA-t3884.0", "text": "There is no expectation that a literary theory could be proved or disproved by going into a library and opening up a book.", "start": 3884.0, "end": 3891.0}
+{"id": "iZgcMEoLCjA-t3891.0", "text": "Yes, exactly.", "start": 3891.0, "end": 3892.0}
+{"id": "iZgcMEoLCjA-t3892.0", "text": "And like in physics where you go to South Africa and you perform the same experiment and you don't get the same result and you go to India and you don't, then it's no valid.", "start": 3892.0, "end": 3905.0}
+{"id": "iZgcMEoLCjA-t3905.0", "text": "And again, I think this probably is the case for most of not just the literary humanities, but most of the rest of the humanities and also the humanistic social sciences, anthropology, parts of sociology as well, which is that things tend much less to be sort of conclusively proven or disproven", "start": 3905.0, "end": 3928.0}
+{"id": "iZgcMEoLCjA-t3928.0", "text": "to yield interesting or adequate explanations of the phenomena.", "start": 3928.0, "end": 3935.0}
+{"id": "iZgcMEoLCjA-t3935.0", "text": "So do you think it's about closure that there is no completeness?", "start": 3935.0, "end": 3940.0}
+{"id": "iZgcMEoLCjA-t3940.0", "text": "I think it's partly about closure or it's partly about keeping questions open.", "start": 3940.0, "end": 3945.0}
+{"id": "iZgcMEoLCjA-t3945.0", "text": "I think it's also probably about expecting there to be less progress in the sense of like, you know, aiming over time slowly to some sort of agreement.", "start": 3945.0, "end": 3955.0}
+{"id": "iZgcMEoLCjA-t3955.0", "text": "That is not just a different lens to view provisionality in science.", "start": 3955.0, "end": 3962.0}
+{"id": "iZgcMEoLCjA-t3962.0", "text": "It very well could be.", "start": 3962.0, "end": 3963.0}
+{"id": "iZgcMEoLCjA-t3963.0", "text": "No, I mean, because I think that there are lots of ways in which there are, say, you know, all the disciplines are aiming at truth and are aiming for, you know, with disciplinary humility to provide an account of the phenomenon that they engage.", "start": 3963.0, "end": 3982.0}
+{"id": "iZgcMEoLCjA-t3982.0", "text": "And to do so within norms that are established within a disciplinary framework and that are in some ways driven by something like consensus.", "start": 3982.0, "end": 3992.0}
+{"id": "iZgcMEoLCjA-t3992.0", "text": "Yes, I wanted you to pitch it now.", "start": 3992.0, "end": 3995.0}
+{"id": "iZgcMEoLCjA-t3995.0", "text": "No, I just wanted to ask you to follow up with the difference between what I would think of as critical disciplines, like literary studies and literature itself, or truth in art, truth in fiction and so on.", "start": 3995.0, "end": 4008.0}
+{"id": "iZgcMEoLCjA-t4008.0", "text": "And so I don't know, I guess my working view is that my working view is that, yeah, you can learn things from art.", "start": 4008.0, "end": 4016.0}
+{"id": "iZgcMEoLCjA-t4016.0", "text": "You know, there's truth there.", "start": 4016.0, "end": 4018.0}
+{"id": "iZgcMEoLCjA-t4018.0", "text": "Absolutely.", "start": 4018.0, "end": 4019.0}
+{"id": "iZgcMEoLCjA-t4019.0", "text": "And but I might, the problem might be that I'm a bit of a pragmatist and pragmatists are quite comfortable with the idea that you've got a truth so long as it helped you solve a problem or figure something out and it was useful.", "start": 4019.0, "end": 4030.0}
+{"id": "iZgcMEoLCjA-t4030.0", "text": "And Henry James famously said in the Art of Fiction that fiction is true when you can use it to ride one bit of your experience to another.", "start": 4030.0, "end": 4040.0}
+{"id": "iZgcMEoLCjA-t4040.0", "text": "Right.", "start": 4040.0, "end": 4041.0}
+{"id": "iZgcMEoLCjA-t4041.0", "text": "And that sounded just like his brother, William.", "start": 4041.0, "end": 4043.0}
+{"id": "iZgcMEoLCjA-t4043.0", "text": "Yeah.", "start": 4043.0, "end": 4044.0}
+{"id": "iZgcMEoLCjA-t4044.0", "text": "And anyway, I just was wondering, I would think that a critical discipline might not have that same empirical burden that Tim was asking about as art itself.", "start": 4044.0, "end": 4057.0}
+{"id": "iZgcMEoLCjA-t4057.0", "text": "It was my follow-up question.", "start": 4057.0, "end": 4060.0}
+{"id": "iZgcMEoLCjA-t4060.0", "text": "I thought you were going to be other direction.", "start": 4060.0, "end": 4061.0}
+{"id": "iZgcMEoLCjA-t4061.0", "text": "You see that a critical discipline could be aimed at all kinds of things besides that, I think, whereas the art itself may be not.", "start": 4061.0, "end": 4070.0}
+{"id": "iZgcMEoLCjA-t4070.0", "text": "Oh, yeah, again, I thought you were going to go in the other direction.", "start": 4070.0, "end": 4074.0}
+{"id": "iZgcMEoLCjA-t4074.0", "text": "I know, must be the right perspective.", "start": 4074.0, "end": 4076.0}
+{"id": "iZgcMEoLCjA-t4076.0", "text": "Yeah, I guess you say art is interested in all other things besides truth, is it perhaps just in beauty or in some other more subjective experience on the part of a reader or beholder.", "start": 4076.0, "end": 4086.0}
+{"id": "iZgcMEoLCjA-t4086.0", "text": "It makes art works valuable and interesting and why one tends to go to want to read them or to view them or whatever, which is, you know, you're not necessarily interested in truth.", "start": 4086.0, "end": 4095.0}
+{"id": "iZgcMEoLCjA-t4095.0", "text": "You're interested in, say, the experience of beauty or some version of the sublime or something like that.", "start": 4095.0, "end": 4100.0}
+{"id": "iZgcMEoLCjA-t4100.0", "text": "But I agree with you there that I think actually the aesthetic domain is a domain that can produce certain kinds of truth that can tell you things about that we care deeply about, about our world and about our culture and about ourselves.", "start": 4100.0, "end": 4115.0}
+{"id": "iZgcMEoLCjA-t4115.0", "text": "Sure.", "start": 4115.0, "end": 4116.0}
+{"id": "iZgcMEoLCjA-t4116.0", "text": "But I think most, again, I mean, this is maybe this also is a sort of version of pragmatism too, which is I think like most of the time we are living in a world with what we care about is lower case truths rather than upper case truths.", "start": 4116.0, "end": 4132.0}
+{"id": "iZgcMEoLCjA-t4132.0", "text": "Although I think that also the two are fundamentally compatible.", "start": 4132.0, "end": 4136.0}
+{"id": "iZgcMEoLCjA-t4136.0", "text": "But I think on the other hand, to take the other example, the critical disciplines, that is to say the humanities, perhaps living philosophy out of it for a moment and the humanistic social sciences, I think are truth oriented disciplines.", "start": 4136.0, "end": 4158.0}
+{"id": "iZgcMEoLCjA-t4158.0", "text": "I mean, in the sense that they have internal standards, they have norms, the interpretive work that they try to do is subject to these norms and they try to provide an account of the phenomena that is true, accurate, compelling.", "start": 4158.0, "end": 4175.0}
+{"id": "iZgcMEoLCjA-t4175.0", "text": "But often quite, you know, limited and hedged, I mean, in the sense of like, you know, aiming for an answer, a particular set of questions about a range of texts or other kinds of cultural phenomena that you are in the business of interpreting.", "start": 4175.0, "end": 4192.0}
+{"id": "iZgcMEoLCjA-t4192.0", "text": "I wanted to go back to something, I don't know if I totally understood. You said we will never understand in scientific term consciousness. In physical terms. I said in physical terms. Why not?", "start": 4192.0, "end": 4206.0}
+{"id": "iZgcMEoLCjA-t4206.0", "text": "Because ultimately, I think this would be an entire panel on its own. I'll try and say it briefly. Ultimately, physics is the theory of matter in motion.", "start": 4206.0, "end": 4219.0}
+{"id": "iZgcMEoLCjA-t4219.0", "text": "That's sort of a way you can, and that's why I said it has everything, an economic, you know, the depression was certainly matter in motion, right? There were these bodies falling out of buildings.", "start": 4219.0, "end": 4230.0}
+{"id": "iZgcMEoLCjA-t4230.0", "text": "So physics had to cover that. Any phenomenon that you see at least in some part is matter in motion. Roughly physics is going to have to handle.", "start": 4230.0, "end": 4242.0}
+{"id": "iZgcMEoLCjA-t4242.0", "text": "The idea that my pain, feeling pain, the experience of pain, that fundamentally first person subjective ouchiness could be a matter of being explained in terms of matter in motion.", "start": 4242.0, "end": 4260.0}
+{"id": "iZgcMEoLCjA-t4260.0", "text": "The explanatory gap there, I don't see how it could in principle be covered. This is not a scientific assertion.", "start": 4260.0, "end": 4275.0}
+{"id": "iZgcMEoLCjA-t4275.0", "text": "Hypothetically, if I brought your thyroid hormones down, you will start feeling sad. Then you'll start feeling down and eventually very depressed.", "start": 4275.0, "end": 4294.0}
+{"id": "iZgcMEoLCjA-t4294.0", "text": "And everything that you're experiencing would look bleak. Then I put you back on thyroid hormones and you suddenly are feeling fine.", "start": 4294.0, "end": 4307.0}
+{"id": "iZgcMEoLCjA-t4307.0", "text": "That's a physical explanation of what happens to your emotions by virtue of these chemical reactions.", "start": 4307.0, "end": 4325.0}
+{"id": "iZgcMEoLCjA-t4325.0", "text": "So I can predict, like pain, I can make perfectly good predictions if I drop a bowling ball on your toe, which is a physical state, that you're going to go into a state of extreme pain, assuming everything is normal.", "start": 4325.0, "end": 4339.0}
+{"id": "iZgcMEoLCjA-t4339.0", "text": "That is not a physical explanation of pain itself. Maybe the simple way I can do it is say this. If I tell somebody, program a computer so it plays a really fine game of chess.", "start": 4339.0, "end": 4351.0}
+{"id": "iZgcMEoLCjA-t4351.0", "text": "That's a hard thing to do, but you pretty much have an idea of what you're going about to do it and how to approach it.", "start": 4351.0, "end": 4358.0}
+{"id": "iZgcMEoLCjA-t4358.0", "text": "If I say good, now program the computer so it can carry on an apparently normal human conversation, people can do that, they have done it and so on.", "start": 4358.0, "end": 4367.0}
+{"id": "iZgcMEoLCjA-t4367.0", "text": "Now I say, okay, here's your computer. Now program it so that when I hit the F key, it hurts.", "start": 4367.0, "end": 4374.0}
+{"id": "iZgcMEoLCjA-t4374.0", "text": "The computer feels pain in the same way we do. That is that it would be morally unacceptable to hit the F key.", "start": 4374.0, "end": 4383.0}
+{"id": "iZgcMEoLCjA-t4383.0", "text": "It would be torturing an actual sentient object when you hit the F key. Program your computer to do that.", "start": 4383.0, "end": 4391.0}
+{"id": "iZgcMEoLCjA-t4391.0", "text": "Any computer scientist is going to say, I haven't got a clue.", "start": 4391.0, "end": 4395.0}
+{"id": "iZgcMEoLCjA-t4395.0", "text": "But it doesn't have to be programmable into a computer to be physical.", "start": 4395.0, "end": 4399.0}
+{"id": "iZgcMEoLCjA-t4399.0", "text": "I'm just making a point. Just ask yourself what the resources are to be able to do that.", "start": 4399.0, "end": 4404.0}
+{"id": "iZgcMEoLCjA-t4404.0", "text": "That's a question.", "start": 4404.0, "end": 4405.0}
+{"id": "iZgcMEoLCjA-t4405.0", "text": "Nobody exists obvious.", "start": 4405.0, "end": 4406.0}
+{"id": "iZgcMEoLCjA-t4406.0", "text": "But isn't there an answer to that? I agree with you actually. I think on the point that you're making.", "start": 4406.0, "end": 4411.0}
+{"id": "iZgcMEoLCjA-t4411.0", "text": "But for that particular example, couldn't you imagine some future of some many, many years from now some advanced computer scientists,", "start": 4411.0, "end": 4421.0}
+{"id": "iZgcMEoLCjA-t4421.0", "text": "some advanced computer science where someone could actually make that program, figure out precisely what's happening or build a brain.", "start": 4421.0, "end": 4429.0}
+{"id": "iZgcMEoLCjA-t4429.0", "text": "So we've mapped the neural carlids of pain perfectly so that I can actually create a brain that would experience pain if I banged it in a certain way.", "start": 4429.0, "end": 4438.0}
+{"id": "iZgcMEoLCjA-t4438.0", "text": "But even then, actually, you could also imagine the same brain not experiencing pain.", "start": 4438.0, "end": 4443.0}
+{"id": "iZgcMEoLCjA-t4443.0", "text": "You don't understand the relationship between the structure and the experience itself.", "start": 4443.0, "end": 4447.0}
+{"id": "iZgcMEoLCjA-t4447.0", "text": "That's the point.", "start": 4447.0, "end": 4448.0}
+{"id": "iZgcMEoLCjA-t4448.0", "text": "That's the point.", "start": 4448.0, "end": 4449.0}
+{"id": "iZgcMEoLCjA-t4449.0", "text": "Right. Yes, exactly.", "start": 4449.0, "end": 4451.0}
+{"id": "iZgcMEoLCjA-t4451.0", "text": "Right.", "start": 4451.0, "end": 4452.0}
+{"id": "iZgcMEoLCjA-t4452.0", "text": "Well, obviously it's extremely speculative.", "start": 4452.0, "end": 4459.0}
+{"id": "iZgcMEoLCjA-t4459.0", "text": "I mean, why we've just started a little bit about understanding a little bit of medicine and about things like that.", "start": 4459.0, "end": 4468.0}
+{"id": "iZgcMEoLCjA-t4468.0", "text": "Why I don't see why it follows that you can say you never.", "start": 4468.0, "end": 4474.0}
+{"id": "iZgcMEoLCjA-t4474.0", "text": "I think I'm going to stop at maybe giving an example that might explain this point of view.", "start": 4474.0, "end": 4480.0}
+{"id": "iZgcMEoLCjA-t4480.0", "text": "I just think that there, for example, there isn't going to be a particular formula for anger, which is all the neurons that have to fire,", "start": 4480.0, "end": 4496.0}
+{"id": "iZgcMEoLCjA-t4496.0", "text": "and all the calcium levels that have to be at whatever, whatever, in order to define anger.", "start": 4496.0, "end": 4503.0}
+{"id": "iZgcMEoLCjA-t4503.0", "text": "That whatever, suppose even, first of all, there's stochasticity in all those pathways.", "start": 4503.0, "end": 4509.0}
+{"id": "iZgcMEoLCjA-t4509.0", "text": "I think the point is that if those neurons fire just in the same way, for her and for me, the result may not be anger for both of us.", "start": 4509.0, "end": 4523.0}
+{"id": "iZgcMEoLCjA-t4523.0", "text": "It might be experientially.", "start": 4523.0, "end": 4525.0}
+{"id": "iZgcMEoLCjA-t4525.0", "text": "So it's that mapping that we...", "start": 4525.0, "end": 4528.0}
+{"id": "iZgcMEoLCjA-t4528.0", "text": "Why not be open-minded?", "start": 4528.0, "end": 4530.0}
+{"id": "iZgcMEoLCjA-t4530.0", "text": "What if it is?", "start": 4530.0, "end": 4531.0}
+{"id": "iZgcMEoLCjA-t4531.0", "text": "I guess, again, even if it is, understanding what or why, why this particular pathway produces the subjective experience of anger,", "start": 4531.0, "end": 4541.0}
+{"id": "iZgcMEoLCjA-t4541.0", "text": "is still an unanswered question.", "start": 4541.0, "end": 4543.0}
+{"id": "iZgcMEoLCjA-t4543.0", "text": "That's the explanatory gap, and that's what you're saying is in principle, unreasonable.", "start": 4543.0, "end": 4547.0}
+{"id": "iZgcMEoLCjA-t4547.0", "text": "Actually, my own intuitions are in the same direction.", "start": 4547.0, "end": 4551.0}
+{"id": "iZgcMEoLCjA-t4551.0", "text": "So what you are saying is, if I have an exponent, if I say this particular pathway, it leads to my big toe moving.", "start": 4551.0, "end": 4565.0}
+{"id": "iZgcMEoLCjA-t4565.0", "text": "That's different than if I say this explanatory pathway leads to anxiety.", "start": 4565.0, "end": 4571.0}
+{"id": "iZgcMEoLCjA-t4571.0", "text": "Or leads to the subjective experience of anger.", "start": 4571.0, "end": 4574.0}
+{"id": "iZgcMEoLCjA-t4574.0", "text": "The subjective experience, because there's some other filter of a personal point of view.", "start": 4574.0, "end": 4582.0}
+{"id": "iZgcMEoLCjA-t4582.0", "text": "But since subjective experience is connected to the same neural pathways, I don't know why you would make this thing, why you would separate them.", "start": 4582.0, "end": 4590.0}
+{"id": "iZgcMEoLCjA-t4590.0", "text": "The problem is privacy.", "start": 4590.0, "end": 4592.0}
+{"id": "iZgcMEoLCjA-t4592.0", "text": "But you see, I don't think, I think that it's overblown why privacy is unincorporated in physics.", "start": 4592.0, "end": 4598.0}
+{"id": "iZgcMEoLCjA-t4598.0", "text": "This is one of the things that I was hoping we would get to.", "start": 4598.0, "end": 4602.0}
+{"id": "iZgcMEoLCjA-t4602.0", "text": "Do you define privacy?", "start": 4602.0, "end": 4604.0}
+{"id": "iZgcMEoLCjA-t4604.0", "text": "You only know these things from your own case.", "start": 4604.0, "end": 4608.0}
+{"id": "iZgcMEoLCjA-t4608.0", "text": "What it actually feels like.", "start": 4608.0, "end": 4610.0}
+{"id": "iZgcMEoLCjA-t4610.0", "text": "Privileged access.", "start": 4610.0, "end": 4612.0}
+{"id": "iZgcMEoLCjA-t4612.0", "text": "Privileged access isn't only privileged access, it's exclusive access.", "start": 4612.0, "end": 4616.0}
+{"id": "iZgcMEoLCjA-t4616.0", "text": "And exclusive access is privacy.", "start": 4616.0, "end": 4618.0}
+{"id": "iZgcMEoLCjA-t4618.0", "text": "So philosophers talk about the mind-body problem and the problem of other minds,", "start": 4618.0, "end": 4623.0}
+{"id": "iZgcMEoLCjA-t4623.0", "text": "and they like to start with these qualitative dimensions of consciousness,", "start": 4623.0, "end": 4628.0}
+{"id": "iZgcMEoLCjA-t4628.0", "text": "where there's something it's like to see red, something it's like to feel pain.", "start": 4628.0, "end": 4631.0}
+{"id": "iZgcMEoLCjA-t4631.0", "text": "And if you don't have color vision, then you don't have the right kinds of sensitivities you will never know,", "start": 4631.0, "end": 4636.0}
+{"id": "iZgcMEoLCjA-t4636.0", "text": "because you've never had the experience in your own case.", "start": 4636.0, "end": 4639.0}
+{"id": "iZgcMEoLCjA-t4639.0", "text": "So that's privacy.", "start": 4639.0, "end": 4641.0}
+{"id": "iZgcMEoLCjA-t4641.0", "text": "And it feels, and there's a good case to be made that that's a kind of quintessential example of subjectivity.", "start": 4641.0, "end": 4649.0}
+{"id": "iZgcMEoLCjA-t4649.0", "text": "I don't think it's the most central and important one, I think it's way overblown.", "start": 4649.0, "end": 4654.0}
+{"id": "iZgcMEoLCjA-t4654.0", "text": "But the idea that there's something it's like has emerged in nature.", "start": 4654.0, "end": 4659.0}
+{"id": "iZgcMEoLCjA-t4659.0", "text": "It has, for some creatures.", "start": 4659.0, "end": 4662.0}
+{"id": "iZgcMEoLCjA-t4662.0", "text": "And we have pretty strong evidence that it requires a working brain and working neurocircuitary", "start": 4662.0, "end": 4667.0}
+{"id": "iZgcMEoLCjA-t4667.0", "text": "and certain sensitivities.", "start": 4667.0, "end": 4669.0}
+{"id": "iZgcMEoLCjA-t4669.0", "text": "There are deficits when those things are not there.", "start": 4669.0, "end": 4672.0}
+{"id": "iZgcMEoLCjA-t4672.0", "text": "And it is mysterious why there's this inequality of dimension to life.", "start": 4672.0, "end": 4679.0}
+{"id": "iZgcMEoLCjA-t4679.0", "text": "It's true.", "start": 4679.0, "end": 4680.0}
+{"id": "iZgcMEoLCjA-t4680.0", "text": "But it doesn't seem to me like it's not a good thing to study scientifically.", "start": 4680.0, "end": 4684.0}
+{"id": "iZgcMEoLCjA-t4684.0", "text": "I can only, for instance, going back to the big toe, there's a problem with other bodies.", "start": 4684.0, "end": 4690.0}
+{"id": "iZgcMEoLCjA-t4690.0", "text": "I can only control my body, I can't control your body.", "start": 4690.0, "end": 4693.0}
+{"id": "iZgcMEoLCjA-t4693.0", "text": "It's just what it is to be the single organism that you are.", "start": 4693.0, "end": 4696.0}
+{"id": "iZgcMEoLCjA-t4696.0", "text": "You have bodily boundaries, you have motor control within that body.", "start": 4696.0, "end": 4699.0}
+{"id": "iZgcMEoLCjA-t4699.0", "text": "And you also have a kind of sentient access to things going on within it, which you're locked into", "start": 4699.0, "end": 4705.0}
+{"id": "iZgcMEoLCjA-t4705.0", "text": "because you're a separate organism and you have a self-contained nervous system.", "start": 4705.0, "end": 4710.0}
+{"id": "iZgcMEoLCjA-t4710.0", "text": "But that it's a hard problem of consciousness that physics couldn't ever take on strikes me as.", "start": 4710.0, "end": 4718.0}
+{"id": "iZgcMEoLCjA-t4718.0", "text": "I mean, these events do occur in time.", "start": 4718.0, "end": 4721.0}
+{"id": "iZgcMEoLCjA-t4721.0", "text": "It looks like they occur kind of in space because they're located inside people who are spatially located.", "start": 4721.0, "end": 4726.0}
+{"id": "iZgcMEoLCjA-t4726.0", "text": "So they look like they fall under, like when you said there's no event that happens", "start": 4726.0, "end": 4729.0}
+{"id": "iZgcMEoLCjA-t4729.0", "text": "that a physicist shouldn't be able to take on and think about,", "start": 4729.0, "end": 4732.0}
+{"id": "iZgcMEoLCjA-t4732.0", "text": "I would think these would then be among them.", "start": 4732.0, "end": 4735.0}
+{"id": "iZgcMEoLCjA-t4735.0", "text": "And oddly, I don't really think that the features of the first-person point of view that might resist physical treatment", "start": 4735.0, "end": 4743.0}
+{"id": "iZgcMEoLCjA-t4743.0", "text": "include the qualitative dimensions of consciousness.", "start": 4743.0, "end": 4746.0}
+{"id": "iZgcMEoLCjA-t4746.0", "text": "I think they're more likely to be tractable physically than dimensions of value.", "start": 4746.0, "end": 4751.0}
+{"id": "iZgcMEoLCjA-t4751.0", "text": "Personally, I think...", "start": 4751.0, "end": 4753.0}
+{"id": "iZgcMEoLCjA-t4753.0", "text": "Well, yes, that's another layer.", "start": 4753.0, "end": 4756.0}
+{"id": "iZgcMEoLCjA-t4756.0", "text": "Just to put another thing out there.", "start": 4756.0, "end": 4758.0}
+{"id": "iZgcMEoLCjA-t4758.0", "text": "I think value and normative truth is separate and untouchable by physics.", "start": 4758.0, "end": 4766.0}
+{"id": "iZgcMEoLCjA-t4766.0", "text": "I mean, I said that.", "start": 4766.0, "end": 4767.0}
+{"id": "iZgcMEoLCjA-t4767.0", "text": "Yeah, exactly.", "start": 4767.0, "end": 4768.0}
+{"id": "iZgcMEoLCjA-t4768.0", "text": "But consciousness is not...", "start": 4768.0, "end": 4770.0}
+{"id": "iZgcMEoLCjA-t4770.0", "text": "I just...", "start": 4770.0, "end": 4771.0}
+{"id": "iZgcMEoLCjA-t4771.0", "text": "There's no problem at all understanding physically why I can control my body and not breathe.", "start": 4771.0, "end": 4777.0}
+{"id": "iZgcMEoLCjA-t4777.0", "text": "Exactly.", "start": 4777.0, "end": 4778.0}
+{"id": "iZgcMEoLCjA-t4778.0", "text": "So that's trivial.", "start": 4778.0, "end": 4779.0}
+{"id": "iZgcMEoLCjA-t4779.0", "text": "Right.", "start": 4779.0, "end": 4780.0}
+{"id": "iZgcMEoLCjA-t4780.0", "text": "But this is a problem that...", "start": 4780.0, "end": 4782.0}
+{"id": "iZgcMEoLCjA-t4782.0", "text": "When you sort of imagine proto-physics, imagine I'm a democracy.", "start": 4782.0, "end": 4787.0}
+{"id": "iZgcMEoLCjA-t4787.0", "text": "And all I believe there's this empty space of these atoms that float around.", "start": 4787.0, "end": 4790.0}
+{"id": "iZgcMEoLCjA-t4790.0", "text": "They bang into each other.", "start": 4790.0, "end": 4791.0}
+{"id": "iZgcMEoLCjA-t4791.0", "text": "They put in hooks and eyes.", "start": 4791.0, "end": 4793.0}
+{"id": "iZgcMEoLCjA-t4793.0", "text": "And then you say, in principle, can such a theory explain nutrition?", "start": 4793.0, "end": 4799.0}
+{"id": "iZgcMEoLCjA-t4799.0", "text": "Why an animal can eat things and grow?", "start": 4799.0, "end": 4803.0}
+{"id": "iZgcMEoLCjA-t4803.0", "text": "And you say, well, sure, in principle, you could imagine these kinds of shaped atoms get taken in and they hook up to these", "start": 4803.0, "end": 4809.0}
+{"id": "iZgcMEoLCjA-t4809.0", "text": "that are in the animal and it grows out.", "start": 4809.0, "end": 4811.0}
+{"id": "iZgcMEoLCjA-t4811.0", "text": "That's not an actual theory, but it's...", "start": 4811.0, "end": 4813.0}
+{"id": "iZgcMEoLCjA-t4813.0", "text": "You see clearly how the resources are there in principle.", "start": 4813.0, "end": 4818.0}
+{"id": "iZgcMEoLCjA-t4818.0", "text": "To make connections.", "start": 4818.0, "end": 4819.0}
+{"id": "iZgcMEoLCjA-t4819.0", "text": "And to explain the phenomenon that you're trying to explain.", "start": 4819.0, "end": 4823.0}
+{"id": "iZgcMEoLCjA-t4823.0", "text": "Right.", "start": 4823.0, "end": 4824.0}
+{"id": "iZgcMEoLCjA-t4824.0", "text": "It's...", "start": 4824.0, "end": 4825.0}
+{"id": "iZgcMEoLCjA-t4825.0", "text": "The problem of consciousness is that you just don't see in principle, which is not to say you can't get all kinds of", "start": 4825.0, "end": 4831.0}
+{"id": "iZgcMEoLCjA-t4831.0", "text": "correlations that you could make, even predictions that you could bring it under a certain kind of scientific discipline,", "start": 4831.0, "end": 4838.0}
+{"id": "iZgcMEoLCjA-t4838.0", "text": "but that there's an explanatory...", "start": 4838.0, "end": 4839.0}
+{"id": "iZgcMEoLCjA-t4839.0", "text": "An explore aspect of it.", "start": 4839.0, "end": 4840.0}
+{"id": "iZgcMEoLCjA-t4840.0", "text": "Sure.", "start": 4840.0, "end": 4841.0}
+{"id": "iZgcMEoLCjA-t4841.0", "text": "Sure.", "start": 4841.0, "end": 4842.0}
+{"id": "iZgcMEoLCjA-t4842.0", "text": "Absolutely.", "start": 4842.0, "end": 4843.0}
+{"id": "iZgcMEoLCjA-t4843.0", "text": "Okay, well, I guess, but that...", "start": 4843.0, "end": 4844.0}
+{"id": "iZgcMEoLCjA-t4844.0", "text": "Completely explain it.", "start": 4844.0, "end": 4845.0}
+{"id": "iZgcMEoLCjA-t4845.0", "text": "Okay, that's the question.", "start": 4845.0, "end": 4846.0}
+{"id": "iZgcMEoLCjA-t4846.0", "text": "What is an explanation?", "start": 4846.0, "end": 4848.0}
+{"id": "iZgcMEoLCjA-t4848.0", "text": "Yes.", "start": 4848.0, "end": 4849.0}
+{"id": "iZgcMEoLCjA-t4849.0", "text": "Yes.", "start": 4849.0, "end": 4850.0}
+{"id": "iZgcMEoLCjA-t4850.0", "text": "Because inductive correlations do darn well for Newton and a lot of things, right?", "start": 4850.0, "end": 4854.0}
+{"id": "iZgcMEoLCjA-t4854.0", "text": "When he doesn't have deep, ultimate explanations of a lot of things, he just found out some basic laws.", "start": 4854.0, "end": 4859.0}
+{"id": "iZgcMEoLCjA-t4859.0", "text": "Right.", "start": 4859.0, "end": 4860.0}
+{"id": "iZgcMEoLCjA-t4860.0", "text": "You know, so maybe those things can be found here.", "start": 4860.0, "end": 4863.0}
+{"id": "iZgcMEoLCjA-t4863.0", "text": "All right.", "start": 4863.0, "end": 4864.0}
+{"id": "iZgcMEoLCjA-t4864.0", "text": "We'll stop and open for questions.", "start": 4864.0, "end": 4867.0}
+{"id": "iZgcMEoLCjA-t4867.0", "text": "I think that's very stimulating.", "start": 4867.0, "end": 4877.0}
+{"id": "iZgcMEoLCjA-t4877.0", "text": "I was struck by the absence of a discussion.", "start": 4877.0, "end": 4881.0}
+{"id": "iZgcMEoLCjA-t4881.0", "text": "Well, let me start over.", "start": 4881.0, "end": 4883.0}
+{"id": "iZgcMEoLCjA-t4883.0", "text": "So there's been...", "start": 4883.0, "end": 4884.0}
+{"id": "iZgcMEoLCjA-t4884.0", "text": "There's sort of like an intuitive argument here and a back and forth among the panelists about whether certain explanations", "start": 4884.0, "end": 4891.0}
+{"id": "iZgcMEoLCjA-t4891.0", "text": "will ever be available with enough time, like why not be agnostic about it?", "start": 4891.0, "end": 4898.0}
+{"id": "iZgcMEoLCjA-t4898.0", "text": "Maybe we will ultimately have an explanation.", "start": 4898.0, "end": 4901.0}
+{"id": "iZgcMEoLCjA-t4901.0", "text": "It would be interesting that I thought it would be interesting to consider the idea of algorithmic", "start": 4901.0, "end": 4907.0}
+{"id": "iZgcMEoLCjA-t4907.0", "text": "complexity.", "start": 4907.0, "end": 4908.0}
+{"id": "iZgcMEoLCjA-t4908.0", "text": "It is how much of an explanation is required to give a relevant explanation.", "start": 4908.0, "end": 4914.0}
+{"id": "iZgcMEoLCjA-t4914.0", "text": "That's a little bit of what I think Tim touched on a little bit.", "start": 4914.0, "end": 4917.0}
+{"id": "iZgcMEoLCjA-t4917.0", "text": "When you talked about the computer person and the physicist describing how long a certain computer program will run,", "start": 4917.0, "end": 4924.0}
+{"id": "iZgcMEoLCjA-t4924.0", "text": "I think it's interesting too, the relevance ties into perspective.", "start": 4924.0, "end": 4928.0}
+{"id": "iZgcMEoLCjA-t4928.0", "text": "So the idea would be if you have an explanation, even in mathematics, you have an explanation that runs 300 pages", "start": 4928.0, "end": 4936.0}
+{"id": "iZgcMEoLCjA-t4936.0", "text": "and someone's able to condense it to two pages, we normally say, well, that two page one gives the explanation.", "start": 4936.0, "end": 4942.0}
+{"id": "iZgcMEoLCjA-t4942.0", "text": "No, we say it's a more beautiful explanation.", "start": 4942.0, "end": 4944.0}
+{"id": "iZgcMEoLCjA-t4944.0", "text": "Normally, people say it at the same time, but it also provides more...", "start": 4944.0, "end": 4950.0}
+{"id": "iZgcMEoLCjA-t4950.0", "text": "Our understanding is increased by the shorter explanation, not the very very long.", "start": 4950.0, "end": 4954.0}
+{"id": "iZgcMEoLCjA-t4954.0", "text": "It depends on what those two...", "start": 4954.0, "end": 4956.0}
+{"id": "iZgcMEoLCjA-t4956.0", "text": "Okay, I suppose so, but the idea is just to support your view.", "start": 4956.0, "end": 4961.0}
+{"id": "iZgcMEoLCjA-t4961.0", "text": "I object to everything.", "start": 4961.0, "end": 4964.0}
+{"id": "iZgcMEoLCjA-t4964.0", "text": "Even if one explanation is extremely long and the other is shorter and it's more relevant to what you're trying to explain,", "start": 4964.0, "end": 4972.0}
+{"id": "iZgcMEoLCjA-t4972.0", "text": "then you could argue that the long, long explanation is really irrelevant or it doesn't really provide much from the explanation.", "start": 4972.0, "end": 4979.0}
+{"id": "iZgcMEoLCjA-t4979.0", "text": "It's as long in terms of complexity as the very problem you're trying to explain.", "start": 4979.0, "end": 4985.0}
+{"id": "iZgcMEoLCjA-t4985.0", "text": "Sometimes.", "start": 4985.0, "end": 4987.0}
+{"id": "iZgcMEoLCjA-t4987.0", "text": "I mean, the notion of explanation has been floating through the conversation and never become the target.", "start": 4987.0, "end": 4996.0}
+{"id": "iZgcMEoLCjA-t4996.0", "text": "Right.", "start": 4996.0, "end": 5002.0}
+{"id": "iZgcMEoLCjA-t5002.0", "text": "And it's a really, really complicated and difficult thing.", "start": 5002.0, "end": 5006.0}
+{"id": "iZgcMEoLCjA-t5006.0", "text": "I mean, maybe I'll just make a couple points, which is we've talked a lot about science wanting to provide explanations", "start": 5006.0, "end": 5011.0}
+{"id": "iZgcMEoLCjA-t5011.0", "text": "and that being part of the aim of science and that even being an indication of truth, those things can come way apart.", "start": 5011.0, "end": 5018.0}
+{"id": "iZgcMEoLCjA-t5018.0", "text": "For example, and now I can really be offensive here, one of the things that bothered Popper when he was worried about the nature of science,", "start": 5018.0, "end": 5029.0}
+{"id": "iZgcMEoLCjA-t5029.0", "text": "the things that claimed to be scientific that he rejected were one of them was Marxism and one of the most Freudianism.", "start": 5029.0, "end": 5038.0}
+{"id": "iZgcMEoLCjA-t5038.0", "text": "And his objection to Freudianism, as it were, wasn't that it was incapable...", "start": 5038.0, "end": 5043.0}
+{"id": "iZgcMEoLCjA-t5043.0", "text": "Well, you put it a funny way.", "start": 5043.0, "end": 5045.0}
+{"id": "iZgcMEoLCjA-t5045.0", "text": "It wasn't that it was incapable of explaining anything.", "start": 5045.0, "end": 5048.0}
+{"id": "iZgcMEoLCjA-t5048.0", "text": "It was capable of explaining literally anything.", "start": 5048.0, "end": 5051.0}
+{"id": "iZgcMEoLCjA-t5051.0", "text": "That any human behavior, you could come up with some Freudian story that had the hallmarks of being explaining.", "start": 5051.0, "end": 5062.0}
+{"id": "iZgcMEoLCjA-t5062.0", "text": "But exactly because it was completely unconstrained by the behavior, it meant you were just telling it just so story.", "start": 5062.0, "end": 5069.0}
+{"id": "iZgcMEoLCjA-t5069.0", "text": "There's no reason to think any of it was true.", "start": 5069.0, "end": 5072.0}
+{"id": "iZgcMEoLCjA-t5072.0", "text": "So the first, what an explanation is and the relation between explanation and truth and explanation and evidence of truth,", "start": 5072.0, "end": 5080.0}
+{"id": "iZgcMEoLCjA-t5080.0", "text": "these are very, very, very difficult questions.", "start": 5080.0, "end": 5083.0}
+{"id": "iZgcMEoLCjA-t5083.0", "text": "So the challenge that people who believe that there could be a complete physical theory for everything is to explain how you would get to condensing an overlong and overly too high dimensional.", "start": 5083.0, "end": 5098.0}
+{"id": "iZgcMEoLCjA-t5098.0", "text": "And how would you know you have a valentery of everything?", "start": 5098.0, "end": 5102.0}
+{"id": "iZgcMEoLCjA-t5102.0", "text": "That's the challenge I think.", "start": 5102.0, "end": 5104.0}
+{"id": "iZgcMEoLCjA-t5104.0", "text": "That I can make it a real quick comment on about brevity and the completeness of physics.", "start": 5104.0, "end": 5109.0}
+{"id": "iZgcMEoLCjA-t5109.0", "text": "So many physicists who believe there should be an ultimate physical theory, which I believe, they often say, and one of the indications you've gotten it is that there's an equation you can write on a t-shirt.", "start": 5109.0, "end": 5122.0}
+{"id": "iZgcMEoLCjA-t5122.0", "text": "There's the t-shirt standard. You can't get much briefer than that.", "start": 5122.0, "end": 5128.0}
+{"id": "iZgcMEoLCjA-t5128.0", "text": "This equation in principle explains everything.", "start": 5128.0, "end": 5133.0}
+{"id": "iZgcMEoLCjA-t5133.0", "text": "Now, to actually work out any particular one of those explanations, like why does the water bottle do that, from that equation could take billions of pages to work out of the mathematics.", "start": 5133.0, "end": 5147.0}
+{"id": "iZgcMEoLCjA-t5147.0", "text": "And you'd say, that's irrelevant as long as it follows deductively, and this comes back to, as long as it follows from that equation, that could be the correct physics.", "start": 5147.0, "end": 5160.0}
+{"id": "iZgcMEoLCjA-t5160.0", "text": "Thank you.", "start": 5160.0, "end": 5161.0}
+{"id": "iZgcMEoLCjA-t5161.0", "text": "Just to make a remark about equations, somebody and I forget who made the observation that all of mathematics can be described by the equation A equals zero.", "start": 5161.0, "end": 5174.0}
+{"id": "iZgcMEoLCjA-t5174.0", "text": "It was specified what A is.", "start": 5174.0, "end": 5179.0}
+{"id": "iZgcMEoLCjA-t5179.0", "text": "So, you know, brief explanations have something funny about them.", "start": 5179.0, "end": 5187.0}
+{"id": "iZgcMEoLCjA-t5187.0", "text": "But I want to throw out sort of an example of explanation, which I think is interesting.", "start": 5187.0, "end": 5195.0}
+{"id": "iZgcMEoLCjA-t5195.0", "text": "That is, that Van Neumann in the 30s, later in the 40s, maybe even developed a very interesting theory about how to design what would be required for a computer to be able to reproduce itself.", "start": 5195.0, "end": 5214.0}
+{"id": "iZgcMEoLCjA-t5214.0", "text": "And he sort of, you know, mathematically sort of, like, actually, what would be, what's the right conditions are, and then you find, then he found four elements, I've written down here, but I think I know better not.", "start": 5214.0, "end": 5230.0}
+{"id": "iZgcMEoLCjA-t5230.0", "text": "But roughly he's found four things that a computer will have to have in order to reproduce itself, four kinds of things.", "start": 5230.0, "end": 5239.0}
+{"id": "iZgcMEoLCjA-t5239.0", "text": "And then if you have them, you can theoretically design a computer that does.", "start": 5239.0, "end": 5246.0}
+{"id": "iZgcMEoLCjA-t5246.0", "text": "Okay, then 10 years later or something, DNA was discovered and so on.", "start": 5246.0, "end": 5253.0}
+{"id": "iZgcMEoLCjA-t5253.0", "text": "It turns out that we've exactly found, they found exactly those things in nature, which sort of explain, in quotes, reproduction.", "start": 5253.0, "end": 5266.0}
+{"id": "iZgcMEoLCjA-t5266.0", "text": "So, I mean, I think what I'm trying to say is that we're at the beginning of some sort of adventure here and it's really hard to put down limits a priori.", "start": 5266.0, "end": 5280.0}
+{"id": "iZgcMEoLCjA-t5280.0", "text": "Okay.", "start": 5280.0, "end": 5283.0}
+{"id": "iZgcMEoLCjA-t5283.0", "text": "Thank you for very stimulating conversation and I have a lot of questions, but probably can ask on Le Ronde.", "start": 5283.0, "end": 5298.0}
+{"id": "iZgcMEoLCjA-t5298.0", "text": "And I would like to ask about this mythology of Mathematic Success.", "start": 5298.0, "end": 5299.0}
+{"id": "iZgcMEoLCjA-t5299.0", "text": "Because let's talk, for example, let's calculate my movements and I will be moving on them mathematically.", "start": 5299.0, "end": 5308.0}
+{"id": "iZgcMEoLCjA-t5308.0", "text": "I would not be able to move even one step. You see, but my body calculated without my conscious awareness and I could do whatever I want.", "start": 5308.0, "end": 5320.0}
+{"id": "iZgcMEoLCjA-t5320.0", "text": "And these follow to their question that evolution created us during million years with very intricate and very slight progression.", "start": 5320.0, "end": 5337.0}
+{"id": "iZgcMEoLCjA-t5337.0", "text": "And our successful science, mostly successful in destructive creation, when we remove everything that was created during millions of evolution and proliferate ourselves.", "start": 5337.0, "end": 5355.0}
+{"id": "iZgcMEoLCjA-t5355.0", "text": "Like, remove everything and build a pyramid or build a nuclear bomb or build something that destroyed everything that we could move and make something convenient only to us, which is actually working against us.", "start": 5355.0, "end": 5372.0}
+{"id": "iZgcMEoLCjA-t5372.0", "text": "Like, for example, mitigation, we remove all our migratory bomb, we remove everything and it's we create destructive bacteria who actually in these situations that established on our success in science actually creates situation that very destructive even for us.", "start": 5372.0, "end": 5401.0}
+{"id": "iZgcMEoLCjA-t5401.0", "text": "Well, there's the question.", "start": 5401.0, "end": 5404.0}
+{"id": "iZgcMEoLCjA-t5404.0", "text": "Question, is there is our science more destructive or more creative?", "start": 5404.0, "end": 5412.0}
+{"id": "iZgcMEoLCjA-t5412.0", "text": "I think it's not an either or.", "start": 5412.0, "end": 5415.0}
+{"id": "iZgcMEoLCjA-t5415.0", "text": "If we have atomic hydrogen bomb warfare within the next hundred years, then it's more destructive. But if we continue to make people have more energy for the whole world.", "start": 5415.0, "end": 5437.0}
+{"id": "iZgcMEoLCjA-t5437.0", "text": "Not just nuclear destruction, carbon extraction, I mean, is going to do much more.", "start": 5437.0, "end": 5447.0}
+{"id": "iZgcMEoLCjA-t5447.0", "text": "Science can be used for bad. It is used for both. So the question is, what is it used for?", "start": 5447.0, "end": 5456.0}
+{"id": "iZgcMEoLCjA-t5456.0", "text": "I mean, this comes back to values and so science is a kind of tool and it's like asking our hammers more destructive or constructive. It depends on what people use them for.", "start": 5456.0, "end": 5470.0}
+{"id": "iZgcMEoLCjA-t5470.0", "text": "The hammer is not responsible for the hammer user. Hope well constructed science gives us true accurate predictive abilities and therefore tends to expand our technological abilities.", "start": 5470.0, "end": 5488.0}
+{"id": "iZgcMEoLCjA-t5488.0", "text": "But how we use that and whether we're wise enough to see that there will be unintended and unforeseen consequences and also that we're kind of idiots.", "start": 5488.0, "end": 5496.0}
+{"id": "iZgcMEoLCjA-t5496.0", "text": "And we make mistakes all the time is that's on us.", "start": 5496.0, "end": 5500.0}
+{"id": "iZgcMEoLCjA-t5500.0", "text": "I think some of what she was asking is that perhaps we as human beings have focused too selfishly just on ourselves and the impact of the science and technologies that we create on ourselves and that we need to have the ecosystem, the larger world and impact on the planet", "start": 5500.0, "end": 5524.0}
+{"id": "iZgcMEoLCjA-t5524.0", "text": "and all of that be part of the playground in which we do the evaluation of a technology, for example.", "start": 5524.0, "end": 5535.0}
+{"id": "iZgcMEoLCjA-t5535.0", "text": "Let's go and then we'll go to the question.", "start": 5535.0, "end": 5538.0}
+{"id": "iZgcMEoLCjA-t5538.0", "text": "Yeah.", "start": 5538.0, "end": 5540.0}
+{"id": "iZgcMEoLCjA-t5540.0", "text": "There's one unfortunate thing. I mean, I agree with everything everybody said, more or less.", "start": 5540.0, "end": 5546.0}
+{"id": "iZgcMEoLCjA-t5546.0", "text": "But one unfortunate thing, unfortunately, I mean, a person may make a hammer in order for good purposes.", "start": 5546.0, "end": 5554.0}
+{"id": "iZgcMEoLCjA-t5554.0", "text": "But there are things that people make like the atomic bomb, which are done presumably for good purpose of defense of the nation of something.", "start": 5554.0, "end": 5565.0}
+{"id": "iZgcMEoLCjA-t5565.0", "text": "And when they do that, unfortunately, they have two things. They produce this horrible possibility. But as a byproduct of these kinds of investigations, all sorts of things that are good can come out.", "start": 5565.0, "end": 5579.0}
+{"id": "iZgcMEoLCjA-t5579.0", "text": "And unfortunately, a lot of very powerful and good science has come out from research on war, like things, like the internet, for example, which may be good or bad. I don't know why it could be very good.", "start": 5579.0, "end": 5595.0}
+{"id": "iZgcMEoLCjA-t5595.0", "text": "But it has come from...", "start": 5595.0, "end": 5599.0}
+{"id": "iZgcMEoLCjA-t5599.0", "text": "And also a lot of things, kind of, I mean, being able to fly across the Atlantic in five hours to go to a conference in London is a fine thing for advanced Western democracies to have at the same time that's actually destroying the planet.", "start": 5599.0, "end": 5615.0}
+{"id": "iZgcMEoLCjA-t5615.0", "text": "So, I mean, the...", "start": 5615.0, "end": 5629.0}
+{"id": "iZgcMEoLCjA-t5629.0", "text": "Going back to the issue of reductionism, I think that was the real subject.", "start": 5629.0, "end": 5635.0}
+{"id": "iZgcMEoLCjA-t5635.0", "text": "I think the leap from physics to consciousness is a huge leap and maybe too hard for us to bridge here. But let's just take very small leaps. So, for example, in biology of concept of gene, it's purely a biological object, or you have DNA, for example.", "start": 5635.0, "end": 5650.0}
+{"id": "iZgcMEoLCjA-t5650.0", "text": "Can you ever explain or derive the concept of a gene from physical principles? I think that's really one of the fundamental questions.", "start": 5650.0, "end": 5660.0}
+{"id": "iZgcMEoLCjA-t5660.0", "text": "Let me even go into a sub-level. Within physics, you have the fundamental laws of physics, and then you have thermodynamics, or the second law of thermodynamics. You have to introduce new principles in order to get asymmetry in time because the fundamental laws of symmetric in time.", "start": 5660.0, "end": 5674.0}
+{"id": "iZgcMEoLCjA-t5674.0", "text": "So, even within physics, you have levels that are very hard to bridge those levels.", "start": 5674.0, "end": 5680.0}
+{"id": "iZgcMEoLCjA-t5680.0", "text": "So, the question is, can you really, really, in an explanatory way, bridge these levels in any way as long as the constructs are different? Can you ever develop constructs in one level that are emerged from constructs in a level that's lower?", "start": 5680.0, "end": 5694.0}
+{"id": "iZgcMEoLCjA-t5694.0", "text": "Yeah. Is that, I mean, should I try and hand? Well, the gene is a perfect example. Mendel was looking at his keys and seeing how they grew, and he knew that characteristics were passed on from the parents to the offspring.", "start": 5694.0, "end": 5720.0}
+{"id": "iZgcMEoLCjA-t5720.0", "text": "But he didn't know how. He had no idea of what the physical basis of that was. But he could have a really good theory by just saying, well, let's assume that there are some things, I'll call it a gene.", "start": 5720.0, "end": 5733.0}
+{"id": "iZgcMEoLCjA-t5733.0", "text": "One comes from each parent, and there's this dominant and recessive, and there's independent assortment, and so on.", "start": 5733.0, "end": 5742.0}
+{"id": "iZgcMEoLCjA-t5742.0", "text": "And I can make then predictions about if I cross a true breeding smooth P with a true breeding, you know, other P, and then they'll all do this, and they'll all do that.", "start": 5742.0, "end": 5754.0}
+{"id": "iZgcMEoLCjA-t5754.0", "text": "Makes these predictions are absolutely right. Can physics ultimately explain that? Sure.", "start": 5754.0, "end": 5760.0}
+{"id": "iZgcMEoLCjA-t5760.0", "text": "It's just a matter of finding a physical system that does what the gene is postulated to do functionally, and we did it.", "start": 5760.0, "end": 5772.0}
+{"id": "iZgcMEoLCjA-t5772.0", "text": "And so there's no explanatory gap there. I mean, what the physics will tell you is a limitations on the model.", "start": 5772.0, "end": 5778.0}
+{"id": "iZgcMEoLCjA-t5778.0", "text": "So you can say Mendel's model was very simple-minded. And if you look deep into the physics, you'll find that this very simple mathematics isn't going to work in detail, because the genes just, you know,", "start": 5778.0, "end": 5789.0}
+{"id": "iZgcMEoLCjA-t5789.0", "text": "the genes just don't are more complicated, and their interactions are more complicated. But I think that's a very clean case of a physical explanation,", "start": 5789.0, "end": 5799.0}
+{"id": "iZgcMEoLCjA-t5799.0", "text": "giving the physical underpinning of something that was explained. Okay, go ahead.", "start": 5799.0, "end": 5806.0}
+{"id": "iZgcMEoLCjA-t5806.0", "text": "Well, this is a little bit of a variation since I'm in the arts, and I heard you speaking about ideas of ultimate truth and beauty, and today in the arts, that doesn't seem the primary goal at all.", "start": 5806.0, "end": 5820.0}
+{"id": "iZgcMEoLCjA-t5820.0", "text": "It seems almost the opposite. The goal in the arts today seem to be- I'm also talking, particularly maybe the visual arts, multiplicity,", "start": 5820.0, "end": 5830.0}
+{"id": "iZgcMEoLCjA-t5830.0", "text": "communications, variability, mutability, lack of boundaries, porousness,", "start": 5830.0, "end": 5840.0}
+{"id": "iZgcMEoLCjA-t5840.0", "text": "strange combinations of things that haven't existed before. But I wouldn't speak of it as a search for truth or beauty.", "start": 5840.0, "end": 5848.0}
+{"id": "iZgcMEoLCjA-t5848.0", "text": "It seems more a different kind of search. I don't want to give a word for it. I mean, I sort of like to leave it open and not give it a category.", "start": 5848.0, "end": 5857.0}
+{"id": "iZgcMEoLCjA-t5857.0", "text": "But actually, it seems to be in search really of the mystery and the unknowable rather than the finding of the knowable that what seems to be attracting is the elusiveness of things.", "start": 5857.0, "end": 5870.0}
+{"id": "iZgcMEoLCjA-t5870.0", "text": "I'm not speaking about all the branches that have come out of the art. The arts have gotten into all kinds of hybrid combinations,", "start": 5870.0, "end": 5877.0}
+{"id": "iZgcMEoLCjA-t5877.0", "text": "but I don't think youth or truth is part of the vocabulary anymore of this particular search. And I just wondered what you think about that in terms of the search in science and the search in the arts.", "start": 5877.0, "end": 5894.0}
+{"id": "iZgcMEoLCjA-t5894.0", "text": "Well, I think, I mean, I agree with much of the way that you characterize the sort of the rationale for the contemporary art world. I think I would only add to that that a lot of the language you use,", "start": 5894.0, "end": 5912.0}
+{"id": "iZgcMEoLCjA-t5912.0", "text": "the mutability, boundary, crossing, and blurring are subspecies of a certain kind of beauty. And that, to use the term from the great Russian literary critic Viktor Slofsky from the early 20th century,", "start": 5912.0, "end": 5928.0}
+{"id": "iZgcMEoLCjA-t5928.0", "text": "what the artworks are trying to do there is to defamiliarize our experience, to show us dimensions to the world by taking them out of our common perceptions and common interactions with the world.", "start": 5928.0, "end": 5940.0}
+{"id": "iZgcMEoLCjA-t5940.0", "text": "And I think actually much is learned in that process about the world that we live in and about ourselves. I think that it's just not a mimetic truth,", "start": 5940.0, "end": 5952.0}
+{"id": "iZgcMEoLCjA-t5952.0", "text": "that is to say artworks are not representing the world and not holding a mirror up to it. They are in some ways defamiliarizing the world.", "start": 5952.0, "end": 5959.0}
+{"id": "iZgcMEoLCjA-t5959.0", "text": "And doing that in virtue of their form, the particular kind of shape that they have and the certain devices that they use.", "start": 5959.0, "end": 5967.0}
+{"id": "iZgcMEoLCjA-t5967.0", "text": "For me at least, that's compatible with understanding that what works of art are often beautiful.", "start": 5967.0, "end": 5975.0}
+{"id": "iZgcMEoLCjA-t5975.0", "text": "Or the sublime to go back to categories of aesthetic theory that developed in my own period, the 18th century,", "start": 5975.0, "end": 5982.0}
+{"id": "iZgcMEoLCjA-t5982.0", "text": "which I think do a pretty good but not complete job of accounting for the aesthetic domain.", "start": 5982.0, "end": 5988.0}
+{"id": "iZgcMEoLCjA-t5988.0", "text": "I was curious whether there was a political dimension to your question at all. I think what is being contested now for the last, I guess, 30 years or so,", "start": 5988.0, "end": 6000.0}
+{"id": "iZgcMEoLCjA-t6000.0", "text": "in all forms of art is also who gets to define truth and beauty.", "start": 6000.0, "end": 6006.0}
+{"id": "iZgcMEoLCjA-t6006.0", "text": "And is there a single standard for them?", "start": 6006.0, "end": 6007.0}
+{"id": "iZgcMEoLCjA-t6007.0", "text": "Or who gets to which cultures, which genders, whose lenses define truth and beauty? And that is rupturing everywhere.", "start": 6007.0, "end": 6016.0}
+{"id": "iZgcMEoLCjA-t6016.0", "text": "So I wondered if you were asking that put more political side of the question.", "start": 6016.0, "end": 6020.0}
+{"id": "iZgcMEoLCjA-t6020.0", "text": "No, with that one aspect. No, I'm speaking about the idea of ultimate questions.", "start": 6020.0, "end": 6025.0}
+{"id": "iZgcMEoLCjA-t6025.0", "text": "And that's more sociological and that's something happening out of our history. I'm talking about maybe...", "start": 6025.0, "end": 6031.0}
+{"id": "iZgcMEoLCjA-t6031.0", "text": "No, but even in the creation of artworks, right?", "start": 6031.0, "end": 6034.0}
+{"id": "iZgcMEoLCjA-t6034.0", "text": "It's one branch, I wouldn't call it, you know, a total branch of what's really occurring.", "start": 6034.0, "end": 6040.0}
+{"id": "iZgcMEoLCjA-t6040.0", "text": "And I think communication, I would say communication instead of truth, because truth in the arts very often is a very difficult phenomena.", "start": 6040.0, "end": 6051.0}
+{"id": "iZgcMEoLCjA-t6051.0", "text": "And beauty is also a very difficult word, I find, a very difficult word.", "start": 6051.0, "end": 6057.0}
+{"id": "iZgcMEoLCjA-t6057.0", "text": "But I mean, isn't it just because they are such subjective notions, very different from the kind of truth and beauty we're talking about in science,", "start": 6057.0, "end": 6064.0}
+{"id": "iZgcMEoLCjA-t6064.0", "text": "like the 20-page proof versus the 3-line proof. There's an agreement that we can get at.", "start": 6064.0, "end": 6072.0}
+{"id": "iZgcMEoLCjA-t6072.0", "text": "There's a process to reach agreement. I'm not saying that you can't agree that, you know, we can't agree that Caravaggio was an amazing artist.", "start": 6072.0, "end": 6080.0}
+{"id": "iZgcMEoLCjA-t6080.0", "text": "I mean, obviously. But the question is, there's a process by which you arrive at what is truth and beauty.", "start": 6080.0, "end": 6087.0}
+{"id": "iZgcMEoLCjA-t6087.0", "text": "Has that been disrupted? I'm just offering a suggestion. Do you reckon that's what's happened?", "start": 6087.0, "end": 6093.0}
+{"id": "iZgcMEoLCjA-t6093.0", "text": "I'm just curious also about the nature of your resistance. I mean, that is like what's motivating the question.", "start": 6093.0, "end": 6100.0}
+{"id": "iZgcMEoLCjA-t6100.0", "text": "There seems to be, I mean, something about, and I agree with you, that the overt language of beauty might have somewhat retreated.", "start": 6100.0, "end": 6107.0}
+{"id": "iZgcMEoLCjA-t6107.0", "text": "But I still think actually there's a tacit understanding of it in so far as art works demand a certain kind of valuation,", "start": 6107.0, "end": 6114.0}
+{"id": "iZgcMEoLCjA-t6114.0", "text": "and there are a domain of value which, you know, has to have some substance to it, some accounting for it.", "start": 6114.0, "end": 6121.0}
+{"id": "iZgcMEoLCjA-t6121.0", "text": "Well, I was thinking of the word communication, which you, if you want to find communication, beautiful.", "start": 6121.0, "end": 6127.0}
+{"id": "iZgcMEoLCjA-t6127.0", "text": "Well, but if I want communication, I can also just like, you know, I can just read the newspaper.", "start": 6127.0, "end": 6131.0}
+{"id": "iZgcMEoLCjA-t6131.0", "text": "No, no. There's all levels. There are existential communications too.", "start": 6131.0, "end": 6135.0}
+{"id": "iZgcMEoLCjA-t6135.0", "text": "Sure, but then what distinguishes an act of aesthetic communication from an act just of like ordinary communication?", "start": 6135.0, "end": 6141.0}
+{"id": "iZgcMEoLCjA-t6141.0", "text": "And I would say that it's something having to do with its form, and something to do with the way in which the form", "start": 6141.0, "end": 6147.0}
+{"id": "iZgcMEoLCjA-t6147.0", "text": "of the art is going to be familiarized as the kind of, the dimension to the world that is trying to eliminate.", "start": 6147.0, "end": 6153.0}
+{"id": "iZgcMEoLCjA-t6153.0", "text": "Once you go that far, I think actually recognizing that what we're talking about falls underneath some broad conception", "start": 6153.0, "end": 6160.0}
+{"id": "iZgcMEoLCjA-t6160.0", "text": "of the beautiful is actually a pretty easy step to take. But if, but I find your resistance to that interesting.", "start": 6160.0, "end": 6168.0}
+{"id": "iZgcMEoLCjA-t6168.0", "text": "Well, I think a lot of words are overused over the centuries, and what's happened to them is they no longer seem to have a certain potency.", "start": 6168.0, "end": 6176.0}
+{"id": "iZgcMEoLCjA-t6176.0", "text": "And I think we have to, we have to renew many things, and maybe vocabulary has to be thought of too, because vocabulary had,", "start": 6176.0, "end": 6184.0}
+{"id": "iZgcMEoLCjA-t6184.0", "text": "there are traditional thoughts about beauty, traditional thoughts about truth.", "start": 6184.0, "end": 6188.0}
+{"id": "iZgcMEoLCjA-t6188.0", "text": "Maybe then we have to find out how we're going to redefine these questions, because it doesn't relate to the kind of beauty we thought of.", "start": 6188.0, "end": 6199.0}
+{"id": "iZgcMEoLCjA-t6199.0", "text": "Some good questions or any other questions? Can I make a comment?", "start": 6199.0, "end": 6207.0}
+{"id": "iZgcMEoLCjA-t6207.0", "text": "Yeah, a very deflating comment here. I don't think art tries to do anything. I don't think that actually is what we call", "start": 6207.0, "end": 6215.0}
+{"id": "iZgcMEoLCjA-t6215.0", "text": "enflaucity a category mistake. Art is incapable of attempting or intending or trying to do anything. Artists are.", "start": 6215.0, "end": 6224.0}
+{"id": "iZgcMEoLCjA-t6224.0", "text": "And individual artists, I think, have many, many, many different entirely diverse aims. Some of them are trying to make a political point.", "start": 6224.0, "end": 6234.0}
+{"id": "iZgcMEoLCjA-t6234.0", "text": "Some of them are trying to make a good buck. Some of them are doing their art for their own sake entirely, and don't care whether anybody sees it.", "start": 6234.0, "end": 6241.0}
+{"id": "iZgcMEoLCjA-t6241.0", "text": "Some are trying to communicate something. Some have read some science and say this is true.", "start": 6241.0, "end": 6247.0}
+{"id": "iZgcMEoLCjA-t6247.0", "text": "I want to depict this truth. Some are saying I want to imagine something that nobody ever thought of.", "start": 6247.0, "end": 6255.0}
+{"id": "iZgcMEoLCjA-t6255.0", "text": "I don't really see that there's anything very useful about asking what is art for. I think it's useful to understand what was this artist trying to do and appreciate.", "start": 6255.0, "end": 6265.0}
+{"id": "iZgcMEoLCjA-t6265.0", "text": "But the only way that you can answer that question is to actually look at the works of art.", "start": 6265.0, "end": 6271.0}
+{"id": "iZgcMEoLCjA-t6271.0", "text": "You can ask the artist and you'll get almost always the wrong answer.", "start": 6271.0, "end": 6278.0}
+{"id": "iZgcMEoLCjA-t6278.0", "text": "I just want to correct one.", "start": 6278.0, "end": 6282.0}
+{"id": "iZgcMEoLCjA-t6282.0", "text": "In no way was I. Of course there's multiplicity of you. And of course that's the wonderful thing about art.", "start": 6282.0, "end": 6288.0}
+{"id": "iZgcMEoLCjA-t6288.0", "text": "We have all this multiple different psyches that are all investigating things.", "start": 6288.0, "end": 6293.0}
+{"id": "iZgcMEoLCjA-t6293.0", "text": "And I was just speaking about when one was speaking of truth and beauty. It made me jolted me a little because I thought,", "start": 6293.0, "end": 6300.0}
+{"id": "iZgcMEoLCjA-t6300.0", "text": "oh my God, that's a word that will have to be, you know, it just doesn't hold a power.", "start": 6300.0, "end": 6306.0}
+{"id": "iZgcMEoLCjA-t6306.0", "text": "Thank you.", "start": 6306.0, "end": 6308.0}
+{"id": "iZgcMEoLCjA-t6308.0", "text": "I'm not a member of these people but people who believe in beauty.", "start": 6308.0, "end": 6312.0}
+{"id": "iZgcMEoLCjA-t6312.0", "text": "I'm an artist.", "start": 6312.0, "end": 6320.0}
+{"id": "iZgcMEoLCjA-t6320.0", "text": "Thank you.", "start": 6320.0, "end": 6323.0}
+{"id": "iZgcMEoLCjA-t6323.0", "text": "Thank you.", "start": 6323.0, "end": 6333.0}
+{"id": "iZgcMEoLCjA-t6333.0", "text": "Thank you.", "start": 6333.0, "end": 6356.0}
+{"id": "iZgcMEoLCjA-t6356.0", "text": "Thank you.", "start": 6356.0, "end": 6371.0}
+{"id": "iZgcMEoLCjA-t6371.0", "text": "Thank you.", "start": 6371.0, "end": 6394.0}

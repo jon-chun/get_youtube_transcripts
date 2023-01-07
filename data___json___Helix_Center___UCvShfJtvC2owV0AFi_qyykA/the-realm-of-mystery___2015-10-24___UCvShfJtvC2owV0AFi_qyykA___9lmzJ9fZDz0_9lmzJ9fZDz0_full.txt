@@ -1,0 +1,1172 @@
+{"id": "9lmzJ9fZDz0-t0.0", "text": "She at one point wanted to be a physics major, but so the only complaint was that physics", "start": 0.0, "end": 6.0}
+{"id": "9lmzJ9fZDz0-t6.0", "text": "in particular so much that if you don't decide to hear, some more year, it's almost hopeless", "start": 6.0, "end": 11.0}
+{"id": "9lmzJ9fZDz0-t11.0", "text": "to major.", "start": 11.0, "end": 12.0}
+{"id": "9lmzJ9fZDz0-t12.0", "text": "Okay, we're going to get started.", "start": 12.0, "end": 14.0}
+{"id": "9lmzJ9fZDz0-t14.0", "text": "Welcome everybody.", "start": 14.0, "end": 15.0}
+{"id": "9lmzJ9fZDz0-t15.0", "text": "I'm Rob Penzer.", "start": 15.0, "end": 16.0}
+{"id": "9lmzJ9fZDz0-t16.0", "text": "I'm the Associate Director of the Helix Center.", "start": 16.0, "end": 19.0}
+{"id": "9lmzJ9fZDz0-t19.0", "text": "Welcome to today's round table, The Realm of Mystery, which is funded by a John Templeton", "start": 19.0, "end": 24.0}
+{"id": "9lmzJ9fZDz0-t24.0", "text": "Foundation grant.", "start": 24.0, "end": 26.0}
+{"id": "9lmzJ9fZDz0-t26.0", "text": "Before I introduce today's participants, I have a few announcements.", "start": 26.0, "end": 30.0}
+{"id": "9lmzJ9fZDz0-t30.0", "text": "First, please turn off your cell phones as their activity interferes with our live streaming", "start": 30.0, "end": 36.0}
+{"id": "9lmzJ9fZDz0-t36.0", "text": "of this event.", "start": 36.0, "end": 38.0}
+{"id": "9lmzJ9fZDz0-t38.0", "text": "And please follow us on Twitter and Facebook.", "start": 38.0, "end": 41.0}
+{"id": "9lmzJ9fZDz0-t41.0", "text": "Go to our website, helixcenter.org.", "start": 41.0, "end": 44.0}
+{"id": "9lmzJ9fZDz0-t44.0", "text": "If you're not already signed up for email notifications, please do so.", "start": 44.0, "end": 48.0}
+{"id": "9lmzJ9fZDz0-t48.0", "text": "It also gives you the opportunity to use our discussion board and leave comments.", "start": 48.0, "end": 55.0}
+{"id": "9lmzJ9fZDz0-t55.0", "text": "We really want a lot of feedback from our audience.", "start": 55.0, "end": 60.0}
+{"id": "9lmzJ9fZDz0-t60.0", "text": "Following today's program, on Saturday, November 7th, we have Speak Memory with NYU neuroscientists", "start": 60.0, "end": 69.0}
+{"id": "9lmzJ9fZDz0-t69.0", "text": "Christina Alberini and Tom Kuru.", "start": 69.0, "end": 71.0}
+{"id": "9lmzJ9fZDz0-t71.0", "text": "UC Irvine Philosopher Sven Bernekar, City University London cognitive psychologist Martin Conway,", "start": 71.0, "end": 78.0}
+{"id": "9lmzJ9fZDz0-t78.0", "text": "and University of Manchester neuroscientist Penelope Lewis.", "start": 78.0, "end": 82.0}
+{"id": "9lmzJ9fZDz0-t82.0", "text": "Then on Saturday, November 21st, translation matters with Princeton Professor of French", "start": 82.0, "end": 88.0}
+{"id": "9lmzJ9fZDz0-t88.0", "text": "and Comparative Literature, David Bellos, Sarah Lawrence Professor of Comparative Literature,", "start": 88.0, "end": 93.0}
+{"id": "9lmzJ9fZDz0-t93.0", "text": "Bella Brodsky, UC Santa Barbara Translation Studies Director Suzanne Gillavigne,", "start": 93.0, "end": 98.0}
+{"id": "9lmzJ9fZDz0-t98.0", "text": "Metropolitan Museum of Arts publication program, Director Mark Polizotti,", "start": 98.0, "end": 103.0}
+{"id": "9lmzJ9fZDz0-t103.0", "text": "and SUNY Newpalt's English Professor Michelle Woods.", "start": 103.0, "end": 107.0}
+{"id": "9lmzJ9fZDz0-t107.0", "text": "Then on December 4th, 5th, and 6th, a Freudian perspective on what ails the world today.", "start": 107.0, "end": 114.0}
+{"id": "9lmzJ9fZDz0-t114.0", "text": "This is a special colloquium of the helixcenter with the association as", "start": 114.0, "end": 120.0}
+{"id": "9lmzJ9fZDz0-t120.0", "text": "Dez Amid Passaj, Committee Freud.", "start": 120.0, "end": 124.0}
+{"id": "9lmzJ9fZDz0-t124.0", "text": "And please go to our website for more details.", "start": 124.0, "end": 128.0}
+{"id": "9lmzJ9fZDz0-t128.0", "text": "We have something like 18 and counting participants, an international roster,", "start": 128.0, "end": 135.0}
+{"id": "9lmzJ9fZDz0-t135.0", "text": "which should be very exciting.", "start": 135.0, "end": 136.0}
+{"id": "9lmzJ9fZDz0-t136.0", "text": "So I'd like to introduce today's participants, and please refer to the handouts", "start": 136.0, "end": 140.0}
+{"id": "9lmzJ9fZDz0-t140.0", "text": "or for those of you watching on the web to the event page to read more on our participants' biographies.", "start": 140.0, "end": 148.0}
+{"id": "9lmzJ9fZDz0-t148.0", "text": "And please raise your hand when I introduce you.", "start": 148.0, "end": 151.0}
+{"id": "9lmzJ9fZDz0-t151.0", "text": "Mr. E author Megan Abbott, Philosophy Professor Cal Rovane,", "start": 151.0, "end": 157.0}
+{"id": "9lmzJ9fZDz0-t157.0", "text": "Theoretical Astrophysics Professor Michael Turner,", "start": 157.0, "end": 160.0}
+{"id": "9lmzJ9fZDz0-t160.0", "text": "Jewish Studies Professor Elliot Wilson,", "start": 160.0, "end": 163.0}
+{"id": "9lmzJ9fZDz0-t163.0", "text": "and English Professor Susan Welfson.", "start": 163.0, "end": 166.0}
+{"id": "9lmzJ9fZDz0-t166.0", "text": "So now we'll begin.", "start": 166.0, "end": 168.0}
+{"id": "9lmzJ9fZDz0-t178.0", "text": "You want to start?", "start": 178.0, "end": 180.0}
+{"id": "9lmzJ9fZDz0-t180.0", "text": "I'd be happy to start. Is everything okay?", "start": 180.0, "end": 184.0}
+{"id": "9lmzJ9fZDz0-t184.0", "text": "Yes?", "start": 184.0, "end": 185.0}
+{"id": "9lmzJ9fZDz0-t185.0", "text": "Is everything okay?", "start": 185.0, "end": 188.0}
+{"id": "9lmzJ9fZDz0-t188.0", "text": "Yes?", "start": 188.0, "end": 189.0}
+{"id": "9lmzJ9fZDz0-t189.0", "text": "Is it okay now?", "start": 189.0, "end": 192.0}
+{"id": "9lmzJ9fZDz0-t192.0", "text": "Yes? Okay.", "start": 192.0, "end": 194.0}
+{"id": "9lmzJ9fZDz0-t194.0", "text": "So Ed said this would be a conversation, so I'm told not to be too didactic,", "start": 194.0, "end": 200.0}
+{"id": "9lmzJ9fZDz0-t200.0", "text": "so I'm not going to speak for too long, but just suggest a few things we could come back to", "start": 200.0, "end": 205.0}
+{"id": "9lmzJ9fZDz0-t205.0", "text": "insofar as they provoke a little conversation, but I'm not sure what among the things I mentioned", "start": 205.0, "end": 210.0}
+{"id": "9lmzJ9fZDz0-t210.0", "text": "will be most interesting to this very, very varied group in the inner circle", "start": 210.0, "end": 217.0}
+{"id": "9lmzJ9fZDz0-t217.0", "text": "and I assume throughout the room. Right now in contemporary philosophy,", "start": 217.0, "end": 224.0}
+{"id": "9lmzJ9fZDz0-t224.0", "text": "that was spooky.", "start": 224.0, "end": 226.0}
+{"id": "9lmzJ9fZDz0-t226.0", "text": "In philosophy, if you asked a working philosopher,", "start": 226.0, "end": 233.0}
+{"id": "9lmzJ9fZDz0-t233.0", "text": "do you think you're confronted with any mysteries right now?", "start": 233.0, "end": 236.0}
+{"id": "9lmzJ9fZDz0-t236.0", "text": "They would probably say, yeah, too, consciousness and freedom.", "start": 236.0, "end": 241.0}
+{"id": "9lmzJ9fZDz0-t241.0", "text": "But you probably shouldn't just dive into those topics,", "start": 241.0, "end": 245.0}
+{"id": "9lmzJ9fZDz0-t245.0", "text": "but rather ask them what they take a mystery to be.", "start": 245.0, "end": 249.0}
+{"id": "9lmzJ9fZDz0-t249.0", "text": "And the question, what are limits on human understanding", "start": 249.0, "end": 254.0}
+{"id": "9lmzJ9fZDz0-t254.0", "text": "and how do we know about them?", "start": 254.0, "end": 255.0}
+{"id": "9lmzJ9fZDz0-t255.0", "text": "It's been a very long-standing question for philosophers,", "start": 255.0, "end": 258.0}
+{"id": "9lmzJ9fZDz0-t258.0", "text": "and I suppose Immanuel Kant is a very big pioneer in this enterprise of thinking about it.", "start": 258.0, "end": 265.0}
+{"id": "9lmzJ9fZDz0-t265.0", "text": "The old way, Kant's way, assumed that we know from the inside the nature of our own minds,", "start": 265.0, "end": 270.0}
+{"id": "9lmzJ9fZDz0-t270.0", "text": "because we can't think without knowing what it is to think,", "start": 270.0, "end": 274.0}
+{"id": "9lmzJ9fZDz0-t274.0", "text": "and somehow from the inside knowing what you're doing is a thinking being,", "start": 274.0, "end": 279.0}
+{"id": "9lmzJ9fZDz0-t279.0", "text": "you could work your way to conclusions about the limits of what you're able to do that way.", "start": 279.0, "end": 284.0}
+{"id": "9lmzJ9fZDz0-t284.0", "text": "And he really thought he could do that, so that's topic number one.", "start": 284.0, "end": 287.0}
+{"id": "9lmzJ9fZDz0-t287.0", "text": "How could you just, from your armchair, know these things, which Kant thought?", "start": 287.0, "end": 292.0}
+{"id": "9lmzJ9fZDz0-t292.0", "text": "So pure thought.", "start": 292.0, "end": 293.0}
+{"id": "9lmzJ9fZDz0-t293.0", "text": "Pure thought, yeah.", "start": 293.0, "end": 294.0}
+{"id": "9lmzJ9fZDz0-t294.0", "text": "But another model for thinking about these limits would come from a more naturalistic perspective,", "start": 294.0, "end": 302.0}
+{"id": "9lmzJ9fZDz0-t302.0", "text": "like the perspective of Noam Chomsky.", "start": 302.0, "end": 304.0}
+{"id": "9lmzJ9fZDz0-t304.0", "text": "And a lot of philosophers are very taken with a fairly scientific worldview,", "start": 304.0, "end": 308.0}
+{"id": "9lmzJ9fZDz0-t308.0", "text": "and that's why they regard consciousness and freedom in particular as mysteries,", "start": 308.0, "end": 311.0}
+{"id": "9lmzJ9fZDz0-t311.0", "text": "because they don't know how to integrate those things within their scientism.", "start": 311.0, "end": 316.0}
+{"id": "9lmzJ9fZDz0-t316.0", "text": "But Chomsky's view, I think, is really worth taking seriously, because it's very clear-headed.", "start": 316.0, "end": 321.0}
+{"id": "9lmzJ9fZDz0-t321.0", "text": "Even if you don't agree with it, it's very clear how he gets to where he's going,", "start": 321.0, "end": 325.0}
+{"id": "9lmzJ9fZDz0-t325.0", "text": "and he's not waving his hands.", "start": 325.0, "end": 327.0}
+{"id": "9lmzJ9fZDz0-t327.0", "text": "He suggests that cognitive abilities are basically biological abilities,", "start": 327.0, "end": 332.0}
+{"id": "9lmzJ9fZDz0-t332.0", "text": "and that it's in the very nature of a biological ability to be limited.", "start": 332.0, "end": 338.0}
+{"id": "9lmzJ9fZDz0-t338.0", "text": "So he thinks take a motor ability, like running.", "start": 338.0, "end": 342.0}
+{"id": "9lmzJ9fZDz0-t342.0", "text": "If you're built so that you can run, you're probably not built so that you can slither like a snake.", "start": 342.0, "end": 347.0}
+{"id": "9lmzJ9fZDz0-t347.0", "text": "You know, it's just one of those things.", "start": 347.0, "end": 349.0}
+{"id": "9lmzJ9fZDz0-t349.0", "text": "The things that enables you to do, it makes you suited to do those things in contrast with something else.", "start": 349.0, "end": 355.0}
+{"id": "9lmzJ9fZDz0-t355.0", "text": "And so his working assumption is that there's no reason to think cognitive abilities", "start": 355.0, "end": 360.0}
+{"id": "9lmzJ9fZDz0-t360.0", "text": "are any different from motor abilities.", "start": 360.0, "end": 362.0}
+{"id": "9lmzJ9fZDz0-t362.0", "text": "And so if we have cognitive abilities, the tasks they suit us to do", "start": 362.0, "end": 367.0}
+{"id": "9lmzJ9fZDz0-t367.0", "text": "will be the ones we can do, and in being suited to do those tasks,", "start": 367.0, "end": 372.0}
+{"id": "9lmzJ9fZDz0-t372.0", "text": "we will not be suited to carry out other tasks, which could still be called cognitive", "start": 372.0, "end": 376.0}
+{"id": "9lmzJ9fZDz0-t376.0", "text": "and would deserve to be called cognitive.", "start": 376.0, "end": 378.0}
+{"id": "9lmzJ9fZDz0-t378.0", "text": "And so that picture really does give something besides armchair reflection,", "start": 378.0, "end": 388.0}
+{"id": "9lmzJ9fZDz0-t388.0", "text": "I like to stand on when you start talking about limits on human understanding.", "start": 388.0, "end": 391.0}
+{"id": "9lmzJ9fZDz0-t391.0", "text": "This is known as empirical hypothesis that we are limited beings.", "start": 391.0, "end": 395.0}
+{"id": "9lmzJ9fZDz0-t395.0", "text": "And then the question is, still, even if you have this scientific basis for thinking you're limited,", "start": 395.0, "end": 401.0}
+{"id": "9lmzJ9fZDz0-t401.0", "text": "how could you know which of the things you're now thinking about", "start": 401.0, "end": 406.0}
+{"id": "9lmzJ9fZDz0-t406.0", "text": "and can't understand, or ones you can't understand because you lack a good theory", "start": 406.0, "end": 410.0}
+{"id": "9lmzJ9fZDz0-t410.0", "text": "as opposed to don't have the right cognitive structure.", "start": 410.0, "end": 414.0}
+{"id": "9lmzJ9fZDz0-t414.0", "text": "Right, so that would be the framework within which I would pursue these questions in conversation", "start": 414.0, "end": 420.0}
+{"id": "9lmzJ9fZDz0-t420.0", "text": "and add in that Columbia, where I teach, is the home of pragmatism.", "start": 420.0, "end": 424.0}
+{"id": "9lmzJ9fZDz0-t424.0", "text": "And pragmatists always say never throw roadblocks in the path of inquiry.", "start": 424.0, "end": 429.0}
+{"id": "9lmzJ9fZDz0-t429.0", "text": "So their ideas, even if there are limitations, proceed as if it's not true.", "start": 429.0, "end": 434.0}
+{"id": "9lmzJ9fZDz0-t434.0", "text": "And there's a question about the merits of that attitude, which would be worth discussing.", "start": 434.0, "end": 440.0}
+{"id": "9lmzJ9fZDz0-t440.0", "text": "So I like the pragmatic approach, and I'll add the word arrogant,", "start": 440.0, "end": 446.0}
+{"id": "9lmzJ9fZDz0-t446.0", "text": "because the last thing you were saying is, I mean, cosmologists, I'm a cosmologist.", "start": 446.0, "end": 451.0}
+{"id": "9lmzJ9fZDz0-t451.0", "text": "And cosmologists are extremely arrogant.", "start": 451.0, "end": 454.0}
+{"id": "9lmzJ9fZDz0-t454.0", "text": "Why? Because we think we can understand the universe.", "start": 454.0, "end": 457.0}
+{"id": "9lmzJ9fZDz0-t457.0", "text": "And that's kind of what you were saying, is it may well be that we can't understand the universe.", "start": 457.0, "end": 461.0}
+{"id": "9lmzJ9fZDz0-t461.0", "text": "But it is certainly true that if we think we can't understand the universe,", "start": 461.0, "end": 465.0}
+{"id": "9lmzJ9fZDz0-t465.0", "text": "we will never understand it even if we could.", "start": 465.0, "end": 467.0}
+{"id": "9lmzJ9fZDz0-t467.0", "text": "Right. Did that make sense?", "start": 467.0, "end": 469.0}
+{"id": "9lmzJ9fZDz0-t469.0", "text": "Yes, it did. Yes.", "start": 469.0, "end": 471.0}
+{"id": "9lmzJ9fZDz0-t471.0", "text": "And our questions are a little more pragmatic.", "start": 471.0, "end": 475.0}
+{"id": "9lmzJ9fZDz0-t475.0", "text": "And they're more along the lines of a mystery.", "start": 475.0, "end": 479.0}
+{"id": "9lmzJ9fZDz0-t479.0", "text": "So there are mysteries that we know that we need to solve.", "start": 479.0, "end": 483.0}
+{"id": "9lmzJ9fZDz0-t483.0", "text": "So going with the known unknowns.", "start": 483.0, "end": 487.0}
+{"id": "9lmzJ9fZDz0-t487.0", "text": "What is dark matter? What is dark energy?", "start": 487.0, "end": 491.0}
+{"id": "9lmzJ9fZDz0-t491.0", "text": "We don't need to really talk about them.", "start": 491.0, "end": 493.0}
+{"id": "9lmzJ9fZDz0-t493.0", "text": "But those are mysteries that we really know.", "start": 493.0, "end": 497.0}
+{"id": "9lmzJ9fZDz0-t497.0", "text": "Then there are the unknown mysteries.", "start": 497.0, "end": 502.0}
+{"id": "9lmzJ9fZDz0-t502.0", "text": "And I won't give any examples of them because we don't know them.", "start": 502.0, "end": 507.0}
+{"id": "9lmzJ9fZDz0-t507.0", "text": "But dark energy would be one.", "start": 507.0, "end": 509.0}
+{"id": "9lmzJ9fZDz0-t509.0", "text": "So that was a mystery that we didn't know.", "start": 509.0, "end": 512.0}
+{"id": "9lmzJ9fZDz0-t512.0", "text": "And it came upon us when we found that the universe, the expansion was speeding up.", "start": 512.0, "end": 517.0}
+{"id": "9lmzJ9fZDz0-t517.0", "text": "And then the last bucket also sort of aligns with what you were saying,", "start": 517.0, "end": 522.0}
+{"id": "9lmzJ9fZDz0-t522.0", "text": "which is the mysteries that may be unknowable.", "start": 522.0, "end": 527.0}
+{"id": "9lmzJ9fZDz0-t527.0", "text": "And so one of the ones that's easy for me to articulate is the laws of physics.", "start": 527.0, "end": 537.0}
+{"id": "9lmzJ9fZDz0-t537.0", "text": "So I'm quite confident we will figure out the laws of physics.", "start": 537.0, "end": 542.0}
+{"id": "9lmzJ9fZDz0-t542.0", "text": "I'm quite confident. I'm not telling you when.", "start": 542.0, "end": 545.0}
+{"id": "9lmzJ9fZDz0-t545.0", "text": "But I'm saying that we live in an ordered universe and we make observations and do experiments", "start": 545.0, "end": 550.0}
+{"id": "9lmzJ9fZDz0-t550.0", "text": "and we'll figure out the laws of physics.", "start": 550.0, "end": 552.0}
+{"id": "9lmzJ9fZDz0-t552.0", "text": "But the one that may be unknowable is where did they come from?", "start": 552.0, "end": 557.0}
+{"id": "9lmzJ9fZDz0-t557.0", "text": "And I don't think there's any experiment that you could do,", "start": 557.0, "end": 564.0}
+{"id": "9lmzJ9fZDz0-t564.0", "text": "or that I could even imagine, where you could differentiate them coming from God,", "start": 564.0, "end": 569.0}
+{"id": "9lmzJ9fZDz0-t569.0", "text": "whatever that means, or that they came from a freshman physics experiment", "start": 569.0, "end": 576.0}
+{"id": "9lmzJ9fZDz0-t576.0", "text": "of a very advanced civilization where all the students were asked,", "start": 576.0, "end": 579.0}
+{"id": "9lmzJ9fZDz0-t579.0", "text": "right down a set of rules and make them go and see what happens", "start": 579.0, "end": 584.0}
+{"id": "9lmzJ9fZDz0-t584.0", "text": "and maybe we're the C plus universe.", "start": 584.0, "end": 589.0}
+{"id": "9lmzJ9fZDz0-t589.0", "text": "And so there's a category, the other one that probably everyone has heard of", "start": 589.0, "end": 593.0}
+{"id": "9lmzJ9fZDz0-t593.0", "text": "is the multiverse.", "start": 593.0, "end": 595.0}
+{"id": "9lmzJ9fZDz0-t595.0", "text": "So the idea that the universe is disconnected pieces,", "start": 595.0, "end": 597.0}
+{"id": "9lmzJ9fZDz0-t597.0", "text": "and that gives people like me a headache because our brand,", "start": 597.0, "end": 603.0}
+{"id": "9lmzJ9fZDz0-t603.0", "text": "the science brand, is falsifiability.", "start": 603.0, "end": 608.0}
+{"id": "9lmzJ9fZDz0-t608.0", "text": "And when you deviate from your brand, when you get into matters of faith,", "start": 608.0, "end": 614.0}
+{"id": "9lmzJ9fZDz0-t614.0", "text": "well, I don't need to prove that there's a multiverse because I know it.", "start": 614.0, "end": 618.0}
+{"id": "9lmzJ9fZDz0-t618.0", "text": "So that's not our brand.", "start": 618.0, "end": 620.0}
+{"id": "9lmzJ9fZDz0-t620.0", "text": "But so here the multiverse is one of those possibly unknowables", "start": 620.0, "end": 625.0}
+{"id": "9lmzJ9fZDz0-t625.0", "text": "that could be the biggest idea since Copernicus, right?", "start": 625.0, "end": 629.0}
+{"id": "9lmzJ9fZDz0-t629.0", "text": "So not only is Harvard not the center of the universe, or even New York City,", "start": 629.0, "end": 635.0}
+{"id": "9lmzJ9fZDz0-t635.0", "text": "but there's many universes, but that might be an unknowable thing.", "start": 635.0, "end": 643.0}
+{"id": "9lmzJ9fZDz0-t643.0", "text": "I don't think of yourself as Aragon, I think of yourself as the little engine that could.", "start": 643.0, "end": 653.0}
+{"id": "9lmzJ9fZDz0-t653.0", "text": "Well, no, I don't know, is this working?", "start": 653.0, "end": 657.0}
+{"id": "9lmzJ9fZDz0-t657.0", "text": "I think because I...", "start": 657.0, "end": 661.0}
+{"id": "9lmzJ9fZDz0-t661.0", "text": "Now it's working?", "start": 661.0, "end": 666.0}
+{"id": "9lmzJ9fZDz0-t666.0", "text": "What am I pulling closer to my mouth?", "start": 666.0, "end": 670.0}
+{"id": "9lmzJ9fZDz0-t670.0", "text": "I'm pulling closer to my mouth.", "start": 670.0, "end": 675.0}
+{"id": "9lmzJ9fZDz0-t675.0", "text": "It's okay.", "start": 675.0, "end": 678.0}
+{"id": "9lmzJ9fZDz0-t678.0", "text": "Is that better?", "start": 678.0, "end": 681.0}
+{"id": "9lmzJ9fZDz0-t681.0", "text": "Yeah.", "start": 681.0, "end": 682.0}
+{"id": "9lmzJ9fZDz0-t682.0", "text": "So I know I was introduced to some of the Jewish studies,", "start": 682.0, "end": 685.0}
+{"id": "9lmzJ9fZDz0-t685.0", "text": "which is a label that is difficult for me because while I did decide", "start": 685.0, "end": 692.0}
+{"id": "9lmzJ9fZDz0-t692.0", "text": "to put my philosophical training to the study of, in particular,", "start": 692.0, "end": 697.0}
+{"id": "9lmzJ9fZDz0-t697.0", "text": "Jewish philosophy and Jewish mysticism, it's also the case that I do, you know,", "start": 697.0, "end": 701.0}
+{"id": "9lmzJ9fZDz0-t701.0", "text": "comparative mysticism.", "start": 701.0, "end": 704.0}
+{"id": "9lmzJ9fZDz0-t704.0", "text": "And I think from my study, here's where I think there is a little bit of a difference", "start": 704.0, "end": 710.0}
+{"id": "9lmzJ9fZDz0-t710.0", "text": "between the approach of religious studies and both the philosophical and scientific viewpoints.", "start": 710.0, "end": 722.0}
+{"id": "9lmzJ9fZDz0-t722.0", "text": "And I want to loom that with a statement of Freud because of the building we're in,", "start": 722.0, "end": 728.0}
+{"id": "9lmzJ9fZDz0-t728.0", "text": "which is very often forgotten, and I actually wrote it down, if you don't mind,", "start": 728.0, "end": 733.0}
+{"id": "9lmzJ9fZDz0-t733.0", "text": "I'm going to read Freud's It Got Words.", "start": 733.0, "end": 736.0}
+{"id": "9lmzJ9fZDz0-t736.0", "text": "Every dream has at least one place where it is unfathomable, the navel, as it were,", "start": 736.0, "end": 744.0}
+{"id": "9lmzJ9fZDz0-t744.0", "text": "by which it is connected to the unknown.", "start": 744.0, "end": 746.0}
+{"id": "9lmzJ9fZDz0-t746.0", "text": "Now this is Freud.", "start": 746.0, "end": 748.0}
+{"id": "9lmzJ9fZDz0-t748.0", "text": "So there's no way that he understands by the unknown some appeal to a transcendent being.", "start": 748.0, "end": 754.0}
+{"id": "9lmzJ9fZDz0-t754.0", "text": "Call it God as we do in the theistic traditions.", "start": 754.0, "end": 757.0}
+{"id": "9lmzJ9fZDz0-t757.0", "text": "So his unknown is not some entity which we could pursue through knowledge or through faith,", "start": 757.0, "end": 767.0}
+{"id": "9lmzJ9fZDz0-t767.0", "text": "but could never know.", "start": 767.0, "end": 769.0}
+{"id": "9lmzJ9fZDz0-t769.0", "text": "What he's really saying here, that there is some kind of knot, which is the navel.", "start": 769.0, "end": 776.0}
+{"id": "9lmzJ9fZDz0-t776.0", "text": "And the metaphor of the navel is kind of significant because it conveys the paradox of being bound", "start": 776.0, "end": 782.0}
+{"id": "9lmzJ9fZDz0-t782.0", "text": "and unbound.", "start": 782.0, "end": 783.0}
+{"id": "9lmzJ9fZDz0-t783.0", "text": "So the dream is both connected to yet separate from the unconscious.", "start": 783.0, "end": 787.0}
+{"id": "9lmzJ9fZDz0-t787.0", "text": "And to me, this is where Freud is at his most mystical.", "start": 787.0, "end": 792.0}
+{"id": "9lmzJ9fZDz0-t792.0", "text": "I wouldn't necessarily say religious, but his most mystical, because what I found over and over again in the case of", "start": 792.0, "end": 800.0}
+{"id": "9lmzJ9fZDz0-t800.0", "text": "mystics and different traditions is that the mystery of the secret is like a dream,", "start": 800.0, "end": 806.0}
+{"id": "9lmzJ9fZDz0-t806.0", "text": "in that it's positioned somewhere between conscious and unconscious, between concealment and disclosure.", "start": 806.0, "end": 815.0}
+{"id": "9lmzJ9fZDz0-t815.0", "text": "And to me, that's, I think, the greatest lesson I've learned about the sense of the mystery from the text that I study.", "start": 815.0, "end": 824.0}
+{"id": "9lmzJ9fZDz0-t824.0", "text": "I think it's a slightly different model because it means, you know, it is a little bit arrogant", "start": 824.0, "end": 834.0}
+{"id": "9lmzJ9fZDz0-t834.0", "text": "to think that somehow we'll ever be able to peel away all the veils.", "start": 834.0, "end": 840.0}
+{"id": "9lmzJ9fZDz0-t840.0", "text": "And let me conclude by saying one other thing at this moment is that what I learned from the Sufi tradition,", "start": 840.0, "end": 845.0}
+{"id": "9lmzJ9fZDz0-t845.0", "text": "the Sufi tradition, the Islamic tradition, the task is to unveil, to pull away all the veils to see the face of truth.", "start": 845.0, "end": 853.0}
+{"id": "9lmzJ9fZDz0-t853.0", "text": "But when you read deeply into the Sufi masters, they've articulated over and over again that the greatest veil is to think that we can remove all veils.", "start": 853.0, "end": 866.0}
+{"id": "9lmzJ9fZDz0-t866.0", "text": "Well, speaking of arrogance, I'm the one who's supposed to be creating the mystery, which may be the most arrogant position of all.", "start": 866.0, "end": 875.0}
+{"id": "9lmzJ9fZDz0-t875.0", "text": "But it's interesting, we talked a little bit about this when we were getting ready, but if you look at the history of the genre,", "start": 875.0, "end": 881.0}
+{"id": "9lmzJ9fZDz0-t881.0", "text": "which is not a very old genre, as far as genre goes, if you date it back to, you know, post detective novels or certainly Sherlock Holmes,", "start": 881.0, "end": 890.0}
+{"id": "9lmzJ9fZDz0-t890.0", "text": "the original tradition was to create a puzzle box for the reader, where, ostensibly, the rules that post that out were, you couldn't cheat as a writer.", "start": 890.0, "end": 898.0}
+{"id": "9lmzJ9fZDz0-t898.0", "text": "There had to be a way that you could actually figure it out and that there would be a solution at the end.", "start": 898.0, "end": 905.0}
+{"id": "9lmzJ9fZDz0-t905.0", "text": "American crime novels and mysteries of the hard-boiled era really sort of exploded this notion.", "start": 905.0, "end": 912.0}
+{"id": "9lmzJ9fZDz0-t912.0", "text": "They were not so interested in the puzzle box or the drawing room.", "start": 912.0, "end": 916.0}
+{"id": "9lmzJ9fZDz0-t916.0", "text": "They were really more interested in what I see as psychology as the detective like Philip Marlow, Raymond Chandler's famous detective,", "start": 916.0, "end": 925.0}
+{"id": "9lmzJ9fZDz0-t925.0", "text": "as a sort of, you know, a damaged man and what matters more is his personal psychology and our attachment to him.", "start": 925.0, "end": 934.0}
+{"id": "9lmzJ9fZDz0-t934.0", "text": "And often the plots don't quite line up. There is an answer to why, you know, how the bullet got in the body in the room,", "start": 934.0, "end": 941.0}
+{"id": "9lmzJ9fZDz0-t941.0", "text": "but other issues, larger ones are unanswered.", "start": 941.0, "end": 945.0}
+{"id": "9lmzJ9fZDz0-t945.0", "text": "And Marlow famously says at the end of the big sleep, the first Marlow novel that, you know, he who tries to be this knight", "start": 945.0, "end": 952.0}
+{"id": "9lmzJ9fZDz0-t952.0", "text": "amid the corrupt rich and the gangsters that he had become a part of the nastiness now by entering into that mystery.", "start": 952.0, "end": 961.0}
+{"id": "9lmzJ9fZDz0-t961.0", "text": "And I think, you know, when I create, what I think is becoming, those of you who read more recent mysteries,", "start": 961.0, "end": 966.0}
+{"id": "9lmzJ9fZDz0-t966.0", "text": "the ones that linger with us, the most are the ones that, you know, I try to do this or I do both,", "start": 966.0, "end": 972.0}
+{"id": "9lmzJ9fZDz0-t972.0", "text": "that try to have some, for the person that's reading it to feel that they have, that there's an answer to the puzzle,", "start": 972.0, "end": 979.0}
+{"id": "9lmzJ9fZDz0-t979.0", "text": "they will feel satisfied. So, you know, if you're differentiating in terms of secrets and mysteries, the secrets are revealed.", "start": 979.0, "end": 986.0}
+{"id": "9lmzJ9fZDz0-t986.0", "text": "But then you want to leave something for the other readers who don't know why they care so much, but they do.", "start": 986.0, "end": 993.0}
+{"id": "9lmzJ9fZDz0-t993.0", "text": "And mystery readers are like this. And you somehow, you're trying to find a way to hook into something in there, in themselves.", "start": 993.0, "end": 1002.0}
+{"id": "9lmzJ9fZDz0-t1002.0", "text": "If you look at the success of something like Gone Girl, one of the most recent, you know, smash crime novels of the last 30 years,", "start": 1002.0, "end": 1010.0}
+{"id": "9lmzJ9fZDz0-t1010.0", "text": "people, you know, they liked the twists and turns, but essentially it's a novel about marriage, and everyone was seeing their own marriages,", "start": 1010.0, "end": 1017.0}
+{"id": "9lmzJ9fZDz0-t1017.0", "text": "and it somehow, or their own relationships. And that's what makes it linger larger. And in that case, the unknowable becomes a question of the reader.", "start": 1017.0, "end": 1026.0}
+{"id": "9lmzJ9fZDz0-t1026.0", "text": "What is the reader? Why the reader feels care so much is the real unknowable that me as the writer can't guess.", "start": 1026.0, "end": 1035.0}
+{"id": "9lmzJ9fZDz0-t1035.0", "text": "I just try to tap into that. They think there's a reason I always teach Freud's Dora in mystery novel classes for the same reason.", "start": 1035.0, "end": 1043.0}
+{"id": "9lmzJ9fZDz0-t1043.0", "text": "That's so much about levels of your investment in this thing.", "start": 1043.0, "end": 1049.0}
+{"id": "9lmzJ9fZDz0-t1049.0", "text": "I'm thinking of Robert Frost's two-line poem called The Secret. We dance around in a circle and suppose, or as a ringing suppose,", "start": 1049.0, "end": 1060.0}
+{"id": "9lmzJ9fZDz0-t1060.0", "text": "but the secret sits in the middle and nose. And it's a big joke about what actually knows it's just a placeholder.", "start": 1060.0, "end": 1070.0}
+{"id": "9lmzJ9fZDz0-t1070.0", "text": "The important action is what the effect it produces of dancing around and trying to suppose.", "start": 1070.0, "end": 1076.0}
+{"id": "9lmzJ9fZDz0-t1076.0", "text": "And suppose is to project an activity of mind that is conjectural, investigative, intuitive.", "start": 1076.0, "end": 1084.0}
+{"id": "9lmzJ9fZDz0-t1084.0", "text": "I've loved your bringing up that Freud quotation because I've actually used that in my own literary criticism about William Wordsworth,", "start": 1084.0, "end": 1093.0}
+{"id": "9lmzJ9fZDz0-t1093.0", "text": "who writes his great epic poetry, and trying to come to terms with the freak-out mysteries of his boyhood.", "start": 1093.0, "end": 1100.0}
+{"id": "9lmzJ9fZDz0-t1100.0", "text": "Very powerful memories that he calls spots of time that are enshrouded in mysteries. He steals a boat, goes for a joy ride in moonlight, in the lake,", "start": 1100.0, "end": 1111.0}
+{"id": "9lmzJ9fZDz0-t1111.0", "text": "and then returns the boat. But he has an optical illusion as he's rowing out to the middle of the lake that there's a big peak", "start": 1111.0, "end": 1119.0}
+{"id": "9lmzJ9fZDz0-t1119.0", "text": "that is suddenly risen up to come after him. And after that event, for many days, he's troubled by uncertain and unknown modes of being", "start": 1119.0, "end": 1129.0}
+{"id": "9lmzJ9fZDz0-t1129.0", "text": "indistinguishable shapes. He's writing epic iambic pentameter, and only Wordsworth can put indistinguishable into epic iambic pentameter", "start": 1129.0, "end": 1137.0}
+{"id": "9lmzJ9fZDz0-t1137.0", "text": "and get away with it, but he could do it. And he spends his entire life wanting to write about those mysteries,", "start": 1137.0, "end": 1144.0}
+{"id": "9lmzJ9fZDz0-t1144.0", "text": "and it's not solving the mystery, but the activity of being possessed by it, wanting to write about it,", "start": 1144.0, "end": 1150.0}
+{"id": "9lmzJ9fZDz0-t1150.0", "text": "turning it into his poetic muse, even though he tells himself that the reason he's writing this autobiography is to prove to himself", "start": 1150.0, "end": 1157.0}
+{"id": "9lmzJ9fZDz0-t1157.0", "text": "that he is the epic poet for the 19th century, not the dark poet of the 19th century.", "start": 1157.0, "end": 1163.0}
+{"id": "9lmzJ9fZDz0-t1163.0", "text": "His best reader in the next generation of romantics, John Keats, who didn't read the prelude, but read other Wordsworth,", "start": 1163.0, "end": 1171.0}
+{"id": "9lmzJ9fZDz0-t1171.0", "text": "said that Wordsworth's power was in the dark passages, not in the light, and not in the didactic poet.", "start": 1171.0, "end": 1178.0}
+{"id": "9lmzJ9fZDz0-t1178.0", "text": "That Wordsworth was trying to shape himself into. And Keats formulated a phrase that has really been taken up called negative capability.", "start": 1178.0, "end": 1188.0}
+{"id": "9lmzJ9fZDz0-t1188.0", "text": "It is a capability of being in a state of negative knowledge, and he thought Shakespeare was the one who exemplified this most powerfully.", "start": 1188.0, "end": 1197.0}
+{"id": "9lmzJ9fZDz0-t1197.0", "text": "It's what went into literary achievement. It's when a man, he was gendered about this, is capable of being in uncertainties, mysteries, and doubts", "start": 1197.0, "end": 1206.0}
+{"id": "9lmzJ9fZDz0-t1206.0", "text": "without an irritable reach after fact and reason. You will always reach after fact and reason, but it's the irritable reach that dispels the creative power of mystery.", "start": 1206.0, "end": 1217.0}
+{"id": "9lmzJ9fZDz0-t1217.0", "text": "At the same time, Samuel Taylor Coleridge, who wrote the rhyme of the ancient mariner, his most famous poem, talked about the genre of that in another famous soundbite,", "start": 1217.0, "end": 1227.0}
+{"id": "9lmzJ9fZDz0-t1227.0", "text": "that he wanted to procure for these shadows of imagination, these dream states, that willing suspension of disbelief, which for the moment constitutes poetic faith.", "start": 1227.0, "end": 1240.0}
+{"id": "9lmzJ9fZDz0-t1240.0", "text": "Now, it's not just being diluted. It is a contract that you make when you read to enter into a willing suspension of your normal systems of understanding", "start": 1240.0, "end": 1251.0}
+{"id": "9lmzJ9fZDz0-t1251.0", "text": "in an act that's called poetic faith. Poetic faith is really important because faith in an absolutely transcendent God, who is the explanation for everything,", "start": 1251.0, "end": 1263.0}
+{"id": "9lmzJ9fZDz0-t1263.0", "text": "was being dislodged by the end of the 18th century and probably well before, and other kinds of propositions about the mind's search for understanding", "start": 1263.0, "end": 1272.0}
+{"id": "9lmzJ9fZDz0-t1272.0", "text": "were becoming the fuel for literary and scientific endeavor. The vitalist debate was really strong completely across about whether consciousness was a biological epiphenomenon", "start": 1272.0, "end": 1283.0}
+{"id": "9lmzJ9fZDz0-t1283.0", "text": "or was a kind of super-added electricity in soul. Huge debates on that. People lost university positions for arguing the more modern side of that,", "start": 1283.0, "end": 1294.0}
+{"id": "9lmzJ9fZDz0-t1294.0", "text": "which was a kind of chemical epiphenomenon. Inheriting a lot of this was Mary Shelley in a spectacular month of June in 1816,", "start": 1294.0, "end": 1306.0}
+{"id": "9lmzJ9fZDz0-t1306.0", "text": "that people in my field are going to be celebrating the bicentenary of, but it was about a young undergraduate student who doesn't keep in touch with his advisor", "start": 1306.0, "end": 1315.0}
+{"id": "9lmzJ9fZDz0-t1315.0", "text": "and decides to create a life form to overcome a trauma of his life, which is the loss of his mother to Scarlett Fieder.", "start": 1315.0, "end": 1323.0}
+{"id": "9lmzJ9fZDz0-t1323.0", "text": "So he wants to create a human being or a creature immune to any kind of destruction except some sort of violent physical catastrophe.", "start": 1323.0, "end": 1332.0}
+{"id": "9lmzJ9fZDz0-t1332.0", "text": "And this turns out to be Victor Frankenstein's creature. That is a search for the origin of life that is hooked by Mary Shelley to a question that we haven't yet put on the table,", "start": 1332.0, "end": 1343.0}
+{"id": "9lmzJ9fZDz0-t1343.0", "text": "which is the social responsibilities and social consequences that come with the enthusiasm for scientific research.", "start": 1343.0, "end": 1351.0}
+{"id": "9lmzJ9fZDz0-t1351.0", "text": "So that's what I've been thinking very hard about as we get ready for all sorts of bicentennials next year.", "start": 1351.0, "end": 1363.0}
+{"id": "9lmzJ9fZDz0-t1363.0", "text": "I have a question about mysticism and its connection with the idea of a mystery and how the word undergoes some kind of change in meaning", "start": 1363.0, "end": 1375.0}
+{"id": "9lmzJ9fZDz0-t1375.0", "text": "compared to say when someone like Kant is using it or a Chomsky.", "start": 1375.0, "end": 1380.0}
+{"id": "9lmzJ9fZDz0-t1380.0", "text": "So people like Kant and Chomsky think of cognition, I would say, as an attempt to really find order in a way that presupposes a whole lot of control.", "start": 1380.0, "end": 1396.0}
+{"id": "9lmzJ9fZDz0-t1396.0", "text": "And so cognitive success of some kind really is making sense of it in a way that doesn't resist you or get away from you.", "start": 1396.0, "end": 1406.0}
+{"id": "9lmzJ9fZDz0-t1406.0", "text": "It's going to now be very predictable and yield to technology as well.", "start": 1406.0, "end": 1411.0}
+{"id": "9lmzJ9fZDz0-t1411.0", "text": "And my understanding, which is limited of mysticism,", "start": 1411.0, "end": 1421.0}
+{"id": "9lmzJ9fZDz0-t1421.0", "text": "seems to want to dispense with that notion of control. So especially if there are techniques of meditation or other kinds of discipline", "start": 1421.0, "end": 1432.0}
+{"id": "9lmzJ9fZDz0-t1432.0", "text": "that are used in order to get into the kind of state that only a mystic can achieve, say the Sufis were very interested in that.", "start": 1432.0, "end": 1441.0}
+{"id": "9lmzJ9fZDz0-t1441.0", "text": "It sounds as though you have to give up a certain aspiration to control even if you use discipline to achieve the kind of experience that mystics aim to achieve.", "start": 1441.0, "end": 1451.0}
+{"id": "9lmzJ9fZDz0-t1451.0", "text": "And that's very different from letting go of something in a scientific sense.", "start": 1451.0, "end": 1455.0}
+{"id": "9lmzJ9fZDz0-t1455.0", "text": "So the scientist might well say, I've got a good toolbox, I can find a lot of order by using the scientific method.", "start": 1455.0, "end": 1463.0}
+{"id": "9lmzJ9fZDz0-t1463.0", "text": "And you know what, it doesn't answer the ultimate why questions, but those turn out then not to be scientific questions.", "start": 1463.0, "end": 1469.0}
+{"id": "9lmzJ9fZDz0-t1469.0", "text": "And maybe we're not as gripped by them as we once were partly because science seems to do so well in the things that tries to do.", "start": 1469.0, "end": 1479.0}
+{"id": "9lmzJ9fZDz0-t1479.0", "text": "Anyway, I think people are less gripped by that root into mysticism, you know, that well what is the ultimate answer?", "start": 1479.0, "end": 1487.0}
+{"id": "9lmzJ9fZDz0-t1487.0", "text": "Because if it's through mystical experience that you're getting a different relation and getting into a different relation to these issues,", "start": 1487.0, "end": 1496.0}
+{"id": "9lmzJ9fZDz0-t1496.0", "text": "it's not as though the things that used to resist control of intelligibility now yield to it.", "start": 1496.0, "end": 1502.0}
+{"id": "9lmzJ9fZDz0-t1502.0", "text": "Right, it strikes me that it's a different aspiration, but I'm not sure and I thought maybe you could illuminate me about that contrast.", "start": 1502.0, "end": 1513.0}
+{"id": "9lmzJ9fZDz0-t1513.0", "text": "Well, I do agree with the distinction you're drawing. Clearly, what mystics, well it's a little complicated because of historical contextualization.", "start": 1513.0, "end": 1531.0}
+{"id": "9lmzJ9fZDz0-t1531.0", "text": "So, you know, and like there's so much now running through my brain. But if I bring it to this moment, I would agree with you.", "start": 1531.0, "end": 1544.0}
+{"id": "9lmzJ9fZDz0-t1544.0", "text": "There is a relinquishing of control in the way that the scientific quest demands and succeeds quite well,", "start": 1544.0, "end": 1559.0}
+{"id": "9lmzJ9fZDz0-t1559.0", "text": "of course we should have a footnote here. For the vast majority of human beings, there's no understanding of all the changes that have been brought through science.", "start": 1559.0, "end": 1573.0}
+{"id": "9lmzJ9fZDz0-t1573.0", "text": "I mean, who understands how anything really works. So that's something we also have to keep in mind.", "start": 1573.0, "end": 1580.0}
+{"id": "9lmzJ9fZDz0-t1580.0", "text": "So from a point of view, if you're looking at a larger swath of humankind, I'm not sure that the scientific actually has, you know, has really imparted to people,", "start": 1580.0, "end": 1600.0}
+{"id": "9lmzJ9fZDz0-t1600.0", "text": "a real sense of control over their lives. And I guess I would just say this, that from the mystical stamp,", "start": 1600.0, "end": 1608.0}
+{"id": "9lmzJ9fZDz0-t1608.0", "text": "what does mysticism have to contribute? Well, you're quite right when you say that there is a loss of some kind of control,", "start": 1608.0, "end": 1618.0}
+{"id": "9lmzJ9fZDz0-t1618.0", "text": "but it is a matter of great discipline. And I just think it's a sense of, there is a kind of humility here that the mystical path introduces.", "start": 1618.0, "end": 1637.0}
+{"id": "9lmzJ9fZDz0-t1637.0", "text": "And somehow it does, maybe like poetry or dreams, it somehow does relate to something very fundamental about the human experience,", "start": 1637.0, "end": 1648.0}
+{"id": "9lmzJ9fZDz0-t1648.0", "text": "which can't simply be discarded. And I think that there's something about paradox, which is very powerful.", "start": 1648.0, "end": 1660.0}
+{"id": "9lmzJ9fZDz0-t1660.0", "text": "And here might be a point where mysticism and science do have something to contribute to one another.", "start": 1660.0, "end": 1669.0}
+{"id": "9lmzJ9fZDz0-t1669.0", "text": "So from my standpoint, the secret, a secret, can only be revealed to the extent that the secret is concealed,", "start": 1669.0, "end": 1681.0}
+{"id": "9lmzJ9fZDz0-t1681.0", "text": "because if the secret is truly revealed, it's no longer a secret that's being revealed.", "start": 1681.0, "end": 1688.0}
+{"id": "9lmzJ9fZDz0-t1688.0", "text": "And mystics have lived, as I put it, they live in this kind of liminal space between concealment and disclosure,", "start": 1688.0, "end": 1698.0}
+{"id": "9lmzJ9fZDz0-t1698.0", "text": "and it's not a linear process going from concealment to disclosure. It's much more paradoxical that the mystery is disclosed", "start": 1698.0, "end": 1710.0}
+{"id": "9lmzJ9fZDz0-t1710.0", "text": "in the concealment of its disclosure and concealed in the disclosure of its concealment.", "start": 1710.0, "end": 1721.0}
+{"id": "9lmzJ9fZDz0-t1721.0", "text": "I have a question for every book. Something I think about a lot is I grew up as a true crime aficionado.", "start": 1721.0, "end": 1727.0}
+{"id": "9lmzJ9fZDz0-t1727.0", "text": "And what about the mysteries that we actually may inside not want solved, which I think is the cases that haunt us?", "start": 1727.0, "end": 1736.0}
+{"id": "9lmzJ9fZDz0-t1736.0", "text": "And once you know Jack the Ripper is definitively identified, that's gone forever.", "start": 1736.0, "end": 1742.0}
+{"id": "9lmzJ9fZDz0-t1742.0", "text": "And I've talked to some people who have devoted their life to different cases,", "start": 1742.0, "end": 1746.0}
+{"id": "9lmzJ9fZDz0-t1746.0", "text": "and you do have this lingering sense. I think the movie Zodiac touches this very well,", "start": 1746.0, "end": 1750.0}
+{"id": "9lmzJ9fZDz0-t1750.0", "text": "that there would be a grave disappointment to actually have an answer, because that pursuit has consumed them.", "start": 1750.0, "end": 1756.0}
+{"id": "9lmzJ9fZDz0-t1756.0", "text": "So I'm going to get some of what you're talking about.", "start": 1756.0, "end": 1759.0}
+{"id": "9lmzJ9fZDz0-t1759.0", "text": "I'm not going to be made in this state of not knowing, but always the possibility of reaching an answer in this case.", "start": 1759.0, "end": 1766.0}
+{"id": "9lmzJ9fZDz0-t1766.0", "text": "But to be in that suspended state, it can't be true for science as a discipline,", "start": 1766.0, "end": 1773.0}
+{"id": "9lmzJ9fZDz0-t1773.0", "text": "but certainly seems that remaining in that state, because if it's obsession from a psychological point,", "start": 1773.0, "end": 1782.0}
+{"id": "9lmzJ9fZDz0-t1782.0", "text": "if you have an answer, you have to let go of the obsession, presumably.", "start": 1782.0, "end": 1788.0}
+{"id": "9lmzJ9fZDz0-t1788.0", "text": "Yeah, it's interesting that the one question that's often asked of scientists is,", "start": 1788.0, "end": 1795.0}
+{"id": "9lmzJ9fZDz0-t1795.0", "text": "do you think we'll understand it all by the end of your time?", "start": 1795.0, "end": 1800.0}
+{"id": "9lmzJ9fZDz0-t1800.0", "text": "And would you want to be that way, because the adventure, the quest,", "start": 1800.0, "end": 1806.0}
+{"id": "9lmzJ9fZDz0-t1806.0", "text": "but I want to come back to the isn't the grand mystery that's driving all of this,", "start": 1806.0, "end": 1812.0}
+{"id": "9lmzJ9fZDz0-t1812.0", "text": "kind of like in a play, right? So why are we here?", "start": 1812.0, "end": 1815.0}
+{"id": "9lmzJ9fZDz0-t1815.0", "text": "So all of a sudden we're in this room, well, we're in this universe,", "start": 1815.0, "end": 1819.0}
+{"id": "9lmzJ9fZDz0-t1819.0", "text": "and we're trying to figure out why we're here.", "start": 1819.0, "end": 1822.0}
+{"id": "9lmzJ9fZDz0-t1822.0", "text": "And as scientists, we're kind of the low brows, we're the plumbers,", "start": 1822.0, "end": 1826.0}
+{"id": "9lmzJ9fZDz0-t1826.0", "text": "so we're going to figure out how it works, because I think that's going to shed light on things,", "start": 1826.0, "end": 1831.0}
+{"id": "9lmzJ9fZDz0-t1831.0", "text": "that number one, it's orderly.", "start": 1831.0, "end": 1834.0}
+{"id": "9lmzJ9fZDz0-t1834.0", "text": "There are rules, it isn't random, and the rules are very, very precise,", "start": 1834.0, "end": 1839.0}
+{"id": "9lmzJ9fZDz0-t1839.0", "text": "and we were talking about this earlier, well, do the rules hold everywhere and all times,", "start": 1839.0, "end": 1843.0}
+{"id": "9lmzJ9fZDz0-t1843.0", "text": "and that's an answerable question, and we've tested that,", "start": 1843.0, "end": 1846.0}
+{"id": "9lmzJ9fZDz0-t1846.0", "text": "that the rules are the same here as they are 20 billion light years away", "start": 1846.0, "end": 1851.0}
+{"id": "9lmzJ9fZDz0-t1851.0", "text": "and back in time 13 billion light years, that's pretty amazing.", "start": 1851.0, "end": 1857.0}
+{"id": "9lmzJ9fZDz0-t1857.0", "text": "And so isn't that the grand mystery that we're all trying, that we all want to know why we're here?", "start": 1857.0, "end": 1865.0}
+{"id": "9lmzJ9fZDz0-t1865.0", "text": "And the other thing you were saying is that science doesn't affect people,", "start": 1865.0, "end": 1872.0}
+{"id": "9lmzJ9fZDz0-t1872.0", "text": "and not everyone is...", "start": 1872.0, "end": 1877.0}
+{"id": "9lmzJ9fZDz0-t1877.0", "text": "I'm not sure it imparts orderliness in so far as, you know, it's so beyond the reach of most people.", "start": 1877.0, "end": 1884.0}
+{"id": "9lmzJ9fZDz0-t1884.0", "text": "It is beyond the reach of most people, but we set the...", "start": 1884.0, "end": 1889.0}
+{"id": "9lmzJ9fZDz0-t1889.0", "text": "I mean, not everyone understands quantum mechanics, including myself,", "start": 1889.0, "end": 1893.0}
+{"id": "9lmzJ9fZDz0-t1893.0", "text": "but we do set, I think, you know, a large fraction of the people know we live in a big universe,", "start": 1893.0, "end": 1901.0}
+{"id": "9lmzJ9fZDz0-t1901.0", "text": "and there are lots of stars and there are other planets, and that sets a very big context that...", "start": 1901.0, "end": 1908.0}
+{"id": "9lmzJ9fZDz0-t1908.0", "text": "And I think a large number of people think that it's a very interesting question", "start": 1908.0, "end": 1913.0}
+{"id": "9lmzJ9fZDz0-t1913.0", "text": "to know if there's intelligent life elsewhere, and oh my goodness,", "start": 1913.0, "end": 1919.0}
+{"id": "9lmzJ9fZDz0-t1919.0", "text": "so if we plumbers came back and told you, guess what, there's intelligent life elsewhere,", "start": 1919.0, "end": 1926.0}
+{"id": "9lmzJ9fZDz0-t1926.0", "text": "that changed the framing of a lot of the... So then I'm going to be so lowbrow on...", "start": 1926.0, "end": 1932.0}
+{"id": "9lmzJ9fZDz0-t1932.0", "text": "I shouldn't look at Elliot here when it comes to religion, so then boy, does that affect religion?", "start": 1932.0, "end": 1938.0}
+{"id": "9lmzJ9fZDz0-t1938.0", "text": "You know, so we have all of our religions that are kind of based here and now, right, or...", "start": 1938.0, "end": 1944.0}
+{"id": "9lmzJ9fZDz0-t1944.0", "text": "are about us, and so, you know, if you take the Christian face, so do Christ visit all the planets?", "start": 1944.0, "end": 1952.0}
+{"id": "9lmzJ9fZDz0-t1952.0", "text": "I guess if you're a Mormon, that's kind of built right in, but...", "start": 1952.0, "end": 1957.0}
+{"id": "9lmzJ9fZDz0-t1957.0", "text": "So... but we're all struggling to answer this grand question, and the mysticism...", "start": 1957.0, "end": 1966.0}
+{"id": "9lmzJ9fZDz0-t1966.0", "text": "So I didn't like when you were saying that... Well, actually I liked everything you said, but the scientific method...", "start": 1966.0, "end": 1973.0}
+{"id": "9lmzJ9fZDz0-t1973.0", "text": "How many people here know the scientific method?", "start": 1973.0, "end": 1978.0}
+{"id": "9lmzJ9fZDz0-t1978.0", "text": "I'm going to put my hand down, because I don't know... If you ask most scientists, we don't know the scientific method.", "start": 1978.0, "end": 1984.0}
+{"id": "9lmzJ9fZDz0-t1984.0", "text": "If you would ask them, it involves falsifiability, and it's not so linear, and some of it involves...", "start": 1984.0, "end": 1991.0}
+{"id": "9lmzJ9fZDz0-t1991.0", "text": "I don't know if it involves mysticism, but getting... when you're exploring the unknown, you need crazy ideas.", "start": 1991.0, "end": 1999.0}
+{"id": "9lmzJ9fZDz0-t1999.0", "text": "So we know how to test ideas, and that's why the older scientists like myself are really good at testing out...", "start": 1999.0, "end": 2004.0}
+{"id": "9lmzJ9fZDz0-t2004.0", "text": "anybody can test an idea. There's a list, does it agree with that?", "start": 2004.0, "end": 2009.0}
+{"id": "9lmzJ9fZDz0-t2009.0", "text": "Getting the new ideas, and... you know, that's where the brain... you have to free the brain to think crazy...", "start": 2009.0, "end": 2015.0}
+{"id": "9lmzJ9fZDz0-t2015.0", "text": "to think... to leave.", "start": 2015.0, "end": 2018.0}
+{"id": "9lmzJ9fZDz0-t2018.0", "text": "Yeah, Feynman was one of my teachers when I was an undergraduate, and I just absolutely worshipped him, so anything he said, I just...", "start": 2018.0, "end": 2024.0}
+{"id": "9lmzJ9fZDz0-t2024.0", "text": "Oh, yes, yes, sir.", "start": 2024.0, "end": 2026.0}
+{"id": "9lmzJ9fZDz0-t2026.0", "text": "And he said, you know, I really envy you, because you're so ignorant.", "start": 2026.0, "end": 2030.0}
+{"id": "9lmzJ9fZDz0-t2030.0", "text": "And it took me about 20 years... well, actually, it didn't take 20 years, but it took me a while to figure that out, is that I had an open mind.", "start": 2030.0, "end": 2040.0}
+{"id": "9lmzJ9fZDz0-t2040.0", "text": "And so I could create new ideas, and the trouble... and I see this, a graduate student comes to me, or a postdoc comes and says, couldn't things be like this?", "start": 2040.0, "end": 2048.0}
+{"id": "9lmzJ9fZDz0-t2048.0", "text": "And before the words are out of their mouth, no, no, no.", "start": 2048.0, "end": 2052.0}
+{"id": "9lmzJ9fZDz0-t2052.0", "text": "Instead of, well, maybe... you know, maybe that's not quite right, but if you know too much, you...", "start": 2052.0, "end": 2059.0}
+{"id": "9lmzJ9fZDz0-t2059.0", "text": "sometimes it's the tyranny of knowledge that if you know too much, you can't get to the next big idea.", "start": 2059.0, "end": 2068.0}
+{"id": "9lmzJ9fZDz0-t2068.0", "text": "And so maybe freeing the mind... so I think the scientific method, where I was disagreeing with you a little bit, is...", "start": 2068.0, "end": 2076.0}
+{"id": "9lmzJ9fZDz0-t2076.0", "text": "we don't have a book, and we don't carry...", "start": 2076.0, "end": 2079.0}
+{"id": "9lmzJ9fZDz0-t2079.0", "text": "Let me... let me... okay, let me say something with greater care than...", "start": 2079.0, "end": 2084.0}
+{"id": "9lmzJ9fZDz0-t2084.0", "text": "When I... I used this word... I'm not a photographer being... I didn't... Oh, no, philosophers like it. I mean, that means you were listening, and you... you know, engaged, and so...", "start": 2084.0, "end": 2092.0}
+{"id": "9lmzJ9fZDz0-t2092.0", "text": "Actually, we're the ones who are always rude, you know, because we think it's a nice thing to say, actually, I'm not convinced by what you said, because, you know, I mean, that's what we do for a living, is talk to each other that way.", "start": 2092.0, "end": 2103.0}
+{"id": "9lmzJ9fZDz0-t2103.0", "text": "So, when I brought in the idea of control, I was bringing in an idea that I don't have full control over, in fact, and I was being a little bit speculative.", "start": 2103.0, "end": 2116.0}
+{"id": "9lmzJ9fZDz0-t2116.0", "text": "But the thought I had was that there were definitely goals in science, and the goals have to do with explanation, even if there's no one uniform method for coming up with an hypothesis, or the form of a theory even, or even the form of a theory.", "start": 2116.0, "end": 2132.0}
+{"id": "9lmzJ9fZDz0-t2132.0", "text": "Or even the form of a good question, there's still our goals that drive scientists to want to find order where they couldn't see it before.", "start": 2132.0, "end": 2143.0}
+{"id": "9lmzJ9fZDz0-t2143.0", "text": "And you keep saying the universe is an ordered place, and we know that it's an ordered place, and finding that order, and putting it in a way that makes it very usable by us.", "start": 2143.0, "end": 2152.0}
+{"id": "9lmzJ9fZDz0-t2152.0", "text": "I think of that as kind of a form of control that scientists aim at.", "start": 2152.0, "end": 2156.0}
+{"id": "9lmzJ9fZDz0-t2156.0", "text": "Well, we should have did a little bit and say what we're really interested in, we've discovered that there's order and that there are rules.", "start": 2156.0, "end": 2162.0}
+{"id": "9lmzJ9fZDz0-t2162.0", "text": "But I would say what science is all about is how the universe works.", "start": 2162.0, "end": 2167.0}
+{"id": "9lmzJ9fZDz0-t2167.0", "text": "But you wouldn't take it as finding out that there is no order.", "start": 2167.0, "end": 2174.0}
+{"id": "9lmzJ9fZDz0-t2174.0", "text": "Sure we would.", "start": 2174.0, "end": 2175.0}
+{"id": "9lmzJ9fZDz0-t2175.0", "text": "You would?", "start": 2175.0, "end": 2176.0}
+{"id": "9lmzJ9fZDz0-t2176.0", "text": "Absolutely.", "start": 2176.0, "end": 2177.0}
+{"id": "9lmzJ9fZDz0-t2177.0", "text": "And there are systems that don't have order where the chaotic systems and systems that are very difficult to describe.", "start": 2177.0, "end": 2186.0}
+{"id": "9lmzJ9fZDz0-t2186.0", "text": "But I would say if you had to put it in, you know, what is our mission, it's to understand how the universe works.", "start": 2186.0, "end": 2194.0}
+{"id": "9lmzJ9fZDz0-t2194.0", "text": "In a way that renders it intelligible, or not?", "start": 2194.0, "end": 2199.0}
+{"id": "9lmzJ9fZDz0-t2199.0", "text": "No, I think I would just leave it at that, understand how the universe works.", "start": 2199.0, "end": 2204.0}
+{"id": "9lmzJ9fZDz0-t2204.0", "text": "I would not be as far from mysticism as I thought then, because it strikes me, and maybe because philosophers always are using old science, you know, we're but mind.", "start": 2204.0, "end": 2215.0}
+{"id": "9lmzJ9fZDz0-t2215.0", "text": "But I think of science when it inspires philosophers to say things in a scientific spirit, as not just openness, but pretty confident that you can find", "start": 2215.0, "end": 2233.0}
+{"id": "9lmzJ9fZDz0-t2233.0", "text": "stuff out rather than be permanently mystified.", "start": 2233.0, "end": 2237.0}
+{"id": "9lmzJ9fZDz0-t2237.0", "text": "And when you find it out, you have, I mean, a theory is something that's taking a lot of things and bringing it under something general, right?", "start": 2237.0, "end": 2246.0}
+{"id": "9lmzJ9fZDz0-t2246.0", "text": "There's something going on which is, I was using this metaphor of control, and I don't want to dominate too much.", "start": 2246.0, "end": 2255.0}
+{"id": "9lmzJ9fZDz0-t2255.0", "text": "But it strikes me as a very active form of submitting to understanding in so far as I can, which is rather different from a mystical aspiration.", "start": 2255.0, "end": 2269.0}
+{"id": "9lmzJ9fZDz0-t2269.0", "text": "I was just trying to draw a contrast between the two.", "start": 2269.0, "end": 2272.0}
+{"id": "9lmzJ9fZDz0-t2272.0", "text": "We think we go in open-minded, and we found order, and in science you build upon what you know.", "start": 2272.0, "end": 2278.0}
+{"id": "9lmzJ9fZDz0-t2278.0", "text": "But would it be recognizably science if you said, well, there's no order?", "start": 2278.0, "end": 2282.0}
+{"id": "9lmzJ9fZDz0-t2282.0", "text": "I think so. I think that natural philosophy, observing the world, doing experiments, finding out how it is, finding that it's not, finding that there aren't rules would have been a path, but that's not the path we found ourselves on.", "start": 2282.0, "end": 2295.0}
+{"id": "9lmzJ9fZDz0-t2295.0", "text": "And so that's the way it was...", "start": 2295.0, "end": 2297.0}
+{"id": "9lmzJ9fZDz0-t2297.0", "text": "I would say that would be the end of science. I guess that's my little assumption.", "start": 2297.0, "end": 2300.0}
+{"id": "9lmzJ9fZDz0-t2300.0", "text": "Well, it wouldn't be the end of science, but we might not be as successful as we are.", "start": 2300.0, "end": 2303.0}
+{"id": "9lmzJ9fZDz0-t2303.0", "text": "I mean, if we're successful because we can predict stuff, and if we couldn't predict, it started with eclipses, right?", "start": 2303.0, "end": 2311.0}
+{"id": "9lmzJ9fZDz0-t2311.0", "text": "And astronomical things. People wouldn't have called us up if we couldn't predict.", "start": 2311.0, "end": 2316.0}
+{"id": "9lmzJ9fZDz0-t2316.0", "text": "And so part of our power is that we're good at doing plumbing.", "start": 2316.0, "end": 2320.0}
+{"id": "9lmzJ9fZDz0-t2320.0", "text": "I mean, if you had a plumber who couldn't fix plumbing...", "start": 2320.0, "end": 2322.0}
+{"id": "9lmzJ9fZDz0-t2322.0", "text": "Yeah, but that's control.", "start": 2322.0, "end": 2323.0}
+{"id": "9lmzJ9fZDz0-t2323.0", "text": "Or if you didn't have plumbing, you wouldn't need a plumber.", "start": 2323.0, "end": 2326.0}
+{"id": "9lmzJ9fZDz0-t2326.0", "text": "But surely you would acknowledge that part of the orderliness is disorliness, or randomness.", "start": 2326.0, "end": 2334.0}
+{"id": "9lmzJ9fZDz0-t2334.0", "text": "I mean, that's basic to our experience in the world.", "start": 2334.0, "end": 2339.0}
+{"id": "9lmzJ9fZDz0-t2339.0", "text": "The remaining things that are inexplicable, even within the parameters of orderliness and scientific verifiability.", "start": 2339.0, "end": 2349.0}
+{"id": "9lmzJ9fZDz0-t2349.0", "text": "So you can have a system that's governed by rules, and we think our universe is governed by a simple set of rules that we can put on a t-shirt.", "start": 2349.0, "end": 2356.0}
+{"id": "9lmzJ9fZDz0-t2356.0", "text": "I should have worn such a t-shirt.", "start": 2356.0, "end": 2358.0}
+{"id": "9lmzJ9fZDz0-t2358.0", "text": "Oh, you might have been better.", "start": 2358.0, "end": 2360.0}
+{"id": "9lmzJ9fZDz0-t2360.0", "text": "And the rules are so rich that the outcomes are remarkably...", "start": 2360.0, "end": 2370.0}
+{"id": "9lmzJ9fZDz0-t2370.0", "text": "I mean, so a game that isn't rich is tic-tac-toe, right?", "start": 2370.0, "end": 2376.0}
+{"id": "9lmzJ9fZDz0-t2376.0", "text": "So it has very simple rules. It's a trivial game. The outcomes are not rich. It's not interesting.", "start": 2376.0, "end": 2383.0}
+{"id": "9lmzJ9fZDz0-t2383.0", "text": "A game that is rich that also has simple rules is chess.", "start": 2383.0, "end": 2387.0}
+{"id": "9lmzJ9fZDz0-t2387.0", "text": "Our universe is more like chess. The outcomes are very rich and hard to predict.", "start": 2387.0, "end": 2392.0}
+{"id": "9lmzJ9fZDz0-t2392.0", "text": "And so having fixed rules doesn't mean that you have outcomes that are easy to predict.", "start": 2392.0, "end": 2400.0}
+{"id": "9lmzJ9fZDz0-t2400.0", "text": "And then sometimes they can look random. And I would just call that richness.", "start": 2400.0, "end": 2406.0}
+{"id": "9lmzJ9fZDz0-t2406.0", "text": "If we could... I mean, if we go from the deterministic, you know, the Newtonian Descartes...", "start": 2406.0, "end": 2411.0}
+{"id": "9lmzJ9fZDz0-t2411.0", "text": "So Heisenberg's in the two-nurses. Is that no longer feasible in the mind of any scientist?", "start": 2411.0, "end": 2420.0}
+{"id": "9lmzJ9fZDz0-t2420.0", "text": "Well, Heisenberg is different because, again, it's rules.", "start": 2420.0, "end": 2426.0}
+{"id": "9lmzJ9fZDz0-t2426.0", "text": "But what we discovered in quantum mechanics is that what we can predict, and I don't want to go off on this tangent,", "start": 2426.0, "end": 2433.0}
+{"id": "9lmzJ9fZDz0-t2433.0", "text": "but is correlations. But it's still predictable.", "start": 2433.0, "end": 2438.0}
+{"id": "9lmzJ9fZDz0-t2438.0", "text": "But even if you go back, let's forget about quantum mechanics because this unpredictability,", "start": 2438.0, "end": 2442.0}
+{"id": "9lmzJ9fZDz0-t2442.0", "text": "if you have a sufficiently complicated system, even though in principle you can predict the outcome,", "start": 2442.0, "end": 2448.0}
+{"id": "9lmzJ9fZDz0-t2448.0", "text": "its behavior is chaotic and so in practice you can't. And that allows richness, which is a good thing,", "start": 2448.0, "end": 2454.0}
+{"id": "9lmzJ9fZDz0-t2454.0", "text": "because if there are only five personality types, if there are only five human behaviors,", "start": 2454.0, "end": 2459.0}
+{"id": "9lmzJ9fZDz0-t2459.0", "text": "that wouldn't be a very interesting world. But the laws of science...", "start": 2459.0, "end": 2463.0}
+{"id": "9lmzJ9fZDz0-t2463.0", "text": "The laws of physics and science are rich enough to allow for what seeming...", "start": 2463.0, "end": 2470.0}
+{"id": "9lmzJ9fZDz0-t2470.0", "text": "Allows for what appears to be free will, whereas if...", "start": 2470.0, "end": 2476.0}
+{"id": "9lmzJ9fZDz0-t2476.0", "text": "You know, it's governed by rules, so how could it be free will?", "start": 2476.0, "end": 2482.0}
+{"id": "9lmzJ9fZDz0-t2482.0", "text": "So what is the definition of mystery? Just something we don't have the answer to yet,", "start": 2482.0, "end": 2487.0}
+{"id": "9lmzJ9fZDz0-t2487.0", "text": "and that once we find the answer to that, then that mystery is out of the way,", "start": 2487.0, "end": 2491.0}
+{"id": "9lmzJ9fZDz0-t2491.0", "text": "then we go to another mystery. Is that the idea of mystery?", "start": 2491.0, "end": 2496.0}
+{"id": "9lmzJ9fZDz0-t2496.0", "text": "Is that what Wordsworth has in mind?", "start": 2496.0, "end": 2500.0}
+{"id": "9lmzJ9fZDz0-t2500.0", "text": "I think what Elliot says is once a secret is explained as a secret, it ceases to be a secret,", "start": 2500.0, "end": 2506.0}
+{"id": "9lmzJ9fZDz0-t2506.0", "text": "but what it also may do is generate the next question.", "start": 2506.0, "end": 2510.0}
+{"id": "9lmzJ9fZDz0-t2510.0", "text": "And so a lot of these searches, I mean, you bring up Heisenberg as well,", "start": 2510.0, "end": 2514.0}
+{"id": "9lmzJ9fZDz0-t2514.0", "text": "is that it's the structure of inquiry, that...", "start": 2514.0, "end": 2518.0}
+{"id": "9lmzJ9fZDz0-t2518.0", "text": "And the structuring of inquiry, that has a lot to do with the object of inquiry.", "start": 2518.0, "end": 2523.0}
+{"id": "9lmzJ9fZDz0-t2523.0", "text": "So you like to use metaphors of plumbing and how it works.", "start": 2523.0, "end": 2527.0}
+{"id": "9lmzJ9fZDz0-t2527.0", "text": "And that is a kind of grammar that assumes an it and a working.", "start": 2527.0, "end": 2532.0}
+{"id": "9lmzJ9fZDz0-t2532.0", "text": "And the... So the question is, you know, that in some ways the kind of question you ask,", "start": 2532.0, "end": 2538.0}
+{"id": "9lmzJ9fZDz0-t2538.0", "text": "the structure of the question you ask is also going to be involved in the object that you discover.", "start": 2538.0, "end": 2546.0}
+{"id": "9lmzJ9fZDz0-t2546.0", "text": "So that... Heisenberg is part of that.", "start": 2546.0, "end": 2549.0}
+{"id": "9lmzJ9fZDz0-t2549.0", "text": "The romantic poets that I work on are very interested in the relay between question and answer,", "start": 2549.0, "end": 2555.0}
+{"id": "9lmzJ9fZDz0-t2555.0", "text": "and the way in which the part of the paradox is that one constantly transmutes into another,", "start": 2555.0, "end": 2562.0}
+{"id": "9lmzJ9fZDz0-t2562.0", "text": "that the answer becomes the ground for another stage in questioning.", "start": 2562.0, "end": 2567.0}
+{"id": "9lmzJ9fZDz0-t2567.0", "text": "And then even a paradox, as Wordsworth knew, you know, we fall asleep in body", "start": 2567.0, "end": 2573.0}
+{"id": "9lmzJ9fZDz0-t2573.0", "text": "and we see into the life of things, that's about as mystical as that guy gets.", "start": 2573.0, "end": 2577.0}
+{"id": "9lmzJ9fZDz0-t2577.0", "text": "But when he says we see into the life of things, that's also like the worst line of poetry he ever wrote.", "start": 2577.0, "end": 2583.0}
+{"id": "9lmzJ9fZDz0-t2583.0", "text": "I mean, that language becomes impossible when you imagine a state of... of kind of consciousness that is beyond language.", "start": 2583.0, "end": 2592.0}
+{"id": "9lmzJ9fZDz0-t2592.0", "text": "And it's the language that gets you there, that is often the more powerful experience,", "start": 2592.0, "end": 2597.0}
+{"id": "9lmzJ9fZDz0-t2597.0", "text": "whether you're talking about science or religion or mystery writing.", "start": 2597.0, "end": 2601.0}
+{"id": "9lmzJ9fZDz0-t2601.0", "text": "The prehistory for your kind of mystery is the first independently self-sustaining Gothic novelist,", "start": 2601.0, "end": 2609.0}
+{"id": "9lmzJ9fZDz0-t2609.0", "text": "some of you may have heard of her, Anne Radcliffe.", "start": 2609.0, "end": 2612.0}
+{"id": "9lmzJ9fZDz0-t2612.0", "text": "Epic, her big one was the Epic Mysteries of Udolpho,", "start": 2612.0, "end": 2616.0}
+{"id": "9lmzJ9fZDz0-t2616.0", "text": "a thousand pages of unspeakable horrors and mysteries,", "start": 2616.0, "end": 2621.0}
+{"id": "9lmzJ9fZDz0-t2621.0", "text": "and then she solves them in the last page.", "start": 2621.0, "end": 2623.0}
+{"id": "9lmzJ9fZDz0-t2623.0", "text": "That was her sort of signature, and it's just some very reductive practical explanation.", "start": 2623.0, "end": 2629.0}
+{"id": "9lmzJ9fZDz0-t2629.0", "text": "That wasn't a ghost, it was a fire in the tower by a demented nun, or something like that.", "start": 2629.0, "end": 2635.0}
+{"id": "9lmzJ9fZDz0-t2635.0", "text": "But that once you have the answer, you don't have the answer.", "start": 2635.0, "end": 2638.0}
+{"id": "9lmzJ9fZDz0-t2638.0", "text": "You have a scientific explanation that is no sooner proffered than subverted,", "start": 2638.0, "end": 2644.0}
+{"id": "9lmzJ9fZDz0-t2644.0", "text": "and you leave the novel thinking, well, was the novel about the 900 pages of the phenomenology of terror and mystery,", "start": 2644.0, "end": 2653.0}
+{"id": "9lmzJ9fZDz0-t2653.0", "text": "or was it about the explanation at the end?", "start": 2653.0, "end": 2656.0}
+{"id": "9lmzJ9fZDz0-t2656.0", "text": "Radcliffe is wonderfully double-parked on that.", "start": 2656.0, "end": 2660.0}
+{"id": "9lmzJ9fZDz0-t2660.0", "text": "She does both things simultaneously.", "start": 2660.0, "end": 2663.0}
+{"id": "9lmzJ9fZDz0-t2663.0", "text": "The rhyme of the ancient mariner beckons us to come to all sorts of simple conclusions,", "start": 2663.0, "end": 2669.0}
+{"id": "9lmzJ9fZDz0-t2669.0", "text": "not good to kill Albatrosses, good to bless snakes.", "start": 2669.0, "end": 2673.0}
+{"id": "9lmzJ9fZDz0-t2673.0", "text": "But if you're in a Christian universe, blessing snakes is a very peculiar pivot into kind of moral unity", "start": 2673.0, "end": 2683.0}
+{"id": "9lmzJ9fZDz0-t2683.0", "text": "and reintegration to the universe.", "start": 2683.0, "end": 2685.0}
+{"id": "9lmzJ9fZDz0-t2685.0", "text": "The whole process of the ancient mariner, of telling his story, is that he is finally interviewed by the", "start": 2685.0, "end": 2693.0}
+{"id": "9lmzJ9fZDz0-t2693.0", "text": "rower of the boat who comes to pick him up from the ship, and he says, what manner of man art thou?", "start": 2693.0, "end": 2699.0}
+{"id": "9lmzJ9fZDz0-t2699.0", "text": "And at that point, a fearful agony wrenches his frame, and the only way you can answer that story is to tell it all over again.", "start": 2699.0, "end": 2708.0}
+{"id": "9lmzJ9fZDz0-t2708.0", "text": "And it always ends with that question, what manner of man art thou?", "start": 2708.0, "end": 2712.0}
+{"id": "9lmzJ9fZDz0-t2712.0", "text": "So it is this constant repetition of the process of trying to understand", "start": 2712.0, "end": 2717.0}
+{"id": "9lmzJ9fZDz0-t2717.0", "text": "and the perpetual alusiveness of the object, of knowledge, that becomes the powerful, imaginative and poetic motor for that poem.", "start": 2717.0, "end": 2727.0}
+{"id": "9lmzJ9fZDz0-t2727.0", "text": "And I could give you any number of examples, but it's very much...", "start": 2727.0, "end": 2731.0}
+{"id": "9lmzJ9fZDz0-t2731.0", "text": "It's just what you have been saying, because you've been able to end, so it goes back to the original point to that.", "start": 2731.0, "end": 2736.0}
+{"id": "9lmzJ9fZDz0-t2736.0", "text": "And then the end of the mystery is just the realization that that wasn't the real mystery, that super petuates,", "start": 2736.0, "end": 2743.0}
+{"id": "9lmzJ9fZDz0-t2743.0", "text": "and I think that the teller, or the detective, or Freud, bare land then changes the nature of the mystery ultimately.", "start": 2743.0, "end": 2752.0}
+{"id": "9lmzJ9fZDz0-t2752.0", "text": "Once they put their lens on it, we have a whole new layer of mystery.", "start": 2752.0, "end": 2757.0}
+{"id": "9lmzJ9fZDz0-t2757.0", "text": "You start out wise, door coughing, or whatever your question is at the beginning of that case study,", "start": 2757.0, "end": 2762.0}
+{"id": "9lmzJ9fZDz0-t2762.0", "text": "and then it becomes through Freud's endless footnotes and the way that he's viewing it,", "start": 2762.0, "end": 2768.0}
+{"id": "9lmzJ9fZDz0-t2768.0", "text": "and his sort of lens, how does this work, then adds a whole other mystery.", "start": 2768.0, "end": 2774.0}
+{"id": "9lmzJ9fZDz0-t2774.0", "text": "So you end at the end of something like Dora, or in a lot of mystery novels, with ten new mysteries that have sprung up,", "start": 2774.0, "end": 2780.0}
+{"id": "9lmzJ9fZDz0-t2780.0", "text": "that are not about who put the bolt and the body and the room.", "start": 2780.0, "end": 2785.0}
+{"id": "9lmzJ9fZDz0-t2785.0", "text": "So there's the sequel.", "start": 2785.0, "end": 2787.0}
+{"id": "9lmzJ9fZDz0-t2787.0", "text": "Yeah.", "start": 2787.0, "end": 2788.0}
+{"id": "9lmzJ9fZDz0-t2788.0", "text": "And actually, so science is the same way, is that we often ask the wrong question.", "start": 2788.0, "end": 2793.0}
+{"id": "9lmzJ9fZDz0-t2793.0", "text": "So I told you what dark matter and dark energy are two mysteries, which I won't tell you that much about.", "start": 2793.0, "end": 2799.0}
+{"id": "9lmzJ9fZDz0-t2799.0", "text": "Probably everybody has heard of them, and they may be the wrong mysteries.", "start": 2799.0, "end": 2802.0}
+{"id": "9lmzJ9fZDz0-t2802.0", "text": "We may be asking the wrong question, but usually we get an answer, and what's wonderful about science is,", "start": 2802.0, "end": 2810.0}
+{"id": "9lmzJ9fZDz0-t2810.0", "text": "as soon as we get an answer, we get new questions.", "start": 2810.0, "end": 2813.0}
+{"id": "9lmzJ9fZDz0-t2813.0", "text": "And so we get sequels, and since we enjoy the process, the sequels are really fun.", "start": 2813.0, "end": 2821.0}
+{"id": "9lmzJ9fZDz0-t2821.0", "text": "But the other thing that you said that I found fascinating is that the way we exchange consciousness is through language.", "start": 2821.0, "end": 2829.0}
+{"id": "9lmzJ9fZDz0-t2829.0", "text": "Is that more or less right?", "start": 2829.0, "end": 2831.0}
+{"id": "9lmzJ9fZDz0-t2831.0", "text": "It is, yeah, it's what gives consciousness accessibility to a reason.", "start": 2831.0, "end": 2838.0}
+{"id": "9lmzJ9fZDz0-t2838.0", "text": "And what's fascinating about that is language has its limitations, and I thought I heard you say that it may well be that language is not rich enough", "start": 2838.0, "end": 2847.0}
+{"id": "9lmzJ9fZDz0-t2847.0", "text": "to fully convey the consciousness that's going on up here.", "start": 2847.0, "end": 2851.0}
+{"id": "9lmzJ9fZDz0-t2851.0", "text": "Though language can figure that limit, and in other words, language can become a description of its own limitations.", "start": 2851.0, "end": 2862.0}
+{"id": "9lmzJ9fZDz0-t2862.0", "text": "There are all sorts of epistemological and religious and poetic traditions that push language up to the limit,", "start": 2862.0, "end": 2869.0}
+{"id": "9lmzJ9fZDz0-t2869.0", "text": "where the disorganization or inadequacy of language is the powerful operation of imagination.", "start": 2869.0, "end": 2877.0}
+{"id": "9lmzJ9fZDz0-t2877.0", "text": "So that, I mean, science, for instance, will leave language behind and use mathematics.", "start": 2877.0, "end": 2883.0}
+{"id": "9lmzJ9fZDz0-t2883.0", "text": "I mean, when Wordsworth has a nervous breakdown, he doesn't pick up Milton, he picks up Euclid.", "start": 2883.0, "end": 2889.0}
+{"id": "9lmzJ9fZDz0-t2889.0", "text": "And he finds great solace in geometry, precisely sort of along the lines that you talk about, science, that it's universal, it's impersonal,", "start": 2889.0, "end": 2898.0}
+{"id": "9lmzJ9fZDz0-t2898.0", "text": "it's the same everywhere, that it is free from the corruptions or inflections of emotion and passion and personality.", "start": 2898.0, "end": 2906.0}
+{"id": "9lmzJ9fZDz0-t2906.0", "text": "But it's not language, it's a symbolic form.", "start": 2906.0, "end": 2909.0}
+{"id": "9lmzJ9fZDz0-t2909.0", "text": "And in Wordsworth anyway, he doesn't write the 13th book of Euclid's elements, but he writes about it", "start": 2909.0, "end": 2918.0}
+{"id": "9lmzJ9fZDz0-t2918.0", "text": "in the middle of a crisis of confidence and human perfectibility after the French Revolution.", "start": 2918.0, "end": 2925.0}
+{"id": "9lmzJ9fZDz0-t2925.0", "text": "So the language being an imperfect way to communicate the consciousness of one to another", "start": 2925.0, "end": 2932.0}
+{"id": "9lmzJ9fZDz0-t2932.0", "text": "brings up this thing we were talking about earlier, which is, I believe that, based on what I said earlier,", "start": 2932.0, "end": 2939.0}
+{"id": "9lmzJ9fZDz0-t2939.0", "text": "that everyone would agree that a dog can't understand quantum mechanics.", "start": 2939.0, "end": 2943.0}
+{"id": "9lmzJ9fZDz0-t2943.0", "text": "And if I ask a neuroscientist why, it's because it's not just that they haven't been trained,", "start": 2943.0, "end": 2949.0}
+{"id": "9lmzJ9fZDz0-t2949.0", "text": "it's they don't have a prefrontal cortex, is that the right answer?", "start": 2949.0, "end": 2954.0}
+{"id": "9lmzJ9fZDz0-t2954.0", "text": "And so is our brain powerful enough to understand the universe, just like we, I think you were agreeing", "start": 2954.0, "end": 2963.0}
+{"id": "9lmzJ9fZDz0-t2963.0", "text": "that language may be imperfect in transmitting one's consciousness to another?", "start": 2963.0, "end": 2970.0}
+{"id": "9lmzJ9fZDz0-t2970.0", "text": "And so our brain may not even be capable of understanding why we're here, which is, would everyone agree", "start": 2970.0, "end": 2978.0}
+{"id": "9lmzJ9fZDz0-t2978.0", "text": "that's the big question?", "start": 2978.0, "end": 2980.0}
+{"id": "9lmzJ9fZDz0-t2980.0", "text": "Or no?", "start": 2980.0, "end": 2981.0}
+{"id": "9lmzJ9fZDz0-t2981.0", "text": "How you get to that question as a human being is another question?", "start": 2981.0, "end": 2985.0}
+{"id": "9lmzJ9fZDz0-t2985.0", "text": "Don't we all, I mean we rephrase it a different way, but don't, isn't that kind of, we want to know", "start": 2985.0, "end": 2989.0}
+{"id": "9lmzJ9fZDz0-t2989.0", "text": "why we're here?", "start": 2989.0, "end": 2990.0}
+{"id": "9lmzJ9fZDz0-t2990.0", "text": "I don't wake up every morning with that question.", "start": 2990.0, "end": 2992.0}
+{"id": "9lmzJ9fZDz0-t2992.0", "text": "I mean in some ways I mean that may be the big question, but it's one question that...", "start": 2992.0, "end": 2997.0}
+{"id": "9lmzJ9fZDz0-t2997.0", "text": "Why is it?", "start": 2997.0, "end": 2998.0}
+{"id": "9lmzJ9fZDz0-t2998.0", "text": "It's very rich, right?", "start": 2998.0, "end": 3000.0}
+{"id": "9lmzJ9fZDz0-t3000.0", "text": "Yeah, it's very rich, but I mean take the end of Keats's own on a Grecian urn.", "start": 3000.0, "end": 3004.0}
+{"id": "9lmzJ9fZDz0-t3004.0", "text": "Oh okay, beauty is truth, truth beauty, that is all you know on earth and all you need to know.", "start": 3004.0, "end": 3009.0}
+{"id": "9lmzJ9fZDz0-t3009.0", "text": "And it's a complete tautology.", "start": 3009.0, "end": 3011.0}
+{"id": "9lmzJ9fZDz0-t3011.0", "text": "I mean it's, you know, it's sort of, it's a syntax, it goes around and around, like the Grecian urn itself,", "start": 3011.0, "end": 3016.0}
+{"id": "9lmzJ9fZDz0-t3016.0", "text": "whose images are...", "start": 3016.0, "end": 3018.0}
+{"id": "9lmzJ9fZDz0-t3018.0", "text": "Alan Gibbsberg cited that to his father on his dying daddy.", "start": 3018.0, "end": 3023.0}
+{"id": "9lmzJ9fZDz0-t3023.0", "text": "His father said, Alan it's beautiful, but it's not true.", "start": 3023.0, "end": 3028.0}
+{"id": "9lmzJ9fZDz0-t3028.0", "text": "Well you have to do your own work with those words, right?", "start": 3028.0, "end": 3032.0}
+{"id": "9lmzJ9fZDz0-t3032.0", "text": "I mean they're two of the big three.", "start": 3032.0, "end": 3034.0}
+{"id": "9lmzJ9fZDz0-t3034.0", "text": "But he goes...", "start": 3034.0, "end": 3035.0}
+{"id": "9lmzJ9fZDz0-t3035.0", "text": "And they seem to say, okay this is the stuff of answers, but in Keats's management it's the stuff of an answer", "start": 3035.0, "end": 3042.0}
+{"id": "9lmzJ9fZDz0-t3042.0", "text": "that really harbors another question about what those terms mean, why we care about them,", "start": 3042.0, "end": 3047.0}
+{"id": "9lmzJ9fZDz0-t3047.0", "text": "why we want to tease them out of a work of art from 5,000 years ago and think that that's going to be a comfort to human knowledge in 1819.", "start": 3047.0, "end": 3058.0}
+{"id": "9lmzJ9fZDz0-t3058.0", "text": "It's very teleological, I'm surprised that I'm a little surprised because I'm...", "start": 3058.0, "end": 3065.0}
+{"id": "9lmzJ9fZDz0-t3065.0", "text": "What the big thing seems that, you know, why are we here is a very teleological question.", "start": 3065.0, "end": 3071.0}
+{"id": "9lmzJ9fZDz0-t3071.0", "text": "And maybe we need to embark on a path which does away with the teleology.", "start": 3071.0, "end": 3080.0}
+{"id": "9lmzJ9fZDz0-t3080.0", "text": "There is no.", "start": 3080.0, "end": 3082.0}
+{"id": "9lmzJ9fZDz0-t3082.0", "text": "I mean I think this is probably a great contribution of Buddhist thinking.", "start": 3082.0, "end": 3088.0}
+{"id": "9lmzJ9fZDz0-t3088.0", "text": "Does that involve origin as well?", "start": 3088.0, "end": 3091.0}
+{"id": "9lmzJ9fZDz0-t3091.0", "text": "I mean so that you would say origin and telos are...", "start": 3091.0, "end": 3094.0}
+{"id": "9lmzJ9fZDz0-t3094.0", "text": "In Niana Buddhism there's the tasata of all things, the satshnas of all things is identical to the shunyata, the emptiness of all things.", "start": 3094.0, "end": 3106.0}
+{"id": "9lmzJ9fZDz0-t3106.0", "text": "So come to the point of the realization that the satshnas...", "start": 3106.0, "end": 3113.0}
+{"id": "9lmzJ9fZDz0-t3113.0", "text": "What is is what it is and that's simply the nothingness of being.", "start": 3113.0, "end": 3121.0}
+{"id": "9lmzJ9fZDz0-t3121.0", "text": "It's like a womb, it's fakhandi, it keeps generating itself over and over again, but there is no why.", "start": 3121.0, "end": 3130.0}
+{"id": "9lmzJ9fZDz0-t3130.0", "text": "There is neither an origin or a telos.", "start": 3130.0, "end": 3134.0}
+{"id": "9lmzJ9fZDz0-t3134.0", "text": "Well the way we would word the question and why, how we would word it is, so everyone's heard of the Big Bang.", "start": 3134.0, "end": 3141.0}
+{"id": "9lmzJ9fZDz0-t3141.0", "text": "We can trace our origin back to the Big Bang and we are now...", "start": 3141.0, "end": 3146.0}
+{"id": "9lmzJ9fZDz0-t3146.0", "text": "We feel like we can actually address the question of what the Big Bang is.", "start": 3146.0, "end": 3152.0}
+{"id": "9lmzJ9fZDz0-t3152.0", "text": "You can say it literally in a Big Bang or do you say that's a metaphorical way now that physicists can handle the question of origin.", "start": 3152.0, "end": 3163.0}
+{"id": "9lmzJ9fZDz0-t3163.0", "text": "Well the Big Bang we can describe it mathematically, it's the creation of matter, energy, space and time.", "start": 3163.0, "end": 3171.0}
+{"id": "9lmzJ9fZDz0-t3171.0", "text": "But it wasn't a bang, that's what I'm saying.", "start": 3171.0, "end": 3174.0}
+{"id": "9lmzJ9fZDz0-t3174.0", "text": "Was there a noise?", "start": 3174.0, "end": 3176.0}
+{"id": "9lmzJ9fZDz0-t3176.0", "text": "It's still a metaphor.", "start": 3176.0, "end": 3178.0}
+{"id": "9lmzJ9fZDz0-t3178.0", "text": "So our big question, if we have an answer, how matter, energy, space and time were created, but we can trace ourselves back to a simpler state, smaller that we call the Big Bang.", "start": 3178.0, "end": 3192.0}
+{"id": "9lmzJ9fZDz0-t3192.0", "text": "But the next level of question which maps on to the sort of English version I gave that I thought everybody wondered about is why is there something rather than nothing.", "start": 3192.0, "end": 3203.0}
+{"id": "9lmzJ9fZDz0-t3203.0", "text": "It's the ultimate metaphysical question.", "start": 3203.0, "end": 3207.0}
+{"id": "9lmzJ9fZDz0-t3207.0", "text": "And of course if there were nothing we wouldn't be here to ask.", "start": 3207.0, "end": 3211.0}
+{"id": "9lmzJ9fZDz0-t3211.0", "text": "Well maybe there is nothing and that's why we're asking.", "start": 3211.0, "end": 3215.0}
+{"id": "9lmzJ9fZDz0-t3219.0", "text": "When I sensed that it was frustrated that we're not nailing down this...", "start": 3219.0, "end": 3224.0}
+{"id": "9lmzJ9fZDz0-t3224.0", "text": "No I was frustrated, I was just wondering, is there something more to the notion of mystery than what...", "start": 3224.0, "end": 3232.0}
+{"id": "9lmzJ9fZDz0-t3232.0", "text": "...seem to be happening which is essentially saying, well it's a mystery, like the mysteries we read because we don't have the answer yet, that when we have the answer then that stops being a mystery.", "start": 3232.0, "end": 3248.0}
+{"id": "9lmzJ9fZDz0-t3248.0", "text": "So now we focus on the next mystery and in science we move that way, we answer this and this then leads us to this other question.", "start": 3248.0, "end": 3256.0}
+{"id": "9lmzJ9fZDz0-t3256.0", "text": "So we keep answering mysteries, but is there something more fundamental about...", "start": 3256.0, "end": 3262.0}
+{"id": "9lmzJ9fZDz0-t3262.0", "text": "So why do we call it mystery as opposed to just calling, we don't have the answer yet.", "start": 3262.0, "end": 3268.0}
+{"id": "9lmzJ9fZDz0-t3268.0", "text": "Right, an unsolved problem.", "start": 3268.0, "end": 3271.0}
+{"id": "9lmzJ9fZDz0-t3271.0", "text": "As of now, it's an unsolved problem as of now.", "start": 3271.0, "end": 3274.0}
+{"id": "9lmzJ9fZDz0-t3274.0", "text": "I think a number of the comments also allude to the etymology of the word which was all about initiation.", "start": 3274.0, "end": 3287.0}
+{"id": "9lmzJ9fZDz0-t3287.0", "text": "And in a sense what you have been talking about both in the scientific and the mystical realm is that there is a kind of initiation.", "start": 3287.0, "end": 3294.0}
+{"id": "9lmzJ9fZDz0-t3294.0", "text": "It's not so much about the answer to the mystery but it's almost a way of experiencing and thinking.", "start": 3294.0, "end": 3300.0}
+{"id": "9lmzJ9fZDz0-t3300.0", "text": "I mean that's what's the scientific method, it's really more about an attitude than anything.", "start": 3300.0, "end": 3305.0}
+{"id": "9lmzJ9fZDz0-t3305.0", "text": "But I was trying to articulate something different, that the mystery isn't an unknowable X, that at some point will become unknowable and then we move on.", "start": 3305.0, "end": 3316.0}
+{"id": "9lmzJ9fZDz0-t3316.0", "text": "It may itself generate another question.", "start": 3316.0, "end": 3321.0}
+{"id": "9lmzJ9fZDz0-t3321.0", "text": "I was trying to elicit from the study of mysticism a different portrait of the mystery.", "start": 3321.0, "end": 3328.0}
+{"id": "9lmzJ9fZDz0-t3328.0", "text": "No, I understood that.", "start": 3328.0, "end": 3330.0}
+{"id": "9lmzJ9fZDz0-t3330.0", "text": "It's not religion the idea, for example of God that Michael mentioned, that's real mystery.", "start": 3330.0, "end": 3337.0}
+{"id": "9lmzJ9fZDz0-t3337.0", "text": "That there is no answer or solution to that and that you have to live with that.", "start": 3337.0, "end": 3345.0}
+{"id": "9lmzJ9fZDz0-t3345.0", "text": "Yeah, certainly.", "start": 3345.0, "end": 3346.0}
+{"id": "9lmzJ9fZDz0-t3346.0", "text": "Not just because you're too dumb but because it is an admitting.", "start": 3346.0, "end": 3349.0}
+{"id": "9lmzJ9fZDz0-t3349.0", "text": "Well, sure.", "start": 3349.0, "end": 3350.0}
+{"id": "9lmzJ9fZDz0-t3350.0", "text": "That's real mystery.", "start": 3350.0, "end": 3351.0}
+{"id": "9lmzJ9fZDz0-t3351.0", "text": "That it's not something you then find the answer and stops being one.", "start": 3351.0, "end": 3354.0}
+{"id": "9lmzJ9fZDz0-t3354.0", "text": "Right, in the Christian tradition.", "start": 3354.0, "end": 3356.0}
+{"id": "9lmzJ9fZDz0-t3356.0", "text": "That's where the arrogance comes in.", "start": 3356.0, "end": 3359.0}
+{"id": "9lmzJ9fZDz0-t3359.0", "text": "And arrogance is very important in science.", "start": 3359.0, "end": 3361.0}
+{"id": "9lmzJ9fZDz0-t3361.0", "text": "The idea that you could actually know something that you may not be able to but if you didn't have that hutzpah, if you didn't say, well I could figure out how the universe began or I could figure out if there's a multiverr.", "start": 3361.0, "end": 3376.0}
+{"id": "9lmzJ9fZDz0-t3376.0", "text": "Or I could figure out why there's something and nothing.", "start": 3376.0, "end": 3379.0}
+{"id": "9lmzJ9fZDz0-t3379.0", "text": "And I guess we don't know that we certainly don't know and we know from experience that most of our questions are the wrong questions.", "start": 3379.0, "end": 3387.0}
+{"id": "9lmzJ9fZDz0-t3387.0", "text": "But as we tell our students, the most important thing is asking the question.", "start": 3387.0, "end": 3391.0}
+{"id": "9lmzJ9fZDz0-t3391.0", "text": "And then that leads to another question.", "start": 3391.0, "end": 3394.0}
+{"id": "9lmzJ9fZDz0-t3394.0", "text": "And I guess some of them are unanswerable.", "start": 3394.0, "end": 3396.0}
+{"id": "9lmzJ9fZDz0-t3396.0", "text": "Or maybe we don't know that for sure.", "start": 3396.0, "end": 3399.0}
+{"id": "9lmzJ9fZDz0-t3399.0", "text": "But you're saying, I guess that's what you're saying.", "start": 3399.0, "end": 3403.0}
+{"id": "9lmzJ9fZDz0-t3403.0", "text": "Yeah, I think there's a difference.", "start": 3403.0, "end": 3405.0}
+{"id": "9lmzJ9fZDz0-t3405.0", "text": "I think mysticism embraces a kind of inherent unknowing.", "start": 3405.0, "end": 3410.0}
+{"id": "9lmzJ9fZDz0-t3410.0", "text": "Or let's go back to the language.", "start": 3410.0, "end": 3415.0}
+{"id": "9lmzJ9fZDz0-t3415.0", "text": "You know what?", "start": 3415.0, "end": 3416.0}
+{"id": "9lmzJ9fZDz0-t3416.0", "text": "I was thinking before as you were speaking.", "start": 3416.0, "end": 3418.0}
+{"id": "9lmzJ9fZDz0-t3418.0", "text": "Blanchot has this idea of the limit experience.", "start": 3418.0, "end": 3422.0}
+{"id": "9lmzJ9fZDz0-t3422.0", "text": "And correct me if I'm wrong, but I think this is unique to the human species.", "start": 3422.0, "end": 3427.0}
+{"id": "9lmzJ9fZDz0-t3427.0", "text": "And Blanchot says, we are capable of thinking that which exceeds thought.", "start": 3427.0, "end": 3434.0}
+{"id": "9lmzJ9fZDz0-t3434.0", "text": "We are capable of speaking of that which exceeds language.", "start": 3434.0, "end": 3438.0}
+{"id": "9lmzJ9fZDz0-t3438.0", "text": "And that seems to be something, you know, I think, distinctive.", "start": 3438.0, "end": 3444.0}
+{"id": "9lmzJ9fZDz0-t3444.0", "text": "And so it's in that sense that mysticism speaks of the unknowability.", "start": 3444.0, "end": 3451.0}
+{"id": "9lmzJ9fZDz0-t3451.0", "text": "Or the more technical term is the apophatic, apophosis.", "start": 3451.0, "end": 3456.0}
+{"id": "9lmzJ9fZDz0-t3456.0", "text": "But apophosis, which means unspeaking, is a gesture of speaking.", "start": 3456.0, "end": 3461.0}
+{"id": "9lmzJ9fZDz0-t3461.0", "text": "It's speaking not as opposed to not speaking.", "start": 3461.0, "end": 3466.0}
+{"id": "9lmzJ9fZDz0-t3466.0", "text": "If mystics truly adhere to silence, then we would have nothing to talk about in relationship to them.", "start": 3466.0, "end": 3474.0}
+{"id": "9lmzJ9fZDz0-t3474.0", "text": "So in fact, you know, through the ages, mystics have tried to articulate this unspeakability, this inessibility.", "start": 3474.0, "end": 3484.0}
+{"id": "9lmzJ9fZDz0-t3484.0", "text": "But it's a gesture of speaking, just like analogously, the thinking of the mystery is a gesture of thought.", "start": 3484.0, "end": 3492.0}
+{"id": "9lmzJ9fZDz0-t3492.0", "text": "It's a path of thinking.", "start": 3492.0, "end": 3495.0}
+{"id": "9lmzJ9fZDz0-t3495.0", "text": "That's like what Warz wrote in the intimations of immortality.", "start": 3495.0, "end": 3498.0}
+{"id": "9lmzJ9fZDz0-t3498.0", "text": "So we thought that lie too deep for words.", "start": 3498.0, "end": 3500.0}
+{"id": "9lmzJ9fZDz0-t3500.0", "text": "Yeah, it's a state.", "start": 3500.0, "end": 3501.0}
+{"id": "9lmzJ9fZDz0-t3501.0", "text": "I mean, Warz wrote this intensely interested in states of consciousness that are inaccessible to us.", "start": 3501.0, "end": 3507.0}
+{"id": "9lmzJ9fZDz0-t3507.0", "text": "That idiot boy is, you know, is a poem that he loved that his friends hated.", "start": 3507.0, "end": 3512.0}
+{"id": "9lmzJ9fZDz0-t3512.0", "text": "But when the idiot boy speaks, Warz wrote was the first one to put the word burr into English poetry.", "start": 3512.0, "end": 3517.0}
+{"id": "9lmzJ9fZDz0-t3517.0", "text": "I went to the OED for that one.", "start": 3517.0, "end": 3519.0}
+{"id": "9lmzJ9fZDz0-t3519.0", "text": "But that's just a sound rather than a signifier of sense.", "start": 3519.0, "end": 3524.0}
+{"id": "9lmzJ9fZDz0-t3524.0", "text": "Finally, when the idiot boy comes out of the woods at night, I mean, that's a sort of little epic right there.", "start": 3524.0, "end": 3529.0}
+{"id": "9lmzJ9fZDz0-t3529.0", "text": "And his mother says, what did you see?", "start": 3529.0, "end": 3531.0}
+{"id": "9lmzJ9fZDz0-t3531.0", "text": "He said, the cocks did crow to woo to woo, and the sun did shine so cold.", "start": 3531.0, "end": 3537.0}
+{"id": "9lmzJ9fZDz0-t3537.0", "text": "Now that's language.", "start": 3537.0, "end": 3538.0}
+{"id": "9lmzJ9fZDz0-t3538.0", "text": "It's a bit of a riddle.", "start": 3538.0, "end": 3539.0}
+{"id": "9lmzJ9fZDz0-t3539.0", "text": "In other words, I heard the owls and I saw the moon, and he's relating it in the way that the chimpanzee made the word out of candy water, made the word candy water to describe watermelon.", "start": 3539.0, "end": 3553.0}
+{"id": "9lmzJ9fZDz0-t3553.0", "text": "You can kind of do the math, but the mystery of what's going on in that consciousness is inaccessible at that limit of language.", "start": 3553.0, "end": 3562.0}
+{"id": "9lmzJ9fZDz0-t3562.0", "text": "So that what in Warz was intensely interested in mad women and idiot boys and people at the very end or very limits of human language who makes sounds that may or may not be language.", "start": 3562.0, "end": 3577.0}
+{"id": "9lmzJ9fZDz0-t3577.0", "text": "While Stevens takes us into the snowman, who has a mind of winter and can see nothing that is not there and then nothing that is, which is very close to your territory.", "start": 3577.0, "end": 3588.0}
+{"id": "9lmzJ9fZDz0-t3588.0", "text": "But what I want to say is it takes a human imagination to be interested in that kind of problem and want to push language to the point where nothing both signifies something that's positive and something that is completely the opposite of positive in the very same word.", "start": 3588.0, "end": 3604.0}
+{"id": "9lmzJ9fZDz0-t3604.0", "text": "And to ask us to think about a state of mind that can do both things at once. That's a paradox, that's a mystery, and that's poetry from human imagination wondering how far words can become explanatory instruments, when they just become sounds, and when they", "start": 3604.0, "end": 3621.0}
+{"id": "9lmzJ9fZDz0-t3621.0", "text": "recede from legibility altogether into something that we would call mystery because it is the kind of initiation right into something that we don't have access to.", "start": 3621.0, "end": 3631.0}
+{"id": "9lmzJ9fZDz0-t3631.0", "text": "I think mystery essentially means etymologically, it's the closed eyes of the hierophants that are turned inward.", "start": 3631.0, "end": 3639.0}
+{"id": "9lmzJ9fZDz0-t3639.0", "text": "And we just see the spectacle, is that right? I mean, I wouldn't know.", "start": 3639.0, "end": 3643.0}
+{"id": "9lmzJ9fZDz0-t3643.0", "text": "Oh, okay, no, I'm happy to be corrected. But I thought, I mean, yeah. The eyes are the mouth, there's a debate. Yeah, but whatever it is, it's closed in.", "start": 3643.0, "end": 3651.0}
+{"id": "9lmzJ9fZDz0-t3651.0", "text": "I mean, so you see the spectacle of something to which you have no access.", "start": 3651.0, "end": 3655.0}
+{"id": "9lmzJ9fZDz0-t3655.0", "text": "What is language? Always a limit? I mean, can't you imagine, is it a permanent limitation or maybe we'll figure out a way language turns out 200 years from now to be very primitive, that actually what we do is we have a box, which is a computer and you put it on your head", "start": 3655.0, "end": 3672.0}
+{"id": "9lmzJ9fZDz0-t3672.0", "text": "and it sends electrical impulses. That's the interest in symbolic form that words would have.", "start": 3672.0, "end": 3677.0}
+{"id": "9lmzJ9fZDz0-t3677.0", "text": "And so it's not language anymore, but we're communicating on it.", "start": 3677.0, "end": 3680.0}
+{"id": "9lmzJ9fZDz0-t3680.0", "text": "But it's a symbolic form, yeah. So maybe we won't need that at all if we get to the perfect technology that dispenses with language and then dispenses with us.", "start": 3680.0, "end": 3689.0}
+{"id": "9lmzJ9fZDz0-t3689.0", "text": "But on this question of inaccessibility, it's interesting to see the slides between something being inaccessible to language and expression in a language and being inexorable.", "start": 3689.0, "end": 3701.0}
+{"id": "9lmzJ9fZDz0-t3701.0", "text": "And being inexorable period. Those are two very different things.", "start": 3701.0, "end": 3706.0}
+{"id": "9lmzJ9fZDz0-t3706.0", "text": "So I have access to the way things feel to me, which I can't put into words, but I have no problem of access.", "start": 3706.0, "end": 3716.0}
+{"id": "9lmzJ9fZDz0-t3716.0", "text": "I only have a problem of access when it's someone else's feelings.", "start": 3716.0, "end": 3720.0}
+{"id": "9lmzJ9fZDz0-t3720.0", "text": "As William James said, the breach between one consciousness and another is the deepest breach in all of nature.", "start": 3720.0, "end": 3726.0}
+{"id": "9lmzJ9fZDz0-t3726.0", "text": "And he was right. But that isn't just created by the fact that some things are hard to put into words.", "start": 3726.0, "end": 3735.0}
+{"id": "9lmzJ9fZDz0-t3735.0", "text": "It's something else. And I would also suggest that worrying about that.", "start": 3735.0, "end": 3742.0}
+{"id": "9lmzJ9fZDz0-t3742.0", "text": "We don't always need to go to the thing that resists rationality, the areas of madness and disorder and so on.", "start": 3742.0, "end": 3751.0}
+{"id": "9lmzJ9fZDz0-t3751.0", "text": "And even things that are perfectly orderly can't be put into words sometimes. It's kind of strange.", "start": 3751.0, "end": 3756.0}
+{"id": "9lmzJ9fZDz0-t3756.0", "text": "And when you were asking about what are the things that really mystify us and your one is why are we all here?", "start": 3756.0, "end": 3766.0}
+{"id": "9lmzJ9fZDz0-t3766.0", "text": "And I can tell you that mine, and it's not an unanswered problem, I don't think.", "start": 3766.0, "end": 3773.0}
+{"id": "9lmzJ9fZDz0-t3773.0", "text": "It is really just that I don't understand point of view.", "start": 3773.0, "end": 3778.0}
+{"id": "9lmzJ9fZDz0-t3778.0", "text": "And I said in my little blurb that I think about it all the time.", "start": 3778.0, "end": 3781.0}
+{"id": "9lmzJ9fZDz0-t3781.0", "text": "And I just want to share with you how I knew I was a philosopher without knowing what a philosopher was at the age of ten,", "start": 3781.0, "end": 3787.0}
+{"id": "9lmzJ9fZDz0-t3787.0", "text": "just sitting on the playground with my little friend Susie McDonald.", "start": 3787.0, "end": 3791.0}
+{"id": "9lmzJ9fZDz0-t3791.0", "text": "And I suddenly had this moment when I said, oh my God, I can see her eyes.", "start": 3791.0, "end": 3798.0}
+{"id": "9lmzJ9fZDz0-t3798.0", "text": "But she can't see her eyes. And she's looking at my eyes and I can't see my eyes.", "start": 3798.0, "end": 3805.0}
+{"id": "9lmzJ9fZDz0-t3805.0", "text": "And how strange it is that we have this vantage point which invites us to think we're disembodied,", "start": 3805.0, "end": 3813.0}
+{"id": "9lmzJ9fZDz0-t3813.0", "text": "but it's precisely an embodied point of view.", "start": 3813.0, "end": 3815.0}
+{"id": "9lmzJ9fZDz0-t3815.0", "text": "But it's simultaneous. It's a lot like what you were talking about.", "start": 3815.0, "end": 3820.0}
+{"id": "9lmzJ9fZDz0-t3820.0", "text": "You simultaneously get that you get it, but know that you can't get it at the same time.", "start": 3820.0, "end": 3825.0}
+{"id": "9lmzJ9fZDz0-t3825.0", "text": "So I think almost all interpersonal engagements has this dimension of not fully grasping", "start": 3825.0, "end": 3832.0}
+{"id": "9lmzJ9fZDz0-t3832.0", "text": "and knowing that you don't fully grasp the other point of view,", "start": 3832.0, "end": 3835.0}
+{"id": "9lmzJ9fZDz0-t3835.0", "text": "partly because you know how much is there in your own that can't be grasped.", "start": 3835.0, "end": 3838.0}
+{"id": "9lmzJ9fZDz0-t3838.0", "text": "But that's only temporal because Galileo invented the mirror", "start": 3838.0, "end": 3845.0}
+{"id": "9lmzJ9fZDz0-t3845.0", "text": "so that Susie McDonald could see her eyes.", "start": 3845.0, "end": 3849.0}
+{"id": "9lmzJ9fZDz0-t3849.0", "text": "But I'm speaking metaphorically, so Galileo said, measure what's measurable and make measurable that which is not.", "start": 3849.0, "end": 3857.0}
+{"id": "9lmzJ9fZDz0-t3857.0", "text": "And so that's why I ask the question about language is so we can't perfectly communicate my consciousness to you and vice versa.", "start": 3857.0, "end": 3865.0}
+{"id": "9lmzJ9fZDz0-t3865.0", "text": "But we invent things that allow us to extend our capabilities and we continue to do that.", "start": 3865.0, "end": 3872.0}
+{"id": "9lmzJ9fZDz0-t3872.0", "text": "The mirror is a trivial one.", "start": 3872.0, "end": 3875.0}
+{"id": "9lmzJ9fZDz0-t3875.0", "text": "But that's really important though. I think it's not seeing your eyes. I beg to differ.", "start": 3875.0, "end": 3881.0}
+{"id": "9lmzJ9fZDz0-t3881.0", "text": "If I put a mirror up, I can see my eyes.", "start": 3881.0, "end": 3884.0}
+{"id": "9lmzJ9fZDz0-t3884.0", "text": "You can see what they look like.", "start": 3884.0, "end": 3886.0}
+{"id": "9lmzJ9fZDz0-t3886.0", "text": "Oh, you might see into your eyes.", "start": 3886.0, "end": 3888.0}
+{"id": "9lmzJ9fZDz0-t3888.0", "text": "See your eyes.", "start": 3888.0, "end": 3890.0}
+{"id": "9lmzJ9fZDz0-t3890.0", "text": "That's the difference between science and philosophy.", "start": 3890.0, "end": 3894.0}
+{"id": "9lmzJ9fZDz0-t3894.0", "text": "But we're actually getting there because if you take Galileo's words seriously,", "start": 3894.0, "end": 3901.0}
+{"id": "9lmzJ9fZDz0-t3901.0", "text": "measure what is measurable and make measurable that which is not measurable.", "start": 3901.0, "end": 3906.0}
+{"id": "9lmzJ9fZDz0-t3906.0", "text": "So you have to tell me, oh, I didn't just want to see my own eyes or I wanted to see into the eyes.", "start": 3906.0, "end": 3913.0}
+{"id": "9lmzJ9fZDz0-t3913.0", "text": "And then I could ask you, well, could you be a little more specific there?", "start": 3913.0, "end": 3917.0}
+{"id": "9lmzJ9fZDz0-t3917.0", "text": "I didn't say I wanted to. I said I couldn't. And I was happy with that.", "start": 3917.0, "end": 3921.0}
+{"id": "9lmzJ9fZDz0-t3921.0", "text": "Well, but I was going to say, oh, you're happy with that.", "start": 3921.0, "end": 3923.0}
+{"id": "9lmzJ9fZDz0-t3923.0", "text": "Well, I'm not happy with that.", "start": 3923.0, "end": 3924.0}
+{"id": "9lmzJ9fZDz0-t3924.0", "text": "See, that's the control thing I was talking about.", "start": 3924.0, "end": 3926.0}
+{"id": "9lmzJ9fZDz0-t3926.0", "text": "Galileo is not happy with that.", "start": 3926.0, "end": 3928.0}
+{"id": "9lmzJ9fZDz0-t3928.0", "text": "And I'm not happy with the...", "start": 3928.0, "end": 3930.0}
+{"id": "9lmzJ9fZDz0-t3930.0", "text": "See, it's the dolphin's eyes. You're seeing yourself ultimately, right?", "start": 3930.0, "end": 3934.0}
+{"id": "9lmzJ9fZDz0-t3934.0", "text": "You're projecting everything into looking into her eyes.", "start": 3934.0, "end": 3939.0}
+{"id": "9lmzJ9fZDz0-t3939.0", "text": "Isn't that the ultimate limitation that you're only seeing yourself reflected back literally,", "start": 3939.0, "end": 3945.0}
+{"id": "9lmzJ9fZDz0-t3945.0", "text": "but also that you're imagining things that are coming from you?", "start": 3945.0, "end": 3950.0}
+{"id": "9lmzJ9fZDz0-t3950.0", "text": "You're projecting things from your own case because you can't take up someone else's point of view.", "start": 3950.0, "end": 3955.0}
+{"id": "9lmzJ9fZDz0-t3955.0", "text": "It's very profound that you can not do it.", "start": 3955.0, "end": 3958.0}
+{"id": "9lmzJ9fZDz0-t3958.0", "text": "And that's mysterious to me, but it's not because there's an unanswered question.", "start": 3958.0, "end": 3963.0}
+{"id": "9lmzJ9fZDz0-t3963.0", "text": "It's just a brute fact.", "start": 3963.0, "end": 3965.0}
+{"id": "9lmzJ9fZDz0-t3965.0", "text": "But I'm still emistified.", "start": 3965.0, "end": 3967.0}
+{"id": "9lmzJ9fZDz0-t3967.0", "text": "But is it a fact forever?", "start": 3967.0, "end": 3969.0}
+{"id": "9lmzJ9fZDz0-t3969.0", "text": "Because you're just building a...", "start": 3969.0, "end": 3972.0}
+{"id": "9lmzJ9fZDz0-t3972.0", "text": "You're building a problem with Carolyn said, which is that we can't...", "start": 3972.0, "end": 3977.0}
+{"id": "9lmzJ9fZDz0-t3977.0", "text": "Language doesn't communicate everything that's up here.", "start": 3977.0, "end": 3981.0}
+{"id": "9lmzJ9fZDz0-t3981.0", "text": "But we're not done. We invented language.", "start": 3981.0, "end": 3984.0}
+{"id": "9lmzJ9fZDz0-t3984.0", "text": "We can invent something else where we...", "start": 3984.0, "end": 3987.0}
+{"id": "9lmzJ9fZDz0-t3987.0", "text": "You just have to watch Star Trek.", "start": 3987.0, "end": 3989.0}
+{"id": "9lmzJ9fZDz0-t3989.0", "text": "You put the Vulcan mind meld on...", "start": 3989.0, "end": 3994.0}
+{"id": "9lmzJ9fZDz0-t3994.0", "text": "That we can...", "start": 3994.0, "end": 3997.0}
+{"id": "9lmzJ9fZDz0-t3997.0", "text": "It's not a permanent limitation, is it?", "start": 3997.0, "end": 4000.0}
+{"id": "9lmzJ9fZDz0-t4000.0", "text": "Well, look, you can try lots of things.", "start": 4000.0, "end": 4003.0}
+{"id": "9lmzJ9fZDz0-t4003.0", "text": "You could try philosophers dream up impossible ghoulish experiments like...", "start": 4003.0, "end": 4009.0}
+{"id": "9lmzJ9fZDz0-t4009.0", "text": "What is this one called?", "start": 4009.0, "end": 4011.0}
+{"id": "9lmzJ9fZDz0-t4011.0", "text": "Where the states of the body next to me are ones that I'm now able to track with my brain", "start": 4011.0, "end": 4019.0}
+{"id": "9lmzJ9fZDz0-t4019.0", "text": "because of some hookup so that now I can see what it's like for another.", "start": 4019.0, "end": 4023.0}
+{"id": "9lmzJ9fZDz0-t4023.0", "text": "I use my brain, but I'm getting neurological messages from another body.", "start": 4023.0, "end": 4027.0}
+{"id": "9lmzJ9fZDz0-t4027.0", "text": "That's the kind of thing you're imagining.", "start": 4027.0, "end": 4029.0}
+{"id": "9lmzJ9fZDz0-t4029.0", "text": "And I just am not sure when you're imagining things like this,", "start": 4029.0, "end": 4033.0}
+{"id": "9lmzJ9fZDz0-t4033.0", "text": "whether you're imagining that it's yourself experiencing another's body,", "start": 4033.0, "end": 4036.0}
+{"id": "9lmzJ9fZDz0-t4036.0", "text": "or you cease to feel like yourself.", "start": 4036.0, "end": 4038.0}
+{"id": "9lmzJ9fZDz0-t4038.0", "text": "And so I think there are real problems about what it is to even identify a point of view", "start": 4038.0, "end": 4043.0}
+{"id": "9lmzJ9fZDz0-t4043.0", "text": "as you have the point of view and whether that could be a stable thing", "start": 4043.0, "end": 4047.0}
+{"id": "9lmzJ9fZDz0-t4047.0", "text": "when you're imagining ways of having access to a point of view not your own", "start": 4047.0, "end": 4054.0}
+{"id": "9lmzJ9fZDz0-t4054.0", "text": "and just the way you have an access to your own point of view.", "start": 4054.0, "end": 4057.0}
+{"id": "9lmzJ9fZDz0-t4057.0", "text": "That's very murky territory because you'd have to distinguish the others as the others.", "start": 4057.0, "end": 4066.0}
+{"id": "9lmzJ9fZDz0-t4066.0", "text": "What's sort of interesting if you look at evolution on Earth,", "start": 4066.0, "end": 4072.0}
+{"id": "9lmzJ9fZDz0-t4072.0", "text": "it started with single-celled animals, or single-celled things,", "start": 4072.0, "end": 4076.0}
+{"id": "9lmzJ9fZDz0-t4076.0", "text": "and then they decided, you know, striving to survive and all that.", "start": 4076.0, "end": 4082.0}
+{"id": "9lmzJ9fZDz0-t4082.0", "text": "And then they decided that coming together was more valuable", "start": 4082.0, "end": 4086.0}
+{"id": "9lmzJ9fZDz0-t4086.0", "text": "and that even though you were going to sacrifice your self-ness,", "start": 4086.0, "end": 4091.0}
+{"id": "9lmzJ9fZDz0-t4091.0", "text": "if you came together you could compete for resources better.", "start": 4091.0, "end": 4096.0}
+{"id": "9lmzJ9fZDz0-t4096.0", "text": "I mean, I'm not sure they decided that, but it was decided.", "start": 4096.0, "end": 4099.0}
+{"id": "9lmzJ9fZDz0-t4099.0", "text": "People from the other universe on that computer, no kids.", "start": 4099.0, "end": 4103.0}
+{"id": "9lmzJ9fZDz0-t4103.0", "text": "Yeah, the kids decided it.", "start": 4103.0, "end": 4106.0}
+{"id": "9lmzJ9fZDz0-t4106.0", "text": "But aren't we, do we think it's stopped right here that we're,", "start": 4106.0, "end": 4110.0}
+{"id": "9lmzJ9fZDz0-t4110.0", "text": "this is the biggest entity that's going to be made,", "start": 4110.0, "end": 4114.0}
+{"id": "9lmzJ9fZDz0-t4114.0", "text": "that we're not going to make bigger things where we...", "start": 4114.0, "end": 4116.0}
+{"id": "9lmzJ9fZDz0-t4116.0", "text": "No, that's good. I don't want to dominate too much,", "start": 4116.0, "end": 4118.0}
+{"id": "9lmzJ9fZDz0-t4118.0", "text": "and we should probably get back to mystery,", "start": 4118.0, "end": 4120.0}
+{"id": "9lmzJ9fZDz0-t4120.0", "text": "but I'll just say I work on group agency.", "start": 4120.0, "end": 4123.0}
+{"id": "9lmzJ9fZDz0-t4123.0", "text": "I think human beings can function as of from one point of view,", "start": 4123.0, "end": 4127.0}
+{"id": "9lmzJ9fZDz0-t4127.0", "text": "in a rational sense, or a practical sense.", "start": 4127.0, "end": 4130.0}
+{"id": "9lmzJ9fZDz0-t4130.0", "text": "A philosophy department can reason as one.", "start": 4130.0, "end": 4133.0}
+{"id": "9lmzJ9fZDz0-t4133.0", "text": "That I've never seen.", "start": 4133.0, "end": 4135.0}
+{"id": "9lmzJ9fZDz0-t4135.0", "text": "Well, I taught my...", "start": 4135.0, "end": 4136.0}
+{"id": "9lmzJ9fZDz0-t4136.0", "text": "A physics department can't, I should say.", "start": 4136.0, "end": 4138.0}
+{"id": "9lmzJ9fZDz0-t4138.0", "text": "I taught my department that there's a difference between voting", "start": 4138.0, "end": 4141.0}
+{"id": "9lmzJ9fZDz0-t4141.0", "text": "and reasoning as one.", "start": 4141.0, "end": 4143.0}
+{"id": "9lmzJ9fZDz0-t4143.0", "text": "It's impossible.", "start": 4143.0, "end": 4144.0}
+{"id": "9lmzJ9fZDz0-t4144.0", "text": "Yeah, but they can.", "start": 4144.0, "end": 4146.0}
+{"id": "9lmzJ9fZDz0-t4146.0", "text": "And so you can think of individuals as rational agents with a...", "start": 4146.0, "end": 4153.0}
+{"id": "9lmzJ9fZDz0-t4153.0", "text": "Are we on?", "start": 4153.0, "end": 4154.0}
+{"id": "9lmzJ9fZDz0-t4154.0", "text": "Yeah, good.", "start": 4154.0, "end": 4155.0}
+{"id": "9lmzJ9fZDz0-t4155.0", "text": "Okay, as rational agents, as things with a point of view", "start": 4155.0, "end": 4158.0}
+{"id": "9lmzJ9fZDz0-t4158.0", "text": "in which they deliberate and act,", "start": 4158.0, "end": 4160.0}
+{"id": "9lmzJ9fZDz0-t4160.0", "text": "and those don't have to be human size, they don't.", "start": 4160.0, "end": 4163.0}
+{"id": "9lmzJ9fZDz0-t4163.0", "text": "And so I'm not saying that there are in super-group barriers", "start": 4163.0, "end": 4166.0}
+{"id": "9lmzJ9fZDz0-t4166.0", "text": "between human beings, but I am saying that that is not the only notion", "start": 4166.0, "end": 4170.0}
+{"id": "9lmzJ9fZDz0-t4170.0", "text": "of a point of view.", "start": 4170.0, "end": 4171.0}
+{"id": "9lmzJ9fZDz0-t4171.0", "text": "And this other notion of a point of view,", "start": 4171.0, "end": 4173.0}
+{"id": "9lmzJ9fZDz0-t4173.0", "text": "when I had my crisis on the playground, is a different kind.", "start": 4173.0, "end": 4177.0}
+{"id": "9lmzJ9fZDz0-t4177.0", "text": "And finding out that organisms can glom on to be larger units", "start": 4177.0, "end": 4180.0}
+{"id": "9lmzJ9fZDz0-t4180.0", "text": "is not the same thing as contemplating how one point of view can think another.", "start": 4180.0, "end": 4186.0}
+{"id": "9lmzJ9fZDz0-t4186.0", "text": "One way one point of view can think another is through words and literature.", "start": 4186.0, "end": 4190.0}
+{"id": "9lmzJ9fZDz0-t4190.0", "text": "One thing literature does to you as a reader is that you inhabit the subjectivity", "start": 4190.0, "end": 4197.0}
+{"id": "9lmzJ9fZDz0-t4197.0", "text": "of the person who's writing while you read, I mean, especially for novels.", "start": 4197.0, "end": 4201.0}
+{"id": "9lmzJ9fZDz0-t4201.0", "text": "Well, that's what provoked my comment when you were talking about what is", "start": 4201.0, "end": 4204.0}
+{"id": "9lmzJ9fZDz0-t4204.0", "text": "and isn't accessible to language.", "start": 4204.0, "end": 4206.0}
+{"id": "9lmzJ9fZDz0-t4206.0", "text": "That... I mean, it's imperfect.", "start": 4206.0, "end": 4207.0}
+{"id": "9lmzJ9fZDz0-t4207.0", "text": "And you would say that everyone will read a Dickens novel differently,", "start": 4207.0, "end": 4212.0}
+{"id": "9lmzJ9fZDz0-t4212.0", "text": "but everyone will have the experience of what it's like to be...", "start": 4212.0, "end": 4217.0}
+{"id": "9lmzJ9fZDz0-t4217.0", "text": "what it's like to be Pip and to see the world from his point of view.", "start": 4217.0, "end": 4221.0}
+{"id": "9lmzJ9fZDz0-t4221.0", "text": "So it's not empathy, but it's sympathy.", "start": 4221.0, "end": 4224.0}
+{"id": "9lmzJ9fZDz0-t4224.0", "text": "It's an extension beyond your normal frame of understanding.", "start": 4224.0, "end": 4228.0}
+{"id": "9lmzJ9fZDz0-t4228.0", "text": "Even that mirror scene.", "start": 4228.0, "end": 4230.0}
+{"id": "9lmzJ9fZDz0-t4230.0", "text": "I mean, Galileo may have invented mirrors,", "start": 4230.0, "end": 4232.0}
+{"id": "9lmzJ9fZDz0-t4232.0", "text": "but mirrors were not popularly available, widely available,", "start": 4232.0, "end": 4236.0}
+{"id": "9lmzJ9fZDz0-t4236.0", "text": "until the 1830s when they figured out how to do cheap backing.", "start": 4236.0, "end": 4240.0}
+{"id": "9lmzJ9fZDz0-t4240.0", "text": "Before that, you had to go to Versailles, and that was a very exclusive invitation.", "start": 4240.0, "end": 4245.0}
+{"id": "9lmzJ9fZDz0-t4245.0", "text": "And it was really, you know, Louis XIV saying,", "start": 4245.0, "end": 4249.0}
+{"id": "9lmzJ9fZDz0-t4249.0", "text": "look at all my mirrors, you Monarchs, and, you know, suck on that,", "start": 4249.0, "end": 4254.0}
+{"id": "9lmzJ9fZDz0-t4254.0", "text": "because I have more mirrors than anybody.", "start": 4254.0, "end": 4257.0}
+{"id": "9lmzJ9fZDz0-t4257.0", "text": "Milton was very interested in a mirror scene in Paradise Lost.", "start": 4257.0, "end": 4261.0}
+{"id": "9lmzJ9fZDz0-t4261.0", "text": "Before Eve is taken to Adam, she wakes up in Eden", "start": 4261.0, "end": 4266.0}
+{"id": "9lmzJ9fZDz0-t4266.0", "text": "and looks at a pool of water and doesn't recognize her reflection as herself", "start": 4266.0, "end": 4272.0}
+{"id": "9lmzJ9fZDz0-t4272.0", "text": "and falls in love with it.", "start": 4272.0, "end": 4274.0}
+{"id": "9lmzJ9fZDz0-t4274.0", "text": "Now, there are lots of ways to read that scene.", "start": 4274.0, "end": 4277.0}
+{"id": "9lmzJ9fZDz0-t4277.0", "text": "The default position for a very long time is, oh, it's narcissism.", "start": 4277.0, "end": 4280.0}
+{"id": "9lmzJ9fZDz0-t4280.0", "text": "It shows that she's fallen before she falls.", "start": 4280.0, "end": 4283.0}
+{"id": "9lmzJ9fZDz0-t4283.0", "text": "But another way to see that is that she actually sees a female creature in nature", "start": 4283.0, "end": 4288.0}
+{"id": "9lmzJ9fZDz0-t4288.0", "text": "before she's taken into the all-male world of creation.", "start": 4288.0, "end": 4292.0}
+{"id": "9lmzJ9fZDz0-t4292.0", "text": "Mary Shelley was really interested in this because she has the creature in Frankenstein", "start": 4292.0, "end": 4297.0}
+{"id": "9lmzJ9fZDz0-t4297.0", "text": "first behold what he looks like to everyone else in a repetition of that mirror scene.", "start": 4297.0, "end": 4302.0}
+{"id": "9lmzJ9fZDz0-t4302.0", "text": "The creature looks at himself in a pool of water in a pigsty, next to the pigsty,", "start": 4302.0, "end": 4307.0}
+{"id": "9lmzJ9fZDz0-t4307.0", "text": "where he's been living and sees that he is hideously different", "start": 4307.0, "end": 4311.0}
+{"id": "9lmzJ9fZDz0-t4311.0", "text": "from every other human being that he's encountered,", "start": 4311.0, "end": 4314.0}
+{"id": "9lmzJ9fZDz0-t4314.0", "text": "and he said, I was mortified by my deformity.", "start": 4314.0, "end": 4318.0}
+{"id": "9lmzJ9fZDz0-t4318.0", "text": "And deformity is a relative term, but mortified means that he was killed.", "start": 4318.0, "end": 4322.0}
+{"id": "9lmzJ9fZDz0-t4322.0", "text": "I mean, he understood that he was dead in the world because of that.", "start": 4322.0, "end": 4326.0}
+{"id": "9lmzJ9fZDz0-t4326.0", "text": "In autobiography, Wordsworth has himself compare what it is to try to write your autobiography", "start": 4326.0, "end": 4333.0}
+{"id": "9lmzJ9fZDz0-t4333.0", "text": "to discover the mystery of your past, to hanging over the side of the boat", "start": 4333.0, "end": 4337.0}
+{"id": "9lmzJ9fZDz0-t4337.0", "text": "and trying to see down to the past years like looking down to the bottom of the lake.", "start": 4337.0, "end": 4344.0}
+{"id": "9lmzJ9fZDz0-t4344.0", "text": "But the kicker, as you can see, is you can't separate what's at the bottom", "start": 4344.0, "end": 4348.0}
+{"id": "9lmzJ9fZDz0-t4348.0", "text": "from the reflection of yourself looking for what's at the bottom.", "start": 4348.0, "end": 4352.0}
+{"id": "9lmzJ9fZDz0-t4352.0", "text": "So even mirrors, which would seem to promise a kind of clear view of the self,", "start": 4352.0, "end": 4357.0}
+{"id": "9lmzJ9fZDz0-t4357.0", "text": "especially the eyes, are very complicated by the Heisenberg principle of catching yourself", "start": 4357.0, "end": 4366.0}
+{"id": "9lmzJ9fZDz0-t4366.0", "text": "in the motion of desiring to see yourself.", "start": 4366.0, "end": 4369.0}
+{"id": "9lmzJ9fZDz0-t4369.0", "text": "And those are inextricable. And that's a narrative issue again.", "start": 4369.0, "end": 4373.0}
+{"id": "9lmzJ9fZDz0-t4373.0", "text": "So, yeah, I'm caught by what a precocious ten-year-old you were,", "start": 4373.0, "end": 4378.0}
+{"id": "9lmzJ9fZDz0-t4378.0", "text": "that you really had a vocational moment.", "start": 4378.0, "end": 4381.0}
+{"id": "9lmzJ9fZDz0-t4381.0", "text": "That's great. I mean, that's a peculiar.", "start": 4381.0, "end": 4386.0}
+{"id": "9lmzJ9fZDz0-t4386.0", "text": "Well, when you're actually writing a crime-alver mystery, one of the goals,", "start": 4386.0, "end": 4393.0}
+{"id": "9lmzJ9fZDz0-t4393.0", "text": "inevitably, particularly because they do derive from sensation novels, you know,", "start": 4393.0, "end": 4397.0}
+{"id": "9lmzJ9fZDz0-t4397.0", "text": "if you can, the Moonstone, through the first mystery novel,", "start": 4397.0, "end": 4400.0}
+{"id": "9lmzJ9fZDz0-t4400.0", "text": "the Kowlans who wrote sensation novels. And the idea, you know,", "start": 4400.0, "end": 4403.0}
+{"id": "9lmzJ9fZDz0-t4403.0", "text": "behind the name of a sensation novel that you would be held in its grips.", "start": 4403.0, "end": 4407.0}
+{"id": "9lmzJ9fZDz0-t4407.0", "text": "So the goal with characters, particularly if you have a main character,", "start": 4407.0, "end": 4411.0}
+{"id": "9lmzJ9fZDz0-t4411.0", "text": "first person, is to, you need the reader to identify with that character,", "start": 4411.0, "end": 4416.0}
+{"id": "9lmzJ9fZDz0-t4416.0", "text": "especially if they're going to dark places.", "start": 4416.0, "end": 4419.0}
+{"id": "9lmzJ9fZDz0-t4419.0", "text": "So the goal there is to not cut off any access points to,", "start": 4419.0, "end": 4424.0}
+{"id": "9lmzJ9fZDz0-t4424.0", "text": "you're trying to keep the narrator, the protagonist,", "start": 4424.0, "end": 4428.0}
+{"id": "9lmzJ9fZDz0-t4428.0", "text": "you're not trying to be too specific with these novels,", "start": 4428.0, "end": 4432.0}
+{"id": "9lmzJ9fZDz0-t4432.0", "text": "because you want the reader to fill it with him or herself.", "start": 4432.0, "end": 4436.0}
+{"id": "9lmzJ9fZDz0-t4436.0", "text": "And therefore they become the solver of the mystery too, and therefore they", "start": 4436.0, "end": 4440.0}
+{"id": "9lmzJ9fZDz0-t4440.0", "text": "undergo, as the protagonist, the realization that there are these larger mysteries.", "start": 4440.0, "end": 4444.0}
+{"id": "9lmzJ9fZDz0-t4444.0", "text": "So it is like that's sort of the trick or goal.", "start": 4444.0, "end": 4447.0}
+{"id": "9lmzJ9fZDz0-t4447.0", "text": "One of the reasons in literature right now, the unlikable character problem", "start": 4447.0, "end": 4451.0}
+{"id": "9lmzJ9fZDz0-t4451.0", "text": "has become a major one, and that's that moment when the reader says,", "start": 4451.0, "end": 4455.0}
+{"id": "9lmzJ9fZDz0-t4455.0", "text": "no, no, no, and that's fascinating as a writer,", "start": 4455.0, "end": 4459.0}
+{"id": "9lmzJ9fZDz0-t4459.0", "text": "and I'm sure it's fascinating for all their therapists, because, you know,", "start": 4459.0, "end": 4462.0}
+{"id": "9lmzJ9fZDz0-t4462.0", "text": "why are you so bothered by this character?", "start": 4462.0, "end": 4465.0}
+{"id": "9lmzJ9fZDz0-t4465.0", "text": "But that's also, you know, that's the balance you're trying to strike as a writer,", "start": 4465.0, "end": 4470.0}
+{"id": "9lmzJ9fZDz0-t4470.0", "text": "of these sort of more visceral kind of fiction.", "start": 4470.0, "end": 4474.0}
+{"id": "9lmzJ9fZDz0-t4474.0", "text": "So we all agree that human beings like mystery for different reasons.", "start": 4474.0, "end": 4478.0}
+{"id": "9lmzJ9fZDz0-t4478.0", "text": "I think we're violently agreeing that we like mystery,", "start": 4478.0, "end": 4481.0}
+{"id": "9lmzJ9fZDz0-t4481.0", "text": "but for different reasons. And so why is that?", "start": 4481.0, "end": 4484.0}
+{"id": "9lmzJ9fZDz0-t4484.0", "text": "Why do we like mystery? I mean, shouldn't we like certainty?", "start": 4484.0, "end": 4488.0}
+{"id": "9lmzJ9fZDz0-t4488.0", "text": "Well, Kohler says that's where the mind closes down.", "start": 4488.0, "end": 4492.0}
+{"id": "9lmzJ9fZDz0-t4492.0", "text": "Well, you're hovering between possibilities.", "start": 4492.0, "end": 4494.0}
+{"id": "9lmzJ9fZDz0-t4494.0", "text": "That's the strong working of the imagination.", "start": 4494.0, "end": 4498.0}
+{"id": "9lmzJ9fZDz0-t4498.0", "text": "And as soon as you resolve on one or the other, it's understanding,", "start": 4498.0, "end": 4501.0}
+{"id": "9lmzJ9fZDz0-t4501.0", "text": "and it becomes fixed and dead.", "start": 4501.0, "end": 4503.0}
+{"id": "9lmzJ9fZDz0-t4503.0", "text": "So it allows possibility.", "start": 4503.0, "end": 4505.0}
+{"id": "9lmzJ9fZDz0-t4505.0", "text": "It's possibility, but it's also propulsion.", "start": 4505.0, "end": 4508.0}
+{"id": "9lmzJ9fZDz0-t4508.0", "text": "Yeah, so that...", "start": 4508.0, "end": 4510.0}
+{"id": "9lmzJ9fZDz0-t4510.0", "text": "For us it's propulsion, that we want to go out there and solve that mystery.", "start": 4510.0, "end": 4513.0}
+{"id": "9lmzJ9fZDz0-t4513.0", "text": "I mean, I was even interested in how many negatives that we have to use,", "start": 4513.0, "end": 4516.0}
+{"id": "9lmzJ9fZDz0-t4516.0", "text": "like unknowable and inaccessible, which are the sort of negation of the positive state.", "start": 4516.0, "end": 4522.0}
+{"id": "9lmzJ9fZDz0-t4522.0", "text": "And that's one way you propel yourself as you take something that seems to be", "start": 4522.0, "end": 4528.0}
+{"id": "9lmzJ9fZDz0-t4528.0", "text": "in the world and attach a negative prefix to it.", "start": 4528.0, "end": 4532.0}
+{"id": "9lmzJ9fZDz0-t4532.0", "text": "I mean, Percy Shelley talks about the human life to come as the unwritten story,", "start": 4532.0, "end": 4538.0}
+{"id": "9lmzJ9fZDz0-t4538.0", "text": "which is an imagination of a possibility that is different from the historical here and now.", "start": 4538.0, "end": 4544.0}
+{"id": "9lmzJ9fZDz0-t4544.0", "text": "And for him, that was a very important political act of buying in moments of horrific oppression,", "start": 4544.0, "end": 4549.0}
+{"id": "9lmzJ9fZDz0-t4549.0", "text": "is to be able to imagine something else by the negation of what you know.", "start": 4549.0, "end": 4554.0}
+{"id": "9lmzJ9fZDz0-t4554.0", "text": "So inaccessible might mean that there's something ultimately accessible,", "start": 4554.0, "end": 4558.0}
+{"id": "9lmzJ9fZDz0-t4558.0", "text": "or it might mean just the negation of your normative habituated understanding", "start": 4558.0, "end": 4563.0}
+{"id": "9lmzJ9fZDz0-t4563.0", "text": "of what accessible means.", "start": 4563.0, "end": 4565.0}
+{"id": "9lmzJ9fZDz0-t4565.0", "text": "Well, it's funny you should say that because Descartes, when he was thinking about", "start": 4565.0, "end": 4571.0}
+{"id": "9lmzJ9fZDz0-t4571.0", "text": "whether he could know something besides himself when he was in a state of hyperbological doubt,", "start": 4571.0, "end": 4578.0}
+{"id": "9lmzJ9fZDz0-t4578.0", "text": "reasoned his way to God's existence, right?", "start": 4578.0, "end": 4581.0}
+{"id": "9lmzJ9fZDz0-t4581.0", "text": "And he said, and don't think that you can arrive at the idea of God by negating the idea of yourself.", "start": 4581.0, "end": 4587.0}
+{"id": "9lmzJ9fZDz0-t4587.0", "text": "Like, you know, he says, you can't do that.", "start": 4587.0, "end": 4589.0}
+{"id": "9lmzJ9fZDz0-t4589.0", "text": "And what's curious is that in English, he described God as unlimited, which is a negation.", "start": 4589.0, "end": 4594.0}
+{"id": "9lmzJ9fZDz0-t4594.0", "text": "Unlimited looks like the positive term, but Descartes insisted, no,", "start": 4594.0, "end": 4600.0}
+{"id": "9lmzJ9fZDz0-t4600.0", "text": "limited is the negative word, even though our English word is the negative word,", "start": 4600.0, "end": 4606.0}
+{"id": "9lmzJ9fZDz0-t4606.0", "text": "and that himself is a limited being as a negation of a positive idea that he required.", "start": 4606.0, "end": 4611.0}
+{"id": "9lmzJ9fZDz0-t4611.0", "text": "And so instead of thinking of it as mystery, he thought of it as a definite presupposition", "start": 4611.0, "end": 4616.0}
+{"id": "9lmzJ9fZDz0-t4616.0", "text": "of his own self-understanding, a quite definite positive beyond himself.", "start": 4616.0, "end": 4623.0}
+{"id": "9lmzJ9fZDz0-t4623.0", "text": "And not negative, and therefore not a mystery.", "start": 4623.0, "end": 4627.0}
+{"id": "9lmzJ9fZDz0-t4627.0", "text": "And that's very different from the way we're talking about it.", "start": 4627.0, "end": 4630.0}
+{"id": "9lmzJ9fZDz0-t4630.0", "text": "Well, is that sublimity, rather than mystery?", "start": 4630.0, "end": 4634.0}
+{"id": "9lmzJ9fZDz0-t4634.0", "text": "It was almost mathematical.", "start": 4634.0, "end": 4636.0}
+{"id": "9lmzJ9fZDz0-t4636.0", "text": "I mean, he was able to think the Cartesian coordinate system.", "start": 4636.0, "end": 4641.0}
+{"id": "9lmzJ9fZDz0-t4641.0", "text": "He was able to distinguish indefiniteness, which is the way he tried to get at the cardinality of the integers,", "start": 4641.0, "end": 4649.0}
+{"id": "9lmzJ9fZDz0-t4649.0", "text": "all if not, but then he said, they just go on and on and on, and I can't understand that unless I have a positive notion.", "start": 4649.0, "end": 4657.0}
+{"id": "9lmzJ9fZDz0-t4657.0", "text": "Well, that's not a mathematical.", "start": 4657.0, "end": 4659.0}
+{"id": "9lmzJ9fZDz0-t4659.0", "text": "The cardinality of the image, you know, that...", "start": 4659.0, "end": 4662.0}
+{"id": "9lmzJ9fZDz0-t4662.0", "text": "To answer your question, I've been, as I'm sitting here thinking, it seems to me", "start": 4662.0, "end": 4669.0}
+{"id": "9lmzJ9fZDz0-t4669.0", "text": "that do dogs worry and think about mystery, just as you asked about them and quantum mechanics.", "start": 4669.0, "end": 4681.0}
+{"id": "9lmzJ9fZDz0-t4681.0", "text": "So, or is it something that we humans have?", "start": 4681.0, "end": 4685.0}
+{"id": "9lmzJ9fZDz0-t4685.0", "text": "You had that sense of mystery when you were ten.", "start": 4685.0, "end": 4689.0}
+{"id": "9lmzJ9fZDz0-t4689.0", "text": "So, and you talked about mystery and these novels that had to do with feelings and emotions and sensations.", "start": 4689.0, "end": 4701.0}
+{"id": "9lmzJ9fZDz0-t4701.0", "text": "So, is it possible that because the humans take so long to grow up, so long to understand what's around them,", "start": 4701.0, "end": 4711.0}
+{"id": "9lmzJ9fZDz0-t4711.0", "text": "so long to be able to become independent, that mystery or the issue of having emotions about the unknown are so powerful with us?", "start": 4711.0, "end": 4723.0}
+{"id": "9lmzJ9fZDz0-t4723.0", "text": "Well, it might be put a more positive word on it or a different connection is curiosity and mystery are very deeply connected, I think.", "start": 4723.0, "end": 4733.0}
+{"id": "9lmzJ9fZDz0-t4733.0", "text": "And I think human beings are... I don't know if other creatures are curious, but human beings, we scientists like to tell everyone", "start": 4733.0, "end": 4740.0}
+{"id": "9lmzJ9fZDz0-t4740.0", "text": "that human beings are naturally curious about our environment.", "start": 4740.0, "end": 4746.0}
+{"id": "9lmzJ9fZDz0-t4746.0", "text": "We are trying to figure out new ways to exploit it.", "start": 4746.0, "end": 4750.0}
+{"id": "9lmzJ9fZDz0-t4750.0", "text": "If you think about how we've survived, it's not because we're the strongest.", "start": 4750.0, "end": 4756.0}
+{"id": "9lmzJ9fZDz0-t4756.0", "text": "It's because we use our mind and a powerful tool of the mind is to be curious, oh, what if I ate that berry over there?", "start": 4756.0, "end": 4766.0}
+{"id": "9lmzJ9fZDz0-t4766.0", "text": "Or what if I moved north? What if I did, curiosity is connected to mystery?", "start": 4766.0, "end": 4774.0}
+{"id": "9lmzJ9fZDz0-t4774.0", "text": "Let me add one quick footnote to that.", "start": 4774.0, "end": 4778.0}
+{"id": "9lmzJ9fZDz0-t4778.0", "text": "The person who invented the word curioser out of curiosity, curioser and curioser is the master chess player,", "start": 4778.0, "end": 4786.0}
+{"id": "9lmzJ9fZDz0-t4786.0", "text": "and of course curiosity is the embodied muse of Alice's adventures in Wonderland.", "start": 4786.0, "end": 4798.0}
+{"id": "9lmzJ9fZDz0-t4798.0", "text": "But the curioser, I mean, I'd like you to sense, curiosity is a process and Carol understood that by making that a kind of comparative", "start": 4798.0, "end": 4807.0}
+{"id": "9lmzJ9fZDz0-t4807.0", "text": "that doesn't reach its superlative but is just self-perpetuating. Curioser and curioser is the syntax.", "start": 4807.0, "end": 4815.0}
+{"id": "9lmzJ9fZDz0-t4815.0", "text": "But it's had a neuroscientist have had some interesting things to say about the whole capacity for curiosity", "start": 4815.0, "end": 4824.0}
+{"id": "9lmzJ9fZDz0-t4824.0", "text": "and for reducing prediction errors.", "start": 4824.0, "end": 4827.0}
+{"id": "9lmzJ9fZDz0-t4827.0", "text": "We had a roundtable on consciousness here some time ago, and Carl Friston, neuroscientist from England,", "start": 4827.0, "end": 4835.0}
+{"id": "9lmzJ9fZDz0-t4835.0", "text": "has a theory about the mind as a Bayesian probabilistic anticipator in order to reduce and minimize prediction error.", "start": 4835.0, "end": 4849.0}
+{"id": "9lmzJ9fZDz0-t4849.0", "text": "And that this has obvious adaptive advantages.", "start": 4849.0, "end": 4855.0}
+{"id": "9lmzJ9fZDz0-t4855.0", "text": "There's an affective neuroscientist, Yoc Pangsep, who has identified specific areas in the brainstem", "start": 4855.0, "end": 4866.0}
+{"id": "9lmzJ9fZDz0-t4866.0", "text": "across mammalian species and even some birds, one of which is a seeking system that kind of propels the mammal to kind of explore.", "start": 4866.0, "end": 4878.0}
+{"id": "9lmzJ9fZDz0-t4878.0", "text": "And it's something that is mediated through immediate affective consciousness.", "start": 4878.0, "end": 4887.0}
+{"id": "9lmzJ9fZDz0-t4887.0", "text": "I was thinking about this when you were talking about the nature of consciousness.", "start": 4887.0, "end": 4892.0}
+{"id": "9lmzJ9fZDz0-t4892.0", "text": "His idea is that consciousness is not dependent on the brain.", "start": 4892.0, "end": 4897.0}
+{"id": "9lmzJ9fZDz0-t4897.0", "text": "On the cortex, clearly you have these ancephalic children who seem to have very real evidence of consciousness,", "start": 4897.0, "end": 4906.0}
+{"id": "9lmzJ9fZDz0-t4906.0", "text": "but it's all affective. It's not dependent on language.", "start": 4906.0, "end": 4909.0}
+{"id": "9lmzJ9fZDz0-t4909.0", "text": "Language, of course, enhances the experience of consciousness because it's not just the primary experience of it,", "start": 4909.0, "end": 4915.0}
+{"id": "9lmzJ9fZDz0-t4915.0", "text": "but then there's a reflective capacity, there's awareness of our consciousness, but the immediacy of consciousness in his idea is purely affective.", "start": 4915.0, "end": 4923.0}
+{"id": "9lmzJ9fZDz0-t4923.0", "text": "And I think that has relevance in terms of how we think about scientific processing, mystical processing,", "start": 4923.0, "end": 4929.0}
+{"id": "9lmzJ9fZDz0-t4929.0", "text": "that these may also be engaging different levels of the brain.", "start": 4929.0, "end": 4937.0}
+{"id": "9lmzJ9fZDz0-t4937.0", "text": "The thing that keeps coming back to me is that the one thing that we know for sure in science is that things are changing.", "start": 4937.0, "end": 4945.0}
+{"id": "9lmzJ9fZDz0-t4945.0", "text": "We live an evolving world and human beings will evolve.", "start": 4945.0, "end": 4948.0}
+{"id": "9lmzJ9fZDz0-t4948.0", "text": "So when you talk about limitations, undoubtedly the limitations will become smaller.", "start": 4948.0, "end": 4955.0}
+{"id": "9lmzJ9fZDz0-t4955.0", "text": "And so...", "start": 4955.0, "end": 4960.0}
+{"id": "9lmzJ9fZDz0-t4960.0", "text": "Sorry?", "start": 4960.0, "end": 4961.0}
+{"id": "9lmzJ9fZDz0-t4961.0", "text": "Why do you assume that?", "start": 4961.0, "end": 4962.0}
+{"id": "9lmzJ9fZDz0-t4962.0", "text": "Well, let's just take language, which I think I learned today.", "start": 4962.0, "end": 4967.0}
+{"id": "9lmzJ9fZDz0-t4967.0", "text": "I'm actually fascinated by the idea.", "start": 4967.0, "end": 4969.0}
+{"id": "9lmzJ9fZDz0-t4969.0", "text": "It's a limitation and it leaves part of our consciousness.", "start": 4969.0, "end": 4973.0}
+{"id": "9lmzJ9fZDz0-t4973.0", "text": "Inaccessible language has evolved.", "start": 4973.0, "end": 4975.0}
+{"id": "9lmzJ9fZDz0-t4975.0", "text": "So if you think of the beginning of language, the ability to...", "start": 4975.0, "end": 4979.0}
+{"id": "9lmzJ9fZDz0-t4979.0", "text": "The amount of your consciousness that was inaccessible was much greater than it is now.", "start": 4979.0, "end": 4984.0}
+{"id": "9lmzJ9fZDz0-t4984.0", "text": "I would argue that the more it has evolved, the more of its inadequacy is revealed.", "start": 4984.0, "end": 4991.0}
+{"id": "9lmzJ9fZDz0-t4991.0", "text": "And also, can I go back?", "start": 4991.0, "end": 4993.0}
+{"id": "9lmzJ9fZDz0-t4993.0", "text": "I may have missed a moment, but the whole point of the mystical understanding of what I'm calling you the apophatic,", "start": 4993.0, "end": 5000.0}
+{"id": "9lmzJ9fZDz0-t5000.0", "text": "it's not my term as what scholars have missed this is and also, you know, it's in the opal tonic tradition.", "start": 5000.0, "end": 5007.0}
+{"id": "9lmzJ9fZDz0-t5007.0", "text": "It's precisely to get away from the binary that you articulated.", "start": 5007.0, "end": 5011.0}
+{"id": "9lmzJ9fZDz0-t5011.0", "text": "So the unspoken is not simply the negation of what is spoken.", "start": 5011.0, "end": 5017.0}
+{"id": "9lmzJ9fZDz0-t5017.0", "text": "The negation is not the negative...", "start": 5017.0, "end": 5019.0}
+{"id": "9lmzJ9fZDz0-t5019.0", "text": "It is a problem of language in the end.", "start": 5019.0, "end": 5022.0}
+{"id": "9lmzJ9fZDz0-t5022.0", "text": "But that's the point of...", "start": 5022.0, "end": 5025.0}
+{"id": "9lmzJ9fZDz0-t5025.0", "text": "And that's...", "start": 5025.0, "end": 5027.0}
+{"id": "9lmzJ9fZDz0-t5027.0", "text": "In a measure what I've been trying to articulate here.", "start": 5027.0, "end": 5029.0}
+{"id": "9lmzJ9fZDz0-t5029.0", "text": "There's a different approach to the mystery in mysticism, which tries to get us beyond this binary thinking.", "start": 5029.0, "end": 5039.0}
+{"id": "9lmzJ9fZDz0-t5039.0", "text": "It's an undermining of the binary thinking.", "start": 5039.0, "end": 5042.0}
+{"id": "9lmzJ9fZDz0-t5042.0", "text": "And that would include...", "start": 5042.0, "end": 5044.0}
+{"id": "9lmzJ9fZDz0-t5044.0", "text": "I have to say, would also include this idea of progress.", "start": 5044.0, "end": 5048.0}
+{"id": "9lmzJ9fZDz0-t5048.0", "text": "It's pointed to something more intrinsic about the human experience.", "start": 5048.0, "end": 5055.0}
+{"id": "9lmzJ9fZDz0-t5055.0", "text": "I'm not going to be grandiose and say truth because I don't know what that is.", "start": 5055.0, "end": 5059.0}
+{"id": "9lmzJ9fZDz0-t5059.0", "text": "But at least I could say in a more humble way.", "start": 5059.0, "end": 5063.0}
+{"id": "9lmzJ9fZDz0-t5063.0", "text": "It's pointed to something about the human experience of which that will persist.", "start": 5063.0, "end": 5071.0}
+{"id": "9lmzJ9fZDz0-t5071.0", "text": "No matter how much we conquer.", "start": 5071.0, "end": 5073.0}
+{"id": "9lmzJ9fZDz0-t5073.0", "text": "So I withdraw the word progress because it's subjective.", "start": 5073.0, "end": 5077.0}
+{"id": "9lmzJ9fZDz0-t5077.0", "text": "I would keep the word evolving in there because the human capability is going to change.", "start": 5077.0, "end": 5085.0}
+{"id": "9lmzJ9fZDz0-t5085.0", "text": "We know that for sure.", "start": 5085.0, "end": 5087.0}
+{"id": "9lmzJ9fZDz0-t5087.0", "text": "But who be poets better understand language?", "start": 5087.0, "end": 5092.0}
+{"id": "9lmzJ9fZDz0-t5092.0", "text": "And they continuously articulate the ineffability at the core of effibility.", "start": 5092.0, "end": 5100.0}
+{"id": "9lmzJ9fZDz0-t5100.0", "text": "Not all.", "start": 5100.0, "end": 5102.0}
+{"id": "9lmzJ9fZDz0-t5102.0", "text": "What? Okay.", "start": 5102.0, "end": 5104.0}
+{"id": "9lmzJ9fZDz0-t5104.0", "text": "Time for a question.", "start": 5104.0, "end": 5105.0}
+{"id": "9lmzJ9fZDz0-t5105.0", "text": "I wish we could go on for hours.", "start": 5105.0, "end": 5107.0}
+{"id": "9lmzJ9fZDz0-t5107.0", "text": "I'll end it up to questions from the audience so if you could line up.", "start": 5107.0, "end": 5111.0}
+{"id": "9lmzJ9fZDz0-t5111.0", "text": "And please keep your comments in the form of a question.", "start": 5111.0, "end": 5120.0}
+{"id": "9lmzJ9fZDz0-t5120.0", "text": "But we don't have to keep our answers in the form of an answer.", "start": 5120.0, "end": 5124.0}
+{"id": "9lmzJ9fZDz0-t5124.0", "text": "Right?", "start": 5124.0, "end": 5125.0}
+{"id": "9lmzJ9fZDz0-t5125.0", "text": "More questions.", "start": 5125.0, "end": 5126.0}
+{"id": "9lmzJ9fZDz0-t5126.0", "text": "That's the thing.", "start": 5126.0, "end": 5128.0}
+{"id": "9lmzJ9fZDz0-t5128.0", "text": "There were certain phrases that really interested me entering into the mystery.", "start": 5128.0, "end": 5136.0}
+{"id": "9lmzJ9fZDz0-t5136.0", "text": "Control.", "start": 5136.0, "end": 5139.0}
+{"id": "9lmzJ9fZDz0-t5139.0", "text": "These interests to me because I think mystery is a given in all the forms that are the initial quote for this meeting.", "start": 5139.0, "end": 5147.0}
+{"id": "9lmzJ9fZDz0-t5147.0", "text": "From that unnamed politician that we better forget about.", "start": 5147.0, "end": 5153.0}
+{"id": "9lmzJ9fZDz0-t5153.0", "text": "Anyhow, so what seems to interest me is the question of entering into the mystery of what forms there are.", "start": 5153.0, "end": 5166.0}
+{"id": "9lmzJ9fZDz0-t5166.0", "text": "So in science in addition to the scientific method we have historic accounts of dreams, intuition, unexpected associations leading to insights and solutions and furthering of answers to scientific problems.", "start": 5166.0, "end": 5186.0}
+{"id": "9lmzJ9fZDz0-t5186.0", "text": "So what do we have to say about that?", "start": 5186.0, "end": 5197.0}
+{"id": "9lmzJ9fZDz0-t5197.0", "text": "What can be done if anything to train us as one is trained in the scientific method to find forms of control or I would say frames of reference?", "start": 5197.0, "end": 5206.0}
+{"id": "9lmzJ9fZDz0-t5206.0", "text": "Because in the mystical tradition there are lots of controls, fasting, there's one, meditation is another and so on, that are non-language forms of entering into the mystery and returning with some answer.", "start": 5206.0, "end": 5225.0}
+{"id": "9lmzJ9fZDz0-t5225.0", "text": "So I guess my question is, isn't this about the advance of how we find ways, maybe psychoanalysis could be looked at as a way of entering into the mystery and what kinds of responses or answers or clarity or whatever you want to call it come from preparing ourselves in a relationship to the mystery?", "start": 5225.0, "end": 5251.0}
+{"id": "9lmzJ9fZDz0-t5251.0", "text": "Is that directed mainly to me?", "start": 5251.0, "end": 5257.0}
+{"id": "9lmzJ9fZDz0-t5257.0", "text": "Yeah, okay.", "start": 5257.0, "end": 5260.0}
+{"id": "9lmzJ9fZDz0-t5260.0", "text": "Well that was a very rich question which doesn't leave me any very clear path of answer.", "start": 5260.0, "end": 5266.0}
+{"id": "9lmzJ9fZDz0-t5266.0", "text": "You provoked a lot of thoughts as you were speaking.", "start": 5266.0, "end": 5271.0}
+{"id": "9lmzJ9fZDz0-t5271.0", "text": "It struck me that when you said what is it to enter a mystery, that it's not really very far from what I was thinking about when Ed was asking, well what's the difference between the dog and the human being?", "start": 5271.0, "end": 5286.0}
+{"id": "9lmzJ9fZDz0-t5286.0", "text": "We do have this incredible capacity to anticipate things that haven't happened and the dog anticipates things that have happened as things that are going to happen again but we have a different way of anticipating that goes beyond that and it's very closely tied to knowing we don't know things", "start": 5286.0, "end": 5310.0}
+{"id": "9lmzJ9fZDz0-t5310.0", "text": "and I think entering into mystery is bound up with this very peculiar, distinctively human capacity to be open to possibilities which may be actual in the future or maybe just imaginary that are not present.", "start": 5310.0, "end": 5329.0}
+{"id": "9lmzJ9fZDz0-t5329.0", "text": "It's very odd and I don't think other species do that that we know.", "start": 5329.0, "end": 5335.0}
+{"id": "9lmzJ9fZDz0-t5335.0", "text": "Okay. Hello. Hi. So my question pertains to synchronicities.", "start": 5335.0, "end": 5344.0}
+{"id": "9lmzJ9fZDz0-t5344.0", "text": "I don't know if there was a panel through helix on synchronicities or if there will be.", "start": 5344.0, "end": 5349.0}
+{"id": "9lmzJ9fZDz0-t5349.0", "text": "I'll be exciting. There was.", "start": 5349.0, "end": 5353.0}
+{"id": "9lmzJ9fZDz0-t5353.0", "text": "Okay. So I guess if the conversation was for ours, the word would have come up but I'm wondering.", "start": 5353.0, "end": 5359.0}
+{"id": "9lmzJ9fZDz0-t5359.0", "text": "Obviously there's no news or science behind synchronicities, the latest that the panels can share but is there anything on that note that you want to just speak of top of mind?", "start": 5359.0, "end": 5372.0}
+{"id": "9lmzJ9fZDz0-t5372.0", "text": "I don't know. It's a very open-ended. If there's nothing, that's fine. I just thought it was an interesting thing to explore.", "start": 5372.0, "end": 5379.0}
+{"id": "9lmzJ9fZDz0-t5379.0", "text": "There's a French physicist who writes about the Paulie who was here and I think he's going to be in town if he hasn't already been and talking about that again.", "start": 5379.0, "end": 5390.0}
+{"id": "9lmzJ9fZDz0-t5390.0", "text": "And he has a book on that but I don't remember his name but he writes about the young Paulie meetings I think.", "start": 5390.0, "end": 5400.0}
+{"id": "9lmzJ9fZDz0-t5400.0", "text": "Oh. Yeah.", "start": 5400.0, "end": 5410.0}
+{"id": "9lmzJ9fZDz0-t5410.0", "text": "That's a mystery.", "start": 5410.0, "end": 5412.0}
+{"id": "9lmzJ9fZDz0-t5412.0", "text": "It's a mystery that's based in reality I guess as in our own experience.", "start": 5412.0, "end": 5418.0}
+{"id": "9lmzJ9fZDz0-t5418.0", "text": "Thank you.", "start": 5418.0, "end": 5421.0}
+{"id": "9lmzJ9fZDz0-t5421.0", "text": "Hi. What struck me today was the elephant in the room and that was the fact that no one in this panel has mentioned the ultimate mystery.", "start": 5421.0, "end": 5435.0}
+{"id": "9lmzJ9fZDz0-t5435.0", "text": "You know Woody Allen and I want to know what you think about the mystery of death and how this ultimately unknowable besides the people who claim to have told us things from beyond.", "start": 5435.0, "end": 5449.0}
+{"id": "9lmzJ9fZDz0-t5449.0", "text": "How this mystery informs or leads or hovers over all the other quests for certainty whether it be in human communication or in knowing how the universe works.", "start": 5449.0, "end": 5464.0}
+{"id": "9lmzJ9fZDz0-t5464.0", "text": "But how did I just like to know what your thoughts are on this topic?", "start": 5464.0, "end": 5470.0}
+{"id": "9lmzJ9fZDz0-t5470.0", "text": "I have an incredibly simple answer. I think death is what makes life worth living.", "start": 5470.0, "end": 5476.0}
+{"id": "9lmzJ9fZDz0-t5476.0", "text": "That if you imagine that there is no death then you have an infinite amount of time and time is not valuable and why would you do anything.", "start": 5476.0, "end": 5490.0}
+{"id": "9lmzJ9fZDz0-t5490.0", "text": "Which anyway that has nothing to do with.", "start": 5490.0, "end": 5493.0}
+{"id": "9lmzJ9fZDz0-t5493.0", "text": "So I didn't explain the mystery.", "start": 5493.0, "end": 5495.0}
+{"id": "9lmzJ9fZDz0-t5495.0", "text": "I understand that these other things are activities that make life worth while but how does this ultimate mystery inform the other mystery?", "start": 5495.0, "end": 5507.0}
+{"id": "9lmzJ9fZDz0-t5507.0", "text": "Well there's a great literary subject. Milton begins Paradise Lost by wondering about what brought death into the world and all are woe.", "start": 5507.0, "end": 5517.0}
+{"id": "9lmzJ9fZDz0-t5517.0", "text": "When Colerge writes about the imagination is hovering between images the text he goes to is Milton's great description of death and Paradise Lost.", "start": 5517.0, "end": 5525.0}
+{"id": "9lmzJ9fZDz0-t5525.0", "text": "Which is both an allegorical figure but a literary event that defies understanding.", "start": 5525.0, "end": 5531.0}
+{"id": "9lmzJ9fZDz0-t5531.0", "text": "Shape it had, if shape it might be called, maybe shape it had none.", "start": 5531.0, "end": 5536.0}
+{"id": "9lmzJ9fZDz0-t5536.0", "text": "Fierce is ten furies.", "start": 5536.0, "end": 5539.0}
+{"id": "9lmzJ9fZDz0-t5539.0", "text": "You can't even think what one fierce fury would be but fiercest ten furies is a kind of sublimity of comparison.", "start": 5539.0, "end": 5547.0}
+{"id": "9lmzJ9fZDz0-t5547.0", "text": "Milton is interested in the way in which death as a language defies language.", "start": 5547.0, "end": 5553.0}
+{"id": "9lmzJ9fZDz0-t5553.0", "text": "Edmund Burke takes this up as the text that is the poster boy for his theory of the sublime.", "start": 5553.0, "end": 5559.0}
+{"id": "9lmzJ9fZDz0-t5559.0", "text": "Of when the imagination when the human intelligence reaches the limit of its ability to grasp anything he brings in Milton's death.", "start": 5559.0, "end": 5568.0}
+{"id": "9lmzJ9fZDz0-t5568.0", "text": "Colerge brings in Burke and Milton's death to talk about that hovering of the imagination so that death becomes one of those events in language.", "start": 5568.0, "end": 5578.0}
+{"id": "9lmzJ9fZDz0-t5578.0", "text": "We don't know it without the language even with the capital D. Death.", "start": 5578.0, "end": 5582.0}
+{"id": "9lmzJ9fZDz0-t5582.0", "text": "That is there but I think you're right that it is whatever it is it's the opposite of what we do know.", "start": 5582.0, "end": 5588.0}
+{"id": "9lmzJ9fZDz0-t5588.0", "text": "And so the work in language the excitement and dynamism of language around death is that it offers you what you do know and then it takes it away.", "start": 5588.0, "end": 5596.0}
+{"id": "9lmzJ9fZDz0-t5596.0", "text": "So you have that strong working of the imagination in relation to what you know and what you don't know.", "start": 5596.0, "end": 5602.0}
+{"id": "9lmzJ9fZDz0-t5602.0", "text": "And it's you know I mean that you're right you and Woody Allen are right I mean that's the limit and it's the limit beyond which we can't know but which we keep trying to know.", "start": 5602.0, "end": 5612.0}
+{"id": "9lmzJ9fZDz0-t5612.0", "text": "So when Wordsworth says visionary power is embodied in the mystery of words and he really means something like how we use words to get to what we don't know and how we understand that word's far away.", "start": 5612.0, "end": 5625.0}
+{"id": "9lmzJ9fZDz0-t5625.0", "text": "That words finally are not equivalent to the states that we're seeking.", "start": 5625.0, "end": 5632.0}
+{"id": "9lmzJ9fZDz0-t5632.0", "text": "I just add to that.", "start": 5632.0, "end": 5634.0}
+{"id": "9lmzJ9fZDz0-t5634.0", "text": "Yeah go ahead you want to crime.", "start": 5634.0, "end": 5635.0}
+{"id": "9lmzJ9fZDz0-t5635.0", "text": "Crime novelist.", "start": 5635.0, "end": 5636.0}
+{"id": "9lmzJ9fZDz0-t5636.0", "text": "There is an argument they all crime mystery novels that's really what they're about and many of them play with Persephone or Dante and the detective is doing this descent you know and eventually reaches the larger question.", "start": 5636.0, "end": 5651.0}
+{"id": "9lmzJ9fZDz0-t5651.0", "text": "There's any crime series with the recurring detective eventually that's the end you get in the series so I think they could easily make the argument that's the only thing that crime novels are about which it seems very telling based on your question.", "start": 5651.0, "end": 5667.0}
+{"id": "9lmzJ9fZDz0-t5667.0", "text": "Thank you.", "start": 5667.0, "end": 5669.0}
+{"id": "9lmzJ9fZDz0-t5669.0", "text": "Thank you for the wonderful discussion.", "start": 5669.0, "end": 5671.0}
+{"id": "9lmzJ9fZDz0-t5671.0", "text": "It seems to me one of the primary tensions in this discussion was between Mr. Turner's desire to understand more and some of the other palace desire to preserve greater mystery.", "start": 5671.0, "end": 5682.0}
+{"id": "9lmzJ9fZDz0-t5682.0", "text": "My thought is as Edmond Burke wrote in his inquiry into the beautiful and the sublime as Emmanuel Kant says in his essay on the sublime that you know one of the reasons we want mystery in our lives is that it leads to this sense of the sublime.", "start": 5682.0, "end": 5697.0}
+{"id": "9lmzJ9fZDz0-t5697.0", "text": "As they also say in those works other things beautiful harmony things on a large grand scale can also inspire that sense of the sublime.", "start": 5697.0, "end": 5706.0}
+{"id": "9lmzJ9fZDz0-t5706.0", "text": "So the night so I am sort of drawn to moments where understanding coexist with the sense of the sublime.", "start": 5706.0, "end": 5716.0}
+{"id": "9lmzJ9fZDz0-t5716.0", "text": "So the night sky is no less sublime to me for my knowledge of astronomy Yosemite is no less sublime to me for my knowledge of geology.", "start": 5716.0, "end": 5725.0}
+{"id": "9lmzJ9fZDz0-t5725.0", "text": "So I'm interested in what the panel thinks about the relationship of mystery to the beautiful and the sublime and how people fit that moment of simultaneous understanding exaltation when you look at the night sky or Yosemite Valley into your paradigm of how you think about the mystery", "start": 5725.0, "end": 5746.0}
+{"id": "9lmzJ9fZDz0-t5746.0", "text": "and the sublime.", "start": 5746.0, "end": 5747.0}
+{"id": "9lmzJ9fZDz0-t5747.0", "text": "Well when Humphrey Day has his introductory lectures on chemistry he uses the vocabulary of the sublime to express his enthusiasm for the progress of scientific knowledge.", "start": 5747.0, "end": 5758.0}
+{"id": "9lmzJ9fZDz0-t5758.0", "text": "I mean for him those things were not opposites they were the the sublimity of human desire and science and human curiosity was tied absolutely to the progress of scientific knowledge and it was the alternative both to the old time God", "start": 5758.0, "end": 5775.0}
+{"id": "9lmzJ9fZDz0-t5775.0", "text": "who explains everything or the French Revolution which promised and didn't deliver.", "start": 5775.0, "end": 5779.0}
+{"id": "9lmzJ9fZDz0-t5779.0", "text": "So when he's doing this in 1802 it is exactly what you're talking about it is the language of sublimity and religion and scientific progress and human progress all on the same track.", "start": 5779.0, "end": 5794.0}
+{"id": "9lmzJ9fZDz0-t5794.0", "text": "But I think the more knowledge you have it makes the mystery more interesting.", "start": 5794.0, "end": 5799.0}
+{"id": "9lmzJ9fZDz0-t5799.0", "text": "It sharpens it and I think to take it even to a higher level I've often told people that I thought Einstein's God is much more interesting, I'm using a value statement, than a simple person's God because more curious.", "start": 5799.0, "end": 5819.0}
+{"id": "9lmzJ9fZDz0-t5819.0", "text": "So you know so God doesn't have to keep the planets in the you know moving around orbits and stuff like they just have to run the universe.", "start": 5819.0, "end": 5830.0}
+{"id": "9lmzJ9fZDz0-t5830.0", "text": "So how did he create space and time and the laws of physics and I'm not saying that's the ultimate thing but the sublime becomes more sublime the more we know.", "start": 5830.0, "end": 5842.0}
+{"id": "9lmzJ9fZDz0-t5842.0", "text": "When he doesn't have mystery in mystery novels it's the same thing. So you start out there's a dead body or something.", "start": 5842.0, "end": 5850.0}
+{"id": "9lmzJ9fZDz0-t5850.0", "text": "You got a mystery it becomes much more interesting the more you know.", "start": 5850.0, "end": 5856.0}
+{"id": "9lmzJ9fZDz0-t5856.0", "text": "Next. I'm from a former named Joshua Heschel. I don't agree with Heschel's acceptance of a transcendent God but he's talking here about a nigma and he defines it as the unknown within the noun.", "start": 5856.0, "end": 5876.0}
+{"id": "9lmzJ9fZDz0-t5876.0", "text": "The infinite within the finite mystery within the order. So that would seem to go on with what you just said I think.", "start": 5876.0, "end": 5887.0}
+{"id": "9lmzJ9fZDz0-t5887.0", "text": "Next question.", "start": 5887.0, "end": 5890.0}
+{"id": "9lmzJ9fZDz0-t5890.0", "text": "So just a comment first. I don't know that if our prefrontal cortex was larger that we would then grasp.", "start": 5890.0, "end": 5899.0}
+{"id": "9lmzJ9fZDz0-t5899.0", "text": "I think the issue with grasping is grasping a system of which we are apart and that would be true no matter how large our prefrontal cortex becomes.", "start": 5899.0, "end": 5908.0}
+{"id": "9lmzJ9fZDz0-t5908.0", "text": "That's just a side comment.", "start": 5908.0, "end": 5911.0}
+{"id": "9lmzJ9fZDz0-t5911.0", "text": "The two things that kind of occurred to me over and over.", "start": 5911.0, "end": 5915.0}
+{"id": "9lmzJ9fZDz0-t5915.0", "text": "One of them is the idea of humans as creators of meaning. So the chair or even the concept doesn't have inherent meaning except as we create it for whatever neurotic reasons we create it.", "start": 5915.0, "end": 5933.0}
+{"id": "9lmzJ9fZDz0-t5933.0", "text": "Or creative reasons we create it.", "start": 5933.0, "end": 5936.0}
+{"id": "9lmzJ9fZDz0-t5936.0", "text": "So it makes me wonder that perhaps mystery is as much a creation as meaning is. Is as much a human creation as meaning is.", "start": 5936.0, "end": 5946.0}
+{"id": "9lmzJ9fZDz0-t5946.0", "text": "And perhaps it's simply a way to describe our discomfort with our own limitation.", "start": 5946.0, "end": 5951.0}
+{"id": "9lmzJ9fZDz0-t5951.0", "text": "And that's another motivation behind discovering mystery is discomfort.", "start": 5951.0, "end": 5956.0}
+{"id": "9lmzJ9fZDz0-t5956.0", "text": "Or another word for that is insecurity or fear.", "start": 5956.0, "end": 5959.0}
+{"id": "9lmzJ9fZDz0-t5959.0", "text": "So that's something that kind of goes over and over in my mind is meaning and mystery both simply creations of the human mind.", "start": 5959.0, "end": 5967.0}
+{"id": "9lmzJ9fZDz0-t5967.0", "text": "And then I'll say the second one and whoever wants to comment on either one. It would be wonderful.", "start": 5967.0, "end": 5973.0}
+{"id": "9lmzJ9fZDz0-t5973.0", "text": "The second one which for me is a little more gnarly is actually maybe it's equally gnarly is the issue of continuity versus discontinuity.", "start": 5973.0, "end": 5984.0}
+{"id": "9lmzJ9fZDz0-t5984.0", "text": "So continuity would hold and this is kind of to my limit on understanding the more Asian concept that everything in existence from the imminent to the transcendent simply exists along a continuum.", "start": 5984.0, "end": 6001.0}
+{"id": "9lmzJ9fZDz0-t6001.0", "text": "So it exists continuously in broader and broader or more sublime forms.", "start": 6001.0, "end": 6006.0}
+{"id": "9lmzJ9fZDz0-t6006.0", "text": "So whatever we grasp today the higher thing is a mystery we grasp that the next higher becomes a mystery and it's pretty much an even process.", "start": 6006.0, "end": 6014.0}
+{"id": "9lmzJ9fZDz0-t6014.0", "text": "Whether we ever completed or not we probably don't.", "start": 6014.0, "end": 6018.0}
+{"id": "9lmzJ9fZDz0-t6018.0", "text": "Discontinuity I think of as being more than a Judeo-Christian paradigm.", "start": 6018.0, "end": 6024.0}
+{"id": "9lmzJ9fZDz0-t6024.0", "text": "And discontinuity holds that there is not simply a quantitative difference between the imminent and the transcendent.", "start": 6024.0, "end": 6032.0}
+{"id": "9lmzJ9fZDz0-t6032.0", "text": "But there is actually to use a limited word for us limited people a qualitative difference.", "start": 6032.0, "end": 6038.0}
+{"id": "9lmzJ9fZDz0-t6038.0", "text": "So for example from one of the mystical traditions it says that the original being withdrew created an empty space and created into that empty space.", "start": 6038.0, "end": 6051.0}
+{"id": "9lmzJ9fZDz0-t6051.0", "text": "There's very clearly the sense of discontinuity.", "start": 6051.0, "end": 6054.0}
+{"id": "9lmzJ9fZDz0-t6054.0", "text": "So I'm interested because for me the mystery the idea of mystery is also do we exist within continuity or is there a discontinuity between imminent and the transcendent.", "start": 6054.0, "end": 6067.0}
+{"id": "9lmzJ9fZDz0-t6067.0", "text": "And whoever wants to comment I was thinking of Elliot but whoever else please feel welcome.", "start": 6067.0, "end": 6072.0}
+{"id": "9lmzJ9fZDz0-t6072.0", "text": "Thank you.", "start": 6072.0, "end": 6073.0}
+{"id": "9lmzJ9fZDz0-t6073.0", "text": "Thank you.", "start": 6073.0, "end": 6074.0}
+{"id": "9lmzJ9fZDz0-t6074.0", "text": "I'll comment on the second.", "start": 6074.0, "end": 6076.0}
+{"id": "9lmzJ9fZDz0-t6076.0", "text": "And so I think it's more complicated than that and even the example you used is actually from Loreana Kabbalah for all those who may not be familiar with it.", "start": 6076.0, "end": 6087.0}
+{"id": "9lmzJ9fZDz0-t6087.0", "text": "I was aware I just didn't want to get all linguistic.", "start": 6087.0, "end": 6089.0}
+{"id": "9lmzJ9fZDz0-t6089.0", "text": "Yeah no I understand.", "start": 6089.0, "end": 6090.0}
+{"id": "9lmzJ9fZDz0-t6090.0", "text": "I know you whoever just to bring everybody into it.", "start": 6090.0, "end": 6093.0}
+{"id": "9lmzJ9fZDz0-t6093.0", "text": "So the idea that the primal act is not a projection of the infinite but rather the withdrawal contraction of the infinite.", "start": 6093.0, "end": 6105.0}
+{"id": "9lmzJ9fZDz0-t6105.0", "text": "To make space for that which is other than its infinity.", "start": 6105.0, "end": 6110.0}
+{"id": "9lmzJ9fZDz0-t6110.0", "text": "But I'm going to use this to point to the complexity that in fact the ultimate paradox there is there is a withdrawal of infinity from space.", "start": 6110.0, "end": 6126.0}
+{"id": "9lmzJ9fZDz0-t6126.0", "text": "It's an empty it's an empty emptying out of the fullness of infinity but within that space that is created there is still a trace of the infinite.", "start": 6126.0, "end": 6137.0}
+{"id": "9lmzJ9fZDz0-t6137.0", "text": "Went all things other than the infinite come to be.", "start": 6137.0, "end": 6143.0}
+{"id": "9lmzJ9fZDz0-t6143.0", "text": "So that means there is a continuum.", "start": 6143.0, "end": 6145.0}
+{"id": "9lmzJ9fZDz0-t6145.0", "text": "There is a continuum.", "start": 6145.0, "end": 6147.0}
+{"id": "9lmzJ9fZDz0-t6147.0", "text": "And I think one of the things certainly in Jewish mysticism I don't want to speak about Christian mysticism to glibly here but certainly Jewish mysticism complicates the more ordinary or typical conventional understanding of Judaism", "start": 6147.0, "end": 6167.0}
+{"id": "9lmzJ9fZDz0-t6167.0", "text": "whereby there would be this radical break between the transcendent and the imminent.", "start": 6167.0, "end": 6172.0}
+{"id": "9lmzJ9fZDz0-t6172.0", "text": "It complicates that to the point where many Kabbalists are actually seemingly guilty of something like a pantheism or panantheism and somebody else could take this first or the second.", "start": 6172.0, "end": 6187.0}
+{"id": "9lmzJ9fZDz0-t6187.0", "text": "But that's what I was going to say.", "start": 6187.0, "end": 6189.0}
+{"id": "9lmzJ9fZDz0-t6189.0", "text": "It says there is no place devoid of him which is to say there is continuity within the discontinuity.", "start": 6189.0, "end": 6196.0}
+{"id": "9lmzJ9fZDz0-t6196.0", "text": "Right.", "start": 6196.0, "end": 6197.0}
+{"id": "9lmzJ9fZDz0-t6197.0", "text": "We could render that.", "start": 6197.0, "end": 6198.0}
+{"id": "9lmzJ9fZDz0-t6198.0", "text": "The language allows us to say it and not him.", "start": 6198.0, "end": 6201.0}
+{"id": "9lmzJ9fZDz0-t6201.0", "text": "So the infinity there doesn't need to be gendered as masculine actually.", "start": 6201.0, "end": 6210.0}
+{"id": "9lmzJ9fZDz0-t6210.0", "text": "And the idea of mystery being a human creation and meaning being a human creation.", "start": 6210.0, "end": 6216.0}
+{"id": "9lmzJ9fZDz0-t6216.0", "text": "Yes, and everybody wanted to respond to that.", "start": 6216.0, "end": 6218.0}
+{"id": "9lmzJ9fZDz0-t6218.0", "text": "I guess I would think that lots of particular mysteries are human creations but the capacity to conceive something as mysterious using the terms of the human creation.", "start": 6218.0, "end": 6230.0}
+{"id": "9lmzJ9fZDz0-t6230.0", "text": "Using the terms I know there is something I don't know, something reflective of that kind isn't available to things without the right cognitive constitution like a dog wouldn't be able to do it.", "start": 6230.0, "end": 6244.0}
+{"id": "9lmzJ9fZDz0-t6244.0", "text": "So even if we make lots of particular mysteries I would think that our capacity to be struck by things as mysterious is given.", "start": 6244.0, "end": 6253.0}
+{"id": "9lmzJ9fZDz0-t6253.0", "text": "Okay, thank you.", "start": 6253.0, "end": 6260.0}
+{"id": "9lmzJ9fZDz0-t6260.0", "text": "Thank you so much for a great discussion.", "start": 6260.0, "end": 6265.0}
+{"id": "9lmzJ9fZDz0-t6265.0", "text": "What brought to my mind is a little exchange about the eyes and looking at the eyes of the mirror, etc.", "start": 6265.0, "end": 6272.0}
+{"id": "9lmzJ9fZDz0-t6272.0", "text": "And the thing that came to me was actually looking through, not at.", "start": 6272.0, "end": 6277.0}
+{"id": "9lmzJ9fZDz0-t6277.0", "text": "And I was wondering how from your different disciplines you feel about the ability of looking through.", "start": 6277.0, "end": 6287.0}
+{"id": "9lmzJ9fZDz0-t6287.0", "text": "And I'm very interested in the energies and I was wondering what everybody from their own disciples feel about energies out there.", "start": 6287.0, "end": 6297.0}
+{"id": "9lmzJ9fZDz0-t6297.0", "text": "Psychic, whatever you want to call it, people who are able to do something that we cannot touch and certainly a great mystery.", "start": 6297.0, "end": 6307.0}
+{"id": "9lmzJ9fZDz0-t6307.0", "text": "And what you thought about this.", "start": 6307.0, "end": 6311.0}
+{"id": "9lmzJ9fZDz0-t6311.0", "text": "Anyone up for that?", "start": 6311.0, "end": 6314.0}
+{"id": "9lmzJ9fZDz0-t6314.0", "text": "Sorry.", "start": 6314.0, "end": 6316.0}
+{"id": "9lmzJ9fZDz0-t6316.0", "text": "Next question I think is the...", "start": 6316.0, "end": 6324.0}
+{"id": "9lmzJ9fZDz0-t6324.0", "text": "We have two questions. The first one is for Elliot.", "start": 6324.0, "end": 6328.0}
+{"id": "9lmzJ9fZDz0-t6328.0", "text": "When you talk about Sufism and the task of Sufismaster is to leave the vow and the biggest vow is the one that helps you see only the other vowels and remove only the other vowels.", "start": 6328.0, "end": 6342.0}
+{"id": "9lmzJ9fZDz0-t6342.0", "text": "What is that? I'm curious about that biggest vowel.", "start": 6342.0, "end": 6348.0}
+{"id": "9lmzJ9fZDz0-t6348.0", "text": "My second question is for Michael and the rest of the panel as well.", "start": 6348.0, "end": 6354.0}
+{"id": "9lmzJ9fZDz0-t6354.0", "text": "So Michael talk about is our brain powerful enough to understand everything?", "start": 6354.0, "end": 6359.0}
+{"id": "9lmzJ9fZDz0-t6359.0", "text": "And I was thinking the context of the mystery discussion today seems to be based on our brain only.", "start": 6359.0, "end": 6365.0}
+{"id": "9lmzJ9fZDz0-t6365.0", "text": "How about our heart, our soul, our intuition, the neurons in our body, the thing that we can't even, with the limitation of language we can't even talk about.", "start": 6365.0, "end": 6376.0}
+{"id": "9lmzJ9fZDz0-t6376.0", "text": "So how does our view about mystery change if you think about all the capacities of all the functions that we can see or unsee?", "start": 6376.0, "end": 6389.0}
+{"id": "9lmzJ9fZDz0-t6389.0", "text": "Well, mystery.", "start": 6389.0, "end": 6391.0}
+{"id": "9lmzJ9fZDz0-t6391.0", "text": "I'll do this one is really the easier one.", "start": 6391.0, "end": 6394.0}
+{"id": "9lmzJ9fZDz0-t6394.0", "text": "Mystery has to do with your capacity and we can bring dogs in here.", "start": 6394.0, "end": 6399.0}
+{"id": "9lmzJ9fZDz0-t6399.0", "text": "So there are things that dogs must think are mysterious because they can't understand them.", "start": 6399.0, "end": 6406.0}
+{"id": "9lmzJ9fZDz0-t6406.0", "text": "So when humans do simple tricks or a magician does a trick and all of a sudden a ball appears and so that's a mystery to you.", "start": 6406.0, "end": 6415.0}
+{"id": "9lmzJ9fZDz0-t6415.0", "text": "And so clearly things that we don't understand I guess that we would put in the basket called mystery.", "start": 6415.0, "end": 6422.0}
+{"id": "9lmzJ9fZDz0-t6422.0", "text": "And the previous, so I don't think it's the size of the prefrontal cortex that's the issue.", "start": 6422.0, "end": 6429.0}
+{"id": "9lmzJ9fZDz0-t6429.0", "text": "It's the existence of the prefrontal cortex.", "start": 6429.0, "end": 6432.0}
+{"id": "9lmzJ9fZDz0-t6432.0", "text": "So probably making it twice as big is not going to really do qualitatively anything different.", "start": 6432.0, "end": 6440.0}
+{"id": "9lmzJ9fZDz0-t6440.0", "text": "So maybe we'll be able to do differential equations faster or read Yates faster or whatever.", "start": 6440.0, "end": 6450.0}
+{"id": "9lmzJ9fZDz0-t6450.0", "text": "But so what's the next big thing in evolution that extends our understanding?", "start": 6450.0, "end": 6457.0}
+{"id": "9lmzJ9fZDz0-t6457.0", "text": "What's the next prefrontal cortex that takes us to a higher level?", "start": 6457.0, "end": 6462.0}
+{"id": "9lmzJ9fZDz0-t6462.0", "text": "And I can't imagine that this is the highest level of understanding that we have.", "start": 6462.0, "end": 6467.0}
+{"id": "9lmzJ9fZDz0-t6467.0", "text": "So this is good.", "start": 6467.0, "end": 6468.0}
+{"id": "9lmzJ9fZDz0-t6468.0", "text": "It leads right into the answer.", "start": 6468.0, "end": 6470.0}
+{"id": "9lmzJ9fZDz0-t6470.0", "text": "So it's very typical for Sufis to speak of the past as a polishing and this involves techniques, testing, meditation and all the rest.", "start": 6470.0, "end": 6485.0}
+{"id": "9lmzJ9fZDz0-t6485.0", "text": "Polishing the heart so that it is a pure mirror.", "start": 6485.0, "end": 6489.0}
+{"id": "9lmzJ9fZDz0-t6489.0", "text": "So actually the imagery of mirror is much older than the modern period.", "start": 6489.0, "end": 6493.0}
+{"id": "9lmzJ9fZDz0-t6493.0", "text": "And in that mirror, the truth will be manifest, will appear.", "start": 6493.0, "end": 6500.0}
+{"id": "9lmzJ9fZDz0-t6500.0", "text": "And the truth, Ahak in Arabic, is the word that they use for the ultimate reality, which is even greater than Allah.", "start": 6500.0, "end": 6507.0}
+{"id": "9lmzJ9fZDz0-t6507.0", "text": "It's greater than Yawah, it's greater than all the theistic gods.", "start": 6507.0, "end": 6512.0}
+{"id": "9lmzJ9fZDz0-t6512.0", "text": "But when you really go deep into their language, again you're confronted with the paradox that the final veil that is lifted is the veil to think that a final veil can be lifted.", "start": 6512.0, "end": 6533.0}
+{"id": "9lmzJ9fZDz0-t6533.0", "text": "That we are always embodied, that's our condition, and there's also something here that's very important with the relationship between the microcosm and the macrocosm.", "start": 6533.0, "end": 6544.0}
+{"id": "9lmzJ9fZDz0-t6544.0", "text": "So that final veil that cannot be lifted is not only each of our embodied states, but it's the grand embodiment of the cosmos.", "start": 6544.0, "end": 6555.0}
+{"id": "9lmzJ9fZDz0-t6555.0", "text": "And so that the cosmos is concurrently both the manifestation of this truth and its concealment, because that truth cannot be manifest in anything limited, even something as great as the cosmos.", "start": 6555.0, "end": 6574.0}
+{"id": "9lmzJ9fZDz0-t6574.0", "text": "It's greater than that.", "start": 6574.0, "end": 6580.0}
+{"id": "9lmzJ9fZDz0-t6580.0", "text": "Yeah, that's the ultimate mystery for us.", "start": 6580.0, "end": 6583.0}
+{"id": "9lmzJ9fZDz0-t6583.0", "text": "Can I say something just quickly? I've been thinking about the image question, and I mean I don't think it wasn't that we weren't interested in it, but that it was to the side of what we were thinking about.", "start": 6583.0, "end": 6594.0}
+{"id": "9lmzJ9fZDz0-t6594.0", "text": "And it's true that before language that images are the perceptual material, and we don't know about that because we have only language to get us there.", "start": 6594.0, "end": 6605.0}
+{"id": "9lmzJ9fZDz0-t6605.0", "text": "But Yates was particularly interested, I mean, in something like a world of images that precedes language that may even be beyond language.", "start": 6605.0, "end": 6616.0}
+{"id": "9lmzJ9fZDz0-t6616.0", "text": "That it's not an irrelevant question, it's just, it's sort of to the side of mystery, but it's a mystery insofar as we can't describe it or communicate it, because it doesn't exist in the materials of our communication, though Yates was certainly going to try.", "start": 6616.0, "end": 6634.0}
+{"id": "9lmzJ9fZDz0-t6634.0", "text": "Even the veil, right?", "start": 6634.0, "end": 6636.0}
+{"id": "9lmzJ9fZDz0-t6636.0", "text": "Shelly says veil after veil may be removed, but we'll never get to the inmost mystery, that it is the removal of the veil and the tease of the veil, he's quite aware of that as an erotic operation as well.", "start": 6636.0, "end": 6649.0}
+{"id": "9lmzJ9fZDz0-t6649.0", "text": "When Humphrey, Davey uses that metaphor of science as unveiling and removing, it is the male investigator and she nature that is being unveiled, so that these images are also historically and culturally embedded in ways that bring our critical thinking into play.", "start": 6649.0, "end": 6674.0}
+{"id": "9lmzJ9fZDz0-t6674.0", "text": "So, I think we wouldn't use that metaphor system now without certain liabilities.", "start": 6674.0, "end": 6679.0}
+{"id": "9lmzJ9fZDz0-t6679.0", "text": "So, I just wanted to add that I think the question about images was very important, just to be well yet my mind around it.", "start": 6679.0, "end": 6686.0}
+{"id": "9lmzJ9fZDz0-t6686.0", "text": "But since she said images, in terms of communicating, how come we only use language and not art and music?", "start": 6686.0, "end": 6693.0}
+{"id": "9lmzJ9fZDz0-t6693.0", "text": "Well, I think we do, I mean, music is always interested philosophers because it is wordless and it is sensual.", "start": 6693.0, "end": 6701.0}
+{"id": "9lmzJ9fZDz0-t6701.0", "text": "Yeah, that is not okay. I was going to bring up images and I'm always interested to hear how the scientists and the writer and all the different fields come together on this issue.", "start": 6701.0, "end": 6712.0}
+{"id": "9lmzJ9fZDz0-t6712.0", "text": "And there is an aspect of the collecting of knowledge in order to unveil mystery by history, by the past, by other intellects working on it.", "start": 6712.0, "end": 6721.0}
+{"id": "9lmzJ9fZDz0-t6721.0", "text": "And I was just thinking of the problem of in the, around sometime in the 20th century, there was the fascination with artists to start with the tabla raza, instead of preconceiving something,", "start": 6721.0, "end": 6734.0}
+{"id": "9lmzJ9fZDz0-t6734.0", "text": "instead of starting where the end is known in the beginning, the concept of working with the naked canvas and seeing where, what you know, where you can go, where is the end result.", "start": 6734.0, "end": 6746.0}
+{"id": "9lmzJ9fZDz0-t6746.0", "text": "And many, many writings of artists are always speaking about wanting to start where they let go of everything they've ever heard of all the knowledge they have and even letting go of the self in order to arrive somewhere.", "start": 6746.0, "end": 6760.0}
+{"id": "9lmzJ9fZDz0-t6760.0", "text": "They don't know where that somewhere is, but they believe there is a somewhere where something will be revealed that hasn't been revealed yet.", "start": 6760.0, "end": 6768.0}
+{"id": "9lmzJ9fZDz0-t6768.0", "text": "So it's a different kind of process and I'm just, and this now I'm speaking in terms of images.", "start": 6768.0, "end": 6775.0}
+{"id": "9lmzJ9fZDz0-t6775.0", "text": "And so maybe any of you have any comments about this concept of the tabla raza wanting to start, and I guess writers too sometimes will want to start somewhere without any preconceived ideas.", "start": 6775.0, "end": 6791.0}
+{"id": "9lmzJ9fZDz0-t6791.0", "text": "Of course, that's not, but it will lead, they believe, somewhere to the new.", "start": 6791.0, "end": 6797.0}
+{"id": "9lmzJ9fZDz0-t6797.0", "text": "I can say as a writer, absolutely, even though I work within a genre, so there are certain expectations within that there's the mystery within the writing of the mystery, which is the moment that it takes a turn.", "start": 6797.0, "end": 6810.0}
+{"id": "9lmzJ9fZDz0-t6810.0", "text": "There are some often writers will talk with street writers, I know we'll talk about different characters becoming other things, other than they intended, and it's sort of the, I guess it's the romantic notion of the, or automatic writing or other devices to sort of break free of the traditional", "start": 6810.0, "end": 6826.0}
+{"id": "9lmzJ9fZDz0-t6826.0", "text": "expectations you even had for yourself or the book, much less what the genre expectations are.", "start": 6826.0, "end": 6831.0}
+{"id": "9lmzJ9fZDz0-t6831.0", "text": "And when you, when it happens, it feels like you're accessing, you're unconscious in some way and a character does something you didn't think that they were going to do, and it feels like you started over again, and the book has opened out into a whole other area, so the mystery becomes a second mystery to go back to that point, which is great, which is what you write for.", "start": 6831.0, "end": 6852.0}
+{"id": "9lmzJ9fZDz0-t6852.0", "text": "Thank you, next.", "start": 6852.0, "end": 6855.0}
+{"id": "9lmzJ9fZDz0-t6855.0", "text": "Ernie, are you going to be asking a question? Dr. Kafka?", "start": 6855.0, "end": 6861.0}
+{"id": "9lmzJ9fZDz0-t6861.0", "text": "Are you also going to?", "start": 6861.0, "end": 6863.0}
+{"id": "9lmzJ9fZDz0-t6863.0", "text": "I was thinking about it, but I'm still making it.", "start": 6863.0, "end": 6866.0}
+{"id": "9lmzJ9fZDz0-t6866.0", "text": "Because otherwise, the odds will be the last question.", "start": 6866.0, "end": 6871.0}
+{"id": "9lmzJ9fZDz0-t6871.0", "text": "From the Buddhist perspective, the phrase, the realm of mystery is a non-secretory, because it presumes that mystery is an ontology rather than an aesthetic.", "start": 6871.0, "end": 6881.0}
+{"id": "9lmzJ9fZDz0-t6881.0", "text": "When you use the phrase, cognition.", "start": 6881.0, "end": 6886.0}
+{"id": "9lmzJ9fZDz0-t6886.0", "text": "Cognition is as much faith as it is a method of reasoning.", "start": 6886.0, "end": 6891.0}
+{"id": "9lmzJ9fZDz0-t6891.0", "text": "And when you are referred to the arrogance of science, the presumption that we could know more than our experience in this moment, after all, my experience of you, in this moment, is my creation.", "start": 6891.0, "end": 6907.0}
+{"id": "9lmzJ9fZDz0-t6907.0", "text": "And so, did God create man, or did man create God?", "start": 6907.0, "end": 6913.0}
+{"id": "9lmzJ9fZDz0-t6913.0", "text": "And there are many people who feel that that is more the reality.", "start": 6913.0, "end": 6919.0}
+{"id": "9lmzJ9fZDz0-t6919.0", "text": "So I don't think you've really reached an understanding of what mystery is.", "start": 6919.0, "end": 6928.0}
+{"id": "9lmzJ9fZDz0-t6928.0", "text": "It's very personal. My sense of mystery, my sense of awe, my sense of the aesthetic is very personal.", "start": 6928.0, "end": 6939.0}
+{"id": "9lmzJ9fZDz0-t6939.0", "text": "I don't think I could generalize that.", "start": 6939.0, "end": 6942.0}
+{"id": "9lmzJ9fZDz0-t6942.0", "text": "And your presumption is that it can be generalized. I object to that.", "start": 6942.0, "end": 6948.0}
+{"id": "9lmzJ9fZDz0-t6948.0", "text": "Okay. I think we wanted to talk about a topic, so one tried to think of it as a topic to be talked about. That does not preclude your being right.", "start": 6948.0, "end": 6958.0}
+{"id": "9lmzJ9fZDz0-t6958.0", "text": "That we tried. Dr. Kafka, do you have a question, Randy?", "start": 6958.0, "end": 6969.0}
+{"id": "9lmzJ9fZDz0-t6969.0", "text": "The problem is not having a question. The problem is having too many questions. First of all, it seems to me that if you want to be able to talk about something, you have to limit the subject.", "start": 6969.0, "end": 6985.0}
+{"id": "9lmzJ9fZDz0-t6985.0", "text": "And that was not something that it's easy to do. It's very difficult for me to do. If I could say what the question is, first of all, the question of language, how do you arrive at the definition of what you call language?", "start": 6985.0, "end": 7005.0}
+{"id": "9lmzJ9fZDz0-t7005.0", "text": "Is it all lexical or inclusive of art, music, painting, etc.? Bob Motherwell once said on a television program when he was asked, yes, I understand what you're doing.", "start": 7005.0, "end": 7019.0}
+{"id": "9lmzJ9fZDz0-t7019.0", "text": "Your actions are supposed to reveal something or communicate something about what your experience is to other people. But tell me, what does it represent your work?", "start": 7019.0, "end": 7029.0}
+{"id": "9lmzJ9fZDz0-t7029.0", "text": "And Motherwell turned to the interviewer and said, what do you represent? Is it a representation that we're looking for in art? Or is it something that one can represent?", "start": 7029.0, "end": 7042.0}
+{"id": "9lmzJ9fZDz0-t7042.0", "text": "And the communication aspect is very important. Now, as far as non-lexical language is concerned, the behavior of crowds, the behavior of animals, the relationships between dogs and humans,", "start": 7042.0, "end": 7058.0}
+{"id": "9lmzJ9fZDz0-t7058.0", "text": "dogs can read our minds. They can experience our emotions. And they respond to them according to the way they experience.", "start": 7058.0, "end": 7066.0}
+{"id": "9lmzJ9fZDz0-t7066.0", "text": "Now, whether they ever have invented the idea of what does it all mean, this is another thing. Where does this come from? This idea of meaning.", "start": 7066.0, "end": 7080.0}
+{"id": "9lmzJ9fZDz0-t7080.0", "text": "We hear a lot about science, which seems to be an exploration of mechanics. How does something come about what goes into it, whether the physical or whatever laws that are involved with it?", "start": 7080.0, "end": 7093.0}
+{"id": "9lmzJ9fZDz0-t7093.0", "text": "But it doesn't explain meaning. I don't think that there is a science of eliciting meaning. And I'd like to know what people think about this. Could we go into it a little bit some other time?", "start": 7093.0, "end": 7104.0}
+{"id": "9lmzJ9fZDz0-t7104.0", "text": "Does anybody want to give a quick answer or are we stopping?", "start": 7104.0, "end": 7109.0}
+{"id": "9lmzJ9fZDz0-t7109.0", "text": "Science doesn't do meaning. I think we had this discussion earlier, science is about how the world works. And I think we do that very well.", "start": 7109.0, "end": 7119.0}
+{"id": "9lmzJ9fZDz0-t7119.0", "text": "And if you, it's like the plumber, if you want your living room decorated, you don't call the plumber. You call the interior decorator. So we do the plumbing very well.", "start": 7119.0, "end": 7129.0}
+{"id": "9lmzJ9fZDz0-t7129.0", "text": "And we do how the universe works extremely well. Okay, thank you very much.", "start": 7129.0, "end": 7134.0}
+{"id": "9lmzJ9fZDz0-t7159.0", "text": "Thank you.", "start": 7159.0, "end": 7166.0}

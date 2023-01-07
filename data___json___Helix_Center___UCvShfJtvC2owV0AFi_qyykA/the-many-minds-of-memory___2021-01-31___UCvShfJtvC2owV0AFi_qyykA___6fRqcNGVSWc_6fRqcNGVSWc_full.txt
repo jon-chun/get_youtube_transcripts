@@ -1,0 +1,1477 @@
+{"id": "6fRqcNGVSWc-t0.0", "text": "Good day, everyone.", "start": 0.0, "end": 1.6}
+{"id": "6fRqcNGVSWc-t1.6", "text": "Welcome back to the Hillock Center.", "start": 1.6, "end": 4.16}
+{"id": "6fRqcNGVSWc-t4.16", "text": "I'm Gerald Hurowitz.", "start": 4.16, "end": 5.36}
+{"id": "6fRqcNGVSWc-t5.36", "text": "I'm the Associate Director of the Hillocks.", "start": 5.36, "end": 7.88}
+{"id": "6fRqcNGVSWc-t7.88", "text": "And we're here with a wonderful panel today", "start": 7.88, "end": 11.08}
+{"id": "6fRqcNGVSWc-t11.08", "text": "on the many minds of memory.", "start": 11.08, "end": 12.96}
+{"id": "6fRqcNGVSWc-t12.96", "text": "We're gonna allow Beverly Zabriski", "start": 12.96, "end": 15.32}
+{"id": "6fRqcNGVSWc-t15.32", "text": "to give you more detail about our wonderful panel.", "start": 15.32, "end": 18.76}
+{"id": "6fRqcNGVSWc-t18.76", "text": "Before that, I wanna mention a few,", "start": 18.76, "end": 20.46}
+{"id": "6fRqcNGVSWc-t20.46", "text": "make a few comments.", "start": 20.46, "end": 21.56}
+{"id": "6fRqcNGVSWc-t21.56", "text": "First of all, I hope everyone is holding on", "start": 21.56, "end": 24.44}
+{"id": "6fRqcNGVSWc-t24.44", "text": "and doing well through this pandemic.", "start": 24.44, "end": 26.92}
+{"id": "6fRqcNGVSWc-t26.92", "text": "It's been a very long haul.", "start": 26.92, "end": 28.88}
+{"id": "6fRqcNGVSWc-t28.88", "text": "Everyone's had to adapt to it,", "start": 28.88, "end": 31.2}
+{"id": "6fRqcNGVSWc-t31.2", "text": "including us here at the Hillock Center,", "start": 31.2, "end": 34.76}
+{"id": "6fRqcNGVSWc-t34.76", "text": "including these Zoom roundtables.", "start": 34.76, "end": 38.56}
+{"id": "6fRqcNGVSWc-t38.56", "text": "But we do what we can, right?", "start": 38.56, "end": 40.04}
+{"id": "6fRqcNGVSWc-t40.04", "text": "And we're getting through this.", "start": 40.04, "end": 42.12}
+{"id": "6fRqcNGVSWc-t42.12", "text": "I wanna mention that we have a few additional roundtables", "start": 42.12, "end": 45.84}
+{"id": "6fRqcNGVSWc-t45.84", "text": "coming up.", "start": 45.84, "end": 46.8}
+{"id": "6fRqcNGVSWc-t46.8", "text": "We're anticipating on February 20th,", "start": 46.8, "end": 49.28}
+{"id": "6fRqcNGVSWc-t49.28", "text": "we're gonna have a talk on populism.", "start": 49.28, "end": 52.0}
+{"id": "6fRqcNGVSWc-t52.0", "text": "And then sometime in March,", "start": 52.0, "end": 53.92}
+{"id": "6fRqcNGVSWc-t53.92", "text": "the date to be determined,", "start": 53.92, "end": 56.16}
+{"id": "6fRqcNGVSWc-t56.16", "text": "a talk on placebo, no, SIBO response.", "start": 56.16, "end": 59.239999999999995}
+{"id": "6fRqcNGVSWc-t60.36", "text": "There may be yet a additional one on stress", "start": 60.36, "end": 62.959999999999994}
+{"id": "6fRqcNGVSWc-t62.959999999999994", "text": "later into the spring.", "start": 62.959999999999994, "end": 64.84}
+{"id": "6fRqcNGVSWc-t64.84", "text": "So that's it for now.", "start": 64.84, "end": 65.67999999999999}
+{"id": "6fRqcNGVSWc-t65.67999999999999", "text": "I'll hand it over to Beverly Zabriski.", "start": 65.67999999999999, "end": 68.47999999999999}
+{"id": "6fRqcNGVSWc-t68.47999999999999", "text": "Welcome.", "start": 68.47999999999999, "end": 70.28}
+{"id": "6fRqcNGVSWc-t70.28", "text": "I was just saying that this is our second Zoom helix program.", "start": 70.28, "end": 75.28}
+{"id": "6fRqcNGVSWc-t77.24", "text": "We're not sitting in a circle with each other.", "start": 77.24, "end": 80.03999999999999}
+{"id": "6fRqcNGVSWc-t80.03999999999999", "text": "We're not bouncing off each other's chemistry", "start": 80.03999999999999, "end": 83.24}
+{"id": "6fRqcNGVSWc-t83.24", "text": "in the same way at all.", "start": 83.24, "end": 85.12}
+{"id": "6fRqcNGVSWc-t85.12", "text": "But we have a particularly wonderful, lively, creative", "start": 85.12, "end": 90.12}
+{"id": "6fRqcNGVSWc-t90.12", "text": "and deep group of presenters today", "start": 90.12, "end": 94.04}
+{"id": "6fRqcNGVSWc-t94.04", "text": "for whom I'm very grateful that they were able to change", "start": 94.04, "end": 97.48}
+{"id": "6fRqcNGVSWc-t97.48", "text": "the date from last March 14th,", "start": 97.48, "end": 100.2}
+{"id": "6fRqcNGVSWc-t100.2", "text": "which was the cusp of COVID to today.", "start": 100.2, "end": 103.08000000000001}
+{"id": "6fRqcNGVSWc-t103.08000000000001", "text": "So I wanna express my appreciation to all of you.", "start": 103.08000000000001, "end": 107.32000000000001}
+{"id": "6fRqcNGVSWc-t107.32000000000001", "text": "We have physicians, neurologists, an artist,", "start": 107.32000000000001, "end": 112.32000000000001}
+{"id": "6fRqcNGVSWc-t112.32", "text": "dog cognition researcher, author.", "start": 112.32, "end": 116.88}
+{"id": "6fRqcNGVSWc-t116.88", "text": "And if you, after the program,", "start": 116.88, "end": 120.19999999999999}
+{"id": "6fRqcNGVSWc-t120.19999999999999", "text": "look at their biographies,", "start": 120.19999999999999, "end": 122.24}
+{"id": "6fRqcNGVSWc-t122.24", "text": "you will see an extraordinarily varied", "start": 122.24, "end": 126.03999999999999}
+{"id": "6fRqcNGVSWc-t126.03999999999999", "text": "and deep list of accomplishments", "start": 126.03999999999999, "end": 131.04}
+{"id": "6fRqcNGVSWc-t131.48", "text": "so that we don't take up the whole program", "start": 131.48, "end": 133.68}
+{"id": "6fRqcNGVSWc-t133.68", "text": "talking about them rather than hearing from them.", "start": 133.68, "end": 137.0}
+{"id": "6fRqcNGVSWc-t137.0", "text": "I've asked each of them to go around and tell us,", "start": 137.0, "end": 140.4}
+{"id": "6fRqcNGVSWc-t140.4", "text": "just say what your profession is", "start": 140.4, "end": 144.76000000000002}
+{"id": "6fRqcNGVSWc-t144.76000000000002", "text": "and maybe your title and what you most want", "start": 144.76000000000002, "end": 147.48000000000002}
+{"id": "6fRqcNGVSWc-t147.48000000000002", "text": "to be remembered for professionally.", "start": 147.48000000000002, "end": 150.36}
+{"id": "6fRqcNGVSWc-t151.20000000000002", "text": "And then for all the credentials,", "start": 151.20000000000002, "end": 152.96}
+{"id": "6fRqcNGVSWc-t152.96", "text": "we can each research that on our own.", "start": 152.96, "end": 155.88}
+{"id": "6fRqcNGVSWc-t156.88", "text": "So can we start with Christina Alberini?", "start": 156.88, "end": 161.32}
+{"id": "6fRqcNGVSWc-t163.92000000000002", "text": "Sure.", "start": 163.92000000000002, "end": 164.72}
+{"id": "6fRqcNGVSWc-t164.72", "text": "Hi everyone.", "start": 164.72, "end": 166.52}
+{"id": "6fRqcNGVSWc-t166.52", "text": "First of all, I'd like to thank", "start": 166.52, "end": 168.76}
+{"id": "6fRqcNGVSWc-t168.76", "text": "everyone at the Helix Center for organizing these E meetings.", "start": 168.76, "end": 173.51999999999998}
+{"id": "6fRqcNGVSWc-t173.51999999999998", "text": "They are very important so that we can keep being connected.", "start": 173.51999999999998, "end": 176.95999999999998}
+{"id": "6fRqcNGVSWc-t178.23999999999998", "text": "And second, let me tell you what I'm doing.", "start": 178.23999999999998, "end": 181.23999999999998}
+{"id": "6fRqcNGVSWc-t181.23999999999998", "text": "I am a professor of neuroscience", "start": 181.23999999999998, "end": 184.16}
+{"id": "6fRqcNGVSWc-t184.16", "text": "at the Center for Neuroscience, New York University.", "start": 184.16, "end": 188.56}
+{"id": "6fRqcNGVSWc-t188.56", "text": "And I have been studying for now about 30 years,", "start": 188.56, "end": 192.28}
+{"id": "6fRqcNGVSWc-t192.28", "text": "the biological basis of learning a memory.", "start": 192.28, "end": 195.72}
+{"id": "6fRqcNGVSWc-t195.72", "text": "And of course, if we want to get into biology,", "start": 195.72, "end": 198.6}
+{"id": "6fRqcNGVSWc-t198.6", "text": "we have to use models.", "start": 198.6, "end": 200.72}
+{"id": "6fRqcNGVSWc-t200.72", "text": "We are not using humans because we need to get into the brains", "start": 200.72, "end": 205.35999999999999}
+{"id": "6fRqcNGVSWc-t205.35999999999999", "text": "of models and understand what type of biological mechanisms", "start": 205.35999999999999, "end": 210.16}
+{"id": "6fRqcNGVSWc-t210.16", "text": "change with learning and which one are important", "start": 210.16, "end": 213.88}
+{"id": "6fRqcNGVSWc-t213.88", "text": "for making memories.", "start": 213.88, "end": 215.76}
+{"id": "6fRqcNGVSWc-t215.76", "text": "And of course, memories come in different types.", "start": 215.76, "end": 218.35999999999999}
+{"id": "6fRqcNGVSWc-t218.35999999999999", "text": "Well, I'm sure we'll discuss about that.", "start": 218.35999999999999, "end": 221.28}
+{"id": "6fRqcNGVSWc-t221.28", "text": "So the questions we have in the lab", "start": 221.28, "end": 223.28}
+{"id": "6fRqcNGVSWc-t223.28", "text": "is mostly about memory formation and storage", "start": 223.28, "end": 227.79999999999998}
+{"id": "6fRqcNGVSWc-t227.8", "text": "and also about how memories are retrieved.", "start": 227.8, "end": 230.44}
+{"id": "6fRqcNGVSWc-t230.44", "text": "So when we recall memories, what happens to the biology", "start": 230.44, "end": 234.08}
+{"id": "6fRqcNGVSWc-t234.08", "text": "of the brain and what are the biological mechanisms that", "start": 234.08, "end": 237.88000000000002}
+{"id": "6fRqcNGVSWc-t237.88000000000002", "text": "come into play to change those memories?", "start": 237.88000000000002, "end": 241.68}
+{"id": "6fRqcNGVSWc-t241.68", "text": "Because at every single recall, we", "start": 241.68, "end": 244.92000000000002}
+{"id": "6fRqcNGVSWc-t244.92000000000002", "text": "change our memories and the storage of information.", "start": 244.92000000000002, "end": 250.52}
+{"id": "6fRqcNGVSWc-t250.52", "text": "And what do I want to be remembered for my professional", "start": 250.52, "end": 255.60000000000002}
+{"id": "6fRqcNGVSWc-t255.6", "text": "contribution while I hope there is many more things to come?", "start": 255.6, "end": 259.32}
+{"id": "6fRqcNGVSWc-t259.32", "text": "So I'm looking into the future.", "start": 259.32, "end": 261.92}
+{"id": "6fRqcNGVSWc-t261.92", "text": "But ideally, of course, it's not only", "start": 261.92, "end": 264.15999999999997}
+{"id": "6fRqcNGVSWc-t264.15999999999997", "text": "to progress significantly in the understanding", "start": 264.15999999999997, "end": 270.04}
+{"id": "6fRqcNGVSWc-t270.04", "text": "of the biology of memory, which is what we do,", "start": 270.04, "end": 273.04}
+{"id": "6fRqcNGVSWc-t273.04", "text": "but also to find mechanisms through these studies", "start": 273.04, "end": 276.08}
+{"id": "6fRqcNGVSWc-t276.08", "text": "that are important for memory losses and diseases", "start": 276.08, "end": 280.15999999999997}
+{"id": "6fRqcNGVSWc-t280.15999999999997", "text": "of memories.", "start": 280.15999999999997, "end": 281.76}
+{"id": "6fRqcNGVSWc-t281.76", "text": "And those are many.", "start": 281.76, "end": 283.6}
+{"id": "6fRqcNGVSWc-t283.6", "text": "I can just mention a few.", "start": 283.6, "end": 285.32}
+{"id": "6fRqcNGVSWc-t285.32", "text": "Of course, Alzheimer's disease and neurodegenerative diseases", "start": 285.32, "end": 289.15999999999997}
+{"id": "6fRqcNGVSWc-t289.15999999999997", "text": "that come with memory loss, but also cognitive impairments", "start": 289.15999999999997, "end": 292.92}
+{"id": "6fRqcNGVSWc-t292.92", "text": "in neurodevelopmental disorders, as well as problems", "start": 292.92, "end": 296.8}
+{"id": "6fRqcNGVSWc-t296.8", "text": "of memories due to traumatic experiences or addiction.", "start": 296.8, "end": 301.28}
+{"id": "6fRqcNGVSWc-t301.28", "text": "I'm going to stop there.", "start": 301.28, "end": 302.8}
+{"id": "6fRqcNGVSWc-t302.8", "text": "Thank you.", "start": 302.8, "end": 303.28}
+{"id": "6fRqcNGVSWc-t309.44", "text": "You're on mute, Beverly.", "start": 309.44, "end": 310.44}
+{"id": "6fRqcNGVSWc-t310.44", "text": "We can't hear you.", "start": 310.44, "end": 311.15999999999997}
+{"id": "6fRqcNGVSWc-t311.16", "text": "Richard, author, distinguished author.", "start": 311.16, "end": 315.16}
+{"id": "6fRqcNGVSWc-t315.16", "text": "Well, hello, everybody.", "start": 315.16, "end": 319.16}
+{"id": "6fRqcNGVSWc-t319.16", "text": "And thanks to the Helix organization, I'm not", "start": 319.16, "end": 323.16}
+{"id": "6fRqcNGVSWc-t323.16", "text": "a dog recognition expert.", "start": 323.16, "end": 326.16}
+{"id": "6fRqcNGVSWc-t326.16", "text": "Although the first half of my career, maybe I was in that I", "start": 326.16, "end": 330.16}
+{"id": "6fRqcNGVSWc-t330.16", "text": "was a publisher and editor and recognizing the dogs and the", "start": 330.16, "end": 334.16}
+{"id": "6fRqcNGVSWc-t334.16", "text": "successes that I've done.", "start": 334.16, "end": 337.16}
+{"id": "6fRqcNGVSWc-t337.16", "text": "More recently, although I did not know", "start": 337.16, "end": 339.16}
+{"id": "6fRqcNGVSWc-t339.16", "text": "that I had continued editing, when I came to the states,", "start": 339.16, "end": 343.16}
+{"id": "6fRqcNGVSWc-t343.16", "text": "my first freelance job was to edit the autobiography", "start": 343.16, "end": 347.16}
+{"id": "6fRqcNGVSWc-t347.16", "text": "by Rudy Giuliani.", "start": 347.16, "end": 349.16}
+{"id": "6fRqcNGVSWc-t349.16", "text": "But I normally like to keep quiet about that.", "start": 349.16, "end": 352.16}
+{"id": "6fRqcNGVSWc-t352.16", "text": "I've written four publish books since coming to the states.", "start": 352.16, "end": 358.16}
+{"id": "6fRqcNGVSWc-t358.16", "text": "I've also contributed to a book more recently,", "start": 358.16, "end": 361.16}
+{"id": "6fRqcNGVSWc-t361.16", "text": "The Presence of the Past Essays on Memory for the Academic", "start": 361.16, "end": 365.16}
+{"id": "6fRqcNGVSWc-t365.16", "text": "Press.", "start": 365.16, "end": 370.16}
+{"id": "6fRqcNGVSWc-t370.16", "text": "In terms of what I'd be most pleased to be remembered for,", "start": 370.16, "end": 373.16}
+{"id": "6fRqcNGVSWc-t373.16", "text": "I suppose it's a book that I've got coming out in June,", "start": 373.16, "end": 377.16}
+{"id": "6fRqcNGVSWc-t377.16", "text": "which is called The History Makers, which looks at people who", "start": 377.16, "end": 381.16}
+{"id": "6fRqcNGVSWc-t381.16", "text": "have influenced our ideas, shaped our ideas of the past,", "start": 381.16, "end": 385.16}
+{"id": "6fRqcNGVSWc-t385.16", "text": "from Herodotus to the TV age.", "start": 385.16, "end": 388.16}
+{"id": "6fRqcNGVSWc-t388.16", "text": "So I'm very much here with the hat of a historian.", "start": 388.16, "end": 394.16}
+{"id": "6fRqcNGVSWc-t394.16", "text": "But with a particular interest in how memory works,", "start": 394.16, "end": 399.16}
+{"id": "6fRqcNGVSWc-t399.16", "text": "which of course has had a large part to play in the writing", "start": 399.16, "end": 402.16}
+{"id": "6fRqcNGVSWc-t402.16", "text": "and history.", "start": 402.16, "end": 406.16}
+{"id": "6fRqcNGVSWc-t406.16", "text": "Thank you very much, Richard.", "start": 406.16, "end": 408.16}
+{"id": "6fRqcNGVSWc-t408.16", "text": "And then the neurologist, Guy Atre Gevvy, who is also the author", "start": 408.16, "end": 413.16}
+{"id": "6fRqcNGVSWc-t413.16", "text": "of Spectrums of Hope, about the aging brain, Guy Atre.", "start": 413.16, "end": 420.16}
+{"id": "6fRqcNGVSWc-t420.16", "text": "Thanks for having me, Beverly.", "start": 420.16, "end": 423.16}
+{"id": "6fRqcNGVSWc-t423.16", "text": "I'm a neurologist.", "start": 423.16, "end": 424.16}
+{"id": "6fRqcNGVSWc-t424.16", "text": "I'm Director of Park Avenue Neurology,", "start": 424.16, "end": 426.16}
+{"id": "6fRqcNGVSWc-t426.16", "text": "and I'm a clinical professor of neurology at Downstate", "start": 426.16, "end": 429.16}
+{"id": "6fRqcNGVSWc-t429.16", "text": "Medical Center in Brooklyn.", "start": 429.16, "end": 430.16}
+{"id": "6fRqcNGVSWc-t430.16", "text": "I've been a cognitive neurologist for 26 years now.", "start": 430.16, "end": 434.16}
+{"id": "6fRqcNGVSWc-t434.16", "text": "I can't believe it's been that long.", "start": 434.16, "end": 437.16}
+{"id": "6fRqcNGVSWc-t437.16", "text": "And love my job.", "start": 437.16, "end": 439.16}
+{"id": "6fRqcNGVSWc-t439.16", "text": "And what I'd like to be remembered for is two things.", "start": 439.16, "end": 442.16}
+{"id": "6fRqcNGVSWc-t442.16", "text": "One, that Alzheimer's disease is a spectrum disorder,", "start": 442.16, "end": 448.16}
+{"id": "6fRqcNGVSWc-t448.16", "text": "and it is informed very much by the brain that the person", "start": 448.16, "end": 452.16}
+{"id": "6fRqcNGVSWc-t452.16", "text": "brings to the illness, your strengths and weaknesses", "start": 452.16, "end": 455.16}
+{"id": "6fRqcNGVSWc-t455.16", "text": "inform how you develop it, how you manifest it,", "start": 455.16, "end": 460.16}
+{"id": "6fRqcNGVSWc-t460.16", "text": "and how you respond to treatment.", "start": 460.16, "end": 462.16}
+{"id": "6fRqcNGVSWc-t462.16", "text": "So it's very different, for example, from kidney disease,", "start": 462.16, "end": 465.16}
+{"id": "6fRqcNGVSWc-t465.16", "text": "where you can, the same kidney condition means the same thing", "start": 465.16, "end": 471.16}
+{"id": "6fRqcNGVSWc-t471.16", "text": "in multiple people, whereas Alzheimer's in one person is a", "start": 471.16, "end": 475.16}
+{"id": "6fRqcNGVSWc-t475.16", "text": "private Alzheimer's and very different from Alzheimer's", "start": 475.16, "end": 478.16}
+{"id": "6fRqcNGVSWc-t478.16", "text": "in another person.", "start": 478.16, "end": 479.16}
+{"id": "6fRqcNGVSWc-t479.16", "text": "And the same thing with mild cognitive impairment", "start": 479.16, "end": 482.16}
+{"id": "6fRqcNGVSWc-t482.16", "text": "or memory problems that they vary and are very, very private", "start": 482.16, "end": 486.16}
+{"id": "6fRqcNGVSWc-t486.16", "text": "to each person's brain.", "start": 486.16, "end": 488.16}
+{"id": "6fRqcNGVSWc-t488.16", "text": "And the second thing I'd like to be remembered for is", "start": 488.16, "end": 493.16}
+{"id": "6fRqcNGVSWc-t493.16", "text": "the systematizing of menopause-related cognitive loss.", "start": 493.16, "end": 498.16}
+{"id": "6fRqcNGVSWc-t498.16", "text": "Women going through menopause have cognitive loss,", "start": 498.16, "end": 501.16}
+{"id": "6fRqcNGVSWc-t501.16", "text": "which can mimic that of early Alzheimer's,", "start": 501.16, "end": 504.16}
+{"id": "6fRqcNGVSWc-t504.16", "text": "and when it's not recognized and treated as such,", "start": 504.16, "end": 508.16}
+{"id": "6fRqcNGVSWc-t508.16", "text": "and unfortunately, in neurology, we don't actually get a menopausal", "start": 508.16, "end": 513.1600000000001}
+{"id": "6fRqcNGVSWc-t513.1600000000001", "text": "or a history of anything related to the uterus from women as a role.", "start": 513.1600000000001, "end": 520.1600000000001}
+{"id": "6fRqcNGVSWc-t520.1600000000001", "text": "That systematization, I'm very proud of.", "start": 520.1600000000001, "end": 524.1600000000001}
+{"id": "6fRqcNGVSWc-t524.1600000000001", "text": "We just published that in the Journal of the American College", "start": 524.1600000000001, "end": 528.1600000000001}
+{"id": "6fRqcNGVSWc-t528.1600000000001", "text": "of Obstetrics and Gynecology.", "start": 528.1600000000001, "end": 530.1600000000001}
+{"id": "6fRqcNGVSWc-t530.1600000000001", "text": "So thank you very much for having me.", "start": 530.1600000000001, "end": 535.1600000000001}
+{"id": "6fRqcNGVSWc-t535.16", "text": "And thank you for being here.", "start": 535.16, "end": 538.16}
+{"id": "6fRqcNGVSWc-t538.16", "text": "And Andy Lee, who is a neuroscientist at the University of", "start": 538.16, "end": 541.16}
+{"id": "6fRqcNGVSWc-t541.16", "text": "Toronto, has been working on memory disorders for many years.", "start": 541.16, "end": 546.16}
+{"id": "6fRqcNGVSWc-t546.16", "text": "Andy?", "start": 546.16, "end": 547.16}
+{"id": "6fRqcNGVSWc-t547.16", "text": "Everyone, thank you for the organizers for inviting me.", "start": 547.16, "end": 551.16}
+{"id": "6fRqcNGVSWc-t551.16", "text": "It's a real privilege to be here and to be part of this panel.", "start": 551.16, "end": 554.16}
+{"id": "6fRqcNGVSWc-t554.16", "text": "So as Beverly just said, I am based in Toronto at the University", "start": 554.16, "end": 558.16}
+{"id": "6fRqcNGVSWc-t558.16", "text": "of Toronto at the Scarborough campus, and I'm a cognitive", "start": 558.16, "end": 562.16}
+{"id": "6fRqcNGVSWc-t562.16", "text": "neuroscientist, so my lab is interested in how a group of", "start": 562.16, "end": 566.16}
+{"id": "6fRqcNGVSWc-t566.16", "text": "structures in the brain, probably the most familiar one to a lot", "start": 566.16, "end": 569.16}
+{"id": "6fRqcNGVSWc-t569.16", "text": "of people who is at the campus, how that's involved in memory", "start": 569.16, "end": 572.16}
+{"id": "6fRqcNGVSWc-t572.16", "text": "processing, so we do a lot of brain imaging, MRI scanning.", "start": 572.16, "end": 575.16}
+{"id": "6fRqcNGVSWc-t575.16", "text": "We look at patients with amnesia, and our particular", "start": 575.16, "end": 579.16}
+{"id": "6fRqcNGVSWc-t579.16", "text": "interests are how memory interacts with other things.", "start": 579.16, "end": 582.16}
+{"id": "6fRqcNGVSWc-t582.16", "text": "So perception being one, decision making, and if there's one", "start": 582.16, "end": 587.16}
+{"id": "6fRqcNGVSWc-t587.16", "text": "thing maybe I would like to be remembered by, I think,", "start": 587.16, "end": 591.16}
+{"id": "6fRqcNGVSWc-t591.16", "text": "I think that was Beverly, I asked her certainly not thinking,", "start": 591.16, "end": 594.16}
+{"id": "6fRqcNGVSWc-t594.16", "text": "what do I want to remember by?", "start": 594.16, "end": 596.16}
+{"id": "6fRqcNGVSWc-t596.16", "text": "I wasn't quite sure, but I think maybe I'm not ambitious enough,", "start": 596.16, "end": 599.16}
+{"id": "6fRqcNGVSWc-t599.16", "text": "but even 10, 20 years, at least one thing that we've discovered", "start": 599.16, "end": 604.16}
+{"id": "6fRqcNGVSWc-t604.16", "text": "has actually contributed to our understanding of how the brain", "start": 604.16, "end": 608.16}
+{"id": "6fRqcNGVSWc-t608.16", "text": "actually processes like time in memory or visual eye,", "start": 608.16, "end": 612.16}
+{"id": "6fRqcNGVSWc-t612.16", "text": "it depends on memory, and gives us a little bit of understanding", "start": 612.16, "end": 615.16}
+{"id": "6fRqcNGVSWc-t615.16", "text": "into why patients like Alzheimer's disease patients have", "start": 615.16, "end": 617.16}
+{"id": "6fRqcNGVSWc-t617.16", "text": "memory problems, I'd be happy.", "start": 617.16, "end": 621.16}
+{"id": "6fRqcNGVSWc-t621.16", "text": "So that's my answer to that question.", "start": 621.16, "end": 625.16}
+{"id": "6fRqcNGVSWc-t625.16", "text": "That is quite ambitious, Andy.", "start": 625.16, "end": 629.16}
+{"id": "6fRqcNGVSWc-t629.16", "text": "And we have an author and a researcher and professor at", "start": 629.16, "end": 633.16}
+{"id": "6fRqcNGVSWc-t633.16", "text": "Barnard College at the Dog Cognition Lab, and I think", "start": 633.16, "end": 640.16}
+{"id": "6fRqcNGVSWc-t640.16", "text": "her last book has really marked this particular era as far as I", "start": 640.16, "end": 645.16}
+{"id": "6fRqcNGVSWc-t645.16", "text": "see from the people that I'm in contact with, which is our", "start": 645.16, "end": 649.16}
+{"id": "6fRqcNGVSWc-t649.16", "text": "dogs ourselves, a story of a singular bond.", "start": 649.16, "end": 653.16}
+{"id": "6fRqcNGVSWc-t653.16", "text": "Alexandra, thank you for being here.", "start": 653.16, "end": 656.16}
+{"id": "6fRqcNGVSWc-t656.16", "text": "Thanks, Beverly, and thank you to the Helix Center.", "start": 656.16, "end": 659.16}
+{"id": "6fRqcNGVSWc-t659.16", "text": "I'm pleased to be with you all here.", "start": 659.16, "end": 662.16}
+{"id": "6fRqcNGVSWc-t662.16", "text": "As Beverly said, I'm a teacher at Barnard College, and I'm a", "start": 662.16, "end": 666.16}
+{"id": "6fRqcNGVSWc-t666.16", "text": "Senior Research Fellow there, and I had the Dog Cognition Lab.", "start": 666.16, "end": 670.16}
+{"id": "6fRqcNGVSWc-t670.16", "text": "So I'm a cognitive scientist studying non-human animal mind", "start": 670.16, "end": 674.16}
+{"id": "6fRqcNGVSWc-t674.16", "text": "and the dog is my non-human of interest, and I've written", "start": 674.16, "end": 680.16}
+{"id": "6fRqcNGVSWc-t680.16", "text": "widely on Dog Mind and the Dog Human Bond.", "start": 680.16, "end": 684.16}
+{"id": "6fRqcNGVSWc-t684.16", "text": "I think I'd like to be remembered for bringing our attention back", "start": 684.16, "end": 691.16}
+{"id": "6fRqcNGVSWc-t691.16", "text": "to imagining that Oomveldt, the world view, the perspective of", "start": 691.16, "end": 696.16}
+{"id": "6fRqcNGVSWc-t696.16", "text": "non-human others, I think.", "start": 696.16, "end": 699.16}
+{"id": "6fRqcNGVSWc-t699.16", "text": "And I don't know if I have fully imagined the world view of", "start": 699.16, "end": 703.16}
+{"id": "6fRqcNGVSWc-t703.16", "text": "non-human people, or the world view of non-human people,", "start": 703.16, "end": 707.16}
+{"id": "6fRqcNGVSWc-t707.16", "text": "or the world view of non-human people.", "start": 707.16, "end": 709.16}
+{"id": "6fRqcNGVSWc-t709.16", "text": "I think I'm a non-humanist, but maybe by the end of my life,", "start": 709.16, "end": 713.16}
+{"id": "6fRqcNGVSWc-t713.16", "text": "that can be an accomplishment I look back on.", "start": 713.16, "end": 716.16}
+{"id": "6fRqcNGVSWc-t716.16", "text": "For now, it's just bringing people's attention to the", "start": 716.16, "end": 719.16}
+{"id": "6fRqcNGVSWc-t719.16", "text": "perspectives of others and remembering that there is a", "start": 719.16, "end": 722.16}
+{"id": "6fRqcNGVSWc-t722.16", "text": "perspective that is different from the human perspective.", "start": 722.16, "end": 725.16}
+{"id": "6fRqcNGVSWc-t725.16", "text": "Thank you so much, Alexandra, and it reminds me that at the", "start": 725.16, "end": 729.16}
+{"id": "6fRqcNGVSWc-t729.16", "text": "end of the day, I was a little bit nervous about the", "start": 729.16, "end": 733.16}
+{"id": "6fRqcNGVSWc-t733.16", "text": "person who had a dream, a patient who went there and had a dream", "start": 733.16, "end": 737.16}
+{"id": "6fRqcNGVSWc-t737.16", "text": "of a dog.", "start": 737.16, "end": 739.16}
+{"id": "6fRqcNGVSWc-t739.16", "text": "It was considered a very positive prognosis.", "start": 739.16, "end": 743.16}
+{"id": "6fRqcNGVSWc-t743.16", "text": "So I sort of work out of that template myself these days.", "start": 743.16, "end": 748.16}
+{"id": "6fRqcNGVSWc-t748.16", "text": "And then we have a lady that I met, the last Chinese lunar", "start": 748.16, "end": 756.16}
+{"id": "6fRqcNGVSWc-t756.16", "text": "project, and she's a scientist, a journalist, a broadcaster,", "start": 756.16, "end": 762.16}
+{"id": "6fRqcNGVSWc-t762.16", "text": "and she will tell you some of the projects that she has", "start": 762.16, "end": 766.16}
+{"id": "6fRqcNGVSWc-t766.16", "text": "created.", "start": 766.16, "end": 768.16}
+{"id": "6fRqcNGVSWc-t768.16", "text": "Thank you, Beverly, and the Helix Center for hosting this", "start": 768.16, "end": 773.16}
+{"id": "6fRqcNGVSWc-t773.16", "text": "discussion.", "start": 773.16, "end": 775.16}
+{"id": "6fRqcNGVSWc-t775.16", "text": "I think this discussion sort of came out of the talk that we", "start": 775.16, "end": 780.16}
+{"id": "6fRqcNGVSWc-t780.16", "text": "had at that dinner, where we were talking about if history is", "start": 780.16, "end": 784.16}
+{"id": "6fRqcNGVSWc-t784.16", "text": "a positive memory of a nation, then what happens if you're", "start": 784.16, "end": 788.16}
+{"id": "6fRqcNGVSWc-t788.16", "text": "consistently missing from that story or you're constantly", "start": 788.16, "end": 793.16}
+{"id": "6fRqcNGVSWc-t793.16", "text": "vilified in it?", "start": 793.16, "end": 795.16}
+{"id": "6fRqcNGVSWc-t795.16", "text": "So what happens to your present and how does it affect your", "start": 795.16, "end": 801.16}
+{"id": "6fRqcNGVSWc-t801.16", "text": "future?", "start": 801.16, "end": 803.16}
+{"id": "6fRqcNGVSWc-t803.16", "text": "So I used to be at NPR, which deals with the history of the", "start": 803.16, "end": 808.16}
+{"id": "6fRqcNGVSWc-t808.16", "text": "moment, but I think my husband writes history and looks at", "start": 808.16, "end": 812.16}
+{"id": "6fRqcNGVSWc-t812.16", "text": "history at a longer range.", "start": 812.16, "end": 814.16}
+{"id": "6fRqcNGVSWc-t814.16", "text": "And I think that perspective is important.", "start": 814.16, "end": 817.16}
+{"id": "6fRqcNGVSWc-t817.16", "text": "And because I'm married to him, I've been given the opportunity", "start": 817.16, "end": 821.16}
+{"id": "6fRqcNGVSWc-t821.16", "text": "to look at a slice of history through a perspective and a lens", "start": 821.16, "end": 826.16}
+{"id": "6fRqcNGVSWc-t826.16", "text": "that is often not shared.", "start": 826.16, "end": 829.16}
+{"id": "6fRqcNGVSWc-t829.16", "text": "And that's the Japanese American or Asian American history.", "start": 829.16, "end": 832.16}
+{"id": "6fRqcNGVSWc-t832.16", "text": "And if you look at that, America can look very, very different,", "start": 832.16, "end": 836.16}
+{"id": "6fRqcNGVSWc-t836.16", "text": "and so can freedom, the idea of freedoms.", "start": 836.16, "end": 839.16}
+{"id": "6fRqcNGVSWc-t839.16", "text": "So my project that I would like to be remembered for is it's", "start": 839.16, "end": 844.16}
+{"id": "6fRqcNGVSWc-t844.16", "text": "called Freedom from Fear Yellable Project.", "start": 844.16, "end": 847.16}
+{"id": "6fRqcNGVSWc-t847.16", "text": "I'm a conceptual artist, although I use ceramics.", "start": 847.16, "end": 850.16}
+{"id": "6fRqcNGVSWc-t850.16", "text": "It's really about history and about identity, time, memory.", "start": 850.16, "end": 856.16}
+{"id": "6fRqcNGVSWc-t856.16", "text": "So I took 120 yellow T-balls that I hand-pitched and I took", "start": 856.16, "end": 863.16}
+{"id": "6fRqcNGVSWc-t863.16", "text": "them to all 10 U.S. concentration camps that was in the", "start": 863.16, "end": 868.16}
+{"id": "6fRqcNGVSWc-t868.16", "text": "United States in the 1940s, and I photographed them.", "start": 868.16, "end": 872.16}
+{"id": "6fRqcNGVSWc-t872.16", "text": "And because of that, they sort of been invited to different", "start": 872.16, "end": 876.16}
+{"id": "6fRqcNGVSWc-t876.16", "text": "places.", "start": 876.16, "end": 878.16}
+{"id": "6fRqcNGVSWc-t878.16", "text": "I have to say not many people like this story, and there's been", "start": 878.16, "end": 883.16}
+{"id": "6fRqcNGVSWc-t883.16", "text": "a pushback on it, but I really thank this panel for giving me", "start": 883.16, "end": 889.16}
+{"id": "6fRqcNGVSWc-t889.16", "text": "a platform.", "start": 889.16, "end": 890.16}
+{"id": "6fRqcNGVSWc-t890.16", "text": "Thank you.", "start": 890.16, "end": 891.16}
+{"id": "6fRqcNGVSWc-t891.16", "text": "I'm so rich.", "start": 891.16, "end": 899.16}
+{"id": "6fRqcNGVSWc-t899.16", "text": "You agreed to start the discussion itself?", "start": 899.16, "end": 904.16}
+{"id": "6fRqcNGVSWc-t904.16", "text": "Yes, I drew the short straw because everybody else was", "start": 904.16, "end": 907.16}
+{"id": "6fRqcNGVSWc-t907.16", "text": "keeping sensibly quiet.", "start": 907.16, "end": 910.16}
+{"id": "6fRqcNGVSWc-t910.16", "text": "I think I just begin as, you know, I'm not a psychiatrist,", "start": 910.16, "end": 914.16}
+{"id": "6fRqcNGVSWc-t914.16", "text": "I can't list or any of those disciplines.", "start": 914.16, "end": 917.16}
+{"id": "6fRqcNGVSWc-t917.16", "text": "With having read recently Paul Licker's book, Memory,", "start": 917.16, "end": 921.16}
+{"id": "6fRqcNGVSWc-t921.16", "text": "History, Forgetting.", "start": 921.16, "end": 924.16}
+{"id": "6fRqcNGVSWc-t924.16", "text": "And in that book, he has 79 in his index and contents pages", "start": 924.16, "end": 930.16}
+{"id": "6fRqcNGVSWc-t930.16", "text": "together, 79 different categories under memory.", "start": 930.16, "end": 934.16}
+{"id": "6fRqcNGVSWc-t934.16", "text": "So where on earth does one start?", "start": 934.16, "end": 936.16}
+{"id": "6fRqcNGVSWc-t936.16", "text": "And I thought that to start the ball rolling, I refer to", "start": 936.16, "end": 941.16}
+{"id": "6fRqcNGVSWc-t941.16", "text": "Sigmund Freud, who saw memory as constantly transforming,", "start": 941.16, "end": 947.16}
+{"id": "6fRqcNGVSWc-t947.16", "text": "reorganizing, revising.", "start": 947.16, "end": 952.16}
+{"id": "6fRqcNGVSWc-t952.16", "text": "And that, even in our introductory comments that people have", "start": 952.16, "end": 956.16}
+{"id": "6fRqcNGVSWc-t956.16", "text": "made, was acknowledged.", "start": 956.16, "end": 958.16}
+{"id": "6fRqcNGVSWc-t958.16", "text": "But I want to start by asking the other members of the panel,", "start": 958.16, "end": 961.16}
+{"id": "6fRqcNGVSWc-t961.16", "text": "the other point that Freud makes.", "start": 961.16, "end": 964.16}
+{"id": "6fRqcNGVSWc-t964.16", "text": "And he says that memory is essentially creative.", "start": 964.16, "end": 968.16}
+{"id": "6fRqcNGVSWc-t968.16", "text": "What do people think he meant by that?", "start": 968.16, "end": 971.16}
+{"id": "6fRqcNGVSWc-t971.16", "text": "And how does that tie in with your own studies?", "start": 971.16, "end": 978.16}
+{"id": "6fRqcNGVSWc-t978.16", "text": "I think I can start.", "start": 978.16, "end": 982.16}
+{"id": "6fRqcNGVSWc-t982.16", "text": "Yes, so to get to these questions, let's remind ourselves", "start": 982.16, "end": 988.16}
+{"id": "6fRqcNGVSWc-t988.16", "text": "and who is listening to us that memory is coming different", "start": 988.16, "end": 992.16}
+{"id": "6fRqcNGVSWc-t992.16", "text": "flavors.", "start": 992.16, "end": 993.16}
+{"id": "6fRqcNGVSWc-t993.16", "text": "And as you mentioned, they give 79 categories of memories.", "start": 993.16, "end": 998.16}
+{"id": "6fRqcNGVSWc-t998.16", "text": "And of course, there are different ways to categorize them.", "start": 998.16, "end": 1002.16}
+{"id": "6fRqcNGVSWc-t1002.16", "text": "One or two major ways that in neuroscience we use to categorize", "start": 1002.16, "end": 1008.16}
+{"id": "6fRqcNGVSWc-t1008.16", "text": "memories is according to their duration.", "start": 1008.16, "end": 1013.16}
+{"id": "6fRqcNGVSWc-t1013.16", "text": "Long-term memories, shorter memories.", "start": 1013.16, "end": 1017.16}
+{"id": "6fRqcNGVSWc-t1017.16", "text": "Shorter memories, they last for a very short time.", "start": 1017.16, "end": 1019.16}
+{"id": "6fRqcNGVSWc-t1019.16", "text": "Long-term memories, they last for a long time.", "start": 1019.16, "end": 1021.16}
+{"id": "6fRqcNGVSWc-t1021.16", "text": "And they are very easy to remember.", "start": 1021.16, "end": 1024.1599999999999}
+{"id": "6fRqcNGVSWc-t1024.1599999999999", "text": "And why are they different?", "start": 1024.1599999999999, "end": 1026.1599999999999}
+{"id": "6fRqcNGVSWc-t1026.1599999999999", "text": "They are different because the mechanisms that the brain used", "start": 1026.1599999999999, "end": 1030.1599999999999}
+{"id": "6fRqcNGVSWc-t1030.1599999999999", "text": "to make and express these memories are different.", "start": 1030.1599999999999, "end": 1034.1599999999999}
+{"id": "6fRqcNGVSWc-t1034.1599999999999", "text": "And another way to categorize them is according to what they do.", "start": 1034.1599999999999, "end": 1041.1599999999999}
+{"id": "6fRqcNGVSWc-t1041.1599999999999", "text": "There are different memory systems and different types of memories.", "start": 1041.1599999999999, "end": 1044.1599999999999}
+{"id": "6fRqcNGVSWc-t1044.1599999999999", "text": "We have the clarity of explicit memories, or we have,", "start": 1044.1599999999999, "end": 1050.1599999999999}
+{"id": "6fRqcNGVSWc-t1050.16", "text": "we have to contrast to this implicit type of memories.", "start": 1050.16, "end": 1054.16}
+{"id": "6fRqcNGVSWc-t1054.16", "text": "For example, the explicit declarative memories are the memories", "start": 1054.16, "end": 1057.16}
+{"id": "6fRqcNGVSWc-t1057.16", "text": "we talk about.", "start": 1057.16, "end": 1058.16}
+{"id": "6fRqcNGVSWc-t1058.16", "text": "So if we are here today and we talk about what we have learned,", "start": 1058.16, "end": 1062.16}
+{"id": "6fRqcNGVSWc-t1062.16", "text": "those are declarative memories.", "start": 1062.16, "end": 1065.16}
+{"id": "6fRqcNGVSWc-t1065.16", "text": "And in the same system, also memories of general knowledge.", "start": 1065.16, "end": 1069.16}
+{"id": "6fRqcNGVSWc-t1069.16", "text": "If I say city, you all know what I mean by that concept.", "start": 1069.16, "end": 1077.16}
+{"id": "6fRqcNGVSWc-t1077.16", "text": "So those are part of one memory system which is processed by the", "start": 1077.16, "end": 1080.16}
+{"id": "6fRqcNGVSWc-t1080.16", "text": "media temporal lobe that has been demonstrated by many, many", "start": 1080.16, "end": 1084.16}
+{"id": "6fRqcNGVSWc-t1084.16", "text": "studies in humans as well as in non-human animals.", "start": 1084.16, "end": 1088.16}
+{"id": "6fRqcNGVSWc-t1088.16", "text": "If part of this memory system is impaired or their activity,", "start": 1088.16, "end": 1095.16}
+{"id": "6fRqcNGVSWc-t1095.16", "text": "the activity is blocked, those memories do not fall.", "start": 1095.16, "end": 1098.16}
+{"id": "6fRqcNGVSWc-t1098.16", "text": "Those long-term memories do not fall.", "start": 1098.16, "end": 1102.16}
+{"id": "6fRqcNGVSWc-t1102.16", "text": "As opposed to other major system of memory, the implicit type of", "start": 1102.16, "end": 1108.16}
+{"id": "6fRqcNGVSWc-t1108.16", "text": "memories, the memories of how to do things is not, they are not", "start": 1108.16, "end": 1112.16}
+{"id": "6fRqcNGVSWc-t1112.16", "text": "spoken, they are performed.", "start": 1112.16, "end": 1114.16}
+{"id": "6fRqcNGVSWc-t1114.16", "text": "For example, if we go skiing, we have to learn how to ski.", "start": 1114.16, "end": 1118.16}
+{"id": "6fRqcNGVSWc-t1118.16", "text": "And then we remember those are very, very strong memories.", "start": 1118.16, "end": 1123.16}
+{"id": "6fRqcNGVSWc-t1123.16", "text": "Memories of how to drive a car, ride a bike, tie your shoes.", "start": 1123.16, "end": 1129.16}
+{"id": "6fRqcNGVSWc-t1129.16", "text": "And then everything we do that we learn the memories which", "start": 1129.16, "end": 1133.16}
+{"id": "6fRqcNGVSWc-t1133.16", "text": "become sort of automatic, those are part of the implicit", "start": 1133.16, "end": 1137.16}
+{"id": "6fRqcNGVSWc-t1137.16", "text": "memory systems.", "start": 1137.16, "end": 1138.16}
+{"id": "6fRqcNGVSWc-t1138.16", "text": "And of course not talking about muscle memory.", "start": 1138.16, "end": 1141.16}
+{"id": "6fRqcNGVSWc-t1141.16", "text": "Muscle memory is performance.", "start": 1141.16, "end": 1143.16}
+{"id": "6fRqcNGVSWc-t1143.16", "text": "So the performance includes the muscle memories.", "start": 1143.16, "end": 1147.16}
+{"id": "6fRqcNGVSWc-t1147.16", "text": "And those are part of the implicit memory system because we", "start": 1147.16, "end": 1150.16}
+{"id": "6fRqcNGVSWc-t1150.16", "text": "perform those memories, we execute them in an implicit way.", "start": 1150.16, "end": 1154.16}
+{"id": "6fRqcNGVSWc-t1154.16", "text": "We don't think about.", "start": 1154.16, "end": 1155.16}
+{"id": "6fRqcNGVSWc-t1155.16", "text": "After we have learned, we don't think about how to turn the wheel", "start": 1155.16, "end": 1159.16}
+{"id": "6fRqcNGVSWc-t1159.16", "text": "when we drive a car, right?", "start": 1159.16, "end": 1161.16}
+{"id": "6fRqcNGVSWc-t1161.16", "text": "We just do it automatically.", "start": 1161.16, "end": 1163.16}
+{"id": "6fRqcNGVSWc-t1163.16", "text": "And in the same implicit memory system we have also emotional", "start": 1163.16, "end": 1167.16}
+{"id": "6fRqcNGVSWc-t1167.16", "text": "memories, memories that are expressed without a conscious", "start": 1167.16, "end": 1172.16}
+{"id": "6fRqcNGVSWc-t1172.16", "text": "awareness.", "start": 1172.16, "end": 1173.16}
+{"id": "6fRqcNGVSWc-t1173.16", "text": "So the other distinction is conscious awareness versus not.", "start": 1173.16, "end": 1176.16}
+{"id": "6fRqcNGVSWc-t1176.16", "text": "Implicit types of memories are not conscious in their expression.", "start": 1176.16, "end": 1180.16}
+{"id": "6fRqcNGVSWc-t1180.16", "text": "And explicit type are.", "start": 1180.16, "end": 1182.16}
+{"id": "6fRqcNGVSWc-t1182.16", "text": "So there are many different types of memory.", "start": 1182.16, "end": 1185.16}
+{"id": "6fRqcNGVSWc-t1185.16", "text": "I don't want to go on and on because it's a long story.", "start": 1185.16, "end": 1188.16}
+{"id": "6fRqcNGVSWc-t1188.16", "text": "So is it a creative process like Freud suggested?", "start": 1188.16, "end": 1193.16}
+{"id": "6fRqcNGVSWc-t1193.16", "text": "So first of all, I have to say the Freud was brilliant in predicting,", "start": 1193.16, "end": 1199.16}
+{"id": "6fRqcNGVSWc-t1199.16", "text": "let's say in his writing so many, many aspects and", "start": 1199.16, "end": 1203.16}
+{"id": "6fRqcNGVSWc-t1203.16", "text": "and processes that we then in neuroscience discovered in the", "start": 1203.16, "end": 1208.16}
+{"id": "6fRqcNGVSWc-t1208.16", "text": "memory, in the memory domain.", "start": 1208.16, "end": 1210.16}
+{"id": "6fRqcNGVSWc-t1210.16", "text": "Is it a creative process?", "start": 1210.16, "end": 1212.16}
+{"id": "6fRqcNGVSWc-t1212.16", "text": "I think I, yes, I do agree.", "start": 1212.16, "end": 1214.16}
+{"id": "6fRqcNGVSWc-t1214.16", "text": "And why?", "start": 1214.16, "end": 1215.16}
+{"id": "6fRqcNGVSWc-t1215.16", "text": "Because when we form memories and they are stored, if we need to", "start": 1215.16, "end": 1222.16}
+{"id": "6fRqcNGVSWc-t1222.16", "text": "retrieve them, because there are recollections, something that", "start": 1222.16, "end": 1225.16}
+{"id": "6fRqcNGVSWc-t1225.16", "text": "reminds us of whatever happened in our history, in that precise", "start": 1225.16, "end": 1230.16}
+{"id": "6fRqcNGVSWc-t1230.16", "text": "moment, we are living at different experience at a different time.", "start": 1230.16, "end": 1236.16}
+{"id": "6fRqcNGVSWc-t1236.16", "text": "So now the new experience in the present is going to be", "start": 1236.16, "end": 1241.16}
+{"id": "6fRqcNGVSWc-t1241.16", "text": "associated somewhat to whatever is recalled and is going to be", "start": 1241.16, "end": 1246.16}
+{"id": "6fRqcNGVSWc-t1246.16", "text": "restored in another context.", "start": 1246.16, "end": 1249.16}
+{"id": "6fRqcNGVSWc-t1249.16", "text": "So that is already a processing of the memories, which happens, as", "start": 1249.16, "end": 1256.16}
+{"id": "6fRqcNGVSWc-t1256.16", "text": "you can imagine, every moment, every day.", "start": 1256.16, "end": 1259.16}
+{"id": "6fRqcNGVSWc-t1259.16", "text": "But also we re-elaborate memories.", "start": 1259.16, "end": 1262.16}
+{"id": "6fRqcNGVSWc-t1262.16", "text": "So if we think about something and we recall experiences and we", "start": 1262.16, "end": 1270.16}
+{"id": "6fRqcNGVSWc-t1270.16", "text": "start thinking about something else because of an emotional, for", "start": 1270.16, "end": 1273.16}
+{"id": "6fRqcNGVSWc-t1273.16", "text": "example, an emotional experience that is so important to us, we", "start": 1273.16, "end": 1278.16}
+{"id": "6fRqcNGVSWc-t1278.16", "text": "start creating associations, no associations, which will become", "start": 1278.16, "end": 1284.16}
+{"id": "6fRqcNGVSWc-t1284.16", "text": "no memories.", "start": 1284.16, "end": 1286.16}
+{"id": "6fRqcNGVSWc-t1286.16", "text": "And so the creative process is about who we are made of the", "start": 1286.16, "end": 1290.16}
+{"id": "6fRqcNGVSWc-t1290.16", "text": "multitude of experiences through learning, memorization,", "start": 1290.16, "end": 1294.16}
+{"id": "6fRqcNGVSWc-t1294.16", "text": "recollections and re-elaboration.", "start": 1294.16, "end": 1296.16}
+{"id": "6fRqcNGVSWc-t1296.16", "text": "I hope that gives some topic for discussion.", "start": 1296.16, "end": 1301.16}
+{"id": "6fRqcNGVSWc-t1301.16", "text": "I might compliment that by answering Richard's question in a", "start": 1301.16, "end": 1308.16}
+{"id": "6fRqcNGVSWc-t1308.16", "text": "slightly different way.", "start": 1308.16, "end": 1310.16}
+{"id": "6fRqcNGVSWc-t1310.16", "text": "I mean, I hear when I think of whether memory is a creative", "start": 1310.16, "end": 1314.16}
+{"id": "6fRqcNGVSWc-t1314.16", "text": "process, to which I also, a sense, I think that my", "start": 1314.16, "end": 1318.16}
+{"id": "6fRqcNGVSWc-t1318.16", "text": "interpretation is to say that memories are not necessarily", "start": 1318.16, "end": 1322.16}
+{"id": "6fRqcNGVSWc-t1322.16", "text": "leaver-idical.", "start": 1322.16, "end": 1323.16}
+{"id": "6fRqcNGVSWc-t1323.16", "text": "In other words, they're not necessarily representative of the", "start": 1323.16, "end": 1326.16}
+{"id": "6fRqcNGVSWc-t1326.16", "text": "world that's out there because they are interpreted through the", "start": 1326.16, "end": 1329.16}
+{"id": "6fRqcNGVSWc-t1329.16", "text": "subjective self.", "start": 1329.16, "end": 1330.16}
+{"id": "6fRqcNGVSWc-t1330.16", "text": "And it really puts to the point whether if we could view", "start": 1330.16, "end": 1336.16}
+{"id": "6fRqcNGVSWc-t1336.16", "text": "everyone's memories, other humans or non-humans, whether we would", "start": 1336.16, "end": 1340.16}
+{"id": "6fRqcNGVSWc-t1340.16", "text": "recognize them.", "start": 1340.16, "end": 1341.16}
+{"id": "6fRqcNGVSWc-t1341.16", "text": "In other words, whether they are even understandable or kind of", "start": 1341.16, "end": 1344.16}
+{"id": "6fRqcNGVSWc-t1344.16", "text": "interpretable or translatable by others.", "start": 1344.16, "end": 1348.16}
+{"id": "6fRqcNGVSWc-t1348.16", "text": "Right?", "start": 1348.16, "end": 1349.16}
+{"id": "6fRqcNGVSWc-t1349.16", "text": "And so to me, that's a very generative way to begin this", "start": 1349.16, "end": 1352.16}
+{"id": "6fRqcNGVSWc-t1352.16", "text": "conversation and thinking, as Christina said, not only about the", "start": 1352.16, "end": 1356.16}
+{"id": "6fRqcNGVSWc-t1356.16", "text": "re-encoding and the changing of memory that happens with", "start": 1356.16, "end": 1360.16}
+{"id": "6fRqcNGVSWc-t1360.16", "text": "remembering, but also about the very creativity of memory to", "start": 1360.16, "end": 1366.16}
+{"id": "6fRqcNGVSWc-t1366.16", "text": "begin with, that it is an interpretation of a moment or a", "start": 1366.16, "end": 1370.16}
+{"id": "6fRqcNGVSWc-t1370.16", "text": "scene or a fact or an experience and says something is", "start": 1370.16, "end": 1375.16}
+{"id": "6fRqcNGVSWc-t1375.16", "text": "incorporated with the self, which might be impossibly subjective.", "start": 1375.16, "end": 1380.16}
+{"id": "6fRqcNGVSWc-t1380.16", "text": "I agree with you, Alexandra and Christina as well.", "start": 1380.16, "end": 1389.16}
+{"id": "6fRqcNGVSWc-t1389.16", "text": "I think all memory is a fabrication of our brain.", "start": 1389.16, "end": 1394.16}
+{"id": "6fRqcNGVSWc-t1394.16", "text": "Every single memory we have, reality is really truly a", "start": 1394.16, "end": 1398.16}
+{"id": "6fRqcNGVSWc-t1398.16", "text": "fabrication of our brains.", "start": 1398.16, "end": 1400.16}
+{"id": "6fRqcNGVSWc-t1400.16", "text": "And it's an individual reality, which is not necessarily", "start": 1400.16, "end": 1404.16}
+{"id": "6fRqcNGVSWc-t1404.16", "text": "parallel to the reality of someone right next to you because", "start": 1404.16, "end": 1408.16}
+{"id": "6fRqcNGVSWc-t1408.16", "text": "it's always filtered through your experience, through your", "start": 1408.16, "end": 1412.16}
+{"id": "6fRqcNGVSWc-t1412.16", "text": "neural networks, through your interpretations, and through", "start": 1412.16, "end": 1418.16}
+{"id": "6fRqcNGVSWc-t1418.16", "text": "your editing of what you see.", "start": 1418.16, "end": 1421.16}
+{"id": "6fRqcNGVSWc-t1421.16", "text": "So not only are you going to have alteration and distortion of", "start": 1421.16, "end": 1426.16}
+{"id": "6fRqcNGVSWc-t1426.16", "text": "memory as you recall, but you also have a true editing and", "start": 1426.16, "end": 1434.16}
+{"id": "6fRqcNGVSWc-t1434.16", "text": "distilling of memory as you lay it down.", "start": 1434.16, "end": 1437.16}
+{"id": "6fRqcNGVSWc-t1437.16", "text": "So there's a tremendous amount of editing that goes on in both", "start": 1437.16, "end": 1442.16}
+{"id": "6fRqcNGVSWc-t1442.16", "text": "the laying down of memory, what you choose to attend to, how you", "start": 1442.16, "end": 1447.16}
+{"id": "6fRqcNGVSWc-t1447.16", "text": "choose to store it, what you choose to link it to, whether or", "start": 1447.16, "end": 1451.16}
+{"id": "6fRqcNGVSWc-t1451.16", "text": "not it's real.", "start": 1451.16, "end": 1453.16}
+{"id": "6fRqcNGVSWc-t1453.16", "text": "Again, all reality is a fabrication of our individual", "start": 1453.16, "end": 1457.16}
+{"id": "6fRqcNGVSWc-t1457.16", "text": "brains, and then how you choose to reproduce it, which is always", "start": 1457.16, "end": 1461.16}
+{"id": "6fRqcNGVSWc-t1461.16", "text": "going to be different from one person to the next.", "start": 1461.16, "end": 1465.16}
+{"id": "6fRqcNGVSWc-t1465.16", "text": "Even if you agree on the generalities, the details are going to", "start": 1465.16, "end": 1469.16}
+{"id": "6fRqcNGVSWc-t1469.16", "text": "be different because each of us chooses to remember something", "start": 1469.16, "end": 1473.16}
+{"id": "6fRqcNGVSWc-t1473.16", "text": "different.", "start": 1473.16, "end": 1474.16}
+{"id": "6fRqcNGVSWc-t1474.16", "text": "So Freud was absolutely correct in terms of how he formulated", "start": 1474.16, "end": 1479.16}
+{"id": "6fRqcNGVSWc-t1479.16", "text": "memory.", "start": 1479.16, "end": 1480.16}
+{"id": "6fRqcNGVSWc-t1480.16", "text": "So it's just like, you know, we're going to go to the", "start": 1480.16, "end": 1484.16}
+{"id": "6fRqcNGVSWc-t1484.16", "text": "next slide.", "start": 1484.16, "end": 1485.16}
+{"id": "6fRqcNGVSWc-t1485.16", "text": "So let's go.", "start": 1485.16, "end": 1486.16}
+{"id": "6fRqcNGVSWc-t1486.16", "text": "Hello.", "start": 1486.16, "end": 1487.16}
+{"id": "6fRqcNGVSWc-t1487.16", "text": "Yeah.", "start": 1487.16, "end": 1488.16}
+{"id": "6fRqcNGVSWc-t1488.16", "text": "Hello.", "start": 1488.16, "end": 1489.16}
+{"id": "6fRqcNGVSWc-t1489.16", "text": "Yeah.", "start": 1489.16, "end": 1490.16}
+{"id": "6fRqcNGVSWc-t1490.16", "text": "Yes.", "start": 1490.16, "end": 1491.16}
+{"id": "6fRqcNGVSWc-t1491.16", "text": "It's set.", "start": 1491.16, "end": 1492.16}
+{"id": "6fRqcNGVSWc-t1492.16", "text": "It's set.", "start": 1492.16, "end": 1493.16}
+{"id": "6fRqcNGVSWc-t1493.16", "text": "I have to say that I think there's a difference between personal", "start": 1493.16, "end": 1497.16}
+{"id": "6fRqcNGVSWc-t1497.16", "text": "memory and collective, you know, national memory, like history.", "start": 1497.16, "end": 1503.16}
+{"id": "6fRqcNGVSWc-t1503.16", "text": "And I think one of the battles that we're having in America", "start": 1503.16, "end": 1507.16}
+{"id": "6fRqcNGVSWc-t1507.16", "text": "is the history of America.", "start": 1507.16, "end": 1510.16}
+{"id": "6fRqcNGVSWc-t1510.16", "text": "And basically there is a narrative that starts with Columbus", "start": 1510.16, "end": 1515.16}
+{"id": "6fRqcNGVSWc-t1515.16", "text": "and there's George Washington and, you know, Adams and, you know,", "start": 1515.16, "end": 1522.16}
+{"id": "6fRqcNGVSWc-t1522.16", "text": "Jefferson and then it goes to Lincoln and then FDR and then", "start": 1522.16, "end": 1528.16}
+{"id": "6fRqcNGVSWc-t1528.16", "text": "we're at today.", "start": 1528.16, "end": 1530.16}
+{"id": "6fRqcNGVSWc-t1530.16", "text": "And in that story, the history of the original people that were", "start": 1530.16, "end": 1536.16}
+{"id": "6fRqcNGVSWc-t1536.16", "text": "here is missing, for example.", "start": 1536.16, "end": 1539.16}
+{"id": "6fRqcNGVSWc-t1539.16", "text": "There was a survey about five years ago.", "start": 1539.16, "end": 1544.16}
+{"id": "6fRqcNGVSWc-t1544.16", "text": "I think they found out that 40% of Americans believe that no", "start": 1544.16, "end": 1549.16}
+{"id": "6fRqcNGVSWc-t1549.16", "text": "Native Americans are alive today and that they are extinct", "start": 1549.16, "end": 1553.16}
+{"id": "6fRqcNGVSWc-t1553.16", "text": "like dinosaurs.", "start": 1553.16, "end": 1555.16}
+{"id": "6fRqcNGVSWc-t1555.16", "text": "And, you know, if you read our newspapers and our history", "start": 1555.16, "end": 1558.16}
+{"id": "6fRqcNGVSWc-t1558.16", "text": "books, you sort of believe that they're actually very much alive,", "start": 1558.16, "end": 1564.16}
+{"id": "6fRqcNGVSWc-t1564.16", "text": "a lot of them were put on reservations.", "start": 1564.16, "end": 1567.16}
+{"id": "6fRqcNGVSWc-t1567.16", "text": "They've moved into cities to survive and they're still there.", "start": 1567.16, "end": 1571.16}
+{"id": "6fRqcNGVSWc-t1571.16", "text": "And the other story that never gets out, it's usually race is a", "start": 1571.16, "end": 1577.16}
+{"id": "6fRqcNGVSWc-t1577.16", "text": "big issue today.", "start": 1577.16, "end": 1579.16}
+{"id": "6fRqcNGVSWc-t1579.16", "text": "And the reason why race is often only seen in a white and black", "start": 1579.16, "end": 1585.16}
+{"id": "6fRqcNGVSWc-t1585.16", "text": "dichotomy is because the whole history of non-white laws is", "start": 1585.16, "end": 1590.16}
+{"id": "6fRqcNGVSWc-t1590.16", "text": "never talked about in our history books and the not white laws", "start": 1590.16, "end": 1595.16}
+{"id": "6fRqcNGVSWc-t1595.16", "text": "were all determined in our court of law and they came out after", "start": 1595.16, "end": 1600.16}
+{"id": "6fRqcNGVSWc-t1600.16", "text": "the Civil War.", "start": 1600.16, "end": 1602.16}
+{"id": "6fRqcNGVSWc-t1602.16", "text": "So it was determined in 1870, which was an update of the", "start": 1602.16, "end": 1607.16}
+{"id": "6fRqcNGVSWc-t1607.16", "text": "original naturalization law of 1790, which said that only white", "start": 1607.16, "end": 1611.16}
+{"id": "6fRqcNGVSWc-t1611.16", "text": "people can become a citizen, was changed in 1870 to include", "start": 1611.16, "end": 1616.16}
+{"id": "6fRqcNGVSWc-t1616.16", "text": "Africans and persons of African descent.", "start": 1616.16, "end": 1621.16}
+{"id": "6fRqcNGVSWc-t1621.16", "text": "So after that, there's been law after law after law, which people", "start": 1621.16, "end": 1626.16}
+{"id": "6fRqcNGVSWc-t1626.16", "text": "who were not African but who were deemed not white had to go to", "start": 1626.16, "end": 1631.16}
+{"id": "6fRqcNGVSWc-t1631.16", "text": "court because they were excluded from citizenship, from", "start": 1631.16, "end": 1635.16}
+{"id": "6fRqcNGVSWc-t1635.16", "text": "practicing law, from marrying other people, from, you know, they", "start": 1635.16, "end": 1641.16}
+{"id": "6fRqcNGVSWc-t1641.16", "text": "couldn't even testify.", "start": 1641.16, "end": 1643.16}
+{"id": "6fRqcNGVSWc-t1643.16", "text": "Chinese could not testify against white people.", "start": 1643.16, "end": 1646.16}
+{"id": "6fRqcNGVSWc-t1646.16", "text": "And then all Asian people were banned from the United States", "start": 1646.16, "end": 1650.16}
+{"id": "6fRqcNGVSWc-t1650.16", "text": "in 1924, which was actually the first year that Native Americans", "start": 1650.16, "end": 1655.16}
+{"id": "6fRqcNGVSWc-t1655.16", "text": "were allowed to naturalize.", "start": 1655.16, "end": 1657.16}
+{"id": "6fRqcNGVSWc-t1657.16", "text": "So there's this whole history that's missing.", "start": 1657.16, "end": 1661.16}
+{"id": "6fRqcNGVSWc-t1661.16", "text": "So I mean, is that a creative process?", "start": 1661.16, "end": 1665.16}
+{"id": "6fRqcNGVSWc-t1665.16", "text": "Maybe it is.", "start": 1665.16, "end": 1667.16}
+{"id": "6fRqcNGVSWc-t1667.16", "text": "It doesn't always mean good, right?", "start": 1667.16, "end": 1672.16}
+{"id": "6fRqcNGVSWc-t1672.16", "text": "You tend to think creative means good, but it doesn't have to be", "start": 1672.16, "end": 1677.16}
+{"id": "6fRqcNGVSWc-t1677.16", "text": "creative in an evil way.", "start": 1677.16, "end": 1680.16}
+{"id": "6fRqcNGVSWc-t1680.16", "text": "And your thoughts?", "start": 1680.16, "end": 1682.16}
+{"id": "6fRqcNGVSWc-t1682.16", "text": "To me, it's almost like what Cetsco is saying, it's almost a", "start": 1682.16, "end": 1685.16}
+{"id": "6fRqcNGVSWc-t1685.16", "text": "destructive process in that we can create memories, but we can", "start": 1685.16, "end": 1689.16}
+{"id": "6fRqcNGVSWc-t1689.16", "text": "also, I mean, one of the big questions that people ask is,", "start": 1689.16, "end": 1693.16}
+{"id": "6fRqcNGVSWc-t1693.16", "text": "can we actually remove memories?", "start": 1693.16, "end": 1695.16}
+{"id": "6fRqcNGVSWc-t1695.16", "text": "So unpleasant memories, can we remove them for our own benefit?", "start": 1695.16, "end": 1699.16}
+{"id": "6fRqcNGVSWc-t1699.16", "text": "And unfortunately, maybe what you're describing is a sense of", "start": 1699.16, "end": 1702.16}
+{"id": "6fRqcNGVSWc-t1702.16", "text": "that there's injustice happening.", "start": 1702.16, "end": 1704.16}
+{"id": "6fRqcNGVSWc-t1704.16", "text": "And so people choose not to talk about it.", "start": 1704.16, "end": 1706.16}
+{"id": "6fRqcNGVSWc-t1706.16", "text": "And so if we don't reinforce that type of information and it's", "start": 1706.16, "end": 1709.16}
+{"id": "6fRqcNGVSWc-t1709.16", "text": "the same with our own memories, if we don't reinforce and rehearse", "start": 1709.16, "end": 1712.16}
+{"id": "6fRqcNGVSWc-t1712.16", "text": "some of our memories, then those memories, we can over time and", "start": 1712.16, "end": 1717.16}
+{"id": "6fRqcNGVSWc-t1717.16", "text": "we forget about them.", "start": 1717.16, "end": 1719.16}
+{"id": "6fRqcNGVSWc-t1719.16", "text": "And what we tend to, we can often choose what we want to remember.", "start": 1719.16, "end": 1722.16}
+{"id": "6fRqcNGVSWc-t1722.16", "text": "So there's a lot of work out there where people say, can we", "start": 1722.16, "end": 1725.16}
+{"id": "6fRqcNGVSWc-t1725.16", "text": "suppress certain memories, can we enhance certain memories?", "start": 1725.16, "end": 1727.16}
+{"id": "6fRqcNGVSWc-t1727.16", "text": "And so the ones that give us the joy, the ones that we think", "start": 1727.16, "end": 1730.16}
+{"id": "6fRqcNGVSWc-t1730.16", "text": "other people will enjoy listening to, the ones which are politically", "start": 1730.16, "end": 1735.16}
+{"id": "6fRqcNGVSWc-t1735.16", "text": "correct, for example, those are the ones that people like to talk", "start": 1735.16, "end": 1739.16}
+{"id": "6fRqcNGVSWc-t1739.16", "text": "about a lot.", "start": 1739.16, "end": 1740.16}
+{"id": "6fRqcNGVSWc-t1740.16", "text": "And so those are the memories that are strengthened and those are", "start": 1740.16, "end": 1744.16}
+{"id": "6fRqcNGVSWc-t1744.16", "text": "the ones that propagate and unfortunately, memories or events", "start": 1744.16, "end": 1747.16}
+{"id": "6fRqcNGVSWc-t1747.16", "text": "that you describe of.", "start": 1747.16, "end": 1748.16}
+{"id": "6fRqcNGVSWc-t1748.16", "text": "Unfortunately, those are the ones that get destroyed and not", "start": 1748.16, "end": 1751.16}
+{"id": "6fRqcNGVSWc-t1751.16", "text": "talked about as much.", "start": 1751.16, "end": 1753.16}
+{"id": "6fRqcNGVSWc-t1753.16", "text": "And I think that raises the issue very often of whose memory is", "start": 1753.16, "end": 1758.16}
+{"id": "6fRqcNGVSWc-t1758.16", "text": "it?", "start": 1758.16, "end": 1759.16}
+{"id": "6fRqcNGVSWc-t1759.16", "text": "Does one have one's own memory?", "start": 1759.16, "end": 1762.16}
+{"id": "6fRqcNGVSWc-t1762.16", "text": "Does one have parents' memories, ancestral memories?", "start": 1762.16, "end": 1766.16}
+{"id": "6fRqcNGVSWc-t1766.16", "text": "Whose memory do we think is what we are recalling and", "start": 1766.16, "end": 1773.16}
+{"id": "6fRqcNGVSWc-t1773.16", "text": "registering and being imprinted by?", "start": 1773.16, "end": 1776.16}
+{"id": "6fRqcNGVSWc-t1776.16", "text": "Richard?", "start": 1776.16, "end": 1777.16}
+{"id": "6fRqcNGVSWc-t1777.16", "text": "Richard?", "start": 1777.16, "end": 1781.16}
+{"id": "6fRqcNGVSWc-t1781.16", "text": "Of course, one can have one's memory impaired, but I think the", "start": 1781.16, "end": 1786.16}
+{"id": "6fRqcNGVSWc-t1786.16", "text": "whole question of what is forgetting is another issue.", "start": 1786.16, "end": 1791.16}
+{"id": "6fRqcNGVSWc-t1791.16", "text": "But I'd like also to introduce this idea, which comes to me from", "start": 1791.16, "end": 1796.16}
+{"id": "6fRqcNGVSWc-t1796.16", "text": "having Ray Jonathan Moore's book, Moon Walking with Einstein,", "start": 1796.16, "end": 1802.16}
+{"id": "6fRqcNGVSWc-t1802.16", "text": "when he talks about the power of memory.", "start": 1802.16, "end": 1805.16}
+{"id": "6fRqcNGVSWc-t1805.16", "text": "And in our introductions, we talked about failures of memory or", "start": 1805.16, "end": 1810.16}
+{"id": "6fRqcNGVSWc-t1810.16", "text": "where the memory faculty has hurt.", "start": 1810.16, "end": 1813.16}
+{"id": "6fRqcNGVSWc-t1813.16", "text": "But he says, well, not only did the ancient Greeks have a God of", "start": 1813.16, "end": 1818.16}
+{"id": "6fRqcNGVSWc-t1818.16", "text": "memory because they thought it was so important, but we know", "start": 1818.16, "end": 1822.16}
+{"id": "6fRqcNGVSWc-t1822.16", "text": "whether it's from chess players or lorry drivers playing chess", "start": 1822.16, "end": 1827.16}
+{"id": "6fRqcNGVSWc-t1827.16", "text": "or even taxi drivers who you probably know in London have to", "start": 1827.16, "end": 1833.16}
+{"id": "6fRqcNGVSWc-t1833.16", "text": "take a particular test.", "start": 1833.16, "end": 1835.16}
+{"id": "6fRqcNGVSWc-t1835.16", "text": "They have to learn all the places and all the streets in the", "start": 1835.16, "end": 1839.16}
+{"id": "6fRqcNGVSWc-t1839.16", "text": "city.", "start": 1839.16, "end": 1841.16}
+{"id": "6fRqcNGVSWc-t1841.16", "text": "And it's been tested or shown that taxi drivers have expanded", "start": 1841.16, "end": 1846.16}
+{"id": "6fRqcNGVSWc-t1846.16", "text": "brains through having trained their facility in this way.", "start": 1846.16, "end": 1851.16}
+{"id": "6fRqcNGVSWc-t1851.16", "text": "But when they give up their career as taxi drivers, that", "start": 1851.16, "end": 1855.16}
+{"id": "6fRqcNGVSWc-t1855.16", "text": "expansion shrinks again.", "start": 1855.16, "end": 1857.16}
+{"id": "6fRqcNGVSWc-t1857.16", "text": "And it raises the question of, to what extent can we build up", "start": 1857.16, "end": 1862.16}
+{"id": "6fRqcNGVSWc-t1862.16", "text": "our powers of memory?", "start": 1862.16, "end": 1864.16}
+{"id": "6fRqcNGVSWc-t1864.16", "text": "If you've got people like taxi drivers or chess players", "start": 1864.16, "end": 1869.16}
+{"id": "6fRqcNGVSWc-t1869.16", "text": "improving their memory or conjurers, indeed, what can we do", "start": 1869.16, "end": 1873.16}
+{"id": "6fRqcNGVSWc-t1873.16", "text": "to make the memory faculty of our brains more powerful and be", "start": 1873.16, "end": 1880.16}
+{"id": "6fRqcNGVSWc-t1880.16", "text": "able to do more with them?", "start": 1880.16, "end": 1882.16}
+{"id": "6fRqcNGVSWc-t1882.16", "text": "So Richard, so you actually doesn't take much effort to change", "start": 1882.16, "end": 1887.16}
+{"id": "6fRqcNGVSWc-t1887.16", "text": "your brain at a physical level.", "start": 1887.16, "end": 1889.16}
+{"id": "6fRqcNGVSWc-t1889.16", "text": "You can practice violin for two days and change the amount of", "start": 1889.16, "end": 1894.16}
+{"id": "6fRqcNGVSWc-t1894.16", "text": "your brain.", "start": 1894.16, "end": 1896.16}
+{"id": "6fRqcNGVSWc-t1896.16", "text": "You can physically demonstrate more area of your brain devoted", "start": 1896.16, "end": 1901.16}
+{"id": "6fRqcNGVSWc-t1901.16", "text": "to that practice.", "start": 1901.16, "end": 1903.16}
+{"id": "6fRqcNGVSWc-t1903.16", "text": "One thing I wanted to mention which you brought up and wanted", "start": 1903.16, "end": 1907.16}
+{"id": "6fRqcNGVSWc-t1907.16", "text": "to emphasize is we all tend to prize memory, including the", "start": 1907.16, "end": 1913.16}
+{"id": "6fRqcNGVSWc-t1913.16", "text": "ancient Greeks, but forgetting is just as important for", "start": 1913.16, "end": 1917.16}
+{"id": "6fRqcNGVSWc-t1917.16", "text": "remembering.", "start": 1917.16, "end": 1919.16}
+{"id": "6fRqcNGVSWc-t1919.16", "text": "And to be able to forget and to be able to normally forget is", "start": 1919.16, "end": 1924.16}
+{"id": "6fRqcNGVSWc-t1924.16", "text": "important for learning.", "start": 1924.16, "end": 1926.16}
+{"id": "6fRqcNGVSWc-t1926.16", "text": "I mean, if we didn't forget to crawl, you know, and we're", "start": 1926.16, "end": 1930.16}
+{"id": "6fRqcNGVSWc-t1930.16", "text": "willing to, then we would have learned to walk.", "start": 1930.16, "end": 1933.16}
+{"id": "6fRqcNGVSWc-t1933.16", "text": "If we didn't forget our first love, it would be hard to fall in", "start": 1933.16, "end": 1936.16}
+{"id": "6fRqcNGVSWc-t1936.16", "text": "love again.", "start": 1936.16, "end": 1937.16}
+{"id": "6fRqcNGVSWc-t1937.16", "text": "So forgetting is very, if we forgot, if we didn't forget to", "start": 1937.16, "end": 1941.16}
+{"id": "6fRqcNGVSWc-t1941.16", "text": "babble, you know, it would be harder to learn to.", "start": 1941.16, "end": 1943.16}
+{"id": "6fRqcNGVSWc-t1943.16", "text": "So it's important to understand, and there's this whole", "start": 1943.16, "end": 1946.16}
+{"id": "6fRqcNGVSWc-t1946.16", "text": "emphasis in modern society of having to remember, you know,", "start": 1946.16, "end": 1951.16}
+{"id": "6fRqcNGVSWc-t1951.16", "text": "and memory being equated with intelligence and kind of to", "start": 1951.16, "end": 1957.16}
+{"id": "6fRqcNGVSWc-t1957.16", "text": "the detriment of the importance of forgetting.", "start": 1957.16, "end": 1960.16}
+{"id": "6fRqcNGVSWc-t1960.16", "text": "So I'd like to be a proponent of that forgetting is very good", "start": 1960.16, "end": 1965.16}
+{"id": "6fRqcNGVSWc-t1965.16", "text": "for us and important for our brain.", "start": 1965.16, "end": 1968.16}
+{"id": "6fRqcNGVSWc-t1968.16", "text": "And this wonderful book by Luria, Russian psychologist called", "start": 1968.16, "end": 1975.16}
+{"id": "6fRqcNGVSWc-t1975.16", "text": "The Mind of the Monest, and he talks about a patient or a", "start": 1975.16, "end": 1979.16}
+{"id": "6fRqcNGVSWc-t1979.16", "text": "man who was studied who forgot how to forget.", "start": 1979.16, "end": 1983.16}
+{"id": "6fRqcNGVSWc-t1983.16", "text": "And it significantly interfered with his ability to function in", "start": 1983.16, "end": 1989.16}
+{"id": "6fRqcNGVSWc-t1989.16", "text": "a daily, in a productive way on a daily basis.", "start": 1989.16, "end": 1992.16}
+{"id": "6fRqcNGVSWc-t1992.16", "text": "I'd like to teach my dogs to remember commands better", "start": 1992.16, "end": 1996.16}
+{"id": "6fRqcNGVSWc-t1996.16", "text": "Alexandra.", "start": 1996.16, "end": 1997.16}
+{"id": "6fRqcNGVSWc-t1997.16", "text": "I don't know how to do that.", "start": 1997.16, "end": 1999.16}
+{"id": "6fRqcNGVSWc-t1999.16", "text": "And not forget.", "start": 1999.16, "end": 2001.16}
+{"id": "6fRqcNGVSWc-t2001.16", "text": "And I think that you also remind me of the Borges story,", "start": 2001.16, "end": 2006.16}
+{"id": "6fRqcNGVSWc-t2006.16", "text": "Phunas the memorial, where he represents a character who", "start": 2006.16, "end": 2010.16}
+{"id": "6fRqcNGVSWc-t2010.16", "text": "could not forget and actually how crippling it was and", "start": 2010.16, "end": 2014.16}
+{"id": "6fRqcNGVSWc-t2014.16", "text": "disabling of being able to act.", "start": 2014.16, "end": 2018.16}
+{"id": "6fRqcNGVSWc-t2018.16", "text": "And there are a lot of questions that have already come up.", "start": 2018.16, "end": 2021.16}
+{"id": "6fRqcNGVSWc-t2021.16", "text": "But I mean, to the sort of, how do we remember better?", "start": 2021.16, "end": 2024.16}
+{"id": "6fRqcNGVSWc-t2024.16", "text": "How does an on human remember better?", "start": 2024.16, "end": 2026.16}
+{"id": "6fRqcNGVSWc-t2026.16", "text": "That's so interesting because I think it has a lot to do with", "start": 2026.16, "end": 2028.16}
+{"id": "6fRqcNGVSWc-t2028.16", "text": "our directing of their attention, right, and our inability to", "start": 2028.16, "end": 2032.16}
+{"id": "6fRqcNGVSWc-t2032.16", "text": "realize what a salient to them in order to allow for the encoding,", "start": 2032.16, "end": 2039.16}
+{"id": "6fRqcNGVSWc-t2039.16", "text": "which is easy for them to do.", "start": 2039.16, "end": 2042.16}
+{"id": "6fRqcNGVSWc-t2042.16", "text": "I think can easily learn commands, learn to remember commands.", "start": 2042.16, "end": 2047.16}
+{"id": "6fRqcNGVSWc-t2047.16", "text": "But we're not always as good at creating an environment which", "start": 2047.16, "end": 2052.16}
+{"id": "6fRqcNGVSWc-t2052.16", "text": "allows them to pick up on the salient cues.", "start": 2052.16, "end": 2056.16}
+{"id": "6fRqcNGVSWc-t2056.16", "text": "And I think that's a lot of the things that we've been", "start": 2056.16, "end": 2060.16}
+{"id": "6fRqcNGVSWc-t2060.16", "text": "talking about.", "start": 2060.16, "end": 2062.16}
+{"id": "6fRqcNGVSWc-t2062.16", "text": "But if I can also just add one other thing to this, like,", "start": 2062.16, "end": 2065.16}
+{"id": "6fRqcNGVSWc-t2065.16", "text": "interestingly, frothy sea of ideas, it was something that", "start": 2065.16, "end": 2070.16}
+{"id": "6fRqcNGVSWc-t2070.16", "text": "sets go in and Andy were hitting on about a cultural memory and", "start": 2070.16, "end": 2076.16}
+{"id": "6fRqcNGVSWc-t2076.16", "text": "how exclusion of people from a cultural history is a kind of", "start": 2076.16, "end": 2082.16}
+{"id": "6fRqcNGVSWc-t2082.16", "text": "a cultural memory.", "start": 2082.16, "end": 2086.16}
+{"id": "6fRqcNGVSWc-t2086.16", "text": "And I was thinking about how when studying nonhuman animals,", "start": 2086.16, "end": 2090.16}
+{"id": "6fRqcNGVSWc-t2090.16", "text": "there's always a question of whether they have memory at all,", "start": 2090.16, "end": 2093.16}
+{"id": "6fRqcNGVSWc-t2093.16", "text": "right?", "start": 2093.16, "end": 2095.16}
+{"id": "6fRqcNGVSWc-t2095.16", "text": "And this is partially because we can't ask animals to do memory", "start": 2095.16, "end": 2099.16}
+{"id": "6fRqcNGVSWc-t2099.16", "text": "tasks and give us verbal responses as are many of our memory", "start": 2099.16, "end": 2103.16}
+{"id": "6fRqcNGVSWc-t2103.16", "text": "tasks, right?", "start": 2103.16, "end": 2105.16}
+{"id": "6fRqcNGVSWc-t2105.16", "text": "And so even though nonhuman animals are studied for their", "start": 2105.16, "end": 2108.16}
+{"id": "6fRqcNGVSWc-t2108.16", "text": "own memory, still, what I will be asked about dogs, you know,", "start": 2108.16, "end": 2112.16}
+{"id": "6fRqcNGVSWc-t2112.16", "text": "can they remember anything, which is ridiculous?", "start": 2112.16, "end": 2116.16}
+{"id": "6fRqcNGVSWc-t2116.16", "text": "Of course they can.", "start": 2116.16, "end": 2118.16}
+{"id": "6fRqcNGVSWc-t2118.16", "text": "I mean, all their behavior evinces it.", "start": 2118.16, "end": 2120.16}
+{"id": "6fRqcNGVSWc-t2120.16", "text": "But because we can't see into their brains, we kind of assume", "start": 2120.16, "end": 2124.16}
+{"id": "6fRqcNGVSWc-t2124.16", "text": "that maybe there's an absence there.", "start": 2124.16, "end": 2126.16}
+{"id": "6fRqcNGVSWc-t2126.16", "text": "And I'm wondering if the sort of way we disallow nonverbal", "start": 2126.16, "end": 2130.16}
+{"id": "6fRqcNGVSWc-t2130.16", "text": "others from having memory is similar to the kind of historical", "start": 2130.16, "end": 2134.16}
+{"id": "6fRqcNGVSWc-t2134.16", "text": "exclusion, memorial exclusion of peoples from our history.", "start": 2134.16, "end": 2140.16}
+{"id": "6fRqcNGVSWc-t2140.16", "text": "I'm just seeing an interesting analog there.", "start": 2140.16, "end": 2144.16}
+{"id": "6fRqcNGVSWc-t2144.16", "text": "I like to say something here because I was shaking my head", "start": 2144.16, "end": 2148.16}
+{"id": "6fRqcNGVSWc-t2148.16", "text": "because there is so much work done on memories in nonhuman", "start": 2148.16, "end": 2152.16}
+{"id": "6fRqcNGVSWc-t2152.16", "text": "animals.", "start": 2152.16, "end": 2153.16}
+{"id": "6fRqcNGVSWc-t2153.16", "text": "And of course they have memories.", "start": 2153.16, "end": 2155.16}
+{"id": "6fRqcNGVSWc-t2155.16", "text": "We can say that they are not talking to us, but that's just", "start": 2155.16, "end": 2159.16}
+{"id": "6fRqcNGVSWc-t2159.16", "text": "one single way to express memories.", "start": 2159.16, "end": 2163.16}
+{"id": "6fRqcNGVSWc-t2163.16", "text": "And so the way to express memories is how to do things is how", "start": 2163.16, "end": 2167.16}
+{"id": "6fRqcNGVSWc-t2167.16", "text": "to recognize places is how to navigate spaces.", "start": 2167.16, "end": 2171.16}
+{"id": "6fRqcNGVSWc-t2171.16", "text": "We have tons and tons of evidence in nonhuman animals that they", "start": 2171.16, "end": 2175.16}
+{"id": "6fRqcNGVSWc-t2175.16", "text": "have memories.", "start": 2175.16, "end": 2176.16}
+{"id": "6fRqcNGVSWc-t2176.16", "text": "And memories are like any other thing evolutionarily", "start": 2176.16, "end": 2179.16}
+{"id": "6fRqcNGVSWc-t2179.16", "text": "conserved.", "start": 2179.16, "end": 2180.16}
+{"id": "6fRqcNGVSWc-t2180.16", "text": "And there is so much studies ongoing to understand the", "start": 2180.16, "end": 2184.16}
+{"id": "6fRqcNGVSWc-t2184.16", "text": "biological basis of memories that have shown that in different", "start": 2184.16, "end": 2188.16}
+{"id": "6fRqcNGVSWc-t2188.16", "text": "species, there are a number of conserved biological", "start": 2188.16, "end": 2191.16}
+{"id": "6fRqcNGVSWc-t2191.16", "text": "mechanisms.", "start": 2191.16, "end": 2193.16}
+{"id": "6fRqcNGVSWc-t2193.16", "text": "So certainly they are not declarative memories, but I disagree", "start": 2193.16, "end": 2197.16}
+{"id": "6fRqcNGVSWc-t2197.16", "text": "to even doubt that nonhuman animals have memories.", "start": 2197.16, "end": 2202.16}
+{"id": "6fRqcNGVSWc-t2202.16", "text": "And I want to bring to one more point, which I think it was", "start": 2202.16, "end": 2208.16}
+{"id": "6fRqcNGVSWc-t2208.16", "text": "brought up in terms of memories and the subjectivity, the", "start": 2208.16, "end": 2214.16}
+{"id": "6fRqcNGVSWc-t2214.16", "text": "individual ways of memorizing and remembering and processing", "start": 2214.16, "end": 2220.16}
+{"id": "6fRqcNGVSWc-t2220.16", "text": "of memories.", "start": 2220.16, "end": 2221.16}
+{"id": "6fRqcNGVSWc-t2221.16", "text": "And I think that's a very important thing to do with", "start": 2221.16, "end": 2224.16}
+{"id": "6fRqcNGVSWc-t2224.16", "text": "that information.", "start": 2224.16, "end": 2226.16}
+{"id": "6fRqcNGVSWc-t2226.16", "text": "I'm not sure we choose to do that.", "start": 2226.16, "end": 2229.16}
+{"id": "6fRqcNGVSWc-t2229.16", "text": "I'm not sure it's a choice because a lot of our", "start": 2229.16, "end": 2232.16}
+{"id": "6fRqcNGVSWc-t2232.16", "text": "representations and memories are implicit.", "start": 2232.16, "end": 2234.16}
+{"id": "6fRqcNGVSWc-t2234.16", "text": "So we're not conscious of it.", "start": 2234.16, "end": 2236.16}
+{"id": "6fRqcNGVSWc-t2236.16", "text": "So we don't have choice in that sense is the unconscious part of", "start": 2236.16, "end": 2240.16}
+{"id": "6fRqcNGVSWc-t2240.16", "text": "brain that guides our decisions.", "start": 2240.16, "end": 2244.16}
+{"id": "6fRqcNGVSWc-t2244.16", "text": "And those are, of course, based on experiences and", "start": 2244.16, "end": 2248.16}
+{"id": "6fRqcNGVSWc-t2248.16", "text": "experiences we have over and over or new experiences that we", "start": 2248.16, "end": 2252.16}
+{"id": "6fRqcNGVSWc-t2252.16", "text": "have at some point.", "start": 2252.16, "end": 2254.16}
+{"id": "6fRqcNGVSWc-t2254.16", "text": "We react in certain ways, according to our history.", "start": 2254.16, "end": 2258.16}
+{"id": "6fRqcNGVSWc-t2258.16", "text": "That's why it's very individualized.", "start": 2258.16, "end": 2260.16}
+{"id": "6fRqcNGVSWc-t2260.16", "text": "So we are starting now in the lab, something that to me is very", "start": 2260.16, "end": 2263.16}
+{"id": "6fRqcNGVSWc-t2263.16", "text": "exciting.", "start": 2263.16, "end": 2264.16}
+{"id": "6fRqcNGVSWc-t2264.16", "text": "And that is how the memory system establish itself.", "start": 2264.16, "end": 2268.16}
+{"id": "6fRqcNGVSWc-t2268.16", "text": "How do they form?", "start": 2268.16, "end": 2269.16}
+{"id": "6fRqcNGVSWc-t2269.16", "text": "How does it mature?", "start": 2269.16, "end": 2273.16}
+{"id": "6fRqcNGVSWc-t2273.16", "text": "And so we are looking at the biology of episodic memories in", "start": 2273.16, "end": 2280.16}
+{"id": "6fRqcNGVSWc-t2280.16", "text": "rats and mice at the age of infancy.", "start": 2280.16, "end": 2286.16}
+{"id": "6fRqcNGVSWc-t2286.16", "text": "When we know that those memories are formed but rapidly", "start": 2286.16, "end": 2290.16}
+{"id": "6fRqcNGVSWc-t2290.16", "text": "forgotten.", "start": 2290.16, "end": 2291.16}
+{"id": "6fRqcNGVSWc-t2291.16", "text": "And this very rapid forgetting is believed to be the reason for", "start": 2291.16, "end": 2296.16}
+{"id": "6fRqcNGVSWc-t2296.16", "text": "infantile amnesia.", "start": 2296.16, "end": 2298.16}
+{"id": "6fRqcNGVSWc-t2298.16", "text": "And so the process, I don't know to call it, the", "start": 2298.16, "end": 2306.16}
+{"id": "6fRqcNGVSWc-t2306.16", "text": "phenomenon by which as adults we do not recall experiences of", "start": 2306.16, "end": 2312.16}
+{"id": "6fRqcNGVSWc-t2312.16", "text": "the first, let's say, three years of life.", "start": 2312.16, "end": 2316.16}
+{"id": "6fRqcNGVSWc-t2316.16", "text": "And Freud gave the first explanation of infantile amnesia.", "start": 2316.16, "end": 2320.16}
+{"id": "6fRqcNGVSWc-t2320.16", "text": "We don't think it now is in agreement with what we see in", "start": 2320.16, "end": 2327.16}
+{"id": "6fRqcNGVSWc-t2327.16", "text": "agreement with what we see.", "start": 2327.16, "end": 2329.16}
+{"id": "6fRqcNGVSWc-t2329.16", "text": "But now we are studying the biology of these memories", "start": 2329.16, "end": 2332.16}
+{"id": "6fRqcNGVSWc-t2332.16", "text": "forming the first few days, corresponding to the first few", "start": 2332.16, "end": 2337.16}
+{"id": "6fRqcNGVSWc-t2337.16", "text": "years of life in humans, and found that there is in fact", "start": 2337.16, "end": 2342.16}
+{"id": "6fRqcNGVSWc-t2342.16", "text": "the very conservative evolutionary concern rapid", "start": 2342.16, "end": 2346.16}
+{"id": "6fRqcNGVSWc-t2346.16", "text": "forgetting.", "start": 2346.16, "end": 2347.16}
+{"id": "6fRqcNGVSWc-t2347.16", "text": "The animals learn and they forget very rapidly compared to", "start": 2347.16, "end": 2351.16}
+{"id": "6fRqcNGVSWc-t2351.16", "text": "later ages.", "start": 2351.16, "end": 2352.16}
+{"id": "6fRqcNGVSWc-t2352.16", "text": "And when we look at the biology, we found that the biology is", "start": 2352.16, "end": 2356.16}
+{"id": "6fRqcNGVSWc-t2356.16", "text": "very interesting and unique, different than the other ages.", "start": 2356.16, "end": 2360.16}
+{"id": "6fRqcNGVSWc-t2360.16", "text": "They use mechanism of so-called critical periods.", "start": 2360.16, "end": 2364.16}
+{"id": "6fRqcNGVSWc-t2364.16", "text": "Those are temporal windows in life in which the brain is", "start": 2364.16, "end": 2369.16}
+{"id": "6fRqcNGVSWc-t2369.16", "text": "particularly responsive to experience.", "start": 2369.16, "end": 2373.16}
+{"id": "6fRqcNGVSWc-t2373.16", "text": "And with these responses, it matures the functions.", "start": 2373.16, "end": 2377.16}
+{"id": "6fRqcNGVSWc-t2377.16", "text": "So let's say the visual system that has been studied a lot in", "start": 2377.16, "end": 2380.16}
+{"id": "6fRqcNGVSWc-t2380.16", "text": "the critical period.", "start": 2380.16, "end": 2382.16}
+{"id": "6fRqcNGVSWc-t2382.16", "text": "We are born, we don't see the way we see in adult.", "start": 2382.16, "end": 2386.16}
+{"id": "6fRqcNGVSWc-t2386.16", "text": "And through seeing, through the function of seeing, so all", "start": 2386.16, "end": 2391.16}
+{"id": "6fRqcNGVSWc-t2391.16", "text": "the stimulus that go in through the eyes and the brain, those", "start": 2391.16, "end": 2395.16}
+{"id": "6fRqcNGVSWc-t2395.16", "text": "shapes the brain to the point that when it's matured is able", "start": 2395.16, "end": 2401.16}
+{"id": "6fRqcNGVSWc-t2401.16", "text": "to function like in adult.", "start": 2401.16, "end": 2403.16}
+{"id": "6fRqcNGVSWc-t2403.16", "text": "So we find the same similar mechanisms in our experiments", "start": 2403.16, "end": 2409.16}
+{"id": "6fRqcNGVSWc-t2409.16", "text": "of episodic learning and memories.", "start": 2409.16, "end": 2412.16}
+{"id": "6fRqcNGVSWc-t2412.16", "text": "So what this tells us is that during this temporal window, we", "start": 2412.16, "end": 2417.16}
+{"id": "6fRqcNGVSWc-t2417.16", "text": "better have the best stimuli and experiences to mature our", "start": 2417.16, "end": 2423.16}
+{"id": "6fRqcNGVSWc-t2423.16", "text": "abilities to learn and remember.", "start": 2423.16, "end": 2426.16}
+{"id": "6fRqcNGVSWc-t2426.16", "text": "And we tested and found that it is the type of experience that", "start": 2426.16, "end": 2431.16}
+{"id": "6fRqcNGVSWc-t2431.16", "text": "matures the function.", "start": 2431.16, "end": 2433.16}
+{"id": "6fRqcNGVSWc-t2433.16", "text": "In other words, if they are exposed to one type of experience,", "start": 2433.16, "end": 2437.16}
+{"id": "6fRqcNGVSWc-t2437.16", "text": "they mature the ability to memorize like adults, that type,", "start": 2437.16, "end": 2442.16}
+{"id": "6fRqcNGVSWc-t2442.16", "text": "that domain of experiences, but not other types that are", "start": 2442.16, "end": 2446.16}
+{"id": "6fRqcNGVSWc-t2446.16", "text": "processed by the same system.", "start": 2446.16, "end": 2448.16}
+{"id": "6fRqcNGVSWc-t2448.16", "text": "So, Christina, could I ask, can one will oneself to forget?", "start": 2448.16, "end": 2452.16}
+{"id": "6fRqcNGVSWc-t2452.16", "text": "Can one will oneself to forget?", "start": 2452.16, "end": 2457.16}
+{"id": "6fRqcNGVSWc-t2457.16", "text": "Decide to forget?", "start": 2457.16, "end": 2458.16}
+{"id": "6fRqcNGVSWc-t2458.16", "text": "Can one make oneself forget?", "start": 2458.16, "end": 2461.16}
+{"id": "6fRqcNGVSWc-t2461.16", "text": "Well, I'm sure if you start saying I'm going to change the", "start": 2461.16, "end": 2466.16}
+{"id": "6fRqcNGVSWc-t2466.16", "text": "attention to change my attention and not pay attention to", "start": 2466.16, "end": 2471.16}
+{"id": "6fRqcNGVSWc-t2471.16", "text": "whatever you want to exclude over time, that will lead to more", "start": 2471.16, "end": 2478.16}
+{"id": "6fRqcNGVSWc-t2478.16", "text": "forgetting than if you don't do that.", "start": 2478.16, "end": 2481.16}
+{"id": "6fRqcNGVSWc-t2481.16", "text": "But that is one single, you know, it's a small part of the", "start": 2481.16, "end": 2487.16}
+{"id": "6fRqcNGVSWc-t2487.16", "text": "memories compared to all the memories that you're going to", "start": 2487.16, "end": 2492.16}
+{"id": "6fRqcNGVSWc-t2492.16", "text": "have.", "start": 2492.16, "end": 2497.16}
+{"id": "6fRqcNGVSWc-t2497.16", "text": "And our brain is molded according to the experiences we have.", "start": 2497.16, "end": 2501.16}
+{"id": "6fRqcNGVSWc-t2501.16", "text": "And during these critical periods, what we see is key for the", "start": 2501.16, "end": 2506.16}
+{"id": "6fRqcNGVSWc-t2506.16", "text": "development of the function.", "start": 2506.16, "end": 2510.16}
+{"id": "6fRqcNGVSWc-t2510.16", "text": "You know, Richard, I just wanted to say something to Richard for a", "start": 2510.16, "end": 2515.16}
+{"id": "6fRqcNGVSWc-t2515.16", "text": "moment.", "start": 2515.16, "end": 2516.16}
+{"id": "6fRqcNGVSWc-t2516.16", "text": "And Avid's metamorphosis, the ability to forget is", "start": 2516.16, "end": 2521.16}
+{"id": "6fRqcNGVSWc-t2521.16", "text": "really described.", "start": 2521.16, "end": 2523.16}
+{"id": "6fRqcNGVSWc-t2523.16", "text": "You're meant to drink of the river of Lethi.", "start": 2523.16, "end": 2526.16}
+{"id": "6fRqcNGVSWc-t2526.16", "text": "And that was a major part of the orific, the whole orific", "start": 2526.16, "end": 2531.16}
+{"id": "6fRqcNGVSWc-t2531.16", "text": "experience of creative transformation.", "start": 2531.16, "end": 2534.16}
+{"id": "6fRqcNGVSWc-t2534.16", "text": "And so all of those metamorphoses, all those transformations", "start": 2534.16, "end": 2538.16}
+{"id": "6fRqcNGVSWc-t2538.16", "text": "depended in Avid on that ability to forget.", "start": 2538.16, "end": 2543.16}
+{"id": "6fRqcNGVSWc-t2543.16", "text": "So I think that that's been part of our sort of more reflective", "start": 2543.16, "end": 2548.16}
+{"id": "6fRqcNGVSWc-t2548.16", "text": "experience of memory in the brain.", "start": 2548.16, "end": 2552.16}
+{"id": "6fRqcNGVSWc-t2552.16", "text": "That's a good pick up.", "start": 2552.16, "end": 2554.16}
+{"id": "6fRqcNGVSWc-t2554.16", "text": "There's an actual book by David Reif called In Praise of", "start": 2554.16, "end": 2557.16}
+{"id": "6fRqcNGVSWc-t2557.16", "text": "Forgetting.", "start": 2557.16, "end": 2558.16}
+{"id": "6fRqcNGVSWc-t2558.16", "text": "Yes.", "start": 2558.16, "end": 2559.16}
+{"id": "6fRqcNGVSWc-t2559.16", "text": "He makes the point that remembering is a barrier to", "start": 2559.16, "end": 2563.16}
+{"id": "6fRqcNGVSWc-t2563.16", "text": "reconciliation, whether it's between nations, between couples", "start": 2563.16, "end": 2568.16}
+{"id": "6fRqcNGVSWc-t2568.16", "text": "or whatever, which is why that part of memory is so important.", "start": 2568.16, "end": 2573.16}
+{"id": "6fRqcNGVSWc-t2573.16", "text": "Yes.", "start": 2573.16, "end": 2574.16}
+{"id": "6fRqcNGVSWc-t2574.16", "text": "And then you often get that someone cannot forgive and then", "start": 2574.16, "end": 2579.16}
+{"id": "6fRqcNGVSWc-t2579.16", "text": "they get to an age where they forget.", "start": 2579.16, "end": 2581.16}
+{"id": "6fRqcNGVSWc-t2581.16", "text": "And then there's reconciliation.", "start": 2581.16, "end": 2584.16}
+{"id": "6fRqcNGVSWc-t2584.16", "text": "Actually, one of the happiest, you know, one of the keys to", "start": 2584.16, "end": 2587.16}
+{"id": "6fRqcNGVSWc-t2587.16", "text": "happiness I found in older patients is the ability to forgive,", "start": 2587.16, "end": 2592.16}
+{"id": "6fRqcNGVSWc-t2592.16", "text": "to truly forgive and forget.", "start": 2592.16, "end": 2594.16}
+{"id": "6fRqcNGVSWc-t2594.16", "text": "And the one other point I wanted to make for Richard's question", "start": 2594.16, "end": 2597.16}
+{"id": "6fRqcNGVSWc-t2597.16", "text": "was that forgetting is almost an unconscious, incessant,", "start": 2597.16, "end": 2603.16}
+{"id": "6fRqcNGVSWc-t2603.16", "text": "constant process.", "start": 2603.16, "end": 2605.16}
+{"id": "6fRqcNGVSWc-t2605.16", "text": "As we're listening right now, there are so many things that", "start": 2605.16, "end": 2608.16}
+{"id": "6fRqcNGVSWc-t2608.16", "text": "we're forgetting.", "start": 2608.16, "end": 2609.16}
+{"id": "6fRqcNGVSWc-t2609.16", "text": "I'm forgetting the way the light falls in the room.", "start": 2609.16, "end": 2612.16}
+{"id": "6fRqcNGVSWc-t2612.16", "text": "I forget the number of, you know, the colors on the screen,", "start": 2612.16, "end": 2615.16}
+{"id": "6fRqcNGVSWc-t2615.16", "text": "etc.", "start": 2615.16, "end": 2616.16}
+{"id": "6fRqcNGVSWc-t2616.16", "text": "So it's an incessant, constant process.", "start": 2616.16, "end": 2618.16}
+{"id": "6fRqcNGVSWc-t2618.16", "text": "Unlearning is a little bit more conscious.", "start": 2618.16, "end": 2622.16}
+{"id": "6fRqcNGVSWc-t2622.16", "text": "So to decide.", "start": 2622.16, "end": 2624.16}
+{"id": "6fRqcNGVSWc-t2624.16", "text": "Can I just, can I just join in about, well, I want to say", "start": 2624.16, "end": 2631.16}
+{"id": "6fRqcNGVSWc-t2631.16", "text": "the idea of forgetting.", "start": 2631.16, "end": 2634.16}
+{"id": "6fRqcNGVSWc-t2634.16", "text": "I mean, they say that if you cannot forget the pain of child", "start": 2634.16, "end": 2639.16}
+{"id": "6fRqcNGVSWc-t2639.16", "text": "words, you would probably never have another child again.", "start": 2639.16, "end": 2643.16}
+{"id": "6fRqcNGVSWc-t2643.16", "text": "And so forgetting is part of the process of living, you know.", "start": 2643.16, "end": 2649.16}
+{"id": "6fRqcNGVSWc-t2649.16", "text": "And as for forgiving, I think part of the problem of memory", "start": 2649.16, "end": 2655.16}
+{"id": "6fRqcNGVSWc-t2655.16", "text": "and forgetting or forgiving is that you can't forgive unless you", "start": 2655.16, "end": 2660.16}
+{"id": "6fRqcNGVSWc-t2660.16", "text": "are not in the first place.", "start": 2660.16, "end": 2662.16}
+{"id": "6fRqcNGVSWc-t2662.16", "text": "And what happens if your nation is constantly telling you that", "start": 2662.16, "end": 2667.16}
+{"id": "6fRqcNGVSWc-t2667.16", "text": "whatever you think you remember didn't happen, which happened", "start": 2667.16, "end": 2672.16}
+{"id": "6fRqcNGVSWc-t2672.16", "text": "to me a lot at NPR, where I was told that, you know, the four", "start": 2672.16, "end": 2677.16}
+{"id": "6fRqcNGVSWc-t2677.16", "text": "freedoms and injustice didn't, doesn't happen in America", "start": 2677.16, "end": 2682.16}
+{"id": "6fRqcNGVSWc-t2682.16", "text": "because, you know, we had four freedoms in America.", "start": 2682.16, "end": 2685.16}
+{"id": "6fRqcNGVSWc-t2685.16", "text": "And I just wrote an opinion piece in my local paper,", "start": 2685.16, "end": 2691.16}
+{"id": "6fRqcNGVSWc-t2691.16", "text": "the Berkshire Eagle.", "start": 2691.16, "end": 2692.16}
+{"id": "6fRqcNGVSWc-t2692.16", "text": "You might want to take a look at that, but there were a lot of", "start": 2692.16, "end": 2695.16}
+{"id": "6fRqcNGVSWc-t2695.16", "text": "people who were excluded from those four freedoms.", "start": 2695.16, "end": 2697.16}
+{"id": "6fRqcNGVSWc-t2697.16", "text": "And what we continuously say that that doesn't happen in America.", "start": 2697.16, "end": 2702.16}
+{"id": "6fRqcNGVSWc-t2702.16", "text": "So what happens if the forgetting is imposed on you from the", "start": 2702.16, "end": 2707.16}
+{"id": "6fRqcNGVSWc-t2707.16", "text": "outside, you know, you haven't chosen to forget forget it or", "start": 2707.16, "end": 2714.16}
+{"id": "6fRqcNGVSWc-t2714.16", "text": "you know, you're not allowed to, if it's like gas lighting, it", "start": 2714.16, "end": 2719.16}
+{"id": "6fRqcNGVSWc-t2719.16", "text": "didn't happen.", "start": 2719.16, "end": 2720.16}
+{"id": "6fRqcNGVSWc-t2720.16", "text": "So you can't forgive because it never happened in the first", "start": 2720.16, "end": 2723.16}
+{"id": "6fRqcNGVSWc-t2723.16", "text": "place.", "start": 2723.16, "end": 2724.16}
+{"id": "6fRqcNGVSWc-t2724.16", "text": "So it creates this odd catch 22.", "start": 2724.16, "end": 2727.16}
+{"id": "6fRqcNGVSWc-t2727.16", "text": "And I've been looking into the Japanese American experience and", "start": 2727.16, "end": 2731.16}
+{"id": "6fRqcNGVSWc-t2731.16", "text": "it's really, really bizarre.", "start": 2731.16, "end": 2735.16}
+{"id": "6fRqcNGVSWc-t2735.16", "text": "It's like watching the movie Gaslight, where they keep saying,", "start": 2735.16, "end": 2738.16}
+{"id": "6fRqcNGVSWc-t2738.16", "text": "you know, this happened and they're being told, no, it didn't.", "start": 2738.16, "end": 2742.16}
+{"id": "6fRqcNGVSWc-t2742.16", "text": "It doesn't happen here in America.", "start": 2742.16, "end": 2744.16}
+{"id": "6fRqcNGVSWc-t2744.16", "text": "And, you know, that's happened to Asian people for most of American", "start": 2744.16, "end": 2749.16}
+{"id": "6fRqcNGVSWc-t2749.16", "text": "history.", "start": 2749.16, "end": 2750.16}
+{"id": "6fRqcNGVSWc-t2750.16", "text": "It's, they're Native American history is, and the laws written", "start": 2750.16, "end": 2757.16}
+{"id": "6fRqcNGVSWc-t2757.16", "text": "against them is mimics what they use against Asians.", "start": 2757.16, "end": 2761.16}
+{"id": "6fRqcNGVSWc-t2761.16", "text": "We're talking a great deal about time, about memory and time,", "start": 2761.16, "end": 2768.16}
+{"id": "6fRqcNGVSWc-t2768.16", "text": "different temporal periods.", "start": 2768.16, "end": 2770.16}
+{"id": "6fRqcNGVSWc-t2770.16", "text": "And I'm wondering about memory and space.", "start": 2770.16, "end": 2773.16}
+{"id": "6fRqcNGVSWc-t2773.16", "text": "Andy, could you say something about that?", "start": 2773.16, "end": 2776.16}
+{"id": "6fRqcNGVSWc-t2776.16", "text": "And maybe Alexandra, how is it that when you're taking your", "start": 2776.16, "end": 2780.16}
+{"id": "6fRqcNGVSWc-t2780.16", "text": "dog to the vet as soon as you get two blocks away, the dog", "start": 2780.16, "end": 2784.16}
+{"id": "6fRqcNGVSWc-t2784.16", "text": "begins to shake because there's something about the space of", "start": 2784.16, "end": 2788.16}
+{"id": "6fRqcNGVSWc-t2788.16", "text": "the approach.", "start": 2788.16, "end": 2789.16}
+{"id": "6fRqcNGVSWc-t2789.16", "text": "And in terms of what it's like to be a person of several", "start": 2789.16, "end": 2795.16}
+{"id": "6fRqcNGVSWc-t2795.16", "text": "cultures, whether ancestrally or in terms of one's own life and", "start": 2795.16, "end": 2799.16}
+{"id": "6fRqcNGVSWc-t2799.16", "text": "the effect of space where you are, or you forget something, you", "start": 2799.16, "end": 2804.16}
+{"id": "6fRqcNGVSWc-t2804.16", "text": "have to go back into the room where you first thought of it", "start": 2804.16, "end": 2809.16}
+{"id": "6fRqcNGVSWc-t2809.16", "text": "before you could pick up the memory of why you, you move to the", "start": 2809.16, "end": 2812.16}
+{"id": "6fRqcNGVSWc-t2812.16", "text": "other room.", "start": 2812.16, "end": 2813.16}
+{"id": "6fRqcNGVSWc-t2813.16", "text": "Andy, could you say a few things about this?", "start": 2813.16, "end": 2816.16}
+{"id": "6fRqcNGVSWc-t2816.16", "text": "Yeah.", "start": 2816.16, "end": 2817.16}
+{"id": "6fRqcNGVSWc-t2817.16", "text": "So I guess the way that we, we often conceive of memory.", "start": 2817.16, "end": 2821.16}
+{"id": "6fRqcNGVSWc-t2821.16", "text": "And I'm talking about episodic memory.", "start": 2821.16, "end": 2824.16}
+{"id": "6fRqcNGVSWc-t2824.16", "text": "So personally experienced memories or a biographical memory.", "start": 2824.16, "end": 2827.16}
+{"id": "6fRqcNGVSWc-t2827.16", "text": "People often talk about the what, where and when.", "start": 2827.16, "end": 2831.16}
+{"id": "6fRqcNGVSWc-t2831.16", "text": "So when did something happen, which is the time, which we've", "start": 2831.16, "end": 2834.16}
+{"id": "6fRqcNGVSWc-t2834.16", "text": "been talking about, the what actually happened.", "start": 2834.16, "end": 2838.16}
+{"id": "6fRqcNGVSWc-t2838.16", "text": "And of course, the where, and the where often has really become", "start": 2838.16, "end": 2842.16}
+{"id": "6fRqcNGVSWc-t2842.16", "text": "a prominent piece historically in memory research, a lot of this", "start": 2842.16, "end": 2846.16}
+{"id": "6fRqcNGVSWc-t2846.16", "text": "driven by, so cells in the hippocampus, which seem to", "start": 2846.16, "end": 2849.16}
+{"id": "6fRqcNGVSWc-t2849.16", "text": "indicate the spatial location of an animal in an environment.", "start": 2849.16, "end": 2853.16}
+{"id": "6fRqcNGVSWc-t2853.16", "text": "And so a lot of research has really been driven by the what,", "start": 2853.16, "end": 2856.16}
+{"id": "6fRqcNGVSWc-t2856.16", "text": "the where, which is the spatial piece.", "start": 2856.16, "end": 2859.16}
+{"id": "6fRqcNGVSWc-t2859.16", "text": "And just in terms of what you were talking about, that really", "start": 2859.16, "end": 2862.16}
+{"id": "6fRqcNGVSWc-t2862.16", "text": "speaks to the fact that we, we learn association.", "start": 2862.16, "end": 2866.16}
+{"id": "6fRqcNGVSWc-t2866.16", "text": "So a lot of our memories are association between different pieces", "start": 2866.16, "end": 2869.16}
+{"id": "6fRqcNGVSWc-t2869.16", "text": "of information.", "start": 2869.16, "end": 2870.16}
+{"id": "6fRqcNGVSWc-t2870.16", "text": "And because space is so pervasive, so we know even where we're", "start": 2870.16, "end": 2874.16}
+{"id": "6fRqcNGVSWc-t2874.16", "text": "sitting now, as we walk around, we're in a space in a particular", "start": 2874.16, "end": 2877.16}
+{"id": "6fRqcNGVSWc-t2877.16", "text": "location, often our memories get anchored that way.", "start": 2877.16, "end": 2880.16}
+{"id": "6fRqcNGVSWc-t2880.16", "text": "So there, we have certain associations, certain locations.", "start": 2880.16, "end": 2884.16}
+{"id": "6fRqcNGVSWc-t2884.16", "text": "And so therefore, when we either retrieve those memories or we go", "start": 2884.16, "end": 2887.16}
+{"id": "6fRqcNGVSWc-t2887.16", "text": "into certain locations, those may trigger those associations to", "start": 2887.16, "end": 2890.16}
+{"id": "6fRqcNGVSWc-t2890.16", "text": "come back.", "start": 2890.16, "end": 2891.16}
+{"id": "6fRqcNGVSWc-t2891.16", "text": "So in the case of the dog example you were keeping, I mean,", "start": 2891.16, "end": 2893.16}
+{"id": "6fRqcNGVSWc-t2893.16", "text": "I was actually able to speak more to that than I would, but just", "start": 2893.16, "end": 2896.16}
+{"id": "6fRqcNGVSWc-t2896.16", "text": "being in a certain location could trigger certain memories", "start": 2896.16, "end": 2899.16}
+{"id": "6fRqcNGVSWc-t2899.16", "text": "associated with, with approaching a particular target spatial", "start": 2899.16, "end": 2902.16}
+{"id": "6fRqcNGVSWc-t2902.16", "text": "location.", "start": 2902.16, "end": 2903.16}
+{"id": "6fRqcNGVSWc-t2903.16", "text": "So, so that's probably what's, what's going on, on there.", "start": 2903.16, "end": 2907.16}
+{"id": "6fRqcNGVSWc-t2907.16", "text": "And so the way a lot of continuous scientists think about memory", "start": 2907.16, "end": 2910.16}
+{"id": "6fRqcNGVSWc-t2910.16", "text": "is that we almost like have a memory map in our brains where", "start": 2910.16, "end": 2913.16}
+{"id": "6fRqcNGVSWc-t2913.16", "text": "it's a combination of this spatial information with this temporal", "start": 2913.16, "end": 2916.16}
+{"id": "6fRqcNGVSWc-t2916.16", "text": "information, which gets bound together as almost like the", "start": 2916.16, "end": 2919.16}
+{"id": "6fRqcNGVSWc-t2919.16", "text": "scaffolding of our memories, and lots of other pieces of", "start": 2919.16, "end": 2922.16}
+{"id": "6fRqcNGVSWc-t2922.16", "text": "information that can attach to it.", "start": 2922.16, "end": 2924.16}
+{"id": "6fRqcNGVSWc-t2924.16", "text": "So like emotions, whether something's rewarding or not rewarding,", "start": 2924.16, "end": 2927.16}
+{"id": "6fRqcNGVSWc-t2927.16", "text": "for example, so they all get put together into this big memory", "start": 2927.16, "end": 2931.16}
+{"id": "6fRqcNGVSWc-t2931.16", "text": "map.", "start": 2931.16, "end": 2932.16}
+{"id": "6fRqcNGVSWc-t2932.16", "text": "But space is a key component of this map.", "start": 2932.16, "end": 2934.16}
+{"id": "6fRqcNGVSWc-t2934.16", "text": "And certainly in terms of experiences that are traumatic, I think,", "start": 2934.16, "end": 2941.16}
+{"id": "6fRqcNGVSWc-t2941.16", "text": "space and perception, of course, has a huge effect in that way.", "start": 2941.16, "end": 2946.16}
+{"id": "6fRqcNGVSWc-t2946.16", "text": "And Alexandra, could you help us out with what is it in dog", "start": 2946.16, "end": 2952.16}
+{"id": "6fRqcNGVSWc-t2952.16", "text": "memory that seems to be spatially related?", "start": 2952.16, "end": 2956.16}
+{"id": "6fRqcNGVSWc-t2956.16", "text": "Well, I mean, Andy has said it best.", "start": 2956.16, "end": 2959.16}
+{"id": "6fRqcNGVSWc-t2959.16", "text": "And he's the neuroscientist here.", "start": 2959.16, "end": 2961.16}
+{"id": "6fRqcNGVSWc-t2961.16", "text": "And of course, what I liked about what he said was this emphasis", "start": 2961.16, "end": 2965.16}
+{"id": "6fRqcNGVSWc-t2965.16", "text": "on learning through association.", "start": 2965.16, "end": 2967.16}
+{"id": "6fRqcNGVSWc-t2967.16", "text": "So memory is being triggered by an association, which is", "start": 2967.16, "end": 2970.16}
+{"id": "6fRqcNGVSWc-t2970.16", "text": "a way that we think of sometimes non-human animals learning more", "start": 2970.16, "end": 2975.16}
+{"id": "6fRqcNGVSWc-t2975.16", "text": "than ourselves.", "start": 2975.16, "end": 2976.16}
+{"id": "6fRqcNGVSWc-t2976.16", "text": "But that is, of course, analogous or identical in non-humans and", "start": 2976.16, "end": 2981.16}
+{"id": "6fRqcNGVSWc-t2981.16", "text": "in humans that we learn through associations.", "start": 2981.16, "end": 2984.16}
+{"id": "6fRqcNGVSWc-t2984.16", "text": "And so it is not at all surprising that dogs can remember", "start": 2984.16, "end": 2988.16}
+{"id": "6fRqcNGVSWc-t2988.16", "text": "arriving at a vet or a person who they've met once or being in", "start": 2988.16, "end": 2993.16}
+{"id": "6fRqcNGVSWc-t2993.16", "text": "a place that they've been before and had about experience that", "start": 2993.16, "end": 2999.16}
+{"id": "6fRqcNGVSWc-t2999.16", "text": "shouldn't surprise us at all.", "start": 2999.16, "end": 3001.16}
+{"id": "6fRqcNGVSWc-t3001.16", "text": "And I think what I'm interested in in your question, Beverly,", "start": 3001.16, "end": 3004.16}
+{"id": "6fRqcNGVSWc-t3004.16", "text": "is sort of why would we be surprised by that?", "start": 3004.16, "end": 3007.16}
+{"id": "6fRqcNGVSWc-t3007.16", "text": "And I think it's because we don't think in some level we're not", "start": 3007.16, "end": 3011.16}
+{"id": "6fRqcNGVSWc-t3011.16", "text": "thinking about companion animals or non-human animals as having", "start": 3011.16, "end": 3016.16}
+{"id": "6fRqcNGVSWc-t3016.16", "text": "kind of personal stories, right,", "start": 3016.16, "end": 3018.16}
+{"id": "6fRqcNGVSWc-t3018.16", "text": "autobiographical memories that they ruminate on, that they sit", "start": 3018.16, "end": 3023.16}
+{"id": "6fRqcNGVSWc-t3023.16", "text": "back and reflect on.", "start": 3023.16, "end": 3026.16}
+{"id": "6fRqcNGVSWc-t3026.16", "text": "And that's only because, well, we're not sure if they do have a", "start": 3026.16, "end": 3030.16}
+{"id": "6fRqcNGVSWc-t3030.16", "text": "kind of sense of self over time, right, and they don't have a", "start": 3030.16, "end": 3034.16}
+{"id": "6fRqcNGVSWc-t3034.16", "text": "verbal way to express that.", "start": 3034.16, "end": 3036.16}
+{"id": "6fRqcNGVSWc-t3036.16", "text": "But also because we are familiar with each other's", "start": 3036.16, "end": 3041.16}
+{"id": "6fRqcNGVSWc-t3041.16", "text": "autobiographical selves through analogy and through our telling", "start": 3041.16, "end": 3045.16}
+{"id": "6fRqcNGVSWc-t3045.16", "text": "each other about our history and our experiences.", "start": 3045.16, "end": 3048.16}
+{"id": "6fRqcNGVSWc-t3048.16", "text": "So we just have to look at dog behavior and realize that their", "start": 3048.16, "end": 3052.16}
+{"id": "6fRqcNGVSWc-t3052.16", "text": "behavior is showing us their memory.", "start": 3052.16, "end": 3054.16}
+{"id": "6fRqcNGVSWc-t3054.16", "text": "But we often are not as accustomed to that, to seeing", "start": 3054.16, "end": 3057.16}
+{"id": "6fRqcNGVSWc-t3057.16", "text": "other's memories of visible just in their behavior.", "start": 3057.16, "end": 3062.16}
+{"id": "6fRqcNGVSWc-t3062.16", "text": "We're used to seeing their memories visible in how they respond", "start": 3062.16, "end": 3067.16}
+{"id": "6fRqcNGVSWc-t3067.16", "text": "and how they articulate their experiences.", "start": 3067.16, "end": 3070.16}
+{"id": "6fRqcNGVSWc-t3070.16", "text": "We started off and made a very important distinction between", "start": 3070.16, "end": 3073.16}
+{"id": "6fRqcNGVSWc-t3073.16", "text": "explicit memories and implicit memories.", "start": 3073.16, "end": 3076.16}
+{"id": "6fRqcNGVSWc-t3076.16", "text": "But you'll notice that as we go along in the conversation,", "start": 3076.16, "end": 3080.16}
+{"id": "6fRqcNGVSWc-t3080.16", "text": "we tended to default to when we mostly talk about memory,", "start": 3080.16, "end": 3084.16}
+{"id": "6fRqcNGVSWc-t3084.16", "text": "we default to sort of explicit memories.", "start": 3084.16, "end": 3086.16}
+{"id": "6fRqcNGVSWc-t3086.16", "text": "And I wonder when we talked about creative memory and destructive", "start": 3086.16, "end": 3090.16}
+{"id": "6fRqcNGVSWc-t3090.16", "text": "memory, we'll call it, where we mostly were referring to", "start": 3090.16, "end": 3094.16}
+{"id": "6fRqcNGVSWc-t3094.16", "text": "explicit memories.", "start": 3094.16, "end": 3095.16}
+{"id": "6fRqcNGVSWc-t3095.16", "text": "And is that same creativity found in implicit memories on the one", "start": 3095.16, "end": 3099.16}
+{"id": "6fRqcNGVSWc-t3099.16", "text": "hand and, right, do dogs, for example, have some degree of", "start": 3099.16, "end": 3103.16}
+{"id": "6fRqcNGVSWc-t3103.16", "text": "explicit memory.", "start": 3103.16, "end": 3104.16}
+{"id": "6fRqcNGVSWc-t3104.16", "text": "That's sort of what Alexandra's commenting on just now.", "start": 3104.16, "end": 3106.16}
+{"id": "6fRqcNGVSWc-t3106.16", "text": "I just wondered if we could talk about that creative aspect", "start": 3106.16, "end": 3110.16}
+{"id": "6fRqcNGVSWc-t3110.16", "text": "of implicit versus explicit.", "start": 3110.16, "end": 3112.16}
+{"id": "6fRqcNGVSWc-t3112.16", "text": "Well, Socrates, when people started to write things down,", "start": 3112.16, "end": 3118.16}
+{"id": "6fRqcNGVSWc-t3118.16", "text": "was disgusted because he said, if you memorize things, take", "start": 3118.16, "end": 3123.16}
+{"id": "6fRqcNGVSWc-t3123.16", "text": "things into yourself as a memory, you experience them more", "start": 3123.16, "end": 3127.16}
+{"id": "6fRqcNGVSWc-t3127.16", "text": "deeply than when you see it on a tablet or whatever.", "start": 3127.16, "end": 3132.16}
+{"id": "6fRqcNGVSWc-t3132.16", "text": "And I'm wondering what other panelists feel about that,", "start": 3132.16, "end": 3135.16}
+{"id": "6fRqcNGVSWc-t3135.16", "text": "whether in our day-to-day rush of taking in information and not", "start": 3135.16, "end": 3140.16}
+{"id": "6fRqcNGVSWc-t3140.16", "text": "particularly memorizing it, we're losing in the depth of our", "start": 3140.16, "end": 3144.16}
+{"id": "6fRqcNGVSWc-t3144.16", "text": "response to it.", "start": 3144.16, "end": 3146.16}
+{"id": "6fRqcNGVSWc-t3146.16", "text": "Richard, so one of the things that we need to think about is how", "start": 3146.16, "end": 3150.16}
+{"id": "6fRqcNGVSWc-t3150.16", "text": "intricately, in the way the brain has developed, memory is tied to", "start": 3150.16, "end": 3157.16}
+{"id": "6fRqcNGVSWc-t3157.16", "text": "emotion.", "start": 3157.16, "end": 3158.16}
+{"id": "6fRqcNGVSWc-t3158.16", "text": "So the amygdala, jolidu, at NYU has done a lot of work on this in", "start": 3158.16, "end": 3163.16}
+{"id": "6fRqcNGVSWc-t3163.16", "text": "terms of how the amygdala is tied to memory, and it allows", "start": 3163.16, "end": 3167.16}
+{"id": "6fRqcNGVSWc-t3167.16", "text": "organisms, including dogs.", "start": 3167.16, "end": 3171.16}
+{"id": "6fRqcNGVSWc-t3171.16", "text": "I wouldn't call them lesser animals, greater animals, to evolve", "start": 3171.16, "end": 3177.16}
+{"id": "6fRqcNGVSWc-t3177.16", "text": "and survive and adapt.", "start": 3177.16, "end": 3179.16}
+{"id": "6fRqcNGVSWc-t3179.16", "text": "So in terms of the feeling of something taking it in with", "start": 3179.16, "end": 3184.16}
+{"id": "6fRqcNGVSWc-t3184.16", "text": "Socrates, it would have to do with the emotion, how much you", "start": 3184.16, "end": 3188.16}
+{"id": "6fRqcNGVSWc-t3188.16", "text": "imbue this memory with some kind of emotion, how relevant it is to", "start": 3188.16, "end": 3193.16}
+{"id": "6fRqcNGVSWc-t3193.16", "text": "you, as opposed to facts, memories for facts, which are", "start": 3193.16, "end": 3198.16}
+{"id": "6fRqcNGVSWc-t3198.16", "text": "sometimes devoid of any kind of emotion, unless it means you have", "start": 3198.16, "end": 3201.16}
+{"id": "6fRqcNGVSWc-t3201.16", "text": "to study to take an exam.", "start": 3201.16, "end": 3203.16}
+{"id": "6fRqcNGVSWc-t3203.16", "text": "So that is important, I think, in terms of the distinction between", "start": 3203.16, "end": 3207.16}
+{"id": "6fRqcNGVSWc-t3207.16", "text": "how well we remember things and how much emotion plays a role in", "start": 3207.16, "end": 3214.16}
+{"id": "6fRqcNGVSWc-t3214.16", "text": "remembering.", "start": 3214.16, "end": 3215.16}
+{"id": "6fRqcNGVSWc-t3215.16", "text": "So, Alexandra, I have a question, do you think that dogs have more", "start": 3215.16, "end": 3221.16}
+{"id": "6fRqcNGVSWc-t3221.16", "text": "of an emotional memory than people do?", "start": 3221.16, "end": 3225.16}
+{"id": "6fRqcNGVSWc-t3225.16", "text": "Sort of because of their absence of articulating themselves", "start": 3225.16, "end": 3229.16}
+{"id": "6fRqcNGVSWc-t3229.16", "text": "telling the story to themselves, we assume.", "start": 3229.16, "end": 3233.16}
+{"id": "6fRqcNGVSWc-t3233.16", "text": "I have to be agnostic about that, I think.", "start": 3233.16, "end": 3236.16}
+{"id": "6fRqcNGVSWc-t3236.16", "text": "I think that what I would imagine is more of the dog's experience", "start": 3236.16, "end": 3240.16}
+{"id": "6fRqcNGVSWc-t3240.16", "text": "is a kind of fuller-fleshed perceptual memory.", "start": 3240.16, "end": 3245.16}
+{"id": "6fRqcNGVSWc-t3245.16", "text": "In other words, in modalities that maybe don't always occur to", "start": 3245.16, "end": 3249.16}
+{"id": "6fRqcNGVSWc-t3249.16", "text": "us as part of memory formation, so for instance,", "start": 3249.16, "end": 3253.16}
+{"id": "6fRqcNGVSWc-t3253.16", "text": "old-faction, right?", "start": 3253.16, "end": 3254.16}
+{"id": "6fRqcNGVSWc-t3254.16", "text": "Or, of course, old-faction is a big driver of learned", "start": 3254.16, "end": 3258.16}
+{"id": "6fRqcNGVSWc-t3258.16", "text": "associations, and we all can talk about that", "start": 3258.16, "end": 3262.16}
+{"id": "6fRqcNGVSWc-t3262.16", "text": "that, a moment from childhood, an early memory that is invoked", "start": 3262.16, "end": 3271.16}
+{"id": "6fRqcNGVSWc-t3271.16", "text": "by a scent that you encounter again, but that's actually fairly", "start": 3271.16, "end": 3275.16}
+{"id": "6fRqcNGVSWc-t3275.16", "text": "rare, we're not daily creating all-factory memory,", "start": 3275.16, "end": 3280.16}
+{"id": "6fRqcNGVSWc-t3280.16", "text": "all-factory-ly primed memories.", "start": 3280.16, "end": 3283.16}
+{"id": "6fRqcNGVSWc-t3283.16", "text": "But, of course, if one is an animal who is more living in that", "start": 3283.16, "end": 3288.16}
+{"id": "6fRqcNGVSWc-t3288.16", "text": "modality, I think that they are.", "start": 3288.16, "end": 3290.16}
+{"id": "6fRqcNGVSWc-t3290.16", "text": "And so, insofar as old-faction is actually closely tied to", "start": 3290.16, "end": 3294.16}
+{"id": "6fRqcNGVSWc-t3294.16", "text": "emotions, perhaps so.", "start": 3294.16, "end": 3296.16}
+{"id": "6fRqcNGVSWc-t3296.16", "text": "But, I don't think there would be any reason that they'd be more", "start": 3296.16, "end": 3301.16}
+{"id": "6fRqcNGVSWc-t3301.16", "text": "emotional per se, right?", "start": 3301.16, "end": 3303.16}
+{"id": "6fRqcNGVSWc-t3303.16", "text": "Versus analytic, if that's the contrast you're drawing.", "start": 3303.16, "end": 3307.16}
+{"id": "6fRqcNGVSWc-t3307.16", "text": "It depends who their owners are.", "start": 3307.16, "end": 3309.16}
+{"id": "6fRqcNGVSWc-t3309.16", "text": "Can I?", "start": 3309.16, "end": 3311.16}
+{"id": "6fRqcNGVSWc-t3311.16", "text": "Can I?", "start": 3311.16, "end": 3312.16}
+{"id": "6fRqcNGVSWc-t3312.16", "text": "I would like to ask something that was triggered by what", "start": 3312.16, "end": 3319.16}
+{"id": "6fRqcNGVSWc-t3319.16", "text": "Gayatri said about emotion.", "start": 3319.16, "end": 3321.16}
+{"id": "6fRqcNGVSWc-t3321.16", "text": "She, at first, said that you, in terms of your first romance,", "start": 3321.16, "end": 3326.16}
+{"id": "6fRqcNGVSWc-t3326.16", "text": "that you forget that in order to be able to have other romances.", "start": 3326.16, "end": 3331.16}
+{"id": "6fRqcNGVSWc-t3331.16", "text": "Now, what is it you forget?", "start": 3331.16, "end": 3333.16}
+{"id": "6fRqcNGVSWc-t3333.16", "text": "You still may remember the name of the person.", "start": 3333.16, "end": 3336.16}
+{"id": "6fRqcNGVSWc-t3336.16", "text": "You may recognize the person in the street.", "start": 3336.16, "end": 3339.16}
+{"id": "6fRqcNGVSWc-t3339.16", "text": "You may remember something that you're going to be able to", "start": 3339.16, "end": 3342.16}
+{"id": "6fRqcNGVSWc-t3342.16", "text": "have.", "start": 3342.16, "end": 3349.16}
+{"id": "6fRqcNGVSWc-t3349.16", "text": "You may remember the name of the person.", "start": 3349.16, "end": 3351.16}
+{"id": "6fRqcNGVSWc-t3351.16", "text": "You may recognize the person in the street.", "start": 3351.16, "end": 3354.16}
+{"id": "6fRqcNGVSWc-t3354.16", "text": "You may remember some of the places you went out together to.", "start": 3354.16, "end": 3357.16}
+{"id": "6fRqcNGVSWc-t3357.16", "text": "What you don't have is the emotions that you had at the time.", "start": 3357.16, "end": 3362.16}
+{"id": "6fRqcNGVSWc-t3362.16", "text": "So, what's, and you mentioned emotional memory.", "start": 3362.16, "end": 3366.16}
+{"id": "6fRqcNGVSWc-t3366.16", "text": "So, how do we understand emotional memory versus what is more", "start": 3366.16, "end": 3371.16}
+{"id": "6fRqcNGVSWc-t3371.16", "text": "emotional memory?", "start": 3371.16, "end": 3373.16}
+{"id": "6fRqcNGVSWc-t3373.16", "text": "I'm not sure.", "start": 3373.16, "end": 3374.16}
+{"id": "6fRqcNGVSWc-t3374.16", "text": "But the other thing I wanted to ask, and this has been on my", "start": 3374.16, "end": 3377.16}
+{"id": "6fRqcNGVSWc-t3377.16", "text": "mind for a few years, and I haven't found sufficient.", "start": 3377.16, "end": 3381.16}
+{"id": "6fRqcNGVSWc-t3381.16", "text": "I haven't been able to understand it for myself sufficiently,", "start": 3381.16, "end": 3385.16}
+{"id": "6fRqcNGVSWc-t3385.16", "text": "is what Christina mentioned about experience.", "start": 3385.16, "end": 3388.16}
+{"id": "6fRqcNGVSWc-t3388.16", "text": "So, that experience with the first love of your life can continue", "start": 3388.16, "end": 3395.16}
+{"id": "6fRqcNGVSWc-t3395.16", "text": "to have an impact on you for a period of time.", "start": 3395.16, "end": 3399.16}
+{"id": "6fRqcNGVSWc-t3399.16", "text": "Or do you consider that something else?", "start": 3399.16, "end": 3402.16}
+{"id": "6fRqcNGVSWc-t3402.16", "text": "Those are the two thoughts I wanted to see if there could be some", "start": 3402.16, "end": 3406.16}
+{"id": "6fRqcNGVSWc-t3406.16", "text": "clarification for me on.", "start": 3406.16, "end": 3409.16}
+{"id": "6fRqcNGVSWc-t3409.16", "text": "And I don't know if I can offer clarification, but I can", "start": 3409.16, "end": 3412.16}
+{"id": "6fRqcNGVSWc-t3412.16", "text": "certainly comment a little bit on it.", "start": 3412.16, "end": 3416.16}
+{"id": "6fRqcNGVSWc-t3416.16", "text": "I think we're ultimately all mammals, dogs, humans, and we", "start": 3416.16, "end": 3421.16}
+{"id": "6fRqcNGVSWc-t3421.16", "text": "really have this large overlay of our new cortex, which tries to", "start": 3421.16, "end": 3426.16}
+{"id": "6fRqcNGVSWc-t3426.16", "text": "bring rationality to our decisions.", "start": 3426.16, "end": 3429.16}
+{"id": "6fRqcNGVSWc-t3429.16", "text": "Daniel Kahneman has written about this in thinking fast and", "start": 3429.16, "end": 3432.16}
+{"id": "6fRqcNGVSWc-t3432.16", "text": "thinking slow, that we try to rationalize our very basic", "start": 3432.16, "end": 3436.16}
+{"id": "6fRqcNGVSWc-t3436.16", "text": "instinctual behavior by giving it a narrative that fits in with", "start": 3436.16, "end": 3441.16}
+{"id": "6fRqcNGVSWc-t3441.16", "text": "our thinking at the moment.", "start": 3441.16, "end": 3443.16}
+{"id": "6fRqcNGVSWc-t3443.16", "text": "But it's really ultimately quite emotional.", "start": 3443.16, "end": 3446.16}
+{"id": "6fRqcNGVSWc-t3446.16", "text": "The science of economics is emotional, even though we think", "start": 3446.16, "end": 3449.16}
+{"id": "6fRqcNGVSWc-t3449.16", "text": "of economics as a very dry subject.", "start": 3449.16, "end": 3452.16}
+{"id": "6fRqcNGVSWc-t3452.16", "text": "So, to answer your question or to try to talk about it a little", "start": 3452.16, "end": 3459.16}
+{"id": "6fRqcNGVSWc-t3459.16", "text": "bit, when you're talking about emotions and how they affect", "start": 3459.16, "end": 3464.16}
+{"id": "6fRqcNGVSWc-t3464.16", "text": "memory, it appeals more to the core brain, more to the primitive", "start": 3464.16, "end": 3470.16}
+{"id": "6fRqcNGVSWc-t3470.16", "text": "brain, and it's harder to erase, which is why PTSD is such an", "start": 3470.16, "end": 3476.16}
+{"id": "6fRqcNGVSWc-t3476.16", "text": "issue, because it's the strong connection with emotion.", "start": 3476.16, "end": 3480.16}
+{"id": "6fRqcNGVSWc-t3480.16", "text": "And that's why repression, Freud's famous stories of repression", "start": 3480.16, "end": 3483.16}
+{"id": "6fRqcNGVSWc-t3483.16", "text": "are also an issue, because it's a negative suppression, if you", "start": 3483.16, "end": 3486.16}
+{"id": "6fRqcNGVSWc-t3486.16", "text": "will, of memory.", "start": 3486.16, "end": 3488.16}
+{"id": "6fRqcNGVSWc-t3488.16", "text": "So that's my thinking.", "start": 3488.16, "end": 3489.16}
+{"id": "6fRqcNGVSWc-t3489.16", "text": "I don't know what else.", "start": 3489.16, "end": 3493.16}
+{"id": "6fRqcNGVSWc-t3493.16", "text": "You wanted to say something?", "start": 3493.16, "end": 3495.16}
+{"id": "6fRqcNGVSWc-t3495.16", "text": "Yes, me?", "start": 3495.16, "end": 3497.16}
+{"id": "6fRqcNGVSWc-t3497.16", "text": "Yes.", "start": 3497.16, "end": 3498.16}
+{"id": "6fRqcNGVSWc-t3498.16", "text": "No, I would go ahead.", "start": 3498.16, "end": 3500.16}
+{"id": "6fRqcNGVSWc-t3500.16", "text": "Let's go.", "start": 3500.16, "end": 3502.16}
+{"id": "6fRqcNGVSWc-t3502.16", "text": "You were trying to say something before?", "start": 3502.16, "end": 3504.16}
+{"id": "6fRqcNGVSWc-t3504.16", "text": "Oh, no, I will.", "start": 3504.16, "end": 3507.16}
+{"id": "6fRqcNGVSWc-t3507.16", "text": "That's okay.", "start": 3507.16, "end": 3509.16}
+{"id": "6fRqcNGVSWc-t3509.16", "text": "Sorry.", "start": 3509.16, "end": 3510.16}
+{"id": "6fRqcNGVSWc-t3510.16", "text": "Go ahead, Christina.", "start": 3510.16, "end": 3511.16}
+{"id": "6fRqcNGVSWc-t3511.16", "text": "Yeah, to add to what was just said, if there is no emotion or", "start": 3511.16, "end": 3520.16}
+{"id": "6fRqcNGVSWc-t3520.16", "text": "valence, emotional valence, there is no long-term memory.", "start": 3520.16, "end": 3528.16}
+{"id": "6fRqcNGVSWc-t3528.16", "text": "Motivation is based on emotion.", "start": 3528.16, "end": 3530.16}
+{"id": "6fRqcNGVSWc-t3530.16", "text": "So if there is no motivation, there's not going to be any", "start": 3530.16, "end": 3533.16}
+{"id": "6fRqcNGVSWc-t3533.16", "text": "long-term memory.", "start": 3533.16, "end": 3534.16}
+{"id": "6fRqcNGVSWc-t3534.16", "text": "There has been also a lot of experiments done looking at the", "start": 3534.16, "end": 3538.16}
+{"id": "6fRqcNGVSWc-t3538.16", "text": "level of stress and memory strength.", "start": 3538.16, "end": 3543.16}
+{"id": "6fRqcNGVSWc-t3543.16", "text": "And what they have found is that a little bit of stress or", "start": 3543.16, "end": 3548.16}
+{"id": "6fRqcNGVSWc-t3548.16", "text": "emotion, negative emotion, in some cases, when they've been", "start": 3548.16, "end": 3551.16}
+{"id": "6fRqcNGVSWc-t3551.16", "text": "measured as aversive memories or positive in other experiments,", "start": 3551.16, "end": 3557.16}
+{"id": "6fRqcNGVSWc-t3557.16", "text": "is essential to have long-term memories.", "start": 3557.16, "end": 3560.16}
+{"id": "6fRqcNGVSWc-t3560.16", "text": "And increasing the level of stress or emotion to a certain", "start": 3560.16, "end": 3566.16}
+{"id": "6fRqcNGVSWc-t3566.16", "text": "point is beneficial to have more memories, more detailed", "start": 3566.16, "end": 3570.16}
+{"id": "6fRqcNGVSWc-t3570.16", "text": "memories, more long-lasting memories.", "start": 3570.16, "end": 3573.16}
+{"id": "6fRqcNGVSWc-t3573.16", "text": "And after a certain level of stress, then there is a decrease", "start": 3573.16, "end": 3577.16}
+{"id": "6fRqcNGVSWc-t3577.16", "text": "of memory strength and storage, or at least they are not expressed", "start": 3577.16, "end": 3585.16}
+{"id": "6fRqcNGVSWc-t3585.16", "text": "anymore.", "start": 3585.16, "end": 3586.16}
+{"id": "6fRqcNGVSWc-t3586.16", "text": "So it's like an inverted U effect.", "start": 3586.16, "end": 3590.16}
+{"id": "6fRqcNGVSWc-t3590.16", "text": "A little bit of stress and emotion is necessary to store", "start": 3590.16, "end": 3594.16}
+{"id": "6fRqcNGVSWc-t3594.16", "text": "long-term memories.", "start": 3594.16, "end": 3596.16}
+{"id": "6fRqcNGVSWc-t3596.16", "text": "Too much is bad because then we distort the memories.", "start": 3596.16, "end": 3600.16}
+{"id": "6fRqcNGVSWc-t3600.16", "text": "And the storage is only on certain representations or cues or", "start": 3600.16, "end": 3607.16}
+{"id": "6fRqcNGVSWc-t3607.16", "text": "whatever is that the experience was.", "start": 3607.16, "end": 3611.16}
+{"id": "6fRqcNGVSWc-t3611.16", "text": "And it can be also sort of inhibited, probably for a", "start": 3611.16, "end": 3618.16}
+{"id": "6fRqcNGVSWc-t3618.16", "text": "defensive mechanism.", "start": 3618.16, "end": 3620.16}
+{"id": "6fRqcNGVSWc-t3620.16", "text": "And so, let's say a very strong trauma.", "start": 3620.16, "end": 3625.16}
+{"id": "6fRqcNGVSWc-t3625.16", "text": "If we ask what happened after that traumatic experience, often", "start": 3625.16, "end": 3629.16}
+{"id": "6fRqcNGVSWc-t3629.16", "text": "they say, I don't remember.", "start": 3629.16, "end": 3632.16}
+{"id": "6fRqcNGVSWc-t3632.16", "text": "No, but I was trying to comment on the very simple thing, which is", "start": 3632.16, "end": 3638.16}
+{"id": "6fRqcNGVSWc-t3638.16", "text": "there is a guy at this example.", "start": 3638.16, "end": 3641.16}
+{"id": "6fRqcNGVSWc-t3641.16", "text": "You have, so you have your first romance.", "start": 3641.16, "end": 3647.16}
+{"id": "6fRqcNGVSWc-t3647.16", "text": "You have a lot of emotions.", "start": 3647.16, "end": 3651.16}
+{"id": "6fRqcNGVSWc-t3651.16", "text": "How do you, how come you don't have the emotions?", "start": 3651.16, "end": 3655.16}
+{"id": "6fRqcNGVSWc-t3655.16", "text": "Whatever intense, loving feelings you have, you don't have", "start": 3655.16, "end": 3659.16}
+{"id": "6fRqcNGVSWc-t3659.16", "text": "anymore.", "start": 3659.16, "end": 3660.16}
+{"id": "6fRqcNGVSWc-t3660.16", "text": "In fact, if you continue to have them, you couldn't move on.", "start": 3660.16, "end": 3664.16}
+{"id": "6fRqcNGVSWc-t3664.16", "text": "Well, and I think that's a whole other.", "start": 3664.16, "end": 3669.16}
+{"id": "6fRqcNGVSWc-t3669.16", "text": "I think that's a whole other.", "start": 3669.16, "end": 3676.16}
+{"id": "6fRqcNGVSWc-t3676.16", "text": "I think it's a whole different thing.", "start": 3676.16, "end": 3678.16}
+{"id": "6fRqcNGVSWc-t3678.16", "text": "But for the sake of the discussion, let's say there is no", "start": 3678.16, "end": 3682.16}
+{"id": "6fRqcNGVSWc-t3682.16", "text": "emotional memory.", "start": 3682.16, "end": 3683.16}
+{"id": "6fRqcNGVSWc-t3683.16", "text": "Then the question is, do you think that's memory?", "start": 3683.16, "end": 3685.16}
+{"id": "6fRqcNGVSWc-t3685.16", "text": "Yes, absolutely.", "start": 3685.16, "end": 3687.16}
+{"id": "6fRqcNGVSWc-t3687.16", "text": "Everything that memory by definition is whatever is stored", "start": 3687.16, "end": 3694.16}
+{"id": "6fRqcNGVSWc-t3694.16", "text": "and maintained over time.", "start": 3694.16, "end": 3696.16}
+{"id": "6fRqcNGVSWc-t3696.16", "text": "And therefore, maintaining of that information will influence our", "start": 3696.16, "end": 3701.16}
+{"id": "6fRqcNGVSWc-t3701.16", "text": "behavior in the present moment.", "start": 3701.16, "end": 3706.16}
+{"id": "6fRqcNGVSWc-t3706.16", "text": "Can I?", "start": 3706.16, "end": 3707.16}
+{"id": "6fRqcNGVSWc-t3707.16", "text": "Yes.", "start": 3707.16, "end": 3708.16}
+{"id": "6fRqcNGVSWc-t3708.16", "text": "I remembered what I was thinking about emotion.", "start": 3708.16, "end": 3710.16}
+{"id": "6fRqcNGVSWc-t3710.16", "text": "And I think it's that it's not that you forget that the", "start": 3710.16, "end": 3714.16}
+{"id": "6fRqcNGVSWc-t3714.16", "text": "emotional feeling.", "start": 3714.16, "end": 3715.16}
+{"id": "6fRqcNGVSWc-t3715.16", "text": "You probably just transferred on to someone else.", "start": 3715.16, "end": 3718.16}
+{"id": "6fRqcNGVSWc-t3718.16", "text": "Because I know, I remember how I felt in my first love.", "start": 3718.16, "end": 3723.16}
+{"id": "6fRqcNGVSWc-t3723.16", "text": "And I know that maybe I don't feel that way about this other", "start": 3723.16, "end": 3727.16}
+{"id": "6fRqcNGVSWc-t3727.16", "text": "person because there's a lot of other memories that are piled on", "start": 3727.16, "end": 3731.16}
+{"id": "6fRqcNGVSWc-t3731.16", "text": "top of that original love that no longer makes me feel that way.", "start": 3731.16, "end": 3735.16}
+{"id": "6fRqcNGVSWc-t3735.16", "text": "But I remember that feeling.", "start": 3735.16, "end": 3737.16}
+{"id": "6fRqcNGVSWc-t3737.16", "text": "And when I need somebody else and that feeling is there, it's not", "start": 3737.16, "end": 3741.16}
+{"id": "6fRqcNGVSWc-t3741.16", "text": "that you lost it.", "start": 3741.16, "end": 3742.16}
+{"id": "6fRqcNGVSWc-t3742.16", "text": "It's just that you're now associating it with somebody else.", "start": 3742.16, "end": 3745.16}
+{"id": "6fRqcNGVSWc-t3745.16", "text": "And oh, Andy, can I just bring out one more thing?", "start": 3745.16, "end": 3748.16}
+{"id": "6fRqcNGVSWc-t3748.16", "text": "The other thing about emotion is what if you're the emotion that's", "start": 3748.16, "end": 3753.16}
+{"id": "6fRqcNGVSWc-t3753.16", "text": "not associated with you is fear and hatred and which is what I", "start": 3753.16, "end": 3759.16}
+{"id": "6fRqcNGVSWc-t3759.16", "text": "often experienced growing up.", "start": 3759.16, "end": 3762.16}
+{"id": "6fRqcNGVSWc-t3762.16", "text": "When I was eight years old, I was walking home from school and", "start": 3762.16, "end": 3766.16}
+{"id": "6fRqcNGVSWc-t3766.16", "text": "somebody wrote in chalk sets goes a jap, jap go home.", "start": 3766.16, "end": 3771.16}
+{"id": "6fRqcNGVSWc-t3771.16", "text": "This was in, you know, the early 70s and no, it's 60s, late 60s.", "start": 3771.16, "end": 3779.16}
+{"id": "6fRqcNGVSWc-t3779.16", "text": "And it turns out it was my neighbors who was two girls that", "start": 3779.16, "end": 3784.16}
+{"id": "6fRqcNGVSWc-t3784.16", "text": "lived in my neighborhood.", "start": 3784.16, "end": 3786.16}
+{"id": "6fRqcNGVSWc-t3786.16", "text": "And I'm not sure why they wrote that other than that maybe they", "start": 3786.16, "end": 3791.16}
+{"id": "6fRqcNGVSWc-t3791.16", "text": "learned it from their parents.", "start": 3791.16, "end": 3793.16}
+{"id": "6fRqcNGVSWc-t3793.16", "text": "But, you know, I've even growing up and, you know, going to", "start": 3793.16, "end": 3800.16}
+{"id": "6fRqcNGVSWc-t3800.16", "text": "journalism school.", "start": 3800.16, "end": 3801.16}
+{"id": "6fRqcNGVSWc-t3801.16", "text": "I didn't learn any a lot of this history, anti Asianism that was", "start": 3801.16, "end": 3806.16}
+{"id": "6fRqcNGVSWc-t3806.16", "text": "legal or most of the history that I learned about Asians was", "start": 3806.16, "end": 3812.16}
+{"id": "6fRqcNGVSWc-t3812.16", "text": "negative and fear based.", "start": 3812.16, "end": 3815.16}
+{"id": "6fRqcNGVSWc-t3815.16", "text": "And I still get it today.", "start": 3815.16, "end": 3817.16}
+{"id": "6fRqcNGVSWc-t3817.16", "text": "I've been to dinner parties in the Berkshires where people said,", "start": 3817.16, "end": 3820.16}
+{"id": "6fRqcNGVSWc-t3820.16", "text": "oh, the Japanese, you had to be put away, you know, Pearl Harbor", "start": 3820.16, "end": 3824.16}
+{"id": "6fRqcNGVSWc-t3824.16", "text": "or the Japanese had, you had to be nuked, you know.", "start": 3824.16, "end": 3829.16}
+{"id": "6fRqcNGVSWc-t3829.16", "text": "So to me, that's really scary.", "start": 3829.16, "end": 3833.16}
+{"id": "6fRqcNGVSWc-t3833.16", "text": "And I guess to them, it's perfectly fine because I'm", "start": 3833.16, "end": 3837.16}
+{"id": "6fRqcNGVSWc-t3837.16", "text": "associated with people and a memory that triggers fear.", "start": 3837.16, "end": 3842.16}
+{"id": "6fRqcNGVSWc-t3842.16", "text": "So what do you do when that is constantly applied to you?", "start": 3842.16, "end": 3848.16}
+{"id": "6fRqcNGVSWc-t3848.16", "text": "Even though I was, I wasn't born then.", "start": 3848.16, "end": 3850.16}
+{"id": "6fRqcNGVSWc-t3850.16", "text": "I promise I'm not scary.", "start": 3850.16, "end": 3852.16}
+{"id": "6fRqcNGVSWc-t3852.16", "text": "And do you want to, you wanted to respond there?", "start": 3852.16, "end": 3858.16}
+{"id": "6fRqcNGVSWc-t3858.16", "text": "I just wanted to add something really quickly in response to", "start": 3858.16, "end": 3863.16}
+{"id": "6fRqcNGVSWc-t3863.16", "text": "basically Ed's question earlier about, you know, moving along", "start": 3863.16, "end": 3867.16}
+{"id": "6fRqcNGVSWc-t3867.16", "text": "from a past romance.", "start": 3867.16, "end": 3869.16}
+{"id": "6fRqcNGVSWc-t3869.16", "text": "And I think one potential factor which may help us do that as", "start": 3869.16, "end": 3873.16}
+{"id": "6fRqcNGVSWc-t3873.16", "text": "well is that often our memories transform over time.", "start": 3873.16, "end": 3876.16}
+{"id": "6fRqcNGVSWc-t3876.16", "text": "So when we think about our episodic memories, the way, like", "start": 3876.16, "end": 3880.16}
+{"id": "6fRqcNGVSWc-t3880.16", "text": "conctor scientists think about that is that you have a re-experiencing", "start": 3880.16, "end": 3884.16}
+{"id": "6fRqcNGVSWc-t3884.16", "text": "of the event.", "start": 3884.16, "end": 3885.16}
+{"id": "6fRqcNGVSWc-t3885.16", "text": "And then we come back, people talk about jumping back in time,", "start": 3885.16, "end": 3889.16}
+{"id": "6fRqcNGVSWc-t3889.16", "text": "we put ourselves back, we experience that relationship", "start": 3889.16, "end": 3891.16}
+{"id": "6fRqcNGVSWc-t3891.16", "text": "perhaps, and all those memories flood black.", "start": 3891.16, "end": 3894.16}
+{"id": "6fRqcNGVSWc-t3894.16", "text": "But what often happens to those types of memories as well as", "start": 3894.16, "end": 3897.16}
+{"id": "6fRqcNGVSWc-t3897.16", "text": "that over time, they begin to transform in the sense that they", "start": 3897.16, "end": 3900.16}
+{"id": "6fRqcNGVSWc-t3900.16", "text": "may become more cement-sized.", "start": 3900.16, "end": 3902.16}
+{"id": "6fRqcNGVSWc-t3902.16", "text": "So they become more knowledge, not entirely knowledge, but they", "start": 3902.16, "end": 3906.16}
+{"id": "6fRqcNGVSWc-t3906.16", "text": "lean more towards that and as opposed to the more personal", "start": 3906.16, "end": 3909.16}
+{"id": "6fRqcNGVSWc-t3909.16", "text": "experience end.", "start": 3909.16, "end": 3911.16}
+{"id": "6fRqcNGVSWc-t3911.16", "text": "And I guess the extreme of that would be if you see a", "start": 3911.16, "end": 3914.16}
+{"id": "6fRqcNGVSWc-t3914.16", "text": "photograph of your childhood and someone asks you about it,", "start": 3914.16, "end": 3917.16}
+{"id": "6fRqcNGVSWc-t3917.16", "text": "sometimes you can actually remember experiencing it.", "start": 3917.16, "end": 3919.16}
+{"id": "6fRqcNGVSWc-t3919.16", "text": "But sometimes you just remember, oh, yeah, that was my birthday", "start": 3919.16, "end": 3922.16}
+{"id": "6fRqcNGVSWc-t3922.16", "text": "party.", "start": 3922.16, "end": 3923.16}
+{"id": "6fRqcNGVSWc-t3923.16", "text": "I was five and I got a great present.", "start": 3923.16, "end": 3925.16}
+{"id": "6fRqcNGVSWc-t3925.16", "text": "But it's unclear whether you actually experienced that", "start": 3925.16, "end": 3927.16}
+{"id": "6fRqcNGVSWc-t3927.16", "text": "yourself or is that someone telling you that that's what", "start": 3927.16, "end": 3929.16}
+{"id": "6fRqcNGVSWc-t3929.16", "text": "happened and that became your memory.", "start": 3929.16, "end": 3931.16}
+{"id": "6fRqcNGVSWc-t3931.16", "text": "And so there's that distinction between like a factual memory", "start": 3931.16, "end": 3933.16}
+{"id": "6fRqcNGVSWc-t3933.16", "text": "versus a personal experience memory.", "start": 3933.16, "end": 3935.16}
+{"id": "6fRqcNGVSWc-t3935.16", "text": "And perhaps maybe that's what happens with, you know, some of", "start": 3935.16, "end": 3938.16}
+{"id": "6fRqcNGVSWc-t3938.16", "text": "the relationships way past is that over time they transform a", "start": 3938.16, "end": 3942.16}
+{"id": "6fRqcNGVSWc-t3942.16", "text": "little bit, we detach from them slightly.", "start": 3942.16, "end": 3944.16}
+{"id": "6fRqcNGVSWc-t3944.16", "text": "Personally, those emotions, depending on how the relationship", "start": 3944.16, "end": 3948.16}
+{"id": "6fRqcNGVSWc-t3948.16", "text": "ended, maybe it was an amicable relationship or whether it", "start": 3948.16, "end": 3951.16}
+{"id": "6fRqcNGVSWc-t3951.16", "text": "wasn't that may influence things.", "start": 3951.16, "end": 3953.16}
+{"id": "6fRqcNGVSWc-t3953.16", "text": "But maybe one factor is that those memories become a little bit", "start": 3953.16, "end": 3955.16}
+{"id": "6fRqcNGVSWc-t3955.16", "text": "more slightly more cement-sized and those emotions that were", "start": 3955.16, "end": 3959.16}
+{"id": "6fRqcNGVSWc-t3959.16", "text": "attached with it, we don't re-experience them again.", "start": 3959.16, "end": 3962.16}
+{"id": "6fRqcNGVSWc-t3962.16", "text": "And so that then allows us to, you know, put that relationship", "start": 3962.16, "end": 3966.16}
+{"id": "6fRqcNGVSWc-t3966.16", "text": "in the past and move on to a new one.", "start": 3966.16, "end": 3968.16}
+{"id": "6fRqcNGVSWc-t3968.16", "text": "I'm sure that's true, one remembers some memory.", "start": 3968.16, "end": 3972.16}
+{"id": "6fRqcNGVSWc-t3972.16", "text": "It's like remembering the photocopy rather than the real", "start": 3972.16, "end": 3975.16}
+{"id": "6fRqcNGVSWc-t3975.16", "text": "thing.", "start": 3975.16, "end": 3976.16}
+{"id": "6fRqcNGVSWc-t3976.16", "text": "I was wondering how much we could say that that fact that you", "start": 3976.16, "end": 3981.16}
+{"id": "6fRqcNGVSWc-t3981.16", "text": "just described where memories are sort of fungible, that that's", "start": 3981.16, "end": 3985.16}
+{"id": "6fRqcNGVSWc-t3985.16", "text": "a feature of explicit memory as opposed to implicit memory.", "start": 3985.16, "end": 3988.16}
+{"id": "6fRqcNGVSWc-t3988.16", "text": "I'm trying to tease that out.", "start": 3988.16, "end": 3990.16}
+{"id": "6fRqcNGVSWc-t3990.16", "text": "We might open this up now to questions from the audience.", "start": 3990.16, "end": 3995.16}
+{"id": "6fRqcNGVSWc-t3995.16", "text": "They probably have some of the same questions that we do.", "start": 3995.16, "end": 3999.16}
+{"id": "6fRqcNGVSWc-t3999.16", "text": "Jerry, is this the moment to include the audience?", "start": 3999.16, "end": 4004.16}
+{"id": "6fRqcNGVSWc-t4004.16", "text": "I think that sounds like a good idea.", "start": 4004.16, "end": 4008.16}
+{"id": "6fRqcNGVSWc-t4008.16", "text": "Let's see, I think that here we are.", "start": 4008.16, "end": 4011.16}
+{"id": "6fRqcNGVSWc-t4011.16", "text": "I think Alex, but it's a whole more.", "start": 4011.16, "end": 4013.16}
+{"id": "6fRqcNGVSWc-t4013.16", "text": "Yeah, yeah, I have the questions collect this.", "start": 4013.16, "end": 4015.16}
+{"id": "6fRqcNGVSWc-t4015.16", "text": "I want to thank everyone who is viewing through Zoom and on", "start": 4015.16, "end": 4018.16}
+{"id": "6fRqcNGVSWc-t4018.16", "text": "YouTube.", "start": 4018.16, "end": 4019.16}
+{"id": "6fRqcNGVSWc-t4019.16", "text": "Thank you for the comments and questions.", "start": 4019.16, "end": 4021.16}
+{"id": "6fRqcNGVSWc-t4021.16", "text": "I've recorded them as we've gone through the Zoom.", "start": 4021.16, "end": 4025.16}
+{"id": "6fRqcNGVSWc-t4025.16", "text": "If you wrote more than one, I'm going to state your first one", "start": 4025.16, "end": 4029.16}
+{"id": "6fRqcNGVSWc-t4029.16", "text": "and then go through everyone else's and hopefully if we have", "start": 4029.16, "end": 4032.16}
+{"id": "6fRqcNGVSWc-t4032.16", "text": "time, get to the others again.", "start": 4032.16, "end": 4034.16}
+{"id": "6fRqcNGVSWc-t4034.16", "text": "There will be some editing on my part just for time's sake.", "start": 4034.16, "end": 4038.16}
+{"id": "6fRqcNGVSWc-t4038.16", "text": "Please forgive me there.", "start": 4038.16, "end": 4040.16}
+{"id": "6fRqcNGVSWc-t4040.16", "text": "Also, if I mangle any pronunciations of names in advance,", "start": 4040.16, "end": 4043.16}
+{"id": "6fRqcNGVSWc-t4043.16", "text": "I apologize.", "start": 4043.16, "end": 4044.16}
+{"id": "6fRqcNGVSWc-t4044.16", "text": "Okay, so the first one was from S.", "start": 4044.16, "end": 4047.16}
+{"id": "6fRqcNGVSWc-t4047.16", "text": "Mason Dambrought.", "start": 4047.16, "end": 4049.16}
+{"id": "6fRqcNGVSWc-t4049.16", "text": "And they asked, are you familiar with research showing", "start": 4049.16, "end": 4052.16}
+{"id": "6fRqcNGVSWc-t4052.16", "text": "applying metformin to a type one type edict that delays the", "start": 4052.16, "end": 4056.16}
+{"id": "6fRqcNGVSWc-t4056.16", "text": "oncoming of Alzheimer's?", "start": 4056.16, "end": 4058.16}
+{"id": "6fRqcNGVSWc-t4058.16", "text": "If so, please comment on this process.", "start": 4058.16, "end": 4061.16}
+{"id": "6fRqcNGVSWc-t4061.16", "text": "So I'll just briefly mention that there's a lot of research", "start": 4061.16, "end": 4065.16}
+{"id": "6fRqcNGVSWc-t4065.16", "text": "now on insulin resistance and various risk factors for", "start": 4065.16, "end": 4071.16}
+{"id": "6fRqcNGVSWc-t4071.16", "text": "developing dementia and metformin and drugs like that are", "start": 4071.16, "end": 4074.16}
+{"id": "6fRqcNGVSWc-t4074.16", "text": "helpful in this area.", "start": 4074.16, "end": 4076.16}
+{"id": "6fRqcNGVSWc-t4076.16", "text": "So there's still a lot of research to be done here.", "start": 4076.16, "end": 4080.16}
+{"id": "6fRqcNGVSWc-t4080.16", "text": "Okay, then just a comment to bring some levity to the", "start": 4080.16, "end": 4084.16}
+{"id": "6fRqcNGVSWc-t4084.16", "text": "conversation.", "start": 4084.16, "end": 4086.16}
+{"id": "6fRqcNGVSWc-t4086.16", "text": "Vicki Madden had wrote early on practically everyone I know", "start": 4086.16, "end": 4089.16}
+{"id": "6fRqcNGVSWc-t4089.16", "text": "has gone a pandemic puppy.", "start": 4089.16, "end": 4091.16}
+{"id": "6fRqcNGVSWc-t4091.16", "text": "So that's not a question, but I think it's a nice, a nice", "start": 4091.16, "end": 4094.16}
+{"id": "6fRqcNGVSWc-t4094.16", "text": "comment to add.", "start": 4094.16, "end": 4095.16}
+{"id": "6fRqcNGVSWc-t4095.16", "text": "She asked the question, but unfortunately she's little", "start": 4095.16, "end": 4098.16}
+{"id": "6fRqcNGVSWc-t4098.16", "text": "later on.", "start": 4098.16, "end": 4099.16}
+{"id": "6fRqcNGVSWc-t4099.16", "text": "Hopefully you get to her question.", "start": 4099.16, "end": 4100.16}
+{"id": "6fRqcNGVSWc-t4100.16", "text": "But the next one was from Manon Slome.", "start": 4100.16, "end": 4102.16}
+{"id": "6fRqcNGVSWc-t4102.16", "text": "Is selective memory not in a pejorative sense, a defense", "start": 4102.16, "end": 4106.16}
+{"id": "6fRqcNGVSWc-t4106.16", "text": "mechanism?", "start": 4106.16, "end": 4108.16}
+{"id": "6fRqcNGVSWc-t4108.16", "text": "I would say the analysts and our audience are best to take", "start": 4108.16, "end": 4111.16}
+{"id": "6fRqcNGVSWc-t4111.16", "text": "this.", "start": 4111.16, "end": 4112.16}
+{"id": "6fRqcNGVSWc-t4112.16", "text": "No.", "start": 4112.16, "end": 4113.16}
+{"id": "6fRqcNGVSWc-t4113.16", "text": "Well, I think in a way we've already addressed that in", "start": 4113.16, "end": 4116.16}
+{"id": "6fRqcNGVSWc-t4116.16", "text": "order to keep going, we tend to take in what we think we can", "start": 4116.16, "end": 4120.16}
+{"id": "6fRqcNGVSWc-t4120.16", "text": "handle in the moment.", "start": 4120.16, "end": 4122.16}
+{"id": "6fRqcNGVSWc-t4122.16", "text": "I think we can handle that.", "start": 4122.16, "end": 4124.16}
+{"id": "6fRqcNGVSWc-t4124.16", "text": "I think we can handle that.", "start": 4124.16, "end": 4126.16}
+{"id": "6fRqcNGVSWc-t4126.16", "text": "And one of the very compelling aspects in this pandemic", "start": 4126.16, "end": 4132.16}
+{"id": "6fRqcNGVSWc-t4132.16", "text": "period is how many suppressed memories have come forth now.", "start": 4132.16, "end": 4137.16}
+{"id": "6fRqcNGVSWc-t4137.16", "text": "I think there's something about the isolation.", "start": 4137.16, "end": 4140.16}
+{"id": "6fRqcNGVSWc-t4140.16", "text": "There's something about the amount of empathy we feel for", "start": 4140.16, "end": 4145.16}
+{"id": "6fRqcNGVSWc-t4145.16", "text": "others that is somehow it's enough of a high level of", "start": 4145.16, "end": 4150.16}
+{"id": "6fRqcNGVSWc-t4150.16", "text": "a hot house experience that what we didn't think about before", "start": 4150.16, "end": 4158.16}
+{"id": "6fRqcNGVSWc-t4158.16", "text": "because we had to keep going is now emerging and coming up.", "start": 4158.16, "end": 4163.16}
+{"id": "6fRqcNGVSWc-t4163.16", "text": "I don't know if others are having that experience as well.", "start": 4163.16, "end": 4167.16}
+{"id": "6fRqcNGVSWc-t4167.16", "text": "And yes, I was saying to Alexander earlier that I've", "start": 4167.16, "end": 4171.16}
+{"id": "6fRqcNGVSWc-t4171.16", "text": "never seen a period of time where so many people became so", "start": 4171.16, "end": 4175.16}
+{"id": "6fRqcNGVSWc-t4175.16", "text": "dependent on the unconditional affection of their pets in", "start": 4175.16, "end": 4182.16}
+{"id": "6fRqcNGVSWc-t4182.16", "text": "part because it's so difficult for people to be together in such", "start": 4182.16, "end": 4188.16}
+{"id": "6fRqcNGVSWc-t4188.16", "text": "an intense way that it's almost as if the dogs become some", "start": 4188.16, "end": 4193.16}
+{"id": "6fRqcNGVSWc-t4193.16", "text": "kind of mediator in this situation.", "start": 4193.16, "end": 4196.16}
+{"id": "6fRqcNGVSWc-t4196.16", "text": "Oh, yeah, I think that's exactly right.", "start": 4196.16, "end": 4198.16}
+{"id": "6fRqcNGVSWc-t4198.16", "text": "There are a symbol of the people who are in the situation.", "start": 4198.16, "end": 4201.16}
+{"id": "6fRqcNGVSWc-t4201.16", "text": "And I think that's exactly right.", "start": 4201.16, "end": 4206.16}
+{"id": "6fRqcNGVSWc-t4206.16", "text": "There are a symbol of a time before and the ease of dealing", "start": 4206.16, "end": 4211.16}
+{"id": "6fRqcNGVSWc-t4211.16", "text": "with others and they become the others, the social presence,", "start": 4211.16, "end": 4214.16}
+{"id": "6fRqcNGVSWc-t4214.16", "text": "who are near and we can touch.", "start": 4214.16, "end": 4217.16}
+{"id": "6fRqcNGVSWc-t4217.16", "text": "I think it's also interesting to remember that they are also", "start": 4217.16, "end": 4221.16}
+{"id": "6fRqcNGVSWc-t4221.16", "text": "dogs who are experiencing this time for themselves.", "start": 4221.16, "end": 4224.16}
+{"id": "6fRqcNGVSWc-t4224.16", "text": "But new puppies are not experiencing a pandemic.", "start": 4224.16, "end": 4227.16}
+{"id": "6fRqcNGVSWc-t4227.16", "text": "They don't know it's an unusual time.", "start": 4227.16, "end": 4229.16}
+{"id": "6fRqcNGVSWc-t4229.16", "text": "They don't know it's an unusual time for them.", "start": 4229.16, "end": 4232.16}
+{"id": "6fRqcNGVSWc-t4232.16", "text": "And I think that will be an interesting dissonance.", "start": 4232.16, "end": 4235.16}
+{"id": "6fRqcNGVSWc-t4235.16", "text": "Unfortunately, if we kind of unquarantine and we assume that", "start": 4235.16, "end": 4239.16}
+{"id": "6fRqcNGVSWc-t4239.16", "text": "they are adjusted and ready to live life by themselves, for", "start": 4239.16, "end": 4244.16}
+{"id": "6fRqcNGVSWc-t4244.16", "text": "instance.", "start": 4244.16, "end": 4246.16}
+{"id": "6fRqcNGVSWc-t4246.16", "text": "But the question about selective memory goes back to the fact", "start": 4246.16, "end": 4251.16}
+{"id": "6fRqcNGVSWc-t4251.16", "text": "that one's brain, the memory part of one's brain is", "start": 4251.16, "end": 4255.16}
+{"id": "6fRqcNGVSWc-t4255.16", "text": "forming and reorganizing and goes back to what one of us was", "start": 4255.16, "end": 4259.16}
+{"id": "6fRqcNGVSWc-t4259.16", "text": "saying earlier about the experience of childbirth.", "start": 4259.16, "end": 4262.16}
+{"id": "6fRqcNGVSWc-t4262.16", "text": "I don't think for what I can put together the women forget", "start": 4262.16, "end": 4267.16}
+{"id": "6fRqcNGVSWc-t4267.16", "text": "childbirth, but they relegate it for the health of their life in", "start": 4267.16, "end": 4272.16}
+{"id": "6fRqcNGVSWc-t4272.16", "text": "the present and the future.", "start": 4272.16, "end": 4274.16}
+{"id": "6fRqcNGVSWc-t4274.16", "text": "So it's not a forgotten memory, but in as much one's brain or", "start": 4274.16, "end": 4279.16}
+{"id": "6fRqcNGVSWc-t4279.16", "text": "one's memory part of one's brain seems like a complex computer", "start": 4279.16, "end": 4284.16}
+{"id": "6fRqcNGVSWc-t4284.16", "text": "that is refiling certain experiences so that they're not", "start": 4284.16, "end": 4288.16}
+{"id": "6fRqcNGVSWc-t4288.16", "text": "immediately upon us.", "start": 4288.16, "end": 4290.16}
+{"id": "6fRqcNGVSWc-t4290.16", "text": "I do believe, Richard, that we do actually forget severe pain,", "start": 4290.16, "end": 4295.16}
+{"id": "6fRqcNGVSWc-t4295.16", "text": "the physical pain of childbirth.", "start": 4295.16, "end": 4298.16}
+{"id": "6fRqcNGVSWc-t4298.16", "text": "It's hard to recreate, speaking as someone, it's really, really", "start": 4298.16, "end": 4303.16}
+{"id": "6fRqcNGVSWc-t4303.16", "text": "hard to recreate the intensity of the pain immediately afterwards.", "start": 4303.16, "end": 4308.16}
+{"id": "6fRqcNGVSWc-t4308.16", "text": "It can happen, but it's rare from a neurologic perspective.", "start": 4308.16, "end": 4313.16}
+{"id": "6fRqcNGVSWc-t4313.16", "text": "I would assume that pain essentially stops when it stops.", "start": 4313.16, "end": 4318.16}
+{"id": "6fRqcNGVSWc-t4318.16", "text": "Yeah.", "start": 4318.16, "end": 4319.16}
+{"id": "6fRqcNGVSWc-t4319.16", "text": "Yeah.", "start": 4319.16, "end": 4321.16}
+{"id": "6fRqcNGVSWc-t4321.16", "text": "Yeah.", "start": 4321.16, "end": 4322.16}
+{"id": "6fRqcNGVSWc-t4322.16", "text": "Yeah, but to add to what Richard was saying, the forgetting that", "start": 4322.16, "end": 4327.16}
+{"id": "6fRqcNGVSWc-t4327.16", "text": "happens in the first few years of life, this leads to infant", "start": 4327.16, "end": 4332.16}
+{"id": "6fRqcNGVSWc-t4332.16", "text": "and amnesia, that is actually an apparent forgetting.", "start": 4332.16, "end": 4337.16}
+{"id": "6fRqcNGVSWc-t4337.16", "text": "You're right.", "start": 4337.16, "end": 4338.16}
+{"id": "6fRqcNGVSWc-t4338.16", "text": "We have tested these memories that are apparently gone.", "start": 4338.16, "end": 4342.16}
+{"id": "6fRqcNGVSWc-t4342.16", "text": "You'll give reminders later on in life to these animals,", "start": 4342.16, "end": 4345.16}
+{"id": "6fRqcNGVSWc-t4345.16", "text": "the memories come back.", "start": 4345.16, "end": 4350.16}
+{"id": "6fRqcNGVSWc-t4350.16", "text": "I remember we had a patient who spoke German for, grew up in", "start": 4350.16, "end": 4356.16}
+{"id": "6fRqcNGVSWc-t4356.16", "text": "Germany, came to the United States when he was 14 or 13,", "start": 4356.16, "end": 4360.16}
+{"id": "6fRqcNGVSWc-t4360.16", "text": "learned English, really forgot all of us German, or maybe he was", "start": 4360.16, "end": 4366.16}
+{"id": "6fRqcNGVSWc-t4366.16", "text": "even younger, maybe he was seven or eight, and then he had a stroke", "start": 4366.16, "end": 4369.16}
+{"id": "6fRqcNGVSWc-t4369.16", "text": "and the only thing he could speak in was in German.", "start": 4369.16, "end": 4374.16}
+{"id": "6fRqcNGVSWc-t4374.16", "text": "It was very hard for his family who didn't understand any German,", "start": 4374.16, "end": 4377.16}
+{"id": "6fRqcNGVSWc-t4377.16", "text": "so to your point, but we really never forget anything.", "start": 4377.16, "end": 4381.16}
+{"id": "6fRqcNGVSWc-t4381.16", "text": "It's just our ability to retrieve things, including emotion,", "start": 4381.16, "end": 4385.16}
+{"id": "6fRqcNGVSWc-t4385.16", "text": "is much harder over time.", "start": 4385.16, "end": 4388.16}
+{"id": "6fRqcNGVSWc-t4388.16", "text": "What Jerry had asked earlier about the difference between", "start": 4388.16, "end": 4391.16}
+{"id": "6fRqcNGVSWc-t4391.16", "text": "explicit and implicit memory and its attachment to emotion,", "start": 4391.16, "end": 4395.16}
+{"id": "6fRqcNGVSWc-t4395.16", "text": "I think of implicit procedural memory as something that's a", "start": 4395.16, "end": 4400.16}
+{"id": "6fRqcNGVSWc-t4400.16", "text": "cable, as opposed to explicit memory, which for the most part,", "start": 4400.16, "end": 4405.16}
+{"id": "6fRqcNGVSWc-t4405.16", "text": "memory for events and facts, is much more like a cobweb.", "start": 4405.16, "end": 4410.16}
+{"id": "6fRqcNGVSWc-t4410.16", "text": "And cables are often laid down better if they are wrapped in", "start": 4410.16, "end": 4416.16}
+{"id": "6fRqcNGVSWc-t4416.16", "text": "an installation of emotion.", "start": 4416.16, "end": 4418.16}
+{"id": "6fRqcNGVSWc-t4418.16", "text": "That's a great one.", "start": 4418.16, "end": 4421.16}
+{"id": "6fRqcNGVSWc-t4421.16", "text": "I just want to add to the idea of suppressed memory.", "start": 4421.16, "end": 4426.16}
+{"id": "6fRqcNGVSWc-t4426.16", "text": "I'm not a memory expert, obviously, but in looking at the history", "start": 4426.16, "end": 4430.16}
+{"id": "6fRqcNGVSWc-t4430.16", "text": "that I've been examining for the last 10 years, a lot of the", "start": 4430.16, "end": 4436.16}
+{"id": "6fRqcNGVSWc-t4436.16", "text": "Japanese Americans who were incarcerated by their own", "start": 4436.16, "end": 4439.16}
+{"id": "6fRqcNGVSWc-t4439.16", "text": "government, just for being Japanese, did suppress that.", "start": 4439.16, "end": 4445.16}
+{"id": "6fRqcNGVSWc-t4445.16", "text": "They had, they suppressed it on purpose and they didn't teach it", "start": 4445.16, "end": 4449.16}
+{"id": "6fRqcNGVSWc-t4449.16", "text": "to their children just so that they could survive and move on", "start": 4449.16, "end": 4454.16}
+{"id": "6fRqcNGVSWc-t4454.16", "text": "with their lives.", "start": 4454.16, "end": 4456.16}
+{"id": "6fRqcNGVSWc-t4456.16", "text": "It was essential.", "start": 4456.16, "end": 4458.16}
+{"id": "6fRqcNGVSWc-t4458.16", "text": "It was a survival mechanism.", "start": 4458.16, "end": 4462.16}
+{"id": "6fRqcNGVSWc-t4462.16", "text": "Is there something that actually brought up that I,", "start": 4462.16, "end": 4466.16}
+{"id": "6fRqcNGVSWc-t4466.16", "text": "this is a language issue that I've always been interested in as a", "start": 4466.16, "end": 4469.16}
+{"id": "6fRqcNGVSWc-t4469.16", "text": "cognitive scientist, which is the sort of two sides of thinking", "start": 4469.16, "end": 4472.16}
+{"id": "6fRqcNGVSWc-t4472.16", "text": "about selective attention and forgetting.", "start": 4472.16, "end": 4475.16}
+{"id": "6fRqcNGVSWc-t4475.16", "text": "So you earlier said, we're forgetting, and I agree with this,", "start": 4475.16, "end": 4479.16}
+{"id": "6fRqcNGVSWc-t4479.16", "text": "we're forgetting a lot of what's happening right now.", "start": 4479.16, "end": 4482.16}
+{"id": "6fRqcNGVSWc-t4482.16", "text": "So we're all experiencing in theory something of the same.", "start": 4482.16, "end": 4486.16}
+{"id": "6fRqcNGVSWc-t4486.16", "text": "We're in the same moment.", "start": 4486.16, "end": 4488.16}
+{"id": "6fRqcNGVSWc-t4488.16", "text": "We can see each other.", "start": 4488.16, "end": 4489.16}
+{"id": "6fRqcNGVSWc-t4489.16", "text": "There's some overlap in our experience, but we're sort of", "start": 4489.16, "end": 4492.16}
+{"id": "6fRqcNGVSWc-t4492.16", "text": "not attending to some.", "start": 4492.16, "end": 4493.16}
+{"id": "6fRqcNGVSWc-t4493.16", "text": "Do you think it's the same?", "start": 4493.16, "end": 4496.16}
+{"id": "6fRqcNGVSWc-t4496.16", "text": "It's appropriate to say that what's happened is we're forgetting", "start": 4496.16, "end": 4499.16}
+{"id": "6fRqcNGVSWc-t4499.16", "text": "that already because in fact it's not encoded, really.", "start": 4499.16, "end": 4503.16}
+{"id": "6fRqcNGVSWc-t4503.16", "text": "It's not been explicitly encoded, which it hasn't been rehearsed by", "start": 4503.16, "end": 4507.16}
+{"id": "6fRqcNGVSWc-t4507.16", "text": "us.", "start": 4507.16, "end": 4508.16}
+{"id": "6fRqcNGVSWc-t4508.16", "text": "So it's sort of almost that it's just never experienced in a way.", "start": 4508.16, "end": 4512.16}
+{"id": "6fRqcNGVSWc-t4512.16", "text": "It's as though it's never experienced at all.", "start": 4512.16, "end": 4514.16}
+{"id": "6fRqcNGVSWc-t4514.16", "text": "And that's the type of thing that can't be brought back right later.", "start": 4514.16, "end": 4517.16}
+{"id": "6fRqcNGVSWc-t4517.16", "text": "But I do feel like there's sort of slippiness of language around", "start": 4517.16, "end": 4521.16}
+{"id": "6fRqcNGVSWc-t4521.16", "text": "selective attention and selective forgetting that question brought", "start": 4521.16, "end": 4524.16}
+{"id": "6fRqcNGVSWc-t4524.16", "text": "it up and just attention and how memories encoded to begin with.", "start": 4524.16, "end": 4529.16}
+{"id": "6fRqcNGVSWc-t4529.16", "text": "Well, also I feel like our experience of the pandemic is", "start": 4529.16, "end": 4533.16}
+{"id": "6fRqcNGVSWc-t4533.16", "text": "probably different than, you know, essential workers who has to", "start": 4533.16, "end": 4537.16}
+{"id": "6fRqcNGVSWc-t4537.16", "text": "get up every day and, you know, go to a hospital or something like", "start": 4537.16, "end": 4540.16}
+{"id": "6fRqcNGVSWc-t4540.16", "text": "that.", "start": 4540.16, "end": 4541.16}
+{"id": "6fRqcNGVSWc-t4541.16", "text": "I mean, I feel lucky that I just get to stay in my work's your home.", "start": 4541.16, "end": 4545.16}
+{"id": "6fRqcNGVSWc-t4545.16", "text": "And it's, I don't have those memories that an essential", "start": 4545.16, "end": 4550.16}
+{"id": "6fRqcNGVSWc-t4550.16", "text": "worker has because I never experienced it.", "start": 4550.16, "end": 4552.16}
+{"id": "6fRqcNGVSWc-t4552.16", "text": "I think Alex, we should go to the questions.", "start": 4552.16, "end": 4556.16}
+{"id": "6fRqcNGVSWc-t4556.16", "text": "Yeah.", "start": 4556.16, "end": 4557.16}
+{"id": "6fRqcNGVSWc-t4557.16", "text": "Yeah.", "start": 4557.16, "end": 4559.16}
+{"id": "6fRqcNGVSWc-t4559.16", "text": "So next one was from Esther Dyson.", "start": 4559.16, "end": 4561.16}
+{"id": "6fRqcNGVSWc-t4561.16", "text": "I guess this is more of a comment, but I could turn it into a", "start": 4561.16, "end": 4563.16}
+{"id": "6fRqcNGVSWc-t4563.16", "text": "question.", "start": 4563.16, "end": 4564.16}
+{"id": "6fRqcNGVSWc-t4564.16", "text": "I think it would be interesting given Richard's mention in", "start": 4564.16, "end": 4567.16}
+{"id": "6fRqcNGVSWc-t4567.16", "text": "passing about computers.", "start": 4567.16, "end": 4569.16}
+{"id": "6fRqcNGVSWc-t4569.16", "text": "They said as they listened to the intros, they thought like the", "start": 4569.16, "end": 4572.16}
+{"id": "6fRqcNGVSWc-t4572.16", "text": "quote unquote editing sounds was more like attaching things to a", "start": 4572.16, "end": 4575.16}
+{"id": "6fRqcNGVSWc-t4575.16", "text": "framework and the recognition of objects as an AI.", "start": 4575.16, "end": 4578.16}
+{"id": "6fRqcNGVSWc-t4578.16", "text": "So I guess a question would be like, how do you think the", "start": 4578.16, "end": 4582.16}
+{"id": "6fRqcNGVSWc-t4582.16", "text": "formation of how humans form memories relates to how an AI", "start": 4582.16, "end": 4585.16}
+{"id": "6fRqcNGVSWc-t4585.16", "text": "works or I guess like a deep learning network?", "start": 4585.16, "end": 4589.16}
+{"id": "6fRqcNGVSWc-t4589.16", "text": "I'd say the primary difference would be that there's no emotion", "start": 4589.16, "end": 4593.16}
+{"id": "6fRqcNGVSWc-t4593.16", "text": "involved with an AI.", "start": 4593.16, "end": 4595.16}
+{"id": "6fRqcNGVSWc-t4595.16", "text": "So that and that's a huge difference.", "start": 4595.16, "end": 4600.16}
+{"id": "6fRqcNGVSWc-t4600.16", "text": "And, you know, obviously the richness of the parallel", "start": 4600.16, "end": 4603.16}
+{"id": "6fRqcNGVSWc-t4603.16", "text": "distributed networks that both humans and more advanced AI", "start": 4603.16, "end": 4607.16}
+{"id": "6fRqcNGVSWc-t4607.16", "text": "system share are obviously AI systems are evolving and they're", "start": 4607.16, "end": 4612.16}
+{"id": "6fRqcNGVSWc-t4612.16", "text": "learning fuzzy logic, they're learning to learn.", "start": 4612.16, "end": 4616.16}
+{"id": "6fRqcNGVSWc-t4616.16", "text": "But emotion is the big difference between the two systems.", "start": 4616.16, "end": 4621.16}
+{"id": "6fRqcNGVSWc-t4621.16", "text": "I don't know, Andy, Chris, the rest of you.", "start": 4621.16, "end": 4623.16}
+{"id": "6fRqcNGVSWc-t4623.16", "text": "Andy, what do you think?", "start": 4623.16, "end": 4625.16}
+{"id": "6fRqcNGVSWc-t4625.16", "text": "I agree.", "start": 4625.16, "end": 4628.16}
+{"id": "6fRqcNGVSWc-t4628.16", "text": "And I would say, I mean, just speaking practically, I would say", "start": 4628.16, "end": 4631.16}
+{"id": "6fRqcNGVSWc-t4631.16", "text": "that the way that as humans, the way we do it, it far exceeds", "start": 4631.16, "end": 4636.16}
+{"id": "6fRqcNGVSWc-t4636.16", "text": "anything that a deep neural network could do.", "start": 4636.16, "end": 4639.16}
+{"id": "6fRqcNGVSWc-t4639.16", "text": "I mean, there are studies out there on babies and how they do", "start": 4639.16, "end": 4642.16}
+{"id": "6fRqcNGVSWc-t4642.16", "text": "statistical learning, how just repeating stuff and they pick", "start": 4642.16, "end": 4644.16}
+{"id": "6fRqcNGVSWc-t4644.16", "text": "up patterns that enables babies to learn language, for example,", "start": 4644.16, "end": 4647.16}
+{"id": "6fRqcNGVSWc-t4647.16", "text": "far exceeds anything that you could throw like an ability of a", "start": 4647.16, "end": 4651.16}
+{"id": "6fRqcNGVSWc-t4651.16", "text": "deep neural network to recognize objects.", "start": 4651.16, "end": 4654.16}
+{"id": "6fRqcNGVSWc-t4654.16", "text": "So I think some of the principles are shared, but in the human", "start": 4654.16, "end": 4658.16}
+{"id": "6fRqcNGVSWc-t4658.16", "text": "brain, it's expanded and more complex in a way that we're only", "start": 4658.16, "end": 4662.16}
+{"id": "6fRqcNGVSWc-t4662.16", "text": "beginning to scrape the surface off of how some of that learning", "start": 4662.16, "end": 4665.16}
+{"id": "6fRqcNGVSWc-t4665.16", "text": "occurs.", "start": 4665.16, "end": 4668.16}
+{"id": "6fRqcNGVSWc-t4668.16", "text": "Okay, so the next question, sorry if I didn't mention the last", "start": 4668.16, "end": 4672.16}
+{"id": "6fRqcNGVSWc-t4672.16", "text": "one was from Esther Dyson.", "start": 4672.16, "end": 4674.16}
+{"id": "6fRqcNGVSWc-t4674.16", "text": "This is from Amy Olson.", "start": 4674.16, "end": 4676.16}
+{"id": "6fRqcNGVSWc-t4676.16", "text": "Could you please speak to the phenomenon of phantom limbs and", "start": 4676.16, "end": 4679.16}
+{"id": "6fRqcNGVSWc-t4679.16", "text": "how the mind remembers the body part?", "start": 4679.16, "end": 4681.16}
+{"id": "6fRqcNGVSWc-t4681.16", "text": "That is no longer present, but it's perceived as if it were.", "start": 4681.16, "end": 4686.16}
+{"id": "6fRqcNGVSWc-t4686.16", "text": "So phantom limbs, is that the question?", "start": 4686.16, "end": 4689.16}
+{"id": "6fRqcNGVSWc-t4689.16", "text": "Yeah, sorry, phantom limbs.", "start": 4689.16, "end": 4691.16}
+{"id": "6fRqcNGVSWc-t4691.16", "text": "So, you know, as I mentioned before, our realities are our brains,", "start": 4691.16, "end": 4694.16}
+{"id": "6fRqcNGVSWc-t4694.16", "text": "right?", "start": 4694.16, "end": 4695.16}
+{"id": "6fRqcNGVSWc-t4695.16", "text": "So our brain things that we have pain, we have pain.", "start": 4695.16, "end": 4699.16}
+{"id": "6fRqcNGVSWc-t4699.16", "text": "So if the brain things we have a limb, we do have that limb.", "start": 4699.16, "end": 4703.16}
+{"id": "6fRqcNGVSWc-t4703.16", "text": "So there's a part, so there have been numerous studies which I", "start": 4703.16, "end": 4707.16}
+{"id": "6fRqcNGVSWc-t4707.16", "text": "want go into, but basically a testing to this that, and the", "start": 4707.16, "end": 4711.16}
+{"id": "6fRqcNGVSWc-t4711.16", "text": "brain is unable to differentiate, for example, between social", "start": 4711.16, "end": 4715.16}
+{"id": "6fRqcNGVSWc-t4715.16", "text": "rejection versus actual pain, because the same area of the", "start": 4715.16, "end": 4719.16}
+{"id": "6fRqcNGVSWc-t4719.16", "text": "single cortex lights up.", "start": 4719.16, "end": 4721.16}
+{"id": "6fRqcNGVSWc-t4721.16", "text": "The brain doesn't assign a difference, which I think is", "start": 4721.16, "end": 4724.16}
+{"id": "6fRqcNGVSWc-t4724.16", "text": "very interesting in terms of pain, in terms of the emotional", "start": 4724.16, "end": 4729.16}
+{"id": "6fRqcNGVSWc-t4729.16", "text": "circuitry involved between physical pain and emotional pain.", "start": 4729.16, "end": 4734.16}
+{"id": "6fRqcNGVSWc-t4734.16", "text": "They both coalesce in certain parts of the brain.", "start": 4734.16, "end": 4738.16}
+{"id": "6fRqcNGVSWc-t4738.16", "text": "So phantom limb just means that that part of your brain still", "start": 4738.16, "end": 4742.16}
+{"id": "6fRqcNGVSWc-t4742.16", "text": "thinks you have a limb attached, and that's why chronic pain is", "start": 4742.16, "end": 4747.16}
+{"id": "6fRqcNGVSWc-t4747.16", "text": "such an interesting condition to treat, because even when the", "start": 4747.16, "end": 4752.16}
+{"id": "6fRqcNGVSWc-t4752.16", "text": "nascent event is no longer, you know, it's gone, the brain can", "start": 4752.16, "end": 4757.16}
+{"id": "6fRqcNGVSWc-t4757.16", "text": "elaborate on the pain and make it as large or as windowed down as", "start": 4757.16, "end": 4763.16}
+{"id": "6fRqcNGVSWc-t4763.16", "text": "it chooses to, and it's not a conscious process.", "start": 4763.16, "end": 4768.16}
+{"id": "6fRqcNGVSWc-t4768.16", "text": "Can you make it conscious?", "start": 4768.16, "end": 4771.16}
+{"id": "6fRqcNGVSWc-t4771.16", "text": "That's an interesting question.", "start": 4771.16, "end": 4773.16}
+{"id": "6fRqcNGVSWc-t4773.16", "text": "You know, all kinds of, you can remember many things by", "start": 4773.16, "end": 4777.16}
+{"id": "6fRqcNGVSWc-t4777.16", "text": "rehearsing, you know, the idea of changing and explicit", "start": 4777.16, "end": 4782.16}
+{"id": "6fRqcNGVSWc-t4782.16", "text": "declarative memory, like how do you learn to play the violin to", "start": 4782.16, "end": 4786.16}
+{"id": "6fRqcNGVSWc-t4786.16", "text": "an implicit cable type memory involved rehearsal?", "start": 4786.16, "end": 4791.16}
+{"id": "6fRqcNGVSWc-t4791.16", "text": "So yeah, I would imagine you can.", "start": 4791.16, "end": 4794.16}
+{"id": "6fRqcNGVSWc-t4794.16", "text": "I mean, you can, one of the things that I work on is in terms", "start": 4794.16, "end": 4798.16}
+{"id": "6fRqcNGVSWc-t4798.16", "text": "of changing the brain's perception of chronic pain, and one of the", "start": 4798.16, "end": 4803.16}
+{"id": "6fRqcNGVSWc-t4803.16", "text": "ways we do that is by using brain stimulation to turn down the", "start": 4803.16, "end": 4808.16}
+{"id": "6fRqcNGVSWc-t4808.16", "text": "area of the brain that perceives the pain without actually doing", "start": 4808.16, "end": 4811.16}
+{"id": "6fRqcNGVSWc-t4811.16", "text": "anything about the actual event that's causing the pain,", "start": 4811.16, "end": 4816.16}
+{"id": "6fRqcNGVSWc-t4816.16", "text": "whether it's a neuropathy or an amputated limb.", "start": 4816.16, "end": 4821.16}
+{"id": "6fRqcNGVSWc-t4821.16", "text": "Yeah.", "start": 4821.16, "end": 4822.16}
+{"id": "6fRqcNGVSWc-t4822.16", "text": "So it's, everything happens in our brain, whether it's real or not,", "start": 4822.16, "end": 4827.16}
+{"id": "6fRqcNGVSWc-t4827.16", "text": "which sounds kind of silly to have to say, but it's hard for us", "start": 4827.16, "end": 4831.16}
+{"id": "6fRqcNGVSWc-t4831.16", "text": "to truly grasp, I think, sometimes.", "start": 4831.16, "end": 4835.16}
+{"id": "6fRqcNGVSWc-t4835.16", "text": "Christina, do you have thoughts?", "start": 4835.16, "end": 4837.16}
+{"id": "6fRqcNGVSWc-t4837.16", "text": "You'd like to add to this?", "start": 4837.16, "end": 4840.16}
+{"id": "6fRqcNGVSWc-t4840.16", "text": "No?", "start": 4840.16, "end": 4841.16}
+{"id": "6fRqcNGVSWc-t4841.16", "text": "Okay.", "start": 4841.16, "end": 4841.16}
+{"id": "6fRqcNGVSWc-t4841.16", "text": "No, I think she did a fantastic job.", "start": 4841.16, "end": 4844.16}
+{"id": "6fRqcNGVSWc-t4844.16", "text": "Okay.", "start": 4844.16, "end": 4845.16}
+{"id": "6fRqcNGVSWc-t4845.16", "text": "Okay.", "start": 4845.16, "end": 4846.16}
+{"id": "6fRqcNGVSWc-t4846.16", "text": "Okay.", "start": 4846.16, "end": 4847.16}
+{"id": "6fRqcNGVSWc-t4847.16", "text": "Okay.", "start": 4847.16, "end": 4848.16}
+{"id": "6fRqcNGVSWc-t4848.16", "text": "Yeah.", "start": 4848.16, "end": 4849.16}
+{"id": "6fRqcNGVSWc-t4849.16", "text": "So Dave asked, how can one forget or change your negative memory?", "start": 4849.16, "end": 4852.16}
+{"id": "6fRqcNGVSWc-t4852.16", "text": "I think do you want to answer that?", "start": 4852.16, "end": 4855.16}
+{"id": "6fRqcNGVSWc-t4855.16", "text": "I think it's been sort of fleshed out through the conversation.", "start": 4855.16, "end": 4859.16}
+{"id": "6fRqcNGVSWc-t4859.16", "text": "So just to note that I got your question, Dave, there.", "start": 4859.16, "end": 4863.16}
+{"id": "6fRqcNGVSWc-t4863.16", "text": "Satya in Prathabhan.", "start": 4863.16, "end": 4865.16}
+{"id": "6fRqcNGVSWc-t4865.16", "text": "Sorry if I mispronounced that.", "start": 4865.16, "end": 4867.16}
+{"id": "6fRqcNGVSWc-t4867.16", "text": "Apart from cues of survival or for survival, excuse me.", "start": 4867.16, "end": 4870.16}
+{"id": "6fRqcNGVSWc-t4870.16", "text": "Is there a reason we were in bread with memory?", "start": 4870.16, "end": 4873.16}
+{"id": "6fRqcNGVSWc-t4873.16", "text": "What are we here to remember being on Earth for?", "start": 4873.16, "end": 4876.16}
+{"id": "6fRqcNGVSWc-t4880.16", "text": "I'm not sure I understood the question.", "start": 4880.16, "end": 4882.16}
+{"id": "6fRqcNGVSWc-t4882.16", "text": "What's the reason to have memories?", "start": 4882.16, "end": 4884.16}
+{"id": "6fRqcNGVSWc-t4884.16", "text": "Yeah.", "start": 4884.16, "end": 4885.16}
+{"id": "6fRqcNGVSWc-t4885.16", "text": "What's the biological necessity for memory?", "start": 4885.16, "end": 4888.16}
+{"id": "6fRqcNGVSWc-t4888.16", "text": "The biological reason is to survive.", "start": 4888.16, "end": 4893.16}
+{"id": "6fRqcNGVSWc-t4893.16", "text": "But in addition, they want to know in addition to survival.", "start": 4893.16, "end": 4899.16}
+{"id": "6fRqcNGVSWc-t4899.16", "text": "So besides survival, is there any other reason?", "start": 4899.16, "end": 4903.16}
+{"id": "6fRqcNGVSWc-t4903.16", "text": "Well, consciousness.", "start": 4903.16, "end": 4904.16}
+{"id": "6fRqcNGVSWc-t4904.16", "text": "I mean, Gerald Edmund called consciousness the remembered present,", "start": 4904.16, "end": 4910.16}
+{"id": "6fRqcNGVSWc-t4910.16", "text": "suggesting that we're experiencing, reflecting and remembering all at once.", "start": 4910.16, "end": 4915.16}
+{"id": "6fRqcNGVSWc-t4915.16", "text": "And that's what consciousness is.", "start": 4915.16, "end": 4919.16}
+{"id": "6fRqcNGVSWc-t4919.16", "text": "You know, if you ask the question, what's it for?", "start": 4919.16, "end": 4926.16}
+{"id": "6fRqcNGVSWc-t4926.16", "text": "It looks to me like the only sort of obvious answer would be for survival.", "start": 4926.16, "end": 4931.16}
+{"id": "6fRqcNGVSWc-t4931.16", "text": "It may do other things other than promote survival.", "start": 4931.16, "end": 4935.16}
+{"id": "6fRqcNGVSWc-t4935.16", "text": "And I think that's what makes it a lot of fun.", "start": 4935.16, "end": 4938.16}
+{"id": "6fRqcNGVSWc-t4938.16", "text": "Obviously, we don't remember.", "start": 4938.16, "end": 4940.16}
+{"id": "6fRqcNGVSWc-t4940.16", "text": "We're not fun.", "start": 4940.16, "end": 4941.16}
+{"id": "6fRqcNGVSWc-t4941.16", "text": "We're not fun.", "start": 4941.16, "end": 4946.16}
+{"id": "6fRqcNGVSWc-t4946.16", "text": "But I mean, isn't memory like, you know, does a rock have a memory?", "start": 4946.16, "end": 4951.16}
+{"id": "6fRqcNGVSWc-t4951.16", "text": "So maybe, you know, because we're animals.", "start": 4951.16, "end": 4954.16}
+{"id": "6fRqcNGVSWc-t4954.16", "text": "Well, a rock doesn't have to cross the road.", "start": 4954.16, "end": 4958.16}
+{"id": "6fRqcNGVSWc-t4958.16", "text": "Exactly.", "start": 4958.16, "end": 4961.16}
+{"id": "6fRqcNGVSWc-t4961.16", "text": "Of course, the one thing that remains all the arguments about where consciousness comes from,", "start": 4961.16, "end": 4968.16}
+{"id": "6fRqcNGVSWc-t4968.16", "text": "and he'd you have thoughts you'd like to insert here?", "start": 4968.16, "end": 4976.16}
+{"id": "6fRqcNGVSWc-t4976.16", "text": "Not in particular.", "start": 4976.16, "end": 4977.16}
+{"id": "6fRqcNGVSWc-t4977.16", "text": "I would say that the survival is the main piece.", "start": 4977.16, "end": 4981.16}
+{"id": "6fRqcNGVSWc-t4981.16", "text": "Yeah.", "start": 4981.16, "end": 4983.16}
+{"id": "6fRqcNGVSWc-t4983.16", "text": "Okay.", "start": 4983.16, "end": 4984.16}
+{"id": "6fRqcNGVSWc-t4984.16", "text": "So next one is from Vicki Madden.", "start": 4984.16, "end": 4988.16}
+{"id": "6fRqcNGVSWc-t4988.16", "text": "They were curious about dream remembrance.", "start": 4988.16, "end": 4990.16}
+{"id": "6fRqcNGVSWc-t4990.16", "text": "So they said, is the reason why they potentially forget memories or the way that they retain memories is that they have to tell to themselves.", "start": 4990.16, "end": 4997.16}
+{"id": "6fRqcNGVSWc-t4997.16", "text": "And put it in language right away.", "start": 4997.16, "end": 4999.16}
+{"id": "6fRqcNGVSWc-t4999.16", "text": "And if they don't, they'll forget it.", "start": 4999.16, "end": 5001.16}
+{"id": "6fRqcNGVSWc-t5001.16", "text": "So like, how does one go about remembering a dream?", "start": 5001.16, "end": 5005.16}
+{"id": "6fRqcNGVSWc-t5005.16", "text": "This is the idea that somehow speaking of it or talking verbalizing a memory does something go some way towards.", "start": 5005.16, "end": 5017.16}
+{"id": "6fRqcNGVSWc-t5017.16", "text": "instantiating it or creating.", "start": 5017.16, "end": 5027.16}
+{"id": "6fRqcNGVSWc-t5027.16", "text": "I once did a dream sleepover seminar at the Ruben Museum of Art, where we were right there with people waking up, just as they were waking up, which is very different than seeing patients in your office.", "start": 5027.16, "end": 5038.16}
+{"id": "6fRqcNGVSWc-t5038.16", "text": "And they would report the dream while they were waking up, and then the next morning, we would have a group and everyone would discuss or say report their dream.", "start": 5038.16, "end": 5051.16}
+{"id": "6fRqcNGVSWc-t5051.16", "text": "The content in every case was exactly the same.", "start": 5051.16, "end": 5055.16}
+{"id": "6fRqcNGVSWc-t5055.16", "text": "What changed was the linear time sequence.", "start": 5055.16, "end": 5059.16}
+{"id": "6fRqcNGVSWc-t5059.16", "text": "So that when the person was waking up, they said this happened, but before that this happened before that this happened.", "start": 5059.16, "end": 5066.16}
+{"id": "6fRqcNGVSWc-t5066.16", "text": "And then when they told the dream in the morning, it was like a linear narrative.", "start": 5066.16, "end": 5072.16}
+{"id": "6fRqcNGVSWc-t5072.16", "text": "That that was very interesting.", "start": 5072.16, "end": 5074.16}
+{"id": "6fRqcNGVSWc-t5074.16", "text": "So I think, you know, some of what seems so ridiculous in dream memory is actually because we're changing the time, we're looking at it from the waking time sequence.", "start": 5074.16, "end": 5088.16}
+{"id": "6fRqcNGVSWc-t5088.16", "text": "So I think if you accept that where there's an anomaly, then there's more of a tendency to be open to your dreams and to record them.", "start": 5088.16, "end": 5097.16}
+{"id": "6fRqcNGVSWc-t5097.16", "text": "Remember them. Yeah.", "start": 5097.16, "end": 5099.16}
+{"id": "6fRqcNGVSWc-t5099.16", "text": "If I could just share a story. My husband loves trains. He's a trained fanatic.", "start": 5099.16, "end": 5105.16}
+{"id": "6fRqcNGVSWc-t5105.16", "text": "And you made us watch this documentary about the bullet train in Japan. And supposedly since it's invention and inception, it has had, I think, only one death on accident, which is pretty remarkable considering Japan has the most earthquakes of any nation in the world.", "start": 5105.16, "end": 5127.16}
+{"id": "6fRqcNGVSWc-t5127.16", "text": "And they said that one of the things that they do, and I've seen this on on local trains in Japan, where the conductor points at something, and then he says something.", "start": 5127.16, "end": 5139.16}
+{"id": "6fRqcNGVSWc-t5139.16", "text": "And then it's like point and there's something to with verbalizing and pointing that they do. And we kept looking like, who is he talking to because he didn't have earphones, he didn't have anything.", "start": 5139.16, "end": 5153.16}
+{"id": "6fRqcNGVSWc-t5153.16", "text": "And it turns out that it's a memory aid. And now they use it at hospitals with prescriptions. They make you look at the name, you say it out loud, and then you point again.", "start": 5153.16, "end": 5168.16}
+{"id": "6fRqcNGVSWc-t5168.16", "text": "And it improved the accuracy by, I don't know how many fold. So, reading it, looking at it, and then verbalizing it actually does something to the memory process. Yeah.", "start": 5168.16, "end": 5186.16}
+{"id": "6fRqcNGVSWc-t5186.16", "text": "So I wanted to just say something really interesting and I never know this, and I don't know if you ever experienced this, but I had a graduate student who is now in medical school, and he grew up in Japan, and he came to the United States when he was in his 20s.", "start": 5186.16, "end": 5202.16}
+{"id": "6fRqcNGVSWc-t5202.16", "text": "And he had trouble, he had to unlearn the difference between L and R. He actually had a lot of trouble pronouncing. Well, there is no, well, in Japan, it was just, I thought it was so interesting that no, in Japan, there is no R or an L.", "start": 5202.16, "end": 5224.16}
+{"id": "6fRqcNGVSWc-t5224.16", "text": "There's only in between, there's a radirud et al. It's not an L, and it's not an R. And what he had is he had trouble hearing the difference. Yes, I couldn't hear the R or the L. So, sometimes he had to put it in the context.", "start": 5224.16, "end": 5239.16}
+{"id": "6fRqcNGVSWc-t5239.16", "text": "So, right, right, because it's not something you routinely think about.", "start": 5239.16, "end": 5243.16}
+{"id": "6fRqcNGVSWc-t5243.16", "text": "No, but also, I can run to the next question.", "start": 5243.16, "end": 5247.16}
+{"id": "6fRqcNGVSWc-t5247.16", "text": "Sorry. So, Elizabeth Manis asked, is there a distinct, well, I think this actually is a good picky back off what guy she was talking about. Is there a distinction between forgetting and unlearning.", "start": 5247.16, "end": 5267.16}
+{"id": "6fRqcNGVSWc-t5267.16", "text": "Richard, you have a sense of that as a historian. Again, going back to wilfulness or rather the exercise of one's will.", "start": 5267.16, "end": 5279.16}
+{"id": "6fRqcNGVSWc-t5279.16", "text": "There was a British officer in the early to mid 19th century, who was going through a section of Europe, and he was saying to them, well, can you say to one man, can you remember Napoleon?", "start": 5279.16, "end": 5296.16}
+{"id": "6fRqcNGVSWc-t5296.16", "text": "And the man said, yes, he was well over six foot tall with long blonde hair. Anyway, what he wanted to remember was a conquering general looking like a Viking God.", "start": 5296.16, "end": 5312.16}
+{"id": "6fRqcNGVSWc-t5312.16", "text": "So, he unconsciously created this image, which had nothing to do with with fact, except the fact of what he thought a conquering officer should look like.", "start": 5312.16, "end": 5327.16}
+{"id": "6fRqcNGVSWc-t5327.16", "text": "So, to that extent, one can unconsciously will a memory.", "start": 5327.16, "end": 5335.16}
+{"id": "6fRqcNGVSWc-t5335.16", "text": "Interesting. Yeah. And all of a sacks talks about reciting to members of the family various events in their shared past.", "start": 5335.16, "end": 5349.16}
+{"id": "6fRqcNGVSWc-t5349.16", "text": "And the family's saying, but you weren't there.", "start": 5349.16, "end": 5354.16}
+{"id": "6fRqcNGVSWc-t5354.16", "text": "And it's the same process. It would like to be.", "start": 5354.16, "end": 5359.16}
+{"id": "6fRqcNGVSWc-t5359.16", "text": "We also say that forgetting is a larger category and unlearning to the degree it's a separate thing it's a subset of all forgetting.", "start": 5359.16, "end": 5370.16}
+{"id": "6fRqcNGVSWc-t5370.16", "text": "Does that sound reasonable.", "start": 5370.16, "end": 5372.16}
+{"id": "6fRqcNGVSWc-t5372.16", "text": "Yeah.", "start": 5372.16, "end": 5373.16}
+{"id": "6fRqcNGVSWc-t5373.16", "text": "Sounds good.", "start": 5373.16, "end": 5374.16}
+{"id": "6fRqcNGVSWc-t5374.16", "text": "Unlearning means that we have learned something and then we are not forgetting is part of many processes.", "start": 5374.16, "end": 5384.16}
+{"id": "6fRqcNGVSWc-t5384.16", "text": "One of the things you'll remember the famous line in death of a salesman when the wife says attention must be paid.", "start": 5384.16, "end": 5395.16}
+{"id": "6fRqcNGVSWc-t5395.16", "text": "One of the aspects of learning and unlearning is paying attention.", "start": 5395.16, "end": 5403.16}
+{"id": "6fRqcNGVSWc-t5403.16", "text": "We've all seen on Andy's wall above the television set in the bookcases, a number of telephones.", "start": 5403.16, "end": 5413.16}
+{"id": "6fRqcNGVSWc-t5413.16", "text": "But did we pay attention to the fact that he has four telephones out of reach in his living room.", "start": 5413.16, "end": 5419.16}
+{"id": "6fRqcNGVSWc-t5419.16", "text": "No, but I saw the gorilla walk by. I don't know if the rest of you saw that gorilla.", "start": 5419.16, "end": 5427.16}
+{"id": "6fRqcNGVSWc-t5427.16", "text": "All right. So maybe it's the gorilla in the room, not the elephant in the room.", "start": 5427.16, "end": 5433.16}
+{"id": "6fRqcNGVSWc-t5433.16", "text": "Well, I think we've come to the end of our time.", "start": 5433.16, "end": 5437.16}
+{"id": "6fRqcNGVSWc-t5437.16", "text": "Well, can we get one or two more questions or you.", "start": 5437.16, "end": 5440.16}
+{"id": "6fRqcNGVSWc-t5440.16", "text": "I would like to. Yeah, I think I could pick sort of two topologies to others, but I think there's sort of two that could be interesting.", "start": 5440.16, "end": 5448.16}
+{"id": "6fRqcNGVSWc-t5448.16", "text": "So one was from Robert Messiati. You wrote a long thing, but I think I understand what he's saying is probably best answered by Christina.", "start": 5448.16, "end": 5457.16}
+{"id": "6fRqcNGVSWc-t5457.16", "text": "He was sort of curious about the physiological process of explicit memory recall.", "start": 5457.16, "end": 5462.16}
+{"id": "6fRqcNGVSWc-t5462.16", "text": "And he was what he's referring to. I'm pretty sure is like structural changes with protein.", "start": 5462.16, "end": 5466.16}
+{"id": "6fRqcNGVSWc-t5466.16", "text": "So I think was, I think what he's alluding to is with LTP, a long term potentiation causing protein full changes.", "start": 5466.16, "end": 5472.16}
+{"id": "6fRqcNGVSWc-t5472.16", "text": "And I think he was curious whether such protein full changes are what leads to recall, right?", "start": 5472.16, "end": 5478.16}
+{"id": "6fRqcNGVSWc-t5478.16", "text": "So that the certain position of the protein over time, because what leads to recall, I'm assuming also I've had some experience in neuroscience research myself for my master's.", "start": 5478.16, "end": 5488.16}
+{"id": "6fRqcNGVSWc-t5488.16", "text": "I've read this before. So I think that's what he's referring to.", "start": 5488.16, "end": 5493.16}
+{"id": "6fRqcNGVSWc-t5493.16", "text": "Yeah. Yes, I'm going to give a brief answer because it could be a lot of discussion about recall. It could be another topic for another really meeting.", "start": 5493.16, "end": 5505.16}
+{"id": "6fRqcNGVSWc-t5505.16", "text": "We don't know anything about the mechanism to recall. It's very difficult to study because it's an instantaneous.", "start": 5505.16, "end": 5512.16}
+{"id": "6fRqcNGVSWc-t5512.16", "text": "It's a moment that happens.", "start": 5512.16, "end": 5515.16}
+{"id": "6fRqcNGVSWc-t5515.16", "text": "And studying the biology of that is, is, is going to be the next round here, I'm sure. But it has not been as easy to approach as encoding and new memories and long term memory.", "start": 5515.16, "end": 5529.16}
+{"id": "6fRqcNGVSWc-t5529.16", "text": "Consolidation and storage information. So recall is a major, major question.", "start": 5529.16, "end": 5536.16}
+{"id": "6fRqcNGVSWc-t5536.16", "text": "I would not equate this with the first long term potentiation is the equivalent is believe or is suggested to be the equivalent of long term memory long term potentiation.", "start": 5536.16, "end": 5551.16}
+{"id": "6fRqcNGVSWc-t5551.16", "text": "Or memories formation, let's say, but not record.", "start": 5551.16, "end": 5556.16}
+{"id": "6fRqcNGVSWc-t5556.16", "text": "There are studies of course that can reactivate the electrophysiological measurements. But again, relating that to recall of memories is a big jump.", "start": 5556.16, "end": 5570.16}
+{"id": "6fRqcNGVSWc-t5570.16", "text": "As you can imagine, you know, one electrophysiological measurement is a monodimensional understanding compared to the complexity of the brain.", "start": 5570.16, "end": 5581.16}
+{"id": "6fRqcNGVSWc-t5581.16", "text": "Oh, no, I apologize. When I was referring to LTP, I was mostly not in terms of recall, but it's, as you talked about, it's what I to me creates the network and the system for which the memories sort of first builds upon through synaptic pruning and what have you and obviously", "start": 5581.16, "end": 5596.16}
+{"id": "6fRqcNGVSWc-t5596.16", "text": "LTD long term depression in the server and the server problem. But yeah, that's that's a whole other discussion for another day.", "start": 5596.16, "end": 5602.16}
+{"id": "6fRqcNGVSWc-t5602.16", "text": "And then I get.", "start": 5602.16, "end": 5607.16}
+{"id": "6fRqcNGVSWc-t5607.16", "text": "Okay, this is a good, this is a good light one, I think, because it's a good one to end it off this person. It was a Judy Levine asked, how is it when you do a cross puzzle.", "start": 5607.16, "end": 5616.16}
+{"id": "6fRqcNGVSWc-t5616.16", "text": "If you leave it and come back, you'll then remember the words that you couldn't remember before, but it comes like this without thinking about it.", "start": 5616.16, "end": 5627.16}
+{"id": "6fRqcNGVSWc-t5627.16", "text": "The computer warming up.", "start": 5627.16, "end": 5636.16}
+{"id": "6fRqcNGVSWc-t5636.16", "text": "It goes somewhere into the default default network, but it's your brain's processing it even if you're not paying conscious attention.", "start": 5636.16, "end": 5646.16}
+{"id": "6fRqcNGVSWc-t5646.16", "text": "It's like coming up with an answer to a problem that you had at night you wake up and you know the answer in the morning and I think it's the same sort of thing.", "start": 5646.16, "end": 5656.16}
+{"id": "6fRqcNGVSWc-t5656.16", "text": "And not so much a memory issue I would think but it relates also to getting offline, not having your brain occupied with something else, so that it has an opportunity to sort of reconfigure itself and perhaps come out with an answer of course doesn't always", "start": 5656.16, "end": 5672.16}
+{"id": "6fRqcNGVSWc-t5672.16", "text": "work. But there is this idea that either sleeping on it or taking a break doing something else can improve performance.", "start": 5672.16, "end": 5682.16}
+{"id": "6fRqcNGVSWc-t5682.16", "text": "Well, I'd like to thank everyone so much for your wonderful contributions. There's so much that hasn't been said, but I think we've all learned.", "start": 5682.16, "end": 5693.16}
+{"id": "6fRqcNGVSWc-t5693.16", "text": "We've all I hope recorded, and I hope many of us will remember much of what was said, but it was all terribly important and I think you so much participating.", "start": 5693.16, "end": 5706.16}
+{"id": "6fRqcNGVSWc-t5706.16", "text": "And thank you Beverly for organizing it and moderating. Yes, and I wish you all very well very well as we proceed to manage.", "start": 5706.16, "end": 5716.16}
+{"id": "6fRqcNGVSWc-t5716.16", "text": "Next year, thank you.", "start": 5716.16, "end": 5718.16}
+{"id": "6fRqcNGVSWc-t5718.16", "text": "Goodbye everyone who's coming. Thank you for being with us. Thank you everyone.", "start": 5718.16, "end": 5723.16}
+{"id": "6fRqcNGVSWc-t5723.16", "text": "Thank you.", "start": 5723.16, "end": 5724.16}
+{"id": "6fRqcNGVSWc-t5724.16", "text": "Bye bye.", "start": 5724.16, "end": 5737.16}
+{"id": "6fRqcNGVSWc-t5754.16", "text": "Thank you.", "start": 5754.16, "end": 5779.16}

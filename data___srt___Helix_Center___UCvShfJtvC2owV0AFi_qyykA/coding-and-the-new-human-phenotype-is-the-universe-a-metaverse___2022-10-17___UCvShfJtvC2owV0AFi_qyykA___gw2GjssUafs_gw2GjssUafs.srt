@@ -1,0 +1,3824 @@
+1
+00:00:00,000 --> 00:00:11,720
+Hi, good afternoon everyone.
+
+2
+00:00:11,720 --> 00:00:20,720
+Welcome back to the Helix Center and our conference on coding and the new human phenotype.
+
+3
+00:00:20,720 --> 00:00:23,640
+This is the fifth of four round tables.
+
+4
+00:00:23,640 --> 00:00:31,000
+In the previous four, I've been fantastic and I welcome our audience out there to check out
+
+5
+00:00:31,000 --> 00:00:36,840
+those four round tables that are available on YouTube.
+
+6
+00:00:36,840 --> 00:00:46,080
+This afternoon we are excited about our topic, which is the universe is the universe a metaverse.
+
+7
+00:00:46,080 --> 00:00:49,280
+We're going to hear more about that and what that could possibly mean because maybe the
+
+8
+00:00:49,280 --> 00:00:51,120
+title is a bit opaque.
+
+9
+00:00:51,120 --> 00:00:56,840
+That's not, but I want to tell you something about our participants before we proceed.
+
+10
+00:00:56,840 --> 00:01:03,840
+Elias Dachwur actually helped conceive some of this idea of the entire conference on coding.
+
+11
+00:01:03,840 --> 00:01:05,480
+I want to thank him for that.
+
+12
+00:01:05,480 --> 00:01:08,160
+He's taking part today as one of the participants.
+
+13
+00:01:08,160 --> 00:01:12,240
+He's an associate professor at Columbia University College of Physicians and Surgeons.
+
+14
+00:01:12,240 --> 00:01:19,240
+He's been researching novel treatments for addiction for over a decade and the support
+
+15
+00:01:19,240 --> 00:01:24,400
+of several grants and national institutes of health.
+
+16
+00:01:24,400 --> 00:01:30,720
+A special focus of his research has been evaluating sub-anesthetic ketamine infusions for cocaine
+
+17
+00:01:30,720 --> 00:01:35,800
+use disorders in both laboratory and clinical settings as well as investigating ketamine
+
+18
+00:01:35,800 --> 00:01:42,240
+infusions as an adjunct to mindfulness based treatment, mind body practices, motivational
+
+19
+00:01:42,240 --> 00:01:49,080
+interviewing and other behavioral frameworks for alcohol, cannabis and OB use disorders.
+
+20
+00:01:49,080 --> 00:01:54,560
+He has a more general interest in the impact of contemplative and non-ordinary experiences
+
+21
+00:01:54,560 --> 00:02:01,640
+and of the interventions that might occasion and cultivation well-being.
+
+22
+00:02:01,640 --> 00:02:07,600
+Mr. Fufus is a professor of physics at the University of Massachusetts, Boston, who specializes
+
+23
+00:02:07,600 --> 00:02:12,240
+in quantum information theory and quantum foundations.
+
+24
+00:02:12,240 --> 00:02:19,240
+He is an author or co-author of over 160 scholarly pieces, one of which unconditional quantum
+
+25
+00:02:19,240 --> 00:02:26,000
+teleportation with H.J. Kimball's experimental route was voted a, quote, top ten breakthrough
+
+26
+00:02:26,000 --> 00:02:31,920
+of 1998, unquote, by the editors of science.
+
+27
+00:02:31,920 --> 00:02:36,640
+He is a winner of the International Quantum Communication Award and a fellow of the American
+
+28
+00:02:36,640 --> 00:02:37,640
+Physical Society.
+
+29
+00:02:37,640 --> 00:02:43,640
+He is most widely known for the development of the quantum interpretation known as Cubism
+
+30
+00:02:43,640 --> 00:02:51,120
+or quantum theory is not seen as a direct representation of what is in the universe,
+
+31
+00:02:51,120 --> 00:02:56,560
+but rather an aid to decision making in the universe where nature is events of a kind
+
+32
+00:02:56,560 --> 00:03:01,520
+of ultimate autonomy or creativity.
+
+33
+00:03:01,520 --> 00:03:07,080
+Emily Atlam is a post-doctorate associate at the Rodman Institute for Philosophy of Science
+
+34
+00:03:07,080 --> 00:03:09,760
+at the University of Western Ontario.
+
+35
+00:03:09,760 --> 00:03:15,400
+She received her Ph.D. in no divisic quantum information from the University of Cambridge.
+
+36
+00:03:15,400 --> 00:03:20,280
+Prior to that, she completed the Perimeter Scholars International Program in theoretical
+
+37
+00:03:20,280 --> 00:03:24,920
+physics and she did her undergraduate degree in physics and philosophy at the University
+
+38
+00:03:24,920 --> 00:03:26,760
+of Oxford.
+
+39
+00:03:26,760 --> 00:03:32,040
+She works on the foundations of quantum mechanics and related issues in the philosophy of science
+
+40
+00:03:32,040 --> 00:03:36,720
+and is particularly interested in approaches to physics which go beyond the time of evolution
+
+41
+00:03:36,720 --> 00:03:43,000
+paradigm encompassing a range of possibilities like temporal non-locality, retro-closality
+
+42
+00:03:43,000 --> 00:03:47,160
+and all at once laws.
+
+43
+00:03:47,160 --> 00:03:51,480
+So, Esther James Jim Gates Jr. is a theoretical physicist.
+
+44
+00:03:51,480 --> 00:03:59,240
+He is a university of Maryland University Systems Regents Professor, the John S. Professor
+
+45
+00:03:59,240 --> 00:04:02,400
+of Physics and a College Park Professor Emeritus.
+
+46
+00:04:02,400 --> 00:04:07,880
+He currently holds the Clark Leadership Chair in Science and Serves as a professor of physics
+
+47
+00:04:07,880 --> 00:04:13,960
+with the physics department as well as affiliate professor of public policy in the School of
+
+48
+00:04:13,960 --> 00:04:18,200
+Public Policy at the University of Maryland College of Park, Maryland.
+
+49
+00:04:18,200 --> 00:04:23,840
+Gates served on the U.S. President's Council of Advisors on Science and Technology, contemporaneously
+
+50
+00:04:23,840 --> 00:04:30,560
+on the Maryland State Board of Education from 2009 to 2016 at the National Commission on
+
+51
+00:04:30,560 --> 00:04:35,560
+Forensic Science from 2013 to 2016.
+
+52
+00:04:35,560 --> 00:04:42,200
+He is known for his work on supersymmetry, supergravity and super strength theory.
+
+53
+00:04:42,200 --> 00:04:47,160
+David Chalmers is University Professor of Philosophy and Neuroscience and co-director
+
+54
+00:04:47,160 --> 00:04:52,520
+of his Center for Mind, Brain and Consciousness at New York University.
+
+55
+00:04:52,520 --> 00:04:59,440
+He is author of the Conscious Mind Constructing the World and Reality, Virtual World in the
+
+56
+00:04:59,440 --> 00:05:03,440
+Problems of Philosophy which was just released this year.
+
+57
+00:05:03,440 --> 00:05:10,640
+He co-founded the Association for the Scientific Study of Consciousness and Phil papers Foundation.
+
+58
+00:05:10,640 --> 00:05:16,840
+He has given the John Locke Lecture and has been awarded the John DeCote, the Code of
+
+59
+00:05:16,840 --> 00:05:17,840
+Reprise.
+
+60
+00:05:17,840 --> 00:05:23,000
+He is known for formulating the quote unquote, heart-public consciousness which inspired
+
+61
+00:05:23,000 --> 00:05:29,320
+Tom Stocker to play the heart problem and for the idea of the extended mind which says
+
+62
+00:05:29,320 --> 00:05:34,320
+that the tools we use can become parts of our minds.
+
+63
+00:05:34,320 --> 00:05:35,320
+One minute.
+
+64
+00:05:35,320 --> 00:05:38,320
+Let me take this.
+
+65
+00:05:38,320 --> 00:05:42,920
+They know attention that may not mind the curtain.
+
+66
+00:05:42,920 --> 00:05:44,720
+Okay everyone.
+
+67
+00:05:44,720 --> 00:05:45,720
+Welcome.
+
+68
+00:05:45,720 --> 00:05:51,560
+This is really a very exciting topic for us to leave into and I hope we will make a
+
+69
+00:05:51,560 --> 00:05:52,560
+leave.
+
+70
+00:05:52,560 --> 00:05:59,600
+So does anyone want to start off with a general sort of formulation of what it might mean
+
+71
+00:05:59,600 --> 00:06:03,200
+for the universe to be a metaverse?
+
+72
+00:06:03,200 --> 00:06:07,640
+Well I'm willing to start.
+
+73
+00:06:07,640 --> 00:06:11,000
+First of all I would say it doesn't mean what most people think.
+
+74
+00:06:11,000 --> 00:06:14,360
+At least from my perspective.
+
+75
+00:06:14,360 --> 00:06:17,960
+My own research has led me to do in this period.
+
+76
+00:06:17,960 --> 00:06:19,120
+It's quite astounding.
+
+77
+00:06:19,120 --> 00:06:23,320
+I started from a position of total skepticism.
+
+78
+00:06:23,320 --> 00:06:29,000
+Having read about John Wheeler's It From Bit which is the information leads to the existence
+
+79
+00:06:29,000 --> 00:06:31,840
+of that universe that we live in.
+
+80
+00:06:31,840 --> 00:06:37,040
+And I remember quite when I was young, first reading it thinking what an insane idea.
+
+81
+00:06:37,040 --> 00:06:43,400
+So 15 or 20 years ago in my own research I found mathematical evidence of error correcting
+
+82
+00:06:43,400 --> 00:06:49,640
+codes and what may be the fundamental laws of our universe if ideas relate to string theory
+
+83
+00:06:49,640 --> 00:06:51,440
+are correct.
+
+84
+00:06:51,440 --> 00:06:56,600
+And so at that point I concluded that if you think about this stuff long enough you too
+
+85
+00:06:56,600 --> 00:06:58,640
+can actually become crazy.
+
+86
+00:06:58,640 --> 00:07:09,040
+Coldly better than an idea of this notion that information is an elemental aspect of
+
+87
+00:07:09,040 --> 00:07:10,040
+the universe.
+
+88
+00:07:10,040 --> 00:07:11,040
+Is that true?
+
+89
+00:07:11,040 --> 00:07:13,640
+Is that a good way to put it?
+
+90
+00:07:13,640 --> 00:07:16,800
+I don't know.
+
+91
+00:07:16,800 --> 00:07:20,400
+I'm a disciple of John Wheeler's that you just mentioned.
+
+92
+00:07:20,400 --> 00:07:23,720
+I did some undergraduate work with him.
+
+93
+00:07:23,720 --> 00:07:29,680
+And his thinking went through various stages.
+
+94
+00:07:29,680 --> 00:07:37,320
+He started, I think when it was finally realized that black holes were inevitable, Wheeler
+
+95
+00:07:37,320 --> 00:07:45,320
+started worrying that somehow every law of physics could ultimately be transcended.
+
+96
+00:07:45,320 --> 00:07:50,260
+So for instance it used to be believed that baryon number was a fixed quantity in the
+
+97
+00:07:50,260 --> 00:07:55,080
+universe but she threw the baryons into black hole and the number of baryons decreases.
+
+98
+00:07:55,080 --> 00:08:00,720
+So what was once considered law of physics was transcended by black holes.
+
+99
+00:08:00,720 --> 00:08:08,600
+And so he went through this phase of thinking well this is transcended, that is transcended
+
+100
+00:08:08,600 --> 00:08:17,240
+and he was left with a position where he would say there is laws but the only law is that
+
+101
+00:08:17,240 --> 00:08:21,680
+there is no law because they're always ultimately transcended.
+
+102
+00:08:21,680 --> 00:08:26,320
+So law without law was one of his slogans.
+
+103
+00:08:26,320 --> 00:08:33,520
+And after that he started thinking well if the universe isn't made of particles, fields
+
+104
+00:08:33,520 --> 00:08:40,240
+or even geometry because geometry can become singular what must it be made of and that's
+
+105
+00:08:40,240 --> 00:08:47,280
+where he somehow landed on the idea that it was information.
+
+106
+00:08:47,280 --> 00:08:52,600
+And so I took that as my starting point but then ultimately I sort of worked away from
+
+107
+00:08:52,600 --> 00:09:01,480
+that because it apologized information in a way that I thought was unhealthy thinking.
+
+108
+00:09:01,480 --> 00:09:06,840
+So what we needed to understand instead was that the universe is the universe and then
+
+109
+00:09:06,840 --> 00:09:13,360
+there are thinking beings in this universe and they use information and they use information
+
+110
+00:09:13,360 --> 00:09:18,320
+in certain ways because the universe is a certain way but the information itself is
+
+111
+00:09:18,320 --> 00:09:21,800
+not part of the stuff of the universe.
+
+112
+00:09:21,800 --> 00:09:27,000
+So one can transcend one's mentor.
+
+113
+00:09:27,000 --> 00:09:32,920
+Yeah I also tend to be quite skeptical about it from the hypothesis because I think it
+
+114
+00:09:32,920 --> 00:09:37,080
+fails to distinguish between what is in the world and the information that we receive
+
+115
+00:09:37,080 --> 00:09:38,080
+about the world.
+
+116
+00:09:38,080 --> 00:09:42,520
+Obviously we formulate physics on the basis of information that we have received and thus
+
+117
+00:09:42,520 --> 00:09:47,200
+it's quite natural that the physics we thus formulate exhibits various information theoretic
+
+118
+00:09:47,200 --> 00:09:51,880
+properties because it's the result of certain epistemic constraints subject that agents
+
+119
+00:09:51,880 --> 00:09:53,600
+like us are subject to.
+
+120
+00:09:53,600 --> 00:09:56,200
+Our physics is going to reflect those kinds of constraints.
+
+121
+00:09:56,200 --> 00:09:59,920
+It's going to reflect the kinds of information we can obtain but that doesn't mean that the
+
+122
+00:09:59,920 --> 00:10:01,480
+physics is about information.
+
+123
+00:10:01,480 --> 00:10:05,440
+It just means the physics is formulated on the basis of information and thus it will
+
+124
+00:10:05,440 --> 00:10:10,600
+naturally have information theoretic features.
+
+125
+00:10:10,600 --> 00:10:14,920
+Now our topic is the universe a metaverse.
+
+126
+00:10:14,920 --> 00:10:20,400
+I think the metaverse actually has features that go beyond the simple it from bit idea.
+
+127
+00:10:20,400 --> 00:10:21,720
+It may have something in common.
+
+128
+00:10:21,720 --> 00:10:28,440
+I mean the metaverse standardly stands for a virtual world that we create.
+
+129
+00:10:28,440 --> 00:10:33,560
+I mean Neil Stevenson introduced the term in his science fiction novel Snow Crash back
+
+130
+00:10:33,560 --> 00:10:39,280
+in 1992 where the metaverse was basically a virtual reality environment that people would
+
+131
+00:10:39,280 --> 00:10:47,240
+go into with headsets and the like and interact with other people and live a at least a partly
+
+132
+00:10:47,240 --> 00:10:48,240
+digital life.
+
+133
+00:10:48,240 --> 00:10:52,880
+Now of course the tech corporations have appropriated this idea and are using it, you
+
+134
+00:10:52,880 --> 00:10:59,240
+know, meta is now using it as a label for the ecosystem of virtual worlds that they would
+
+135
+00:10:59,240 --> 00:11:00,240
+like to build.
+
+136
+00:11:00,240 --> 00:11:09,400
+So when I hear is the universe a metaverse I hear is our universe a virtual world inside
+
+137
+00:11:09,400 --> 00:11:16,680
+someone else's universe in the same way that the metaverse would be a digital world, a
+
+138
+00:11:16,680 --> 00:11:18,800
+virtual world inside our universe.
+
+139
+00:11:18,800 --> 00:11:23,280
+I mean that would have elements of the it from bit idea in it because if our universe
+
+140
+00:11:23,280 --> 00:11:30,640
+is a virtual world inside someone else's universe and presumably we're running on someone else's
+
+141
+00:11:30,640 --> 00:11:34,360
+computers and there's going to be a level of a level of bits there but I think it's
+
+142
+00:11:34,360 --> 00:11:39,560
+that idea that we're in a virtual world because we're beyond the it from bit idea.
+
+143
+00:11:39,560 --> 00:11:46,280
+The it from bit idea can be understood as saying there's a digital processes in the
+
+144
+00:11:46,280 --> 00:11:50,880
+constitution of our worlds maybe there's even a digital physics it's a interesting speculation
+
+145
+00:11:50,880 --> 00:11:56,080
+maybe true maybe false but it's a universe a metaverse it's like it from bit on steroids
+
+146
+00:11:56,080 --> 00:12:04,520
+there's bits and there's bits that we are grounded within a vast universe beyond it.
+
+147
+00:12:04,520 --> 00:12:08,880
+How could it have been very appealing let's say to Wheeler and there's also what they
+
+148
+00:12:08,880 --> 00:12:16,440
+would and Fred can also bring about this in years back that so since we have most of the
+
+149
+00:12:16,440 --> 00:12:21,320
+skeptics here it seems about that idea of it from bit that's great that's that seems
+
+150
+00:12:21,320 --> 00:12:24,640
+like nice to have that sort of consensus but I like the idea.
+
+151
+00:12:24,640 --> 00:12:29,200
+I can't even put it in a world like it was two and two.
+
+152
+00:12:29,200 --> 00:12:30,200
+Okay.
+
+153
+00:12:30,200 --> 00:12:34,840
+Well Jim I'm not interested in us sort of fleshing out just for the just to be fair and honest
+
+154
+00:12:34,840 --> 00:12:39,920
+with the idea what is it because I think the general audience may have appreciated what
+
+155
+00:12:39,920 --> 00:12:44,080
+is that even mean to say the universe is made up of information that seems like if you say
+
+156
+00:12:44,080 --> 00:12:46,080
+it's made up of atoms you go.
+
+157
+00:12:46,080 --> 00:12:50,800
+There's quite a distinct so you brought up at Fred Kim and Fred Kim thought that the
+
+158
+00:12:50,800 --> 00:12:58,480
+world was a program running on something the last time I heard him speak was the other
+
+159
+00:12:58,480 --> 00:13:07,320
+the universe is a program running on the other what's the other at well no answer so that
+
+160
+00:13:07,320 --> 00:13:11,280
+I never found a productive line of thought.
+
+161
+00:13:11,280 --> 00:13:17,200
+Wheeler on the other hand didn't think that the universe was a program running on anything
+
+162
+00:13:17,200 --> 00:13:22,720
+so when he was saying it from bit he would even say that the only thing that's going
+
+163
+00:13:22,720 --> 00:13:27,680
+on in the universe is higgledy higgledy which was the first time I'd ever heard the term
+
+164
+00:13:27,680 --> 00:13:30,360
+and I'd look it up not for the English dictionary.
+
+165
+00:13:30,360 --> 00:13:36,680
+You know that the universe is just sort of bubbling out of chaos but the stuff that's
+
+166
+00:13:36,680 --> 00:13:42,680
+bubbling up is information in Wheeler's mind so they're very different world views.
+
+167
+00:13:42,680 --> 00:13:43,680
+So the.
+
+168
+00:13:43,680 --> 00:13:47,000
+Well remember there's no ether right I mean for a long time I've seen we couldn't do any
+
+169
+00:13:47,000 --> 00:13:49,680
+physics without there being an ether.
+
+170
+00:13:49,680 --> 00:13:50,680
+Yeah.
+
+171
+00:13:50,680 --> 00:13:52,680
+People said oh there is.
+
+172
+00:13:52,680 --> 00:13:55,680
+But we still have these waves.
+
+173
+00:13:55,680 --> 00:14:01,200
+I mean so can you is it is it fair to be critical of him for not being able to come up with
+
+174
+00:14:01,200 --> 00:14:02,760
+what is I kind of.
+
+175
+00:14:02,760 --> 00:14:03,760
+Oh you've been Fred.
+
+176
+00:14:03,760 --> 00:14:04,760
+Yeah.
+
+177
+00:14:04,760 --> 00:14:05,760
+Yeah.
+
+178
+00:14:05,760 --> 00:14:09,200
+Is it fair to be critical for somebody who says I can't tell you what the media.
+
+179
+00:14:09,200 --> 00:14:13,200
+I can't tell you what the universe is but it's running on the other.
+
+180
+00:14:13,200 --> 00:14:17,520
+You know the other hand you might say they didn't mind of God and how is this more productive.
+
+181
+00:14:17,520 --> 00:14:18,880
+But that would be my one.
+
+182
+00:14:18,880 --> 00:14:23,520
+The idea goes way beyond Fred can though I mean Conrad Zusse who one of the inventors
+
+183
+00:14:23,520 --> 00:14:29,320
+of the computer back in 1943 he were reams manuscript some the idea that physics might
+
+184
+00:14:29,320 --> 00:14:34,720
+be might be digital and that's what I take to be the core idea of it from bits just that
+
+185
+00:14:34,720 --> 00:14:39,760
+they're a level of physics which is somehow digital if for example as Stephen Wolfram is
+
+186
+00:14:39,760 --> 00:14:45,480
+sometimes slow maybe our universe is a cellular automaton running off like a game of life
+
+187
+00:14:45,480 --> 00:14:48,800
+bits interacted with bits at the bottom level that would be digital physics.
+
+188
+00:14:48,800 --> 00:14:52,520
+I mean it's probably true but it's not a crazy idea.
+
+189
+00:14:52,520 --> 00:14:56,040
+It's a perfectly sensible idea that physics could be digital.
+
+190
+00:14:56,040 --> 00:15:00,960
+Can I even push it back one step further.
+
+191
+00:15:00,960 --> 00:15:06,960
+So as I said when I in my own work found evidence for error correcting codes possibly in the
+
+192
+00:15:06,960 --> 00:15:13,880
+standard sorts of laws that out in Einstein and Maxwell which is where we business make
+
+193
+00:15:13,880 --> 00:15:20,120
+out living I had a hard time getting it published that we were finding error correcting codes
+
+194
+00:15:20,120 --> 00:15:24,680
+in this thing called supersymmetry which is an extension we've not seen in the laboratory
+
+195
+00:15:24,680 --> 00:15:31,080
+but it extends mathematically other position that starts with Maxwell and Einstein.
+
+196
+00:15:31,080 --> 00:15:37,000
+And so when I wrestle with this one of the things that occurred to me is that it's not
+
+197
+00:15:37,000 --> 00:15:43,400
+just about the digital part because you can all in my mind you can go all the way back
+
+198
+00:15:43,400 --> 00:15:49,920
+to play those allegory of the cave and ask the questions where do we fit in that story
+
+199
+00:15:49,920 --> 00:15:57,680
+because I'm sure you're all familiar this is a famous parable about these individuals
+
+200
+00:15:57,680 --> 00:16:03,280
+trapped in a cave that can only see shadows on a wall and they perceive those shadows
+
+201
+00:16:03,280 --> 00:16:08,000
+and the shadows come from outside the cave and they perceive those shadows as being reality
+
+202
+00:16:08,000 --> 00:16:13,320
+but when exposed to actual reality they don't know how to interpret and readily what they're
+
+203
+00:16:13,320 --> 00:16:14,320
+encountering.
+
+204
+00:16:14,320 --> 00:16:24,320
+And in some sense to me it's really odd that this several millennium year old idea has
+
+205
+00:16:24,320 --> 00:16:30,080
+been partially realized in where physics has taken us a couple of thousand years later
+
+206
+00:16:30,080 --> 00:16:36,080
+to me this is a very odd development but one of the things I would caution a group like
+
+207
+00:16:36,080 --> 00:16:42,720
+this discussing these ideas is not to forget what Einstein said about Galileo.
+
+208
+00:16:42,720 --> 00:16:49,400
+Einstein called Galileo the father of physics because and this is Einstein's word he drummed
+
+209
+00:16:49,400 --> 00:16:56,960
+it into our heads that the way we know about reality is by measuring and observing reality
+
+210
+00:16:56,960 --> 00:17:05,960
+and that if you have a proposition that leads to no measurable outcome it exceeds the definition
+
+211
+00:17:05,960 --> 00:17:06,960
+of science.
+
+212
+00:17:06,960 --> 00:17:12,680
+Well sort of like this idea that's a metaphysics you're doubly a metaphysics but it's in the
+
+213
+00:17:12,680 --> 00:17:17,880
+interesting that you mention these error correcting codes and I think well if a consequence of
+
+214
+00:17:17,880 --> 00:17:24,080
+your view of the university model of the universe includes error correcting codes that you're
+
+215
+00:17:24,080 --> 00:17:26,800
+citing and say well that's a consequence.
+
+216
+00:17:26,800 --> 00:17:29,000
+So you say more about that?
+
+217
+00:17:29,000 --> 00:17:35,600
+Is there a way to test that or is there other implications of that idea that might be relevant
+
+218
+00:17:35,600 --> 00:17:39,440
+to theoretical physics today?
+
+219
+00:17:39,440 --> 00:17:43,600
+But I have a few minutes to think about that and you can ask about other participants
+
+220
+00:17:43,600 --> 00:17:46,520
+the way I need to think about that for a second.
+
+221
+00:17:46,520 --> 00:17:52,080
+What is reminding us is this space time interval of special relativity that most folks out
+
+222
+00:17:52,080 --> 00:17:56,680
+there have read a lot about relativity may not appreciate if there's this geometry at
+
+223
+00:17:56,680 --> 00:18:02,360
+the space time invariant that's a pretty cool mathematical finding and that does confirm
+
+224
+00:18:02,360 --> 00:18:06,960
+a lot of what happens in special relativity most folks don't realize that that geometry
+
+225
+00:18:06,960 --> 00:18:11,120
+is built into space life.
+
+226
+00:18:11,120 --> 00:18:15,000
+Yeah I was going to say that I think Plato is came as a good example of the sense in
+
+227
+00:18:15,000 --> 00:18:19,200
+which some caution is required in making these kinds of claims because like the observers
+
+228
+00:18:19,200 --> 00:18:25,440
+in Plato's came we are presumably quite limited our ability to observe things and we are observing
+
+229
+00:18:25,440 --> 00:18:29,840
+sort of reflections on a wall rather than whatever is causing them and when we speak
+
+230
+00:18:29,840 --> 00:18:34,440
+out for an distinction between properties of that are sort of properties of the observations
+
+231
+00:18:34,440 --> 00:18:38,520
+in virtue of the way in which we are situated at our limitations versus properties that
+
+232
+00:18:38,520 --> 00:18:42,160
+are properties of the world and my concern is that there were these discussions about
+
+233
+00:18:42,160 --> 00:18:46,280
+it from bit what's going on is that we are mistaking properties of our observations like
+
+234
+00:18:46,280 --> 00:18:51,640
+the existence of certain sort of epistemological limitations or inter-fee balance and so on.
+
+235
+00:18:51,640 --> 00:18:55,480
+We are mistaking those things for properties of reality and we need to sort of keep in
+
+236
+00:18:55,480 --> 00:19:00,920
+mind that the epistemological limitations that apply to our observations are necessarily
+
+237
+00:19:00,920 --> 00:19:07,960
+properties and the observations are ultimately being caused by.
+
+238
+00:19:07,960 --> 00:19:12,040
+An original criticism of quantum mechanics.
+
+239
+00:19:12,040 --> 00:19:14,200
+Yes that is one criticism.
+
+240
+00:19:14,200 --> 00:19:19,320
+Yeah I think it applies outside quantum mechanics as well as not limited to that particular domain.
+
+241
+00:19:19,320 --> 00:19:24,760
+You challenged me a few seconds ago so I am prepared now to respond.
+
+242
+00:19:24,760 --> 00:19:32,080
+So when I was part of a collaboration three mathematicians, three physicists and we came
+
+243
+00:19:32,080 --> 00:19:39,120
+up on this very strange discovery for a few years afterwards I would get the question
+
+244
+00:19:39,120 --> 00:19:45,280
+what does this mean and that's kind of what you just asked me and this has led me personally
+
+245
+00:19:45,280 --> 00:19:52,520
+to ask the strangest question in my career which is if the laws of physics involve error
+
+246
+00:19:52,520 --> 00:19:58,520
+correcting codes and as soon as someone tells me they see a super partner in some laboratory
+
+247
+00:19:58,520 --> 00:20:01,240
+I can make that assertion.
+
+248
+00:20:01,240 --> 00:20:07,440
+If that occurs the question is how in the world did the laws of physics get to error
+
+249
+00:20:07,440 --> 00:20:11,960
+correction and to answer that question the only way I know how to answer that is to look
+
+250
+00:20:11,960 --> 00:20:16,320
+at the nature herself as a model and there is only one part of nature that I know where
+
+251
+00:20:16,320 --> 00:20:22,960
+error correction is discussed is genetics and in genetics the proposition is the error
+
+252
+00:20:22,960 --> 00:20:28,080
+correcting codes are put there by the forces of evolution and so the question translated
+
+253
+00:20:28,080 --> 00:20:33,800
+to what I have seen is what does it mean for evolution to act on the mathematical laws
+
+254
+00:20:33,800 --> 00:20:35,760
+of the universe?
+
+255
+00:20:35,760 --> 00:20:40,160
+I can state the question I have no idea what the answer would be.
+
+256
+00:20:40,160 --> 00:20:42,160
+That's nice.
+
+257
+00:20:42,160 --> 00:20:43,160
+Thank you.
+
+258
+00:20:43,160 --> 00:20:47,320
+I am glad to talk about that.
+
+259
+00:20:47,320 --> 00:20:55,160
+There is an old tradition or there is a tradition maybe it doesn't exist so much anymore thinking
+
+260
+00:20:55,160 --> 00:20:59,840
+that the laws of nature might evolve and I mean we were talking about Wheeler earlier
+
+261
+00:20:59,840 --> 00:21:05,600
+Wheeler thinking that laws can be transcended ultimately there aren't laws but there was
+
+262
+00:21:05,600 --> 00:21:13,880
+an American philosopher named Charles Sanders Purse who believed that the laws of nature
+
+263
+00:21:13,880 --> 00:21:18,000
+could evolve and that laws of nature were habits.
+
+264
+00:21:18,000 --> 00:21:29,160
+I mean there is even like a lovely story of Purse's explanation for gravity was that
+
+265
+00:21:29,160 --> 00:21:36,160
+in primordial universe things were going around some things flew out and some things
+
+266
+00:21:36,160 --> 00:21:41,000
+formed the habit of going around each other and that was the origin of gravity.
+
+267
+00:21:41,000 --> 00:21:44,160
+It was a natural selection effect.
+
+268
+00:21:44,160 --> 00:21:50,440
+So this group of philosophers William James, Charles Sanders Purse, John Dewey they were
+
+269
+00:21:50,440 --> 00:21:54,440
+known as American pragmatists and they were perfectly willing to believe that the laws
+
+270
+00:21:54,440 --> 00:21:57,560
+of nature could evolve.
+
+271
+00:21:57,560 --> 00:22:03,840
+And there is a nice I mean I am just telling you historical things.
+
+272
+00:22:03,840 --> 00:22:11,200
+There is the great mathematical physicist Henri Poincare his brother-in-law in Neil
+
+273
+00:22:11,200 --> 00:22:19,120
+Boutro believed that the laws of nature could evolve and Poincare wrote a nice essay about
+
+274
+00:22:19,120 --> 00:22:21,800
+what could it mean for the laws of nature to evolve.
+
+275
+00:22:21,800 --> 00:22:26,840
+How would you have some kind of empirical evidence that the laws are evolving and he
+
+276
+00:22:26,840 --> 00:22:34,760
+said presently if you see that your theory gives rise to a singularity that this must
+
+277
+00:22:34,760 --> 00:22:39,800
+be a statement that the theory itself is telling you I can't go forever.
+
+278
+00:22:39,800 --> 00:22:45,800
+So I thought that was very nice.
+
+279
+00:22:45,800 --> 00:22:51,960
+You could ask yourself about the metaverse and say and some people do they hear about
+
+280
+00:22:51,960 --> 00:22:54,960
+it they say that's a crazy idea.
+
+281
+00:22:54,960 --> 00:23:01,640
+And then you as a prominent philosopher have written a whole book about it which means
+
+282
+00:23:01,640 --> 00:23:04,560
+to some degree you take it seriously.
+
+283
+00:23:04,560 --> 00:23:08,440
+So why isn't it a ridiculous idea?
+
+284
+00:23:08,440 --> 00:23:13,120
+Why is it something to actually think about it?
+
+285
+00:23:13,120 --> 00:23:15,520
+The metaverse is not a ridiculous idea.
+
+286
+00:23:15,520 --> 00:23:20,480
+The metaverse is actually something that people are trying to create right now in the tech
+
+287
+00:23:20,480 --> 00:23:22,920
+corporations and elsewhere we have.
+
+288
+00:23:22,920 --> 00:23:25,440
+But then there's a hypothesis.
+
+289
+00:23:25,440 --> 00:23:31,320
+I distinguish the metaverse which is about the virtual worlds that we create from say
+
+290
+00:23:31,320 --> 00:23:41,120
+the simulation hypothesis the hypothesis that we're living inside a metaverse or a simulation.
+
+291
+00:23:41,120 --> 00:23:46,800
+And that's of course an odd idea in science fiction you get it in the matrix.
+
+292
+00:23:46,800 --> 00:23:48,440
+You also find versions of it.
+
+293
+00:23:48,440 --> 00:23:54,280
+The video's cave is not too far from a version of it, René Descartes talking about the hypothesis
+
+294
+00:23:54,280 --> 00:23:59,320
+that maybe all this could be a dream, all this could be produced by sensations produced
+
+295
+00:23:59,320 --> 00:24:00,320
+by an evil demon.
+
+296
+00:24:00,320 --> 00:24:06,040
+Yeah the idea that all this is a computer simulation is a successor to that idea.
+
+297
+00:24:06,040 --> 00:24:07,040
+Why take it seriously?
+
+298
+00:24:07,040 --> 00:24:14,360
+Well one reason to take it seriously is just the idea that there may be many metaverses,
+
+299
+00:24:14,360 --> 00:24:22,640
+many simulations created in the history of the universe, maybe actually many more virtual
+
+300
+00:24:22,640 --> 00:24:26,240
+universes than non-virtual universes.
+
+301
+00:24:26,240 --> 00:24:32,080
+Maybe even many more non-virtual people, many more virtual people than non-virtual people.
+
+302
+00:24:32,080 --> 00:24:37,960
+I'm assuming because I'm assuming those virtual people are actually conscious and having conscious
+
+303
+00:24:37,960 --> 00:24:47,200
+experiences like ours then you say statistically what are the odds that I'm one of the lucky
+
+304
+00:24:47,200 --> 00:24:49,840
+ones at ground zero, unsibulated.
+
+305
+00:24:49,840 --> 00:24:56,120
+I think Postam is actually given the statistical argument that we should take this hypothesis
+
+306
+00:24:56,120 --> 00:25:01,000
+very seriously and the fact that we're now actually creating these universes, I mean we
+
+307
+00:25:01,000 --> 00:25:06,000
+don't yet have simulated universes anything like depth and detail of the physical world
+
+308
+00:25:06,000 --> 00:25:11,400
+but no one would be surprised if in say a century we were getting pretty close to that.
+
+309
+00:25:11,400 --> 00:25:14,920
+The fact that technology is going there gives us all maybe all the more reason for us to
+
+310
+00:25:14,920 --> 00:25:17,360
+take this seriously as a realistic possibility.
+
+311
+00:25:17,360 --> 00:25:21,640
+So I don't advocate the idea, I don't come out and say yes we are definitely in a simulation
+
+312
+00:25:21,640 --> 00:25:27,920
+but I take it to grand metaphysical speculation about our universe that we should take seriously.
+
+313
+00:25:27,920 --> 00:25:32,040
+It's an interestingly, you know it's continuous with the infra-bit idea that there's a level
+
+314
+00:25:32,040 --> 00:25:37,640
+of digitality underneath our reality but of course it goes way beyond it.
+
+315
+00:25:37,640 --> 00:25:43,600
+Sometimes I talk about the it from bit from it idea, the other bits underneath the it's
+
+316
+00:25:43,600 --> 00:25:47,720
+the apples and particles are made of a level of bits but underneath that level of bits
+
+317
+00:25:47,720 --> 00:25:53,440
+there may be so much more such as for example the world in which the simulation takes place.
+
+318
+00:25:53,440 --> 00:26:01,880
+So I think about the simulation hypothesis as a version of the it from bit from it idea.
+
+319
+00:26:01,880 --> 00:26:07,320
+Earlier I spoke about the simulation hypothesis, the hypothesis is exceeding the bounds of
+
+320
+00:26:07,320 --> 00:26:14,120
+physics at least as I understand it and when I speak to the public in general because I've
+
+321
+00:26:14,120 --> 00:26:20,680
+been many times asked about this I just point out to people that if you take the simulation
+
+322
+00:26:20,680 --> 00:26:29,200
+hypothesis seriously then ghosts are possible because if we're programs running on some
+
+323
+00:26:29,200 --> 00:26:35,560
+underlying structure when that program is terminated as long as the underlying structure
+
+324
+00:26:35,560 --> 00:26:42,960
+is not damaged you can be initiate that program that's a ghost and in my universe I don't
+
+325
+00:26:42,960 --> 00:26:44,960
+understand how ghosts can exist.
+
+326
+00:26:44,960 --> 00:26:46,960
+Are you guys making backups?
+
+327
+00:26:46,960 --> 00:26:53,000
+Yeah I have been saying about the simulation hypothesis for the similar reason.
+
+328
+00:26:53,000 --> 00:26:57,120
+At least when there are scientific contexts I think there are certain kinds of hypotheses
+
+329
+00:26:57,120 --> 00:27:01,000
+that we just have to pre-mufface you rule out because they prevent us from using empirical
+
+330
+00:27:01,000 --> 00:27:06,280
+evidence in the usual sorts of ways to confirm scientific theories and I think that things
+
+331
+00:27:06,280 --> 00:27:11,760
+like the simulated hypothesis this as well as related things like the ever-entert rotation
+
+332
+00:27:11,760 --> 00:27:16,000
+various things which significantly interfere with the relationship we pursue ourselves
+
+333
+00:27:16,000 --> 00:27:19,800
+to have with our evidence for our theories just need to be ruled out at the beginning
+
+334
+00:27:19,800 --> 00:27:24,840
+if we want to do any science which just you know those things could be true but we have
+
+335
+00:27:24,840 --> 00:27:27,480
+to pursue their long trip we're going to do simple science.
+
+336
+00:27:27,480 --> 00:27:30,040
+I just want to say some of us here are not scientists for philosophy.
+
+337
+00:27:30,040 --> 00:27:31,040
+Yeah.
+
+338
+00:27:31,040 --> 00:27:33,040
+It would be fine philosophical hypothesis.
+
+339
+00:27:33,040 --> 00:27:34,040
+Yes.
+
+340
+00:27:34,040 --> 00:27:35,040
+I'm happy with that.
+
+341
+00:27:35,040 --> 00:27:40,520
+The law of the hypothesis but certainly within the point of view is trying to decide
+
+342
+00:27:40,520 --> 00:27:42,520
+to think things on the hypothesis.
+
+343
+00:27:42,520 --> 00:27:47,400
+I think it's funny because I think even in Descartes case you know people might argue
+
+344
+00:27:47,400 --> 00:27:53,920
+that whereas he made a way out of this conundrum could it be that the entire our experiences
+
+345
+00:27:53,920 --> 00:27:55,840
+and generated by a demon etc.
+
+346
+00:27:55,840 --> 00:28:00,960
+You know he made his way out by I think therefore I am and then the gods perfect and that's
+
+347
+00:28:00,960 --> 00:28:03,160
+how I got out of that trap.
+
+348
+00:28:03,160 --> 00:28:08,160
+But you could argue and I accept this that the implausibility of that first.
+
+349
+00:28:08,160 --> 00:28:10,160
+Anyway that's the way I think it.
+
+350
+00:28:10,160 --> 00:28:14,960
+The dad really did a lot of the heavy lifting in moving away from that.
+
+351
+00:28:14,960 --> 00:28:19,200
+Some people think there could be evidence for versions of the simulation hypothesis maybe
+
+352
+00:28:19,200 --> 00:28:24,720
+not for the perfect indistinguishable simulation but maybe say it's an imperfect simulation
+
+353
+00:28:24,720 --> 00:28:25,720
+with glitches.
+
+354
+00:28:25,720 --> 00:28:30,160
+Jim's colleague Zorri Devoudi and others had a paper talking about what would it look
+
+355
+00:28:30,160 --> 00:28:35,000
+like if we were in an approximate simulation that kind of cut some corners on the equation
+
+356
+00:28:35,000 --> 00:28:41,000
+and some potential evidence there or if there are glitches like in the black hat that crosses
+
+357
+00:28:41,000 --> 00:28:42,000
+your path.
+
+358
+00:28:42,000 --> 00:28:46,480
+There's evidence potential evidence for the imperfect simulation hypothesis so that makes
+
+359
+00:28:46,480 --> 00:28:50,880
+it at least maybe continuous with size but once it becomes the perfect simulation that
+
+360
+00:28:50,880 --> 00:28:55,960
+Descartes was talking about when indistinguishable from physical reality I guess at that point
+
+361
+00:28:55,960 --> 00:28:58,880
+it becomes philosophy because there's no experiment you can do.
+
+362
+00:28:58,880 --> 00:29:03,040
+Well yeah from a scientific point of view it's the problem not so much that there never
+
+363
+00:29:03,040 --> 00:29:07,200
+could possibly be any evidence but more that there aren't really sort of meaningful steps
+
+364
+00:29:07,200 --> 00:29:10,640
+that we can take to go out and see evidence.
+
+365
+00:29:10,640 --> 00:29:16,000
+We have to just wait for some glitches to show up or put you know people outside the matrix
+
+366
+00:29:16,000 --> 00:29:20,160
+to decide to take us out and tell us the tricks you know that those would certainly count
+
+367
+00:29:20,160 --> 00:29:23,480
+as evidence for that hypothesis were they to occur but it's not much we can do to bring
+
+368
+00:29:23,480 --> 00:29:26,000
+about those things happening as play to things like this.
+
+369
+00:29:26,000 --> 00:29:30,320
+We can run our computers really hard and really fight us to try and strain them to the max
+
+370
+00:29:30,320 --> 00:29:33,560
+to if we burn out those computers and the silly little pieces.
+
+371
+00:29:33,560 --> 00:29:35,160
+Cool the whole thing to a halt.
+
+372
+00:29:35,160 --> 00:29:39,160
+People have suggested serious research programs like that but I don't know how serious.
+
+373
+00:29:39,160 --> 00:29:44,520
+I think I have to point that these kinds of hypotheses also have the consequence that
+
+374
+00:29:44,520 --> 00:29:48,880
+they're looking back at empirical evidence to do things like try to confirm a theory like
+
+375
+00:29:48,880 --> 00:29:53,880
+quantum mechanics is kind of pointless because the simulation people can make our empirical
+
+376
+00:29:53,880 --> 00:29:58,000
+evidence do whatever they like and so there's no mismocation reading anything at all into
+
+377
+00:29:58,000 --> 00:30:03,080
+one's empirical evidence if one believes that this is a viable possibility so at least
+
+378
+00:30:03,080 --> 00:30:08,240
+within that kind of domain those possibilities need to be set aside I think.
+
+379
+00:30:08,240 --> 00:30:16,200
+My colleague Dr. Traumriss points out something that many times try to convey to people that
+
+380
+00:30:16,200 --> 00:30:23,640
+if you believe in the perfect simulation then the programmers in that simulation fit exactly
+
+381
+00:30:23,640 --> 00:30:28,240
+the traditional definition of God's.
+
+382
+00:30:28,240 --> 00:30:34,080
+And so one gets outside of the realm of science very quickly if you believe in that perfect
+
+383
+00:30:34,080 --> 00:30:39,080
+simulation.
+
+384
+00:30:39,080 --> 00:30:46,080
+As a great illustration in my book reality class of God creating the universe.
+
+385
+00:30:46,080 --> 00:30:52,080
+She's a teenage girl and the next universe up looking at her computer and all the galaxies
+
+386
+00:30:52,080 --> 00:30:56,080
+and nebulas come from there so it may not be a traditional girl.
+
+387
+00:30:56,080 --> 00:31:01,080
+Could be creative, could be all powerful, could be all knowing about our universe.
+
+388
+00:31:01,080 --> 00:31:07,080
+A reasonable point back about the ghost idea that you cite Jim is that whatever simulation
+
+389
+00:31:07,080 --> 00:31:11,080
+assuming we live in a simulation process.
+
+390
+00:31:11,080 --> 00:31:14,080
+Whenever one we live in there's going to be some rules and regulations about the way
+
+391
+00:31:14,080 --> 00:31:18,080
+whether they're going to be standard ways we're accustomed to the world.
+
+392
+00:31:18,080 --> 00:31:25,080
+And so no we don't have ghosts in our world and while whereas it would be possible we're
+
+393
+00:31:25,080 --> 00:31:30,080
+at a computer program that ghosts in the world that these computer programmers that's called
+
+394
+00:31:30,080 --> 00:31:33,080
+the best of all possible worlds of political life that's right.
+
+395
+00:31:33,080 --> 00:31:36,080
+So they figured out that we're not going to have repeats in this world.
+
+396
+00:31:36,080 --> 00:31:40,080
+So we don't, that's one of the reasons we're not accustomed to.
+
+397
+00:31:40,080 --> 00:31:42,080
+We don't rapids that speak either.
+
+398
+00:31:42,080 --> 00:31:47,080
+Yes but one of the things I, you know, all of us thought about quantum mechanics and yes
+
+399
+00:31:47,080 --> 00:31:50,080
+this is sarcastic and there's probability that you have you.
+
+400
+00:31:50,080 --> 00:31:57,080
+But I have a hard time thinking about science where arbitraryness is totally arbitrary.
+
+401
+00:31:57,080 --> 00:32:02,080
+And again the perfect simulation hypothesis that teenage girl might one day wake up
+
+402
+00:32:02,080 --> 00:32:09,080
+in this side to change her mind and allow in a thousand years for me to show up again.
+
+403
+00:32:09,080 --> 00:32:14,080
+Now that might have some attraction to be personally but I don't think that's how
+
+404
+00:32:14,080 --> 00:32:17,080
+I see no evidence laid for this way.
+
+405
+00:32:17,080 --> 00:32:21,080
+In my life that science is like that, that our universe works like that.
+
+406
+00:32:21,080 --> 00:32:29,080
+But I wonder if there's any pragmatic value in holding this I think silly belief because
+
+407
+00:32:29,080 --> 00:32:32,080
+it's not something you can invalidate.
+
+408
+00:32:32,080 --> 00:32:38,080
+But it might be that it gives some comfort to the believers.
+
+409
+00:32:38,080 --> 00:32:41,080
+You know just as one finds comfort in religion.
+
+410
+00:32:41,080 --> 00:32:48,080
+Do you find comfort in the idea that you're some young ladies toy?
+
+411
+00:32:48,080 --> 00:32:57,080
+Maybe there's an afterlife here.
+
+412
+00:32:57,080 --> 00:33:00,080
+I think most people find this horrifying the idea.
+
+413
+00:33:00,080 --> 00:33:03,080
+At least initially they think oh my god we're under matrix.
+
+414
+00:33:03,080 --> 00:33:07,080
+The simulation. None of it's real. My life is an illusion.
+
+415
+00:33:07,080 --> 00:33:09,080
+I don't think that's the wrong reaction.
+
+416
+00:33:09,080 --> 00:33:14,080
+But yeah I mean it could turn out that we're in a simulation and if so life goes on.
+
+417
+00:33:14,080 --> 00:33:18,080
+I'm still real. I'm still having this conversation with you.
+
+418
+00:33:18,080 --> 00:33:22,080
+I've still got relationships. I still have community.
+
+419
+00:33:22,080 --> 00:33:25,080
+Those are the things that bring meaning to your life.
+
+420
+00:33:25,080 --> 00:33:29,080
+I don't find the hypothesis as horrifying as some people find it.
+
+421
+00:33:29,080 --> 00:33:32,080
+I wouldn't say I find it especially comforting.
+
+422
+00:33:32,080 --> 00:33:36,080
+It doesn't mean that we're all somehow at the mercy of this simulator as we are with a god.
+
+423
+00:33:36,080 --> 00:33:39,080
+I've got to hope that this simulator is benign.
+
+424
+00:33:39,080 --> 00:33:43,080
+Surely if you were some presented with good evidence that's what true.
+
+425
+00:33:43,080 --> 00:33:47,080
+This would affect the decision making processes in some ways.
+
+426
+00:33:47,080 --> 00:33:51,080
+For me it would significantly reduce my faith that the laws of nature are going to continue working
+
+427
+00:33:51,080 --> 00:33:55,080
+and the way I expect. I would probably stop predicting things in quite the way I usually do
+
+428
+00:33:55,080 --> 00:33:58,080
+because the simulator could change their mind at any time.
+
+429
+00:33:58,080 --> 00:34:05,080
+Whereas if I don't believe in a simulation I tend to assume the laws of nature are going to continue to hold them roughly the same way.
+
+430
+00:34:05,080 --> 00:34:07,080
+We could consider the system wondering.
+
+431
+00:34:07,080 --> 00:34:10,080
+From the point of it was doing philosophy I'd say.
+
+432
+00:34:10,080 --> 00:34:15,080
+We could consider it a very pregnant form of a law of thought experiment.
+
+433
+00:34:15,080 --> 00:34:20,080
+We just talked about some other philosophers play the whole thing hard.
+
+434
+00:34:20,080 --> 00:34:23,080
+It's a way to stimulate our thinking about what we think is the ultimate.
+
+435
+00:34:23,080 --> 00:34:26,080
+What does existence like ultimately?
+
+436
+00:34:26,080 --> 00:34:34,080
+To me that is in fact the value of a scientist discussing the nature of reality with philosophers.
+
+437
+00:34:34,080 --> 00:34:41,080
+In particular physics used to be natural philosophy before Newton came along and turned it into physics.
+
+438
+00:34:41,080 --> 00:34:47,080
+Physics in particular bears a very close relationship with philosophy.
+
+439
+00:34:47,080 --> 00:34:52,080
+I think of the simulation idea although I find it unacceptable in the framework of
+
+440
+00:34:52,080 --> 00:34:55,080
+as I understand the way our universe works and physics works.
+
+441
+00:34:55,080 --> 00:35:00,080
+I find it as a tempting driver to make me think more deeply about that.
+
+442
+00:35:00,080 --> 00:35:04,080
+I think that's the value as a sort of a hard-course scientist.
+
+443
+00:35:04,080 --> 00:35:07,080
+That's the value that I see in this discussion.
+
+444
+00:35:07,080 --> 00:35:12,080
+It forces me to think more deeply and to try to find the errors in my thinking.
+
+445
+00:35:12,080 --> 00:35:18,080
+I think there's possibly an intermediate hypothesis which I find a bit more scientific.
+
+446
+00:35:18,080 --> 00:35:29,080
+Rather than supposing that there's a higher consciousness creating a simulation it's the idea that maybe the underlying reality is kind of very different from the way we experience it.
+
+447
+00:35:29,080 --> 00:35:35,080
+Our reality is in some sense that simulation running on some very different kind of hardware.
+
+448
+00:35:35,080 --> 00:35:41,080
+There have been various suggestions that maybe the world has less dimensions than it does and that kind of thing.
+
+449
+00:35:41,080 --> 00:35:47,080
+In a sense in that kind of picture there is something about our experience which is sort of simulated or illusory.
+
+450
+00:35:47,080 --> 00:35:52,080
+I think that kind of possibility seems a bit more within the realm of science.
+
+451
+00:35:52,080 --> 00:35:55,080
+Maybe the simulation speculation.
+
+452
+00:35:55,080 --> 00:36:00,080
+I mean there are ways, I totally agree, there are ways that elements of this could be true without a full-scale simulation.
+
+453
+00:36:00,080 --> 00:36:03,080
+We could dial it all the way back to the it from bit idea.
+
+454
+00:36:03,080 --> 00:36:08,080
+Okay well maybe there's just a level of bits here generating our reality.
+
+455
+00:36:08,080 --> 00:36:12,080
+Maybe there's something underneath the bits where we don't know.
+
+456
+00:36:12,080 --> 00:36:16,080
+Well that is maybe it's not a simulation but maybe it's something else that's unknowable.
+
+457
+00:36:16,080 --> 00:36:19,080
+Some people speculate that that might be consciousness.
+
+458
+00:36:19,080 --> 00:36:23,080
+Maybe the universe could be made of consciousness underneath the bits.
+
+459
+00:36:23,080 --> 00:36:27,080
+I call that bit from bit from consciousness.
+
+460
+00:36:27,080 --> 00:36:33,080
+If you look at that further, the idea that for example space could be emergent from something more fundamental than space.
+
+461
+00:36:33,080 --> 00:36:39,080
+Underneath the space this is an idea that's increasingly taken seriously in physical theories.
+
+462
+00:36:39,080 --> 00:36:48,080
+I think it kind of squares in quite interesting ways with the bit from bit idea or the simulation idea that the space we actually experience is somehow emergent.
+
+463
+00:36:48,080 --> 00:36:58,080
+I think about all these ground, they started as a national metaphysical ground, metaphysical hypotheses, but some of them could end up turning into science.
+
+464
+00:36:58,080 --> 00:37:11,080
+We cycle around this, this comes up a lot and it's come up in our other talks this weekend where something like the term information which has seemed to be two phases.
+
+465
+00:37:11,080 --> 00:37:18,080
+One is what there is and is what we know about what there is.
+
+466
+00:37:18,080 --> 00:37:21,080
+That's a constant challenge for us.
+
+467
+00:37:21,080 --> 00:37:28,080
+I mentioned the original struggles and still for many people ongoing struggles with how to interpret quantum mechanics.
+
+468
+00:37:28,080 --> 00:37:44,080
+The interest in information also I am standing on is that it also arose after Stephen Hawking made the suggestion about how entropy might be related to black hole formation and it's possible.
+
+469
+00:37:44,080 --> 00:37:49,080
+The evaporation of black holes and that fits into this holographic theory I think.
+
+470
+00:37:49,080 --> 00:37:51,080
+Also, am I right? I'm pretty sure.
+
+471
+00:37:51,080 --> 00:37:52,080
+That's connected.
+
+472
+00:37:52,080 --> 00:38:02,080
+I'm wondering about that, going back to what are the bits and why do these keep coming up and what to say about consciousness and what to say about the universe?
+
+473
+00:38:02,080 --> 00:38:11,080
+I have been thinking about entropy bounds a lot recently in my recent research and the question I keep coming back to is precisely this question.
+
+474
+00:38:11,080 --> 00:38:18,080
+Are these entropy bounds a feature of reality itself or are there a feature of our ability to get information about reality?
+
+475
+00:38:18,080 --> 00:38:30,080
+What the entropy bounds are supposed to say essentially is that within some region of space-time, roughly speaking, the information contained in that region is proportional to the surface area around the volume.
+
+476
+00:38:30,080 --> 00:38:36,080
+A lot of people want to interpret that as an ontological statement about what's out there in the world.
+
+477
+00:38:36,080 --> 00:38:46,080
+But if you think space-time is discretized, there's a sense in which it's a natural kind of epistemic constraint that we should only be able to get information out of a region in proportion to its surface area.
+
+478
+00:38:46,080 --> 00:38:54,080
+So, arguably, that looks a bit like the kind of thing that's an epistemic restriction on our ability to learn things about the world rather than what's really there.
+
+479
+00:38:54,080 --> 00:39:06,080
+So, it's an interesting question, I think, how we should distinguish between what features of our observations reflect what is really there and which features just reflect our limited perspective on us.
+
+480
+00:39:06,080 --> 00:39:14,080
+Can I take this as an avenue to talk about not just about information, but about mathematics in general.
+
+481
+00:39:14,080 --> 00:39:19,080
+It's often, when often comes across the state with that mathematics, it's that language of the universe.
+
+482
+00:39:19,080 --> 00:39:29,080
+And that's something that I can't quite accept. And I've said in other venues that it's the only human language that allows us to comprehend the universe at a very intimate level.
+
+483
+00:39:29,080 --> 00:39:33,080
+And it has several hundred years of proving that.
+
+484
+00:39:33,080 --> 00:39:38,080
+But that doesn't mean that nature herself uses that language.
+
+485
+00:39:38,080 --> 00:39:46,080
+So, this emphasis on the distinction between what there is and our perception of what there is.
+
+486
+00:39:46,080 --> 00:39:49,080
+This is a very important thing to keep in mind, I believe.
+
+487
+00:39:49,080 --> 00:39:55,080
+I think this is crucial when it comes to information, because this word gets used in so many different ways.
+
+488
+00:39:55,080 --> 00:40:01,080
+I mean, there's information in the sense of something we know, some facts that we have.
+
+489
+00:40:01,080 --> 00:40:05,080
+And then I call this semantic information, I'm going to see a bit of a lot of different information.
+
+490
+00:40:05,080 --> 00:40:09,080
+I know where the helix center is, it's on 82nd Street.
+
+491
+00:40:09,080 --> 00:40:14,080
+Okay, that's information. That's something a person has or knows.
+
+492
+00:40:14,080 --> 00:40:18,080
+Then this information has bits, which is zeros or ones, and so on.
+
+493
+00:40:18,080 --> 00:40:21,080
+These mathematical entities, these things that might be out there in the universe.
+
+494
+00:40:21,080 --> 00:40:24,080
+That's not necessarily tied to anything anyone knows.
+
+495
+00:40:24,080 --> 00:40:26,080
+It's just tied to what's out there.
+
+496
+00:40:26,080 --> 00:40:32,080
+In my book, I call this structural information to distinguish from semantic information.
+
+497
+00:40:32,080 --> 00:40:38,080
+I guess confusing, causing contemporary databases, computer science, the web, these two things go together.
+
+498
+00:40:38,080 --> 00:40:43,080
+People use zeros and ones, the bits to code, facts, things we know.
+
+499
+00:40:43,080 --> 00:40:45,080
+I think we've just really got to separate these things.
+
+500
+00:40:45,080 --> 00:40:50,080
+It's a shame. We've got the same words, these two, incredibly important, but totally different concepts.
+
+501
+00:40:50,080 --> 00:40:55,080
+There's bits, there's facts, and these are really thoroughly different from each other.
+
+502
+00:40:55,080 --> 00:41:01,080
+Yeah, also sometimes when people say information, what they mean is number of degrees of freedom or something like that,
+
+503
+00:41:01,080 --> 00:41:06,080
+which again is not the same as bits or structure or semantic information necessarily.
+
+504
+00:41:06,080 --> 00:41:08,080
+So it would be nice to distinguish those things better.
+
+505
+00:41:08,080 --> 00:41:11,080
+I can't, as a kind of structural information.
+
+506
+00:41:11,080 --> 00:41:16,080
+It just seems the name just be two. You know, you can put the bits two ways, there's three ways, there's tricks.
+
+507
+00:41:16,080 --> 00:41:19,080
+Maybe there's even continuous information for degrees of freedom.
+
+508
+00:41:19,080 --> 00:41:27,080
+When degree of freedom, you could have many bits, but they could be required to be correlated in certain ways.
+
+509
+00:41:27,080 --> 00:41:32,080
+The number of effective degrees of freedom could be much smaller than the number of bits in your system.
+
+510
+00:41:32,080 --> 00:41:39,080
+I want to go back to this Jim's notion about the self-correcting codes and whether or not it's a reflection.
+
+511
+00:41:39,080 --> 00:41:46,080
+And of course, you didn't mean to suggest it is survival of fittest, strictly speaking.
+
+512
+00:41:46,080 --> 00:41:51,080
+In other words, not biological evolution, which would be evolution, would be some other sort of evolution.
+
+513
+00:41:51,080 --> 00:41:59,080
+Of course, there have been a lot of mathematical models applied to how there are self-correcting features of the biological systems.
+
+514
+00:41:59,080 --> 00:42:06,080
+And they usually do once again, go back to theories about entropy and dissipation of energy use, etc.
+
+515
+00:42:06,080 --> 00:42:18,080
+And, you know, I'm wondering whether that's a way to get a handle on, in some way, like, well, what would it imply if the universe goes through?
+
+516
+00:42:18,080 --> 00:42:27,080
+I'm imagining the self-correcting change would be something moving away from what you think, and the way the entropy normally would be functioning.
+
+517
+00:42:27,080 --> 00:42:28,080
+Right?
+
+518
+00:42:28,080 --> 00:42:36,080
+So, my comment was within the very tight bounds of looking at this thing called supersymmetry.
+
+519
+00:42:36,080 --> 00:42:41,080
+The mathematical supersymmetry, that's what I've said my entire adult like looking at.
+
+520
+00:42:41,080 --> 00:42:54,080
+And in those confines, this idea about error correction, there's only one, I have an intuitive way which I would never submit as a scientific paper.
+
+521
+00:42:54,080 --> 00:43:02,080
+And that is that it's my intuitive feel that if there were something like this kind of evolution that we're talking,
+
+522
+00:43:02,080 --> 00:43:07,080
+that would drive the presence of these error-correcting codes into the mathematical laws,
+
+523
+00:43:07,080 --> 00:43:13,080
+that it has something to do with exactly this point about the university evolving.
+
+524
+00:43:13,080 --> 00:43:23,080
+Because the genetics, right, and genetics, the argument is that error-correcting codes are there because if you have two genomes, one with error-correcting codes and one without,
+
+525
+00:43:23,080 --> 00:43:28,080
+the genome with the error-correcting code is more efficient at producing progeny,
+
+526
+00:43:28,080 --> 00:43:31,080
+because the one without produces progeny that don't survive.
+
+527
+00:43:31,080 --> 00:43:36,080
+And so, something like that, you know, if you try to map that over to this picture,
+
+528
+00:43:36,080 --> 00:43:41,080
+then you get the idea that, you know, that this kind of evolution that you wrote up,
+
+529
+00:43:41,080 --> 00:43:46,080
+a quantity talking about the universe of love, that it's maybe literally possible,
+
+530
+00:43:46,080 --> 00:43:55,080
+and that that would be perhaps why we could see this remnant of a set of error-correcting codes showing up in the laws of physics.
+
+531
+00:43:55,080 --> 00:44:08,080
+I found that very attractive picture. Going back to Charles Perce, the universe kind of gets into a habit.
+
+532
+00:44:08,080 --> 00:44:14,080
+It got into a habit of expanding. It got into a habit of having gravitational forces,
+
+533
+00:44:14,080 --> 00:44:23,080
+because perhaps the genome has made this a good fit for things.
+
+534
+00:44:23,080 --> 00:44:29,080
+At least for some amount of time. But of course, there's always random variations.
+
+535
+00:44:29,080 --> 00:44:35,080
+Let's say there is higgly, higgly, deeply in the universe. Things do change.
+
+536
+00:44:35,080 --> 00:44:43,080
+And when things change, the laws that are the most adapted to it, you know, hang around,
+
+537
+00:44:43,080 --> 00:44:48,080
+and the ones that aren't so well adapted to it disappear. That's kind of cute.
+
+538
+00:44:48,080 --> 00:44:54,080
+Going back to this other thing that Jim said about mathematics is the only language.
+
+539
+00:44:54,080 --> 00:45:01,080
+It just reminded me of a philosopher I can never remember the name of,
+
+540
+00:45:01,080 --> 00:45:07,080
+but I read about that philosopher in some essay by Richard Warti. I can't remember.
+
+541
+00:45:07,080 --> 00:45:14,080
+Richard Warti's name. And Warti attributed to this philosopher phrase, or the slogan,
+
+542
+00:45:14,080 --> 00:45:23,080
+that the world is not sentence shaped. So, you know, you can write all you want about the world.
+
+543
+00:45:23,080 --> 00:45:27,080
+The world itself goes beyond anything that you can write about it.
+
+544
+00:45:27,080 --> 00:45:33,080
+I think it's Derrida. I think it was Derrida. It sounds like something you'd say too, right?
+
+545
+00:45:33,080 --> 00:45:37,080
+I've been accused of being a doctor, I've lost it.
+
+546
+00:45:37,080 --> 00:45:40,080
+By people like him.
+
+547
+00:45:40,080 --> 00:45:45,080
+I was trying to share, well, I think he tried to, you know, whatever,
+
+548
+00:45:45,080 --> 00:45:50,080
+write some sort of background or substance, his way of looking at Derrida's work.
+
+549
+00:45:50,080 --> 00:45:54,080
+It was Victor Shine who said in the tractage, the world is everything that is the case.
+
+550
+00:45:54,080 --> 00:45:59,080
+This was like the world is a world of facts, and too many people that suggested a linguistic picture.
+
+551
+00:45:59,080 --> 00:46:03,080
+But then it changed a lot. He did it, totally changed a lot.
+
+552
+00:46:03,080 --> 00:46:07,080
+It's not a popular view anymore, I think, that the world is sentence shaped.
+
+553
+00:46:07,080 --> 00:46:14,080
+I was recently listening to a lecture by Nikal Gromov who was talking about evolution.
+
+554
+00:46:14,080 --> 00:46:20,080
+And one of the million things he seems to have his fingers on is really incredible.
+
+555
+00:46:20,080 --> 00:46:23,080
+And he said, you know, evolution is actually very stupid.
+
+556
+00:46:23,080 --> 00:46:26,080
+You know, he just survived, died, whatever.
+
+557
+00:46:26,080 --> 00:46:33,080
+But a lot of the models we use in creating computer models are, we often think they're brilliant.
+
+558
+00:46:33,080 --> 00:46:38,080
+They do incredible brilliant things. And in some instances they solve problems that we use
+
+559
+00:46:38,080 --> 00:46:43,080
+biological entities can't solve. It's much faster, for example, it's there.
+
+560
+00:46:43,080 --> 00:46:52,080
+So one challenge to the idea that we're in a simulation is that things move along very slowly.
+
+561
+00:46:52,080 --> 00:46:58,080
+They don't change suddenly with sharp ankles or, you know, and again, maybe that's because that's what we're used to.
+
+562
+00:46:58,080 --> 00:47:03,080
+They change as fast or as slowly as we're accustomed to, and that's normal for us.
+
+563
+00:47:03,080 --> 00:47:08,080
+But, you know, all of us are distorted. If the laws of causality suddenly changed,
+
+564
+00:47:08,080 --> 00:47:16,080
+or there was some other kind of, you know, whatever, those sorts of changes would be possible for a simulation.
+
+565
+00:47:16,080 --> 00:47:18,080
+I guess that's what I'm saying.
+
+566
+00:47:18,080 --> 00:47:19,080
+Is that?
+
+567
+00:47:19,080 --> 00:47:23,080
+I think the simulation might be setting up the simulation, like, why don't simulations,
+
+568
+00:47:23,080 --> 00:47:26,080
+one in the time, overnight, test out the different levels.
+
+569
+00:47:26,080 --> 00:47:33,080
+And then I hold back to, like, a million different simulations just vary the parameters in the laws of physics and so on.
+
+570
+00:47:33,080 --> 00:47:37,080
+Let them, each of them run out. They have to come back in the morning, check out the stats.
+
+571
+00:47:37,080 --> 00:47:41,080
+And then, and then I'll update, that's how the laws of physics evolve, by the way.
+
+572
+00:47:41,080 --> 00:47:46,080
+It's like, okay, well, these ones produce interesting results, so let's focus in on those.
+
+573
+00:47:46,080 --> 00:47:52,080
+But, yeah, no reason why they need to be paying so much attention to every individual simulation that, like, the laws are going to change.
+
+574
+00:47:52,080 --> 00:47:59,080
+But I mean, what grounds do we have for drawing any inferences about what methodology the simulators, if they exist, are adopting?
+
+575
+00:47:59,080 --> 00:48:04,080
+You know, we don't seem to have any sort of starting point to imagine what their purpose might be or what they're trying to achieve.
+
+576
+00:48:04,080 --> 00:48:09,080
+So I don't necessarily see that we have good grounds in that scenario to suppose that they won't suddenly interfere,
+
+577
+00:48:09,080 --> 00:48:15,080
+because we just have no possible understanding of what on earth they might be able to or what they're trying to do.
+
+578
+00:48:15,080 --> 00:48:20,080
+It's true. God moves in mysterious ways, so does the simulators.
+
+579
+00:48:20,080 --> 00:48:22,080
+I'd probably have to know the character.
+
+580
+00:48:22,080 --> 00:48:26,080
+So maybe you can assume that kind of like us, and then you'll get one from the other.
+
+581
+00:48:26,080 --> 00:48:33,080
+I mean, I just don't see how we have any way to narrow down the space of possibilities, if we allow that kind of possibility to start with.
+
+582
+00:48:33,080 --> 00:48:36,080
+That's not a symbol like us.
+
+583
+00:48:36,080 --> 00:48:38,080
+That's not a symbol like us.
+
+584
+00:48:38,080 --> 00:48:43,080
+Right, well, we couldn't do that either. We couldn't assume that they're any, and assume they're anything like us, or if they are.
+
+585
+00:48:43,080 --> 00:48:47,080
+Just kind of the crane from 26th time, and they'll opt for the secret.
+
+586
+00:48:47,080 --> 00:48:49,080
+Right, exactly.
+
+587
+00:48:49,080 --> 00:48:56,080
+Chris, as I asked earlier, whether is it possible we will find some sort of comfort in this?
+
+588
+00:48:56,080 --> 00:49:00,080
+I don't know of the answer that either. Maybe they do. Maybe some people do.
+
+589
+00:49:00,080 --> 00:49:03,080
+Others don't. Maybe partially. We all do.
+
+590
+00:49:03,080 --> 00:49:06,080
+But we do know people find entertainment in it.
+
+591
+00:49:06,080 --> 00:49:13,080
+But I know at least one instance where I think some comfort, evidence of comfort, was exhibited.
+
+592
+00:49:13,080 --> 00:49:22,080
+So in 2008, as I said, I, in a group of mathematicians and physicists, found this very weird result.
+
+593
+00:49:22,080 --> 00:49:30,080
+It took us three years to get the papers published, by the way, because we couldn't convince our colleagues that we had done our math correctly.
+
+594
+00:49:30,080 --> 00:49:38,080
+But after a popular article appeared on this work in 2010 in the British Journal of Physics World,
+
+595
+00:49:38,080 --> 00:49:45,080
+there was an online comment by a young man of deep religious faith.
+
+596
+00:49:45,080 --> 00:49:56,080
+And he took comfort in this idea of simulation, because it matched his conception of a benevolent God at work in the universe.
+
+597
+00:49:56,080 --> 00:49:58,080
+So some people would have taken comfort from it.
+
+598
+00:49:58,080 --> 00:50:03,080
+You know, there's a cute story about Einstein. It may be apocryphal.
+
+599
+00:50:03,080 --> 00:50:11,080
+Or it may not. You know, Einstein is known as the sort of arch-determinist.
+
+600
+00:50:11,080 --> 00:50:16,080
+The universe is just happening.
+
+601
+00:50:16,080 --> 00:50:24,080
+And that we really, we, as people, don't play an active role in the universe.
+
+602
+00:50:24,080 --> 00:50:43,080
+It's a kind of fatalist. Anyway, the cute story is that if you trace his personal letters from the times when he was having affairs on his wife,
+
+603
+00:50:43,080 --> 00:50:48,080
+that he would take a very fatalistic stance in personal letters.
+
+604
+00:50:48,080 --> 00:50:56,080
+And then at times when he was on the street in narrow, he would not use that rhetoric so very much.
+
+605
+00:50:56,080 --> 00:51:02,080
+So it looks like Einstein could find his own comfort in the idea of a fatalistic human affairs.
+
+606
+00:51:02,080 --> 00:51:08,080
+Yeah, I had no choice. I had no choice but to have this affair.
+
+607
+00:51:08,080 --> 00:51:21,080
+I think there are these studies that when people read articles about there being no free will, they're a little more likely to cheat, I think.
+
+608
+00:51:21,080 --> 00:51:26,080
+That's a trouble made me do it.
+
+609
+00:51:26,080 --> 00:51:39,080
+I was wondering when I would go back to the idea of information that was too faced, quality to it.
+
+610
+00:51:39,080 --> 00:51:47,080
+I wondered, you know, Kant wrote a lot about how we apply a certain intuition when we look at the universe and see some things reflected back like space-time and mathematical facts.
+
+611
+00:51:47,080 --> 00:51:55,080
+I'm wondering, because I understand, David, you've written some more about the extended mind, which is another sort of iteration of that approach.
+
+612
+00:51:55,080 --> 00:52:03,080
+What can you logically derive from the fact that we are playing a role in how we see the universe?
+
+613
+00:52:03,080 --> 00:52:05,080
+Do you want to say something about extended mind?
+
+614
+00:52:05,080 --> 00:52:11,080
+Well, the extended mind is partly the idea that the tools we use become parts of our mind.
+
+615
+00:52:11,080 --> 00:52:15,080
+So this is something we've all gotten so familiar with.
+
+616
+00:52:15,080 --> 00:52:22,080
+So familiar with smartphones, the smartphone and store phone numbers probably taken over from my memory,
+
+617
+00:52:22,080 --> 00:52:26,080
+it navigates for me, it does planning for me.
+
+618
+00:52:26,080 --> 00:52:29,080
+And so one of us, we live these increasingly digital lives.
+
+619
+00:52:29,080 --> 00:52:34,080
+So much of our minds is now extending out into these digital environments.
+
+620
+00:52:34,080 --> 00:52:41,080
+In this new era, actually, it's the Metavos, where we're going to be pretty sure we're going to be wearing augmented reality glasses.
+
+621
+00:52:41,080 --> 00:52:44,080
+It'll recognize people for us.
+
+622
+00:52:44,080 --> 00:52:46,080
+We're going to have to remember everyone's names.
+
+623
+00:52:46,080 --> 00:52:49,080
+That's going to be useful.
+
+624
+00:52:49,080 --> 00:52:53,080
+And yeah, it's so much of the computing it's going to take.
+
+625
+00:52:53,080 --> 00:52:59,080
+So then the algorithm between us and our environment is going to gradually become porous.
+
+626
+00:52:59,080 --> 00:53:05,080
+And whether or not the physical universe is a universe of bits, our mind can at least some considerable extent
+
+627
+00:53:05,080 --> 00:53:11,080
+a mind of bits, partly constituted by these computer processes in our environment.
+
+628
+00:53:11,080 --> 00:53:15,080
+And then the mind in turn, of course, helps construct our sense of the world.
+
+629
+00:53:15,080 --> 00:53:24,080
+That was the big idea for Kant, that so much of our ideas about reality come from, you know, in a constraint
+
+630
+00:53:24,080 --> 00:53:28,080
+from the way our mind is built to interpret the world.
+
+631
+00:53:28,080 --> 00:53:35,080
+But the way our mind is interpreting the world is actually constantly changing and evolving as our brain is changing a whole.
+
+632
+00:53:35,080 --> 00:53:49,080
+And let me just say I really appreciate your making the distinction between a partial simulation, let me call it that way,
+
+633
+00:53:49,080 --> 00:53:55,080
+and then the total simulation, because the partial one feels a little bit more comfortable to a physical scientist like myself,
+
+634
+00:53:55,080 --> 00:54:01,080
+because I need to, as our colleague here said, I need to have the idea that I can falsify.
+
+635
+00:54:01,080 --> 00:54:08,080
+And I write this as a great definition, one of the great definitions in science is that it's about things that we can falsify,
+
+636
+00:54:08,080 --> 00:54:13,080
+that we don't actually prove things correct. What we do is falsify our belief systems.
+
+637
+00:54:13,080 --> 00:54:20,080
+And as long as you'll give me that partial simulation, I'm comfortable doing that.
+
+638
+00:54:20,080 --> 00:54:24,080
+However, there's another aspect to the metaverse that you keep coming back to that.
+
+639
+00:54:24,080 --> 00:54:37,080
+I've been thinking about for a while, which is the universe, obviously, as we take these external instrumentalities and let them grow.
+
+640
+00:54:37,080 --> 00:54:41,080
+And of course, there's this thing that you know about called the Internet of Things out there.
+
+641
+00:54:41,080 --> 00:54:42,080
+Called the web.
+
+642
+00:54:42,080 --> 00:54:43,080
+The Internet of Things.
+
+643
+00:54:43,080 --> 00:54:45,080
+The Internet of Things is out there.
+
+644
+00:54:45,080 --> 00:54:49,080
+It's all these smart devices that are embedded in things.
+
+645
+00:54:49,080 --> 00:54:54,080
+They have already become co-evolving because of us.
+
+646
+00:54:54,080 --> 00:55:02,080
+One can imagine that they will somehow internalize an evolutionary development of their own, that we no longer control.
+
+647
+00:55:02,080 --> 00:55:05,080
+And of course, that's a frightening idea, perhaps.
+
+648
+00:55:05,080 --> 00:55:16,080
+But when you start talking about things coming our mind going into things, you have to also, then of course, ask a question about those things getting their own mind.
+
+649
+00:55:16,080 --> 00:55:22,080
+Not to mention all these AI systems, these language models, I think you guys were talking about here this morning,
+
+650
+00:55:22,080 --> 00:55:27,080
+that have basically trained that on text, produced by us, all of the Internet.
+
+651
+00:55:27,080 --> 00:55:36,080
+So they start from a basis of us and that they are internalizing elements of us, which they then project into their own mode.
+
+652
+00:55:36,080 --> 00:55:42,080
+As these language models are going to be increasingly systems we're interacting with, that transient building of the world,
+
+653
+00:55:42,080 --> 00:55:44,080
+started with us, extends to them.
+
+654
+00:55:44,080 --> 00:55:48,080
+And of course, there's already the AIs that do art.
+
+655
+00:55:48,080 --> 00:55:53,080
+We've been following these recent discussions of AIs that produce art.
+
+656
+00:55:53,080 --> 00:55:59,080
+And I have to tell you, there's this one particular incident that I think we've already read about.
+
+657
+00:55:59,080 --> 00:56:04,080
+Human artists in the competition, it turns out that a piece of AI won the competition.
+
+658
+00:56:04,080 --> 00:56:08,080
+I don't know how many of you have actually looked at that image that lives through the winter?
+
+659
+00:56:08,080 --> 00:56:09,080
+I actually love it.
+
+660
+00:56:09,080 --> 00:56:17,080
+I mean, it elicits an emotional response from me, and I find that extraordinary.
+
+661
+00:56:17,080 --> 00:56:26,080
+So the simulation hypothesis in this issue of the AI are in a way, on to this.
+
+662
+00:56:26,080 --> 00:56:39,080
+In the simulation hypothesis, some other program or control network or creating the world theory.
+
+663
+00:56:39,080 --> 00:56:47,080
+In the AI hypothesis is the computers and programs we create are going to be control.
+
+664
+00:56:47,080 --> 00:56:49,080
+Because these three ways.
+
+665
+00:56:49,080 --> 00:56:51,080
+Yeah, maybe both at once, right?
+
+666
+00:56:51,080 --> 00:56:56,080
+Maybe this is a simulation actually put together by AIs in the next decade.
+
+667
+00:56:56,080 --> 00:57:04,080
+And it's absolutely trivial to generate a simulation that we universe like this, because they have so much processing power.
+
+668
+00:57:04,080 --> 00:57:05,080
+But I think they're right.
+
+669
+00:57:05,080 --> 00:57:09,080
+They tend to be different ideas.
+
+670
+00:57:09,080 --> 00:57:14,080
+Because if we are actually creatures of a simulation, especially if we're in a pure simulation,
+
+671
+00:57:14,080 --> 00:57:17,080
+there's a sense in which we are already AIs.
+
+672
+00:57:17,080 --> 00:57:23,080
+We are ourselves simulated creatures, in which case we say, took something in AI and spoke to a bird.
+
+673
+00:57:23,080 --> 00:57:26,080
+David, have you met my friend Mario? And if you know him?
+
+674
+00:57:26,080 --> 00:57:30,080
+Playing an AI hypothesis.
+
+675
+00:57:30,080 --> 00:57:33,080
+His universe is the original metaverse.
+
+676
+00:57:33,080 --> 00:57:37,080
+He's a very agreeable guy. He'll do whatever you ask.
+
+677
+00:57:37,080 --> 00:57:40,080
+He seems happy.
+
+678
+00:57:40,080 --> 00:57:45,080
+Have you seen three guides about video game character?
+
+679
+00:57:45,080 --> 00:57:48,080
+And basically a non-player character in the video game, all the humans come in.
+
+680
+00:57:48,080 --> 00:57:53,080
+He's like, hey, we, non-player characters, we deserve rights too.
+
+681
+00:57:53,080 --> 00:57:55,080
+And this is real for us.
+
+682
+00:57:55,080 --> 00:57:58,080
+Yeah, it's pretty interesting.
+
+683
+00:57:58,080 --> 00:58:09,080
+The idea that we may evolve along with the development of these technologies is something I think has already happened.
+
+684
+00:58:09,080 --> 00:58:16,080
+And we don't realize it because it's something that's been in the background.
+
+685
+00:58:16,080 --> 00:58:22,080
+We talked about this in one of our earlier round tables, namely that our brains have not evolved, apparently,
+
+686
+00:58:22,080 --> 00:58:28,080
+or are involved enough to account for the incorporation of sort of reading and writing centers in the brain.
+
+687
+00:58:28,080 --> 00:58:34,080
+The brains of earlier humans before there was a writing system were essentially the same brains.
+
+688
+00:58:34,080 --> 00:58:40,080
+But now we seem to have these modules of, maybe we should have a block about this too.
+
+689
+00:58:40,080 --> 00:58:49,080
+They're the sort of nodules rather in our brain that are devoted to writing, reading, and sometimes one and not the other.
+
+690
+00:58:49,080 --> 00:58:54,080
+So there are cases where we've adapted to these technologies.
+
+691
+00:58:54,080 --> 00:58:56,080
+It's a technology.
+
+692
+00:58:56,080 --> 00:58:59,080
+So the brain is kind of an all-purpose flower.
+
+693
+00:58:59,080 --> 00:59:04,080
+It's waiting to be baked in any way that we might...
+
+694
+00:59:04,080 --> 00:59:08,080
+The world may not be sent and shaped, but the brain is sent and shaped.
+
+695
+00:59:08,080 --> 00:59:13,080
+Some little bits of it are sent and shaped, but things have to deal with language.
+
+696
+00:59:13,080 --> 00:59:16,080
+It's what do you think?
+
+697
+00:59:16,080 --> 00:59:28,080
+Well, I have to confess the tedium of discussing what the universe really is, is getting to me.
+
+698
+00:59:28,080 --> 00:59:35,080
+Because I think we began with talking about what it might be.
+
+699
+00:59:35,080 --> 00:59:48,080
+We have dubious access to our categories of understanding or the constraints, the autonomy with which the universe or nature, as you call it,
+
+700
+00:59:48,080 --> 00:59:59,080
+unfolds, that puts us in a very difficult position, as far as being able to make any kind of knowledge claim about it.
+
+701
+00:59:59,080 --> 01:00:06,080
+And I think the technological fetishism that has infected this conversation,
+
+702
+01:00:06,080 --> 01:00:13,080
+aiming to, my simulations have to be somehow technologically mediated, or the simulation devices.
+
+703
+01:00:13,080 --> 01:00:21,080
+Well, at the same time, conceding that our brains are simulating things all the time by virtue of how we process information.
+
+704
+01:00:21,080 --> 01:00:28,080
+We should also consider that we may be in types of simulation that have nothing to do with technology,
+
+705
+01:00:28,080 --> 01:00:40,080
+that have to do more with our myths, the way we organize our understanding of one another, our acculturation.
+
+706
+01:00:40,080 --> 01:00:46,080
+That also creates a bubble of reality, so to speak, a metaphor.
+
+707
+01:00:46,080 --> 01:01:05,080
+That isn't it for bit or technological, but very cultural centered in the challenges of being ignorant, human, manipulated by power structures.
+
+708
+01:01:05,080 --> 01:01:11,080
+Those simulations are also important to consider.
+
+709
+01:01:11,080 --> 01:01:19,080
+The mind's construction of reality is itself a kind of simulation mind.
+
+710
+01:01:19,080 --> 01:01:25,080
+So much in the mind is constructed, because back to your point about calm.
+
+711
+01:01:25,080 --> 01:01:28,080
+In a little way, it's not exactly the same idea.
+
+712
+01:01:28,080 --> 01:01:35,080
+The thought itself is a simulation based on a computer.
+
+713
+01:01:35,080 --> 01:01:41,080
+Our experience of reality is actually an interaction between the mind and between the mind.
+
+714
+01:01:41,080 --> 01:01:50,080
+The world that our minds these days are so bombarded with so many different things.
+
+715
+01:01:50,080 --> 01:01:59,080
+We try to construct things in a certain way, and technology is part of it, but by no means the only part of that.
+
+716
+01:01:59,080 --> 01:02:03,080
+That's a quite different sense in which we could all be said to be living in a simulation,
+
+717
+01:02:03,080 --> 01:02:08,080
+but we're all living to some degree in a world which is constructed by our minds.
+
+718
+01:02:08,080 --> 01:02:18,080
+And our minds, talking about psychedelics, can feel and see things under the influence of them completely differently,
+
+719
+01:02:18,080 --> 01:02:27,080
+so that the person feels totally different things about the world themselves, reality, than without them.
+
+720
+01:02:27,080 --> 01:02:36,080
+So there are layers of what actually our mind and our perceptions and our reality really is.
+
+721
+01:02:36,080 --> 01:02:43,080
+I think drugs in general can do that, in art, in conversation.
+
+722
+01:02:43,080 --> 01:02:52,080
+Speaking of hallucinogen specifically, they have much like information to faces,
+
+723
+01:02:52,080 --> 01:03:05,080
+and there's the way that they can conjure up cathedrals in the mind of new visions, new experiences,
+
+724
+01:03:05,080 --> 01:03:14,080
+and can be pleasing for a moment, can be potentially for some people entrapping psychosis.
+
+725
+01:03:14,080 --> 01:03:25,080
+But they can also move in a very different direction, and dismantle the constraints of understanding of information processing
+
+726
+01:03:25,080 --> 01:03:34,080
+that allow us to organize the world to, you know, there's a notion in neuroscience of prediction coding,
+
+727
+01:03:34,080 --> 01:03:37,080
+and constantly throwing hypotheses out to the world.
+
+728
+01:03:37,080 --> 01:03:48,080
+Our model of the world representing a best fit scenario, like an error correction, so to speak.
+
+729
+01:03:48,080 --> 01:03:57,080
+But the errors aren't really with anything real, it's to just ensure a kind of coherent map.
+
+730
+01:03:57,080 --> 01:03:59,080
+So they can dismantle that.
+
+731
+01:03:59,080 --> 01:04:07,080
+And the map that we've constructed for better or worse is torn apart, and there's an experience of something else,
+
+732
+01:04:07,080 --> 01:04:13,080
+maybe the other bad information.
+
+733
+01:04:13,080 --> 01:04:25,080
+But there's a sense of something deeply unknowable, and that, speaking with David about this earlier,
+
+734
+01:04:25,080 --> 01:04:37,080
+the enough ability that often is described in psychedelic experience has also been correlated with much of the improvement
+
+735
+01:04:37,080 --> 01:04:39,080
+associated with them in clinical settings.
+
+736
+01:04:39,080 --> 01:04:48,080
+So the other is opportunity, perhaps, to relate to what is, but in a way that isn't discursive,
+
+737
+01:04:48,080 --> 01:04:56,080
+that isn't information-based, that is more primordial and relational, can represent for people who are struggling
+
+738
+01:04:56,080 --> 01:05:06,080
+with ossified modes of cognition, opportunity for making the way through the world in a manner that is perhaps less knowing,
+
+739
+01:05:06,080 --> 01:05:11,080
+but at the same time, fear.
+
+740
+01:05:11,080 --> 01:05:17,080
+Can I respond to the less of sentences?
+
+741
+01:05:17,080 --> 01:05:27,080
+As I've been sitting here listening to this discussion, this strikes me as a typical discussion of one of the two minds,
+
+742
+01:05:27,080 --> 01:05:32,080
+because at least as I've experienced life, there's kind of two versions of me.
+
+743
+01:05:32,080 --> 01:05:34,080
+Here's the rational version.
+
+744
+01:05:34,080 --> 01:05:42,080
+It's the one that basically does the science and asks the questions about the world and navigates my living, continuing to live safely.
+
+745
+01:05:42,080 --> 01:05:52,080
+But I'm also very conscious that there's this thing that used to be called the subconscious, and at least in my career as a scientist,
+
+746
+01:05:52,080 --> 01:05:58,080
+I've actually seen these two things meet, and they meet on the axis of creativity and innovation,
+
+747
+01:05:58,080 --> 01:06:01,080
+because we do these new innovative ideas come from.
+
+748
+01:06:01,080 --> 01:06:12,080
+And I point to, for example, the mathematician Ramanujan, who accomplished extraordinary things in number theory,
+
+749
+01:06:12,080 --> 01:06:22,080
+and if you ask him where they came from, he would tell you they came from dreams, and that is not the purview of the conscious mind.
+
+750
+01:06:22,080 --> 01:06:31,080
+I was asking a few moments ago about, well, does it give people comfort to think about this topic, the idea of a metaverse?
+
+751
+01:06:31,080 --> 01:06:36,080
+And I said, well, I know at least it's entertaining, and it's interesting to consider, based on what you're saying,
+
+752
+01:06:36,080 --> 01:06:42,080
+and I also saw some people start using drugs to change their consciousness for entertainment.
+
+753
+01:06:42,080 --> 01:06:44,080
+I mean, we actually call them recreational drugs, right?
+
+754
+01:06:44,080 --> 01:06:48,080
+So that's one of their possible usages.
+
+755
+01:06:48,080 --> 01:07:00,080
+I really was interested in hearing what people thought about, well, what is it about thinking there's another level of being that we don't have direct access to?
+
+756
+01:07:00,080 --> 01:07:05,080
+Why do people find that so appealing? I think that's a really important topic.
+
+757
+01:07:05,080 --> 01:07:17,080
+I think for me, I mean, as a physicist, like Floss though, it's an important thing to remember, because I think if one assumes that the link between what is observed and what is there
+
+758
+01:07:17,080 --> 01:07:23,080
+is too direct that is liable to lead into a whole of confusion and misunderstanding about what the physics is really telling us.
+
+759
+01:07:23,080 --> 01:07:31,080
+And so I think that as physicists and the scientists, one should not sort of lose sight of the fact that we don't see everything, we don't know everything,
+
+760
+01:07:31,080 --> 01:07:42,080
+and we need to be careful to ever say to distinguish between what facts are about our mode of access and what facts are about the world itself
+
+761
+01:07:42,080 --> 01:07:50,080
+and how to not sort of allow those two kinds of categories to get mixed up and cause mistakes.
+
+762
+01:07:50,080 --> 01:08:01,080
+We do live in a, I like the importance of the unconscious, this kind of brings back that we do in fact live in a simulation quite regularly, you know, every night.
+
+763
+01:08:01,080 --> 01:08:19,080
+We dream and we enter into a simulation of our own making, a furthermore simulation which is not generated consciously, it's generated by our minds, but almost entirely unconsciously, and then we interact with that simulation
+
+764
+01:08:19,080 --> 01:08:32,080
+and it's very often extremely real and extremely meaningful to us, that gets us out the power of minds, you've got to get the minds power to construct the world, but also the minds power directly construct the world, unconsciously,
+
+765
+01:08:32,080 --> 01:08:43,080
+and that's really an extraordinary creative power, and of course it's doing that every moment in our ordinary, in our ordinary, weaning life as well in our perception of reality, it's just so obvious to us.
+
+766
+01:08:43,080 --> 01:09:03,080
+I like the idea of extending our thoughts to, I called it earlier, like a sort of an thought experiment, which may be one way of looking at the idea of there being a simulation going on, because there were, because of these mysteries, you know, like some folks like to spend a lot of time thinking about that,
+
+767
+01:09:03,080 --> 01:09:20,080
+and what are the consequences of my thinking along these lines, can I, can I come up with something thoughtful, creative, might actually move physics forward, but even if it doesn't, it's a way for me to think about the world, and it's, so it's an accurate creativity too, and occasionally something that comes a bit so we know
+
+768
+01:09:20,080 --> 01:09:36,080
+that I think it's thought experiments through history, I guess was one of the first to really say, I'm doing a thought experiment here, watch out, no, and no, this is creative, let me think about what it's like to sit on the light beam,
+
+769
+01:09:36,080 --> 01:09:53,080
+and that's a wonderful way for science to proceed, and it's not what do you call normal science, that's the creative part of science. So I'm really pleased that some people are willing to go at it and go at it and go at it, I think it's wonderful for all the rest of us.
+
+770
+01:09:53,080 --> 01:10:21,080
+I think the question that's been haunting me is whether it is possible to know, so we've been talking about the very illuminating findings in physics, for example, that get us, I think, closer to the nature of how things might be, but
+
+771
+01:10:21,080 --> 01:10:49,080
+if we take very seriously, Kant's recognition that what we perceive and understand are invariably molded by things that may have nothing to do with the nature of things, that it may be an entirely human endeavor, understanding
+
+772
+01:10:49,080 --> 01:11:05,080
+of which nature has really very little to say. What position are we in? Can we make any real claims about what the world is indeed?
+
+773
+01:11:05,080 --> 01:11:34,080
+I'm inclined to think we can't. I'm inclined to think that one can't, but I'm an American pragmatist, that's why I've heard some of the genuinely, that we do what works, or we try our best to do things, and I'm inclined to think that the laws of physics capture more about
+
+774
+01:11:34,080 --> 01:11:45,080
+our limitations, and going back to the evolution, how can the laws of physics possibly evolve?
+
+775
+01:11:45,080 --> 01:11:58,080
+One game you can play is to say, well, the laws of physics, in fact, are just an expression or a codification of all my various limitations, or us as a species.
+
+776
+01:11:58,080 --> 01:12:09,080
+We can't help but fall. We can get around that, we can have a parachute, or a flying machine, we ultimately can get around some of these things.
+
+777
+01:12:09,080 --> 01:12:27,080
+Well, we can't even get past the problem constraints we like. Maybe that's an expression of our present day limitation, but we are evolving species, and our limitations may be different in the future.
+
+778
+01:12:27,080 --> 01:12:36,080
+Less limitations. So maybe the law of, you know, the speed of light as a constant is something that can be broken.
+
+779
+01:12:36,080 --> 01:12:56,080
+If you just take a different point of view that the laws of physics are capturing how best to proceed the world, given what we've got right now, and that's not a knowledge plane, that's just a statement of more about us.
+
+780
+01:12:56,080 --> 01:13:15,080
+Practical. I think that the connoisseur just made points to something that I try to keep in my mind, and that I try to tell people about science, that when a scientist makes a claim about some kind of ultimate statement, you should take that with an extraordinarily large grain of salt.
+
+781
+01:13:15,080 --> 01:13:34,080
+Because we, in many parts of human thinking, there's this notion of the truth. I like to tell people, when you're a scientist, you will change your belief in the truth at the drop of a fact.
+
+782
+01:13:34,080 --> 01:13:54,080
+So the word true for scientists generally is not what most people call the truth. And therefore, I think that we need to be very, very humble when we make proclamations that we know.
+
+783
+01:13:54,080 --> 01:14:01,080
+We know subject to our limitations, and that's why I come back to this.
+
+784
+01:14:01,080 --> 01:14:18,080
+I definitely have a lot of sympathy for the view that the laws of nature may have a lot more to do with our limitations than we realize. But at the same time, I'm skeptical that that can be the whole story, because the very notion of a limitation presupposes the existence of some kind of like
+
+785
+01:14:18,080 --> 01:14:33,080
+rigidity that there are things we can and can't do, and those remain sort of consistent over time. And it doesn't really make sense to me that there could be such limitations if there's not some kind of background schema of laws or reality from which those limitations arise.
+
+786
+01:14:33,080 --> 01:14:47,080
+So although I do think it's very important to recognize that the exact form of the laws we come up with probably have a lot to do with our own epistemic limitations, I don't think that means we should, we should suppose that there is no reality or there are no sort of background laws at all.
+
+787
+01:14:47,080 --> 01:15:04,080
+I just think we need to be perhaps a lot more careful than we currently tend to be to try to sort of tease apart the threads of our science which are about our limitations and the threads which are about one of the sort of modal rigidity is which from which those limitations arise.
+
+788
+01:15:04,080 --> 01:15:17,080
+Yeah, I think there is a world, there's a world outside of a question, and we can find out things about it on the world, you know, if you look at the world, you look away, you look back, it's still there, it fights back.
+
+789
+01:15:17,080 --> 01:15:27,080
+The question is, you know, what can you know about it? We seem to be at least most something ever say, mathematics from science, we can know something about something of its structure.
+
+790
+01:15:27,080 --> 01:15:42,080
+And so can we actually know its ultimate nature? I don't know, I mean, this kind of comes up and I keep out simulation and so on, there's, I'm the mathematics, I'm the big bits, there's so many different ways the world could be, could be consciousness.
+
+791
+01:15:42,080 --> 01:15:46,080
+It could be another universe, it could be pure information, it could be pure bits.
+
+792
+01:15:46,080 --> 01:16:05,080
+I guess I'm actually inclined, I think we occasionally get the little glimpses of the ultimate nature of reality, not least through our own consciousness, and maybe that's actually a glimpse of ultimate reality, and who's to say that they can't be special moments of awareness, whether through meditation or psychedelics, and so on,
+
+793
+01:16:05,080 --> 01:16:25,080
+that give you some clearer awareness of that ultimate nature of reality. I mean, it could be possible to know some tiny elements of this, but you know, as much as they sit in each eye, the galaxy, space is big, reality is big, it's bigger than us, we can't expect to know all of it.
+
+794
+01:16:25,080 --> 01:16:42,080
+I think it's a sort of a mistake to want to answer the question, what is reality ultimately made out of? I think that's not the kind of question science really gives us access to, but at the same time I am optimistic that science does continue increasing our understanding of things,
+
+795
+01:16:42,080 --> 01:17:00,080
+and there have been developments throughout the course of science that have, while not telling us what the world is made out of, at least giving us a better understanding of what that is structurally and sort of moving from our way of thinking things that we thought were different and absolute that we realised we're not so.
+
+796
+01:17:00,080 --> 01:17:09,080
+So I think that we can certainly learn things about ultimate reality without necessarily learning what it's made out of or what the sort of fundamental stuff is.
+
+797
+01:17:09,080 --> 01:17:20,080
+I'm still wrestling with something you said very casually, that there is a world outside of us. What do you mean? What would it be in my world outside of this?
+
+798
+01:17:20,080 --> 01:17:26,080
+There's a world outside of my consciousness, at least that is producing my consciousness.
+
+799
+01:17:26,080 --> 01:17:41,080
+There's a bird, for example, the tree in the court, you look around and you come back, the tree is still there. The next day wasn't in my consciousness, where was it? So there's something, well, back for example God had the idea of the tree in the court.
+
+800
+01:17:41,080 --> 01:18:02,080
+The next thing that I'm actually doing is that there's a bunch of matter out there. There's even the idea that it could just be another part of my mind or a cosmic mind that I'm all part of that's out there and it's responsible for my experiences of the tree, but at least there has to be something outside my consciousness to explain all these regularities, all these things that my consciousness discovers.
+
+801
+01:18:02,080 --> 01:18:13,080
+It's also, I think, about intersubjectivity as well, the fact that we presumably are all conscious and we're all having experiences and we presume those experiences are related to each other in certain regular ways.
+
+802
+01:18:13,080 --> 01:18:26,080
+The world outside is whatever it is that gives rise to the sit-on-related experiences and produces these relationships between our experiences that are kind of systematizable and relates to us to each other in ways that we can make sense of.
+
+803
+01:18:26,080 --> 01:18:41,080
+And one of the follow-up and something Emily just said and also what you said earlier, Jim, that when you're doing science, you get this idea of truth that's different from the one you might have come into with as a naive, non-science, or just a young person, right?
+
+804
+01:18:41,080 --> 01:18:56,080
+That things like, well, what really is there in the universe and I think some of us, I think all of us probably agree, well, I don't know, that's sort of a woolly question and we don't take that seriously, although we do look like we're earnestly pursuing it in some strange way.
+
+805
+01:18:56,080 --> 01:19:13,080
+I think there's one of the interesting responses to your comment earlier, Elias, was that about the nature being something that we're applying models of understanding that are not in nature, they're part of us, but yes, they are in nature because we're part of nature.
+
+806
+01:19:13,080 --> 01:19:22,080
+I mean, to a degree, you can say something about that and maybe that's one way out of this, part of partial way out of the conundrum.
+
+807
+01:19:22,080 --> 01:19:27,080
+I think it's interesting that we do always want to pursue things like, well, what really is there?
+
+808
+01:19:27,080 --> 01:19:32,080
+I think that's a human nature to ask that question and it may be a slightly childish question, I don't know.
+
+809
+01:19:32,080 --> 01:19:38,080
+I think maybe it is, but it's still something that fascinates us all and maybe why we're thinking about the metaverse.
+
+810
+01:19:38,080 --> 01:19:53,080
+So we have to stop now because I think I imagine there are going to be some questions from the audience and so if anyone has any, would they come up to the microphone?
+
+811
+01:19:53,080 --> 01:19:56,080
+Thank you very much for that fascinating panel.
+
+812
+01:19:56,080 --> 01:20:04,080
+My question is about it from bits from it and artificial general intentions.
+
+813
+01:20:04,080 --> 01:20:15,080
+You might become here with a concept, it's basically not narrow AI, but AI that will be a singularity and could be the metaverse.
+
+814
+01:20:15,080 --> 01:20:29,080
+And then the point is that the it underneath is us and you said before that the it underneath must be God because it produces something without mistakes.
+
+815
+01:20:29,080 --> 01:20:35,080
+Are we God and if we take that even further the metaverse will come to happen.
+
+816
+01:20:35,080 --> 01:20:38,080
+I'm curious about the reaction.
+
+817
+01:20:41,080 --> 01:20:46,080
+I missed the clip at the end, if we're God, then we just have fun.
+
+818
+01:20:46,080 --> 01:20:50,080
+Each is basically all the collect intentions of all programmers.
+
+819
+01:20:50,080 --> 01:20:51,080
+Yeah.
+
+820
+01:20:51,080 --> 01:21:06,080
+And they produce that illusion and we are living in because it's that the artificial general intelligence, which is basically the metaverse has basically the singularity that's based in the end station of AI.
+
+821
+01:21:06,080 --> 01:21:10,080
+So this is saying AGI, this is the view on what AGI has already happened.
+
+822
+01:21:10,080 --> 01:21:18,080
+And the metaverse program was actually produced by an artificial general and how AGI is produced by us.
+
+823
+01:21:18,080 --> 01:21:24,080
+So we are, or that the universe or the group of all programmers.
+
+824
+01:21:24,080 --> 01:21:30,080
+If the simulation hypothesis is correct, we are already artificial intelligence, somewhere general intelligence.
+
+825
+01:21:30,080 --> 01:21:34,080
+So we'd be AGI is already inside a simulation.
+
+826
+01:21:34,080 --> 01:21:37,080
+But I guess the thought is exactly the same could happen again.
+
+827
+01:21:37,080 --> 01:21:46,080
+Once we create artificial general intelligence, which could happen within 10, 20, 30 years on current,
+
+828
+01:21:46,080 --> 01:21:56,080
+given the pace of current developments, it will then be in a position to create the metaverse and the full-scale virtual world far better than we are.
+
+829
+01:21:56,080 --> 01:22:03,080
+So AGI is a possible route to the creation of metaverses of simulated universes.
+
+830
+01:22:03,080 --> 01:22:04,080
+And we will be God.
+
+831
+01:22:04,080 --> 01:22:06,080
+We hope you got four those universes.
+
+832
+01:22:06,080 --> 01:22:07,080
+Absolutely.
+
+833
+01:22:07,080 --> 01:22:09,080
+Yeah. We have to use that power responsibly.
+
+834
+01:22:09,080 --> 01:22:11,080
+And not interested.
+
+835
+01:22:11,080 --> 01:22:16,080
+The one we got.
+
+836
+01:22:16,080 --> 01:22:23,080
+Yes.
+
+837
+01:22:23,080 --> 01:22:24,080
+Thanks for this panel.
+
+838
+01:22:24,080 --> 01:22:30,080
+I'm always excited to go to a panel where the question begins with, is the universe, whatever.
+
+839
+01:22:30,080 --> 01:22:31,080
+It's always going to be fun.
+
+840
+01:22:31,080 --> 01:22:36,080
+I had the benefit of being able to sort of check on a few things that were discussed during the panel,
+
+841
+01:22:36,080 --> 01:22:43,080
+the first of which was Rorty. Rorty is, of course, famous for claiming that truth is sentence shaped.
+
+842
+01:22:43,080 --> 01:22:50,080
+And I looked it up the idea that the world divides itself into sentence shaped chunks that we call facts,
+
+843
+01:22:50,080 --> 01:22:53,080
+is Rorty's critique of analytical philosophy.
+
+844
+01:22:53,080 --> 01:22:56,080
+Which I think is interesting because it's an epistemological question.
+
+845
+01:22:56,080 --> 01:23:05,080
+And as I was listening to this conversation, it seems to me that meta has come to me almost exclusively simulation or simulator.
+
+846
+01:23:05,080 --> 01:23:09,080
+Whereas, meta can actually be used in a couple of different ways.
+
+847
+01:23:09,080 --> 01:23:11,080
+One is, of course, to say that it's a simulation.
+
+848
+01:23:11,080 --> 01:23:17,080
+And I think this question immediately becomes tedious because even if it is, it's still the same universe.
+
+849
+01:23:17,080 --> 01:23:21,080
+Right? A simulation is always exactly equal to itself.
+
+850
+01:23:21,080 --> 01:23:27,080
+So the way that you would test, you would always, how many layers of simulations of simulations would it go back?
+
+851
+01:23:27,080 --> 01:23:28,080
+It's an interesting question.
+
+852
+01:23:28,080 --> 01:23:37,080
+But in terms of it not being so much ontological but epistemological, meta can also be used to be like the thing about the thing.
+
+853
+01:23:37,080 --> 01:23:41,080
+So, a metacognition is thinking about thinking, metalinguistics is language about language.
+
+854
+01:23:41,080 --> 01:23:48,080
+And this brings me back to John Wheeler, who was very interested in the idea that the universe is observing itself.
+
+855
+01:23:48,080 --> 01:23:55,080
+So, is there a way in which the meta universe or the metaverse is the universe that observes itself?
+
+856
+01:23:55,080 --> 01:24:04,080
+And this, to me, takes us back to the hard question of consciousness, which is to say is our consciousness of the universe already a metaverse?
+
+857
+01:24:04,080 --> 01:24:07,080
+Because it's the universe observing itself.
+
+858
+01:24:07,080 --> 01:24:25,080
+I like that. I like that. And I don't know how to respond.
+
+859
+01:24:25,080 --> 01:24:31,080
+I think a minute and do Jim's strategy of think about it for three minutes.
+
+860
+01:24:31,080 --> 01:24:34,080
+And then maybe I can have a brilliant answer.
+
+861
+01:24:34,080 --> 01:24:39,080
+I like the idea that meta, meta x is x about x.
+
+862
+01:24:39,080 --> 01:24:44,080
+Metacognition is cognition about cognition. Metatheria is theory about a theory.
+
+863
+01:24:44,080 --> 01:24:49,080
+By those lights, metaverse, I thought it's a verse about a verse.
+
+864
+01:24:49,080 --> 01:24:52,080
+The first is a cross-thinking about the universe.
+
+865
+01:24:52,080 --> 01:24:54,080
+The term universe is the one crossing.
+
+866
+01:24:54,080 --> 01:24:57,080
+So, the metaverse would be the thing that crosses itself.
+
+867
+01:24:57,080 --> 01:25:00,080
+So, we're back to the self-replicit.
+
+868
+01:25:00,080 --> 01:25:04,080
+It means to the side of it.
+
+869
+01:25:04,080 --> 01:25:08,080
+Maybe short meta universe.
+
+870
+01:25:08,080 --> 01:25:11,080
+This is a universe about a universe.
+
+871
+01:25:11,080 --> 01:25:14,080
+Another image that John Wheeler used.
+
+872
+01:25:14,080 --> 01:25:20,080
+I mean, he's famous for having drawn a view for the universe with an eye ball on him.
+
+873
+01:25:20,080 --> 01:25:25,080
+Oh, there's a lovely little spot in his.
+
+874
+01:25:25,080 --> 01:25:28,080
+He always carried a big notebook around it.
+
+875
+01:25:28,080 --> 01:25:32,080
+I take notes all the time. And in the margin, he sketches this.
+
+876
+01:25:32,080 --> 01:25:39,080
+And he says, I'll have to explain the story of how this came to me two days ago.
+
+877
+01:25:39,080 --> 01:25:44,080
+And then if you look at the notebooks, you can't find the story.
+
+878
+01:25:44,080 --> 01:25:46,080
+We'll never know.
+
+879
+01:25:46,080 --> 01:25:50,080
+But there was another image that he used.
+
+880
+01:25:50,080 --> 01:25:55,080
+He wondered whether the universe was a self-excited circuit.
+
+881
+01:25:55,080 --> 01:26:01,080
+And I don't know if that has something to do with what you're talking about.
+
+882
+01:26:01,080 --> 01:26:10,080
+But he was thinking of it as somehow coming back on it's an ouroboros or something for a long time
+
+883
+01:26:10,080 --> 01:26:13,080
+and self-excitation.
+
+884
+01:26:13,080 --> 01:26:16,080
+I actually think longer.
+
+885
+01:26:16,080 --> 01:26:18,080
+Three more minutes.
+
+886
+01:26:18,080 --> 01:26:20,080
+He only took two minutes, by the way.
+
+887
+01:26:20,080 --> 01:26:28,080
+I cannot possibly come up with a good answer to that query.
+
+888
+01:26:28,080 --> 01:26:31,080
+But I would offer this as a thought.
+
+889
+01:26:31,080 --> 01:26:37,080
+So I'm 71 years old. I've been studying a piece of mathematical physics since I was in my 20s.
+
+890
+01:26:37,080 --> 01:26:43,080
+It's the same piece of mathematical physics that worries me now that were in my late 20s.
+
+891
+01:26:43,080 --> 01:26:48,080
+And I've thought about the universe this entire 40, 40, 50 years of life.
+
+892
+01:26:48,080 --> 01:26:55,080
+And to me, as we delve in these kinds of domains between philosophy and physics
+
+893
+01:26:55,080 --> 01:26:59,080
+and recognize the relationship between these two fields temporarily,
+
+894
+01:26:59,080 --> 01:27:04,080
+the honest thing I know about the universe goes,
+
+895
+01:27:04,080 --> 01:27:08,080
+apparently the evidence suggests it was started about 14 billion years ago.
+
+896
+01:27:08,080 --> 01:27:11,080
+And this thing we call the Big Bang.
+
+897
+01:27:11,080 --> 01:27:16,080
+It had this period where it blew up from something much, much smaller than Adam to this thing we live in.
+
+898
+01:27:16,080 --> 01:27:21,080
+It underwent transformations in space and time, stars turned on galaxies formed.
+
+899
+01:27:21,080 --> 01:27:26,080
+To me, the honest thing about the universe is that in this entire time frame,
+
+900
+01:27:26,080 --> 01:27:30,080
+it apparently only produces one copy of each of us.
+
+901
+01:27:30,080 --> 01:27:34,080
+To me, this is extraordinarily mysterious.
+
+902
+01:27:34,080 --> 01:27:38,080
+And so in trying to answer the questions about the metaphors,
+
+903
+01:27:38,080 --> 01:27:42,080
+what I have about Adam driven to is, in some sense,
+
+904
+01:27:42,080 --> 01:27:49,080
+why do I as an individual come to be in whatever this structure is?
+
+905
+01:27:49,080 --> 01:27:56,080
+To me, that's the deepest question that I know that I'll never have an answer to.
+
+906
+01:27:56,080 --> 01:28:01,080
+I think, yes, the idea that we are, that's another way of saying what I was actually trying to bring up,
+
+907
+01:28:01,080 --> 01:28:04,080
+distant for the end, and we are part of nature too.
+
+908
+01:28:04,080 --> 01:28:10,080
+So in that sense, yes, we are looking back on nature with our natural selves.
+
+909
+01:28:10,080 --> 01:28:15,080
+Any other questions?
+
+910
+01:28:15,080 --> 01:28:23,080
+There's a neuroscientist in Modafolina who talks about imagination as the physics of the mind.
+
+911
+01:28:23,080 --> 01:28:27,080
+And I find that so beautiful because it's about trying to grasp reality,
+
+912
+01:28:27,080 --> 01:28:30,080
+but also know about all the probabilities.
+
+913
+01:28:30,080 --> 01:28:34,080
+I'd be so upset if we really understood everything about the universe,
+
+914
+01:28:34,080 --> 01:28:38,080
+because then what would we do with our imaginations?
+
+915
+01:28:38,080 --> 01:28:45,080
+And I just wonder how you experience the difference between your speculations and just the play of imagination.
+
+916
+01:28:45,080 --> 01:28:53,080
+I'm willing to respond to that one as opposed to the hard question.
+
+917
+01:28:53,080 --> 01:29:00,080
+So one of the things that, again, when I talk to the public about how science works,
+
+918
+01:29:00,080 --> 01:29:04,080
+starts with the statement that Einstein made, he said,
+
+919
+01:29:04,080 --> 01:29:09,080
+imagination is more important than knowledge. Many people have heard this statement,
+
+920
+01:29:09,080 --> 01:29:13,080
+but there's a sentence or two after that which, unless you read them,
+
+921
+01:29:13,080 --> 01:29:22,080
+this statement can't be mysterious. And it goes because knowledge encompasses all that we now know about the world,
+
+922
+01:29:22,080 --> 01:29:28,080
+but imagination encompasses all that we will ever know about the world.
+
+923
+01:29:28,080 --> 01:29:34,080
+And so for me, one of the great joys of being a scientist is to understand that
+
+924
+01:29:34,080 --> 01:29:40,080
+my scientific knowledge grows, the rational part that we've talked about as physicists,
+
+925
+01:29:40,080 --> 01:29:48,080
+grows, but the driving force of that is imagination at the boundaries where we don't know things.
+
+926
+01:29:48,080 --> 01:29:56,080
+It's imagination that's driving the growth of that, but subject to the hard test of nature.
+
+927
+01:29:56,080 --> 01:30:06,080
+That's how we grow in knowledge. So without the imagination, that process stops.
+
+928
+01:30:06,080 --> 01:30:17,080
+And imagination is deeply, deeply non-rational. It comes from the parts of me that I prefer one piece of music to another code.
+
+929
+01:30:17,080 --> 01:30:24,080
+There's nothing rational about that, but that's what's driving my rational growth as of being understanding this universe.
+
+930
+01:30:24,080 --> 01:30:28,080
+And imagination may not only exist at the boundaries of comprehension,
+
+931
+01:30:28,080 --> 01:30:35,080
+it may be implicated in comprehension itself and how we understand things, the theories we formulate, what we construct.
+
+932
+01:30:35,080 --> 01:30:46,080
+But it's that play all the time. I see theories have like fossilized imagination as something that's kind of got stuck in.
+
+933
+01:30:46,080 --> 01:30:56,080
+This is an interplay between imagination and rationality, because one imagines world possibilities and one applies rationality to them to ask does this make sense?
+
+934
+01:30:56,080 --> 01:31:03,080
+How can this all fit together and one pairs down the possibilities that one has imagined to arrive at something which is a sort of viable theory?
+
+935
+01:31:03,080 --> 01:31:09,080
+So the two components come together to produce them as original, but also makes sense.
+
+936
+01:31:09,080 --> 01:31:12,080
+Can't tell we imagine something else.
+
+937
+01:31:12,080 --> 01:31:16,080
+And imagination is both, as you say, more than what we know now about the world.
+
+938
+01:31:16,080 --> 01:31:22,080
+Maybe it's even more than we will ever know about the world, because imagination is not just about this world.
+
+939
+01:31:22,080 --> 01:31:24,080
+Physics tells us about this world.
+
+940
+01:31:24,080 --> 01:31:30,080
+Imagination tells us about the vast space of possible worlds that we can explore.
+
+941
+01:31:30,080 --> 01:31:35,080
+There's so much to know about that space of possible worlds that goes beyond this world.
+
+942
+01:31:35,080 --> 01:31:39,080
+Even if today, everything we've said is nonsense about this world.
+
+943
+01:31:39,080 --> 01:31:45,080
+And we've still described the possible world, which a number of possible worlds are making that work.
+
+944
+01:31:45,080 --> 01:31:46,080
+It's a way to solve it.
+
+945
+01:31:46,080 --> 01:31:47,080
+Which I've recovered a million times.
+
+946
+01:31:47,080 --> 01:32:02,080
+I want to pick up on what Dr. Gates said that in Jacques Hademard's book where he interviewed scientists, Einstein also said every idea came to him as an image, not as a theory.
+
+947
+01:32:02,080 --> 01:32:09,080
+And it was only his desire to relate and communicate that forced him to put it into theorems.
+
+948
+01:32:09,080 --> 01:32:17,080
+I think that's so beautiful because it's about what you've all been trying to do today in terms of trying to relate to us.
+
+949
+01:32:17,080 --> 01:32:22,080
+And tell us what you think you know and what you know you don't know. So I'm very grateful.
+
+950
+01:32:22,080 --> 01:32:24,080
+Well, that's great.
+
+951
+01:32:24,080 --> 01:32:27,080
+Well, I think it's a wonderful point at which we can stop.
+
+952
+01:32:27,080 --> 01:32:34,080
+I hoped that it would turn out the way it did, but this did exceed my imagination. It was a wonderful, wonderful.
+
+953
+01:32:34,080 --> 01:32:38,080
+And I'm glad there's that extra little bit of extra surplus left over.
+
+954
+01:32:38,080 --> 01:32:42,080
+So thank you again, everyone. I hope everyone here enjoyed themselves as well.
+
+955
+01:32:42,080 --> 01:32:58,080
+Thank you. Thank you.
+
+956
+01:33:12,080 --> 01:33:17,080
+Thank you.
+

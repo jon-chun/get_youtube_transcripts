@@ -1,0 +1,956 @@
+{"id": "gw2GjssUafs-t0.0", "text": "Hi, good afternoon everyone.", "start": 0.0, "end": 11.72}
+{"id": "gw2GjssUafs-t11.72", "text": "Welcome back to the Helix Center and our conference on coding and the new human phenotype.", "start": 11.72, "end": 20.72}
+{"id": "gw2GjssUafs-t20.72", "text": "This is the fifth of four round tables.", "start": 20.72, "end": 23.64}
+{"id": "gw2GjssUafs-t23.64", "text": "In the previous four, I've been fantastic and I welcome our audience out there to check out", "start": 23.64, "end": 31.0}
+{"id": "gw2GjssUafs-t31.0", "text": "those four round tables that are available on YouTube.", "start": 31.0, "end": 36.84}
+{"id": "gw2GjssUafs-t36.84", "text": "This afternoon we are excited about our topic, which is the universe is the universe a metaverse.", "start": 36.84, "end": 46.08}
+{"id": "gw2GjssUafs-t46.08", "text": "We're going to hear more about that and what that could possibly mean because maybe the", "start": 46.08, "end": 49.28}
+{"id": "gw2GjssUafs-t49.28", "text": "title is a bit opaque.", "start": 49.28, "end": 51.120000000000005}
+{"id": "gw2GjssUafs-t51.12", "text": "That's not, but I want to tell you something about our participants before we proceed.", "start": 51.12, "end": 56.839999999999996}
+{"id": "gw2GjssUafs-t56.839999999999996", "text": "Elias Dachwur actually helped conceive some of this idea of the entire conference on coding.", "start": 56.839999999999996, "end": 63.839999999999996}
+{"id": "gw2GjssUafs-t63.839999999999996", "text": "I want to thank him for that.", "start": 63.839999999999996, "end": 65.47999999999999}
+{"id": "gw2GjssUafs-t65.47999999999999", "text": "He's taking part today as one of the participants.", "start": 65.47999999999999, "end": 68.16}
+{"id": "gw2GjssUafs-t68.16", "text": "He's an associate professor at Columbia University College of Physicians and Surgeons.", "start": 68.16, "end": 72.24}
+{"id": "gw2GjssUafs-t72.24", "text": "He's been researching novel treatments for addiction for over a decade and the support", "start": 72.24, "end": 79.24}
+{"id": "gw2GjssUafs-t79.24", "text": "of several grants and national institutes of health.", "start": 79.24, "end": 84.39999999999999}
+{"id": "gw2GjssUafs-t84.39999999999999", "text": "A special focus of his research has been evaluating sub-anesthetic ketamine infusions for cocaine", "start": 84.39999999999999, "end": 90.72}
+{"id": "gw2GjssUafs-t90.72", "text": "use disorders in both laboratory and clinical settings as well as investigating ketamine", "start": 90.72, "end": 95.8}
+{"id": "gw2GjssUafs-t95.8", "text": "infusions as an adjunct to mindfulness based treatment, mind body practices, motivational", "start": 95.8, "end": 102.24}
+{"id": "gw2GjssUafs-t102.24", "text": "interviewing and other behavioral frameworks for alcohol, cannabis and OB use disorders.", "start": 102.24, "end": 109.08}
+{"id": "gw2GjssUafs-t109.08", "text": "He has a more general interest in the impact of contemplative and non-ordinary experiences", "start": 109.08, "end": 114.56}
+{"id": "gw2GjssUafs-t114.56", "text": "and of the interventions that might occasion and cultivation well-being.", "start": 114.56, "end": 121.64}
+{"id": "gw2GjssUafs-t121.64", "text": "Mr. Fufus is a professor of physics at the University of Massachusetts, Boston, who specializes", "start": 121.64, "end": 127.6}
+{"id": "gw2GjssUafs-t127.6", "text": "in quantum information theory and quantum foundations.", "start": 127.6, "end": 132.24}
+{"id": "gw2GjssUafs-t132.24", "text": "He is an author or co-author of over 160 scholarly pieces, one of which unconditional quantum", "start": 132.24, "end": 139.24}
+{"id": "gw2GjssUafs-t139.24", "text": "teleportation with H.J. Kimball's experimental route was voted a, quote, top ten breakthrough", "start": 139.24, "end": 146.0}
+{"id": "gw2GjssUafs-t146.0", "text": "of 1998, unquote, by the editors of science.", "start": 146.0, "end": 151.92}
+{"id": "gw2GjssUafs-t151.92", "text": "He is a winner of the International Quantum Communication Award and a fellow of the American", "start": 151.92, "end": 156.64}
+{"id": "gw2GjssUafs-t156.64", "text": "Physical Society.", "start": 156.64, "end": 157.64}
+{"id": "gw2GjssUafs-t157.64", "text": "He is most widely known for the development of the quantum interpretation known as Cubism", "start": 157.64, "end": 163.64}
+{"id": "gw2GjssUafs-t163.64", "text": "or quantum theory is not seen as a direct representation of what is in the universe,", "start": 163.64, "end": 171.12}
+{"id": "gw2GjssUafs-t171.12", "text": "but rather an aid to decision making in the universe where nature is events of a kind", "start": 171.12, "end": 176.56}
+{"id": "gw2GjssUafs-t176.56", "text": "of ultimate autonomy or creativity.", "start": 176.56, "end": 181.52}
+{"id": "gw2GjssUafs-t181.52", "text": "Emily Atlam is a post-doctorate associate at the Rodman Institute for Philosophy of Science", "start": 181.52, "end": 187.08}
+{"id": "gw2GjssUafs-t187.08", "text": "at the University of Western Ontario.", "start": 187.08, "end": 189.76}
+{"id": "gw2GjssUafs-t189.76", "text": "She received her Ph.D. in no divisic quantum information from the University of Cambridge.", "start": 189.76, "end": 195.4}
+{"id": "gw2GjssUafs-t195.4", "text": "Prior to that, she completed the Perimeter Scholars International Program in theoretical", "start": 195.4, "end": 200.28}
+{"id": "gw2GjssUafs-t200.28", "text": "physics and she did her undergraduate degree in physics and philosophy at the University", "start": 200.28, "end": 204.92}
+{"id": "gw2GjssUafs-t204.92", "text": "of Oxford.", "start": 204.92, "end": 206.76}
+{"id": "gw2GjssUafs-t206.76", "text": "She works on the foundations of quantum mechanics and related issues in the philosophy of science", "start": 206.76, "end": 212.04}
+{"id": "gw2GjssUafs-t212.04", "text": "and is particularly interested in approaches to physics which go beyond the time of evolution", "start": 212.04, "end": 216.72}
+{"id": "gw2GjssUafs-t216.72", "text": "paradigm encompassing a range of possibilities like temporal non-locality, retro-closality", "start": 216.72, "end": 223.0}
+{"id": "gw2GjssUafs-t223.0", "text": "and all at once laws.", "start": 223.0, "end": 227.16}
+{"id": "gw2GjssUafs-t227.16", "text": "So, Esther James Jim Gates Jr. is a theoretical physicist.", "start": 227.16, "end": 231.48}
+{"id": "gw2GjssUafs-t231.48", "text": "He is a university of Maryland University Systems Regents Professor, the John S. Professor", "start": 231.48, "end": 239.24}
+{"id": "gw2GjssUafs-t239.24", "text": "of Physics and a College Park Professor Emeritus.", "start": 239.24, "end": 242.4}
+{"id": "gw2GjssUafs-t242.4", "text": "He currently holds the Clark Leadership Chair in Science and Serves as a professor of physics", "start": 242.4, "end": 247.88}
+{"id": "gw2GjssUafs-t247.88", "text": "with the physics department as well as affiliate professor of public policy in the School of", "start": 247.88, "end": 253.96}
+{"id": "gw2GjssUafs-t253.96", "text": "Public Policy at the University of Maryland College of Park, Maryland.", "start": 253.96, "end": 258.2}
+{"id": "gw2GjssUafs-t258.2", "text": "Gates served on the U.S. President's Council of Advisors on Science and Technology, contemporaneously", "start": 258.2, "end": 263.84000000000003}
+{"id": "gw2GjssUafs-t263.84000000000003", "text": "on the Maryland State Board of Education from 2009 to 2016 at the National Commission on", "start": 263.84000000000003, "end": 270.56}
+{"id": "gw2GjssUafs-t270.56", "text": "Forensic Science from 2013 to 2016.", "start": 270.56, "end": 275.56}
+{"id": "gw2GjssUafs-t275.56", "text": "He is known for his work on supersymmetry, supergravity and super strength theory.", "start": 275.56, "end": 282.2}
+{"id": "gw2GjssUafs-t282.2", "text": "David Chalmers is University Professor of Philosophy and Neuroscience and co-director", "start": 282.2, "end": 287.15999999999997}
+{"id": "gw2GjssUafs-t287.15999999999997", "text": "of his Center for Mind, Brain and Consciousness at New York University.", "start": 287.15999999999997, "end": 292.52}
+{"id": "gw2GjssUafs-t292.52", "text": "He is author of the Conscious Mind Constructing the World and Reality, Virtual World in the", "start": 292.52, "end": 299.44}
+{"id": "gw2GjssUafs-t299.44", "text": "Problems of Philosophy which was just released this year.", "start": 299.44, "end": 303.44}
+{"id": "gw2GjssUafs-t303.44", "text": "He co-founded the Association for the Scientific Study of Consciousness and Phil papers Foundation.", "start": 303.44, "end": 310.64}
+{"id": "gw2GjssUafs-t310.64", "text": "He has given the John Locke Lecture and has been awarded the John DeCote, the Code of", "start": 310.64, "end": 316.84}
+{"id": "gw2GjssUafs-t316.84", "text": "Reprise.", "start": 316.84, "end": 317.84}
+{"id": "gw2GjssUafs-t317.84", "text": "He is known for formulating the quote unquote, heart-public consciousness which inspired", "start": 317.84, "end": 323.0}
+{"id": "gw2GjssUafs-t323.0", "text": "Tom Stocker to play the heart problem and for the idea of the extended mind which says", "start": 323.0, "end": 329.32}
+{"id": "gw2GjssUafs-t329.32", "text": "that the tools we use can become parts of our minds.", "start": 329.32, "end": 334.32}
+{"id": "gw2GjssUafs-t334.32", "text": "One minute.", "start": 334.32, "end": 335.32}
+{"id": "gw2GjssUafs-t335.32", "text": "Let me take this.", "start": 335.32, "end": 338.32}
+{"id": "gw2GjssUafs-t338.32", "text": "They know attention that may not mind the curtain.", "start": 338.32, "end": 342.92}
+{"id": "gw2GjssUafs-t342.92", "text": "Okay everyone.", "start": 342.92, "end": 344.71999999999997}
+{"id": "gw2GjssUafs-t344.71999999999997", "text": "Welcome.", "start": 344.71999999999997, "end": 345.71999999999997}
+{"id": "gw2GjssUafs-t345.71999999999997", "text": "This is really a very exciting topic for us to leave into and I hope we will make a", "start": 345.71999999999997, "end": 351.56}
+{"id": "gw2GjssUafs-t351.56", "text": "leave.", "start": 351.56, "end": 352.56}
+{"id": "gw2GjssUafs-t352.56", "text": "So does anyone want to start off with a general sort of formulation of what it might mean", "start": 352.56, "end": 359.6}
+{"id": "gw2GjssUafs-t359.6", "text": "for the universe to be a metaverse?", "start": 359.6, "end": 363.2}
+{"id": "gw2GjssUafs-t363.2", "text": "Well I'm willing to start.", "start": 363.2, "end": 367.64}
+{"id": "gw2GjssUafs-t367.64", "text": "First of all I would say it doesn't mean what most people think.", "start": 367.64, "end": 371.0}
+{"id": "gw2GjssUafs-t371.0", "text": "At least from my perspective.", "start": 371.0, "end": 374.36}
+{"id": "gw2GjssUafs-t374.36", "text": "My own research has led me to do in this period.", "start": 374.36, "end": 377.96}
+{"id": "gw2GjssUafs-t377.96", "text": "It's quite astounding.", "start": 377.96, "end": 379.12}
+{"id": "gw2GjssUafs-t379.12", "text": "I started from a position of total skepticism.", "start": 379.12, "end": 383.32}
+{"id": "gw2GjssUafs-t383.32", "text": "Having read about John Wheeler's It From Bit which is the information leads to the existence", "start": 383.32, "end": 389.0}
+{"id": "gw2GjssUafs-t389.0", "text": "of that universe that we live in.", "start": 389.0, "end": 391.84}
+{"id": "gw2GjssUafs-t391.84", "text": "And I remember quite when I was young, first reading it thinking what an insane idea.", "start": 391.84, "end": 397.03999999999996}
+{"id": "gw2GjssUafs-t397.04", "text": "So 15 or 20 years ago in my own research I found mathematical evidence of error correcting", "start": 397.04, "end": 403.40000000000003}
+{"id": "gw2GjssUafs-t403.40000000000003", "text": "codes and what may be the fundamental laws of our universe if ideas relate to string theory", "start": 403.40000000000003, "end": 409.64000000000004}
+{"id": "gw2GjssUafs-t409.64000000000004", "text": "are correct.", "start": 409.64000000000004, "end": 411.44}
+{"id": "gw2GjssUafs-t411.44", "text": "And so at that point I concluded that if you think about this stuff long enough you too", "start": 411.44, "end": 416.6}
+{"id": "gw2GjssUafs-t416.6", "text": "can actually become crazy.", "start": 416.6, "end": 418.64000000000004}
+{"id": "gw2GjssUafs-t418.64", "text": "Coldly better than an idea of this notion that information is an elemental aspect of", "start": 418.64, "end": 429.03999999999996}
+{"id": "gw2GjssUafs-t429.03999999999996", "text": "the universe.", "start": 429.03999999999996, "end": 430.03999999999996}
+{"id": "gw2GjssUafs-t430.03999999999996", "text": "Is that true?", "start": 430.03999999999996, "end": 431.03999999999996}
+{"id": "gw2GjssUafs-t431.03999999999996", "text": "Is that a good way to put it?", "start": 431.03999999999996, "end": 433.64}
+{"id": "gw2GjssUafs-t433.64", "text": "I don't know.", "start": 433.64, "end": 436.8}
+{"id": "gw2GjssUafs-t436.8", "text": "I'm a disciple of John Wheeler's that you just mentioned.", "start": 436.8, "end": 440.4}
+{"id": "gw2GjssUafs-t440.4", "text": "I did some undergraduate work with him.", "start": 440.4, "end": 443.71999999999997}
+{"id": "gw2GjssUafs-t443.72", "text": "And his thinking went through various stages.", "start": 443.72, "end": 449.68}
+{"id": "gw2GjssUafs-t449.68", "text": "He started, I think when it was finally realized that black holes were inevitable, Wheeler", "start": 449.68, "end": 457.32000000000005}
+{"id": "gw2GjssUafs-t457.32000000000005", "text": "started worrying that somehow every law of physics could ultimately be transcended.", "start": 457.32000000000005, "end": 465.32000000000005}
+{"id": "gw2GjssUafs-t465.32000000000005", "text": "So for instance it used to be believed that baryon number was a fixed quantity in the", "start": 465.32000000000005, "end": 470.26000000000005}
+{"id": "gw2GjssUafs-t470.26", "text": "universe but she threw the baryons into black hole and the number of baryons decreases.", "start": 470.26, "end": 475.08}
+{"id": "gw2GjssUafs-t475.08", "text": "So what was once considered law of physics was transcended by black holes.", "start": 475.08, "end": 480.71999999999997}
+{"id": "gw2GjssUafs-t480.71999999999997", "text": "And so he went through this phase of thinking well this is transcended, that is transcended", "start": 480.71999999999997, "end": 488.59999999999997}
+{"id": "gw2GjssUafs-t488.59999999999997", "text": "and he was left with a position where he would say there is laws but the only law is that", "start": 488.59999999999997, "end": 497.24}
+{"id": "gw2GjssUafs-t497.24", "text": "there is no law because they're always ultimately transcended.", "start": 497.24, "end": 501.68}
+{"id": "gw2GjssUafs-t501.68", "text": "So law without law was one of his slogans.", "start": 501.68, "end": 506.32}
+{"id": "gw2GjssUafs-t506.32", "text": "And after that he started thinking well if the universe isn't made of particles, fields", "start": 506.32, "end": 513.52}
+{"id": "gw2GjssUafs-t513.52", "text": "or even geometry because geometry can become singular what must it be made of and that's", "start": 513.52, "end": 520.24}
+{"id": "gw2GjssUafs-t520.24", "text": "where he somehow landed on the idea that it was information.", "start": 520.24, "end": 527.28}
+{"id": "gw2GjssUafs-t527.28", "text": "And so I took that as my starting point but then ultimately I sort of worked away from", "start": 527.28, "end": 532.6}
+{"id": "gw2GjssUafs-t532.6", "text": "that because it apologized information in a way that I thought was unhealthy thinking.", "start": 532.6, "end": 541.48}
+{"id": "gw2GjssUafs-t541.48", "text": "So what we needed to understand instead was that the universe is the universe and then", "start": 541.48, "end": 546.84}
+{"id": "gw2GjssUafs-t546.84", "text": "there are thinking beings in this universe and they use information and they use information", "start": 546.84, "end": 553.36}
+{"id": "gw2GjssUafs-t553.36", "text": "in certain ways because the universe is a certain way but the information itself is", "start": 553.36, "end": 558.32}
+{"id": "gw2GjssUafs-t558.32", "text": "not part of the stuff of the universe.", "start": 558.32, "end": 561.8000000000001}
+{"id": "gw2GjssUafs-t561.8000000000001", "text": "So one can transcend one's mentor.", "start": 561.8000000000001, "end": 567.0}
+{"id": "gw2GjssUafs-t567.0", "text": "Yeah I also tend to be quite skeptical about it from the hypothesis because I think it", "start": 567.0, "end": 572.9200000000001}
+{"id": "gw2GjssUafs-t572.92", "text": "fails to distinguish between what is in the world and the information that we receive", "start": 572.92, "end": 577.0799999999999}
+{"id": "gw2GjssUafs-t577.0799999999999", "text": "about the world.", "start": 577.0799999999999, "end": 578.0799999999999}
+{"id": "gw2GjssUafs-t578.0799999999999", "text": "Obviously we formulate physics on the basis of information that we have received and thus", "start": 578.0799999999999, "end": 582.52}
+{"id": "gw2GjssUafs-t582.52", "text": "it's quite natural that the physics we thus formulate exhibits various information theoretic", "start": 582.52, "end": 587.1999999999999}
+{"id": "gw2GjssUafs-t587.1999999999999", "text": "properties because it's the result of certain epistemic constraints subject that agents", "start": 587.1999999999999, "end": 591.88}
+{"id": "gw2GjssUafs-t591.88", "text": "like us are subject to.", "start": 591.88, "end": 593.5999999999999}
+{"id": "gw2GjssUafs-t593.5999999999999", "text": "Our physics is going to reflect those kinds of constraints.", "start": 593.5999999999999, "end": 596.1999999999999}
+{"id": "gw2GjssUafs-t596.1999999999999", "text": "It's going to reflect the kinds of information we can obtain but that doesn't mean that the", "start": 596.1999999999999, "end": 599.92}
+{"id": "gw2GjssUafs-t599.92", "text": "physics is about information.", "start": 599.92, "end": 601.48}
+{"id": "gw2GjssUafs-t601.48", "text": "It just means the physics is formulated on the basis of information and thus it will", "start": 601.48, "end": 605.44}
+{"id": "gw2GjssUafs-t605.44", "text": "naturally have information theoretic features.", "start": 605.44, "end": 610.6}
+{"id": "gw2GjssUafs-t610.6", "text": "Now our topic is the universe a metaverse.", "start": 610.6, "end": 614.9200000000001}
+{"id": "gw2GjssUafs-t614.9200000000001", "text": "I think the metaverse actually has features that go beyond the simple it from bit idea.", "start": 614.9200000000001, "end": 620.4}
+{"id": "gw2GjssUafs-t620.4", "text": "It may have something in common.", "start": 620.4, "end": 621.72}
+{"id": "gw2GjssUafs-t621.72", "text": "I mean the metaverse standardly stands for a virtual world that we create.", "start": 621.72, "end": 628.44}
+{"id": "gw2GjssUafs-t628.44", "text": "I mean Neil Stevenson introduced the term in his science fiction novel Snow Crash back", "start": 628.44, "end": 633.5600000000001}
+{"id": "gw2GjssUafs-t633.5600000000001", "text": "in 1992 where the metaverse was basically a virtual reality environment that people would", "start": 633.5600000000001, "end": 639.2800000000001}
+{"id": "gw2GjssUafs-t639.2800000000001", "text": "go into with headsets and the like and interact with other people and live a at least a partly", "start": 639.2800000000001, "end": 647.24}
+{"id": "gw2GjssUafs-t647.24", "text": "digital life.", "start": 647.24, "end": 648.24}
+{"id": "gw2GjssUafs-t648.24", "text": "Now of course the tech corporations have appropriated this idea and are using it, you", "start": 648.24, "end": 652.8800000000001}
+{"id": "gw2GjssUafs-t652.88", "text": "know, meta is now using it as a label for the ecosystem of virtual worlds that they would", "start": 652.88, "end": 659.24}
+{"id": "gw2GjssUafs-t659.24", "text": "like to build.", "start": 659.24, "end": 660.24}
+{"id": "gw2GjssUafs-t660.24", "text": "So when I hear is the universe a metaverse I hear is our universe a virtual world inside", "start": 660.24, "end": 669.4}
+{"id": "gw2GjssUafs-t669.4", "text": "someone else's universe in the same way that the metaverse would be a digital world, a", "start": 669.4, "end": 676.68}
+{"id": "gw2GjssUafs-t676.68", "text": "virtual world inside our universe.", "start": 676.68, "end": 678.8}
+{"id": "gw2GjssUafs-t678.8", "text": "I mean that would have elements of the it from bit idea in it because if our universe", "start": 678.8, "end": 683.28}
+{"id": "gw2GjssUafs-t683.28", "text": "is a virtual world inside someone else's universe and presumably we're running on someone else's", "start": 683.28, "end": 690.64}
+{"id": "gw2GjssUafs-t690.64", "text": "computers and there's going to be a level of a level of bits there but I think it's", "start": 690.64, "end": 694.3599999999999}
+{"id": "gw2GjssUafs-t694.3599999999999", "text": "that idea that we're in a virtual world because we're beyond the it from bit idea.", "start": 694.3599999999999, "end": 699.56}
+{"id": "gw2GjssUafs-t699.56", "text": "The it from bit idea can be understood as saying there's a digital processes in the", "start": 699.56, "end": 706.28}
+{"id": "gw2GjssUafs-t706.28", "text": "constitution of our worlds maybe there's even a digital physics it's a interesting speculation", "start": 706.28, "end": 710.88}
+{"id": "gw2GjssUafs-t710.88", "text": "maybe true maybe false but it's a universe a metaverse it's like it from bit on steroids", "start": 710.88, "end": 716.0799999999999}
+{"id": "gw2GjssUafs-t716.0799999999999", "text": "there's bits and there's bits that we are grounded within a vast universe beyond it.", "start": 716.0799999999999, "end": 724.52}
+{"id": "gw2GjssUafs-t724.52", "text": "How could it have been very appealing let's say to Wheeler and there's also what they", "start": 724.52, "end": 728.88}
+{"id": "gw2GjssUafs-t728.88", "text": "would and Fred can also bring about this in years back that so since we have most of the", "start": 728.88, "end": 736.4399999999999}
+{"id": "gw2GjssUafs-t736.4399999999999", "text": "skeptics here it seems about that idea of it from bit that's great that's that seems", "start": 736.4399999999999, "end": 741.32}
+{"id": "gw2GjssUafs-t741.32", "text": "like nice to have that sort of consensus but I like the idea.", "start": 741.32, "end": 744.64}
+{"id": "gw2GjssUafs-t744.64", "text": "I can't even put it in a world like it was two and two.", "start": 744.64, "end": 749.2}
+{"id": "gw2GjssUafs-t749.2", "text": "Okay.", "start": 749.2, "end": 750.2}
+{"id": "gw2GjssUafs-t750.2", "text": "Well Jim I'm not interested in us sort of fleshing out just for the just to be fair and honest", "start": 750.2, "end": 754.84}
+{"id": "gw2GjssUafs-t754.84", "text": "with the idea what is it because I think the general audience may have appreciated what", "start": 754.84, "end": 759.9200000000001}
+{"id": "gw2GjssUafs-t759.9200000000001", "text": "is that even mean to say the universe is made up of information that seems like if you say", "start": 759.9200000000001, "end": 764.08}
+{"id": "gw2GjssUafs-t764.08", "text": "it's made up of atoms you go.", "start": 764.08, "end": 766.08}
+{"id": "gw2GjssUafs-t766.08", "text": "There's quite a distinct so you brought up at Fred Kim and Fred Kim thought that the", "start": 766.08, "end": 770.8000000000001}
+{"id": "gw2GjssUafs-t770.8000000000001", "text": "world was a program running on something the last time I heard him speak was the other", "start": 770.8000000000001, "end": 778.48}
+{"id": "gw2GjssUafs-t778.48", "text": "the universe is a program running on the other what's the other at well no answer so that", "start": 778.48, "end": 787.32}
+{"id": "gw2GjssUafs-t787.32", "text": "I never found a productive line of thought.", "start": 787.32, "end": 791.28}
+{"id": "gw2GjssUafs-t791.28", "text": "Wheeler on the other hand didn't think that the universe was a program running on anything", "start": 791.28, "end": 797.2}
+{"id": "gw2GjssUafs-t797.2", "text": "so when he was saying it from bit he would even say that the only thing that's going", "start": 797.2, "end": 802.72}
+{"id": "gw2GjssUafs-t802.72", "text": "on in the universe is higgledy higgledy which was the first time I'd ever heard the term", "start": 802.72, "end": 807.6800000000001}
+{"id": "gw2GjssUafs-t807.68", "text": "and I'd look it up not for the English dictionary.", "start": 807.68, "end": 810.3599999999999}
+{"id": "gw2GjssUafs-t810.3599999999999", "text": "You know that the universe is just sort of bubbling out of chaos but the stuff that's", "start": 810.3599999999999, "end": 816.68}
+{"id": "gw2GjssUafs-t816.68", "text": "bubbling up is information in Wheeler's mind so they're very different world views.", "start": 816.68, "end": 822.68}
+{"id": "gw2GjssUafs-t822.68", "text": "So the.", "start": 822.68, "end": 823.68}
+{"id": "gw2GjssUafs-t823.68", "text": "Well remember there's no ether right I mean for a long time I've seen we couldn't do any", "start": 823.68, "end": 827.0}
+{"id": "gw2GjssUafs-t827.0", "text": "physics without there being an ether.", "start": 827.0, "end": 829.68}
+{"id": "gw2GjssUafs-t829.68", "text": "Yeah.", "start": 829.68, "end": 830.68}
+{"id": "gw2GjssUafs-t830.68", "text": "People said oh there is.", "start": 830.68, "end": 832.68}
+{"id": "gw2GjssUafs-t832.68", "text": "But we still have these waves.", "start": 832.68, "end": 835.68}
+{"id": "gw2GjssUafs-t835.68", "text": "I mean so can you is it is it fair to be critical of him for not being able to come up with", "start": 835.68, "end": 841.1999999999999}
+{"id": "gw2GjssUafs-t841.1999999999999", "text": "what is I kind of.", "start": 841.1999999999999, "end": 842.76}
+{"id": "gw2GjssUafs-t842.76", "text": "Oh you've been Fred.", "start": 842.76, "end": 843.76}
+{"id": "gw2GjssUafs-t843.76", "text": "Yeah.", "start": 843.76, "end": 844.76}
+{"id": "gw2GjssUafs-t844.76", "text": "Yeah.", "start": 844.76, "end": 845.76}
+{"id": "gw2GjssUafs-t845.76", "text": "Is it fair to be critical for somebody who says I can't tell you what the media.", "start": 845.76, "end": 849.1999999999999}
+{"id": "gw2GjssUafs-t849.1999999999999", "text": "I can't tell you what the universe is but it's running on the other.", "start": 849.1999999999999, "end": 853.1999999999999}
+{"id": "gw2GjssUafs-t853.1999999999999", "text": "You know the other hand you might say they didn't mind of God and how is this more productive.", "start": 853.1999999999999, "end": 857.52}
+{"id": "gw2GjssUafs-t857.52", "text": "But that would be my one.", "start": 857.52, "end": 858.88}
+{"id": "gw2GjssUafs-t858.88", "text": "The idea goes way beyond Fred can though I mean Conrad Zusse who one of the inventors", "start": 858.88, "end": 863.52}
+{"id": "gw2GjssUafs-t863.52", "text": "of the computer back in 1943 he were reams manuscript some the idea that physics might", "start": 863.52, "end": 869.3199999999999}
+{"id": "gw2GjssUafs-t869.3199999999999", "text": "be might be digital and that's what I take to be the core idea of it from bits just that", "start": 869.3199999999999, "end": 874.72}
+{"id": "gw2GjssUafs-t874.72", "text": "they're a level of physics which is somehow digital if for example as Stephen Wolfram is", "start": 874.72, "end": 879.76}
+{"id": "gw2GjssUafs-t879.76", "text": "sometimes slow maybe our universe is a cellular automaton running off like a game of life", "start": 879.76, "end": 885.48}
+{"id": "gw2GjssUafs-t885.48", "text": "bits interacted with bits at the bottom level that would be digital physics.", "start": 885.48, "end": 888.8}
+{"id": "gw2GjssUafs-t888.8", "text": "I mean it's probably true but it's not a crazy idea.", "start": 888.8, "end": 892.52}
+{"id": "gw2GjssUafs-t892.52", "text": "It's a perfectly sensible idea that physics could be digital.", "start": 892.52, "end": 896.04}
+{"id": "gw2GjssUafs-t896.04", "text": "Can I even push it back one step further.", "start": 896.04, "end": 900.96}
+{"id": "gw2GjssUafs-t900.96", "text": "So as I said when I in my own work found evidence for error correcting codes possibly in the", "start": 900.96, "end": 906.96}
+{"id": "gw2GjssUafs-t906.96", "text": "standard sorts of laws that out in Einstein and Maxwell which is where we business make", "start": 906.96, "end": 913.88}
+{"id": "gw2GjssUafs-t913.88", "text": "out living I had a hard time getting it published that we were finding error correcting codes", "start": 913.88, "end": 920.12}
+{"id": "gw2GjssUafs-t920.12", "text": "in this thing called supersymmetry which is an extension we've not seen in the laboratory", "start": 920.12, "end": 924.68}
+{"id": "gw2GjssUafs-t924.68", "text": "but it extends mathematically other position that starts with Maxwell and Einstein.", "start": 924.68, "end": 931.08}
+{"id": "gw2GjssUafs-t931.08", "text": "And so when I wrestle with this one of the things that occurred to me is that it's not", "start": 931.08, "end": 937.0}
+{"id": "gw2GjssUafs-t937.0", "text": "just about the digital part because you can all in my mind you can go all the way back", "start": 937.0, "end": 943.4}
+{"id": "gw2GjssUafs-t943.4", "text": "to play those allegory of the cave and ask the questions where do we fit in that story", "start": 943.4, "end": 949.92}
+{"id": "gw2GjssUafs-t949.92", "text": "because I'm sure you're all familiar this is a famous parable about these individuals", "start": 949.92, "end": 957.68}
+{"id": "gw2GjssUafs-t957.68", "text": "trapped in a cave that can only see shadows on a wall and they perceive those shadows", "start": 957.68, "end": 963.28}
+{"id": "gw2GjssUafs-t963.28", "text": "and the shadows come from outside the cave and they perceive those shadows as being reality", "start": 963.28, "end": 968.0}
+{"id": "gw2GjssUafs-t968.0", "text": "but when exposed to actual reality they don't know how to interpret and readily what they're", "start": 968.0, "end": 973.3199999999999}
+{"id": "gw2GjssUafs-t973.3199999999999", "text": "encountering.", "start": 973.3199999999999, "end": 974.3199999999999}
+{"id": "gw2GjssUafs-t974.32", "text": "And in some sense to me it's really odd that this several millennium year old idea has", "start": 974.32, "end": 984.32}
+{"id": "gw2GjssUafs-t984.32", "text": "been partially realized in where physics has taken us a couple of thousand years later", "start": 984.32, "end": 990.08}
+{"id": "gw2GjssUafs-t990.08", "text": "to me this is a very odd development but one of the things I would caution a group like", "start": 990.08, "end": 996.08}
+{"id": "gw2GjssUafs-t996.08", "text": "this discussing these ideas is not to forget what Einstein said about Galileo.", "start": 996.08, "end": 1002.72}
+{"id": "gw2GjssUafs-t1002.72", "text": "Einstein called Galileo the father of physics because and this is Einstein's word he drummed", "start": 1002.72, "end": 1009.4}
+{"id": "gw2GjssUafs-t1009.4", "text": "it into our heads that the way we know about reality is by measuring and observing reality", "start": 1009.4, "end": 1016.96}
+{"id": "gw2GjssUafs-t1016.96", "text": "and that if you have a proposition that leads to no measurable outcome it exceeds the definition", "start": 1016.96, "end": 1025.96}
+{"id": "gw2GjssUafs-t1025.96", "text": "of science.", "start": 1025.96, "end": 1026.96}
+{"id": "gw2GjssUafs-t1026.96", "text": "Well sort of like this idea that's a metaphysics you're doubly a metaphysics but it's in the", "start": 1026.96, "end": 1032.68}
+{"id": "gw2GjssUafs-t1032.68", "text": "interesting that you mention these error correcting codes and I think well if a consequence of", "start": 1032.68, "end": 1037.88}
+{"id": "gw2GjssUafs-t1037.88", "text": "your view of the university model of the universe includes error correcting codes that you're", "start": 1037.88, "end": 1044.0800000000002}
+{"id": "gw2GjssUafs-t1044.0800000000002", "text": "citing and say well that's a consequence.", "start": 1044.0800000000002, "end": 1046.8}
+{"id": "gw2GjssUafs-t1046.8", "text": "So you say more about that?", "start": 1046.8, "end": 1049.0}
+{"id": "gw2GjssUafs-t1049.0", "text": "Is there a way to test that or is there other implications of that idea that might be relevant", "start": 1049.0, "end": 1055.6000000000001}
+{"id": "gw2GjssUafs-t1055.6000000000001", "text": "to theoretical physics today?", "start": 1055.6000000000001, "end": 1059.44}
+{"id": "gw2GjssUafs-t1059.44", "text": "But I have a few minutes to think about that and you can ask about other participants", "start": 1059.44, "end": 1063.6000000000001}
+{"id": "gw2GjssUafs-t1063.6000000000001", "text": "the way I need to think about that for a second.", "start": 1063.6000000000001, "end": 1066.52}
+{"id": "gw2GjssUafs-t1066.52", "text": "What is reminding us is this space time interval of special relativity that most folks out", "start": 1066.52, "end": 1072.0800000000002}
+{"id": "gw2GjssUafs-t1072.0800000000002", "text": "there have read a lot about relativity may not appreciate if there's this geometry at", "start": 1072.0800000000002, "end": 1076.68}
+{"id": "gw2GjssUafs-t1076.68", "text": "the space time invariant that's a pretty cool mathematical finding and that does confirm", "start": 1076.68, "end": 1082.3600000000001}
+{"id": "gw2GjssUafs-t1082.3600000000001", "text": "a lot of what happens in special relativity most folks don't realize that that geometry", "start": 1082.3600000000001, "end": 1086.96}
+{"id": "gw2GjssUafs-t1086.96", "text": "is built into space life.", "start": 1086.96, "end": 1091.1200000000001}
+{"id": "gw2GjssUafs-t1091.1200000000001", "text": "Yeah I was going to say that I think Plato is came as a good example of the sense in", "start": 1091.1200000000001, "end": 1095.0}
+{"id": "gw2GjssUafs-t1095.0", "text": "which some caution is required in making these kinds of claims because like the observers", "start": 1095.0, "end": 1099.2}
+{"id": "gw2GjssUafs-t1099.2", "text": "in Plato's came we are presumably quite limited our ability to observe things and we are observing", "start": 1099.2, "end": 1105.44}
+{"id": "gw2GjssUafs-t1105.44", "text": "sort of reflections on a wall rather than whatever is causing them and when we speak", "start": 1105.44, "end": 1109.8400000000001}
+{"id": "gw2GjssUafs-t1109.8400000000001", "text": "out for an distinction between properties of that are sort of properties of the observations", "start": 1109.8400000000001, "end": 1114.44}
+{"id": "gw2GjssUafs-t1114.44", "text": "in virtue of the way in which we are situated at our limitations versus properties that", "start": 1114.44, "end": 1118.52}
+{"id": "gw2GjssUafs-t1118.52", "text": "are properties of the world and my concern is that there were these discussions about", "start": 1118.52, "end": 1122.16}
+{"id": "gw2GjssUafs-t1122.16", "text": "it from bit what's going on is that we are mistaking properties of our observations like", "start": 1122.16, "end": 1126.28}
+{"id": "gw2GjssUafs-t1126.28", "text": "the existence of certain sort of epistemological limitations or inter-fee balance and so on.", "start": 1126.28, "end": 1131.64}
+{"id": "gw2GjssUafs-t1131.64", "text": "We are mistaking those things for properties of reality and we need to sort of keep in", "start": 1131.64, "end": 1135.48}
+{"id": "gw2GjssUafs-t1135.48", "text": "mind that the epistemological limitations that apply to our observations are necessarily", "start": 1135.48, "end": 1140.92}
+{"id": "gw2GjssUafs-t1140.92", "text": "properties and the observations are ultimately being caused by.", "start": 1140.92, "end": 1147.96}
+{"id": "gw2GjssUafs-t1147.96", "text": "An original criticism of quantum mechanics.", "start": 1147.96, "end": 1152.04}
+{"id": "gw2GjssUafs-t1152.04", "text": "Yes that is one criticism.", "start": 1152.04, "end": 1154.2}
+{"id": "gw2GjssUafs-t1154.2", "text": "Yeah I think it applies outside quantum mechanics as well as not limited to that particular domain.", "start": 1154.2, "end": 1159.3200000000002}
+{"id": "gw2GjssUafs-t1159.3200000000002", "text": "You challenged me a few seconds ago so I am prepared now to respond.", "start": 1159.3200000000002, "end": 1164.76}
+{"id": "gw2GjssUafs-t1164.76", "text": "So when I was part of a collaboration three mathematicians, three physicists and we came", "start": 1164.76, "end": 1172.08}
+{"id": "gw2GjssUafs-t1172.08", "text": "up on this very strange discovery for a few years afterwards I would get the question", "start": 1172.08, "end": 1179.12}
+{"id": "gw2GjssUafs-t1179.12", "text": "what does this mean and that's kind of what you just asked me and this has led me personally", "start": 1179.12, "end": 1185.28}
+{"id": "gw2GjssUafs-t1185.28", "text": "to ask the strangest question in my career which is if the laws of physics involve error", "start": 1185.28, "end": 1192.52}
+{"id": "gw2GjssUafs-t1192.52", "text": "correcting codes and as soon as someone tells me they see a super partner in some laboratory", "start": 1192.52, "end": 1198.52}
+{"id": "gw2GjssUafs-t1198.52", "text": "I can make that assertion.", "start": 1198.52, "end": 1201.24}
+{"id": "gw2GjssUafs-t1201.24", "text": "If that occurs the question is how in the world did the laws of physics get to error", "start": 1201.24, "end": 1207.44}
+{"id": "gw2GjssUafs-t1207.44", "text": "correction and to answer that question the only way I know how to answer that is to look", "start": 1207.44, "end": 1211.96}
+{"id": "gw2GjssUafs-t1211.96", "text": "at the nature herself as a model and there is only one part of nature that I know where", "start": 1211.96, "end": 1216.32}
+{"id": "gw2GjssUafs-t1216.32", "text": "error correction is discussed is genetics and in genetics the proposition is the error", "start": 1216.32, "end": 1222.96}
+{"id": "gw2GjssUafs-t1222.96", "text": "correcting codes are put there by the forces of evolution and so the question translated", "start": 1222.96, "end": 1228.08}
+{"id": "gw2GjssUafs-t1228.08", "text": "to what I have seen is what does it mean for evolution to act on the mathematical laws", "start": 1228.08, "end": 1233.8}
+{"id": "gw2GjssUafs-t1233.8", "text": "of the universe?", "start": 1233.8, "end": 1235.76}
+{"id": "gw2GjssUafs-t1235.76", "text": "I can state the question I have no idea what the answer would be.", "start": 1235.76, "end": 1240.1599999999999}
+{"id": "gw2GjssUafs-t1240.1599999999999", "text": "That's nice.", "start": 1240.1599999999999, "end": 1242.1599999999999}
+{"id": "gw2GjssUafs-t1242.1599999999999", "text": "Thank you.", "start": 1242.1599999999999, "end": 1243.1599999999999}
+{"id": "gw2GjssUafs-t1243.16", "text": "I am glad to talk about that.", "start": 1243.16, "end": 1247.3200000000002}
+{"id": "gw2GjssUafs-t1247.3200000000002", "text": "There is an old tradition or there is a tradition maybe it doesn't exist so much anymore thinking", "start": 1247.3200000000002, "end": 1255.16}
+{"id": "gw2GjssUafs-t1255.16", "text": "that the laws of nature might evolve and I mean we were talking about Wheeler earlier", "start": 1255.16, "end": 1259.8400000000001}
+{"id": "gw2GjssUafs-t1259.8400000000001", "text": "Wheeler thinking that laws can be transcended ultimately there aren't laws but there was", "start": 1259.8400000000001, "end": 1265.6000000000001}
+{"id": "gw2GjssUafs-t1265.6", "text": "an American philosopher named Charles Sanders Purse who believed that the laws of nature", "start": 1265.6, "end": 1273.8799999999999}
+{"id": "gw2GjssUafs-t1273.8799999999999", "text": "could evolve and that laws of nature were habits.", "start": 1273.8799999999999, "end": 1278.0}
+{"id": "gw2GjssUafs-t1278.0", "text": "I mean there is even like a lovely story of Purse's explanation for gravity was that", "start": 1278.0, "end": 1289.1599999999999}
+{"id": "gw2GjssUafs-t1289.16", "text": "in primordial universe things were going around some things flew out and some things", "start": 1289.16, "end": 1296.16}
+{"id": "gw2GjssUafs-t1296.16", "text": "formed the habit of going around each other and that was the origin of gravity.", "start": 1296.16, "end": 1301.0}
+{"id": "gw2GjssUafs-t1301.0", "text": "It was a natural selection effect.", "start": 1301.0, "end": 1304.16}
+{"id": "gw2GjssUafs-t1304.16", "text": "So this group of philosophers William James, Charles Sanders Purse, John Dewey they were", "start": 1304.16, "end": 1310.44}
+{"id": "gw2GjssUafs-t1310.44", "text": "known as American pragmatists and they were perfectly willing to believe that the laws", "start": 1310.44, "end": 1314.44}
+{"id": "gw2GjssUafs-t1314.44", "text": "of nature could evolve.", "start": 1314.44, "end": 1317.5600000000002}
+{"id": "gw2GjssUafs-t1317.56", "text": "And there is a nice I mean I am just telling you historical things.", "start": 1317.56, "end": 1323.84}
+{"id": "gw2GjssUafs-t1323.84", "text": "There is the great mathematical physicist Henri Poincare his brother-in-law in Neil", "start": 1323.84, "end": 1331.2}
+{"id": "gw2GjssUafs-t1331.2", "text": "Boutro believed that the laws of nature could evolve and Poincare wrote a nice essay about", "start": 1331.2, "end": 1339.12}
+{"id": "gw2GjssUafs-t1339.12", "text": "what could it mean for the laws of nature to evolve.", "start": 1339.12, "end": 1341.8}
+{"id": "gw2GjssUafs-t1341.8", "text": "How would you have some kind of empirical evidence that the laws are evolving and he", "start": 1341.8, "end": 1346.84}
+{"id": "gw2GjssUafs-t1346.84", "text": "said presently if you see that your theory gives rise to a singularity that this must", "start": 1346.84, "end": 1354.76}
+{"id": "gw2GjssUafs-t1354.76", "text": "be a statement that the theory itself is telling you I can't go forever.", "start": 1354.76, "end": 1359.8}
+{"id": "gw2GjssUafs-t1359.8", "text": "So I thought that was very nice.", "start": 1359.8, "end": 1365.8}
+{"id": "gw2GjssUafs-t1365.8", "text": "You could ask yourself about the metaverse and say and some people do they hear about", "start": 1365.8, "end": 1371.9599999999998}
+{"id": "gw2GjssUafs-t1371.9599999999998", "text": "it they say that's a crazy idea.", "start": 1371.9599999999998, "end": 1374.9599999999998}
+{"id": "gw2GjssUafs-t1374.96", "text": "And then you as a prominent philosopher have written a whole book about it which means", "start": 1374.96, "end": 1381.64}
+{"id": "gw2GjssUafs-t1381.64", "text": "to some degree you take it seriously.", "start": 1381.64, "end": 1384.56}
+{"id": "gw2GjssUafs-t1384.56", "text": "So why isn't it a ridiculous idea?", "start": 1384.56, "end": 1388.44}
+{"id": "gw2GjssUafs-t1388.44", "text": "Why is it something to actually think about it?", "start": 1388.44, "end": 1393.1200000000001}
+{"id": "gw2GjssUafs-t1393.1200000000001", "text": "The metaverse is not a ridiculous idea.", "start": 1393.1200000000001, "end": 1395.52}
+{"id": "gw2GjssUafs-t1395.52", "text": "The metaverse is actually something that people are trying to create right now in the tech", "start": 1395.52, "end": 1400.48}
+{"id": "gw2GjssUafs-t1400.48", "text": "corporations and elsewhere we have.", "start": 1400.48, "end": 1402.92}
+{"id": "gw2GjssUafs-t1402.92", "text": "But then there's a hypothesis.", "start": 1402.92, "end": 1405.44}
+{"id": "gw2GjssUafs-t1405.44", "text": "I distinguish the metaverse which is about the virtual worlds that we create from say", "start": 1405.44, "end": 1411.3200000000002}
+{"id": "gw2GjssUafs-t1411.3200000000002", "text": "the simulation hypothesis the hypothesis that we're living inside a metaverse or a simulation.", "start": 1411.3200000000002, "end": 1421.1200000000001}
+{"id": "gw2GjssUafs-t1421.1200000000001", "text": "And that's of course an odd idea in science fiction you get it in the matrix.", "start": 1421.1200000000001, "end": 1426.8000000000002}
+{"id": "gw2GjssUafs-t1426.8000000000002", "text": "You also find versions of it.", "start": 1426.8000000000002, "end": 1428.44}
+{"id": "gw2GjssUafs-t1428.44", "text": "The video's cave is not too far from a version of it, Ren\u00e9 Descartes talking about the hypothesis", "start": 1428.44, "end": 1434.28}
+{"id": "gw2GjssUafs-t1434.28", "text": "that maybe all this could be a dream, all this could be produced by sensations produced", "start": 1434.28, "end": 1439.3200000000002}
+{"id": "gw2GjssUafs-t1439.3200000000002", "text": "by an evil demon.", "start": 1439.3200000000002, "end": 1440.3200000000002}
+{"id": "gw2GjssUafs-t1440.3200000000002", "text": "Yeah the idea that all this is a computer simulation is a successor to that idea.", "start": 1440.3200000000002, "end": 1446.04}
+{"id": "gw2GjssUafs-t1446.04", "text": "Why take it seriously?", "start": 1446.04, "end": 1447.04}
+{"id": "gw2GjssUafs-t1447.04", "text": "Well one reason to take it seriously is just the idea that there may be many metaverses,", "start": 1447.04, "end": 1454.3600000000001}
+{"id": "gw2GjssUafs-t1454.36", "text": "many simulations created in the history of the universe, maybe actually many more virtual", "start": 1454.36, "end": 1462.6399999999999}
+{"id": "gw2GjssUafs-t1462.6399999999999", "text": "universes than non-virtual universes.", "start": 1462.6399999999999, "end": 1466.24}
+{"id": "gw2GjssUafs-t1466.24", "text": "Maybe even many more non-virtual people, many more virtual people than non-virtual people.", "start": 1466.24, "end": 1472.08}
+{"id": "gw2GjssUafs-t1472.08", "text": "I'm assuming because I'm assuming those virtual people are actually conscious and having conscious", "start": 1472.08, "end": 1477.9599999999998}
+{"id": "gw2GjssUafs-t1477.96", "text": "experiences like ours then you say statistically what are the odds that I'm one of the lucky", "start": 1477.96, "end": 1487.2}
+{"id": "gw2GjssUafs-t1487.2", "text": "ones at ground zero, unsibulated.", "start": 1487.2, "end": 1489.8400000000001}
+{"id": "gw2GjssUafs-t1489.8400000000001", "text": "I think Postam is actually given the statistical argument that we should take this hypothesis", "start": 1489.8400000000001, "end": 1496.1200000000001}
+{"id": "gw2GjssUafs-t1496.1200000000001", "text": "very seriously and the fact that we're now actually creating these universes, I mean we", "start": 1496.1200000000001, "end": 1501.0}
+{"id": "gw2GjssUafs-t1501.0", "text": "don't yet have simulated universes anything like depth and detail of the physical world", "start": 1501.0, "end": 1506.0}
+{"id": "gw2GjssUafs-t1506.0", "text": "but no one would be surprised if in say a century we were getting pretty close to that.", "start": 1506.0, "end": 1511.4}
+{"id": "gw2GjssUafs-t1511.4", "text": "The fact that technology is going there gives us all maybe all the more reason for us to", "start": 1511.4, "end": 1514.92}
+{"id": "gw2GjssUafs-t1514.92", "text": "take this seriously as a realistic possibility.", "start": 1514.92, "end": 1517.36}
+{"id": "gw2GjssUafs-t1517.36", "text": "So I don't advocate the idea, I don't come out and say yes we are definitely in a simulation", "start": 1517.36, "end": 1521.64}
+{"id": "gw2GjssUafs-t1521.64", "text": "but I take it to grand metaphysical speculation about our universe that we should take seriously.", "start": 1521.64, "end": 1527.92}
+{"id": "gw2GjssUafs-t1527.92", "text": "It's an interestingly, you know it's continuous with the infra-bit idea that there's a level", "start": 1527.92, "end": 1532.04}
+{"id": "gw2GjssUafs-t1532.04", "text": "of digitality underneath our reality but of course it goes way beyond it.", "start": 1532.04, "end": 1537.6399999999999}
+{"id": "gw2GjssUafs-t1537.6399999999999", "text": "Sometimes I talk about the it from bit from it idea, the other bits underneath the it's", "start": 1537.6399999999999, "end": 1543.6}
+{"id": "gw2GjssUafs-t1543.6", "text": "the apples and particles are made of a level of bits but underneath that level of bits", "start": 1543.6, "end": 1547.72}
+{"id": "gw2GjssUafs-t1547.72", "text": "there may be so much more such as for example the world in which the simulation takes place.", "start": 1547.72, "end": 1553.44}
+{"id": "gw2GjssUafs-t1553.44", "text": "So I think about the simulation hypothesis as a version of the it from bit from it idea.", "start": 1553.44, "end": 1561.8799999999999}
+{"id": "gw2GjssUafs-t1561.88", "text": "Earlier I spoke about the simulation hypothesis, the hypothesis is exceeding the bounds of", "start": 1561.88, "end": 1567.3200000000002}
+{"id": "gw2GjssUafs-t1567.3200000000002", "text": "physics at least as I understand it and when I speak to the public in general because I've", "start": 1567.3200000000002, "end": 1574.1200000000001}
+{"id": "gw2GjssUafs-t1574.1200000000001", "text": "been many times asked about this I just point out to people that if you take the simulation", "start": 1574.1200000000001, "end": 1580.68}
+{"id": "gw2GjssUafs-t1580.68", "text": "hypothesis seriously then ghosts are possible because if we're programs running on some", "start": 1580.68, "end": 1589.2}
+{"id": "gw2GjssUafs-t1589.2", "text": "underlying structure when that program is terminated as long as the underlying structure", "start": 1589.2, "end": 1595.56}
+{"id": "gw2GjssUafs-t1595.56", "text": "is not damaged you can be initiate that program that's a ghost and in my universe I don't", "start": 1595.56, "end": 1602.96}
+{"id": "gw2GjssUafs-t1602.96", "text": "understand how ghosts can exist.", "start": 1602.96, "end": 1604.96}
+{"id": "gw2GjssUafs-t1604.96", "text": "Are you guys making backups?", "start": 1604.96, "end": 1606.96}
+{"id": "gw2GjssUafs-t1606.96", "text": "Yeah I have been saying about the simulation hypothesis for the similar reason.", "start": 1606.96, "end": 1613.0}
+{"id": "gw2GjssUafs-t1613.0", "text": "At least when there are scientific contexts I think there are certain kinds of hypotheses", "start": 1613.0, "end": 1617.1200000000001}
+{"id": "gw2GjssUafs-t1617.12", "text": "that we just have to pre-mufface you rule out because they prevent us from using empirical", "start": 1617.12, "end": 1621.0}
+{"id": "gw2GjssUafs-t1621.0", "text": "evidence in the usual sorts of ways to confirm scientific theories and I think that things", "start": 1621.0, "end": 1626.28}
+{"id": "gw2GjssUafs-t1626.28", "text": "like the simulated hypothesis this as well as related things like the ever-entert rotation", "start": 1626.28, "end": 1631.76}
+{"id": "gw2GjssUafs-t1631.76", "text": "various things which significantly interfere with the relationship we pursue ourselves", "start": 1631.76, "end": 1636.0}
+{"id": "gw2GjssUafs-t1636.0", "text": "to have with our evidence for our theories just need to be ruled out at the beginning", "start": 1636.0, "end": 1639.8}
+{"id": "gw2GjssUafs-t1639.8", "text": "if we want to do any science which just you know those things could be true but we have", "start": 1639.8, "end": 1644.84}
+{"id": "gw2GjssUafs-t1644.84", "text": "to pursue their long trip we're going to do simple science.", "start": 1644.84, "end": 1647.48}
+{"id": "gw2GjssUafs-t1647.48", "text": "I just want to say some of us here are not scientists for philosophy.", "start": 1647.48, "end": 1650.04}
+{"id": "gw2GjssUafs-t1650.04", "text": "Yeah.", "start": 1650.04, "end": 1651.04}
+{"id": "gw2GjssUafs-t1651.04", "text": "It would be fine philosophical hypothesis.", "start": 1651.04, "end": 1653.04}
+{"id": "gw2GjssUafs-t1653.04", "text": "Yes.", "start": 1653.04, "end": 1654.04}
+{"id": "gw2GjssUafs-t1654.04", "text": "I'm happy with that.", "start": 1654.04, "end": 1655.04}
+{"id": "gw2GjssUafs-t1655.04", "text": "The law of the hypothesis but certainly within the point of view is trying to decide", "start": 1655.04, "end": 1660.52}
+{"id": "gw2GjssUafs-t1660.52", "text": "to think things on the hypothesis.", "start": 1660.52, "end": 1662.52}
+{"id": "gw2GjssUafs-t1662.52", "text": "I think it's funny because I think even in Descartes case you know people might argue", "start": 1662.52, "end": 1667.3999999999999}
+{"id": "gw2GjssUafs-t1667.3999999999999", "text": "that whereas he made a way out of this conundrum could it be that the entire our experiences", "start": 1667.3999999999999, "end": 1673.9199999999998}
+{"id": "gw2GjssUafs-t1673.92", "text": "and generated by a demon etc.", "start": 1673.92, "end": 1675.8400000000001}
+{"id": "gw2GjssUafs-t1675.8400000000001", "text": "You know he made his way out by I think therefore I am and then the gods perfect and that's", "start": 1675.8400000000001, "end": 1680.96}
+{"id": "gw2GjssUafs-t1680.96", "text": "how I got out of that trap.", "start": 1680.96, "end": 1683.16}
+{"id": "gw2GjssUafs-t1683.16", "text": "But you could argue and I accept this that the implausibility of that first.", "start": 1683.16, "end": 1688.16}
+{"id": "gw2GjssUafs-t1688.16", "text": "Anyway that's the way I think it.", "start": 1688.16, "end": 1690.16}
+{"id": "gw2GjssUafs-t1690.16", "text": "The dad really did a lot of the heavy lifting in moving away from that.", "start": 1690.16, "end": 1694.96}
+{"id": "gw2GjssUafs-t1694.96", "text": "Some people think there could be evidence for versions of the simulation hypothesis maybe", "start": 1694.96, "end": 1699.2}
+{"id": "gw2GjssUafs-t1699.2", "text": "not for the perfect indistinguishable simulation but maybe say it's an imperfect simulation", "start": 1699.2, "end": 1704.72}
+{"id": "gw2GjssUafs-t1704.72", "text": "with glitches.", "start": 1704.72, "end": 1705.72}
+{"id": "gw2GjssUafs-t1705.72", "text": "Jim's colleague Zorri Devoudi and others had a paper talking about what would it look", "start": 1705.72, "end": 1710.16}
+{"id": "gw2GjssUafs-t1710.16", "text": "like if we were in an approximate simulation that kind of cut some corners on the equation", "start": 1710.16, "end": 1715.0}
+{"id": "gw2GjssUafs-t1715.0", "text": "and some potential evidence there or if there are glitches like in the black hat that crosses", "start": 1715.0, "end": 1721.0}
+{"id": "gw2GjssUafs-t1721.0", "text": "your path.", "start": 1721.0, "end": 1722.0}
+{"id": "gw2GjssUafs-t1722.0", "text": "There's evidence potential evidence for the imperfect simulation hypothesis so that makes", "start": 1722.0, "end": 1726.48}
+{"id": "gw2GjssUafs-t1726.48", "text": "it at least maybe continuous with size but once it becomes the perfect simulation that", "start": 1726.48, "end": 1730.88}
+{"id": "gw2GjssUafs-t1730.88", "text": "Descartes was talking about when indistinguishable from physical reality I guess at that point", "start": 1730.88, "end": 1735.96}
+{"id": "gw2GjssUafs-t1735.96", "text": "it becomes philosophy because there's no experiment you can do.", "start": 1735.96, "end": 1738.88}
+{"id": "gw2GjssUafs-t1738.88", "text": "Well yeah from a scientific point of view it's the problem not so much that there never", "start": 1738.88, "end": 1743.04}
+{"id": "gw2GjssUafs-t1743.04", "text": "could possibly be any evidence but more that there aren't really sort of meaningful steps", "start": 1743.04, "end": 1747.2}
+{"id": "gw2GjssUafs-t1747.2", "text": "that we can take to go out and see evidence.", "start": 1747.2, "end": 1750.64}
+{"id": "gw2GjssUafs-t1750.64", "text": "We have to just wait for some glitches to show up or put you know people outside the matrix", "start": 1750.64, "end": 1756.0}
+{"id": "gw2GjssUafs-t1756.0", "text": "to decide to take us out and tell us the tricks you know that those would certainly count", "start": 1756.0, "end": 1760.16}
+{"id": "gw2GjssUafs-t1760.16", "text": "as evidence for that hypothesis were they to occur but it's not much we can do to bring", "start": 1760.16, "end": 1763.48}
+{"id": "gw2GjssUafs-t1763.48", "text": "about those things happening as play to things like this.", "start": 1763.48, "end": 1766.0}
+{"id": "gw2GjssUafs-t1766.0", "text": "We can run our computers really hard and really fight us to try and strain them to the max", "start": 1766.0, "end": 1770.32}
+{"id": "gw2GjssUafs-t1770.32", "text": "to if we burn out those computers and the silly little pieces.", "start": 1770.32, "end": 1773.56}
+{"id": "gw2GjssUafs-t1773.56", "text": "Cool the whole thing to a halt.", "start": 1773.56, "end": 1775.16}
+{"id": "gw2GjssUafs-t1775.16", "text": "People have suggested serious research programs like that but I don't know how serious.", "start": 1775.16, "end": 1779.16}
+{"id": "gw2GjssUafs-t1779.16", "text": "I think I have to point that these kinds of hypotheses also have the consequence that", "start": 1779.16, "end": 1784.52}
+{"id": "gw2GjssUafs-t1784.52", "text": "they're looking back at empirical evidence to do things like try to confirm a theory like", "start": 1784.52, "end": 1788.8799999999999}
+{"id": "gw2GjssUafs-t1788.8799999999999", "text": "quantum mechanics is kind of pointless because the simulation people can make our empirical", "start": 1788.8799999999999, "end": 1793.8799999999999}
+{"id": "gw2GjssUafs-t1793.8799999999999", "text": "evidence do whatever they like and so there's no mismocation reading anything at all into", "start": 1793.8799999999999, "end": 1798.0}
+{"id": "gw2GjssUafs-t1798.0", "text": "one's empirical evidence if one believes that this is a viable possibility so at least", "start": 1798.0, "end": 1803.08}
+{"id": "gw2GjssUafs-t1803.08", "text": "within that kind of domain those possibilities need to be set aside I think.", "start": 1803.08, "end": 1808.24}
+{"id": "gw2GjssUafs-t1808.24", "text": "My colleague Dr. Traumriss points out something that many times try to convey to people that", "start": 1808.24, "end": 1816.2}
+{"id": "gw2GjssUafs-t1816.2", "text": "if you believe in the perfect simulation then the programmers in that simulation fit exactly", "start": 1816.2, "end": 1823.64}
+{"id": "gw2GjssUafs-t1823.64", "text": "the traditional definition of God's.", "start": 1823.64, "end": 1828.24}
+{"id": "gw2GjssUafs-t1828.24", "text": "And so one gets outside of the realm of science very quickly if you believe in that perfect", "start": 1828.24, "end": 1834.08}
+{"id": "gw2GjssUafs-t1834.08", "text": "simulation.", "start": 1834.08, "end": 1839.08}
+{"id": "gw2GjssUafs-t1839.08", "text": "As a great illustration in my book reality class of God creating the universe.", "start": 1839.08, "end": 1846.08}
+{"id": "gw2GjssUafs-t1846.08", "text": "She's a teenage girl and the next universe up looking at her computer and all the galaxies", "start": 1846.08, "end": 1852.08}
+{"id": "gw2GjssUafs-t1852.08", "text": "and nebulas come from there so it may not be a traditional girl.", "start": 1852.08, "end": 1856.08}
+{"id": "gw2GjssUafs-t1856.08", "text": "Could be creative, could be all powerful, could be all knowing about our universe.", "start": 1856.08, "end": 1861.08}
+{"id": "gw2GjssUafs-t1861.08", "text": "A reasonable point back about the ghost idea that you cite Jim is that whatever simulation", "start": 1861.08, "end": 1867.08}
+{"id": "gw2GjssUafs-t1867.08", "text": "assuming we live in a simulation process.", "start": 1867.08, "end": 1871.08}
+{"id": "gw2GjssUafs-t1871.08", "text": "Whenever one we live in there's going to be some rules and regulations about the way", "start": 1871.08, "end": 1874.08}
+{"id": "gw2GjssUafs-t1874.08", "text": "whether they're going to be standard ways we're accustomed to the world.", "start": 1874.08, "end": 1878.08}
+{"id": "gw2GjssUafs-t1878.08", "text": "And so no we don't have ghosts in our world and while whereas it would be possible we're", "start": 1878.08, "end": 1885.08}
+{"id": "gw2GjssUafs-t1885.08", "text": "at a computer program that ghosts in the world that these computer programmers that's called", "start": 1885.08, "end": 1890.08}
+{"id": "gw2GjssUafs-t1890.08", "text": "the best of all possible worlds of political life that's right.", "start": 1890.08, "end": 1893.08}
+{"id": "gw2GjssUafs-t1893.08", "text": "So they figured out that we're not going to have repeats in this world.", "start": 1893.08, "end": 1896.08}
+{"id": "gw2GjssUafs-t1896.08", "text": "So we don't, that's one of the reasons we're not accustomed to.", "start": 1896.08, "end": 1900.08}
+{"id": "gw2GjssUafs-t1900.08", "text": "We don't rapids that speak either.", "start": 1900.08, "end": 1902.08}
+{"id": "gw2GjssUafs-t1902.08", "text": "Yes but one of the things I, you know, all of us thought about quantum mechanics and yes", "start": 1902.08, "end": 1907.08}
+{"id": "gw2GjssUafs-t1907.08", "text": "this is sarcastic and there's probability that you have you.", "start": 1907.08, "end": 1910.08}
+{"id": "gw2GjssUafs-t1910.08", "text": "But I have a hard time thinking about science where arbitraryness is totally arbitrary.", "start": 1910.08, "end": 1917.08}
+{"id": "gw2GjssUafs-t1917.08", "text": "And again the perfect simulation hypothesis that teenage girl might one day wake up", "start": 1917.08, "end": 1922.08}
+{"id": "gw2GjssUafs-t1922.08", "text": "in this side to change her mind and allow in a thousand years for me to show up again.", "start": 1922.08, "end": 1929.08}
+{"id": "gw2GjssUafs-t1929.08", "text": "Now that might have some attraction to be personally but I don't think that's how", "start": 1929.08, "end": 1934.08}
+{"id": "gw2GjssUafs-t1934.08", "text": "I see no evidence laid for this way.", "start": 1934.08, "end": 1937.08}
+{"id": "gw2GjssUafs-t1937.08", "text": "In my life that science is like that, that our universe works like that.", "start": 1937.08, "end": 1941.08}
+{"id": "gw2GjssUafs-t1941.08", "text": "But I wonder if there's any pragmatic value in holding this I think silly belief because", "start": 1941.08, "end": 1949.08}
+{"id": "gw2GjssUafs-t1949.08", "text": "it's not something you can invalidate.", "start": 1949.08, "end": 1952.08}
+{"id": "gw2GjssUafs-t1952.08", "text": "But it might be that it gives some comfort to the believers.", "start": 1952.08, "end": 1958.08}
+{"id": "gw2GjssUafs-t1958.08", "text": "You know just as one finds comfort in religion.", "start": 1958.08, "end": 1961.08}
+{"id": "gw2GjssUafs-t1961.08", "text": "Do you find comfort in the idea that you're some young ladies toy?", "start": 1961.08, "end": 1968.08}
+{"id": "gw2GjssUafs-t1968.08", "text": "Maybe there's an afterlife here.", "start": 1968.08, "end": 1977.08}
+{"id": "gw2GjssUafs-t1977.08", "text": "I think most people find this horrifying the idea.", "start": 1977.08, "end": 1980.08}
+{"id": "gw2GjssUafs-t1980.08", "text": "At least initially they think oh my god we're under matrix.", "start": 1980.08, "end": 1983.08}
+{"id": "gw2GjssUafs-t1983.08", "text": "The simulation. None of it's real. My life is an illusion.", "start": 1983.08, "end": 1987.08}
+{"id": "gw2GjssUafs-t1987.08", "text": "I don't think that's the wrong reaction.", "start": 1987.08, "end": 1989.08}
+{"id": "gw2GjssUafs-t1989.08", "text": "But yeah I mean it could turn out that we're in a simulation and if so life goes on.", "start": 1989.08, "end": 1994.08}
+{"id": "gw2GjssUafs-t1994.08", "text": "I'm still real. I'm still having this conversation with you.", "start": 1994.08, "end": 1998.08}
+{"id": "gw2GjssUafs-t1998.08", "text": "I've still got relationships. I still have community.", "start": 1998.08, "end": 2002.08}
+{"id": "gw2GjssUafs-t2002.08", "text": "Those are the things that bring meaning to your life.", "start": 2002.08, "end": 2005.08}
+{"id": "gw2GjssUafs-t2005.08", "text": "I don't find the hypothesis as horrifying as some people find it.", "start": 2005.08, "end": 2009.08}
+{"id": "gw2GjssUafs-t2009.08", "text": "I wouldn't say I find it especially comforting.", "start": 2009.08, "end": 2012.08}
+{"id": "gw2GjssUafs-t2012.08", "text": "It doesn't mean that we're all somehow at the mercy of this simulator as we are with a god.", "start": 2012.08, "end": 2016.08}
+{"id": "gw2GjssUafs-t2016.08", "text": "I've got to hope that this simulator is benign.", "start": 2016.08, "end": 2019.08}
+{"id": "gw2GjssUafs-t2019.08", "text": "Surely if you were some presented with good evidence that's what true.", "start": 2019.08, "end": 2023.08}
+{"id": "gw2GjssUafs-t2023.08", "text": "This would affect the decision making processes in some ways.", "start": 2023.08, "end": 2027.08}
+{"id": "gw2GjssUafs-t2027.08", "text": "For me it would significantly reduce my faith that the laws of nature are going to continue working", "start": 2027.08, "end": 2031.08}
+{"id": "gw2GjssUafs-t2031.08", "text": "and the way I expect. I would probably stop predicting things in quite the way I usually do", "start": 2031.08, "end": 2035.08}
+{"id": "gw2GjssUafs-t2035.08", "text": "because the simulator could change their mind at any time.", "start": 2035.08, "end": 2038.08}
+{"id": "gw2GjssUafs-t2038.08", "text": "Whereas if I don't believe in a simulation I tend to assume the laws of nature are going to continue to hold them roughly the same way.", "start": 2038.08, "end": 2045.08}
+{"id": "gw2GjssUafs-t2045.08", "text": "We could consider the system wondering.", "start": 2045.08, "end": 2047.08}
+{"id": "gw2GjssUafs-t2047.08", "text": "From the point of it was doing philosophy I'd say.", "start": 2047.08, "end": 2050.08}
+{"id": "gw2GjssUafs-t2050.08", "text": "We could consider it a very pregnant form of a law of thought experiment.", "start": 2050.08, "end": 2055.08}
+{"id": "gw2GjssUafs-t2055.08", "text": "We just talked about some other philosophers play the whole thing hard.", "start": 2055.08, "end": 2060.08}
+{"id": "gw2GjssUafs-t2060.08", "text": "It's a way to stimulate our thinking about what we think is the ultimate.", "start": 2060.08, "end": 2063.08}
+{"id": "gw2GjssUafs-t2063.08", "text": "What does existence like ultimately?", "start": 2063.08, "end": 2066.08}
+{"id": "gw2GjssUafs-t2066.08", "text": "To me that is in fact the value of a scientist discussing the nature of reality with philosophers.", "start": 2066.08, "end": 2074.08}
+{"id": "gw2GjssUafs-t2074.08", "text": "In particular physics used to be natural philosophy before Newton came along and turned it into physics.", "start": 2074.08, "end": 2081.08}
+{"id": "gw2GjssUafs-t2081.08", "text": "Physics in particular bears a very close relationship with philosophy.", "start": 2081.08, "end": 2087.08}
+{"id": "gw2GjssUafs-t2087.08", "text": "I think of the simulation idea although I find it unacceptable in the framework of", "start": 2087.08, "end": 2092.08}
+{"id": "gw2GjssUafs-t2092.08", "text": "as I understand the way our universe works and physics works.", "start": 2092.08, "end": 2095.08}
+{"id": "gw2GjssUafs-t2095.08", "text": "I find it as a tempting driver to make me think more deeply about that.", "start": 2095.08, "end": 2100.08}
+{"id": "gw2GjssUafs-t2100.08", "text": "I think that's the value as a sort of a hard-course scientist.", "start": 2100.08, "end": 2104.08}
+{"id": "gw2GjssUafs-t2104.08", "text": "That's the value that I see in this discussion.", "start": 2104.08, "end": 2107.08}
+{"id": "gw2GjssUafs-t2107.08", "text": "It forces me to think more deeply and to try to find the errors in my thinking.", "start": 2107.08, "end": 2112.08}
+{"id": "gw2GjssUafs-t2112.08", "text": "I think there's possibly an intermediate hypothesis which I find a bit more scientific.", "start": 2112.08, "end": 2118.08}
+{"id": "gw2GjssUafs-t2118.08", "text": "Rather than supposing that there's a higher consciousness creating a simulation it's the idea that maybe the underlying reality is kind of very different from the way we experience it.", "start": 2118.08, "end": 2129.08}
+{"id": "gw2GjssUafs-t2129.08", "text": "Our reality is in some sense that simulation running on some very different kind of hardware.", "start": 2129.08, "end": 2135.08}
+{"id": "gw2GjssUafs-t2135.08", "text": "There have been various suggestions that maybe the world has less dimensions than it does and that kind of thing.", "start": 2135.08, "end": 2141.08}
+{"id": "gw2GjssUafs-t2141.08", "text": "In a sense in that kind of picture there is something about our experience which is sort of simulated or illusory.", "start": 2141.08, "end": 2147.08}
+{"id": "gw2GjssUafs-t2147.08", "text": "I think that kind of possibility seems a bit more within the realm of science.", "start": 2147.08, "end": 2152.08}
+{"id": "gw2GjssUafs-t2152.08", "text": "Maybe the simulation speculation.", "start": 2152.08, "end": 2155.08}
+{"id": "gw2GjssUafs-t2155.08", "text": "I mean there are ways, I totally agree, there are ways that elements of this could be true without a full-scale simulation.", "start": 2155.08, "end": 2160.08}
+{"id": "gw2GjssUafs-t2160.08", "text": "We could dial it all the way back to the it from bit idea.", "start": 2160.08, "end": 2163.08}
+{"id": "gw2GjssUafs-t2163.08", "text": "Okay well maybe there's just a level of bits here generating our reality.", "start": 2163.08, "end": 2168.08}
+{"id": "gw2GjssUafs-t2168.08", "text": "Maybe there's something underneath the bits where we don't know.", "start": 2168.08, "end": 2172.08}
+{"id": "gw2GjssUafs-t2172.08", "text": "Well that is maybe it's not a simulation but maybe it's something else that's unknowable.", "start": 2172.08, "end": 2176.08}
+{"id": "gw2GjssUafs-t2176.08", "text": "Some people speculate that that might be consciousness.", "start": 2176.08, "end": 2179.08}
+{"id": "gw2GjssUafs-t2179.08", "text": "Maybe the universe could be made of consciousness underneath the bits.", "start": 2179.08, "end": 2183.08}
+{"id": "gw2GjssUafs-t2183.08", "text": "I call that bit from bit from consciousness.", "start": 2183.08, "end": 2187.08}
+{"id": "gw2GjssUafs-t2187.08", "text": "If you look at that further, the idea that for example space could be emergent from something more fundamental than space.", "start": 2187.08, "end": 2193.08}
+{"id": "gw2GjssUafs-t2193.08", "text": "Underneath the space this is an idea that's increasingly taken seriously in physical theories.", "start": 2193.08, "end": 2199.08}
+{"id": "gw2GjssUafs-t2199.08", "text": "I think it kind of squares in quite interesting ways with the bit from bit idea or the simulation idea that the space we actually experience is somehow emergent.", "start": 2199.08, "end": 2208.08}
+{"id": "gw2GjssUafs-t2208.08", "text": "I think about all these ground, they started as a national metaphysical ground, metaphysical hypotheses, but some of them could end up turning into science.", "start": 2208.08, "end": 2218.08}
+{"id": "gw2GjssUafs-t2218.08", "text": "We cycle around this, this comes up a lot and it's come up in our other talks this weekend where something like the term information which has seemed to be two phases.", "start": 2218.08, "end": 2231.08}
+{"id": "gw2GjssUafs-t2231.08", "text": "One is what there is and is what we know about what there is.", "start": 2231.08, "end": 2238.08}
+{"id": "gw2GjssUafs-t2238.08", "text": "That's a constant challenge for us.", "start": 2238.08, "end": 2241.08}
+{"id": "gw2GjssUafs-t2241.08", "text": "I mentioned the original struggles and still for many people ongoing struggles with how to interpret quantum mechanics.", "start": 2241.08, "end": 2248.08}
+{"id": "gw2GjssUafs-t2248.08", "text": "The interest in information also I am standing on is that it also arose after Stephen Hawking made the suggestion about how entropy might be related to black hole formation and it's possible.", "start": 2248.08, "end": 2264.08}
+{"id": "gw2GjssUafs-t2264.08", "text": "The evaporation of black holes and that fits into this holographic theory I think.", "start": 2264.08, "end": 2269.08}
+{"id": "gw2GjssUafs-t2269.08", "text": "Also, am I right? I'm pretty sure.", "start": 2269.08, "end": 2271.08}
+{"id": "gw2GjssUafs-t2271.08", "text": "That's connected.", "start": 2271.08, "end": 2272.08}
+{"id": "gw2GjssUafs-t2272.08", "text": "I'm wondering about that, going back to what are the bits and why do these keep coming up and what to say about consciousness and what to say about the universe?", "start": 2272.08, "end": 2282.08}
+{"id": "gw2GjssUafs-t2282.08", "text": "I have been thinking about entropy bounds a lot recently in my recent research and the question I keep coming back to is precisely this question.", "start": 2282.08, "end": 2291.08}
+{"id": "gw2GjssUafs-t2291.08", "text": "Are these entropy bounds a feature of reality itself or are there a feature of our ability to get information about reality?", "start": 2291.08, "end": 2298.08}
+{"id": "gw2GjssUafs-t2298.08", "text": "What the entropy bounds are supposed to say essentially is that within some region of space-time, roughly speaking, the information contained in that region is proportional to the surface area around the volume.", "start": 2298.08, "end": 2310.08}
+{"id": "gw2GjssUafs-t2310.08", "text": "A lot of people want to interpret that as an ontological statement about what's out there in the world.", "start": 2310.08, "end": 2316.08}
+{"id": "gw2GjssUafs-t2316.08", "text": "But if you think space-time is discretized, there's a sense in which it's a natural kind of epistemic constraint that we should only be able to get information out of a region in proportion to its surface area.", "start": 2316.08, "end": 2326.08}
+{"id": "gw2GjssUafs-t2326.08", "text": "So, arguably, that looks a bit like the kind of thing that's an epistemic restriction on our ability to learn things about the world rather than what's really there.", "start": 2326.08, "end": 2334.08}
+{"id": "gw2GjssUafs-t2334.08", "text": "So, it's an interesting question, I think, how we should distinguish between what features of our observations reflect what is really there and which features just reflect our limited perspective on us.", "start": 2334.08, "end": 2346.08}
+{"id": "gw2GjssUafs-t2346.08", "text": "Can I take this as an avenue to talk about not just about information, but about mathematics in general.", "start": 2346.08, "end": 2354.08}
+{"id": "gw2GjssUafs-t2354.08", "text": "It's often, when often comes across the state with that mathematics, it's that language of the universe.", "start": 2354.08, "end": 2359.08}
+{"id": "gw2GjssUafs-t2359.08", "text": "And that's something that I can't quite accept. And I've said in other venues that it's the only human language that allows us to comprehend the universe at a very intimate level.", "start": 2359.08, "end": 2369.08}
+{"id": "gw2GjssUafs-t2369.08", "text": "And it has several hundred years of proving that.", "start": 2369.08, "end": 2373.08}
+{"id": "gw2GjssUafs-t2373.08", "text": "But that doesn't mean that nature herself uses that language.", "start": 2373.08, "end": 2378.08}
+{"id": "gw2GjssUafs-t2378.08", "text": "So, this emphasis on the distinction between what there is and our perception of what there is.", "start": 2378.08, "end": 2386.08}
+{"id": "gw2GjssUafs-t2386.08", "text": "This is a very important thing to keep in mind, I believe.", "start": 2386.08, "end": 2389.08}
+{"id": "gw2GjssUafs-t2389.08", "text": "I think this is crucial when it comes to information, because this word gets used in so many different ways.", "start": 2389.08, "end": 2395.08}
+{"id": "gw2GjssUafs-t2395.08", "text": "I mean, there's information in the sense of something we know, some facts that we have.", "start": 2395.08, "end": 2401.08}
+{"id": "gw2GjssUafs-t2401.08", "text": "And then I call this semantic information, I'm going to see a bit of a lot of different information.", "start": 2401.08, "end": 2405.08}
+{"id": "gw2GjssUafs-t2405.08", "text": "I know where the helix center is, it's on 82nd Street.", "start": 2405.08, "end": 2409.08}
+{"id": "gw2GjssUafs-t2409.08", "text": "Okay, that's information. That's something a person has or knows.", "start": 2409.08, "end": 2414.08}
+{"id": "gw2GjssUafs-t2414.08", "text": "Then this information has bits, which is zeros or ones, and so on.", "start": 2414.08, "end": 2418.08}
+{"id": "gw2GjssUafs-t2418.08", "text": "These mathematical entities, these things that might be out there in the universe.", "start": 2418.08, "end": 2421.08}
+{"id": "gw2GjssUafs-t2421.08", "text": "That's not necessarily tied to anything anyone knows.", "start": 2421.08, "end": 2424.08}
+{"id": "gw2GjssUafs-t2424.08", "text": "It's just tied to what's out there.", "start": 2424.08, "end": 2426.08}
+{"id": "gw2GjssUafs-t2426.08", "text": "In my book, I call this structural information to distinguish from semantic information.", "start": 2426.08, "end": 2432.08}
+{"id": "gw2GjssUafs-t2432.08", "text": "I guess confusing, causing contemporary databases, computer science, the web, these two things go together.", "start": 2432.08, "end": 2438.08}
+{"id": "gw2GjssUafs-t2438.08", "text": "People use zeros and ones, the bits to code, facts, things we know.", "start": 2438.08, "end": 2443.08}
+{"id": "gw2GjssUafs-t2443.08", "text": "I think we've just really got to separate these things.", "start": 2443.08, "end": 2445.08}
+{"id": "gw2GjssUafs-t2445.08", "text": "It's a shame. We've got the same words, these two, incredibly important, but totally different concepts.", "start": 2445.08, "end": 2450.08}
+{"id": "gw2GjssUafs-t2450.08", "text": "There's bits, there's facts, and these are really thoroughly different from each other.", "start": 2450.08, "end": 2455.08}
+{"id": "gw2GjssUafs-t2455.08", "text": "Yeah, also sometimes when people say information, what they mean is number of degrees of freedom or something like that,", "start": 2455.08, "end": 2461.08}
+{"id": "gw2GjssUafs-t2461.08", "text": "which again is not the same as bits or structure or semantic information necessarily.", "start": 2461.08, "end": 2466.08}
+{"id": "gw2GjssUafs-t2466.08", "text": "So it would be nice to distinguish those things better.", "start": 2466.08, "end": 2468.08}
+{"id": "gw2GjssUafs-t2468.08", "text": "I can't, as a kind of structural information.", "start": 2468.08, "end": 2471.08}
+{"id": "gw2GjssUafs-t2471.08", "text": "It just seems the name just be two. You know, you can put the bits two ways, there's three ways, there's tricks.", "start": 2471.08, "end": 2476.08}
+{"id": "gw2GjssUafs-t2476.08", "text": "Maybe there's even continuous information for degrees of freedom.", "start": 2476.08, "end": 2479.08}
+{"id": "gw2GjssUafs-t2479.08", "text": "When degree of freedom, you could have many bits, but they could be required to be correlated in certain ways.", "start": 2479.08, "end": 2487.08}
+{"id": "gw2GjssUafs-t2487.08", "text": "The number of effective degrees of freedom could be much smaller than the number of bits in your system.", "start": 2487.08, "end": 2492.08}
+{"id": "gw2GjssUafs-t2492.08", "text": "I want to go back to this Jim's notion about the self-correcting codes and whether or not it's a reflection.", "start": 2492.08, "end": 2499.08}
+{"id": "gw2GjssUafs-t2499.08", "text": "And of course, you didn't mean to suggest it is survival of fittest, strictly speaking.", "start": 2499.08, "end": 2506.08}
+{"id": "gw2GjssUafs-t2506.08", "text": "In other words, not biological evolution, which would be evolution, would be some other sort of evolution.", "start": 2506.08, "end": 2511.08}
+{"id": "gw2GjssUafs-t2511.08", "text": "Of course, there have been a lot of mathematical models applied to how there are self-correcting features of the biological systems.", "start": 2511.08, "end": 2519.08}
+{"id": "gw2GjssUafs-t2519.08", "text": "And they usually do once again, go back to theories about entropy and dissipation of energy use, etc.", "start": 2519.08, "end": 2526.08}
+{"id": "gw2GjssUafs-t2526.08", "text": "And, you know, I'm wondering whether that's a way to get a handle on, in some way, like, well, what would it imply if the universe goes through?", "start": 2526.08, "end": 2538.08}
+{"id": "gw2GjssUafs-t2538.08", "text": "I'm imagining the self-correcting change would be something moving away from what you think, and the way the entropy normally would be functioning.", "start": 2538.08, "end": 2547.08}
+{"id": "gw2GjssUafs-t2547.08", "text": "Right?", "start": 2547.08, "end": 2548.08}
+{"id": "gw2GjssUafs-t2548.08", "text": "So, my comment was within the very tight bounds of looking at this thing called supersymmetry.", "start": 2548.08, "end": 2556.08}
+{"id": "gw2GjssUafs-t2556.08", "text": "The mathematical supersymmetry, that's what I've said my entire adult like looking at.", "start": 2556.08, "end": 2561.08}
+{"id": "gw2GjssUafs-t2561.08", "text": "And in those confines, this idea about error correction, there's only one, I have an intuitive way which I would never submit as a scientific paper.", "start": 2561.08, "end": 2574.08}
+{"id": "gw2GjssUafs-t2574.08", "text": "And that is that it's my intuitive feel that if there were something like this kind of evolution that we're talking,", "start": 2574.08, "end": 2582.08}
+{"id": "gw2GjssUafs-t2582.08", "text": "that would drive the presence of these error-correcting codes into the mathematical laws,", "start": 2582.08, "end": 2587.08}
+{"id": "gw2GjssUafs-t2587.08", "text": "that it has something to do with exactly this point about the university evolving.", "start": 2587.08, "end": 2593.08}
+{"id": "gw2GjssUafs-t2593.08", "text": "Because the genetics, right, and genetics, the argument is that error-correcting codes are there because if you have two genomes, one with error-correcting codes and one without,", "start": 2593.08, "end": 2603.08}
+{"id": "gw2GjssUafs-t2603.08", "text": "the genome with the error-correcting code is more efficient at producing progeny,", "start": 2603.08, "end": 2608.08}
+{"id": "gw2GjssUafs-t2608.08", "text": "because the one without produces progeny that don't survive.", "start": 2608.08, "end": 2611.08}
+{"id": "gw2GjssUafs-t2611.08", "text": "And so, something like that, you know, if you try to map that over to this picture,", "start": 2611.08, "end": 2616.08}
+{"id": "gw2GjssUafs-t2616.08", "text": "then you get the idea that, you know, that this kind of evolution that you wrote up,", "start": 2616.08, "end": 2621.08}
+{"id": "gw2GjssUafs-t2621.08", "text": "a quantity talking about the universe of love, that it's maybe literally possible,", "start": 2621.08, "end": 2626.08}
+{"id": "gw2GjssUafs-t2626.08", "text": "and that that would be perhaps why we could see this remnant of a set of error-correcting codes showing up in the laws of physics.", "start": 2626.08, "end": 2635.08}
+{"id": "gw2GjssUafs-t2635.08", "text": "I found that very attractive picture. Going back to Charles Perce, the universe kind of gets into a habit.", "start": 2635.08, "end": 2648.08}
+{"id": "gw2GjssUafs-t2648.08", "text": "It got into a habit of expanding. It got into a habit of having gravitational forces,", "start": 2648.08, "end": 2654.08}
+{"id": "gw2GjssUafs-t2654.08", "text": "because perhaps the genome has made this a good fit for things.", "start": 2654.08, "end": 2663.08}
+{"id": "gw2GjssUafs-t2663.08", "text": "At least for some amount of time. But of course, there's always random variations.", "start": 2663.08, "end": 2669.08}
+{"id": "gw2GjssUafs-t2669.08", "text": "Let's say there is higgly, higgly, deeply in the universe. Things do change.", "start": 2669.08, "end": 2675.08}
+{"id": "gw2GjssUafs-t2675.08", "text": "And when things change, the laws that are the most adapted to it, you know, hang around,", "start": 2675.08, "end": 2683.08}
+{"id": "gw2GjssUafs-t2683.08", "text": "and the ones that aren't so well adapted to it disappear. That's kind of cute.", "start": 2683.08, "end": 2688.08}
+{"id": "gw2GjssUafs-t2688.08", "text": "Going back to this other thing that Jim said about mathematics is the only language.", "start": 2688.08, "end": 2694.08}
+{"id": "gw2GjssUafs-t2694.08", "text": "It just reminded me of a philosopher I can never remember the name of,", "start": 2694.08, "end": 2701.08}
+{"id": "gw2GjssUafs-t2701.08", "text": "but I read about that philosopher in some essay by Richard Warti. I can't remember.", "start": 2701.08, "end": 2707.08}
+{"id": "gw2GjssUafs-t2707.08", "text": "Richard Warti's name. And Warti attributed to this philosopher phrase, or the slogan,", "start": 2707.08, "end": 2714.08}
+{"id": "gw2GjssUafs-t2714.08", "text": "that the world is not sentence shaped. So, you know, you can write all you want about the world.", "start": 2714.08, "end": 2723.08}
+{"id": "gw2GjssUafs-t2723.08", "text": "The world itself goes beyond anything that you can write about it.", "start": 2723.08, "end": 2727.08}
+{"id": "gw2GjssUafs-t2727.08", "text": "I think it's Derrida. I think it was Derrida. It sounds like something you'd say too, right?", "start": 2727.08, "end": 2733.08}
+{"id": "gw2GjssUafs-t2733.08", "text": "I've been accused of being a doctor, I've lost it.", "start": 2733.08, "end": 2737.08}
+{"id": "gw2GjssUafs-t2737.08", "text": "By people like him.", "start": 2737.08, "end": 2740.08}
+{"id": "gw2GjssUafs-t2740.08", "text": "I was trying to share, well, I think he tried to, you know, whatever,", "start": 2740.08, "end": 2745.08}
+{"id": "gw2GjssUafs-t2745.08", "text": "write some sort of background or substance, his way of looking at Derrida's work.", "start": 2745.08, "end": 2750.08}
+{"id": "gw2GjssUafs-t2750.08", "text": "It was Victor Shine who said in the tractage, the world is everything that is the case.", "start": 2750.08, "end": 2754.08}
+{"id": "gw2GjssUafs-t2754.08", "text": "This was like the world is a world of facts, and too many people that suggested a linguistic picture.", "start": 2754.08, "end": 2759.08}
+{"id": "gw2GjssUafs-t2759.08", "text": "But then it changed a lot. He did it, totally changed a lot.", "start": 2759.08, "end": 2763.08}
+{"id": "gw2GjssUafs-t2763.08", "text": "It's not a popular view anymore, I think, that the world is sentence shaped.", "start": 2763.08, "end": 2767.08}
+{"id": "gw2GjssUafs-t2767.08", "text": "I was recently listening to a lecture by Nikal Gromov who was talking about evolution.", "start": 2767.08, "end": 2774.08}
+{"id": "gw2GjssUafs-t2774.08", "text": "And one of the million things he seems to have his fingers on is really incredible.", "start": 2774.08, "end": 2780.08}
+{"id": "gw2GjssUafs-t2780.08", "text": "And he said, you know, evolution is actually very stupid.", "start": 2780.08, "end": 2783.08}
+{"id": "gw2GjssUafs-t2783.08", "text": "You know, he just survived, died, whatever.", "start": 2783.08, "end": 2786.08}
+{"id": "gw2GjssUafs-t2786.08", "text": "But a lot of the models we use in creating computer models are, we often think they're brilliant.", "start": 2786.08, "end": 2793.08}
+{"id": "gw2GjssUafs-t2793.08", "text": "They do incredible brilliant things. And in some instances they solve problems that we use", "start": 2793.08, "end": 2798.08}
+{"id": "gw2GjssUafs-t2798.08", "text": "biological entities can't solve. It's much faster, for example, it's there.", "start": 2798.08, "end": 2803.08}
+{"id": "gw2GjssUafs-t2803.08", "text": "So one challenge to the idea that we're in a simulation is that things move along very slowly.", "start": 2803.08, "end": 2812.08}
+{"id": "gw2GjssUafs-t2812.08", "text": "They don't change suddenly with sharp ankles or, you know, and again, maybe that's because that's what we're used to.", "start": 2812.08, "end": 2818.08}
+{"id": "gw2GjssUafs-t2818.08", "text": "They change as fast or as slowly as we're accustomed to, and that's normal for us.", "start": 2818.08, "end": 2823.08}
+{"id": "gw2GjssUafs-t2823.08", "text": "But, you know, all of us are distorted. If the laws of causality suddenly changed,", "start": 2823.08, "end": 2828.08}
+{"id": "gw2GjssUafs-t2828.08", "text": "or there was some other kind of, you know, whatever, those sorts of changes would be possible for a simulation.", "start": 2828.08, "end": 2836.08}
+{"id": "gw2GjssUafs-t2836.08", "text": "I guess that's what I'm saying.", "start": 2836.08, "end": 2838.08}
+{"id": "gw2GjssUafs-t2838.08", "text": "Is that?", "start": 2838.08, "end": 2839.08}
+{"id": "gw2GjssUafs-t2839.08", "text": "I think the simulation might be setting up the simulation, like, why don't simulations,", "start": 2839.08, "end": 2843.08}
+{"id": "gw2GjssUafs-t2843.08", "text": "one in the time, overnight, test out the different levels.", "start": 2843.08, "end": 2846.08}
+{"id": "gw2GjssUafs-t2846.08", "text": "And then I hold back to, like, a million different simulations just vary the parameters in the laws of physics and so on.", "start": 2846.08, "end": 2853.08}
+{"id": "gw2GjssUafs-t2853.08", "text": "Let them, each of them run out. They have to come back in the morning, check out the stats.", "start": 2853.08, "end": 2857.08}
+{"id": "gw2GjssUafs-t2857.08", "text": "And then, and then I'll update, that's how the laws of physics evolve, by the way.", "start": 2857.08, "end": 2861.08}
+{"id": "gw2GjssUafs-t2861.08", "text": "It's like, okay, well, these ones produce interesting results, so let's focus in on those.", "start": 2861.08, "end": 2866.08}
+{"id": "gw2GjssUafs-t2866.08", "text": "But, yeah, no reason why they need to be paying so much attention to every individual simulation that, like, the laws are going to change.", "start": 2866.08, "end": 2872.08}
+{"id": "gw2GjssUafs-t2872.08", "text": "But I mean, what grounds do we have for drawing any inferences about what methodology the simulators, if they exist, are adopting?", "start": 2872.08, "end": 2879.08}
+{"id": "gw2GjssUafs-t2879.08", "text": "You know, we don't seem to have any sort of starting point to imagine what their purpose might be or what they're trying to achieve.", "start": 2879.08, "end": 2884.08}
+{"id": "gw2GjssUafs-t2884.08", "text": "So I don't necessarily see that we have good grounds in that scenario to suppose that they won't suddenly interfere,", "start": 2884.08, "end": 2889.08}
+{"id": "gw2GjssUafs-t2889.08", "text": "because we just have no possible understanding of what on earth they might be able to or what they're trying to do.", "start": 2889.08, "end": 2895.08}
+{"id": "gw2GjssUafs-t2895.08", "text": "It's true. God moves in mysterious ways, so does the simulators.", "start": 2895.08, "end": 2900.08}
+{"id": "gw2GjssUafs-t2900.08", "text": "I'd probably have to know the character.", "start": 2900.08, "end": 2902.08}
+{"id": "gw2GjssUafs-t2902.08", "text": "So maybe you can assume that kind of like us, and then you'll get one from the other.", "start": 2902.08, "end": 2906.08}
+{"id": "gw2GjssUafs-t2906.08", "text": "I mean, I just don't see how we have any way to narrow down the space of possibilities, if we allow that kind of possibility to start with.", "start": 2906.08, "end": 2913.08}
+{"id": "gw2GjssUafs-t2913.08", "text": "That's not a symbol like us.", "start": 2913.08, "end": 2916.08}
+{"id": "gw2GjssUafs-t2916.08", "text": "That's not a symbol like us.", "start": 2916.08, "end": 2918.08}
+{"id": "gw2GjssUafs-t2918.08", "text": "Right, well, we couldn't do that either. We couldn't assume that they're any, and assume they're anything like us, or if they are.", "start": 2918.08, "end": 2923.08}
+{"id": "gw2GjssUafs-t2923.08", "text": "Just kind of the crane from 26th time, and they'll opt for the secret.", "start": 2923.08, "end": 2927.08}
+{"id": "gw2GjssUafs-t2927.08", "text": "Right, exactly.", "start": 2927.08, "end": 2929.08}
+{"id": "gw2GjssUafs-t2929.08", "text": "Chris, as I asked earlier, whether is it possible we will find some sort of comfort in this?", "start": 2929.08, "end": 2936.08}
+{"id": "gw2GjssUafs-t2936.08", "text": "I don't know of the answer that either. Maybe they do. Maybe some people do.", "start": 2936.08, "end": 2940.08}
+{"id": "gw2GjssUafs-t2940.08", "text": "Others don't. Maybe partially. We all do.", "start": 2940.08, "end": 2943.08}
+{"id": "gw2GjssUafs-t2943.08", "text": "But we do know people find entertainment in it.", "start": 2943.08, "end": 2946.08}
+{"id": "gw2GjssUafs-t2946.08", "text": "But I know at least one instance where I think some comfort, evidence of comfort, was exhibited.", "start": 2946.08, "end": 2953.08}
+{"id": "gw2GjssUafs-t2953.08", "text": "So in 2008, as I said, I, in a group of mathematicians and physicists, found this very weird result.", "start": 2953.08, "end": 2962.08}
+{"id": "gw2GjssUafs-t2962.08", "text": "It took us three years to get the papers published, by the way, because we couldn't convince our colleagues that we had done our math correctly.", "start": 2962.08, "end": 2970.08}
+{"id": "gw2GjssUafs-t2970.08", "text": "But after a popular article appeared on this work in 2010 in the British Journal of Physics World,", "start": 2970.08, "end": 2978.08}
+{"id": "gw2GjssUafs-t2978.08", "text": "there was an online comment by a young man of deep religious faith.", "start": 2978.08, "end": 2985.08}
+{"id": "gw2GjssUafs-t2985.08", "text": "And he took comfort in this idea of simulation, because it matched his conception of a benevolent God at work in the universe.", "start": 2985.08, "end": 2996.08}
+{"id": "gw2GjssUafs-t2996.08", "text": "So some people would have taken comfort from it.", "start": 2996.08, "end": 2998.08}
+{"id": "gw2GjssUafs-t2998.08", "text": "You know, there's a cute story about Einstein. It may be apocryphal.", "start": 2998.08, "end": 3003.08}
+{"id": "gw2GjssUafs-t3003.08", "text": "Or it may not. You know, Einstein is known as the sort of arch-determinist.", "start": 3003.08, "end": 3011.08}
+{"id": "gw2GjssUafs-t3011.08", "text": "The universe is just happening.", "start": 3011.08, "end": 3016.08}
+{"id": "gw2GjssUafs-t3016.08", "text": "And that we really, we, as people, don't play an active role in the universe.", "start": 3016.08, "end": 3024.08}
+{"id": "gw2GjssUafs-t3024.08", "text": "It's a kind of fatalist. Anyway, the cute story is that if you trace his personal letters from the times when he was having affairs on his wife,", "start": 3024.08, "end": 3043.08}
+{"id": "gw2GjssUafs-t3043.08", "text": "that he would take a very fatalistic stance in personal letters.", "start": 3043.08, "end": 3048.08}
+{"id": "gw2GjssUafs-t3048.08", "text": "And then at times when he was on the street in narrow, he would not use that rhetoric so very much.", "start": 3048.08, "end": 3056.08}
+{"id": "gw2GjssUafs-t3056.08", "text": "So it looks like Einstein could find his own comfort in the idea of a fatalistic human affairs.", "start": 3056.08, "end": 3062.08}
+{"id": "gw2GjssUafs-t3062.08", "text": "Yeah, I had no choice. I had no choice but to have this affair.", "start": 3062.08, "end": 3068.08}
+{"id": "gw2GjssUafs-t3068.08", "text": "I think there are these studies that when people read articles about there being no free will, they're a little more likely to cheat, I think.", "start": 3068.08, "end": 3081.08}
+{"id": "gw2GjssUafs-t3081.08", "text": "That's a trouble made me do it.", "start": 3081.08, "end": 3086.08}
+{"id": "gw2GjssUafs-t3086.08", "text": "I was wondering when I would go back to the idea of information that was too faced, quality to it.", "start": 3086.08, "end": 3099.08}
+{"id": "gw2GjssUafs-t3099.08", "text": "I wondered, you know, Kant wrote a lot about how we apply a certain intuition when we look at the universe and see some things reflected back like space-time and mathematical facts.", "start": 3099.08, "end": 3107.08}
+{"id": "gw2GjssUafs-t3107.08", "text": "I'm wondering, because I understand, David, you've written some more about the extended mind, which is another sort of iteration of that approach.", "start": 3107.08, "end": 3115.08}
+{"id": "gw2GjssUafs-t3115.08", "text": "What can you logically derive from the fact that we are playing a role in how we see the universe?", "start": 3115.08, "end": 3123.08}
+{"id": "gw2GjssUafs-t3123.08", "text": "Do you want to say something about extended mind?", "start": 3123.08, "end": 3125.08}
+{"id": "gw2GjssUafs-t3125.08", "text": "Well, the extended mind is partly the idea that the tools we use become parts of our mind.", "start": 3125.08, "end": 3131.08}
+{"id": "gw2GjssUafs-t3131.08", "text": "So this is something we've all gotten so familiar with.", "start": 3131.08, "end": 3135.08}
+{"id": "gw2GjssUafs-t3135.08", "text": "So familiar with smartphones, the smartphone and store phone numbers probably taken over from my memory,", "start": 3135.08, "end": 3142.08}
+{"id": "gw2GjssUafs-t3142.08", "text": "it navigates for me, it does planning for me.", "start": 3142.08, "end": 3146.08}
+{"id": "gw2GjssUafs-t3146.08", "text": "And so one of us, we live these increasingly digital lives.", "start": 3146.08, "end": 3149.08}
+{"id": "gw2GjssUafs-t3149.08", "text": "So much of our minds is now extending out into these digital environments.", "start": 3149.08, "end": 3154.08}
+{"id": "gw2GjssUafs-t3154.08", "text": "In this new era, actually, it's the Metavos, where we're going to be pretty sure we're going to be wearing augmented reality glasses.", "start": 3154.08, "end": 3161.08}
+{"id": "gw2GjssUafs-t3161.08", "text": "It'll recognize people for us.", "start": 3161.08, "end": 3164.08}
+{"id": "gw2GjssUafs-t3164.08", "text": "We're going to have to remember everyone's names.", "start": 3164.08, "end": 3166.08}
+{"id": "gw2GjssUafs-t3166.08", "text": "That's going to be useful.", "start": 3166.08, "end": 3169.08}
+{"id": "gw2GjssUafs-t3169.08", "text": "And yeah, it's so much of the computing it's going to take.", "start": 3169.08, "end": 3173.08}
+{"id": "gw2GjssUafs-t3173.08", "text": "So then the algorithm between us and our environment is going to gradually become porous.", "start": 3173.08, "end": 3179.08}
+{"id": "gw2GjssUafs-t3179.08", "text": "And whether or not the physical universe is a universe of bits, our mind can at least some considerable extent", "start": 3179.08, "end": 3185.08}
+{"id": "gw2GjssUafs-t3185.08", "text": "a mind of bits, partly constituted by these computer processes in our environment.", "start": 3185.08, "end": 3191.08}
+{"id": "gw2GjssUafs-t3191.08", "text": "And then the mind in turn, of course, helps construct our sense of the world.", "start": 3191.08, "end": 3195.08}
+{"id": "gw2GjssUafs-t3195.08", "text": "That was the big idea for Kant, that so much of our ideas about reality come from, you know, in a constraint", "start": 3195.08, "end": 3204.08}
+{"id": "gw2GjssUafs-t3204.08", "text": "from the way our mind is built to interpret the world.", "start": 3204.08, "end": 3208.08}
+{"id": "gw2GjssUafs-t3208.08", "text": "But the way our mind is interpreting the world is actually constantly changing and evolving as our brain is changing a whole.", "start": 3208.08, "end": 3215.08}
+{"id": "gw2GjssUafs-t3215.08", "text": "And let me just say I really appreciate your making the distinction between a partial simulation, let me call it that way,", "start": 3215.08, "end": 3229.08}
+{"id": "gw2GjssUafs-t3229.08", "text": "and then the total simulation, because the partial one feels a little bit more comfortable to a physical scientist like myself,", "start": 3229.08, "end": 3235.08}
+{"id": "gw2GjssUafs-t3235.08", "text": "because I need to, as our colleague here said, I need to have the idea that I can falsify.", "start": 3235.08, "end": 3241.08}
+{"id": "gw2GjssUafs-t3241.08", "text": "And I write this as a great definition, one of the great definitions in science is that it's about things that we can falsify,", "start": 3241.08, "end": 3248.08}
+{"id": "gw2GjssUafs-t3248.08", "text": "that we don't actually prove things correct. What we do is falsify our belief systems.", "start": 3248.08, "end": 3253.08}
+{"id": "gw2GjssUafs-t3253.08", "text": "And as long as you'll give me that partial simulation, I'm comfortable doing that.", "start": 3253.08, "end": 3260.08}
+{"id": "gw2GjssUafs-t3260.08", "text": "However, there's another aspect to the metaverse that you keep coming back to that.", "start": 3260.08, "end": 3264.08}
+{"id": "gw2GjssUafs-t3264.08", "text": "I've been thinking about for a while, which is the universe, obviously, as we take these external instrumentalities and let them grow.", "start": 3264.08, "end": 3277.08}
+{"id": "gw2GjssUafs-t3277.08", "text": "And of course, there's this thing that you know about called the Internet of Things out there.", "start": 3277.08, "end": 3281.08}
+{"id": "gw2GjssUafs-t3281.08", "text": "Called the web.", "start": 3281.08, "end": 3282.08}
+{"id": "gw2GjssUafs-t3282.08", "text": "The Internet of Things.", "start": 3282.08, "end": 3283.08}
+{"id": "gw2GjssUafs-t3283.08", "text": "The Internet of Things is out there.", "start": 3283.08, "end": 3285.08}
+{"id": "gw2GjssUafs-t3285.08", "text": "It's all these smart devices that are embedded in things.", "start": 3285.08, "end": 3289.08}
+{"id": "gw2GjssUafs-t3289.08", "text": "They have already become co-evolving because of us.", "start": 3289.08, "end": 3294.08}
+{"id": "gw2GjssUafs-t3294.08", "text": "One can imagine that they will somehow internalize an evolutionary development of their own, that we no longer control.", "start": 3294.08, "end": 3302.08}
+{"id": "gw2GjssUafs-t3302.08", "text": "And of course, that's a frightening idea, perhaps.", "start": 3302.08, "end": 3305.08}
+{"id": "gw2GjssUafs-t3305.08", "text": "But when you start talking about things coming our mind going into things, you have to also, then of course, ask a question about those things getting their own mind.", "start": 3305.08, "end": 3316.08}
+{"id": "gw2GjssUafs-t3316.08", "text": "Not to mention all these AI systems, these language models, I think you guys were talking about here this morning,", "start": 3316.08, "end": 3322.08}
+{"id": "gw2GjssUafs-t3322.08", "text": "that have basically trained that on text, produced by us, all of the Internet.", "start": 3322.08, "end": 3327.08}
+{"id": "gw2GjssUafs-t3327.08", "text": "So they start from a basis of us and that they are internalizing elements of us, which they then project into their own mode.", "start": 3327.08, "end": 3336.08}
+{"id": "gw2GjssUafs-t3336.08", "text": "As these language models are going to be increasingly systems we're interacting with, that transient building of the world,", "start": 3336.08, "end": 3342.08}
+{"id": "gw2GjssUafs-t3342.08", "text": "started with us, extends to them.", "start": 3342.08, "end": 3344.08}
+{"id": "gw2GjssUafs-t3344.08", "text": "And of course, there's already the AIs that do art.", "start": 3344.08, "end": 3348.08}
+{"id": "gw2GjssUafs-t3348.08", "text": "We've been following these recent discussions of AIs that produce art.", "start": 3348.08, "end": 3353.08}
+{"id": "gw2GjssUafs-t3353.08", "text": "And I have to tell you, there's this one particular incident that I think we've already read about.", "start": 3353.08, "end": 3359.08}
+{"id": "gw2GjssUafs-t3359.08", "text": "Human artists in the competition, it turns out that a piece of AI won the competition.", "start": 3359.08, "end": 3364.08}
+{"id": "gw2GjssUafs-t3364.08", "text": "I don't know how many of you have actually looked at that image that lives through the winter?", "start": 3364.08, "end": 3368.08}
+{"id": "gw2GjssUafs-t3368.08", "text": "I actually love it.", "start": 3368.08, "end": 3369.08}
+{"id": "gw2GjssUafs-t3369.08", "text": "I mean, it elicits an emotional response from me, and I find that extraordinary.", "start": 3369.08, "end": 3377.08}
+{"id": "gw2GjssUafs-t3377.08", "text": "So the simulation hypothesis in this issue of the AI are in a way, on to this.", "start": 3377.08, "end": 3386.08}
+{"id": "gw2GjssUafs-t3386.08", "text": "In the simulation hypothesis, some other program or control network or creating the world theory.", "start": 3386.08, "end": 3399.08}
+{"id": "gw2GjssUafs-t3399.08", "text": "In the AI hypothesis is the computers and programs we create are going to be control.", "start": 3399.08, "end": 3407.08}
+{"id": "gw2GjssUafs-t3407.08", "text": "Because these three ways.", "start": 3407.08, "end": 3409.08}
+{"id": "gw2GjssUafs-t3409.08", "text": "Yeah, maybe both at once, right?", "start": 3409.08, "end": 3411.08}
+{"id": "gw2GjssUafs-t3411.08", "text": "Maybe this is a simulation actually put together by AIs in the next decade.", "start": 3411.08, "end": 3416.08}
+{"id": "gw2GjssUafs-t3416.08", "text": "And it's absolutely trivial to generate a simulation that we universe like this, because they have so much processing power.", "start": 3416.08, "end": 3424.08}
+{"id": "gw2GjssUafs-t3424.08", "text": "But I think they're right.", "start": 3424.08, "end": 3425.08}
+{"id": "gw2GjssUafs-t3425.08", "text": "They tend to be different ideas.", "start": 3425.08, "end": 3429.08}
+{"id": "gw2GjssUafs-t3429.08", "text": "Because if we are actually creatures of a simulation, especially if we're in a pure simulation,", "start": 3429.08, "end": 3434.08}
+{"id": "gw2GjssUafs-t3434.08", "text": "there's a sense in which we are already AIs.", "start": 3434.08, "end": 3437.08}
+{"id": "gw2GjssUafs-t3437.08", "text": "We are ourselves simulated creatures, in which case we say, took something in AI and spoke to a bird.", "start": 3437.08, "end": 3443.08}
+{"id": "gw2GjssUafs-t3443.08", "text": "David, have you met my friend Mario? And if you know him?", "start": 3443.08, "end": 3446.08}
+{"id": "gw2GjssUafs-t3446.08", "text": "Playing an AI hypothesis.", "start": 3446.08, "end": 3450.08}
+{"id": "gw2GjssUafs-t3450.08", "text": "His universe is the original metaverse.", "start": 3450.08, "end": 3453.08}
+{"id": "gw2GjssUafs-t3453.08", "text": "He's a very agreeable guy. He'll do whatever you ask.", "start": 3453.08, "end": 3457.08}
+{"id": "gw2GjssUafs-t3457.08", "text": "He seems happy.", "start": 3457.08, "end": 3460.08}
+{"id": "gw2GjssUafs-t3460.08", "text": "Have you seen three guides about video game character?", "start": 3460.08, "end": 3465.08}
+{"id": "gw2GjssUafs-t3465.08", "text": "And basically a non-player character in the video game, all the humans come in.", "start": 3465.08, "end": 3468.08}
+{"id": "gw2GjssUafs-t3468.08", "text": "He's like, hey, we, non-player characters, we deserve rights too.", "start": 3468.08, "end": 3473.08}
+{"id": "gw2GjssUafs-t3473.08", "text": "And this is real for us.", "start": 3473.08, "end": 3475.08}
+{"id": "gw2GjssUafs-t3475.08", "text": "Yeah, it's pretty interesting.", "start": 3475.08, "end": 3478.08}
+{"id": "gw2GjssUafs-t3478.08", "text": "The idea that we may evolve along with the development of these technologies is something I think has already happened.", "start": 3478.08, "end": 3489.08}
+{"id": "gw2GjssUafs-t3489.08", "text": "And we don't realize it because it's something that's been in the background.", "start": 3489.08, "end": 3496.08}
+{"id": "gw2GjssUafs-t3496.08", "text": "We talked about this in one of our earlier round tables, namely that our brains have not evolved, apparently,", "start": 3496.08, "end": 3502.08}
+{"id": "gw2GjssUafs-t3502.08", "text": "or are involved enough to account for the incorporation of sort of reading and writing centers in the brain.", "start": 3502.08, "end": 3508.08}
+{"id": "gw2GjssUafs-t3508.08", "text": "The brains of earlier humans before there was a writing system were essentially the same brains.", "start": 3508.08, "end": 3514.08}
+{"id": "gw2GjssUafs-t3514.08", "text": "But now we seem to have these modules of, maybe we should have a block about this too.", "start": 3514.08, "end": 3520.08}
+{"id": "gw2GjssUafs-t3520.08", "text": "They're the sort of nodules rather in our brain that are devoted to writing, reading, and sometimes one and not the other.", "start": 3520.08, "end": 3529.08}
+{"id": "gw2GjssUafs-t3529.08", "text": "So there are cases where we've adapted to these technologies.", "start": 3529.08, "end": 3534.08}
+{"id": "gw2GjssUafs-t3534.08", "text": "It's a technology.", "start": 3534.08, "end": 3536.08}
+{"id": "gw2GjssUafs-t3536.08", "text": "So the brain is kind of an all-purpose flower.", "start": 3536.08, "end": 3539.08}
+{"id": "gw2GjssUafs-t3539.08", "text": "It's waiting to be baked in any way that we might...", "start": 3539.08, "end": 3544.08}
+{"id": "gw2GjssUafs-t3544.08", "text": "The world may not be sent and shaped, but the brain is sent and shaped.", "start": 3544.08, "end": 3548.08}
+{"id": "gw2GjssUafs-t3548.08", "text": "Some little bits of it are sent and shaped, but things have to deal with language.", "start": 3548.08, "end": 3553.08}
+{"id": "gw2GjssUafs-t3553.08", "text": "It's what do you think?", "start": 3553.08, "end": 3556.08}
+{"id": "gw2GjssUafs-t3556.08", "text": "Well, I have to confess the tedium of discussing what the universe really is, is getting to me.", "start": 3556.08, "end": 3568.08}
+{"id": "gw2GjssUafs-t3568.08", "text": "Because I think we began with talking about what it might be.", "start": 3568.08, "end": 3575.08}
+{"id": "gw2GjssUafs-t3575.08", "text": "We have dubious access to our categories of understanding or the constraints, the autonomy with which the universe or nature, as you call it,", "start": 3575.08, "end": 3588.08}
+{"id": "gw2GjssUafs-t3588.08", "text": "unfolds, that puts us in a very difficult position, as far as being able to make any kind of knowledge claim about it.", "start": 3588.08, "end": 3599.08}
+{"id": "gw2GjssUafs-t3599.08", "text": "And I think the technological fetishism that has infected this conversation,", "start": 3599.08, "end": 3606.08}
+{"id": "gw2GjssUafs-t3606.08", "text": "aiming to, my simulations have to be somehow technologically mediated, or the simulation devices.", "start": 3606.08, "end": 3613.08}
+{"id": "gw2GjssUafs-t3613.08", "text": "Well, at the same time, conceding that our brains are simulating things all the time by virtue of how we process information.", "start": 3613.08, "end": 3621.08}
+{"id": "gw2GjssUafs-t3621.08", "text": "We should also consider that we may be in types of simulation that have nothing to do with technology,", "start": 3621.08, "end": 3628.08}
+{"id": "gw2GjssUafs-t3628.08", "text": "that have to do more with our myths, the way we organize our understanding of one another, our acculturation.", "start": 3628.08, "end": 3640.08}
+{"id": "gw2GjssUafs-t3640.08", "text": "That also creates a bubble of reality, so to speak, a metaphor.", "start": 3640.08, "end": 3646.08}
+{"id": "gw2GjssUafs-t3646.08", "text": "That isn't it for bit or technological, but very cultural centered in the challenges of being ignorant, human, manipulated by power structures.", "start": 3646.08, "end": 3665.08}
+{"id": "gw2GjssUafs-t3665.08", "text": "Those simulations are also important to consider.", "start": 3665.08, "end": 3671.08}
+{"id": "gw2GjssUafs-t3671.08", "text": "The mind's construction of reality is itself a kind of simulation mind.", "start": 3671.08, "end": 3679.08}
+{"id": "gw2GjssUafs-t3679.08", "text": "So much in the mind is constructed, because back to your point about calm.", "start": 3679.08, "end": 3685.08}
+{"id": "gw2GjssUafs-t3685.08", "text": "In a little way, it's not exactly the same idea.", "start": 3685.08, "end": 3688.08}
+{"id": "gw2GjssUafs-t3688.08", "text": "The thought itself is a simulation based on a computer.", "start": 3688.08, "end": 3695.08}
+{"id": "gw2GjssUafs-t3695.08", "text": "Our experience of reality is actually an interaction between the mind and between the mind.", "start": 3695.08, "end": 3701.08}
+{"id": "gw2GjssUafs-t3701.08", "text": "The world that our minds these days are so bombarded with so many different things.", "start": 3701.08, "end": 3710.08}
+{"id": "gw2GjssUafs-t3710.08", "text": "We try to construct things in a certain way, and technology is part of it, but by no means the only part of that.", "start": 3710.08, "end": 3719.08}
+{"id": "gw2GjssUafs-t3719.08", "text": "That's a quite different sense in which we could all be said to be living in a simulation,", "start": 3719.08, "end": 3723.08}
+{"id": "gw2GjssUafs-t3723.08", "text": "but we're all living to some degree in a world which is constructed by our minds.", "start": 3723.08, "end": 3728.08}
+{"id": "gw2GjssUafs-t3728.08", "text": "And our minds, talking about psychedelics, can feel and see things under the influence of them completely differently,", "start": 3728.08, "end": 3738.08}
+{"id": "gw2GjssUafs-t3738.08", "text": "so that the person feels totally different things about the world themselves, reality, than without them.", "start": 3738.08, "end": 3747.08}
+{"id": "gw2GjssUafs-t3747.08", "text": "So there are layers of what actually our mind and our perceptions and our reality really is.", "start": 3747.08, "end": 3756.08}
+{"id": "gw2GjssUafs-t3756.08", "text": "I think drugs in general can do that, in art, in conversation.", "start": 3756.08, "end": 3763.08}
+{"id": "gw2GjssUafs-t3763.08", "text": "Speaking of hallucinogen specifically, they have much like information to faces,", "start": 3763.08, "end": 3772.08}
+{"id": "gw2GjssUafs-t3772.08", "text": "and there's the way that they can conjure up cathedrals in the mind of new visions, new experiences,", "start": 3772.08, "end": 3785.08}
+{"id": "gw2GjssUafs-t3785.08", "text": "and can be pleasing for a moment, can be potentially for some people entrapping psychosis.", "start": 3785.08, "end": 3794.08}
+{"id": "gw2GjssUafs-t3794.08", "text": "But they can also move in a very different direction, and dismantle the constraints of understanding of information processing", "start": 3794.08, "end": 3805.08}
+{"id": "gw2GjssUafs-t3805.08", "text": "that allow us to organize the world to, you know, there's a notion in neuroscience of prediction coding,", "start": 3805.08, "end": 3814.08}
+{"id": "gw2GjssUafs-t3814.08", "text": "and constantly throwing hypotheses out to the world.", "start": 3814.08, "end": 3817.08}
+{"id": "gw2GjssUafs-t3817.08", "text": "Our model of the world representing a best fit scenario, like an error correction, so to speak.", "start": 3817.08, "end": 3828.08}
+{"id": "gw2GjssUafs-t3828.08", "text": "But the errors aren't really with anything real, it's to just ensure a kind of coherent map.", "start": 3828.08, "end": 3837.08}
+{"id": "gw2GjssUafs-t3837.08", "text": "So they can dismantle that.", "start": 3837.08, "end": 3839.08}
+{"id": "gw2GjssUafs-t3839.08", "text": "And the map that we've constructed for better or worse is torn apart, and there's an experience of something else,", "start": 3839.08, "end": 3847.08}
+{"id": "gw2GjssUafs-t3847.08", "text": "maybe the other bad information.", "start": 3847.08, "end": 3853.08}
+{"id": "gw2GjssUafs-t3853.08", "text": "But there's a sense of something deeply unknowable, and that, speaking with David about this earlier,", "start": 3853.08, "end": 3865.08}
+{"id": "gw2GjssUafs-t3865.08", "text": "the enough ability that often is described in psychedelic experience has also been correlated with much of the improvement", "start": 3865.08, "end": 3877.08}
+{"id": "gw2GjssUafs-t3877.08", "text": "associated with them in clinical settings.", "start": 3877.08, "end": 3879.08}
+{"id": "gw2GjssUafs-t3879.08", "text": "So the other is opportunity, perhaps, to relate to what is, but in a way that isn't discursive,", "start": 3879.08, "end": 3888.08}
+{"id": "gw2GjssUafs-t3888.08", "text": "that isn't information-based, that is more primordial and relational, can represent for people who are struggling", "start": 3888.08, "end": 3896.08}
+{"id": "gw2GjssUafs-t3896.08", "text": "with ossified modes of cognition, opportunity for making the way through the world in a manner that is perhaps less knowing,", "start": 3896.08, "end": 3906.08}
+{"id": "gw2GjssUafs-t3906.08", "text": "but at the same time, fear.", "start": 3906.08, "end": 3911.08}
+{"id": "gw2GjssUafs-t3911.08", "text": "Can I respond to the less of sentences?", "start": 3911.08, "end": 3917.08}
+{"id": "gw2GjssUafs-t3917.08", "text": "As I've been sitting here listening to this discussion, this strikes me as a typical discussion of one of the two minds,", "start": 3917.08, "end": 3927.08}
+{"id": "gw2GjssUafs-t3927.08", "text": "because at least as I've experienced life, there's kind of two versions of me.", "start": 3927.08, "end": 3932.08}
+{"id": "gw2GjssUafs-t3932.08", "text": "Here's the rational version.", "start": 3932.08, "end": 3934.08}
+{"id": "gw2GjssUafs-t3934.08", "text": "It's the one that basically does the science and asks the questions about the world and navigates my living, continuing to live safely.", "start": 3934.08, "end": 3942.08}
+{"id": "gw2GjssUafs-t3942.08", "text": "But I'm also very conscious that there's this thing that used to be called the subconscious, and at least in my career as a scientist,", "start": 3942.08, "end": 3952.08}
+{"id": "gw2GjssUafs-t3952.08", "text": "I've actually seen these two things meet, and they meet on the axis of creativity and innovation,", "start": 3952.08, "end": 3958.08}
+{"id": "gw2GjssUafs-t3958.08", "text": "because we do these new innovative ideas come from.", "start": 3958.08, "end": 3961.08}
+{"id": "gw2GjssUafs-t3961.08", "text": "And I point to, for example, the mathematician Ramanujan, who accomplished extraordinary things in number theory,", "start": 3961.08, "end": 3972.08}
+{"id": "gw2GjssUafs-t3972.08", "text": "and if you ask him where they came from, he would tell you they came from dreams, and that is not the purview of the conscious mind.", "start": 3972.08, "end": 3982.08}
+{"id": "gw2GjssUafs-t3982.08", "text": "I was asking a few moments ago about, well, does it give people comfort to think about this topic, the idea of a metaverse?", "start": 3982.08, "end": 3991.08}
+{"id": "gw2GjssUafs-t3991.08", "text": "And I said, well, I know at least it's entertaining, and it's interesting to consider, based on what you're saying,", "start": 3991.08, "end": 3996.08}
+{"id": "gw2GjssUafs-t3996.08", "text": "and I also saw some people start using drugs to change their consciousness for entertainment.", "start": 3996.08, "end": 4002.08}
+{"id": "gw2GjssUafs-t4002.08", "text": "I mean, we actually call them recreational drugs, right?", "start": 4002.08, "end": 4004.08}
+{"id": "gw2GjssUafs-t4004.08", "text": "So that's one of their possible usages.", "start": 4004.08, "end": 4008.08}
+{"id": "gw2GjssUafs-t4008.08", "text": "I really was interested in hearing what people thought about, well, what is it about thinking there's another level of being that we don't have direct access to?", "start": 4008.08, "end": 4020.08}
+{"id": "gw2GjssUafs-t4020.08", "text": "Why do people find that so appealing? I think that's a really important topic.", "start": 4020.08, "end": 4025.08}
+{"id": "gw2GjssUafs-t4025.08", "text": "I think for me, I mean, as a physicist, like Floss though, it's an important thing to remember, because I think if one assumes that the link between what is observed and what is there", "start": 4025.08, "end": 4037.08}
+{"id": "gw2GjssUafs-t4037.08", "text": "is too direct that is liable to lead into a whole of confusion and misunderstanding about what the physics is really telling us.", "start": 4037.08, "end": 4043.08}
+{"id": "gw2GjssUafs-t4043.08", "text": "And so I think that as physicists and the scientists, one should not sort of lose sight of the fact that we don't see everything, we don't know everything,", "start": 4043.08, "end": 4051.08}
+{"id": "gw2GjssUafs-t4051.08", "text": "and we need to be careful to ever say to distinguish between what facts are about our mode of access and what facts are about the world itself", "start": 4051.08, "end": 4062.08}
+{"id": "gw2GjssUafs-t4062.08", "text": "and how to not sort of allow those two kinds of categories to get mixed up and cause mistakes.", "start": 4062.08, "end": 4070.08}
+{"id": "gw2GjssUafs-t4070.08", "text": "We do live in a, I like the importance of the unconscious, this kind of brings back that we do in fact live in a simulation quite regularly, you know, every night.", "start": 4070.08, "end": 4081.08}
+{"id": "gw2GjssUafs-t4081.08", "text": "We dream and we enter into a simulation of our own making, a furthermore simulation which is not generated consciously, it's generated by our minds, but almost entirely unconsciously, and then we interact with that simulation", "start": 4081.08, "end": 4099.08}
+{"id": "gw2GjssUafs-t4099.08", "text": "and it's very often extremely real and extremely meaningful to us, that gets us out the power of minds, you've got to get the minds power to construct the world, but also the minds power directly construct the world, unconsciously,", "start": 4099.08, "end": 4112.08}
+{"id": "gw2GjssUafs-t4112.08", "text": "and that's really an extraordinary creative power, and of course it's doing that every moment in our ordinary, in our ordinary, weaning life as well in our perception of reality, it's just so obvious to us.", "start": 4112.08, "end": 4123.08}
+{"id": "gw2GjssUafs-t4123.08", "text": "I like the idea of extending our thoughts to, I called it earlier, like a sort of an thought experiment, which may be one way of looking at the idea of there being a simulation going on, because there were, because of these mysteries, you know, like some folks like to spend a lot of time thinking about that,", "start": 4123.08, "end": 4143.08}
+{"id": "gw2GjssUafs-t4143.08", "text": "and what are the consequences of my thinking along these lines, can I, can I come up with something thoughtful, creative, might actually move physics forward, but even if it doesn't, it's a way for me to think about the world, and it's, so it's an accurate creativity too, and occasionally something that comes a bit so we know", "start": 4143.08, "end": 4160.08}
+{"id": "gw2GjssUafs-t4160.08", "text": "that I think it's thought experiments through history, I guess was one of the first to really say, I'm doing a thought experiment here, watch out, no, and no, this is creative, let me think about what it's like to sit on the light beam,", "start": 4160.08, "end": 4176.08}
+{"id": "gw2GjssUafs-t4176.08", "text": "and that's a wonderful way for science to proceed, and it's not what do you call normal science, that's the creative part of science. So I'm really pleased that some people are willing to go at it and go at it and go at it, I think it's wonderful for all the rest of us.", "start": 4176.08, "end": 4193.08}
+{"id": "gw2GjssUafs-t4193.08", "text": "I think the question that's been haunting me is whether it is possible to know, so we've been talking about the very illuminating findings in physics, for example, that get us, I think, closer to the nature of how things might be, but", "start": 4193.08, "end": 4221.08}
+{"id": "gw2GjssUafs-t4221.08", "text": "if we take very seriously, Kant's recognition that what we perceive and understand are invariably molded by things that may have nothing to do with the nature of things, that it may be an entirely human endeavor, understanding", "start": 4221.08, "end": 4249.08}
+{"id": "gw2GjssUafs-t4249.08", "text": "of which nature has really very little to say. What position are we in? Can we make any real claims about what the world is indeed?", "start": 4249.08, "end": 4265.08}
+{"id": "gw2GjssUafs-t4265.08", "text": "I'm inclined to think we can't. I'm inclined to think that one can't, but I'm an American pragmatist, that's why I've heard some of the genuinely, that we do what works, or we try our best to do things, and I'm inclined to think that the laws of physics capture more about", "start": 4265.08, "end": 4294.08}
+{"id": "gw2GjssUafs-t4294.08", "text": "our limitations, and going back to the evolution, how can the laws of physics possibly evolve?", "start": 4294.08, "end": 4305.08}
+{"id": "gw2GjssUafs-t4305.08", "text": "One game you can play is to say, well, the laws of physics, in fact, are just an expression or a codification of all my various limitations, or us as a species.", "start": 4305.08, "end": 4318.08}
+{"id": "gw2GjssUafs-t4318.08", "text": "We can't help but fall. We can get around that, we can have a parachute, or a flying machine, we ultimately can get around some of these things.", "start": 4318.08, "end": 4329.08}
+{"id": "gw2GjssUafs-t4329.08", "text": "Well, we can't even get past the problem constraints we like. Maybe that's an expression of our present day limitation, but we are evolving species, and our limitations may be different in the future.", "start": 4329.08, "end": 4347.08}
+{"id": "gw2GjssUafs-t4347.08", "text": "Less limitations. So maybe the law of, you know, the speed of light as a constant is something that can be broken.", "start": 4347.08, "end": 4356.08}
+{"id": "gw2GjssUafs-t4356.08", "text": "If you just take a different point of view that the laws of physics are capturing how best to proceed the world, given what we've got right now, and that's not a knowledge plane, that's just a statement of more about us.", "start": 4356.08, "end": 4376.08}
+{"id": "gw2GjssUafs-t4376.08", "text": "Practical. I think that the connoisseur just made points to something that I try to keep in my mind, and that I try to tell people about science, that when a scientist makes a claim about some kind of ultimate statement, you should take that with an extraordinarily large grain of salt.", "start": 4376.08, "end": 4395.08}
+{"id": "gw2GjssUafs-t4395.08", "text": "Because we, in many parts of human thinking, there's this notion of the truth. I like to tell people, when you're a scientist, you will change your belief in the truth at the drop of a fact.", "start": 4395.08, "end": 4414.08}
+{"id": "gw2GjssUafs-t4414.08", "text": "So the word true for scientists generally is not what most people call the truth. And therefore, I think that we need to be very, very humble when we make proclamations that we know.", "start": 4414.08, "end": 4434.08}
+{"id": "gw2GjssUafs-t4434.08", "text": "We know subject to our limitations, and that's why I come back to this.", "start": 4434.08, "end": 4441.08}
+{"id": "gw2GjssUafs-t4441.08", "text": "I definitely have a lot of sympathy for the view that the laws of nature may have a lot more to do with our limitations than we realize. But at the same time, I'm skeptical that that can be the whole story, because the very notion of a limitation presupposes the existence of some kind of like", "start": 4441.08, "end": 4458.08}
+{"id": "gw2GjssUafs-t4458.08", "text": "rigidity that there are things we can and can't do, and those remain sort of consistent over time. And it doesn't really make sense to me that there could be such limitations if there's not some kind of background schema of laws or reality from which those limitations arise.", "start": 4458.08, "end": 4473.08}
+{"id": "gw2GjssUafs-t4473.08", "text": "So although I do think it's very important to recognize that the exact form of the laws we come up with probably have a lot to do with our own epistemic limitations, I don't think that means we should, we should suppose that there is no reality or there are no sort of background laws at all.", "start": 4473.08, "end": 4487.08}
+{"id": "gw2GjssUafs-t4487.08", "text": "I just think we need to be perhaps a lot more careful than we currently tend to be to try to sort of tease apart the threads of our science which are about our limitations and the threads which are about one of the sort of modal rigidity is which from which those limitations arise.", "start": 4487.08, "end": 4504.08}
+{"id": "gw2GjssUafs-t4504.08", "text": "Yeah, I think there is a world, there's a world outside of a question, and we can find out things about it on the world, you know, if you look at the world, you look away, you look back, it's still there, it fights back.", "start": 4504.08, "end": 4517.08}
+{"id": "gw2GjssUafs-t4517.08", "text": "The question is, you know, what can you know about it? We seem to be at least most something ever say, mathematics from science, we can know something about something of its structure.", "start": 4517.08, "end": 4527.08}
+{"id": "gw2GjssUafs-t4527.08", "text": "And so can we actually know its ultimate nature? I don't know, I mean, this kind of comes up and I keep out simulation and so on, there's, I'm the mathematics, I'm the big bits, there's so many different ways the world could be, could be consciousness.", "start": 4527.08, "end": 4542.08}
+{"id": "gw2GjssUafs-t4542.08", "text": "It could be another universe, it could be pure information, it could be pure bits.", "start": 4542.08, "end": 4546.08}
+{"id": "gw2GjssUafs-t4546.08", "text": "I guess I'm actually inclined, I think we occasionally get the little glimpses of the ultimate nature of reality, not least through our own consciousness, and maybe that's actually a glimpse of ultimate reality, and who's to say that they can't be special moments of awareness, whether through meditation or psychedelics, and so on,", "start": 4546.08, "end": 4565.08}
+{"id": "gw2GjssUafs-t4565.08", "text": "that give you some clearer awareness of that ultimate nature of reality. I mean, it could be possible to know some tiny elements of this, but you know, as much as they sit in each eye, the galaxy, space is big, reality is big, it's bigger than us, we can't expect to know all of it.", "start": 4565.08, "end": 4585.08}
+{"id": "gw2GjssUafs-t4585.08", "text": "I think it's a sort of a mistake to want to answer the question, what is reality ultimately made out of? I think that's not the kind of question science really gives us access to, but at the same time I am optimistic that science does continue increasing our understanding of things,", "start": 4585.08, "end": 4602.08}
+{"id": "gw2GjssUafs-t4602.08", "text": "and there have been developments throughout the course of science that have, while not telling us what the world is made out of, at least giving us a better understanding of what that is structurally and sort of moving from our way of thinking things that we thought were different and absolute that we realised we're not so.", "start": 4602.08, "end": 4620.08}
+{"id": "gw2GjssUafs-t4620.08", "text": "So I think that we can certainly learn things about ultimate reality without necessarily learning what it's made out of or what the sort of fundamental stuff is.", "start": 4620.08, "end": 4629.08}
+{"id": "gw2GjssUafs-t4629.08", "text": "I'm still wrestling with something you said very casually, that there is a world outside of us. What do you mean? What would it be in my world outside of this?", "start": 4629.08, "end": 4640.08}
+{"id": "gw2GjssUafs-t4640.08", "text": "There's a world outside of my consciousness, at least that is producing my consciousness.", "start": 4640.08, "end": 4646.08}
+{"id": "gw2GjssUafs-t4646.08", "text": "There's a bird, for example, the tree in the court, you look around and you come back, the tree is still there. The next day wasn't in my consciousness, where was it? So there's something, well, back for example God had the idea of the tree in the court.", "start": 4646.08, "end": 4661.08}
+{"id": "gw2GjssUafs-t4661.08", "text": "The next thing that I'm actually doing is that there's a bunch of matter out there. There's even the idea that it could just be another part of my mind or a cosmic mind that I'm all part of that's out there and it's responsible for my experiences of the tree, but at least there has to be something outside my consciousness to explain all these regularities, all these things that my consciousness discovers.", "start": 4661.08, "end": 4682.08}
+{"id": "gw2GjssUafs-t4682.08", "text": "It's also, I think, about intersubjectivity as well, the fact that we presumably are all conscious and we're all having experiences and we presume those experiences are related to each other in certain regular ways.", "start": 4682.08, "end": 4693.08}
+{"id": "gw2GjssUafs-t4693.08", "text": "The world outside is whatever it is that gives rise to the sit-on-related experiences and produces these relationships between our experiences that are kind of systematizable and relates to us to each other in ways that we can make sense of.", "start": 4693.08, "end": 4706.08}
+{"id": "gw2GjssUafs-t4706.08", "text": "And one of the follow-up and something Emily just said and also what you said earlier, Jim, that when you're doing science, you get this idea of truth that's different from the one you might have come into with as a naive, non-science, or just a young person, right?", "start": 4706.08, "end": 4721.08}
+{"id": "gw2GjssUafs-t4721.08", "text": "That things like, well, what really is there in the universe and I think some of us, I think all of us probably agree, well, I don't know, that's sort of a woolly question and we don't take that seriously, although we do look like we're earnestly pursuing it in some strange way.", "start": 4721.08, "end": 4736.08}
+{"id": "gw2GjssUafs-t4736.08", "text": "I think there's one of the interesting responses to your comment earlier, Elias, was that about the nature being something that we're applying models of understanding that are not in nature, they're part of us, but yes, they are in nature because we're part of nature.", "start": 4736.08, "end": 4753.08}
+{"id": "gw2GjssUafs-t4753.08", "text": "I mean, to a degree, you can say something about that and maybe that's one way out of this, part of partial way out of the conundrum.", "start": 4753.08, "end": 4762.08}
+{"id": "gw2GjssUafs-t4762.08", "text": "I think it's interesting that we do always want to pursue things like, well, what really is there?", "start": 4762.08, "end": 4767.08}
+{"id": "gw2GjssUafs-t4767.08", "text": "I think that's a human nature to ask that question and it may be a slightly childish question, I don't know.", "start": 4767.08, "end": 4772.08}
+{"id": "gw2GjssUafs-t4772.08", "text": "I think maybe it is, but it's still something that fascinates us all and maybe why we're thinking about the metaverse.", "start": 4772.08, "end": 4778.08}
+{"id": "gw2GjssUafs-t4778.08", "text": "So we have to stop now because I think I imagine there are going to be some questions from the audience and so if anyone has any, would they come up to the microphone?", "start": 4778.08, "end": 4793.08}
+{"id": "gw2GjssUafs-t4793.08", "text": "Thank you very much for that fascinating panel.", "start": 4793.08, "end": 4796.08}
+{"id": "gw2GjssUafs-t4796.08", "text": "My question is about it from bits from it and artificial general intentions.", "start": 4796.08, "end": 4804.08}
+{"id": "gw2GjssUafs-t4804.08", "text": "You might become here with a concept, it's basically not narrow AI, but AI that will be a singularity and could be the metaverse.", "start": 4804.08, "end": 4815.08}
+{"id": "gw2GjssUafs-t4815.08", "text": "And then the point is that the it underneath is us and you said before that the it underneath must be God because it produces something without mistakes.", "start": 4815.08, "end": 4829.08}
+{"id": "gw2GjssUafs-t4829.08", "text": "Are we God and if we take that even further the metaverse will come to happen.", "start": 4829.08, "end": 4835.08}
+{"id": "gw2GjssUafs-t4835.08", "text": "I'm curious about the reaction.", "start": 4835.08, "end": 4838.08}
+{"id": "gw2GjssUafs-t4841.08", "text": "I missed the clip at the end, if we're God, then we just have fun.", "start": 4841.08, "end": 4846.08}
+{"id": "gw2GjssUafs-t4846.08", "text": "Each is basically all the collect intentions of all programmers.", "start": 4846.08, "end": 4850.08}
+{"id": "gw2GjssUafs-t4850.08", "text": "Yeah.", "start": 4850.08, "end": 4851.08}
+{"id": "gw2GjssUafs-t4851.08", "text": "And they produce that illusion and we are living in because it's that the artificial general intelligence, which is basically the metaverse has basically the singularity that's based in the end station of AI.", "start": 4851.08, "end": 4866.08}
+{"id": "gw2GjssUafs-t4866.08", "text": "So this is saying AGI, this is the view on what AGI has already happened.", "start": 4866.08, "end": 4870.08}
+{"id": "gw2GjssUafs-t4870.08", "text": "And the metaverse program was actually produced by an artificial general and how AGI is produced by us.", "start": 4870.08, "end": 4878.08}
+{"id": "gw2GjssUafs-t4878.08", "text": "So we are, or that the universe or the group of all programmers.", "start": 4878.08, "end": 4884.08}
+{"id": "gw2GjssUafs-t4884.08", "text": "If the simulation hypothesis is correct, we are already artificial intelligence, somewhere general intelligence.", "start": 4884.08, "end": 4890.08}
+{"id": "gw2GjssUafs-t4890.08", "text": "So we'd be AGI is already inside a simulation.", "start": 4890.08, "end": 4894.08}
+{"id": "gw2GjssUafs-t4894.08", "text": "But I guess the thought is exactly the same could happen again.", "start": 4894.08, "end": 4897.08}
+{"id": "gw2GjssUafs-t4897.08", "text": "Once we create artificial general intelligence, which could happen within 10, 20, 30 years on current,", "start": 4897.08, "end": 4906.08}
+{"id": "gw2GjssUafs-t4906.08", "text": "given the pace of current developments, it will then be in a position to create the metaverse and the full-scale virtual world far better than we are.", "start": 4906.08, "end": 4916.08}
+{"id": "gw2GjssUafs-t4916.08", "text": "So AGI is a possible route to the creation of metaverses of simulated universes.", "start": 4916.08, "end": 4923.08}
+{"id": "gw2GjssUafs-t4923.08", "text": "And we will be God.", "start": 4923.08, "end": 4924.08}
+{"id": "gw2GjssUafs-t4924.08", "text": "We hope you got four those universes.", "start": 4924.08, "end": 4926.08}
+{"id": "gw2GjssUafs-t4926.08", "text": "Absolutely.", "start": 4926.08, "end": 4927.08}
+{"id": "gw2GjssUafs-t4927.08", "text": "Yeah. We have to use that power responsibly.", "start": 4927.08, "end": 4929.08}
+{"id": "gw2GjssUafs-t4929.08", "text": "And not interested.", "start": 4929.08, "end": 4931.08}
+{"id": "gw2GjssUafs-t4931.08", "text": "The one we got.", "start": 4931.08, "end": 4936.08}
+{"id": "gw2GjssUafs-t4936.08", "text": "Yes.", "start": 4936.08, "end": 4943.08}
+{"id": "gw2GjssUafs-t4943.08", "text": "Thanks for this panel.", "start": 4943.08, "end": 4944.08}
+{"id": "gw2GjssUafs-t4944.08", "text": "I'm always excited to go to a panel where the question begins with, is the universe, whatever.", "start": 4944.08, "end": 4950.08}
+{"id": "gw2GjssUafs-t4950.08", "text": "It's always going to be fun.", "start": 4950.08, "end": 4951.08}
+{"id": "gw2GjssUafs-t4951.08", "text": "I had the benefit of being able to sort of check on a few things that were discussed during the panel,", "start": 4951.08, "end": 4956.08}
+{"id": "gw2GjssUafs-t4956.08", "text": "the first of which was Rorty. Rorty is, of course, famous for claiming that truth is sentence shaped.", "start": 4956.08, "end": 4963.08}
+{"id": "gw2GjssUafs-t4963.08", "text": "And I looked it up the idea that the world divides itself into sentence shaped chunks that we call facts,", "start": 4963.08, "end": 4970.08}
+{"id": "gw2GjssUafs-t4970.08", "text": "is Rorty's critique of analytical philosophy.", "start": 4970.08, "end": 4973.08}
+{"id": "gw2GjssUafs-t4973.08", "text": "Which I think is interesting because it's an epistemological question.", "start": 4973.08, "end": 4976.08}
+{"id": "gw2GjssUafs-t4976.08", "text": "And as I was listening to this conversation, it seems to me that meta has come to me almost exclusively simulation or simulator.", "start": 4976.08, "end": 4985.08}
+{"id": "gw2GjssUafs-t4985.08", "text": "Whereas, meta can actually be used in a couple of different ways.", "start": 4985.08, "end": 4989.08}
+{"id": "gw2GjssUafs-t4989.08", "text": "One is, of course, to say that it's a simulation.", "start": 4989.08, "end": 4991.08}
+{"id": "gw2GjssUafs-t4991.08", "text": "And I think this question immediately becomes tedious because even if it is, it's still the same universe.", "start": 4991.08, "end": 4997.08}
+{"id": "gw2GjssUafs-t4997.08", "text": "Right? A simulation is always exactly equal to itself.", "start": 4997.08, "end": 5001.08}
+{"id": "gw2GjssUafs-t5001.08", "text": "So the way that you would test, you would always, how many layers of simulations of simulations would it go back?", "start": 5001.08, "end": 5007.08}
+{"id": "gw2GjssUafs-t5007.08", "text": "It's an interesting question.", "start": 5007.08, "end": 5008.08}
+{"id": "gw2GjssUafs-t5008.08", "text": "But in terms of it not being so much ontological but epistemological, meta can also be used to be like the thing about the thing.", "start": 5008.08, "end": 5017.08}
+{"id": "gw2GjssUafs-t5017.08", "text": "So, a metacognition is thinking about thinking, metalinguistics is language about language.", "start": 5017.08, "end": 5021.08}
+{"id": "gw2GjssUafs-t5021.08", "text": "And this brings me back to John Wheeler, who was very interested in the idea that the universe is observing itself.", "start": 5021.08, "end": 5028.08}
+{"id": "gw2GjssUafs-t5028.08", "text": "So, is there a way in which the meta universe or the metaverse is the universe that observes itself?", "start": 5028.08, "end": 5035.08}
+{"id": "gw2GjssUafs-t5035.08", "text": "And this, to me, takes us back to the hard question of consciousness, which is to say is our consciousness of the universe already a metaverse?", "start": 5035.08, "end": 5044.08}
+{"id": "gw2GjssUafs-t5044.08", "text": "Because it's the universe observing itself.", "start": 5044.08, "end": 5047.08}
+{"id": "gw2GjssUafs-t5047.08", "text": "I like that. I like that. And I don't know how to respond.", "start": 5047.08, "end": 5065.08}
+{"id": "gw2GjssUafs-t5065.08", "text": "I think a minute and do Jim's strategy of think about it for three minutes.", "start": 5065.08, "end": 5071.08}
+{"id": "gw2GjssUafs-t5071.08", "text": "And then maybe I can have a brilliant answer.", "start": 5071.08, "end": 5074.08}
+{"id": "gw2GjssUafs-t5074.08", "text": "I like the idea that meta, meta x is x about x.", "start": 5074.08, "end": 5079.08}
+{"id": "gw2GjssUafs-t5079.08", "text": "Metacognition is cognition about cognition. Metatheria is theory about a theory.", "start": 5079.08, "end": 5084.08}
+{"id": "gw2GjssUafs-t5084.08", "text": "By those lights, metaverse, I thought it's a verse about a verse.", "start": 5084.08, "end": 5089.08}
+{"id": "gw2GjssUafs-t5089.08", "text": "The first is a cross-thinking about the universe.", "start": 5089.08, "end": 5092.08}
+{"id": "gw2GjssUafs-t5092.08", "text": "The term universe is the one crossing.", "start": 5092.08, "end": 5094.08}
+{"id": "gw2GjssUafs-t5094.08", "text": "So, the metaverse would be the thing that crosses itself.", "start": 5094.08, "end": 5097.08}
+{"id": "gw2GjssUafs-t5097.08", "text": "So, we're back to the self-replicit.", "start": 5097.08, "end": 5100.08}
+{"id": "gw2GjssUafs-t5100.08", "text": "It means to the side of it.", "start": 5100.08, "end": 5104.08}
+{"id": "gw2GjssUafs-t5104.08", "text": "Maybe short meta universe.", "start": 5104.08, "end": 5108.08}
+{"id": "gw2GjssUafs-t5108.08", "text": "This is a universe about a universe.", "start": 5108.08, "end": 5111.08}
+{"id": "gw2GjssUafs-t5111.08", "text": "Another image that John Wheeler used.", "start": 5111.08, "end": 5114.08}
+{"id": "gw2GjssUafs-t5114.08", "text": "I mean, he's famous for having drawn a view for the universe with an eye ball on him.", "start": 5114.08, "end": 5120.08}
+{"id": "gw2GjssUafs-t5120.08", "text": "Oh, there's a lovely little spot in his.", "start": 5120.08, "end": 5125.08}
+{"id": "gw2GjssUafs-t5125.08", "text": "He always carried a big notebook around it.", "start": 5125.08, "end": 5128.08}
+{"id": "gw2GjssUafs-t5128.08", "text": "I take notes all the time. And in the margin, he sketches this.", "start": 5128.08, "end": 5132.08}
+{"id": "gw2GjssUafs-t5132.08", "text": "And he says, I'll have to explain the story of how this came to me two days ago.", "start": 5132.08, "end": 5139.08}
+{"id": "gw2GjssUafs-t5139.08", "text": "And then if you look at the notebooks, you can't find the story.", "start": 5139.08, "end": 5144.08}
+{"id": "gw2GjssUafs-t5144.08", "text": "We'll never know.", "start": 5144.08, "end": 5146.08}
+{"id": "gw2GjssUafs-t5146.08", "text": "But there was another image that he used.", "start": 5146.08, "end": 5150.08}
+{"id": "gw2GjssUafs-t5150.08", "text": "He wondered whether the universe was a self-excited circuit.", "start": 5150.08, "end": 5155.08}
+{"id": "gw2GjssUafs-t5155.08", "text": "And I don't know if that has something to do with what you're talking about.", "start": 5155.08, "end": 5161.08}
+{"id": "gw2GjssUafs-t5161.08", "text": "But he was thinking of it as somehow coming back on it's an ouroboros or something for a long time", "start": 5161.08, "end": 5170.08}
+{"id": "gw2GjssUafs-t5170.08", "text": "and self-excitation.", "start": 5170.08, "end": 5173.08}
+{"id": "gw2GjssUafs-t5173.08", "text": "I actually think longer.", "start": 5173.08, "end": 5176.08}
+{"id": "gw2GjssUafs-t5176.08", "text": "Three more minutes.", "start": 5176.08, "end": 5178.08}
+{"id": "gw2GjssUafs-t5178.08", "text": "He only took two minutes, by the way.", "start": 5178.08, "end": 5180.08}
+{"id": "gw2GjssUafs-t5180.08", "text": "I cannot possibly come up with a good answer to that query.", "start": 5180.08, "end": 5188.08}
+{"id": "gw2GjssUafs-t5188.08", "text": "But I would offer this as a thought.", "start": 5188.08, "end": 5191.08}
+{"id": "gw2GjssUafs-t5191.08", "text": "So I'm 71 years old. I've been studying a piece of mathematical physics since I was in my 20s.", "start": 5191.08, "end": 5197.08}
+{"id": "gw2GjssUafs-t5197.08", "text": "It's the same piece of mathematical physics that worries me now that were in my late 20s.", "start": 5197.08, "end": 5203.08}
+{"id": "gw2GjssUafs-t5203.08", "text": "And I've thought about the universe this entire 40, 40, 50 years of life.", "start": 5203.08, "end": 5208.08}
+{"id": "gw2GjssUafs-t5208.08", "text": "And to me, as we delve in these kinds of domains between philosophy and physics", "start": 5208.08, "end": 5215.08}
+{"id": "gw2GjssUafs-t5215.08", "text": "and recognize the relationship between these two fields temporarily,", "start": 5215.08, "end": 5219.08}
+{"id": "gw2GjssUafs-t5219.08", "text": "the honest thing I know about the universe goes,", "start": 5219.08, "end": 5224.08}
+{"id": "gw2GjssUafs-t5224.08", "text": "apparently the evidence suggests it was started about 14 billion years ago.", "start": 5224.08, "end": 5228.08}
+{"id": "gw2GjssUafs-t5228.08", "text": "And this thing we call the Big Bang.", "start": 5228.08, "end": 5231.08}
+{"id": "gw2GjssUafs-t5231.08", "text": "It had this period where it blew up from something much, much smaller than Adam to this thing we live in.", "start": 5231.08, "end": 5236.08}
+{"id": "gw2GjssUafs-t5236.08", "text": "It underwent transformations in space and time, stars turned on galaxies formed.", "start": 5236.08, "end": 5241.08}
+{"id": "gw2GjssUafs-t5241.08", "text": "To me, the honest thing about the universe is that in this entire time frame,", "start": 5241.08, "end": 5246.08}
+{"id": "gw2GjssUafs-t5246.08", "text": "it apparently only produces one copy of each of us.", "start": 5246.08, "end": 5250.08}
+{"id": "gw2GjssUafs-t5250.08", "text": "To me, this is extraordinarily mysterious.", "start": 5250.08, "end": 5254.08}
+{"id": "gw2GjssUafs-t5254.08", "text": "And so in trying to answer the questions about the metaphors,", "start": 5254.08, "end": 5258.08}
+{"id": "gw2GjssUafs-t5258.08", "text": "what I have about Adam driven to is, in some sense,", "start": 5258.08, "end": 5262.08}
+{"id": "gw2GjssUafs-t5262.08", "text": "why do I as an individual come to be in whatever this structure is?", "start": 5262.08, "end": 5269.08}
+{"id": "gw2GjssUafs-t5269.08", "text": "To me, that's the deepest question that I know that I'll never have an answer to.", "start": 5269.08, "end": 5276.08}
+{"id": "gw2GjssUafs-t5276.08", "text": "I think, yes, the idea that we are, that's another way of saying what I was actually trying to bring up,", "start": 5276.08, "end": 5281.08}
+{"id": "gw2GjssUafs-t5281.08", "text": "distant for the end, and we are part of nature too.", "start": 5281.08, "end": 5284.08}
+{"id": "gw2GjssUafs-t5284.08", "text": "So in that sense, yes, we are looking back on nature with our natural selves.", "start": 5284.08, "end": 5290.08}
+{"id": "gw2GjssUafs-t5290.08", "text": "Any other questions?", "start": 5290.08, "end": 5295.08}
+{"id": "gw2GjssUafs-t5295.08", "text": "There's a neuroscientist in Modafolina who talks about imagination as the physics of the mind.", "start": 5295.08, "end": 5303.08}
+{"id": "gw2GjssUafs-t5303.08", "text": "And I find that so beautiful because it's about trying to grasp reality,", "start": 5303.08, "end": 5307.08}
+{"id": "gw2GjssUafs-t5307.08", "text": "but also know about all the probabilities.", "start": 5307.08, "end": 5310.08}
+{"id": "gw2GjssUafs-t5310.08", "text": "I'd be so upset if we really understood everything about the universe,", "start": 5310.08, "end": 5314.08}
+{"id": "gw2GjssUafs-t5314.08", "text": "because then what would we do with our imaginations?", "start": 5314.08, "end": 5318.08}
+{"id": "gw2GjssUafs-t5318.08", "text": "And I just wonder how you experience the difference between your speculations and just the play of imagination.", "start": 5318.08, "end": 5325.08}
+{"id": "gw2GjssUafs-t5325.08", "text": "I'm willing to respond to that one as opposed to the hard question.", "start": 5325.08, "end": 5333.08}
+{"id": "gw2GjssUafs-t5333.08", "text": "So one of the things that, again, when I talk to the public about how science works,", "start": 5333.08, "end": 5340.08}
+{"id": "gw2GjssUafs-t5340.08", "text": "starts with the statement that Einstein made, he said,", "start": 5340.08, "end": 5344.08}
+{"id": "gw2GjssUafs-t5344.08", "text": "imagination is more important than knowledge. Many people have heard this statement,", "start": 5344.08, "end": 5349.08}
+{"id": "gw2GjssUafs-t5349.08", "text": "but there's a sentence or two after that which, unless you read them,", "start": 5349.08, "end": 5353.08}
+{"id": "gw2GjssUafs-t5353.08", "text": "this statement can't be mysterious. And it goes because knowledge encompasses all that we now know about the world,", "start": 5353.08, "end": 5362.08}
+{"id": "gw2GjssUafs-t5362.08", "text": "but imagination encompasses all that we will ever know about the world.", "start": 5362.08, "end": 5368.08}
+{"id": "gw2GjssUafs-t5368.08", "text": "And so for me, one of the great joys of being a scientist is to understand that", "start": 5368.08, "end": 5374.08}
+{"id": "gw2GjssUafs-t5374.08", "text": "my scientific knowledge grows, the rational part that we've talked about as physicists,", "start": 5374.08, "end": 5380.08}
+{"id": "gw2GjssUafs-t5380.08", "text": "grows, but the driving force of that is imagination at the boundaries where we don't know things.", "start": 5380.08, "end": 5388.08}
+{"id": "gw2GjssUafs-t5388.08", "text": "It's imagination that's driving the growth of that, but subject to the hard test of nature.", "start": 5388.08, "end": 5396.08}
+{"id": "gw2GjssUafs-t5396.08", "text": "That's how we grow in knowledge. So without the imagination, that process stops.", "start": 5396.08, "end": 5406.08}
+{"id": "gw2GjssUafs-t5406.08", "text": "And imagination is deeply, deeply non-rational. It comes from the parts of me that I prefer one piece of music to another code.", "start": 5406.08, "end": 5417.08}
+{"id": "gw2GjssUafs-t5417.08", "text": "There's nothing rational about that, but that's what's driving my rational growth as of being understanding this universe.", "start": 5417.08, "end": 5424.08}
+{"id": "gw2GjssUafs-t5424.08", "text": "And imagination may not only exist at the boundaries of comprehension,", "start": 5424.08, "end": 5428.08}
+{"id": "gw2GjssUafs-t5428.08", "text": "it may be implicated in comprehension itself and how we understand things, the theories we formulate, what we construct.", "start": 5428.08, "end": 5435.08}
+{"id": "gw2GjssUafs-t5435.08", "text": "But it's that play all the time. I see theories have like fossilized imagination as something that's kind of got stuck in.", "start": 5435.08, "end": 5446.08}
+{"id": "gw2GjssUafs-t5446.08", "text": "This is an interplay between imagination and rationality, because one imagines world possibilities and one applies rationality to them to ask does this make sense?", "start": 5446.08, "end": 5456.08}
+{"id": "gw2GjssUafs-t5456.08", "text": "How can this all fit together and one pairs down the possibilities that one has imagined to arrive at something which is a sort of viable theory?", "start": 5456.08, "end": 5463.08}
+{"id": "gw2GjssUafs-t5463.08", "text": "So the two components come together to produce them as original, but also makes sense.", "start": 5463.08, "end": 5469.08}
+{"id": "gw2GjssUafs-t5469.08", "text": "Can't tell we imagine something else.", "start": 5469.08, "end": 5472.08}
+{"id": "gw2GjssUafs-t5472.08", "text": "And imagination is both, as you say, more than what we know now about the world.", "start": 5472.08, "end": 5476.08}
+{"id": "gw2GjssUafs-t5476.08", "text": "Maybe it's even more than we will ever know about the world, because imagination is not just about this world.", "start": 5476.08, "end": 5482.08}
+{"id": "gw2GjssUafs-t5482.08", "text": "Physics tells us about this world.", "start": 5482.08, "end": 5484.08}
+{"id": "gw2GjssUafs-t5484.08", "text": "Imagination tells us about the vast space of possible worlds that we can explore.", "start": 5484.08, "end": 5490.08}
+{"id": "gw2GjssUafs-t5490.08", "text": "There's so much to know about that space of possible worlds that goes beyond this world.", "start": 5490.08, "end": 5495.08}
+{"id": "gw2GjssUafs-t5495.08", "text": "Even if today, everything we've said is nonsense about this world.", "start": 5495.08, "end": 5499.08}
+{"id": "gw2GjssUafs-t5499.08", "text": "And we've still described the possible world, which a number of possible worlds are making that work.", "start": 5499.08, "end": 5505.08}
+{"id": "gw2GjssUafs-t5505.08", "text": "It's a way to solve it.", "start": 5505.08, "end": 5506.08}
+{"id": "gw2GjssUafs-t5506.08", "text": "Which I've recovered a million times.", "start": 5506.08, "end": 5507.08}
+{"id": "gw2GjssUafs-t5507.08", "text": "I want to pick up on what Dr. Gates said that in Jacques Hademard's book where he interviewed scientists, Einstein also said every idea came to him as an image, not as a theory.", "start": 5507.08, "end": 5522.08}
+{"id": "gw2GjssUafs-t5522.08", "text": "And it was only his desire to relate and communicate that forced him to put it into theorems.", "start": 5522.08, "end": 5529.08}
+{"id": "gw2GjssUafs-t5529.08", "text": "I think that's so beautiful because it's about what you've all been trying to do today in terms of trying to relate to us.", "start": 5529.08, "end": 5537.08}
+{"id": "gw2GjssUafs-t5537.08", "text": "And tell us what you think you know and what you know you don't know. So I'm very grateful.", "start": 5537.08, "end": 5542.08}
+{"id": "gw2GjssUafs-t5542.08", "text": "Well, that's great.", "start": 5542.08, "end": 5544.08}
+{"id": "gw2GjssUafs-t5544.08", "text": "Well, I think it's a wonderful point at which we can stop.", "start": 5544.08, "end": 5547.08}
+{"id": "gw2GjssUafs-t5547.08", "text": "I hoped that it would turn out the way it did, but this did exceed my imagination. It was a wonderful, wonderful.", "start": 5547.08, "end": 5554.08}
+{"id": "gw2GjssUafs-t5554.08", "text": "And I'm glad there's that extra little bit of extra surplus left over.", "start": 5554.08, "end": 5558.08}
+{"id": "gw2GjssUafs-t5558.08", "text": "So thank you again, everyone. I hope everyone here enjoyed themselves as well.", "start": 5558.08, "end": 5562.08}
+{"id": "gw2GjssUafs-t5562.08", "text": "Thank you. Thank you.", "start": 5562.08, "end": 5578.08}
+{"id": "gw2GjssUafs-t5592.08", "text": "Thank you.", "start": 5592.08, "end": 5597.08}

@@ -1,0 +1,1186 @@
+{"id": "11t4toF0sN0-t0.0", "text": "I'm Ed Nurse-Escion, director of the Helix Center.", "start": 0.0, "end": 3.4}
+{"id": "11t4toF0sN0-t3.4", "text": "I want to welcome you all to these two days of roundtables focusing around the ideas of", "start": 3.4, "end": 9.76}
+{"id": "11t4toF0sN0-t9.76", "text": "Abby Warburg.", "start": 9.76, "end": 12.56}
+{"id": "11t4toF0sN0-t12.56", "text": "I would like to say primarily that I want to thank all of you who are here.", "start": 12.56, "end": 19.6}
+{"id": "11t4toF0sN0-t19.6", "text": "I realize it's an early morning time.", "start": 19.6, "end": 22.04}
+{"id": "11t4toF0sN0-t22.04", "text": "We are usually not here at this hour.", "start": 22.04, "end": 25.72}
+{"id": "11t4toF0sN0-t25.72", "text": "I thank all the participants who come from various places in the world to be part of this", "start": 25.72, "end": 31.72}
+{"id": "11t4toF0sN0-t31.72", "text": "meeting.", "start": 31.72, "end": 33.96}
+{"id": "11t4toF0sN0-t33.96", "text": "From our side, I think Rob Penzer has done a tremendous amount of work to organize this", "start": 33.96, "end": 39.12}
+{"id": "11t4toF0sN0-t39.12", "text": "and I'd like to thank him.", "start": 39.12, "end": 48.2}
+{"id": "11t4toF0sN0-t48.2", "text": "And I would like also to thank Konstwakwie Bejie, who is here from London and who is director", "start": 48.2, "end": 54.32}
+{"id": "11t4toF0sN0-t54.32", "text": "of the Abby Warburg Institute in London.", "start": 54.32, "end": 57.52}
+{"id": "11t4toF0sN0-t57.52", "text": "The beautiful poster that you see out there and the brochure that you have here were all", "start": 57.52, "end": 62.84}
+{"id": "11t4toF0sN0-t62.84", "text": "designed by him and sent to us from London.", "start": 62.84, "end": 65.96000000000001}
+{"id": "11t4toF0sN0-t65.96000000000001", "text": "So I'd like to thank him.", "start": 65.96000000000001, "end": 78.16}
+{"id": "11t4toF0sN0-t78.16", "text": "We are very honored today here to have the ambassador, Francois Bava from Switzerland", "start": 78.16, "end": 84.39999999999999}
+{"id": "11t4toF0sN0-t84.39999999999999", "text": "and I'm going to ask him to say a couple of words.", "start": 84.39999999999999, "end": 88.08}
+{"id": "11t4toF0sN0-t88.08", "text": "Yeah, Ed.", "start": 88.08, "end": 92.52}
+{"id": "11t4toF0sN0-t92.52", "text": "Ladies and gentlemen, it's a pleasure for me to be here and to have Switzerland associated", "start": 92.52, "end": 100.28}
+{"id": "11t4toF0sN0-t100.28", "text": "to your symposium.", "start": 100.28, "end": 102.36}
+{"id": "11t4toF0sN0-t102.36", "text": "You may ask why Switzerland is associated?", "start": 102.36, "end": 105.72}
+{"id": "11t4toF0sN0-t105.72", "text": "Well, you know the relationship between Warburg and Switzerland, K", "start": 105.72, "end": 125.38}
+{"id": "11t4toF0sN0-t125.38", "text": "and is supported by another foundation called the Will's Dog Foundation which owns the Rolex", "start": 125.38, "end": 132.38}
+{"id": "11t4toF0sN0-t132.38", "text": "Watch Company.", "start": 132.38, "end": 133.96}
+{"id": "11t4toF0sN0-t133.96", "text": "So it's really rooted in Geneva and as an important, I would say, an important support.", "start": 133.96, "end": 141.16}
+{"id": "11t4toF0sN0-t141.16", "text": "The mission of the Agalma Foundation is to explore the relationship between neuroscience,", "start": 141.16, "end": 148.35999999999999}
+{"id": "11t4toF0sN0-t148.35999999999999", "text": "psychoanalysis and art.", "start": 148.35999999999999, "end": 151.0}
+{"id": "11t4toF0sN0-t151.0", "text": "And the two persons in charge of the foundation are here today, Pierre Magistreti and Francois", "start": 151.0, "end": 158.0}
+{"id": "11t4toF0sN0-t158.0", "text": "and Francois Auncereme.", "start": 158.0, "end": 159.66}
+{"id": "11t4toF0sN0-t159.66", "text": "And the idea of this symposium, if I understand well, is born or was born from a conversation", "start": 159.66, "end": 167.22}
+{"id": "11t4toF0sN0-t167.22", "text": "between Professor Galese from Parma, Pierre and Francois in a train between Geneva and", "start": 167.22, "end": 173.9}
+{"id": "11t4toF0sN0-t173.9", "text": "Lausanne.", "start": 173.9, "end": 180.62}
+{"id": "11t4toF0sN0-t180.62", "text": "So, they were talking about Warburg and about his concept of science without name which basically", "start": 180.62, "end": 190.1}
+{"id": "11t4toF0sN0-t190.1", "text": "tries to bring together various disciplines and anthropology, history of art and biology.", "start": 190.1, "end": 196.9}
+{"id": "11t4toF0sN0-t196.9", "text": "And the objective of the Agalma Foundation is also to build bridges between the sciences", "start": 196.9, "end": 205.38}
+{"id": "11t4toF0sN0-t205.38", "text": "and art and humanities.", "start": 205.38, "end": 208.46}
+{"id": "11t4toF0sN0-t208.46", "text": "So they said, that's interesting.", "start": 208.46, "end": 212.66}
+{"id": "11t4toF0sN0-t212.66", "text": "Warburg as a resonance for us means something for us.", "start": 212.66, "end": 216.46}
+{"id": "11t4toF0sN0-t216.46", "text": "So let's try to do something and then they spoke to the endocision and today we are here.", "start": 216.46, "end": 222.46}
+{"id": "11t4toF0sN0-t222.46", "text": "So that's the link to Switzerland.", "start": 222.46, "end": 225.02}
+{"id": "11t4toF0sN0-t225.02", "text": "I wish you a very successful conference and have a good day.", "start": 225.02, "end": 229.9}
+{"id": "11t4toF0sN0-t229.9", "text": "Thank you.", "start": 229.9, "end": 230.9}
+{"id": "11t4toF0sN0-t230.9", "text": "Hello, Professor Magistreti from the Agalma Foundation.", "start": 230.9, "end": 240.38}
+{"id": "11t4toF0sN0-t240.38", "text": "A very brief introduction now.", "start": 240.38, "end": 246.74}
+{"id": "11t4toF0sN0-t246.74", "text": "Actually Ambassador Barras, you can see how professional our ambassadors because he told", "start": 246.74, "end": 254.14000000000001}
+{"id": "11t4toF0sN0-t254.14", "text": "everything I asked to tell.", "start": 254.14, "end": 257.21999999999997}
+{"id": "11t4toF0sN0-t257.21999999999997", "text": "He really made his homework and said everything I wanted to say about the Agalma Foundation.", "start": 257.21999999999997, "end": 264.14}
+{"id": "11t4toF0sN0-t264.14", "text": "So thank you, Francois, thank you Ambassador Barras.", "start": 264.14, "end": 267.9}
+{"id": "11t4toF0sN0-t267.9", "text": "Anyway, as president of the Agalma Foundation, it gives me great pleasure to welcome you all", "start": 267.9, "end": 273.65999999999997}
+{"id": "11t4toF0sN0-t273.65999999999997", "text": "here.", "start": 273.65999999999997, "end": 274.65999999999997}
+{"id": "11t4toF0sN0-t274.65999999999997", "text": "It's true that we actually had the idea of this symposium, Victoria Francois and myself.", "start": 274.65999999999997, "end": 281.09999999999997}
+{"id": "11t4toF0sN0-t281.1", "text": "And even after, I should say, there was some facilitating substances like wine.", "start": 281.1, "end": 288.26000000000005}
+{"id": "11t4toF0sN0-t288.26000000000005", "text": "We actually had quite some wine and then suddenly we had this idea of organizing something here.", "start": 288.26000000000005, "end": 295.1}
+{"id": "11t4toF0sN0-t295.1", "text": "And more seriously, again, as mentioned very clearly by Ambassador Barras, the Agalma Foundation", "start": 295.1, "end": 302.02000000000004}
+{"id": "11t4toF0sN0-t302.02", "text": "as its mission to try to bridge neuro-science, psychoanalysis, culture and society.", "start": 302.02, "end": 317.26}
+{"id": "11t4toF0sN0-t317.26", "text": "And in these days, I think, of super-specialization and where academic life has lost a little bit", "start": 317.26, "end": 327.18}
+{"id": "11t4toF0sN0-t327.18", "text": "of its freedom, I think.", "start": 327.18, "end": 329.21999999999997}
+{"id": "11t4toF0sN0-t329.22", "text": "I can say this after having been in academic life for 30 years.", "start": 329.22, "end": 334.18}
+{"id": "11t4toF0sN0-t334.18", "text": "It's really very refreshing and very important that there are places like the Agalma Foundation", "start": 334.18, "end": 340.5}
+{"id": "11t4toF0sN0-t340.5", "text": "and I think the Helix Foundation where there is a freedom of thinking, a freedom of making", "start": 340.5, "end": 347.78000000000003}
+{"id": "11t4toF0sN0-t347.78000000000003", "text": "connection, thinking outside the box and trying to move fields forward, not necessarily in", "start": 347.78000000000003, "end": 357.1}
+{"id": "11t4toF0sN0-t357.1", "text": "a very disciplinary way.", "start": 357.1, "end": 360.38}
+{"id": "11t4toF0sN0-t360.38", "text": "And this is really the goal of the foundation.", "start": 360.38, "end": 363.54}
+{"id": "11t4toF0sN0-t363.54", "text": "In terms of activities, the foundation organizes discussions, I should say, between a guest", "start": 363.54, "end": 372.62}
+{"id": "11t4toF0sN0-t372.62", "text": "that Francois and I invite.", "start": 372.62, "end": 375.18}
+{"id": "11t4toF0sN0-t375.18", "text": "And then we speak for about 45 minutes.", "start": 375.18, "end": 377.94}
+{"id": "11t4toF0sN0-t377.94", "text": "I have to say we were very much influenced by what Ed launched many years ago with the", "start": 377.94, "end": 385.5}
+{"id": "11t4toF0sN0-t385.5", "text": "Philocht etes foundation, again, very free discussion on not necessarily even on a specific", "start": 385.5, "end": 393.02}
+{"id": "11t4toF0sN0-t393.02", "text": "topic, but just in our case, what we try to do is what we say an experiment with someone", "start": 393.02, "end": 401.06}
+{"id": "11t4toF0sN0-t401.06", "text": "outside neuroscience and psychoanalysis and see how he or she, particularly from the case", "start": 401.06, "end": 407.38}
+{"id": "11t4toF0sN0-t407.38", "text": "of the art and culture, how we can have some ideas emerge from this kind of strange mix", "start": 407.38, "end": 416.34}
+{"id": "11t4toF0sN0-t416.34", "text": "between neuroscience, psychoanalysis and someone from the cultural world.", "start": 416.34, "end": 421.9}
+{"id": "11t4toF0sN0-t421.9", "text": "And these discussions are filmed, again, very much inspired by what Ed has launched and then", "start": 421.9, "end": 426.7}
+{"id": "11t4toF0sN0-t426.7", "text": "they are on YouTube.", "start": 426.7, "end": 427.78}
+{"id": "11t4toF0sN0-t427.78", "text": "So if you go on the Agalma website, you can see we have now about, I think, over 20 of", "start": 427.78, "end": 435.34}
+{"id": "11t4toF0sN0-t435.34", "text": "such discussions and you may find them interesting.", "start": 435.34, "end": 440.09999999999997}
+{"id": "11t4toF0sN0-t440.09999999999997", "text": "Some of them are in English, I have to say most of them are in French, but then other", "start": 440.09999999999997, "end": 444.21999999999997}
+{"id": "11t4toF0sN0-t444.21999999999997", "text": "activities of the foundations are to organize occasionally small workshops like this one.", "start": 444.21999999999997, "end": 450.14}
+{"id": "11t4toF0sN0-t450.14", "text": "We just did one last week in Geneva for the 100th anniversary of the death of F\u00e9rino de", "start": 450.14, "end": 456.26}
+{"id": "11t4toF0sN0-t456.26", "text": "Socio, the linguistic from Geneva.", "start": 456.26, "end": 458.94}
+{"id": "11t4toF0sN0-t458.94", "text": "It turns out just out of curiosity you may be interested that a member of the Agalma of", "start": 458.94, "end": 464.82}
+{"id": "11t4toF0sN0-t464.82", "text": "the board of the Agalma Foundation is a Christian de Socio, a descendant of F\u00e9rino de Socio,", "start": 464.82, "end": 471.06}
+{"id": "11t4toF0sN0-t471.06", "text": "so that was even more appropriate for us to discuss this.", "start": 471.06, "end": 475.9}
+{"id": "11t4toF0sN0-t475.9", "text": "And we had, again, a little bit in a smaller scale, but the same idea, neuroscientist,", "start": 475.9, "end": 482.06}
+{"id": "11t4toF0sN0-t482.06", "text": "psychoanalysis, linguist, philosophers, I think quite productive and we will have actually", "start": 482.06, "end": 487.34}
+{"id": "11t4toF0sN0-t487.34", "text": "a small publication come out of this workshop.", "start": 487.34, "end": 491.26}
+{"id": "11t4toF0sN0-t491.26", "text": "And then we tried to sponsor certain research efforts which, for those of you who have tried", "start": 491.26, "end": 500.02}
+{"id": "11t4toF0sN0-t500.02", "text": "to engage in experimental approaches, bringing together psychoanalysis and neuroscience, it's", "start": 500.02, "end": 508.78}
+{"id": "11t4toF0sN0-t508.78", "text": "quite difficult without kind of denaturing both of them.", "start": 508.78, "end": 512.54}
+{"id": "11t4toF0sN0-t512.54", "text": "So it's a really very difficult exercise, but we think it's a worthwhile exercise.", "start": 512.54, "end": 517.3}
+{"id": "11t4toF0sN0-t517.3", "text": "So we have some fellows who work on this topic.", "start": 517.3, "end": 522.26}
+{"id": "11t4toF0sN0-t522.26", "text": "Actually, we have with Christina Berrini, who is quite unique because she's a prominent", "start": 522.26, "end": 526.8599999999999}
+{"id": "11t4toF0sN0-t526.8599999999999", "text": "neuroscientist and also a psychoanalyst here at NYU.", "start": 526.8599999999999, "end": 530.9799999999999}
+{"id": "11t4toF0sN0-t530.9799999999999", "text": "And so we have a project with her and we have a couple of other projects at the Federal", "start": 530.9799999999999, "end": 534.66}
+{"id": "11t4toF0sN0-t534.66", "text": "Institute of Technology where I work.", "start": 534.66, "end": 537.54}
+{"id": "11t4toF0sN0-t537.54", "text": "So this is to give you the context and the interests of the Agalma Foundation and it", "start": 537.54, "end": 543.9399999999999}
+{"id": "11t4toF0sN0-t543.94", "text": "looks like I've been looking at the program and I would like to thank Ed, of course, and", "start": 543.94, "end": 548.94}
+{"id": "11t4toF0sN0-t548.94", "text": "all the people who contributed to organizing and bringing together the people.", "start": 548.94, "end": 555.0200000000001}
+{"id": "11t4toF0sN0-t555.0200000000001", "text": "We have now an experiment that will go on in the style we like at the Agalma Foundation", "start": 555.0200000000001, "end": 560.5}
+{"id": "11t4toF0sN0-t560.5", "text": "and I think also at the Helix Foundation.", "start": 560.5, "end": 562.46}
+{"id": "11t4toF0sN0-t562.46", "text": "So thank you very much and I hope we have a very productive two days.", "start": 562.46, "end": 572.22}
+{"id": "11t4toF0sN0-t572.22", "text": "Thank you Pierre.", "start": 572.22, "end": 575.1800000000001}
+{"id": "11t4toF0sN0-t575.1800000000001", "text": "I didn't say anything about Helix.", "start": 575.1800000000001, "end": 576.9}
+{"id": "11t4toF0sN0-t576.9", "text": "I assume everybody knows about Helix, but if you don't, I'd be happy to talk to you", "start": 576.9, "end": 581.02}
+{"id": "11t4toF0sN0-t581.02", "text": "after the meeting.", "start": 581.02, "end": 583.7}
+{"id": "11t4toF0sN0-t583.7", "text": "So what I'm going to do is introduce the participants in this round table in the briefest way possible", "start": 583.7, "end": 591.5400000000001}
+{"id": "11t4toF0sN0-t591.5400000000001", "text": "and then we'll get going.", "start": 591.5400000000001, "end": 600.02}
+{"id": "11t4toF0sN0-t600.02", "text": "I will start with Ludovica Loomer who is sitting there and she's a philosopher and a neurobiologist", "start": 600.02, "end": 608.8199999999999}
+{"id": "11t4toF0sN0-t608.8199999999999", "text": "and has worked with Samir Zeki who is one of the founders, I guess, of the Neuroesthetics", "start": 608.8199999999999, "end": 616.22}
+{"id": "11t4toF0sN0-t616.22", "text": "movement in London.", "start": 616.22, "end": 618.98}
+{"id": "11t4toF0sN0-t618.98", "text": "Next to her is Vittorio Galese who is professor of physiology in the Department of Neuroscience", "start": 618.98, "end": 627.66}
+{"id": "11t4toF0sN0-t627.66", "text": "of the University of Palma and well known for his discovery of the mirror neurons.", "start": 627.66, "end": 634.26}
+{"id": "11t4toF0sN0-t634.26", "text": "Sitting there is Anjan Chatterjee who is a neurologist and member of the Center for Cognitive", "start": 634.26, "end": 642.06}
+{"id": "11t4toF0sN0-t642.06", "text": "Neuroscience and the Center for Neuroscience and Society at the University of Pennsylvania", "start": 642.06, "end": 647.98}
+{"id": "11t4toF0sN0-t647.98", "text": "and I believe he has a book coming out on neuroesthetics or it's already here.", "start": 647.98, "end": 652.18}
+{"id": "11t4toF0sN0-t652.18", "text": "I don't know but it's certainly coming out this week.", "start": 652.18, "end": 658.66}
+{"id": "11t4toF0sN0-t658.66", "text": "David Friedberg who has participated in a number of our round tables in the past is professor", "start": 658.66, "end": 664.06}
+{"id": "11t4toF0sN0-t664.06", "text": "of Art History at the University of Columbia and director of the Italian Academy for Advanced", "start": 664.06, "end": 669.9}
+{"id": "11t4toF0sN0-t669.9", "text": "Studies in America.", "start": 669.9, "end": 673.2199999999999}
+{"id": "11t4toF0sN0-t673.2199999999999", "text": "And finally Andrea Pinotti teaches aesthetics at the University de l'estud de di Milano", "start": 673.2199999999999, "end": 681.02}
+{"id": "11t4toF0sN0-t681.02", "text": "and is director of the program at the College International de Philosophy in Paris on the", "start": 681.02, "end": 688.9}
+{"id": "11t4toF0sN0-t688.9", "text": "project Monumont, nonumont, correct?", "start": 688.9, "end": 694.3}
+{"id": "11t4toF0sN0-t694.3", "text": "Okay, so we'll get going.", "start": 694.3, "end": 705.22}
+{"id": "11t4toF0sN0-t705.22", "text": "To get this round table started I asked Vittorio to just say very, very brief words, a few", "start": 705.22, "end": 712.1}
+{"id": "11t4toF0sN0-t712.1", "text": "words to get oriented on the subject and then everybody else would jump in.", "start": 712.1, "end": 719.1800000000001}
+{"id": "11t4toF0sN0-t719.1800000000001", "text": "Thank you.", "start": 719.1800000000001, "end": 720.94}
+{"id": "11t4toF0sN0-t720.94", "text": "Thank you Ed.", "start": 720.94, "end": 722.4200000000001}
+{"id": "11t4toF0sN0-t722.4200000000001", "text": "It's a great pleasure to be here particularly because that dream that was conceived in Switzerland", "start": 722.4200000000001, "end": 731.0600000000001}
+{"id": "11t4toF0sN0-t731.06", "text": "between Gen\u00e8ve and Luzon is now real.", "start": 731.06, "end": 736.0999999999999}
+{"id": "11t4toF0sN0-t736.0999999999999", "text": "I mean we are here.", "start": 736.0999999999999, "end": 738.9399999999999}
+{"id": "11t4toF0sN0-t738.9399999999999", "text": "We will spend two days discussing this amazing figure of Abi Warburg.", "start": 738.9399999999999, "end": 748.18}
+{"id": "11t4toF0sN0-t748.18", "text": "I think we begin to appreciate how innovative this approach was, perhaps particularly today.", "start": 748.18, "end": 759.42}
+{"id": "11t4toF0sN0-t759.42", "text": "When we are experiencing a new form of dialogue between disciplines that the first site may", "start": 759.42, "end": 771.3399999999999}
+{"id": "11t4toF0sN0-t771.3399999999999", "text": "look as remote as possible like the study of the brain, the study of art, of culture.", "start": 771.3399999999999, "end": 779.02}
+{"id": "11t4toF0sN0-t779.02", "text": "When Vittorio embodies I think in a marvelous way this curiosity and this attempt to bridge", "start": 779.02, "end": 789.78}
+{"id": "11t4toF0sN0-t789.78", "text": "different field of expertise particularly because cognitive neuroscience is very popular.", "start": 789.78, "end": 800.34}
+{"id": "11t4toF0sN0-t800.34", "text": "Every day we read the big headlines in the newspaper, we discover what romantic love", "start": 800.34, "end": 806.34}
+{"id": "11t4toF0sN0-t806.34", "text": "is all about, we discover a tiny little area where beauty sits and the like.", "start": 806.34, "end": 813.5}
+{"id": "11t4toF0sN0-t813.5", "text": "This I would say, outrageously excessive form of reductionism needs to be tempered by an", "start": 813.5, "end": 824.98}
+{"id": "11t4toF0sN0-t824.98", "text": "open dialogue with people that because of the background tend to look at the individual", "start": 824.98, "end": 834.86}
+{"id": "11t4toF0sN0-t834.86", "text": "in a more holistic way.", "start": 834.86, "end": 837.14}
+{"id": "11t4toF0sN0-t837.14", "text": "So we must bring back the brain to where it belongs to the body in the first place but", "start": 837.14, "end": 844.3000000000001}
+{"id": "11t4toF0sN0-t844.3000000000001", "text": "this brain body complex it makes sense to study it to the extent that even if we move", "start": 844.3000000000001, "end": 853.62}
+{"id": "11t4toF0sN0-t853.62", "text": "from a methodological reductionist approach so we are dealing with the nuts and bolts so", "start": 853.62, "end": 860.14}
+{"id": "11t4toF0sN0-t860.14", "text": "to speak of what it means to be human the ultimate goal must be to go back to the holistic", "start": 860.14, "end": 867.78}
+{"id": "11t4toF0sN0-t867.78", "text": "view of human nature and if we want to do that we cannot live out from our investigation,", "start": 867.78, "end": 876.34}
+{"id": "11t4toF0sN0-t876.34", "text": "artistic expression, creativity and how this relates to something which is hidden in our", "start": 876.34, "end": 884.86}
+{"id": "11t4toF0sN0-t884.86", "text": "psychology.", "start": 884.86, "end": 886.22}
+{"id": "11t4toF0sN0-t886.22", "text": "So I think that the chicanelises, neuroscience, the humanities broadly speaking now finally", "start": 886.22, "end": 895.38}
+{"id": "11t4toF0sN0-t895.38", "text": "are in a position to collaborate to this very exciting enterprise of shedding light on who", "start": 895.38, "end": 905.14}
+{"id": "11t4toF0sN0-t905.14", "text": "we are exploiting also this new level of description that cognitive neuroscience and I think a", "start": 905.14, "end": 915.28}
+{"id": "11t4toF0sN0-t915.28", "text": "prominent figure to bless so to speak this enterprise I couldn't imagine a better figure", "start": 915.28, "end": 923.38}
+{"id": "11t4toF0sN0-t923.38", "text": "than Abhi Babu.", "start": 923.38, "end": 928.38}
+{"id": "11t4toF0sN0-t928.38", "text": "So as I was thinking about today's meeting I thought I didn't think of myself as a neuro", "start": 928.38, "end": 936.04}
+{"id": "11t4toF0sN0-t936.04", "text": "esthetician I think of myself as an art historian who makes use of tools that seem to me that", "start": 936.04, "end": 942.02}
+{"id": "11t4toF0sN0-t942.02", "text": "will illuminate the objects of our studies and as many of you know I have long insisted", "start": 942.02, "end": 949.74}
+{"id": "11t4toF0sN0-t949.74", "text": "on the importance of opening one's mind to science and not getting too anxious about", "start": 949.74, "end": 955.38}
+{"id": "11t4toF0sN0-t955.38", "text": "the alleged reductivism of science but as I was thinking about today's symposium I realised", "start": 955.38, "end": 960.46}
+{"id": "11t4toF0sN0-t960.46", "text": "that probably once one was a child and suddenly one is old and probably I may have been in", "start": 960.46, "end": 967.86}
+{"id": "11t4toF0sN0-t967.86", "text": "this audience the first person to have gone to the Warburg Institute.", "start": 967.86, "end": 973.66}
+{"id": "11t4toF0sN0-t973.66", "text": "So I wondered when I could just begin with a little background.", "start": 973.66, "end": 976.94}
+{"id": "11t4toF0sN0-t976.94", "text": "So I arrived in Oxford to do my graduate work in art history at the end of 1969 and Francis", "start": 976.94, "end": 982.82}
+{"id": "11t4toF0sN0-t982.82", "text": "Haskell who had just taken over from another great and extraordinary hermeneute and art", "start": 982.82, "end": 989.9}
+{"id": "11t4toF0sN0-t989.9", "text": "historian Edgar Vinte who was a Warburgian of course was a high British positivist and", "start": 989.9, "end": 996.7}
+{"id": "11t4toF0sN0-t996.7", "text": "he looked at me and he said you can't study here go to the Warburg Institute in London.", "start": 996.7, "end": 1001.86}
+{"id": "11t4toF0sN0-t1001.86", "text": "So I went to the Warburg Institute so that was at the end of 1969 and as I was reflecting", "start": 1001.86, "end": 1007.22}
+{"id": "11t4toF0sN0-t1007.22", "text": "on the direction of Warburg in studies and the ways in which many of us here including", "start": 1007.22, "end": 1012.74}
+{"id": "11t4toF0sN0-t1012.74", "text": "myself and Vittorio have sort of seen the links between A.B.", "start": 1012.74, "end": 1016.8000000000001}
+{"id": "11t4toF0sN0-t1016.8000000000001", "text": "Varbog and neuroscience I realised that it wasn't always so because when I got to the", "start": 1016.8000000000001, "end": 1022.98}
+{"id": "11t4toF0sN0-t1022.98", "text": "Warburg Institute the emphasis was completely on both Michael Baxondall and Anne Sconbrick", "start": 1022.98, "end": 1029.18}
+{"id": "11t4toF0sN0-t1029.18", "text": "were completely on the Naheleb and Der Antica.", "start": 1029.18, "end": 1032.38}
+{"id": "11t4toF0sN0-t1032.38", "text": "Gombrick had done his own stuff on perception as we all know in art and delusion but the", "start": 1032.38, "end": 1037.18}
+{"id": "11t4toF0sN0-t1037.18", "text": "real Warburgian work at that time and throughout the 1970s and even into the 1980s was really", "start": 1037.18, "end": 1045.02}
+{"id": "11t4toF0sN0-t1045.02", "text": "about iconography and the Naheleb and Der Antica.", "start": 1045.02, "end": 1049.26}
+{"id": "11t4toF0sN0-t1049.26", "text": "So when I wrote the power of images sort of thinking about the other aspect of A.B.", "start": 1049.26, "end": 1055.3799999999999}
+{"id": "11t4toF0sN0-t1055.3799999999999", "text": "Varbog which has now come to the fore in other words this kind of psychological roots of", "start": 1055.3799999999999, "end": 1061.18}
+{"id": "11t4toF0sN0-t1061.18", "text": "human responses to images embodied above all in the whole notion of the pathos formula", "start": 1061.18, "end": 1067.46}
+{"id": "11t4toF0sN0-t1067.46", "text": "the patos formula.", "start": 1067.46, "end": 1069.1}
+{"id": "11t4toF0sN0-t1069.1", "text": "In other words those aspects of art which move us because of the collocation of emotion", "start": 1069.1, "end": 1074.98}
+{"id": "11t4toF0sN0-t1074.98", "text": "and movement in the body and its effects on the bodies of others which of course tied", "start": 1074.98, "end": 1079.94}
+{"id": "11t4toF0sN0-t1079.94", "text": "up eventually with the work of the Mira Neuron group in Parma.", "start": 1079.94, "end": 1085.38}
+{"id": "11t4toF0sN0-t1085.38", "text": "This was really a very late cumber on the Naheleb and of Varbog himself in London.", "start": 1085.38, "end": 1092.82}
+{"id": "11t4toF0sN0-t1092.82", "text": "No one would have thought that the cognitive neuroscience offered any access to the works", "start": 1092.82, "end": 1099.02}
+{"id": "11t4toF0sN0-t1099.02", "text": "of A.B.", "start": 1099.02, "end": 1100.02}
+{"id": "11t4toF0sN0-t1100.02", "text": "Varbog.", "start": 1100.02, "end": 1101.02}
+{"id": "11t4toF0sN0-t1101.02", "text": "So actually this is all a late development.", "start": 1101.02, "end": 1104.3}
+{"id": "11t4toF0sN0-t1104.3", "text": "And it was always there in Varbog the notion of the emotional consequences of moving drapery", "start": 1104.3, "end": 1109.86}
+{"id": "11t4toF0sN0-t1109.86", "text": "and dancing bodies and so on.", "start": 1109.86, "end": 1111.94}
+{"id": "11t4toF0sN0-t1111.94", "text": "But nobody until fairly recently, I mean we have lots of people here, Chris Wood has", "start": 1111.94, "end": 1116.1}
+{"id": "11t4toF0sN0-t1116.1", "text": "written eloquently about it, Chris Johnson also.", "start": 1116.1, "end": 1121.6599999999999}
+{"id": "11t4toF0sN0-t1121.6599999999999", "text": "But for a long time the original conception, the rarely original aspect of Warburg's contribution", "start": 1121.6599999999999, "end": 1130.1}
+{"id": "11t4toF0sN0-t1130.1", "text": "was relegated to this more positivist decoding of the great iconographies of the Renaissance.", "start": 1130.1, "end": 1141.58}
+{"id": "11t4toF0sN0-t1141.58", "text": "So now we have reclaimed what seems to be the most moving aspect as it were of A.B. Varbog", "start": 1141.58, "end": 1150.58}
+{"id": "11t4toF0sN0-t1150.58", "text": "and its finding its fruition in the kinds of work which we have seen done amongst the", "start": 1150.58, "end": 1154.9399999999998}
+{"id": "11t4toF0sN0-t1154.9399999999998", "text": "cognitive neuroscience and with the development of the neuroscience of emotion movement and", "start": 1154.9399999999998, "end": 1159.06}
+{"id": "11t4toF0sN0-t1159.06", "text": "so on.", "start": 1159.06, "end": 1160.06}
+{"id": "11t4toF0sN0-t1160.06", "text": "So I think we have a lot of people who are going to be able to move ahead in this direction.", "start": 1160.06, "end": 1162.06}
+{"id": "11t4toF0sN0-t1162.06", "text": "But I just thought that that historical background would be useful.", "start": 1162.06, "end": 1168.26}
+{"id": "11t4toF0sN0-t1168.26", "text": "Adding perhaps another issue to this question of the historical background more generally", "start": 1168.26, "end": 1173.46}
+{"id": "11t4toF0sN0-t1173.46", "text": "as regards German culture in the 19th century.", "start": 1173.46, "end": 1178.86}
+{"id": "11t4toF0sN0-t1178.86", "text": "Victoria, you told us about this figure, a special figure of Varbog as a possible bridge", "start": 1178.86, "end": 1187.74}
+{"id": "11t4toF0sN0-t1187.74", "text": "between natural sciences and humanities.", "start": 1187.74, "end": 1194.86}
+{"id": "11t4toF0sN0-t1194.86", "text": "We know that the German philosophical and epistemological discourse was responsible", "start": 1194.86, "end": 1201.66}
+{"id": "11t4toF0sN0-t1201.66", "text": "for the division, the terminus technique was between Geistes Wiesenshaften on one side", "start": 1201.66, "end": 1208.78}
+{"id": "11t4toF0sN0-t1208.78", "text": "and Mathur Wiesenshaften on the other side.", "start": 1208.78, "end": 1213.66}
+{"id": "11t4toF0sN0-t1213.66", "text": "For the rest it was not unfrequent that students and scholars training in one field took courses", "start": 1213.66, "end": 1224.5400000000002}
+{"id": "11t4toF0sN0-t1224.5400000000002", "text": "in the other.", "start": 1224.5400000000002, "end": 1226.7}
+{"id": "11t4toF0sN0-t1226.7", "text": "Varbog himself is an example, an emblematic example because he was trained as an art historian", "start": 1226.7, "end": 1234.78}
+{"id": "11t4toF0sN0-t1234.78", "text": "but in the 90s he went to Berlin to attend courses in medicine, at the Faculty of Medicine.", "start": 1234.78, "end": 1242.0600000000002}
+{"id": "11t4toF0sN0-t1242.06", "text": "There is studied neurology and you find in the fragments on the psychology of expression", "start": 1242.06, "end": 1250.02}
+{"id": "11t4toF0sN0-t1250.02", "text": "very interesting sketches and drawings on the structure of the nerves, on the problem", "start": 1250.02, "end": 1256.98}
+{"id": "11t4toF0sN0-t1256.98", "text": "of the reflex and there are drawings about the relationship between stimulus and response.", "start": 1256.98, "end": 1268.3}
+{"id": "11t4toF0sN0-t1268.3", "text": "And then he read neurologists like Evelle Herring and the very important lecture in 1870 on", "start": 1268.3, "end": 1276.6599999999999}
+{"id": "11t4toF0sN0-t1276.6599999999999", "text": "memory as organized matter and then among his sources there was Richard Zehmon, a zoologist", "start": 1276.6599999999999, "end": 1284.86}
+{"id": "11t4toF0sN0-t1284.86", "text": "and neurologist as well who gave him the terminus technique was Mime N. Graham.", "start": 1284.86, "end": 1293.58}
+{"id": "11t4toF0sN0-t1293.58", "text": "So he was really imbued with this literature and I think that just taking one of the most", "start": 1293.58, "end": 1303.86}
+{"id": "11t4toF0sN0-t1303.86", "text": "famous concepts in Varbog's discourse, Sophros Zune, the ancient Greek world that it translates", "start": 1303.86, "end": 1313.3}
+{"id": "11t4toF0sN0-t1313.3", "text": "with based on and height.", "start": 1313.3, "end": 1315.3}
+{"id": "11t4toF0sN0-t1315.3", "text": "I'm not sure what an English possible translation would be, caution, prudence, being wise, not", "start": 1315.3, "end": 1327.1}
+{"id": "11t4toF0sN0-t1327.1", "text": "being impulsive.", "start": 1327.1, "end": 1329.1}
+{"id": "11t4toF0sN0-t1329.1", "text": "There you find this idea of distance as interval, pose as crucial.", "start": 1329.1, "end": 1336.54}
+{"id": "11t4toF0sN0-t1336.54", "text": "It was not only a question of symbolic distance.", "start": 1336.54, "end": 1341.1399999999999}
+{"id": "11t4toF0sN0-t1341.14", "text": "The one that he discusses, for example, in the certain ritual lecture that modern technology", "start": 1341.14, "end": 1347.9}
+{"id": "11t4toF0sN0-t1347.9", "text": "destroys the distance that magic and art had instituted between man and world.", "start": 1347.9, "end": 1357.7}
+{"id": "11t4toF0sN0-t1357.7", "text": "It speaks also of distance in a neurological way, meaning the distance between the stimulus,", "start": 1357.7, "end": 1365.46}
+{"id": "11t4toF0sN0-t1365.46", "text": "the response and the human being has the creature that can procrastinate, that can introduce", "start": 1365.46, "end": 1376.5}
+{"id": "11t4toF0sN0-t1376.5", "text": "mediation, a postponement, a creature that is not obliged to immediately respond to the", "start": 1376.5, "end": 1385.78}
+{"id": "11t4toF0sN0-t1385.78", "text": "stimulus but that can respond and Zehmon was very important to him in this context in a", "start": 1385.78, "end": 1393.58}
+{"id": "11t4toF0sN0-t1393.58", "text": "procrastinated way, in a delayed way.", "start": 1393.58, "end": 1397.3}
+{"id": "11t4toF0sN0-t1397.3", "text": "Image plays in this frame, I think, a very fundamental role because image has a biological", "start": 1397.3, "end": 1408.62}
+{"id": "11t4toF0sN0-t1408.62", "text": "meaning in this biological utility in helping men in negotiating between stimulus and response,", "start": 1408.62, "end": 1419.6999999999998}
+{"id": "11t4toF0sN0-t1419.7", "text": "corresponding the response, even for centuries, even for thousands of years.", "start": 1419.7, "end": 1427.14}
+{"id": "11t4toF0sN0-t1427.14", "text": "And so this idea was thistchen round, bank round, the space in between, the space for", "start": 1427.14, "end": 1434.7}
+{"id": "11t4toF0sN0-t1434.7", "text": "thought, the space for memory and that's around, all terms that Warburg evokes as a", "start": 1434.7, "end": 1441.98}
+{"id": "11t4toF0sN0-t1441.98", "text": "constellation around the Sophros unit term.", "start": 1441.98, "end": 1445.74}
+{"id": "11t4toF0sN0-t1445.74", "text": "I think they can also be usefully investigated from a neurological perspective, rooted in", "start": 1445.74, "end": 1452.02}
+{"id": "11t4toF0sN0-t1452.02", "text": "those young years of studies in Berlin.", "start": 1452.02, "end": 1456.86}
+{"id": "11t4toF0sN0-t1456.86", "text": "I wonder if I could pose a question as I've been listening to this, that I'm still trying", "start": 1456.86, "end": 1470.02}
+{"id": "11t4toF0sN0-t1470.02", "text": "to get my head around.", "start": 1470.02, "end": 1473.58}
+{"id": "11t4toF0sN0-t1473.58", "text": "Which is on the one hand, there are cultural theories of which I am relatively ignorant", "start": 1473.58, "end": 1481.98}
+{"id": "11t4toF0sN0-t1481.98", "text": "of and on the other hand, there is psychoanalysis of which I am relatively ignorant and a sconst", "start": 1481.98, "end": 1491.3799999999999}
+{"id": "11t4toF0sN0-t1491.3799999999999", "text": "in between.", "start": 1491.3799999999999, "end": 1492.3799999999999}
+{"id": "11t4toF0sN0-t1492.3799999999999", "text": "Is that like a double negative?", "start": 1492.3799999999999, "end": 1499.62}
+{"id": "11t4toF0sN0-t1499.62", "text": "And then there's neuroscience of which I have some knowledge and in part, I'm trying to", "start": 1499.62, "end": 1509.4599999999998}
+{"id": "11t4toF0sN0-t1509.4599999999998", "text": "figure out what the relationships of these things are.", "start": 1509.4599999999998, "end": 1512.78}
+{"id": "11t4toF0sN0-t1512.78", "text": "And on the one hand, you can think of cultural theories as something that is an emergent", "start": 1512.78, "end": 1519.4599999999998}
+{"id": "11t4toF0sN0-t1519.4599999999998", "text": "property of a whole lot of things but can't be reduced to what one individual person or", "start": 1519.4599999999998, "end": 1525.06}
+{"id": "11t4toF0sN0-t1525.06", "text": "what one individual brain is doing.", "start": 1525.06, "end": 1528.7399999999998}
+{"id": "11t4toF0sN0-t1528.74", "text": "And at the other end, at least my medical school knowledge of psychoanalysis is a deep dive", "start": 1528.74, "end": 1538.14}
+{"id": "11t4toF0sN0-t1538.14", "text": "into the individual at the level of the content of what they're talking about, what they're", "start": 1538.14, "end": 1544.86}
+{"id": "11t4toF0sN0-t1544.86", "text": "thinking about, what they're dreaming about, what they associate, so on and so forth.", "start": 1544.86, "end": 1550.5}
+{"id": "11t4toF0sN0-t1550.5", "text": "But neuroscience in some way seems to be somewhere in between, at least the way it's typically", "start": 1550.5, "end": 1554.9}
+{"id": "11t4toF0sN0-t1554.9", "text": "practiced which is on the one hand, our methods are driven to try to generalize, it's the", "start": 1554.9, "end": 1562.5}
+{"id": "11t4toF0sN0-t1562.5", "text": "inherent nature of much of empirical research is you want to get generalizable principles", "start": 1562.5, "end": 1568.02}
+{"id": "11t4toF0sN0-t1568.02", "text": "but not typically so generalizable that they are applicable to cultural theories.", "start": 1568.02, "end": 1573.8600000000001}
+{"id": "11t4toF0sN0-t1573.8600000000001", "text": "And the very inherent nature of generalizing is that we typically tend to be less interested", "start": 1573.8600000000001, "end": 1580.22}
+{"id": "11t4toF0sN0-t1580.22", "text": "in the individual.", "start": 1580.22, "end": 1581.8600000000001}
+{"id": "11t4toF0sN0-t1581.86", "text": "The individual becomes one exemplar of a general principle that we're trying to derive.", "start": 1581.86, "end": 1587.9799999999998}
+{"id": "11t4toF0sN0-t1587.9799999999998", "text": "And psychoanalysis on the one hand seems to be, seems to drill down at the individual", "start": 1587.9799999999998, "end": 1595.1799999999998}
+{"id": "11t4toF0sN0-t1595.1799999999998", "text": "and the content of the experience of the individual that we typically try to do away with in most", "start": 1595.1799999999998, "end": 1600.74}
+{"id": "11t4toF0sN0-t1600.74", "text": "neuroscience studies.", "start": 1600.74, "end": 1603.58}
+{"id": "11t4toF0sN0-t1603.58", "text": "But our generalization doesn't generalize to the point of having at least in a transparent", "start": 1603.58, "end": 1609.62}
+{"id": "11t4toF0sN0-t1609.62", "text": "way making contact with cultural notions.", "start": 1609.62, "end": 1614.78}
+{"id": "11t4toF0sN0-t1614.78", "text": "And I'm just curious what people think about, are these tensions that are inherent in the", "start": 1614.78, "end": 1621.9399999999998}
+{"id": "11t4toF0sN0-t1621.9399999999998", "text": "disciplines or are these just historical tensions that have to be traversed and settings like", "start": 1621.9399999999998, "end": 1628.34}
+{"id": "11t4toF0sN0-t1628.34", "text": "this might help in that regard?", "start": 1628.34, "end": 1630.78}
+{"id": "11t4toF0sN0-t1630.78", "text": "It's my turn to answer.", "start": 1630.78, "end": 1640.7}
+{"id": "11t4toF0sN0-t1640.7", "text": "Thank you very much.", "start": 1640.7, "end": 1643.7}
+{"id": "11t4toF0sN0-t1643.7", "text": "It's a small issue.", "start": 1643.7, "end": 1645.5}
+{"id": "11t4toF0sN0-t1645.5", "text": "Actually, one of the things that was fascinating, the most about Warburg, is that he's expressing,", "start": 1645.5, "end": 1656.66}
+{"id": "11t4toF0sN0-t1656.66", "text": "I'm not sure for the first time in the history of thought because we can always go back to", "start": 1656.66, "end": 1661.5400000000002}
+{"id": "11t4toF0sN0-t1661.5400000000002", "text": "the Greeks for almost everything, but exactly the tension between subjective and objective", "start": 1661.5400000000002, "end": 1668.94}
+{"id": "11t4toF0sN0-t1668.94", "text": "individuality and socially.", "start": 1668.94, "end": 1673.78}
+{"id": "11t4toF0sN0-t1673.78", "text": "I think one of the most striking things that make us what we are, this tension of being", "start": 1673.78, "end": 1687.86}
+{"id": "11t4toF0sN0-t1687.86", "text": "a self, but this self is developed and we reach our concept of being who we are in the interaction", "start": 1687.86, "end": 1697.26}
+{"id": "11t4toF0sN0-t1697.26", "text": "with the others.", "start": 1697.26, "end": 1698.26}
+{"id": "11t4toF0sN0-t1698.26", "text": "So this tension is exactly what makes us what we are.", "start": 1698.26, "end": 1703.3}
+{"id": "11t4toF0sN0-t1703.3", "text": "But I think at the beginning of the century, the end of the 1800, beginning of 1900, there", "start": 1703.3, "end": 1711.74}
+{"id": "11t4toF0sN0-t1711.74", "text": "was this crack somehow that opened a discussion that we are still trying to solve today even", "start": 1711.74, "end": 1723.94}
+{"id": "11t4toF0sN0-t1723.94", "text": "with the songs of yesterday of Jesus'", "start": 1723.94, "end": 1722.8}
+{"id": "11t4toF0sN0-t1722.8", "text": "life, this mind-body matter over mind and mind over matter.", "start": 1722.8, "end": 1732.8999999999999}
+{"id": "11t4toF0sN0-t1732.8999999999999", "text": "And this crack opened up a sort of view came from which came out the destroying of all", "start": 1732.8999999999999, "end": 1745.54}
+{"id": "11t4toF0sN0-t1745.54", "text": "our stability and certainty about our conscious life, about space and time, about the possibility", "start": 1745.54, "end": 1751.58}
+{"id": "11t4toF0sN0-t1751.58", "text": "of measurement.", "start": 1751.58, "end": 1753.84}
+{"id": "11t4toF0sN0-t1753.84", "text": "And everything came out at the same time.", "start": 1753.84, "end": 1758.02}
+{"id": "11t4toF0sN0-t1758.02", "text": "And even Warburg was there at the same time and was striking with the notion of magical", "start": 1758.02, "end": 1765.1599999999999}
+{"id": "11t4toF0sN0-t1765.1599999999999", "text": "and real and art, science, religion, because we don't talk about it, but it's still there", "start": 1765.1599999999999, "end": 1773.3999999999999}
+{"id": "11t4toF0sN0-t1773.3999999999999", "text": "is the big part of our life anyway.", "start": 1773.3999999999999, "end": 1779.04}
+{"id": "11t4toF0sN0-t1779.04", "text": "We were there to try to find a solution about this gap to give some uncorch which was done", "start": 1779.04, "end": 1789.44}
+{"id": "11t4toF0sN0-t1789.44", "text": "because otherwise we would collapse into this crack.", "start": 1789.44, "end": 1793.48}
+{"id": "11t4toF0sN0-t1793.48", "text": "And opening this volcano of things, we had to find sort of solution, we had to find our", "start": 1793.48, "end": 1803.24}
+{"id": "11t4toF0sN0-t1803.24", "text": "way through to build a bridge.", "start": 1803.24, "end": 1807.84}
+{"id": "11t4toF0sN0-t1807.84", "text": "And I think Warburg was amazing in trying to do that.", "start": 1807.84, "end": 1811.36}
+{"id": "11t4toF0sN0-t1811.36", "text": "Probably was not a solid, probably I'm not an expert on, I write quite a lot about what", "start": 1811.36, "end": 1817.48}
+{"id": "11t4toF0sN0-t1817.48", "text": "he wrote, but I'm not an expert on him.", "start": 1817.48, "end": 1822.76}
+{"id": "11t4toF0sN0-t1822.76", "text": "But it was one of the first to try maybe unconsciously to find a bridge to a world like", "start": 1822.76, "end": 1830.28}
+{"id": "11t4toF0sN0-t1830.28", "text": "this gap.", "start": 1830.28, "end": 1831.72}
+{"id": "11t4toF0sN0-t1831.72", "text": "And this was, most of our life is an individual experience.", "start": 1831.72, "end": 1839.24}
+{"id": "11t4toF0sN0-t1839.24", "text": "We lived with deep-seatering culture and culture is a big part of what we are, but we live", "start": 1839.24, "end": 1843.96}
+{"id": "11t4toF0sN0-t1843.96", "text": "in our individual life and experiences.", "start": 1843.96, "end": 1847.6000000000001}
+{"id": "11t4toF0sN0-t1847.6000000000001", "text": "And so he describes the experiences, for example, in front of a war of art as the most private", "start": 1847.6000000000001, "end": 1857.08}
+{"id": "11t4toF0sN0-t1857.08", "text": "thing is that the impact is there, is talking to you and you have to give life to the image", "start": 1857.08, "end": 1863.36}
+{"id": "11t4toF0sN0-t1863.36", "text": "you have in front.", "start": 1863.36, "end": 1865.28}
+{"id": "11t4toF0sN0-t1865.28", "text": "But then you have to insert in the history, in the culture, there is no history of culture", "start": 1865.28, "end": 1872.04}
+{"id": "11t4toF0sN0-t1872.04", "text": "without the history of an idea.", "start": 1872.04, "end": 1874.12}
+{"id": "11t4toF0sN0-t1874.12", "text": "So to make sense of this individual experience, you have to insert it in the development of", "start": 1874.12, "end": 1882.12}
+{"id": "11t4toF0sN0-t1882.12", "text": "something broader which is more or less the history of.", "start": 1882.12, "end": 1886.9199999999998}
+{"id": "11t4toF0sN0-t1886.92", "text": "We cannot even say the Western thought because it was linked to everything and everywhere.", "start": 1886.92, "end": 1890.72}
+{"id": "11t4toF0sN0-t1890.72", "text": "It destroyed completely space and time.", "start": 1890.72, "end": 1894.76}
+{"id": "11t4toF0sN0-t1894.76", "text": "The symbol could travel and live without barriers in every time and every space.", "start": 1894.76, "end": 1900.96}
+{"id": "11t4toF0sN0-t1900.96", "text": "And this tension between the private experience of something and the objective is exactly", "start": 1900.96, "end": 1908.88}
+{"id": "11t4toF0sN0-t1908.88", "text": "what art is about and what art came about when there was this huge brain.", "start": 1908.88, "end": 1916.88}
+{"id": "11t4toF0sN0-t1916.88", "text": "In the postmodernism, art became an idea more than an image.", "start": 1916.88, "end": 1923.6000000000001}
+{"id": "11t4toF0sN0-t1923.6000000000001", "text": "Duchamp was the master of that.", "start": 1923.6000000000001, "end": 1926.6000000000001}
+{"id": "11t4toF0sN0-t1926.6000000000001", "text": "I was putting us in front of a urinal saying, now you have to perceive it as a piece of", "start": 1926.6000000000001, "end": 1932.1200000000001}
+{"id": "11t4toF0sN0-t1932.1200000000001", "text": "art and until you don't perceive it as a piece of art, this is not going to be art.", "start": 1932.1200000000001, "end": 1936.2}
+{"id": "11t4toF0sN0-t1936.2", "text": "So you have to make this become something which can travel in history.", "start": 1936.2, "end": 1942.48}
+{"id": "11t4toF0sN0-t1942.48", "text": "I don't know, it's funny what you said because it's something that I'm struggling with trying", "start": 1942.48, "end": 1951.3600000000001}
+{"id": "11t4toF0sN0-t1951.3600000000001", "text": "to make sense of it, this tension between the aesthetic private experience and the history.", "start": 1951.3600000000001, "end": 1964.92}
+{"id": "11t4toF0sN0-t1964.92", "text": "I think Anyan raised a very important point about the relevance and the specific status", "start": 1964.92, "end": 1973.3600000000001}
+{"id": "11t4toF0sN0-t1973.3600000000001", "text": "of cognitive neuroscience when addressing these specific topics that traditionally as Andrea", "start": 1973.3600000000001, "end": 1982.24}
+{"id": "11t4toF0sN0-t1982.24", "text": "was reminding us of, belong to these separate domains, Natur, Visinshaft and Geistus Visashaft.", "start": 1982.24, "end": 1992.8000000000002}
+{"id": "11t4toF0sN0-t1992.8", "text": "I think it's time to seriously question this distinction and division.", "start": 1992.8, "end": 1998.6399999999999}
+{"id": "11t4toF0sN0-t1998.6399999999999", "text": "However, we should also bear in mind that when we speak of cognitive neuroscience, we basically", "start": 1998.6399999999999, "end": 2006.0}
+{"id": "11t4toF0sN0-t2006.0", "text": "describe a methodological approach.", "start": 2006.0, "end": 2009.44}
+{"id": "11t4toF0sN0-t2009.44", "text": "So we all recognize ourself as cognitive neuroscientists to the extent that we all have a daily practice", "start": 2009.44, "end": 2016.96}
+{"id": "11t4toF0sN0-t2016.96", "text": "with this very expensive choice, we call it the Marai, Hidens-D-E-G, Pet and the like,", "start": 2016.96, "end": 2026.04}
+{"id": "11t4toF0sN0-t2026.04", "text": "but you can use employ these toys to ask completely different kinds of questions.", "start": 2026.04, "end": 2033.76}
+{"id": "11t4toF0sN0-t2033.76", "text": "And it's true that to lay the grounding, the foundational basis of an approach to human", "start": 2033.76, "end": 2045.16}
+{"id": "11t4toF0sN0-t2045.16", "text": "nature based on this specific methodological approach, it is unavoidable to start with", "start": 2045.16, "end": 2055.0}
+{"id": "11t4toF0sN0-t2055.0", "text": "an approach that so to speak, a privilege generalizing results where we take the average", "start": 2055.0, "end": 2066.04}
+{"id": "11t4toF0sN0-t2066.04", "text": "undergraduate most of the time white first world college student to be a sort of typical", "start": 2066.04, "end": 2086.92}
+{"id": "11t4toF0sN0-t2086.92", "text": "example of the human species, so to speak.", "start": 2086.92, "end": 2099.2400000000002}
+{"id": "11t4toF0sN0-t2099.2400000000002", "text": "Not only reductive, but heavily biased view of human nature.", "start": 2099.2400000000002, "end": 2105.64}
+{"id": "11t4toF0sN0-t2105.64", "text": "Indeed, in the field of the study of emotions, people, there is a growing number of people", "start": 2105.64, "end": 2112.2000000000003}
+{"id": "11t4toF0sN0-t2112.2", "text": "also of colleagues that begin to question the supposed universality of some of the findings", "start": 2112.2, "end": 2120.2}
+{"id": "11t4toF0sN0-t2120.2", "text": "upon which the empirical study of emotion was based starting from the second half of last", "start": 2120.2, "end": 2128.6}
+{"id": "11t4toF0sN0-t2128.6", "text": "century.", "start": 2128.6, "end": 2130.0}
+{"id": "11t4toF0sN0-t2130.0", "text": "And interestingly, more and more of our colleagues are exactly thinking about how to study these", "start": 2130.0, "end": 2142.04}
+{"id": "11t4toF0sN0-t2142.04", "text": "distinctive aspects of human nature, which is the individual quality of being a human", "start": 2142.04, "end": 2149.2799999999997}
+{"id": "11t4toF0sN0-t2149.2799999999997", "text": "being.", "start": 2149.2799999999997, "end": 2150.36}
+{"id": "11t4toF0sN0-t2150.36", "text": "And it is remarkable that as soon as you decide to leave behind this approach to the supposed", "start": 2150.36, "end": 2162.7599999999998}
+{"id": "11t4toF0sN0-t2162.76", "text": "generality of the finding, you are up to trying to dig more about the distinctive relationship", "start": 2162.76, "end": 2172.1200000000003}
+{"id": "11t4toF0sN0-t2172.1200000000003", "text": "between how your brain works and what your personal life history was, your attachment", "start": 2172.1200000000003, "end": 2178.88}
+{"id": "11t4toF0sN0-t2178.88", "text": "style, the early experiences you had with your parents, with other individuals, all of", "start": 2178.88, "end": 2188.36}
+{"id": "11t4toF0sN0-t2188.36", "text": "a sudden you realize that you spot incredible differences.", "start": 2188.36, "end": 2193.4}
+{"id": "11t4toF0sN0-t2193.4", "text": "I'm thinking about a study where people were required to watch videos portraying the facial", "start": 2193.4, "end": 2201.8}
+{"id": "11t4toF0sN0-t2201.8", "text": "expression of their partner in pain.", "start": 2201.8, "end": 2205.08}
+{"id": "11t4toF0sN0-t2205.08", "text": "And it turns out that according to your personality profile, different brain networks activate", "start": 2205.08, "end": 2212.08}
+{"id": "11t4toF0sN0-t2212.08", "text": "in spite of the exactly the same cognitive response when you are asked to evaluate the", "start": 2212.08, "end": 2221.16}
+{"id": "11t4toF0sN0-t2221.16", "text": "unpleasantness and the intensity of the pain that supposedly your partner is feeling by", "start": 2221.16, "end": 2231.0}
+{"id": "11t4toF0sN0-t2231.0", "text": "merely watching to this video showing the facial expression of your partner.", "start": 2231.0, "end": 2236.16}
+{"id": "11t4toF0sN0-t2236.16", "text": "This cognitive evaluation is the same in all participants.", "start": 2236.16, "end": 2240.4}
+{"id": "11t4toF0sN0-t2240.4", "text": "However, when you look at which part of their brain is active, you discover that people", "start": 2240.4, "end": 2249.96}
+{"id": "11t4toF0sN0-t2249.96", "text": "with a different affective style activate the standard called the circuit for the empathy", "start": 2249.96, "end": 2257.76}
+{"id": "11t4toF0sN0-t2257.76", "text": "for pain, the anterior part of the insular and the anterior cingulate cortex, while other", "start": 2257.76, "end": 2262.92}
+{"id": "11t4toF0sN0-t2262.92", "text": "individuals don't.", "start": 2262.92, "end": 2266.48}
+{"id": "11t4toF0sN0-t2266.48", "text": "They tend to activate more the visual part of the brain, the mesial aspect of the brain,", "start": 2266.48, "end": 2273.16}
+{"id": "11t4toF0sN0-t2273.16", "text": "part of what we call the default mode network, the dorsolateral prefrontal cortex.", "start": 2273.16, "end": 2279.88}
+{"id": "11t4toF0sN0-t2279.88", "text": "So they most likely experience that particular image of their partner in pain in a completely", "start": 2279.88, "end": 2287.44}
+{"id": "11t4toF0sN0-t2287.44", "text": "different way, which can be partly also identified with our peculiar methodological reductionist", "start": 2287.44, "end": 2297.36}
+{"id": "11t4toF0sN0-t2297.36", "text": "approach.", "start": 2297.36, "end": 2298.76}
+{"id": "11t4toF0sN0-t2298.76", "text": "So I think there's a lot to do and this is why I think this time is really exciting", "start": 2298.76, "end": 2304.64}
+{"id": "11t4toF0sN0-t2304.64", "text": "for all of us because now that we learn how to use this machine, we are perfectly familiar", "start": 2304.64, "end": 2312.48}
+{"id": "11t4toF0sN0-t2312.48", "text": "with the instruction manuals, so to speak, we know what to expect from a technical point", "start": 2312.48, "end": 2318.44}
+{"id": "11t4toF0sN0-t2318.44", "text": "of view.", "start": 2318.44, "end": 2319.44}
+{"id": "11t4toF0sN0-t2319.44", "text": "We know the limitation of the technique, but at the same time we should perhaps think", "start": 2319.44, "end": 2324.72}
+{"id": "11t4toF0sN0-t2324.72", "text": "a lot more and someone said a long time ago that science doesn't think.", "start": 2324.72, "end": 2332.32}
+{"id": "11t4toF0sN0-t2332.32", "text": "I think it's way too extreme view, but when reading some neuroscientific papers sometimes", "start": 2332.32, "end": 2339.76}
+{"id": "11t4toF0sN0-t2339.76", "text": "I think Heidegger was right.", "start": 2339.76, "end": 2342.4}
+{"id": "11t4toF0sN0-t2342.4", "text": "So there's a lot of room to improve the realistic value of this particular approach that I repeat", "start": 2342.4, "end": 2351.4}
+{"id": "11t4toF0sN0-t2351.4", "text": "offers you a further perspective on human nature, which will never be able to give the", "start": 2351.4, "end": 2359.84}
+{"id": "11t4toF0sN0-t2359.84", "text": "final answer to the question that keep us busy all the time, who we are.", "start": 2359.84, "end": 2368.0800000000004}
+{"id": "11t4toF0sN0-t2368.08", "text": "But I think it can bring in new data, new perspective that if interestingly discussed", "start": 2368.08, "end": 2383.08}
+{"id": "11t4toF0sN0-t2383.08", "text": "with the contribution of scholars from other disciplines can lead us to very interesting", "start": 2383.08, "end": 2388.2}
+{"id": "11t4toF0sN0-t2388.2", "text": "results, I think.", "start": 2388.2, "end": 2391.48}
+{"id": "11t4toF0sN0-t2391.48", "text": "So I'm rather optimistic.", "start": 2391.48, "end": 2393.48}
+{"id": "11t4toF0sN0-t2393.48", "text": "I just wanted to say although Victoria and I have known each other for a long time, work", "start": 2393.48, "end": 2403.16}
+{"id": "11t4toF0sN0-t2403.16", "text": "together, I noticed a slight backsliding here.", "start": 2403.16, "end": 2406.32}
+{"id": "11t4toF0sN0-t2406.32", "text": "And I'm not sure that he's making slightly unnecessary concessions, but never mind.", "start": 2406.32, "end": 2412.2400000000002}
+{"id": "11t4toF0sN0-t2412.2400000000002", "text": "I think the point is that, and I'll explain in a moment, I think Anyan's question is", "start": 2412.2400000000002, "end": 2416.64}
+{"id": "11t4toF0sN0-t2416.64", "text": "a really important one.", "start": 2416.64, "end": 2418.4}
+{"id": "11t4toF0sN0-t2418.4", "text": "It's one which the people in the humanities, whom I work with, mostly ask all the time.", "start": 2418.4, "end": 2424.56}
+{"id": "11t4toF0sN0-t2424.56", "text": "I mean, the question is how can the generalizing aspects of science be reconciled with the", "start": 2424.56, "end": 2430.64}
+{"id": "11t4toF0sN0-t2430.64", "text": "status of the individual, the effects of cultures and contexts?", "start": 2430.64, "end": 2436.56}
+{"id": "11t4toF0sN0-t2436.56", "text": "So whenever I hear this question, I always inclined to say it's not a view which is well", "start": 2436.56, "end": 2444.7200000000003}
+{"id": "11t4toF0sN0-t2444.72", "text": "received, but I'm inclined to say what's so difficult to understand about the situation?", "start": 2444.72, "end": 2449.16}
+{"id": "11t4toF0sN0-t2449.16", "text": "I'll tell you why I think this.", "start": 2449.16, "end": 2453.8399999999997}
+{"id": "11t4toF0sN0-t2453.8399999999997", "text": "What I think has happened now as the sciences have come closer to the humanities, it's offered", "start": 2453.8399999999997, "end": 2460.64}
+{"id": "11t4toF0sN0-t2460.64", "text": "us an extraordinary opportunity.", "start": 2460.64, "end": 2462.8399999999997}
+{"id": "11t4toF0sN0-t2462.8399999999997", "text": "And that is the best neuroscientists that we just heard are attentive to context.", "start": 2462.8399999999997, "end": 2467.8399999999997}
+{"id": "11t4toF0sN0-t2467.8399999999997", "text": "There's no question about that.", "start": 2467.8399999999997, "end": 2469.68}
+{"id": "11t4toF0sN0-t2469.68", "text": "But how do we arrive at the understanding of the individual with all this generalization", "start": 2469.68, "end": 2476.04}
+{"id": "11t4toF0sN0-t2476.04", "text": "around us?", "start": 2476.04, "end": 2477.04}
+{"id": "11t4toF0sN0-t2477.04", "text": "And this is what I'm trying to say is not so difficult to understand.", "start": 2477.04, "end": 2482.96}
+{"id": "11t4toF0sN0-t2482.96", "text": "In order to grasp the effects of individual contexts of past histories, both personal", "start": 2482.96, "end": 2490.64}
+{"id": "11t4toF0sN0-t2490.64", "text": "and historical, we still need to know what happens in the brain of all individuals, possibly", "start": 2490.64, "end": 2499.48}
+{"id": "11t4toF0sN0-t2499.48", "text": "even primates.", "start": 2499.48, "end": 2501.0}
+{"id": "11t4toF0sN0-t2501.0", "text": "But neuroscience also gives us the tools.", "start": 2501.0, "end": 2503.6}
+{"id": "11t4toF0sN0-t2503.6", "text": "This has been the great privilege for me.", "start": 2503.6, "end": 2505.88}
+{"id": "11t4toF0sN0-t2505.88", "text": "It also gives the one the tools to understand better what happens when the human brain is", "start": 2505.88, "end": 2513.68}
+{"id": "11t4toF0sN0-t2513.68", "text": "modulated by the effects of individual cognitive experiences, individual inputs, individual", "start": 2513.68, "end": 2521.44}
+{"id": "11t4toF0sN0-t2521.44", "text": "circumstances.", "start": 2521.44, "end": 2522.72}
+{"id": "11t4toF0sN0-t2522.72", "text": "There is no, in my view, no distinction really between the task of the neuroscientists in", "start": 2522.72, "end": 2528.72}
+{"id": "11t4toF0sN0-t2528.72", "text": "establishing basic structures in the brain and figuring out how individuality is constituted", "start": 2528.72, "end": 2535.2}
+{"id": "11t4toF0sN0-t2535.2", "text": "on the basis of those, you know, we all have an amygdala.", "start": 2535.2, "end": 2539.56}
+{"id": "11t4toF0sN0-t2539.56", "text": "If the amygdala is lesion, you just walk straight into the traffic across the way.", "start": 2539.56, "end": 2544.08}
+{"id": "11t4toF0sN0-t2544.08", "text": "A amygdala is activated when you have a fear response.", "start": 2544.08, "end": 2547.52}
+{"id": "11t4toF0sN0-t2547.52", "text": "Now, obviously, some of us know snakes better than others.", "start": 2547.52, "end": 2550.8799999999997}
+{"id": "11t4toF0sN0-t2550.8799999999997", "text": "You know, her pathologists are probably less likely to be afraid of seeing a cobra, or", "start": 2550.8799999999997, "end": 2555.9199999999996}
+{"id": "11t4toF0sN0-t2555.92", "text": "be seeing a, when I see a snake, I jump away.", "start": 2555.92, "end": 2558.88}
+{"id": "11t4toF0sN0-t2558.88", "text": "I don't make any distinctions, any taxonomic distinctions between those that are poisonous.", "start": 2558.88, "end": 2564.0}
+{"id": "11t4toF0sN0-t2564.0", "text": "But when you see, as Joe did as shown, when you see something that moves a bit like a snake,", "start": 2564.0, "end": 2569.4}
+{"id": "11t4toF0sN0-t2569.4", "text": "everyone is going to have a startled reaction.", "start": 2569.4, "end": 2571.6}
+{"id": "11t4toF0sN0-t2571.6", "text": "And thereupon succeed, I mean, you know, the great beauty of the neuroscientists now, it", "start": 2571.6, "end": 2577.4}
+{"id": "11t4toF0sN0-t2577.4", "text": "also gives us a sense of temporal operations and temporal distinctions within the brain.", "start": 2577.4, "end": 2583.4}
+{"id": "11t4toF0sN0-t2583.4", "text": "So I think the prospect here for understanding the individual is not curiously diminished", "start": 2583.4, "end": 2589.88}
+{"id": "11t4toF0sN0-t2589.88", "text": "by the kinds of techniques which we have available, but in fact enhanced.", "start": 2589.88, "end": 2594.96}
+{"id": "11t4toF0sN0-t2594.96", "text": "And that's why the backsliding, I just want to briefly, I don't think you need backslide", "start": 2594.96, "end": 2598.4}
+{"id": "11t4toF0sN0-t2598.4", "text": "away.", "start": 2598.4, "end": 2599.4}
+{"id": "11t4toF0sN0-t2599.4", "text": "So we need slide away too far from basic emotions and so on and so forth.", "start": 2599.4, "end": 2604.0}
+{"id": "11t4toF0sN0-t2604.0", "text": "To be more outspoken, I'm really annoyed.", "start": 2604.0, "end": 2606.96}
+{"id": "11t4toF0sN0-t2606.96", "text": "Keeping reading articles where it seems that people are even unaware of the absurdity of", "start": 2606.96, "end": 2618.96}
+{"id": "11t4toF0sN0-t2618.96", "text": "translating the personal level description at the level of typically amenable to our approach.", "start": 2618.96, "end": 2627.6}
+{"id": "11t4toF0sN0-t2627.6", "text": "So I'm not reducing the impact of neuroscience, actually the opposite.", "start": 2627.6, "end": 2634.48}
+{"id": "11t4toF0sN0-t2634.48", "text": "I mean, I'm a neuroscientist.", "start": 2634.48, "end": 2636.04}
+{"id": "11t4toF0sN0-t2636.04", "text": "That's my job.", "start": 2636.04, "end": 2637.04}
+{"id": "11t4toF0sN0-t2637.04", "text": "I mean, I'm not an art historian.", "start": 2637.04, "end": 2639.24}
+{"id": "11t4toF0sN0-t2639.24", "text": "I'm happy to spend time with people like you, but my approach is completely different.", "start": 2639.24, "end": 2649.08}
+{"id": "11t4toF0sN0-t2649.08", "text": "What I meant to say is that there is not enough, people are not enough aware that our approach", "start": 2649.08, "end": 2661.6}
+{"id": "11t4toF0sN0-t2661.6", "text": "could be a lot more fruitful if we would abandon this kind of neuro hubris leading us to establish", "start": 2661.6, "end": 2669.72}
+{"id": "11t4toF0sN0-t2669.72", "text": "a one-to-one map between the words we employ to describe our inner life, our emotion, our", "start": 2669.72, "end": 2678.36}
+{"id": "11t4toF0sN0-t2678.36", "text": "experiences and brain networks.", "start": 2678.36, "end": 2681.36}
+{"id": "11t4toF0sN0-t2681.36", "text": "Because such a one-to-one map between words and neurons probably doesn't exist.", "start": 2681.36, "end": 2686.92}
+{"id": "11t4toF0sN0-t2686.92", "text": "So the methodological reductionism that became available by the possibility of investigating", "start": 2686.92, "end": 2698.4}
+{"id": "11t4toF0sN0-t2698.4", "text": "human nature with the tools of cognitive neuroscience is an invaluable tool enabling us to deconstruct", "start": 2698.4, "end": 2709.32}
+{"id": "11t4toF0sN0-t2709.32", "text": "such words.", "start": 2709.32, "end": 2710.96}
+{"id": "11t4toF0sN0-t2710.96", "text": "And for example, showing that many people got it right when they were saying that vision", "start": 2710.96, "end": 2719.2}
+{"id": "11t4toF0sN0-t2719.2", "text": "in a way is a sort of haptic experience.", "start": 2719.2, "end": 2725.6}
+{"id": "11t4toF0sN0-t2725.6", "text": "I'm thinking about Merlot-Ponti, for example.", "start": 2725.6, "end": 2728.2}
+{"id": "11t4toF0sN0-t2728.2", "text": "Now with our expensive toys, we can show that Merlot-Ponti was right because indeed all", "start": 2728.2, "end": 2735.68}
+{"id": "11t4toF0sN0-t2735.68", "text": "of our perception in a way is a synesthetic.", "start": 2735.68, "end": 2740.64}
+{"id": "11t4toF0sN0-t2740.64", "text": "So it is really becoming hard to find parts of the brain that are unimodal.", "start": 2740.64, "end": 2751.04}
+{"id": "11t4toF0sN0-t2751.04", "text": "Even primary sensory areas, it has been shown.", "start": 2751.04, "end": 2754.72}
+{"id": "11t4toF0sN0-t2754.72", "text": "The visual cortex can be driven by auditory stimuli.", "start": 2754.72, "end": 2760.72}
+{"id": "11t4toF0sN0-t2760.72", "text": "Primary auditory cortex activity can be modulated by visual stimuli.", "start": 2760.72, "end": 2766.04}
+{"id": "11t4toF0sN0-t2766.04", "text": "We were the first to show that your somatosensors cortex is activated visually when you see", "start": 2766.04, "end": 2775.16}
+{"id": "11t4toF0sN0-t2775.16", "text": "the tactile experience on someone else's body and the like.", "start": 2775.16, "end": 2780.2799999999997}
+{"id": "11t4toF0sN0-t2780.2799999999997", "text": "So it is really our, our, our, our realistic value of this approach is greatly amplified", "start": 2780.2799999999997, "end": 2790.7599999999998}
+{"id": "11t4toF0sN0-t2790.76", "text": "is if before addressing this empirical question you have a broader picture of the cultural", "start": 2790.76, "end": 2798.2400000000002}
+{"id": "11t4toF0sN0-t2798.2400000000002", "text": "context and you discovered that many people were smarter than you are and gave serious", "start": 2798.2400000000002, "end": 2804.0800000000004}
+{"id": "11t4toF0sN0-t2804.0800000000004", "text": "thought to this issue and came up with very interesting solutions.", "start": 2804.0800000000004, "end": 2807.6400000000003}
+{"id": "11t4toF0sN0-t2807.6400000000003", "text": "So I'm not denying the realistic value of cognitive neuroscience, actually the opposite.", "start": 2807.6400000000003, "end": 2813.28}
+{"id": "11t4toF0sN0-t2813.28", "text": "What I would like to see it employed in a better way than it still is by many of our", "start": 2813.28, "end": 2820.6400000000003}
+{"id": "11t4toF0sN0-t2820.64", "text": "colleagues that don't.", "start": 2820.64, "end": 2822.04}
+{"id": "11t4toF0sN0-t2822.04", "text": "That's my point.", "start": 2822.04, "end": 2823.04}
+{"id": "11t4toF0sN0-t2823.04", "text": "Let me make a few comments from the psychoanalytic end of things.", "start": 2823.04, "end": 2828.4}
+{"id": "11t4toF0sN0-t2828.4", "text": "I was very struck about with what you said about Warburg's interest in the neuron and", "start": 2828.4, "end": 2836.3199999999997}
+{"id": "11t4toF0sN0-t2836.3199999999997", "text": "the transmission of the impulse because that's what Freud was interested also.", "start": 2836.3199999999997, "end": 2844.04}
+{"id": "11t4toF0sN0-t2844.04", "text": "And when he worked on the project for a scientific psychology, that's essentially what he was", "start": 2844.04, "end": 2850.2}
+{"id": "11t4toF0sN0-t2850.2", "text": "doing.", "start": 2850.2, "end": 2851.2}
+{"id": "11t4toF0sN0-t2851.2", "text": "And what he was trying to do was take his observations which came primarily from observing", "start": 2851.2, "end": 2857.68}
+{"id": "11t4toF0sN0-t2857.68", "text": "patients who at the time were diagnosed as hysterics and had all sorts of crazy symptoms", "start": 2857.68, "end": 2864.8799999999997}
+{"id": "11t4toF0sN0-t2864.8799999999997", "text": "and tried to see how he could explain those symptoms by understanding the function and", "start": 2864.8799999999997, "end": 2871.6}
+{"id": "11t4toF0sN0-t2871.6", "text": "the energies that moved within neurons via the axon and so on.", "start": 2871.6, "end": 2878.4399999999996}
+{"id": "11t4toF0sN0-t2878.44", "text": "And he also talked about, therefore, the blocking of the impulse which is eventually", "start": 2878.44, "end": 2884.28}
+{"id": "11t4toF0sN0-t2884.28", "text": "what led to the theory of repression which then became the central theory in psychoanalysis", "start": 2884.28, "end": 2890.7200000000003}
+{"id": "11t4toF0sN0-t2890.7200000000003", "text": "because repression is what then defined and led to the notion of a dynamic unconscious", "start": 2890.7200000000003, "end": 2899.0}
+{"id": "11t4toF0sN0-t2899.0", "text": "which is, as Freud himself, distinguished it from other unconscious.", "start": 2899.0, "end": 2903.4}
+{"id": "11t4toF0sN0-t2903.4", "text": "The dynamic unconscious is what then influenced you in life by running your life a certain", "start": 2903.4, "end": 2911.12}
+{"id": "11t4toF0sN0-t2911.12", "text": "way as opposed to the other way.", "start": 2911.12, "end": 2913.92}
+{"id": "11t4toF0sN0-t2913.92", "text": "He also, of course, did do a lot of generalizing and he at times generalized too much.", "start": 2913.92, "end": 2923.04}
+{"id": "11t4toF0sN0-t2923.04", "text": "And part of those generalizations were the, and I should also just say, I think, because", "start": 2923.04, "end": 2931.0}
+{"id": "11t4toF0sN0-t2931.0", "text": "it's not often recognized that three or four of Freud's major works took, occurred within", "start": 2931.0, "end": 2939.88}
+{"id": "11t4toF0sN0-t2939.88", "text": "a period of two and a half to three years.", "start": 2939.88, "end": 2944.72}
+{"id": "11t4toF0sN0-t2944.72", "text": "Neuropsychology of defense studies in hysteria, interpretation of dreams, and the project.", "start": 2944.72, "end": 2952.28}
+{"id": "11t4toF0sN0-t2952.28", "text": "Now he was using some cocaine at the time, but it's a tremendous amount of work that", "start": 2952.28, "end": 2957.52}
+{"id": "11t4toF0sN0-t2957.52", "text": "came out from one brain.", "start": 2957.52, "end": 2963.6}
+{"id": "11t4toF0sN0-t2963.6", "text": "But one of the things he did, and because of the time he was working on these and things", "start": 2963.6, "end": 2969.04}
+{"id": "11t4toF0sN0-t2969.04", "text": "were not as complex and complexity wasn't recognized the way it is today, is that he", "start": 2969.04, "end": 2974.68}
+{"id": "11t4toF0sN0-t2974.68", "text": "did create some simplifying formula so that you had psychosexual phases of development,", "start": 2974.68, "end": 2981.24}
+{"id": "11t4toF0sN0-t2981.24", "text": "you had things like edipal complex which then served to generalize so people had castration", "start": 2981.24, "end": 2987.8399999999997}
+{"id": "11t4toF0sN0-t2987.8399999999997", "text": "anxieties, people.", "start": 2987.8399999999997, "end": 2989.3199999999997}
+{"id": "11t4toF0sN0-t2989.3199999999997", "text": "So it wasn't just on the individual level, but was generalized and then applied to larger", "start": 2989.3199999999997, "end": 2995.7599999999998}
+{"id": "11t4toF0sN0-t2995.7599999999998", "text": "issues.", "start": 2995.7599999999998, "end": 2998.4399999999996}
+{"id": "11t4toF0sN0-t2998.4399999999996", "text": "Psychanalysis I think has increasingly, without saying so, moved away from that and it has", "start": 2998.4399999999996, "end": 3005.52}
+{"id": "11t4toF0sN0-t3005.52", "text": "become a lot more about the careful long-term intense investigation of how one person's", "start": 3005.52, "end": 3018.72}
+{"id": "11t4toF0sN0-t3018.72", "text": "brain mind worked.", "start": 3018.72, "end": 3022.36}
+{"id": "11t4toF0sN0-t3022.36", "text": "And in every possible detail that can be made available by the patient in the mental frame", "start": 3022.36, "end": 3029.88}
+{"id": "11t4toF0sN0-t3029.88", "text": "of investigating himself or herself on the couch four or five times a week, and that does", "start": 3029.88, "end": 3036.8}
+{"id": "11t4toF0sN0-t3036.8", "text": "give us significant amount of information and what it does give us also is what you were", "start": 3036.8, "end": 3042.84}
+{"id": "11t4toF0sN0-t3042.84", "text": "saying is that everybody smiles, everybody dances, everybody says they love, but it's", "start": 3042.84, "end": 3053.2400000000002}
+{"id": "11t4toF0sN0-t3053.2400000000002", "text": "tremendously different.", "start": 3053.2400000000002, "end": 3056.4}
+{"id": "11t4toF0sN0-t3056.4", "text": "And that investigation I think is very important.", "start": 3056.4, "end": 3060.96}
+{"id": "11t4toF0sN0-t3060.96", "text": "When neuroscience became so popular, I mean there wasn't even neuroscience when I was", "start": 3060.96, "end": 3066.04}
+{"id": "11t4toF0sN0-t3066.04", "text": "in medical school, we talked about neurophysiology, neurochemistry, neuroscience, but neuroscience", "start": 3066.04, "end": 3073.0}
+{"id": "11t4toF0sN0-t3073.0", "text": "suddenly took off, there was also an overt excitement from the psychoanalytic end and", "start": 3073.0, "end": 3078.44}
+{"id": "11t4toF0sN0-t3078.44", "text": "similar things that are being done in neuroscience, putting somebody in an ephemera and saying", "start": 3078.44, "end": 3084.52}
+{"id": "11t4toF0sN0-t3084.52", "text": "there is the point of love happened in psychoanalysis by saying this behavior is because of this", "start": 3084.52, "end": 3091.72}
+{"id": "11t4toF0sN0-t3091.72", "text": "part of the brain.", "start": 3091.72, "end": 3093.68}
+{"id": "11t4toF0sN0-t3093.68", "text": "It's inevitable, those kinds of things.", "start": 3093.68, "end": 3096.32}
+{"id": "11t4toF0sN0-t3096.32", "text": "But I had a very interesting experience yesterday, I was honored by Christina to be invited", "start": 3096.32, "end": 3102.68}
+{"id": "11t4toF0sN0-t3102.68", "text": "to her lab, and I went to her lab and one of the graduate students presented his research", "start": 3102.68, "end": 3110.88}
+{"id": "11t4toF0sN0-t3110.88", "text": "to my mind, I'm not a scientist, it was very carefully done and well presented about an", "start": 3110.88, "end": 3120.96}
+{"id": "11t4toF0sN0-t3120.96", "text": "idea which he thought also confirmed Freud's idea, namely what we take for granted that", "start": 3120.96, "end": 3127.76}
+{"id": "11t4toF0sN0-t3127.76", "text": "his childhood experiences influence you later in life.", "start": 3127.76, "end": 3133.1600000000003}
+{"id": "11t4toF0sN0-t3133.1600000000003", "text": "But he did that with rats and showed how the effect of an electric shock and then showed", "start": 3133.1600000000003, "end": 3139.76}
+{"id": "11t4toF0sN0-t3139.76", "text": "it that what periods it becomes, if you will, a memory that has an impact on future behavior", "start": 3139.76, "end": 3147.1600000000003}
+{"id": "11t4toF0sN0-t3147.1600000000003", "text": "and at which point it doesn't.", "start": 3147.1600000000003, "end": 3150.0400000000004}
+{"id": "11t4toF0sN0-t3150.0400000000004", "text": "But then I was thinking about this and looking from the point of view of psychoanalysis, I", "start": 3150.0400000000004, "end": 3154.76}
+{"id": "11t4toF0sN0-t3154.76", "text": "was asking myself when a baby has experiences, he doesn't or she doesn't just have one thing", "start": 3154.76, "end": 3165.0800000000004}
+{"id": "11t4toF0sN0-t3165.0800000000004", "text": "happen, like an electric shock.", "start": 3165.0800000000004, "end": 3167.96}
+{"id": "11t4toF0sN0-t3167.96", "text": "But has a number of things and that these things interact.", "start": 3167.96, "end": 3174.08}
+{"id": "11t4toF0sN0-t3174.08", "text": "So the electric shock in the baby, hypothetical electric shock, may have an influence on the", "start": 3174.08, "end": 3180.68}
+{"id": "11t4toF0sN0-t3180.68", "text": "way he's going to feel about the milk and the way he's going to feel about the milk", "start": 3180.68, "end": 3187.12}
+{"id": "11t4toF0sN0-t3187.12", "text": "is going to influence something else.", "start": 3187.12, "end": 3188.88}
+{"id": "11t4toF0sN0-t3188.88", "text": "So that very early on, and the graduate student showed this beautiful slide of synaptic and", "start": 3188.88, "end": 3198.7200000000003}
+{"id": "11t4toF0sN0-t3198.7200000000003", "text": "neuronal development between the ages of six months, two years and four years and it's", "start": 3198.7200000000003, "end": 3205.84}
+{"id": "11t4toF0sN0-t3205.84", "text": "incredible the change.", "start": 3205.84, "end": 3207.8}
+{"id": "11t4toF0sN0-t3207.8", "text": "It's like you have a handful of neurons and synapses and then you have like a jungle.", "start": 3207.8, "end": 3214.52}
+{"id": "11t4toF0sN0-t3214.52", "text": "And so in this process, a lot of things are happening but they are all interacting with", "start": 3214.52, "end": 3220.88}
+{"id": "11t4toF0sN0-t3220.88", "text": "each other.", "start": 3220.88, "end": 3222.6}
+{"id": "11t4toF0sN0-t3222.6", "text": "And so I think this is where the fields can come together because you can have, you can", "start": 3222.6, "end": 3229.32}
+{"id": "11t4toF0sN0-t3229.32", "text": "just do that study or you can begin to think of it in a different context, in a larger", "start": 3229.32, "end": 3234.84}
+{"id": "11t4toF0sN0-t3234.84", "text": "way and see and begin to study how those experiences affect each other and what the consequence", "start": 3234.84, "end": 3241.44}
+{"id": "11t4toF0sN0-t3241.44", "text": "of it is, which may then have a connection to how, and this is the subject of this round", "start": 3241.44, "end": 3247.68}
+{"id": "11t4toF0sN0-t3247.68", "text": "table, you do or do not react or appreciate art.", "start": 3247.68, "end": 3252.68}
+{"id": "11t4toF0sN0-t3252.68", "text": "And so since you wrote a paper on this just recently, maybe you should say a few words", "start": 3252.68, "end": 3257.84}
+{"id": "11t4toF0sN0-t3257.84", "text": "about.", "start": 3257.84, "end": 3258.84}
+{"id": "11t4toF0sN0-t3258.84", "text": "Yeah.", "start": 3258.84, "end": 3259.84}
+{"id": "11t4toF0sN0-t3259.84", "text": "We decided to start investigating a static experience, not just dealing with the notion", "start": 3259.84, "end": 3269.92}
+{"id": "11t4toF0sN0-t3269.92", "text": "that are so heavily culturally determined like the sense of beauty, for example, but", "start": 3269.92, "end": 3278.2400000000002}
+{"id": "11t4toF0sN0-t3278.2400000000002", "text": "we were interested in investigating to which extent when you behold some artwork, particularly", "start": 3278.2400000000002, "end": 3289.0}
+{"id": "11t4toF0sN0-t3289.0", "text": "we decided with David to start from the most difficult part of this enterprise, namely", "start": 3289.0, "end": 3296.52}
+{"id": "11t4toF0sN0-t3296.52", "text": "to see what's going on in the brain body system of a beholder when there's no body to resonate", "start": 3296.52, "end": 3302.56}
+{"id": "11t4toF0sN0-t3302.56", "text": "along with.", "start": 3302.56, "end": 3303.84}
+{"id": "11t4toF0sN0-t3303.84", "text": "So we decided to start, not with the figurative art, but with modern abstract art.", "start": 3303.84, "end": 3310.4}
+{"id": "11t4toF0sN0-t3310.4", "text": "And the first experiment was done on Luchofontana's cuts.", "start": 3310.4, "end": 3316.84}
+{"id": "11t4toF0sN0-t3316.84", "text": "And the second one just came out on the brushstrokes of Franz Klein.", "start": 3316.84, "end": 3323.56}
+{"id": "11t4toF0sN0-t3323.56", "text": "And although we employed two different approaches, we employed high density EG.", "start": 3323.56, "end": 3330.4}
+{"id": "11t4toF0sN0-t3330.4", "text": "And in the first study, we just were happy to measure the level of this synchronization", "start": 3330.4, "end": 3336.24}
+{"id": "11t4toF0sN0-t3336.24", "text": "of the motor system of the beholder.", "start": 3336.24, "end": 3338.96}
+{"id": "11t4toF0sN0-t3338.96", "text": "So they're watching a static image, a cut by Luchofontana, and a controlled stimulus", "start": 3338.96, "end": 3345.6}
+{"id": "11t4toF0sN0-t3345.6", "text": "where the cut is substituted by a black line with the same length and width of the cut.", "start": 3345.6, "end": 3352.44}
+{"id": "11t4toF0sN0-t3352.44", "text": "But what is missing is the dynamic aspect of this static image, namely the shade produced", "start": 3352.44, "end": 3359.36}
+{"id": "11t4toF0sN0-t3359.36", "text": "by the cut in the depth of the canvas.", "start": 3359.36, "end": 3363.2400000000002}
+{"id": "11t4toF0sN0-t3363.2400000000002", "text": "And we never mentioned the word art, beauty, aesthetic experience.", "start": 3363.2400000000002, "end": 3367.0}
+{"id": "11t4toF0sN0-t3367.0", "text": "We only said to our volunteers, you're going to see images on the computer screen, please", "start": 3367.0, "end": 3373.32}
+{"id": "11t4toF0sN0-t3373.32", "text": "watch them carefully and try not to move as much as you can, because even blinking can", "start": 3373.32, "end": 3380.08}
+{"id": "11t4toF0sN0-t3380.08", "text": "introduce artifacts when you record brain activity with this net on the head.", "start": 3380.08, "end": 3386.04}
+{"id": "11t4toF0sN0-t3386.04", "text": "And the results were quite interesting and were fully compatible with the hypothesis", "start": 3386.04, "end": 3391.56}
+{"id": "11t4toF0sN0-t3391.56", "text": "David and I put forward in 2007, namely that when you see an object, a visual object which", "start": 3391.56, "end": 3401.48}
+{"id": "11t4toF0sN0-t3401.48", "text": "is the consequence of someone's hand gesture, the brain of the beholder, so to speak, produces", "start": 3401.48, "end": 3411.56}
+{"id": "11t4toF0sN0-t3411.56", "text": "an embodied simulation of the gesture.", "start": 3411.56, "end": 3413.88}
+{"id": "11t4toF0sN0-t3413.88", "text": "And what you see is the reenactment of that gesture, which is purely simulated because", "start": 3413.88, "end": 3422.16}
+{"id": "11t4toF0sN0-t3422.16", "text": "we recorded also the muscle activity of beholders and their muscles were completely silent.", "start": 3422.16, "end": 3429.96}
+{"id": "11t4toF0sN0-t3429.96", "text": "But a part of their motor system was, so to speak, reenacting the gesture of a perform", "start": 3429.96, "end": 3436.7200000000003}
+{"id": "11t4toF0sN0-t3436.7200000000003", "text": "by Lucio Fontana.", "start": 3436.7200000000003, "end": 3438.68}
+{"id": "11t4toF0sN0-t3438.68", "text": "And of course, we decided to employ Lucio Fontana's artworks, probably a cut done by myself or", "start": 3438.68, "end": 3448.36}
+{"id": "11t4toF0sN0-t3448.36", "text": "by Alessandro Milzka, the main author of this paper, would have worked the same.", "start": 3448.36, "end": 3454.68}
+{"id": "11t4toF0sN0-t3454.68", "text": "Although I was talking with the curator of the Contemporary Art Museum in Prato, the", "start": 3454.68, "end": 3462.12}
+{"id": "11t4toF0sN0-t3462.12", "text": "Pecci Museum, and he was telling me, you can cut a canvas a thousand times, but you will", "start": 3462.12, "end": 3467.68}
+{"id": "11t4toF0sN0-t3467.68", "text": "never accomplish the end result, Lucio Fontana's taste.", "start": 3467.68, "end": 3474.48}
+{"id": "11t4toF0sN0-t3474.48", "text": "And probably he's right, but nevertheless, and the second study was on the brush strokes", "start": 3474.48, "end": 3482.04}
+{"id": "11t4toF0sN0-t3482.04", "text": "of Franz Klein, here we had a more sophisticated approach that enabled us also to locate the", "start": 3482.04, "end": 3490.84}
+{"id": "11t4toF0sN0-t3490.84", "text": "sources of the signal in the brain.", "start": 3490.84, "end": 3494.12}
+{"id": "11t4toF0sN0-t3494.12", "text": "And so we found three components.", "start": 3494.12, "end": 3496.12}
+{"id": "11t4toF0sN0-t3496.12", "text": "So our analysis became a little more sophisticated, and you David will be happy to hear this because", "start": 3496.12, "end": 3503.56}
+{"id": "11t4toF0sN0-t3503.56", "text": "you left behind the infooloon part of aesthetic experience.", "start": 3503.56, "end": 3508.68}
+{"id": "11t4toF0sN0-t3508.68", "text": "You want to know more about the relationship between the brain and the evaluative aspect", "start": 3508.68, "end": 3515.0}
+{"id": "11t4toF0sN0-t3515.0", "text": "of aesthetic judgment.", "start": 3515.0, "end": 3516.8399999999997}
+{"id": "11t4toF0sN0-t3516.8399999999997", "text": "So basically we found three networks, a sensorimotor network which most likely responsible", "start": 3516.8399999999997, "end": 3523.04}
+{"id": "11t4toF0sN0-t3523.04", "text": "of the enactment of the gesture employed by the artist, so dynamic, so charged with emotion.", "start": 3523.04, "end": 3532.12}
+{"id": "11t4toF0sN0-t3532.12", "text": "Then we found activation in the orbit of frontal cortex, which probably I'm very cautious", "start": 3532.12, "end": 3540.7599999999998}
+{"id": "11t4toF0sN0-t3540.7599999999998", "text": "to establish this relationship because otherwise I would be guilty of the same oversimplified", "start": 3540.7599999999998, "end": 3550.64}
+{"id": "11t4toF0sN0-t3550.64", "text": "vision of the brain I was blaming before.", "start": 3550.64, "end": 3553.44}
+{"id": "11t4toF0sN0-t3553.44", "text": "But nevertheless, there is some evidence that links the activation of this ventral part", "start": 3553.44, "end": 3559.7999999999997}
+{"id": "11t4toF0sN0-t3559.8", "text": "of the frontal cortex with rewards.", "start": 3559.8, "end": 3565.0}
+{"id": "11t4toF0sN0-t3565.0", "text": "So probably has to do with the joy or the positive feeling induced by the aesthetic", "start": 3565.0, "end": 3574.76}
+{"id": "11t4toF0sN0-t3574.76", "text": "experience.", "start": 3574.76, "end": 3575.96}
+{"id": "11t4toF0sN0-t3575.96", "text": "And then we had the third cluster of activation in the Dorsolateral Prefrontal Cortex, which", "start": 3575.96, "end": 3582.28}
+{"id": "11t4toF0sN0-t3582.28", "text": "most likely has something to do with the more detached and evaluative observation of the", "start": 3582.28, "end": 3592.2400000000002}
+{"id": "11t4toF0sN0-t3592.2400000000002", "text": "artwork.", "start": 3592.2400000000002, "end": 3593.88}
+{"id": "11t4toF0sN0-t3593.88", "text": "Then we recently also investigated this relationship between the gesture employed to produce a", "start": 3593.88, "end": 3601.88}
+{"id": "11t4toF0sN0-t3601.88", "text": "static graphic sign and what's going on in the bottom system of the beholder.", "start": 3601.88, "end": 3607.76}
+{"id": "11t4toF0sN0-t3607.76", "text": "This time we employed handwritten Roman alphabet letters, Chinese ideograms, and scribbles.", "start": 3607.76, "end": 3617.36}
+{"id": "11t4toF0sN0-t3617.36", "text": "All three stimuli activate the motor system of the beholder, but they do it with a different", "start": 3617.36, "end": 3623.4}
+{"id": "11t4toF0sN0-t3623.4", "text": "intensity and with a different temporal dynamic.", "start": 3623.4, "end": 3628.6400000000003}
+{"id": "11t4toF0sN0-t3628.6400000000003", "text": "It is as if, and I'm very cautious, this is an hypothesis that has to be verified, it", "start": 3628.6400000000003, "end": 3635.92}
+{"id": "11t4toF0sN0-t3635.92", "text": "looks as if the motor system of the beholder were unconsciously capable of distinguished", "start": 3635.92, "end": 3644.36}
+{"id": "11t4toF0sN0-t3644.36", "text": "symbolic graphic sign which lead to a stronger resonance from the scribbles, which have no", "start": 3644.36, "end": 3652.48}
+{"id": "11t4toF0sN0-t3652.48", "text": "symbolic value.", "start": 3652.48, "end": 3654.48}
+{"id": "11t4toF0sN0-t3654.48", "text": "Which brings in a further question, is there any bio-mechanic, primitive shared by all", "start": 3654.48, "end": 3664.0}
+{"id": "11t4toF0sN0-t3664.0", "text": "forms of symbolic written language?", "start": 3664.0, "end": 3667.64}
+{"id": "11t4toF0sN0-t3667.64", "text": "This is an open question, no one so far addressed empirically, but these preliminary results", "start": 3667.64, "end": 3675.16}
+{"id": "11t4toF0sN0-t3675.16", "text": "seem to raise this as a possibility that can be empirically investigated.", "start": 3675.16, "end": 3683.04}
+{"id": "11t4toF0sN0-t3683.04", "text": "So far we focused on this relationship, the immediate relationship between something which", "start": 3683.04, "end": 3692.4}
+{"id": "11t4toF0sN0-t3692.4", "text": "is static, but at the same time is very intensively dynamic.", "start": 3692.4, "end": 3699.44}
+{"id": "11t4toF0sN0-t3699.44", "text": "And we believe that we discover one component that gives this dynamicity to something which", "start": 3699.44, "end": 3707.64}
+{"id": "11t4toF0sN0-t3707.64", "text": "is static.", "start": 3707.64, "end": 3708.64}
+{"id": "11t4toF0sN0-t3708.64", "text": "There is a wonderful decunic at the moment, the blue one, I don't remember the title of", "start": 3708.64, "end": 3715.64}
+{"id": "11t4toF0sN0-t3715.64", "text": "the painting.", "start": 3715.64, "end": 3717.2000000000003}
+{"id": "11t4toF0sN0-t3717.2", "text": "And every time I see it, I stand in front of it, I feel moved, not only metaphorically,", "start": 3717.2, "end": 3727.2}
+{"id": "11t4toF0sN0-t3727.2", "text": "but physically.", "start": 3727.2, "end": 3728.7599999999998}
+{"id": "11t4toF0sN0-t3728.7599999999998", "text": "And I think we can describe this component of the static experience, we can explain why", "start": 3728.7599999999998, "end": 3739.2799999999997}
+{"id": "11t4toF0sN0-t3739.2799999999997", "text": "we are so moved that something that is still but induces a lot of movement.", "start": 3739.2799999999997, "end": 3747.0}
+{"id": "11t4toF0sN0-t3747.0", "text": "And this is a possible way.", "start": 3747.0, "end": 3748.0}
+{"id": "11t4toF0sN0-t3748.0", "text": "It's a very good way to say that you didn't mention the world art, static to the students,", "start": 3748.0, "end": 3754.0}
+{"id": "11t4toF0sN0-t3754.0", "text": "or whatever the issue.", "start": 3754.0, "end": 3755.0}
+{"id": "11t4toF0sN0-t3755.0", "text": "Yeah, when we were measuring their brain activity.", "start": 3755.0, "end": 3757.0}
+{"id": "11t4toF0sN0-t3757.0", "text": "So, and were they aware that these were worked?", "start": 3757.0, "end": 3764.6}
+{"id": "11t4toF0sN0-t3764.6", "text": "Well indeed, at the end of the experiment, we asked them a lot of questions.", "start": 3764.6, "end": 3770.36}
+{"id": "11t4toF0sN0-t3770.36", "text": "You can imagine, we asked them to rate the quantity of dynamicity, of movement, they", "start": 3770.36, "end": 3779.0}
+{"id": "11t4toF0sN0-t3779.0", "text": "could spot in the static images.", "start": 3779.0, "end": 3781.1600000000003}
+{"id": "11t4toF0sN0-t3781.1600000000003", "text": "We asked them if they saw them before.", "start": 3781.1600000000003, "end": 3784.04}
+{"id": "11t4toF0sN0-t3784.04", "text": "We asked them if they considered either the original artworks or the control stimuli as", "start": 3784.04, "end": 3790.76}
+{"id": "11t4toF0sN0-t3790.76", "text": "artwork.", "start": 3790.76, "end": 3792.0}
+{"id": "11t4toF0sN0-t3792.0", "text": "And one of the most interesting results of this study is that the same effect could", "start": 3792.0, "end": 3797.0}
+{"id": "11t4toF0sN0-t3797.0", "text": "be detected in all participants, no matter how acquainted they were.", "start": 3797.0, "end": 3802.4}
+{"id": "11t4toF0sN0-t3802.4", "text": "And so why can you speak about the static experience?", "start": 3802.4, "end": 3805.76}
+{"id": "11t4toF0sN0-t3805.76", "text": "So how can you speak about the static experience if they are not aware that this is something", "start": 3805.76, "end": 3814.72}
+{"id": "11t4toF0sN0-t3814.72", "text": "link, I mean how do you define aesthetics?", "start": 3814.72, "end": 3817.6}
+{"id": "11t4toF0sN0-t3817.6", "text": "Well, because for them is something.", "start": 3817.6, "end": 3820.96}
+{"id": "11t4toF0sN0-t3820.96", "text": "Well, no, I don't ask him.", "start": 3820.96, "end": 3823.32}
+{"id": "11t4toF0sN0-t3823.32", "text": "I have a similar and related question.", "start": 3823.32, "end": 3828.32}
+{"id": "11t4toF0sN0-t3828.32", "text": "When you go in front of the ducomic, you say that I feel moved.", "start": 3828.32, "end": 3833.4}
+{"id": "11t4toF0sN0-t3833.4", "text": "So you are aware of something happening.", "start": 3833.4, "end": 3838.1200000000003}
+{"id": "11t4toF0sN0-t3838.1200000000003", "text": "In these experiments you did, were the activations similar, whether the person said at the end", "start": 3838.1200000000003, "end": 3848.76}
+{"id": "11t4toF0sN0-t3848.76", "text": "they were moved, they were not?", "start": 3848.76, "end": 3852.36}
+{"id": "11t4toF0sN0-t3852.36", "text": "There is all people rated as more moving the original artworks than the control stimuli", "start": 3852.36, "end": 3860.36}
+{"id": "11t4toF0sN0-t3860.36", "text": "irrespective from their knowledge, those images to belong to art or not.", "start": 3860.36, "end": 3866.04}
+{"id": "11t4toF0sN0-t3866.04", "text": "So there is a tight relationship between the dynamicity of the image recognized by the", "start": 3866.04, "end": 3875.48}
+{"id": "11t4toF0sN0-t3875.48", "text": "beholder and the degree of activation of their motor system.", "start": 3875.48, "end": 3880.6800000000003}
+{"id": "11t4toF0sN0-t3880.68", "text": "Then coming back to your question, of course there is nothing intrinsically aesthetic in", "start": 3880.68, "end": 3889.16}
+{"id": "11t4toF0sN0-t3889.16", "text": "a sense in this experiment, although the easiest way to answer your question would be to go", "start": 3889.16, "end": 3895.3999999999996}
+{"id": "11t4toF0sN0-t3895.3999999999996", "text": "back to the etymology of the world, the eye stasis.", "start": 3895.3999999999996, "end": 3899.96}
+{"id": "11t4toF0sN0-t3899.96", "text": "So to put it shortly, but I am happy to leave it to David.", "start": 3899.96, "end": 3907.16}
+{"id": "11t4toF0sN0-t3907.16", "text": "We never claim that aesthetic experience is the activation of the motor system of mirroring", "start": 3907.16, "end": 3914.64}
+{"id": "11t4toF0sN0-t3914.64", "text": "mechanism period.", "start": 3914.64, "end": 3916.6}
+{"id": "11t4toF0sN0-t3916.6", "text": "What we said that our point is that aesthetic experience is a multi-layered enterprise and", "start": 3916.6, "end": 3925.08}
+{"id": "11t4toF0sN0-t3925.08", "text": "one key dimension of aesthetic experience beside the socio-cultural context in which it occurs,", "start": 3925.08, "end": 3935.44}
+{"id": "11t4toF0sN0-t3935.44", "text": "the framing effect, blah, blah, blah.", "start": 3935.44, "end": 3938.64}
+{"id": "11t4toF0sN0-t3938.64", "text": "One key ingredient is this embodied ingredient.", "start": 3938.64, "end": 3942.68}
+{"id": "11t4toF0sN0-t3942.68", "text": "And this embodied ingredient is present in our relationship with all kinds of images,", "start": 3942.68, "end": 3949.88}
+{"id": "11t4toF0sN0-t3949.88", "text": "not necessarily because of their artistic status, which by the way is historically determined.", "start": 3949.88, "end": 3958.0}
+{"id": "11t4toF0sN0-t3958.0", "text": "I was reading a paper in the New York Times about the recent research showing that reading", "start": 3958.0, "end": 3965.28}
+{"id": "11t4toF0sN0-t3965.28", "text": "novels leads you to a more empathic.", "start": 3965.28, "end": 3970.5600000000004}
+{"id": "11t4toF0sN0-t3970.5600000000004", "text": "And they were making a distinction between a highbrow literature and I don't know what", "start": 3970.5600000000004, "end": 3976.36}
+{"id": "11t4toF0sN0-t3976.36", "text": "they employed.", "start": 3976.36, "end": 3977.36}
+{"id": "11t4toF0sN0-t3977.36", "text": "Fifty shades of gray, this kind of, we call it, Santini.", "start": 3977.36, "end": 3982.84}
+{"id": "11t4toF0sN0-t3982.84", "text": "One of them was a bit more amazing.", "start": 3982.84, "end": 3986.2000000000003}
+{"id": "11t4toF0sN0-t3986.2000000000003", "text": "So and journalist was asking me, what do you make of this distinction?", "start": 3986.2000000000003, "end": 3990.4}
+{"id": "11t4toF0sN0-t3990.4", "text": "I said, well, one should be very careful because Honore de Balzac, who is now revered as a", "start": 3990.4, "end": 3997.32}
+{"id": "11t4toF0sN0-t3997.32", "text": "classic, was publishing some of his Commedio men in newspapers.", "start": 3997.32, "end": 4005.1600000000003}
+{"id": "11t4toF0sN0-t4005.1600000000003", "text": "So all of these notion judgments, evaluation are very much historically determined.", "start": 4005.1600000000003, "end": 4013.28}
+{"id": "11t4toF0sN0-t4013.28", "text": "Even the very same notion of Bursat is historically determined.", "start": 4013.28, "end": 4018.52}
+{"id": "11t4toF0sN0-t4018.52", "text": "That's why the tension between the objective way of looking at it and the subjective is", "start": 4018.52, "end": 4026.36}
+{"id": "11t4toF0sN0-t4026.36", "text": "something which you cannot get rid.", "start": 4026.36, "end": 4028.88}
+{"id": "11t4toF0sN0-t4028.88", "text": "I mean, when you talk about art, you cannot avoid feeling this, this tension between art", "start": 4028.88, "end": 4038.64}
+{"id": "11t4toF0sN0-t4038.64", "text": "is made by by the evolution of culture.", "start": 4038.64, "end": 4042.08}
+{"id": "11t4toF0sN0-t4042.08", "text": "Art is, art is not only subjective thing.", "start": 4042.08, "end": 4045.56}
+{"id": "11t4toF0sN0-t4045.56", "text": "If you are a subject to be in front of something and you do not recognize it as art, probably", "start": 4045.56, "end": 4052.84}
+{"id": "11t4toF0sN0-t4052.84", "text": "is not art.", "start": 4052.84, "end": 4053.84}
+{"id": "11t4toF0sN0-t4053.84", "text": "I mean, it has to make sense.", "start": 4053.84, "end": 4054.84}
+{"id": "11t4toF0sN0-t4054.84", "text": "Yeah, but what we now call art, for example, think about people putting their hands in", "start": 4054.84, "end": 4065.48}
+{"id": "11t4toF0sN0-t4065.48", "text": "cover with pigments on caves.", "start": 4065.48, "end": 4069.72}
+{"id": "11t4toF0sN0-t4069.72", "text": "We call that art.", "start": 4069.72, "end": 4071.56}
+{"id": "11t4toF0sN0-t4071.56", "text": "Now, for them, probably had a completely different meaning.", "start": 4071.56, "end": 4075.68}
+{"id": "11t4toF0sN0-t4075.68", "text": "It was religion.", "start": 4075.68, "end": 4077.12}
+{"id": "11t4toF0sN0-t4077.12", "text": "It was the possibility to get into a different dimension.", "start": 4077.12, "end": 4083.72}
+{"id": "11t4toF0sN0-t4083.72", "text": "Nobody really knows what was the meaning of this practice.", "start": 4083.72, "end": 4088.92}
+{"id": "11t4toF0sN0-t4088.92", "text": "But still, I mean, even if you bracket this social, cultural, historical aspect that change", "start": 4088.92, "end": 4097.12}
+{"id": "11t4toF0sN0-t4097.12", "text": "a long time, there is something, I think, intimately related to our own human nature,", "start": 4097.12, "end": 4105.32}
+{"id": "11t4toF0sN0-t4105.32", "text": "which is a notion that for many decades was considered politically incorrect.", "start": 4105.32, "end": 4112.28}
+{"id": "11t4toF0sN0-t4112.28", "text": "Okay, the human being is a construction, like Foucault put it, but this construction is", "start": 4112.28, "end": 4119.28}
+{"id": "11t4toF0sN0-t4119.28", "text": "made of bricks that are always the same.", "start": 4119.28, "end": 4121.68}
+{"id": "11t4toF0sN0-t4121.68", "text": "That's the point.", "start": 4121.68, "end": 4122.68}
+{"id": "11t4toF0sN0-t4122.68", "text": "And cognitive neuroscience can reveal the nature of those.", "start": 4122.68, "end": 4125.88}
+{"id": "11t4toF0sN0-t4125.88", "text": "And that's been widely included.", "start": 4125.88, "end": 4127.88}
+{"id": "11t4toF0sN0-t4127.88", "text": "Yes, I think that a word evoked by Ed should be introduced in this conservation that is", "start": 4127.88, "end": 4136.4400000000005}
+{"id": "11t4toF0sN0-t4136.4400000000005", "text": "inhibition.", "start": 4136.4400000000005, "end": 4137.92}
+{"id": "11t4toF0sN0-t4137.92", "text": "I think that also David is working on this notion.", "start": 4137.92, "end": 4142.16}
+{"id": "11t4toF0sN0-t4142.16", "text": "Because when Victoria says that our response to images is a sort of motion and emotion", "start": 4142.16, "end": 4150.24}
+{"id": "11t4toF0sN0-t4150.24", "text": "response, so there is this idea of a motor reaction, the question is in the aesthetic", "start": 4150.24, "end": 4157.88}
+{"id": "11t4toF0sN0-t4157.88", "text": "attitude, where is the threshold between emotion that remains at a possible virtual or quasi-virtual", "start": 4157.88, "end": 4170.4}
+{"id": "11t4toF0sN0-t4170.4", "text": "response, reenactment, virtual embodied simulation?", "start": 4170.4, "end": 4175.679999999999}
+{"id": "11t4toF0sN0-t4175.68", "text": "And when, for example, in front of some images, very often religious images, we are elicited", "start": 4175.68, "end": 4184.04}
+{"id": "11t4toF0sN0-t4184.04", "text": "to a real response.", "start": 4184.04, "end": 4186.4400000000005}
+{"id": "11t4toF0sN0-t4186.4400000000005", "text": "In Van der Lee's, for example, or in iconoclasm, David here is a specialist of these reactions.", "start": 4186.4400000000005, "end": 4195.72}
+{"id": "11t4toF0sN0-t4195.72", "text": "There you have violent responses, and there the motor system responds to images in a very", "start": 4195.72, "end": 4203.8}
+{"id": "11t4toF0sN0-t4203.8", "text": "effective way.", "start": 4203.8, "end": 4206.6}
+{"id": "11t4toF0sN0-t4206.6", "text": "Somehow, upholding the idea that the image, as I evoked in my first intervention, is a", "start": 4206.6, "end": 4215.4400000000005}
+{"id": "11t4toF0sN0-t4215.4400000000005", "text": "mediation between the stimulus and the response there in vandalism and iconoclasm.", "start": 4215.4400000000005, "end": 4221.400000000001}
+{"id": "11t4toF0sN0-t4221.400000000001", "text": "Image seems rather to be a sort of bomb eliciting a very violent reaction.", "start": 4221.400000000001, "end": 4229.68}
+{"id": "11t4toF0sN0-t4229.68", "text": "I think that this is important also because I have started a work research comparing some", "start": 4229.68, "end": 4237.0}
+{"id": "11t4toF0sN0-t4237.0", "text": "images in which V", "start": 4237.0, "end": 4254.1}
+{"id": "11t4toF0sN0-t4254.1", "text": "Rosa and she is deciding to kill her kids, but she has not already killed them.", "start": 4254.1, "end": 4262.4400000000005}
+{"id": "11t4toF0sN0-t4262.4400000000005", "text": "She is there in the shadow, thinking of the strategy of the decision, but she hasn't", "start": 4262.4400000000005, "end": 4268.92}
+{"id": "11t4toF0sN0-t4268.92", "text": "taken the decision definitely yet.", "start": 4268.92, "end": 4271.88}
+{"id": "11t4toF0sN0-t4271.88", "text": "Or again, Rembrandt, the cloud use chivalis, a painting, Barbara was very fond of.", "start": 4271.88, "end": 4279.52}
+{"id": "11t4toF0sN0-t4279.52", "text": "They had a copy made for the institute and the copy is still hanging there today.", "start": 4279.52, "end": 4286.400000000001}
+{"id": "11t4toF0sN0-t4286.400000000001", "text": "The cloud use chivalis is there with the batavians gathered around the sacred table.", "start": 4286.400000000001, "end": 4294.96}
+{"id": "11t4toF0sN0-t4294.96", "text": "They are deciding to go against the Romans, the invaders, but they haven't decided it", "start": 4294.96, "end": 4302.080000000001}
+{"id": "11t4toF0sN0-t4302.080000000001", "text": "yet.", "start": 4302.080000000001, "end": 4304.160000000001}
+{"id": "11t4toF0sN0-t4304.16", "text": "So what they will do, Freud Moses, in that essay Freud collects opinions from the Kuswissenschaft,", "start": 4304.16, "end": 4314.96}
+{"id": "11t4toF0sN0-t4314.96", "text": "from Borkert, from Verflin, and they all stress the fact that Moses is represented by Michelangelo", "start": 4314.96, "end": 4329.88}
+{"id": "11t4toF0sN0-t4329.88", "text": "in the very moment preceding the action.", "start": 4329.88, "end": 4333.88}
+{"id": "11t4toF0sN0-t4333.88", "text": "Freud describes, and of course he is very interested in the foot and the position of", "start": 4333.88, "end": 4339.24}
+{"id": "11t4toF0sN0-t4339.24", "text": "the angle of the foot of the statue.", "start": 4339.24, "end": 4342.6}
+{"id": "11t4toF0sN0-t4342.6", "text": "And we know that Barbara was obsessed with feet, the lymphose feet.", "start": 4342.6, "end": 4347.36}
+{"id": "11t4toF0sN0-t4347.36", "text": "And if you compare the gradiva foot, you find that this gradiva foot is very similar", "start": 4347.36, "end": 4353.88}
+{"id": "11t4toF0sN0-t4353.88", "text": "to the Moses one, almost 90 degrees.", "start": 4353.88, "end": 4360.84}
+{"id": "11t4toF0sN0-t4360.84", "text": "So this is Lesting's Lao-Kon, this is the pregnant moment before the decision.", "start": 4360.84, "end": 4369.76}
+{"id": "11t4toF0sN0-t4369.76", "text": "And this elicits, I think, a very interesting kind of empathy in the beholder that I would", "start": 4369.76, "end": 4376.4400000000005}
+{"id": "11t4toF0sN0-t4376.4400000000005", "text": "call the egetic, core narrative empathy, because your imagination starts working there.", "start": 4376.4400000000005, "end": 4384.4400000000005}
+{"id": "11t4toF0sN0-t4384.44", "text": "And you start asking yourself, what is it going to do?", "start": 4384.44, "end": 4391.44}
+{"id": "11t4toF0sN0-t4391.44", "text": "Is it going to slash his brother and all the rave party around the golden calf, or deciding", "start": 4391.44, "end": 4397.4}
+{"id": "11t4toF0sN0-t4397.4", "text": "something else?", "start": 4397.4, "end": 4398.4}
+{"id": "11t4toF0sN0-t4398.4", "text": "We know the story, of course, from the early text, but we can also imagine possible different", "start": 4398.4, "end": 4406.879999999999}
+{"id": "11t4toF0sN0-t4406.879999999999", "text": "options.", "start": 4406.879999999999, "end": 4408.36}
+{"id": "11t4toF0sN0-t4408.36", "text": "And this is a saturation of narrative into a single image.", "start": 4408.36, "end": 4413.799999999999}
+{"id": "11t4toF0sN0-t4413.8", "text": "It is an image of inhibition, it is an image of self-control, it is an image of the sofros", "start": 4413.8, "end": 4422.4400000000005}
+{"id": "11t4toF0sN0-t4422.4400000000005", "text": "uni again, of Bezon and Knight, of caution, of pre-decision, which is, I think, could", "start": 4422.4400000000005, "end": 4429.4800000000005}
+{"id": "11t4toF0sN0-t4429.4800000000005", "text": "be quite interesting to investigate even in the perspective of visual and motor systems.", "start": 4429.4800000000005, "end": 4437.96}
+{"id": "11t4toF0sN0-t4437.96", "text": "I'm hesitant to talk because it is not in direct response to what you said, but I do", "start": 4437.96, "end": 4447.36}
+{"id": "11t4toF0sN0-t4447.36", "text": "want to pick up some of the themes that have come up.", "start": 4447.36, "end": 4451.16}
+{"id": "11t4toF0sN0-t4451.16", "text": "One of this idea, as you said, very early influences.", "start": 4451.16, "end": 4454.6}
+{"id": "11t4toF0sN0-t4454.6", "text": "Well, the influences actually go quite early.", "start": 4454.6, "end": 4458.36}
+{"id": "11t4toF0sN0-t4458.36", "text": "There is evidence, for example, that what a mother ingests and that their trimester has", "start": 4458.36, "end": 4464.56}
+{"id": "11t4toF0sN0-t4464.56", "text": "an influence on the taste that the child would later have.", "start": 4464.56, "end": 4468.6}
+{"id": "11t4toF0sN0-t4468.6", "text": "And taste is an evaluative judgment, it is a preference.", "start": 4468.6, "end": 4472.92}
+{"id": "11t4toF0sN0-t4472.92", "text": "So these influences go very early, even before people are born.", "start": 4472.92, "end": 4481.320000000001}
+{"id": "11t4toF0sN0-t4481.320000000001", "text": "The question of this relationship between the individual experience and what can be generalized", "start": 4481.320000000001, "end": 4487.0}
+{"id": "11t4toF0sN0-t4487.0", "text": "or how do we deal with that?", "start": 4487.0, "end": 4489.4400000000005}
+{"id": "11t4toF0sN0-t4489.44", "text": "There have been two strategies in cognitive neuroscience.", "start": 4489.44, "end": 4495.919999999999}
+{"id": "11t4toF0sN0-t4495.919999999999", "text": "And one, I think, in part, you alluded to, which was Freud's Roots, which came out of", "start": 4495.919999999999, "end": 4502.04}
+{"id": "11t4toF0sN0-t4502.04", "text": "Charco's clinic, and that there is a long history of careful observations of individual", "start": 4502.04, "end": 4509.96}
+{"id": "11t4toF0sN0-t4509.96", "text": "patients and trying to make inferences of how systems work on the basis of the systematic", "start": 4509.96, "end": 4516.839999999999}
+{"id": "11t4toF0sN0-t4516.84", "text": "way in which brain damage produces consequences.", "start": 4516.84, "end": 4521.32}
+{"id": "11t4toF0sN0-t4521.32", "text": "And I would take one minor exception to what Vittorio said, which is, I do not think cognitive", "start": 4521.32, "end": 4525.72}
+{"id": "11t4toF0sN0-t4525.72", "text": "neuroscience is a method.", "start": 4525.72, "end": 4527.76}
+{"id": "11t4toF0sN0-t4527.76", "text": "I think imaging has largely overwhelmed the public imagination of cognitive neuroscience,", "start": 4527.76, "end": 4535.24}
+{"id": "11t4toF0sN0-t4535.24", "text": "but it is fundamentally asking questions about what the brain basis for behavior is.", "start": 4535.24, "end": 4543.04}
+{"id": "11t4toF0sN0-t4543.04", "text": "And this goes back to the same intellectual climate that Freud was working on, that Warburg", "start": 4543.04, "end": 4549.84}
+{"id": "11t4toF0sN0-t4549.84", "text": "stepped into.", "start": 4549.84, "end": 4551.44}
+{"id": "11t4toF0sN0-t4551.44", "text": "You can take it back to Broca, Vernicki, Licktime, Lissar, Leepmann.", "start": 4551.44, "end": 4556.36}
+{"id": "11t4toF0sN0-t4556.36", "text": "These are the people that set out the agenda and the framework that we're still dealing", "start": 4556.36, "end": 4562.2}
+{"id": "11t4toF0sN0-t4562.2", "text": "with.", "start": 4562.2, "end": 4563.28}
+{"id": "11t4toF0sN0-t4563.28", "text": "And so part of what got me interested in neurosthetics was from the observation that when patients", "start": 4563.28, "end": 4570.36}
+{"id": "11t4toF0sN0-t4570.36", "text": "have brain damage, some patients that are artists, that they continue to produce art,", "start": 4570.36, "end": 4576.04}
+{"id": "11t4toF0sN0-t4576.04", "text": "and their art is actually, this is the exception, not the rule, but their art is actually better", "start": 4576.04, "end": 4581.719999999999}
+{"id": "11t4toF0sN0-t4581.719999999999", "text": "or received as better than what it was before.", "start": 4581.719999999999, "end": 4585.2}
+{"id": "11t4toF0sN0-t4585.2", "text": "This is the only major cognitive system where that observation has been made.", "start": 4585.2, "end": 4591.04}
+{"id": "11t4toF0sN0-t4591.04", "text": "There are sensory phenomenon in which that observation has been made, but if you talk", "start": 4591.04, "end": 4595.639999999999}
+{"id": "11t4toF0sN0-t4595.64", "text": "about language, if you talk about any complex phenomenon, this kind of paradoxical facilitation", "start": 4595.64, "end": 4602.96}
+{"id": "11t4toF0sN0-t4602.96", "text": "in the setting of brain damage is something that has only really been reported in art.", "start": 4602.96, "end": 4607.68}
+{"id": "11t4toF0sN0-t4607.68", "text": "And that's telling us something important.", "start": 4607.68, "end": 4609.4800000000005}
+{"id": "11t4toF0sN0-t4609.4800000000005", "text": "It's telling us something important about the biologic infrastructure that is in the context", "start": 4609.4800000000005, "end": 4618.76}
+{"id": "11t4toF0sN0-t4618.76", "text": "of producing art is sufficiently flexible.", "start": 4618.76, "end": 4622.04}
+{"id": "11t4toF0sN0-t4622.04", "text": "And one thing that these sort of detailed examinations of single cases I think can really be illuminating", "start": 4622.04, "end": 4628.72}
+{"id": "11t4toF0sN0-t4628.72", "text": "in a way that you, as you were suggesting, that Freud did you take individual patients", "start": 4628.72, "end": 4633.88}
+{"id": "11t4toF0sN0-t4633.88", "text": "and then you try to generalize from that in a way that analysis can only be done on individuals", "start": 4633.88, "end": 4639.32}
+{"id": "11t4toF0sN0-t4639.32", "text": "because as soon as you take a group, you're washing away what is most interesting about", "start": 4639.32, "end": 4644.2}
+{"id": "11t4toF0sN0-t4644.2", "text": "that behavior.", "start": 4644.2, "end": 4646.36}
+{"id": "11t4toF0sN0-t4646.36", "text": "The second strategy that I think Vittoria alluded to, which is that in cognitive neuroscience,", "start": 4646.36, "end": 4651.08}
+{"id": "11t4toF0sN0-t4651.08", "text": "there has been an interest in individual differences.", "start": 4651.08, "end": 4654.08}
+{"id": "11t4toF0sN0-t4654.08", "text": "And I'll give you an example of art study we did which has been presented in abstract", "start": 4654.08, "end": 4660.16}
+{"id": "11t4toF0sN0-t4660.16", "text": "form but not written up, which is there's a fundamental question of if you say, do you", "start": 4660.16, "end": 4666.36}
+{"id": "11t4toF0sN0-t4666.36", "text": "like a Rothko painting or do you like Hopper that there is nothing inherently correct about", "start": 4666.36, "end": 4673.28}
+{"id": "11t4toF0sN0-t4673.28", "text": "which answer you give, right?", "start": 4673.28, "end": 4675.08}
+{"id": "11t4toF0sN0-t4675.08", "text": "This is an individual difference thing.", "start": 4675.08, "end": 4676.76}
+{"id": "11t4toF0sN0-t4676.76", "text": "Some people like abstract art, some people like representational art, some people like", "start": 4676.76, "end": 4681.72}
+{"id": "11t4toF0sN0-t4681.72", "text": "historic art, some people like contemporary art, so on and so forth.", "start": 4681.72, "end": 4685.64}
+{"id": "11t4toF0sN0-t4685.64", "text": "So when you're dealing with that kind of massive variability, how do you approach this as a", "start": 4685.64, "end": 4690.280000000001}
+{"id": "11t4toF0sN0-t4690.280000000001", "text": "scientist?", "start": 4690.280000000001, "end": 4691.4400000000005}
+{"id": "11t4toF0sN0-t4691.4400000000005", "text": "And what we did was, and this was with a group of schizophrenics and people with schizophrenia", "start": 4691.4400000000005, "end": 4699.08}
+{"id": "11t4toF0sN0-t4699.08", "text": "as well as people with the normal controls, and basically did the kind of experiment where", "start": 4699.08, "end": 4706.04}
+{"id": "11t4toF0sN0-t4706.04", "text": "people are shown pairs of paintings and they say which is better, which you like more,", "start": 4706.04, "end": 4711.0}
+{"id": "11t4toF0sN0-t4711.0", "text": "right?", "start": 4711.0, "end": 4712.0}
+{"id": "11t4toF0sN0-t4712.0", "text": "And you go through a whole series of these, and we also had these rather than evaluative", "start": 4712.0, "end": 4717.0}
+{"id": "11t4toF0sN0-t4717.0", "text": "components, descriptive components where you say which painting is, has warmer hues versus", "start": 4717.0, "end": 4723.44}
+{"id": "11t4toF0sN0-t4723.44", "text": "cooler hues and things like that.", "start": 4723.44, "end": 4726.6}
+{"id": "11t4toF0sN0-t4726.6", "text": "So the trick here is that the assumption is that if you're looking at preference, which", "start": 4726.6, "end": 4734.04}
+{"id": "11t4toF0sN0-t4734.04", "text": "is variable, it's still showing that you're looking at the difference.", "start": 4734.04, "end": 4736.0}
+{"id": "11t4toF0sN0-t4736.0", "text": "So this should be the case that if someone prefers A over B and B over C, they should", "start": 4736.0, "end": 4740.16}
+{"id": "11t4toF0sN0-t4740.16", "text": "prefer A over C, right?", "start": 4740.16, "end": 4742.2}
+{"id": "11t4toF0sN0-t4742.2", "text": "Whatever your intro metric is, which may be different, it needs to be consistent.", "start": 4742.2, "end": 4746.96}
+{"id": "11t4toF0sN0-t4746.96", "text": "And so the question for us was then, using people's individual differences allows us", "start": 4746.96, "end": 4753.04}
+{"id": "11t4toF0sN0-t4753.04", "text": "to give an access of what people's consistency are, so then the question becomes consistency.", "start": 4753.04, "end": 4758.4}
+{"id": "11t4toF0sN0-t4758.4", "text": "And what we are able to show is that in this group of schizophrenic individuals that as", "start": 4758.4, "end": 4765.2}
+{"id": "11t4toF0sN0-t4765.2", "text": "a group to things, they're less consistent than people without schizophrenia.", "start": 4765.2, "end": 4772.639999999999}
+{"id": "11t4toF0sN0-t4772.639999999999", "text": "They are less consistent in the evaluative judgment, which is this preference as compared", "start": 4772.639999999999, "end": 4777.44}
+{"id": "11t4toF0sN0-t4777.44", "text": "to the descriptive judgment.", "start": 4777.44, "end": 4778.96}
+{"id": "11t4toF0sN0-t4778.96", "text": "So it's not that they're just inconsistent, they'll say whatever they want, it's specifically", "start": 4778.96, "end": 4782.44}
+{"id": "11t4toF0sN0-t4782.44", "text": "about their preference.", "start": 4782.44, "end": 4784.48}
+{"id": "11t4toF0sN0-t4784.48", "text": "And then the other interesting thing is if you look across the people with schizophrenia,", "start": 4784.48, "end": 4790.16}
+{"id": "11t4toF0sN0-t4790.16", "text": "of course it's not that they're all bad, that there's some variability, and then you", "start": 4790.16, "end": 4794.84}
+{"id": "11t4toF0sN0-t4794.84", "text": "leverage that variability.", "start": 4794.84, "end": 4796.4400000000005}
+{"id": "11t4toF0sN0-t4796.4400000000005", "text": "And what we find is that the greater the variability in people's preferences judgment correlates", "start": 4796.4400000000005, "end": 4807.16}
+{"id": "11t4toF0sN0-t4807.16", "text": "with how they also describe their hedonic experiences.", "start": 4807.16, "end": 4810.0}
+{"id": "11t4toF0sN0-t4810.0", "text": "So you give them other kinds of questionnaires, and so it turns out that people who have a", "start": 4810.0, "end": 4815.4800000000005}
+{"id": "11t4toF0sN0-t4815.4800000000005", "text": "kind of what has been referred in the literature as anticipatory pleasure, the pleasure of", "start": 4815.4800000000005, "end": 4821.96}
+{"id": "11t4toF0sN0-t4821.96", "text": "anticipating what might happen, that people who had decreased anticipatory pleasure were", "start": 4821.96, "end": 4828.8}
+{"id": "11t4toF0sN0-t4828.8", "text": "also the ones that were the most variable.", "start": 4828.8, "end": 4831.56}
+{"id": "11t4toF0sN0-t4831.56", "text": "So now you take that back to the biology, it turns out that models of anticipatory pleasure", "start": 4831.56, "end": 4838.92}
+{"id": "11t4toF0sN0-t4838.92", "text": "seem to really rely on dopamine.", "start": 4838.92, "end": 4842.4}
+{"id": "11t4toF0sN0-t4842.4", "text": "Dopamine is at least an important system that seems to be abnormal in people with schizophrenia.", "start": 4842.4, "end": 4848.36}
+{"id": "11t4toF0sN0-t4848.36", "text": "And what we don't know from this is whether this has to do with the medications they're", "start": 4848.36, "end": 4851.799999999999}
+{"id": "11t4toF0sN0-t4851.799999999999", "text": "on or something inherent about the biology of their disease.", "start": 4851.799999999999, "end": 4854.44}
+{"id": "11t4toF0sN0-t4854.44", "text": "So that remains unknown.", "start": 4854.44, "end": 4856.32}
+{"id": "11t4toF0sN0-t4856.32", "text": "But I offer this as a suggestion how you can use, you can actually leverage the variability", "start": 4856.32, "end": 4862.48}
+{"id": "11t4toF0sN0-t4862.48", "text": "of the individual responses to honor the individual response and at the same time try to get a", "start": 4862.48, "end": 4870.08}
+{"id": "11t4toF0sN0-t4870.08", "text": "generalizing principle out of it.", "start": 4870.08, "end": 4872.5199999999995}
+{"id": "11t4toF0sN0-t4872.52", "text": "Yeah, I think most of us would probably agree that dopamine plays a role in aesthetic pleasure.", "start": 4872.52, "end": 4880.84}
+{"id": "11t4toF0sN0-t4880.84", "text": "But I want to go back, I mean these are really interesting historians, I want to go back to", "start": 4880.84, "end": 4884.8}
+{"id": "11t4toF0sN0-t4884.8", "text": "the discussion we were having earlier, partly raised by Victoria and then affirmed by Andrea.", "start": 4884.8, "end": 4894.240000000001}
+{"id": "11t4toF0sN0-t4894.240000000001", "text": "And this is a discussion which brings together Freudian views of inhibition, Freudian views", "start": 4894.240000000001, "end": 4899.56}
+{"id": "11t4toF0sN0-t4899.56", "text": "of culture, the work of the neurosciences, but it's all a meeting I think in all our", "start": 4899.56, "end": 4905.080000000001}
+{"id": "11t4toF0sN0-t4905.080000000001", "text": "discussions we are meeting one very significant issue which I'm going to come to in a moment.", "start": 4905.080000000001, "end": 4910.76}
+{"id": "11t4toF0sN0-t4910.76", "text": "I think the issue is slightly vitiated by these statements, slightly apodictic statements", "start": 4910.76, "end": 4918.400000000001}
+{"id": "11t4toF0sN0-t4918.400000000001", "text": "that people make, you made it, there's quite a lot, art is.", "start": 4918.400000000001, "end": 4922.0}
+{"id": "11t4toF0sN0-t4922.0", "text": "I think we should probably just relinquish any kind of declaration about what art is.", "start": 4922.0, "end": 4928.080000000001}
+{"id": "11t4toF0sN0-t4928.08", "text": "Because we kind of know now that we don't know what art is.", "start": 4928.08, "end": 4930.24}
+{"id": "11t4toF0sN0-t4930.24", "text": "I mean you go to any art gallery and you, art may just be what people pay the most money", "start": 4930.24, "end": 4937.08}
+{"id": "11t4toF0sN0-t4937.08", "text": "for, we don't know.", "start": 4937.08, "end": 4939.64}
+{"id": "11t4toF0sN0-t4939.64", "text": "So this whole issue was brought home to me with some force, I remember Chris Wood said", "start": 4939.64, "end": 4944.92}
+{"id": "11t4toF0sN0-t4944.92", "text": "he may have been drinking a bit much that evening, but he said exasperatedly to me after I gave", "start": 4944.92, "end": 4951.44}
+{"id": "11t4toF0sN0-t4951.44", "text": "a lecture about the sort of motor dimension of aesthetic response which Victoria described", "start": 4951.44, "end": 4956.48}
+{"id": "11t4toF0sN0-t4956.48", "text": "very accurately, he said oh, why don't you realize that all art is irony?", "start": 4956.48, "end": 4960.879999999999}
+{"id": "11t4toF0sN0-t4960.879999999999", "text": "I mean he was being kind of epigromatic that evening and I was very exasperated by this,", "start": 4960.879999999999, "end": 4966.799999999999}
+{"id": "11t4toF0sN0-t4966.799999999999", "text": "but he raised a very important issue which is I don't think all art is irony, but consistently", "start": 4966.799999999999, "end": 4972.16}
+{"id": "11t4toF0sN0-t4972.16", "text": "with this view that I don't think we should say what art is or not.", "start": 4972.16, "end": 4976.2}
+{"id": "11t4toF0sN0-t4976.2", "text": "But you know we talk about aesthetic appreciation, aesthetic evaluation, aesthetic enjoyment,", "start": 4976.2, "end": 4981.879999999999}
+{"id": "11t4toF0sN0-t4981.88", "text": "I just did that, but what really lies at the bottom of all of this, as Kant wrote, is aesthetic", "start": 4981.88, "end": 4992.24}
+{"id": "11t4toF0sN0-t4992.24", "text": "judgement.", "start": 4992.24, "end": 4993.72}
+{"id": "11t4toF0sN0-t4993.72", "text": "I mean we can talk a bit about aesthetic pleasure and aesthetic, you know how our feelings are", "start": 4993.72, "end": 4997.32}
+{"id": "11t4toF0sN0-t4997.32", "text": "affected, but what is moot is not what art is, but what is that moment in which, you", "start": 4997.32, "end": 5004.52}
+{"id": "11t4toF0sN0-t5004.52", "text": "know what happens at that moment when we make an aesthetic judgement.", "start": 5004.52, "end": 5008.16}
+{"id": "11t4toF0sN0-t5008.16", "text": "And that moment must surely be a moment of a certain kind of removal, of reclaiming of", "start": 5008.16, "end": 5017.24}
+{"id": "11t4toF0sN0-t5017.24", "text": "the self against involvement with the work of art.", "start": 5017.24, "end": 5022.04}
+{"id": "11t4toF0sN0-t5022.04", "text": "And this seems to me our sense of absorption in the work of art to use, you know here's", "start": 5022.04, "end": 5026.4}
+{"id": "11t4toF0sN0-t5026.4", "text": "Michael Friedkaring on for years about absorption's role in our aesthetic responses.", "start": 5026.4, "end": 5033.4}
+{"id": "11t4toF0sN0-t5033.4", "text": "What really we need now to do, and I think, I'm trying to convince Victoria to do an experiment", "start": 5033.4, "end": 5039.92}
+{"id": "11t4toF0sN0-t5039.92", "text": "with me on precisely what removes the self from its empathetic engagement with the work.", "start": 5039.92, "end": 5047.4}
+{"id": "11t4toF0sN0-t5047.4", "text": "What happens then as it were, you know what exactly do we mean when we talk about inhibition,", "start": 5047.4, "end": 5054.36}
+{"id": "11t4toF0sN0-t5054.36", "text": "what's happening in the brain, you know there are various candidates for the inhibitory", "start": 5054.36, "end": 5058.5199999999995}
+{"id": "11t4toF0sN0-t5058.5199999999995", "text": "factor.", "start": 5058.5199999999995, "end": 5059.5199999999995}
+{"id": "11t4toF0sN0-t5059.52", "text": "And I somehow think it's somewhat down in Basil Ganglia, he says no it's much forward", "start": 5059.52, "end": 5065.040000000001}
+{"id": "11t4toF0sN0-t5065.040000000001", "text": "in prefrontal cortex.", "start": 5065.040000000001, "end": 5066.68}
+{"id": "11t4toF0sN0-t5066.68", "text": "So here is a real issue which can be discussed which will get us back to what seems to me,", "start": 5066.68, "end": 5074.120000000001}
+{"id": "11t4toF0sN0-t5074.120000000001", "text": "you know at least a clear framing of the question, which is the framing in terms of the moment", "start": 5074.120000000001, "end": 5080.4800000000005}
+{"id": "11t4toF0sN0-t5080.4800000000005", "text": "in which we realize we are not in the object, but we are sufficiently detached to make a", "start": 5080.4800000000005, "end": 5087.64}
+{"id": "11t4toF0sN0-t5087.64", "text": "judgement.", "start": 5087.64, "end": 5088.64}
+{"id": "11t4toF0sN0-t5088.64", "text": "And this is Andrea and Varburg's notion of Dankham in which you have the space for contemplation", "start": 5088.64, "end": 5096.320000000001}
+{"id": "11t4toF0sN0-t5096.320000000001", "text": "and you have a sense of the realization of who you are as a judging self.", "start": 5096.320000000001, "end": 5103.6}
+{"id": "11t4toF0sN0-t5103.6", "text": "So that's a project that you know we've got to get on with as it were.", "start": 5103.6, "end": 5107.4400000000005}
+{"id": "11t4toF0sN0-t5107.4400000000005", "text": "Yeah.", "start": 5107.4400000000005, "end": 5108.4400000000005}
+{"id": "11t4toF0sN0-t5108.4400000000005", "text": "I can comment on that.", "start": 5108.4400000000005, "end": 5109.4400000000005}
+{"id": "11t4toF0sN0-t5109.4400000000005", "text": "So again going back to individual classes and this notion of inhibition of movements", "start": 5109.4400000000005, "end": 5115.92}
+{"id": "11t4toF0sN0-t5115.92", "text": "in a way that might seem agentic.", "start": 5115.92, "end": 5120.04}
+{"id": "11t4toF0sN0-t5120.04", "text": "So there's a classic relatively rare but classic neurologic syndrome called the Alien Hand", "start": 5120.04, "end": 5125.68}
+{"id": "11t4toF0sN0-t5125.68", "text": "Syndrome.", "start": 5125.68, "end": 5126.92}
+{"id": "11t4toF0sN0-t5126.92", "text": "And this is one in which we've done one of the few experimental studies of such a patient.", "start": 5126.92, "end": 5135.88}
+{"id": "11t4toF0sN0-t5135.88", "text": "So let me just describe it for people who are not aware of this.", "start": 5135.88, "end": 5140.08}
+{"id": "11t4toF0sN0-t5140.08", "text": "This is a situation where someone's hand, it's typically on one side, seems to be", "start": 5140.08, "end": 5145.88}
+{"id": "11t4toF0sN0-t5145.88", "text": "to perform behaviors that seem complex but over which they have no control.", "start": 5145.88, "end": 5153.64}
+{"id": "11t4toF0sN0-t5153.64", "text": "And so the particular man that we studied about seven or eight years ago, I mean he would", "start": 5153.64, "end": 5159.72}
+{"id": "11t4toF0sN0-t5159.72", "text": "come in and he'd sit down and he'd sit down on his hand because he didn't want his hand", "start": 5159.72, "end": 5163.36}
+{"id": "11t4toF0sN0-t5163.36", "text": "doing things that he had no control over.", "start": 5163.36, "end": 5166.04}
+{"id": "11t4toF0sN0-t5166.04", "text": "These kinds of, or he'd grab a magazine or a cup and hold this because as long as his", "start": 5166.04, "end": 5170.96}
+{"id": "11t4toF0sN0-t5170.96", "text": "hand was occupied it wouldn't do things.", "start": 5170.96, "end": 5173.36}
+{"id": "11t4toF0sN0-t5173.36", "text": "But what are the kinds of things it does is that it will, he'll walk by a light switch", "start": 5173.36, "end": 5180.759999999999}
+{"id": "11t4toF0sN0-t5180.759999999999", "text": "and his hand will reach up and start doing this turning on and off on and off on and", "start": 5180.759999999999, "end": 5184.5599999999995}
+{"id": "11t4toF0sN0-t5184.5599999999995", "text": "off the lights.", "start": 5184.5599999999995, "end": 5187.08}
+{"id": "11t4toF0sN0-t5187.08", "text": "And there are a variety of these kinds of behaviors and what we, and his lesion, just", "start": 5187.08, "end": 5192.679999999999}
+{"id": "11t4toF0sN0-t5192.679999999999", "text": "so you know the part of his brain that was damaged is the medial part of the frontal", "start": 5192.679999999999, "end": 5198.2}
+{"id": "11t4toF0sN0-t5198.2", "text": "lobe, right?", "start": 5198.2, "end": 5199.2}
+{"id": "11t4toF0sN0-t5199.2", "text": "The classic location for this kind of phenomenon.", "start": 5199.2, "end": 5203.88}
+{"id": "11t4toF0sN0-t5203.88", "text": "What we were able to show is the conditions in which this happens are two.", "start": 5203.88, "end": 5211.4}
+{"id": "11t4toF0sN0-t5211.4", "text": "One is that the control over affordances that most of us normally have, he didn't have.", "start": 5211.4, "end": 5221.679999999999}
+{"id": "11t4toF0sN0-t5221.679999999999", "text": "And what do I mean by that?", "start": 5221.679999999999, "end": 5222.84}
+{"id": "11t4toF0sN0-t5222.84", "text": "Which is if you see a cup with a handle there is a kind of affordance that makes you want", "start": 5222.84, "end": 5231.52}
+{"id": "11t4toF0sN0-t5231.52", "text": "to grasp it, right?", "start": 5231.52, "end": 5232.88}
+{"id": "11t4toF0sN0-t5232.88", "text": "And it's likely that the mirror neuron system is in fact involved in that kind of experience.", "start": 5232.88, "end": 5238.92}
+{"id": "11t4toF0sN0-t5238.92", "text": "Most of us can choose to do this or not.", "start": 5238.92, "end": 5241.08}
+{"id": "11t4toF0sN0-t5241.08", "text": "And it should be clear that most of us, our motor systems operate below consciousness most", "start": 5241.08, "end": 5247.32}
+{"id": "11t4toF0sN0-t5247.32", "text": "of the time, right?", "start": 5247.32, "end": 5248.4800000000005}
+{"id": "11t4toF0sN0-t5248.4800000000005", "text": "Where usually you think about every time you drive to work or you walk to work you are", "start": 5248.4800000000005, "end": 5252.16}
+{"id": "11t4toF0sN0-t5252.16", "text": "not really aware of all the little decisions you're making.", "start": 5252.16, "end": 5255.08}
+{"id": "11t4toF0sN0-t5255.08", "text": "We largely respond to things in the environment with our motor systems and that's what this", "start": 5255.08, "end": 5260.72}
+{"id": "11t4toF0sN0-t5260.72", "text": "person was doing but unlike the rest of us is not able to control it.", "start": 5260.72, "end": 5267.76}
+{"id": "11t4toF0sN0-t5267.76", "text": "The second piece of this is he was exquisitely aware of this.", "start": 5267.76, "end": 5271.48}
+{"id": "11t4toF0sN0-t5271.48", "text": "So if you have damage bilaterally you get something called utilization behavior where", "start": 5271.48, "end": 5275.32}
+{"id": "11t4toF0sN0-t5275.32", "text": "people do this but they're completely apathetic about it.", "start": 5275.32, "end": 5278.84}
+{"id": "11t4toF0sN0-t5278.84", "text": "So he had this monitoring system over his own motor behavior.", "start": 5278.84, "end": 5284.52}
+{"id": "11t4toF0sN0-t5284.52", "text": "At the same time he didn't have control over one side and then this creates this sense", "start": 5284.52, "end": 5289.8}
+{"id": "11t4toF0sN0-t5289.8", "text": "that this limb is doing something of which he has no control over, right?", "start": 5289.8, "end": 5294.88}
+{"id": "11t4toF0sN0-t5294.88", "text": "It's completely responsive to the environment.", "start": 5294.88, "end": 5298.04}
+{"id": "11t4toF0sN0-t5298.04", "text": "And so it's a kind of a problem within ambition.", "start": 5298.04, "end": 5301.92}
+{"id": "11t4toF0sN0-t5301.92", "text": "At the same time there's awareness you have to have both of those things simultaneously", "start": 5301.92, "end": 5306.04}
+{"id": "11t4toF0sN0-t5306.04", "text": "to have this kind of phenomenon.", "start": 5306.04, "end": 5309.2}
+{"id": "11t4toF0sN0-t5309.2", "text": "I think even though I know we can talk a lot more about this it's time to go for question", "start": 5309.2, "end": 5316.5199999999995}
+{"id": "11t4toF0sN0-t5316.5199999999995", "text": "and answers.", "start": 5316.5199999999995, "end": 5317.84}
+{"id": "11t4toF0sN0-t5317.84", "text": "So anybody who has a question has to walk up to the microphone there and ask questions.", "start": 5317.84, "end": 5324.44}
+{"id": "11t4toF0sN0-t5324.44", "text": "Peter, there are two papers.", "start": 5324.44, "end": 5327.64}
+{"id": "11t4toF0sN0-t5327.64", "text": "Siri you want to ask?", "start": 5327.64, "end": 5330.64}
+{"id": "11t4toF0sN0-t5330.64", "text": "Most of the discussion this morning has been on the tension between generalization and", "start": 5330.64, "end": 5346.6}
+{"id": "11t4toF0sN0-t5346.6", "text": "you begin with that and the particular case and your characterization of psychoanalysis.", "start": 5346.6, "end": 5354.6}
+{"id": "11t4toF0sN0-t5354.6", "text": "It's a single case and what do you have?", "start": 5354.6, "end": 5357.92}
+{"id": "11t4toF0sN0-t5357.92", "text": "So I'd like to say.", "start": 5357.92, "end": 5360.160000000001}
+{"id": "11t4toF0sN0-t5360.16", "text": "I practice analysis in Los Angeles and I've analyzed Chinese and Japanese and Latino,", "start": 5360.16, "end": 5369.0}
+{"id": "11t4toF0sN0-t5369.0", "text": "I have a Latino, young lady, Iranians and so on and you get a picture of the culture.", "start": 5369.0, "end": 5378.92}
+{"id": "11t4toF0sN0-t5378.92", "text": "And with that I want to say with Abi Barbour today when we're getting to a man embedded", "start": 5378.92, "end": 5387.639999999999}
+{"id": "11t4toF0sN0-t5387.64", "text": "in the German-Jewish elite of Hamburg, major banking firm that you all know branches in", "start": 5387.64, "end": 5395.280000000001}
+{"id": "11t4toF0sN0-t5395.280000000001", "text": "New York and so on.", "start": 5395.280000000001, "end": 5397.4400000000005}
+{"id": "11t4toF0sN0-t5397.4400000000005", "text": "And he suffered and consciously from anti-Semitism.", "start": 5397.4400000000005, "end": 5406.320000000001}
+{"id": "11t4toF0sN0-t5406.320000000001", "text": "He was a soldier in the German army prior to World War I and was unable to get promoted", "start": 5406.320000000001, "end": 5416.88}
+{"id": "11t4toF0sN0-t5416.88", "text": "to reserve office here.", "start": 5416.88, "end": 5419.08}
+{"id": "11t4toF0sN0-t5419.08", "text": "He was a very symbolic, full of prestige.", "start": 5419.08, "end": 5423.36}
+{"id": "11t4toF0sN0-t5423.36", "text": "Much's labor wrote a brilliant critical piece on the position of the German reserve", "start": 5423.36, "end": 5429.76}
+{"id": "11t4toF0sN0-t5429.76", "text": "office here and he writes to his mother also as he's a student in Strasbourg.", "start": 5429.76, "end": 5438.08}
+{"id": "11t4toF0sN0-t5438.08", "text": "How he hears other students and people in pubs issuing anti-Semitic remarks.", "start": 5438.08, "end": 5449.0}
+{"id": "11t4toF0sN0-t5449.0", "text": "And he's very aware he's unhappy about it.", "start": 5449.0, "end": 5452.72}
+{"id": "11t4toF0sN0-t5452.72", "text": "He calls it motion, which is an imitation of Yiddish.", "start": 5452.72, "end": 5459.28}
+{"id": "11t4toF0sN0-t5459.28", "text": "Now, that's not all.", "start": 5459.28, "end": 5468.36}
+{"id": "11t4toF0sN0-t5468.36", "text": "There is a huge, very significant Cartai, it's Cartai 61 in the archive, the Barbour", "start": 5468.36, "end": 5477.28}
+{"id": "11t4toF0sN0-t5477.28", "text": "archive, and it is his collection, his method of working was to collect clippings from the", "start": 5477.28, "end": 5485.0}
+{"id": "11t4toF0sN0-t5485.0", "text": "days newspapers of things that interested him and there are large collection of clippings", "start": 5485.0, "end": 5492.0}
+{"id": "11t4toF0sN0-t5492.0", "text": "about the ritual murder myth in Eastern Europe, in Kiev, the Bayless case, in Konev, in East", "start": 5492.0, "end": 5502.0}
+{"id": "11t4toF0sN0-t5502.0", "text": "Prussia.", "start": 5502.0, "end": 5503.0}
+{"id": "11t4toF0sN0-t5503.0", "text": "You know, he collected these and this was the raw, savage underside of European culture", "start": 5503.0, "end": 5509.92}
+{"id": "11t4toF0sN0-t5509.92", "text": "they was very aware of.", "start": 5509.92, "end": 5513.28}
+{"id": "11t4toF0sN0-t5513.28", "text": "And it's significant that the breakdown, the psychotic breakdown came in November 1918.", "start": 5513.28, "end": 5521.44}
+{"id": "11t4toF0sN0-t5521.44", "text": "Now that's not a random date.", "start": 5521.44, "end": 5523.84}
+{"id": "11t4toF0sN0-t5523.84", "text": "That's the date of the collapse of the Wilhelmian Empire.", "start": 5523.84, "end": 5527.32}
+{"id": "11t4toF0sN0-t5527.32", "text": "And it's a date where his peer and friend Albert Balene, whose name you might know,", "start": 5527.32, "end": 5533.84}
+{"id": "11t4toF0sN0-t5533.84", "text": "the Hamburg America line, the Hamburg-Ost-Africa line, the Hamburg-Ost-Oggian line, these were", "start": 5533.84, "end": 5540.8}
+{"id": "11t4toF0sN0-t5540.8", "text": "all creatures of, he was the CEO of this Empire of sea power in Germany.", "start": 5540.8, "end": 5548.4400000000005}
+{"id": "11t4toF0sN0-t5548.4400000000005", "text": "He suicided in November 1918.", "start": 5548.4400000000005, "end": 5552.28}
+{"id": "11t4toF0sN0-t5552.28", "text": "And that's where he had his psychic collapse.", "start": 5552.28, "end": 5557.96}
+{"id": "11t4toF0sN0-t5557.96", "text": "And we look for, in psychoanalysis, the specificity.", "start": 5557.96, "end": 5563.52}
+{"id": "11t4toF0sN0-t5563.52", "text": "Why on that date?", "start": 5563.52, "end": 5565.76}
+{"id": "11t4toF0sN0-t5565.76", "text": "And what's the specificity of the delusions?", "start": 5565.76, "end": 5569.360000000001}
+{"id": "11t4toF0sN0-t5569.36", "text": "And the delusions were murder and blood poisoning.", "start": 5569.36, "end": 5573.639999999999}
+{"id": "11t4toF0sN0-t5573.639999999999", "text": "He tells Benzwanger, you're feeding me human blood.", "start": 5573.639999999999, "end": 5578.4}
+{"id": "11t4toF0sN0-t5578.4", "text": "I'm not going to eat this meal.", "start": 5578.4, "end": 5583.4}
+{"id": "11t4toF0sN0-t5583.4", "text": "I suggest to you that what you really want to know out of psychoanalysis is the culture", "start": 5583.4, "end": 5591.92}
+{"id": "11t4toF0sN0-t5591.92", "text": "that he comes from.", "start": 5591.92, "end": 5593.12}
+{"id": "11t4toF0sN0-t5593.12", "text": "And he and his brother, there was an event in the middle of World War I in 1916.", "start": 5593.12, "end": 5600.24}
+{"id": "11t4toF0sN0-t5600.24", "text": "It's called the Yudin Seilung, where the Prussian general staff ordered a census of all the Jews", "start": 5600.24, "end": 5607.48}
+{"id": "11t4toF0sN0-t5607.48", "text": "in the German military.", "start": 5607.48, "end": 5609.68}
+{"id": "11t4toF0sN0-t5609.68", "text": "Now nothing like that took place on the Italian army, the French army, British army.", "start": 5609.68, "end": 5617.24}
+{"id": "11t4toF0sN0-t5617.24", "text": "But they were with a purpose of derogating and deprecating the Jews, trying to show they", "start": 5617.24, "end": 5625.5199999999995}
+{"id": "11t4toF0sN0-t5625.5199999999995", "text": "weren't doing their part.", "start": 5625.5199999999995, "end": 5627.16}
+{"id": "11t4toF0sN0-t5627.16", "text": "And fact is that after this census, the results were suppressed.", "start": 5627.16, "end": 5632.639999999999}
+{"id": "11t4toF0sN0-t5632.639999999999", "text": "They were never published until Franz Josef Strauss in the Boletus Republique was the", "start": 5632.639999999999, "end": 5639.5199999999995}
+{"id": "11t4toF0sN0-t5639.5199999999995", "text": "foreign strike, that defense minister, and he published the results because the contribution", "start": 5639.5199999999995, "end": 5645.48}
+{"id": "11t4toF0sN0-t5645.48", "text": "of Jews had been magnificent to World War I.", "start": 5645.48, "end": 5648.719999999999}
+{"id": "11t4toF0sN0-t5648.719999999999", "text": "So this is the world he comes from.", "start": 5648.719999999999, "end": 5652.5599999999995}
+{"id": "11t4toF0sN0-t5652.5599999999995", "text": "And when he sees murders and so on, he saw them and he collected data on them, extensive", "start": 5652.5599999999995, "end": 5661.48}
+{"id": "11t4toF0sN0-t5661.48", "text": "data on German anti-Semitism, on European primitive hatred of the Jews.", "start": 5661.48, "end": 5670.5199999999995}
+{"id": "11t4toF0sN0-t5670.5199999999995", "text": "And I suggest it comes back in the psychosis.", "start": 5670.5199999999995, "end": 5673.719999999999}
+{"id": "11t4toF0sN0-t5673.72", "text": "That's an intro to your panel tomorrow I think.", "start": 5673.72, "end": 5683.08}
+{"id": "11t4toF0sN0-t5683.08", "text": "This is quicker and it's about lesions and it relates to something David said and to", "start": 5683.08, "end": 5688.04}
+{"id": "11t4toF0sN0-t5688.04", "text": "what you said, which is individual differences and lesions.", "start": 5688.04, "end": 5693.04}
+{"id": "11t4toF0sN0-t5693.04", "text": "So even in alien hand syndrome, you can get someone unbuttoning a shirt.", "start": 5693.04, "end": 5698.12}
+{"id": "11t4toF0sN0-t5698.12", "text": "But also the famous case that I've forgotten the neurologist name of the self-strangling.", "start": 5698.12, "end": 5704.599999999999}
+{"id": "11t4toF0sN0-t5704.599999999999", "text": "And also amygdala lesions do not produce identical results by the way.", "start": 5704.599999999999, "end": 5710.36}
+{"id": "11t4toF0sN0-t5710.36", "text": "They're a huge variation.", "start": 5710.36, "end": 5712.48}
+{"id": "11t4toF0sN0-t5712.48", "text": "So I wanted to just pick that up about individual differences.", "start": 5712.48, "end": 5716.44}
+{"id": "11t4toF0sN0-t5716.44", "text": "Is there a question of content, individual psychic content in something like say self-strangling", "start": 5716.44, "end": 5723.96}
+{"id": "11t4toF0sN0-t5723.96", "text": "in alien hand syndrome?", "start": 5723.96, "end": 5726.76}
+{"id": "11t4toF0sN0-t5726.76", "text": "Maybe two comments about that.", "start": 5726.76, "end": 5728.92}
+{"id": "11t4toF0sN0-t5728.92", "text": "And thanks for the question.", "start": 5728.92, "end": 5729.92}
+{"id": "11t4toF0sN0-t5729.92", "text": "So one thing it turns out that an alien hand syndrome is that the repertoire of behaviors", "start": 5729.92, "end": 5736.4400000000005}
+{"id": "11t4toF0sN0-t5736.4400000000005", "text": "are fairly restricted.", "start": 5736.4400000000005, "end": 5738.280000000001}
+{"id": "11t4toF0sN0-t5738.280000000001", "text": "There are certain grasping behaviors, there are repetitive behaviors.", "start": 5738.280000000001, "end": 5742.320000000001}
+{"id": "11t4toF0sN0-t5742.320000000001", "text": "They're actually the kinds of things not unlike what you see when people have motor seizures", "start": 5742.320000000001, "end": 5749.400000000001}
+{"id": "11t4toF0sN0-t5749.400000000001", "text": "and what healing Jackson talked about as this sort of grammar of movements where you have", "start": 5749.400000000001, "end": 5756.280000000001}
+{"id": "11t4toF0sN0-t5756.28", "text": "these elements that are built on.", "start": 5756.28, "end": 5759.5599999999995}
+{"id": "11t4toF0sN0-t5759.5599999999995", "text": "What we argued in this paper is that what you see in alien hand syndrome are concatenations", "start": 5759.5599999999995, "end": 5766.759999999999}
+{"id": "11t4toF0sN0-t5766.759999999999", "text": "of these motor primitives and that you would never ever have the situation where someone's", "start": 5766.759999999999, "end": 5773.0}
+{"id": "11t4toF0sN0-t5773.0", "text": "alien hand would, for example, write a poem.", "start": 5773.0, "end": 5776.639999999999}
+{"id": "11t4toF0sN0-t5776.639999999999", "text": "That could never happen on this model.", "start": 5776.639999999999, "end": 5779.84}
+{"id": "11t4toF0sN0-t5779.84", "text": "Whereas if you really think of this as there's an alien being on the divided self, that the", "start": 5779.84, "end": 5784.92}
+{"id": "11t4toF0sN0-t5784.92", "text": "divided self would actually perform some intentional goal directed behavior, it turns out that", "start": 5784.92, "end": 5790.2}
+{"id": "11t4toF0sN0-t5790.2", "text": "that's probably not the case.", "start": 5790.2, "end": 5792.6}
+{"id": "11t4toF0sN0-t5792.6", "text": "The individual differences in terms of the consequences of brain damage is extraordinarily", "start": 5792.6, "end": 5798.0}
+{"id": "11t4toF0sN0-t5798.0", "text": "interesting and the biology of that we don't really know very much.", "start": 5798.0, "end": 5802.4400000000005}
+{"id": "11t4toF0sN0-t5802.4400000000005", "text": "So it is the case that often what you will read in the literature are these sentinel cases.", "start": 5802.4400000000005, "end": 5809.96}
+{"id": "11t4toF0sN0-t5809.96", "text": "But if you see a lot of the patients, what you are struck by is that the same kind of", "start": 5809.96, "end": 5813.96}
+{"id": "11t4toF0sN0-t5813.96", "text": "damage that produces vernicus ephasia that was so instrumental and important in thinking", "start": 5813.96, "end": 5819.8}
+{"id": "11t4toF0sN0-t5819.8", "text": "of how language is organized in the brain is not what happens in everybody.", "start": 5819.8, "end": 5824.16}
+{"id": "11t4toF0sN0-t5824.16", "text": "And not only that, what happens six months down the road is highly variable in terms", "start": 5824.16, "end": 5828.56}
+{"id": "11t4toF0sN0-t5828.56", "text": "of how people recover.", "start": 5828.56, "end": 5830.32}
+{"id": "11t4toF0sN0-t5830.32", "text": "Now what's the biology of that?", "start": 5830.32, "end": 5832.6}
+{"id": "11t4toF0sN0-t5832.6", "text": "Why is it that some people do better initially?", "start": 5832.6, "end": 5835.84}
+{"id": "11t4toF0sN0-t5835.84", "text": "Why is it that some people do better down the road?", "start": 5835.84, "end": 5839.32}
+{"id": "11t4toF0sN0-t5839.32", "text": "There are some ideas around it.", "start": 5839.32, "end": 5842.12}
+{"id": "11t4toF0sN0-t5842.12", "text": "There are certain genetic predispositions.", "start": 5842.12, "end": 5844.5599999999995}
+{"id": "11t4toF0sN0-t5844.5599999999995", "text": "For example, people better homozygous for apo-e-elleals that is a predisposing factor", "start": 5844.5599999999995, "end": 5851.4}
+{"id": "11t4toF0sN0-t5851.4", "text": "for Alzheimer's disease.", "start": 5851.4, "end": 5853.92}
+{"id": "11t4toF0sN0-t5853.92", "text": "It looks like that might have been more generalizable to how the brain responds to injury.", "start": 5853.92, "end": 5861.12}
+{"id": "11t4toF0sN0-t5861.12", "text": "But what the mechanisms around that are not known, it may be a wiring issue, which is", "start": 5861.12, "end": 5868.48}
+{"id": "11t4toF0sN0-t5868.48", "text": "where if we took everybody in this room that is over the age of 50 and got high resolution", "start": 5868.48, "end": 5875.719999999999}
+{"id": "11t4toF0sN0-t5875.719999999999", "text": "MRI scans, the amount of white matter abnormalities, assuming everybody in here is normal, is", "start": 5875.719999999999, "end": 5880.879999999999}
+{"id": "11t4toF0sN0-t5880.879999999999", "text": "going to be highly variable.", "start": 5880.879999999999, "end": 5884.04}
+{"id": "11t4toF0sN0-t5884.04", "text": "And so the consequences of that, of this kind of subclinical low level, and I hesitate to", "start": 5884.04, "end": 5892.44}
+{"id": "11t4toF0sN0-t5892.44", "text": "use the word damage because it's not expressed in any way, it might have consequences for", "start": 5892.44, "end": 5896.679999999999}
+{"id": "11t4toF0sN0-t5896.679999999999", "text": "recovery.", "start": 5896.679999999999, "end": 5897.679999999999}
+{"id": "11t4toF0sN0-t5897.68", "text": "And the individual differences in organization at that level, which is increases as you get", "start": 5897.68, "end": 5904.320000000001}
+{"id": "11t4toF0sN0-t5904.320000000001", "text": "older.", "start": 5904.320000000001, "end": 5905.320000000001}
+{"id": "11t4toF0sN0-t5905.320000000001", "text": "So as Vittoria said, if you're doing 20-year-old college students, you've already filtered", "start": 5905.320000000001, "end": 5910.84}
+{"id": "11t4toF0sN0-t5910.84", "text": "this to a very narrow segment, right?", "start": 5910.84, "end": 5914.400000000001}
+{"id": "11t4toF0sN0-t5914.400000000001", "text": "But I think those are exactly the kinds of questions a biologist needs to ask and try", "start": 5914.400000000001, "end": 5919.64}
+{"id": "11t4toF0sN0-t5919.64", "text": "to address.", "start": 5919.64, "end": 5920.64}
+{"id": "11t4toF0sN0-t5920.64", "text": "Just walk through the microphone.", "start": 5920.64, "end": 5927.64}
+{"id": "11t4toF0sN0-t5927.64", "text": "Okay, sure.", "start": 5927.64, "end": 5930.64}
+{"id": "11t4toF0sN0-t5930.64", "text": "Professor Galese's correlation of the motor system and Lucio Fontana and Franz Klein,", "start": 5930.64, "end": 5944.0}
+{"id": "11t4toF0sN0-t5944.0", "text": "I'm an art historian and a psychoanalyst and I've worked with a lot of artists.", "start": 5944.0, "end": 5948.84}
+{"id": "11t4toF0sN0-t5948.84", "text": "I've thought a lot about Ernst-Chris's image magic, the idea that an artist is trying", "start": 5948.84, "end": 5956.56}
+{"id": "11t4toF0sN0-t5956.56", "text": "to create life in the work.", "start": 5956.56, "end": 5960.0}
+{"id": "11t4toF0sN0-t5960.0", "text": "And I worked on Giacometti and Louise Nevelson and both of them, and I think many other artists", "start": 5960.0, "end": 5966.6}
+{"id": "11t4toF0sN0-t5966.6", "text": "and many of the artists I've worked with, are aiming in some way, consciously or preconsciously,", "start": 5966.6, "end": 5973.28}
+{"id": "11t4toF0sN0-t5973.28", "text": "to create a sense of life.", "start": 5973.28, "end": 5974.84}
+{"id": "11t4toF0sN0-t5974.84", "text": "And that is the dynamic quality.", "start": 5974.84, "end": 5978.72}
+{"id": "11t4toF0sN0-t5978.72", "text": "Looking at artwork that succeeds in doing that, even if it's the pregnant moment before", "start": 5978.72, "end": 5985.400000000001}
+{"id": "11t4toF0sN0-t5985.400000000001", "text": "the action, there is a sense for an artist who is aiming to make that work that he or", "start": 5985.400000000001, "end": 5991.92}
+{"id": "11t4toF0sN0-t5991.92", "text": "she is trying to do something with what Louise Nevelson called livingness.", "start": 5991.92, "end": 5997.64}
+{"id": "11t4toF0sN0-t5997.64", "text": "I think artists have different ways of describing it, but it seems very related to the correlations", "start": 5997.64, "end": 6003.12}
+{"id": "11t4toF0sN0-t6003.12", "text": "that you are finding in the work that you're doing.", "start": 6003.12, "end": 6007.12}
+{"id": "11t4toF0sN0-t6007.12", "text": "Thank you.", "start": 6007.12, "end": 6008.12}
+{"id": "11t4toF0sN0-t6008.12", "text": "Pierre.", "start": 6008.12, "end": 6009.12}
+{"id": "11t4toF0sN0-t6009.12", "text": "So I would like to make a comment on what Bitoro said and I fully agree with you with", "start": 6009.12, "end": 6018.599999999999}
+{"id": "11t4toF0sN0-t6018.599999999999", "text": "the current trend of cognitive neuroscience and the reductionistic, let's call it, you", "start": 6018.599999999999, "end": 6027.08}
+{"id": "11t4toF0sN0-t6027.08", "text": "know, consequences of being subject to considerable pressure by journals to come up with papers", "start": 6027.08, "end": 6042.24}
+{"id": "11t4toF0sN0-t6042.24", "text": "that have a large N, a number of subjects that you can make statistics on.", "start": 6042.24, "end": 6049.32}
+{"id": "11t4toF0sN0-t6049.32", "text": "And you know, I'm an experimental neurobiologist.", "start": 6049.32, "end": 6051.5599999999995}
+{"id": "11t4toF0sN0-t6051.5599999999995", "text": "I also like you try to publish in the good journals and we all play that game.", "start": 6051.5599999999995, "end": 6055.68}
+{"id": "11t4toF0sN0-t6055.68", "text": "But the issue is that it looks like we may need and just, you know, comes out of this", "start": 6055.68, "end": 6064.240000000001}
+{"id": "11t4toF0sN0-t6064.240000000001", "text": "discussion and thinking, you know, a forum where this vicious cycle in a way which, you", "start": 6064.240000000001, "end": 6073.64}
+{"id": "11t4toF0sN0-t6073.64", "text": "know, you are forced in a way to have a large and erased individual differences or try to", "start": 6073.64, "end": 6083.4800000000005}
+{"id": "11t4toF0sN0-t6083.48", "text": "focus on the data that show more consistency across individuals to be able to publish in", "start": 6083.48, "end": 6092.4}
+{"id": "11t4toF0sN0-t6092.4", "text": "the best journals.", "start": 6092.4, "end": 6094.24}
+{"id": "11t4toF0sN0-t6094.24", "text": "And okay, you probably provide useful information.", "start": 6094.24, "end": 6097.719999999999}
+{"id": "11t4toF0sN0-t6097.719999999999", "text": "I don't say that this is not useful.", "start": 6097.719999999999, "end": 6099.36}
+{"id": "11t4toF0sN0-t6099.36", "text": "So I fully agree with you.", "start": 6099.36, "end": 6100.36}
+{"id": "11t4toF0sN0-t6100.36", "text": "We are part of the game and we'll do it.", "start": 6100.36, "end": 6102.4}
+{"id": "11t4toF0sN0-t6102.4", "text": "But on the other hand, it's very impoverishing.", "start": 6102.4, "end": 6105.48}
+{"id": "11t4toF0sN0-t6105.48", "text": "We lose a lot of information like this.", "start": 6105.48, "end": 6109.799999999999}
+{"id": "11t4toF0sN0-t6109.8", "text": "And so I think, you know, let's think about how to push this, the value of individual observations", "start": 6109.8, "end": 6121.92}
+{"id": "11t4toF0sN0-t6121.92", "text": "and provide a forum for this in a way that is, of course, scientifically sound.", "start": 6121.92, "end": 6128.360000000001}
+{"id": "11t4toF0sN0-t6128.360000000001", "text": "It's not just to, you know, decrease the quality of the studies.", "start": 6128.360000000001, "end": 6132.6}
+{"id": "11t4toF0sN0-t6132.6", "text": "Quite the contrary.", "start": 6132.6, "end": 6133.6}
+{"id": "11t4toF0sN0-t6133.6", "text": "But the tools, the expensive toys that you're talking about can be used much with a much", "start": 6133.6, "end": 6140.84}
+{"id": "11t4toF0sN0-t6140.84", "text": "more incisiveness if we were able to provide the right framework for an rigor for studies", "start": 6140.84, "end": 6150.68}
+{"id": "11t4toF0sN0-t6150.68", "text": "of individuality.", "start": 6150.68, "end": 6153.120000000001}
+{"id": "11t4toF0sN0-t6153.120000000001", "text": "I think it's an excellent idea.", "start": 6153.120000000001, "end": 6156.400000000001}
+{"id": "11t4toF0sN0-t6156.400000000001", "text": "And if I know you enough, it will.", "start": 6156.400000000001, "end": 6161.360000000001}
+{"id": "11t4toF0sN0-t6161.360000000001", "text": "We should expect some development.", "start": 6161.360000000001, "end": 6162.92}
+{"id": "11t4toF0sN0-t6162.92", "text": "Yeah, let's think about it.", "start": 6162.92, "end": 6163.92}
+{"id": "11t4toF0sN0-t6163.92", "text": "I think you're definitely right.", "start": 6163.92, "end": 6166.28}
+{"id": "11t4toF0sN0-t6166.28", "text": "And I'm very sympathetic with the onion because I think we share a strong background in clinical", "start": 6166.28, "end": 6174.56}
+{"id": "11t4toF0sN0-t6174.56", "text": "neuropsychology.", "start": 6174.56, "end": 6176.2}
+{"id": "11t4toF0sN0-t6176.2", "text": "Because when people nowadays think about cognitive neuroscience, I'm speaking specifically of", "start": 6176.2, "end": 6181.56}
+{"id": "11t4toF0sN0-t6181.56", "text": "cognitive neuroscience.", "start": 6181.56, "end": 6184.16}
+{"id": "11t4toF0sN0-t6184.16", "text": "Most people think about the defensive toys we were discussing before, neglecting the", "start": 6184.16, "end": 6193.639999999999}
+{"id": "11t4toF0sN0-t6193.639999999999", "text": "fact that one of the most historically speaking, but also nowadays, although it's getting more", "start": 6193.639999999999, "end": 6198.44}
+{"id": "11t4toF0sN0-t6198.44", "text": "and more difficult to publish single cases, almost impossible.", "start": 6198.44, "end": 6204.28}
+{"id": "11t4toF0sN0-t6204.28", "text": "We learned a lot about the relationship between brain behavior and cognition by studying single", "start": 6204.28, "end": 6210.36}
+{"id": "11t4toF0sN0-t6210.36", "text": "patients.", "start": 6210.36, "end": 6212.24}
+{"id": "11t4toF0sN0-t6212.24", "text": "And I think it's really a sad thing that the enormous pressure we all receive, in a sense,", "start": 6212.24, "end": 6223.76}
+{"id": "11t4toF0sN0-t6223.76", "text": "living in Italy is a privilege.", "start": 6223.76, "end": 6225.92}
+{"id": "11t4toF0sN0-t6225.92", "text": "You can take a lot more risk because nobody cares what you do.", "start": 6225.92, "end": 6229.92}
+{"id": "11t4toF0sN0-t6229.92", "text": "It's interesting.", "start": 6229.92, "end": 6231.679999999999}
+{"id": "11t4toF0sN0-t6231.679999999999", "text": "I'm trying how to see the positive aspect of that.", "start": 6231.679999999999, "end": 6236.8}
+{"id": "11t4toF0sN0-t6236.8", "text": "But in other countries where there's a lot of attention about what you produce, so the", "start": 6236.8, "end": 6242.88}
+{"id": "11t4toF0sN0-t6242.88", "text": "emphasis is more and more on quantity, sometimes at the expense of, I mean, I'm not disputing", "start": 6242.88, "end": 6250.4400000000005}
+{"id": "11t4toF0sN0-t6250.4400000000005", "text": "that all of these people have enormous technical quality.", "start": 6250.4400000000005, "end": 6256.72}
+{"id": "11t4toF0sN0-t6256.72", "text": "What gets lost is why are we doing this?", "start": 6256.72, "end": 6259.96}
+{"id": "11t4toF0sN0-t6259.96", "text": "Why are we publishing?", "start": 6259.96, "end": 6261.96}
+{"id": "11t4toF0sN0-t6261.96", "text": "No, that's why they want to make the brain.", "start": 6261.96, "end": 6264.12}
+{"id": "11t4toF0sN0-t6264.12", "text": "But I think cognitive neuroscience and all that, what has been published in those circles", "start": 6264.12, "end": 6270.84}
+{"id": "11t4toF0sN0-t6270.84", "text": "and with that kind of philosophy, I think it's very useful and brought a lot of knowledge", "start": 6270.84, "end": 6276.64}
+{"id": "11t4toF0sN0-t6276.64", "text": "to how brain works.", "start": 6276.64, "end": 6279.64}
+{"id": "11t4toF0sN0-t6279.64", "text": "I think we understand it's a major progress, so I'm not disputing this.", "start": 6279.64, "end": 6283.04}
+{"id": "11t4toF0sN0-t6283.04", "text": "But I think we are losing a lot of information.", "start": 6283.04, "end": 6285.84}
+{"id": "11t4toF0sN0-t6285.84", "text": "And that's a pity.", "start": 6285.84, "end": 6287.08}
+{"id": "11t4toF0sN0-t6287.08", "text": "Well, it's interesting because we had Professor Andrea Califano here.", "start": 6287.08, "end": 6291.32}
+{"id": "11t4toF0sN0-t6291.32", "text": "And he's at Columbia and he's a microbiologist and studies cancer.", "start": 6291.32, "end": 6295.48}
+{"id": "11t4toF0sN0-t6295.48", "text": "What seems to be happening more and more in cancer study is studies of N of 1.", "start": 6295.48, "end": 6300.96}
+{"id": "11t4toF0sN0-t6300.96", "text": "Okay, interesting.", "start": 6300.96, "end": 6302.96}
+{"id": "11t4toF0sN0-t6302.96", "text": "Which would be great if it happened in R.P.", "start": 6302.96, "end": 6305.2}
+{"id": "11t4toF0sN0-t6305.2", "text": "I mean, I can give you an example.", "start": 6305.2, "end": 6307.5199999999995}
+{"id": "11t4toF0sN0-t6307.5199999999995", "text": "I do a Professor's rounds at a rehabilitation hospital in Philadelphia.", "start": 6307.5199999999995, "end": 6310.96}
+{"id": "11t4toF0sN0-t6310.96", "text": "And last week, the case that was presented to me turned out to be incredibly fascinating", "start": 6310.96, "end": 6316.599999999999}
+{"id": "11t4toF0sN0-t6316.599999999999", "text": "and it relates to something that you were saying, which is this is a guy who was alexic,", "start": 6316.599999999999, "end": 6321.0}
+{"id": "11t4toF0sN0-t6321.0", "text": "couldn't read, but had a very specific kind of alexia that I have not seen in the last", "start": 6321.0, "end": 6325.68}
+{"id": "11t4toF0sN0-t6325.68", "text": "30 years, which is he had difficulty identifying individual letters.", "start": 6325.68, "end": 6331.8}
+{"id": "11t4toF0sN0-t6331.8", "text": "But that has been observed.", "start": 6331.8, "end": 6333.48}
+{"id": "11t4toF0sN0-t6333.48", "text": "But what's different about him is that he could identify without any difficulty individual", "start": 6333.48, "end": 6338.56}
+{"id": "11t4toF0sN0-t6338.56", "text": "numbers.", "start": 6338.56, "end": 6339.56}
+{"id": "11t4toF0sN0-t6339.56", "text": "So the graphemic complexity of numbers and letters are exactly the same.", "start": 6339.56, "end": 6343.36}
+{"id": "11t4toF0sN0-t6343.36", "text": "He can see numbers.", "start": 6343.36, "end": 6344.36}
+{"id": "11t4toF0sN0-t6344.36", "text": "He can't identify letters.", "start": 6344.36, "end": 6346.28}
+{"id": "11t4toF0sN0-t6346.28", "text": "My first thought is we need to bring him in the lab and really study this and sort out", "start": 6346.28, "end": 6351.32}
+{"id": "11t4toF0sN0-t6351.32", "text": "what's happening at that level of visual processing in relation to these symbolic forms, which", "start": 6351.32, "end": 6356.84}
+{"id": "11t4toF0sN0-t6356.84", "text": "are letters and numbers, which have no inherent meaning other than our associations and how", "start": 6356.84, "end": 6360.88}
+{"id": "11t4toF0sN0-t6360.88", "text": "is this even possible.", "start": 6360.88, "end": 6363.28}
+{"id": "11t4toF0sN0-t6363.28", "text": "But no takers.", "start": 6363.28, "end": 6364.92}
+{"id": "11t4toF0sN0-t6364.92", "text": "None of my postdocs are all involved in programmatic research.", "start": 6364.92, "end": 6371.2}
+{"id": "11t4toF0sN0-t6371.2", "text": "And these cases require a lot of work because you have to really think through.", "start": 6371.2, "end": 6374.5199999999995}
+{"id": "11t4toF0sN0-t6374.52", "text": "You can't just set it in motion.", "start": 6374.52, "end": 6377.92}
+{"id": "11t4toF0sN0-t6377.92", "text": "But this is the kind of thing that I think because, again, our funding mechanisms that", "start": 6377.92, "end": 6383.040000000001}
+{"id": "11t4toF0sN0-t6383.040000000001", "text": "it is not and publishing constraints, I mean, these sorts of little unique NF1 studies that", "start": 6383.040000000001, "end": 6397.200000000001}
+{"id": "11t4toF0sN0-t6397.200000000001", "text": "really have the potential to teach you something important.", "start": 6397.200000000001, "end": 6400.360000000001}
+{"id": "11t4toF0sN0-t6400.360000000001", "text": "We're just letting them slip through our fingers.", "start": 6400.360000000001, "end": 6403.0}
+{"id": "11t4toF0sN0-t6403.0", "text": "Okay, I think we need to stop because we have one more question.", "start": 6403.0, "end": 6407.64}
+{"id": "11t4toF0sN0-t6407.64", "text": "And then we will stop because we have another, we have Professor D.D.", "start": 6407.64, "end": 6411.36}
+{"id": "11t4toF0sN0-t6411.36", "text": "Woberman who is going to, is it right?", "start": 6411.36, "end": 6413.4}
+{"id": "11t4toF0sN0-t6413.4", "text": "No, he's not right.", "start": 6413.4, "end": 6414.8}
+{"id": "11t4toF0sN0-t6414.8", "text": "You're not the right?", "start": 6414.8, "end": 6415.8}
+{"id": "11t4toF0sN0-t6415.8", "text": "Yes, he's there.", "start": 6415.8, "end": 6416.8}
+{"id": "11t4toF0sN0-t6416.8", "text": "I thought I saw him.", "start": 6416.8, "end": 6421.8}
+{"id": "11t4toF0sN0-t6421.8", "text": "Yeah.", "start": 6421.8, "end": 6422.8}
+{"id": "11t4toF0sN0-t6422.8", "text": "So Christina, did you have a question also?", "start": 6422.8, "end": 6425.0}
+{"id": "11t4toF0sN0-t6425.0", "text": "I wanted a comment.", "start": 6425.0, "end": 6426.48}
+{"id": "11t4toF0sN0-t6426.48", "text": "Okay, right after this one comment from Christina and then we'll move on.", "start": 6426.48, "end": 6430.6}
+{"id": "11t4toF0sN0-t6430.6", "text": "Okay, thank you, let me introduce myself.", "start": 6430.6, "end": 6432.96}
+{"id": "11t4toF0sN0-t6432.96", "text": "My name is Lisa Farber and I'm an art historian.", "start": 6432.96, "end": 6436.200000000001}
+{"id": "11t4toF0sN0-t6436.200000000001", "text": "I'm the former student of Tom Kaufman.", "start": 6436.200000000001, "end": 6439.160000000001}
+{"id": "11t4toF0sN0-t6439.160000000001", "text": "So that's probably why I'm here.", "start": 6439.160000000001, "end": 6441.68}
+{"id": "11t4toF0sN0-t6441.68", "text": "I've heard your discussion.", "start": 6441.68, "end": 6443.08}
+{"id": "11t4toF0sN0-t6443.08", "text": "Please forgive me, I have to use my notes.", "start": 6443.08, "end": 6445.4800000000005}
+{"id": "11t4toF0sN0-t6445.4800000000005", "text": "Dr. Glazie was talking about the evaluation of immediate human sort of responses to visual", "start": 6445.4800000000005, "end": 6453.0}
+{"id": "11t4toF0sN0-t6453.0", "text": "images and that these responses were in some way consistent.", "start": 6453.0, "end": 6458.52}
+{"id": "11t4toF0sN0-t6458.52", "text": "And then you were all speaking about the relationship between neuroscience and the evaluation and", "start": 6458.52, "end": 6463.52}
+{"id": "11t4toF0sN0-t6463.52", "text": "reception of images.", "start": 6463.52, "end": 6465.64}
+{"id": "11t4toF0sN0-t6465.64", "text": "And there was one comment about the possible influence of early life experiences like mother's", "start": 6465.64, "end": 6470.88}
+{"id": "11t4toF0sN0-t6470.88", "text": "milk, you know, on the aesthetic taste later in life.", "start": 6470.88, "end": 6475.92}
+{"id": "11t4toF0sN0-t6475.92", "text": "I would like to know if the scientists here have really thought about the part of the", "start": 6475.92, "end": 6481.400000000001}
+{"id": "11t4toF0sN0-t6481.4", "text": "brain that affects human memory and how that is a determining factor in people's responses", "start": 6481.4, "end": 6490.44}
+{"id": "11t4toF0sN0-t6490.44", "text": "to images.", "start": 6490.44, "end": 6492.96}
+{"id": "11t4toF0sN0-t6492.96", "text": "I would also like to suggest and I've studied Roboc naturally because I worked at Princeton", "start": 6492.96, "end": 6498.599999999999}
+{"id": "11t4toF0sN0-t6498.599999999999", "text": "and Tom Kaufman as a student of the Roboc Institute.", "start": 6498.599999999999, "end": 6504.839999999999}
+{"id": "11t4toF0sN0-t6504.839999999999", "text": "I would also like to suggest that human memory shapes responses to images and that in viewing", "start": 6504.839999999999, "end": 6511.2}
+{"id": "11t4toF0sN0-t6511.2", "text": "a work of art, it may be precisely that moment that David Freberg mentioned, the moment when", "start": 6511.2, "end": 6518.2}
+{"id": "11t4toF0sN0-t6518.2", "text": "the immediate physical response stops and then your memory kicks in, you relate what", "start": 6518.2, "end": 6523.72}
+{"id": "11t4toF0sN0-t6523.72", "text": "you're seeing to what you already know and that determines your human response.", "start": 6523.72, "end": 6529.0}
+{"id": "11t4toF0sN0-t6529.0", "text": "Anyway, I think that Roboc was interested in the gestures and the motifs that let's say", "start": 6529.0, "end": 6536.24}
+{"id": "11t4toF0sN0-t6536.24", "text": "Batacelli was using from ancient works of art and how that influenced the reception of", "start": 6536.24, "end": 6542.76}
+{"id": "11t4toF0sN0-t6542.76", "text": "his painting in the 15th century.", "start": 6542.76, "end": 6546.2}
+{"id": "11t4toF0sN0-t6546.2", "text": "And then also he was thinking about the images of Albrecht D\u00fcrer and how the reception in", "start": 6546.2, "end": 6551.48}
+{"id": "11t4toF0sN0-t6551.48", "text": "Germany in the early 20th century was in part affected by people's familiarity, people's", "start": 6551.48, "end": 6559.92}
+{"id": "11t4toF0sN0-t6559.92", "text": "memory of those images.", "start": 6559.92, "end": 6563.12}
+{"id": "11t4toF0sN0-t6563.12", "text": "So I think that human memory is something that I haven't really heard discussed here", "start": 6563.12, "end": 6568.32}
+{"id": "11t4toF0sN0-t6568.32", "text": "very much and is there a part of the brain that you could measure because I think that", "start": 6568.32, "end": 6574.08}
+{"id": "11t4toF0sN0-t6574.08", "text": "some of the art historians here perhaps David Freberg or Christopher Wood or Andrea Beyer", "start": 6574.08, "end": 6580.88}
+{"id": "11t4toF0sN0-t6580.88", "text": "or perhaps myself, we have a slightly different visual memory or ability to memorize images,", "start": 6580.88, "end": 6588.72}
+{"id": "11t4toF0sN0-t6588.72", "text": "or call things and so that may determine why we become art historians and also how the", "start": 6588.72, "end": 6595.16}
+{"id": "11t4toF0sN0-t6595.16", "text": "regular population understands images.", "start": 6595.16, "end": 6598.56}
+{"id": "11t4toF0sN0-t6598.56", "text": "The next comment was made from Christian, I was a memory expert.", "start": 6598.56, "end": 6602.84}
+{"id": "11t4toF0sN0-t6602.84", "text": "By the way, we have a session on memory, right?", "start": 6602.84, "end": 6605.280000000001}
+{"id": "11t4toF0sN0-t6605.280000000001", "text": "No, actually my comment was not about that but we're going to have a discussion tomorrow.", "start": 6605.280000000001, "end": 6609.4400000000005}
+{"id": "11t4toF0sN0-t6609.4400000000005", "text": "Yeah.", "start": 6609.4400000000005, "end": 6610.4400000000005}
+{"id": "11t4toF0sN0-t6610.4400000000005", "text": "I know all dedicated discussion to memory and art and emotions and all those connections.", "start": 6610.4400000000005, "end": 6618.04}
+{"id": "11t4toF0sN0-t6618.04", "text": "My comment was actually about what Pierre was saying and all the discussion that was", "start": 6618.04, "end": 6623.36}
+{"id": "11t4toF0sN0-t6623.36", "text": "going on and I think I hope this is not trivial but I want to make sure that we are distinguishing", "start": 6623.36, "end": 6633.24}
+{"id": "11t4toF0sN0-t6633.24", "text": "two different levels of analysis.", "start": 6633.24, "end": 6635.64}
+{"id": "11t4toF0sN0-t6635.64", "text": "One is the group analysis to understand the general principles and this is where we started", "start": 6635.64, "end": 6639.92}
+{"id": "11t4toF0sN0-t6639.92", "text": "because we know basically nothing when we started in many fields and so that has to", "start": 6639.92, "end": 6645.12}
+{"id": "11t4toF0sN0-t6645.12", "text": "be done.", "start": 6645.12, "end": 6646.12}
+{"id": "11t4toF0sN0-t6646.12", "text": "That would be an individual analysis and then another level equally important is the individual", "start": 6646.12, "end": 6654.44}
+{"id": "11t4toF0sN0-t6654.44", "text": "analysis but that we need to find the way to do that scientifically in a very solid way.", "start": 6654.44, "end": 6661.36}
+{"id": "11t4toF0sN0-t6661.36", "text": "So what are the controls and that it has now been developing more and more clearly.", "start": 6661.36, "end": 6668.5599999999995}
+{"id": "11t4toF0sN0-t6668.5599999999995", "text": "Even in the animal studies, there are the group studies as well now the individual differences", "start": 6668.5599999999995, "end": 6675.16}
+{"id": "11t4toF0sN0-t6675.16", "text": "coming out of the group analysis.", "start": 6675.16, "end": 6677.599999999999}
+{"id": "11t4toF0sN0-t6677.599999999999", "text": "So I don't think it's a matter of selecting which paper is going to be published.", "start": 6677.599999999999, "end": 6681.72}
+{"id": "11t4toF0sN0-t6681.72", "text": "I hope that's not what we're doing.", "start": 6681.72, "end": 6685.72}
+{"id": "11t4toF0sN0-t6685.72", "text": "I think those are two different levels that needs equally both to be understood and scientifically,", "start": 6685.72, "end": 6692.2}
+{"id": "11t4toF0sN0-t6692.2", "text": "solidly.", "start": 6692.2, "end": 6693.2}
+{"id": "11t4toF0sN0-t6693.2", "text": "Thank you.", "start": 6693.2, "end": 6694.84}
+{"id": "11t4toF0sN0-t6694.84", "text": "So we'll have about a 10 minute break and then Professor Hoberman will give his paper", "start": 6694.84, "end": 6700.0}
+{"id": "11t4toF0sN0-t6700.0", "text": "and then we'll stop for lunch and we resume at what time Rob?", "start": 6700.0, "end": 6707.0}
+{"id": "11t4toF0sN0-t6707.0", "text": "Two o'clock.", "start": 6707.0, "end": 6736.0}
+{"id": "11t4toF0sN0-t6736.0", "text": "Thank you for sending that to me by the way.", "start": 6736.0, "end": 6743.0}

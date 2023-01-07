@@ -1,0 +1,3572 @@
+1
+00:00:00,000 --> 00:00:04,720
+So I would like to briefly introduce the participants.
+
+2
+00:00:04,720 --> 00:00:11,440
+Alphabetically, Chris Impey is the Stanley Kelly Visiting Professor for Distinguished Teaching
+
+3
+00:00:11,440 --> 00:00:17,400
+at the Department of Astrophysical Sciences at Princeton.
+
+4
+00:00:17,400 --> 00:00:23,760
+His home is Arizona, where he is a University Distinguished Professor at University of
+
+5
+00:00:23,760 --> 00:00:30,480
+Arizona and the beauty head of the Department of Astronomy in charge of all academic programs.
+
+6
+00:00:30,480 --> 00:00:35,280
+He has obviously huge number of publications and honors.
+
+7
+00:00:35,280 --> 00:00:41,320
+Just for our purpose today, I will say that he's written three popular books, The Living
+
+8
+00:00:41,320 --> 00:00:49,680
+Cosmos, which was published in 2007, How It Ends, Talking About Life.
+
+9
+00:00:49,680 --> 00:00:57,920
+And one of the reasons why he's here, his new book is called How It Began.
+
+10
+00:00:57,920 --> 00:01:03,160
+Professor Joseph Cohn, who's sitting to his right, is Professor Emeritus of Mathematics
+
+11
+00:01:03,160 --> 00:01:06,680
+at Princeton University.
+
+12
+00:01:06,680 --> 00:01:12,560
+He's also winner of numerous prizes, including the Society's Still Prize and the Bergman
+
+13
+00:01:12,560 --> 00:01:17,960
+Prize, and he's a member of the National Academy, United States National Academy of
+
+14
+00:01:17,960 --> 00:01:19,240
+Sciences.
+
+15
+00:01:19,240 --> 00:01:24,240
+He has written numerous articles and spoken in many places.
+
+16
+00:01:24,240 --> 00:01:27,480
+Professor Tim Modlan is sitting here.
+
+17
+00:01:27,480 --> 00:01:36,440
+He's primarily, his interest focuses on the foundation of physics, metaphysics and logic.
+
+18
+00:01:36,440 --> 00:01:39,000
+His books include Quantum Non-Locality.
+
+19
+00:01:39,000 --> 00:01:42,320
+He's a professor at NYU.
+
+20
+00:01:42,320 --> 00:01:47,360
+His books include Quantum Non-Locality and Relativity, Truth and Paradox.
+
+21
+00:01:47,360 --> 00:01:54,280
+And the Metaphysics Within Physics, and also Philosophy of Physics, Space and Time, which
+
+22
+00:01:54,280 --> 00:01:56,600
+is due in publication 2012.
+
+23
+00:01:56,600 --> 00:01:59,480
+It's not yet published the last one.
+
+24
+00:01:59,480 --> 00:02:02,400
+Any moment.
+
+25
+00:02:02,400 --> 00:02:08,000
+He has been a Guggenheim Fellow, a visiting professor at Harvard, and prior to going to
+
+26
+00:02:08,000 --> 00:02:11,360
+NYU, he was at Rutgers.
+
+27
+00:02:11,360 --> 00:02:13,960
+Mark Norell has been with us a number of times.
+
+28
+00:02:13,960 --> 00:02:17,880
+He probably knows about people and geography more than anyone else.
+
+29
+00:02:17,880 --> 00:02:23,000
+Certainly in this room, if not in the world, he's constantly traveling.
+
+30
+00:02:23,000 --> 00:02:30,200
+He's the Chair of Paleontology at the Museum of Natural History.
+
+31
+00:02:30,200 --> 00:02:37,720
+And he has also written many scholarly articles and books.
+
+32
+00:02:37,720 --> 00:02:43,880
+And his recent book is called Traveling the Silk Road Ancient Pathway to the Modern World.
+
+33
+00:02:43,880 --> 00:02:45,880
+So with that, we will begin.
+
+34
+00:02:45,880 --> 00:03:09,640
+Well, the question that was my directions for this seminar for this ground table was,
+
+35
+00:03:09,640 --> 00:03:17,360
+I noticed the question was asked in the link on the internet was, why are we curious about
+
+36
+00:03:17,360 --> 00:03:18,360
+beginnings?
+
+37
+00:03:18,360 --> 00:03:20,760
+Maybe this doesn't work.
+
+38
+00:03:20,760 --> 00:03:26,000
+Now, does this work or not?
+
+39
+00:03:26,000 --> 00:03:29,200
+Can you hear me?
+
+40
+00:03:29,200 --> 00:03:35,160
+Okay, maybe I should.
+
+41
+00:03:35,160 --> 00:03:38,360
+Anyway, ah, I can't hear myself now.
+
+42
+00:03:38,360 --> 00:03:45,600
+So the question was, why are we curious about beginnings?
+
+43
+00:03:45,600 --> 00:03:55,320
+And I think that we're curious about beginnings because that's how we can organize our thoughts,
+
+44
+00:03:55,320 --> 00:03:57,120
+our beings.
+
+45
+00:03:57,120 --> 00:04:05,800
+And I want to quote here Borquez, who is, Jose Luis Borquez, who is one of my favorite
+
+46
+00:04:05,800 --> 00:04:15,520
+authors who writes a short story called Aleph, which is the Hebrew for Alpha.
+
+47
+00:04:15,520 --> 00:04:24,640
+And he says, as a boy I used to marvel, to marvel that the letters in a closed book did
+
+48
+00:04:24,640 --> 00:04:31,880
+not get scrambled and lost overnight.
+
+49
+00:04:31,880 --> 00:04:37,080
+So somehow you have to make order out of this world.
+
+50
+00:04:37,080 --> 00:04:41,920
+And the way to make order out of the world is to start somewhere and to start at a point
+
+51
+00:04:41,920 --> 00:04:42,920
+and start counting.
+
+52
+00:04:42,920 --> 00:04:47,920
+So that's the first reason why we're curious about beginnings.
+
+53
+00:04:47,920 --> 00:04:59,320
+Now I also want to point out that the moment one thinks about beginnings, one can't help
+
+54
+00:04:59,320 --> 00:05:01,720
+but think about endings.
+
+55
+00:05:01,720 --> 00:05:04,120
+First of all, it's coming in two weeks.
+
+56
+00:05:04,120 --> 00:05:05,600
+It's coming in two weeks.
+
+57
+00:05:05,600 --> 00:05:07,920
+But I think that's sort of inseparable.
+
+58
+00:05:07,920 --> 00:05:14,800
+Let me start maybe with the biblical kind of thing.
+
+59
+00:05:14,800 --> 00:05:21,120
+So Aleph is the word for Alpha in Hebrew.
+
+60
+00:05:21,120 --> 00:05:32,240
+And it turns out that the writing of the Bible starts, instead of starting with the letter
+
+61
+00:05:32,240 --> 00:05:38,920
+Aleph starts with the letter Beth, which is the same as Beida in Greek, or Psenor.
+
+62
+00:05:38,920 --> 00:05:45,920
+And but in Hebrew it's written like a kind of a thing that's open on one end, like this,
+
+63
+00:05:45,920 --> 00:05:47,440
+more or less.
+
+64
+00:05:47,440 --> 00:05:54,280
+And so anyway, there are two explanations for why doesn't start with Aleph, which is
+
+65
+00:05:54,280 --> 00:05:57,640
+the first letter.
+
+66
+00:05:57,640 --> 00:05:59,840
+So one explanation is sort of mystical.
+
+67
+00:05:59,840 --> 00:06:09,440
+And I say, well Aleph being the first letter is sort of humble and doesn't want to go first.
+
+68
+00:06:09,440 --> 00:06:11,720
+So that's one explanation.
+
+69
+00:06:11,720 --> 00:06:23,960
+But the other one, which is by the commentator Rashi, which is short for Rabbi Schlomo Yitzake.
+
+70
+00:06:23,960 --> 00:06:41,400
+And his definition is that this letter Beth has an open end because, and the other things
+
+71
+00:06:41,400 --> 00:06:49,080
+that are closed because the open end encourages to ask questions.
+
+72
+00:06:49,080 --> 00:06:55,040
+And you ask questions about everything, but the closed part means that you're not allowed
+
+73
+00:06:55,040 --> 00:06:58,760
+to ask about what comes before.
+
+74
+00:06:58,760 --> 00:07:08,920
+So it sort of implies that when you say something begins, it sort of implies that there was
+
+75
+00:07:08,920 --> 00:07:12,360
+something before in some ways.
+
+76
+00:07:12,360 --> 00:07:14,880
+So anyway, it's a theological thing.
+
+77
+00:07:14,880 --> 00:07:18,480
+So that is one connection with opening and ending.
+
+78
+00:07:18,480 --> 00:07:28,560
+But another connection is this, that in mathematics, the letter Aleph actually stands for a kind
+
+79
+00:07:28,560 --> 00:07:29,560
+of infinity.
+
+80
+00:07:29,560 --> 00:07:37,800
+In fact, infinity is according to the mathematician Cantor, where classified Aleph sub zero Aleph
+
+81
+00:07:37,800 --> 00:07:39,560
+sub one and so on.
+
+82
+00:07:39,560 --> 00:07:47,920
+And it turns out after you take all the numbers, in the collection then you can sort of join
+
+83
+00:07:47,920 --> 00:07:51,600
+still another number, which is called Aleph sub zero.
+
+84
+00:07:51,600 --> 00:07:55,840
+And then you can continue developing Aleph sub one and keep going.
+
+85
+00:07:55,840 --> 00:08:00,960
+And then reach still another number Aleph sub one and so on.
+
+86
+00:08:00,960 --> 00:08:09,600
+So you have the, so Aleph, the first thing really refers to the end of the ordinary things
+
+87
+00:08:09,600 --> 00:08:11,600
+at the beginning of the new things.
+
+88
+00:08:11,600 --> 00:08:19,400
+And similarly in ordinary academic language, you go to commencement exercise when we're
+
+89
+00:08:19,400 --> 00:08:24,840
+really ending one period and starting another period.
+
+90
+00:08:24,840 --> 00:08:31,640
+So there is, I think there's the deep property.
+
+91
+00:08:31,640 --> 00:08:38,480
+Let's see, perhaps some other remarks, maybe I should stop for a while.
+
+92
+00:08:38,480 --> 00:08:39,480
+I can make a counterpoint.
+
+93
+00:08:39,480 --> 00:08:40,480
+Yes, please.
+
+94
+00:08:40,480 --> 00:08:46,560
+Counterpoint to the desire to organize our affairs and have a story that we can tell with
+
+95
+00:08:46,560 --> 00:08:47,560
+the beginning and an end.
+
+96
+00:08:47,560 --> 00:08:53,880
+I think there's a tension because in historical terms, preceding, you know, long before there
+
+97
+00:08:53,880 --> 00:08:58,760
+was a scientific story of our origins as humans and the origin of the Earth or the origin
+
+98
+00:08:58,760 --> 00:08:59,840
+of the universe.
+
+99
+00:08:59,840 --> 00:09:05,560
+And long before there was a Judeo-Christian tradition with the Genesis, the major cultures
+
+100
+00:09:05,560 --> 00:09:11,960
+of the world in non, not in communication with each other had endless time, cycles of
+
+101
+00:09:11,960 --> 00:09:14,040
+time, the myth of the eternal return.
+
+102
+00:09:14,040 --> 00:09:18,200
+And that's a tradition that goes back to prehistory as long as we have records.
+
+103
+00:09:18,200 --> 00:09:26,720
+So simultaneously, from amongst the Aborigines with Dreamtime, amongst the early Asiatic
+
+104
+00:09:26,720 --> 00:09:30,960
+cultures, wherever we can understand their culture, they did not have origins.
+
+105
+00:09:30,960 --> 00:09:33,960
+They had cycles of time, cycles embedded within cycles.
+
+106
+00:09:33,960 --> 00:09:37,800
+We've been made familiar with the Mayans and their predictions recently, but that's a pretty
+
+107
+00:09:37,800 --> 00:09:40,000
+universal trade of humans.
+
+108
+00:09:40,000 --> 00:09:47,000
+And to me, that speaks to the fact that there's a predilection to avoid the notion of beginnings
+
+109
+00:09:47,000 --> 00:09:53,000
+or endings, because as we've already seen, it's a bogus reassurance to say that you
+
+110
+00:09:53,000 --> 00:09:57,240
+have a story that begins and ends because immediately you have a boundary and then you
+
+111
+00:09:57,240 --> 00:10:02,320
+have to ask, as Greek philosophers asked, you know, well, if there's an edge to the universe,
+
+112
+00:10:02,320 --> 00:10:03,320
+what's beyond the edge?
+
+113
+00:10:03,320 --> 00:10:07,200
+And if there's a beginning of time, what started it or what was before that?
+
+114
+00:10:07,200 --> 00:10:13,760
+So you've not really finessed anything of the infinities by declaring that you have a
+
+115
+00:10:13,760 --> 00:10:18,880
+beginning and an end, and I think the ancient cultures just went with that and posited themselves
+
+116
+00:10:18,880 --> 00:10:23,760
+in essentially an infinite stream of events without maybe always thinking about it too
+
+117
+00:10:23,760 --> 00:10:28,760
+deeply, but they came up with that independently of each other around the world, which is just
+
+118
+00:10:28,760 --> 00:10:29,760
+meaningful to me.
+
+119
+00:10:29,760 --> 00:10:35,080
+Well, I mean, I think there's something interesting just about the cycles of time also because
+
+120
+00:10:35,080 --> 00:10:37,080
+that, I mean, some of this set...
+
+121
+00:10:37,080 --> 00:10:38,080
+Okay, sorry.
+
+122
+00:10:38,080 --> 00:10:43,400
+I think there's something interesting about this idea of cycles of time, too, because
+
+123
+00:10:43,400 --> 00:10:44,400
+it's just...
+
+124
+00:10:44,400 --> 00:10:51,560
+It's how much time it exists because many of the central Asians that I work with and have
+
+125
+00:10:51,560 --> 00:10:54,040
+been around as well as a lot of the...
+
+126
+00:10:54,040 --> 00:11:00,080
+What I hear from the ethnologists that I work with at the museum, that they talk about this
+
+127
+00:11:00,080 --> 00:11:03,120
+idea of what time means and that...
+
+128
+00:11:03,120 --> 00:11:07,960
+I mean, I think that, you know, us, we sit here with our iPhones, our calendars and everything,
+
+129
+00:11:07,960 --> 00:11:11,960
+and we can say, well, okay, tomorrow, two days from now, I'm going to do this.
+
+130
+00:11:11,960 --> 00:11:16,000
+Last week, at this time, I was doing this, and whereas that, you know, so many of the
+
+131
+00:11:16,000 --> 00:11:18,760
+nomads, things that they'll talk about, things...
+
+132
+00:11:18,760 --> 00:11:21,440
+And they'll say, well, then you'll try to figure out, when did that happen?
+
+133
+00:11:21,440 --> 00:11:24,760
+And it turned out it happened like 125 years ago, but they're talking about it was like
+
+134
+00:11:24,760 --> 00:11:26,920
+the other day.
+
+135
+00:11:26,920 --> 00:11:32,120
+And so, like, I mean, the whole notion of how long these cycles are is very, very, very
+
+136
+00:11:32,120 --> 00:11:35,000
+culturally defined and very, very different.
+
+137
+00:11:35,000 --> 00:11:40,520
+And that's an interesting phenomenon itself because it makes you proximate in a community,
+
+138
+00:11:40,520 --> 00:11:41,520
+both in space and time.
+
+139
+00:11:41,520 --> 00:11:46,920
+You can have your neighbor who you shared a meal with the day before, and then you can
+
+140
+00:11:46,920 --> 00:11:51,920
+have this thought of something that actually happened three generations before you were
+
+141
+00:11:51,920 --> 00:11:54,800
+born, but it's just proximate in your culture.
+
+142
+00:11:54,800 --> 00:11:55,800
+Exactly.
+
+143
+00:11:55,800 --> 00:11:56,800
+It's your neighbor.
+
+144
+00:11:56,800 --> 00:11:57,800
+Exactly.
+
+145
+00:11:57,800 --> 00:12:00,400
+Well, I guess if it's my turn.
+
+146
+00:12:00,400 --> 00:12:04,400
+It's your turn now, but then we're not your turn.
+
+147
+00:12:04,400 --> 00:12:05,400
+It's my turn.
+
+148
+00:12:05,400 --> 00:12:07,320
+I mean, let me just...
+
+149
+00:12:07,320 --> 00:12:14,640
+If we start with the question, why do we care psychologically, why do we care about beginnings?
+
+150
+00:12:14,640 --> 00:12:18,520
+I mean, I guess we ought to get cleared sometimes because...
+
+151
+00:12:18,520 --> 00:12:25,960
+And to take another part of a larger version of the Bible, also, NRK-Ain logos, right,
+
+152
+00:12:25,960 --> 00:12:33,160
+in the beginning was the logos, was the word, because in a story like that, what happens
+
+153
+00:12:33,160 --> 00:12:40,560
+at the beginning organizes in a certain way, rationalizes, explains everything that comes
+
+154
+00:12:40,560 --> 00:12:43,560
+after.
+
+155
+00:12:43,560 --> 00:12:47,480
+But I want to distinguish that because we also have an astrophysicist here from simply being
+
+156
+00:12:47,480 --> 00:12:53,000
+curious about how things began, because I take it, the story we have now, is more or
+
+157
+00:12:53,000 --> 00:13:00,640
+less that the way things began, if they did begin physically, doesn't give us that, right?
+
+158
+00:13:00,640 --> 00:13:01,640
+It's an interesting story.
+
+159
+00:13:01,640 --> 00:13:05,800
+It's a fascinating story, but it's not one that particularly is going to make sense out
+
+160
+00:13:05,800 --> 00:13:07,720
+of everything that comes after.
+
+161
+00:13:07,720 --> 00:13:13,680
+So if you want to start by thinking why we're interested in beginnings, I think it's worth
+
+162
+00:13:13,680 --> 00:13:21,320
+while seeing that it's true, in narrative, often the beginning plays a very central role.
+
+163
+00:13:21,320 --> 00:13:24,680
+But if we're expecting that at the universe, we may be sorely disappointed.
+
+164
+00:13:24,680 --> 00:13:25,680
+Exactly.
+
+165
+00:13:25,680 --> 00:13:31,000
+I mean, maybe we should just poll the audience that does the knowledge that you are sitting
+
+166
+00:13:31,000 --> 00:13:37,480
+on a planet in this room having a conversation as part of a 13.7 billion year story that
+
+167
+00:13:37,480 --> 00:13:43,560
+led to the development of 100 billion galaxies and probably 10 to the 22 habitable planets
+
+168
+00:13:43,560 --> 00:13:46,720
+where analogs of this may or may not be occurring.
+
+169
+00:13:46,720 --> 00:13:52,520
+In a vast universe that's 45 billion light years across, does that reassure you that there's
+
+170
+00:13:52,520 --> 00:13:53,520
+a...
+
+171
+00:13:53,520 --> 00:13:54,520
+Or not.
+
+172
+00:13:54,520 --> 00:13:56,880
+I mean, that's as good as we come up with.
+
+173
+00:13:56,880 --> 00:14:01,960
+You know, it makes cosmologists, you know, they pat themselves mildly on the back, but
+
+174
+00:14:01,960 --> 00:14:06,640
+not very much because most of the universe is still enigmatic.
+
+175
+00:14:06,640 --> 00:14:08,000
+But that's our backstory.
+
+176
+00:14:08,000 --> 00:14:10,000
+It's a pretty amazing backstory.
+
+177
+00:14:10,000 --> 00:14:14,000
+I'm not sure if it satisfies the psychological requirement.
+
+178
+00:14:14,000 --> 00:14:19,440
+I think though, even within the context of like life on this planet that we can look
+
+179
+00:14:19,440 --> 00:14:22,640
+at it within this, the same sort of thing.
+
+180
+00:14:22,640 --> 00:14:28,640
+I mean, it's just that there's several historical events that have happened that at one point
+
+181
+00:14:28,640 --> 00:14:34,960
+that the Earth was pretty close to being completely like turning into an ice ball, like very
+
+182
+00:14:34,960 --> 00:14:38,120
+close to turning into an ice ball.
+
+183
+00:14:38,120 --> 00:14:43,800
+Everything like this is not in a distant past and this past paleontologically, it's maybe
+
+184
+00:14:43,800 --> 00:14:44,380
+about 300 million years ago, but certainly multis
+
+185
+00:14:44,380 --> 00:14:50,880
+certainly that there was organisms around and everything else.
+
+186
+00:14:50,880 --> 00:14:52,640
+And that would have been a very dramatic thing.
+
+187
+00:14:52,640 --> 00:14:56,600
+I mean, it would have basically stopped all the evolutionary development of organisms
+
+188
+00:14:56,600 --> 00:15:00,320
+to that point and it would have been like, you know, start over time.
+
+189
+00:15:00,320 --> 00:15:05,920
+And that, you know, that life on Earth is headed up and down in the same way.
+
+190
+00:15:05,920 --> 00:15:10,320
+And each one of those you could look at as a beginning, whether there's been massive
+
+191
+00:15:10,320 --> 00:15:13,000
+extinction and then there's been rebound after that.
+
+192
+00:15:13,000 --> 00:15:18,680
+So that, you know, the whole, you know, question of beginnings is basically, I think that what
+
+193
+00:15:18,680 --> 00:15:21,920
+you could pose to people in a strong reason come about cosmologists, you know, beginnings
+
+194
+00:15:21,920 --> 00:15:25,800
+of what?
+
+195
+00:15:25,800 --> 00:15:30,920
+So I mean, one question I would want to ask the animals that I believe to be most highly
+
+196
+00:15:30,920 --> 00:15:38,000
+sentient is, is do they have a, do they have a question about beginnings?
+
+197
+00:15:38,000 --> 00:15:42,760
+There's, you know, it's, it's controversial, all the evidence of this nature that elephants
+
+198
+00:15:42,760 --> 00:15:45,440
+mourn their dead and are aware of non-existent.
+
+199
+00:15:45,440 --> 00:15:51,960
+You know, there's a small set of higher mammals where there's apparently either some version
+
+200
+00:15:51,960 --> 00:15:57,200
+of a perception of self or some awareness of the possibility of non-existence.
+
+201
+00:15:57,200 --> 00:15:59,280
+But that's not, it's not proven at all.
+
+202
+00:15:59,280 --> 00:16:04,920
+But if I were wanting to interrogate an orca or an elephant or one of those animals, that
+
+203
+00:16:04,920 --> 00:16:10,000
+that's pretty much what I, if they have a transmitted culture, which is of course that
+
+204
+00:16:10,000 --> 00:16:16,120
+very high bar that we might ask of an animal to declare them somewhere in a, you know, plateau
+
+205
+00:16:16,120 --> 00:16:20,680
+around about our mountain top of intelligence, that's one, that's going forward.
+
+206
+00:16:20,680 --> 00:16:23,960
+And then I'd want to know what they think about origins.
+
+207
+00:16:23,960 --> 00:16:25,920
+So it's a, you know, it does mark us out.
+
+208
+00:16:25,920 --> 00:16:30,200
+And then you wonder in the history of the planet, you know, no one's ever got to the
+
+209
+00:16:30,200 --> 00:16:35,320
+stage we've got to ask such questions to talk about stories in this way.
+
+210
+00:16:35,320 --> 00:16:37,000
+Has it happened elsewhere in the universe?
+
+211
+00:16:37,000 --> 00:16:41,040
+I mean, yeah, it's since nobody's going to take my money for sure.
+
+212
+00:16:41,040 --> 00:16:44,000
+I'll place a heavy bet that yeah, it's happened somewhere else.
+
+213
+00:16:44,000 --> 00:16:57,880
+Well, I think that was my opportunity to tell the joke that I would mention to you.
+
+214
+00:16:57,880 --> 00:17:06,960
+So one of the questions that comes up with important for beginnings is the debates for
+
+215
+00:17:06,960 --> 00:17:13,880
+over morality of abortion and contraception and whatever.
+
+216
+00:17:13,880 --> 00:17:26,120
+So there is a joke which probably most of you know, but frankly some don't, is that
+
+217
+00:17:26,120 --> 00:17:33,200
+you have a rabbi, a Catholic priest and a Protestant minister discussing the question
+
+218
+00:17:33,200 --> 00:17:36,280
+of when does life begin.
+
+219
+00:17:36,280 --> 00:17:46,400
+And the Catholic priest says, well, we believe that life begins at the moment of conception
+
+220
+00:17:46,400 --> 00:17:53,800
+and Protestant minister thinks about this and says, well, you know, we have some somewhat
+
+221
+00:17:53,800 --> 00:17:55,720
+different view of things.
+
+222
+00:17:55,720 --> 00:18:03,520
+We believe that life begins when the fetus becomes reliable.
+
+223
+00:18:03,520 --> 00:18:08,080
+And the rabbi says, well, I don't know.
+
+224
+00:18:08,080 --> 00:18:21,720
+From my experience, we think that life begins when the children leave and the dog dies.
+
+225
+00:18:21,720 --> 00:18:26,680
+So there could be these different things about beginnings.
+
+226
+00:18:26,680 --> 00:18:34,000
+And how about like, you know, cultures, several cultures that don't think there is a beginning.
+
+227
+00:18:34,000 --> 00:18:37,640
+They just think that this is the way it's always been.
+
+228
+00:18:37,640 --> 00:18:41,840
+So you know, I've been wondering about this not so much in terms of beginning, but in
+
+229
+00:18:41,840 --> 00:18:49,440
+terms of everything that was being discovered in your field.
+
+230
+00:18:49,440 --> 00:18:54,080
+And I've often wondered why are we interested in it?
+
+231
+00:18:54,080 --> 00:19:02,400
+And so the issue of being interested in the beginning is related to our interest in learning
+
+232
+00:19:02,400 --> 00:19:07,880
+more about something.
+
+233
+00:19:07,880 --> 00:19:15,640
+And I'm not so sure why what makes, I'm not saying why in terms of its validity, why in
+
+234
+00:19:15,640 --> 00:19:23,840
+terms of our psychology as humans, at least not all humans, but some humans, so interested
+
+235
+00:19:23,840 --> 00:19:24,840
+in it.
+
+236
+00:19:24,840 --> 00:19:25,840
+And fascinated by it.
+
+237
+00:19:25,840 --> 00:19:29,240
+I think, I would like to hear your opinion on this.
+
+238
+00:19:29,240 --> 00:19:37,120
+I mean, the idea of the Victorian aspect of progress and the fact that I can talk about
+
+239
+00:19:37,120 --> 00:19:41,760
+a cosmic version of this, but the fact that we haven't always been here on this planet
+
+240
+00:19:41,760 --> 00:19:48,160
+and that we evolved and that we were sculpted by the environment and natural selection and
+
+241
+00:19:48,160 --> 00:19:53,000
+we have certain capabilities that we're overly impressed with, obviously.
+
+242
+00:19:53,000 --> 00:19:58,520
+But they're legitimate capabilities and I think that's reasonable to want to know that.
+
+243
+00:19:58,520 --> 00:20:06,240
+The cosmic spin on it might be that the universe contains carbon and without carbon organisms
+
+244
+00:20:06,240 --> 00:20:12,800
+like us would be impossible and it's actually hard to even contemplate theoretically how
+
+245
+00:20:12,800 --> 00:20:16,680
+to do as well without building blocks like that.
+
+246
+00:20:16,680 --> 00:20:21,840
+And so our stories are bound up with a history of star formation in the universe producing
+
+247
+00:20:21,840 --> 00:20:27,680
+the heavy elements upon which carbon chemistry depends and that's another Victorian notion
+
+248
+00:20:27,680 --> 00:20:32,760
+of the universe getting better and better and more and more and more prone to have life
+
+249
+00:20:32,760 --> 00:20:37,160
+in it because when the big bang happened, you had hydrogen, helium, a little smattering
+
+250
+00:20:37,160 --> 00:20:39,640
+of lithium and deuterium and that's it.
+
+251
+00:20:39,640 --> 00:20:43,960
+And the cosmic, the great designer sitting there with hydrogen and helium and trying
+
+252
+00:20:43,960 --> 00:20:48,880
+to stick them together can make exactly nothing, one hydrogen molecule and then you're done.
+
+253
+00:20:48,880 --> 00:20:53,560
+So the universe in a strain, you know, maybe that's another anthropic thing, we shouldn't
+
+254
+00:20:53,560 --> 00:20:58,080
+be surprised to live in an old and vast universe given that it's expanding.
+
+255
+00:20:58,080 --> 00:21:03,160
+It had to be old for there to have been enough generations of stars forming and dying and
+
+256
+00:21:03,160 --> 00:21:07,600
+ejecting their heavy elements to deposit enough of them on a rocky cinder around a middle
+
+257
+00:21:07,600 --> 00:21:09,840
+weight star to lead to us.
+
+258
+00:21:09,840 --> 00:21:15,240
+But that's a terrible post hoc story so it leads to the question, you know, why did
+
+259
+00:21:15,240 --> 00:21:17,840
+it go that way or how did it go?
+
+260
+00:21:17,840 --> 00:21:24,960
+Could we have been, could you posit us, and technically you could posit us within half
+
+261
+00:21:24,960 --> 00:21:26,720
+a billion years of the big bang.
+
+262
+00:21:26,720 --> 00:21:31,800
+There were parts of the universe within which there had been enough heavy elements produced
+
+263
+00:21:31,800 --> 00:21:33,360
+and almost certainly planets.
+
+264
+00:21:33,360 --> 00:21:38,920
+We found exoplanets that are 12.7 billion years old so we know planets existed pretty
+
+265
+00:21:38,920 --> 00:21:44,360
+early on so you could posit analogs of us very far back in cosmic time.
+
+266
+00:21:44,360 --> 00:21:46,600
+But what do we kid?
+
+267
+00:21:46,600 --> 00:21:47,600
+Why do we care?
+
+268
+00:21:47,600 --> 00:21:52,960
+Maybe in the first astronomy and cosmology is probably bound a little bit in our uniqueness
+
+269
+00:21:52,960 --> 00:22:00,360
+and whether the things that happened, this crazy, careening history of life on this one
+
+270
+00:22:00,360 --> 00:22:05,560
+planet, is that a unique story or is that one of a large number of stories that could
+
+271
+00:22:05,560 --> 00:22:08,320
+be wildly different or maybe even similar.
+
+272
+00:22:08,320 --> 00:22:11,280
+Either of which is very interesting of course.
+
+273
+00:22:11,280 --> 00:22:18,080
+I mean the question why do we care?
+
+274
+00:22:18,080 --> 00:22:25,760
+You have to ask yourself to begin with what kind of understanding are we aiming at.
+
+275
+00:22:25,760 --> 00:22:32,520
+And a lot of the time you understand something by understanding at least immediately how it
+
+276
+00:22:32,520 --> 00:22:33,520
+came about.
+
+277
+00:22:33,520 --> 00:22:39,160
+So you're understanding what's going on now in terms of the situation a little bit earlier.
+
+278
+00:22:39,160 --> 00:22:44,640
+Now if you then are like obsessive about this the way philosophers are you then say okay
+
+279
+00:22:44,640 --> 00:22:47,760
+fine but now what about the earlier thing right?
+
+280
+00:22:47,760 --> 00:22:50,800
+I now need to understand that.
+
+281
+00:22:50,800 --> 00:22:56,320
+Well you in a practical sense can't go on forever backward so it's nice to find a place
+
+282
+00:22:56,320 --> 00:23:00,000
+where you feel like okay I'm satisfied stopping there.
+
+283
+00:23:00,000 --> 00:23:03,840
+Of course interesting that you might call a kind of narrative beginning it's actually
+
+284
+00:23:03,840 --> 00:23:08,120
+a stopping because what you're doing is thinking backward in time and finding a place where
+
+285
+00:23:08,120 --> 00:23:14,440
+I'm happy with that and once I see how where we are arose from that I have a sense of
+
+286
+00:23:14,440 --> 00:23:16,340
+comprehension.
+
+287
+00:23:16,340 --> 00:23:19,520
+That would suggest that we don't start out interested in beginnings we end up interested
+
+288
+00:23:19,520 --> 00:23:26,920
+in beginnings because we were trying to stop ourselves in a continual iterated set of questioning.
+
+289
+00:23:26,920 --> 00:23:35,920
+There's a kind of a forward version of that story which is a straightening Kafka I think
+
+290
+00:23:35,920 --> 00:23:43,920
+a lot where there's always in Kafka stories there's always this idea that just reaching
+
+291
+00:23:43,920 --> 00:23:48,400
+for something and you can't get blocked and keep going forward and it's trying to look
+
+292
+00:23:48,400 --> 00:23:50,040
+for the beginning.
+
+293
+00:23:50,040 --> 00:23:58,600
+I think there's a short essay about him about trying to find out what the law is and the
+
+294
+00:23:58,600 --> 00:24:05,600
+man kind of also in the castle there's a similar kind of thing that a man comes to this place
+
+295
+00:24:05,600 --> 00:24:10,920
+where the law is being kept and he wants to get into it and there's a guard and he won't
+
+296
+00:24:10,920 --> 00:24:14,440
+let him in and he said let me in I have to go.
+
+297
+00:24:14,440 --> 00:24:20,040
+He says look if I let you in you'll go in there but there'll be a guard who's even more powerful
+
+298
+00:24:20,040 --> 00:24:23,680
+than I am and will want to let you into the next room and if you do happen to get to the
+
+299
+00:24:23,680 --> 00:24:26,960
+next room there'll still be another guard.
+
+300
+00:24:26,960 --> 00:24:34,240
+So it's a kind of a it's going it's the same argument you have but going in the other direction
+
+301
+00:24:34,240 --> 00:24:44,040
+which I think and I think there's something deep about about people wanting to get away
+
+302
+00:24:44,040 --> 00:24:49,320
+from the present somehow either going to the future or to the past and then the things
+
+303
+00:24:49,320 --> 00:24:58,160
+are sort of and they want to in order to find out what find find their bearings in this
+
+304
+00:24:58,160 --> 00:25:05,040
+world you know you feel where you come from or where you're going to what the law is or
+
+305
+00:25:05,040 --> 00:25:09,760
+what the thing is so you're always knocking against these beginnings.
+
+306
+00:25:09,760 --> 00:25:18,680
+Because I think where I think that that's the way human beings are organized that way
+
+307
+00:25:18,680 --> 00:25:26,240
+because it's probably can be explained in evolutionary terms because we can do better
+
+308
+00:25:26,240 --> 00:25:35,080
+if we try to visualize what's going to happen next and try to organize ourselves and understand
+
+309
+00:25:35,080 --> 00:25:36,560
+our environment better.
+
+310
+00:25:36,560 --> 00:25:46,120
+I think it helps helps the survival and the going forward of then otherwise so probably
+
+311
+00:25:46,120 --> 00:25:52,520
+we're wired to ask this kind of existential question.
+
+312
+00:25:52,520 --> 00:25:55,360
+I think that one of the things that makes us you know fundamentally human is that we're
+
+313
+00:25:55,360 --> 00:25:56,360
+naturally curious.
+
+314
+00:25:56,360 --> 00:26:02,720
+I mean that's like led to our you know our ascent and melee to our demise but at the
+
+315
+00:26:02,720 --> 00:26:07,800
+same time I mean that we are by nature very curious and you know people as someone who
+
+316
+00:26:07,800 --> 00:26:12,000
+works on dinosaurs people always ask me well why do people care about dinosaurs why are
+
+317
+00:26:12,000 --> 00:26:14,160
+people so interested in dinosaurs.
+
+318
+00:26:14,160 --> 00:26:19,480
+And you know that on one level I say I don't know but I really don't know but on the other
+
+319
+00:26:19,480 --> 00:26:25,440
+level that I think that it's just a way in which that you know people can visualize something
+
+320
+00:26:25,440 --> 00:26:31,440
+that they can't see today that exists from the ancient past and they're able to just
+
+321
+00:26:31,440 --> 00:26:36,000
+work their minds out on it and you know and think about these things and think about them
+
+322
+00:26:36,000 --> 00:26:40,760
+in very very thoughtful kinds of ways and that you know we are curious I think about the
+
+323
+00:26:40,760 --> 00:26:45,520
+past we're curious about the future that you know everywhere you go in the world that
+
+324
+00:26:45,520 --> 00:26:50,680
+you know people are you know wanting more understanding of that whether it's like from
+
+325
+00:26:50,680 --> 00:26:57,360
+astronomy or whether it's from you know paleontology whether it's from archaeology and that you
+
+326
+00:26:57,360 --> 00:27:03,320
+can talk to you know cab drivers in Cambodia and stuff and that they'll ask you questions
+
+327
+00:27:03,320 --> 00:27:07,240
+about the past and you know what it tells us and things like that.
+
+328
+00:27:07,240 --> 00:27:11,120
+I mean I think that it's just it's a characteristic of us in general.
+
+329
+00:27:11,120 --> 00:27:20,360
+I think one indication of that is that in the I think there's a kind of a general in politics
+
+330
+00:27:20,360 --> 00:27:26,240
+here especially these last days it's kind of a general anti-intellectual attitude.
+
+331
+00:27:26,240 --> 00:27:31,480
+Nevertheless so that people say well why should we spend our hard-earned money with these
+
+332
+00:27:31,480 --> 00:27:33,920
+academics who do useless stuff.
+
+333
+00:27:33,920 --> 00:27:41,000
+Nevertheless there's no opposition to research in astronomy and there have been an astronomers
+
+334
+00:27:41,000 --> 00:27:46,920
+I must say a great admiration for them not only for the scientific accomplishments but
+
+335
+00:27:46,920 --> 00:27:52,120
+also for their accomplishments in getting these extremely expensive things funded.
+
+336
+00:27:52,120 --> 00:27:53,960
+And no one.
+
+337
+00:27:53,960 --> 00:27:58,680
+That's until we learn how to make black holes and then they're going to start locking us
+
+338
+00:27:58,680 --> 00:27:59,680
+up.
+
+339
+00:27:59,680 --> 00:28:09,000
+But no one objects and you can be the most right wing anti-government person and nevertheless
+
+340
+00:28:09,000 --> 00:28:15,120
+astronomy how can we deny those guys funds because you know the stars I mean so.
+
+341
+00:28:15,120 --> 00:28:20,520
+Where's the philosophers they're really subversive you have to be really what's that.
+
+342
+00:28:20,520 --> 00:28:22,520
+They won't get their own ideas.
+
+343
+00:28:22,520 --> 00:28:23,520
+You don't get any money.
+
+344
+00:28:23,520 --> 00:28:24,520
+They don't need it.
+
+345
+00:28:24,520 --> 00:28:28,360
+Which is the perfect pace from which to be subversive.
+
+346
+00:28:28,360 --> 00:28:31,160
+They don't need those fancy telescopes.
+
+347
+00:28:31,160 --> 00:28:34,880
+I don't think maybe they do nowadays.
+
+348
+00:28:34,880 --> 00:28:37,520
+But I wish it were true.
+
+349
+00:28:37,520 --> 00:28:40,720
+I wish I could tell myself it were true that people are interested in dinosaurs just out
+
+350
+00:28:40,720 --> 00:28:41,880
+of curiosity.
+
+351
+00:28:41,880 --> 00:28:49,880
+But you know go to a guy who's working on paleobotony and who's working out the structure of long
+
+352
+00:28:49,880 --> 00:28:55,480
+gone firms and you'll get a lot more people saying what the heck is that worth because
+
+353
+00:28:55,480 --> 00:28:58,960
+dinosaurs are big and scary and exciting.
+
+354
+00:28:58,960 --> 00:29:07,520
+I think you could really say that if you boil it all down to like that we are scientists
+
+355
+00:29:07,520 --> 00:29:10,760
+and stuff that if we sit around and we do science and there's two kinds of science you
+
+356
+00:29:10,760 --> 00:29:11,760
+could do.
+
+357
+00:29:11,760 --> 00:29:16,360
+You could do science the same science on charismatic organisms as non-caresmatic organisms.
+
+358
+00:29:16,360 --> 00:29:19,960
+If you work on charismatic organisms it's a lot more fun first because there's more
+
+359
+00:29:19,960 --> 00:29:22,040
+money in it as far as for your research.
+
+360
+00:29:22,040 --> 00:29:26,200
+And second we can talk to groups of people who are actually interested in what we do.
+
+361
+00:29:26,200 --> 00:29:30,080
+And also come to it with a lot more background knowledge.
+
+362
+00:29:30,080 --> 00:29:31,080
+Charismatic is relative.
+
+363
+00:29:31,080 --> 00:29:32,880
+I mean you and Wilson make ant sexy.
+
+364
+00:29:32,880 --> 00:29:33,880
+No questions.
+
+365
+00:29:33,880 --> 00:29:34,880
+Exactly.
+
+366
+00:29:34,880 --> 00:29:36,040
+Exactly.
+
+367
+00:29:36,040 --> 00:29:43,160
+I think another part of the answer back to the curiosity question is it's meaning.
+
+368
+00:29:43,160 --> 00:29:49,200
+We're looking for meaning and a little warm like aspect of meaning in our brains is not
+
+369
+00:29:49,200 --> 00:29:53,160
+wanting to think that it's too accidental.
+
+370
+00:29:53,160 --> 00:29:55,480
+It has to make sense.
+
+371
+00:29:55,480 --> 00:30:01,760
+Like I don't, okay if I just woke up and I was a dog I'd have probably three thoughts
+
+372
+00:30:01,760 --> 00:30:08,960
+I think oh shit I'm a dog and then I think oh I'm going to die and then I get to why
+
+373
+00:30:08,960 --> 00:30:12,680
+am I a dog and why not something else.
+
+374
+00:30:12,680 --> 00:30:19,760
+And as a person my mom and my dad might have just through some glancing encounter with
+
+375
+00:30:19,760 --> 00:30:23,200
+a third party got drunk that evening and here I am.
+
+376
+00:30:23,200 --> 00:30:30,240
+Or my dad might have been the girl behind my mom in line and it was misread or whatever
+
+377
+00:30:30,240 --> 00:30:31,840
+and here I am.
+
+378
+00:30:31,840 --> 00:30:35,680
+Now is that accidental part of my story diminish me?
+
+379
+00:30:35,680 --> 00:30:38,680
+Well no because I'll rationalize it anyway I like.
+
+380
+00:30:38,680 --> 00:30:43,920
+But we want to tell the same story about humans and the story of how we came to be that it
+
+381
+00:30:43,920 --> 00:30:51,320
+not be an entirely serendipitous role of the dice that the contingencies not be so overwhelming
+
+382
+00:30:51,320 --> 00:30:57,120
+that there's and yet we also know the logical other point of this back from the teleology
+
+383
+00:30:57,120 --> 00:31:02,960
+and things that you know if you're not buying into a standard religious narrative you're
+
+384
+00:31:02,960 --> 00:31:06,880
+not wanting to posit yourself that way either.
+
+385
+00:31:06,880 --> 00:31:12,080
+So that's a tension there between the accidental and the inevitable.
+
+386
+00:31:12,080 --> 00:31:17,440
+It occurred to me one thing to mention on this topic which is the opposite side of the
+
+387
+00:31:17,440 --> 00:31:25,560
+coin you just gave about finding out that your origin was more or less accidental.
+
+388
+00:31:25,560 --> 00:31:28,760
+You often hear and this goes back to the narrative idea people want to know where they came from
+
+389
+00:31:28,760 --> 00:31:34,240
+to somehow find out the meaning invest their lives with meaning.
+
+390
+00:31:34,240 --> 00:31:38,160
+Am I here for a purpose was there some purpose?
+
+391
+00:31:38,160 --> 00:31:41,800
+And I guess it's worthwhile pointing out as far as I can tell even if there was it doesn't
+
+392
+00:31:41,800 --> 00:31:43,440
+help at all for most problems.
+
+393
+00:31:43,440 --> 00:31:47,200
+I mean if you went to your parents and you said why am I here and instead of this story
+
+394
+00:31:47,200 --> 00:31:53,760
+about the accidental meeting they said well you know we decided we wanted a chess playing
+
+395
+00:31:53,760 --> 00:32:01,520
+progeny right and we very specifically had you in order to train you as a chess player
+
+396
+00:32:01,520 --> 00:32:07,120
+and from your childhood they you know drilled chess into you and if you get to you know
+
+397
+00:32:07,120 --> 00:32:10,200
+your middle age and you say you know I just don't find chess interesting you know my I
+
+398
+00:32:10,200 --> 00:32:19,000
+don't find a life as a chess player fulfilling or important or satisfying finding out that
+
+399
+00:32:19,000 --> 00:32:23,560
+nonetheless that was your purpose right that was the purpose in your creation.
+
+400
+00:32:23,560 --> 00:32:28,520
+I didn't have doesn't help you at all right and say well sorry mom and dad you know I'm
+
+401
+00:32:28,520 --> 00:32:32,880
+going to disappoint you but the fact that I'm here you put me here for that purpose
+
+402
+00:32:32,880 --> 00:32:39,800
+just doesn't help me right so I think sometimes we again have way too high expectations for
+
+403
+00:32:39,800 --> 00:32:44,640
+what we even in principle could get out of an origin story.
+
+404
+00:32:44,640 --> 00:32:53,520
+There are certain kinds of desire for significance that no origin story of any sort could really
+
+405
+00:32:53,520 --> 00:32:58,040
+satisfy okay and you got to live with that but then you start working for your significance
+
+406
+00:32:58,040 --> 00:33:04,440
+elsewhere which I think is probably the best thing to do.
+
+407
+00:33:04,440 --> 00:33:11,280
+Well yeah but there is a kind of a practical idea of putting things in some sort of order
+
+408
+00:33:11,280 --> 00:33:18,440
+right for example if you are applying for a patent right it's nice to figure out whether
+
+409
+00:33:18,440 --> 00:33:22,280
+you were the first one to make this thing or something.
+
+410
+00:33:22,280 --> 00:33:34,400
+Yeah that's very exciting economic and also I should say that it's also very to change
+
+411
+00:33:34,400 --> 00:33:42,720
+things a little bit there's also a very useful thing of not having beginnings like for example
+
+412
+00:33:42,720 --> 00:33:49,920
+when people started counting everything was one two three and so on and it became within
+
+413
+00:33:49,920 --> 00:33:57,360
+it's every game evident that when people started going backwards it was very useful to put
+
+414
+00:33:57,360 --> 00:34:06,880
+it also zero minus one minus two and so on so that so that as I said there is a natural
+
+415
+00:34:06,880 --> 00:34:15,120
+thing that when you look for a beginning you are also looking for the end of what happened
+
+416
+00:34:15,120 --> 00:34:23,200
+before in some ways and this particular ability feeling of wanting things to be predictable
+
+417
+00:34:23,200 --> 00:34:30,400
+of something to do with it probably probably people feel that if they understand the past
+
+418
+00:34:30,400 --> 00:34:37,920
+they will learn from it or something like that seems to be empirically not verified right
+
+419
+00:34:37,920 --> 00:34:42,400
+and to make the same mistake over and over again.
+
+420
+00:34:42,400 --> 00:34:46,400
+Well at least within the context of biological evolution though I mean it's just that it's
+
+421
+00:34:46,400 --> 00:34:52,160
+very very hard to predict anything from it because it is so influenced by singular historical
+
+422
+00:34:52,160 --> 00:34:56,160
+events I mean like you never know when a giant meteorite is going to hit the planet and wipe
+
+423
+00:34:56,160 --> 00:35:01,920
+everything out or you never know when just basic geological processes are going to happen
+
+424
+00:35:01,920 --> 00:35:06,080
+you never know like a lot of these things so it's like looking at the history of Western
+
+425
+00:35:06,080 --> 00:35:10,200
+Europe I mean things happen and they don't happen and if you re-ran the tape it would
+
+426
+00:35:10,200 --> 00:35:16,800
+be completely different completely different I mean so it's not as predictable as astronomy
+
+427
+00:35:16,800 --> 00:35:21,320
+or something like this where you are looking at an event but you also have a lot of large
+
+428
+00:35:21,320 --> 00:35:26,080
+numbers and you have some more basic sort of mathematics come to play on things so that
+
+429
+00:35:26,080 --> 00:35:30,880
+I'm sure that maybe 500 years from now when we get down to the nitty gritty and astronomy
+
+430
+00:35:30,880 --> 00:35:35,120
+it's going to be just as dirty as it is of looking at biological evolution and stuff because
+
+431
+00:35:35,120 --> 00:35:41,280
+it's when you're looking at specific cases in the evolution of you know singular systems
+
+432
+00:35:41,280 --> 00:35:44,960
+that they'll be just as hard.
+
+433
+00:35:44,960 --> 00:35:51,720
+In a sense the fact that it is unpredictable like that should be liberating because you
+
+434
+00:35:51,720 --> 00:35:56,960
+have a story and whether you like it or not that we all you know evolved from you know
+
+435
+00:35:56,960 --> 00:36:01,900
+slime mold that might be on your shower curtain or some relative of that you know we made
+
+436
+00:36:01,900 --> 00:36:07,760
+something of ourselves but you know really it sort of starts now I mean knowing the story
+
+437
+00:36:07,760 --> 00:36:13,040
+doesn't tell you how to go forward the future is that unpredictable that you wouldn't even
+
+438
+00:36:13,040 --> 00:36:20,440
+try I mean you know do you know how many teraflops of computer power is applied to weather forecasting
+
+439
+00:36:20,440 --> 00:36:26,880
+and the guy who's just told to say same as yesterday beats the computer beats the hundred
+
+440
+00:36:26,880 --> 00:36:31,680
+million dollar stations tell you something totally different so you know so don't feel very comfortable
+
+441
+00:36:31,680 --> 00:36:36,560
+about the power of technology applied to things that are chaotic or intrinsically unpredictable
+
+442
+00:36:36,560 --> 00:36:41,560
+and the evolution of life is going to be like that and then and then so then there you are
+
+443
+00:36:41,560 --> 00:36:46,760
+you're we're here and we got a we have a story it's interesting we can spin it whichever
+
+444
+00:36:46,760 --> 00:36:52,760
+way we like you know but the truth is it all really starts now we're all having our oh
+
+445
+00:36:52,760 --> 00:36:58,800
+shit I'm a dog moment which is oh shit I'm an early 21st century human on a planet that's
+
+446
+00:36:58,800 --> 00:37:05,400
+in some peril with a sort of technologically sophisticated but fundamentally tribal world
+
+447
+00:37:05,400 --> 00:37:09,600
+culture that's not quite getting it shit together and how's that gonna work you know
+
+448
+00:37:09,600 --> 00:37:14,880
+and do I have a pardon and can I help the whole picture as well as my little piece and
+
+449
+00:37:14,880 --> 00:37:20,320
+so that would be true whether the story started in a different way than it actually did it
+
+450
+00:37:20,320 --> 00:37:29,680
+almost doesn't matter so so beginnings don't matter do you think there'll be sunrise tomorrow
+
+451
+00:37:29,680 --> 00:37:34,800
+I'm persuaded Bertrand Russell told the story about that so I'm I always follow Bertrand
+
+452
+00:37:34,800 --> 00:37:42,160
+when I can't his story incidentally just a simple one the chicken the slightly smarter
+
+453
+00:37:42,160 --> 00:37:46,880
+than an average chicken anyone who's been on a farm knows how smart chickens are not
+
+454
+00:37:46,880 --> 00:37:54,160
+the chicken that has experienced the sun rising and the farmer coming out to scatter feed
+
+455
+00:37:54,160 --> 00:38:04,040
+and so inductively concludes that this rising ball this light in the sky leads to the food
+
+456
+00:38:04,040 --> 00:38:09,360
+for the day and then one morning the sun rises and the farmer comes out and sprinkles the
+
+457
+00:38:09,360 --> 00:38:14,960
+chicken for the dinner table the drastic failure of inductive reasoning but then it's just
+
+458
+00:38:14,960 --> 00:38:23,880
+the chicken so you know it's okay so I believe in it slightly more than the chicken does
+
+459
+00:38:23,880 --> 00:38:28,520
+or for different reasons but the chicken was right and believe the sun would rise right
+
+460
+00:38:28,520 --> 00:38:35,320
+that's true yes we all have our stories it's fine but so that there is maybe there is some
+
+461
+00:38:35,320 --> 00:38:43,360
+kind of value to knowing what happened before to predict what was going to happen in the
+
+462
+00:38:43,360 --> 00:38:55,360
+future yeah but that's only a probabilistic argument right right everything is a probabilistic
+
+463
+00:38:55,360 --> 00:39:08,920
+argument of course but they kind of curiosity that you are using to explain why we are looking
+
+464
+00:39:08,920 --> 00:39:17,560
+to find out more about beginnings origins and so on and cosmology you don't find that
+
+465
+00:39:17,560 --> 00:39:23,680
+amongst all the people that you meet I mean in your travels I think that probably I mean
+
+466
+00:39:23,680 --> 00:39:29,960
+I think it's pretty much a cultural is a universal I mean people are interested in that they're
+
+467
+00:39:29,960 --> 00:39:36,600
+either interested in or they have a story of where they came from and so that's a form
+
+468
+00:39:36,600 --> 00:39:43,320
+of a beginning and most of them have some apocalyptic story about what's going to happen
+
+469
+00:39:43,320 --> 00:39:50,160
+to them in the end what will happen in the end I mean it's just I mean you know as we
+
+470
+00:39:50,160 --> 00:39:54,080
+were talking earlier it's like that's something sort of a universal sort of thing amongst culture
+
+471
+00:39:54,080 --> 00:39:58,840
+around the world so so here's a straightforward anthropological question you said before there
+
+472
+00:39:58,840 --> 00:40:02,640
+are lots of cultures that yeah had a sense that there wasn't a beginning the time was
+
+473
+00:40:02,640 --> 00:40:06,160
+they've always been there but is there a culture that doesn't have an origin myth
+
+474
+00:40:06,160 --> 00:40:10,920
+and origin some kind of origin myth that's passed down it may not sort of cohere with
+
+475
+00:40:10,920 --> 00:40:13,720
+the idea that things have been around for them not that I'm familiar with but but you
+
+476
+00:40:13,720 --> 00:40:18,880
+would think I mean it seems like one years everybody has some narrative right every
+
+477
+00:40:18,880 --> 00:40:25,760
+culture develop some narrative that you call an origin right and it's also I think not
+
+478
+00:40:25,760 --> 00:40:29,440
+this not my field but what I've read about it is it's interesting that many of those
+
+479
+00:40:29,440 --> 00:40:37,560
+cultures the Judeo-Christian narrative you know with has its obvious moral underpinning
+
+480
+00:40:37,560 --> 00:40:43,440
+and overlay but that's also true in these cyclic stories of time there's a redemption
+
+481
+00:40:43,440 --> 00:40:49,040
+rebirth there's apocalypse and so you know these are very common themes even when time
+
+482
+00:40:49,040 --> 00:40:55,840
+can be considered cyclic and maybe not explicitly eternal because it's not always conceptualized
+
+483
+00:40:55,840 --> 00:41:02,400
+that way but operationally it might as well be eternal but it still has a moral overlay
+
+484
+00:41:02,400 --> 00:41:08,640
+and a cycle which means something to the person who's posited within that cycle within a cycle
+
+485
+00:41:08,640 --> 00:41:16,720
+within a larger cycle that becomes essentially infinite as far as they can tell so it doesn't
+
+486
+00:41:16,720 --> 00:41:23,000
+the timeline you know could be as close to infinite as makes no difference and it seems
+
+487
+00:41:23,000 --> 00:41:30,680
+that there's a universal yearning to have a tether in it and to have a an operational
+
+488
+00:41:30,680 --> 00:41:37,440
+as sort of an action oriented or moral tether in it you know a reason to be connected to
+
+489
+00:41:37,440 --> 00:41:44,520
+this chronology not just it's there it very different from okay to take a completely
+
+490
+00:41:44,520 --> 00:41:50,840
+a sort of crazily hypothetical different scenario as you some of you have probably read this
+
+491
+00:41:50,840 --> 00:41:57,800
+and I'm sure you know all about it the you know there's a there's a premise out there
+
+492
+00:41:57,800 --> 00:42:03,040
+that if there's intelligent life in the universe it's almost certain that we're not the first
+
+493
+00:42:03,040 --> 00:42:09,920
+or the most advanced and you can follow various arguments that include the possibility that
+
+494
+00:42:09,920 --> 00:42:14,560
+you know we're living in a simulated reality created by aliens that are just a lot smarter
+
+495
+00:42:14,560 --> 00:42:17,840
+than we are and they don't even have to be that much smarter just because we're only
+
+496
+00:42:17,840 --> 00:42:22,520
+a few we're only a few centuries from this capability which is a you know nothing is
+
+497
+00:42:22,520 --> 00:42:29,400
+the link of the eye and it caused me time so if you think so then you have an interesting
+
+498
+00:42:29,400 --> 00:42:34,720
+a true question to ask yourself if you thought you're living in a computer simulation of
+
+499
+00:42:34,720 --> 00:42:40,560
+some superior an entity that's so sophisticated you can't really understand them does it change
+
+500
+00:42:40,560 --> 00:42:44,560
+the way you view your life would you behave differently everyone should be able to ask
+
+501
+00:42:44,560 --> 00:42:49,080
+themselves that question because I'm telling you right now there's a finite probability
+
+502
+00:42:49,080 --> 00:42:55,440
+that it's true and the case so it's a completely sensible thing just like you know you walk
+
+503
+00:42:55,440 --> 00:42:59,560
+out in the street and there's a big gold ingot sitting there and there's no one around and
+
+504
+00:42:59,560 --> 00:43:04,160
+you should always ask yourself you know would I take it if I could lift it up and you may
+
+505
+00:43:04,160 --> 00:43:09,280
+be confident in your answer you should always ask yourself all these hypothetical questions.
+
+506
+00:43:09,280 --> 00:43:17,600
+But I think like you know some of the things about making us different from other you know
+
+507
+00:43:17,600 --> 00:43:22,280
+animal species on the planet and stuff is just we get away from instinct in that we actually
+
+508
+00:43:22,280 --> 00:43:28,280
+we have this curious aspect to ourselves and one of my friends who one time said like
+
+509
+00:43:28,280 --> 00:43:33,960
+what you know humans became humans for that they they got over one of the three most
+
+510
+00:43:33,960 --> 00:43:40,080
+basic things that are instinctual amongst animals and one is that you know looking around a
+
+511
+00:43:40,080 --> 00:43:47,320
+group of other animals you say like I eat that I run from that and I screw that so like once
+
+512
+00:43:47,320 --> 00:43:53,400
+we became bigger than that we became to be you know look at the world and try to explain
+
+513
+00:43:53,400 --> 00:43:58,640
+why we did that and that was like the beginning that was like with the origin of humankind
+
+514
+00:43:58,640 --> 00:44:06,360
+maybe 300,000 years ago. I mean it's interesting to notice it's also of course the source of
+
+515
+00:44:06,360 --> 00:44:13,160
+all our troubles as well. I mean that particular story if you look in the republic and Plato's
+
+516
+00:44:13,160 --> 00:44:20,840
+republic he starts to first design an ideal city and the ideas to say well what do we
+
+517
+00:44:20,840 --> 00:44:27,840
+need we need food shelter clothing so let's figure out how many people would take to make
+
+518
+00:44:27,840 --> 00:44:32,560
+that in the most efficient way find out who's good at what do it all about we have a small
+
+519
+00:44:32,560 --> 00:44:37,880
+group of people and they don't have to work much because that's and then they just sing
+
+520
+00:44:37,880 --> 00:44:44,120
+a lot and they they sleep on on rough ground and having a wonderful life and the immediate
+
+521
+00:44:44,120 --> 00:44:49,520
+response of Gao Kahn and Adam Antis is you know if you were designing a city for pigs
+
+522
+00:44:49,520 --> 00:44:54,760
+what else would you give them we need couches we need sofas we need luxuries right this
+
+523
+00:44:54,760 --> 00:44:59,920
+is not a good city and it seems to be you know Plato's point was exactly the same one
+
+524
+00:44:59,920 --> 00:45:06,920
+because you think my dog you feed him you give him a nice place to sleep he has no ambitions
+
+525
+00:45:06,920 --> 00:45:14,160
+beyond that right he's not driven by insatiable desires insatiable ambitions and Plato's point
+
+526
+00:45:14,160 --> 00:45:20,520
+is then you see what happens because humans have these insatiable desires and mostly it's
+
+527
+00:45:20,520 --> 00:45:26,480
+bad but maybe one good one was a kind of insatiable curiosity as well right an insatiable sense
+
+528
+00:45:26,480 --> 00:45:32,240
+of of wanting a further story about things that maybe leads to you know at least led to
+
+529
+00:45:32,240 --> 00:45:37,720
+science and when properly harnessed but it it also seems to be the thing that you know
+
+530
+00:45:37,720 --> 00:45:43,840
+leads to all our troubles as well would you say looking at the arc of life on earth or
+
+531
+00:45:43,840 --> 00:45:49,160
+just the way that evolution works as you understand it that it would this would be a
+
+532
+00:45:49,160 --> 00:45:55,880
+dysfunctional capacity I mean we've sort of with technology was sort of transcended some
+
+533
+00:45:55,880 --> 00:46:01,480
+of the natural limitations we had thousands of years ago but in general this this sort
+
+534
+00:46:01,480 --> 00:46:07,200
+of insatiable thing it could be seen as being this very disceye I think the like you know
+
+535
+00:46:07,200 --> 00:46:11,760
+you met like there's a lot of ways to look at the evolutionary process and certainly I
+
+536
+00:46:11,760 --> 00:46:16,760
+mean that there's been a lot of you know talk both from you know people working doing experimental
+
+537
+00:46:16,760 --> 00:46:21,560
+work as well as mathematical simulation about that evolution is all about escalation so
+
+538
+00:46:21,560 --> 00:46:28,840
+that you know where that escalation takes you might not always be a good place because
+
+539
+00:46:28,840 --> 00:46:33,400
+you know that even that there's you know classic examples in our own bodies like our knees
+
+540
+00:46:33,400 --> 00:46:39,040
+like if you're an engineer and you're going to design those that they don't work and
+
+541
+00:46:39,040 --> 00:46:44,880
+that but it's just a combination of what we started with and then what that when we became
+
+542
+00:46:44,880 --> 00:46:50,880
+bipedal then that we ended up with which isn't necessarily a good way to be and that you
+
+543
+00:46:50,880 --> 00:46:54,160
+know you can take to the more macro level and say that well you know that the evolution
+
+544
+00:46:54,160 --> 00:46:59,280
+of ourselves the evolution of other animals and things like that hasn't always for the
+
+545
+00:46:59,280 --> 00:47:03,400
+health of the planet if you could measure that in some empirical kind of way isn't the best
+
+546
+00:47:03,400 --> 00:47:12,520
+place and that I mean what evolution optimizes on is not always good.
+
+547
+00:47:12,520 --> 00:47:16,400
+On the other hand you might sort of discover mathematics and be so happy that you forgot
+
+548
+00:47:16,400 --> 00:47:21,600
+to run away or run after anything or screw anything and then I guess then you die up
+
+549
+00:47:21,600 --> 00:47:22,600
+too.
+
+550
+00:47:22,600 --> 00:47:24,680
+Theities was looking up at the sky and found it well.
+
+551
+00:47:24,680 --> 00:47:31,640
+I mean you know the original lab is what happened.
+
+552
+00:47:31,640 --> 00:47:38,360
+And there are you know that I it's hard to deny that that insatiability has led to some
+
+553
+00:47:38,360 --> 00:47:44,680
+of our current problems but there's this bizarre strand of futurist thought you know
+
+554
+00:47:44,680 --> 00:47:51,880
+there it's the Kurzweisels of the world and others who really think that we have enough
+
+555
+00:47:51,880 --> 00:47:57,680
+capacity to satisfy you know then you know once you've got okay I know this isn't true
+
+556
+00:47:57,680 --> 00:48:01,640
+even in a city like this but once you've got you know seven or eight cars you can't really
+
+557
+00:48:01,640 --> 00:48:06,920
+drive anymore and once you've got seven holiday homes you can't really get to anymore so
+
+558
+00:48:06,920 --> 00:48:16,480
+you know you can in a situation of large capacity for wealth or creation of resources where resources
+
+559
+00:48:16,480 --> 00:48:20,640
+become essentially free and there are some economic models that you know that you might
+
+560
+00:48:20,640 --> 00:48:25,000
+just think they're just wildly optimistic and unrealistic but they exist and they have
+
+561
+00:48:25,000 --> 00:48:30,640
+as much validity going forward into an uncertain future as anything that say that we could
+
+562
+00:48:30,640 --> 00:48:32,720
+get to this a happy place.
+
+563
+00:48:32,720 --> 00:48:33,720
+That's not human psychology.
+
+564
+00:48:33,720 --> 00:48:39,360
+I mean we were just like my wife was just reminding me there was a story in NPR about
+
+565
+00:48:39,360 --> 00:48:43,640
+somebody it was about collecting they had different stories about collecting.
+
+566
+00:48:43,640 --> 00:48:48,640
+There was one guy who what he collected was copies of the Beatles white album.
+
+567
+00:48:48,640 --> 00:48:53,120
+The same exactly the same he had five hundred copies as many as he could get his hands
+
+568
+00:48:53,120 --> 00:48:59,800
+on right everyone exactly the same all I guess in a shelf that was nothing but copies of
+
+569
+00:48:59,800 --> 00:49:01,400
+the white album.
+
+570
+00:49:01,400 --> 00:49:05,400
+Now you'd think one would be enough or maybe two if you want to be careful.
+
+571
+00:49:05,400 --> 00:49:10,080
+There's you know there's something you can get yourself in a frame of mind where and he's
+
+572
+00:49:10,080 --> 00:49:13,360
+not even competing it's not like you know he's staying ahead of the guy who's got four
+
+573
+00:49:13,360 --> 00:49:16,560
+hundred ninety nine and he is five hundred.
+
+574
+00:49:16,560 --> 00:49:20,160
+You know there's something in the human mind human character that can.
+
+575
+00:49:20,160 --> 00:49:29,640
+I think I think the Brezhnev had maybe a hundred cars and he wants to collect two more.
+
+576
+00:49:29,640 --> 00:49:36,400
+So so the optimistic the optimistic read on this is that we also have the itch to create
+
+577
+00:49:36,400 --> 00:49:41,640
+and there's no limit to that I mean I know young people who come up and they want to
+
+578
+00:49:41,640 --> 00:49:47,040
+do popular music and they just think you know every popular song that could be worth listening
+
+579
+00:49:47,040 --> 00:49:50,560
+to has already been written you know surely.
+
+580
+00:49:50,560 --> 00:49:56,720
+But of course it's not true so in the creative arts the potentials for future creation or
+
+581
+00:49:56,720 --> 00:49:58,280
+nobody knows what the bounds are.
+
+582
+00:49:58,280 --> 00:50:04,440
+So there's an unlimited potential future resource that doesn't really negatively impact anyone.
+
+583
+00:50:04,440 --> 00:50:07,040
+I mean eventually we'll just all walk around groaning.
+
+584
+00:50:07,040 --> 00:50:11,440
+Oh god not more beautiful poetry I don't have time for it you know.
+
+585
+00:50:11,440 --> 00:50:17,880
+I already read 50 poems today you know I'm sated for whatever it is so that's a part
+
+586
+00:50:17,880 --> 00:50:25,200
+of our insatiable that I don't know has it downside and you know we maybe can conduit
+
+587
+00:50:25,200 --> 00:50:31,640
+that or maybe there's their external shaping circumstances that could lead that to be obviously
+
+588
+00:50:31,640 --> 00:50:36,840
+more valued than it is now or because that that's something where you just follow it
+
+589
+00:50:36,840 --> 00:50:45,120
+you can keep going there's no reason to put a bound on it.
+
+590
+00:50:45,120 --> 00:50:52,040
+I don't know I mean the capacities of every person sort of limited in these insatiable
+
+591
+00:50:52,040 --> 00:51:02,760
+thing to do something and pushes all else out you know it may not work out so well.
+
+592
+00:51:02,760 --> 00:51:08,720
+But a lot of it is also you know that I mean we say that yeah you know that every all 7
+
+593
+00:51:08,720 --> 00:51:14,360
+billion of us on the planet can have a much better life well that's just us.
+
+594
+00:51:14,360 --> 00:51:16,520
+I mean that says nothing about the rest of the planet.
+
+595
+00:51:16,520 --> 00:51:21,920
+I mean definitely I mean we have the technology and the resources especially moving forward
+
+596
+00:51:21,920 --> 00:51:30,240
+to probably have quadruple the population of the planet and that quadrupling of the
+
+597
+00:51:30,240 --> 00:51:35,360
+population of the planet had each individual person have a much better life but that the
+
+598
+00:51:35,360 --> 00:51:39,960
+other organisms of the planet and the other things that you know some people like hold
+
+599
+00:51:39,960 --> 00:51:43,920
+dear like you know rainforest things like that that's not going to be part of the equation
+
+600
+00:51:43,920 --> 00:51:47,880
+I mean that's going to be the sacrifice part of it and stuff so that you know the improving
+
+601
+00:51:47,880 --> 00:51:57,640
+people's lives comes as a caught and increasing population comes as a cost to other things.
+
+602
+00:51:57,640 --> 00:52:02,760
+I actually think we'll get to the point of being able to create new beginnings you know
+
+603
+00:52:02,760 --> 00:52:07,160
+I have to say this because I'm an astro geek but I think you know despite the doldrums
+
+604
+00:52:07,160 --> 00:52:12,480
+you see around you of the space program and you know 7% of the students I teach don't
+
+605
+00:52:12,480 --> 00:52:20,680
+think we went to the moon it's drives me crazy maybe it's even 10% I don't know it's a significant
+
+606
+00:52:20,680 --> 00:52:26,080
+number but and the shuttle is old and decrepit and nobody likes a space station the whole
+
+607
+00:52:26,080 --> 00:52:31,640
+thing is just kind of a mess and and you then you look at the exponentiation of your electronic
+
+608
+00:52:31,640 --> 00:52:36,800
+digital life and think what's going on where's the connection here anyway I think that's
+
+609
+00:52:36,800 --> 00:52:41,960
+just a bump I think we'll get through that and so I think in 100 maybe put a number on
+
+610
+00:52:41,960 --> 00:52:48,000
+100 years we'll have a new beginning which amounts to us going off Earth and that will
+
+611
+00:52:48,000 --> 00:52:53,680
+be an extraordinary thing that will be a new story of us of and it won't and it'll stop
+
+612
+00:52:53,680 --> 00:52:59,080
+being us they'll be different people they won't be us after a while but we'll be invested
+
+613
+00:52:59,080 --> 00:53:04,960
+in it and I won't get to live to see that but I think it's going to happen and so the
+
+614
+00:53:04,960 --> 00:53:11,640
+beginnings can take turns that you didn't expect I think this is nice not just one story I
+
+615
+00:53:11,640 --> 00:53:19,280
+hope I believe we may generate multiple stories what do you think about them what going off
+
+616
+00:53:19,280 --> 00:53:25,880
+the planet and becoming and changing not just of course I mean it'll it'll be like Wally
+
+617
+00:53:25,880 --> 00:53:36,880
+well it's totally different but yeah I mean I mean even within and it's not just the crackpot
+
+618
+00:53:36,880 --> 00:53:41,480
+element and stuff who says this and stuff even that there are some pretty well-known
+
+619
+00:53:41,480 --> 00:53:45,800
+biologists who really feel that even life itself may have come from someplace else on
+
+620
+00:53:45,800 --> 00:53:51,040
+our own planet and stuff as far as that you know that looking at the chemistry some meteorites
+
+621
+00:53:51,040 --> 00:53:55,320
+that have amino acids in them and things like that so like I mean that the basic building
+
+622
+00:53:55,320 --> 00:54:00,320
+of blocks might not have been things that were assembled on our own planet I mean I disagree
+
+623
+00:54:00,320 --> 00:54:04,400
+with that but I mean that this is not just like I said it's not crackpot stuff it's not
+
+624
+00:54:04,400 --> 00:54:10,840
+outside the idea of rationality but I'm I mean so I'm going to be a little bit of the
+
+625
+00:54:10,840 --> 00:54:17,080
+contrary in here I'm I just don't see it as if it were to occur I'm not I'm not sure
+
+626
+00:54:17,080 --> 00:54:22,000
+why it would be so significant I mean right now as you say we have people who live for
+
+627
+00:54:22,000 --> 00:54:27,640
+long periods in a space station that's orbiting here it's kind of unusual hundred years ago
+
+628
+00:54:27,640 --> 00:54:32,040
+you would have thought amazing we're kind of bored by that right what are they they're
+
+629
+00:54:32,040 --> 00:54:35,560
+up there we don't even know what they're doing we don't pay attention to what they're doing
+
+630
+00:54:35,560 --> 00:54:39,720
+we don't think this is the beginning of a new humanity if new had become president and
+
+631
+00:54:39,720 --> 00:54:44,600
+we got a moon colony my guess is we put a lot of money into it and some people would
+
+632
+00:54:44,600 --> 00:54:48,920
+live up there and every now and then we check in and say how are things on the moon they
+
+633
+00:54:48,920 --> 00:54:54,320
+say fine but we wouldn't think it was a new beginning for humanity or it I mean people
+
+634
+00:54:54,320 --> 00:54:58,120
+are kind of odd about this is idea you should well we should go to Mars because what if
+
+635
+00:54:58,120 --> 00:55:04,760
+we ruin the earth then we can terraform Mars and you think we can do bad things to the
+
+636
+00:55:04,760 --> 00:55:09,960
+earth but we can't do anything so bad it'll make it look like Mars right if we if we could
+
+637
+00:55:09,960 --> 00:55:14,160
+make Mars habitable we ought to be able to make the earth habitable heck of a lot more
+
+638
+00:55:14,160 --> 00:55:20,800
+easily so I think again I think there's a kind of romanticism which you understand of
+
+639
+00:55:20,800 --> 00:55:27,480
+this of it being new and it being amazing and but you know of course new things become
+
+640
+00:55:27,480 --> 00:55:33,880
+quickly old and the amazement rubs off kind of quickly so I'm I'm if you ask me would
+
+641
+00:55:33,880 --> 00:55:37,880
+even if we were to invest in interplanetary travel or something like that would that be
+
+642
+00:55:37,880 --> 00:55:43,080
+a new beginning to humanity I can't see why I can't quite see why it would be I mean we
+
+643
+00:55:43,080 --> 00:55:46,080
+could right now send people to live down at the bottom of the sea it wouldn't be I guess
+
+644
+00:55:46,080 --> 00:55:51,280
+that expensive be a very different kind of isolated hermetic life and they would live
+
+645
+00:55:51,280 --> 00:55:55,560
+differently and they'd look out the windows and see things we don't see every day we'd
+
+646
+00:55:55,560 --> 00:56:00,200
+get the board with a reality show after a while yeah it would start Monday I mean it
+
+647
+00:56:00,200 --> 00:56:04,280
+is just a glorified reality show at the beginning I mean the space station right that's a good
+
+648
+00:56:04,280 --> 00:56:08,400
+example because that's that's no further straight out than you could drive in an afternoon so
+
+649
+00:56:08,400 --> 00:56:13,920
+that's pathetic that's not that's not space I mean it's expensive but it's not space no way
+
+650
+00:56:13,920 --> 00:56:20,000
+would happen is in a hundred years because it could the technology is available I mean
+
+651
+00:56:20,000 --> 00:56:26,600
+it will be people taking a one way trip there's a coin tus odds that there's an earth like
+
+652
+00:56:26,600 --> 00:56:31,360
+planet on one of the office around one of the office and Tory pair of stars that are
+
+653
+00:56:31,360 --> 00:56:35,600
+sunlight it's a really and astronomers will know within a couple of years whether and
+
+654
+00:56:35,600 --> 00:56:40,840
+and so that would be amazing if in a universe what we think is littered with habitable planets
+
+655
+00:56:40,840 --> 00:56:45,880
+but the distances are large we lucked into a habitable planet around the closest start
+
+656
+00:56:45,880 --> 00:56:50,760
+it really could happen it's very interesting and at that point you would go you know someone
+
+657
+00:56:50,760 --> 00:56:56,960
+would go so what kind of probabilities do you assign to all this the existence of an
+
+658
+00:56:56,960 --> 00:57:04,840
+earth like I know this is a finding considerably or finding such a thing oh it's uh it's good
+
+659
+00:57:04,840 --> 00:57:12,560
+I mean it's the techniques are available to find Mars mass or even lower mass at 10 20 30
+
+660
+00:57:12,560 --> 00:57:19,720
+light years so if those planets exist we'll know it and then we'll know how you'll find
+
+661
+00:57:19,720 --> 00:57:25,080
+planets that conceivably could have this kind of so you the detection of the planet and
+
+662
+00:57:25,080 --> 00:57:29,200
+its mass and its orbit and whether it's in a habitable zone that's techniques already
+
+663
+00:57:29,200 --> 00:57:35,880
+in hand yes but what's the probabilities oh it's actually how many of these planets are
+
+664
+00:57:35,880 --> 00:57:42,800
+in in the Milky Way there are a hundred round numbers a hundred million terrestrial habitable
+
+665
+00:57:42,800 --> 00:57:48,000
+planets which is the portion of them will be hazardous oh that's we have no idea so it's
+
+666
+00:57:48,000 --> 00:57:52,920
+then it's a that's a question for you you have a hundred million petri dishes right how many
+
+667
+00:57:52,920 --> 00:57:57,800
+of them do you think something interesting happened or anything and then something interesting
+
+668
+00:57:57,800 --> 00:58:03,000
+right I mean again that's it's it's a very difficult question because it depends on something's
+
+669
+00:58:03,000 --> 00:58:07,120
+going to happen a lot of them something interesting might happen in a very smaller amount but
+
+670
+00:58:07,120 --> 00:58:12,640
+but you know going back to the habitable planet idea you know what about even like that building
+
+671
+00:58:12,640 --> 00:58:18,600
+an atmosphere on Mars so it just turns out that NASA you know you can pull off the shelf
+
+672
+00:58:18,600 --> 00:58:23,800
+NASA have done that and it's it is you're right it's absolutely insanely difficult and
+
+673
+00:58:23,800 --> 00:58:29,840
+expensive just terraforming Mars is a three stage process and the minimum is about a thousand
+
+674
+00:58:29,840 --> 00:58:34,520
+years and a hundred trillion dollars minimum and they've costed it that's not just a ballpark
+
+675
+00:58:34,520 --> 00:58:39,640
+number that's an alright actual massive people do this is more expensive when they actually
+
+676
+00:58:39,640 --> 00:58:45,400
+get done and so was a close to where he also can do it cheaper and then the other thing
+
+677
+00:58:45,400 --> 00:58:51,480
+you said is exactly right that it you know we're always better off not soiling our own
+
+678
+00:58:51,480 --> 00:58:56,840
+you know place and making it better and or even finding parts of it we can live in living
+
+679
+00:58:56,840 --> 00:59:01,640
+in domes or under the sea or whatever it's just so much easier than going to Mars so so
+
+680
+00:59:01,640 --> 00:59:07,600
+yet we're not going to go off Earth in that limited way I think it's more this more purely
+
+681
+00:59:07,600 --> 00:59:14,040
+adventurous thing where with the one way ticket and an uncertain future you take the minimum
+
+682
+00:59:14,040 --> 00:59:20,040
+genetically viable population will be you know a quarter a hundred I guess six seventy
+
+683
+00:59:20,040 --> 00:59:25,840
+eighty individuals and they will go to some earth like planet where you've diagnosed the
+
+684
+00:59:25,840 --> 00:59:30,400
+atmosphere and you know that it's breathable more or less and they are and within three
+
+685
+00:59:30,400 --> 00:59:35,600
+generations they will start to not be us I mean they're there they're their environment
+
+686
+00:59:35,600 --> 00:59:40,640
+will be different enough if they survive of course they may not survive so but that and
+
+687
+00:59:40,640 --> 00:59:48,280
+yes they'll be sending their information back and it'll be this crazy reality show but so
+
+688
+00:59:48,280 --> 00:59:53,400
+it's not necessarily a new beginning of us of course we would rather I think most of
+
+689
+00:59:53,400 --> 01:00:00,080
+us would rather have a new beginning here you know by resetting on some of the dysfunctional
+
+690
+01:00:00,080 --> 01:00:03,880
+bad stuff but that's very hard to do because how do you get everyone in a room to push
+
+691
+01:00:03,880 --> 01:00:08,320
+the reset right I mean that would be much more reasonable as I say we sort of invest
+
+692
+01:00:08,320 --> 01:00:13,440
+our hopes in funny ways I mean even take the case it always occurs to me suppose in one
+
+693
+01:00:13,440 --> 01:00:18,320
+of your habitable planets there's even already inhabitant and there's a civilization and
+
+694
+01:00:18,320 --> 01:00:25,840
+so on and you know of course our whole science fiction industry has been suggesting that
+
+695
+01:00:25,840 --> 01:00:30,840
+it would be the great it would be in a certain way this great thing to find this other intelligent
+
+696
+01:00:30,840 --> 01:00:36,600
+civilization and of course it would be fantastically interesting but on the other hand I mean think
+
+697
+01:00:36,600 --> 01:00:43,400
+about it from the other side what do they find they just find us right for them the big
+
+698
+01:00:43,400 --> 01:00:47,880
+thing is to come here and what look at I love Lucy I mean you know we'll get chairs like
+
+699
+01:00:47,880 --> 01:00:53,640
+this wow look you made it I mean it's not clear that this other civilization would in somehow
+
+700
+01:00:53,640 --> 01:00:59,080
+be intrinsically different but whether it would be intrinsically higher or better or you know
+
+701
+01:00:59,080 --> 01:01:03,480
+lend significance to our life in a deep way it's hard to see why because otherwise we
+
+702
+01:01:03,480 --> 01:01:06,880
+have the capacity to do that to them we ought to do it to ourselves first right let's give
+
+703
+01:01:06,880 --> 01:01:12,080
+our own life meaning and you know do things nicely around here and show them something
+
+704
+01:01:12,080 --> 01:01:19,360
+when they show up but it would be the fascinating part of that was that this is of course making
+
+705
+01:01:19,360 --> 01:01:26,360
+these crazy assumptions of roughly equivalent sentience intelligence and even communication
+
+706
+01:01:26,360 --> 01:01:31,200
+which are impossible but they will have a story they will have an origin story and it
+
+707
+01:01:31,200 --> 01:01:36,000
+will be different you know regardless of the cultural differences on this planet which
+
+708
+01:01:36,000 --> 01:01:40,560
+have led us to slaughter each other in vast numbers so they're not trivial we still have
+
+709
+01:01:40,560 --> 01:01:46,080
+the same story I mean it is in the end the same story it's one story to know that there
+
+710
+01:01:46,080 --> 01:01:54,000
+were other stories in existence that is those sentient intelligent entities evolved and exist
+
+711
+01:01:54,000 --> 01:01:59,760
+elsewhere and then to actually learn one or more of those stories that would be extraordinary
+
+712
+01:01:59,760 --> 01:02:05,840
+I mean it would recontextualize our story at some level it wouldn't negate it or trivialize
+
+713
+01:02:05,840 --> 01:02:13,760
+it but it would sure be an interesting thing to know about the difference between philosophy
+
+714
+01:02:13,760 --> 01:02:21,560
+and cosmology none because we don't know you know cosmology you know I'm not going to
+
+715
+01:02:21,560 --> 01:02:26,440
+even I'm not going to brag about it at all it's some level there's been some success but
+
+716
+01:02:26,440 --> 01:02:33,560
+the ultimate endeavor you know runs into a brutal wall of ignorance because we don't
+
+717
+01:02:33,560 --> 01:02:37,840
+know what the two major ingredients of the universe are dark matter dark energy each
+
+718
+01:02:37,840 --> 01:02:44,840
+of them represents new and unknown physics at some level we have a story that the vectors
+
+719
+01:02:44,840 --> 01:02:50,600
+backed points backwards towards an initial state that we don't understand we don't have
+
+720
+01:02:50,600 --> 01:02:56,680
+a good theory of and and so yeah I mean there's big question marks all over the place so you
+
+721
+01:02:56,680 --> 01:03:03,080
+know so the chronology from about a microsecond forward yeah we can we can paint that nicely
+
+722
+01:03:03,080 --> 01:03:08,160
+but you're exactly right you're driven if you're doing your job properly to not be satisfied
+
+723
+01:03:08,160 --> 01:03:12,200
+with explaining everything that happened after a microsecond after the big bang you want
+
+724
+01:03:12,200 --> 01:03:17,880
+to know initial conditions why I got that way and no all bets are off that is truly
+
+725
+01:03:17,880 --> 01:03:23,000
+natural philosophy at this point some very clever theories some great ideas and you know
+
+726
+01:03:23,000 --> 01:03:28,440
+but I'm a kind of gritty you know show me let me pour my telescope at something you know
+
+727
+01:03:28,440 --> 01:03:35,400
+give me some evidence and not yet not now so the same sorts of arguments go for the origin
+
+728
+01:03:35,400 --> 01:03:41,560
+of life I mean like you know we have catalytic activity and even self-replicating activity
+
+729
+01:03:41,560 --> 01:03:45,680
+and things that aren't white but organizing all of that into something which actually
+
+730
+01:03:45,680 --> 01:03:54,520
+you know really works as a excuse me as a biological machine is something which is unexplained and
+
+731
+01:03:54,520 --> 01:04:00,520
+that's a that's a fascinating part of what of you the origin of what you do which is it
+
+732
+01:04:00,520 --> 01:04:05,080
+seems to me that the origin of life you know something we do care about it's our story
+
+733
+01:04:05,080 --> 01:04:09,640
+it's the very beginning of our story because it's historical science we may never we might
+
+734
+01:04:09,640 --> 01:04:15,000
+not ever know the answer right exactly I mean I think we'll never know the real answer but
+
+735
+01:04:15,000 --> 01:04:19,440
+we might be able to model it and come up with a proxy for it that we say well this is the
+
+736
+01:04:19,440 --> 01:04:24,440
+best simulation that we can do but because it is historical that we're we're burdened
+
+737
+01:04:24,440 --> 01:04:26,440
+by this historical contingency we weren't there
+
+738
+01:04:26,440 --> 01:04:33,440
+are you ready to take questions?
+
+739
+01:04:33,440 --> 01:04:41,440
+I'll show sure go ahead yeah I think given that we're in a house of psychoanalysis that
+
+740
+01:04:41,440 --> 01:04:49,440
+we would be remiss if we didn't reference something about the developmental aspects of
+
+741
+01:04:49,440 --> 01:04:58,440
+curiosity and you know Jacob Arlo in 1982 wrote a very interesting paper on scientific
+
+742
+01:04:58,440 --> 01:05:09,440
+cosmology and roman biology and here here Mike is uh thank you thank you
+
+743
+01:05:09,440 --> 01:05:18,440
+Jacob Arlo wrote an interesting paper in 1982 quote scientific cosmogony mythology and immortality
+
+744
+01:05:18,440 --> 01:05:28,440
+and he basically saw the conciliance between our theories about the origins of the universe
+
+745
+01:05:28,440 --> 01:05:37,440
+mythology and the unconscious fantasies derived from early childhood wishes and beliefs regarding
+
+746
+01:05:37,440 --> 01:05:48,440
+procreation you don't have to go further than Corbae's the origin of the world to gain
+
+747
+01:05:48,440 --> 01:05:55,440
+understandings about unconscious processes related to how a child asks questions about
+
+748
+01:05:55,440 --> 01:06:00,440
+the first really the first epistemological question is where did I come from where do
+
+749
+01:06:00,440 --> 01:06:06,440
+babies come from and I think it's an interesting perspective to think about how we frame questions
+
+750
+01:06:06,440 --> 01:06:16,440
+as adults about beginnings and what connections that has to earliest mental life in solving
+
+751
+01:06:16,440 --> 01:06:23,440
+the problem of where one originates as a child because a child is confronting a very
+
+752
+01:06:23,440 --> 01:06:33,440
+bewildering world filled with intense motivations and in relation to your idea about people
+
+753
+01:06:33,440 --> 01:06:40,440
+becoming something other than human I think as long as we are raised in small cohorts where
+
+754
+01:06:40,440 --> 01:06:47,440
+we're mapping our motivations on the relationships with parents there's beginnings will never be
+
+755
+01:06:47,440 --> 01:06:52,440
+new in a certain sense because we'll always be starting off with the same kinds of questions
+
+756
+01:06:52,440 --> 01:07:02,440
+anyway I mean that makes me wonder how these questions will change and the stories the answers
+
+757
+01:07:02,440 --> 01:07:11,440
+given when we start cloning when we start genetically modifying humans not creating an
+
+758
+01:07:11,440 --> 01:07:16,440
+an issue obviously but you know that those will be different stories that the uniqueness
+
+759
+01:07:16,440 --> 01:07:23,440
+the issue of uniqueness the origin the motivation of the origin the story I don't think we're
+
+760
+01:07:23,440 --> 01:07:30,440
+ready to answer questions like that even as we prepare the technologies to do it is there
+
+761
+01:07:30,440 --> 01:07:38,440
+I mean this is I know nothing about child development it's relevant but I'm just curious when you say
+
+762
+01:07:38,440 --> 01:07:47,440
+the world for a child is bewildering I'm just wondering what reason to think it is bewildering
+
+763
+01:07:47,440 --> 01:07:55,440
+to them I mean they they it seems from what I understand children come with certain
+
+764
+01:07:55,440 --> 01:08:01,440
+expectations basic physics expectations so that things can violate those expectations and they
+
+765
+01:08:01,440 --> 01:08:07,440
+get startle responses or whatever from you know from essentially time zero
+
+766
+01:08:07,440 --> 01:08:17,440
+bewilderment really does suggest a kind of very sophisticated desire for an explanation
+
+767
+01:08:17,440 --> 01:08:24,440
+and I just wonder why why think that kids I mean I understand after a while they may come to ask
+
+768
+01:08:24,440 --> 01:08:28,440
+questions but when you say the world is bewildering to them rather than say actually quite familiar
+
+769
+01:08:28,440 --> 01:08:33,440
+you know we've all seen the little kid who's who's trying to get the the time magazine
+
+770
+01:08:33,440 --> 01:08:39,440
+cover to change by you know because they're so used to iPads why well they grew up with
+
+771
+01:08:39,440 --> 01:08:45,440
+you know they weren't bewildered they're bewildered why it doesn't change now right so I mean it just doesn't
+
+772
+01:08:45,440 --> 01:08:52,440
+meet their expectations right they form certain expectations in a very road kind of way so
+
+773
+01:08:52,440 --> 01:08:57,440
+when you when you have this description of the life I mean I always it's always curious to me you know
+
+774
+01:08:57,440 --> 01:09:03,440
+what one thought is yes it's a world of bright vibrant colors and confusion and so on or for all I know it
+
+775
+01:09:03,440 --> 01:09:09,440
+might be a world that actually was rather dull and you know every day I don't know how do you tell I mean how do you
+
+776
+01:09:09,440 --> 01:09:12,440
+think you can get yourself into the well I think I think I'm a logical state of it well what I'm
+
+777
+01:09:12,440 --> 01:09:19,440
+referring to is the disparity between the experience of reality and the child's and the domination of
+
+778
+01:09:19,440 --> 01:09:27,440
+fantasy in early mental life and the difficulty that the child has in sorting out the two so that those
+
+779
+01:09:27,440 --> 01:09:32,440
+early questions right are are at you know very much at the heart of that disparity
+
+780
+01:09:32,440 --> 01:09:49,440
+should we open it for questions go ahead there's the you have to walk to the microphone there
+
+781
+01:09:49,440 --> 01:10:02,440
+so we pointed out that every traditional society has a creation myth and we live in a sort of amethical
+
+782
+01:10:02,440 --> 01:10:08,440
+scientific world view where we don't allow the scientific story of creation to fulfill a myth
+
+783
+01:10:08,440 --> 01:10:18,440
+mythic role in our society so my my the question would be or if it is a myth it's an anti-myth it's
+
+784
+01:10:18,440 --> 01:10:24,440
+a myth of meaninglessness and purposelessness kind of a stoic existentialist story which works for me some
+
+785
+01:10:24,440 --> 01:10:33,440
+days a week but not every day of the week so so so there's something
+
+786
+01:10:33,440 --> 01:10:43,440
+an thetical about the way that we are trying to incorporate the new scientific origin story which has the benefit of
+
+787
+01:10:43,440 --> 01:10:51,440
+being progressively true truer and and practical all kinds of ways but something antithetical to
+
+788
+01:10:51,440 --> 01:10:59,440
+something about human nature and human societies which needs some framework of meaning and purpose in
+
+789
+01:10:59,440 --> 01:11:08,440
+order to function coherently so how do we how might we address that question
+
+790
+01:11:08,440 --> 01:11:16,440
+I'm going to repeat myself a little bit here but because it was one of the things I kept coming back to
+
+791
+01:11:16,440 --> 01:11:28,440
+I just think there's a kind of error in thinking that the origin story even could play the sort of role
+
+792
+01:11:28,440 --> 01:11:38,440
+people so that the scientific I don't think the scientific story should bother you at all people have a tendency to have these
+
+793
+01:11:38,440 --> 01:11:47,440
+thoughts that seem to render their lives meaningless like you say oh a thousand years from now who will know
+
+794
+01:11:47,440 --> 01:11:57,440
+what conversation went on in this room or you know how well I did in this or that nobody will remember so what's the point
+
+795
+01:11:57,440 --> 01:12:04,440
+and I sort of never got it right why should I care what they know about a thousand years from now right if if my child
+
+796
+01:12:04,440 --> 01:12:10,440
+falls down and and skins her knee and I'm going to comfort her I don't what what's the point of thinking a thousand years from now
+
+797
+01:12:10,440 --> 01:12:16,440
+no one will never know I comforted my child right well I'm not doing it for them a thousand years ago I'm doing it for her right now
+
+798
+01:12:16,440 --> 01:12:24,440
+and why is it significant because she's hurt I'm making her better right you know her life is better because I'm doing this
+
+799
+01:12:24,440 --> 01:12:38,440
+I mean these sorts of and is a very trivial kind of thing but it seems to me if you if you're expecting something from a kind of cosmic story
+
+800
+01:12:38,440 --> 01:12:45,440
+that it couldn't give you no matter how it came out then of course you're going to be disappointed but I think it was always the wrong place to look
+
+801
+01:12:45,440 --> 01:12:51,440
+and that's why I don't think the scientific you know replacing it with a scientific story should have really any effect at all
+
+802
+01:12:51,440 --> 01:13:01,440
+if you're answering a philosopher not as a sociologist or psychologist or how do I'm not currently so if you're asking how do you get people to realize that
+
+803
+01:13:01,440 --> 01:13:14,440
+to care yes here on a lot of them yes yes yes and he's in the anti-intellectual or just yes movements that continue to have feet changed by the past
+
+804
+01:13:14,440 --> 01:13:34,440
+so right now so the first part was to say if you if you sort of think it through deeply it's a misplaced you know emphasis now you're asking me how do you get people to replace their irrational thoughts with rational thoughts
+
+805
+01:13:34,440 --> 01:13:51,440
+and if I could answer that I'd be very happy I'm I'm unfortunate I have nothing to say they're much more trivial things like climate change and so on where you say well all the rational evidence goes one direction how why is it we can't just convince people in everyday life that this is a real problem
+
+806
+01:13:51,440 --> 01:14:09,440
+against because there are people whose you know personal interests are such that they don't want you to realize it's a problem I have nothing on that wonderfully important question I've been used to say so yeah my job is trying to trying to figure out how things are but then
+
+807
+01:14:09,440 --> 01:14:27,440
+but then but then changing things how they should be is you know that's above my pay grade my question is similar it's one of the original question you asked is why do we care about this and we care about it because
+
+808
+01:14:27,440 --> 01:14:43,440
+you know the elephant in the room is God you know like if the universe is eternal we don't need a creator and if suddenly we find that it isn't it was created then where did it come from so you have Lawrence Krauss who talks about a universe from nothing
+
+809
+01:14:43,440 --> 01:15:02,440
+and then you have people who say okay well there's all intelligent design and so forth and there was a purpose and I think to a certain extent what everybody is asking if there is no purpose then of course there's no life after death there's none of the other perks that come along with somebody looking over for you
+
+810
+01:15:02,440 --> 01:15:22,440
+and I think you know not that you know there's anything new but it's just I think that was the elephant in the room well but the elephant has been sticking its trunk in I mean Chris mentioned before what if we're all in a simulation and so our as we're accurate creation story is some extraterrestrial civilization
+
+811
+01:15:22,440 --> 01:15:40,440
+created very powerful computers and gave to their fifth graders you know a take home project create a simulated world and we happen to live in it right it's my preferred deistic right the question he asked which I think is perfectly accurate is
+
+812
+01:15:40,440 --> 01:15:59,440
+okay that interesting so what right get up tomorrow morning you still got to make breakfast all of that and I think even if it's God I mean this was sort of the point I was saying about the children even if it's God none of that will will give us we can't derive
+
+813
+01:15:59,440 --> 01:16:12,440
+significance from that people who ascribe to religious dictates tell you that God has a purpose and this is what you must do but you know so why must I do it I mean it may be your afterlife
+
+814
+01:16:12,440 --> 01:16:41,440
+things is he's gonna beat me up forever if I don't but that's a kind of my thin way to put my life people blowing you know buying into buildings and doing all sorts of terrible things because of these beliefs so absolutely also regarding cosmic the cosmic story told by science I don't really think there's any you know I don't it's not a Stephen J Gould non overlapping magic theory I I mean because people individuals you know mash these things up amazingly
+
+815
+01:16:41,440 --> 01:17:00,440
+I have I give science literacy type surveys to my students 18 year old at a big state university and they show a fantastic ability to hold you know a reasonable comprehension of the major tenets of modern science alongside superstitions religious faith
+
+816
+01:17:00,440 --> 01:17:18,440
+all sorts of things everyone's a mashup it's a marble rye so but as far as the cosmology goes whether it's a you know a big bang that's all we can say or some eternal some multiverse site you know endless timeline eternal past eternal future that that really does to me it has no connection
+
+817
+01:17:18,440 --> 01:17:47,440
+or implication to to to the landscape it has no projection into the belief system particularly it's not required I think also like you know I mean I think that as a scientist one of the things that I try to point out is that you know that you know calling it the scientific creation story is not really what it should be called because it's not really a story I mean there's a big difference between thinking and believing and that you know that has somebody who
+
+818
+01:17:47,440 --> 01:18:01,440
+works and things you have to be everyday prepared that you're going to go in through office one morning you're going to turn your computer on and somebody is going to have written something which is going to cause you to say everything that I've ever done in my entire career is bullshit
+
+819
+01:18:01,440 --> 01:18:11,440
+and I just got to like get on with it and think within this new paradigm and that's not the way the belief systems work I mean because belief systems continue to
+
+820
+01:18:11,440 --> 01:18:34,440
+reinterpret all new data within the construct of those belief systems instead of abandoning totally what they've had before and I mean you guys at that experiment would have really been right in in in Europe a few months ago from that they had particles going faster than the speed of light if that would have been true that would have been a big problem for a lot of modern physics and modern astronomy
+
+821
+01:18:34,440 --> 01:18:45,440
+of course that's that's when it's fun you know most of us wanted that right right right right that's a free apple card yeah exactly exactly so
+
+822
+01:18:45,440 --> 01:18:55,440
+but the but the GPS this is not my question yeah but but the uh blaming and on a miscalbrated GPS has been refuted so it's still an open question
+
+823
+01:18:55,440 --> 01:19:03,440
+so um no it's been resolved has it yeah yeah they actually something was plugged in not completely
+
+824
+01:19:03,440 --> 01:19:19,440
+yeah yeah it wasn't a GPS they were receiving the time signals and it goes into a calibrator and literally the connection wasn't quite made properly and it introduced a 60 nanosecond delay and that was it it's
+
+825
+01:19:19,440 --> 01:19:32,440
+it's amazing you know you're over throwing the laws of physics based on it you know connect or not quite and just just as it's that's one line of the aliens code going wrong and it's more like tribal civilization
+
+826
+01:19:32,440 --> 01:19:43,440
+just one little line of course so here's the thing so I'm going to do something that's going to sound a little simplistic but I'm going to bring this back to a neuro biological interpretation
+
+827
+01:19:43,440 --> 01:19:54,440
+so one thing that hasn't been addressed directly is that we are here talking about what we're talking about in a structure that started as an idea because of our complex and
+
+828
+01:19:54,440 --> 01:20:05,440
+civilization specifically I want to talk about the frontal cortex where the planning the ability to plan to foresee a future to imagine a future largely occurs
+
+829
+01:20:05,440 --> 01:20:17,440
+now that said and referring back to Damasio-self come to mind in the case that the emergent self awareness that every human being individually goes through that we went through as a species
+
+830
+01:20:17,440 --> 01:20:29,440
+one I would imagine a great source of anxiety that gives rise to religions and their stories is the fact that we are aware of our own mortality
+
+831
+01:20:29,440 --> 01:20:39,440
+so I wanted to ask how many of you would care to respond to the to the question that once we have a robust functional and structural connect on
+
+832
+01:20:39,440 --> 01:20:53,440
+and we really advanced technology such as optogenetics and the next generation of fMRI that goes beyond statistical analysis there are some already in play as you may know
+
+833
+01:20:53,440 --> 01:21:06,440
+once we understand the language of the brain do you think that will answer the question why we care from the frontal cortex? That's the question
+
+834
+01:21:06,440 --> 01:21:18,440
+I mean that's way outside my field as I understand the research though that if that hypothetical is a huge one because that area of research
+
+835
+01:21:18,440 --> 01:21:31,440
+I mean if you think understanding the singularity and the initial conditions of the big bang is a challenge then go work on the mind brain problem for a decade or a whole year
+
+836
+01:21:31,440 --> 01:21:42,440
+so I am not familiar enough with the current state of the research but I think that's plausible it's just so far off we can't even see that horizon yet
+
+837
+01:21:42,440 --> 01:21:50,440
+even if we could take it one step further and say that we could do at some point in our life a total down mode of our entire brain
+
+838
+01:21:50,440 --> 01:21:52,440
+right it's a substrate independent mind
+
+839
+01:21:52,440 --> 01:22:03,440
+that's exactly and we would have all of our memories we would have you know everything that I'm not sure that once it's divorced from your own body and stuff that we would have
+
+840
+01:22:03,440 --> 01:22:07,440
+and yet that would be exactly what would be required for us to be in a simulation
+
+841
+01:22:07,440 --> 01:22:14,440
+yeah but wait I'm not sure now I'm missing I thought that maybe the question is to change so let me just understand the question
+
+842
+01:22:14,440 --> 01:22:25,440
+I understood the question to be would advances in neural imaging say take them all the way down to you can you know what every synapse is doing over some period of time
+
+843
+01:22:25,440 --> 01:22:33,440
+would that give us insight into why we're so scared to die now the question is if I could create a deep dive
+
+844
+01:22:33,440 --> 01:22:40,440
+if I could create a replica of myself somehow functional replica would I no longer be afraid of dying and which question are we talking about
+
+845
+01:22:40,440 --> 01:22:47,440
+they're both they're both implied by understanding the out of the structure of the frontal cortex so let me
+
+846
+01:22:47,440 --> 01:22:55,440
+let me answer both of them then I don't think knowing the neural structure down to the finest details you like is going to give you much insight at all
+
+847
+01:22:55,440 --> 01:22:59,440
+well that's why I added functional connect to structure
+
+848
+01:22:59,440 --> 01:23:09,440
+into into the origin of our anxieties I mean it's just a different level of analysis you need a level of analysis that should apply fairly independently of
+
+849
+01:23:09,440 --> 01:23:21,440
+hardware you know implement why is that though because if anxieties are emotionally driven and emotions arise out of the older portions of the brain like the reticular act doing formation the limbic system and the rest of it
+
+850
+01:23:21,440 --> 01:23:29,440
+and those interact with the mid and higher level functions of the more encephalized portions of the brain right why not be able to answer it in that capacity
+
+851
+01:23:29,440 --> 01:23:39,440
+well because the type of functional description of what's going on just isn't going to be tied that closely to neuro anatomy would be my guess
+
+852
+01:23:39,440 --> 01:23:46,440
+well again again I'm not saying all the out of me I'm talking about function as well but it's a time to go
+
+853
+01:23:46,440 --> 01:24:03,440
+this gentleman then yes how would the discovery and habitation of another planet different from the discovery and habitation of a new world by the Europeans
+
+854
+01:24:03,440 --> 01:24:18,440
+so that's a good question it would be substantively different just because of course as the original denizens of all these parts of the world noted you know they were there first so there weren't that many truly
+
+855
+01:24:18,440 --> 01:24:38,440
+antarctic out part there humans the patterns of human migration 60 to 30,000 years ago are extraordinary so there were very few places that were untouched and then it's us and it's us in a home that we've evolved over tens of thousands of generations
+
+856
+01:24:38,440 --> 01:24:58,440
+and adapted to the full physical range if we visited and even colonized a habitable world that could tolerate us and we could tolerate it you know the branching of evolution would happen and be sculpted very quickly
+
+857
+01:24:58,440 --> 01:25:15,440
+and it would be a new thing fairly quickly I think so that's the sense in which it would be different also because of the time and space disconnect that that would be you know it would be a new start because you'd have a generational
+
+858
+01:25:15,440 --> 01:25:35,440
+light time light travel time or you know artifact travel time between civilization one and civilization two would be something different so it would feel very different and presumably civilization one prime would not feel beholden or bound by
+
+859
+01:25:35,440 --> 01:25:52,440
+whatever had happened before they would feel like a new start as well.
+
+860
+01:25:52,440 --> 01:26:06,440
+So I'm not a historic I would not answer that question because I'm not really a historian I can't comment.
+
+861
+01:26:06,440 --> 01:26:31,440
+Let me just suggest that the mind particularly the unconscious mind is a developmental organ the mind the unconscious mind particularly is a developmental organ that being developmental that we have beginnings and we have and we develop
+
+862
+01:26:31,440 --> 01:27:00,440
+the essence of our being may in fact be our development the sort of meaning of life so to speak may be to develop that try to follow these assumptions with me that mind this developmental mind may in fact have been
+
+863
+01:27:00,440 --> 01:27:22,440
+an aspect of matter that more recently evolved so that you could have primitive matter you could have big bang matter and then you could have something that happened that evolved to mind that mind is another matter wave if all matters are
+
+864
+01:27:22,440 --> 01:27:43,440
+if all it energies away and substances away time is away and so on that mind is another is another way for me that is a ball so the question I guess I have is would this be a subject of interest to cosmologists and how did this new matter wave evolve
+
+865
+01:27:43,440 --> 01:28:06,440
+and was it in fact the evolution of mine as a new matter wave that evolved life did the evolution of mine precede the evolution of life that is can we imagine any form of life that doesn't require at least a little smitchen of mine to survive
+
+866
+01:28:06,440 --> 01:28:21,440
+in other words what do we have a court force problem but the question you all I think is is that would that be of interest to cosmologists is what steps were necessary to form mine
+
+867
+01:28:21,440 --> 01:28:41,440
+I mean I'd actually like to hear philosophy perspective on this but from this perspective of my field really we don't have a toolkit with which to answer that question all we can say is that in terms of the you know the ingredients and the raw materials for
+
+868
+01:28:41,440 --> 01:28:58,440
+biological experimentation you know that you've got time and space in abundance because you've as I think I alluded to you could have an earth clone with 8 billion year head start on this planet so you've got a lot of time to work with
+
+869
+01:28:58,440 --> 01:29:16,440
+and you've got 10 to the 22 round numbers habitable worlds so that's a lot of petri dishes and you know and we know what happened here we also know that of the hundreds of millions of species you know only one of them sits in rooms like this and has conversations like this
+
+870
+01:29:16,440 --> 01:29:29,440
+so and even if we had like that like an exact twin world that's had the same starting conditions right over the like you know 3.8 billion years of life and stuff it would have come out totally different
+
+871
+01:29:29,440 --> 01:29:53,440
+right yeah and that's a famous debate you know Stephen J Gold wrote that you know 100 earths lit by 100 suns come back in 4 billion years after life starts and what odds would you place on animals at all primates homo sapien like entities and of course the people in the field don't agree on that there's no way you can resolve that contingency question
+
+872
+01:29:53,440 --> 01:30:17,440
+so I don't actually have an answer to your question I don't know if you are well I mean I think there are two questions bound up one of which is just really really hard one of which is technically hard but we see the way through it and neither of which is exactly the one you ask so let me separate them
+
+873
+01:30:17,440 --> 01:30:34,440
+if you start with matter you can ask yourself how do we get consciousness when you're because you're just saying mind right how do we get awareness that is I think the hardest question there is and that nobody has a clue pretty much how to even approach it
+
+874
+01:30:34,440 --> 01:30:53,440
+given that we nonetheless do seem to know that states of consciousness are in very particular and precise ways dependent upon states of matter right that is you can get a tumor in a certain place in your in your brain and lose very specific cognitive capacities
+
+875
+01:30:53,440 --> 01:31:12,440
+right absolutely specific cognitive capacity so it's not as if there's a mind somewhere else that's unrelated to what's going on in your brain so I think the origin or the evolution of consciousness is just intractable because we have no idea really how to connect
+
+876
+01:31:12,440 --> 01:31:28,440
+the presence of consciousness with material structure in a comprehensible way there's another question which is the evolution of what we would think of as intelligent behavior that we find among animals and living things and so on
+
+877
+01:31:28,440 --> 01:31:44,440
+there I take it there's a pretty straightforward evolutionary story about why certain configurations when they become reactive to their environment are better computers I mean at least once we have some you know microbes competing
+
+878
+01:31:44,440 --> 01:32:13,440
+there's a reasonable story to be told about the evolution of more and more sophisticated behavior and when you said can there be life without mind I take it amoebas don't have my I don't know why we would have to think amoebas have anything like mind and they do enough to start an evolutionary process off right they replicate they can vary they reproduce you get that you you've started the evolutionary story or certainly in some sense you might say viruses are kind of alive and they're not much room for a mind in a virus
+
+879
+01:32:13,440 --> 01:32:42,440
+so I don't think that we need mind before life but how you get consciousness out of any process I think is but it's a bit we're talking about origins and the origin of mind is a is a wonderful question and I you know like to think of it again in this sort of hypothetical cosmic realm where we have diagnosed through work of my colleague here and others the story of more a good chunks of the story of what led to us
+
+880
+01:32:42,440 --> 01:33:00,440
+but we've also seen some interesting potentials and possibilities that might play out elsewhere differently so for instance if I were asking a hypothetical question about the evolution forward of life on earth I would say if we weren't here you know kingpins and sort of sculpting the planet to our will
+
+881
+01:33:00,440 --> 01:33:18,440
+I would be very interested to see what social insects would turn into in a few hundred million years or I would be very interested to see you know bacteria use quorum sensing and if you add up the bandwidth of their chemical communication it exceeds that of a conversation we're having now so it's not trivial
+
+882
+01:33:18,440 --> 01:33:35,440
+and they work in commensual ways in cooperative colonies and no one's pretending there's intelligence there or consciousness or mind I just like to see how that plays out in hundreds of different circumstances or with evolution given the vast you know folding
+
+883
+01:33:35,440 --> 01:33:50,440
+times available to it with time so I would not rule out the inception of something we call mind from quite different architectures biological architectures to the ones that led to us and quite different lineages and paths
+
+884
+01:33:50,440 --> 01:33:58,440
+we can't do that we can't do the experiment except conceptually we do it in the past though because social insects at a hundred fifty million has started on us
+
+885
+01:33:58,440 --> 01:34:15,440
+right I mean I when that when does have the sense again there's a always a kind of sense that evolution the evolutionary process must be aimed at something like us and so if we weren't around you know the the the the the the insects would evolve somehow
+
+886
+01:34:15,440 --> 01:34:27,440
+higher intelligence what we think of as higher intelligence but we know that's not right I mean that dinosaurs had plenty of time the insects as you say have had plenty of time the fact is what we know for sure because out of all the billions of species of
+
+887
+01:34:27,440 --> 01:34:51,440
+species there's ever been only one developed the kind of intelligence it's not evolutionarily very useful it can't be if it was like eyes right like sensors it would have evolved millions of times the interesting question isn't what would have my guess is if we weren't around and you have to let it go nothing would evolve with our kind of
+
+888
+01:34:51,440 --> 01:35:20,440
+technological intelligence the question is why us now you know one I don't know I know there's an interesting book about the hand that said it's because we got hands right I mean the fact is if you're a hyper intelligent tree good for you it's not going to help you right you can't do anything with it even if you're a hyper intelligent dog they're better ways to use your resources you know he got hands there's lots you can do with your intelligence or maybe voice or maybe language I mean you know they're all these different things
+
+889
+01:35:20,440 --> 01:35:25,440
+you know they're all these different questions of what was the driver that suddenly made it
+
+890
+01:35:25,440 --> 01:35:41,440
+usefully enough for human beings to grow really big brains so that it actually became hard to give birth to them right because they're because they're craniac got so big and it's certainly not because there is a general purpose
+
+891
+01:35:41,440 --> 01:36:10,440
+evolutionary advantage to that kind of intelligence because if that were the answer we'd see a lot more of it well I was a lot of questions already been asked I was on on that track I was interested in the creativity of the brain I was also thinking of Emily Dickinson speaking about the brain larger than the ocean and also of life beyond need I mean even in the animal kingdom thinking of crows or ravens they build structures to
+
+892
+01:36:10,440 --> 01:36:39,440
+appeal to the mate there is a creative force that exists in the universe it's beyond immediate needs of food shelter and that and that is even more expanded in the human being so one has to even go into the whole realm of creativity the desire to go beyond the known to hit against the boundaries so it's not only the boundaries of the universe it's the boundaries within the self that wants to go exceed itself and exceed its limits so I think that's a very important area of creativity
+
+893
+01:36:39,440 --> 01:36:42,440
+okay
+

@@ -1,0 +1,1092 @@
+Good afternoon, everyone.
+I'm Gerald Horowitz. I'm the Associate Director of Helix Center and I apologize for the delay
+in our getting started. One of our participants due to a family emergency is unable to make
+this talk on misinformation, coding and misinformation, and the birth of NFTs. And I'll say a word
+or two about what we're thinking this topic will be about, but the participants are going
+to be the ones who really help decide, and you'll decide among yourselves whether they're
+telling you the truth or not. Let me say something first about Laura Edelson, who's not here,
+unfortunately, but I'll give a brief description. She is a post-doc researcher at NYU with
+the Cybersecurity for Democracy Project, which she co-directs with Damon McCoy. There she
+leads the observatory and the ob-observer projects, which aim to increase public transparency
+of digital advertising, particularly during elections.
+We have here with us today, Susanna Martinez-Khande. Is that the way to say it? Isn't that good?
+She is an award-winning neuroscientist, author and a professor at the State University of
+New York, Downstate Health Sciences University. She is the founder and executive director
+of the annual Best Illusion of the Year contest, which inspired her most recent book, Champions
+of Illusion, published by Ferro Strauss and Jerome. Her first book, The International Best
+Seller, Sleight of Hands, Sleight of Mind, What the Neuroscience of Magic reveals about
+our everyday deceptions was published by Holt and won the Prisma Prize for Best Science
+Book of the Year. Martinez-Khande is one of the premier science communicators in the United
+States and has made television appearances on the National Geographic's channels, redesigned
+my brain, discovery channels, head games, the daily planet, PBS' Nova, Star Talk, CBS,
+Sunday Morning and the World According to Jeff Goldblum.
+Sidney Gess is an assistant professor of politics and public affairs at Princeton University.
+His research and teaching interests lie at the intersection of political communication,
+public opinion and political behavior. Via a combination of experimental methods, large
+datasets, machine learning and innovative measurement, he studies how people choose,
+process, spread and respond to information about politics. Recent work investigates the
+extent to which online Americans, news habits are polarized. The popular echo chamber hypothesis
+patterns in the consumption and spread of online misinformation and the effectiveness
+of efforts to counteract misperceptions encountered on social media.
+Yotem up here. Is that, did I get to? Yeah, good. He's saying good enough. Thank you.
+He's an assistant professor of communication at the University of Buffalo. His work combines
+computational methods for text mining, network analysis, experiments and surveys to study
+media content and effects in the areas of political science and health communication.
+Dr. O'Pyr authored and co-authored more than 300 peer reviewed academic papers published
+in journals such as the American Journal of Public Health, Health Security, Tobacco Regulatory
+Science, Risk Analysis, plus one Journal of Communication, Communication Research, Public
+Understanding of Science, Journal of Public Health at Health Communication, Communications
+Methods and Measures and more. So with that, we're going to get started. I'll after I
+take my seat. Okay, so I'm interested in getting things underway and I invite any of
+the three of you to jump in and express at least some sort of ideas about what you're
+seeing, what everyone of us, I think, is seeing in our culture about misinformation, polarization,
+etc. And obviously because the conference is on coding, we're interested in sort of how
+digitalization of information may be playing a role in this. So who wants to start?
+Okay, I'll offer a sort of starting idea and you'll feel free to sort of revise that
+or throw it away later, but just to get things started. I think part of what's happening
+or what has been happening is that we have incredible digital communication technologies
+that have enabled many people who previously were not able to express themselves at the
+sort of ease and scale that they can now. And this created a lot of opportunities for
+different people, different perspectives in different groups to express themselves in
+society and also to engage with society and participate in society in new ways that I
+think have sort of cut against the usual kinds of inequalities. However, what that also means,
+another way of saying that is that sort of traditional gatekeepers, including gatekeepers
+of information, have lost their kind of received power. And so kind of a flip side of that
+potentially is that gatekeepers who exist to kind of maintain hierarchies but also to
+vet information for better or for worse, have lost some other additional power. And so one
+of the big questions today is sort of who or what, including technologies, is replacing
+these kind of standard gatekeepers that have been in place for, let's say, 100 years.
+And how do we as society sort of adapt to this new reality?
+And I can add to that from a neuroscientific perspective, our brains are not wired to
+multitask. It's the opposite. We're wired to pay attention to one thing and one thing
+only and suppress everything else. What happens is that when we are pulled in all directions,
+we cannot really pay attention to more than one thing at once and arrive to any type of
+quality judgment or performance. This is something that happens in magic shows, actually magicians
+get us to multitask in a magic show, they split our attention, and that's how they get
+away with magical murder. What happens this day is that with all this digital content
+and social media, this is really pushing our capabilities to pay attention to the limit.
+And so we are, it's very taxing to be able to determine what actual data, what's misinformation,
+because everything seems to have the same priority and we are not focusing and analyzing
+in any depth for any length of time.
+I mean one of the big questions that I think are on my mind recently, is are we really in
+a new era of post truth? I mean, because you hear it everywhere, right? That we move to
+a different time in human history, but it's not clear to me based on the empirical work
+that we've been conducting and based on reviews of previous eras that really crossed a rubric
+on to a different time in terms of relationship between humans and truth or humans and information.
+I'm wondering in recent years why is everybody so preoccupied with misinformation now? It
+wasn't like that 10 years ago, right? When I started, I'm relatively, this guy is new
+in the area, but when I started in 2010 to look into misinformation was kind of a niche
+topic in social sciences. I wonder if something really changed in the way we communicate with
+one another or some external events happen that kind of pushed us to look for explanations.
+In other words, are we sitting here because something really changed in how we use media
+or are we sitting here because we're still trying to explain to ourselves the 2016 election?
+Yeah, what is going on? Well, this reminds me of, I think there's sort of two general
+classes of commentators on what's going on with us. So the one class says, oh my God,
+this is completely different. We're really in trouble. And then I'm sure you've all seen
+other articles that suggested, oh no, back in 1820, there was just as much politicization.
+Maybe there was more people were fist fighting in the Capitol building, et cetera. If it's
+true that there was an earlier period where there was more of this sort of fermentation
+of politicization, can we see anything in common then from now? Is it possible to draw a line
+between those two processes? Yeah, I mean, yeah, I know it could please go ahead.
+I think they work fundamentally the same people that we were a couple of hundred years ago
+and even much earlier. And we are, actually we have the capability and even you could
+save the drive to lie and to deceive the brain is the great story better. And we try to make
+sense of reality by telling stories about what's happening to others as well as to ourselves
+and that we make incorrect connections between cause and effect that has always happened.
+And even if something as easy as trying to trick somebody into thinking that we're interested
+in something that we're not or the other way around, we are able as primates, we are able
+to pay attention to something that we're not looking at for will intend to deceive for
+the primates to do this as well. But not every species is able to do it to dissociate what
+they're looking at from the place that they're actually paying attention to. So we have these
+mechanisms that are inherent to our brains that we have always lied to one another. I
+think what's different now is the tools that we have accessible to us. And I think that
+it used to be much easier if you don't know is this true or is this a false hood and you
+go and you try different sources and you can arrive to the veracity or particular issue,
+I think much more in a much more reliable way. I mean, even today you see an image, you see
+a video or an audio record. You cannot really tell if this is manipulated or not. This did
+not used to be the case.
+And I guess misinformation has always been there. It's not a new phenomenon. The only
+thing that seems to me is new is more people have access to internet and so on, which allows
+them to express their opinions, which before they had no access. So if, let's say, you
+were organizing a coup in a foreign country, you gave a story about what was happening
+that was in the papers and everybody accepted and nobody said, and if you knew information
+that countered the motives that were expressed, you couldn't make it public because there
+was no outlet. Now you have questions about, I don't know, whatever political issue, you
+immediately put it on the internet and you have an opinion and then other people follow
+you. And of course, part of the problem is the more you claim to have some kind of conspiracy
+behind it, the more excited you make people get and the more you have tension.
+Yeah, I think, I mean, one way of kind of restating a part of what you said is that
+propaganda has always been with us. It's traditionally been the domain of elites and
+today, the ability to produce propaganda, like a lot of things, has been democratized.
+So now anyone can sort of make up their own stories and they can have it disseminated
+instantaneously at great and unprecedented scale. So that's one thing that has changed.
+Right. And there are positive aspects to it because, like you said, there used to be
+like a one version of the truth and there was no questioning and that I'm thinking,
+well, something that I'm afraid about is the flu of 1918, what we call the Spanish flu,
+when it turns out it did not originate in Spain, actually it's still debated, were it
+actually? China, right. Sorry. Start a new rumor. Exactly. So, but the point is that
+apparently it is the case that the Spanish newspapers were the ones that were not lying
+about the numbers, other places were suppressing that information. So that's how it became
+to be known as the Spanish flu. But so that was like, I kind of like a worldwide misinformation
+back then, 100 years ago. Right. There may have been this sort of also this movement
+going back to their early 19th century where one of the pieces of propaganda was that our
+elected officials were dependable, reliable, they were reliable elitists and they were
+going to tell you the truth. And that was a useful bit of propaganda to a degree. I mean,
+you know, I don't want to sound too cynical about it, but that was a story and narrative
+that many people in the United States accepted true or false, but they accepted it, but it
+may have done some good because people said, well, I can look to this authority to establish
+the truth or falseness. Now we have politicians in this article this morning in New York Times
+that shows the number of Republican candidates who deny the results of the 2020 election.
+The majority of them deny the results. We're, it's interesting, fake news was is the claim
+of the people who've been creating a lot of the fake news, right? So they're not only
+producing fake news, but they're undermining everyone's faith in any authority to set
+the strength. The term fake news has come to me in something different that it used to
+mean some years ago, but it is true. I mean, something that it is not just trusting politicians
+and trusting governments, but I believe in trusting in scientists actually, we just published
+a paper in which we found in an international sample that the willingness to be vaccinated
+for COVID-19, the parameter that was mostly related to with one's willingness to be vaccinated
+was trust in scientists. And when this trust in scientists is not there anymore, then you
+have people who are thinking, well, why should I be vaccinated? I can do my own research.
+And I think that that's what we're seeing also that anybody can do their own research.
+And everybody can be an expert. There is no separation between expert opinion and the
+opinion that basically anybody could have in any field.
+I think if there's one thing, political scientists in my field of political science,
+it's the one thing that we have found time and time again is that trust is this core
+ingredient in making democracy work. And it's trust in institutions, trust in scientists.
+I would add maybe trust in the news media, trust in some basic quality sources of information
+about society, just trust is the thing that makes things run more smoothly. And when you
+lose that, things can come apart. And so this conversation is making me ask, on the one
+hand, trust is good. It has a lot of beneficial properties. But does trust also come with a
+cost? So what are we giving up in order to maintain high levels of trust? I think you
+suggested one, which is that if we sit on one extreme blind trust, you could blindly
+trust the government, you could blindly trust what the news tells you. And we've just seen
+through history that that too can have its pitfalls. And so maybe just I don't really
+have an answer to this, just to pose it as a dilemma. But I might suggest that there
+are perhaps different sort of equilibria that might work. So you could have a high trust
+equilibrium where there are perhaps more established gatekeepers, there are more transparent institutions
+and people understand how that works. And then we're in the process of moving to another
+equilibrium and we haven't quite figured out what that looks like, but it's a destabilizing
+period.
+And I think that perhaps, I mean, we're trying, I feel like the conversation that we're having
+is that it's top down. What can we do to achieve a balance or what should we do that so that
+society has a diversity of sources of information, but maybe not too much diversity or maybe
+another everybody's opinion should be way the same. I think that perhaps it's a, I don't
+have an answer, but maybe we can, there are certainly positives in having accessibility,
+having access to all of these kinds of forms of information, even fake news. But what we
+are lacking is education. And I think that what we, some of the things that we need to
+as a society is to empower individuals and that in the educational systems, I feel like
+even today children are not giving the tools to develop critical thinking to be able to
+face and evaluate all of these alternative and competing sources of information. So that's
+a serious lack.
+I want to build on something that Andy said, I think it's a healthy thing to be skeptical.
+We are scientists. That's what we do. That's our job, right? I mean, our job is to be skeptical
+to a healthy degree to question knowledge even after it's been established and so on. But
+what we've, what we're seeing in recent years is kind of a shift that I see as dangerous
+from skepticism to cynicism. And I think it has a lot to do with this erosion interest
+in institutions of knowledge that's actually predates the internet and social media. I
+mean, you can choose a lot of random points to kind of start the discussion of it, but
+I'll choose for now the early 90s where conservative talk radio shows like Rush Limbaugh and a
+few years later Fox News were launching these campaigns against the institution of knowledge
+if it's the mainstream media, if it's the scientific community, basically a populist
+argument that elites are lying to you and they're not working for you. I think this
+is where you start to see the beginning of the process that we're in the middle of right
+now. In the last six years or so, I believe that the Trump presidency pushed it even
+farther by not so much spreading specific lies, but challenging the epistemology of
+knowledge. I mean, what does it even mean to know something? Who should we trust and
+who shouldn't we trust? If you look at Trump's making arguments, for example, and I'm sorry
+that I'm making it about Trump a bit too tempting, but all those, all those sayings
+that people are saying, right? I mean, Trump says people are saying that the elections
+were stolen and now we should accept that as a source of knowledge. The whole perception
+that there is no reliable source of knowledge, that everything is subjective and everything
+is an attempt to push in the agenda of sorts, is I think kind of the cause of where we are
+right now.
+In our first panel this morning, Jorgi Bizaki was mentioning how so many of the facts that
+we think we know that we ascribe to, we don't know firsthand. We get them from our parents
+or from other authorities and we don't have the time to go and validate everyone, every
+one of them. If the world's in a state of chaos and it's making everyone anxious and
+I think rightfully it's making many people anxious, one thing to say is, well, one thing
+to hope for is that you have a great leader who's going to help communicate to you why
+you need to stay calm and carry on. And the other thing that can happen is leaders could
+say, no, you're right to be anxious, the elites are screwing you and there's a conspiracy
+going on. And weirdly enough, that conspiracy thinking, I think puts some of their minds
+partially at ease because I think, well, now I have an explanation for why this is going
+on rather than having anything more meaningful. I just want to say one other thing, I'm a
+physician and I treat a lot of, I'm a psychiatrist and many patients will come to me and complain
+about their doctors, their non psychiatric doctors, their primary care doctor or their
+cardiologist, whatever. Can you believe he didn't do this or say this or do this test
+or she didn't do this or? And I'm skeptical about the quality that some of these patients
+may get from time to time. Some of it's excellent, but some of it's not so good. But I always
+say to these patients, like, listen, if you want to go with the numbers, go toward the
+doctor and do what they tell you, okay, because, you know, it's not perfect, but it's better
+than you staying away and thinking you're going to figure this out on your own, right?
+So maybe that's a weak argument in favor of trusting authority. You say, look, you're
+better off of just imagining them to be honest and fair to you. It's pretty difficult with
+what's being advertised these days, right?
+And it's true that we need to develop some sort of algorithms for what you should trust
+and what you should. Because nobody has the time or the resources to question everything.
+And it seems that from regular skepticism about the particular sense of claims, we have a
+right-to-situation in which everything is set for questioning. It is different to question.
+I believe two vaccines cause autism, right? That has been debunked many times. But from
+there, we shouldn't, you know, go on and question whether the Earth maybe is flat and that there's
+actually a flat Earth society. I don't know how serious they are. But yeah, I think that
+goes again, I think, to the issue of like the expertise. Do we even rely or do we even trust
+to recognize that there is an actual thing as an expertise and who gets to be an expert
+and who gets to have an opinion that should be valued?
+There was this movement that's going on now for many years now. I think it's a high-frequency
+trading in the stock market, right? Where these transactions are occurring way faster than
+human beings can involve. And I mention that because apparently it does have an impact
+that the speed of these transactions has an impact on the dynamics of the market. So I'm
+wondering about, because this is a talk after all about coding and digitalization and such,
+we are getting a much faster feedback by the social media outlets that are tailoring the
+news items we get in a much higher rate. I wonder what you all think about that as a
+phenomenon.
+I mean, I think you're absolutely right that the velocity, the sheer velocity of information
+is increasing. And, you know, I think the most common response to this that I've seen
+is that people become overwhelmed and just tune out. So news avoidance is now like a
+term for it. There's a phenomenon of news avoidance. People just turn it off. They pay
+less attention. The flip side of that is people who actually do want to inject the information
+into their veins can do so at the most extreme rate that was never before possible. And so
+you have super engaged people who want to consume every little bit of content and are
+sort of mainlining like Twitter or TikTok or whatever it is. And then you have everyone
+else who's sort of not as engaged. And, you know, that creates a whole set of new problems
+for itself, because then you have, imagine the feedback, you have, you know, you have
+content producers, you have information sources that are now catering, whether they're fully
+aware of it or not to these like most hyper engaged consumers whose interests may or may
+not reflect those of the rest of society. And we don't consume all information equally
+because we are all subjective to cognitive biases, you know, confirmation bias. We hear
+what we want to hear and that this piece of information that is supporting my prior view,
+I'm going to really go deep into it and I'm going to process it in high detail with high
+focus and that this other piece of information that goes against my views, I'm just going
+to ignore, keep scrolling. So, and I think that the fact that we have so many source
+information coming at us with high speed and high amount, this only serves to exacerbate
+the cognitive biases that we already have because we're overwhelmed all the time and
+just defaulting to these ingrained ways of thinking. So, I think it is harder to change
+minds today than it used to be.
+I know in magic, one of the things they'll do is they'll get you to look here and you
+look there and they're getting you to confirm some false belief quickly, right? One, two,
+three, and then the trick goes, that takes place, right? And that's a little bit of what's
+going on with this, I think, right? There's all this sort of false and it's at least emotionally
+stirs you up.
+Yeah, absolutely. There's probably a paper about what the psychology and neuroscience
+of magic tell us about misinformation because there are so many parallels.
+I think the word emotional is key here because when you talk about polarization and the way
+the algorithms are maybe pushing us towards our own views, it's important to remember
+that most people don't care about politics or don't understand politics at all. I feel
+like what we do see right now is a lot of emotionality, a lot of affective polarization,
+right? I mean, I hate conservatives or I hate liberals. I mean, I just can't stand them
+and what they represent, this kind of sentiment is more driving people than actual understanding
+of policy or, you know, deep ideological views. Most people don't care about politics at all
+or I understand very little about it. But it seems like more and more we are occupied
+with feeling about the other side. That's what I see. I don't think we are more politically
+sophisticated now than 10 years ago.
+More and more we are.
+Say again, sorry?
+You said it's not so much that we are actually interested but we are more and more kind of
+preoccupied by it.
+I think we are more and more identifying emotionally with one side of the cultural divide that
+we have in this country and the more we see ourselves as part of one group and not the
+other, the more we seem to hate the other group more than we care about the actual policies
+that they are trying to promote.
+I think one example of how it's not always just about politics either. I mean, the way
+we might or might not be manipulated. One is I'm an infrequent user of Instagram and
+I don't use TikTok but I understand Instagram says hey, we have to get more of what TikTok
+is doing. So we are going to show little videos.
+So they show those ridiculously appealing videos of dogs and cats.
+And the next thing I'm going with, before I'm able to break away and that's just plucking
+in my emotions. There's nothing typically political. It was the one with the bulldog
+with the Trump hat on but aside from that it was just emotionally engaging and they are
+very good at it. I was like Doritos. You want to have another one and another one and you
+keep going.
+But the other topic which is again not really political, maybe it is a little bit, but it's
+this article today in the paper about this new finding about Chaucer. I mentioned this
+earlier today. So Chaucer has been accused by certain literary experts of having raped
+somebody. And in any way being a misogynist and a lot of feminist literary scholars have
+been applying feminist analysis to Chaucer as the father of English literature so to speak.
+Anyway, someone came up with this wonderful, it seemed to be wonderful and it may not be
+because we have to be checked. But the interpretation of these legal documents may mean that it
+wasn't the word, it wasn't rape. Anyways, this is a special term they use. They seem
+to demonstrate that this was basically, the woman was basically defending herself against
+the accusations she left her previous employer too quickly and was taking to Chaucer's and
+both of them were in defense of this lawsuit. Anyway, I'm sorry if this is confusing to
+her. My point is it may have changed the worldview of many of these people. So I'm thinking,
+gee, I wonder how some of these feminist scholars are going to react. And I was really pleased
+to see that the ones that were quoted in the New York Times anyway had a really good and
+measured response to it. You know, like, well, this doesn't mean that everything we do about
+feminist scholarship is now invalidated whether or not this is, whatever this, however this
+gets determined. But I knew I was thinking to myself, people are invested in a particular
+view, you know, and they almost resist the idea of changing. Like, they will disbelieve
+they're a little bit more skeptical of the new finding, let's say, because they want
+to hold on to their view of the way things are. And I think that's fascinating because
+that's, again, it's not exactly a political case.
+Isn't that rational that what you just described?
+How do you mean? I mean, like, I've lived, you know, I've lived a number of years, like,
+I've educated myself about a topic and I've like developed what I consider to be informed
+views about things. Find counter a piece of information that like, maybe challenges some
+part of my existing belief structure, like, sure, like, you know, I might be skeptical
+of it because it contradicts, like, it contradicts my worldview, which I've rationally, you know,
+constructed, of course. But like, it would be very strange from a rational perspective
+I were doing counter one piece of information that contradicts what I think and then so totally
+changed my opinion, right?
+But wouldn't you take pride in thinking that you're open-minded to changing your point
+of view? And whether I've changed it, you might say, oh, good.
+Yeah, yeah, yeah, but I think open-mindedness doesn't necessarily mean that you are just
+like, your opinions are being swayed by every piece of information that you encounter.
+And I think sometimes that's the idea that people have when the term sort of open-minded
+is used. And I think I actually think that would be irrational and totally unworkable
+if people went around the world just totally changing their views based on the last piece
+of information that they encounter. I'm caricaturing what you just said, but we have people here
+with more expertise who could probably speak to what I'm trying to say. But I guess, you
+know, often these kinds of patterns where people say, like, oh, you're resisting this
+information. Well, yeah, I mean, of course, people are resisting information that like
+challenges their worldview. Like, why would we expect anything otherwise? Scientists do
+that all the time.
+I guess I'm thinking there's a value in believing in your intellectual indifference to the outcome.
+I'm not saying you are going to do that. You're a human being and that's natural, it is natural.
+But if you say about people, oh, it's only natural, you're going to be in a camp. That's
+the camp you're in. And if you say, well, there's a real value in ascribing to some impartiality.
+And I think that we've lost a little bit of that, that there's... Trump made some comments
+some time ago that, oh, of course, someone made that decision because they're a democratic
+judge. And Justice Roberts said, nothing like democratic judges and Republican judges.
+Well, I think this is fascinating because I have to say, I don't know anyone in my circle
+who, most of those people do not like Trump whatsoever. I think they all go, yeah, he's
+right. Okay. Now, see, to me, that comment of Roberts was prescriptive, not so much descriptive.
+Like, it's sort of, yes, we should be able to believe in the indifference of our jurists
+because that's really the ideal. You say, well, in a real world, it doesn't work that way.
+You're being a fool. You're being naive. But you see, instead of saying, oh, good for
+you for supporting the idea of impartiality, you're sort of looked at like you're some
+kind of knife, right? I think that's unfortunate. I mean, why not believe impartiality as an
+ideal?
+Well, I think as long as it's clear that this is aspirational rather than descriptive.
+I think impartiality is good, but it depends on what it is about. There are certain things
+that you can't be impartial about. So if they told you the best treatment for depression
+is to hang yourself, you can't be impartial about such a thing. But I think part of the
+issue is to be somewhat somewhat, it's said that skeptical and have a certain more balanced
+view is that it helps with anxiety. You can see that in your office, if you have a couple
+and one of them doesn't trust the other one, the lack of trust becomes a major preoccupation
+going around and around. Next thing you know, they're checking each other's cell phones,
+they're doing this. So trust is very important and I think what's happening with all this
+misinformation is that you end up diminishing people's trust and therefore you get the kind
+of agitation that we've seen, especially in this country a couple years ago where everybody
+is so agitated, you have patients who are waking up at two o'clock, three o'clock, four o'clock
+in the morning. I say patience because that's my sorts of information, but I'm sure some
+of my friends were doing that to check the news. And so that kind of thing is psychologically
+damaging. So there is a limit to how much misinformation can actually affect people's
+mental health and I think it does and to develop skepticism about all the information is a
+positive look. I think you're both getting on something important in terms of you mentioned
+something about presenting a balanced view and what is a balanced view because hanging
+yourself is not a good treatment for depression and you shouldn't be given the same way as
+some actual forms of therapy. But this is something that the news media has struggled
+with and that leading to the Trump election used to be in a newspaper recording that a
+new person two sides of an issue and that's supposed to be balanced. But I think that
+reports today they have come to still struggling with this but they're coming to the realization
+that I just giving equal time and equal work come to two issues. That's not necessarily
+a balanced view or if you're talking about having a TV show with interviews about a panel
+about climate change and you have a climate scientist and a climate denier that's not
+a balanced view because in one case you have the exception view of a specific issue and
+the other case you have somebody who represents thousands of climate scientists so it's not
+that's not balanced that would be in balance but I do not think that we have arrived to
+the right formula or 100% different size of an issue with appropriate weight.
+Well you and Tim you mentioned the cynicism before and you know for me the issue of cynicism
+as I was saying in my thesis just a moment ago that if people are considered to be somehow
+stupid or naive to be open to some you know consensus opinion or some authority and that
+or if they're made fun of for thinking or believing in impartiality that doesn't breed
+that doesn't breed trust it just won't you know you're wrong for being for having any
+trust in an impartial decision you're just a fool and I'm afraid that's a meme in our
+society right now it's keeping us away from forming establishing some kind of legitimate
+sources of authority for many of these topics and there seem to be a change in how we react
+to evidence I think evidence is maybe a key word here on one hand we have more and more
+segments of the population who just reject evidence as irrelevant and on the other let
+me take for example you know what the the January 6 hearings right now there is a I
+think kind of a feeling that no matter how much evidence the committee will accumulate
+some people will not be persuaded by it right maybe because they distrust the source of
+the evidence or maybe because they just don't it doesn't change our mind at the same time
+where evidence is losing its meaning for many people you now have a new kind of brand of
+conspiracies and that doesn't rely on any of it and it's at all I mean I take the they
+QAnon conspiracy for example people are willing to believe in in outrageous arguments based
+on very little it's it's different even from the conspiracy theories of let's say 2001
+where truther is around the 9 11 attacks were trying to collect every bead of information
+they could you know they would try to I mean it was of course inaccurate and wrong but
+at least it wasn't attempt to kind of find some information that can support their side
+I remember all the you know attempts to calculate the heat levels of the metal and what not
+these days the new conspiracies are just arguments being thrown around people are willing to
+at least spread them without any support whatsoever and at the same time they're willing to reject
+the scientific community that that is working around around facts and evidence right and
+I think that part of the problem and one of the reasons not necessarily the main reason
+but one of the reasons that we don't have trust and that misinformation continues and
+impeded is that we have a lack of accountability I don't think that we can have trust without
+accountability and I think that perhaps there are some there's a there's a sea change or
+the beginnings of a sea change I mean we just had the Alex Jones trial for spreading this
+misinformation with the with the with the families of the Sunday Sunday hook victims but
+for for a very long time for over a decade he was able to spread this misinformation and
+making a lot of money out of it without without any consequence.
+I mean just to throw out one other ingredient in this yeah I'm I thought your take on the
+sort of objectivity and you know the extent to which sort of whether something is truly
+objective say in journalism has been challenged you know I think the you know what's going
+up part of what's going on here is that we have claims by kind of established players
+so like journalists like judges who are you know they're claiming some sort of objectivity
+or neutrality but people you know have they're taking some other evidence like whether it's
+their experience or they're feeling that there's no accountability or being able to point to
+outcomes that contradict this this assertion of objectivity and they're saying what you're
+saying isn't true or you know I don't believe what you're telling us because we have this
+other evidence that you know you're obviously biased towards this outcome and it's easier
+than ever to obtain that independent evidence that at least challenges these traditional
+claims to objectivity and lack of bias and you know one thing that's making that easier
+is transparency or just you know the ability to actually collect your own your own data
+and make that available for other people traditionally you know most information that people would
+use to make these kinds of assessments was channeled through these kinds of gatekeepers
+but but today you know whether it's through literally laws that allow people to just request
+documents from from government authorities or social media which can take very obscure
+pieces of information and suddenly put them in before millions of people suddenly you
+know there is other evidence that people can use to challenge these claims to authority
+which are based on you know neutrality or objectivity and that can't withstand that kind of scrutiny
+you know if people are willing to believe that that the claims are not fully fully based
+on yeah like on a solid foundation.
+Even the efforts have been to try to police or regulate the messages in social media
+and then that that's a fraud to some degree fraud right.
+I think people don't understand how unregulated social media is part of it is intentional
+I mean we decided to put social media under section 230 which means that we read them
+as the technology industry and not a media industry right.
+I don't think people understand how arbitrary the process of moderating information on social
+media is it's basically still you know based on on those companies making decisions based
+on their on their financial kind of benefit they are not legally bound to remove misinformation
+there are no clear rules about what's considered misinformation or not this is the wild west
+of information.
+Why is misinformation bothering us more than that because we have more access to it.
+Because what sorry.
+Because we have more of it or more access to misinformation why are we so bothered about
+it.
+I mean we knew it was always there.
+I think that what's new about misinformation in the digital era is that we are communicating
+now in an environment that prioritized the algorithms that you talked about earlier.
+I think for a long time we were worried that the algorithms are pushing us toward information
+we already believe in.
+So there was a lot of discussion of filter bubbles and echo chambers and all those ideas
+but I think these days it seems more evident that the environment that we communicate in
+prioritizes engagement I mean at the end of the day it's a financial decision the social
+media companies like Facebook and TikTok and YouTube are free meaning they need to make
+money somehow when they do that by keeping us engaged for as long as possible collecting
+our data and tailoring advertisements to us right.
+In order to do that they need to give us information that that's going to keep us interested.
+This information just fits the bill better than facts.
+I think the information environment that we are working in and almost living in these
+days just prioritizes misinformation more than before more than the mass media or mainstream
+media era that was more bound to some objective norms of objectivity.
+It's something that I think should bother us is about the access and vulnerability that
+young people have to misinformation.
+This is no and I have three children there 11, 12 and 15 and I noticed especially during
+the pandemic during Zoom school and my two all this kids were a couple of years older
+at the time I guess 13 and 11 and I learned a little bit too late and that we've better
+best to remedy it but they have been subjected to a vast amount of misinformation online
+and we have a number of conversations and I have not even been aware of this and that
+even with misinformation being kind of like my field in a sense but this was basically
+happening in front of me and I wasn't seeing it and young people they have access but they
+don't have the tools it's difficult to have the tools as even as informing as informed
+adults but in some of these misinformation is specifically targeting children and young
+people and yeah I think it's a big problem and it's a no problem.
+Well if it's true that it's way less regulated and never in the past would that mean how
+would it be regulated now is that something you're in favor of?
+I mean it's I mean if you're talking about things that are targeted to children I mean
+that seems like a pretty ripe area for regulation that seems like yeah that seems like that's
+a pretty pretty uncontroversial statement so let's start there.
+Yeah are we skipping a right are we going to regulation now?
+I mean I was interested in actually peaking off something else that you said so I mean
+you've been talking a little bit about sort of learning basically like training and teaching
+people how to basically sift through the information that they encounter and there's been a lot
+of talk about you know trying to improve educational efforts both you know in children and even
+later in life so I've been very interested for example in things like digital data.
+Media literacy you know trying to come up with ways of improving people's digital literacy
+skills as a potential solution for people's susceptibility to misinformation and so I'm
+curious if you've like you know ever kind of thought about that or if you've encountered
+these kinds of issues if you are optimistic about these kinds of approaches for helping
+to solve this problem.
+Well optimistic I don't think this is the only solution but I think it's an integral
+part of the solution and because I mean to be able to sift through all of this information
+and decide what to keep what to discard you first need to be aware of your own vulnerability
+so you have to be aware that there are all of these various sources of information.
+I think also there's lack of awareness of our own just neurological susceptibility
+such as human beings with the nervous systems that we have how we can folkry to all sorts
+of perceptual cognitive biases.
+I don't think that this is really well understood or accepted you think okay I'm going to be
+able to I know that there is misinformation out there but I know myself I know that I
+can make a good decision and you can convince yourself that you can be a good judge and
+but fundamentally you have to realize that you have to keep questioning yourself because
+you are vulnerable in ways that are not going to be apparent to you.
+I want to go back to regulation for a second it's a really tough topic and all of us are
+struggling to answer those questions.
+I think there are two parts or two components that we need to consider.
+First is what do we regulate and the second is who is supposed to do that.
+So the first one is hard I mean both of them are hard but the first one is really really
+hard because the amount of misinformation right now is so big that we cannot regulate
+all of it right so we need to make a decision on where to draw the line in the sand.
+For me for example I mean it's still vague but my kind of border line will be where people
+live or well being are put at risk right so maybe we wouldn't regulate any misstated
+argument on the internet but if something is for example the conspiracy is putting a
+complete full racial group at risk for example maybe that's the place where you want to intervene.
+So first of all we need to decide what to regulate and what not I mean what kind of
+lies to take down and what not.
+The second problem of course is who's going to do it and both options are pretty bad.
+One option is to let the government do that and we know that in the past governments
+had abused this power.
+The Chinese government for example right now is regulating TikTok in a way that removes
+let's say information that's favorable to the Hong Kong and Taiwanese side right.
+We can think of other examples from the history when governments use their power to regulate
+information to detrimental effects.
+The other option is to let the companies themselves do that and that once again is problematic.
+Do we trust Twitter to decide what's truth and what's false.
+Do we trust YouTube to be the arbitrators of truth.
+The answer is of course not.
+They are first and foremost business people.
+Their concern is with the bottom line of their companies and they don't have a motivation
+really to keep the information environment clean.
+Now between these two if I had to choose I would still go with the government because
+at least the government is being elected by the people.
+I mean nobody elected Mark Zuckerberg to have so much power over information.
+Politicians are not perfect.
+But at least as citizens we have some authority over selecting them or monitoring their behaviors.
+So no solution is perfect but I think we need to start talking about government regulation.
+It happens in other countries.
+I mean in the United States it sounds like a big deal to ask the government to interfere
+with information but take Germany or Austria for example where it is illegal to deny the
+Holocaust.
+I mean there are laws in place and again how do you decide what to make into a law where
+something is becoming an existential threat to people's safety.
+So maybe it's time to start seriously thinking about regulation.
+I wasn't actually necessary.
+I didn't want you to get the idea that I was in favor of regulation although I know there
+aren't that many obvious solutions to it.
+I also agree with the idea of educating people more to try to become more skeptical.
+I'm a little bit pessimistic about educating people basically because of what your original
+premises which is we're really prone to these sorts of trickery.
+We just are as human beings.
+And then there's this sort of general idea that there's a, you know it's interesting
+that there's so much skepticism about truth started on the left.
+There's a lot of critics of skepticism and the relativism of truth started on the left
+and then it's sort of really been appropriated by the right now.
+And so we have both camps have become relativist which is difficult.
+Right, as people say well I don't think the government on the one hand should be the ones
+who decide what's true or what's not true.
+And then the other people say we should be free to say whatever we want.
+We want the First Amendment rights.
+Everything's turned upside down.
+But maybe the idea might be also, you know, first of all I think when folks say well for
+example Holocaust denying is illegal in Germany I don't think about their legal system around
+that but I imagine if you've been cited for claiming the Holocaust wasn't real you might
+have some ways to address that legally to try to, no I didn't do it or was it work of
+art or whatever, you know something of that nature.
+I would think maybe that would be something that would happen here.
+The other is you can get together these businesses and say look you have to come together with
+to some consensus of what's legitimate.
+Let the companies do it as a group and let them know that otherwise it's going to be
+the government's going to step in.
+It's interesting that a lot of, I mean you were mentioning where the groups being oppressed
+because of false information I think Alex Jones was a good example but one of the things
+that came up with Alex Jones and I know we've all heard about this in other context is that
+there are people getting threatening phone calls and you can imagine that that's something
+you could keep a record of and it could be something used as a trigger point for there's
+something has to be done about this.
+This is leading to a lot of threats.
+I don't know what you all think of that as a possible.
+Yeah I mean that's something that would probably be illegal you know offline with a telephone
+so why would that be legal if you're doing it through Twitter or through Facebook.
+I will say I thought the way you framed that was very good.
+You know personally in terms of regulation I feel like we actually had a pretty good workable
+solution for a while.
+This section 230 idea which is we're going to let there be a flourishing of different
+platforms.
+They can all figure out their rules and people can sort of go to the platform whose rules
+that they like.
+Problem is that was not designed for a world in which we have like two or three huge platforms
+that have come to somehow dominate our kind of public sphere or that's what it seems
+like anyway.
+It was for a world in which there was like AOL and copy serve and all these little dial
+up services and the stakes just don't seem so high.
+And so you know the question to me is is there a way to sort of adapt this kind of like middle
+path to our present day reality which just does not reflect the reality in which the
+original regulations were drawn.
+So I did included.
+I'll just say the idea bearing section 230 was that if you're a technology company that
+produces let's say a phone you can't be held responsible for what people say on the phone.
+But with Facebook and Twitter that's not the case anymore.
+Their algorithms are determining which information will be more permanent which information will
+be more obscure.
+Meaning they are beginning to hold not beginning they are holding editorial role of what's
+being said on their platforms and maybe they're not a technology company anymore.
+Maybe they are media companies at this point and if they are we need to regulate them just
+like we did for cable TV and newspapers and all the media that came before.
+Yeah I think the question really does come down to the extent to which there is some
+sort of editorial discretion.
+It's like literally this is literally what some of the court cases now are hinging on.
+So it actually isn't the case that there aren't regulations or laws.
+There actually are regulations or laws.
+They're going to be made by one actor or another whether it's a court right or some sort of
+de facto rule by a company and so I think what we should try to figure out is whether
+the public can sort of play a role in determining what the rules are going to look like because
+the rules are going to be set one way or another.
+I included the reference NFTs which are a little bit have receded a little bit in the
+media coverage of LA but I saw it as a being an effort.
+I mentioned this to you earlier, Rotem, it's like an effort to reestablish authenticity
+in some way because these are ways in which these things are supposedly indelible and
+not open to dispute and similarly Bitcoin which have a relationship in the cryptocurrencies
+the idea that okay we don't want to trust the Fed anymore with the way our money is being
+managed we're going to find this sort of democratized way of making sure our money is
+transactions are I don't want to ledger that's indelible how quickly that sort of what do
+you think about the fact that how quickly this is sort of it was like a little bit of
+a fat and it seems to be I don't know if it's going to receive forever but it has receded
+a little bit.
+One thing that interests me about NFTs is that we perceive them as less authentic as
+you said than money but for me it's kind of ironic because money was always.
+Fictional.
+I mean right, I mean what is money?
+What does it mean that I give you a piece of grain paper that has no value at all you
+cannot wear it you cannot turn it into a tent or anything you know.
+It depends on trust.
+It depends on trust right I mean the only reason money works is that I can give you this piece
+of paper and both of us know that you can take this piece of paper to a genet by the
+share with it right.
+I think the NFTs are just another iteration of the same old idea of imagining a financial
+system and making up rules to play by but yeah it seems like these days it's kind of
+collapsing I don't know.
+I'm not an expert on NFT but it seems that the.
+In the NFTs there is no country behind the NFT it's between the buyer and the seller
+but with the let's say the owner you have the United States treasured guaranteed that
+what's guaranteed the NFTs was.
+Just trust in the other or in the market.
+In a way it connects to the previous point you started talking a little bit about kind
+of libertarian models of communication what if we just let people be and hope that they
+are going to do the best with it.
+We seem to put a lot of hopes into that and it's true for NFTs but it's also true for
+social media and discussion.
+We built this utopian perception of media environments like the internet where if we
+just let people be themselves if we don't tell them what to you know what to read or
+what to think or what to say the best content will always prevail and it doesn't seem to
+hold water.
+When push comes to shove it seems like we're not always looking for the best content.
+We're not always trying to spread the most accurate information.
+It's nice to kind of dream about the libertarian world where you can just leave people through
+their own devices and they're going to do the best.
+It doesn't seem to work.
+Do you think this concern about misinformation is going to diminish over the years since
+there's so much of it and people will then start thinking well I'm reading all this but
+it's misinformation so that they develop a sense of skepticism of a degree that unless
+they find real evidence in something they just dismiss it.
+I think arguably it's already diminishing.
+I think it's being replaced with other concerns.
+For example you hear a lot about other kinds of consequences of social media like harassment,
+hate speech, even things like incidility, things that just also make things unpleasant,
+have a lot of harmful effects but don't necessarily hinge on the question of whether something
+is factually accurate or not.
+I guess my prediction would be the next time that there's a new big technological shift
+in mass communication that raises worries about whether people will be manipulated in some
+way we'll hear again about misinformation.
+Now I think the conversation has sort of moved on a little bit and misinformation is I think
+a potential harmful effect of social media but there are lots of others and I think it's
+perhaps healthy that we're kind of making some room for some of these other things as
+well.
+And I think it will be unlikely that people will just, anything that I read, anything
+that I see on the web I'm going to discharge.
+I think it's going to keep, it's being curated currently it's going to be even more so that
+it links to the polarization issue but I think that people will always have some particular
+sources of information that they trust implicitly and they'll be seeking that kind of content
+that they already predisposed to trust.
+So I don't think that there will be like a widespread skepticism about any sort of
+information but perhaps more polarization, heaven.
+I think the idea behind NFTs and cryptocurrencies was an effort to sort of codify a form of
+authenticity and it fails.
+It does fails because what people need is more trust.
+And you know you like to think well if I codify it I make it absolutely unassailable yes
+or no that that's not replacing trust between human beings.
+It's really an interesting, right?
+That isn't a good point.
+I agree that that's potentially a cautionary tale but I'm not sure, I guess I don't know
+if that's universally the case.
+So here we have a situation in kind of financial markets, right?
+So maybe like we really need trust to sustain a healthy market.
+But I see some more things going on with our previous discussion about how do you know
+which sources of information to trust.
+Can we replace that kind of trust with authenticity?
+Well I think that's happening too, right?
+If you look at where, I mean when I just talk to my students, you know, they don't even
+think about information in terms of trust.
+They think about influences that they follow.
+They think about broadcasters who they find authentic or real.
+So people are already using authenticity as a sort of a metric for where they should
+get information.
+And so it is a question to me as to whether that sort of replacing trust with authenticity.
+But is that cause or effect like do you trust some influencer because they're authentic
+or they seem authentic, will you trust?
+Really, I know it's a good question.
+It's a good question.
+Yeah, yeah.
+But I guess like one way that you could think about this, I don't know if this is accurate
+but you know as trust is sort of declined across the board in a number of spaces.
+People still need something that can just simply solve the problem of like where do
+I turn to?
+People will always find shortcuts.
+Yeah.
+What shortcuts do I use?
+And maybe I'm just using these words interchangeably or something but it's like there is something
+about the authenticity of the messenger now that seems different than this kind of traditional
+notion of the problem.
+But I don't...
+The apparent of this.
+The apparent, yes, exactly.
+I'm all in favor of authenticity and I agree with everything you said.
+And I'm just saying that thinking you're going to find it by having it digitalized that
+the other thing, this is going to be vouch safe by the digital, the code is not going
+to happen.
+If Bitcoin and other cryptocurrencies ever take off, it's not going to be because they
+have...
+Because of the tech, their blockchain technology, it's going to be because people start to put
+trust into it.
+It's not going to be because of the technology is what I'm saying.
+Well, it's like something that inherently can't be hard coded.
+Like, well, at the point where you have to sign a contract with someone, it's like,
+well, you're not relying on trust anymore.
+Like, you know, right?
+So...
+Well, should we open up the floor to some questions?
+Does anyone...
+Does anyone here have any questions?
+Why don't you come over here?
+No, please, because one of them...
+Pick up a demike.
+So I'm curious, with so many different views of reality and everything you guys have been
+talking about, how will history be written about our time?
+Will it be in parallel tracks?
+Will there be a history that is true history of what was real?
+What was fact-based?
+We never had true history.
+Yeah.
+Well, maybe, but it seems like it's more at risk now than possibly it's been.
+I mean, there's a book by Vargas Losa that came out last year about the events in Guatemala
+and the U.S. role in whatever it was that happened in Guatemala.
+Well, that only is something that came up in a more consistent and coherent way with Vargas
+Losa's book.
+So what is the accurate history of what happened in Guatemala until that point?
+No, I know what's the problem.
+History's written through the eyes of the historians.
+But this seems even more fraught with conflict about what reason did that.
+I think I'm not that I'm an historian, but I have a little bit more faith.
+There's going to be a consensus that will be built over time.
+Right now, historians just agree about the way things went and they reinterpret parts
+of history still to this day and not always in a highly polarized Democrat versus Republican
+way, but just because they're honest disagreements among historians about how things go.
+I mentioned a story about Chaucer today is a good example.
+That may be debated.
+I think among academic historians, there will be enough of a consensus about what's...
+Actually, I am more optimistic about the future historians than I am, but what's happening
+today.
+Because I do think that the access to information and to spreading information, there are so
+many people today, like anybody has a voice.
+And so future historians will have access not just to establish experts, governments,
+borders, but we don't know how the everyday person used to think about in the Middle Ages.
+They didn't have a voice that we have been able to recover today.
+So I think that future historians will have to shift through content, but they will have
+a lot more to work with than we have today about the arrest passed.
+But that itself is going to pose...
+It's going to be this challenge of abundance versus...
+What is the scientist that I will say?
+Do you have too much data?
+I agree.
+Which is like a practical matter.
+I've tried to reconstruct what people have said on Twitter last week.
+And you should try it sometime.
+It's really hard because people are responding to other people directly and indirectly.
+People are making vague references to things that are not always obvious after the fact.
+Reconstructing the context, I think is going to be increasingly difficult because it's
+told through memes and references that are constantly evolving.
+And it's going to be trying to decipher hieroglyphics in a way.
+Perhaps so.
+And will that information be preserved in forms that are accessible?
+Well, yeah, just because it's digital doesn't mean it doesn't decay.
+Exactly.
+Yeah.
+Well, hopefully there will be people who are academics who are motivated to do that work
+on the hieroglyphics.
+I like to think there is.
+A lot of people who have written about history, books about historical developments are not
+always exactly historians either.
+And we can think of economists who have written pretty divergent views, Hayek and Keynes,
+and pretty divergent views about how history is going to economic history, but also general
+history.
+And we've survived with that.
+So I'm reasonably hopeful about that.
+Anybody else?
+Oh, please step up to the mic.
+Okay.
+So since we have some political scientists here, the first thing I want to ask this concept
+is a little tangential, but it comes back political science.
+My understanding is science is you observe the world, you make theories, you test those
+theories through experiment, and then you see if your theories were correct.
+Now, if we want to guide this in the context of today's topic, misinformation and algorithms,
+would a political scientist be able to conduct an experiment on this topic and make predictions
+in theories?
+And is that something they would do, or even more generally would do, political scientists
+just make predictions but don't run experiments?
+Can you comment on that a little bit?
+That's a great question.
+Yeah, you're right.
+And as sort of social scientists, we want to be able to make and test hypotheses, which
+often means you're testing predictions.
+So certainly, speaking for myself and my own research, everything that I try to do fits
+the framework that you just described.
+When you're talking about misinformation, things become difficult because there are ethical
+issues involved.
+So if I could think of the ideal experiment that I would like to run, it would involve
+exposing people to a ton of misinformation and see what happens.
+Well, that doesn't seem ethical to me.
+And so I can't run that.
+You can't rat.
+Sorry?
+You can rat.
+Exactly.
+So you can do it in rats.
+And so part of the creative challenge of doing this kind of research is trying to explore
+ways of studying these questions in ways that don't require you to be a mad scientist,
+basically.
+It involves natural experiments, so have platforms changed the way that they've operated.
+And so does this speak to this particular hypothesis about, say, the effects of misinformation?
+The other thing is that a lot of the most interesting research that's happening right
+now, both by political scientists but also people in psychology and other fields, and
+in communication, is trying to test the effectiveness of different kinds of solutions for misinformation.
+So take it as a given.
+How can we do to reduce people's belief in misinformation in ways that don't infringe
+on other kinds of values, like free expression?
+So I think this is all a very active area of research.
+But I agree that we want to take this sort of scientific empiricist path to understanding
+these questions.
+Can you give a performance for us to give some sort of experience with, well, not on a sometimes
+sort of misinformation, we have the number of experiments with misdirection, as you might
+have, in a magic show.
+We actually study magic tricks directly to investigate various kinds of cognitive biases.
+So you can do these kinds of things.
+It's a bit less of an ethical concern where you're investigating magic tricks, but you
+can get similar kinds of issues.
+I'll just add, oh, I'm so sorry.
+I'll just add that, first of all, there ain't one approach to scientific inquiry of political
+science.
+Both Andy and me are more quantitative and, I guess, post-postivistic in nature, but some
+people don't accept that as the only way to understand the world.
+In the area of misinformation, specifically, I think that in both your field of political
+science and in my field of communication, we are getting very good at building microtheories
+of misinformation, which can be tested experimentally in the lab or in controlled environments.
+What we are not able to do is to use scientific methods to answer those big questions.
+Like, how does misinformation influence our society?
+That's something you cannot put into a lab or you cannot create two societies that are
+equal on everything except for the presence of misinformation.
+So I think we're spending a lot of our time on the micro level of just understanding the
+psychological processes.
+And in their regard, we are taking a very, an approach that's very similar to the hard
+science as much as possible within the creation of movements.
+That's such.
+Well, first of all, thank you for this wonderful discussion.
+And a few years ago, a study made at MIT Media Lab.
+The question was, do fake news spread faster and more than real news or truthful news?
+And the answer was yes.
+So the problem is why and one may think well because of bots and new technology that can
+multiply the diffusion.
+But the result of the study tells something different.
+Apparently, fake news spread faster because of human beings, because of the emotional
+reaction they evoke.
+So my question is, when we are discussing the impact of new technologies, the temptation
+to be apocalyptic is already at hand.
+But shouldn't we go back to the human factor?
+Because as you said, we are basically the same.
+So confirmation bias, you said that reassurance, conformism, the feeling of being part of a
+community of people who share the same belief are always the same.
+So I think the human factor probably has to be more investigative than interface.
+There's too much emphasis.
+Don't you think there's too much emphasis on the technology?
+Thank you.
+I do think that emotions are a critical component.
+And we know from a neuroscientific perspective and that in studies of attention, that emotions
+prioritize attention.
+That's actually a lot of the reasons that magicians take advantage of this.
+Magicians actually make us laugh at critical points where they need to misdirect us.
+So you can use emotion almost surgically in a magic show, also in social media and in
+the spread of fake news.
+And we used to think, I mean, many years ago, the thinking in science communication was
+that, well, you need to put out the correct information out there and you need to give
+more detail and you need to communicate it more.
+And so people are going to extract the right conclusion.
+It's just they are arriving to the wrong conclusion because they don't have all the information.
+So let's give more information.
+Let's make it more accessible.
+That doesn't fix the problem because you're ignoring the emotional components.
+Can I add something?
+I thought that was a great question too.
+I also, as a social scientist too, I think humans are always going to be at the center
+of what I think is important.
+But as a political scientist, I think human behavior is structured by institutions.
+And so kind of another way of saying that, how that applies to this topic is that I think
+social media platforms have different affordances or different features which can bring out or
+suppress tendencies that exist in humans.
+And so that's the thing that's really important.
+There's nothing inherent to, I think there's nothing inherent to social media in the abstract
+that means that it's going to incentivize engagement with misinformation.
+But it is baked into some platforms today and that the way that they set up the incentives
+within the platform.
+And so I think that redesigning social media, how they're designed, the kinds of behaviors
+that they facilitate for people, the kinds of behavior that they encourage from people
+is something that we should be thinking very seriously about.
+Because yeah, it's true.
+Humans have a tendency to think of ourselves as part of a group.
+But that can be emphasized or de-emphasized.
+And what the group is, right, that's not hardwired either.
+And so these are things that can be brought out through features of social media, including
+things like algorithms or not.
+There's been a movement I know and I'll know much about it, but I do know that some groups,
+organizations will have people go out together and live camp out or solve problems.
+And the whole idea is here they're identifying with each other, yeah, they're cooperating
+with each other towards certain goals which is different just saying, well, I'm a liberal
+or I'm a conservative, right?
+They're actually targeting some goals and that seems to foster a little bit more of
+a sense of community.
+Yes.
+Thank you very much for a very stimulating discussion.
+I cannot help but remember that it goes to time in human history where the heliocentric
+system was considered misinformation.
+And the geocentric system was considered human to be the truth.
+And people were actually tried, they were put on the fire for challenging the so-called
+truth by spreading misinformation.
+Okay, so my question is, is there such a thing as information?
+Because if there is misinformation, it means that the information is what's true and the
+misinformation is what's wrong.
+Now is there such a thing as information?
+And even if there is, what's wrong with challenging it?
+And so the last thing I'm going to say is science is very limited in what objective,
+let's say, is like physics, I mean, more than 95% of medical, biomedical published research,
+which we consider science, cannot be replicated.
+That tells you how hard establishing what information is at least in the scientific context where
+you can have objective methodology let alone in the social sciences.
+That's what the problem is.
+So should we err on the side of allowing misinformation because that makes the dialectic process which
+allows us to filter and synthesize and refuse and accept that should we allow misinformation?
+Should we err on the side of allowing misinformation?
+Or should we err on the side of imposing quote-unquote information which actually may turn out in
+maybe the next decade or the next century to be false?
+Thank you.
+My feeling, I think that these are different issues I've played here.
+And I think one issue pertains to the science enterprise itself and that it is true that
+we do have a replicability crisis or problem more in some areas than in others.
+But and I think that there's a lot of fundamental problems with the structure of science, how
+it's done this day, the kinds of science that gets incentivized, the pressure to publish.
+There are a lot of problematic issues and certainly sometimes we're playing it a bit
+too safe in the sense of the research that gets resources to be performed.
+I think that's a different problem from misinformation itself and in the spirit of misinformation,
+I think that by individuals, not necessarily scientists, I think that's a different domain
+from a science than the best way it could be done.
+So to me, those are different issues and yes, in terms of the science, the other thing
+I think that's important to keep in mind in terms of the science because it was mentioned
+something about truth.
+And I would say that scientists don't try to get at the truth or they should not try
+to get at the truth.
+The truth in science is always aspirational and that's why we talk about validating hypothesis,
+not verifying a hypothesis and the hypothesis is correct until it's proven otherwise.
+So as scientists, at least the way that I was taught to the science and the way that
+I teach my trainees is that you try to eliminate hypothesis that are incorrect and hopefully
+you get to narrow down more and more the actual answer.
+But as a scientist, you have to be always in the mind frame that you need to be questioning
+your own results and there's also others of course, but all the time you're supposed
+to be revising your framework in light of no evidence.
+Yeah I absolutely love this question.
+We can spend two more hours just answering this, right?
+You asked what is information, forget about misinformation, what is information and that
+bothered every thinker since we learned how to put our mind into words, right?
+I mean that's Greek philosophy that's played out thinking about the people in the cave
+trying to figure out if they are really seeing the world or not.
+I'll kind of get inspiration from all the statues of someone Freud in this building and
+go to another Austrian philosopher of science which is Karl Popper, right?
+And I'm a very strong, a very strong, a properian person and I think he reminded us that science
+is about, as you said, science is not the search for information.
+It's the systematic rejection of misinformation.
+We would never be able to prove with certainty that anything that we see in studies is true,
+right?
+The best we can do is to reject hypotheses that are wrong.
+We are able logically to reject some ideas and then at any given moment we need to take
+the actions that are most suitable to the current state of knowledge that we have at
+that point.
+Take vaccines, for example, that you talked about before.
+Can we say for certain that vaccines have no negative impact?
+Of course not.
+We can't.
+Certainly we can't.
+We can just reject the hypothesis that people who take the vaccines are more likely than
+others to have autism, for example.
+We can reject this hypothesis but we cannot say for sure that vaccines will never have
+a negative influence.
+So yes, science is kind of, as if it's working in this regard, we will never get to the truth
+but I think we are able to gather enough consensus on what's wrong to direct policy and behavior
+that's more educated.
+I wanted to make a real quick response to this too.
+There are different sorts of misinformation and when the consequence of misinformation
+could be dangerous, of course, we want to figure out a way to get around that.
+A famous director now, sort of infamous director had this wonderful little bit where he was
+his neurotic child version of himself was being reprimanded by his mother who said,
+what's at your business if the universe is expanding?
+So the idea is, okay, you know what, if the universe is expanding or not, we don't need
+to get to the bottom of that.
+It's okay with us if you don't accept authority on that.
+But if you go to your doctor and you have a, God forbid you have a cancer and the treatment
+that's going to be offered for you and oftentimes if they're experimental treatments, they'll
+even tell you in advance.
+I can't even say this is going to be good or safe for you but you have to make a decision.
+You know, that's where the rubber meets the road.
+You then, I think, you're best off putting your trust into the doctor and in return,
+the doctor has to have in his or her mind the idea that I don't want to let my patient
+down because this is almost like a sacred trust that's being placed on me.
+So that means we have to go back and make sure that this treatment is good and valid.
+Sometimes you don't know in any particular point in time but trust is another, again,
+comes up as another important feature separating information from misinformation.
+And not always making a clear demarcation, right?
+Then there cannot be, which is part of, I think, what your question entails.
+Yeah, thank you.
+Yes, please.
+Actually, that response was very closely related to the question I wanted to ask because, so,
+there's an implication to certain kinds of misinformation.
+And so, we touched on regulation before.
+My question's about are there other kinds of regulatory capacity in sort of societies
+that exist today or that we can build into our societies?
+Because if certain kinds of misinformation might imply certain kinds of harm to specific
+people and they're endowed with certain kinds of voices.
+So my question is, is it possible to think of how can that create the potential harm
+of misinformation, how can that create feedback loops to like a repair capacity?
+Is it possible?
+I mean, I think this raises, I mean, I think this is an interesting question that raises
+the challenge as to how we sort of build sort of responsive mechanisms of accountability
+for any kind of regulatory regime that we end up wanting to have.
+So what are the rules of the road for content moderation and platform governance?
+And who gets the decide, who gets a voice and how these rules are determined?
+I think there's a strong case to be made that whether this is being channeled through
+like legislatures or some other citizens' bodies, those bodies should be representative
+of the diversity of interest in society.
+Very much including people who are the victims of, I mean, not only misinformation, but harassment
+and hateful speech that can deal legitimized people, deal with legitimized groups and make
+it more difficult to participate as citizens.
+When we say regulation, we usually think of content moderation, right?
+Having information that is wrong or adding some disclaimers and so on.
+But recently some scholars raised some more creative approaches to regulation.
+And one that I found really interesting is the one suggested by Victor Picard from the
+University of Pennsylvania.
+He says, instead of focusing on moderation of content, let's take taxes from social media
+companies.
+There's a lot of money from that misinformation, right?
+Let's take some taxes back and use it to fund high quality journalism.
+You can create a fund that kind of builds on the money that being made from our misinformation
+and build more reliable institutions of knowledge with it.
+So maybe there are more solutions that we're not thinking about, but they're more creative
+than just running after the next mistake and trying to correct it all the time.
+I think that's wonderful.
+It's a great point to high point to end on.
+It's not my idea.
+But it's a great comment.
+And I'm really pleased to hear all the different efforts to sort of come up with some, you
+know, handle some solution on this issue.
+And I want to thank you all three of you for contributing the way you did.
+Thank you.
+Great.
+I appreciate that.
+Congratulations.
+A lot of talk sharing.
+Thank you.
+That's all we're going to do, right?

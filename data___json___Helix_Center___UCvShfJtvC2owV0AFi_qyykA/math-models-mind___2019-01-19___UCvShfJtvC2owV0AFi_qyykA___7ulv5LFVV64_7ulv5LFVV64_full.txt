@@ -1,0 +1,957 @@
+{"id": "7ulv5LFVV64-t0.0", "text": "Yeah, wasn't that sad.", "start": 0.0, "end": 2.94}
+{"id": "7ulv5LFVV64-t2.94", "text": "But he's not.", "start": 2.94, "end": 3.14}
+{"id": "7ulv5LFVV64-t3.14", "text": "I don't have to.", "start": 3.14, "end": 6.78}
+{"id": "7ulv5LFVV64-t6.78", "text": "I'm happy too.", "start": 6.78, "end": 15.620000000000001}
+{"id": "7ulv5LFVV64-t15.620000000000001", "text": "Wh Woah.", "start": 15.620000000000001, "end": 19.400000000000002}
+{"id": "7ulv5LFVV64-t19.400000000000002", "text": "So I'm happy.", "start": 19.400000000000002, "end": 28.16}
+{"id": "7ulv5LFVV64-t28.16", "text": "So Ken, what did you think about lecturing?", "start": 28.16, "end": 32.16}
+{"id": "7ulv5LFVV64-t32.16", "text": "What's that?", "start": 32.16, "end": 33.16}
+{"id": "7ulv5LFVV64-t33.16", "text": "That lecture two days ago on complexity in the task.", "start": 33.16, "end": 38.16}
+{"id": "7ulv5LFVV64-t38.16", "text": "No, I couldn't have it.", "start": 38.16, "end": 39.16}
+{"id": "7ulv5LFVV64-t39.16", "text": "I couldn't have it.", "start": 39.16, "end": 40.16}
+{"id": "7ulv5LFVV64-t40.16", "text": "I couldn't have it.", "start": 40.16, "end": 41.16}
+{"id": "7ulv5LFVV64-t41.16", "text": "I'm trying.", "start": 41.16, "end": 42.16}
+{"id": "7ulv5LFVV64-t42.16", "text": "I know I saw you talk, but I'm talking about what Tucker was.", "start": 42.16, "end": 45.16}
+{"id": "7ulv5LFVV64-t45.16", "text": "I'm wondering, I just think.", "start": 45.16, "end": 47.16}
+{"id": "7ulv5LFVV64-t47.16", "text": "This is like, I'm about choice task, and it was a question about levels of complexity.", "start": 47.16, "end": 51.16}
+{"id": "7ulv5LFVV64-t51.16", "text": "I'm really excited.", "start": 51.16, "end": 52.16}
+{"id": "7ulv5LFVV64-t52.16", "text": "You know, it's like creating models, how people created models of the task.", "start": 52.16, "end": 57.16}
+{"id": "7ulv5LFVV64-t57.16", "text": "No, I'm going to be here.", "start": 57.16, "end": 62.16}
+{"id": "7ulv5LFVV64-t62.16", "text": "Can people hear me?", "start": 62.16, "end": 63.16}
+{"id": "7ulv5LFVV64-t63.16", "text": "I think it's prime age.", "start": 63.16, "end": 64.16}
+{"id": "7ulv5LFVV64-t64.16", "text": "Hi, good afternoon, everybody.", "start": 64.16, "end": 65.16}
+{"id": "7ulv5LFVV64-t65.16", "text": "I'm Gerald Horowitz, I'm associate director here at the Hill Center.", "start": 65.16, "end": 71.16}
+{"id": "7ulv5LFVV64-t71.16", "text": "Welcome to a very interesting roundtable today entitled Math Models Mind.", "start": 71.16, "end": 78.16}
+{"id": "7ulv5LFVV64-t78.16", "text": "I wanted to make a quick announcement that coming up in future round tables, we have", "start": 78.16, "end": 84.16}
+{"id": "7ulv5LFVV64-t84.16", "text": "a March 9th life in the universe, which we've established actually right now today,", "start": 84.16, "end": 91.16}
+{"id": "7ulv5LFVV64-t91.16", "text": "that there is life in the universe.", "start": 91.16, "end": 92.16}
+{"id": "7ulv5LFVV64-t92.16", "text": "But there's going to be more to say about that topic.", "start": 92.16, "end": 95.16}
+{"id": "7ulv5LFVV64-t95.16", "text": "And we have assembled the following roundtable participants, Caleb Sharf's astrophysicist", "start": 95.16, "end": 101.16}
+{"id": "7ulv5LFVV64-t101.16", "text": "at Columbia University, Yale astrophysicist, Priyem Bada, Natar Rayan, Kenneth Dill,", "start": 101.16, "end": 111.16}
+{"id": "7ulv5LFVV64-t111.16", "text": "chemist, Stony Brook University, Edward Turner, a physicist from Princeton, and Dennis over", "start": 111.16, "end": 118.16}
+{"id": "7ulv5LFVV64-t118.16", "text": "by a New York Times science correspondent.", "start": 118.16, "end": 121.16}
+{"id": "7ulv5LFVV64-t121.16", "text": "So that's March 9th, and I'm sure it's going to be really quite a lively, interesting talk.", "start": 121.16, "end": 128.16}
+{"id": "7ulv5LFVV64-t128.16", "text": "In April, I don't know if we have an exact date yet, but I don't have it here.", "start": 128.16, "end": 132.16}
+{"id": "7ulv5LFVV64-t132.16", "text": "We're going to have a discussion on climate change and the Anthropocene era, which is", "start": 132.16, "end": 138.16}
+{"id": "7ulv5LFVV64-t138.16", "text": "among us, which we're living through now.", "start": 138.16, "end": 141.16}
+{"id": "7ulv5LFVV64-t141.16", "text": "And on May 18th, you don't want to miss it or else you'll be in trouble.", "start": 141.16, "end": 145.16}
+{"id": "7ulv5LFVV64-t145.16", "text": "We're having a talk on shame.", "start": 145.16, "end": 151.16}
+{"id": "7ulv5LFVV64-t151.16", "text": "Today's panel, I'll quickly introduce, and you can raise your hand when I mention your", "start": 151.16, "end": 160.16}
+{"id": "7ulv5LFVV64-t160.16", "text": "name.", "start": 160.16, "end": 161.16}
+{"id": "7ulv5LFVV64-t161.16", "text": "First is Larry Amsel.", "start": 161.16, "end": 163.16}
+{"id": "7ulv5LFVV64-t163.16", "text": "And Larry is a clinical research psychiatrist on the faculty of Columbia University.", "start": 163.16, "end": 168.16}
+{"id": "7ulv5LFVV64-t168.16", "text": "He's out of long background in mathematics and was an early proponent of using decision", "start": 168.16, "end": 173.16}
+{"id": "7ulv5LFVV64-t173.16", "text": "theory, gain theory, and behavioral economics in psychiatric research.", "start": 173.16, "end": 177.16}
+{"id": "7ulv5LFVV64-t177.16", "text": "I'm going to keep these short so we have more time to talk.", "start": 177.16, "end": 181.16}
+{"id": "7ulv5LFVV64-t181.16", "text": "Cheryl Quarkrin is associate professor of psychiatry and program leader in psychosis", "start": 181.16, "end": 188.16}
+{"id": "7ulv5LFVV64-t188.16", "text": "risk at the ICON School of Medicine at Mount Sinai.", "start": 188.16, "end": 193.16}
+{"id": "7ulv5LFVV64-t193.16", "text": "Together with Dr. Chechi of IBM, she's identified patterns of language that proceed on set of", "start": 193.16, "end": 199.16}
+{"id": "7ulv5LFVV64-t199.16", "text": "psychosis, including reduction in coherence and complexity of the speech.", "start": 199.16, "end": 206.16}
+{"id": "7ulv5LFVV64-t206.16", "text": "Andrew Gerber is a psychologist, psychiatrist and psychoanalyst who is now the president", "start": 206.16, "end": 213.16}
+{"id": "7ulv5LFVV64-t213.16", "text": "director at Silver Springs Hospital.", "start": 213.16, "end": 218.16}
+{"id": "7ulv5LFVV64-t218.16", "text": "Silver Hill Hospital.", "start": 218.16, "end": 219.16}
+{"id": "7ulv5LFVV64-t219.16", "text": "I was wondering where is Silver Springs Hospital?", "start": 219.16, "end": 223.16}
+{"id": "7ulv5LFVV64-t223.16", "text": "That's what it wrote and that's what I read.", "start": 223.16, "end": 225.16}
+{"id": "7ulv5LFVV64-t225.16", "text": "I'm sorry.", "start": 225.16, "end": 226.16}
+{"id": "7ulv5LFVV64-t226.16", "text": "Ken Miller is professor of department of neuroscience and department of physiology and is director", "start": 226.16, "end": 234.16}
+{"id": "7ulv5LFVV64-t234.16", "text": "for the center of theoretical neurobiology at Columbia University.", "start": 234.16, "end": 238.16}
+{"id": "7ulv5LFVV64-t238.16", "text": "He's co-director of Columbia's sports program in theoretical neurobiology, it's center", "start": 238.16, "end": 243.16}
+{"id": "7ulv5LFVV64-t243.16", "text": "for theoretical neuroscience as well as its neurobiology and behavioral graduate program.", "start": 243.16, "end": 250.16}
+{"id": "7ulv5LFVV64-t250.16", "text": "And John Murray is assistant professor of psychiatry, neuroscience and physics at Yale University", "start": 250.16, "end": 259.15999999999997}
+{"id": "7ulv5LFVV64-t259.15999999999997", "text": "School of Medicine where he directs a research program in computational neuroscience where", "start": 259.15999999999997, "end": 264.15999999999997}
+{"id": "7ulv5LFVV64-t264.16", "text": "they focus on computational models of neuropsychiatric disorders.", "start": 264.16, "end": 269.16}
+{"id": "7ulv5LFVV64-t269.16", "text": "He received his PhD in physics at Yale University.", "start": 269.16, "end": 274.16}
+{"id": "7ulv5LFVV64-t274.16", "text": "We have one missing member, I'm going to give you his background in case he does show up.", "start": 274.16, "end": 282.16}
+{"id": "7ulv5LFVV64-t282.16", "text": "It's our D.J.", "start": 282.16, "end": 283.16}
+{"id": "7ulv5LFVV64-t283.16", "text": "Rangan, he's an associate professor in the mathematics department at NYU and he's completed his post-doctoral work at NYU.", "start": 283.16, "end": 293.16}
+{"id": "7ulv5LFVV64-t293.16", "text": "His research has focused for many years on computational and theoretical models of sensory processing,", "start": 293.16, "end": 299.16}
+{"id": "7ulv5LFVV64-t299.16", "text": "particularly vision and all faction.", "start": 299.16, "end": 302.16}
+{"id": "7ulv5LFVV64-t302.16", "text": "So thank you all and we can get started.", "start": 302.16, "end": 306.16}
+{"id": "7ulv5LFVV64-t306.16", "text": "Sure.", "start": 306.16, "end": 307.16}
+{"id": "7ulv5LFVV64-t307.16", "text": "Sure.", "start": 307.16, "end": 308.16}
+{"id": "7ulv5LFVV64-t308.16", "text": "Sure.", "start": 308.16, "end": 309.16}
+{"id": "7ulv5LFVV64-t309.16", "text": "Sure.", "start": 309.16, "end": 310.16}
+{"id": "7ulv5LFVV64-t310.16", "text": "Sure.", "start": 310.16, "end": 311.16}
+{"id": "7ulv5LFVV64-t311.16", "text": "Sure.", "start": 311.16, "end": 312.16}
+{"id": "7ulv5LFVV64-t312.16", "text": "Sure.", "start": 312.16, "end": 313.16}
+{"id": "7ulv5LFVV64-t313.16", "text": "Sure.", "start": 313.16, "end": 314.16}
+{"id": "7ulv5LFVV64-t314.16", "text": "Sure.", "start": 314.16, "end": 315.16}
+{"id": "7ulv5LFVV64-t315.16", "text": "Sure.", "start": 315.16, "end": 316.16}
+{"id": "7ulv5LFVV64-t316.16", "text": "So, I thought because the topics here are somewhat...", "start": 316.16, "end": 320.16}
+{"id": "7ulv5LFVV64-t320.16", "text": "Oh, do you really are?", "start": 320.16, "end": 323.16}
+{"id": "7ulv5LFVV64-t323.16", "text": "We just announced your minutes.", "start": 323.16, "end": 326.16}
+{"id": "7ulv5LFVV64-t326.16", "text": "Thanks for joining us.", "start": 326.16, "end": 328.16}
+{"id": "7ulv5LFVV64-t328.16", "text": "I was about to say that we were just getting started.", "start": 328.16, "end": 331.16}
+{"id": "7ulv5LFVV64-t331.16", "text": "Oh, it's not perfect.", "start": 331.16, "end": 333.16}
+{"id": "7ulv5LFVV64-t333.16", "text": "The topics, some of the topics were we discussed today are a little arcane and I thought it would be helpful for the participants to maybe give a brief summary of the kind of research they've done and more they're interested in the topic of mathematics", "start": 333.16, "end": 349.16}
+{"id": "7ulv5LFVV64-t349.16", "text": "as a search for modeling behavior and the psyche.", "start": 349.16, "end": 355.16}
+{"id": "7ulv5LFVV64-t355.16", "text": "So where would you start to find?", "start": 355.16, "end": 359.16}
+{"id": "7ulv5LFVV64-t359.16", "text": "So what I've worked on is the circuitry of cerebral cortex, sensory cerebral cortex, primarily visual cortex, but trying to understand how the circuits...", "start": 359.16, "end": 371.16}
+{"id": "7ulv5LFVV64-t371.16", "text": "Trying to understand general principles of how the circuits of cortex work and basically trying to understand what operations the circuits are doing to produce the responses to sensory stimuli that we see, how those circuits develop through learning rules based on the activity in the neurons.", "start": 371.16, "end": 389.16}
+{"id": "7ulv5LFVV64-t389.16", "text": "And the far away goal is to understand from that really what computation cortex does.", "start": 389.16, "end": 404.16}
+{"id": "7ulv5LFVV64-t404.16", "text": "And so there's a sense that there's been a unit of mammalian intelligence that's been developed and then duplicated and applied to almost everything that we do.", "start": 404.16, "end": 419.16}
+{"id": "7ulv5LFVV64-t419.16", "text": "Someday I would like to understand what exactly it does to the input it receives and how it transforms it, how it learns from it.", "start": 419.16, "end": 427.16}
+{"id": "7ulv5LFVV64-t427.16", "text": "So my research is also kind of focused on theoretical models of neural especially cortical systems. As is Ken's, we primarily focus on computations associated with association cortex in contrast to sensory cortex, looking at kind of fundamental cognitive", "start": 427.16, "end": 445.16}
+{"id": "7ulv5LFVV64-t445.16", "text": "limitations such as working memory or decision making. And then we're very interested in understanding how synaptic level disruptions of the circuits could give rise to cognitive impairments as we see in psychiatric disorders such as schizophrenia.", "start": 445.16, "end": 459.16}
+{"id": "7ulv5LFVV64-t459.16", "text": "And so we collaborate with experimentalists and study inter-disease processes and pharmacology in these computational models of neural circuits.", "start": 459.16, "end": 467.16}
+{"id": "7ulv5LFVV64-t467.16", "text": "And it is on. I too have spent a few years looking at computational models of neural circuits. In this case, I worked a little bit on vision, but I spent most of my last several years working on old-faction trying to understand the kinds of computations that go on inside the old-factory system of insects.", "start": 467.16, "end": 492.16}
+{"id": "7ulv5LFVV64-t492.16", "text": "And as Ken was saying there are many similarities between the old-factory systems of a lot of different animals.", "start": 492.16, "end": 499.16}
+{"id": "7ulv5LFVV64-t499.16", "text": "And at first I was seduced by this thinking that perhaps there would be a similarity to the computations that these different old-factory systems perform.", "start": 499.16, "end": 511.16}
+{"id": "7ulv5LFVV64-t511.16", "text": "However, the more I look at it, the more I've come to realize in recent years that it's almost like there's different operating systems running on the same hardware.", "start": 511.16, "end": 522.1600000000001}
+{"id": "7ulv5LFVV64-t522.1600000000001", "text": "So we can talk more about that later.", "start": 522.1600000000001, "end": 525.1600000000001}
+{"id": "7ulv5LFVV64-t525.1600000000001", "text": "No, I'm left.", "start": 525.1600000000001, "end": 526.1600000000001}
+{"id": "7ulv5LFVV64-t526.1600000000001", "text": "Okay. So to sort of shift a little bit, I'll work backwards.", "start": 526.1600000000001, "end": 532.1600000000001}
+{"id": "7ulv5LFVV64-t532.16", "text": "My current role in some ways is as a translator between different languages around mental illness. So in leading a psychiatric hospital, my predominant interest is how to get people to talk to one another, not just between our staff and our patients, or the patient's patients, but between the staff and each other.", "start": 532.16, "end": 548.16}
+{"id": "7ulv5LFVV64-t548.16", "text": "And one of the languages that's been very important to me is the language of math, and or more broadly speaking, the language of modeling.", "start": 548.16, "end": 557.16}
+{"id": "7ulv5LFVV64-t557.16", "text": "And I find, somewhat to my dismay, that that language isn't taught in most clinical programs.", "start": 557.16, "end": 564.16}
+{"id": "7ulv5LFVV64-t564.16", "text": "And there's a way in which there's a sort of urgency for an answer, and I think this pervades maybe all of medicine, but particularly in psychiatry and psychology, makes people not understand the value of models that are good but not perfect.", "start": 564.16, "end": 580.16}
+{"id": "7ulv5LFVV64-t580.16", "text": "And one of the most common quotes I use, which others may be familiar with, is from George Box, who said all models are wrong, but some are useful.", "start": 580.16, "end": 589.16}
+{"id": "7ulv5LFVV64-t589.16", "text": "And to incorporate that is basically one of my main missions.", "start": 589.16, "end": 594.16}
+{"id": "7ulv5LFVV64-t594.16", "text": "Prior to being a president of a hospital, I had run the MRI research program up at Columbia.", "start": 594.16, "end": 599.16}
+{"id": "7ulv5LFVV64-t599.16", "text": "And so I was particularly interested in the use of structural functional MRI to test various mathematical models of neuro cognitive processing, exactly the stuff that you would like to do.", "start": 599.16, "end": 609.16}
+{"id": "7ulv5LFVV64-t609.16", "text": "And I think that's the stuff that you all are talking about.", "start": 609.16, "end": 613.16}
+{"id": "7ulv5LFVV64-t613.16", "text": "I'm a believer that there are a set of neuro cognitive processes that underlie our psychiatric disorders that actually will end up looking quite different from the symptomatic descriptions that we now use.", "start": 613.16, "end": 623.16}
+{"id": "7ulv5LFVV64-t623.16", "text": "So the terms of depression, anxiety, even psychosis are appeal because they're very experienced near to the clinician, but that the underlying neuro cognitive vulnerabilities probably, in my opinion, will look quite different.", "start": 623.16, "end": 636.16}
+{"id": "7ulv5LFVV64-t636.16", "text": "And I'm not quite at the point yet where we understand those.", "start": 636.16, "end": 639.16}
+{"id": "7ulv5LFVV64-t639.16", "text": "So that's been the overriding theme of my research.", "start": 639.16, "end": 642.16}
+{"id": "7ulv5LFVV64-t642.16", "text": "So I'm a psychiatrist and I collaborate with people who do computational modeling.", "start": 642.16, "end": 648.16}
+{"id": "7ulv5LFVV64-t648.16", "text": "And I collaborate with Guizhemo Cheki and his team at IBM.", "start": 648.16, "end": 653.16}
+{"id": "7ulv5LFVV64-t653.16", "text": "And he has applied computational analyses to behaviors such as language.", "start": 653.16, "end": 658.16}
+{"id": "7ulv5LFVV64-t658.16", "text": "So we think of language as really big data at the level of the individual, the language has semantics and syntax and there's pragmatics.", "start": 658.16, "end": 668.16}
+{"id": "7ulv5LFVV64-t668.16", "text": "And probably facial expression also has semantics and syntax as well as gesture.", "start": 668.16, "end": 674.16}
+{"id": "7ulv5LFVV64-t674.16", "text": "And we believe this behavior in and of itself can be modeled.", "start": 674.16, "end": 678.16}
+{"id": "7ulv5LFVV64-t678.16", "text": "And I think what we do as psychiatrists is we observe people, I do think that data is very important.", "start": 678.16, "end": 686.16}
+{"id": "7ulv5LFVV64-t686.16", "text": "And not only can computational scientists help us, but they really feel that we can help them in terms of building the model.", "start": 686.16, "end": 696.16}
+{"id": "7ulv5LFVV64-t696.16", "text": "So I've been to a few conferences, the NIPS conference neuro informatics.", "start": 696.16, "end": 702.16}
+{"id": "7ulv5LFVV64-t702.16", "text": "Yoshua Bajio was there.", "start": 702.16, "end": 704.16}
+{"id": "7ulv5LFVV64-t704.16", "text": "I'm talking about deep learning.", "start": 704.16, "end": 707.16}
+{"id": "7ulv5LFVV64-t707.16", "text": "And someone in the audience asked him, you know, what are your thoughts about what you could learn from cognitive neuroscience, human neuro science?", "start": 707.16, "end": 715.16}
+{"id": "7ulv5LFVV64-t715.16", "text": "And he said, I don't know and I don't care, which was very interesting.", "start": 715.16, "end": 720.16}
+{"id": "7ulv5LFVV64-t720.16", "text": "But the people that I'm working with who really do think about artificial intelligence a great deal feel that we have a lot that we can teach them.", "start": 720.16, "end": 732.16}
+{"id": "7ulv5LFVV64-t732.16", "text": "They really want to model what we do.", "start": 732.16, "end": 735.16}
+{"id": "7ulv5LFVV64-t735.16", "text": "And the other thing I want to just say briefly, I looked at the kind of description of the history.", "start": 735.16, "end": 742.16}
+{"id": "7ulv5LFVV64-t742.16", "text": "And it has this feeling of kind of a guy on a hill, right, and the environment.", "start": 742.16, "end": 749.16}
+{"id": "7ulv5LFVV64-t749.16", "text": "But if we think about behavior, behavior at the level of milliseconds is very interactive.", "start": 749.16, "end": 756.16}
+{"id": "7ulv5LFVV64-t756.16", "text": "And so we want to model discourse as well in all of what anybody does here who's an analyst or a therapist.", "start": 756.16, "end": 763.16}
+{"id": "7ulv5LFVV64-t763.16", "text": "That kind of discourse is kind of key to our therapeutics.", "start": 763.16, "end": 767.16}
+{"id": "7ulv5LFVV64-t767.16", "text": "And we'd like to sort of understand what is going on in a successful interaction, therapeutic interaction, if that can be modeled by the computational scientists.", "start": 767.16, "end": 779.16}
+{"id": "7ulv5LFVV64-t779.16", "text": "And then with that model, use that to help you all in teaching other people what you do.", "start": 779.16, "end": 786.16}
+{"id": "7ulv5LFVV64-t786.16", "text": "Hi, so I'm Larry Absola and I got interested in this stuff 20 years ago.", "start": 786.16, "end": 794.16}
+{"id": "7ulv5LFVV64-t794.16", "text": "And actually got interested in it because it seems to me that within the social sciences, the economics was the social science that most used mathematical models.", "start": 794.16, "end": 803.16}
+{"id": "7ulv5LFVV64-t803.16", "text": "So I got very interested in economic models.", "start": 803.16, "end": 806.16}
+{"id": "7ulv5LFVV64-t806.16", "text": "So I think in this panel we're at wonderfully different levels.", "start": 806.16, "end": 810.16}
+{"id": "7ulv5LFVV64-t810.16", "text": "Some people are doing stuff at a neuron level, a small circuit level.", "start": 810.16, "end": 814.16}
+{"id": "7ulv5LFVV64-t814.16", "text": "Andrew and I are more interested in the whole, in sort of the patient, and in general, in the whole patient level.", "start": 814.16, "end": 820.16}
+{"id": "7ulv5LFVV64-t820.16", "text": "But I think this stuff can be very abstract. And so Jerry and I agreed that we'll have to give like a three minute talk on a trivial example.", "start": 820.16, "end": 828.16}
+{"id": "7ulv5LFVV64-t828.16", "text": "And if I can just have you guys help me pass these out.", "start": 828.16, "end": 832.16}
+{"id": "7ulv5LFVV64-t832.16", "text": "This is the slide. This is the slide. It's a single slide. But I actually need one back myself.", "start": 832.16, "end": 839.16}
+{"id": "7ulv5LFVV64-t839.16", "text": "Thank you. So if we could go get those moving around very quickly, I would appreciate that.", "start": 839.16, "end": 843.16}
+{"id": "7ulv5LFVV64-t843.16", "text": "So I would say that what actually happened is that I was interested in watching as the managed care movement was taking over medicine.", "start": 843.16, "end": 853.16}
+{"id": "7ulv5LFVV64-t853.16", "text": "And I decided I needed to understand some economics. So I went and took a course in the economics of medicine.", "start": 853.16, "end": 858.16}
+{"id": "7ulv5LFVV64-t858.16", "text": "And I bumped into decision theory and game theory and I realized that the economists really have some very interesting insights.", "start": 858.16, "end": 864.16}
+{"id": "7ulv5LFVV64-t864.16", "text": "Very interesting insight into human behavior. And the thing that I had come from math, I dropped out of graduate schools, of math graduate school, to go to medicine.", "start": 864.16, "end": 875.16}
+{"id": "7ulv5LFVV64-t875.16", "text": "Because I looked around the room and I realized I'm good in math, but I'm not going to have a job. So you had to be great.", "start": 875.16, "end": 883.16}
+{"id": "7ulv5LFVV64-t883.16", "text": "So I got interested in these economic models. And then I found myself working in a suicide research lab.", "start": 883.16, "end": 892.16}
+{"id": "7ulv5LFVV64-t892.16", "text": "And I started talking to people about the architecture, thinking like an economist, what is the architecture of a suicide decision?", "start": 892.16, "end": 901.16}
+{"id": "7ulv5LFVV64-t901.16", "text": "So if you look at this, this is a very, very simple basic model. And the point of this is simply to show a trivial example about how a mathematical application may change the way we think about something.", "start": 901.16, "end": 914.16}
+{"id": "7ulv5LFVV64-t914.16", "text": "So in thinking about the architecture of suicide decision, there's three small assumptions that I think people might agree with.", "start": 914.16, "end": 922.16}
+{"id": "7ulv5LFVV64-t922.16", "text": "And that is that agents, and that's another word for decision makers, they have preferences over orderings.", "start": 922.16, "end": 927.16}
+{"id": "7ulv5LFVV64-t927.16", "text": "You know what you like vanilla, better than chocolate. You have preferences over outcomes. There are outcomes in the world and you have preferences over them.", "start": 927.16, "end": 934.16}
+{"id": "7ulv5LFVV64-t934.16", "text": "You like one thing rather than the other. The second is that agents can choose actions, but they can't choose the outcome.", "start": 934.16, "end": 939.16}
+{"id": "7ulv5LFVV64-t939.16", "text": "So you can go and order the chocolate ice cream, but you can't define whether it's going to be good. There's always a probability.", "start": 939.16, "end": 945.16}
+{"id": "7ulv5LFVV64-t945.16", "text": "It may be good chocolate ice cream, maybe not the chocolate. So I can choose actions, but I can't always choose my outcomes.", "start": 945.16, "end": 951.16}
+{"id": "7ulv5LFVV64-t951.16", "text": "And the last one is that when I make my choices, I try to maximize my preferences. I do what I want to do rather than what I don't want to do.", "start": 951.16, "end": 957.16}
+{"id": "7ulv5LFVV64-t957.16", "text": "It's very trivial. And yet these three very, very, I think easy assumptions that are not that hard to believe give rise to this decision tree, which is that when someone's facing this decision,", "start": 957.16, "end": 968.16}
+{"id": "7ulv5LFVV64-t968.16", "text": "they can either make a suicide attempt or not. If they make no attempt and they remain in the status quo, and that's the branch on top, if they do make an attempt,", "start": 968.16, "end": 977.16}
+{"id": "7ulv5LFVV64-t977.16", "text": "those are probabilistic. If they could end up dead or they could end up surviving the attempt.", "start": 977.16, "end": 981.16}
+{"id": "7ulv5LFVV64-t981.16", "text": "So there's three possible outcomes in the decision architecture. And here's where the trivial mathematics thing, because if you take discrete mathematics on day one, they will teach you that three things can be ordered in six ways.", "start": 981.16, "end": 993.16}
+{"id": "7ulv5LFVV64-t993.16", "text": "So chocolate ice cream, vanilla ice cream, strawberry ice cream, there are six kinds of attitudes that you can have depending on your ordering.", "start": 993.16, "end": 1001.16}
+{"id": "7ulv5LFVV64-t1001.16", "text": "So the mathematics forces me to believe that there are six types of clinical people, six different types of people in their approach to suicide.", "start": 1001.16, "end": 1009.16}
+{"id": "7ulv5LFVV64-t1009.16", "text": "Let's see if that's true. Well, the person number one is the healthy normal person is not suicidal. He prefers the status quo.", "start": 1009.16, "end": 1015.16}
+{"id": "7ulv5LFVV64-t1015.16", "text": "His second choice would be to survive a suicide attempt, and he really doesn't want to die. That's his last choice. On the opposite end is somebody who death is their first choice,", "start": 1015.16, "end": 1025.1599999999999}
+{"id": "7ulv5LFVV64-t1025.1599999999999", "text": "and they are willing to survive an attempt because the status quo is their absolute last choice. And this is somebody who would make any level lethality attempt.", "start": 1025.1599999999999, "end": 1034.1599999999999}
+{"id": "7ulv5LFVV64-t1034.1599999999999", "text": "They don't care about the probability they would make any lethality attempt. The third type, again, this is purely mathematically driven.", "start": 1034.1599999999999, "end": 1040.1599999999999}
+{"id": "7ulv5LFVV64-t1040.16", "text": "The third type is someone who surviving the attempt is their first choice. The status quo is their second choice, and death is their last choice.", "start": 1040.16, "end": 1046.16}
+{"id": "7ulv5LFVV64-t1046.16", "text": "And this is what we used to call manipulative suicide, but it leads to people who want, for one reason or another, to have made an attempt, but to survive the attempt, because that would either change them or change the environment that they're in.", "start": 1046.16, "end": 1057.16}
+{"id": "7ulv5LFVV64-t1057.16", "text": "We've all treated patients like this who suicide attempt think these people will not make a high level suicide attempt. They will only make a low level suicide attempt.", "start": 1057.16, "end": 1065.16}
+{"id": "7ulv5LFVV64-t1065.16", "text": "They're not a danger using a gun. They're only a danger of a low-suicide attempt. The fourth one is somebody who really wants to take their lives.", "start": 1065.16, "end": 1074.16}
+{"id": "7ulv5LFVV64-t1074.16", "text": "Let's say they're ill, they're terminally ill people, but they're terrified. We're facing this so much. They're terrified of making an attempt at ending up worse.", "start": 1074.16, "end": 1083.16}
+{"id": "7ulv5LFVV64-t1083.16", "text": "This is the reason for the Hamlet Society and the reason for people like Kavorkian. It's the whole idea of euthanasia.", "start": 1083.16, "end": 1088.16}
+{"id": "7ulv5LFVV64-t1088.16", "text": "It's the people who feel it's their time to die, but they're terrified of making an unsuccessful attempt. That's the fourth type.", "start": 1088.16, "end": 1094.16}
+{"id": "7ulv5LFVV64-t1094.16", "text": "The fifth type is somebody whose whole goal is to get away from the status quo. The status quo is their last option, and anything else is better for them.", "start": 1094.16, "end": 1103.16}
+{"id": "7ulv5LFVV64-t1103.16", "text": "Finally, the sixth type is a little bit odd. It's somebody for whom the status quo is fine, but if they were to make an attempt, they would not want to survive the attempt.", "start": 1103.16, "end": 1111.16}
+{"id": "7ulv5LFVV64-t1111.16", "text": "That's a samurai or also has to do with dueling cultures. It has to do with honoric cultures.", "start": 1111.16, "end": 1117.16}
+{"id": "7ulv5LFVV64-t1117.16", "text": "The point is that I made three very simple assumptions that 90% of people I talk to agree with is the trivial model, and the trivial model because of one piece of mathematics that three things can be ordered six ways, predict six types of suicide attitudes.", "start": 1117.16, "end": 1134.16}
+{"id": "7ulv5LFVV64-t1134.16", "text": "Most clinicians I talk to say I recognize those guys. I recognize those people. Those are real categories of people. End of talk.", "start": 1134.16, "end": 1149.16}
+{"id": "7ulv5LFVV64-t1149.16", "text": "The kind of applications, mathematical applications, as Laura mentioned, just a few minutes ago from the neuro anatomical cellular all the way to systems actually, not just individuals, but also systems.", "start": 1149.16, "end": 1166.16}
+{"id": "7ulv5LFVV64-t1166.16", "text": "I think it involves in a web of relationships with others. I'm straining to think of a way to get ball rolling with a conversation. Because this is dealing, there was a CRI guess on mathematical models.", "start": 1166.16, "end": 1181.16}
+{"id": "7ulv5LFVV64-t1181.16", "text": "I thought it would be a way to get started with just the following question. I think a lot of people who are interested in mathematics and get into this field often find themselves a little bit frustrated, where at least historically, of late, they found themselves frustrated", "start": 1181.16, "end": 1195.16}
+{"id": "7ulv5LFVV64-t1195.16", "text": "by the lack of mathematical intuition, a lot of people. The people who typically have done the kind of research you've done may not be so well-versed, or interested in mathematics.", "start": 1195.16, "end": 1209.16}
+{"id": "7ulv5LFVV64-t1209.16", "text": "I guess I want to know, how do you think mathematics is an improvement over a similar approach to what you've been engaged in that does not involve math?", "start": 1209.16, "end": 1222.16}
+{"id": "7ulv5LFVV64-t1222.16", "text": "I can jump in on that. I'm trying to write a popular book on this, and it's very hard. It's really very difficult.", "start": 1222.16, "end": 1231.16}
+{"id": "7ulv5LFVV64-t1231.16", "text": "It seems to me I was trying to understand what is the difference between a mathematical model and a verbal model. I grew up in the analytic world.", "start": 1231.16, "end": 1238.16}
+{"id": "7ulv5LFVV64-t1238.16", "text": "We had a lot of verbal models. I think the difference is that when you write a mathematical model, you are committed to the consequences of that.", "start": 1238.16, "end": 1245.16}
+{"id": "7ulv5LFVV64-t1245.16", "text": "That's kind of a thing. There's an equation you're committed to the consequences of that equation. We saw this in Popper's critique of psychoanalysis.", "start": 1245.16, "end": 1256.16}
+{"id": "7ulv5LFVV64-t1256.16", "text": "It was non-falsifiable because the psychoanalytic statements were vague, what the consequences were.", "start": 1256.16, "end": 1263.16}
+{"id": "7ulv5LFVV64-t1263.16", "text": "But when you write down a mathematical model, you are committing yourself to all the deductive and computational consequences of that model.", "start": 1263.16, "end": 1271.16}
+{"id": "7ulv5LFVV64-t1271.16", "text": "I think that's different than verbal models, but you guys would know better.", "start": 1271.16, "end": 1275.16}
+{"id": "7ulv5LFVV64-t1275.16", "text": "What I would say is that by, certainly for me, working on circuits, by exploring a mathematical model of a circuit, you discover things that you would never get just by thinking about it.", "start": 1275.16, "end": 1290.16}
+{"id": "7ulv5LFVV64-t1290.16", "text": "I think of a model as a scaffolding that you use to develop new intuitions. Once you've got them, you can apply them without the math, but you'll never get them without the math.", "start": 1290.16, "end": 1300.16}
+{"id": "7ulv5LFVV64-t1300.16", "text": "I can give an example. In the brain and the cortex, but across the brain, there are tells that either that are excitatory, they excite other neurons, or they're inhibitory.", "start": 1300.16, "end": 1311.16}
+{"id": "7ulv5LFVV64-t1311.16", "text": "They suppress the activity of other neurons. There's a phenomenon called surround suppression, where if you have a visual stimulus, right where a particular cell is looking, it'll respond to that stimulus.", "start": 1311.16, "end": 1325.16}
+{"id": "7ulv5LFVV64-t1325.16", "text": "If you put other stuff outside of that region, it'll tend to suppress the response to the center stimulus.", "start": 1325.16, "end": 1331.16}
+{"id": "7ulv5LFVV64-t1331.16", "text": "Everybody imagine that the only long range connections are excitatory, so everybody imagined you're sending excitation into the local circuit.", "start": 1331.16, "end": 1340.16}
+{"id": "7ulv5LFVV64-t1340.16", "text": "You must be exciting the inhibitory neurons, so they don't get surround suppressed. They get surround enhanced, and then they suppress everybody else.", "start": 1340.16, "end": 1348.16}
+{"id": "7ulv5LFVV64-t1348.16", "text": "But then David First, there's an experiment that showed that when you add the surround, the inhibition of the cells received goes down.", "start": 1348.16, "end": 1356.16}
+{"id": "7ulv5LFVV64-t1356.16", "text": "The excitation they receive also goes down, and that's what's causing them to get suppressed.", "start": 1356.16, "end": 1360.16}
+{"id": "7ulv5LFVV64-t1360.16", "text": "So then we had to figure out how can that happen? How can you add excitation into a local circuit and make both the excitatory cells and inhibitory cells all get suppressed by adding excitation?", "start": 1360.16, "end": 1371.16}
+{"id": "7ulv5LFVV64-t1371.16", "text": "It turns out there's a really simple mathematical action of that, which we had to, you know, start off for a little while to understand.", "start": 1371.16, "end": 1378.16}
+{"id": "7ulv5LFVV64-t1378.16", "text": "But then once you understand the mechanism, then you have a new understanding of how these things can work, that you then make predictions that you didn't anticipate, then experimentalists can go out and test.", "start": 1378.16, "end": 1389.16}
+{"id": "7ulv5LFVV64-t1389.16", "text": "I mean, I would say that, you know, the distinction between verbal models and mathematical models is more important than the distinction between using models or not, right?", "start": 1389.16, "end": 1399.16}
+{"id": "7ulv5LFVV64-t1399.16", "text": "There's often the kind of a take of you're using a simplified model, but the reality is that in science, we're always using simplified models, right?", "start": 1399.16, "end": 1405.16}
+{"id": "7ulv5LFVV64-t1405.16", "text": "If you don't have a mathematical model, you have some verbal model, some picture model, we've got some diaphragm, arrows, and this is how we kind of synthesize different facts, plan new experiments, et cetera, et cetera, right?", "start": 1405.16, "end": 1416.16}
+{"id": "7ulv5LFVV64-t1416.16", "text": "And so there's always, you know, some kind of model that people are using or assuming, even if they're not making it explicit, right?", "start": 1416.16, "end": 1421.16}
+{"id": "7ulv5LFVV64-t1421.16", "text": "And so by using a mathematical model, you number one, commit to making an argument for the sufficiency of something such and such mechanisms are sufficient to produce this phenomenon, which is kind of all you can do with models is really make kind of sufficiency", "start": 1421.16, "end": 1436.16}
+{"id": "7ulv5LFVV64-t1436.16", "text": "arguments, I would say.", "start": 1436.16, "end": 1438.16}
+{"id": "7ulv5LFVV64-t1438.16", "text": "As kimnessing, we discover counterintuitive things because you can use the word kind of emergence that when you have interacting elements in a complex way, you can have resulting phenomena that emerge at a higher level that are not really clear.", "start": 1438.16, "end": 1456.16}
+{"id": "7ulv5LFVV64-t1456.16", "text": "It's hard to predict that from even the properties of the low level, property elements.", "start": 1456.16, "end": 1462.16}
+{"id": "7ulv5LFVV64-t1462.16", "text": "And I would say that a key role in mathematical modeling is about bridging these different levels, right, where we understand something about, you know, to take Ken's example about the synaptic properties and interactions of excitatory inhibitory neurons.", "start": 1462.16, "end": 1475.16}
+{"id": "7ulv5LFVV64-t1475.16", "text": "You know, that's at the real, you know, kind of cellular synaptic level.", "start": 1475.16, "end": 1478.16}
+{"id": "7ulv5LFVV64-t1478.16", "text": "And then the phenomenon of surround suppression really emerges in the circuit at the physiological level. And, you know, it's through mathematical models that we're able to show how the elements at the low level produce the phenomenon at the higher level.", "start": 1478.16, "end": 1493.16}
+{"id": "7ulv5LFVV64-t1493.16", "text": "Actually, one other thought that occurs to me, you know, you said the, you know, all models are wrong, but some are useful.", "start": 1493.16, "end": 1500.16}
+{"id": "7ulv5LFVV64-t1500.16", "text": "And when you said that, it occurs to me, what I actually think is all models are incomplete.", "start": 1500.16, "end": 1505.16}
+{"id": "7ulv5LFVV64-t1505.16", "text": "I don't think they're necessarily wrong. Like, for example, I don't think our model of how it is that when you add excitation to the local circuit, everybody gets suppressed.", "start": 1505.16, "end": 1515.16}
+{"id": "7ulv5LFVV64-t1515.16", "text": "I don't think it's wrong, but it's incredibly incomplete. It's a very, very, very simplified model.", "start": 1515.16, "end": 1519.16}
+{"id": "7ulv5LFVV64-t1519.16", "text": "I think Bob was being intentionally provocative when he said that way.", "start": 1519.16, "end": 1522.16}
+{"id": "7ulv5LFVV64-t1522.16", "text": "Yeah.", "start": 1522.16, "end": 1523.16}
+{"id": "7ulv5LFVV64-t1523.16", "text": "I think he would agree with that.", "start": 1523.16, "end": 1525.16}
+{"id": "7ulv5LFVV64-t1525.16", "text": "Yeah.", "start": 1525.16, "end": 1526.16}
+{"id": "7ulv5LFVV64-t1526.16", "text": "So my thought about your question, though, is to try to disentangle a little bit the notion of use of mathematical models from the personality of the person who's asking or applying the model.", "start": 1526.16, "end": 1541.16}
+{"id": "7ulv5LFVV64-t1541.16", "text": "Because I feel like these things get conflated often.", "start": 1541.16, "end": 1544.16}
+{"id": "7ulv5LFVV64-t1544.16", "text": "And it's one of the struggles, I think, that exists in the clinical, particularly in psychiatry and psychology world, which is, I think there's a disproportionate number of people who get attracted to clinical fields.", "start": 1544.16, "end": 1555.16}
+{"id": "7ulv5LFVV64-t1555.16", "text": "Because of a pleasure in thinking in sort of almost rebellious ways that at any time you hear something, you sort of think, well, how's that also not true?", "start": 1555.16, "end": 1566.16}
+{"id": "7ulv5LFVV64-t1566.16", "text": "And how's that incomplete? And what's being left out of that?", "start": 1566.16, "end": 1570.16}
+{"id": "7ulv5LFVV64-t1570.16", "text": "Which is a personality style, it's a personality style that I like and that I think is very valuable in clinical work.", "start": 1570.16, "end": 1577.16}
+{"id": "7ulv5LFVV64-t1577.16", "text": "But it's interesting because it's often seen as a personality style that's at least in people who are non-mathematical as being incompatible with mathematics.", "start": 1577.16, "end": 1586.16}
+{"id": "7ulv5LFVV64-t1586.16", "text": "And I don't think that's true at all.", "start": 1586.16, "end": 1588.16}
+{"id": "7ulv5LFVV64-t1588.16", "text": "I, in fact, think that when you have a set of rules, when you have a set of practices, constraints, you can actually think out of the box in even still more a provocative way.", "start": 1588.16, "end": 1601.16}
+{"id": "7ulv5LFVV64-t1601.16", "text": "And I think getting, that's a nuanced way of describing the use of math that I think many people don't get.", "start": 1601.16, "end": 1609.16}
+{"id": "7ulv5LFVV64-t1609.16", "text": "They assume that if you do math, you're content with vast oversimplifications and it never occurs to you that they're, and I see you laughing because I've never met someone who's mathematically inclined who was content for the vast oversimplified.", "start": 1609.16, "end": 1623.16}
+{"id": "7ulv5LFVV64-t1623.16", "text": "No, I, to pick up on one of the things that Andrew said about character and the people who were attractive, I mean, one of the things that it seemed to me as I wondered as to why, you know, psychiatry had not become mathematical.", "start": 1623.16, "end": 1634.16}
+{"id": "7ulv5LFVV64-t1634.16", "text": "I mean, cardiology is mathematical. There's a lot of more more mathematics in cardiology than there is in psychiatry.", "start": 1634.16, "end": 1639.16}
+{"id": "7ulv5LFVV64-t1639.16", "text": "And psychiatry about the brain, so you would think.", "start": 1639.16, "end": 1642.16}
+{"id": "7ulv5LFVV64-t1642.16", "text": "And I think that, you know, there was a famous book by C.P. Snow called The Two Cultures talking about, you know, the time when there was a time when people knew everything and then there was a time where people sort of divided into the humanities.", "start": 1642.16, "end": 1652.16}
+{"id": "7ulv5LFVV64-t1652.16", "text": "Quote, quote, the humanities and the sciences.", "start": 1652.16, "end": 1654.16}
+{"id": "7ulv5LFVV64-t1654.16", "text": "And I always wonder whether people who were drawn to psychiatry were sort of the same sort of people who were sort of thought humanistically.", "start": 1654.16, "end": 1661.16}
+{"id": "7ulv5LFVV64-t1661.16", "text": "And that means, that means that they like to think in metaphors rather than informal math models, right, that you think in terms of metaphors that you think are going to be similes.", "start": 1661.16, "end": 1671.16}
+{"id": "7ulv5LFVV64-t1671.16", "text": "And that I think is the difference between sort of the humanities and the hard sciences.", "start": 1671.16, "end": 1675.16}
+{"id": "7ulv5LFVV64-t1675.16", "text": "And that psychiatrists were generally drawn from those kinds of people, but I could be wrong.", "start": 1675.16, "end": 1680.16}
+{"id": "7ulv5LFVV64-t1680.16", "text": "Of course, what is a metaphor, if not a model?", "start": 1680.16, "end": 1683.16}
+{"id": "7ulv5LFVV64-t1683.16", "text": "And so that's, you know, people make this argument frequently and I agree with you as a cultural level.", "start": 1683.16, "end": 1689.16}
+{"id": "7ulv5LFVV64-t1689.16", "text": "And then I think, why can't we get beyond that? Why can't we see that you can actually apply math to these kinds of more humanities, you know, models without doing any damage?", "start": 1689.16, "end": 1699.16}
+{"id": "7ulv5LFVV64-t1699.16", "text": "There's a wonderful quote in the beginning of Freud's biography of Leonardo da Vinci, which I always remember, where he says that some people have criticized him for the fact that he's not a", "start": 1699.16, "end": 1687.16}
+{"id": "7ulv5LFVV64-t1687.16", "text": "psychoanalytic study of Leonardo's life. And those of you who read it more recently than I can correct me if I'm wrong here.", "start": 1687.16, "end": 1716.16}
+{"id": "7ulv5LFVV64-t1716.16", "text": "But he says, he thinks exactly the opposite. He thinks by applying a psychoanalytic understanding to Leonardo's life, rather than oversimplifying or somehow reducing Leonardo's brilliance.", "start": 1716.16, "end": 1727.16}
+{"id": "7ulv5LFVV64-t1727.16", "text": "He's actually expanding and making it even more exciting that Leonardo ended up as he did.", "start": 1727.16, "end": 1733.16}
+{"id": "7ulv5LFVV64-t1733.16", "text": "And that's the same relationship I think of math to models that come out of the humanities, which is it actually doesn't reduce them, but rather gives you the opportunity to do with it.", "start": 1733.16, "end": 1742.16}
+{"id": "7ulv5LFVV64-t1742.16", "text": "And that's it. This is occurring, in fact, about two years ago, someone came out with a game theoretical analysis of some classic pieces of literature of Jane Austen, for example.", "start": 1742.16, "end": 1752.16}
+{"id": "7ulv5LFVV64-t1752.16", "text": "So it was a game theory model of Jane Austen's novels, which is a really beautiful piece of the kind of synthesis that you're talking about.", "start": 1752.16, "end": 1759.16}
+{"id": "7ulv5LFVV64-t1759.16", "text": "But I think where I find the math, you have to know, be able to know if you're right or wrong. If you come up with a pretty math model, but you have no way of telling if you're right or wrong, it doesn't get you very far.", "start": 1759.16, "end": 1772.16}
+{"id": "7ulv5LFVV64-t1772.16", "text": "Although, you know, that's something physicists debate now with super strength theory, but that's a whole nother topic. But at least for the rest of us, it's important that you be able to, you come up with testable predictions that you wouldn't have thought of otherwise.", "start": 1772.16, "end": 1788.16}
+{"id": "7ulv5LFVV64-t1788.16", "text": "And that they can be tested. And without that, you're kind of, you have an insight that might be right, might not be right, and you don't know what to do with it.", "start": 1788.16, "end": 1797.16}
+{"id": "7ulv5LFVV64-t1797.16", "text": "And then I think the other element of being successful is really what John said is that, you know, interactions of one, when I first was looking to do theory in biology, I was trained as a physicist, but I was wanted to work in biology.", "start": 1797.16, "end": 1811.16}
+{"id": "7ulv5LFVV64-t1811.16", "text": "All the biologists I talked with told me, you can't. Biology is an experimental science. We just find out the facts. And if you want to do theory, you should stay in physics.", "start": 1811.16, "end": 1820.16}
+{"id": "7ulv5LFVV64-t1820.16", "text": "And, but why neuroscience started to need theory was when we started to collect enough data at different levels that we had to know how the interactions at one level could create the behavior at another level.", "start": 1820.16, "end": 1837.16}
+{"id": "7ulv5LFVV64-t1837.16", "text": "And that, those aren't just facts. You can't just think your way through that. And that's where you really, and then the field of theoretical neuroscience, mathematical neuroscience has exploded since about the time I entered the field.", "start": 1837.16, "end": 1849.16}
+{"id": "7ulv5LFVV64-t1849.16", "text": "I happened to enter at a very good time when several people were entering and that's when the field exploded. But that's, it's, yeah, if you're not dealing with sorts, you know, how do the rules of how a neurons activity evolves based on the input it receives,", "start": 1849.16, "end": 1863.16}
+{"id": "7ulv5LFVV64-t1863.16", "text": "or inhibitory from other neurons, how does that lead to this behavior, which is more than the behavior that you can get from any one neuron?", "start": 1863.16, "end": 1870.16}
+{"id": "7ulv5LFVV64-t1870.16", "text": "It's those kind of questions that where you really can't do it without math.", "start": 1870.16, "end": 1875.16}
+{"id": "7ulv5LFVV64-t1875.16", "text": "I think there's a lot in this question of what does it mean in the mental health field to be right or wrong? Because I think that is a place that there's some vulnerability.", "start": 1875.16, "end": 1883.16}
+{"id": "7ulv5LFVV64-t1883.16", "text": "One can say, what does it mean to be right or wrong about the ways of a person with psychosis or person with depression functions?", "start": 1883.16, "end": 1891.16}
+{"id": "7ulv5LFVV64-t1891.16", "text": "And I think that part is part of why I like George Boxes so much because I don't know that we are at the stage now where we can, we can, we have ways of measuring right or wrong.", "start": 1891.16, "end": 1901.16}
+{"id": "7ulv5LFVV64-t1901.16", "text": "We have ways of measuring useful or not useful though. And I think that one of the things the mathematical models do in our field is generate new ideas, generate new hypotheses that I think is one of you were saying, one wouldn't have already, one wouldn't have already just immediately concluded", "start": 1901.16, "end": 1918.16}
+{"id": "7ulv5LFVV64-t1918.16", "text": "that emerged from the model, and then you try it. And sometimes it leads to something useful and sometimes it doesn't. And what has to be willing to go down that path even with an absence of certainty?", "start": 1918.16, "end": 1930.16}
+{"id": "7ulv5LFVV64-t1930.16", "text": "Yeah, but that's what makes the models right or wrong is that they do make different dissociable predictions. You can't test them yes or no, right?", "start": 1930.16, "end": 1937.16}
+{"id": "7ulv5LFVV64-t1937.16", "text": "So I think we can distinguish that that good modeling in neuroscience or behavior is kind of goal oriented.", "start": 1937.16, "end": 1945.16}
+{"id": "7ulv5LFVV64-t1945.16", "text": "We're trying to explain a certain phenomenon. We're trying to make some actual testable predictions. And so that's in contrast to, I think, two approaches, right? One would be trying to say, well, I want to build a correct model.", "start": 1945.16, "end": 1956.16}
+{"id": "7ulv5LFVV64-t1956.16", "text": "I want as much detail as I can in there and have a complete model, right? And I think the point is that that's a, you know, some of a futile effort and not actually a good path to generating understanding or advancing, you know, what kind of experiments, what we should measure, et cetera.", "start": 1956.16, "end": 1972.16}
+{"id": "7ulv5LFVV64-t1972.16", "text": "And that's on one end. And the other is on being kind of too abstract, too much of a toy problem, which, you know, some people from physics and mathematics have a tendency toward.", "start": 1972.16, "end": 1982.16}
+{"id": "7ulv5LFVV64-t1982.16", "text": "But then there ends up being a gap between you have a toy model. You can study some interesting properties. But there's a real gap between how you can connect to that to experiment and to real data.", "start": 1982.16, "end": 1991.16}
+{"id": "7ulv5LFVV64-t1991.16", "text": "And so I think there are kind of two ends that you can fall off the edge in terms of being useful for modeling.", "start": 1991.16, "end": 1997.16}
+{"id": "7ulv5LFVV64-t1997.16", "text": "I mean, just in clinical example, so clinical example, what you're saying in terms of how some of these models actually being clinically applied.", "start": 1997.16, "end": 2002.16}
+{"id": "7ulv5LFVV64-t2002.16", "text": "So because of where we're located, we had a huge 9-11 population of firemen and cops after 9-11. And I was in the Toronto section in those years.", "start": 2002.16, "end": 2014.16}
+{"id": "7ulv5LFVV64-t2014.16", "text": "And, you know, we had a lot of, I mean, there are validated treatments for PTSD, and we always use those kinds of things.", "start": 2014.16, "end": 2020.16}
+{"id": "7ulv5LFVV64-t2020.16", "text": "But what I found was that, you know, one of the things that drove the firemen I was treating completely crazy, because they're straightforward ration, they're straightforward, sort of very straightforward people.", "start": 2020.16, "end": 2029.16}
+{"id": "7ulv5LFVV64-t2029.16", "text": "The firemen are very straightforward people. They're not very introspective. They really bothered them that they knew that getting into an elevator was safe, and they also knew they couldn't get into an elevator.", "start": 2029.16, "end": 2038.16}
+{"id": "7ulv5LFVV64-t2038.16", "text": "And it was ruining their lives. They lost their jobs over this. And I found you simply take a reward learning model, right?", "start": 2038.16, "end": 2044.16}
+{"id": "7ulv5LFVV64-t2044.16", "text": "And I said, let me explain to you how this works. Your brain works in a reward learning model, and you've had this one shot, very negative learning thing, in which getting into an elevator is that it's working in your amygdala.", "start": 2044.16, "end": 2055.16}
+{"id": "7ulv5LFVV64-t2055.16", "text": "It's not working in your frontal cortex. So talking about it's not going to change. It only behavior is going to change it.", "start": 2055.16, "end": 2060.16}
+{"id": "7ulv5LFVV64-t2060.16", "text": "And giving them that model, giving them that reward learning model really changed things. So it made them feel less crazy.", "start": 2060.16, "end": 2068.16}
+{"id": "7ulv5LFVV64-t2068.16", "text": "It made them feel hopeful, and it made a huge difference. That was your idea.", "start": 2068.16, "end": 2072.16}
+{"id": "7ulv5LFVV64-t2072.16", "text": "I just want to make one quick, certainly clarifying comment. I hope it's clarifying anyway. Larry and Ken both refer to the idea that mathematics, once you engage in the mathematical model, you sort of committed yourself to the consequences of the mathematics of it.", "start": 2072.16, "end": 2087.16}
+{"id": "7ulv5LFVV64-t2087.16", "text": "And I think there could be this misunderstanding. That means that mathematics is rigidly inflexible. And therefore risks being reductionistic and missing something.", "start": 2087.16, "end": 2100.16}
+{"id": "7ulv5LFVV64-t2100.16", "text": "And Andrew said something very interesting, I think, about real mathematicians in the real world, or any way, in applied mathematics, where the whole idea is, okay, if there's a remainder, if there's a false, I'm calling it a remainder.", "start": 2100.16, "end": 2112.16}
+{"id": "7ulv5LFVV64-t2112.16", "text": "If there's a false outcome, or an hypothesis that's been disproved, put it back in a hopper. Let's use it and build another model based on that.", "start": 2112.16, "end": 2120.16}
+{"id": "7ulv5LFVV64-t2120.16", "text": "And that is a way to keep the mathematics from falling into being excessively rigid. Okay. But having said that, I want to ask the following question.", "start": 2120.16, "end": 2129.16}
+{"id": "7ulv5LFVV64-t2129.16", "text": "So there's a lot of talk about whether or not computers, whether the brain is a computer. Okay. I want to ask something slightly broader. Of course, let's go to overlap with that question. Is the brain mathematical?", "start": 2129.16, "end": 2142.16}
+{"id": "7ulv5LFVV64-t2142.16", "text": "Of course. This whole discussion about mathematical models. What is the difference between a mathematical model and a careful explanation?", "start": 2142.16, "end": 2153.16}
+{"id": "7ulv5LFVV64-t2153.16", "text": "Okay. Careful explanations don't go into equations which could be manipulated to give you other consequences. Why not?", "start": 2153.16, "end": 2163.16}
+{"id": "7ulv5LFVV64-t2163.16", "text": "Well, that'll become mathematical. Then it becomes mathematical. So there are beatable. So my argument back to you would be to say, at the point where it's exact enough, and exact enough, I would say has two properties.", "start": 2163.16, "end": 2175.16}
+{"id": "7ulv5LFVV64-t2175.16", "text": "One is all the variables that you're referring to are measurable things in the universe, agreed measurable things in the universe, and the relationship that they have with each other in the universe corresponds to the relationship that they have in your model, whether it's a verbal model or an equation model, right? So that there's a correspondence.", "start": 2175.16, "end": 2192.16}
+{"id": "7ulv5LFVV64-t2192.16", "text": "But if you've got a verbal model that has those two qualities, it's a mathematical model.", "start": 2192.16, "end": 2200.16}
+{"id": "7ulv5LFVV64-t2200.16", "text": "I mean, Newton's three laws are written in words. But I'm with you in the sense that I think the word math gets used for a funny purpose here.", "start": 2200.16, "end": 2212.16}
+{"id": "7ulv5LFVV64-t2212.16", "text": "It's used as to sort of sit in him for thinking carefully, and that gets very confusing.", "start": 2212.16, "end": 2221.16}
+{"id": "7ulv5LFVV64-t2221.16", "text": "I think you have to define what one means when one's having this debate.", "start": 2221.16, "end": 2224.16}
+{"id": "7ulv5LFVV64-t2224.16", "text": "I think the times you think you're thinking carefully, and then when someone forces you, I mean, this is sort of when you do an applied math course, right? So you say, oh, I think I have a good model.", "start": 2224.16, "end": 2233.16}
+{"id": "7ulv5LFVV64-t2233.16", "text": "And then when you try to put it down in a mathematical way, mathematics, I think the formalism, I'm not disagreeing with you, but I'm saying the formalism of mathematics does force you to make sure that you can probably do that over.", "start": 2233.16, "end": 2246.16}
+{"id": "7ulv5LFVV64-t2246.16", "text": "So I do. So I do. I'm an empiricist, right? I do science. I don't do modeling.", "start": 2246.16, "end": 2254.16}
+{"id": "7ulv5LFVV64-t2254.16", "text": "To me, what seems like the difference is that when you have a computational or mathematical model, you can look at latent variables that are not evident to the person doing empirical work.", "start": 2254.16, "end": 2266.16}
+{"id": "7ulv5LFVV64-t2266.16", "text": "And that seems to me to be the difference.", "start": 2266.16, "end": 2269.16}
+{"id": "7ulv5LFVV64-t2269.16", "text": "You could argue second analysis was doing that from the beginning without using math, but was often not doing it in a very precise way.", "start": 2269.16, "end": 2279.16}
+{"id": "7ulv5LFVV64-t2279.16", "text": "I wasn't even thinking of psychoanalysis as that sort of adds to it, but I think within sort of research, you know, I use statistics.", "start": 2279.16, "end": 2288.16}
+{"id": "7ulv5LFVV64-t2288.16", "text": "You can use very advanced statistics, but to model, you have to, it seems to me you're looking for latent relationships and variables that necessarily are.", "start": 2288.16, "end": 2300.16}
+{"id": "7ulv5LFVV64-t2300.16", "text": "Well, that's one thing is that you look for, you know, a much lower dimensional set of variables that explain some high dimensional data, but another is that you're just looking more like a dynamical system.", "start": 2300.16, "end": 2314.16}
+{"id": "7ulv5LFVV64-t2314.16", "text": "Understanding how the dynamics of the interactions lead to certain results in this. I wouldn't call that latent variable. That's sort of just a different thing.", "start": 2314.16, "end": 2321.16}
+{"id": "7ulv5LFVV64-t2321.16", "text": "That makes sense.", "start": 2321.16, "end": 2323.16}
+{"id": "7ulv5LFVV64-t2323.16", "text": "Let me ask the question a different way because I got such a smackdown for the last time.", "start": 2323.16, "end": 2327.16}
+{"id": "7ulv5LFVV64-t2327.16", "text": "No, no, no, no. There are things about the way the mind or people that have to be just for the brain cannot be accessed through math.", "start": 2327.16, "end": 2336.16}
+{"id": "7ulv5LFVV64-t2336.16", "text": "That's a different way to ask the, I think, the same question.", "start": 2336.16, "end": 2341.16}
+{"id": "7ulv5LFVV64-t2341.16", "text": "So here's an example.", "start": 2341.16, "end": 2347.16}
+{"id": "7ulv5LFVV64-t2347.16", "text": "So I don't know if everyone is familiar with the recent advances in artificial intelligence to what's called deep nets.", "start": 2347.16, "end": 2354.16}
+{"id": "7ulv5LFVV64-t2354.16", "text": "But these are very, very, very loosely modeled on neurons, what they call neural networks.", "start": 2354.16, "end": 2363.16}
+{"id": "7ulv5LFVV64-t2363.16", "text": "And by being deep, you just mean you have layers and layers of them. So this one was predicted. This one was predicted. This one was predicted. This one.", "start": 2363.16, "end": 2371.16}
+{"id": "7ulv5LFVV64-t2371.16", "text": "And that program has been going on for a long time. And it almost died. There were a few hardy souls who kept it alive through a period when most of the field didn't believe in it.", "start": 2371.16, "end": 2381.16}
+{"id": "7ulv5LFVV64-t2381.16", "text": "And then they had a spectacular breakthrough about six years ago, seven years ago.", "start": 2381.16, "end": 2386.16}
+{"id": "7ulv5LFVV64-t2386.16", "text": "Now it's completely taken over every field of artificial intelligence. So Jeff Hinton, who was really one of a few leaders, but to my mind, the leader in the field through all those years, brilliant guy.", "start": 2386.16, "end": 2400.16}
+{"id": "7ulv5LFVV64-t2400.16", "text": "And he's the one, actually his group made the breakthrough that broke everything open in 2012. But he was asked, so there's a big question with the deep nets, which is that they have like a billion parameters,", "start": 2400.16, "end": 2414.16}
+{"id": "7ulv5LFVV64-t2414.16", "text": "a billion synaptic weights that have to be learned from by just knowing for every input what output you want. And then you have an algorithm to make to learn those billion parameters to make this input produce that output.", "start": 2414.16, "end": 2427.16}
+{"id": "7ulv5LFVV64-t2427.16", "text": "And he was so there's a big problem is there are black box. We want to know what they're doing. We want to know how they decide that this is a car and this is a German Shepherd.", "start": 2427.16, "end": 2440.16}
+{"id": "7ulv5LFVV64-t2440.16", "text": "And we don't. It's just a black box, but it works really well. And so somebody was asking Jeff, you know, are we going to be able to understand these things? And he said, no, he said, these involve a billion parameters.", "start": 2440.16, "end": 2455.16}
+{"id": "7ulv5LFVV64-t2455.16", "text": "If it was reducible to some nice simple operation, the problem would have been solved a long time ago. People tried to solve it by using nice simple operations. They didn't get anywhere.", "start": 2455.16, "end": 2464.16}
+{"id": "7ulv5LFVV64-t2464.16", "text": "And so that's an example of a level at which, no, you can't reduce it to any nice math. I mean, it is mathematics. You know, there's a mathematical set of equations that are these deep nets, but we can't.", "start": 2464.16, "end": 2476.16}
+{"id": "7ulv5LFVV64-t2476.16", "text": "It's not understandable mathematics. It's understandable at the level of what you're trying to optimize and what your learning rules are, but not what it's doing when you present an input at the bottom and the works is way to the top. That part doesn't seem to be understandable.", "start": 2476.16, "end": 2488.16}
+{"id": "7ulv5LFVV64-t2488.16", "text": "That's a key thing. I see using that example, as I said, some of the parts of that are understandable, right? The learning rule is, you know, one equation, the loss function.", "start": 2488.16, "end": 2497.16}
+{"id": "7ulv5LFVV64-t2497.16", "text": "What is it trying to optimize? And so, in one sense, it's a very simple description of what goes into the model. But again, you're training the seep network to classify, you know, visual images.", "start": 2497.16, "end": 2509.16}
+{"id": "7ulv5LFVV64-t2509.16", "text": "And so all of the complexity of the visual world of all of those images is being, you know, parsed and extracted, and that goes into those billion parameters.", "start": 2509.16, "end": 2518.16}
+{"id": "7ulv5LFVV64-t2518.16", "text": "And so in some sense, the model has to be complex because it's processing complex data, and that goes into the parameters.", "start": 2518.16, "end": 2526.16}
+{"id": "7ulv5LFVV64-t2526.16", "text": "And so in some sense, you know, we understand something about those models. What are they doing? But the final solution is very complex.", "start": 2526.16, "end": 2533.16}
+{"id": "7ulv5LFVV64-t2533.16", "text": "And I think a lot of neuroscience will be the same way, right? But it's not even so different from physics, right? We understand, you know, Newton's laws, but, you know, we can't predict the weather, right?", "start": 2533.16, "end": 2544.16}
+{"id": "7ulv5LFVV64-t2544.16", "text": "We can't predict the hurricane. There's, you know, but we still think the same basic fundamental interactions are there.", "start": 2544.16, "end": 2550.16}
+{"id": "7ulv5LFVV64-t2550.16", "text": "But it's a level of complexity that we're never going to understand on the same intuitive level as, you know, in a simple, inelastic collision of two particles.", "start": 2550.16, "end": 2557.16}
+{"id": "7ulv5LFVV64-t2557.16", "text": "And so in the same way in neuroscience and psychology, we often will build kind of, you know, simplified models, where we want to understand some principles.", "start": 2557.16, "end": 2566.16}
+{"id": "7ulv5LFVV64-t2566.16", "text": "And then, as you're saying, it goes back to metaphor, but often our metaphors are from, you know, simple models are very constrained behaviors that we can model, that we can study, that we can, you know, look at in humans, in animals, et cetera.", "start": 2566.16, "end": 2577.16}
+{"id": "7ulv5LFVV64-t2577.16", "text": "And then there's this process of extrapolation and metaphor to the kind of full richness of human behavior.", "start": 2577.16, "end": 2583.16}
+{"id": "7ulv5LFVV64-t2583.16", "text": "Yeah, I think a clarification, and if we were actually worried about this coming into this talk, is the clarification is that, and I always worry about the term computational psychiatry.", "start": 2583.16, "end": 2592.16}
+{"id": "7ulv5LFVV64-t2592.16", "text": "I used to call it mathematical when I started doing it, because what I was doing was model it, right? Model a model, a math model of behavior.", "start": 2592.16, "end": 2599.16}
+{"id": "7ulv5LFVV64-t2599.16", "text": "But computational psychiatry encompasses two things that are actually at the polar opposite, one in which you have specific models, like a specific reward learning model for the way a mouse is going to behave in a maze.", "start": 2599.16, "end": 2611.16}
+{"id": "7ulv5LFVV64-t2611.16", "text": "And you have very specific models. But then you have these computational things, which are absolutely black boxes.", "start": 2611.16, "end": 2616.16}
+{"id": "7ulv5LFVV64-t2616.16", "text": "So it encompasses both these things in which not only are there no mathematical models for the beginning to end thing, it's not even possible.", "start": 2616.16, "end": 2623.16}
+{"id": "7ulv5LFVV64-t2623.16", "text": "It will never be possible as you point out, because deep networks will never be reducible.", "start": 2623.16, "end": 2631.16}
+{"id": "7ulv5LFVV64-t2631.16", "text": "That's why they work.", "start": 2631.16, "end": 2633.16}
+{"id": "7ulv5LFVV64-t2633.16", "text": "It seems to me that the subtlety you're talking about though between a substantial levels of complexity and how much you can simplify these models is different than what the", "start": 2633.16, "end": 2615.16}
+{"id": "7ulv5LFVV64-t2615.16", "text": "people mean about it mathematical or not.", "start": 2615.16, "end": 2643.16}
+{"id": "7ulv5LFVV64-t2643.16", "text": "From that question, at least the way I understood your question, it's all mathematical.", "start": 2643.16, "end": 2648.16}
+{"id": "7ulv5LFVV64-t2648.16", "text": "Yes, how many parameters you have, yes, to what extent is it computational versus solvable into a simple equation?", "start": 2648.16, "end": 2654.16}
+{"id": "7ulv5LFVV64-t2654.16", "text": "That's different.", "start": 2654.16, "end": 2655.16}
+{"id": "7ulv5LFVV64-t2655.16", "text": "But I heard your question and tell me, as being more connected to the question of are we dualists or not?", "start": 2655.16, "end": 2662.16}
+{"id": "7ulv5LFVV64-t2662.16", "text": "Because true dualism, and Larry and I have had this debate just recently, to my mind suggests that there is an aspect of the universe,", "start": 2662.16, "end": 2672.16}
+{"id": "7ulv5LFVV64-t2672.16", "text": "that does not obey these same laws, that is not, quote unquote, reducible to the sort of principles by which we use.", "start": 2672.16, "end": 2681.16}
+{"id": "7ulv5LFVV64-t2681.16", "text": "Now, I am not a dualist.", "start": 2681.16, "end": 2683.16}
+{"id": "7ulv5LFVV64-t2683.16", "text": "I'm not a dualist.", "start": 2683.16, "end": 2684.16}
+{"id": "7ulv5LFVV64-t2684.16", "text": "So I may be misrepresenting.", "start": 2684.16, "end": 2686.16}
+{"id": "7ulv5LFVV64-t2686.16", "text": "But if you don't believe in dualism, if you really believe in monism, that there's one universe and there's one set of principles that governs it, then it's hard for me,", "start": 2686.16, "end": 2697.16}
+{"id": "7ulv5LFVV64-t2697.16", "text": "then I don't think that there's anything that isn't at some point amenable to the use of math.", "start": 2697.16, "end": 2702.16}
+{"id": "7ulv5LFVV64-t2702.16", "text": "I agree with that.", "start": 2702.16, "end": 2703.16}
+{"id": "7ulv5LFVV64-t2703.16", "text": "Are you serious?", "start": 2703.16, "end": 2705.16}
+{"id": "7ulv5LFVV64-t2705.16", "text": "Yep, okay.", "start": 2705.16, "end": 2706.16}
+{"id": "7ulv5LFVV64-t2706.16", "text": "To me, I don't know anything about philosophy, but to me it seems very obvious that I feel a certain way being a conscious thing.", "start": 2706.16, "end": 2719.16}
+{"id": "7ulv5LFVV64-t2719.16", "text": "I don't think that if you make the assumption that consciousness is some emergent property of a complex system, it seems plausible.", "start": 2719.16, "end": 2729.16}
+{"id": "7ulv5LFVV64-t2729.16", "text": "I don't think mathematics, as it currently stands, has any foothold on that question.", "start": 2729.16, "end": 2739.16}
+{"id": "7ulv5LFVV64-t2739.16", "text": "There's no language that mathematicians have access to today that can begin to untangle why it is that I feel the way that I do about anything.", "start": 2739.16, "end": 2749.16}
+{"id": "7ulv5LFVV64-t2749.16", "text": "I mean, and just to answer me to push this analogy a little bit further, if you assume that we're conscious to whatever degree, another similar complicated systems that somehow perpetuate themselves are also conscious, maybe bacteria or sharks or dogs or", "start": 2749.16, "end": 2767.16}
+{"id": "7ulv5LFVV64-t2767.16", "text": "cities or the esthetic change, if there's consciousness in these large complicated systems, I have no idea how to address it.", "start": 2767.16, "end": 2777.16}
+{"id": "7ulv5LFVV64-t2777.16", "text": "I don't think any mathematician, I don't think math, if you say careful thinking will eventually understand things, sure, but if you look at the current set of tools that mathematicians have access to, no way.", "start": 2777.16, "end": 2790.16}
+{"id": "7ulv5LFVV64-t2790.16", "text": "Actually, I think I agree with both of you.", "start": 2790.16, "end": 2799.16}
+{"id": "7ulv5LFVV64-t2799.16", "text": "I mean, what you're saying is basically, look, it's a physical system that obeys the laws of physics, and in that sense, you can describe it in principle with those laws.", "start": 2799.16, "end": 2810.16}
+{"id": "7ulv5LFVV64-t2810.16", "text": "You can't in practice because it's too complicated, but you can describe bits and pieces of it, but it is a physical system that operates according to some actual laws and isn't just doing whatever it feels like.", "start": 2810.16, "end": 2819.16}
+{"id": "7ulv5LFVV64-t2819.16", "text": "It's just doing whatever it feels like doing it in a moment, but there are properties that emerge from that system that are very hard to describe.", "start": 2819.16, "end": 2828.16}
+{"id": "7ulv5LFVV64-t2828.16", "text": "When a physicist describes the properties of water and why it's wet, in terms of the atoms in the water, you can derive from statistical physics, the attributes that you can recognize as how wet things behave.", "start": 2828.16, "end": 2843.16}
+{"id": "7ulv5LFVV64-t2843.16", "text": "So there you can actually see the emergence. Consciousness?", "start": 2843.16, "end": 2850.16}
+{"id": "7ulv5LFVV64-t2850.16", "text": "I tend to think that why material things have a subjective experience is not a scientifically addressable question to why, but the what, which material things end up creating subjective experience with the correlation between the material things and the subjective experience?", "start": 2850.16, "end": 2872.16}
+{"id": "7ulv5LFVV64-t2872.16", "text": "I think we'll be able to, in principle, describe that perfectly.", "start": 2872.16, "end": 2875.16}
+{"id": "7ulv5LFVV64-t2875.16", "text": "So why isn't it a zombie? Why doesn't it have subjective experience? I think that's not a scientific question. I don't know how science could possibly address that.", "start": 2875.16, "end": 2882.16}
+{"id": "7ulv5LFVV64-t2882.16", "text": "So Andrew and I have had this ongoing, and I would say I'm a dualist all the way down, which is to say the turtles all the way down, which is to say I don't think you have to...", "start": 2882.16, "end": 2892.16}
+{"id": "7ulv5LFVV64-t2892.16", "text": "I agree with your argument, but I don't think I need human consciousness to do it. I think if you simply look at a single cell protozoan that if you put it in a petri dish, it will swim up the sugar gradient.", "start": 2892.16, "end": 2910.16}
+{"id": "7ulv5LFVV64-t2910.16", "text": "So that protozoan swims up the sugar gradient. I can describe the mathematics of the turning of its tail and how it turns, and I can probably get a perfectly good description of how that does.", "start": 2910.16, "end": 2925.16}
+{"id": "7ulv5LFVV64-t2925.16", "text": "But that will never replace the description that the protozoan, that creature is swimming towards the sugar.", "start": 2925.16, "end": 2933.16}
+{"id": "7ulv5LFVV64-t2933.16", "text": "So the mathematical description will never replace the intuition and the description of what's going on.", "start": 2933.16, "end": 2941.16}
+{"id": "7ulv5LFVV64-t2941.16", "text": "And I think those are the two levels, and I think that's exactly what you're saying. So it's not even only the human being consciousness level.", "start": 2941.16, "end": 2947.16}
+{"id": "7ulv5LFVV64-t2947.16", "text": "I don't think science can ever, I don't think mathematical things can ever, they can explain the mechanism of it, but you lose something when you move away from the thing of, oh what's going on? Oh, it's swimming towards the sugar.", "start": 2947.16, "end": 2958.16}
+{"id": "7ulv5LFVV64-t2958.16", "text": "Well, I'm going to put it in, you can build a mathematical model. But you argue missing something as in a description of observing this, if you leave out the idea that it's swimming up a gradient, and that swimming up a gradient wouldn't be in the mathematics.", "start": 2958.16, "end": 2972.16}
+{"id": "7ulv5LFVV64-t2972.16", "text": "Sure, it could be. You're missing something in every model, it depends what the questions are, but you can model those behaviors.", "start": 2972.16, "end": 2978.16}
+{"id": "7ulv5LFVV64-t2978.16", "text": "This is what mathematical psychology does, right? You're trying to explain the pattern of behavior in relationship to the stimuli, and you have real kind of, you know, they're truly mechanistic.", "start": 2978.16, "end": 2986.16}
+{"id": "7ulv5LFVV64-t2986.16", "text": "They're generative models, but if psychological processes is not of neurons, right? And those are perfectly good quantitative mathematical models meant to address, you know, kind of, again, the level of behavior in relationship to a stimuli or learning, right?", "start": 2986.16, "end": 3000.16}
+{"id": "7ulv5LFVV64-t3000.16", "text": "And that's, again, bridging those two levels of analysis, and then there's the challenge, not how does a model connect to different levels?", "start": 3000.16, "end": 3006.16}
+{"id": "7ulv5LFVV64-t3006.16", "text": "How do we connect to different modeling levels of analysis, the models of the level of circuits versus models of the level of circuits?", "start": 3006.16, "end": 3011.16}
+{"id": "7ulv5LFVV64-t3011.16", "text": "This is an incredible, I think this debate is incredibly clinically relevant, because back to your original scenario, the typical occurrence is a patient comes to see me or one of us and says, I'm having a subjective experience, a deeply subjective, a conscious experience", "start": 3011.16, "end": 3028.16}
+{"id": "7ulv5LFVV64-t3028.16", "text": "that I don't understand, or they say that is upsetting to them in some ways, whether they're anxious or they're angry or they're sad. And there's a question on the table as to whether any kind of analytic, not in the psychoanalytic way, but any kind of mathematical or analytic thinking has any value.", "start": 3028.16, "end": 3049.16}
+{"id": "7ulv5LFVV64-t3049.16", "text": "Maybe there's nothing I can offer that, that's one hypothesis, that patient, because what they are coming to me with is so intrinsically subjective and doesn't follow any standard set of rules that no amount of experience I have could ever really impact.", "start": 3049.16, "end": 3063.16}
+{"id": "7ulv5LFVV64-t3063.16", "text": "I don't believe that. I believe that using my experience, using the models that I have about why some people get sad, why some people get angry, why some people get anxious, actually has a value for them, not just in a kind of, oh, let me tell you a nice story, and therefore you'll feel better.", "start": 3063.16, "end": 3078.16}
+{"id": "7ulv5LFVV64-t3078.16", "text": "But rather in that you'll learn something about your subjective experience that is going to be useful to you. And so that's to me why there's a bridge between those two.", "start": 3078.16, "end": 3087.16}
+{"id": "7ulv5LFVV64-t3087.16", "text": "Now are there aspects of subjective experience we don't understand yet? Absolutely. Most don't understand. But some of it we understand in small ways.", "start": 3087.16, "end": 3095.16}
+{"id": "7ulv5LFVV64-t3095.16", "text": "And I think that's proven to be very useful. And I think that's going to continue to grow.", "start": 3095.16, "end": 3100.16}
+{"id": "7ulv5LFVV64-t3100.16", "text": "So this is why in clinical psychiatric research, there's such a push to go beyond kind of subjective evaluation toward actual quantitative behaviors.", "start": 3100.16, "end": 3110.16}
+{"id": "7ulv5LFVV64-t3110.16", "text": "Can we relate subjective experiences of anhedonia to the parameters of sensitivity to reward and punishment in a reinforcement learning model that we can actually set?", "start": 3110.16, "end": 3120.16}
+{"id": "7ulv5LFVV64-t3120.16", "text": "Can we relate delusions in schizophrenia? Can we encapsulate that in a more quantitative mathematical formalism of Bayesian inference and how we bring prior information in combination with sensory evidence?", "start": 3120.16, "end": 3136.16}
+{"id": "7ulv5LFVV64-t3136.16", "text": "And if we can do that, then we have, it's still that metaphor that jump between the simple computation and the full subjective experience.", "start": 3136.16, "end": 3151.16}
+{"id": "7ulv5LFVV64-t3151.16", "text": "And that gives us, I think, a foothold in terms of bridging these levels of analyses, which ultimately we need to, in psychiatry, if we're going to talk about how pharmacology can affect brain circuits and ultimately alleviate symptoms.", "start": 3151.16, "end": 3168.16}
+{"id": "7ulv5LFVV64-t3168.16", "text": "So if I were to go head to head with your model and evaluating people for delusions, I would win. Sure. So what am I doing that is not in your model?", "start": 3168.16, "end": 3185.16}
+{"id": "7ulv5LFVV64-t3185.16", "text": "The interesting thing there is that neural networks are starting to get better at humans at a lot of jobs like that.", "start": 3185.16, "end": 3199.16}
+{"id": "7ulv5LFVV64-t3199.16", "text": "Like what? Radiology.", "start": 3199.16, "end": 3201.16}
+{"id": "7ulv5LFVV64-t3201.16", "text": "Well, no, no way.", "start": 3201.16, "end": 3203.16}
+{"id": "7ulv5LFVV64-t3203.16", "text": "Just go.", "start": 3203.16, "end": 3204.16}
+{"id": "7ulv5LFVV64-t3204.16", "text": "Tell me in psychiatry.", "start": 3204.16, "end": 3205.16}
+{"id": "7ulv5LFVV64-t3205.16", "text": "Okay.", "start": 3205.16, "end": 3206.16}
+{"id": "7ulv5LFVV64-t3206.16", "text": "How about what they need right now to work is they need a huge training database, but if you had a training database of the conclusions you want to reach and the information that goes into it, and you had a lot of that, a machine might learn to do it better than you.", "start": 3206.16, "end": 3224.16}
+{"id": "7ulv5LFVV64-t3224.16", "text": "So when I, and all of you, look at a people, look at somebody and their facial expression, you do instantaneous calculation that's better than any computer.", "start": 3224.16, "end": 3236.16}
+{"id": "7ulv5LFVV64-t3236.16", "text": "So far.", "start": 3236.16, "end": 3237.16}
+{"id": "7ulv5LFVV64-t3237.16", "text": "No, they're not too learning to do that, but they don't, you wouldn't know if that's a good label.", "start": 3237.16, "end": 3240.16}
+{"id": "7ulv5LFVV64-t3240.16", "text": "I'm not talking about identity.", "start": 3240.16, "end": 3242.16}
+{"id": "7ulv5LFVV64-t3242.16", "text": "No, I know. They're learning recognizing motions too, but they're not as good at it yet.", "start": 3242.16, "end": 3245.16}
+{"id": "7ulv5LFVV64-t3245.16", "text": "But, but there are all sorts of nuances. And, and then in terms of context, I mean, computationally, we are very complex.", "start": 3245.16, "end": 3254.16}
+{"id": "7ulv5LFVV64-t3254.16", "text": "We are, but we're starting to build machines that are equally complex.", "start": 3254.16, "end": 3257.16}
+{"id": "7ulv5LFVV64-t3257.16", "text": "And also, I would point out that, that by virtue of evolution, you've had a training, you have been exposed to training sets, right? Over a billion years, right?", "start": 3257.16, "end": 3265.16}
+{"id": "7ulv5LFVV64-t3265.16", "text": "And a billion years of training sets have selected you to be the best facial recognizer, right?", "start": 3265.16, "end": 3271.16}
+{"id": "7ulv5LFVV64-t3271.16", "text": "And the people who are not as good facial recognizers.", "start": 3271.16, "end": 3273.16}
+{"id": "7ulv5LFVV64-t3273.16", "text": "No, no, no.", "start": 3273.16, "end": 3274.16}
+{"id": "7ulv5LFVV64-t3274.16", "text": "So evolution has been a training set over a billion years. We sometimes discount that, that, you know.", "start": 3274.16, "end": 3279.16}
+{"id": "7ulv5LFVV64-t3279.16", "text": "No, but evolution has acted on the genes, right?", "start": 3279.16, "end": 3282.16}
+{"id": "7ulv5LFVV64-t3282.16", "text": "Right.", "start": 3282.16, "end": 3283.16}
+{"id": "7ulv5LFVV64-t3283.16", "text": "That has selected for the genes that can lead to those computational ability.", "start": 3283.16, "end": 3288.16}
+{"id": "7ulv5LFVV64-t3288.16", "text": "You know, I'm not Lamarckian, even though, you know, you could do gene epigenetics, right? It's a little bit Lamarckian, that's right.", "start": 3288.16, "end": 3295.16}
+{"id": "7ulv5LFVV64-t3295.16", "text": "But I have had several years of pattern recognition, but that even really thinking about it, and I'm awfully good at it.", "start": 3295.16, "end": 3305.16}
+{"id": "7ulv5LFVV64-t3305.16", "text": "And I, I...", "start": 3305.16, "end": 3306.16}
+{"id": "7ulv5LFVV64-t3306.16", "text": "But that is a huge training data set of, from birth, in an interactive way, a closed loop interaction with the environment.", "start": 3306.16, "end": 3312.16}
+{"id": "7ulv5LFVV64-t3312.16", "text": "So, will we be replaced?", "start": 3312.16, "end": 3314.16}
+{"id": "7ulv5LFVV64-t3314.16", "text": "Will clinicians be replaced by psychiatrists?", "start": 3314.16, "end": 3318.16}
+{"id": "7ulv5LFVV64-t3318.16", "text": "Maybe by computers?", "start": 3318.16, "end": 3325.16}
+{"id": "7ulv5LFVV64-t3325.16", "text": "The only things we really know how to do neural networks right now are when we have a huge database of input to output,", "start": 3325.16, "end": 3331.16}
+{"id": "7ulv5LFVV64-t3331.16", "text": "then that we can get the machines to learn it, sometimes better than us.", "start": 3331.16, "end": 3334.16}
+{"id": "7ulv5LFVV64-t3334.16", "text": "No, no, no, no.", "start": 3334.16, "end": 3335.16}
+{"id": "7ulv5LFVV64-t3335.16", "text": "But what it shows is...", "start": 3335.16, "end": 3336.16}
+{"id": "7ulv5LFVV64-t3336.16", "text": "You learn wrong.", "start": 3336.16, "end": 3337.16}
+{"id": "7ulv5LFVV64-t3337.16", "text": "Excuse me?", "start": 3337.16, "end": 3338.16}
+{"id": "7ulv5LFVV64-t3338.16", "text": "These neural networks have never learned the damn thing.", "start": 3338.16, "end": 3341.16}
+{"id": "7ulv5LFVV64-t3341.16", "text": "They're trained to perform a classification task. They're not learning anything.", "start": 3341.16, "end": 3345.16}
+{"id": "7ulv5LFVV64-t3345.16", "text": "Well, it depends. What's your definition of learning?", "start": 3345.16, "end": 3347.16}
+{"id": "7ulv5LFVV64-t3347.16", "text": "They have no values.", "start": 3347.16, "end": 3348.16}
+{"id": "7ulv5LFVV64-t3348.16", "text": "This goes to the Chinese room market.", "start": 3348.16, "end": 3350.16}
+{"id": "7ulv5LFVV64-t3350.16", "text": "Yeah.", "start": 3350.16, "end": 3351.16}
+{"id": "7ulv5LFVV64-t3351.16", "text": "I want to make sure...", "start": 3351.16, "end": 3352.16}
+{"id": "7ulv5LFVV64-t3352.16", "text": "Well, I just wanted to finish that.", "start": 3352.16, "end": 3354.16}
+{"id": "7ulv5LFVV64-t3354.16", "text": "The point is that some things that we think of as our unique human complex intelligence are starting to be done by machines better than us,", "start": 3354.16, "end": 3365.16}
+{"id": "7ulv5LFVV64-t3365.16", "text": "like PlanGo, like PlanGIS, and like some kinds of recognition of objects and so forth.", "start": 3365.16, "end": 3371.16}
+{"id": "7ulv5LFVV64-t3371.16", "text": "And I'm not saying that it'll all be replaced.", "start": 3371.16, "end": 3373.16}
+{"id": "7ulv5LFVV64-t3373.16", "text": "I'm just trying to say that there's not obvious that there's something in us that is so special that we can't someday get machines to do it better.", "start": 3373.16, "end": 3380.16}
+{"id": "7ulv5LFVV64-t3380.16", "text": "I agree.", "start": 3380.16, "end": 3381.16}
+{"id": "7ulv5LFVV64-t3381.16", "text": "I agree.", "start": 3381.16, "end": 3382.16}
+{"id": "7ulv5LFVV64-t3382.16", "text": "It's a question.", "start": 3382.16, "end": 3383.16}
+{"id": "7ulv5LFVV64-t3383.16", "text": "And it also shows how morally complicated this is.", "start": 3383.16, "end": 3387.16}
+{"id": "7ulv5LFVV64-t3387.16", "text": "So I think you would agree, you would agree too, Larry, that one of the things that we wish we were better at,", "start": 3387.16, "end": 3393.16}
+{"id": "7ulv5LFVV64-t3393.16", "text": "is clinicians predicting who will commit suicide.", "start": 3393.16, "end": 3395.16}
+{"id": "7ulv5LFVV64-t3395.16", "text": "That we do our best, and when we work in the emergency room or work on the inpatient unit,", "start": 3395.16, "end": 3399.16}
+{"id": "7ulv5LFVV64-t3399.16", "text": "we make those decisions all the time as to who to keep involuntarily and who not to,", "start": 3399.16, "end": 3404.16}
+{"id": "7ulv5LFVV64-t3404.16", "text": "and not infrequently, we get strong.", "start": 3404.16, "end": 3407.16}
+{"id": "7ulv5LFVV64-t3407.16", "text": "So let me finish the story.", "start": 3407.16, "end": 3409.16}
+{"id": "7ulv5LFVV64-t3409.16", "text": "I have a friend who works at Google.", "start": 3409.16, "end": 3411.16}
+{"id": "7ulv5LFVV64-t3411.16", "text": "He says that it is kind of an openly known at Google that there are algorithms that they can apply that enable them to predict", "start": 3411.16, "end": 3422.16}
+{"id": "7ulv5LFVV64-t3422.16", "text": "who's going to kill themselves to a frighteningly precise degree.", "start": 3422.16, "end": 3425.16}
+{"id": "7ulv5LFVV64-t3425.16", "text": "The problem, they have enormous data sets, they have enormous access to data that we have clinicians do not.", "start": 3425.16, "end": 3430.16}
+{"id": "7ulv5LFVV64-t3430.16", "text": "And then the question becomes, does Google want to admit that they know that or not?", "start": 3430.16, "end": 3434.16}
+{"id": "7ulv5LFVV64-t3434.16", "text": "Facebook's now started to admit that, and doing little things here and there, is it enough?", "start": 3434.16, "end": 3439.16}
+{"id": "7ulv5LFVV64-t3439.16", "text": "I'm not sure.", "start": 3439.16, "end": 3440.16}
+{"id": "7ulv5LFVV64-t3440.16", "text": "But what do we as a society do?", "start": 3440.16, "end": 3442.16}
+{"id": "7ulv5LFVV64-t3442.16", "text": "And the danger to me of too much prioritizing of the clinical superiority would be that we might not take advantage of some of these other data sources", "start": 3442.16, "end": 3453.16}
+{"id": "7ulv5LFVV64-t3453.16", "text": "that could help us save a lot.", "start": 3453.16, "end": 3455.16}
+{"id": "7ulv5LFVV64-t3455.16", "text": "So I don't want to pit myself against computers.", "start": 3455.16, "end": 3457.16}
+{"id": "7ulv5LFVV64-t3457.16", "text": "I meant that to be provocative.", "start": 3457.16, "end": 3459.16}
+{"id": "7ulv5LFVV64-t3459.16", "text": "I've done research in this area, right?", "start": 3459.16, "end": 3461.16}
+{"id": "7ulv5LFVV64-t3461.16", "text": "So I've done research that shows, again in collaboration with Guillermo, that IBM wants it when it looks at language patterns", "start": 3461.16, "end": 3470.16}
+{"id": "7ulv5LFVV64-t3470.16", "text": "and individuals at risk for psychosis, of whom 20% develop psychosis in two years does better than me.", "start": 3470.16, "end": 3477.16}
+{"id": "7ulv5LFVV64-t3477.16", "text": "I mean, I've published that.", "start": 3477.16, "end": 3479.16}
+{"id": "7ulv5LFVV64-t3479.16", "text": "In terms of suicide, I'm sure Google has much more than what's in the literature, because they have a lot of resources.", "start": 3479.16, "end": 3487.16}
+{"id": "7ulv5LFVV64-t3487.16", "text": "But in the literature, there is a good literature that if you look at language, and it's across, it's people texting, talking, all kinds of things.", "start": 3487.16, "end": 3498.16}
+{"id": "7ulv5LFVV64-t3498.16", "text": "I reviewed this for a grant that I put in, and Guillermo did an article actually looking at poems, poets who committed suicide", "start": 3498.16, "end": 3505.16}
+{"id": "7ulv5LFVV64-t3505.16", "text": "and those who didn't, and looked at the actual language in their poems as to what we predict.", "start": 3505.16, "end": 3511.16}
+{"id": "7ulv5LFVV64-t3511.16", "text": "Consistently across the board, it's using words that have semantic content that has similarity with hopelessness and depression.", "start": 3511.16, "end": 3519.16}
+{"id": "7ulv5LFVV64-t3519.16", "text": "So, no, these are tools.", "start": 3519.16, "end": 3521.16}
+{"id": "7ulv5LFVV64-t3521.16", "text": "I mean, I don't want to put all of us out of a job.", "start": 3521.16, "end": 3523.16}
+{"id": "7ulv5LFVV64-t3523.16", "text": "But I just brought that up in a sort of provocative way in terms of the models, because we're also models, right?", "start": 3523.16, "end": 3531.16}
+{"id": "7ulv5LFVV64-t3531.16", "text": "Doing computations, we don't understand our own computations, but...", "start": 3531.16, "end": 3535.16}
+{"id": "7ulv5LFVV64-t3535.16", "text": "Okay, Adi, I'm curious if you could expand on your idea about learning and why neural nets don't learn?", "start": 3535.16, "end": 3541.16}
+{"id": "7ulv5LFVV64-t3541.16", "text": "So, even these words, I feel learning, training, etc.", "start": 3541.16, "end": 3544.16}
+{"id": "7ulv5LFVV64-t3544.16", "text": "Even those are very loaded.", "start": 3544.16, "end": 3546.16}
+{"id": "7ulv5LFVV64-t3546.16", "text": "As you said before, these deep neural nets are complicated functions with many parameters, hyperparameters, even if you take into account the network architecture.", "start": 3546.16, "end": 3557.16}
+{"id": "7ulv5LFVV64-t3557.16", "text": "And there are objective functions that are set up, which are minimized to fit the parameters of that function,", "start": 3557.16, "end": 3566.16}
+{"id": "7ulv5LFVV64-t3566.16", "text": "so that at the end, the function has certain specific input-output properties.", "start": 3566.16, "end": 3570.16}
+{"id": "7ulv5LFVV64-t3570.16", "text": "Okay.", "start": 3570.16, "end": 3571.16}
+{"id": "7ulv5LFVV64-t3571.16", "text": "It's tempting to take a look at the go.", "start": 3571.16, "end": 3574.16}
+{"id": "7ulv5LFVV64-t3574.16", "text": "What is this called?", "start": 3574.16, "end": 3575.16}
+{"id": "7ulv5LFVV64-t3575.16", "text": "What was the go thing?", "start": 3575.16, "end": 3577.16}
+{"id": "7ulv5LFVV64-t3577.16", "text": "Alpha go.", "start": 3577.16, "end": 3578.16}
+{"id": "7ulv5LFVV64-t3578.16", "text": "Alpha go.", "start": 3578.16, "end": 3579.16}
+{"id": "7ulv5LFVV64-t3579.16", "text": "Or deep blue, and say, wow, it knows how to play chess.", "start": 3579.16, "end": 3582.16}
+{"id": "7ulv5LFVV64-t3582.16", "text": "It knows how to play go.", "start": 3582.16, "end": 3584.16}
+{"id": "7ulv5LFVV64-t3584.16", "text": "It's a giant lookup table that has been...", "start": 3584.16, "end": 3589.16}
+{"id": "7ulv5LFVV64-t3589.16", "text": "Those are constrained.", "start": 3589.16, "end": 3591.16}
+{"id": "7ulv5LFVV64-t3591.16", "text": "That has been pruned and refined over many, many iterations, given lots of data.", "start": 3591.16, "end": 3596.16}
+{"id": "7ulv5LFVV64-t3596.16", "text": "If you sat Alpha go down on the table opposite of whoever the gentleman was that Alpha go was playing, and you said, okay, guys, new rule.", "start": 3596.16, "end": 3604.16}
+{"id": "7ulv5LFVV64-t3604.16", "text": "If you head off the left side of the board, you come on the right side of the board.", "start": 3604.16, "end": 3608.16}
+{"id": "7ulv5LFVV64-t3608.16", "text": "You're playing on a cylinder now, or a torus.", "start": 3608.16, "end": 3611.16}
+{"id": "7ulv5LFVV64-t3611.16", "text": "Alpha go wouldn't even be able to take the first move.", "start": 3611.16, "end": 3615.16}
+{"id": "7ulv5LFVV64-t3615.16", "text": "Its database would be inapplicable.", "start": 3615.16, "end": 3617.16}
+{"id": "7ulv5LFVV64-t3617.16", "text": "You sit down, Gary Kasparov, against deep blue, and you say, okay, guys, new rule.", "start": 3617.16, "end": 3621.16}
+{"id": "7ulv5LFVV64-t3621.16", "text": "The queen, by the way, it's no longer a queen.", "start": 3621.16, "end": 3623.16}
+{"id": "7ulv5LFVV64-t3623.16", "text": "It's like a rook in a bishop.", "start": 3623.16, "end": 3625.16}
+{"id": "7ulv5LFVV64-t3625.16", "text": "I'm sorry, a rook in a knight.", "start": 3625.16, "end": 3626.16}
+{"id": "7ulv5LFVV64-t3626.16", "text": "It's like a rook in a knight, but it doesn't move like a bishop anymore.", "start": 3626.16, "end": 3629.16}
+{"id": "7ulv5LFVV64-t3629.16", "text": "Okay?", "start": 3629.16, "end": 3630.16}
+{"id": "7ulv5LFVV64-t3630.16", "text": "Gary Kasparov would still kick my ass, but deep blue wouldn't be able to do anything.", "start": 3630.16, "end": 3635.16}
+{"id": "7ulv5LFVV64-t3635.16", "text": "I'm not saying that there won't come a time where the types of functions and the types of parameters that people are able to bake into these neural networks are sophisticated enough that maybe there are some parameters that can be left to be tuned on the fly after the machine sits down and sees the button.", "start": 3635.16, "end": 3656.16}
+{"id": "7ulv5LFVV64-t3656.16", "text": "Right now, we're definitely inapplicable.", "start": 3656.16, "end": 3658.16}
+{"id": "7ulv5LFVV64-t3658.16", "text": "I'm not there.", "start": 3658.16, "end": 3665.16}
+{"id": "7ulv5LFVV64-t3665.16", "text": "This issue is actually in a philosophical issue.", "start": 3665.16, "end": 3666.16}
+{"id": "7ulv5LFVV64-t3666.16", "text": "This is philosophical debate about something called the Chinese room problem.", "start": 3666.16, "end": 3669.16}
+{"id": "7ulv5LFVV64-t3669.16", "text": "I don't want to get into it, but it's exactly the day as to whether it's something in...", "start": 3669.16, "end": 3673.16}
+{"id": "7ulv5LFVV64-t3673.16", "text": "Why not?", "start": 3673.16, "end": 3674.16}
+{"id": "7ulv5LFVV64-t3674.16", "text": "Why not?", "start": 3674.16, "end": 3675.16}
+{"id": "7ulv5LFVV64-t3675.16", "text": "Why is it?", "start": 3675.16, "end": 3676.16}
+{"id": "7ulv5LFVV64-t3676.16", "text": "It's not?", "start": 3676.16, "end": 3677.16}
+{"id": "7ulv5LFVV64-t3677.16", "text": "It's not.", "start": 3677.16, "end": 3678.16}
+{"id": "7ulv5LFVV64-t3678.16", "text": "It's Johnson.", "start": 3678.16, "end": 3679.16}
+{"id": "7ulv5LFVV64-t3679.16", "text": "Look at the describing pre-cream.", "start": 3679.16, "end": 3680.16}
+{"id": "7ulv5LFVV64-t3680.16", "text": "The argument is if I have someone in a room who has walled this right, you know the argument right here, and he has all of these dictionaries, Chinese English dictionaries in the room.", "start": 3680.16, "end": 3687.16}
+{"id": "7ulv5LFVV64-t3687.16", "text": "And if I give him a sentence written in English, he can translate, right?", "start": 3687.16, "end": 3690.16}
+{"id": "7ulv5LFVV64-t3690.16", "text": "He can then look everything up and he can respond properly in Chinese.", "start": 3690.16, "end": 3697.16}
+{"id": "7ulv5LFVV64-t3697.16", "text": "Yet, there's nobody who knows Chinese.", "start": 3697.16, "end": 3700.16}
+{"id": "7ulv5LFVV64-t3700.16", "text": "So that's the Chinese room argument.", "start": 3700.16, "end": 3702.16}
+{"id": "7ulv5LFVV64-t3702.16", "text": "There's nobody who knows Chinese.", "start": 3702.16, "end": 3703.16}
+{"id": "7ulv5LFVV64-t3703.16", "text": "But he can't.", "start": 3703.16, "end": 3704.16}
+{"id": "7ulv5LFVV64-t3704.16", "text": "And the two sides of the argument are one side says that proves what your point is that the machine doesn't know anything.", "start": 3704.16, "end": 3709.16}
+{"id": "7ulv5LFVV64-t3709.16", "text": "And the other side of the argument says no, the entire system knows Chinese.", "start": 3709.16, "end": 3713.16}
+{"id": "7ulv5LFVV64-t3713.16", "text": "And that's what we mean by knowing Chinese.", "start": 3713.16, "end": 3715.16}
+{"id": "7ulv5LFVV64-t3715.16", "text": "No, no, no.", "start": 3715.16, "end": 3716.16}
+{"id": "7ulv5LFVV64-t3716.16", "text": "It applies to the Chinese room because if you, it's apocryphal, right?", "start": 3716.16, "end": 3721.16}
+{"id": "7ulv5LFVV64-t3721.16", "text": "All those stories about like the spirit, the flesh is weak, but the spirit is strong, right?", "start": 3721.16, "end": 3728.16}
+{"id": "7ulv5LFVV64-t3728.16", "text": "Going into Russian and then being back translated as the meat is rotten and the alcohol is bad, right?", "start": 3728.16, "end": 3736.16}
+{"id": "7ulv5LFVV64-t3736.16", "text": "So it doesn't work that way with language.", "start": 3736.16, "end": 3739.16}
+{"id": "7ulv5LFVV64-t3739.16", "text": "So whatever he came up with, without knowing, when you put a person in there, they have a face.", "start": 3739.16, "end": 3745.16}
+{"id": "7ulv5LFVV64-t3745.16", "text": "And in there, they have a flexibility that the sort of...", "start": 3745.16, "end": 3749.16}
+{"id": "7ulv5LFVV64-t3749.16", "text": "In the Chinese room argument, the person is really acting just completely in the middle of the person.", "start": 3749.16, "end": 3754.16}
+{"id": "7ulv5LFVV64-t3754.16", "text": "No, no, no, no.", "start": 3754.16, "end": 3755.16}
+{"id": "7ulv5LFVV64-t3755.16", "text": "But then you're getting into a strictly rule-based language.", "start": 3755.16, "end": 3759.16}
+{"id": "7ulv5LFVV64-t3759.16", "text": "If you believe in Chomsky's sort of hierarchy, now you're at the bottom.", "start": 3759.16, "end": 3764.16}
+{"id": "7ulv5LFVV64-t3764.16", "text": "And Chomsky would say for like a human, sophisticated grammar, you need it.", "start": 3764.16, "end": 3768.16}
+{"id": "7ulv5LFVV64-t3768.16", "text": "You can't, it has to be probabilistic.", "start": 3768.16, "end": 3770.16}
+{"id": "7ulv5LFVV64-t3770.16", "text": "It can be rule-based.", "start": 3770.16, "end": 3771.16}
+{"id": "7ulv5LFVV64-t3771.16", "text": "You can build all those things.", "start": 3771.16, "end": 3774.16}
+{"id": "7ulv5LFVV64-t3774.16", "text": "But it's complicated.", "start": 3774.16, "end": 3776.16}
+{"id": "7ulv5LFVV64-t3776.16", "text": "And that's the Turing test.", "start": 3776.16, "end": 3777.16}
+{"id": "7ulv5LFVV64-t3777.16", "text": "The Chinese remiss the Turing test.", "start": 3777.16, "end": 3780.16}
+{"id": "7ulv5LFVV64-t3780.16", "text": "The Chinese room problem captures, tries to capture this difference between what do we mean,", "start": 3780.16, "end": 3785.16}
+{"id": "7ulv5LFVV64-t3785.16", "text": "what is our intuition when we say somebody knows something or somebody has learned something,", "start": 3785.16, "end": 3790.16}
+{"id": "7ulv5LFVV64-t3790.16", "text": "and it challenges that thing, and it challenges, as you did this question of whether we're going to...", "start": 3790.16, "end": 3794.16}
+{"id": "7ulv5LFVV64-t3794.16", "text": "That's the purpose of the argument, is to challenge the use of that meaning.", "start": 3794.16, "end": 3798.16}
+{"id": "7ulv5LFVV64-t3798.16", "text": "Just want to make one other point that I run into whenever I try to talk about.", "start": 3798.16, "end": 3802.16}
+{"id": "7ulv5LFVV64-t3802.16", "text": "The other thing is that we all have folk science in addition to a formal science.", "start": 3802.16, "end": 3806.16}
+{"id": "7ulv5LFVV64-t3806.16", "text": "There's folk philosophy that cultures have folk philosophy.", "start": 3806.16, "end": 3809.16}
+{"id": "7ulv5LFVV64-t3809.16", "text": "We have folk chemistry and things like that.", "start": 3809.16, "end": 3811.16}
+{"id": "7ulv5LFVV64-t3811.16", "text": "And they're not very good.", "start": 3811.16, "end": 3812.16}
+{"id": "7ulv5LFVV64-t3812.16", "text": "I mean, people have survived before formal science came in because they had these theories.", "start": 3812.16, "end": 3816.16}
+{"id": "7ulv5LFVV64-t3816.16", "text": "But folk psychology is really quite good.", "start": 3816.16, "end": 3819.16}
+{"id": "7ulv5LFVV64-t3819.16", "text": "Right?", "start": 3819.16, "end": 3820.16}
+{"id": "7ulv5LFVV64-t3820.16", "text": "Pre-scientific psychology is actually much better.", "start": 3820.16, "end": 3823.16}
+{"id": "7ulv5LFVV64-t3823.16", "text": "We're pretty good psychologists just intuitively.", "start": 3823.16, "end": 3825.16}
+{"id": "7ulv5LFVV64-t3825.16", "text": "We have to be.", "start": 3825.16, "end": 3826.16}
+{"id": "7ulv5LFVV64-t3826.16", "text": "Right?", "start": 3826.16, "end": 3827.16}
+{"id": "7ulv5LFVV64-t3827.16", "text": "We've evolved to be pretty good psychologists.", "start": 3827.16, "end": 3828.16}
+{"id": "7ulv5LFVV64-t3828.16", "text": "And I think that is one of the reasons a lot of these things get confused is because folks' psychology is so good.", "start": 3828.16, "end": 3834.16}
+{"id": "7ulv5LFVV64-t3834.16", "text": "Right?", "start": 3834.16, "end": 3835.16}
+{"id": "7ulv5LFVV64-t3835.16", "text": "It is hard for scientific psychology to sometimes compete, and there's a much more sophisticated language within folk psychology", "start": 3835.16, "end": 3842.16}
+{"id": "7ulv5LFVV64-t3842.16", "text": "than there is, for example, in folk physics or in folk notions of mathematics.", "start": 3842.16, "end": 3846.16}
+{"id": "7ulv5LFVV64-t3846.16", "text": "And that gets in the way.", "start": 3846.16, "end": 3848.16}
+{"id": "7ulv5LFVV64-t3848.16", "text": "I want to just respond briefly to Audie.", "start": 3848.16, "end": 3852.16}
+{"id": "7ulv5LFVV64-t3852.16", "text": "I agree with your criticism that they have a limited range.", "start": 3852.16, "end": 3858.16}
+{"id": "7ulv5LFVV64-t3858.16", "text": "And if you change the rules on them, they haven't been taught to adapt.", "start": 3858.16, "end": 3863.16}
+{"id": "7ulv5LFVV64-t3863.16", "text": "But it's not to say that they couldn't be taught to adapt.", "start": 3863.16, "end": 3866.16}
+{"id": "7ulv5LFVV64-t3866.16", "text": "But the other thing is that I don't think it's right to say they're a lookup table.", "start": 3866.16, "end": 3871.16}
+{"id": "7ulv5LFVV64-t3871.16", "text": "Because AlphaGo, well, on any given game, you can't see a board position that no human has ever seen before", "start": 3871.16, "end": 3879.16}
+{"id": "7ulv5LFVV64-t3879.16", "text": "and that the machine has never seen before, and it'll still outplay Lisa doll.", "start": 3879.16, "end": 3883.16}
+{"id": "7ulv5LFVV64-t3883.16", "text": "Because it's learned somehow implicit in its brilliant parameters.", "start": 3883.16, "end": 3888.16}
+{"id": "7ulv5LFVV64-t3888.16", "text": "It's learned some principles of how to play Go.", "start": 3888.16, "end": 3891.16}
+{"id": "7ulv5LFVV64-t3891.16", "text": "That it can deal with entirely new situations and outplay any human.", "start": 3891.16, "end": 3895.16}
+{"id": "7ulv5LFVV64-t3895.16", "text": "And the same with Alpha Chess or whatever they call it.", "start": 3895.16, "end": 3898.16}
+{"id": "7ulv5LFVV64-t3898.16", "text": "AlphaZero.", "start": 3898.16, "end": 3899.16}
+{"id": "7ulv5LFVV64-t3899.16", "text": "AlphaZero.", "start": 3899.16, "end": 3900.16}
+{"id": "7ulv5LFVV64-t3900.16", "text": "Yeah.", "start": 3900.16, "end": 3901.16}
+{"id": "7ulv5LFVV64-t3901.16", "text": "So I don't think it's right.", "start": 3901.16, "end": 3902.16}
+{"id": "7ulv5LFVV64-t3902.16", "text": "I think Deep Blue was basically a lookup table, but I think these new things are not.", "start": 3902.16, "end": 3906.16}
+{"id": "7ulv5LFVV64-t3906.16", "text": "So they're probabilistic now.", "start": 3906.16, "end": 3908.16}
+{"id": "7ulv5LFVV64-t3908.16", "text": "No, but the point is that it really understands some principles in a way that, I mean, Deep Blue just did a deep search", "start": 3908.16, "end": 3915.16}
+{"id": "7ulv5LFVV64-t3915.16", "text": "and said, you know, if I look ahead, 10 moves, if I do this, am I going to be better off or worse off?", "start": 3915.16, "end": 3920.16}
+{"id": "7ulv5LFVV64-t3920.16", "text": "And it didn't know anything really.", "start": 3920.16, "end": 3922.16}
+{"id": "7ulv5LFVV64-t3922.16", "text": "What it knew to evaluate better off or worse off was really simple, but it had this powerful ability to search.", "start": 3922.16, "end": 3927.16}
+{"id": "7ulv5LFVV64-t3927.16", "text": "But that's not what these new things are doing.", "start": 3927.16, "end": 3930.16}
+{"id": "7ulv5LFVV64-t3930.16", "text": "They don't search nearly so deeply.", "start": 3930.16, "end": 3932.16}
+{"id": "7ulv5LFVV64-t3932.16", "text": "They learn principles that they can then outplay any human.", "start": 3932.16, "end": 3935.16}
+{"id": "7ulv5LFVV64-t3935.16", "text": "But this principle, the philosophical pushback to you would be when you say it understands, right?", "start": 3935.16, "end": 3940.16}
+{"id": "7ulv5LFVV64-t3940.16", "text": "Well, I didn't say it understand.", "start": 3940.16, "end": 3941.16}
+{"id": "7ulv5LFVV64-t3941.16", "text": "And the haves as it understands.", "start": 3941.16, "end": 3942.16}
+{"id": "7ulv5LFVV64-t3942.16", "text": "I said they're principles built into these billion parameters that can now outplay any human.", "start": 3942.16, "end": 3946.16}
+{"id": "7ulv5LFVV64-t3946.16", "text": "But this principle is, I understand we also kind of, you know, consults.", "start": 3946.16, "end": 3949.16}
+{"id": "7ulv5LFVV64-t3949.16", "text": "It's observing a pattern and then getting some kind of value function or if it's going to play here or not there.", "start": 3949.16, "end": 3954.16}
+{"id": "7ulv5LFVV64-t3954.16", "text": "Not necessarily, you know, rule-based or a particular ball, or a particular ball.", "start": 3954.16, "end": 3958.16}
+{"id": "7ulv5LFVV64-t3958.16", "text": "I can't even articulate it.", "start": 3958.16, "end": 3960.16}
+{"id": "7ulv5LFVV64-t3960.16", "text": "You know, decisions, but basically kind of, it's a form of pattern recognition.", "start": 3960.16, "end": 3966.16}
+{"id": "7ulv5LFVV64-t3966.16", "text": "But, you know, that also underlies a lot of our cognition, the way we recognize emotions, the way, you know, probably a good chess player can just kind of get a flash of the chessboard and get a sense of, is this a good game to play or not?", "start": 3966.16, "end": 3978.16}
+{"id": "7ulv5LFVV64-t3978.16", "text": "This a good move or not?", "start": 3978.16, "end": 3979.16}
+{"id": "7ulv5LFVV64-t3979.16", "text": "In that kind of intuitive way, a lot of our cognition, we can't necessarily explain.", "start": 3979.16, "end": 3983.16}
+{"id": "7ulv5LFVV64-t3983.16", "text": "So they're mathematical models for Gestalt, that kind of Gestalt perception that we're also good at as people.", "start": 3983.16, "end": 3991.16}
+{"id": "7ulv5LFVV64-t3991.16", "text": "I mean, I would say a lot of the visual recognition.", "start": 3991.16, "end": 3995.16}
+{"id": "7ulv5LFVV64-t3995.16", "text": "The same way that people use, you know, deep networks for this.", "start": 3995.16, "end": 3998.16}
+{"id": "7ulv5LFVV64-t3998.16", "text": "You know, we can argue about whether it's kind of training or learning by the same rules.", "start": 3998.16, "end": 4002.16}
+{"id": "7ulv5LFVV64-t4002.16", "text": "But, you know, as a metaphor of the general principle of, you know, how does our eventual visual system work for object recognition of it being kind of successive, you know, layers of feed forward problems?", "start": 4002.16, "end": 4012.16}
+{"id": "7ulv5LFVV64-t4012.16", "text": "And, you know, layers of feed forward processing with some kind of flexible learning such that the representations at the intermediate layers of your vision, you know, are guided by the final, you know, output recognition and decision in action is, you know, I think where you would say that", "start": 4012.16, "end": 4030.16}
+{"id": "7ulv5LFVV64-t4030.16", "text": "model is in some sense a good model of human vision.", "start": 4030.16, "end": 4033.16}
+{"id": "7ulv5LFVV64-t4033.16", "text": "So do we already have our own neural net for identification?", "start": 4033.16, "end": 4043.16}
+{"id": "7ulv5LFVV64-t4043.16", "text": "I think it's only still a very impoverished analogy to what we do.", "start": 4043.16, "end": 4050.16}
+{"id": "7ulv5LFVV64-t4050.16", "text": "But already just with that impoverished analogy, it can outdo us on some test.", "start": 4050.16, "end": 4054.16}
+{"id": "7ulv5LFVV64-t4054.16", "text": "We do fairly complex thinking without realizing in advance they know how to do it.", "start": 4054.16, "end": 4064.16}
+{"id": "7ulv5LFVV64-t4064.16", "text": "So you could consider that analogy to what some of these computers are doing, perhaps.", "start": 4064.16, "end": 4069.16}
+{"id": "7ulv5LFVV64-t4069.16", "text": "Yeah, but you can also bring these back into cognitive neuroscience, right?", "start": 4069.16, "end": 4072.16}
+{"id": "7ulv5LFVV64-t4072.16", "text": "So these deep networks, not only do they, you know, do object recognition, it seems like they do it in a similar way as us.", "start": 4072.16, "end": 4077.16}
+{"id": "7ulv5LFVV64-t4077.16", "text": "You know, recording from single neurons and monkeys, we can do functional MRI in humans, and we can look at what kind of neural representations that are in, say, different layers in visual processing and compare that to the different layers of processing in these deep networks.", "start": 4077.16, "end": 4091.16}
+{"id": "7ulv5LFVV64-t4091.16", "text": "And there are correspondences.", "start": 4091.16, "end": 4093.16}
+{"id": "7ulv5LFVV64-t4093.16", "text": "And so, you know, it's considered there, they're trained in impoverished way.", "start": 4093.16, "end": 4097.16}
+{"id": "7ulv5LFVV64-t4097.16", "text": "They're not lacking some things.", "start": 4097.16, "end": 4099.16}
+{"id": "7ulv5LFVV64-t4099.16", "text": "But where we can actually try to check the actual internal mechanisms, they seem to have some validity in terms of explaining not only our behavior, but even how the brain works, our representation.", "start": 4099.16, "end": 4109.16}
+{"id": "7ulv5LFVV64-t4109.16", "text": "I think I would definitely agree that there is some analogy between what we're doing and what strategies are used to make these deep neural networks.", "start": 4109.16, "end": 4119.16}
+{"id": "7ulv5LFVV64-t4119.16", "text": "That's true.", "start": 4119.16, "end": 4120.16}
+{"id": "7ulv5LFVV64-t4120.16", "text": "But I also agree that it is impoverished and not.", "start": 4120.16, "end": 4123.16}
+{"id": "7ulv5LFVV64-t4123.16", "text": "But to Jerry's point about our doing computations that we don't know, I mean, as anybody who has the experience of these phony rocks that are really very light, but they think, you know, you look at the, it looks like a rock, but it's actually foam.", "start": 4123.16, "end": 4133.16}
+{"id": "7ulv5LFVV64-t4133.16", "text": "And when you try to pick that up, you completely miss, right, you completely miss the motoric thing.", "start": 4133.16, "end": 4138.16}
+{"id": "7ulv5LFVV64-t4138.16", "text": "Because we take absolutely for granted that the incredible computation that goes into a simple motor thing of lifting something up and putting the right pressure on it, and I can fool you by giving you a mis-estimation of what the weight of the thing is.", "start": 4138.16, "end": 4151.16}
+{"id": "7ulv5LFVV64-t4151.16", "text": "But so we're doing incredibly complex computations, right, just for that simple motor action.", "start": 4151.16, "end": 4157.16}
+{"id": "7ulv5LFVV64-t4157.16", "text": "We have to plan it very carefully, and we have to know what it's doing otherwise.", "start": 4157.16, "end": 4160.16}
+{"id": "7ulv5LFVV64-t4160.16", "text": "To give credit for credits too, I think that's one of the early contributions to Psychone else.", "start": 4160.16, "end": 4164.16}
+{"id": "7ulv5LFVV64-t4164.16", "text": "Because I think for a motor, the Psychone else is not on motor movement, but to acknowledge the complexity of these models outside of awareness.", "start": 4164.16, "end": 4174.16}
+{"id": "7ulv5LFVV64-t4174.16", "text": "Because I think that's the literature that was early literature on what was outside of awareness was that it had to be incredibly simple.", "start": 4174.16, "end": 4183.16}
+{"id": "7ulv5LFVV64-t4183.16", "text": "And that more complex processes therefore had to be conscious.", "start": 4183.16, "end": 4186.16}
+{"id": "7ulv5LFVV64-t4186.16", "text": "And we now know, and I don't even think it's controversial in the cognitive neuroscience world, that the kinds of processing that can go on completely outside of awareness can be enormously complex.", "start": 4186.16, "end": 4196.16}
+{"id": "7ulv5LFVV64-t4196.16", "text": "And this was something that Freud was talking about, you know, hundred more years ago.", "start": 4196.16, "end": 4200.16}
+{"id": "7ulv5LFVV64-t4200.16", "text": "And that example highlights one of those key computations is prediction, right?", "start": 4200.16, "end": 4204.16}
+{"id": "7ulv5LFVV64-t4204.16", "text": "And so that actually gives us a hugely rich data set, because we're not just, you know, training the human brain on, you know, discrete supervised learning, right, but on predicting the future.", "start": 4204.16, "end": 4214.16}
+{"id": "7ulv5LFVV64-t4214.16", "text": "What are the properties of things in the service of predicting how I will interact with them, how they will move in the future, etc.", "start": 4214.16, "end": 4221.16}
+{"id": "7ulv5LFVV64-t4221.16", "text": "So, this is a characteristic of various things.", "start": 4221.16, "end": 4225.16}
+{"id": "7ulv5LFVV64-t4225.16", "text": "Questions later.", "start": 4225.16, "end": 4227.16}
+{"id": "7ulv5LFVV64-t4227.16", "text": "No questions later.", "start": 4227.16, "end": 4228.16}
+{"id": "7ulv5LFVV64-t4228.16", "text": "No, no.", "start": 4228.16, "end": 4229.16}
+{"id": "7ulv5LFVV64-t4229.16", "text": "No, no.", "start": 4229.16, "end": 4230.16}
+{"id": "7ulv5LFVV64-t4230.16", "text": "No, no.", "start": 4230.16, "end": 4231.16}
+{"id": "7ulv5LFVV64-t4231.16", "text": "Later.", "start": 4231.16, "end": 4232.16}
+{"id": "7ulv5LFVV64-t4232.16", "text": "Later.", "start": 4232.16, "end": 4233.16}
+{"id": "7ulv5LFVV64-t4233.16", "text": "Later.", "start": 4233.16, "end": 4234.16}
+{"id": "7ulv5LFVV64-t4234.16", "text": "Later.", "start": 4234.16, "end": 4235.16}
+{"id": "7ulv5LFVV64-t4235.16", "text": "The, um.", "start": 4235.16, "end": 4236.16}
+{"id": "7ulv5LFVV64-t4236.16", "text": "You speak well with the same team about the computation, computation.", "start": 4236.16, "end": 4241.16}
+{"id": "7ulv5LFVV64-t4241.16", "text": "Sir, please have a seat.", "start": 4241.16, "end": 4242.16}
+{"id": "7ulv5LFVV64-t4242.16", "text": "We have an opportunity later to speak.", "start": 4242.16, "end": 4245.16}
+{"id": "7ulv5LFVV64-t4245.16", "text": "Okay.", "start": 4245.16, "end": 4246.16}
+{"id": "7ulv5LFVV64-t4246.16", "text": "Thank you.", "start": 4246.16, "end": 4247.16}
+{"id": "7ulv5LFVV64-t4247.16", "text": "Larry mentioned earlier that, you know, in mathematical models, we have these variables that are all well defined, in which we can then check on, or be aware of.", "start": 4247.16, "end": 4262.16}
+{"id": "7ulv5LFVV64-t4262.16", "text": "And the interesting thing is that when there are all these hidden units, and in some forms of mathematics as well, you can only say that theoretically they can be checked on.", "start": 4262.16, "end": 4273.16}
+{"id": "7ulv5LFVV64-t4273.16", "text": "Theoretically what?", "start": 4273.16, "end": 4274.16}
+{"id": "7ulv5LFVV64-t4274.16", "text": "Theoretically they can be.", "start": 4274.16, "end": 4275.16}
+{"id": "7ulv5LFVV64-t4275.16", "text": "They are possibly accessible to being, you know, accessed.", "start": 4275.16, "end": 4280.16}
+{"id": "7ulv5LFVV64-t4280.16", "text": "But in fact, in the process of doing the computation, some of those things are just, they're, they're, x's and y's.", "start": 4280.16, "end": 4288.16}
+{"id": "7ulv5LFVV64-t4288.16", "text": "They're not really specified.", "start": 4288.16, "end": 4290.16}
+{"id": "7ulv5LFVV64-t4290.16", "text": "I mean, I guess I may need a distinction.", "start": 4290.16, "end": 4292.16}
+{"id": "7ulv5LFVV64-t4292.16", "text": "I'm not good at that.", "start": 4292.16, "end": 4293.16}
+{"id": "7ulv5LFVV64-t4293.16", "text": "Okay.", "start": 4293.16, "end": 4294.16}
+{"id": "7ulv5LFVV64-t4294.16", "text": "Neither.", "start": 4294.16, "end": 4295.16}
+{"id": "7ulv5LFVV64-t4295.16", "text": "Okay.", "start": 4295.16, "end": 4295.16}
+{"id": "7ulv5LFVV64-t4295.16", "text": "Thank you.", "start": 4295.16, "end": 4296.16}
+{"id": "7ulv5LFVV64-t4296.16", "text": "No, I think you're not allowed to.", "start": 4296.16, "end": 4297.16}
+{"id": "7ulv5LFVV64-t4297.16", "text": "I think you're a point about it in the deep neural net, and you may understand individual weights, but you don't actually understand how the process is leading to the proper outcome.", "start": 4297.16, "end": 4307.16}
+{"id": "7ulv5LFVV64-t4307.16", "text": "So that is it.", "start": 4307.16, "end": 4308.16}
+{"id": "7ulv5LFVV64-t4308.16", "text": "Absolutely.", "start": 4308.16, "end": 4309.16}
+{"id": "7ulv5LFVV64-t4309.16", "text": "There's an intuition in the black box.", "start": 4309.16, "end": 4310.16}
+{"id": "7ulv5LFVV64-t4310.16", "text": "That's a camera for it that is a black box.", "start": 4310.16, "end": 4312.16}
+{"id": "7ulv5LFVV64-t4312.16", "text": "There's an intuition we have about what it means to really learn something that I think does involve our knowing the steps quite well, and then having an intuition that we know those steps.", "start": 4312.16, "end": 4321.16}
+{"id": "7ulv5LFVV64-t4321.16", "text": "That's what we call, I'll say, for the purpose of this comment.", "start": 4321.16, "end": 4325.16}
+{"id": "7ulv5LFVV64-t4325.16", "text": "That's learning.", "start": 4325.16, "end": 4326.16}
+{"id": "7ulv5LFVV64-t4326.16", "text": "But when we don't know how those steps are when they're invisible and they're being manipulated all the while, we then have this thought, well, maybe we don't know.", "start": 4326.16, "end": 4334.16}
+{"id": "7ulv5LFVV64-t4334.16", "text": "That's how we might be able to do things unconsciously.", "start": 4334.16, "end": 4336.16}
+{"id": "7ulv5LFVV64-t4336.16", "text": "Because we're not aware of all the variables being affected.", "start": 4336.16, "end": 4339.16}
+{"id": "7ulv5LFVV64-t4339.16", "text": "But I think that sense that we know what we're doing is an illusion.", "start": 4339.16, "end": 4342.16}
+{"id": "7ulv5LFVV64-t4342.16", "text": "Because when we've, when, I mean, artificial intelligence for many years until the deep net revolution about six or seven years ago was focused on trying to do things by writing down the rules.", "start": 4342.16, "end": 4354.16}
+{"id": "7ulv5LFVV64-t4354.16", "text": "Trying to do vision by writing down the rules, trying to play chess or go by writing down the rules, and it failed miserably.", "start": 4354.16, "end": 4361.16}
+{"id": "7ulv5LFVV64-t4361.16", "text": "Because we don't know the rules.", "start": 4361.16, "end": 4363.16}
+{"id": "7ulv5LFVV64-t4363.16", "text": "The rules, and actually to go to Jeff Hinton's point, you can't reduce it to the rules.", "start": 4363.16, "end": 4369.16}
+{"id": "7ulv5LFVV64-t4369.16", "text": "It's a way more complicated thing than that.", "start": 4369.16, "end": 4372.16}
+{"id": "7ulv5LFVV64-t4372.16", "text": "I was trying to capture why we might have an intuition of how learning is different from what computers do.", "start": 4372.16, "end": 4377.16}
+{"id": "7ulv5LFVV64-t4377.16", "text": "So whether or not it's good, at it or it's accurate, that may be what gives us the feeling, whether intuition that we've learned something, as opposed to just following the recipe.", "start": 4377.16, "end": 4386.16}
+{"id": "7ulv5LFVV64-t4386.16", "text": "Well, I think I learned something when I can teach somebody else.", "start": 4386.16, "end": 4390.16}
+{"id": "7ulv5LFVV64-t4390.16", "text": "I don't know if there's an analogy for these nets.", "start": 4390.16, "end": 4393.16}
+{"id": "7ulv5LFVV64-t4393.16", "text": "Maybe they have some consciousness, maybe they can feel they can teach other nets.", "start": 4393.16, "end": 4397.16}
+{"id": "7ulv5LFVV64-t4397.16", "text": "Well, I can make a bad analogy, which is that the people can take a neural net that's learned to do something, and then they can teach another simpler net to do it.", "start": 4397.16, "end": 4404.16}
+{"id": "7ulv5LFVV64-t4404.16", "text": "It can teach something else to do it more compactly.", "start": 4404.16, "end": 4407.16}
+{"id": "7ulv5LFVV64-t4407.16", "text": "Teach it in the sense of being the one who tells it what the right answer is.", "start": 4407.16, "end": 4412.16}
+{"id": "7ulv5LFVV64-t4412.16", "text": "So people do use one net to teach another in very simple ways right now.", "start": 4412.16, "end": 4417.16}
+{"id": "7ulv5LFVV64-t4417.16", "text": "I think that goes in the next one.", "start": 4417.16, "end": 4418.16}
+{"id": "7ulv5LFVV64-t4418.16", "text": "I don't really interact with it.", "start": 4418.16, "end": 4419.16}
+{"id": "7ulv5LFVV64-t4419.16", "text": "It's just the input out.", "start": 4419.16, "end": 4420.16}
+{"id": "7ulv5LFVV64-t4420.16", "text": "It's not what we call teaching.", "start": 4420.16, "end": 4423.16}
+{"id": "7ulv5LFVV64-t4423.16", "text": "It's not what we call teaching.", "start": 4423.16, "end": 4424.16}
+{"id": "7ulv5LFVV64-t4424.16", "text": "Maybe something like that.", "start": 4424.16, "end": 4425.16}
+{"id": "7ulv5LFVV64-t4425.16", "text": "I think that's what I was trying to get at when I talked about the folks' psychological language, is to say that we have this whole language that is that we have evolved that we have evolved into the world.", "start": 4425.16, "end": 4433.16}
+{"id": "7ulv5LFVV64-t4433.16", "text": "And it's about ourselves, understanding ourselves and understanding others, our folk psychology.", "start": 4433.16, "end": 4438.16}
+{"id": "7ulv5LFVV64-t4438.16", "text": "And then we have these words and then we apply these words, and then those words have very specific human meanings.", "start": 4438.16, "end": 4443.16}
+{"id": "7ulv5LFVV64-t4443.16", "text": "So I think you're right there.", "start": 4443.16, "end": 4444.16}
+{"id": "7ulv5LFVV64-t4444.16", "text": "When we say learn, we've got to be careful.", "start": 4444.16, "end": 4446.16}
+{"id": "7ulv5LFVV64-t4446.16", "text": "We should have two words, right?", "start": 4446.16, "end": 4447.16}
+{"id": "7ulv5LFVV64-t4447.16", "text": "We shouldn't say a machine learns.", "start": 4447.16, "end": 4449.16}
+{"id": "7ulv5LFVV64-t4449.16", "text": "Because learn has a very specific meaning.", "start": 4449.16, "end": 4452.16}
+{"id": "7ulv5LFVV64-t4452.16", "text": "It has a very specific humanistic meaning.", "start": 4452.16, "end": 4456.16}
+{"id": "7ulv5LFVV64-t4456.16", "text": "It has to do with experience and it has to do with feeling.", "start": 4456.16, "end": 4459.16}
+{"id": "7ulv5LFVV64-t4459.16", "text": "And so I think that we apply the word incorrectly because we take folk psychology, which was developed for human beings, and we apply to machines and those kinds of things.", "start": 4459.16, "end": 4471.16}
+{"id": "7ulv5LFVV64-t4471.16", "text": "And we don't have other words.", "start": 4471.16, "end": 4473.16}
+{"id": "7ulv5LFVV64-t4473.16", "text": "But we really should have other words.", "start": 4473.16, "end": 4476.16}
+{"id": "7ulv5LFVV64-t4476.16", "text": "We do qualify.", "start": 4476.16, "end": 4478.16}
+{"id": "7ulv5LFVV64-t4478.16", "text": "There's reinforcement learning and unsupervised learning and supervised learning.", "start": 4478.16, "end": 4482.16}
+{"id": "7ulv5LFVV64-t4482.16", "text": "There's different ways that we learn and again, reinforcement learning, like you said, may engage the amygdala in an unconscious way, which may be different than supervised training as well as just kind of general experience or prediction, which may be your less conscious.", "start": 4482.16, "end": 4496.16}
+{"id": "7ulv5LFVV64-t4496.16", "text": "It is interesting to me how many conversations, I think, can evolve into arguments around the semantics in exactly the way you're describing between the folk psychological use of a term which people didn't want to defend in a certain way.", "start": 4496.16, "end": 4511.16}
+{"id": "7ulv5LFVV64-t4511.16", "text": "And then the other uses which may be narrower, broader, but are carefully defined.", "start": 4511.16, "end": 4516.16}
+{"id": "7ulv5LFVV64-t4516.16", "text": "And I think ultimately, since we're not going to discourage people from using those words, you just have to get people to define them when they're using them because people use the same words in different ways.", "start": 4516.16, "end": 4527.16}
+{"id": "7ulv5LFVV64-t4527.16", "text": "We can second announce this as had this problem for a long, long time, which is we all talk about transference.", "start": 4527.16, "end": 4532.16}
+{"id": "7ulv5LFVV64-t4532.16", "text": "We all talk about libido and we can have very long conversations meaning entirely different things with the same word that then often can be unproductive.", "start": 4532.16, "end": 4542.16}
+{"id": "7ulv5LFVV64-t4542.16", "text": "Cheryl mentioned the Turing test, which was the definition of intelligence, right?", "start": 4542.16, "end": 4545.16}
+{"id": "7ulv5LFVV64-t4545.16", "text": "So that was a debate, you know, 40 years ago on debates on what does it mean to be intelligent?", "start": 4545.16, "end": 4549.16}
+{"id": "7ulv5LFVV64-t4549.16", "text": "And they tried to define that.", "start": 4549.16, "end": 4551.16}
+{"id": "7ulv5LFVV64-t4551.16", "text": "The Turing test is, I think, is alive and well.", "start": 4551.16, "end": 4554.16}
+{"id": "7ulv5LFVV64-t4554.16", "text": "Say that again?", "start": 4554.16, "end": 4555.16}
+{"id": "7ulv5LFVV64-t4555.16", "text": "The Turing test.", "start": 4555.16, "end": 4556.16}
+{"id": "7ulv5LFVV64-t4556.16", "text": "The idea of the Turing test, I think, is alive and well.", "start": 4556.16, "end": 4559.16}
+{"id": "7ulv5LFVV64-t4559.16", "text": "How alive?", "start": 4559.16, "end": 4560.16}
+{"id": "7ulv5LFVV64-t4560.16", "text": "Maybe you should tell people what it is.", "start": 4560.16, "end": 4563.16}
+{"id": "7ulv5LFVV64-t4563.16", "text": "Yeah, please.", "start": 4563.16, "end": 4564.16}
+{"id": "7ulv5LFVV64-t4564.16", "text": "Oh.", "start": 4564.16, "end": 4565.16}
+{"id": "7ulv5LFVV64-t4565.16", "text": "So Alan Turing said that had a test that for artificial intelligence that if a computer could pass as human in conversation with another, with a human, it will have passed the Turing test.", "start": 4565.16, "end": 4586.16}
+{"id": "7ulv5LFVV64-t4586.16", "text": "So, you know, you could think chatbots.", "start": 4586.16, "end": 4590.16}
+{"id": "7ulv5LFVV64-t4590.16", "text": "They can, as a simulation, for a limited amount of time, seem almost human.", "start": 4590.16, "end": 4596.16}
+{"id": "7ulv5LFVV64-t4596.16", "text": "But if you really push, we don't have any machines yet that really pass the test.", "start": 4596.16, "end": 4602.16}
+{"id": "7ulv5LFVV64-t4602.16", "text": "My mom, I think my father could pass the Turing test.", "start": 4602.16, "end": 4605.16}
+{"id": "7ulv5LFVV64-t4605.16", "text": "Now?", "start": 4605.16, "end": 4606.16}
+{"id": "7ulv5LFVV64-t4606.16", "text": "If I talk to your father, I wouldn't think he was human.", "start": 4606.16, "end": 4611.16}
+{"id": "7ulv5LFVV64-t4611.16", "text": "If you communicate with him via text or email, I think he would think he was a chatbot.", "start": 4611.16, "end": 4618.16}
+{"id": "7ulv5LFVV64-t4618.16", "text": "He might.", "start": 4618.16, "end": 4619.16}
+{"id": "7ulv5LFVV64-t4619.16", "text": "So, no, no, but the chatbot is not part of the Turing test.", "start": 4619.16, "end": 4627.16}
+{"id": "7ulv5LFVV64-t4627.16", "text": "The Turing test was before chatbots existed.", "start": 4627.16, "end": 4630.16}
+{"id": "7ulv5LFVV64-t4630.16", "text": "What I'm saying is a chatbot is getting close in some circumstances to appearing human.", "start": 4630.16, "end": 4636.16}
+{"id": "7ulv5LFVV64-t4636.16", "text": "I see.", "start": 4636.16, "end": 4641.16}
+{"id": "7ulv5LFVV64-t4641.16", "text": "No one has, where does the status of that?", "start": 4641.16, "end": 4644.16}
+{"id": "7ulv5LFVV64-t4644.16", "text": "No machine has passed the Turing test.", "start": 4644.16, "end": 4646.16}
+{"id": "7ulv5LFVV64-t4646.16", "text": "No, I don't think so.", "start": 4646.16, "end": 4647.16}
+{"id": "7ulv5LFVV64-t4647.16", "text": "I think there was one chatbot which kind of passed by acting as if it were a child who's a non-native English speaker.", "start": 4647.16, "end": 4653.16}
+{"id": "7ulv5LFVV64-t4653.16", "text": "Yeah, a load of art.", "start": 4653.16, "end": 4654.16}
+{"id": "7ulv5LFVV64-t4654.16", "text": "I think there's a time I have to announce.", "start": 4654.16, "end": 4657.16}
+{"id": "7ulv5LFVV64-t4657.16", "text": "I'm actually a robot.", "start": 4657.16, "end": 4659.16}
+{"id": "7ulv5LFVV64-t4659.16", "text": "I think we're going to stop now, though it's been such a wonderful and lively conversation and invite people to ask questions.", "start": 4659.16, "end": 4665.16}
+{"id": "7ulv5LFVV64-t4665.16", "text": "Why don't you come up to the microphone?", "start": 4665.16, "end": 4667.16}
+{"id": "7ulv5LFVV64-t4667.16", "text": "I just assumed everyone's a Turing test.", "start": 4667.16, "end": 4669.16}
+{"id": "7ulv5LFVV64-t4669.16", "text": "And please, if you want to see the movie, questions and comments to be kept on the brief side, please.", "start": 4669.16, "end": 4675.16}
+{"id": "7ulv5LFVV64-t4675.16", "text": "All right.", "start": 4675.16, "end": 4677.16}
+{"id": "7ulv5LFVV64-t4677.16", "text": "Thank you for this engaging and live discussion.", "start": 4677.16, "end": 4680.16}
+{"id": "7ulv5LFVV64-t4680.16", "text": "It's interesting because when you were talking about applying mathematical models to psychological states, let's say,", "start": 4680.16, "end": 4689.16}
+{"id": "7ulv5LFVV64-t4689.16", "text": "it seemed as though you were mainly talking about behavior, decision making, and action.", "start": 4689.16, "end": 4699.16}
+{"id": "7ulv5LFVV64-t4699.16", "text": "And so I could see how models of probability could determine, you know, could be used to determine particular outcomes.", "start": 4699.16, "end": 4707.16}
+{"id": "7ulv5LFVV64-t4707.16", "text": "And so the same thing when you were talking about the computer's playing chess, right?", "start": 4707.16, "end": 4713.16}
+{"id": "7ulv5LFVV64-t4713.16", "text": "That's how do they make decisions?", "start": 4713.16, "end": 4715.16}
+{"id": "7ulv5LFVV64-t4715.16", "text": "How do they act?", "start": 4715.16, "end": 4716.16}
+{"id": "7ulv5LFVV64-t4716.16", "text": "How do they behave? What information do they have access to?", "start": 4716.16, "end": 4719.16}
+{"id": "7ulv5LFVV64-t4719.16", "text": "But what about mathematical models applied to, let's say, experience?", "start": 4719.16, "end": 4724.16}
+{"id": "7ulv5LFVV64-t4724.16", "text": "How one experiences or to consciousness in general?", "start": 4724.16, "end": 4728.16}
+{"id": "7ulv5LFVV64-t4728.16", "text": "That seems to be a little bit different than the direction you were heading.", "start": 4728.16, "end": 4732.16}
+{"id": "7ulv5LFVV64-t4732.16", "text": "It's like art, humor.", "start": 4732.16, "end": 4735.16}
+{"id": "7ulv5LFVV64-t4735.16", "text": "Yeah.", "start": 4735.16, "end": 4736.16}
+{"id": "7ulv5LFVV64-t4736.16", "text": "How one experiences art or what creation is, mathematics?", "start": 4736.16, "end": 4738.16}
+{"id": "7ulv5LFVV64-t4738.16", "text": "Aesthetics.", "start": 4738.16, "end": 4739.16}
+{"id": "7ulv5LFVV64-t4739.16", "text": "Yeah, exactly.", "start": 4739.16, "end": 4740.16}
+{"id": "7ulv5LFVV64-t4740.16", "text": "But even experience states, right?", "start": 4740.16, "end": 4743.16}
+{"id": "7ulv5LFVV64-t4743.16", "text": "How do I know what I experience and what do I experience?", "start": 4743.16, "end": 4746.16}
+{"id": "7ulv5LFVV64-t4746.16", "text": "And is that something that can be described mathematically given you have enough information and data, let's say?", "start": 4746.16, "end": 4755.16}
+{"id": "7ulv5LFVV64-t4755.16", "text": "I think right now we couldn't say anything about the in principle when we have, you know, way more ability to watch what's going on in brains.", "start": 4755.16, "end": 4769.16}
+{"id": "7ulv5LFVV64-t4769.16", "text": "And to, you know, at some point we're going to be, as I said before, at some point we're going to be able to say these kinds of neural patterns of activity reach consciousness and, you know, lead to this feeling or this or this experience.", "start": 4769.16, "end": 4785.16}
+{"id": "7ulv5LFVV64-t4785.16", "text": "And these other kinds of neural activity don't go to consciousness.", "start": 4785.16, "end": 4788.16}
+{"id": "7ulv5LFVV64-t4788.16", "text": "But, you know, why they have conscious experience?", "start": 4788.16, "end": 4792.16}
+{"id": "7ulv5LFVV64-t4792.16", "text": "I don't know what we'll be able to make a nice morphism between, you know, the behavior of the neurons and what different things feel like.", "start": 4792.16, "end": 4800.16}
+{"id": "7ulv5LFVV64-t4800.16", "text": "But that's way far in the sense of future.", "start": 4800.16, "end": 4804.16}
+{"id": "7ulv5LFVV64-t4804.16", "text": "We couldn't even touch that now.", "start": 4804.16, "end": 4807.16}
+{"id": "7ulv5LFVV64-t4807.16", "text": "I would say that the why question, depending on how you define it, sure, I can see that being far in the future, what I don't think is far in the future is models that are relevant to affective experience.", "start": 4807.16, "end": 4817.16}
+{"id": "7ulv5LFVV64-t4817.16", "text": "And, you know, Cheryl's work is one example of that. But there's many other examples now of various relatively simple models that look at the sort of dynamics of various affective states and why one reacts to certain ways to different things and the correspondence of that between, you know, facial expressions and behaviors and so on.", "start": 4817.16, "end": 4840.16}
+{"id": "7ulv5LFVV64-t4840.16", "text": "But that's a model of, I agree with you, but that's a model of different level. I guess what I was addressing was the neurons. Can we talk about feelings? No, that's way far in future.", "start": 4840.16, "end": 4849.16}
+{"id": "7ulv5LFVV64-t4849.16", "text": "But that's also, when you're discussing modeling affective states, that's also what gives rise to the affective state or the behavior of the affective state, but not the experience of the affective state.", "start": 4849.16, "end": 4865.16}
+{"id": "7ulv5LFVV64-t4865.16", "text": "I was drawing this distinction with the why. I think one can always carve out a realm of the why that we don't have access to, but I think that's shrinking.", "start": 4865.16, "end": 4876.16}
+{"id": "7ulv5LFVV64-t4876.16", "text": "I mean, the example I'll give of that is I had a classmate, Natalie Training, who remained famous, who we used to have this debate about whether there was possible or worthwhile to measure anything in the psychoanalytic process.", "start": 4876.16, "end": 4888.16}
+{"id": "7ulv5LFVV64-t4888.16", "text": "And so he told me that his definition of psychoanalysis was that which I could never measure. So by that definition, as I got better in measuring things, his diagnosis got smaller and smaller.", "start": 4888.16, "end": 4901.16}
+{"id": "7ulv5LFVV64-t4901.16", "text": "He was okay with that definition, but I guess what I would argue is that, sure, one can always carve out a why that is inaccessible, but I think it's relevant to the why, the more and more we know about the dynamics of these affective states.", "start": 4901.16, "end": 4917.16}
+{"id": "7ulv5LFVV64-t4917.16", "text": "Or the what, actually.", "start": 4917.16, "end": 4919.16}
+{"id": "7ulv5LFVV64-t4919.16", "text": "Yeah, well, but philosophers talk about the heart problem. I think that remains obviously an open question.", "start": 4919.16, "end": 4927.16}
+{"id": "7ulv5LFVV64-t4927.16", "text": "I don't know whether that's a scientific question or remains forever a philosophical question as to how you can bridge between mechanism and experience.", "start": 4927.16, "end": 4937.16}
+{"id": "7ulv5LFVV64-t4937.16", "text": "I think that the heart problem is a heart problem for a good reason.", "start": 4937.16, "end": 4942.16}
+{"id": "7ulv5LFVV64-t4942.16", "text": "I guess it's an empirical point as to whether we'll ever be able to bridge that. I'm betting no.", "start": 4942.16, "end": 4949.16}
+{"id": "7ulv5LFVV64-t4949.16", "text": "But we'll see.", "start": 4949.16, "end": 4950.16}
+{"id": "7ulv5LFVV64-t4950.16", "text": "Can I just go back to an example you said earlier just to see where we stand on things. Let's take your protozoa in the dish going up the chemical gradient.", "start": 4950.16, "end": 4957.16}
+{"id": "7ulv5LFVV64-t4957.16", "text": "As Larry pointed out, you can have a, sorry, Ken, sorry.", "start": 4957.16, "end": 4961.16}
+{"id": "7ulv5LFVV64-t4961.16", "text": "Ken pointed out, you can, I called you Ken earlier though.", "start": 4961.16, "end": 4964.16}
+{"id": "7ulv5LFVV64-t4964.16", "text": "You did.", "start": 4964.16, "end": 4965.16}
+{"id": "7ulv5LFVV64-t4965.16", "text": "I'm two for three.", "start": 4965.16, "end": 4966.16}
+{"id": "7ulv5LFVV64-t4966.16", "text": "But, but, but, but, I just can point out earlier, you can, you can write a complicated differential equation that has every atom, neuron, whatever in that worm.", "start": 4966.16, "end": 4975.16}
+{"id": "7ulv5LFVV64-t4975.16", "text": "And your model will climb up the chemical gradient.", "start": 4975.16, "end": 4978.16}
+{"id": "7ulv5LFVV64-t4978.16", "text": "And you can point to every little bit in your model and explain in a particular way why that thing is climbing the chemical gradient.", "start": 4978.16, "end": 4984.16}
+{"id": "7ulv5LFVV64-t4984.16", "text": "But would you ever understand how it feels?", "start": 4984.16, "end": 4987.16}
+{"id": "7ulv5LFVV64-t4987.16", "text": "I don't think it feels any feels.", "start": 4987.16, "end": 4989.16}
+{"id": "7ulv5LFVV64-t4989.16", "text": "How it experiences climbing up the chemical gradient.", "start": 4989.16, "end": 4992.16}
+{"id": "7ulv5LFVV64-t4992.16", "text": "And you say, no.", "start": 4992.16, "end": 4993.16}
+{"id": "7ulv5LFVV64-t4993.16", "text": "That's what you say.", "start": 4993.16, "end": 4994.16}
+{"id": "7ulv5LFVV64-t4994.16", "text": "Well, I will say no, and I will say that there are different languages because by the way, when you say that something's climbing up a chemical gradient, you're giving a teleological explanation, right?", "start": 4994.16, "end": 5003.16}
+{"id": "7ulv5LFVV64-t5003.16", "text": "You're explaining, right?", "start": 5003.16, "end": 5004.16}
+{"id": "7ulv5LFVV64-t5004.16", "text": "You're explaining something by the end, right?", "start": 5004.16, "end": 5006.16}
+{"id": "7ulv5LFVV64-t5006.16", "text": "And classic Aristotelian, teleological model, which is not a scientific model.", "start": 5006.16, "end": 5011.16}
+{"id": "7ulv5LFVV64-t5011.16", "text": "You can't describe something that you can't postulate a cause that happens later, right?", "start": 5011.16, "end": 5015.16}
+{"id": "7ulv5LFVV64-t5015.16", "text": "That it's climbing up the thing in order to get sugar.", "start": 5015.16, "end": 5018.16}
+{"id": "7ulv5LFVV64-t5018.16", "text": "That's a reason and can never be a mechanism.", "start": 5018.16, "end": 5020.16}
+{"id": "7ulv5LFVV64-t5020.16", "text": "I mean philosophically.", "start": 5020.16, "end": 5021.16}
+{"id": "7ulv5LFVV64-t5021.16", "text": "But you can certainly build a model of things that follow gradients and how they behave.", "start": 5021.16, "end": 5026.16}
+{"id": "7ulv5LFVV64-t5026.16", "text": "And you can model it at that level.", "start": 5026.16, "end": 5029.16}
+{"id": "7ulv5LFVV64-t5029.16", "text": "But what I describe it, when I describe it, it's doing this for this purpose.", "start": 5029.16, "end": 5033.16}
+{"id": "7ulv5LFVV64-t5033.16", "text": "I've gone.", "start": 5033.16, "end": 5034.16}
+{"id": "7ulv5LFVV64-t5034.16", "text": "It can still be mechanistic.", "start": 5034.16, "end": 5035.16}
+{"id": "7ulv5LFVV64-t5035.16", "text": "So as internal states about the past histories, you can tell whether you're increasing or decreasing the gradient.", "start": 5035.16, "end": 5041.16}
+{"id": "7ulv5LFVV64-t5041.16", "text": "And so even in this case, for subjective, affective states, people have done things within, again, the limited context of sequential learning and decision making and understanding.", "start": 5041.16, "end": 5050.16}
+{"id": "7ulv5LFVV64-t5050.16", "text": "And so, when you're learning and decision making and reward, you can even say, how does your affective rating of happiness correlate with rewards and reward prediction errors, right?", "start": 5050.16, "end": 5059.16}
+{"id": "7ulv5LFVV64-t5059.16", "text": "With humor, I think there is some work on seeing in simplified settings, can we show how humor relates to violations of predictions of expectations a little bit?", "start": 5059.16, "end": 5068.16}
+{"id": "7ulv5LFVV64-t5068.16", "text": "It's really pretty inadequate.", "start": 5068.16, "end": 5070.16}
+{"id": "7ulv5LFVV64-t5070.16", "text": "But what if instead of a program, it's just not going to speak to the subjective experience.", "start": 5070.16, "end": 5075.16}
+{"id": "7ulv5LFVV64-t5075.16", "text": "But what are the kind of computations, right, at the level of inputs and outputs?", "start": 5075.16, "end": 5081.16}
+{"id": "7ulv5LFVV64-t5081.16", "text": "That's right.", "start": 5081.16, "end": 5082.16}
+{"id": "7ulv5LFVV64-t5082.16", "text": "You can relate these things to actual computations that guide behavior in a mathematical way, I would say.", "start": 5082.16, "end": 5087.16}
+{"id": "7ulv5LFVV64-t5087.16", "text": "For humor, you can find some rules.", "start": 5087.16, "end": 5090.16}
+{"id": "7ulv5LFVV64-t5090.16", "text": "But then to try to create humor using those rules is where it hits the story.", "start": 5090.16, "end": 5095.16}
+{"id": "7ulv5LFVV64-t5095.16", "text": "There's a catastrophe where he modeled humor, which actually works pretty well.", "start": 5095.16, "end": 5100.16}
+{"id": "7ulv5LFVV64-t5100.16", "text": "There's a disruption in fact that the theory is a while, in the argument, where pettiliology, and I think that is something that humans, we have reasons for doing things that so far have not been built into sort of computational models.", "start": 5100.16, "end": 5112.16}
+{"id": "7ulv5LFVV64-t5112.16", "text": "Oh, no, no, you can model that, absolutely.", "start": 5112.16, "end": 5114.16}
+{"id": "7ulv5LFVV64-t5114.16", "text": "You can model agents that have goals and have some relationship between their actions and their goals and their outcomes, and they learn from that.", "start": 5114.16, "end": 5122.16}
+{"id": "7ulv5LFVV64-t5122.16", "text": "But in the context of evolution, too, what's selected?", "start": 5122.16, "end": 5132.16}
+{"id": "7ulv5LFVV64-t5132.16", "text": "We also say that we have good evidence that there are times when we think we are motivated to do things, and that there's good evidence to suggest that we have told ourselves a story about wanting to do something that we were doing for a completely other reason.", "start": 5132.16, "end": 5138.16}
+{"id": "7ulv5LFVV64-t5138.16", "text": "And habits that are not different.", "start": 5138.16, "end": 5141.16}
+{"id": "7ulv5LFVV64-t5141.16", "text": "Anishia.", "start": 5141.16, "end": 5142.16}
+{"id": "7ulv5LFVV64-t5142.16", "text": "So introduce yourself.", "start": 5142.16, "end": 5145.16}
+{"id": "7ulv5LFVV64-t5145.16", "text": "What was that?", "start": 5145.16, "end": 5146.16}
+{"id": "7ulv5LFVV64-t5146.16", "text": "Oh, no, I'm Anishia. I work with Cheryl. I'm a neurologist. So from my perspective, there has to be sort of an answer to all of this.", "start": 5146.16, "end": 5155.16}
+{"id": "7ulv5LFVV64-t5155.16", "text": "So I guess my question is, you know, one of the limitations I see with models and computers is that they have to be created by humans, right?", "start": 5155.16, "end": 5162.16}
+{"id": "7ulv5LFVV64-t5162.16", "text": "So is it conceivable that perhaps the reason some of their limitations are because we as humans are not smart enough, at least now, to really create these models and perhaps with evolution or with human learning, we could learn that we could be able to do things with humans.", "start": 5162.16, "end": 5175.16}
+{"id": "7ulv5LFVV64-t5175.16", "text": "And then we could learn to create these models and computers that could account for more complex psychiatric functions.", "start": 5175.16, "end": 5184.16}
+{"id": "7ulv5LFVV64-t5184.16", "text": "Well, from the point of view of the history of science, the history of science is kind of on your side, because there were all kinds of things that people said will never be explainable by science, including urea, right?", "start": 5184.16, "end": 5195.16}
+{"id": "7ulv5LFVV64-t5195.16", "text": "Right, the production of urea in the human body was something that people thought couldn't be replicated.", "start": 5195.16, "end": 5201.16}
+{"id": "7ulv5LFVV64-t5201.16", "text": "So the history of science is sort of pushes to that, but I would say that the human brain is the final frontier, and we don't know whether our historical experience with science being able to progress will be able to do that.", "start": 5201.16, "end": 5214.16}
+{"id": "7ulv5LFVV64-t5214.16", "text": "So that would be a limitation of us in our ability to create the model as opposed to a limitation to models in general.", "start": 5214.16, "end": 5222.16}
+{"id": "7ulv5LFVV64-t5222.16", "text": "Couldn't you argue that one of the ways of thinking about artificial intelligence is that it is teaching a machine to create new models?", "start": 5222.16, "end": 5229.16}
+{"id": "7ulv5LFVV64-t5229.16", "text": "I could imagine, certainly, and maybe this is already happening, building a machine that builds new models that we ourselves as humans couldn't build.", "start": 5229.16, "end": 5239.16}
+{"id": "7ulv5LFVV64-t5239.16", "text": "No, it has to appreciate art and tell jokes, and it has to be human. That's a directive.", "start": 5239.16, "end": 5246.16}
+{"id": "7ulv5LFVV64-t5246.16", "text": "I wouldn't argue with that.", "start": 5246.16, "end": 5249.16}
+{"id": "7ulv5LFVV64-t5249.16", "text": "There's some intrinsic limitation to how complicated a thing humans can create.", "start": 5249.16, "end": 5254.16}
+{"id": "7ulv5LFVV64-t5254.16", "text": "It's just a matter of just the whole way science has been built up. You've got to understand some things, and then you build on that, and then you build on that, and then you build on that.", "start": 5254.16, "end": 5264.16}
+{"id": "7ulv5LFVV64-t5264.16", "text": "We're ways from getting there, but I don't think there's any intrinsic limit to how far we can go.", "start": 5264.16, "end": 5269.16}
+{"id": "7ulv5LFVV64-t5269.16", "text": "Humans are stupid, but humanity is smart.", "start": 5269.16, "end": 5273.16}
+{"id": "7ulv5LFVV64-t5273.16", "text": "Humans can be stupid, but humanity is smart.", "start": 5273.16, "end": 5277.16}
+{"id": "7ulv5LFVV64-t5277.16", "text": "That's a quote of a word.", "start": 5277.16, "end": 5284.16}
+{"id": "7ulv5LFVV64-t5284.16", "text": "When you mentioned the word philosophy, and then before you wanted a definition of the word math, I thought of the confrontation between the analytical philosophers and the continental.", "start": 5284.16, "end": 5296.16}
+{"id": "7ulv5LFVV64-t5296.16", "text": "The logical positivist, Witton Stein and Bertrand Russell thought math was the answer. Logic was the answer. Could this be a little bit of what we're dancing around here?", "start": 5296.16, "end": 5309.16}
+{"id": "7ulv5LFVV64-t5309.16", "text": "Yeah, Fragan was in there. I would say, yeah, I would say that, and again, Andrew and I have had a number of conversations about this about what are some of the...", "start": 5309.16, "end": 5318.16}
+{"id": "7ulv5LFVV64-t5318.16", "text": "What, in conversations like this, what are some of the fundamental things? And Russell had a famous quote about the difference between mind and matter, right?", "start": 5318.16, "end": 5328.16}
+{"id": "7ulv5LFVV64-t5328.16", "text": "And he said, what is mind, not matter, what is matter, never mind.", "start": 5328.16, "end": 5332.16}
+{"id": "7ulv5LFVV64-t5332.16", "text": "So the mind-body problem underlies all this.", "start": 5332.16, "end": 5338.16}
+{"id": "7ulv5LFVV64-t5338.16", "text": "The use of folk psychological language to describe scientific psychology are problems like this.", "start": 5338.16, "end": 5344.16}
+{"id": "7ulv5LFVV64-t5344.16", "text": "And I think that those go to the positivist, questions of the positivist about whether you could ultimately come up with a set of definitions and a set of non-falsifiable statements,", "start": 5344.16, "end": 5358.16}
+{"id": "7ulv5LFVV64-t5358.16", "text": "whether you could do that or not.", "start": 5358.16, "end": 5361.16}
+{"id": "7ulv5LFVV64-t5361.16", "text": "Science hasn't, while philosophy has moved past that and rejected that, I think working scientists have never fully, have never rejected the logical positivist position.", "start": 5361.16, "end": 5378.16}
+{"id": "7ulv5LFVV64-t5378.16", "text": "And your question to me was implicit that, is this just kind of skirting around logical positivism as opposed to what else should we perhaps be bringing in and considering? That's the implicit part of your question.", "start": 5378.16, "end": 5393.16}
+{"id": "7ulv5LFVV64-t5393.16", "text": "I think, what was the problem with the quote? If we can't, we can't really get to it.", "start": 5393.16, "end": 5408.16}
+{"id": "7ulv5LFVV64-t5408.16", "text": "Yeah.", "start": 5408.16, "end": 5409.16}
+{"id": "7ulv5LFVV64-t5409.16", "text": "And this will be our last question. Thank you. Please, not too long.", "start": 5409.16, "end": 5413.16}
+{"id": "7ulv5LFVV64-t5413.16", "text": "This is seems to us to have gap, abysm between psychology and philosophy because it depends on where we turn our attention and our focus of attention.", "start": 5413.16, "end": 5427.16}
+{"id": "7ulv5LFVV64-t5427.16", "text": "Because this, I think this gap is artificial because in order to, I'll give you some example, in order to aware that every experience requires awareness,", "start": 5427.16, "end": 5441.16}
+{"id": "7ulv5LFVV64-t5441.16", "text": "requires consciousness, hidden in a way.", "start": 5441.16, "end": 5444.16}
+{"id": "7ulv5LFVV64-t5444.16", "text": "For example, Freud and Jung built his theory about unconscious from the point of view, not of unconscious, from the point of view conscious.", "start": 5444.16, "end": 5455.16}
+{"id": "7ulv5LFVV64-t5455.16", "text": "Therefore, did you see some animal to write book about biology? No.", "start": 5455.16, "end": 5460.16}
+{"id": "7ulv5LFVV64-t5460.16", "text": "Men who is higher ontological creature write book about biology. I wish to only to say that they are not only the, say, I'm a psychiatrist, a baris", "start": 5460.16, "end": 5471.16}
+{"id": "7ulv5LFVV64-t5471.16", "text": "not only our science.", "start": 5471.16, "end": 5473.16}
+{"id": "7ulv5LFVV64-t5473.16", "text": "So we can ask a question so we can respond.", "start": 5473.16, "end": 5475.16}
+{"id": "7ulv5LFVV64-t5475.16", "text": "Excuse me, sir. I didn't wrote so many books in order to only ask questions.", "start": 5475.16, "end": 5479.16}
+{"id": "7ulv5LFVV64-t5479.16", "text": "I wish to say some missing great point of contemporary physics, especially in physics because computation upon physics.", "start": 5479.16, "end": 5489.16}
+{"id": "7ulv5LFVV64-t5489.16", "text": "Still genes is the massive genes. He tried to deviate this general intention of thought that a universe is not computed.", "start": 5489.16, "end": 5499.16}
+{"id": "7ulv5LFVV64-t5499.16", "text": "The universe is a mind because ever mathematics needs of mathematicians.", "start": 5499.16, "end": 5506.16}
+{"id": "7ulv5LFVV64-t5506.16", "text": "What presents itself a mathematical equation without interpretation?", "start": 5506.16, "end": 5510.16}
+{"id": "7ulv5LFVV64-t5510.16", "text": "Okay. This is not my question.", "start": 5510.16, "end": 5513.16}
+{"id": "7ulv5LFVV64-t5513.16", "text": "My question, my team was to say something I think very important.", "start": 5513.16, "end": 5517.16}
+{"id": "7ulv5LFVV64-t5517.16", "text": "Now we are aware that the whole science meets time, temporality, because see, every, all the computers and all the living systems process information in time.", "start": 5517.16, "end": 5531.16}
+{"id": "7ulv5LFVV64-t5531.16", "text": "Time, substitute the, time is like work.", "start": 5531.16, "end": 5534.16}
+{"id": "7ulv5LFVV64-t5534.16", "text": "We are not actually.", "start": 5534.16, "end": 5536.16}
+{"id": "7ulv5LFVV64-t5536.16", "text": "So you don't want to listen to the, why sir?", "start": 5536.16, "end": 5540.16}
+{"id": "7ulv5LFVV64-t5540.16", "text": "Sir, do you have some esteem?", "start": 5540.16, "end": 5543.16}
+{"id": "7ulv5LFVV64-t5543.16", "text": "Yes. I have to stop now unfortunately.", "start": 5543.16, "end": 5548.16}
+{"id": "7ulv5LFVV64-t5548.16", "text": "I did, I did, because the time went out. So I must. I'm sorry. I apologize.", "start": 5548.16, "end": 5553.16}
+{"id": "7ulv5LFVV64-t5553.16", "text": "Do we have the panel responder or do you want to just, okay, then sit down and let's hear what the response we get, please.", "start": 5553.16, "end": 5562.16}
+{"id": "7ulv5LFVV64-t5562.16", "text": "Sir, afterwards you'll be able to ask the panelists independently.", "start": 5562.16, "end": 5567.16}
+{"id": "7ulv5LFVV64-t5567.16", "text": "I told you all the living systems information in time.", "start": 5567.16, "end": 5571.16}
+{"id": "7ulv5LFVV64-t5571.16", "text": "Okay. Let me ask the question.", "start": 5571.16, "end": 5573.16}
+{"id": "7ulv5LFVV64-t5573.16", "text": "The human brain is all the process time into the flow of information.", "start": 5573.16, "end": 5578.16}
+{"id": "7ulv5LFVV64-t5578.16", "text": "Okay.", "start": 5578.16, "end": 5579.16}
+{"id": "7ulv5LFVV64-t5579.16", "text": "You make something version. It's very important.", "start": 5579.16, "end": 5581.16}
+{"id": "7ulv5LFVV64-t5581.16", "text": "Do you have now read to, to.", "start": 5581.16, "end": 5585.16}
+{"id": "7ulv5LFVV64-t5585.16", "text": "Yes. I'll stop you now.", "start": 5585.16, "end": 5587.16}
+{"id": "7ulv5LFVV64-t5587.16", "text": "It is actually an interesting point.", "start": 5587.16, "end": 5589.16}
+{"id": "7ulv5LFVV64-t5589.16", "text": "If you have a response then they will not have knowledge and function.", "start": 5589.16, "end": 5594.16}
+{"id": "7ulv5LFVV64-t5594.16", "text": "Okay.", "start": 5594.16, "end": 5595.16}
+{"id": "7ulv5LFVV64-t5595.16", "text": "Because to be cautious that means double status.", "start": 5595.16, "end": 5599.16}
+{"id": "7ulv5LFVV64-t5599.16", "text": "I'll say it's time. It's all time plus the 50 days.", "start": 5599.16, "end": 5603.16}
+{"id": "7ulv5LFVV64-t5603.16", "text": "And the future takes them together.", "start": 5603.16, "end": 5605.16}
+{"id": "7ulv5LFVV64-t5605.16", "text": "Okay. Now it happens that your comment, that one of the-", "start": 5605.16, "end": 5608.16}
+{"id": "7ulv5LFVV64-t5608.16", "text": "My comment, concern about peak time.", "start": 5608.16, "end": 5610.16}
+{"id": "7ulv5LFVV64-t5610.16", "text": "Thank you.", "start": 5610.16, "end": 5611.16}
+{"id": "7ulv5LFVV64-t5611.16", "text": "Thank you.", "start": 5611.16, "end": 5612.16}
+{"id": "7ulv5LFVV64-t5612.16", "text": "Thank you.", "start": 5612.16, "end": 5613.16}
+{"id": "7ulv5LFVV64-t5613.16", "text": "Now one of the people that I, that we reference in the description of today's talk was on Ray Bergson,", "start": 5613.16, "end": 5619.16}
+{"id": "7ulv5LFVV64-t5619.16", "text": "who did supply that similar sort of analysis to making a connection between the mathematics and, and subjective experience.", "start": 5619.16, "end": 5628.16}
+{"id": "7ulv5LFVV64-t5628.16", "text": "So in that sense, you're in a good company.", "start": 5628.16, "end": 5631.16}
+{"id": "7ulv5LFVV64-t5631.16", "text": "Thank you very much.", "start": 5631.16, "end": 5632.16}
+{"id": "7ulv5LFVV64-t5632.16", "text": "And thank you everyone else here today for a really wonderful round table.", "start": 5632.16, "end": 5638.16}
+{"id": "7ulv5LFVV64-t5638.16", "text": "Thank you.", "start": 5638.16, "end": 5639.16}
+{"id": "7ulv5LFVV64-t5639.16", "text": "Thank you.", "start": 5639.16, "end": 5640.16}
+{"id": "7ulv5LFVV64-t5640.16", "text": "Thank you.", "start": 5640.16, "end": 5641.16}
+{"id": "7ulv5LFVV64-t5641.16", "text": "Thank you.", "start": 5641.16, "end": 5642.16}
+{"id": "7ulv5LFVV64-t5642.16", "text": "Thank you.", "start": 5642.16, "end": 5643.16}
+{"id": "7ulv5LFVV64-t5643.16", "text": "Thank you.", "start": 5643.16, "end": 5644.16}
+{"id": "7ulv5LFVV64-t5644.16", "text": "Thank you.", "start": 5644.16, "end": 5645.16}
+{"id": "7ulv5LFVV64-t5645.16", "text": "Thank you.", "start": 5645.16, "end": 5646.16}
+{"id": "7ulv5LFVV64-t5646.16", "text": "It's a good opportunity.", "start": 5646.16, "end": 5647.16}
+{"id": "7ulv5LFVV64-t5647.16", "text": "I see that.", "start": 5647.16, "end": 5648.16}
+{"id": "7ulv5LFVV64-t5648.16", "text": "Yeah.", "start": 5648.16, "end": 5649.16}
+{"id": "7ulv5LFVV64-t5649.16", "text": "Thank you.", "start": 5649.16, "end": 5650.16}
+{"id": "7ulv5LFVV64-t5650.16", "text": "Thank you.", "start": 5650.16, "end": 5651.16}
+{"id": "7ulv5LFVV64-t5651.16", "text": "Thank you.", "start": 5651.16, "end": 5652.16}
+{"id": "7ulv5LFVV64-t5652.16", "text": "Thank you.", "start": 5652.16, "end": 5653.16}
+{"id": "7ulv5LFVV64-t5653.16", "text": "Oh, thank you.", "start": 5653.16, "end": 5654.16}
+{"id": "7ulv5LFVV64-t5654.16", "text": "Yeah.", "start": 5654.16, "end": 5655.16}
+{"id": "7ulv5LFVV64-t5655.16", "text": "Thank you.", "start": 5655.16, "end": 5656.16}

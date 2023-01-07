@@ -1,0 +1,4272 @@
+1
+00:00:00,000 --> 00:00:15,920
+Good afternoon, everyone.
+
+2
+00:00:15,920 --> 00:00:24,160
+Welcome to the fall 2019 inauguration of the Hillock Center.
+
+3
+00:00:24,160 --> 00:00:28,520
+I'm glad everyone could be here on such a beautiful day.
+
+4
+00:00:28,520 --> 00:00:29,520
+My name is Jerry Herowitz.
+
+5
+00:00:29,520 --> 00:00:32,400
+I'm the associate director at the Hillock Center.
+
+6
+00:00:32,400 --> 00:00:38,280
+And today we have a roundtable on the topic of lying.
+
+7
+00:00:38,280 --> 00:00:44,520
+Before I commence, I want to mention that on October 5th, our second roundtable is on
+
+8
+00:00:44,520 --> 00:00:48,520
+the mechanization of mathematics.
+
+9
+00:00:48,520 --> 00:00:53,640
+So let me go on and introduce our esteemed panelists today.
+
+10
+00:00:53,640 --> 00:00:58,800
+First of all, unfortunately, Patricia Churchland, who was scheduled to be on our panel, fell
+
+11
+00:00:58,800 --> 00:01:01,480
+ill and was unable to make it today.
+
+12
+00:01:01,480 --> 00:01:04,920
+But we do have a fill-in, Martin Garbus.
+
+13
+00:01:04,920 --> 00:01:08,200
+If you would raise your hand so we know who you are, is here.
+
+14
+00:01:08,200 --> 00:01:14,920
+He's an attorney and has taught it several prestigious law schools in the U.S.
+
+15
+00:01:14,920 --> 00:01:19,880
+Dr. Anna Ballis, if you'd raise your hand, is associate professor of clinical psychiatry
+
+16
+00:01:19,880 --> 00:01:25,600
+at Waukornell Medical College and training and supervising analyst at the New York Psychoanalytic
+
+17
+00:01:25,600 --> 00:01:27,400
+Institute.
+
+18
+00:01:27,400 --> 00:01:34,000
+She's been in private adult and child psychiatric practice in Manhattan over 35 years and is
+
+19
+00:01:34,000 --> 00:01:38,400
+a distinguished fellow of the American Psychiatric Association.
+
+20
+00:01:38,400 --> 00:01:45,800
+Neil Garrett is a Henry Welcome Research Fellow in cognitive neuroscience at Oxford University.
+
+21
+00:01:45,800 --> 00:01:49,520
+His research centers around aversive behavior and learning.
+
+22
+00:01:49,520 --> 00:01:54,640
+As part of this, he has led a new line of inquiry, examining the role of emotional adaptation
+
+23
+00:01:54,640 --> 00:01:56,920
+in decision-making.
+
+24
+00:01:56,920 --> 00:02:00,640
+And I think he's going to tell us more about that today.
+
+25
+00:02:00,640 --> 00:02:07,600
+Emma Edelman-Lavine is an assistant professor of behavioral science and the Charles Merrill
+
+26
+00:02:07,600 --> 00:02:12,560
+Faculty Scholar at the University of Chicago Booth School of Business.
+
+27
+00:02:12,560 --> 00:02:16,880
+She was recently recognized as a rising star of the Association of Psychological Science
+
+28
+00:02:16,880 --> 00:02:19,240
+in 2019.
+
+29
+00:02:19,240 --> 00:02:26,360
+Emma studies the psychology of altruism, trust, and ethical dilemmas.
+
+30
+00:02:26,360 --> 00:02:33,920
+Dr. Francis X. Shen is the executive director of the Harvard Mass General Hospital Center
+
+31
+00:02:33,920 --> 00:02:39,520
+for Law, Brain, and Behavior and Instruction Psychology at Harvard Medical School, senior
+
+32
+00:02:39,520 --> 00:02:44,640
+fellow in law and applied neuroscience at the Harvard Law School, Petrie Flom Center, and
+
+33
+00:02:44,640 --> 00:02:51,400
+an associate professor of law, McKnight Presidential Fellow and faculty member in a graduate program
+
+34
+00:02:51,400 --> 00:02:57,760
+on neuroscience at the University of Minnesota.
+
+35
+00:02:57,760 --> 00:03:03,120
+Jonathan Stray is a computational journalist at Columbia University where he teaches the
+
+36
+00:03:03,120 --> 00:03:09,040
+dual master's degree in computer science and journalism and leads the development of
+
+37
+00:03:09,040 --> 00:03:13,000
+workbench, an integrated tool for data journalism.
+
+38
+00:03:13,000 --> 00:03:20,200
+He's contributed to the New York Times, the Atlantic Wired, foreign policy, and pro-public
+
+39
+00:03:20,200 --> 00:03:21,840
+hub.
+
+40
+00:03:21,840 --> 00:03:29,800
+And sitting on the panels well to help moderate is our executive director Ed Narsesian.
+
+41
+00:03:29,800 --> 00:03:33,920
+So thanks very much.
+
+42
+00:03:33,920 --> 00:03:43,320
+Okay, well I was thinking just to get the ball rolling about and not to have this start
+
+43
+00:03:43,320 --> 00:03:46,640
+out necessarily on a political line.
+
+44
+00:03:46,640 --> 00:03:53,080
+Although I'm sure that's on several of the minds of our audience today.
+
+45
+00:03:53,080 --> 00:04:00,520
+That part of our founding mythology includes, of course, the truth-telling traits of George
+
+46
+00:04:00,520 --> 00:04:07,240
+Washington and Abraham Lincoln, and both known for their honesty, of course.
+
+47
+00:04:07,240 --> 00:04:13,640
+And that also brought me, brought back to my attention, a wonderfully humorous television
+
+48
+00:04:13,640 --> 00:04:19,840
+commercial, some years ago where Honest Abe was sitting in his bedroom and married Todd
+
+49
+00:04:19,840 --> 00:04:22,280
+Lincoln portrayed in a commercial.
+
+50
+00:04:22,280 --> 00:04:26,880
+I don't know what she really looked like as being a little portly was getting dressed
+
+51
+00:04:26,880 --> 00:04:28,800
+in a dress.
+
+52
+00:04:28,800 --> 00:04:33,920
+And she turns to Abe and she says, do I look fat?
+
+53
+00:04:33,920 --> 00:04:36,440
+And Abe turns looks at the camera like OA-Vay.
+
+54
+00:04:36,440 --> 00:04:39,920
+What am I going to say?
+
+55
+00:04:39,920 --> 00:04:45,520
+So of course, lying is something even for George Washington and Abraham Lincoln, everyone has
+
+56
+00:04:45,520 --> 00:04:47,480
+engaged in at some point.
+
+57
+00:04:47,480 --> 00:04:52,720
+So I guess the question is why is lying a problem or when does lying become a problem?
+
+58
+00:04:52,720 --> 00:04:56,160
+So I'd like anyone to sort of jump in.
+
+59
+00:04:56,160 --> 00:05:04,720
+I can think about your example a little bit, not going to quite answer your question.
+
+60
+00:05:04,720 --> 00:05:09,640
+And instead, think about when lying isn't a problem, but maybe that creates the blurred
+
+61
+00:05:09,640 --> 00:05:13,120
+line of kind of when it's not a problem and when it is.
+
+62
+00:05:13,120 --> 00:05:18,800
+So if you ask most people, like, what should a person say when someone who can't change
+
+63
+00:05:18,800 --> 00:05:21,600
+us how they look in the dress, they'll say, you should lie.
+
+64
+00:05:21,600 --> 00:05:23,200
+The right thing to do is to lie.
+
+65
+00:05:23,200 --> 00:05:28,520
+And if you ask people, would you want it to be lied to if you couldn't change if there
+
+66
+00:05:28,520 --> 00:05:30,120
+was no time to institute feedback?
+
+67
+00:05:30,120 --> 00:05:32,080
+They'd say, yes, I want to be lied to.
+
+68
+00:05:32,080 --> 00:05:37,040
+And so we actually have all these implicit rules that we think a lot of lies are ethical.
+
+69
+00:05:37,040 --> 00:05:38,640
+A lot of lies can build trust.
+
+70
+00:05:38,640 --> 00:05:43,920
+A lot of lies we seek ourselves at the end of the life when we're vulnerable, when we
+
+71
+00:05:43,920 --> 00:05:45,680
+can't institute change.
+
+72
+00:05:45,680 --> 00:05:49,720
+And so there is this whole category of lies that most people agree are good.
+
+73
+00:05:49,720 --> 00:05:53,200
+And then I think maybe other people can talk to this more, right?
+
+74
+00:05:53,200 --> 00:05:56,880
+That blurs the line of then, well, when, right, when, how do we figure out when it's
+
+75
+00:05:56,880 --> 00:05:58,880
+no longer good?
+
+76
+00:05:58,880 --> 00:06:04,520
+I'll take a shot at this.
+
+77
+00:06:04,520 --> 00:06:11,640
+So a framework that I sometimes use is to think of communication as persuasion, right?
+
+78
+00:06:11,640 --> 00:06:15,160
+And so we have this idea in an democracy with a free press.
+
+79
+00:06:15,160 --> 00:06:18,280
+We should be able to persuade each other that we're right.
+
+80
+00:06:18,280 --> 00:06:22,480
+But we also have these ideas about what types of persuasion are legitimate.
+
+81
+00:06:22,480 --> 00:06:29,920
+So if you look at advertising, if you look at politics, all of these different fields
+
+82
+00:06:29,920 --> 00:06:33,560
+have sort of developed norms and sometimes laws.
+
+83
+00:06:33,560 --> 00:06:38,360
+So for example, you can't pretend to be someone else, right?
+
+84
+00:06:38,360 --> 00:06:46,320
+If you publish the same message and pretend to be a political candidate falsely, if that
+
+85
+00:06:46,320 --> 00:06:49,960
+candidate had said it, it might have been perfectly fine.
+
+86
+00:06:49,960 --> 00:06:55,400
+It's generally found upon to try to use psychological manipulation of various sorts, right?
+
+87
+00:06:55,400 --> 00:07:00,280
+So if you know something about the psychology of the person you're trying to persuade, that
+
+88
+00:07:00,280 --> 00:07:05,160
+they're perhaps not aware of, then that's considered illegitimate.
+
+89
+00:07:05,160 --> 00:07:10,520
+And so there are all these categories beyond simply speaking an untruth.
+
+90
+00:07:10,520 --> 00:07:18,640
+And many of them are fairly well developed and consistent across a lot of fields.
+
+91
+00:07:18,640 --> 00:07:19,640
+Yeah.
+
+92
+00:07:19,640 --> 00:07:27,840
+I just want to link to something that Emmett said there, which I'm Jonathan as well, to
+
+93
+00:07:27,840 --> 00:07:28,840
+extend.
+
+94
+00:07:28,840 --> 00:07:31,680
+You know, lying, there's just so many different types of them.
+
+95
+00:07:31,680 --> 00:07:35,520
+And how we categorize them, I think to some extent gets to this question of, you know,
+
+96
+00:07:35,520 --> 00:07:40,360
+who are the beneficiaries of the lie and who are the ones that are harmed?
+
+97
+00:07:40,360 --> 00:07:42,040
+So like, Emmett's totally right.
+
+98
+00:07:42,040 --> 00:07:45,840
+Like when kids start to lie, we often, some extent, think that's a good thing in certain
+
+99
+00:07:45,840 --> 00:07:46,840
+circumstances.
+
+100
+00:07:46,840 --> 00:07:48,280
+Like if they're given the present, that's terrible.
+
+101
+00:07:48,280 --> 00:07:49,640
+We want them to say, wow, thank you.
+
+102
+00:07:49,640 --> 00:07:51,400
+What a fantastic present that was, you know.
+
+103
+00:07:51,400 --> 00:07:53,760
+So that's the context where we think lying is a good thing.
+
+104
+00:07:53,760 --> 00:07:55,960
+But then there are other lies which are actually legal.
+
+105
+00:07:55,960 --> 00:08:00,760
+Like if I go in somewhere and pretend I'm a police officer, if I lie under oath, that's
+
+106
+00:08:00,760 --> 00:08:05,760
+a very clear signal of society that that is not okay because they have a law against
+
+107
+00:08:05,760 --> 00:08:06,760
+them.
+
+108
+00:08:06,760 --> 00:08:08,240
+I think the reason for that is because, you know, people are harmed by that.
+
+109
+00:08:08,240 --> 00:08:13,040
+You can potentially frame an innocent man and it has all these consequences.
+
+110
+00:08:13,040 --> 00:08:17,200
+Whereas in the present example, it's actually benefiting most people from the lie.
+
+111
+00:08:17,200 --> 00:08:21,960
+So, you know, in theory, you could take each lie on a sort of case by case, a sort of utilitarian
+
+112
+00:08:21,960 --> 00:08:26,520
+perspective and say, you know, who is getting harmed, who is benefiting from this lie, and
+
+113
+00:08:26,520 --> 00:08:30,080
+use that as a sort of measure of whether it's a good or a bad thing.
+
+114
+00:08:30,080 --> 00:08:38,840
+I'm a lawyer and I deal with the creation of lies, honest people tell honest stories
+
+115
+00:08:38,840 --> 00:08:45,960
+that I made up to achieve a certain social justice end that I perceive.
+
+116
+00:08:45,960 --> 00:08:53,200
+And if faced with the issue of whether there should be a truthful answer or an answer that
+
+117
+00:08:53,200 --> 00:09:01,400
+pursues my concept of justice, the decision from the easy one, and if you are part of
+
+118
+00:09:01,400 --> 00:09:11,680
+a system of law, which is a system of lying, and you seek to achieve a certain goal, you
+
+119
+00:09:11,680 --> 00:09:19,440
+first have to accept that that structure of that system, and then you decide what to do.
+
+120
+00:09:19,440 --> 00:09:28,080
+I just spent some time down on the border where immigrants were trying to get into the United
+
+121
+00:09:28,080 --> 00:09:38,520
+States through the Trump regime, and they will ask questions and the whole question of truth
+
+122
+00:09:38,520 --> 00:09:43,640
+and how they answered them became very significant.
+
+123
+00:09:43,640 --> 00:09:50,560
+Their lack of awareness of truths, for example, if they had been raped a year ago, then the
+
+124
+00:09:50,560 --> 00:09:57,640
+government concluded they were damaged then and should not have waited a year to come
+
+125
+00:09:57,640 --> 00:09:59,600
+into the United States.
+
+126
+00:09:59,600 --> 00:10:05,440
+If you looked at the damage, you could say the damage was there a week ago.
+
+127
+00:10:05,440 --> 00:10:11,800
+So then if you're faced with a witness like that, who's going to go before a judge, you
+
+128
+00:10:11,800 --> 00:10:17,920
+have to decide or somebody has to decide, or there has to be some input as to what that
+
+129
+00:10:17,920 --> 00:10:19,920
+witness's answer is.
+
+130
+00:10:19,920 --> 00:10:25,320
+The truth a year ago or the truth, the damage is there today.
+
+131
+00:10:25,320 --> 00:10:42,880
+There are very helpful if you would speak not to reach other, but speak to the person
+
+132
+00:10:42,880 --> 00:10:45,840
+who has farthest away from you in this room.
+
+133
+00:10:45,840 --> 00:10:49,180
+It is very difficult to understand people that you reject.
+
+134
+00:10:49,180 --> 00:10:50,140
+I'll do my best.
+
+135
+00:10:50,140 --> 00:10:54,960
+Several of the answers have suggested that there are certain times that it's a problem
+
+136
+00:10:54,960 --> 00:10:57,600
+because the law says it's a problem to lie.
+
+137
+00:10:57,600 --> 00:11:03,040
+But if you take a step back, you have to ask yourself why has the law determined that certain
+
+138
+00:11:03,040 --> 00:11:08,040
+instances is problematic to be deceptive or to not tell the truth?
+
+139
+00:11:08,040 --> 00:11:12,280
+And other times we allow it whether in the name of national security or in the name of
+
+140
+00:11:12,280 --> 00:11:14,400
+justice or in the name of something else.
+
+141
+00:11:14,400 --> 00:11:16,280
+So that's one challenge.
+
+142
+00:11:16,280 --> 00:11:20,560
+The original question was when is it a problem to lie, setting aside that bigger question
+
+143
+00:11:20,560 --> 00:11:25,280
+which maybe we'll get to, it is the case that I'm coming from the law.
+
+144
+00:11:25,280 --> 00:11:32,200
+If Honest Abe had to answer that question under oath, he can say OIV, but he has a duty to
+
+145
+00:11:32,200 --> 00:11:37,040
+do a certain thing, whereas he may strategically decide, I don't want to tell you the truth.
+
+146
+00:11:37,040 --> 00:11:45,440
+So once inside a courtroom or inside generally legal proceedings, there are some added complexities
+
+147
+00:11:45,440 --> 00:11:50,360
+that we have sort of socially determined should be there for one reason or another.
+
+148
+00:11:50,360 --> 00:11:54,200
+And we even use the word fact finder for a judge or a jury.
+
+149
+00:11:54,200 --> 00:11:58,480
+And if for instance they have to figure out whether or not Mary Todd Lincoln was obese
+
+150
+00:11:58,480 --> 00:12:02,480
+or not, they want to know all the information that they can.
+
+151
+00:12:02,480 --> 00:12:09,240
+And they rely on witnesses hopefully being at least a purporting to be honest.
+
+152
+00:12:09,240 --> 00:12:13,400
+Well it's interesting just to quickly jump back on the issue of him.
+
+153
+00:12:13,400 --> 00:12:17,360
+Abe having to answer that question under oath, of course there's another wrinkle to it which
+
+154
+00:12:17,360 --> 00:12:21,080
+is he's the only one who knows whether she looked fat.
+
+155
+00:12:21,080 --> 00:12:25,920
+So even under oath he might be able to, it's just another wrinkle.
+
+156
+00:12:25,920 --> 00:12:30,280
+I mean you're right to point out that under oath people are seen to be compelled to say
+
+157
+00:12:30,280 --> 00:12:35,360
+the truth more, but in certain instances like this one where it's a piece of private information
+
+158
+00:12:35,360 --> 00:12:40,880
+that is not shared with anyone, in this case whether or not she looked fat to him, he could
+
+159
+00:12:40,880 --> 00:12:42,960
+continue to lie even under oath.
+
+160
+00:12:42,960 --> 00:12:45,760
+So that's another wrinkle to the whole issue of lying.
+
+161
+00:12:45,760 --> 00:12:51,800
+Or he could love her so much to him she didn't look fat.
+
+162
+00:12:51,800 --> 00:13:04,160
+So we as analysts are concerned with the subjectivity of people's perception and also when are
+
+163
+00:13:04,160 --> 00:13:07,520
+they lying to themselves?
+
+164
+00:13:07,520 --> 00:13:13,520
+When are they lying to others?
+
+165
+00:13:13,520 --> 00:13:20,680
+Also with children what do we teach them and how do they learn to be truthful?
+
+166
+00:13:20,680 --> 00:13:22,000
+That's a whole other dimension.
+
+167
+00:13:22,000 --> 00:13:28,560
+We're very interested in both people's motivation for being truthful or lying and also how that
+
+168
+00:13:28,560 --> 00:13:33,520
+develops as they grow up.
+
+169
+00:13:33,520 --> 00:13:40,800
+So for instance when you ask that question about honest state it made me think about
+
+170
+00:13:40,800 --> 00:13:46,680
+the Hans Christian Andersen tale of the Emperor's new clothes where everybody said, oh these
+
+171
+00:13:46,680 --> 00:13:51,720
+clothes are absolutely magnificent and it was a little child who said, but he's naked.
+
+172
+00:13:51,720 --> 00:13:59,200
+So the little child hadn't yet learned to be an obsequious courtier and in that sense
+
+173
+00:13:59,200 --> 00:14:02,520
+he was truthful.
+
+174
+00:14:02,520 --> 00:14:06,920
+So that's a very interesting story about what we teach our little children and how do they
+
+175
+00:14:06,920 --> 00:14:11,680
+grow up to be truthful or liars.
+
+176
+00:14:11,680 --> 00:14:21,360
+And also how do they grow up to be tactful versus ruthlessly brutal in their statements
+
+177
+00:14:21,360 --> 00:14:26,440
+and there's a lot to be thought about on that.
+
+178
+00:14:26,440 --> 00:14:30,640
+One thing I think is confusing for children is one of the things we tell them is if you
+
+179
+00:14:30,640 --> 00:14:34,440
+don't have anything nice to say, don't say anything at all.
+
+180
+00:14:34,440 --> 00:14:38,080
+And there's this kind of comfort I think in the law too with this distinction between
+
+181
+00:14:38,080 --> 00:14:39,600
+omission and co-mission.
+
+182
+00:14:39,600 --> 00:14:44,280
+We can all go around not saying anything, not saying anything to my wife, changing the
+
+183
+00:14:44,280 --> 00:14:46,680
+subject, saying something, your eyes are beautiful.
+
+184
+00:14:46,680 --> 00:14:48,680
+I've never seen you look happier.
+
+185
+00:14:48,680 --> 00:14:55,480
+We can create these statements that are technically true or technically non-lies that still allow
+
+186
+00:14:55,480 --> 00:15:02,160
+a person to be deceived and that's what makes it easier for us to justify deception and
+
+187
+00:15:02,160 --> 00:15:06,520
+gauge in deception without feeling too guilty.
+
+188
+00:15:06,520 --> 00:15:10,320
+But something interesting that I've found is that targets of deception are really not
+
+189
+00:15:10,320 --> 00:15:12,080
+sensitive to these differences.
+
+190
+00:15:12,080 --> 00:15:18,200
+So I go through great mental gymnastics to figure out how do I deceive this person without
+
+191
+00:15:18,200 --> 00:15:21,920
+explicitly lying because somehow I know lying is bad.
+
+192
+00:15:21,920 --> 00:15:24,800
+But even deceived, you don't really care how I did it.
+
+193
+00:15:24,800 --> 00:15:30,560
+The victim of a deception and negotiations or the victim of even kind of false positive
+
+194
+00:15:30,560 --> 00:15:35,440
+hope doesn't care that you didn't explicitly say an untruth they care that your intention
+
+195
+00:15:35,440 --> 00:15:37,080
+was to deceive.
+
+196
+00:15:37,080 --> 00:15:40,040
+The question of intention is really interesting.
+
+197
+00:15:40,040 --> 00:15:44,680
+When I teach this, if I ask the students first thing, well, how would you define a line?
+
+198
+00:15:44,680 --> 00:15:47,760
+We get, you know, I'm sure if we went around the room 50 different answers.
+
+199
+00:15:47,760 --> 00:15:51,680
+And one of the big breaking points is whether or not intention is required.
+
+200
+00:15:51,680 --> 00:15:54,200
+And this gets to your point.
+
+201
+00:15:54,200 --> 00:15:59,600
+If one subjectively, truly, honestly believes something, but it is objectively false and
+
+202
+00:15:59,600 --> 00:16:03,840
+there's wonderful research by a number of psychologists on this point, one from Beth
+
+203
+00:16:03,840 --> 00:16:09,240
+Loftus group many decades ago now, she can implant, sort of quote unquote implant a memory
+
+204
+00:16:09,240 --> 00:16:10,880
+of seeing Bugs Bunny at Disney World.
+
+205
+00:16:10,880 --> 00:16:14,720
+And you'd never see Bugs Bunny at Disney World because, you know, at different companies
+
+206
+00:16:14,720 --> 00:16:18,960
+and these participants in the research studies will swear up and down that they remember
+
+207
+00:16:18,960 --> 00:16:21,960
+seeing Bugs Bunny at Disney World.
+
+208
+00:16:21,960 --> 00:16:26,040
+Same thing if I misremember who the fifth president of the United States, am I lying?
+
+209
+00:16:26,040 --> 00:16:27,040
+I didn't intend to, right?
+
+210
+00:16:27,040 --> 00:16:29,280
+I intended actually to give the right answer.
+
+211
+00:16:29,280 --> 00:16:31,920
+How do we categorize that?
+
+212
+00:16:31,920 --> 00:16:33,920
+And I'm sure we all have different answers for that.
+
+213
+00:16:33,920 --> 00:16:36,560
+But of course it gets to your question to begin with.
+
+214
+00:16:36,560 --> 00:16:37,560
+What is a lie?
+
+215
+00:16:37,560 --> 00:16:38,560
+Yeah.
+
+216
+00:16:38,560 --> 00:16:44,400
+I think that also gets into the idea of this difference between deception and self-deception,
+
+217
+00:16:44,400 --> 00:16:45,400
+right?
+
+218
+00:16:45,400 --> 00:16:50,800
+And there is this theory that, you know, humans and animals and even, you know, viruses have
+
+219
+00:16:50,800 --> 00:16:52,880
+evolved to self-deceive.
+
+220
+00:16:52,880 --> 00:16:57,600
+And we think the reason for that is if I wanted to deceive someone, I give off a lot of tell
+
+221
+00:16:57,600 --> 00:17:03,760
+tale signals, you know, my voice might contract, my eyes will, my pupils would dilate, my
+
+222
+00:17:03,760 --> 00:17:05,120
+fingers will start sweating.
+
+223
+00:17:05,120 --> 00:17:10,240
+So all these signals can be read if I am telling a lie with intention there.
+
+224
+00:17:10,240 --> 00:17:15,240
+But if I actually believe that lie myself, you know, if I actually believe that I'm fantastic,
+
+225
+00:17:15,240 --> 00:17:19,880
+you know, that I've got all these amazing superpowers, if I actually really believe
+
+226
+00:17:19,880 --> 00:17:23,280
+that, then those tell tale signals that I give off aren't there anymore.
+
+227
+00:17:23,280 --> 00:17:26,160
+So if that intention isn't there, then I'm better able to deceive others.
+
+228
+00:17:26,160 --> 00:17:29,480
+So there's this theory that actually we've evolved not to have that intention there in
+
+229
+00:17:29,480 --> 00:17:36,080
+some cases so that we can sort of better able to sell better versions of ourselves to others
+
+230
+00:17:36,080 --> 00:17:39,080
+around us.
+
+231
+00:17:39,080 --> 00:17:43,600
+And of course people like actors are, you know, especially good at it.
+
+232
+00:17:43,600 --> 00:17:46,960
+I don't know how many of you remember Peter Sellers.
+
+233
+00:17:46,960 --> 00:17:52,320
+He was a very wonderful comedic actor and he died rather young of heart attack.
+
+234
+00:17:52,320 --> 00:17:57,800
+And when I read his obituary in Time magazine, it was time on Newsweek, it was saying how
+
+235
+00:17:57,800 --> 00:18:01,960
+when he got into a role, couldn't get out of it.
+
+236
+00:18:01,960 --> 00:18:07,080
+He had this kind of a little bit of a quality of as if, what we call as if personality in
+
+237
+00:18:07,080 --> 00:18:09,720
+our language.
+
+238
+00:18:09,720 --> 00:18:11,360
+He just couldn't get out of it.
+
+239
+00:18:11,360 --> 00:18:19,160
+And he was superb at it.
+
+240
+00:18:19,160 --> 00:18:22,960
+Also if you talk about young children, they're so suggestible.
+
+241
+00:18:22,960 --> 00:18:32,720
+So this is kind of a tricky subject that also has connections with the law, which is for
+
+242
+00:18:32,720 --> 00:18:37,400
+instance young children who are molested.
+
+243
+00:18:37,400 --> 00:18:40,960
+And you know, since I'm a psychiatrist, a psychoanalyst, worked with kids, the whole
+
+244
+00:18:40,960 --> 00:18:47,720
+issue of truth and falsehood in the area of trauma is something that's of a great interest
+
+245
+00:18:47,720 --> 00:18:48,720
+to me.
+
+246
+00:18:48,720 --> 00:18:54,720
+So we have an old analyst, Farron C, from a long time ago who wrote a paper about, it's
+
+247
+00:18:54,720 --> 00:19:00,640
+called Confusion of Tongues Between Adults and Children.
+
+248
+00:19:00,640 --> 00:19:06,360
+And one of the things that he describes very eloquently is the way when children are molested,
+
+249
+00:19:06,360 --> 00:19:12,160
+that's a young child, often the perpetrator is someone like an uncle or someone in a family
+
+250
+00:19:12,160 --> 00:19:17,080
+who knows the kid and says, oh, this will be our little secret.
+
+251
+00:19:17,080 --> 00:19:18,080
+Don't tell anybody.
+
+252
+00:19:18,080 --> 00:19:23,520
+So not only does the child have the trauma, but they also then have the burden of secrecy
+
+253
+00:19:23,520 --> 00:19:29,840
+and kind of borrowing the guilt of the grown-up and having to collude with them.
+
+254
+00:19:29,840 --> 00:19:32,920
+And so it's really terrible.
+
+255
+00:19:32,920 --> 00:19:38,720
+And then, because we're analysts, when it comes up in the analytic situation, it gets
+
+256
+00:19:38,720 --> 00:19:43,960
+very complicated because these feelings get revived in the treatment and then they're
+
+257
+00:19:43,960 --> 00:19:47,160
+not sure about, well, can I trust the analysts?
+
+258
+00:19:47,160 --> 00:19:48,800
+Are they going to do bad things to me?
+
+259
+00:19:48,800 --> 00:19:53,480
+So the whole thing gets recreated in that situation.
+
+260
+00:19:53,480 --> 00:19:57,680
+So anyway, that's just, it's a very complicated matter.
+
+261
+00:19:57,680 --> 00:20:05,240
+And a lot of people get caught up with trying to figure out, well, there was a scandal, for
+
+262
+00:20:05,240 --> 00:20:09,840
+instance, in the late 80s, I think, where all these nursery school teachers were accused
+
+263
+00:20:09,840 --> 00:20:11,800
+of molesting little children.
+
+264
+00:20:11,800 --> 00:20:16,320
+And to this day, we don't really know whether that was true or not because the way that
+
+265
+00:20:16,320 --> 00:20:22,600
+children were interviewed by the cops who were not terribly knowledgeable about child
+
+266
+00:20:22,600 --> 00:20:30,240
+development was so suggestive that the kids complied and they said, yes, yes, these things
+
+267
+00:20:30,240 --> 00:20:36,760
+happened and we don't know.
+
+268
+00:20:36,760 --> 00:20:41,600
+So when it comes to, just one other point about this, when it comes to truthfulness,
+
+269
+00:20:41,600 --> 00:20:51,240
+I think that especially children at the age of five or six are very malleable about what,
+
+270
+00:20:51,240 --> 00:20:56,920
+not because they can't perceive the difference between truth and untruth, but because there's
+
+271
+00:20:56,920 --> 00:21:02,240
+so much at the mercy of the authorities either because of their wish for love or fear of
+
+272
+00:21:02,240 --> 00:21:04,520
+punishment.
+
+273
+00:21:04,520 --> 00:21:12,040
+So it's always very problematic to put a young child on the witness stand or to rely on the
+
+274
+00:21:12,040 --> 00:21:17,800
+testimony of a young child unless you understand who it is that has kind of, if you will, brainwash
+
+275
+00:21:17,800 --> 00:21:18,800
+them.
+
+276
+00:21:18,800 --> 00:21:26,280
+But anyway, if you extrapolate that to more suggestive malleable personalities, then some
+
+277
+00:21:26,280 --> 00:21:28,240
+grownups can be like that too.
+
+278
+00:21:28,240 --> 00:21:36,600
+People talk about PTSD, Stockholm syndrome, people who as adults are very brainwashed to
+
+279
+00:21:36,600 --> 00:21:40,680
+tell whatever they're supposed to tell.
+
+280
+00:21:40,680 --> 00:21:47,560
+And then of course other people who are much stronger and don't give in.
+
+281
+00:21:47,560 --> 00:21:50,360
+So there is a question of coercion when it comes to lying.
+
+282
+00:21:50,360 --> 00:21:53,280
+Okay, that's a whole topic now.
+
+283
+00:21:53,280 --> 00:22:04,200
+Well, if there's a, let's say there's a tendency in terms of natural selection towards suggestibility
+
+284
+00:22:04,200 --> 00:22:11,280
+or self-deception, I would imagine it's not something, well, I believe it's not something
+
+285
+00:22:11,280 --> 00:22:17,320
+that everyone has inherited equally, that there are people more suggestible and less
+
+286
+00:22:17,320 --> 00:22:22,760
+and there are people who are better at suppressing or not having those feelings that often are
+
+287
+00:22:22,760 --> 00:22:25,560
+associated with telling lies.
+
+288
+00:22:25,560 --> 00:22:31,520
+And in the extreme, think of psychopaths as being very, you know, not responding to lies
+
+289
+00:22:31,520 --> 00:22:36,960
+and telling lies without any sort of physiological effect.
+
+290
+00:22:36,960 --> 00:22:40,840
+So what do you think about the idea that there may be different types of people that we could
+
+291
+00:22:40,840 --> 00:22:42,320
+sort people in this regard?
+
+292
+00:22:42,320 --> 00:22:47,840
+That's a great question, maybe I can mention a study that I've done that maybe speaks
+
+293
+00:22:47,840 --> 00:22:49,720
+to this point to some extent.
+
+294
+00:22:49,720 --> 00:22:56,240
+So I'm a cognitive neuroscientist and we run a lot of experiments in the lab where we actually
+
+295
+00:22:56,240 --> 00:23:02,360
+can see how willing people are to be dishonest to someone else.
+
+296
+00:23:02,360 --> 00:23:07,600
+And what we've looked at is how this changes over time and how it varies with people's
+
+297
+00:23:07,600 --> 00:23:11,200
+emotional reaction when they choose to be dishonest.
+
+298
+00:23:11,200 --> 00:23:15,720
+So we're able to measure their emotional reaction by using one of these machines called an
+
+299
+00:23:15,720 --> 00:23:20,960
+FMRI scanner so that can show you in brain regions associated with emotion what your
+
+300
+00:23:20,960 --> 00:23:23,600
+emotional reaction is when you choose to be dishonest.
+
+301
+00:23:23,600 --> 00:23:28,560
+And what we found in our study was quite interesting, we found that first of all people
+
+302
+00:23:28,560 --> 00:23:33,040
+started being dishonest by a small amount and when they were being dishonest by a small
+
+303
+00:23:33,040 --> 00:23:38,920
+amount in those early days and they had a really strong emotional reaction in brain
+
+304
+00:23:38,920 --> 00:23:43,680
+areas like the amygdala for example which we know is important for emotional processing.
+
+305
+00:23:43,680 --> 00:23:47,840
+But as we gave people more and more opportunities to be dishonest we saw that the emotional
+
+306
+00:23:47,840 --> 00:23:54,680
+response decreased and we saw that they're lying subsequently increased as a consequence.
+
+307
+00:23:54,680 --> 00:23:59,040
+And that's consistent with other studies that have shown that emotion is really important
+
+308
+00:23:59,040 --> 00:24:02,560
+for sort of governing how dishonest we're willing to be.
+
+309
+00:24:02,560 --> 00:24:09,840
+So for example if you give students beta blockers which is a type of pill which lowers
+
+310
+00:24:09,840 --> 00:24:14,680
+your emotional response cheating will increase on a test that you give those students because
+
+311
+00:24:14,680 --> 00:24:18,760
+when that emotion is not there sort of restricting people's dishonesty it seems that people
+
+312
+00:24:18,760 --> 00:24:21,280
+are more willing to be dishonest as a result.
+
+313
+00:24:21,280 --> 00:24:25,200
+So we think emotion is really important for governing how dishonest people are willing
+
+314
+00:24:25,200 --> 00:24:28,560
+to be and that really speaks to this point of individual differences.
+
+315
+00:24:28,560 --> 00:24:33,360
+Some people whether it's by nature or by nurture you know just have stronger emotional
+
+316
+00:24:33,360 --> 00:24:37,760
+responses than other people and that allows them to be more dishonest than others.
+
+317
+00:24:37,760 --> 00:24:42,040
+But one of these sort of I suppose alarming points of our study is that this emotional
+
+318
+00:24:42,040 --> 00:24:48,400
+response seems to decrease in everyone through a process which we know a brain process called
+
+319
+00:24:48,400 --> 00:24:49,400
+adaptation.
+
+320
+00:24:49,400 --> 00:24:54,800
+So that's a process we know that happens with lots of sensory information for example so
+
+321
+00:24:54,800 --> 00:24:59,920
+with smells you know if you buy a new perfume for example you might initially put a couple
+
+322
+00:24:59,920 --> 00:25:04,560
+of drops on and you'll smell it really really strongly okay but after a few days you won't
+
+323
+00:25:04,560 --> 00:25:08,240
+smell it as much so you need to put a bit more on right.
+
+324
+00:25:08,240 --> 00:25:11,800
+Emotions do the same thing so when we start off being dishonest we have a really strong
+
+325
+00:25:11,800 --> 00:25:16,800
+emotional response but through this act of repetition this emotional response will automatically
+
+326
+00:25:16,800 --> 00:25:21,440
+adapt it will decrease and as a result we can be more dishonest as a consequence.
+
+327
+00:25:21,440 --> 00:25:25,600
+So I suggest if you just put people in a context where you give them lots and lots of opportunities
+
+328
+00:25:25,600 --> 00:25:30,320
+to be dishonest even if they initially have a very strong emotional reaction to that and
+
+329
+00:25:30,320 --> 00:25:33,960
+that will sort of stop them being very dishonest in that situation.
+
+330
+00:25:33,960 --> 00:25:37,560
+By giving them lots and lots of opportunities this process of emotional adaptation would
+
+331
+00:25:37,560 --> 00:25:41,960
+take place and there's a good chance that they're dishonest we will increase as a consequence
+
+332
+00:25:41,960 --> 00:25:42,960
+of that.
+
+333
+00:25:42,960 --> 00:25:52,320
+So if you feel the more you like the more you will like.
+
+334
+00:25:52,320 --> 00:25:53,320
+Exactly yes yes.
+
+335
+00:25:53,320 --> 00:25:57,840
+It feels to me that we are sort of inevitably circling around the idea of truth and so I
+
+336
+00:25:57,840 --> 00:26:03,840
+wanted to maybe say a couple things about that.
+
+337
+00:26:03,840 --> 00:26:11,840
+There's this idea of an epistemic virtue that is virtues or rules of thumb or moral commandments
+
+338
+00:26:11,840 --> 00:26:14,920
+that deal with knowledge.
+
+339
+00:26:14,920 --> 00:26:19,680
+So the most concise statement of this is I only want to believe those things which are
+
+340
+00:26:19,680 --> 00:26:24,040
+true but then we have the problem of well okay how do we determine whether something
+
+341
+00:26:24,040 --> 00:26:30,840
+is true and as the flyer for this is pointed out we mostly rely on second hand knowledge.
+
+342
+00:26:30,840 --> 00:26:35,280
+I and my colleagues are in the business of producing this sort of second hand knowledge
+
+343
+00:26:35,280 --> 00:26:43,920
+and it's kind of a complicated process right there are standards for reporting.
+
+344
+00:26:43,920 --> 00:26:48,320
+There are so I do a lot of work with statistics and data.
+
+345
+00:26:48,320 --> 00:26:53,000
+There are all sorts of issues about the validity of statistics and the sorts of analyses that
+
+346
+00:26:53,000 --> 00:26:55,000
+you do.
+
+347
+00:26:55,000 --> 00:27:01,760
+There's the issue of reputation so you know part of why you should believe what I write
+
+348
+00:27:01,760 --> 00:27:07,480
+is because I was right last time or maybe because you haven't heard of me being wrong
+
+349
+00:27:07,480 --> 00:27:13,080
+which is not quite the same thing and then there's transparency.
+
+350
+00:27:13,080 --> 00:27:18,840
+Part of how I can build trust with you hopefully is to let you in on my process.
+
+351
+00:27:18,840 --> 00:27:21,680
+What are my reasons for believing this is true?
+
+352
+00:27:21,680 --> 00:27:26,040
+So you know in the in the era of the internet this has actually gotten a lot easier.
+
+353
+00:27:26,040 --> 00:27:30,040
+I can do something like link to the court filings that I'm basing my story on.
+
+354
+00:27:30,040 --> 00:27:36,320
+I could maybe include an audio recording of an interview if the source will consent to
+
+355
+00:27:36,320 --> 00:27:39,760
+that.
+
+356
+00:27:39,760 --> 00:27:46,200
+But a lot of the time it sort of has to come down to reputation because it's difficult
+
+357
+00:27:46,200 --> 00:27:49,800
+to put that whole process in a story.
+
+358
+00:27:49,800 --> 00:27:55,040
+If you're doing a complicated statistical analysis most people aren't going to be technically
+
+359
+00:27:55,040 --> 00:27:59,000
+equipped to go through that line by line anyway.
+
+360
+00:27:59,000 --> 00:28:05,240
+And there are many important stories that can only be got by anonymous sourcing.
+
+361
+00:28:05,240 --> 00:28:10,360
+So people won't tell you certain things unless you can guarantee to keep their name out of
+
+362
+00:28:10,360 --> 00:28:12,600
+it.
+
+363
+00:28:12,600 --> 00:28:17,680
+And I think every field has some complicated construction of truth.
+
+364
+00:28:17,680 --> 00:28:22,720
+You know why should we believe what a lawyer argues at trial?
+
+365
+00:28:22,720 --> 00:28:26,480
+Why should we believe what you say in your paper?
+
+366
+00:28:26,480 --> 00:28:33,320
+The processes by which we actually produce these truths remain opaque.
+
+367
+00:28:33,320 --> 00:28:37,920
+And this is almost a definition of truth for me.
+
+368
+00:28:37,920 --> 00:28:42,520
+Rather than asking about in some abstract way is this true or not.
+
+369
+00:28:42,520 --> 00:28:49,200
+I try to ask what is the process by which this community decides what is true.
+
+370
+00:28:49,200 --> 00:28:51,120
+And so that's one way of getting at it.
+
+371
+00:28:51,120 --> 00:28:55,920
+And you know that can go wrong in a lot of ways right?
+
+372
+00:28:55,920 --> 00:28:59,360
+There's self-deception in every field.
+
+373
+00:28:59,360 --> 00:29:01,000
+What about bias?
+
+374
+00:29:01,000 --> 00:29:04,800
+I knew you were going to ask me this eventually.
+
+375
+00:29:04,800 --> 00:29:06,280
+Yeah, yeah.
+
+376
+00:29:06,280 --> 00:29:11,160
+One of the challenges with the whole topic of media bias is that there isn't really a
+
+377
+00:29:11,160 --> 00:29:14,040
+ground truth.
+
+378
+00:29:14,040 --> 00:29:18,160
+Of course articles can have factual errors.
+
+379
+00:29:18,160 --> 00:29:23,200
+But as anyone who's gotten into this fight knows there are a number of problems with
+
+380
+00:29:23,200 --> 00:29:26,920
+trying to distinguish back from opinion.
+
+381
+00:29:26,920 --> 00:29:31,440
+And there are a number of problems with deciding which facts are relevant.
+
+382
+00:29:31,440 --> 00:29:38,960
+So you know to take this really glaring example right?
+
+383
+00:29:38,960 --> 00:29:42,240
+You might be talking with someone who says you know Trump is terribly racist.
+
+384
+00:29:42,240 --> 00:29:47,000
+Okay well what has he done that's racist and you will get a list of things that he's
+
+385
+00:29:47,000 --> 00:29:48,520
+done or said.
+
+386
+00:29:48,520 --> 00:29:51,600
+And then you'll just get into an argument about whether those things are racist or not.
+
+387
+00:29:51,600 --> 00:29:55,880
+So you're not really contesting the facts at that point.
+
+388
+00:29:55,880 --> 00:30:02,920
+So media bias suffers from this problem of you, it's very difficult to establish a ground
+
+389
+00:30:02,920 --> 00:30:06,840
+truth of sort of what objective journalism looks like.
+
+390
+00:30:06,840 --> 00:30:13,920
+Having said that, what you can do is you can do analyses of political leaning.
+
+391
+00:30:13,920 --> 00:30:20,680
+So does this story talk about a subject in a way that a left-wing person would talk about
+
+392
+00:30:20,680 --> 00:30:24,680
+it or does it talk about it in the way that a right-wing person would.
+
+393
+00:30:24,680 --> 00:30:28,560
+And you can do this in various ways such as for example frame analysis right?
+
+394
+00:30:28,560 --> 00:30:38,120
+So if you have a story about poverty to generalize greatly on the left it's considered to be
+
+395
+00:30:38,120 --> 00:30:42,960
+a societal problem or the fault of the environment in which the person grew up on the right it's
+
+396
+00:30:42,960 --> 00:30:47,760
+more commonly considered to be you know they're lazy or they weren't educated enough or so
+
+397
+00:30:47,760 --> 00:30:48,760
+on.
+
+398
+00:30:48,760 --> 00:30:53,480
+So you can do these types of things and when you do them you find the results are very
+
+399
+00:30:53,480 --> 00:30:54,600
+unsurprising right?
+
+400
+00:30:54,600 --> 00:30:59,760
+You find that the New York Times is slightly left of center and you know Fox is farther
+
+401
+00:30:59,760 --> 00:31:05,840
+to the right and you know MSNBC is farther to the left and it's not really a shock.
+
+402
+00:31:05,840 --> 00:31:11,280
+So I think we can all perceive these political biases already.
+
+403
+00:31:11,280 --> 00:31:15,800
+I'm beginning to wonder if maybe we're asking the wrong questions about media bias.
+
+404
+00:31:15,800 --> 00:31:20,560
+I mean beyond the sort of straightforward factual issues which admittedly sometimes
+
+405
+00:31:20,560 --> 00:31:23,920
+is a problem.
+
+406
+00:31:23,920 --> 00:31:31,520
+I wonder if we are a lot of the conversation around media bias is sort of a proxy for
+
+407
+00:31:31,520 --> 00:31:39,240
+the hope that media figures will wage our political battles for us which depending on
+
+408
+00:31:39,240 --> 00:31:42,760
+your theory of journalism either is or is not their job.
+
+409
+00:31:42,760 --> 00:31:46,080
+Yeah, interesting.
+
+410
+00:31:46,080 --> 00:31:53,480
+So maybe I can sort of ask a provocative question related to that is do you think truth is sort
+
+411
+00:31:53,480 --> 00:32:01,480
+of under threat because you know you used to have these select media heavyweights you
+
+412
+00:32:01,480 --> 00:32:05,320
+know that have that reputation attached to them you know these certain papers certain
+
+413
+00:32:05,320 --> 00:32:09,920
+TV channels are provided news but now the barriers to entry of entering this world are
+
+414
+00:32:09,920 --> 00:32:11,880
+like plummeted right with the internet.
+
+415
+00:32:11,880 --> 00:32:16,000
+So there's just so many sources out there like the reputation things sort of dissolve
+
+416
+00:32:16,000 --> 00:32:17,000
+to some extent.
+
+417
+00:32:17,000 --> 00:32:19,200
+Do you think that's a problem?
+
+418
+00:32:19,200 --> 00:32:27,240
+I think we are at a very interesting moment for authority and trust and so am I interested
+
+419
+00:32:27,240 --> 00:32:30,360
+to hear about your trust research.
+
+420
+00:32:30,360 --> 00:32:31,840
+So I can say a couple things.
+
+421
+00:32:31,840 --> 00:32:35,880
+So trust in journalism is at a historic low.
+
+422
+00:32:35,880 --> 00:32:43,600
+We started decreasing before the transformation of the internet so the 1970s and no one really
+
+423
+00:32:43,600 --> 00:32:47,840
+is quite sure why of course there's various theories.
+
+424
+00:32:47,840 --> 00:32:52,960
+Trust in American institutions in general is at historic lows at this point so maybe
+
+425
+00:32:52,960 --> 00:32:56,520
+just piggybacks off that.
+
+426
+00:32:56,520 --> 00:33:00,720
+For a long time one of the classic critiques of media was that it's just a few powerful
+
+427
+00:33:00,720 --> 00:33:03,360
+people and they're not really representative.
+
+428
+00:33:03,360 --> 00:33:09,680
+So we wanted to tear down the gatekeepers and we did and now we're I think relearning
+
+429
+00:33:09,680 --> 00:33:18,120
+the role of gatekeeper and what sort of value they provided.
+
+430
+00:33:18,120 --> 00:33:19,360
+I'm optimistic actually.
+
+431
+00:33:19,360 --> 00:33:22,600
+I think a lot of people are pessimistic about the concept of truth.
+
+432
+00:33:22,600 --> 00:33:28,680
+I'm more optimistic than that and I think in part that's because I have a certain amount
+
+433
+00:33:28,680 --> 00:33:34,560
+of professional visibility into the institutional processes that are springing up to try to
+
+434
+00:33:34,560 --> 00:33:35,560
+combat this.
+
+435
+00:33:35,560 --> 00:33:43,240
+So for example the Wall Street Journal has a 21 person team to deal with AI generated
+
+436
+00:33:43,240 --> 00:33:44,760
+fake imagery.
+
+437
+00:33:44,760 --> 00:33:48,520
+They don't do this every day but they have their community of experts and they have
+
+438
+00:33:48,520 --> 00:33:50,080
+their policies and standards.
+
+439
+00:33:50,080 --> 00:33:56,360
+So I have a very privileged position in some way and that I get to see the way that various
+
+440
+00:33:56,360 --> 00:34:03,160
+types of media and technology institutions are gearing up to deal with these problems.
+
+441
+00:34:03,160 --> 00:34:10,080
+And I don't know if that will be successful or what even success would look like but I
+
+442
+00:34:10,080 --> 00:34:12,240
+can tell you that there is a response.
+
+443
+00:34:12,240 --> 00:34:17,120
+It has become a field of endeavor.
+
+444
+00:34:17,120 --> 00:34:23,000
+Just thinking about this idea of trust I think it's complicated because many of us think
+
+445
+00:34:23,000 --> 00:34:27,200
+about trust and truth as intrinsically linked but for lots of people they're not.
+
+446
+00:34:27,200 --> 00:34:32,400
+So I can trust you and want to affiliate with you because you make me feel good.
+
+447
+00:34:32,400 --> 00:34:37,480
+You give me the content that I want to hear that supports my worldview even if I recognize
+
+448
+00:34:37,480 --> 00:34:38,680
+it might not be truthful.
+
+449
+00:34:38,680 --> 00:34:45,960
+So we can choose friends and engage in partner selection around beliefs about loyalty and
+
+450
+00:34:45,960 --> 00:34:50,880
+emotion and benevolence like whether this person supports us that have nothing to do
+
+451
+00:34:50,880 --> 00:34:51,880
+with truth.
+
+452
+00:34:51,880 --> 00:34:56,560
+I think that's relevant to how we think about media and how we think about choice of leaders
+
+453
+00:34:56,560 --> 00:35:03,160
+too is there might be a recognition that maybe this isn't truthful but what I look for I
+
+454
+00:35:03,160 --> 00:35:07,760
+think it's hard for many to believe in news but in a leader is not necessarily truth.
+
+455
+00:35:07,760 --> 00:35:13,280
+It's other things that are important to living the life that I want to live and that can drive
+
+456
+00:35:13,280 --> 00:35:18,040
+trust nearly as much sometimes more than a belief and honesty.
+
+457
+00:35:18,040 --> 00:35:26,640
+I think an old and very interesting piece of literature that addresses these concerns
+
+458
+00:35:26,640 --> 00:35:33,880
+that's worth revisiting is 1984 which I read sometime within the last couple of years and
+
+459
+00:35:33,880 --> 00:35:44,920
+it's fascinating because the protagonist you know it's sort of negative utopia there
+
+460
+00:35:44,920 --> 00:35:50,320
+they're trying to hide the truth rather than but they do it in a very systematic propaganda
+
+461
+00:35:50,320 --> 00:35:56,760
+way and he's trying to figure out who he can trust in this place of profound mistrust and
+
+462
+00:35:56,760 --> 00:36:03,640
+the person who he thinks maybe has a common thinking with him ends up being the person
+
+463
+00:36:03,640 --> 00:36:09,360
+who's trying to get him to betray himself and then eventually gets brainwashed.
+
+464
+00:36:09,360 --> 00:36:17,000
+I mean it is a pretty gory story but it's kind of a real illustration of how desperately
+
+465
+00:36:17,000 --> 00:36:22,640
+people want to have that sense of someone they can look up to and connection and how
+
+466
+00:36:22,640 --> 00:36:28,720
+that can then be misused and exploited.
+
+467
+00:36:28,720 --> 00:36:37,440
+I know it was written a long time ago but I think it's pertinent perhaps not so much
+
+468
+00:36:37,440 --> 00:36:44,840
+to our place but just to think that such things exist and I don't really know what's going
+
+469
+00:36:44,840 --> 00:36:53,040
+on in China for instance and how much is it still the way they try to block things to
+
+470
+00:36:53,040 --> 00:36:59,760
+have one official message and everything else gets forcefully suppressed and so forth.
+
+471
+00:36:59,760 --> 00:37:05,160
+Don't you think people still can make a distinction between someone they might like or want to
+
+472
+00:37:05,160 --> 00:37:12,920
+affiliate with or who's perhaps minor lies they can abide by with someone that they can
+
+473
+00:37:12,920 --> 00:37:18,840
+recognize in distinction of that people who are really truth tellers.
+
+474
+00:37:18,840 --> 00:37:23,200
+Like for example I can recognize when I like to think and recognize when a story is fair
+
+475
+00:37:23,200 --> 00:37:28,520
+and unbalanced and balanced rather and I can recognize when I think it's biased and I
+
+476
+00:37:28,520 --> 00:37:35,040
+think people make those distinctions I'm not so sure the public is concerned to make those
+
+477
+00:37:35,040 --> 00:37:36,760
+distinctions that large.
+
+478
+00:37:36,760 --> 00:37:43,320
+Yeah I think it depends I mean coming back to this trust versus truthfulness so that's
+
+479
+00:37:43,320 --> 00:37:48,040
+a really key distinction that's made in a book that's come out recently by Steve Martin
+
+480
+00:37:48,040 --> 00:37:54,920
+and Joe Marx and they talk about the US president you know like among his supporters he's not
+
+481
+00:37:54,920 --> 00:37:59,400
+seen as someone who's very truthful but they really feel that they can trust him because
+
+482
+00:37:59,400 --> 00:38:03,000
+he in a lot of ways he has delivered on what he said he would you know he has tried to
+
+483
+00:38:03,000 --> 00:38:07,960
+build a wall he has lowered taxes he has made it difficult for people from Muslim countries
+
+484
+00:38:07,960 --> 00:38:13,400
+to get in here so they in a way they don't mind his dishonesty I think if it's serving
+
+485
+00:38:13,400 --> 00:38:18,540
+their cause I think that's true in general of dishonesty it's not how we judge it is
+
+486
+00:38:18,540 --> 00:38:22,520
+depending on what it's sort of doing for us and I think that's probably true of media
+
+487
+00:38:22,520 --> 00:38:28,360
+bias as well like you know there's a whole field of motivated reasoning you know in some
+
+488
+00:38:28,360 --> 00:38:32,440
+ways we probably quite enjoy reading media that we think is biased if it's biased in
+
+489
+00:38:32,440 --> 00:38:39,880
+a direction that suits our view of the world that we want to believe and buy into.
+
+490
+00:38:39,880 --> 00:38:41,880
+Audience metric supports that view.
+
+491
+00:38:41,880 --> 00:38:47,600
+Yeah I mean this is this is part of what's happened is that the lower lowering of the
+
+492
+00:38:47,600 --> 00:38:52,440
+barriers to entry have made it possible for media to specialize and so if you just had
+
+493
+00:38:52,440 --> 00:38:58,200
+you know if you have three cable news networks if you have to decide whether ABC goes left
+
+494
+00:38:58,200 --> 00:39:03,040
+or right you lose half your audience but now you can be the left wing outlet or you can
+
+495
+00:39:03,040 --> 00:39:07,440
+be the right wing outlet or you can be the like housewives of Arkansas outlet right where
+
+496
+00:39:07,440 --> 00:39:13,960
+we're in an era of niche media which has led to a proliferation of choice in terms of political
+
+497
+00:39:13,960 --> 00:39:14,960
+orientation.
+
+498
+00:39:14,960 --> 00:39:20,800
+You know it's interesting from the law side so our center for law brain and behavior thinks
+
+499
+00:39:20,800 --> 00:39:27,240
+a lot about the role of new science and technology in helping potentially to achieve more truthful
+
+500
+00:39:27,240 --> 00:39:28,240
+and just outcomes.
+
+501
+00:39:28,240 --> 00:39:32,440
+I think one of the success stories in law is the introduction of DNA evidence over the
+
+502
+00:39:32,440 --> 00:39:39,840
+last 15 to 20 years and the precursor to that is to say that unlike some other fields where
+
+503
+00:39:39,840 --> 00:39:45,400
+there is I think a sense that the goal is if it goes into print it's as best you can
+
+504
+00:39:45,400 --> 00:39:48,160
+do the truth I suspect right.
+
+505
+00:39:48,160 --> 00:39:53,200
+We take an adversarial model in the law and we teach our students to write a persuasive
+
+506
+00:39:53,200 --> 00:39:58,080
+set of facts and share when you're in front of you tell facts and the other side tells
+
+507
+00:39:58,080 --> 00:40:02,520
+facts and they're honest and yet listening to them it sounds like two completely different
+
+508
+00:40:02,520 --> 00:40:08,840
+things happen and we actually embrace that and the idea is that we'll have it out proceed
+
+509
+00:40:08,840 --> 00:40:13,200
+with these procedural rules in the courtroom and act the fact finder will have to sort of
+
+510
+00:40:13,200 --> 00:40:14,200
+sift between the two.
+
+511
+00:40:14,200 --> 00:40:17,680
+The equivalent of saying you have to sit for an hour and watch Fox News an hour and watch
+
+512
+00:40:17,680 --> 00:40:21,360
+MSNBC and then you make your decision.
+
+513
+00:40:21,360 --> 00:40:24,760
+One other interesting thing about law is thinking about it when you're mentioning anonymous
+
+514
+00:40:24,760 --> 00:40:29,120
+sourcing it's the it's really opposite in law and especially in a criminal case where
+
+515
+00:40:29,120 --> 00:40:33,200
+there's something called a front confrontation clause a right to confront your accuser and
+
+516
+00:40:33,200 --> 00:40:35,160
+look at your accuser in the eyes.
+
+517
+00:40:35,160 --> 00:40:38,880
+It's one of the problems when a witness dies a key witness dies you often can't go forward
+
+518
+00:40:38,880 --> 00:40:42,240
+with the case because that person has to appear in the courtroom.
+
+519
+00:40:42,240 --> 00:40:44,840
+It's a really interesting way to get that truth.
+
+520
+00:40:44,840 --> 00:40:48,480
+I'll just leave you with this quote it comes from a Supreme Court case on the issue that
+
+521
+00:40:48,480 --> 00:40:52,360
+had to do with whether or not we should introduce the polygraph in the court proceedings.
+
+522
+00:40:52,360 --> 00:40:56,520
+The polygraph by the use is by the way is used routinely in police investigations but it's
+
+523
+00:40:56,520 --> 00:41:02,960
+not typically admissible in the courtroom and just as Thomas said the jury is the lie detector.
+
+524
+00:41:02,960 --> 00:41:07,920
+It's an interesting thing to think about the jury is the lie detector.
+
+525
+00:41:07,920 --> 00:41:14,920
+Let's just say that what I do is I try jury case so I let's say try hundreds of them and
+
+526
+00:41:14,920 --> 00:41:21,040
+one of the most interesting explorations is speaking to a jury after you've tried a case
+
+527
+00:41:21,040 --> 00:41:26,480
+and seeing what they heard and what they've evaluated and it's a place in the country
+
+528
+00:41:26,480 --> 00:41:33,720
+where the people are relatively responsible for their own lives within government and
+
+529
+00:41:33,720 --> 00:41:40,680
+they can make important decisions about their lives and they are trusted with the responsibility
+
+530
+00:41:40,680 --> 00:41:48,280
+of making decisions to prove that the lives are deaths of people who are before them.
+
+531
+00:41:48,280 --> 00:41:55,560
+So you have this creation of a truth seeking system which is as good as anything else and
+
+532
+00:41:55,560 --> 00:42:07,200
+the extent to which it's perverted or supported is fascinating and the ways in which you learn
+
+533
+00:42:07,200 --> 00:42:15,920
+to support it or pervert it is fascinating.
+
+534
+00:42:15,920 --> 00:42:22,640
+How much of the social networks, how much influence does that have?
+
+535
+00:42:22,640 --> 00:42:29,080
+I'm often biased in asking the question this way in perverting that effort to establish
+
+536
+00:42:29,080 --> 00:42:30,720
+the truth widely.
+
+537
+00:42:30,720 --> 00:42:35,880
+The jury's come in with extraordinary biases.
+
+538
+00:42:35,880 --> 00:42:42,000
+Your job as a lawyer is to find out those people whose biases are yours.
+
+539
+00:42:42,000 --> 00:42:43,000
+The ones you want.
+
+540
+00:42:43,000 --> 00:42:50,800
+Your job as a lawyer is to find out which people you can influence either by being truthful
+
+541
+00:42:50,800 --> 00:42:53,120
+or untruthful.
+
+542
+00:42:53,120 --> 00:43:03,200
+So the effect of the media is in there every second of every court day.
+
+543
+00:43:03,200 --> 00:43:14,400
+I tried a case recently in Miami involving Cubans and politics in Miami.
+
+544
+00:43:14,400 --> 00:43:20,440
+So we had to and I represented someone in New York years ago called Cathy Boudin which
+
+545
+00:43:20,440 --> 00:43:22,520
+was a murder case here.
+
+546
+00:43:22,520 --> 00:43:25,280
+Which was a murder case years ago.
+
+547
+00:43:25,280 --> 00:43:31,840
+And the question of trying to rid the jury of biases.
+
+548
+00:43:31,840 --> 00:43:34,520
+A fascinating thing, I'll just tell you one story.
+
+549
+00:43:34,520 --> 00:43:40,720
+There was a case in Harrisburg and it happened to be so legal, the Berrigan case which was
+
+550
+00:43:40,720 --> 00:43:43,600
+tried a long time ago.
+
+551
+00:43:43,600 --> 00:43:53,880
+It was priests who had put blood on weapons of war and they were being prosecuted.
+
+552
+00:43:53,880 --> 00:44:04,640
+And one of the jurors was a woman who was whose son had been jailed because she believed,
+
+553
+00:44:04,640 --> 00:44:11,840
+as the defendants in this case, that the war was horrible and there are certain things
+
+554
+00:44:11,840 --> 00:44:14,360
+you should do with respect to it.
+
+555
+00:44:14,360 --> 00:44:20,520
+So she was the perfect juror for us and we did everything we could to keep her on and
+
+556
+00:44:20,520 --> 00:44:24,400
+they did everything they could to knock her off.
+
+557
+00:44:24,400 --> 00:44:33,040
+At the end of the case, the defendants were convicted in large part because of this woman.
+
+558
+00:44:33,040 --> 00:44:40,600
+And we then sat down with her and she was gracious enough to allow us to have her examined by
+
+559
+00:44:40,600 --> 00:44:43,800
+psychologist, psychiatrist.
+
+560
+00:44:43,800 --> 00:44:48,760
+And what really happened is that she was furious at these defendants because her son
+
+561
+00:44:48,760 --> 00:44:51,760
+was in jail.
+
+562
+00:44:51,760 --> 00:45:00,240
+I think coming back to you as a question about social media, I think one sort of problematic
+
+563
+00:45:00,240 --> 00:45:07,040
+aspect of it is it just is making spreading dishonesty easier in lots of different ways.
+
+564
+00:45:07,040 --> 00:45:12,760
+So coming back to this idea of emotion, if I'm actually being dishonest to someone in
+
+565
+00:45:12,760 --> 00:45:15,480
+person, I'm going to probably feel quite bad about that.
+
+566
+00:45:15,480 --> 00:45:19,400
+But if I can do it through a click of a button, it's much more indirect, it's much further
+
+567
+00:45:19,400 --> 00:45:20,400
+removed.
+
+568
+00:45:20,400 --> 00:45:26,000
+One of the other interesting things is that often dishonest information seems to spread
+
+569
+00:45:26,000 --> 00:45:28,120
+quicker than true information.
+
+570
+00:45:28,120 --> 00:45:32,680
+I think part of the reason for that is often it's more sensational, it's more novel, so
+
+571
+00:45:32,680 --> 00:45:39,800
+it propagates through things like Twitter much faster than true information.
+
+572
+00:45:39,800 --> 00:45:46,920
+So in many instances, justice seems to trump what's true about something, let's say.
+
+573
+00:45:46,920 --> 00:45:52,000
+Or people are motivated by thinking that they're following some path of justice and that sort
+
+574
+00:45:52,000 --> 00:45:58,120
+of means biasing or telling a little falsehood may not be so bad after all.
+
+575
+00:45:58,120 --> 00:46:00,120
+A little story again.
+
+576
+00:46:00,120 --> 00:46:07,280
+In an anatomy of murder, a film some of you may remember, the man walks into the lawyer
+
+577
+00:46:07,280 --> 00:46:10,880
+and he says, I kill so and so.
+
+578
+00:46:10,880 --> 00:46:17,400
+And the lawyer then says to him, my wife would kill my girlfriend.
+
+579
+00:46:17,400 --> 00:46:21,400
+So the lawyer then says to him, well, I'm not going to say that.
+
+580
+00:46:21,400 --> 00:46:29,240
+Well, listen, if you come in and say that you picked up a gun and you were angry and
+
+581
+00:46:29,240 --> 00:46:36,240
+you killed this woman, your wife, your girlfriend, you will be convicted and sentenced to die.
+
+582
+00:46:36,240 --> 00:46:43,480
+If you come in and tell us that you were upset, you would totally lost any sense of
+
+583
+00:46:43,480 --> 00:46:50,080
+sanity that morning you tried to fly to the roof and you tell us that story and if you
+
+584
+00:46:50,080 --> 00:46:56,880
+didn't, you will be found not guilty by reason of insanity.
+
+585
+00:46:56,880 --> 00:47:02,360
+So the lawyer then says, come in tomorrow and tell me what happened.
+
+586
+00:47:02,360 --> 00:47:06,560
+Talking about truth in the legal system and the different ways you deal with it.
+
+587
+00:47:06,560 --> 00:47:09,400
+But you're trying cases, right?
+
+588
+00:47:09,400 --> 00:47:21,760
+You are in the service of a defendant and your legal duty is to help them win their case.
+
+589
+00:47:21,760 --> 00:47:22,760
+What about the judge in this?
+
+590
+00:47:22,760 --> 00:47:24,760
+What's their duty in their obligation?
+
+591
+00:47:24,760 --> 00:47:26,280
+Well, it is legal duty to win the case.
+
+592
+00:47:26,280 --> 00:47:28,440
+Is legal duty to truth?
+
+593
+00:47:28,440 --> 00:47:34,960
+Is legal duty to be in a legal system that values truth?
+
+594
+00:47:34,960 --> 00:47:44,120
+Is it my duty to participate in a system that underlines truth and the question is, what
+
+595
+00:47:44,120 --> 00:47:46,080
+are the values?
+
+596
+00:47:46,080 --> 00:47:53,200
+It's not merely, it can't merely be to get people off or can it be.
+
+597
+00:47:53,200 --> 00:47:56,160
+So I think that's an interesting issue.
+
+598
+00:47:56,160 --> 00:48:00,600
+My friend here mentioned Elizabeth Loftus.
+
+599
+00:48:00,600 --> 00:48:10,360
+Elizabeth Loftus spent years trying to determine how people saw truth and what she said and
+
+600
+00:48:10,360 --> 00:48:13,160
+it's a Bible in the law.
+
+601
+00:48:13,160 --> 00:48:16,480
+They see it as they want or as their influence.
+
+602
+00:48:16,480 --> 00:48:29,000
+What happens if you have a legal system which chooses fundamentally irrelevant?
+
+603
+00:48:29,000 --> 00:48:31,800
+That's a dark thought to me.
+
+604
+00:48:31,800 --> 00:48:34,760
+I put it on the table.
+
+605
+00:48:34,760 --> 00:48:39,920
+But you would agree that the judge has a different responsibility than the lawyer who's representing
+
+606
+00:48:39,920 --> 00:48:40,920
+a client?
+
+607
+00:48:40,920 --> 00:48:45,480
+No judge doesn't have a system of bias.
+
+608
+00:48:45,480 --> 00:48:46,480
+No judge.
+
+609
+00:48:46,480 --> 00:48:51,520
+In other words, the concept of the United States Supreme Court years ago is that these
+
+610
+00:48:51,520 --> 00:48:58,120
+were people who had a sense of the law and they made their judgments based on the law
+
+611
+00:48:58,120 --> 00:48:59,880
+free from bias.
+
+612
+00:48:59,880 --> 00:49:06,080
+A, most people no longer believe that if they believed it long ago.
+
+613
+00:49:06,080 --> 00:49:12,640
+If you look at the law back in 1810, 1850, and you look at the Constitution which says
+
+614
+00:49:12,640 --> 00:49:19,760
+this or that about slavery, you no one will believe that anybody is making judgments
+
+615
+00:49:19,760 --> 00:49:21,480
+free of bias.
+
+616
+00:49:21,480 --> 00:49:30,160
+Now I was a law professor who had written eloquently about justice and truth in the law.
+
+617
+00:49:30,160 --> 00:49:35,160
+Very respected, he thought it out through, he thought it out in NYU.
+
+618
+00:49:35,160 --> 00:49:39,160
+After Bush against Gore came out, he threw it all away.
+
+619
+00:49:39,160 --> 00:49:40,160
+What?
+
+620
+00:49:40,160 --> 00:49:41,160
+What?
+
+621
+00:49:41,160 --> 00:49:42,160
+What?
+
+622
+00:49:42,160 --> 00:49:43,160
+What?
+
+623
+00:49:43,160 --> 00:49:47,880
+After Bush against Gore, he threw it all away.
+
+624
+00:49:47,880 --> 00:49:54,400
+He became persuaded that truth was not the issue, that there were other things determining
+
+625
+00:49:54,400 --> 00:49:56,400
+that decision.
+
+626
+00:49:56,400 --> 00:50:03,880
+Well, so that means there's no way to determine whether someone's biased, very biased, a
+
+627
+00:50:03,880 --> 00:50:08,560
+little biased or hardly biased.
+
+628
+00:50:08,560 --> 00:50:13,720
+I mean in other words, there are degrees of bias and that there are characters who demonstrate
+
+629
+00:50:13,720 --> 00:50:16,880
+their equanimity before the truth.
+
+630
+00:50:16,880 --> 00:50:21,400
+By any illusion, I think that we've given up and great relates to the question you were
+
+631
+00:50:21,400 --> 00:50:26,240
+talking about, the question you asked, is a judge is free of bias and he's committed
+
+632
+00:50:26,240 --> 00:50:27,240
+to the law?
+
+633
+00:50:27,240 --> 00:50:28,920
+In that sense.
+
+634
+00:50:28,920 --> 00:50:38,000
+I would like to stay on the subject but change it slightly.
+
+635
+00:50:38,000 --> 00:50:47,600
+And the question of being free of bias and impartial and how do you assess things.
+
+636
+00:50:47,600 --> 00:50:55,720
+I have done a lot of work with children of divorce where it's a pretty acrimonious situation
+
+637
+00:50:55,720 --> 00:51:04,160
+and there you're trying to be witness, jury, judge, sort of.
+
+638
+00:51:04,160 --> 00:51:11,680
+Because each of the parents gives you a very brainwashed version of their side because
+
+639
+00:51:11,680 --> 00:51:15,920
+I'm talking about, not about peaceful divorces, I'm talking about situations where the kids
+
+640
+00:51:15,920 --> 00:51:19,200
+are really caught in the middle of World War III.
+
+641
+00:51:19,200 --> 00:51:24,280
+And so you as the advocate of the child, and I've never gone to court.
+
+642
+00:51:24,280 --> 00:51:28,520
+This is not about going to court, it's about helping and protecting the best interests
+
+643
+00:51:28,520 --> 00:51:30,480
+of the child.
+
+644
+00:51:30,480 --> 00:51:34,960
+You get two different versions of the truth and if it's highly intelligent, high functioning
+
+645
+00:51:34,960 --> 00:51:40,720
+people, they can be extraordinarily convincing and persuasive.
+
+646
+00:51:40,720 --> 00:51:48,560
+You find out the worst possible things about each other and it's perplexing because when
+
+647
+00:51:48,560 --> 00:51:54,240
+you talk to one parent, they convince you of their point of view and you're saying,
+
+648
+00:51:54,240 --> 00:51:55,240
+oh, okay.
+
+649
+00:51:55,240 --> 00:51:58,200
+Then you talk to the other parent, they convince you of their point of view and you're saying,
+
+650
+00:51:58,200 --> 00:52:00,400
+well, wait a minute, now which is the truth?
+
+651
+00:52:00,400 --> 00:52:05,000
+And then you say, ah, this is what life is like for this poor child.
+
+652
+00:52:05,000 --> 00:52:07,520
+All the time they're being torn back and forth.
+
+653
+00:52:07,520 --> 00:52:15,320
+How does a child like this develop a cohesive sense of integrity, of values, of knowing
+
+654
+00:52:15,320 --> 00:52:21,360
+right from wrong, of figuring out who to trust and what to trust, if the two people in their
+
+655
+00:52:21,360 --> 00:52:28,480
+life that they love and would like to trust are at war and telling such terrible things
+
+656
+00:52:28,480 --> 00:52:31,560
+about each other with such conviction.
+
+657
+00:52:31,560 --> 00:52:36,720
+And it could go down the line whether it's about visitation, about how much the kid should
+
+658
+00:52:36,720 --> 00:52:41,800
+be studying, how strict or loose, how much time they should get on the media.
+
+659
+00:52:41,800 --> 00:52:44,640
+You name it.
+
+660
+00:52:44,640 --> 00:52:46,120
+It's war.
+
+661
+00:52:46,120 --> 00:52:54,600
+And so it's a very interesting window in a way, a painful one to see what, you know,
+
+662
+00:52:54,600 --> 00:52:56,600
+the divorce rate is like 50%.
+
+663
+00:52:56,600 --> 00:53:03,600
+What so many children grow up with and then how do they figure out their values?
+
+664
+00:53:03,600 --> 00:53:07,920
+Now of course it depends on how old the kid was when the war started but the war often
+
+665
+00:53:07,920 --> 00:53:12,360
+started long before the divorce, it continues afterward, etc.
+
+666
+00:53:12,360 --> 00:53:17,480
+So I have to tell you that even as a grown up it's very difficult but it's certainly
+
+667
+00:53:17,480 --> 00:53:19,720
+super stressful for the kids.
+
+668
+00:53:19,720 --> 00:53:28,080
+So this whole question about how do people develop into good judges with good values
+
+669
+00:53:28,080 --> 00:53:37,200
+and try to figure out what authorities to trust, all of that gets formed through one's
+
+670
+00:53:37,200 --> 00:53:49,080
+government and I think we have such a breakdown in a way of cohesive standards not only in
+
+671
+00:53:49,080 --> 00:53:55,680
+journalism but in so many different settings starting with childhood.
+
+672
+00:53:55,680 --> 00:54:00,440
+So this is kind of a plea for peaceful divorces.
+
+673
+00:54:00,440 --> 00:54:05,760
+If I could just interject as well and you know you raised the question I think to some
+
+674
+00:54:05,760 --> 00:54:10,200
+extent it gets at can you ever really discern the truth or you just have to throw your hands
+
+675
+00:54:10,200 --> 00:54:11,200
+up.
+
+676
+00:54:11,200 --> 00:54:15,600
+And I do want to make clear that there are a lot of efforts from the clinical side and
+
+677
+00:54:15,600 --> 00:54:21,280
+on the legal side to gather additional information rigorously and systematically with which to
+
+678
+00:54:21,280 --> 00:54:22,280
+evaluate claims.
+
+679
+00:54:22,280 --> 00:54:26,160
+And this is say on the clinical side if you're treating someone you actually want to know
+
+680
+00:54:26,160 --> 00:54:28,160
+how many times did this happen.
+
+681
+00:54:28,160 --> 00:54:31,880
+We've typically relied on self-report while the future is digital phenotyping, collecting
+
+682
+00:54:31,880 --> 00:54:32,880
+that data.
+
+683
+00:54:32,880 --> 00:54:37,200
+In the situation you ask you got two different stories, well you go out and you get a bunch
+
+684
+00:54:37,200 --> 00:54:41,680
+of extra evidence in your world right you get additional sources.
+
+685
+00:54:41,680 --> 00:54:46,400
+And in law we're trying to systematize that and specifically about judges it's not just
+
+686
+00:54:46,400 --> 00:54:52,200
+that they're biased but they're biased based on empirical evidence in knowable and predictable
+
+687
+00:54:52,200 --> 00:54:53,200
+ways.
+
+688
+00:54:53,200 --> 00:54:57,240
+And if you know that systematically you can then suggest interventions that won't take
+
+689
+00:54:57,240 --> 00:55:01,040
+care of every single case but will and the same thing in a corporate world right where
+
+690
+00:55:01,040 --> 00:55:05,520
+you can begin to recognize what your systemic biases are and adjust.
+
+691
+00:55:05,520 --> 00:55:10,200
+And I'd say on the hopeful side I think there's some slow progress there.
+
+692
+00:55:10,200 --> 00:55:14,960
+It doesn't solve sort of the underlying human nature we've brought up several times but
+
+693
+00:55:14,960 --> 00:55:19,520
+it begins based on the collective research to say okay we know at broad level here are
+
+694
+00:55:19,520 --> 00:55:24,280
+some things that are happening at a system level can we put in some safeguards that will
+
+695
+00:55:24,280 --> 00:55:28,360
+for instance in the judge stop and think we have a quick emotional response should we
+
+696
+00:55:28,360 --> 00:55:33,000
+require that you don't give your opinion now but you deliberate for now as one example
+
+697
+00:55:33,000 --> 00:55:34,960
+and there are others.
+
+698
+00:55:34,960 --> 00:55:43,760
+It seems to me in a way in law you most of the time are deciding or not deciding but
+
+699
+00:55:43,760 --> 00:55:49,600
+the law is supposed to be deciding is this person telling the truth about having not
+
+700
+00:55:49,600 --> 00:55:55,700
+having stolen something or not having embezzled something or not having killed somebody.
+
+701
+00:55:55,700 --> 00:56:02,320
+But in human relations it's different because what you are in a way doing you are constantly
+
+702
+00:56:02,320 --> 00:56:06,080
+having to interpret and your interpretation may be wrong.
+
+703
+00:56:06,080 --> 00:56:12,480
+So you may think in a couple who are fighting that my husband is a liar but in fact he isn't
+
+704
+00:56:12,480 --> 00:56:17,280
+it just how you interpret his behavior and vice versa.
+
+705
+00:56:17,280 --> 00:56:26,600
+So there's a it creates such a lack of clarity about especially in psychology and human relations
+
+706
+00:56:26,600 --> 00:56:32,680
+what lying and truth is about.
+
+707
+00:56:32,680 --> 00:56:40,440
+I have a question for everybody what about people who life or sport kind of confabulators
+
+708
+00:56:40,440 --> 00:56:47,520
+like to make up stories would you like to address that subject a little bit.
+
+709
+00:56:47,520 --> 00:56:50,360
+Can you give an example?
+
+710
+00:56:50,360 --> 00:56:51,920
+I think of one.
+
+711
+00:56:51,920 --> 00:56:52,920
+Okay.
+
+712
+00:56:52,920 --> 00:56:55,720
+I'm joking really obvious to one.
+
+713
+00:56:55,720 --> 00:56:57,720
+They're president.
+
+714
+00:56:57,720 --> 00:56:58,720
+Yeah.
+
+715
+00:56:58,720 --> 00:57:00,720
+But in sport though.
+
+716
+00:57:00,720 --> 00:57:01,720
+What?
+
+717
+00:57:01,720 --> 00:57:04,720
+No you mean what you mean what you mean?
+
+718
+00:57:04,720 --> 00:57:18,320
+For sport for fun as a way of creating an impression or because it's pleasurable to deceive.
+
+719
+00:57:18,320 --> 00:57:20,360
+It's pleasurable to full people.
+
+720
+00:57:20,360 --> 00:57:23,520
+No, not to have certain mental illness as well as sometimes.
+
+721
+00:57:23,520 --> 00:57:24,520
+Well that's what yeah.
+
+722
+00:57:24,520 --> 00:57:29,520
+The duration of the brain where the person keeps inventing things which are people.
+
+723
+00:57:29,520 --> 00:57:35,800
+Unfibulation correct but the person keeps inventing them to create a narrative.
+
+724
+00:57:35,800 --> 00:57:45,280
+And I think there is this issue of people lying or borderline lying in order to create
+
+725
+00:57:45,280 --> 00:57:52,600
+a narrative for themselves about their lives, their past, their aims, their goals etc.
+
+726
+00:57:52,600 --> 00:57:57,960
+I think it's a very important topic because it addresses the question of motivation.
+
+727
+00:57:57,960 --> 00:58:02,080
+I mean before we were talking about legal matters, okay someone's fighting for their
+
+728
+00:58:02,080 --> 00:58:03,240
+life.
+
+729
+00:58:03,240 --> 00:58:07,880
+But what about people who just routinely confabulate and make things up and exaggerate
+
+730
+00:58:07,880 --> 00:58:12,760
+and so forth and so on.
+
+731
+00:58:12,760 --> 00:58:20,640
+Sometimes people like that actually go to seek help because it's compulsive and they
+
+732
+00:58:20,640 --> 00:58:23,560
+can't stop themselves and they run into trouble.
+
+733
+00:58:23,560 --> 00:58:29,240
+But of course it's very challenging to treat people like that as a clinician because they
+
+734
+00:58:29,240 --> 00:58:34,720
+put you in a situation where you never know if they're lying or not to you or they tell
+
+735
+00:58:34,720 --> 00:58:39,640
+you stories about I fooled this one and I told that one that and so forth and so on.
+
+736
+00:58:39,640 --> 00:58:46,880
+So it puts you that in a position of either you are like the moralist in which case you
+
+737
+00:58:46,880 --> 00:58:53,080
+become the enemy or how are you going to help them figure it all out.
+
+738
+00:58:53,080 --> 00:58:58,600
+Why they're doing it or how to stop it etc.
+
+739
+00:58:58,600 --> 00:59:03,480
+It's an interesting kind of question so I was just curious what your experience is
+
+740
+00:59:03,480 --> 00:59:05,440
+with any of that.
+
+741
+00:59:05,440 --> 00:59:09,960
+I mean I've encountered such people.
+
+742
+00:59:09,960 --> 00:59:13,480
+It took me quite a few months the first time I encountered such a person to understand
+
+743
+00:59:13,480 --> 00:59:16,600
+that that's what they were and that such a thing existed.
+
+744
+00:59:16,600 --> 00:59:20,640
+I like to believe I've gotten faster at it.
+
+745
+00:59:20,640 --> 00:59:27,160
+I feel like one of those things those experiences have taught me is how little consistency is
+
+746
+00:59:27,160 --> 00:59:29,640
+actually required to be convincing.
+
+747
+00:59:29,640 --> 00:59:33,040
+We have this idea that one of the drawbacks of lying is then you've got to keep your
+
+748
+00:59:33,040 --> 00:59:38,960
+story straight which is true but it's actually not that hard to just oh I thought I said
+
+749
+00:59:38,960 --> 00:59:39,960
+something out or gaslighting.
+
+750
+00:59:39,960 --> 00:59:44,280
+No that's not what I said at all or that's not what I meant or that's not a relevant
+
+751
+00:59:44,280 --> 00:59:48,560
+fact because even though you saw me steal this thing what was actually happening is that
+
+752
+00:59:48,560 --> 00:59:56,200
+I was pressured into it and when you deal with these people you see these incredible
+
+753
+00:59:56,200 --> 01:00:06,200
+often very charismatic, manipulative, it's hard to do it justice but to me what the existence
+
+754
+01:00:06,200 --> 01:00:14,080
+of such people and their ability to operate says is that we actually are relatively poor
+
+755
+01:00:14,080 --> 01:00:16,640
+at enforcing epistemic norms.
+
+756
+01:00:16,640 --> 01:00:21,200
+We're actually pretty bad at making people be self-consistent although we often have
+
+757
+01:00:21,200 --> 01:00:25,600
+a sense right we often know something is wrong and I think the process of encountering these
+
+758
+01:00:25,600 --> 01:00:30,400
+people multiple times is to develop that sense and to learn to trust it.
+
+759
+01:00:30,400 --> 01:00:37,520
+Do you remember that play six degrees of separation was this guy who was insinuating himself into
+
+760
+01:00:37,520 --> 01:00:41,480
+all kinds of situations and got away with it for the longest time.
+
+761
+01:00:41,480 --> 01:00:46,320
+Oh I'm fascinated by con man it's such a crazy topic.
+
+762
+01:00:46,320 --> 01:00:52,640
+So that's an extreme case but then we have situations of people who just the limit con
+
+763
+01:00:52,640 --> 01:00:56,240
+money and what's that like.
+
+764
+01:00:56,240 --> 01:01:01,400
+We don't see them too often in the consulting room but occasionally we do and that it's
+
+765
+01:01:01,400 --> 01:01:04,360
+really scary.
+
+766
+01:01:04,360 --> 01:01:12,960
+I feel like the especially tricky case is when someone with that personality bent is
+
+767
+01:01:12,960 --> 01:01:17,320
+telling you about an injustice that was done to them and then you're in the challenging
+
+768
+01:01:17,320 --> 01:01:23,240
+position of trying to understand to what extent do you believe their version of the story
+
+769
+01:01:23,240 --> 01:01:28,280
+which I'm sure you must have encountered.
+
+770
+01:01:28,280 --> 01:01:33,560
+It kind of goes back to the question we started with right so most people think right what
+
+771
+01:01:33,560 --> 01:01:37,840
+distinguishes a good or a bad lie in terms of the moral sense as if it helps or harms
+
+772
+01:01:37,840 --> 01:01:38,840
+others.
+
+773
+01:01:38,840 --> 01:01:45,160
+The fitting, the impression management, the fooling is not directly harming an identified
+
+774
+01:01:45,160 --> 01:01:46,160
+person.
+
+775
+01:01:46,160 --> 01:01:53,120
+It's very easy to believe this is in sport and people with a normal psychological profile
+
+776
+01:01:53,120 --> 01:01:54,400
+really care about harm.
+
+777
+01:01:54,400 --> 01:01:58,200
+What we care about is harming others and so in the absence of evidence that I'm directly
+
+778
+01:01:58,200 --> 01:02:05,080
+harming someone it's quite easy to believe that I'm not actually doing anything wrong.
+
+779
+01:02:05,080 --> 01:02:08,800
+And you guys both brought up this interesting example over like the con man I think something
+
+780
+01:02:08,800 --> 01:02:15,280
+that makes it more complicated is we do actually have this admirable narrative of people who
+
+781
+01:02:15,280 --> 01:02:21,840
+are really good at deception and as kids again we read stories of the widely coyote like these
+
+782
+01:02:21,840 --> 01:02:26,720
+characters who are able to do great things through deceiving others in clever ways, the
+
+783
+01:02:26,720 --> 01:02:29,720
+trickster.
+
+784
+01:02:29,720 --> 01:02:34,600
+And so there's this other part of deception going through everyone's head that is like
+
+785
+01:02:34,600 --> 01:02:41,200
+there's good stuff here if I can't see the harm and that probably makes it really easy
+
+786
+01:02:41,200 --> 01:02:42,200
+to keep going.
+
+787
+01:02:42,200 --> 01:02:45,400
+Yeah I think that's just a related maybe to learning as well.
+
+788
+01:02:45,400 --> 01:02:48,920
+We know that a path of mechanism for learning is what's the consequence.
+
+789
+01:02:48,920 --> 01:02:53,240
+If I just go out and steal something I'm going to get punished there and then so it's pretty
+
+790
+01:02:53,240 --> 01:02:57,200
+clear that I shouldn't do that but with the sort of cases you're telling about where it's
+
+791
+01:02:57,200 --> 01:03:00,640
+sort of ongoing, little lies here, little lies there.
+
+792
+01:03:00,640 --> 01:03:04,280
+You can't instantly see what the consequence is on that person and that consequence might
+
+793
+01:03:04,280 --> 01:03:08,880
+come quite far down the line as well so it's quite hard to sort of tie it to your actions
+
+794
+01:03:08,880 --> 01:03:15,200
+so maybe that lack of learning is what allows it to continue perhaps.
+
+795
+01:03:15,200 --> 01:03:18,160
+Well even lack of learning or learning that it works.
+
+796
+01:03:18,160 --> 01:03:22,760
+All that as well yeah also getting like positive reinforcement from it maybe as well.
+
+797
+01:03:22,760 --> 01:03:27,640
+You know one of the interesting things developmentally is that very little kids let's say five or
+
+798
+01:03:27,640 --> 01:03:33,840
+four under more or less they think that their parents practically read their minds.
+
+799
+01:03:33,840 --> 01:03:37,680
+They think that the parents know everything that's going on so if they do something they
+
+800
+01:03:37,680 --> 01:03:44,840
+shouldn't and they get caught they're not surprised because they kind of assume that
+
+801
+01:03:44,840 --> 01:03:48,240
+the mom and dad kind of knew in the first place there's this fantasy of parents being
+
+802
+01:03:48,240 --> 01:03:57,400
+so omnipotent and it's kind of a major developmental step in the sort of separation and be developing
+
+803
+01:03:57,400 --> 01:04:04,920
+one's identity to know that in fact if you say something that's not true maybe they don't
+
+804
+01:04:04,920 --> 01:04:12,640
+know and oh you kind of left your own devices on your own but you can do that.
+
+805
+01:04:12,640 --> 01:04:18,280
+So then how do people decide after all that they should be truthful.
+
+806
+01:04:18,280 --> 01:04:24,800
+It has something to do with what we call superior formation in other words people feel like
+
+807
+01:04:24,800 --> 01:04:30,160
+they want to be loved and they want to be just like their parents, upright citizens if
+
+808
+01:04:30,160 --> 01:04:35,680
+they come from that kind of a family so this whole story about that about who your models
+
+809
+01:04:35,680 --> 01:04:45,880
+are and that it's you're going to love yourself if you're being kind of truthful and honest
+
+810
+01:04:45,880 --> 01:04:50,680
+to yourself and you're going to feel ashamed and guilty and not like yourself if you lie
+
+811
+01:04:50,680 --> 01:04:58,880
+etc very basic stuff but it's something that develops gradually and then what we call you
+
+812
+01:04:58,880 --> 01:05:02,920
+know sort of beginning of the latency at the age where in all cultures people go to school
+
+813
+01:05:02,920 --> 01:05:07,800
+and so on they get very creative rules of what are the rules of that culture and then
+
+814
+01:05:07,800 --> 01:05:11,800
+they have a sense of belonging to the community if they obey the rules so there's a lot of
+
+815
+01:05:11,800 --> 01:05:18,880
+incentive for socialization both from the family and through the community to be a good citizen
+
+816
+01:05:18,880 --> 01:05:27,720
+but there are often situations where that development is faulty because let's say the
+
+817
+01:05:27,720 --> 01:05:32,160
+parents are doing something deceitful like one of the parents is having an affair and
+
+818
+01:05:32,160 --> 01:05:37,920
+says oh don't tell that or whatever and then the kid doesn't know what to think anymore
+
+819
+01:05:37,920 --> 01:05:49,120
+and so that this what should be a very solid sense of right and wrong gets bent and twisted
+
+820
+01:05:49,120 --> 01:05:56,080
+and the rest is history as to what what then happens with that so in our work as as analysts
+
+821
+01:05:56,080 --> 01:06:03,080
+we try to go back and understand something about the origins of some of these lesions
+
+822
+01:06:03,080 --> 01:06:09,960
+in one sense of integrity which are manifold you know I think all of us are keeping in
+
+823
+01:06:09,960 --> 01:06:15,200
+line with these comments most of us can seem to be able to appreciate pretty well I guess
+
+824
+01:06:15,200 --> 01:06:21,240
+because we've all lied to some degree what their incentives are to telling a falsehood
+
+825
+01:06:21,240 --> 01:06:26,160
+and that it may be adaptive in certain instances it may be con men for example and they do
+
+826
+01:06:26,160 --> 01:06:31,280
+unfortunately tend to be men more often than women not exclusively there's Elizabeth Holmes
+
+827
+01:06:31,280 --> 01:06:36,480
+but men seem to lead the pack when it comes to that anyway there's a new idea I believe
+
+828
+01:06:36,480 --> 01:06:40,400
+the anthropologist name is Richard Rangam this last name is Rangam who's written about
+
+829
+01:06:40,400 --> 01:06:46,520
+the self domestication of the human you know the humans human race I guess and in it he
+
+830
+01:06:46,520 --> 01:06:54,960
+said that there was a sort of a movement towards trying to get rid of the more aggressive violent
+
+831
+01:06:54,960 --> 01:07:01,000
+and but also lying and cheating members of the of the group of the tribe and this was a way
+
+832
+01:07:01,000 --> 01:07:07,320
+of pushing back against that type that may be selected to a degree the con men type con
+
+833
+01:07:07,320 --> 01:07:14,480
+man type who may have been selected so again I'm going back to my feeling about being unbiased
+
+834
+01:07:14,480 --> 01:07:20,480
+there are some pressures and incentives towards being unbiased and I think that's sort of
+
+835
+01:07:20,480 --> 01:07:25,240
+what Rangam was trying to bring out in his in this new book about self domestication so
+
+836
+01:07:25,240 --> 01:07:32,720
+I wonder is that in this sort of skepticism about bias don't we believe there are incentives
+
+837
+01:07:32,720 --> 01:07:38,520
+you mentioned Anna trying to live up to the ideal of your parents assuming your parents
+
+838
+01:07:38,520 --> 01:07:44,480
+are honest people aren't their incentives to being fair and honest even when it's a challenge
+
+839
+01:07:44,480 --> 01:07:53,880
+to you personally I mean certainly there are such incentives invented in the professional
+
+840
+01:07:53,880 --> 01:08:02,440
+structure of journalism which I think actually surprises many people journalism turned out
+
+841
+01:08:02,440 --> 01:08:10,960
+to be more idealistic than I thought it would be actually but there are both internal incentives
+
+842
+01:08:10,960 --> 01:08:16,920
+in terms of norms and standards and you know I sometimes think of Columbia journalism school
+
+843
+01:08:16,920 --> 01:08:21,440
+as this cathedral of journalism right it's this big old building and there's plaques on
+
+844
+01:08:21,440 --> 01:08:26,240
+the walls and it's got the Pulitzer Prizes right it's a very it functions as a cathedral
+
+845
+01:08:26,240 --> 01:08:31,520
+it's like this sort of awe inspiring symbol but there's also just reputation right if you're
+
+846
+01:08:31,520 --> 01:08:37,600
+wrong too many times you have trashed your credibility unfortunately the flip side of
+
+847
+01:08:37,600 --> 01:08:46,440
+that is that it means also as a public information source or a public figure you are subject
+
+848
+01:08:46,440 --> 01:08:51,360
+to political attacks so I mean that's part of what is happening now is there are enormous
+
+849
+01:08:51,360 --> 01:08:58,240
+political attacks on the press which is you know certainly not new in a world historical
+
+850
+01:08:58,240 --> 01:09:06,520
+sense but is relatively new in this country I mean you could make the case for dishonesty
+
+851
+01:09:06,520 --> 01:09:12,080
+being good in some cases as well right you know in World War II Churchill would lie about
+
+852
+01:09:12,080 --> 01:09:15,440
+how well we were doing you know in the war and that was to you know really encourage
+
+853
+01:09:15,440 --> 01:09:20,000
+us to keep going and that's true with individual case of optimism as well you know it's quite
+
+854
+01:09:20,000 --> 01:09:24,920
+good if you get rejected from a job interview or asking someone out for a date you know to
+
+855
+01:09:24,920 --> 01:09:28,320
+really believe the next time you know it's going to be successful so you know sort of
+
+856
+01:09:28,320 --> 01:09:33,760
+delusion at different levels can be can be a good thing in certain cases I think if you
+
+857
+01:09:33,760 --> 01:09:43,880
+are a psychoanalyst like I am if you go to a party and there's a patient of yours there
+
+858
+01:09:43,880 --> 01:09:48,760
+you are not going to shake the hands and tell everybody oh here's my patient you're going
+
+859
+01:09:48,760 --> 01:09:54,840
+to keep quiet about it you may not even acknowledge the patient in order not to create any problems
+
+860
+01:09:54,840 --> 01:10:02,160
+with issues of confidentiality so you are being deceitful you are not actively lying
+
+861
+01:10:02,160 --> 01:10:11,440
+but but you have to and there are many situations where one has in a way there is no other way
+
+862
+01:10:11,440 --> 01:10:17,280
+but so I realize that there's this whole moral component and there's this whole area of
+
+863
+01:10:17,280 --> 01:10:24,840
+terrible to lie but there's also a usefulness to it the question is how does one really
+
+864
+01:10:24,840 --> 01:10:31,320
+distinguish between days and is it only based on the outcome on the motivation what what
+
+865
+01:10:31,320 --> 01:10:37,120
+makes the difference and then there are all all all degrees of lying for example we all
+
+866
+01:10:37,120 --> 01:10:44,600
+enjoy being deceived by a magician we know he's deceiving we know of you yet we have
+
+867
+01:10:44,600 --> 01:10:51,080
+tremendous enjoyment from it so there are all these complexes is having to do with neuroscience
+
+868
+01:10:51,080 --> 01:10:56,160
+which I think perhaps we don't fully understand that have to do with this phenomena we call
+
+869
+01:10:56,160 --> 01:11:05,760
+lying a lot of the judgment is also culturally bound so in the US we we believe in autonomy
+
+870
+01:11:05,760 --> 01:11:09,960
+we believe in knowledge right obviously there's some variance in that from person to person
+
+871
+01:11:09,960 --> 01:11:14,960
+and different personality traits and political leanings but mostly we're a country that believes
+
+872
+01:11:14,960 --> 01:11:19,520
+in autonomy or the culture here so I should have knowledge for self governance and that's
+
+873
+01:11:19,520 --> 01:11:24,360
+part of the reason that honesty is so important but that's not true everywhere right so in
+
+874
+01:11:24,360 --> 01:11:30,680
+eastern Asian cultures right dignity and authority are more important than necessarily self knowledge
+
+875
+01:11:30,680 --> 01:11:36,720
+so right there there's it's not as if the whole world is living in this debate that tonight
+
+876
+01:11:36,720 --> 01:11:40,960
+should we be telling the truth and a lot of other cultures they're saying no we shouldn't
+
+877
+01:11:40,960 --> 01:11:47,080
+always be telling the truth right so medicines and examples I've done studies in oncology
+
+878
+01:11:47,080 --> 01:11:52,120
+units and in the US actually a lot of patients want more false hope than their doctors are
+
+879
+01:11:52,120 --> 01:11:57,640
+willing to give them but in China it's very it's very common to get false hope and that's
+
+880
+01:11:57,640 --> 01:12:01,480
+part of the expectation we could argue whether that's normatively good or normatively bad
+
+881
+01:12:01,480 --> 01:12:08,400
+but there's certainly lots of different beliefs you know aside from the belief that truthfulness
+
+882
+01:12:08,400 --> 01:12:13,320
+is what should be guiding most of our traitors is a movie about that yeah that's farewell yeah
+
+883
+01:12:13,320 --> 01:12:19,440
+yeah what's the movie farewell farewell yeah about the difference between how that's handled
+
+884
+01:12:19,440 --> 01:12:26,800
+the truth about a medical prognosis is handled in China versus a US US it does raise a question
+
+885
+01:12:26,800 --> 01:12:31,440
+about how much we want to know about ourselves there's both a medical question one specific
+
+886
+01:12:31,440 --> 01:12:37,520
+example is increasingly we're able through brain and blood biomarkers and genetic information
+
+887
+01:12:37,520 --> 01:12:41,920
+to determine one's probabilistic likelihood of developing Alzheimer's and other dementia
+
+888
+01:12:41,920 --> 01:12:46,920
+and the country and other populations roughly split 50 50 50 percent of people say I want
+
+889
+01:12:46,920 --> 01:12:50,280
+to know because I want to plan so forth the other 50 percent say given that we don't
+
+890
+01:12:50,280 --> 01:12:56,360
+have a cure right now don't tell me but there's a deeper way in which we have to ask ourselves
+
+891
+01:12:56,360 --> 01:13:00,960
+do we really want to know who we are and this is in part when we say you've got to go to
+
+892
+01:13:00,960 --> 01:13:05,680
+some constantly why because you're not seeing who you are how angry you are how narcissistic
+
+893
+01:13:05,680 --> 01:13:10,560
+or you know you're not seeing what you are as a parent and that's a really challenging
+
+894
+01:13:10,560 --> 01:13:15,080
+question do we want to know how much of the whole truth I was very difficult for myself
+
+895
+01:13:15,080 --> 01:13:19,760
+certainly I think for many of us but it gets started I think at this point again there's
+
+896
+01:13:19,760 --> 01:13:23,720
+a medical one is almost easier sometimes to compartmentalize you know go around me as
+
+897
+01:13:23,720 --> 01:13:29,640
+a husband as a father you know as a friend as a colleague how well did I actually do
+
+898
+01:13:29,640 --> 01:13:34,400
+the right it's challenging to confront that maybe more challenging than what we do in
+
+899
+01:13:34,400 --> 01:13:43,960
+law okay all right great thank you everyone I think it's time we can have a few of the
+
+900
+01:13:43,960 --> 01:13:50,960
+audience members ask questions if you line up back here I'm sure our panelists would
+
+901
+01:13:50,960 --> 01:14:12,960
+be happy to respond to the question for everyone on the panel one is the time that each one
+
+902
+01:14:12,960 --> 01:14:18,920
+of you lied and reflecting back on that would have will tell that lie again I'll answer
+
+903
+01:14:18,920 --> 01:14:24,160
+that I was thinking about on the server there so my brother and I over two years apart we
+
+904
+01:14:24,160 --> 01:14:28,760
+look kind of similar so much so that when we go out and we recently celebrated our joint
+
+905
+01:14:28,760 --> 01:14:33,320
+40th birthday he's 39 I'm 41 and this is the year we're both 40 and a lot of people said
+
+906
+01:14:33,320 --> 01:14:40,480
+oh that's great we were the same close these Elvis costumes are you twins yeah we're twins
+
+907
+01:14:40,480 --> 01:14:43,800
+it's our birth we said that all night and after a while we're like let's see you know
+
+908
+01:14:43,800 --> 01:14:47,520
+let's see what can we add to the story you know from we're not from Hawaii we're from
+
+909
+01:14:47,520 --> 01:14:51,800
+Hawaii and all this kind of stuff what I do it again if I turn 40 again absolutely it
+
+910
+01:14:51,800 --> 01:14:56,560
+was great everyone got a kick out of it you know I don't go into your question I don't
+
+911
+01:14:56,560 --> 01:15:03,240
+think anyone was irreparably harmed yeah I don't know how we were intentional about it
+
+912
+01:15:03,240 --> 01:15:24,200
+was not true that's a good one we'll just go for one bit I create a system of lies at
+
+913
+01:15:24,200 --> 01:15:34,040
+the border I would do it again what I created a system of lies at the border representing
+
+914
+01:15:34,040 --> 01:15:39,880
+immigrants trying to come into the country and I would do it again
+
+915
+01:15:39,880 --> 01:15:51,880
+you're saying you're here in public yes I'm having trouble coming up with one I told although
+
+916
+01:15:51,880 --> 01:15:58,560
+I'm sure I have but I can recall like circumstances in which I was grateful being lied to so I
+
+917
+01:15:58,560 --> 01:16:02,520
+was planning my wedding the first year of graduate school when I was preparing for my
+
+918
+01:16:02,520 --> 01:16:09,160
+qualifying exam my my grandfather wanted to invite all of his friends to my wedding which
+
+919
+01:16:09,160 --> 01:16:13,240
+we didn't have space for like totally wasn't feasible we didn't have enough invitations
+
+920
+01:16:13,240 --> 01:16:18,720
+for them my mother said don't worry like you study I got this we're not going to invite
+
+921
+01:16:18,720 --> 01:16:24,240
+them I found out like the day before my wedding that she had photocopied my wedding invitations
+
+922
+01:16:24,240 --> 01:16:29,320
+and sent them to all of my grandfather's friends who she knew wouldn't come right she
+
+923
+01:16:29,320 --> 01:16:33,600
+knew that like this is going to be the easiest thing she I'm not going to be harmed I'm
+
+924
+01:16:33,600 --> 01:16:38,600
+going to be able to live in my bubble not stressed about my wedding and I'm great like I'm
+
+925
+01:16:38,600 --> 01:16:48,440
+very grateful that she pulled pulled it up so my quest comments slash question is more
+
+926
+01:16:48,440 --> 01:16:55,320
+about as a physician and the sort of the sense of knowing sometimes when the patient's not
+
+927
+01:16:55,320 --> 01:17:00,880
+telling the truth and the search for the truth to prove that the patient's not telling you
+
+928
+01:17:00,880 --> 01:17:08,880
+like patients with pseudo seizures or a fictitious disorder malingering and how sometimes just
+
+929
+01:17:08,880 --> 01:17:14,000
+the sense that as humans sometimes we feel that sense when we're not being told the truth
+
+930
+01:17:14,000 --> 01:17:20,560
+even when we could even have clinical evidence in like fictitious disorder that it's not
+
+931
+01:17:20,560 --> 01:17:27,320
+true and we search for some sort of inconsistency or sometimes we really can't find it so I
+
+932
+01:17:27,320 --> 01:17:31,000
+often think of that because we really trust that what the patient's telling us is true
+
+933
+01:17:31,000 --> 01:17:39,040
+so maybe I I'm also at part time a neuropsychiatrist so it's a joke I am a neuropsychiatrist but
+
+934
+01:17:39,040 --> 01:17:46,640
+full-time and I've treated people with pseudo seizures and fictitious illness and it is
+
+935
+01:17:46,640 --> 01:17:50,920
+I think the answer is very simple it's just that I think that as a physician you have
+
+936
+01:17:50,920 --> 01:17:55,360
+to not feel offended and angry that the person's been deceiving you often they don't know
+
+937
+01:17:55,360 --> 01:18:01,280
+they're even or why they're deceiving you and so being disarmed not feeling angry or
+
+938
+01:18:01,280 --> 01:18:05,920
+with the patient it seems to me to be pretty easy just to say well you're you're not having
+
+939
+01:18:05,920 --> 01:18:10,800
+real epilepsy you don't have real epilepsy and where this isn't a real illness and patients
+
+940
+01:18:10,800 --> 01:18:17,360
+respond incredibly well to that I find I haven't had patients who've come to me with those sorts
+
+941
+01:18:17,360 --> 01:18:22,240
+of problems leave because I said you know I don't believe I don't believe this is a real
+
+942
+01:18:22,240 --> 01:18:28,160
+the diagnosis you think it may be just be honest
+
+943
+01:18:28,160 --> 01:18:35,400
+to the lawyers or the legal people that is that amitol interview ever used in legal cases
+
+944
+01:18:35,400 --> 01:18:40,040
+truth serum as it's called is truth serum ever used not in the United States it has
+
+945
+01:18:40,040 --> 01:18:44,800
+been used in the last few years in India in some cases there have been two cases of brain
+
+946
+01:18:44,800 --> 01:18:50,080
+based MRI based lie detection where the in there was proffered in both the state case
+
+947
+01:18:50,080 --> 01:18:55,600
+in Maryland and the federal case in Tennessee it was excluded and there are some other types
+
+948
+01:18:55,600 --> 01:19:00,520
+of technologies that are being proffered they're not yet ready for another day there's a discussion
+
+949
+01:19:00,520 --> 01:19:04,160
+about it and we have this panel in 20 years if some of those technologies have come into
+
+950
+01:19:04,160 --> 01:19:09,960
+the courtroom is polygraph still used in us call the polygraph is used extensively in
+
+951
+01:19:09,960 --> 01:19:14,960
+the investigation phase but is not it's not typically allowed it's typically excluded
+
+952
+01:19:14,960 --> 01:19:20,680
+in the guilt phase in the courtroom phase it's also used sometimes in some probation and parole
+
+953
+01:19:20,680 --> 01:19:24,400
+considerations for instance with sex offenders if they're determined if they're ready to go back
+
+954
+01:19:24,400 --> 01:19:35,120
+to society it's partly common partly question first I would like to say let's be honest
+
+955
+01:19:35,120 --> 01:19:44,160
+the route is not very entertaining what about literature what about art what about creativity
+
+956
+01:19:44,160 --> 01:19:54,040
+it's all established on on lies what's the question it's a question I'm saying that it's
+
+957
+01:19:54,040 --> 01:20:07,800
+partly question partly common and yes thank you and in American society when I came here
+
+958
+01:20:07,800 --> 01:20:15,240
+twenty five years ago I start to learn that's deception for example advertising it's probably
+
+959
+01:20:15,240 --> 01:20:24,680
+most but you know most obvious than probably in any other society to have to learn deception
+
+960
+01:20:24,680 --> 01:20:32,480
+if what we right now we see in our white house we see that guy who obviously like and it's
+
+961
+01:20:32,480 --> 01:20:38,640
+kind of very entertaining for both sides here it is not that entertaining at all and from
+
+962
+01:20:38,640 --> 01:20:47,560
+one side is like I'm outraged from other side I'm it's she said what I was thinking for a
+
+963
+01:20:47,560 --> 01:20:57,280
+long time so it's kind of we have this in the time and it's and he probably won't because
+
+964
+01:20:57,280 --> 01:21:04,280
+of his that he's good in line and Hillary is not Hillary is not good in like everybody
+
+965
+01:21:04,280 --> 01:21:11,840
+you agree so could you please say that what about all these areas like advertisement
+
+966
+01:21:11,840 --> 01:21:23,760
+literature arts in general well we should put the what they they are all in our society
+
+967
+01:21:23,760 --> 01:21:31,560
+I would make a very big distinction between art and literature and advertisement because
+
+968
+01:21:31,560 --> 01:21:37,160
+advertisement is to I mean unless you say that art and literature is to sell its own
+
+969
+01:21:37,160 --> 01:21:44,160
+product but it's considered fabrication or fiction whereas advertisement is trying to
+
+970
+01:21:44,160 --> 01:21:50,840
+sell something into embellish it for purpose of selling it but I think the whole question
+
+971
+01:21:50,840 --> 01:22:02,200
+of lying and fabrications and art is a very interesting spectrum because a really good
+
+972
+01:22:02,200 --> 01:22:11,200
+impersonator or one of these people who's a practice liar is kind of an artist they
+
+973
+01:22:11,200 --> 01:22:22,200
+are they have the finesse and the ability to create illusion and so forth so there's a
+
+974
+01:22:22,200 --> 01:22:28,600
+kinship with artists and Thomas money somebody who was very very interested in this issue
+
+975
+01:22:28,600 --> 01:22:35,280
+and he's written some interesting things about it one of them is a novel called Felix cruel
+
+976
+01:22:35,280 --> 01:22:41,240
+the adventures of Felix cruel and it's based on the memoirs of somebody who was a very
+
+977
+01:22:41,240 --> 01:22:46,880
+famous of all things Romanian swindler and I'm saying of all things because I'm from
+
+978
+01:22:46,880 --> 01:22:56,080
+Romania and he he was fascinated by this the name of the swindler was different but in the
+
+979
+01:22:56,080 --> 01:23:01,400
+Thomas Monstory he wrote he worked on this novel on and off for many years till the end
+
+980
+01:23:01,400 --> 01:23:07,680
+of his life and I don't think he even finished it because this guy was able to impersonate
+
+981
+01:23:07,680 --> 01:23:15,520
+so many people and Rob hotels and so forth he was quite a swindler there's another story
+
+982
+01:23:15,520 --> 01:23:22,320
+by Thomas Mon called Tonya Kroger it's a short story in which the main character is kind of
+
+983
+01:23:22,320 --> 01:23:26,440
+torn between being a businessman and an artist because his father was a businessman his mother
+
+984
+01:23:26,440 --> 01:23:32,920
+was artistic and he could never quite find his footing anywhere but he's mostly an artist
+
+985
+01:23:32,920 --> 01:23:37,680
+and in it he's fascinated by the whole question of what does it take to be an artist compared
+
+986
+01:23:37,680 --> 01:23:45,320
+to kind of a square conventional super straight type of guy and how come he couldn't find
+
+987
+01:23:45,320 --> 01:23:50,240
+his place in a super straight world and maybe to be an artist you have to be a little outside
+
+988
+01:23:50,240 --> 01:23:56,600
+of things an outsider to be able to describe things and therefore already not adhering to
+
+989
+01:23:56,600 --> 01:24:01,800
+the rules of the community so I don't know if this is this addresses what you're asking
+
+990
+01:24:01,800 --> 01:24:07,360
+but I've thought about it in the context of this preparing for the round table so on that
+
+991
+01:24:07,360 --> 01:24:16,080
+subject of deception and versus an honest person why is it that in literature and in theater
+
+992
+01:24:16,080 --> 01:24:23,080
+the most fascinating characters are the bad guys absolutely okay anybody come in yes I
+
+993
+01:24:30,200 --> 01:24:39,040
+think the bad guys have the characteristics yes yes I won't go into the other stuff yes
+
+994
+01:24:39,040 --> 01:24:46,040
+yes you asked about whether it's a law and I said yes I think it's related to the issue
+
+995
+01:24:46,040 --> 01:24:52,120
+why why are it seems because I think the the final research in this is not clear but it
+
+996
+01:24:52,120 --> 01:24:59,960
+looks as though falsehoods as you were mentioning earlier spreads faster than truth and it's
+
+997
+01:24:59,960 --> 01:25:07,680
+more sensational so I that's a simple version of why I think these stories and also I think
+
+998
+01:25:07,680 --> 01:25:12,440
+there's a certain tension when someone's telling a lie and typically is part of some
+
+999
+01:25:12,440 --> 01:25:17,360
+work of literature or stage production you're aware there's this tension as an audience
+
+1000
+01:25:17,360 --> 01:25:22,560
+and that creates tension in you and then you're what's going to happen next right so I think
+
+1001
+01:25:22,560 --> 01:25:31,560
+that sort of generates a lot of interest in in lying yeah yeah I like that I like that
+
+1002
+01:25:31,560 --> 01:25:38,520
+explanation that it creates attention because actually the essence of theater is conflict
+
+1003
+01:25:38,520 --> 01:25:44,600
+so if it's everybody agree yeah we all agree it's not interesting the fact that you disagree
+
+1004
+01:25:44,600 --> 01:25:51,160
+the fact that there's it's not so simple the complexity I think is what draws us to the
+
+1005
+01:25:51,160 --> 01:25:56,160
+facets yeah link to that I think what we don't we often aren't actually that fascinated
+
+1006
+01:25:56,160 --> 01:26:00,400
+with people that are purely evil what we really like is people that are sort of essentially
+
+1007
+01:26:00,400 --> 01:26:05,200
+good but a bit flawed and that might be because that's basically like us right like we want
+
+1008
+01:26:05,200 --> 01:26:09,320
+to be seen as these good people but we do have these sort of weaknesses you know we do lie
+
+1009
+01:26:09,320 --> 01:26:13,600
+like most days to some some degree so maybe it resonates with us those types of characters
+
+1010
+01:26:13,600 --> 01:26:20,960
+I don't know when when you had spoken about adultery and children of in conflicted families
+
+1011
+01:26:20,960 --> 01:26:26,200
+I immediately was thinking of all these fabulous characters like Madame Bovary and just the
+
+1012
+01:26:26,200 --> 01:26:33,240
+literature really is not is not made up of goody goody housewives it's the ones that you
+
+1013
+01:26:33,240 --> 01:26:40,800
+know are peeking through the blinds and and your explanation of you know the why we're
+
+1014
+01:26:40,800 --> 01:26:46,880
+more interested because it creates attention I think you really hit on something thank you
+
+1015
+01:26:46,880 --> 01:26:55,320
+thank you thank you
+
+1016
+01:26:55,320 --> 01:27:03,880
+so many things occur to me I really was thinking about sort of the demise of religion and these
+
+1017
+01:27:03,880 --> 01:27:15,400
+kind of strong values systems and maybe the rise and acceptance of lying and you know
+
+1018
+01:27:15,400 --> 01:27:20,600
+that that was one thing that occurred to me but on a on a bigger scale I'm wondering whether
+
+1019
+01:27:20,600 --> 01:27:30,440
+the fact that there seemed to be no long no repercussions and no punishment for lying
+
+1020
+01:27:30,440 --> 01:27:36,120
+on sort of a governmental scale on corporate scale whether you think of coverups or whether
+
+1021
+01:27:36,120 --> 01:27:43,880
+you think of our president sort of being able to lie with kind of no nothing's been done
+
+1022
+01:27:43,880 --> 01:27:48,800
+about it I mean he hasn't been impeached he hasn't you know there's no punishment and
+
+1023
+01:27:48,800 --> 01:27:56,000
+what you see you know I think of the clergy and all those coverups and sort of the lack
+
+1024
+01:27:56,000 --> 01:28:05,480
+of punishment for lying what you see as a long-term outlook for our democracy you know
+
+1025
+01:28:05,480 --> 01:28:10,960
+where lying is just kind of accepted on a leadership level
+
+1026
+01:28:10,960 --> 01:28:18,880
+I said there's a leisurely legal system that is supposed to deal with a lot of this I mean
+
+1027
+01:28:18,880 --> 01:28:24,840
+my field is in the business of accountability right so I mean that's I would I would say
+
+1028
+01:28:24,840 --> 01:28:28,440
+that there have been consequences maybe not the consequences there should have been or
+
+1029
+01:28:28,440 --> 01:28:38,120
+the consequences you would have preferred but so I'll take a very concrete specific one
+
+1030
+01:28:38,120 --> 01:28:44,960
+which is that Facebook collaborates with a number of fact checking organizations and
+
+1031
+01:28:44,960 --> 01:28:51,800
+if a fact checking organization rates an article as substantially false they will reduce the
+
+1032
+01:28:51,800 --> 01:28:57,760
+distribution of it on Facebook and apparently Facebook says you lose 80% of your reach if
+
+1033
+01:28:57,760 --> 01:29:08,040
+a fact checker takes you as false so that's a very concrete economic hit for being labeled
+
+1034
+01:29:08,040 --> 01:29:15,280
+as a lie they could do more though right as well I think you could have some rating of
+
+1035
+01:29:15,280 --> 01:29:19,760
+information like potentially oh yeah like yeah let's let's do this for another 90 minutes
+
+1036
+01:29:19,760 --> 01:29:25,720
+yeah I mean we I thought I was actually going to be asked to talk about all the disinformation
+
+1037
+01:29:25,720 --> 01:29:35,440
+world I think we're a little late for a long explanation but I'm surprised to say that
+
+1038
+01:29:35,440 --> 01:29:42,560
+all of the major social media platforms are deep in this issue and it's a it's a difficult
+
+1039
+01:29:42,560 --> 01:29:50,600
+issue in part because it is an issue of who gets to decide so it's inextricably political
+
+1040
+01:29:50,600 --> 01:29:55,880
+it's inextricably legal as well because if you have a global company whose standards
+
+1041
+01:29:55,880 --> 01:30:01,240
+do you use or do you show different people in different countries different things which
+
+1042
+01:30:01,240 --> 01:30:08,520
+has its own implications and problems so it's not at all a simple question and then there's
+
+1043
+01:30:08,520 --> 01:30:14,360
+the actual how do you decide if something is a lie and the platforms have mostly fallen
+
+1044
+01:30:14,360 --> 01:30:25,040
+back on essentially journalistic fact checking organizations which use a essentially open
+
+1045
+01:30:25,040 --> 01:30:29,360
+ended variety of methods to try to verify things you know you'll you'll interview sources
+
+1046
+01:30:29,360 --> 01:30:35,280
+you'll compare pictures you'll do technical analyses of the sources of a piece of information
+
+1047
+01:30:35,280 --> 01:30:43,800
+I mean it's it's it's research in the broader sense and it and anything is fair game and
+
+1048
+01:30:43,800 --> 01:30:50,200
+the idea is to try to produce these consequences right and in the sort of immediate sense as
+
+1049
+01:30:50,200 --> 01:30:54,640
+in this article is false and in the broader sense as in you know we did this investigation
+
+1050
+01:30:54,640 --> 01:31:01,360
+and we concluded that you know somebody isn't bezling money or I think the sex scandals
+
+1051
+01:31:01,360 --> 01:31:05,880
+in the Catholic Church are actually a prime example of the role of journalism and democracy
+
+1052
+01:31:05,880 --> 01:31:12,480
+right there there is a movie about this yes we saw that's an excellent movie yeah thank
+
+1053
+01:31:12,480 --> 01:31:16,840
+you I understand if you're pessimistic but I don't think it's fair to say that there
+
+1054
+01:31:16,840 --> 01:31:24,320
+are no consequences well I want to thank everyone for their contribution today and and that's
+
+1055
+01:31:24,320 --> 01:31:39,800
+oh you have one more question I know a guy really wanted a job so he applies does the
+
+1056
+01:31:39,800 --> 01:31:49,200
+interview and he tells the interviewer I I can't work on the Sabbath the interviewer
+
+1057
+01:31:49,200 --> 01:32:00,440
+who says okay you're hired what he doesn't say and I said to him why didn't you tell the
+
+1058
+01:32:00,440 --> 01:32:06,000
+interviewer that you also don't want to work on the religious holidays which will come in
+
+1059
+01:32:06,000 --> 01:32:17,080
+six months and then he said well they won't give me the job okay he had already been fired
+
+1060
+01:32:17,080 --> 01:32:27,840
+and sued on a different job that he had before because he sprung this on that company I can't
+
+1061
+01:32:27,840 --> 01:32:37,200
+work on the Jewish holidays and he was fired from that job so he had some experience with
+
+1062
+01:32:37,200 --> 01:32:46,160
+this then I said well what would happen if they hired you on this job you're now applying
+
+1063
+01:32:46,160 --> 01:32:57,080
+for oh by the way on that first job he won $20,000 in court for religious intolerance so he would
+
+1064
+01:32:57,080 --> 01:33:09,960
+say he said to me I would sue them and I said you know you're a excuse me a fucking liar and I
+
+1065
+01:33:09,960 --> 01:33:23,520
+throw it out to you I don't know I don't know the outcome of it's your relative the answer to
+
+1066
+01:33:23,520 --> 01:33:34,160
+that is yes I could I could actually I could actually embellish that but I won't I think I'm
+
+1067
+01:33:34,160 --> 01:33:42,720
+sorry I'm sorry that you have a relative who's I just I just I think you told the truth thank you
+
+1068
+01:33:42,720 --> 01:34:12,560
+everybody thank you yeah it's all
+

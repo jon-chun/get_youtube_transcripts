@@ -1,0 +1,777 @@
+{"id": "zMyKsnjYZTI-t0.0", "text": "Is this working?", "start": 0.0, "end": 7.0}
+{"id": "zMyKsnjYZTI-t7.0", "text": "Is this working?", "start": 7.0, "end": 10.0}
+{"id": "zMyKsnjYZTI-t10.0", "text": "Is this not working?", "start": 10.0, "end": 13.0}
+{"id": "zMyKsnjYZTI-t13.0", "text": "Hi Joe.", "start": 13.0, "end": 17.0}
+{"id": "zMyKsnjYZTI-t17.0", "text": "I'm Ed Nersesian, Director of the Helix Center.", "start": 17.0, "end": 20.0}
+{"id": "zMyKsnjYZTI-t20.0", "text": "Today's round table was proposed and organized by Professor Shits Johnson.", "start": 20.0, "end": 27.0}
+{"id": "zMyKsnjYZTI-t27.0", "text": "Before I introduce her, I'd just like to remind you that our next round table is on November 17, and it's on animal language.", "start": 27.0, "end": 37.0}
+{"id": "zMyKsnjYZTI-t37.0", "text": "Professor Shits Johnson is a philosopher whose first life was a dancer, choreographer, professor of dance and dance scholar.", "start": 37.0, "end": 47.0}
+{"id": "zMyKsnjYZTI-t47.0", "text": "She has an ongoing courtesy, professor appointment in the Department of Philosophy of Oregon University of Oregon, and she has published numerous articles and the number of books.", "start": 47.0, "end": 61.0}
+{"id": "zMyKsnjYZTI-t61.0", "text": "Her books include the phenomenology of dance, the roots of thinking, the roots of power, animate form and gendered bodies, the roots of morality, the primacy of movement, and the corporeal terms.", "start": 61.0, "end": 76.0}
+{"id": "zMyKsnjYZTI-t76.0", "text": "She received an MA in dance and a PhD in dance and philosophy from the University of Wisconsin, where she also studied evolutionary biology.", "start": 76.0, "end": 89.0}
+{"id": "zMyKsnjYZTI-t89.0", "text": "She was awarded a distinguished fellowship for her studies of xenophobia by the Institute of Advanced Study, Durham University, United Kingdom in its inaugural year, the theme of which was the legacy of Charles Darwin.", "start": 89.0, "end": 104.0}
+{"id": "zMyKsnjYZTI-t104.0", "text": "Professor Shits Johnson will introduce the other guests and then we'll move on. Thank you.", "start": 104.0, "end": 112.0}
+{"id": "zMyKsnjYZTI-t112.0", "text": "Well, thank you very much to all of you for being here. I would also like to thank Ennarsesian for all of his extraordinary hospitality.", "start": 112.0, "end": 122.0}
+{"id": "zMyKsnjYZTI-t122.0", "text": "It has been a great pleasure to be invited here and to have organized this brown table and to have gotten in touch with such illustrious people here,", "start": 122.0, "end": 136.0}
+{"id": "zMyKsnjYZTI-t136.0", "text": "whom I've just had the pleasure of meeting actually at lunchtime and getting to know, except for Jim Lieberman, who I've been in correspondence with for at least the past year.", "start": 136.0, "end": 147.0}
+{"id": "zMyKsnjYZTI-t147.0", "text": "But I'd like to thank our participants also for coming and because I have just had the pleasure of meeting them and I have not memorized their backgrounds, I'm going to just introduce them now to you.", "start": 147.0, "end": 163.0}
+{"id": "zMyKsnjYZTI-t163.0", "text": "This over here is Brian Ferguson. He's an anthropologist who teaches at Rutgers University. His main areas of interest are war and political violence.", "start": 163.0, "end": 177.0}
+{"id": "zMyKsnjYZTI-t177.0", "text": "A generalist, he has published on war in tribal societies and among ancient states, archaeological evidence regarding the origins of war, large scale, identity linked violence in the contemporary world,", "start": 177.0, "end": 190.0}
+{"id": "zMyKsnjYZTI-t190.0", "text": "on human nature and war and anthropological theory about war. He is currently writing a book that examines theories about human nature and aggression through reports about chimpanzees in the wild.", "start": 190.0, "end": 206.0}
+{"id": "zMyKsnjYZTI-t206.0", "text": "His other interests are culture and biology, policing and the development of organized crime in New York history. So he has a very broad background that I'm sure is going to enrich our discussion.", "start": 206.0, "end": 221.0}
+{"id": "zMyKsnjYZTI-t221.0", "text": "As is John Horgens' career as a science writer, he has written for a number of journals and has been his most recent book End of War, which was published in 2012, has been called the best book I've ever read in a very long time by the journalist David Swanson.", "start": 221.0, "end": 244.0}
+{"id": "zMyKsnjYZTI-t244.0", "text": "It was called A Thoughtful Unflappable Closely Argued Book by Nicholas Nicholson Baker and a heartfelt and important book by evolutionary psychologist David Barrage.", "start": 244.0, "end": 259.0}
+{"id": "zMyKsnjYZTI-t259.0", "text": "So he has also written for, I should say, he's a former senior writer at Scientific American and is currently a science journalist and director of the Center for Science Writings at Stevens Institute of Technology in Hoboken, New Jersey.", "start": 259.0, "end": 279.0}
+{"id": "zMyKsnjYZTI-t279.0", "text": "Jim Lieberman is a psychiatrist who is an emeritus professor at George Washington University. He was practicing psychiatrist for many years.", "start": 279.0, "end": 292.0}
+{"id": "zMyKsnjYZTI-t292.0", "text": "He served as chief at the Center for Child and Family Mental Health.", "start": 292.0, "end": 299.0}
+{"id": "zMyKsnjYZTI-t299.0", "text": "He has written extensively on the psychiatrist Otto Runk. Most recently editing the letters of Sigmund Freud and Otto Runk, an inside psychoanalysis, a book that received very high credits in a recent review.", "start": 299.0, "end": 316.0}
+{"id": "zMyKsnjYZTI-t316.0", "text": "In other areas of interest, our sex education and family planning, couples therapy and non violent conflict resolution. He plays the cello in an orchestral group.", "start": 316.0, "end": 330.0}
+{"id": "zMyKsnjYZTI-t330.0", "text": "He said that his first hand experience in male male competition includes chess and wrestling in high school and college and going through medical school at the University of California at San Francisco where within 82 classmates, 72 of them were male.", "start": 330.0, "end": 349.0}
+{"id": "zMyKsnjYZTI-t349.0", "text": "So we have a very fine bunch of discussions here tonight. And what I want to do is start out with a few remarks, introductory remarks, and from there, we will go on to just a very unfolding discussion among us and with questions", "start": 349.0, "end": 373.0}
+{"id": "zMyKsnjYZTI-t373.0", "text": "and confrontations maybe and elaborations among us.", "start": 373.0, "end": 379.0}
+{"id": "zMyKsnjYZTI-t379.0", "text": "So I start with just saying that little attention is paid to the fact that in his book, The Descent of Man, selection and relation with relation to sex, Darwin devoted 12 chapters to male male competition.", "start": 379.0, "end": 395.0}
+{"id": "zMyKsnjYZTI-t395.0", "text": "He called it the law of battle, starting with mollusks and working his way up through avians, through mammals, devoting ultimately two chapters to man.", "start": 395.0, "end": 409.0}
+{"id": "zMyKsnjYZTI-t409.0", "text": "The law is certainly not sanctioned or obeyed by every male, but given human history, it appears an undeniable phenomenon all the same.", "start": 409.0, "end": 419.0}
+{"id": "zMyKsnjYZTI-t419.0", "text": "Male male competition warrants examination. It's buried in present day research under the sober cat of sperm competition.", "start": 419.0, "end": 429.0}
+{"id": "zMyKsnjYZTI-t429.0", "text": "And it never surfaces as real male male competition. And I myself devoted a chapter to real male male competition in a book called The Roots of Morality.", "start": 429.0, "end": 441.0}
+{"id": "zMyKsnjYZTI-t441.0", "text": "And I want to just offer a few quotations from different people to give a kind of idea of real life, male male competition.", "start": 441.0, "end": 463.0}
+{"id": "zMyKsnjYZTI-t463.0", "text": "Well, Churchill said that nothing is Churchill, Winston Churchill said that there's nothing so exciting as to be shot at without result.", "start": 463.0, "end": 478.0}
+{"id": "zMyKsnjYZTI-t478.0", "text": "Ernst Becker, who wrote a book called The Denial of Death, said that if we don't have the omnipotence of gods, we can at least destroy like gods.", "start": 478.0, "end": 491.0}
+{"id": "zMyKsnjYZTI-t491.0", "text": "Shakespeare in the Coriolanus wrote, one character said, these are lines from one of the characters.", "start": 491.0, "end": 499.0}
+{"id": "zMyKsnjYZTI-t499.0", "text": "Let me have war, say I, it exceeds peace as far as day does night. It's brightly waking, audible, and full of vent.", "start": 499.0, "end": 510.0}
+{"id": "zMyKsnjYZTI-t510.0", "text": "Peace is a very apoplexy, lethargy, mold, sleepy, insensible, a getter of more bastard children than wars, a destroyer of men.", "start": 510.0, "end": 522.0}
+{"id": "zMyKsnjYZTI-t522.0", "text": "And it makes men hate one another, reason because then they less need one another.", "start": 522.0, "end": 532.0}
+{"id": "zMyKsnjYZTI-t532.0", "text": "Then there's also a kind of poem by a religion scholar by the name of Sam Keene, who also has written something in science literature.", "start": 532.0, "end": 545.0}
+{"id": "zMyKsnjYZTI-t545.0", "text": "It's called The Enemy.", "start": 545.0, "end": 549.0}
+{"id": "zMyKsnjYZTI-t549.0", "text": "Start with an empty canvas, sketch in broad outline the forms of men, women, and children.", "start": 549.0, "end": 557.0}
+{"id": "zMyKsnjYZTI-t557.0", "text": "Dip into the unconscious well of your own disowned darkness with a wide brush and stain the strangers with the sinister hue of the shadow.", "start": 557.0, "end": 571.0}
+{"id": "zMyKsnjYZTI-t571.0", "text": "Trace onto the face of the enemy the greed, the hatred, the carelessness you dare not claim as your own.", "start": 571.0, "end": 580.0}
+{"id": "zMyKsnjYZTI-t580.0", "text": "When your icon of the enemy is complete, you will be able to kill without guilt, slaughter, without shame.", "start": 580.0, "end": 591.0}
+{"id": "zMyKsnjYZTI-t591.0", "text": "Finally, I'd like to quote Darwin. This is from the sent of man in selection in relation to sex.", "start": 591.0, "end": 600.0}
+{"id": "zMyKsnjYZTI-t600.0", "text": "He writes, man is the rival of other men. He delights in competition and this leads to ambition, which passes too easily into selfishness.", "start": 600.0, "end": 615.0}
+{"id": "zMyKsnjYZTI-t615.0", "text": "The thematic that will start our discussion, I hope, has to do with the idea that war is a, to my mind, a cultural elaboration of male male competition,", "start": 615.0, "end": 631.0}
+{"id": "zMyKsnjYZTI-t631.0", "text": "which in a biological sense serves the reproduction, for the reproduction of the species.", "start": 631.0, "end": 638.0}
+{"id": "zMyKsnjYZTI-t638.0", "text": "In other words, male male competition in the biological world is a, is a sexual phenomenon that serves reproduction.", "start": 638.0, "end": 647.0}
+{"id": "zMyKsnjYZTI-t647.0", "text": "My point will be that, that male male competition has been culturally elaborated by humans in various and sundry ways.", "start": 647.0, "end": 657.0}
+{"id": "zMyKsnjYZTI-t657.0", "text": "But I'd like to start and ask because it has come up in our discussion at lunchtime and it served as a kind of introductory.", "start": 657.0, "end": 667.0}
+{"id": "zMyKsnjYZTI-t667.0", "text": "Brian, if you want to start in with some remarks on male male competition and war?", "start": 667.0, "end": 675.0}
+{"id": "zMyKsnjYZTI-t675.0", "text": "Certainly.", "start": 675.0, "end": 676.0}
+{"id": "zMyKsnjYZTI-t676.0", "text": "Well, Maxine and I, there are many literatures to read and your, your own thoughts and your work are shaped by the literature that you're involved in.", "start": 676.0, "end": 685.0}
+{"id": "zMyKsnjYZTI-t685.0", "text": "And I've been working on the anthropology of war for quite a long time.", "start": 685.0, "end": 690.0}
+{"id": "zMyKsnjYZTI-t690.0", "text": "And that involves both looking at ethnographic discussions of war, archaeological evidence, but also responding to and challenging some theories that I see coming out of primatology, chimps studies in particular,", "start": 690.0, "end": 705.0}
+{"id": "zMyKsnjYZTI-t705.0", "text": "and also evolutionary psychology.", "start": 705.0, "end": 708.0}
+{"id": "zMyKsnjYZTI-t708.0", "text": "And in these areas, those fields, Darwin's law of battle, not in that phrase, is very prominent.", "start": 708.0, "end": 716.0}
+{"id": "zMyKsnjYZTI-t716.0", "text": "And it's the foundation of lots of theorizing about conflict and, and more than that, an evolutionary psychology, the idea of an unbroken continuum of a struggle between males,", "start": 716.0, "end": 729.0}
+{"id": "zMyKsnjYZTI-t729.0", "text": "ultimately directed at reproductive success, is not only the image of our past, but it's the foundation for many other theories about gender,", "start": 729.0, "end": 740.0}
+{"id": "zMyKsnjYZTI-t740.0", "text": "the nature of different genders today, the inborn nature, on things like why we root for sports teams.", "start": 740.0, "end": 748.0}
+{"id": "zMyKsnjYZTI-t748.0", "text": "Many different theories are built upon it.", "start": 748.0, "end": 750.0}
+{"id": "zMyKsnjYZTI-t750.0", "text": "And my own research finds that ethnographically, that is looking at tribal peoples that have been discussed,", "start": 750.0, "end": 757.0}
+{"id": "zMyKsnjYZTI-t757.0", "text": "described since the time of Columbus and more recently by anthropologists, there's a tremendous amount of variation in terms of how much violence there is, how much warfare exists,", "start": 757.0, "end": 766.0}
+{"id": "zMyKsnjYZTI-t766.0", "text": "how people respond to aggressive impulses, whether if you go from one society where one will be considered somehow not a man if one doesn't extract violent revenge on another man for reflecting light from a mirror on the other man's wife.", "start": 766.0, "end": 785.0}
+{"id": "zMyKsnjYZTI-t785.0", "text": "That is an expectation where in another society, this is South American Indian society, there's a real cultural disavowal of violence, and such that when occasionally they have to kill a witch,", "start": 785.0, "end": 801.0}
+{"id": "zMyKsnjYZTI-t801.0", "text": "which occasionally they do, even the person who does that with the social sanction of it's got to be done, no one will ever share food from the same cup from that person again,", "start": 801.0, "end": 810.0}
+{"id": "zMyKsnjYZTI-t810.0", "text": "because they think they're irrevocably damaged inside, so that there are real cultural variations.", "start": 810.0, "end": 815.0}
+{"id": "zMyKsnjYZTI-t815.0", "text": "But archeologically, I think what is important is that there's many claims out there that the archeological record shows war ubiquitous in our prehistoric past.", "start": 815.0, "end": 827.0}
+{"id": "zMyKsnjYZTI-t827.0", "text": "Those cases, and I've done a lot of research on that, and I'm happy to talk about it, those cases involve very selective presentation of very few examples where signs of multiple violent deaths are present.", "start": 827.0, "end": 843.0}
+{"id": "zMyKsnjYZTI-t843.0", "text": "And if you take what I believe is a more proper methodology of looking at the entire archeological record of, say, Europe or the Near East, which I've just completed research on, what you find is an utter absence of signs of war in the earliest record.", "start": 843.0, "end": 861.0}
+{"id": "zMyKsnjYZTI-t861.0", "text": "Then it begins sporadically in different places and gets more common, and eventually you get to the Copper Age or so, when war is ubiquitous, of course Europe, it's our image of Conan the barbarian, but you see it develop over time, and it's not there to start.", "start": 861.0, "end": 880.0}
+{"id": "zMyKsnjYZTI-t880.0", "text": "What I think is one of the most important findings of this research is that in one particular area of the Near East, which is known as the Southern Levant, and this is an area that goes from Lebanon, southern Syria, Jordan and Israel, very different from the record today,", "start": 880.0, "end": 898.0}
+{"id": "zMyKsnjYZTI-t898.0", "text": "that while you've got evidence of war in all other areas of the Near East and all through Europe, abundant evidence of war, there's not a single case that you can say war existed in a period that goes from 13,000 BC to about 3200 BC, about 10,000 years,", "start": 898.0, "end": 917.0}
+{"id": "zMyKsnjYZTI-t917.0", "text": "without a single documentable case of war. And I think the reason for that is that they found, these are the people who domesticated plants and animals, and I think they domesticated conflict, and I think that there were signs that they had developed a peace system.", "start": 917.0, "end": 933.0}
+{"id": "zMyKsnjYZTI-t933.0", "text": "So I think that's an optimistic note, but it also to me says that the Darwin's law of battle doesn't necessarily apply to cultural beings, and I know you're writing talks a lot about culture and humanity and how people try to distance them, the idea that humans are above the animal kingdom.", "start": 933.0, "end": 953.0}
+{"id": "zMyKsnjYZTI-t953.0", "text": "This is looking at culture as an emergent domain that has different ways of processing conflicts. So that's what I work on, and that's what it might kind of response to your topic here.", "start": 953.0, "end": 967.0}
+{"id": "zMyKsnjYZTI-t967.0", "text": "Okay, John, do you want to add to that? Yeah, so first I want to say that Brian is somebody who got me interested in the issue of war, and especially the roots of war, and that culminated in my writing this book, The End of War, which just came out earlier this year.", "start": 967.0, "end": 987.0}
+{"id": "zMyKsnjYZTI-t987.0", "text": "And I actually wanted to ask this audience a question by way of setting up what I have to say. One of the reasons that I wrote The End of War was because of my perception of public attitudes toward war.", "start": 987.0, "end": 1005.0}
+{"id": "zMyKsnjYZTI-t1005.0", "text": "So here's my question for all of you. How many of you think that it is possible for humanity to stop fighting wars once and for all someday? So a world without war between nations, and without even the threat of war, world peace, permanent world peace.", "start": 1005.0, "end": 1025.0}
+{"id": "zMyKsnjYZTI-t1025.0", "text": "How many of you think such a world is possible?", "start": 1025.0, "end": 1031.0}
+{"id": "zMyKsnjYZTI-t1031.0", "text": "Okay, this is fairly typical, what that's maybe seven or eight people out of maybe, I don't know, 50 or 60.", "start": 1031.0, "end": 1040.0}
+{"id": "zMyKsnjYZTI-t1040.0", "text": "So I've been asking this question at every opportunity for about 10 years now, and usually between 80 and 90% of respondents say war is a permanent part of the human condition.", "start": 1040.0, "end": 1055.0}
+{"id": "zMyKsnjYZTI-t1055.0", "text": "So I teach at my students, I teach at a college in Hoboken, it tends to be more 90, 95%, I've had classes where every single student said that not only will there not be world peace, but hell no, there won't be world peace, they're adamant on this issue, they think that it's really", "start": 1055.0, "end": 1075.0}
+{"id": "zMyKsnjYZTI-t1075.0", "text": "hard to believe that humans can stop fighting wars once and for all. Let me ask you another question, how many of you think that there is a strong biological component, and even more than that, that war somehow is an expression of human nature?", "start": 1075.0, "end": 1092.0}
+{"id": "zMyKsnjYZTI-t1092.0", "text": "So that means that some of you who think that war is inevitable, maybe see other reasons as significant.", "start": 1092.0, "end": 1106.0}
+{"id": "zMyKsnjYZTI-t1106.0", "text": "I wrote my book first of all because I think that the view that war is an expression of human nature, that it's really ancient and innate, this is what Brian was talking about, is wrong empirically, that there's massive evidence to show that war is actually a quite", "start": 1106.0, "end": 1121.0}
+{"id": "zMyKsnjYZTI-t1121.0", "text": "recent cultural innovation, it started really, the oldest evidence is maybe 13,000 years old, this mass grave in the Sudan, but really the evidence starts about 10,000 years ago in Mesopotamia and then you see it arise in other parts of the world and some people object that", "start": 1121.0, "end": 1141.0}
+{"id": "zMyKsnjYZTI-t1141.0", "text": "well we don't have any evidence of humans doing anything before 10,000 years ago and that's obviously false because we have evidence of the emergence of art and music and religion and all sorts of other cultural innovations going back, tens of thousands of years before the origin of war.", "start": 1141.0, "end": 1160.0}
+{"id": "zMyKsnjYZTI-t1160.0", "text": "And what concerns me about the fatalism toward warfare is that it can become self-fulfilling, and I see signs of that in the world today, Barack Obama, when he was accepting his Nobel Peace Prize, and I think, you know, you can say this of him, I think he felt guilty that he was accepting it right after he'd announced he was", "start": 1160.0, "end": 1189.0}
+{"id": "zMyKsnjYZTI-t1189.0", "text": "attending 30,000 war troops to Afghanistan, he recognized that that was a little bit embarrassing, but he had a statement to the effect, I'm pretty sure you've seen this, Brian, that war appeared with the first man and we will not eradicate violent conflict in our lifetime, so he's", "start": 1189.0, "end": 1209.0}
+{"id": "zMyKsnjYZTI-t1209.0", "text": "making a scientific statement there, I'm not sure if you've been reading the literature on warfare written by, especially for some reason, a bunch of very prominent scientists at Harvard, I call them the Harvard Hawks, this is Edward Wilson, Stephen Pinker, Richard Rangam, Stephen LeBlanc, people like that, but this idea that war is in our gene somehow has become very pervasive, and I think it has led to", "start": 1209.0, "end": 1237.0}
+{"id": "zMyKsnjYZTI-t1237.0", "text": "an easy excuse for our own hawkishness and militarism, so first of all it's empirically wrong, and second it has bad consequences in the world today.", "start": 1237.0, "end": 1250.0}
+{"id": "zMyKsnjYZTI-t1250.0", "text": "But don't you think that there is a difference between saying that it's in your genes and saying that it's a cultural elaboration of something that is naturally there, because the other thing is that indication is that I think the distinction needs to be made between using the term humans and using the term male-male competition, because", "start": 1250.0, "end": 1272.0}
+{"id": "zMyKsnjYZTI-t1272.0", "text": "as far as history goes it's not women who start wars and it's not women who fight wars, so you have to really make the distinction between male-male competition within a biological framework that serves reproduction, and male-male competition", "start": 1272.0, "end": 1291.0}
+{"id": "zMyKsnjYZTI-t1291.0", "text": "that has become culturally elaborated by humans more recently, I agree, more recently, in the service of honing heroes, cultivating warriors who will fight, etc.", "start": 1291.0, "end": 1304.0}
+{"id": "zMyKsnjYZTI-t1304.0", "text": "And I think that those two distinctions really need to be made, because it's not that I don't think that war is in our genes, I think that that's a completely false and aberrant notion. I think on the contrary, as per Samuel Keene's poem that I read, it requires some very deep self-questioning on the part of all humans", "start": 1304.0, "end": 1328.0}
+{"id": "zMyKsnjYZTI-t1328.0", "text": "in terms of their own predilections and own dispositions toward violence and toward just an awareness of their own, we'll just say, their own morality with respect to other humans. What do you think, Jim?", "start": 1328.0, "end": 1347.0}
+{"id": "zMyKsnjYZTI-t1347.0", "text": "A lot of fuss here. I grew up with movies like Batan and Corregidor, which the Americans were emptying their machine guns at the oncoming Japanese, and it took until after World War II, for a new finding to emerge,", "start": 1347.0, "end": 1368.0}
+{"id": "zMyKsnjYZTI-t1368.0", "text": "General SLA Marshall found that most of the soldiers on both sides and in previous wars were not firing their weapons at an oncoming enemy. If they could see the person, they would be less likely to shoot, 80% would not shoot.", "start": 1368.0, "end": 1390.0}
+{"id": "zMyKsnjYZTI-t1390.0", "text": "Then they looked back at stashes of weapons found in battlefields, for example, the Civil War, and they found these rifles that were multiplied, they were multiple loaded, they were soldiers feigning, pulling the trigger when they were not being supervised,", "start": 1390.0, "end": 1410.0}
+{"id": "zMyKsnjYZTI-t1410.0", "text": "because the oncoming enemy was an inhibition. These findings have been elaborated by Dave Grossman in two books on killing, which came out in 1995 with the second edition revised in 2009, and also he wrote on combat.", "start": 1410.0, "end": 1433.0}
+{"id": "zMyKsnjYZTI-t1433.0", "text": "He was a Lieutenant Colonel and trainer of troops at West Point, now retired, and he said that after World War II, while the General Marshall's findings were hotly disputed by military people, it's now been established,", "start": 1433.0, "end": 1453.0}
+{"id": "zMyKsnjYZTI-t1453.0", "text": "but it's also been established that normal men can be trained to shoot. First of all, if they're supervised closely, second, if the shooting is at a distance where the face of the enemy is not coming toward you,", "start": 1453.0, "end": 1470.0}
+{"id": "zMyKsnjYZTI-t1470.0", "text": "and so many more military casualties are inflicted on retreating troops than on advancing troops. The other thing that's happened, of course, is that distance killing has been increased. The weaponry has been increased.", "start": 1470.0, "end": 1487.0}
+{"id": "zMyKsnjYZTI-t1487.0", "text": "It's easier to drop a nuclear weapon on a city than it is to shoot somebody whose eyes you can see. So it turns out that just as we have learned something about human nature being less violent than we thought,", "start": 1487.0, "end": 1503.0}
+{"id": "zMyKsnjYZTI-t1503.0", "text": "we also have the capability to be much more destructive than we could in the past. So this is the dilemma, the conundrum of the present. Grossman says that of recruits nowadays to the military,", "start": 1503.0, "end": 1520.0}
+{"id": "zMyKsnjYZTI-t1520.0", "text": "they can now, with special training methods, develop since World War II, but prior to Vietnam, you can convert the 80% or the 90%, so that 90% now will fire and did fire at human targets facing them in Vietnam.", "start": 1520.0, "end": 1539.0}
+{"id": "zMyKsnjYZTI-t1539.0", "text": "And Vietnam was also the beginning of a strong attention to PTSD, post-traumatic stress disorder, and a high suicide rate in returning veterans and in active soldiers.", "start": 1539.0, "end": 1553.0}
+{"id": "zMyKsnjYZTI-t1553.0", "text": "So there's a lot of psychology that we have to struggle with in this, but in a way I think it's progress if we can save ourselves from the big interments of killing.", "start": 1553.0, "end": 1566.0}
+{"id": "zMyKsnjYZTI-t1566.0", "text": "When I was growing up there was a draft, and in order to be a conscious objector, you had to show that you were a good Quaker or a member of the Brethren Church or whatever.", "start": 1566.0, "end": 1578.0}
+{"id": "zMyKsnjYZTI-t1578.0", "text": "Catholics had a hard time, although there was a Catholic peace movement and so on.", "start": 1578.0, "end": 1584.0}
+{"id": "zMyKsnjYZTI-t1584.0", "text": "And then the draft ended, and so there's really no need for anyone who hates war to sign up. But it's interesting that when you sign up now, if you enlist, you have to sign a statement saying that you are not a conscientious objector.", "start": 1584.0, "end": 1603.0}
+{"id": "zMyKsnjYZTI-t1603.0", "text": "Which probably makes sense, except the people who are signing up now were not raised brethren or Quakers. They don't know what conscientious objector is really about until they get into the training, and then a lot of them crash.", "start": 1603.0, "end": 1617.0}
+{"id": "zMyKsnjYZTI-t1617.0", "text": "And so there's an organization called the Center on Conscience and War, which gives legal counseling to people who have signed a statement saying they're not a CO, and then they find out that they are.", "start": 1617.0, "end": 1628.0}
+{"id": "zMyKsnjYZTI-t1628.0", "text": "The derivative of this also is that Dave Grossman says there may not be atheists in the foxholes, but there are a lot of conscientious objectors.", "start": 1628.0, "end": 1644.0}
+{"id": "zMyKsnjYZTI-t1644.0", "text": "Any comments on that?", "start": 1644.0, "end": 1647.0}
+{"id": "zMyKsnjYZTI-t1647.0", "text": "This is an issue that's come up a number of times, I've come across it. Grossman's work, Marshall's work, is something that I find very congenial.", "start": 1647.0, "end": 1660.0}
+{"id": "zMyKsnjYZTI-t1660.0", "text": "I like the idea that humans do have an inhibition against killing.", "start": 1660.0, "end": 1666.0}
+{"id": "zMyKsnjYZTI-t1666.0", "text": "I just haven't been able to determine that by looking at the ethnographic record of other societies. It's really a gap in what anthropologists do when they study war, of asking people, how do you feel about having killed somebody?", "start": 1666.0, "end": 1687.0}
+{"id": "zMyKsnjYZTI-t1687.0", "text": "They look at the acts of war, they look at what leads to war. They don't ask many questions like that. And what's interesting is that a number of societies have some kind of ritual that involves segregating the man killers after they've come back for a period of time", "start": 1687.0, "end": 1707.0}
+{"id": "zMyKsnjYZTI-t1707.0", "text": "and purifying them before they go back into their normal daily life. And if someone like the Yannamami, you've written about the Yannamami, this is a tribal group in Brazil and Venezuela, if you don't go through that ritual, the feeling is that you begin to rot inside.", "start": 1707.0, "end": 1724.0}
+{"id": "zMyKsnjYZTI-t1724.0", "text": "And if too much time has happened between, like if you're an array that takes two weeks to get back from, you might begin to feel the sensations of rotting inside before you get home. So this goes along with that very definitely.", "start": 1724.0, "end": 1738.0}
+{"id": "zMyKsnjYZTI-t1738.0", "text": "But there's a group of people called the Alangat in Southeast Asia and an anthropologist, and there were headhunters and the anthropologists queried them deeply about whether they felt shame or anything like that for killing and just couldn't elicit anything like that at all.", "start": 1738.0, "end": 1759.0}
+{"id": "zMyKsnjYZTI-t1759.0", "text": "So the problem for me is that it hasn't been really studied. I don't feel comfortable in making any kind of generalizations, but I can't say that I find Grossman's finding to be backed up, maybe just because it hasn't been enough work on it.", "start": 1759.0, "end": 1774.0}
+{"id": "zMyKsnjYZTI-t1774.0", "text": "It seems that a lot of societies, I mean in United States societies, in United States society, unless you're in a military family, and that's some people who work with soldiers are not talking about the military class, you know, very unselfconsciously, these are people who know this is what you're going to do when you get to be of that age.", "start": 1774.0, "end": 1793.0}
+{"id": "zMyKsnjYZTI-t1793.0", "text": "Someone like me who wasn't the idea of killing anybody at any time was just impossible, something you could see on the screen, but not something you would ever contemplate doing yourself. But in some other societies, kids are raised with the idea of when you grow up, you're going to have to fight, and you should want to fight.", "start": 1793.0, "end": 1810.0}
+{"id": "zMyKsnjYZTI-t1810.0", "text": "So I just don't know how much this is a human thing and how much this is a cultural thing. And the male male competition can be expressed in non-violent ways as well. And I wouldn't disown female, female competition. I went to high school.", "start": 1810.0, "end": 1828.0}
+{"id": "zMyKsnjYZTI-t1828.0", "text": "And that's right. But there's gender stereotyping too that goes on. Male competition means you punch them in the face, and female competition means you say you ruin the reputation.", "start": 1828.0, "end": 1845.0}
+{"id": "zMyKsnjYZTI-t1845.0", "text": "So that's what you expect. I think in my book, I remind people that before we got into this age of genetic determinism and fascination with biological contributions to human nature, there was much more interest in cultural explanations for what we do.", "start": 1845.0, "end": 1869.0}
+{"id": "zMyKsnjYZTI-t1869.0", "text": "I think that Margaret Mead still had one of the best theories of war. She wrote a little paper, came out in 1940. I think the title was something like war is an invention, not a biological necessity, and talked about war as an idea that people had to invent.", "start": 1869.0, "end": 1889.0}
+{"id": "zMyKsnjYZTI-t1889.0", "text": "And then it propagates just as many other ideas to marriage and cooking and trial by jury. And a lot of the things that actually have improved our lives.", "start": 1889.0, "end": 1900.0}
+{"id": "zMyKsnjYZTI-t1900.0", "text": "The problem with war is that it's got this bizarre property of spreading whether or not people want it.", "start": 1900.0, "end": 1908.0}
+{"id": "zMyKsnjYZTI-t1908.0", "text": "And you can sort of think of how that happens in a very simple way. If you've got a region with ten peaceful tribes and there's just one tribe in the middle, let's say it just happens to have a charismatic population.", "start": 1908.0, "end": 1918.0}
+{"id": "zMyKsnjYZTI-t1918.0", "text": "It happens to have a charismatic sociopath as its leader who thinks that fighting other people would be a really fun thing to do. And that tribe starts attacking the others. What are they going to do?", "start": 1918.0, "end": 1929.0}
+{"id": "zMyKsnjYZTI-t1929.0", "text": "They either can run away or they submit to the aggressive tribe or they fight against it. And in this way war-like behavior and militarism spread.", "start": 1929.0, "end": 1941.0}
+{"id": "zMyKsnjYZTI-t1941.0", "text": "And the anthropologist Sarah Blaffer-Hertie has written in a way that I find really persuasive about how this process transforms societies, you know, beginning around ten thousand years ago, the time period that we talked about.", "start": 1941.0, "end": 1958.0}
+{"id": "zMyKsnjYZTI-t1958.0", "text": "And how it's because we're actually, mass killing does not come naturally to people, that we started to come up with these cultural norms that glorified martial skills and killing and courage and all this sort of thing.", "start": 1958.0, "end": 1978.0}
+{"id": "zMyKsnjYZTI-t1978.0", "text": "And so war transformed culture and it actually created the kind of macho model of masculinity that a lot of people now think is completely innate.", "start": 1978.0, "end": 1992.0}
+{"id": "zMyKsnjYZTI-t1992.0", "text": "So I think culture actually is by far more powerful explanation of war. I think that to understand something like the Nazi Germany or Imperial Japan or even the aggression of the United States, you can go back to the experiments of Stanley Milgram, the classics and social psychology", "start": 1992.0, "end": 2017.0}
+{"id": "zMyKsnjYZTI-t2017.0", "text": "where it's conformity and deference to authority that leads people to commit horrific acts even when they are revolts by them.", "start": 2017.0, "end": 2027.0}
+{"id": "zMyKsnjYZTI-t2027.0", "text": "So the Milgram experiments, a lot of those subjects who thought that they were shocking people possibly, I'm assuming that everybody here is familiar with those.", "start": 2027.0, "end": 2037.0}
+{"id": "zMyKsnjYZTI-t2037.0", "text": "They were extremely distressed and some were sadistic and were quite happy to do it. But a lot of people were very distressed by it and they did it anyway just because this guy in a white coat was telling them to do this.", "start": 2037.0, "end": 2050.0}
+{"id": "zMyKsnjYZTI-t2050.0", "text": "So this I think is actually a more disturbing fact about our makeup than any kind of innate propensity for war that we are so malleable, we are so subject to the influence of people and power.", "start": 2050.0, "end": 2069.0}
+{"id": "zMyKsnjYZTI-t2069.0", "text": "Yes, I'm glad you brought that up because I think that's a great motivation for people if it's like Hitler's thousand year right, mobilizing people because there's a leader there who is charismatic enough to propel people to take up their guns, et cetera, and go fight for the glory of their nation.", "start": 2069.0, "end": 2094.0}
+{"id": "zMyKsnjYZTI-t2094.0", "text": "But I think also in present day times there's an equal that's not only national but it's religious and the religious is feeding in the same way that the national did.", "start": 2094.0, "end": 2106.0}
+{"id": "zMyKsnjYZTI-t2106.0", "text": "And I think on the other hand that which we haven't mentioned is the development of technology, which makes it so easy to decimate an enormous, I mean a whole nation practically,", "start": 2106.0, "end": 2120.0}
+{"id": "zMyKsnjYZTI-t2120.0", "text": "in terms of just technological developments aside from the drones which can target smaller, but I was thinking of nuclear power and the spread of nuclear power.", "start": 2120.0, "end": 2133.0}
+{"id": "zMyKsnjYZTI-t2133.0", "text": "Grossman makes the point that about 3% of the recruits had no compunction about these exercises or actual killing.", "start": 2133.0, "end": 2141.0}
+{"id": "zMyKsnjYZTI-t2141.0", "text": "And he also points to the fact that demographically about 3% of the population would qualify as psychopathic, which means not having a normal,", "start": 2141.0, "end": 2152.0}
+{"id": "zMyKsnjYZTI-t2152.0", "text": "conscious sense of responsibility or empathy.", "start": 2152.0, "end": 2156.0}
+{"id": "zMyKsnjYZTI-t2156.0", "text": "And it turns out that this is not a disabling psychiatric condition, it may be, and there are far more people with that diagnosis in prison than their numbers would warrant.", "start": 2156.0, "end": 2166.0}
+{"id": "zMyKsnjYZTI-t2166.0", "text": "That is to say, it might be 40% of prisoners in penitentiaries who would qualify.", "start": 2166.0, "end": 2172.0}
+{"id": "zMyKsnjYZTI-t2172.0", "text": "But I recall hearing that the Nazi extermination machine was run by 3% of the population and it's probably true when people say I didn't know a thing about it that in fact most of the Germans didn't know about it.", "start": 2172.0, "end": 2189.0}
+{"id": "zMyKsnjYZTI-t2189.0", "text": "That 3% can be very significant. Also the media like to play up the abnormal.", "start": 2189.0, "end": 2198.0}
+{"id": "zMyKsnjYZTI-t2198.0", "text": "So you hear a lot more about violence and sadism and craziness of this type or unscrupulous behavior than is represented in the population.", "start": 2198.0, "end": 2211.0}
+{"id": "zMyKsnjYZTI-t2211.0", "text": "And I think that this wouldn't be the case if somebody didn't have an interest in portraying human beings like this.", "start": 2211.0, "end": 2219.0}
+{"id": "zMyKsnjYZTI-t2219.0", "text": "Whether to sell newspapers or to sell machine guns or to sell police uniforms or to make a purchase of guns legal, things like that.", "start": 2219.0, "end": 2230.0}
+{"id": "zMyKsnjYZTI-t2230.0", "text": "I'd just like to add something to that.", "start": 2230.0, "end": 2234.0}
+{"id": "zMyKsnjYZTI-t2234.0", "text": "War turns people into virtual psychopaths. I think we've seen that over and over again. I suspect that there were more than 3% of the German population who if they didn't participate directly in genocide would have been willing to do so because they basically", "start": 2234.0, "end": 2254.0}
+{"id": "zMyKsnjYZTI-t2254.0", "text": "been brainwashed. I've read detailed accounts of what happened at Me Lie, the massacre in Vietnam War. And it's mass psychopathy.", "start": 2254.0, "end": 2267.0}
+{"id": "zMyKsnjYZTI-t2267.0", "text": "It's people who were transformed by the culture of war into monsters who have absolutely no normal human concern for others and end up slaughtering, brutalizing women and children completely.", "start": 2267.0, "end": 2283.0}
+{"id": "zMyKsnjYZTI-t2283.0", "text": "They even killed all the animals in Me Lie. And you see this over and over again through human history.", "start": 2283.0, "end": 2291.0}
+{"id": "zMyKsnjYZTI-t2291.0", "text": "And I think that the obvious solution is to try to, you know, it's the old idea of we have to recognize that war is morally wrong.", "start": 2291.0, "end": 2302.0}
+{"id": "zMyKsnjYZTI-t2302.0", "text": "It's also practically, it often devastates societies. I think our society is a lot of our economic problems are directly attributable to these issues.", "start": 2302.0, "end": 2312.0}
+{"id": "zMyKsnjYZTI-t2312.0", "text": "These huge, costly, lengthy wars that we've had in Iraq and Afghanistan. And I'm hopeful that finally, once and for all, we can have this kind of cultural awakening and recognize how wrong militarism and war are and put it behind us once and for again with the help of this kind of cultural", "start": 2312.0, "end": 2337.0}
+{"id": "zMyKsnjYZTI-t2337.0", "text": "malleability. How do you do that without a moral education? Well, I think it will require, I'm certainly working on my students, believe me.", "start": 2337.0, "end": 2346.0}
+{"id": "zMyKsnjYZTI-t2346.0", "text": "But in what way? I tell them first of all about that I think that the theories of war that attribute it to biology are wrong because many of them believe in that.", "start": 2346.0, "end": 2360.0}
+{"id": "zMyKsnjYZTI-t2360.0", "text": "And I also talk a lot about the second most popular theory. I'm sure a lot of people here believe it is that war is the inevitable result of too many people and too few resources.", "start": 2360.0, "end": 2371.0}
+{"id": "zMyKsnjYZTI-t2371.0", "text": "So it's kind of ecological competition. Brian has has written about this quite a bit. There's an archaeologist at Harvard, Stephen LeBlanc, who's written a book on this.", "start": 2371.0, "end": 2384.0}
+{"id": "zMyKsnjYZTI-t2384.0", "text": "And it's a very popular theory right now, especially, and I find this really sort of disturbing among green progressives, dervish green progressives who fear that overpopulation and global warming are going to come together to cause terrible scarcity in the future of famines and", "start": 2384.0, "end": 2407.0}
+{"id": "zMyKsnjYZTI-t2407.0", "text": "water shortages that are going to lead to catastrophic wars. I read this all the time. Bill McKibben, the leading environmental activist, has written about it.", "start": 2407.0, "end": 2417.0}
+{"id": "zMyKsnjYZTI-t2417.0", "text": "And the problem is that there's just no empirical evidence for that point of view. The evidence really strongly suggests that you sometimes resources play a role and some countries in", "start": 2417.0, "end": 2431.0}
+{"id": "zMyKsnjYZTI-t2431.0", "text": "the period of Japan was looking for more secure sources of fossil fuels. But generally it's the old idea of war beginning war. Cultures of war, militarized cultures, find reasons to go to war.", "start": 2431.0, "end": 2446.0}
+{"id": "zMyKsnjYZTI-t2446.0", "text": "And if there's anything that is positive out of seeing wars, this kind of self-perpetuating meme, it's that we don't have to do anything radical to our society as a means to ending war.", "start": 2446.0, "end": 2460.0}
+{"id": "zMyKsnjYZTI-t2460.0", "text": "We just have to end war, focus on ending war and militarism themselves.", "start": 2460.0, "end": 2466.0}
+{"id": "zMyKsnjYZTI-t2466.0", "text": "But how do you do that? We'll have questions from the audience in a little bit. I just want to keep going around. Ryan, did you have a comment in the end?", "start": 2466.0, "end": 2477.0}
+{"id": "zMyKsnjYZTI-t2477.0", "text": "I agree with John that is an important point that we... The question John asked before is how many people believe war can be abolished in the future is really, I think, the second question that I asked.", "start": 2477.0, "end": 2494.0}
+{"id": "zMyKsnjYZTI-t2494.0", "text": "And the first question is how many people believe that war has always been with us? If you believe that war has always been with us, I think the second question is always going to be where this kind of follows naturally.", "start": 2494.0, "end": 2505.0}
+{"id": "zMyKsnjYZTI-t2505.0", "text": "The thing that I'm finding in my archaeological research, one thing that's very important is that across the board there's an absence of war when you had highly mobile people, even in the beginnings of agriculture.", "start": 2505.0, "end": 2520.0}
+{"id": "zMyKsnjYZTI-t2520.0", "text": "And it wasn't necessarily linked totally to agriculture. You had war before agriculture. You had a lot of agriculture without war.", "start": 2520.0, "end": 2528.0}
+{"id": "zMyKsnjYZTI-t2528.0", "text": "But you could have one area that could go for 10,000 years through periods of population crashes when population had grown during favorable conditions and then unfavorable conditions led to drastic reductions in the populations in the area, classic malthusian problems.", "start": 2528.0, "end": 2547.0}
+{"id": "zMyKsnjYZTI-t2547.0", "text": "Still no signs of war. But I didn't mention before that this isn't the case of, well, you just haven't found the evidence for this because this period continues up to 3,200 BC.", "start": 2547.0, "end": 2560.0}
+{"id": "zMyKsnjYZTI-t2560.0", "text": "What happened in 3,200 BC is that this is when the pharaohs arose in Egypt and began a colonial empire in what they call Canaan.", "start": 2560.0, "end": 2571.0}
+{"id": "zMyKsnjYZTI-t2571.0", "text": "And in a matter of 100 years, every settlement in Canaan was fortified. You can't find a single fortification for 10,000 years before that.", "start": 2571.0, "end": 2579.0}
+{"id": "zMyKsnjYZTI-t2579.0", "text": "Then you can't find one without fortification after that. So it's not just the recovery of evidence. This shows that you can have a system even when there are resource conflicts, even when there's environmental disasters where the result isn't going to war.", "start": 2579.0, "end": 2596.0}
+{"id": "zMyKsnjYZTI-t2596.0", "text": "And I think if people know that, that's step one. Step two, and this is one of the reasons I spend so much time challenging a lot of biological theories of war.", "start": 2596.0, "end": 2609.0}
+{"id": "zMyKsnjYZTI-t2609.0", "text": "So I think it distracts attention to where you should look. And where you should look, I think considering modern warfare, the wars you have to the fall of the Soviet Union, contribal warfare is in the self-interest of leaders.", "start": 2609.0, "end": 2624.0}
+{"id": "zMyKsnjYZTI-t2624.0", "text": "I think that this is the key to understanding war, not the genes of everybody, but what's the interest of leaders and take resources.", "start": 2624.0, "end": 2634.0}
+{"id": "zMyKsnjYZTI-t2634.0", "text": "There was a conference, we had some post-Soviet scholars there talking about the conflicts that were erupting all over the former Soviet Union, ethno-political conflicts.", "start": 2634.0, "end": 2650.0}
+{"id": "zMyKsnjYZTI-t2650.0", "text": "Land is always an issue. It's never a question of land to farm. There's got plenty of land to farm. Sometimes it's oil.", "start": 2650.0, "end": 2659.0}
+{"id": "zMyKsnjYZTI-t2659.0", "text": "But land was always big because leaders were rising to power on the claims of this is our homeland. This is symbolic to us.", "start": 2659.0, "end": 2670.0}
+{"id": "zMyKsnjYZTI-t2670.0", "text": "They were benefiting by these pleas, by these constructed history that uses land as a symbol of us against them who've always taken it away from us.", "start": 2670.0, "end": 2683.0}
+{"id": "zMyKsnjYZTI-t2683.0", "text": "And to me, this is where you need to look. Who is making the decisions for war? What are their interests in that particular situation?", "start": 2683.0, "end": 2692.0}
+{"id": "zMyKsnjYZTI-t2692.0", "text": "And then what I think makes humans particularly dangerous is that once leaders have, and it's not inevitable that leaders are going to argue for war, that they see that as their interests, but once they do, they come to believe their own propaganda.", "start": 2692.0, "end": 2708.0}
+{"id": "zMyKsnjYZTI-t2708.0", "text": "They come to believe their own reasons that they put out there for why it's not just something we need, it's right, it's moral. You're a coward if you don't.", "start": 2708.0, "end": 2719.0}
+{"id": "zMyKsnjYZTI-t2719.0", "text": "This is how they convince people, but I think through to avoid cognitive dissonance, they come to believe it themselves.", "start": 2719.0, "end": 2726.0}
+{"id": "zMyKsnjYZTI-t2726.0", "text": "And it's important to look away from wars in your genes or what chimpanzees are doing to what leaders are doing now who might say there's always going to be war.", "start": 2726.0, "end": 2738.0}
+{"id": "zMyKsnjYZTI-t2738.0", "text": "Do you think that, I'm sorry, surely.", "start": 2738.0, "end": 2749.0}
+{"id": "zMyKsnjYZTI-t2749.0", "text": "Fluidity in the way you are moving from male-male competition, aggression, violence, genocide and war. But these are not all the same. It may be that you have to have aggression in war. But these are different categories of things.", "start": 2749.0, "end": 2771.0}
+{"id": "zMyKsnjYZTI-t2771.0", "text": "The second thing is that it seems to me more often than saying something is moral in matters of war, is that people are scared and they go to war. They tell them there is a threat.", "start": 2771.0, "end": 2788.0}
+{"id": "zMyKsnjYZTI-t2788.0", "text": "So let's say the situation with Iraq was that there is a nuclear threat from Iraq. That's why we have to go to war.", "start": 2788.0, "end": 2795.0}
+{"id": "zMyKsnjYZTI-t2795.0", "text": "Afghanistan is because of al-Qaeda. That's why we have to go to war.", "start": 2795.0, "end": 2801.0}
+{"id": "zMyKsnjYZTI-t2801.0", "text": "And that seems to me in a way a normal reaction to the extent that when we feel we are threatened, we want to defend ourselves.", "start": 2801.0, "end": 2810.0}
+{"id": "zMyKsnjYZTI-t2810.0", "text": "And that's why I'm a little bit puzzled by the period you are saying for 10,000 years there was no war.", "start": 2810.0, "end": 2820.0}
+{"id": "zMyKsnjYZTI-t2820.0", "text": "It was that those people were not threatened. There was no danger. There was no...", "start": 2820.0, "end": 2825.0}
+{"id": "zMyKsnjYZTI-t2825.0", "text": "No, because there was no one going to war in the area.", "start": 2825.0, "end": 2828.0}
+{"id": "zMyKsnjYZTI-t2828.0", "text": "No, but there must have been threats. There must have been...", "start": 2828.0, "end": 2831.0}
+{"id": "zMyKsnjYZTI-t2831.0", "text": "Why must there have been threats?", "start": 2831.0, "end": 2834.0}
+{"id": "zMyKsnjYZTI-t2834.0", "text": "Because food may be scarce, whether it may be bad in one place and excellent in another place, so they have a lot of food.", "start": 2834.0, "end": 2846.0}
+{"id": "zMyKsnjYZTI-t2846.0", "text": "And so how did they deal with those?", "start": 2846.0, "end": 2850.0}
+{"id": "zMyKsnjYZTI-t2850.0", "text": "They deal with those apparently through cooperative responses. They had centers where redistribution...", "start": 2850.0, "end": 2856.0}
+{"id": "zMyKsnjYZTI-t2856.0", "text": "We can find the centers of redistribution where people from different areas came together.", "start": 2856.0, "end": 2860.0}
+{"id": "zMyKsnjYZTI-t2860.0", "text": "They had cultic centers that united vast areas of communal labor from people without residences around them.", "start": 2860.0, "end": 2869.0}
+{"id": "zMyKsnjYZTI-t2869.0", "text": "People were coming from different areas. How they handled these things is really the question, I believe.", "start": 2869.0, "end": 2878.0}
+{"id": "zMyKsnjYZTI-t2878.0", "text": "So that's a great question, but what I would suggest is that you're exemplifying the inevitability of violent conflict and the record doesn't show it.", "start": 2878.0, "end": 2891.0}
+{"id": "zMyKsnjYZTI-t2891.0", "text": "Again, it's not that it's so long ago you can't find it if you go to the northern Tigris at the same area, if you go to Anatoly at the same area, abundant evidence of war.", "start": 2891.0, "end": 2901.0}
+{"id": "zMyKsnjYZTI-t2901.0", "text": "But in this area, there isn't any. So this poses a question. What were they doing differently?", "start": 2901.0, "end": 2907.0}
+{"id": "zMyKsnjYZTI-t2907.0", "text": "And this is an area where domestication began. This is where they began to...", "start": 2907.0, "end": 2913.0}
+{"id": "zMyKsnjYZTI-t2913.0", "text": "Where they went from wild to cultivated plants and wild to domesticated animals.", "start": 2913.0, "end": 2918.0}
+{"id": "zMyKsnjYZTI-t2918.0", "text": "And what I believe they did is somehow developed a peace system. One of the things we know in anthropology, we figured out in anthropology, is that the causes of war are one thing, but there is a separate set of variables that you could call causes of peace.", "start": 2918.0, "end": 2935.0}
+{"id": "zMyKsnjYZTI-t2935.0", "text": "And they're not the same. Causes of peace include things like interchange between different areas, cooperative activities, joining different groups.", "start": 2935.0, "end": 2946.0}
+{"id": "zMyKsnjYZTI-t2946.0", "text": "The recognition of some kind of social authority that can say no to violence, effective means of conflict resolution, and a value system that says you don't resort to violence.", "start": 2946.0, "end": 2960.0}
+{"id": "zMyKsnjYZTI-t2960.0", "text": "That's not the factors that lead to war, which you can say are resource scarcity, social hierarchy, bunch of other things, but they're different.", "start": 2960.0, "end": 2968.0}
+{"id": "zMyKsnjYZTI-t2968.0", "text": "And together, they make different kinds of combinations. Going back to the male-male issue, one of the things that's intriguing about the Southern Levant, not definitive, but intriguing, is that there isn't any sign basically looking at burials and art of a male-oriented hierarchy.", "start": 2968.0, "end": 2988.0}
+{"id": "zMyKsnjYZTI-t2988.0", "text": "There isn't sign of a gender hierarchy there, which is very intriguing, but I just don't know enough because I don't know about other areas in the Near East where there was war, whether they had signs of a gender hierarchy, not the article was about the Southern Levant, but it goes along with what you're saying here.", "start": 2988.0, "end": 3005.0}
+{"id": "zMyKsnjYZTI-t3005.0", "text": "So there were threats, there were dangers. There was population crashes, but when there were population crashes there, you don't find war where in the Northern Tigris area you do.", "start": 3005.0, "end": 3017.0}
+{"id": "zMyKsnjYZTI-t3017.0", "text": "So there's something about the way people handled it culturally.", "start": 3017.0, "end": 3021.0}
+{"id": "zMyKsnjYZTI-t3021.0", "text": "So if there were two tribes and they had some dispute because somebody stole a girl from one tribe and the tribe went to fight with them and get the girl back, would you have considered that war or you have some other definition of war?", "start": 3021.0, "end": 3036.0}
+{"id": "zMyKsnjYZTI-t3036.0", "text": "No, that's what you would call war among the Yannamami. They didn't do that.", "start": 3036.0, "end": 3041.0}
+{"id": "zMyKsnjYZTI-t3041.0", "text": "The issue is how did they avoid it? And if they had some kind of mechanism for resolving the dispute, you've got a beef and here's how we're going to handle it.", "start": 3041.0, "end": 3051.0}
+{"id": "zMyKsnjYZTI-t3051.0", "text": "That's what you might infer. You don't have the evidence of it. And people haven't really looked for the evidence of it yet.", "start": 3051.0, "end": 3057.0}
+{"id": "zMyKsnjYZTI-t3057.0", "text": "Somehow it was handled. So it's not that this was sweetness and light, but people didn't have problems.", "start": 3057.0, "end": 3064.0}
+{"id": "zMyKsnjYZTI-t3064.0", "text": "And if they found a way to do it, now why wouldn't one tribe, like John's idea of one tribe is led by this sociopath?", "start": 3064.0, "end": 3071.0}
+{"id": "zMyKsnjYZTI-t3071.0", "text": "If you have a kind of a local world system of people who, as you had in these areas, who are in mesh and trade and intermarriage and movement, common ritual and all of these things, your life is dependent on being a part of this system.", "start": 3071.0, "end": 3090.0}
+{"id": "zMyKsnjYZTI-t3090.0", "text": "And someone who says to his followers, let's go out and kill all of them, well, it might be very difficult to get a following to do that when people would say, are you crazy?", "start": 3090.0, "end": 3100.0}
+{"id": "zMyKsnjYZTI-t3100.0", "text": "Then they'll never trade with us again. Then we'll never be able to marry with them again.", "start": 3100.0, "end": 3105.0}
+{"id": "zMyKsnjYZTI-t3105.0", "text": "Then we won't be able to go to the ceremonies. Are you crazy?", "start": 3105.0, "end": 3109.0}
+{"id": "zMyKsnjYZTI-t3109.0", "text": "It's quite a little more right now than we have.", "start": 3109.0, "end": 3113.0}
+{"id": "zMyKsnjYZTI-t3113.0", "text": "Go ahead. I'll make an exception.", "start": 3113.0, "end": 3116.0}
+{"id": "zMyKsnjYZTI-t3116.0", "text": "I'm not sure if you have the question.", "start": 3116.0, "end": 3120.0}
+{"id": "zMyKsnjYZTI-t3120.0", "text": "How about you ask questions?", "start": 3120.0, "end": 3121.0}
+{"id": "zMyKsnjYZTI-t3121.0", "text": "So I'll make them all.", "start": 3121.0, "end": 3124.0}
+{"id": "zMyKsnjYZTI-t3124.0", "text": "Male, male competition.", "start": 3124.0, "end": 3127.0}
+{"id": "zMyKsnjYZTI-t3127.0", "text": "Let me, let me.", "start": 3127.0, "end": 3130.0}
+{"id": "zMyKsnjYZTI-t3130.0", "text": "May I make an exception, Ed? Because he's raised his hand several times.", "start": 3130.0, "end": 3135.0}
+{"id": "zMyKsnjYZTI-t3135.0", "text": "Is that all right? Okay.", "start": 3135.0, "end": 3138.0}
+{"id": "zMyKsnjYZTI-t3138.0", "text": "First of all, the problem is we can't, we have to warm up.", "start": 3138.0, "end": 3143.0}
+{"id": "zMyKsnjYZTI-t3143.0", "text": "Okay.", "start": 3143.0, "end": 3148.0}
+{"id": "zMyKsnjYZTI-t3148.0", "text": "I'll still be here.", "start": 3148.0, "end": 3153.0}
+{"id": "zMyKsnjYZTI-t3153.0", "text": "This is, I wanted to bring, go ahead, Jim, did you want to say something?", "start": 3153.0, "end": 3159.0}
+{"id": "zMyKsnjYZTI-t3159.0", "text": "It'll be a slightly different topic, but go ahead.", "start": 3159.0, "end": 3161.0}
+{"id": "zMyKsnjYZTI-t3161.0", "text": "Okay, because I wanted to follow this up a little bit, because in some ways this leads into globalization in the fact that we're living in a global world where there are more and more people to come to the world.", "start": 3161.0, "end": 3172.0}
+{"id": "zMyKsnjYZTI-t3172.0", "text": "There are people that we interact with.", "start": 3172.0, "end": 3176.0}
+{"id": "zMyKsnjYZTI-t3176.0", "text": "And it seems to me that, it's really interesting to me that you, Carl Jung, the psychiatrist, never included strangers within his archetypal system.", "start": 3176.0, "end": 3192.0}
+{"id": "zMyKsnjYZTI-t3192.0", "text": "And strangers are very much present in non-human as well as human animal societies.", "start": 3192.0, "end": 3203.0}
+{"id": "zMyKsnjYZTI-t3203.0", "text": "In other words, a stranger is recognized as someone who doesn't belong to our group.", "start": 3203.0, "end": 3207.0}
+{"id": "zMyKsnjYZTI-t3207.0", "text": "And they are treated in a very different way.", "start": 3207.0, "end": 3211.0}
+{"id": "zMyKsnjYZTI-t3211.0", "text": "And it seems to me that with globalization that there are fewer and fewer strangers now and more and more enemies", "start": 3211.0, "end": 3221.0}
+{"id": "zMyKsnjYZTI-t3221.0", "text": "or potential enemies because they either don't believe like we do or they have goods that we want, that they're not willing to send us, etc., etc.", "start": 3221.0, "end": 3231.0}
+{"id": "zMyKsnjYZTI-t3231.0", "text": "So it seems to me that with globalization, I mean you're talking about a small area here where people can interact.", "start": 3231.0, "end": 3239.0}
+{"id": "zMyKsnjYZTI-t3239.0", "text": "And the thing that it seems to me that one of the things that compounds the problem is the fact that there are so many different languages now,", "start": 3239.0, "end": 3248.0}
+{"id": "zMyKsnjYZTI-t3248.0", "text": "in terms of English, has become kind of standard.", "start": 3248.0, "end": 3251.0}
+{"id": "zMyKsnjYZTI-t3251.0", "text": "But still, that's an imposition on people who don't speak English that they have to learn English.", "start": 3251.0, "end": 3257.0}
+{"id": "zMyKsnjYZTI-t3257.0", "text": "And it's not their native language.", "start": 3257.0, "end": 3260.0}
+{"id": "zMyKsnjYZTI-t3260.0", "text": "So there are a lot of ways in which this kind of communal coming together with tribal people is in this global world that we live in.", "start": 3260.0, "end": 3270.0}
+{"id": "zMyKsnjYZTI-t3270.0", "text": "It's an exacerbated problem. And it doesn't seem to me that we're able to grapple with it in some kind of moral way", "start": 3270.0, "end": 3281.0}
+{"id": "zMyKsnjYZTI-t3281.0", "text": "because it's so focused on economics and not on humanness and on recognizing this poem by, at least it made an impression on me,", "start": 3281.0, "end": 3293.0}
+{"id": "zMyKsnjYZTI-t3293.0", "text": "that this really delving into ourselves and coming to grips with the person that we are and our own aggressive or violent", "start": 3293.0, "end": 3304.0}
+{"id": "zMyKsnjYZTI-t3304.0", "text": "or greedy or selfish proclivities until we come in contact with that.", "start": 3304.0, "end": 3310.0}
+{"id": "zMyKsnjYZTI-t3310.0", "text": "And I would also agree with Ed's comment about fear because fear is a very basic human emotion.", "start": 3310.0, "end": 3317.0}
+{"id": "zMyKsnjYZTI-t3317.0", "text": "And with respect to strangers, fear is a very, is definitive emotion.", "start": 3317.0, "end": 3325.0}
+{"id": "zMyKsnjYZTI-t3325.0", "text": "And it seems to me when that's magnified into when strangers become enemies or potential enemies,", "start": 3325.0, "end": 3332.0}
+{"id": "zMyKsnjYZTI-t3332.0", "text": "then fear is also magnified.", "start": 3332.0, "end": 3338.0}
+{"id": "zMyKsnjYZTI-t3338.0", "text": "I just want to try to lay my optimism on everybody again, especially because that was slightly dark the way you were describing globalization.", "start": 3338.0, "end": 3353.0}
+{"id": "zMyKsnjYZTI-t3353.0", "text": "One thing that has happened, you read some quotes about war that glorified war and that talked about war.", "start": 3353.0, "end": 3364.0}
+{"id": "zMyKsnjYZTI-t3364.0", "text": "You can find quotes from Teddy Roosevelt and people like that that makes war sound like absolutely the coolest thing that you can do.", "start": 3364.0, "end": 3371.0}
+{"id": "zMyKsnjYZTI-t3371.0", "text": "The ultimate extreme sport, right? You don't have world leaders talking in those terms anymore.", "start": 3371.0, "end": 3379.0}
+{"id": "zMyKsnjYZTI-t3379.0", "text": "War is sometimes necessary, but it's a necessary evil. That's how war is discussed.", "start": 3379.0, "end": 3387.0}
+{"id": "zMyKsnjYZTI-t3387.0", "text": "Well, of course, there's jingoism and drum beating. What are we going to work about? I'm a dinner child.", "start": 3387.0, "end": 3395.0}
+{"id": "zMyKsnjYZTI-t3395.0", "text": "I'm a dinner child from what I've read.", "start": 3395.0, "end": 3397.0}
+{"id": "zMyKsnjYZTI-t3397.0", "text": "It also talks about defending his country against aggressors, not glorifying war for its own sake,", "start": 3397.0, "end": 3404.0}
+{"id": "zMyKsnjYZTI-t3404.0", "text": "which is something that I associate with social Darwinism, late 19th century, early 20th century.", "start": 3404.0, "end": 3410.0}
+{"id": "zMyKsnjYZTI-t3410.0", "text": "Then we had World War I. And then we had World War II, which shattered any of these romantic", "start": 3410.0, "end": 3416.0}
+{"id": "zMyKsnjYZTI-t3416.0", "text": "notions that we had about war.", "start": 3416.0, "end": 3419.0}
+{"id": "zMyKsnjYZTI-t3419.0", "text": "What about North Korea? I mean, there are a lot of countries.", "start": 3419.0, "end": 3422.0}
+{"id": "zMyKsnjYZTI-t3422.0", "text": "But these are countries that justify their own militarism in terms of fear, not in terms of some kind of positive goal of conquest for its own sake,", "start": 3422.0, "end": 3433.0}
+{"id": "zMyKsnjYZTI-t3433.0", "text": "as a kind of ultimate expression of vitality. But I just want to give you some empirical evidence that I think we are learning our lesson", "start": 3433.0, "end": 3443.0}
+{"id": "zMyKsnjYZTI-t3443.0", "text": "that war is destructive. It often undermines our goals. So war leads to resource scarcity instead of resource scarcity leading to war.", "start": 3443.0, "end": 3455.0}
+{"id": "zMyKsnjYZTI-t3455.0", "text": "So you probably know I wrote about this, but also Stephen Pinker and Angels of our Better Nature.", "start": 3455.0, "end": 3463.0}
+{"id": "zMyKsnjYZTI-t3463.0", "text": "We are now in one of the most peaceful periods in recent human history.", "start": 3463.0, "end": 3468.0}
+{"id": "zMyKsnjYZTI-t3468.0", "text": "So war casualties, population has been going like this, but war casualties over the last decade globally have been about one-tenth what they were", "start": 3468.0, "end": 3479.0}
+{"id": "zMyKsnjYZTI-t3479.0", "text": "annually in the second half of the 20th century, and about one-hundredth what they were in the first half of the 20th century.", "start": 3479.0, "end": 3486.0}
+{"id": "zMyKsnjYZTI-t3486.0", "text": "I think there are some scholars say we are just looking at random fluctuations.", "start": 3486.0, "end": 3493.0}
+{"id": "zMyKsnjYZTI-t3493.0", "text": "We are seeing signs of humanity learning its lesson and moving beyond militarism.", "start": 3493.0, "end": 3498.0}
+{"id": "zMyKsnjYZTI-t3498.0", "text": "There is one huge glaring exception to that, and I think it is the United States, which is by far the most war-like country in the world right now,", "start": 3498.0, "end": 3508.0}
+{"id": "zMyKsnjYZTI-t3508.0", "text": "has a military budget as big as all other nations combined, is now constantly developing new technologies such as drones that are leading to new arms races.", "start": 3508.0, "end": 3517.0}
+{"id": "zMyKsnjYZTI-t3517.0", "text": "Everybody else wants drones now. Of course terrorist groups are already acquiring drones.", "start": 3517.0, "end": 3523.0}
+{"id": "zMyKsnjYZTI-t3523.0", "text": "We are the biggest arms dealer in the world. I think if the United States can recognize its own militarism and how we are harming our security with these policies,", "start": 3523.0, "end": 3536.0}
+{"id": "zMyKsnjYZTI-t3536.0", "text": "that the world could become demilitarized quite rapidly.", "start": 3536.0, "end": 3541.0}
+{"id": "zMyKsnjYZTI-t3541.0", "text": "Okay, may I ask a question? Okay.", "start": 3541.0, "end": 3546.0}
+{"id": "zMyKsnjYZTI-t3546.0", "text": "Economically, militarism is very, makes the U.S. prosperous.", "start": 3546.0, "end": 3552.0}
+{"id": "zMyKsnjYZTI-t3552.0", "text": "No, that's not true.", "start": 3552.0, "end": 3553.0}
+{"id": "zMyKsnjYZTI-t3553.0", "text": "Isn't that true?", "start": 3553.0, "end": 3554.0}
+{"id": "zMyKsnjYZTI-t3554.0", "text": "No, it's not.", "start": 3554.0, "end": 3556.0}
+{"id": "zMyKsnjYZTI-t3556.0", "text": "If you look at the Fortune 500, Lockheed Martin is, I don't know, 45 or 50 among the biggest corporations in the world.", "start": 3556.0, "end": 3565.0}
+{"id": "zMyKsnjYZTI-t3565.0", "text": "And Martin is the biggest defense contractor in the world. They are dwarfed by Google and Apple and Amazon and Walmart and companies like that", "start": 3565.0, "end": 3576.0}
+{"id": "zMyKsnjYZTI-t3576.0", "text": "that actually don't want war. They will benefit off of war if they have to.", "start": 3576.0, "end": 3581.0}
+{"id": "zMyKsnjYZTI-t3581.0", "text": "Yeah, but I'm talking about, for example, I just heard recently that, for example, in the state of Virginia, Virginia has built a lot of naval vessels.", "start": 3581.0, "end": 3591.0}
+{"id": "zMyKsnjYZTI-t3591.0", "text": "And they don't want to stop building naval vessels because it's a very highly, I mean, it's a very good thing for them to be building naval vessels.", "start": 3591.0, "end": 3600.0}
+{"id": "zMyKsnjYZTI-t3600.0", "text": "So there's something about the military in terms of the production of equipment and of all kinds.", "start": 3600.0, "end": 3610.0}
+{"id": "zMyKsnjYZTI-t3610.0", "text": "Definitely.", "start": 3610.0, "end": 3611.0}
+{"id": "zMyKsnjYZTI-t3611.0", "text": "By the military industrial complex.", "start": 3611.0, "end": 3613.0}
+{"id": "zMyKsnjYZTI-t3613.0", "text": "Yeah, which I'm talking about.", "start": 3613.0, "end": 3614.0}
+{"id": "zMyKsnjYZTI-t3614.0", "text": "But what I'm saying is that for our society as a whole, the health of those companies is not the same as the health of our nation as a whole.", "start": 3614.0, "end": 3626.0}
+{"id": "zMyKsnjYZTI-t3626.0", "text": "The military industrial complex for the amount of money that we invest in it is a lousy producer of jobs.", "start": 3626.0, "end": 3632.0}
+{"id": "zMyKsnjYZTI-t3632.0", "text": "It's minuscule compared to the jobs we get from investment in healthcare and education and energy and things like that.", "start": 3632.0, "end": 3639.0}
+{"id": "zMyKsnjYZTI-t3639.0", "text": "I just wish I think there is enormous potential right now for a really large peace coalition.", "start": 3639.0, "end": 3646.0}
+{"id": "zMyKsnjYZTI-t3646.0", "text": "If you have a politician with the guts and the eloquence to point out how crazy militarism is for our society and for the world as a whole.", "start": 3646.0, "end": 3656.0}
+{"id": "zMyKsnjYZTI-t3656.0", "text": "And if the military industrial complex, sure, Lockheed Martin is going to try as hard as it can to keep the defense budget up and be selling its stuff around the world.", "start": 3656.0, "end": 3665.0}
+{"id": "zMyKsnjYZTI-t3665.0", "text": "But we have to recognize that their interests are not shared by the rest of us.", "start": 3665.0, "end": 3670.0}
+{"id": "zMyKsnjYZTI-t3670.0", "text": "It's a much lower multiplier effect for government money going into military spending than into other things.", "start": 3670.0, "end": 3676.0}
+{"id": "zMyKsnjYZTI-t3676.0", "text": "It doesn't promote prosperity in the same way that non-military spendings.", "start": 3676.0, "end": 3680.0}
+{"id": "zMyKsnjYZTI-t3680.0", "text": "But I would like to say one thing about fear before we and who else and I'll stop it.", "start": 3680.0, "end": 3686.0}
+{"id": "zMyKsnjYZTI-t3686.0", "text": "The Iraq war is very instructive, I think.", "start": 3686.0, "end": 3688.0}
+{"id": "zMyKsnjYZTI-t3688.0", "text": "This was generated fear.", "start": 3688.0, "end": 3692.0}
+{"id": "zMyKsnjYZTI-t3692.0", "text": "This was something that was basically the intelligence on this was of the flimsiest sort of the weapons of mass destruction.", "start": 3692.0, "end": 3701.0}
+{"id": "zMyKsnjYZTI-t3701.0", "text": "The evidence that this was part of a geopolitical strategy of a small group of people as the way the United States should project its power in the Near East and elsewhere is very strong.", "start": 3701.0, "end": 3716.0}
+{"id": "zMyKsnjYZTI-t3716.0", "text": "And one of the most intriguing things is shortly after this war I was talking to someone who was the head of the New Yorkers, Washington Bureau at the time.", "start": 3716.0, "end": 3728.0}
+{"id": "zMyKsnjYZTI-t3728.0", "text": "And as they were going into the Iraq war, when everybody had decided they were going into the war before the shooting started, but it was a foregone conclusion.", "start": 3728.0, "end": 3736.0}
+{"id": "zMyKsnjYZTI-t3736.0", "text": "The phrase went around that they had to moral it up.", "start": 3736.0, "end": 3741.0}
+{"id": "zMyKsnjYZTI-t3741.0", "text": "They had to moral it up.", "start": 3741.0, "end": 3743.0}
+{"id": "zMyKsnjYZTI-t3743.0", "text": "And that's where the democracy thing came in.", "start": 3743.0, "end": 3745.0}
+{"id": "zMyKsnjYZTI-t3745.0", "text": "And this was a very clear idea.", "start": 3745.0, "end": 3748.0}
+{"id": "zMyKsnjYZTI-t3748.0", "text": "We can't just use the fear.", "start": 3748.0, "end": 3750.0}
+{"id": "zMyKsnjYZTI-t3750.0", "text": "We've got that, but we've got to moral it up.", "start": 3750.0, "end": 3752.0}
+{"id": "zMyKsnjYZTI-t3752.0", "text": "And so this is where you've got to be skeptical about leaders because leaders very often are the ones who generate the fear.", "start": 3752.0, "end": 3760.0}
+{"id": "zMyKsnjYZTI-t3760.0", "text": "Yeah.", "start": 3760.0, "end": 3762.0}
+{"id": "zMyKsnjYZTI-t3762.0", "text": "Let me just say that because then we'll open it up to the audience, but I just want to ask Jim if you had any other comment about this.", "start": 3762.0, "end": 3771.0}
+{"id": "zMyKsnjYZTI-t3771.0", "text": "It's removed.", "start": 3771.0, "end": 3772.0}
+{"id": "zMyKsnjYZTI-t3772.0", "text": "So why don't we open it up?", "start": 3772.0, "end": 3773.0}
+{"id": "zMyKsnjYZTI-t3773.0", "text": "Okay.", "start": 3773.0, "end": 3775.0}
+{"id": "zMyKsnjYZTI-t3775.0", "text": "Yes.", "start": 3775.0, "end": 3777.0}
+{"id": "zMyKsnjYZTI-t3777.0", "text": "Thank you for really providing some very stimulating.", "start": 3777.0, "end": 3787.0}
+{"id": "zMyKsnjYZTI-t3787.0", "text": "I'm sorry I have a partially paralyzed vocal accord and this is all I can do.", "start": 3787.0, "end": 3792.0}
+{"id": "zMyKsnjYZTI-t3792.0", "text": "Right.", "start": 3792.0, "end": 3793.0}
+{"id": "zMyKsnjYZTI-t3793.0", "text": "Any closer to the mic.", "start": 3793.0, "end": 3794.0}
+{"id": "zMyKsnjYZTI-t3794.0", "text": "Thank you all for your comments, which I think you've been very stimulating.", "start": 3794.0, "end": 3799.0}
+{"id": "zMyKsnjYZTI-t3799.0", "text": "I feel like it's a lot more complicated than the issues that you've mentioned.", "start": 3799.0, "end": 3807.0}
+{"id": "zMyKsnjYZTI-t3807.0", "text": "Power and control, I think, are almost, if not actually instinctual.", "start": 3807.0, "end": 3815.0}
+{"id": "zMyKsnjYZTI-t3815.0", "text": "I think that the human being has impulses to hurt.", "start": 3815.0, "end": 3826.0}
+{"id": "zMyKsnjYZTI-t3826.0", "text": "I just heard a patient tell me, the patient I've known a long time just told me for the first time that when he was four to five years old,", "start": 3826.0, "end": 3834.0}
+{"id": "zMyKsnjYZTI-t3834.0", "text": "remember dropping kittens down this stairwell of his building, then holding them under water until the bubble stopped.", "start": 3834.0, "end": 3842.0}
+{"id": "zMyKsnjYZTI-t3842.0", "text": "Now I understand that some of this kind of behavior is a result of the trauma that he had experienced earlier.", "start": 3842.0, "end": 3848.0}
+{"id": "zMyKsnjYZTI-t3848.0", "text": "But there's a lot of that that's out there.", "start": 3848.0, "end": 3853.0}
+{"id": "zMyKsnjYZTI-t3853.0", "text": "There's a lot of people that love Schodenfraub.", "start": 3853.0, "end": 3858.0}
+{"id": "zMyKsnjYZTI-t3858.0", "text": "Okay.", "start": 3858.0, "end": 3859.0}
+{"id": "zMyKsnjYZTI-t3859.0", "text": "And I think that's very important.", "start": 3859.0, "end": 3860.0}
+{"id": "zMyKsnjYZTI-t3860.0", "text": "I think that's something that I think may be instinctual and is not something that's educated.", "start": 3860.0, "end": 3866.0}
+{"id": "zMyKsnjYZTI-t3866.0", "text": "I don't think that a three or four year old boy has been, has been, uh,", "start": 3866.0, "end": 3870.0}
+{"id": "zMyKsnjYZTI-t3870.0", "text": "cultivated to kill cats or dissect insects or break the heads off of chickens.", "start": 3870.0, "end": 3885.0}
+{"id": "zMyKsnjYZTI-t3885.0", "text": "I think there's something instinctual there.", "start": 3885.0, "end": 3887.0}
+{"id": "zMyKsnjYZTI-t3887.0", "text": "Well that's pathological behavior.", "start": 3887.0, "end": 3889.0}
+{"id": "zMyKsnjYZTI-t3889.0", "text": "It's not normal.", "start": 3889.0, "end": 3890.0}
+{"id": "zMyKsnjYZTI-t3890.0", "text": "Is it?", "start": 3890.0, "end": 3891.0}
+{"id": "zMyKsnjYZTI-t3891.0", "text": "I've been my experience.", "start": 3891.0, "end": 3892.0}
+{"id": "zMyKsnjYZTI-t3892.0", "text": "I was a boy myself.", "start": 3892.0, "end": 3893.0}
+{"id": "zMyKsnjYZTI-t3893.0", "text": "I don't remember.", "start": 3893.0, "end": 3894.0}
+{"id": "zMyKsnjYZTI-t3894.0", "text": "Well, I would say, well, I would say what is the norm?", "start": 3894.0, "end": 3897.0}
+{"id": "zMyKsnjYZTI-t3897.0", "text": "You see?", "start": 3897.0, "end": 3898.0}
+{"id": "zMyKsnjYZTI-t3898.0", "text": "Okay, it was.", "start": 3898.0, "end": 3900.0}
+{"id": "zMyKsnjYZTI-t3900.0", "text": "Well, you think you were.", "start": 3900.0, "end": 3901.0}
+{"id": "zMyKsnjYZTI-t3901.0", "text": "I'm not sure you were.", "start": 3901.0, "end": 3902.0}
+{"id": "zMyKsnjYZTI-t3902.0", "text": "Okay.", "start": 3902.0, "end": 3903.0}
+{"id": "zMyKsnjYZTI-t3903.0", "text": "How did you think you were?", "start": 3903.0, "end": 3904.0}
+{"id": "zMyKsnjYZTI-t3904.0", "text": "How did you think you were?", "start": 3904.0, "end": 3905.0}
+{"id": "zMyKsnjYZTI-t3905.0", "text": "How did you think you were?", "start": 3905.0, "end": 3906.0}
+{"id": "zMyKsnjYZTI-t3906.0", "text": "How did you think you were?", "start": 3906.0, "end": 3907.0}
+{"id": "zMyKsnjYZTI-t3907.0", "text": "How did you think you were?", "start": 3907.0, "end": 3908.0}
+{"id": "zMyKsnjYZTI-t3908.0", "text": "I think the sadistic child fits well into the 3% or the 10% who are abnormal.", "start": 3908.0, "end": 3911.0}
+{"id": "zMyKsnjYZTI-t3911.0", "text": "Yeah, but I think there's more than 3%.", "start": 3911.0, "end": 3913.0}
+{"id": "zMyKsnjYZTI-t3913.0", "text": "I really do.", "start": 3913.0, "end": 3914.0}
+{"id": "zMyKsnjYZTI-t3914.0", "text": "Yeah, because Churchill would feel like the 3%.", "start": 3914.0, "end": 3916.0}
+{"id": "zMyKsnjYZTI-t3916.0", "text": "Look, how many hundreds of thousands of people fill our football stadiums every year?", "start": 3916.0, "end": 3921.0}
+{"id": "zMyKsnjYZTI-t3921.0", "text": "That's more than 3%.", "start": 3921.0, "end": 3923.0}
+{"id": "zMyKsnjYZTI-t3923.0", "text": "Okay.", "start": 3923.0, "end": 3924.0}
+{"id": "zMyKsnjYZTI-t3924.0", "text": "Our soccer stadiums.", "start": 3924.0, "end": 3925.0}
+{"id": "zMyKsnjYZTI-t3925.0", "text": "If you go around the world, it's more than 3%.", "start": 3925.0, "end": 3928.0}
+{"id": "zMyKsnjYZTI-t3928.0", "text": "Yeah, but soccer is not sadistic.", "start": 3928.0, "end": 3930.0}
+{"id": "zMyKsnjYZTI-t3930.0", "text": "Football is.", "start": 3930.0, "end": 3931.0}
+{"id": "zMyKsnjYZTI-t3931.0", "text": "I grant you.", "start": 3931.0, "end": 3932.0}
+{"id": "zMyKsnjYZTI-t3932.0", "text": "Well, you know, it depends on how you play soccer.", "start": 3932.0, "end": 3934.0}
+{"id": "zMyKsnjYZTI-t3934.0", "text": "I would say you're a father.", "start": 3934.0, "end": 3936.0}
+{"id": "zMyKsnjYZTI-t3936.0", "text": "In which player you're talking about.", "start": 3936.0, "end": 3937.0}
+{"id": "zMyKsnjYZTI-t3937.0", "text": "I wouldn't say that soccer's necessarily not sadistic.", "start": 3937.0, "end": 3942.0}
+{"id": "zMyKsnjYZTI-t3942.0", "text": "So I think that there's something about, there's also part of the reason for competition,", "start": 3942.0, "end": 3950.0}
+{"id": "zMyKsnjYZTI-t3950.0", "text": "and male competition, and war is castration anxiety.", "start": 3950.0, "end": 3955.0}
+{"id": "zMyKsnjYZTI-t3955.0", "text": "We have to prove that we're not vulnerable.", "start": 3955.0, "end": 3958.0}
+{"id": "zMyKsnjYZTI-t3958.0", "text": "We deal with that by trying to castrate somebody else.", "start": 3958.0, "end": 3963.0}
+{"id": "zMyKsnjYZTI-t3963.0", "text": "And this is a different level than you all have been talking about.", "start": 3963.0, "end": 3966.0}
+{"id": "zMyKsnjYZTI-t3966.0", "text": "I'm a Freudian analytic therapist, so this is the level that I think about many things at.", "start": 3966.0, "end": 3973.0}
+{"id": "zMyKsnjYZTI-t3973.0", "text": "And so I just think that there's a more basic element.", "start": 3973.0, "end": 3979.0}
+{"id": "zMyKsnjYZTI-t3979.0", "text": "Our speaker here says there's no war for 10,000 years.", "start": 3979.0, "end": 3982.0}
+{"id": "zMyKsnjYZTI-t3982.0", "text": "You know something?", "start": 3982.0, "end": 3983.0}
+{"id": "zMyKsnjYZTI-t3983.0", "text": "I don't know how that could be right.", "start": 3983.0, "end": 3986.0}
+{"id": "zMyKsnjYZTI-t3986.0", "text": "I understand that you spent 20 years researching that.", "start": 3986.0, "end": 3989.0}
+{"id": "zMyKsnjYZTI-t3989.0", "text": "But I think there's either something you're missing or something you don't understand.", "start": 3989.0, "end": 3993.0}
+{"id": "zMyKsnjYZTI-t3993.0", "text": "I just cannot believe that there was not something.", "start": 3993.0, "end": 3997.0}
+{"id": "zMyKsnjYZTI-t3997.0", "text": "That's exactly what I'm talking about.", "start": 3997.0, "end": 3999.0}
+{"id": "zMyKsnjYZTI-t3999.0", "text": "You don't know anything about the area, yet you know the history,", "start": 3999.0, "end": 4002.0}
+{"id": "zMyKsnjYZTI-t4002.0", "text": "better than someone who's gone through the entire archaeological record of this,", "start": 4002.0, "end": 4006.0}
+{"id": "zMyKsnjYZTI-t4006.0", "text": "who's gone through every reputed case, looked at every instance.", "start": 4006.0, "end": 4009.0}
+{"id": "zMyKsnjYZTI-t4009.0", "text": "Well it doesn't sound like I'm wrong.", "start": 4009.0, "end": 4011.0}
+{"id": "zMyKsnjYZTI-t4011.0", "text": "It doesn't sound like I'm wrong.", "start": 4011.0, "end": 4013.0}
+{"id": "zMyKsnjYZTI-t4013.0", "text": "You don't understand the longest and rightness, you are wrong.", "start": 4013.0, "end": 4017.0}
+{"id": "zMyKsnjYZTI-t4017.0", "text": "It doesn't sound like I'm wrong.", "start": 4017.0, "end": 4019.0}
+{"id": "zMyKsnjYZTI-t4019.0", "text": "Okay, I will just...", "start": 4019.0, "end": 4021.0}
+{"id": "zMyKsnjYZTI-t4021.0", "text": "Yeah, next question.", "start": 4021.0, "end": 4024.0}
+{"id": "zMyKsnjYZTI-t4024.0", "text": "Hi, my name is Ben Roth.", "start": 4024.0, "end": 4027.0}
+{"id": "zMyKsnjYZTI-t4027.0", "text": "I'm also a group therapist as well as being an animal that I've been trained.", "start": 4027.0, "end": 4032.0}
+{"id": "zMyKsnjYZTI-t4032.0", "text": "I've been working for 10 years since 9-11 on psychogroup therapies,", "start": 4032.0, "end": 4040.0}
+{"id": "zMyKsnjYZTI-t4040.0", "text": "avoidance of talking about violent groups.", "start": 4040.0, "end": 4045.0}
+{"id": "zMyKsnjYZTI-t4045.0", "text": "As part of the correction, not everybody fired and be lying.", "start": 4045.0, "end": 4050.0}
+{"id": "zMyKsnjYZTI-t4050.0", "text": "There was one platoon that didn't fire.", "start": 4050.0, "end": 4054.0}
+{"id": "zMyKsnjYZTI-t4054.0", "text": "This comes from Bob Lifting, who I've spoken with.", "start": 4054.0, "end": 4059.0}
+{"id": "zMyKsnjYZTI-t4059.0", "text": "They had recently lost their sergeant, who was very beloved as a caretaker,", "start": 4059.0, "end": 4065.0}
+{"id": "zMyKsnjYZTI-t4065.0", "text": "and they were in mourning and hoped the people that responded as a group.", "start": 4065.0, "end": 4070.0}
+{"id": "zMyKsnjYZTI-t4070.0", "text": "The only group that didn't fire and be lying was this group had recently lost their sergeant.", "start": 4070.0, "end": 4078.0}
+{"id": "zMyKsnjYZTI-t4078.0", "text": "Also as a correction, millgroom's experiments did not require lethal.", "start": 4078.0, "end": 4085.0}
+{"id": "zMyKsnjYZTI-t4085.0", "text": "That's one of the criticisms of millgroom study is that it was painful, not lethal.", "start": 4085.0, "end": 4093.0}
+{"id": "zMyKsnjYZTI-t4093.0", "text": "The top of the dial, the people were told that it could be life-threatening.", "start": 4093.0, "end": 4099.0}
+{"id": "zMyKsnjYZTI-t4099.0", "text": "It could be life-threatening.", "start": 4099.0, "end": 4100.0}
+{"id": "zMyKsnjYZTI-t4100.0", "text": "The actor said, I think I'm having a heart attack or had some kind of...", "start": 4100.0, "end": 4104.0}
+{"id": "zMyKsnjYZTI-t4104.0", "text": "There's a difference.", "start": 4104.0, "end": 4105.0}
+{"id": "zMyKsnjYZTI-t4105.0", "text": "And anyone silent.", "start": 4105.0, "end": 4107.0}
+{"id": "zMyKsnjYZTI-t4107.0", "text": "So the subjects thought that the person might be uncomfortable.", "start": 4107.0, "end": 4110.0}
+{"id": "zMyKsnjYZTI-t4110.0", "text": "But it's not the same as pulling a switch in Auschwitz.", "start": 4110.0, "end": 4115.0}
+{"id": "zMyKsnjYZTI-t4115.0", "text": "My interest is in genocide, which is a particular form of killing, mass killing,", "start": 4115.0, "end": 4122.0}
+{"id": "zMyKsnjYZTI-t4122.0", "text": "and that is usually derived from war.", "start": 4122.0, "end": 4125.0}
+{"id": "zMyKsnjYZTI-t4125.0", "text": "But I want to tell you about a French group therapist who might support some of your findings.", "start": 4125.0, "end": 4132.0}
+{"id": "zMyKsnjYZTI-t4132.0", "text": "He essentially says all groups are established to establish security first.", "start": 4132.0, "end": 4139.0}
+{"id": "zMyKsnjYZTI-t4139.0", "text": "That that's the main goal and to have free transactions among the group.", "start": 4139.0, "end": 4144.0}
+{"id": "zMyKsnjYZTI-t4144.0", "text": "It's only when that is disrupted in some form and there is no mechanism for dealing with it that a group will become violent.", "start": 4144.0, "end": 4153.0}
+{"id": "zMyKsnjYZTI-t4153.0", "text": "One of the ways that groups become violent is to find another.", "start": 4153.0, "end": 4159.0}
+{"id": "zMyKsnjYZTI-t4159.0", "text": "And other is to find that somebody not like the main characteristics of the group.", "start": 4159.0, "end": 4164.0}
+{"id": "zMyKsnjYZTI-t4164.0", "text": "It's not quite a stranger because a stranger can be brought in and can be educated.", "start": 4164.0, "end": 4171.0}
+{"id": "zMyKsnjYZTI-t4171.0", "text": "But the other otherization seems to be a group phenomena, which was used by Solomon Ash in the German studies by creating otherization.", "start": 4171.0, "end": 4185.0}
+{"id": "zMyKsnjYZTI-t4185.0", "text": "And if you hear and analyze Hitler's speeches, I haven't done it, but I just discussed and contempt for another person or another group was the central issue of how Hitler spoke about Jews.", "start": 4185.0, "end": 4204.0}
+{"id": "zMyKsnjYZTI-t4204.0", "text": "And this is a process of otherization.", "start": 4204.0, "end": 4207.0}
+{"id": "zMyKsnjYZTI-t4207.0", "text": "So when you look at this study in terms of group behavior,", "start": 4207.0, "end": 4213.0}
+{"id": "zMyKsnjYZTI-t4213.0", "text": "they were bypassing this plane when they were making somebody else into another by maintaining a secure group.", "start": 4213.0, "end": 4223.0}
+{"id": "zMyKsnjYZTI-t4223.0", "text": "Well the question I would like to respond to the idea of security, not just domestication.", "start": 4223.0, "end": 4231.0}
+{"id": "zMyKsnjYZTI-t4231.0", "text": "I just want to point out that in a way you could just be talking about tribalism and even the kind of fanaticism that you get with sports fans, which I experienced firsthand.", "start": 4231.0, "end": 4243.0}
+{"id": "zMyKsnjYZTI-t4243.0", "text": "And it's totally irrational and I assume that there is some involved program for that.", "start": 4243.0, "end": 4249.0}
+{"id": "zMyKsnjYZTI-t4249.0", "text": "But that doesn't necessarily lead to, and you even see it between Obama supporters and Romney supporters now.", "start": 4249.0, "end": 4259.0}
+{"id": "zMyKsnjYZTI-t4259.0", "text": "That doesn't necessarily have to become violent.", "start": 4259.0, "end": 4262.0}
+{"id": "zMyKsnjYZTI-t4262.0", "text": "And if we could have a world in which we still have fanatical tribalism and all sorts of bickering and fighting over politics and sports and whatever, but without the violence, which I think is quite possible, then obviously that would be a better world.", "start": 4262.0, "end": 4281.0}
+{"id": "zMyKsnjYZTI-t4281.0", "text": "There's no reason that we can't achieve that. Those two programs, the violence and the tribalism, are not necessarily connected.", "start": 4281.0, "end": 4290.0}
+{"id": "zMyKsnjYZTI-t4290.0", "text": "They're two different things.", "start": 4290.0, "end": 4292.0}
+{"id": "zMyKsnjYZTI-t4292.0", "text": "They are in group theory and all the issues about group tend to disprove your hypothesis.", "start": 4292.0, "end": 4300.0}
+{"id": "zMyKsnjYZTI-t4300.0", "text": "Okay.", "start": 4300.0, "end": 4303.0}
+{"id": "zMyKsnjYZTI-t4303.0", "text": "I'm Prince Kenzel, I'm a psychiatrist and psychoanalyst.", "start": 4303.0, "end": 4307.0}
+{"id": "zMyKsnjYZTI-t4307.0", "text": "A little bit closer to the mic.", "start": 4307.0, "end": 4310.0}
+{"id": "zMyKsnjYZTI-t4310.0", "text": "I'd like to just question the issue of the conference.", "start": 4310.0, "end": 4314.0}
+{"id": "zMyKsnjYZTI-t4314.0", "text": "Is male male competition does the lead to war?", "start": 4314.0, "end": 4319.0}
+{"id": "zMyKsnjYZTI-t4319.0", "text": "I'm conscious anxiety with male competition is envy and jealousy.", "start": 4319.0, "end": 4327.0}
+{"id": "zMyKsnjYZTI-t4327.0", "text": "Yes.", "start": 4327.0, "end": 4328.0}
+{"id": "zMyKsnjYZTI-t4328.0", "text": "Envy and jealousy.", "start": 4328.0, "end": 4330.0}
+{"id": "zMyKsnjYZTI-t4330.0", "text": "Envy is an intent to bust out someone's lights, is to snuff out their flame.", "start": 4330.0, "end": 4337.0}
+{"id": "zMyKsnjYZTI-t4337.0", "text": "I can't stand it that you have it and I don't have it.", "start": 4337.0, "end": 4341.0}
+{"id": "zMyKsnjYZTI-t4341.0", "text": "Jealousy is you have more than I do.", "start": 4341.0, "end": 4345.0}
+{"id": "zMyKsnjYZTI-t4345.0", "text": "So I'm going to demote you. I'm going to pull you down.", "start": 4345.0, "end": 4348.0}
+{"id": "zMyKsnjYZTI-t4348.0", "text": "But neither of those are killing.", "start": 4348.0, "end": 4352.0}
+{"id": "zMyKsnjYZTI-t4352.0", "text": "The other issue is going from biology to humans.", "start": 4352.0, "end": 4360.0}
+{"id": "zMyKsnjYZTI-t4360.0", "text": "I was a medical center for federal prisoners in Missouri and I had the most violent mentally ill people.", "start": 4360.0, "end": 4368.0}
+{"id": "zMyKsnjYZTI-t4368.0", "text": "I did a study on violent prisoners versus non-violent prisoners.", "start": 4368.0, "end": 4372.0}
+{"id": "zMyKsnjYZTI-t4372.0", "text": "I had the prisoners stand in the center of a room and was me with my white coat on.", "start": 4372.0, "end": 4380.0}
+{"id": "zMyKsnjYZTI-t4380.0", "text": "I said, I'm going to take a step toward you.", "start": 4380.0, "end": 4382.0}
+{"id": "zMyKsnjYZTI-t4382.0", "text": "If you feel I'm too close, tell me to stop.", "start": 4382.0, "end": 4386.0}
+{"id": "zMyKsnjYZTI-t4386.0", "text": "Take a step and go say, okay, take another step, stop.", "start": 4386.0, "end": 4390.0}
+{"id": "zMyKsnjYZTI-t4390.0", "text": "The body buffer zone or territoriality around the inmate was four times larger in the violent people than in the non-violent people.", "start": 4390.0, "end": 4398.0}
+{"id": "zMyKsnjYZTI-t4398.0", "text": "So there's a pathological territoriality that I think may, if two are going down a corridor at right angles and they pump into each other, there isn't a salt, there's violence.", "start": 4398.0, "end": 4411.0}
+{"id": "zMyKsnjYZTI-t4411.0", "text": "The men would describe when I hit that point when they said stop, they felt I was looming.", "start": 4411.0, "end": 4423.0}
+{"id": "zMyKsnjYZTI-t4423.0", "text": "They actually felt I was rushing. It was almost a hallucination. I had stopped.", "start": 4423.0, "end": 4429.0}
+{"id": "zMyKsnjYZTI-t4429.0", "text": "But they felt almost as if I was on camera that I was looming at them.", "start": 4429.0, "end": 4434.0}
+{"id": "zMyKsnjYZTI-t4434.0", "text": "So there was a perception. Suddenly I was dangerous. One in fact, I was not.", "start": 4434.0, "end": 4440.0}
+{"id": "zMyKsnjYZTI-t4440.0", "text": "The final thing is the weapons of mass destruction of Iraq, you can make a case for a kind of paranoid group.", "start": 4440.0, "end": 4452.0}
+{"id": "zMyKsnjYZTI-t4452.0", "text": "Where the Wilson, Bush, Cheney, and so on are whipping each other up.", "start": 4452.0, "end": 4460.0}
+{"id": "zMyKsnjYZTI-t4460.0", "text": "And I kind of, if you listen to Hitler's tone in these two or three hour rants that he had, a tone of almost ecstasy.", "start": 4460.0, "end": 4473.0}
+{"id": "zMyKsnjYZTI-t4473.0", "text": "There's a quality of almost erotic arousal that the French have the expression foliar du, madness of two, foliar, and so on.", "start": 4473.0, "end": 4486.0}
+{"id": "zMyKsnjYZTI-t4486.0", "text": "That this thing escalates, escalates the point where they almost have to go to war.", "start": 4486.0, "end": 4491.0}
+{"id": "zMyKsnjYZTI-t4491.0", "text": "In other words, it's a psychotic delusional state. I guess that's what I want to just introduce the notion that war may be psychotic.", "start": 4491.0, "end": 4501.0}
+{"id": "zMyKsnjYZTI-t4501.0", "text": "I remember they had a lot of help from supposedly rational liberals like some of the pundits for the New York Times in going into Iraq.", "start": 4501.0, "end": 4514.0}
+{"id": "zMyKsnjYZTI-t4514.0", "text": "Thank you. I appreciate your comments. My name is Ben White. I'm a psychotherapist in training.", "start": 4514.0, "end": 4519.0}
+{"id": "zMyKsnjYZTI-t4519.0", "text": "Then we'll close with the mic. Can you hear me? I'll speak here. My name is Ben White. I'm a psychotherapist in training.", "start": 4519.0, "end": 4526.0}
+{"id": "zMyKsnjYZTI-t4526.0", "text": "I was listening. I was thinking of two incidences of male-male confrontation that I've had in the last three days.", "start": 4526.0, "end": 4533.0}
+{"id": "zMyKsnjYZTI-t4533.0", "text": "I live in southern Vermont. And I walk with my dog every day across the road.", "start": 4533.0, "end": 4538.0}
+{"id": "zMyKsnjYZTI-t4538.0", "text": "It's a dirt road on National Forest Land. To let him off a leash. You wandered up a corner the other day.", "start": 4538.0, "end": 4544.0}
+{"id": "zMyKsnjYZTI-t4544.0", "text": "I heard a gunshot ring out. I rounded the corner and there was a guy walking down the trail.", "start": 4544.0, "end": 4553.0}
+{"id": "zMyKsnjYZTI-t4553.0", "text": "He had a 22 pistol in his hand. Thankfully, my dog was fine. He was sitting there.", "start": 4553.0, "end": 4559.0}
+{"id": "zMyKsnjYZTI-t4559.0", "text": "My thought was what the heck just happened. He approached me, thankfully, holstered his weapon and had this very strange interaction with him.", "start": 4559.0, "end": 4570.0}
+{"id": "zMyKsnjYZTI-t4570.0", "text": "Where he proceeded to convince me that my dog was posing some sort of threat to him.", "start": 4570.0, "end": 4575.0}
+{"id": "zMyKsnjYZTI-t4575.0", "text": "He perceived and I maintain as I'm sure everybody else does. My dog is the sweetest dog in the world.", "start": 4575.0, "end": 4581.0}
+{"id": "zMyKsnjYZTI-t4581.0", "text": "His contention was he was growling at me. My thought was, well, maybe if you put that 22 away, he wouldn't growl at you.", "start": 4581.0, "end": 4591.0}
+{"id": "zMyKsnjYZTI-t4591.0", "text": "I was left with the sensation of what the hell happened to this guy.", "start": 4591.0, "end": 4597.0}
+{"id": "zMyKsnjYZTI-t4597.0", "text": "What was it that caused that reaction? I was very interested in your comments about attributing these kinds of tendencies to respond to conflict in a particular way.", "start": 4597.0, "end": 4610.0}
+{"id": "zMyKsnjYZTI-t4610.0", "text": "Maybe back to one event. I think the application of theories on the intergenerational transmission of these responses to traumas.", "start": 4610.0, "end": 4620.0}
+{"id": "zMyKsnjYZTI-t4620.0", "text": "Everybody history is not without its traumas. I'm very curious about how that has worked itself out in our culture.", "start": 4620.0, "end": 4631.0}
+{"id": "zMyKsnjYZTI-t4631.0", "text": "I guess if I could pose this in a question, I would ask how would you classify our role as people having informed conversations about this sort of thing in furthering this conversation.", "start": 4631.0, "end": 4646.0}
+{"id": "zMyKsnjYZTI-t4646.0", "text": "Maybe as members of this world and this culture, I'm not so deluded that I can change the entire world. But what do you think is our role?", "start": 4646.0, "end": 4663.0}
+{"id": "zMyKsnjYZTI-t4663.0", "text": "I hate to use your gentleman as an example, but how I saw a little moment of conflict there. And just pose the question, how would that have worked itself out differently?", "start": 4663.0, "end": 4674.0}
+{"id": "zMyKsnjYZTI-t4674.0", "text": "You two had different backgrounds with how to resolve conflict. So I'll open that, I guess, to anybody.", "start": 4674.0, "end": 4683.0}
+{"id": "zMyKsnjYZTI-t4683.0", "text": "I didn't know my job.", "start": 4683.0, "end": 4686.0}
+{"id": "zMyKsnjYZTI-t4686.0", "text": "Well, there's a number of questions. Go ahead. No, go ahead. No, no, no, please.", "start": 4686.0, "end": 4695.0}
+{"id": "zMyKsnjYZTI-t4695.0", "text": "A number of possible answers. I mean, one is that it could be if you two had very different, these two individuals had very different backgrounds.", "start": 4695.0, "end": 4703.0}
+{"id": "zMyKsnjYZTI-t4703.0", "text": "It could have been a very different result. It would have been something that it would have been seen.", "start": 4703.0, "end": 4709.0}
+{"id": "zMyKsnjYZTI-t4709.0", "text": "I did my field research in Puerto Rico. One of the things that I saw was conversations escalate into nearly violent arguments in ways that took me quite by surprise when someone said something to challenge the legitimacy of someone else speaking.", "start": 4709.0, "end": 4727.0}
+{"id": "zMyKsnjYZTI-t4727.0", "text": "Where, to me, it was just kind of normal back and forth. It was taken in a very different way. And it was suddenly pulling people apart.", "start": 4727.0, "end": 4735.0}
+{"id": "zMyKsnjYZTI-t4735.0", "text": "I don't want to make too much out of that, but it was just a different kind of reaction than I was accustomed to.", "start": 4735.0, "end": 4740.0}
+{"id": "zMyKsnjYZTI-t4740.0", "text": "And there's infinite numbers of ways you could multiply it. And I think going back to one of the things Ed said before that we have been in this conversation kind of conflating things from individual to males versus females to cultures in war.", "start": 4740.0, "end": 4755.0}
+{"id": "zMyKsnjYZTI-t4755.0", "text": "And it's important to keep these things distinct when we're talking about what we can do about it.", "start": 4755.0, "end": 4762.0}
+{"id": "zMyKsnjYZTI-t4762.0", "text": "And I think that the thing at the individual level, I think that that's where you can make the impact.", "start": 4762.0, "end": 4768.0}
+{"id": "zMyKsnjYZTI-t4768.0", "text": "I don't think that while the idea that you were talking about about psychopathic in war, there's an article in the journal Military Review, which I can't remember the author's name.", "start": 4768.0, "end": 4783.0}
+{"id": "zMyKsnjYZTI-t4783.0", "text": "The military of the military psychopath, where it is stated quite clearly, not as an intellectual exercise, you've got to find these people because you can use them.", "start": 4783.0, "end": 4796.0}
+{"id": "zMyKsnjYZTI-t4796.0", "text": "And then I went to my friend, former drill sergeant, said, is there a process of finding these people in basic training and said, yes, there is.", "start": 4796.0, "end": 4806.0}
+{"id": "zMyKsnjYZTI-t4806.0", "text": "So that's part of the system. It's not why wars happen. So that's where you go from something like psychopathic to war, not in an integral way.", "start": 4806.0, "end": 4819.0}
+{"id": "zMyKsnjYZTI-t4819.0", "text": "But if you have psychopaths at the top, and this is something that a lot of people have argued by, if you get to that point in our political system, pretty good chance you're a psychopath.", "start": 4819.0, "end": 4829.0}
+{"id": "zMyKsnjYZTI-t4829.0", "text": "People have said that. Maybe then it does have a factor. The idea of trying to discriminate these things is very important, but you said this was fluid.", "start": 4829.0, "end": 4839.0}
+{"id": "zMyKsnjYZTI-t4839.0", "text": "That's what we're going for. You know, going for fluid. So if you're writing a paper, you've got to be non fluid and try and tamp it down.", "start": 4839.0, "end": 4847.0}
+{"id": "zMyKsnjYZTI-t4847.0", "text": "At the larger global level of war, some of the reactions, when I was working on this some time ago, not the recent work on the Near East, but a similar project.", "start": 4847.0, "end": 4858.0}
+{"id": "zMyKsnjYZTI-t4858.0", "text": "Looking globally, I told both my mother and my mother-in-law, neither of whom had any academic inclination whatsoever, that the point was that there was a time before a war.", "start": 4858.0, "end": 4871.0}
+{"id": "zMyKsnjYZTI-t4871.0", "text": "If you're going just by the evidence, it's clear that there wasn't war in these earlier records.", "start": 4871.0, "end": 4876.0}
+{"id": "zMyKsnjYZTI-t4876.0", "text": "Both of them came back with something like, you've got to be kidding me.", "start": 4876.0, "end": 4880.0}
+{"id": "zMyKsnjYZTI-t4880.0", "text": "Because they just knew there was war. And as you do. And what I'm saying is, I could be wrong.", "start": 4880.0, "end": 4889.0}
+{"id": "zMyKsnjYZTI-t4889.0", "text": "But if I'm answering this kind of question, I'm saying let's look at evidence.", "start": 4889.0, "end": 4895.0}
+{"id": "zMyKsnjYZTI-t4895.0", "text": "And for the Near East and for the earlier periods in Europe, it's clear that there is evidence in some places and in some times, and in other places and in other times there isn't.", "start": 4895.0, "end": 4907.0}
+{"id": "zMyKsnjYZTI-t4907.0", "text": "And that you should take that as the facts and then try to make your theories accommodate those rather than what you know before you go into it from the way you've grown up in our society.", "start": 4907.0, "end": 4919.0}
+{"id": "zMyKsnjYZTI-t4919.0", "text": "So you've got to, I think for what you're doing, I think working at the individual level in Vermont, you know, I've got friends in Vermont and they complain about what they call the alternatives.", "start": 4919.0, "end": 4930.0}
+{"id": "zMyKsnjYZTI-t4930.0", "text": "The new people move up who complain when they're spent, they're spent shells, land on their roofs and make noise.", "start": 4930.0, "end": 4937.0}
+{"id": "zMyKsnjYZTI-t4937.0", "text": "These guys just don't know how to do country living. So you may have to make an adjustment for the Vermont local culture too.", "start": 4937.0, "end": 4944.0}
+{"id": "zMyKsnjYZTI-t4944.0", "text": "I want to make sure my dog.", "start": 4944.0, "end": 4947.0}
+{"id": "zMyKsnjYZTI-t4947.0", "text": "Yeah, I'd say the rational person would not risk life in a confrontation with somebody who has a gun when you don't.", "start": 4947.0, "end": 4956.0}
+{"id": "zMyKsnjYZTI-t4956.0", "text": "So the psychopath could be on either side. But a person with reasonable judgment would be able to avoid conflict.", "start": 4956.0, "end": 4966.0}
+{"id": "zMyKsnjYZTI-t4966.0", "text": "I am recalling the technology studies in the 1960s that showed that social animals like wolves and apes do have the male establishment of hierarchy among males.", "start": 4966.0, "end": 4981.0}
+{"id": "zMyKsnjYZTI-t4981.0", "text": "But this number two guy will make a resignation move like this exposing the jugular which stops the fight.", "start": 4981.0, "end": 4991.0}
+{"id": "zMyKsnjYZTI-t4991.0", "text": "And that's good for the species. And I think if some get killed, a few.", "start": 4991.0, "end": 4999.0}
+{"id": "zMyKsnjYZTI-t4999.0", "text": "That's the issue. You see on the bottom of the post-doc.", "start": 4999.0, "end": 5002.0}
+{"id": "zMyKsnjYZTI-t5002.0", "text": "But the majority, the reflex works.", "start": 5002.0, "end": 5012.0}
+{"id": "zMyKsnjYZTI-t5012.0", "text": "Yes.", "start": 5012.0, "end": 5015.0}
+{"id": "zMyKsnjYZTI-t5015.0", "text": "How do you know it doesn't work for men?", "start": 5015.0, "end": 5021.0}
+{"id": "zMyKsnjYZTI-t5021.0", "text": "Well, I don't think we have evidence. But don't turn your back on the person with a gun.", "start": 5021.0, "end": 5029.0}
+{"id": "zMyKsnjYZTI-t5029.0", "text": "Hi, everyone. Thank you for the talk.", "start": 5029.0, "end": 5034.0}
+{"id": "zMyKsnjYZTI-t5034.0", "text": "My name is Elizabeth Reed. I have two reflections and a question.", "start": 5034.0, "end": 5045.0}
+{"id": "zMyKsnjYZTI-t5045.0", "text": "My first reflection is the contagion of war.", "start": 5045.0, "end": 5054.0}
+{"id": "zMyKsnjYZTI-t5054.0", "text": "I was going back to this 10,000 years of peace that reminded me of Eden.", "start": 5054.0, "end": 5059.0}
+{"id": "zMyKsnjYZTI-t5059.0", "text": "I just wanted to bring of Eden. This idea of Eden and then the fall.", "start": 5059.0, "end": 5064.0}
+{"id": "zMyKsnjYZTI-t5064.0", "text": "And in that case, what is the fall? The fall is from a concept. A concept of war.", "start": 5064.0, "end": 5070.0}
+{"id": "zMyKsnjYZTI-t5070.0", "text": "So I just want to bring that as we bring our different concepts and different disciplines.", "start": 5070.0, "end": 5075.0}
+{"id": "zMyKsnjYZTI-t5075.0", "text": "I think there's some way that each of those inform perhaps the concepts we live out.", "start": 5075.0, "end": 5080.0}
+{"id": "zMyKsnjYZTI-t5080.0", "text": "Second, reflection. I guess I wanted to declare by allegiance to the optimistic side,", "start": 5080.0, "end": 5091.0}
+{"id": "zMyKsnjYZTI-t5091.0", "text": "along with John Horgan. And I want to, to the best of my ability and list,", "start": 5091.0, "end": 5095.0}
+{"id": "zMyKsnjYZTI-t5095.0", "text": "anyone who wants to join us. One of the things I think about is like a suicide.", "start": 5095.0, "end": 5102.0}
+{"id": "zMyKsnjYZTI-t5102.0", "text": "Who here as a clinician has dealt with? Someone who has suicidal ideation.", "start": 5102.0, "end": 5108.0}
+{"id": "zMyKsnjYZTI-t5108.0", "text": "And how serious is suicidal ideation? What makes suicidal ideation dangerous?", "start": 5108.0, "end": 5113.0}
+{"id": "zMyKsnjYZTI-t5113.0", "text": "The ideation. Once again, the power of the concept.", "start": 5113.0, "end": 5116.0}
+{"id": "zMyKsnjYZTI-t5116.0", "text": "And how do you work with someone who is suicidal ideation?", "start": 5116.0, "end": 5119.0}
+{"id": "zMyKsnjYZTI-t5119.0", "text": "You create a survival plan. Or what I might call survival ideation.", "start": 5119.0, "end": 5125.0}
+{"id": "zMyKsnjYZTI-t5125.0", "text": "And I think that's really what you were talking about about sort of what leads to war versus what leads to peace.", "start": 5125.0, "end": 5130.0}
+{"id": "zMyKsnjYZTI-t5130.0", "text": "Whether or not we have ways to share our grain and all the rest of it.", "start": 5130.0, "end": 5134.0}
+{"id": "zMyKsnjYZTI-t5134.0", "text": "This leads me to the question. We didn't talk about, I think to answer you,", "start": 5134.0, "end": 5140.0}
+{"id": "zMyKsnjYZTI-t5140.0", "text": "what are these, in these 10,000 years of peace, what are they? Who was the enemy?", "start": 5140.0, "end": 5146.0}
+{"id": "zMyKsnjYZTI-t5146.0", "text": "We talked about rise and fall in the population. Was the enemy not disease?", "start": 5146.0, "end": 5150.0}
+{"id": "zMyKsnjYZTI-t5150.0", "text": "Or how fragile human life was? And I think maybe we've lost that.", "start": 5150.0, "end": 5155.0}
+{"id": "zMyKsnjYZTI-t5155.0", "text": "And one thing we didn't talk about now is how much we don't accept the idea of death.", "start": 5155.0, "end": 5161.0}
+{"id": "zMyKsnjYZTI-t5161.0", "text": "We've disowned death in our culture. We prolong life at all costs.", "start": 5161.0, "end": 5166.0}
+{"id": "zMyKsnjYZTI-t5166.0", "text": "And maybe because we've lost this value of death, is that related to war?", "start": 5166.0, "end": 5171.0}
+{"id": "zMyKsnjYZTI-t5171.0", "text": "And how? I'd like to answer that because I was going to make a comment before and you have usurped my comment.", "start": 5171.0, "end": 5179.0}
+{"id": "zMyKsnjYZTI-t5179.0", "text": "Because it ties in with Ed's comment and I think it ties in with the whole notion of individuality also.", "start": 5179.0, "end": 5188.0}
+{"id": "zMyKsnjYZTI-t5188.0", "text": "And that is, and it also ties in with a moral education that we're talking at a certain level here.", "start": 5188.0, "end": 5195.0}
+{"id": "zMyKsnjYZTI-t5195.0", "text": "But we're not talking about the individual and the individual feelings and emotions that go on in everyday life.", "start": 5195.0, "end": 5202.0}
+{"id": "zMyKsnjYZTI-t5202.0", "text": "And it seems to me that that's a really important aspect because we are all vulnerable and we're all vulnerable in being alive among other humans.", "start": 5202.0, "end": 5213.0}
+{"id": "zMyKsnjYZTI-t5213.0", "text": "And that's a vulnerability that we don't, we're not really cognizant of.", "start": 5213.0, "end": 5221.0}
+{"id": "zMyKsnjYZTI-t5221.0", "text": "We don't let come into our aliveness at all.", "start": 5221.0, "end": 5225.0}
+{"id": "zMyKsnjYZTI-t5225.0", "text": "And it seems to me that that's a really important kind of realization.", "start": 5225.0, "end": 5230.0}
+{"id": "zMyKsnjYZTI-t5230.0", "text": "And the realization of our own death too is something that's tied to that.", "start": 5230.0, "end": 5236.0}
+{"id": "zMyKsnjYZTI-t5236.0", "text": "And one thing that I want to bring out with respect to your comment has to do with the proliferation of guns in this country,", "start": 5236.0, "end": 5245.0}
+{"id": "zMyKsnjYZTI-t5245.0", "text": "which simply exacerbates our vulnerability in being alive among other humans because we don't know what the hell another human is going to do to us,", "start": 5245.0, "end": 5253.0}
+{"id": "zMyKsnjYZTI-t5253.0", "text": "whether they have a gun in their pocket and when it's going to happen or whatever.", "start": 5253.0, "end": 5257.0}
+{"id": "zMyKsnjYZTI-t5257.0", "text": "And it just seems to me that that can't help in subliminal ways influence us in our everyday lives.", "start": 5257.0, "end": 5266.0}
+{"id": "zMyKsnjYZTI-t5266.0", "text": "When we go, we hear about Aurora or when we hear about these things in Milwaukee or wherever it is,", "start": 5266.0, "end": 5271.0}
+{"id": "zMyKsnjYZTI-t5271.0", "text": "it can happen anyplace that somebody can pull a gun that we're simply vulnerable.", "start": 5271.0, "end": 5276.0}
+{"id": "zMyKsnjYZTI-t5276.0", "text": "And that's at an individual level.", "start": 5276.0, "end": 5278.0}
+{"id": "zMyKsnjYZTI-t5278.0", "text": "So in our present day lives, it seems to me our fragility has been magnified in our, especially here in America with the proliferation of guns.", "start": 5278.0, "end": 5294.0}
+{"id": "zMyKsnjYZTI-t5294.0", "text": "It seems to me.", "start": 5294.0, "end": 5295.0}
+{"id": "zMyKsnjYZTI-t5295.0", "text": "A related comment.", "start": 5295.0, "end": 5296.0}
+{"id": "zMyKsnjYZTI-t5296.0", "text": "Yes.", "start": 5296.0, "end": 5297.0}
+{"id": "zMyKsnjYZTI-t5297.0", "text": "There are 50 gun suicides a day in the United States and 38 murders, 50 suicides, mostly by gun owners.", "start": 5297.0, "end": 5305.0}
+{"id": "zMyKsnjYZTI-t5305.0", "text": "Interesting. We don't hear about that from the NRA.", "start": 5305.0, "end": 5309.0}
+{"id": "zMyKsnjYZTI-t5309.0", "text": "But apparently they keep their membership roster up in other ways.", "start": 5309.0, "end": 5314.0}
+{"id": "zMyKsnjYZTI-t5314.0", "text": "Well, if I could just do one response on the idea of Eden, that I think is an appropriate point.", "start": 5314.0, "end": 5325.0}
+{"id": "zMyKsnjYZTI-t5325.0", "text": "The area that around 3,200 BC, there was the central Templar region of central Jordan was Megito.", "start": 5325.0, "end": 5342.0}
+{"id": "zMyKsnjYZTI-t5342.0", "text": "There was an enormous temple structure there, completely unfortified like all the temple structures had been.", "start": 5342.0, "end": 5349.0}
+{"id": "zMyKsnjYZTI-t5349.0", "text": "And then the Egyptian settlements, which had been there for several hundred years, put up their walls.", "start": 5349.0, "end": 5354.0}
+{"id": "zMyKsnjYZTI-t5354.0", "text": "And Megito put up a wall virtually the same home.", "start": 5354.0, "end": 5358.0}
+{"id": "zMyKsnjYZTI-t5358.0", "text": "We can't even tell which came first.", "start": 5358.0, "end": 5360.0}
+{"id": "zMyKsnjYZTI-t5360.0", "text": "And Megito was shortly thereafter abandoned.", "start": 5360.0, "end": 5364.0}
+{"id": "zMyKsnjYZTI-t5364.0", "text": "We don't know whether it was attacked. It's only been partially excavated.", "start": 5364.0, "end": 5367.0}
+{"id": "zMyKsnjYZTI-t5367.0", "text": "But they put up a wall, a terrible wall.", "start": 5367.0, "end": 5370.0}
+{"id": "zMyKsnjYZTI-t5370.0", "text": "It was a most poorly constructed defensive wall that you could find anywhere because they'd never done it before.", "start": 5370.0, "end": 5376.0}
+{"id": "zMyKsnjYZTI-t5376.0", "text": "But one of the things that you see in the temple, which is really striking, is a completely without precedent in the whole area.", "start": 5376.0, "end": 5386.0}
+{"id": "zMyKsnjYZTI-t5386.0", "text": "There's a copper, I'm sorry, a bronze sword.", "start": 5386.0, "end": 5390.0}
+{"id": "zMyKsnjYZTI-t5390.0", "text": "There's never been a sword anywhere in this area.", "start": 5390.0, "end": 5393.0}
+{"id": "zMyKsnjYZTI-t5393.0", "text": "And now they've got a sword in their main temple.", "start": 5393.0, "end": 5395.0}
+{"id": "zMyKsnjYZTI-t5395.0", "text": "And then it's abandoned.", "start": 5395.0, "end": 5397.0}
+{"id": "zMyKsnjYZTI-t5397.0", "text": "And the reason I think it's relevant to Eden is that Megito is the basis of Armageddon.", "start": 5397.0, "end": 5404.0}
+{"id": "zMyKsnjYZTI-t5404.0", "text": "That's what the war of the end of the world is.", "start": 5404.0, "end": 5407.0}
+{"id": "zMyKsnjYZTI-t5407.0", "text": "And I think in a sense, the world of peace already didn't at Megito.", "start": 5407.0, "end": 5412.0}
+{"id": "zMyKsnjYZTI-t5412.0", "text": "Armageddon happened in 3,200 BC.", "start": 5412.0, "end": 5415.0}
+{"id": "zMyKsnjYZTI-t5415.0", "text": "It's interesting that you say that because of when you were talking earlier, I was thinking,", "start": 5415.0, "end": 5423.0}
+{"id": "zMyKsnjYZTI-t5423.0", "text": "well, that's, I was thinking of the Bible, which of course is, seems scholars seem to think is based on experience or myths.", "start": 5423.0, "end": 5433.0}
+{"id": "zMyKsnjYZTI-t5433.0", "text": "That occurred far more recently than the period you're indicating, but you could also see Eden as that period.", "start": 5433.0, "end": 5443.0}
+{"id": "zMyKsnjYZTI-t5443.0", "text": "Okay, I'm not a psychiatrist.", "start": 5443.0, "end": 5446.0}
+{"id": "zMyKsnjYZTI-t5446.0", "text": "I'm a literature professor.", "start": 5446.0, "end": 5448.0}
+{"id": "zMyKsnjYZTI-t5448.0", "text": "But I want to go back to the question of what you really haven't focused on is social structure.", "start": 5448.0, "end": 5460.0}
+{"id": "zMyKsnjYZTI-t5460.0", "text": "You did it, Mr. Horgan did it initially when you asked us whether we thought war was inevitable or not,", "start": 5460.0, "end": 5471.0}
+{"id": "zMyKsnjYZTI-t5471.0", "text": "whether peace was possible among nations.", "start": 5471.0, "end": 5475.0}
+{"id": "zMyKsnjYZTI-t5475.0", "text": "And the description that you gave us, Mr. Ferguson, about this period in the Levant indicates that probably they weren't nations.", "start": 5475.0, "end": 5487.0}
+{"id": "zMyKsnjYZTI-t5487.0", "text": "They were tribal groups, cooperative societies and whatever.", "start": 5487.0, "end": 5491.0}
+{"id": "zMyKsnjYZTI-t5491.0", "text": "So my question really is, do you think it's possible to go beyond the nation's state?", "start": 5491.0, "end": 5499.0}
+{"id": "zMyKsnjYZTI-t5499.0", "text": "Because I would argue that if you're stuck with the nation's state, you're stuck with war.", "start": 5499.0, "end": 5506.0}
+{"id": "zMyKsnjYZTI-t5506.0", "text": "I disagree.", "start": 5506.0, "end": 5508.0}
+{"id": "zMyKsnjYZTI-t5508.0", "text": "So I know that there has been Einstein and other leading intellectuals of the 20th century after World War II thought that the only way to prevent this from happening in the future was to have a global government because nationalism inevitably would lead to war.", "start": 5508.0, "end": 5528.0}
+{"id": "zMyKsnjYZTI-t5528.0", "text": "But we see lots of relations between nations where there's not only war, but war is inconceivable.", "start": 5528.0, "end": 5537.0}
+{"id": "zMyKsnjYZTI-t5537.0", "text": "So between the United States and Canada, for example, what is remarkable today now is that war between Germany and France, I would say, is also inconceivable.", "start": 5537.0, "end": 5552.0}
+{"id": "zMyKsnjYZTI-t5552.0", "text": "You know, maybe you've got a very small period of time here.", "start": 5552.0, "end": 5556.0}
+{"id": "zMyKsnjYZTI-t5556.0", "text": "I know, but I think it's significant that we can feel that way when there was this horrific violence.", "start": 5556.0, "end": 5563.0}
+{"id": "zMyKsnjYZTI-t5563.0", "text": "So recently, and when you look at the history where they're always at each other's throats.", "start": 5563.0, "end": 5569.0}
+{"id": "zMyKsnjYZTI-t5569.0", "text": "So I'm hopeful because I see this kind of social change happening at the national level and international level so rapidly what you have.", "start": 5569.0, "end": 5578.0}
+{"id": "zMyKsnjYZTI-t5578.0", "text": "You know, I think one of the most obvious kind of dumb reputations of the idea that war is at all biological is that you get the most war-like societies on earth practically overnight turning into a bunch of past.", "start": 5578.0, "end": 5592.0}
+{"id": "zMyKsnjYZTI-t5592.0", "text": "Which you had with Imperial Japan and Nazi Germany.", "start": 5592.0, "end": 5595.0}
+{"id": "zMyKsnjYZTI-t5595.0", "text": "Now those obviously were countries that were conquered, but you have other examples of very war-like nations like Switzerland and Sweden, which in the 18th century were feared for their war-like ways.", "start": 5595.0, "end": 5609.0}
+{"id": "zMyKsnjYZTI-t5609.0", "text": "Suddenly, getting sick of war and saying we're not going to do this anymore and they've managed to maintain at least neutrality right through all the horrors of the war.", "start": 5609.0, "end": 5621.0}
+{"id": "zMyKsnjYZTI-t5621.0", "text": "So I think there are demonstration proofs through history and around the world today that nations can live peacefully together.", "start": 5621.0, "end": 5632.0}
+{"id": "zMyKsnjYZTI-t5632.0", "text": "And I think that's the direction that human reason points us in and the direction that any kind of reasonable interpretation of history leads us in.", "start": 5632.0, "end": 5642.0}
+{"id": "zMyKsnjYZTI-t5642.0", "text": "And I think that's why we actually are doing it.", "start": 5642.0, "end": 5647.0}
+{"id": "zMyKsnjYZTI-t5647.0", "text": "I think that the issue of nation-states is what's happening now, you shouldn't assume it's going to keep going. Things can change.", "start": 5647.0, "end": 5657.0}
+{"id": "zMyKsnjYZTI-t5657.0", "text": "But you look at South America, which people don't talk about because there's no wars going on, internal or external, but they've got all of these states.", "start": 5657.0, "end": 5667.0}
+{"id": "zMyKsnjYZTI-t5667.0", "text": "Africa, most of the wars that have been going on recently are not between states, but somehow within states or around states or across states.", "start": 5667.0, "end": 5677.0}
+{"id": "zMyKsnjYZTI-t5677.0", "text": "The nation-state at present isn't really the war-making unit in much of the world.", "start": 5677.0, "end": 5685.0}
+{"id": "zMyKsnjYZTI-t5685.0", "text": "On your point of can we get past this?", "start": 5685.0, "end": 5688.0}
+{"id": "zMyKsnjYZTI-t5688.0", "text": "William Urey, Bill Urey, is an anthropologically trained conflict resolution guy and he's got a book called Getting to Peace.", "start": 5688.0, "end": 5698.0}
+{"id": "zMyKsnjYZTI-t5698.0", "text": "And his main idea is that we can use these ideas of developing what he calls a third side of people standing outside of a conflict,", "start": 5698.0, "end": 5707.0}
+{"id": "zMyKsnjYZTI-t5707.0", "text": "pressuring people, belligerents to solve it without violence.", "start": 5707.0, "end": 5711.0}
+{"id": "zMyKsnjYZTI-t5711.0", "text": "And also talking about the growing importance of horizontal networks that aren't part of the power pyramids that have characterized most of our until-very recent history,", "start": 5711.0, "end": 5721.0}
+{"id": "zMyKsnjYZTI-t5721.0", "text": "and that they may be a way of moving in a different direction.", "start": 5721.0, "end": 5725.0}
+{"id": "zMyKsnjYZTI-t5725.0", "text": "We're not going to go back to simple hunters and gatherers, but horizontal conflicts rather than these pyramidal structures, that's a possibility.", "start": 5725.0, "end": 5734.0}
+{"id": "zMyKsnjYZTI-t5734.0", "text": "And I pick up from a previous point that made about the concern about suicide.", "start": 5734.0, "end": 5742.0}
+{"id": "zMyKsnjYZTI-t5742.0", "text": "I have this concern emerging, for example, from the statistic that for two years running there were more of our troops committing suicide than lost in battle in Afghanistan.", "start": 5742.0, "end": 5757.0}
+{"id": "zMyKsnjYZTI-t5757.0", "text": "And I have read somewhere that half of the suicides are among troops who have not seen battle, but I don't know if that's reliable.", "start": 5757.0, "end": 5767.0}
+{"id": "zMyKsnjYZTI-t5767.0", "text": "Not true, okay. It doesn't surprise me.", "start": 5767.0, "end": 5769.0}
+{"id": "zMyKsnjYZTI-t5769.0", "text": "But the thought comes to me this way.", "start": 5769.0, "end": 5775.0}
+{"id": "zMyKsnjYZTI-t5775.0", "text": "The VA, the Veterans Administration, hired a thousand new psychologists and so on to treat people.", "start": 5775.0, "end": 5782.0}
+{"id": "zMyKsnjYZTI-t5782.0", "text": "But can they ask this question? That the mind has been changed by the training, not necessarily by the experience of killing, but by the training to be able to kill.", "start": 5782.0, "end": 5794.0}
+{"id": "zMyKsnjYZTI-t5794.0", "text": "And when a soldier gets home, as Grossman points out, we don't have troopships anymore as we did after World War II, where people got re-socialized and they stayed with the units until they got home, etc.", "start": 5794.0, "end": 5806.0}
+{"id": "zMyKsnjYZTI-t5806.0", "text": "There are many factors. But suppose you're trained to kill and you're sent home and you find out that you are angrier at your spouse or your neighbor or the guy who cuts you off in traffic than you ever were at the designated enemy.", "start": 5806.0, "end": 5826.0}
+{"id": "zMyKsnjYZTI-t5826.0", "text": "How do you deal with that?", "start": 5826.0, "end": 5829.0}
+{"id": "zMyKsnjYZTI-t5829.0", "text": "What's the way of going backwards? Now are the VA psychologists going to be able to take up the issue with their, shall we say, their bosses?", "start": 5829.0, "end": 5839.0}
+{"id": "zMyKsnjYZTI-t5839.0", "text": "There are people in the VA. I give them credit for coining the phrase moral injury as a contributor to this maybe post-traumatic experience leading to suicide and depression and so on, inability to fit in.", "start": 5839.0, "end": 5855.0}
+{"id": "zMyKsnjYZTI-t5855.0", "text": "But are we able to take psychiatric professionals and enable them to say what you've done to these people has to be prevented because it can't necessarily be cured?", "start": 5855.0, "end": 5872.0}
+{"id": "zMyKsnjYZTI-t5872.0", "text": "You mean as a kind of anti-war movement? No, it's that we have to take responsibility for the training that enables people to kill very easily and then it leaves them suicidal in large numbers that we own up to that.", "start": 5872.0, "end": 5887.0}
+{"id": "zMyKsnjYZTI-t5887.0", "text": "But then it's making them possibly less affected as soldiers and that's why I'm hoping to take the next step and just say, well this military training is wrong.", "start": 5887.0, "end": 5899.0}
+{"id": "zMyKsnjYZTI-t5899.0", "text": "Tell someone traumatized. Someone said today that the military trainers, somebody up there, knows that psychopaths do very well and we should cultivate that.", "start": 5899.0, "end": 5911.0}
+{"id": "zMyKsnjYZTI-t5911.0", "text": "Pure psychopath army, that's what we need.", "start": 5911.0, "end": 5914.0}
+{"id": "zMyKsnjYZTI-t5914.0", "text": "Only heroes can be all that you can be.", "start": 5914.0, "end": 5918.0}
+{"id": "zMyKsnjYZTI-t5918.0", "text": "That's a good psychopath.", "start": 5918.0, "end": 5922.0}
+{"id": "zMyKsnjYZTI-t5922.0", "text": "A good psychopath.", "start": 5922.0, "end": 5925.0}
+{"id": "zMyKsnjYZTI-t5925.0", "text": "Hi, thank you very much for a great conversation and a lot of interesting points.", "start": 5925.0, "end": 5934.0}
+{"id": "zMyKsnjYZTI-t5934.0", "text": "I would like to point out that all here, mostly like peaceful people.", "start": 5934.0, "end": 5943.0}
+{"id": "zMyKsnjYZTI-t5943.0", "text": "But let's talk about who is on the top of military complex and high military officials.", "start": 5943.0, "end": 5953.0}
+{"id": "zMyKsnjYZTI-t5953.0", "text": "If you look at these, for example, as a game, they invested a lot of energy and a lot of resources in producing new weapons and they have the...", "start": 5953.0, "end": 5975.0}
+{"id": "zMyKsnjYZTI-t5975.0", "text": "When they look at these new technological advances, they probably have this feeling of pleasure and they want to use them.", "start": 5975.0, "end": 5990.0}
+{"id": "zMyKsnjYZTI-t5990.0", "text": "They use these toys. They want to play with them.", "start": 5990.0, "end": 5995.0}
+{"id": "zMyKsnjYZTI-t5995.0", "text": "We have so many toys already that how we can stop them. I personally don't see it away.", "start": 5995.0, "end": 6004.0}
+{"id": "zMyKsnjYZTI-t6004.0", "text": "I would like to... I have one example of one of them, maybe the biggest players in these kinds of games and Yoshif Stalin who said that one person is a tragedy.", "start": 6004.0, "end": 6024.0}
+{"id": "zMyKsnjYZTI-t6024.0", "text": "And of million person is statistics.", "start": 6024.0, "end": 6028.0}
+{"id": "zMyKsnjYZTI-t6028.0", "text": "So they don't see soldiers or even us as human beings.", "start": 6028.0, "end": 6032.0}
+{"id": "zMyKsnjYZTI-t6032.0", "text": "They already on other level.", "start": 6032.0, "end": 6035.0}
+{"id": "zMyKsnjYZTI-t6035.0", "text": "And they could not... On Wall Street, they also don't see us as people.", "start": 6035.0, "end": 6041.0}
+{"id": "zMyKsnjYZTI-t6041.0", "text": "They see us as potential for their... for gaining... for something gaining.", "start": 6041.0, "end": 6049.0}
+{"id": "zMyKsnjYZTI-t6049.0", "text": "So you see society is so already divided on so many levels. What do you think?", "start": 6049.0, "end": 6058.0}
+{"id": "zMyKsnjYZTI-t6058.0", "text": "Of course, maybe sometime long ago when it was much more simply, not divided on so many levels, maybe it was possible there was so long time of peace.", "start": 6058.0, "end": 6072.0}
+{"id": "zMyKsnjYZTI-t6072.0", "text": "But is it possible today? And how it's possible, what's the real instruments of this?", "start": 6072.0, "end": 6081.0}
+{"id": "zMyKsnjYZTI-t6081.0", "text": "I think we've been talking about psychopaths. We've been talking about people who are happy to go to war.", "start": 6081.0, "end": 6088.0}
+{"id": "zMyKsnjYZTI-t6088.0", "text": "You just mentioned Joseph Stalin and I voted for Barack Obama and I probably will again, but I'm not happy about it.", "start": 6088.0, "end": 6097.0}
+{"id": "zMyKsnjYZTI-t6097.0", "text": "I think he is decent, obviously extremely intelligent person, but he is carrying out drone assassinations where he knows he will kill civilians.", "start": 6097.0, "end": 6109.0}
+{"id": "zMyKsnjYZTI-t6109.0", "text": "And that has now become US policy has become accepted. And I think that this is war crime.", "start": 6109.0, "end": 6117.0}
+{"id": "zMyKsnjYZTI-t6117.0", "text": "And George Bush also carried out war crimes and he was elected to a second term when it was apparent that he was carrying out a moral military policy.", "start": 6117.0, "end": 6126.0}
+{"id": "zMyKsnjYZTI-t6126.0", "text": "So this isn't something that we can foist off on leaders or people in the military, industrial complex or psychopaths.", "start": 6126.0, "end": 6134.0}
+{"id": "zMyKsnjYZTI-t6134.0", "text": "It's something that we all in a democracy like ours, bear responsibility for.", "start": 6134.0, "end": 6139.0}
+{"id": "zMyKsnjYZTI-t6139.0", "text": "And I think we have to examine what it is in us that allows us to, because we collectively do, perpetuate these attitudes that make it so easy to go to war in the future.", "start": 6139.0, "end": 6152.0}
+{"id": "zMyKsnjYZTI-t6152.0", "text": "It's not the crazies on the fringes. It's really all of us.", "start": 6152.0, "end": 6159.0}
+{"id": "zMyKsnjYZTI-t6159.0", "text": "I agree and I'm glad to report though that the people who operate the drones are also having stress syndromes because they view these people on television screens for days and weeks and then they kill them.", "start": 6159.0, "end": 6172.0}
+{"id": "zMyKsnjYZTI-t6172.0", "text": "And they're experiencing some of this post traumatic stuff.", "start": 6172.0, "end": 6182.0}
+{"id": "zMyKsnjYZTI-t6182.0", "text": "I would just also ask again something about how we get to this better place that you keep envisioning and how we do it without some kind of moral education that involves some kind of deep self searching to find out who the hell we are.", "start": 6182.0, "end": 6201.0}
+{"id": "zMyKsnjYZTI-t6201.0", "text": "And just what it means to live among other humans in a peaceful way.", "start": 6201.0, "end": 6208.0}
+{"id": "zMyKsnjYZTI-t6208.0", "text": "I think that there's a lot that needs to be done.", "start": 6208.0, "end": 6211.0}
+{"id": "zMyKsnjYZTI-t6211.0", "text": "It's not some simple process.", "start": 6211.0, "end": 6213.0}
+{"id": "zMyKsnjYZTI-t6213.0", "text": "I think a moral education is really quite essential.", "start": 6213.0, "end": 6217.0}
+{"id": "zMyKsnjYZTI-t6217.0", "text": "I don't know whether the rest of it.", "start": 6217.0, "end": 6220.0}
+{"id": "zMyKsnjYZTI-t6220.0", "text": "And that involves really delving into feelings as your thing in terms of fear and threat, et cetera.", "start": 6220.0, "end": 6227.0}
+{"id": "zMyKsnjYZTI-t6227.0", "text": "This is going back to Ed's point about the different levels of analysis of what we're talking about.", "start": 6227.0, "end": 6233.0}
+{"id": "zMyKsnjYZTI-t6233.0", "text": "And I think that this is certainly true at an individual level.", "start": 6233.0, "end": 6239.0}
+{"id": "zMyKsnjYZTI-t6239.0", "text": "The focus on the individual, even the gender differences of what it means to be a man or a woman.", "start": 6239.0, "end": 6247.0}
+{"id": "zMyKsnjYZTI-t6247.0", "text": "That this is something that has importance for our notions of war in our society.", "start": 6247.0, "end": 6254.0}
+{"id": "zMyKsnjYZTI-t6254.0", "text": "In Joshua Goldstein, I'll just mention to someone who's written about war and gender and has a new book out on fighting for peace.", "start": 6254.0, "end": 6263.0}
+{"id": "zMyKsnjYZTI-t6263.0", "text": "These are books of people who are interested in the subject.", "start": 6263.0, "end": 6267.0}
+{"id": "zMyKsnjYZTI-t6267.0", "text": "I disagree with him on some things, but he's really on the mark there.", "start": 6267.0, "end": 6271.0}
+{"id": "zMyKsnjYZTI-t6271.0", "text": "But to go back also to your point is that I know generals like to, people like toys.", "start": 6271.0, "end": 6278.0}
+{"id": "zMyKsnjYZTI-t6278.0", "text": "I don't think it's so much playing with him though.", "start": 6278.0, "end": 6281.0}
+{"id": "zMyKsnjYZTI-t6281.0", "text": "I'm meeting yesterday on counterinsurgency, which is something that I also work on because the military has really been trying to get anthropology,", "start": 6281.0, "end": 6289.0}
+{"id": "zMyKsnjYZTI-t6289.0", "text": "either to mine anthropology for counterinsurgency efforts, and it's a real problem for the discipline of anthropology.", "start": 6289.0, "end": 6296.0}
+{"id": "zMyKsnjYZTI-t6296.0", "text": "And this guy's a history professor at West Point, but a dissident, and he says that counterinsurgency is dead,", "start": 6296.0, "end": 6304.0}
+{"id": "zMyKsnjYZTI-t6304.0", "text": "and that we now know that it doesn't work.", "start": 6304.0, "end": 6306.0}
+{"id": "zMyKsnjYZTI-t6306.0", "text": "It's dead.", "start": 6306.0, "end": 6307.0}
+{"id": "zMyKsnjYZTI-t6307.0", "text": "And my question was, I'd like to know that it's really most sincerely dead because of what it's doing for anthropology.", "start": 6307.0, "end": 6318.0}
+{"id": "zMyKsnjYZTI-t6318.0", "text": "And then he said that even though it doesn't work, and when he's talking to field officers, they'll listen to them,", "start": 6318.0, "end": 6325.0}
+{"id": "zMyKsnjYZTI-t6325.0", "text": "but general staff, you cannot criticize the idea because it is doctrine.", "start": 6325.0, "end": 6329.0}
+{"id": "zMyKsnjYZTI-t6329.0", "text": "And the reason it's doctrine is that in the military and the Marines, this protects their budget as they are pivoting to", "start": 6329.0, "end": 6336.0}
+{"id": "zMyKsnjYZTI-t6336.0", "text": "Asia, it's the Navy, and the Air Force.", "start": 6336.0, "end": 6339.0}
+{"id": "zMyKsnjYZTI-t6339.0", "text": "And the only way the military can protect its budget is counterinsurgencies.", "start": 6339.0, "end": 6344.0}
+{"id": "zMyKsnjYZTI-t6344.0", "text": "We've been looking at it doesn't work.", "start": 6344.0, "end": 6346.0}
+{"id": "zMyKsnjYZTI-t6346.0", "text": "I know it's a shocking idea that the Pentagon could support a program that doesn't work just to protect a budget,", "start": 6346.0, "end": 6351.0}
+{"id": "zMyKsnjYZTI-t6351.0", "text": "but seems to be happening.", "start": 6351.0, "end": 6354.0}
+{"id": "zMyKsnjYZTI-t6354.0", "text": "And that Seymour Milman, one of my mentors from Long Go wrote about the military economy, just drilled it into me.", "start": 6354.0, "end": 6363.0}
+{"id": "zMyKsnjYZTI-t6363.0", "text": "He says it's the bureaucratic imperative, protect your or expand your budget.", "start": 6363.0, "end": 6369.0}
+{"id": "zMyKsnjYZTI-t6369.0", "text": "That's what's the important thing.", "start": 6369.0, "end": 6371.0}
+{"id": "zMyKsnjYZTI-t6371.0", "text": "And the budget is hinged on the concept of successful counterinsurgency.", "start": 6371.0, "end": 6377.0}
+{"id": "zMyKsnjYZTI-t6377.0", "text": "It's not true.", "start": 6377.0, "end": 6379.0}
+{"id": "zMyKsnjYZTI-t6379.0", "text": "It doesn't work.", "start": 6379.0, "end": 6380.0}
+{"id": "zMyKsnjYZTI-t6380.0", "text": "But they're going to defend it.", "start": 6380.0, "end": 6382.0}
+{"id": "zMyKsnjYZTI-t6382.0", "text": "And this is why I say you've got to look at the leaders.", "start": 6382.0, "end": 6385.0}
+{"id": "zMyKsnjYZTI-t6385.0", "text": "And when someone in politics, either Obama or Romney or anybody else, says, let's go take it to the general.", "start": 6385.0, "end": 6392.0}
+{"id": "zMyKsnjYZTI-t6392.0", "text": "And see what the generals have to say.", "start": 6392.0, "end": 6394.0}
+{"id": "zMyKsnjYZTI-t6394.0", "text": "The generals are protecting their budgets.", "start": 6394.0, "end": 6396.0}
+{"id": "zMyKsnjYZTI-t6396.0", "text": "They're the last people to ask, because they're there to protect the army and the Marines.", "start": 6396.0, "end": 6402.0}
+{"id": "zMyKsnjYZTI-t6402.0", "text": "Their enemy isn't the Taliban.", "start": 6402.0, "end": 6405.0}
+{"id": "zMyKsnjYZTI-t6405.0", "text": "It's the Navy and the Air Force.", "start": 6405.0, "end": 6407.0}
+{"id": "zMyKsnjYZTI-t6407.0", "text": "That's the peace piece.", "start": 6407.0, "end": 6409.0}
+{"id": "zMyKsnjYZTI-t6409.0", "text": "Well, yeah.", "start": 6409.0, "end": 6410.0}
+{"id": "zMyKsnjYZTI-t6410.0", "text": "So this is, you've got to look at the interests of people in power.", "start": 6410.0, "end": 6414.0}
+{"id": "zMyKsnjYZTI-t6414.0", "text": "So I agree with you, although the playing with it, they can play with it in peacetime, too.", "start": 6414.0, "end": 6418.0}
+{"id": "zMyKsnjYZTI-t6418.0", "text": "I mean, George Bush landing on the aircraft carrier, you can do that.", "start": 6418.0, "end": 6422.0}
+{"id": "zMyKsnjYZTI-t6422.0", "text": "But their budgets are very important.", "start": 6422.0, "end": 6424.0}
+{"id": "zMyKsnjYZTI-t6424.0", "text": "Thank you all very, very much.", "start": 6424.0, "end": 6426.0}
+{"id": "zMyKsnjYZTI-t6426.0", "text": "Thank you.", "start": 6426.0, "end": 6427.0}
+{"id": "zMyKsnjYZTI-t6427.0", "text": "Thank you very much.", "start": 6427.0, "end": 6429.0}
+{"id": "zMyKsnjYZTI-t6429.0", "text": "Thank you.", "start": 6429.0, "end": 6430.0}
+{"id": "zMyKsnjYZTI-t6430.0", "text": "Thank you.", "start": 6430.0, "end": 6431.0}
+{"id": "zMyKsnjYZTI-t6431.0", "text": "That's really wonderful.", "start": 6431.0, "end": 6432.0}
+{"id": "zMyKsnjYZTI-t6432.0", "text": "Thank you.", "start": 6432.0, "end": 6433.0}
+{"id": "zMyKsnjYZTI-t6433.0", "text": "Good work, Captain.", "start": 6433.0, "end": 6435.0}
+{"id": "zMyKsnjYZTI-t6435.0", "text": "I have some water.", "start": 6435.0, "end": 6436.0}
+{"id": "zMyKsnjYZTI-t6436.0", "text": "I have some.", "start": 6436.0, "end": 6437.0}
+{"id": "zMyKsnjYZTI-t6437.0", "text": "I don't like these two.", "start": 6437.0, "end": 6438.0}
+{"id": "zMyKsnjYZTI-t6438.0", "text": "I'm sorry.", "start": 6438.0, "end": 6439.0}
+{"id": "zMyKsnjYZTI-t6439.0", "text": "Thank you.", "start": 6439.0, "end": 6440.0}
+{"id": "zMyKsnjYZTI-t6440.0", "text": "Thank you.", "start": 6440.0, "end": 6441.0}
+{"id": "zMyKsnjYZTI-t6441.0", "text": "Thank you.", "start": 6441.0, "end": 6442.0}
+{"id": "zMyKsnjYZTI-t6442.0", "text": "Thank you.", "start": 6442.0, "end": 6443.0}
+{"id": "zMyKsnjYZTI-t6443.0", "text": "Thank you.", "start": 6443.0, "end": 6444.0}
+{"id": "zMyKsnjYZTI-t6444.0", "text": "Thank you.", "start": 6444.0, "end": 6445.0}
+{"id": "zMyKsnjYZTI-t6445.0", "text": "Thank you.", "start": 6445.0, "end": 6449.0}

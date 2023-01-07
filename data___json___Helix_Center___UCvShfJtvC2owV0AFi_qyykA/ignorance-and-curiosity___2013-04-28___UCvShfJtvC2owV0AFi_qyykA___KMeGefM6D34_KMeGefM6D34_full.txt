@@ -1,0 +1,1130 @@
+{"id": "KMeGefM6D34-t0.0", "text": "There's ASEAN Director of the Centre, welcome to today's programme on ignorance and curiosity.", "start": 0.0, "end": 5.4}
+{"id": "KMeGefM6D34-t5.4", "text": "Before we get going, I'd like to make a couple of announcements.", "start": 5.4, "end": 9.84}
+{"id": "KMeGefM6D34-t9.84", "text": "On May 11th, the programme is going to be on synthetic and systemic biology, which has to do.", "start": 9.84, "end": 18.0}
+{"id": "KMeGefM6D34-t20.080000000000002", "text": "You can't hear me?", "start": 20.080000000000002, "end": 21.6}
+{"id": "KMeGefM6D34-t21.6", "text": "I'll try it this way.", "start": 21.6, "end": 28.6}
+{"id": "KMeGefM6D34-t28.6", "text": "On May 11th, the programme is going to be on systemic and synthetic biology, which has to do with genes and disease and all sorts of other interesting things.", "start": 28.6, "end": 41.6}
+{"id": "KMeGefM6D34-t41.6", "text": "On June 8th, we have a programme on altruism and empathy. In October, we'll have something in September, but in October, we have a weekend programme in collaboration with the Agalmo Foundation of Geneva.", "start": 41.6, "end": 61.6}
+{"id": "KMeGefM6D34-t61.6", "text": "It's going to be called on art, psychoanalysis and neuroscience or science in general.", "start": 61.6, "end": 68.6}
+{"id": "KMeGefM6D34-t68.6", "text": "It's going to take off from some of the ideas of the well-known cultural historian, Abby Warburg.", "start": 68.6, "end": 78.6}
+{"id": "KMeGefM6D34-t78.6", "text": "That programme will involve probably three to four round tables and a wrap-up.", "start": 78.6, "end": 84.6}
+{"id": "KMeGefM6D34-t84.6", "text": "And the night before it, there will be a rock concert by the neuroscientist Joel Lidou.", "start": 84.6, "end": 91.6}
+{"id": "KMeGefM6D34-t91.6", "text": "Joel Lidou is also going to do a programme here on May 16th, which is a Saturday evening.", "start": 91.6, "end": 101.6}
+{"id": "KMeGefM6D34-t101.6", "text": "Again, it will be a musical programme interspersed with talk on neuroscience.", "start": 101.6, "end": 108.6}
+{"id": "KMeGefM6D34-t108.6", "text": "I think that covers it.", "start": 108.6, "end": 111.6}
+{"id": "KMeGefM6D34-t111.6", "text": "Tonight, today's, I'm going to do a very brief introduction of the participants today, who all have very long resumes, as you can imagine.", "start": 111.6, "end": 122.6}
+{"id": "KMeGefM6D34-t122.6", "text": "And I will start with Heather Berlin, who is sitting right there.", "start": 122.6, "end": 127.6}
+{"id": "KMeGefM6D34-t127.6", "text": "She's a cognitive neuroscientist and assistant professor of psychiatry and neuroscience at Mount Sinai.", "start": 127.6, "end": 134.6}
+{"id": "KMeGefM6D34-t134.6", "text": "She works on the complex interactions of the human brain and mind and is interested also in the neural basis of consciousness and dynamic unconscious processes.", "start": 134.6, "end": 148.6}
+{"id": "KMeGefM6D34-t148.6", "text": "Susan Engel, who is sitting there, is a senior lecturer in psychology and founding director of the programme in teaching at Williams College.", "start": 148.6, "end": 158.6}
+{"id": "KMeGefM6D34-t158.6", "text": "Her research includes children's narratives, play the development of curiosity, and more generally teaching and learning.", "start": 158.6, "end": 168.6}
+{"id": "KMeGefM6D34-t168.6", "text": "Stuart Fierstein, who is sitting right here, is the chair of Columbia University's department of biological sciences, where he studies the vertebral factory system.", "start": 168.6, "end": 179.6}
+{"id": "KMeGefM6D34-t179.6", "text": "He has a book out called Curiosity and... No, what am I saying? It's the other one.", "start": 179.6, "end": 187.6}
+{"id": "KMeGefM6D34-t187.6", "text": "It's on ignorance and how ignorance drives science, which is connected toward organising, thinking about and organising today's round table.", "start": 187.6, "end": 199.6}
+{"id": "KMeGefM6D34-t199.6", "text": "Paul Harris is a developmental psychologist with interest in the development of cognition, emotion and imagination.", "start": 199.6, "end": 207.6}
+{"id": "KMeGefM6D34-t207.6", "text": "He's held a number of positions at various universities from Amsterdam to London to Oxford, and he's currently the Victor S Thomas Professor of Education at Harvard University.", "start": 207.6, "end": 222.6}
+{"id": "KMeGefM6D34-t222.6", "text": "And Alan Hirschfield, who is sitting there, is a professor of physics at the University of Massachusetts, Dartmouth, and an associate of the Harvard College Observatory.", "start": 222.6, "end": 233.6}
+{"id": "KMeGefM6D34-t233.6", "text": "There are books from the participants that are out there, and I'm sure they will sign it for you at the end of today's meeting if you decide to purchase them.", "start": 233.6, "end": 244.6}
+{"id": "KMeGefM6D34-t244.6", "text": "So with that, we will start today's round table. Thank you.", "start": 244.6, "end": 250.6}
+{"id": "KMeGefM6D34-t250.6", "text": "Well, all right, I'm going to just kick it off quickly because I have a current event to kick it off if that's all right, Ed.", "start": 250.6, "end": 263.6}
+{"id": "KMeGefM6D34-t263.6", "text": "So I'm an inventor of obituary reader.", "start": 263.6, "end": 267.6}
+{"id": "KMeGefM6D34-t267.6", "text": "I love biographies, but I don't think I have the time to read biographies, so I read the abstracts, which...", "start": 267.6, "end": 274.6}
+{"id": "KMeGefM6D34-t274.6", "text": "In any case, yesterday morning, I opened the paper to find that the notice of the passing of Francois Jacobe, famous French geneticist, who discovered regulatory genes.", "start": 274.6, "end": 289.6}
+{"id": "KMeGefM6D34-t289.6", "text": "He was the one who understood for the first time that there's two kinds of genes, two kinds of gene products, one is the one product of genes that the stuff were made of, and the other kind of product or proteins that go on to regulate other genes to turn them on or turn them off, and thus making a liver cell, a liver cell, and a heart cell, a heart cell.", "start": 289.6, "end": 308.6}
+{"id": "KMeGefM6D34-t308.6", "text": "So anyway, he and his collaborator, Jacques Monot, won the Nobel Prize for this work and so forth. Anyway, he passed away last week, actually, but the notice was in the Times yesterday, and our proposal of ignorance, and the way I think science works based on ignorance", "start": 308.6, "end": 324.6}
+{"id": "KMeGefM6D34-t324.6", "text": "even more than knowledge, is this quote from Jacques Cope that he wrote, I believe in his book, I'm not quite sure what's wrong, I think it's from his book, Possibility, the Actual and the Possible.", "start": 324.6, "end": 338.6}
+{"id": "KMeGefM6D34-t338.6", "text": "This is what he said, what mattered more than the answers were the questions and how they were formulated.", "start": 338.6, "end": 344.6}
+{"id": "KMeGefM6D34-t344.6", "text": "For in the best of cases, the answer led to more questions. It was a system for concocting expectation, a machine for making the future, I think that's a fabulous phrase, by the way.", "start": 344.6, "end": 355.6}
+{"id": "KMeGefM6D34-t355.6", "text": "For me, this world of questions and the provisional, this chase after an answer that was always put off to the next day, all that was euphoric. I lived in the future.", "start": 355.6, "end": 368.6}
+{"id": "KMeGefM6D34-t368.6", "text": "That's a good way to live. So I think that's interesting, this idea that somebody, you know, John Keats in a famous letter to his brother, to his brother, 100 years or so ago, whenever Keats lived, concocted this idea of negative capability, this idea of living among", "start": 368.6, "end": 390.6}
+{"id": "KMeGefM6D34-t390.6", "text": "mysteries and obscurities and questions without being too irritable about it, without driving you crazy, but really being a way to be comfortable with ignorance, to be comfortable with the unknown, to be comfortable with uncertainty, which I would say is where all the good ideas come from.", "start": 390.6, "end": 408.6}
+{"id": "KMeGefM6D34-t408.6", "text": "I mean, that's where the frontier is. It's what we agree on is not so important. It's what we disagree on. What we agree on just goes, you know, nobody talks about that. So we only just talk about what we disagree on, and that's where the interesting stuff is. It seems to me.", "start": 408.6, "end": 423.6}
+{"id": "KMeGefM6D34-t423.6", "text": "I mean, I think we would all agree that that's so an interesting case. I'll ask you the business actually. An interesting case is the Higgs boson, right?", "start": 423.6, "end": 432.6}
+{"id": "KMeGefM6D34-t432.6", "text": "Discovery of the Higgs boson, which everybody's thrilled about, but there are a lot of physicists that think of Stephen Weinberg in particular as this interesting quote saying, well, it's great that we discover this thing, and it's everything we'd hoped it would be, but actually it's not giving us any new ideas.", "start": 432.6, "end": 447.6}
+{"id": "KMeGefM6D34-t447.6", "text": "And there's a certain kind of worry in the community. There's more anxiety over knowledge than there is over ignorance, it seems.", "start": 447.6, "end": 452.6}
+{"id": "KMeGefM6D34-t452.6", "text": "Yeah, anxiety, perhaps excitement. I mean, to answer the question, well, even a long posed question is often quite a letdown unless it leads to further questions.", "start": 452.6, "end": 466.6}
+{"id": "KMeGefM6D34-t466.6", "text": "So in physics, in my field of astronomy, that is the regular way of occurrence. I've looked into the history of astronomy since the time of the ancient Greeks.", "start": 466.6, "end": 477.6}
+{"id": "KMeGefM6D34-t477.6", "text": "And, of course, in retrospect, the ignorance just stands out so clearly, and yet at the time it wasn't seen.", "start": 477.6, "end": 489.6}
+{"id": "KMeGefM6D34-t489.6", "text": "So I think scientists like Weinberg, like all scientists today, and like all explorers of nature ever since, at least the time of the ancient Greeks were quite comfortable with the idea that there is going to be a lot of science.", "start": 489.6, "end": 506.6}
+{"id": "KMeGefM6D34-t506.6", "text": "There is going to be a lot of failure along the way, and that what appears to be certain in terms of our conceptions about the universe can be overthrown and have been overthrown on regular occasions.", "start": 506.6, "end": 524.6}
+{"id": "KMeGefM6D34-t524.6", "text": "So I don't know if this particularly answers your question, but I've always found this consistent, long-running record of failure in science to be the most inspiring aspect of what scientists do, that we're not just looking at individuals, but globally, the entire field of science.", "start": 524.6, "end": 550.6}
+{"id": "KMeGefM6D34-t550.6", "text": "Much of it is lack of success until there is an advanced discovery, and what we tend to get from the textbooks are the successes.", "start": 550.6, "end": 565.6}
+{"id": "KMeGefM6D34-t565.6", "text": "All of the failures, all of the hard work by the anonymous people, for every one Einstein, there are a thousand others whose names we've done.", "start": 565.6, "end": 575.6}
+{"id": "KMeGefM6D34-t575.6", "text": "There are a thousand Einstein's dining in failures too. Einstein failed regularly.", "start": 575.6, "end": 580.6}
+{"id": "KMeGefM6D34-t580.6", "text": "Right, and in a big way at the end of his career.", "start": 580.6, "end": 585.6}
+{"id": "KMeGefM6D34-t585.6", "text": "So I like thinking about the global aspect of ignorance, curiosity, scientific study, and how as a species, we accept that science is a risky venture, and you're not always going to make it.", "start": 585.6, "end": 604.6}
+{"id": "KMeGefM6D34-t604.6", "text": "You're not always going to make it to an answer in your generation, or the next generation, or even in centuries.", "start": 604.6, "end": 612.6}
+{"id": "KMeGefM6D34-t612.6", "text": "So I think we're sort of at that point in terms of Higgs boson and dark energy and all these mysterious entities and force fields that we apply labels to, but that's temporary.", "start": 612.6, "end": 627.6}
+{"id": "KMeGefM6D34-t627.6", "text": "We don't really know what they are, what they will be.", "start": 627.6, "end": 630.6}
+{"id": "KMeGefM6D34-t630.6", "text": "But the thing in science is that revision is a victory. It's one of the few places where revision is a victory, not some ole, but to spin this another way now.", "start": 630.6, "end": 639.6}
+{"id": "KMeGefM6D34-t639.6", "text": "But I think the way that scientists think is more the, it's an exception to the norm.", "start": 639.6, "end": 644.6}
+{"id": "KMeGefM6D34-t644.6", "text": "I mean, the brain doesn't like ambiguity, and it tends to want to fill these gaps, and there's also sort of psychological studies that show that, you know, there's a missing part of a shape and the mind will fill it in.", "start": 644.6, "end": 657.6}
+{"id": "KMeGefM6D34-t657.6", "text": "And that's closure, and there's a sense of satisfaction when there is an answer.", "start": 657.6, "end": 661.6}
+{"id": "KMeGefM6D34-t661.6", "text": "So the brain will take ambiguous situations and create one solid percept, and that's the way it likes to function, and most people want answers to questions.", "start": 661.6, "end": 671.6}
+{"id": "KMeGefM6D34-t671.6", "text": "So I think the way that a scientist's mind works, that it's driven by what's unanswerable, and that's what keeps it going, is quite unique, actually, because most people that causes a great deal of anxiety, particularly people on the more anxious side of the system,", "start": 671.6, "end": 686.6}
+{"id": "KMeGefM6D34-t686.6", "text": "or more anxious side of the spectrum, you know, I work with patients with OCD, it's a compulsive disorder, and they want answers, and if they don't have closure, it can be very frustrating.", "start": 686.6, "end": 695.6}
+{"id": "KMeGefM6D34-t695.6", "text": "So I think that this drive for the unknown is a unique characteristic, and it's not in everybody.", "start": 695.6, "end": 703.6}
+{"id": "KMeGefM6D34-t703.6", "text": "I'm not sure I agree.", "start": 703.6, "end": 705.6}
+{"id": "KMeGefM6D34-t705.6", "text": "So, I mean, the discussion so far is focused on science and the extent to which it's special, but if you look at young children, they ask thousands of questions.", "start": 705.6, "end": 715.6}
+{"id": "KMeGefM6D34-t715.6", "text": "I don't see them driven to neurotic anxiety by the fact that sometimes they don't get a full answer.", "start": 715.6, "end": 723.6}
+{"id": "KMeGefM6D34-t723.6", "text": "So I would go even further back and say, actually, that science has to be humble and see itself as part of a much broader human capacity, actually, to ask questions, both of ourselves and of one another.", "start": 723.6, "end": 736.6}
+{"id": "KMeGefM6D34-t736.6", "text": "This is not something you see in other species.", "start": 736.6, "end": 739.6}
+{"id": "KMeGefM6D34-t739.6", "text": "But if you notice that I think it has to do with brain development as well, a lot of what closes us off to things like being more creative and spontaneous is activation of certain prefrontal cortex areas that the older you get, the more developed the prefrontal cortex is,", "start": 739.6, "end": 755.6}
+{"id": "KMeGefM6D34-t755.6", "text": "and it tells you kind of quiets down that inquisitive sort of person that wants to go out and explore the childlike person because you get these rules based on society, like, no, that's not acceptable, or that's irrational.", "start": 755.6, "end": 768.6}
+{"id": "KMeGefM6D34-t768.6", "text": "Now we know that during certain states like daydreaming or in certain states of hypnosis, or even during REM sleep and dream, those parts of the prefrontal cortex are deactivated.", "start": 768.6, "end": 778.6}
+{"id": "KMeGefM6D34-t778.6", "text": "They're quieted down and it allows for this more creative, spontaneous mind to take over, which is more of a childlike mind because the prefrontal cortex isn't fully developed until about the age of 25, and that's when people start becoming more and more closed off, I think.", "start": 778.6, "end": 792.6}
+{"id": "KMeGefM6D34-t792.6", "text": "I would put it a little differently because I would suggest that it's not only is there not a strong, an absolute distinction between scientists and everybody else.", "start": 792.6, "end": 804.6}
+{"id": "KMeGefM6D34-t804.6", "text": "After all, that's an institutional sort of construction with all kinds of practices that have been built up and praised and rewarded, and so it's got all kinds of other things going on.", "start": 804.6, "end": 814.6}
+{"id": "KMeGefM6D34-t814.6", "text": "But even within non-scientists, there's a continuum. So while I agree that almost all children, almost all, are incredibly inquisitive, it's a slow and complicated process by which some people become less inquisitive and other people do not.", "start": 814.6, "end": 831.6}
+{"id": "KMeGefM6D34-t831.6", "text": "You don't have to be a scientist to be a curious grown up, and the process by which that happens, I think there are a lot of forces that are at work in sort of winnowing down what seems to be a problem.", "start": 831.6, "end": 843.6}
+{"id": "KMeGefM6D34-t843.6", "text": "What seems pervasive and robust in infancy and early travel?", "start": 843.6, "end": 847.6}
+{"id": "KMeGefM6D34-t847.6", "text": "I think you're absolutely right.", "start": 847.6, "end": 849.6}
+{"id": "KMeGefM6D34-t849.6", "text": "There are some paradoxical things, and I would like to just say this because I think it touches on your ideas about ignorance, that the kind of ignorance you are talking about is an ignorance that comes from having a lot of knowledge.", "start": 849.6, "end": 863.6}
+{"id": "KMeGefM6D34-t863.6", "text": "In other words, you first learned a lot, now you sit back as a big professor and say, you know, it's great to be ignorant.", "start": 863.6, "end": 870.6}
+{"id": "KMeGefM6D34-t870.6", "text": "But the fact is, so there is an issue there in the sense that the child doesn't have much knowledge.", "start": 870.6, "end": 879.6}
+{"id": "KMeGefM6D34-t879.6", "text": "So for a child to be curious, it's easy. For us to be curious is harder.", "start": 879.6, "end": 886.6}
+{"id": "KMeGefM6D34-t886.6", "text": "And then it takes even further than that a certain development, before we can say, well, I'm so curious that now I've decided from my curiosity that I'm in fact ignorant.", "start": 886.6, "end": 896.6}
+{"id": "KMeGefM6D34-t896.6", "text": "So, yes, I think you're right. Clearly you read my book, thank you.", "start": 896.6, "end": 904.6}
+{"id": "KMeGefM6D34-t904.6", "text": "And it's certainly true that scientists don't have the corner on ignorance, as well they shouldn't.", "start": 904.6, "end": 913.6}
+{"id": "KMeGefM6D34-t913.6", "text": "I mean, there's a little bit of a worry actually that maybe ignorance too easily belongs to sort of the elite scientist, the person who has the degree, who has the knowledge, now gets to claim that they can have ignorance,", "start": 913.6, "end": 925.6}
+{"id": "KMeGefM6D34-t925.6", "text": "which should not be the case. So the worry is that only I think what Heather said is it in science versus in this kind of science versus the rest of the public, you see the more relief than you do anywhere else.", "start": 925.6, "end": 938.6}
+{"id": "KMeGefM6D34-t938.6", "text": "But there really is a continuum.", "start": 938.6, "end": 940.6}
+{"id": "KMeGefM6D34-t940.6", "text": "So I'm ashamed to say I haven't read your book yet. Oh, I just bought it.", "start": 940.6, "end": 944.6}
+{"id": "KMeGefM6D34-t944.6", "text": "You bought it?", "start": 944.6, "end": 945.6}
+{"id": "KMeGefM6D34-t945.6", "text": "Give me a pick.", "start": 945.6, "end": 946.6}
+{"id": "KMeGefM6D34-t946.6", "text": "That's not mixed too.", "start": 946.6, "end": 948.6}
+{"id": "KMeGefM6D34-t948.6", "text": "Now you're not my fault.", "start": 948.6, "end": 950.6}
+{"id": "KMeGefM6D34-t950.6", "text": "It's rich now.", "start": 950.6, "end": 951.6}
+{"id": "KMeGefM6D34-t951.6", "text": "But I'm curious about the term ignorance because I think of it a little differently and maybe I'm wrong.", "start": 951.6, "end": 959.6}
+{"id": "KMeGefM6D34-t959.6", "text": "Because most people are ignorant actually, if you look, not people in the wrong God knows, but in general, most people aren't even uncomfortable with their ignorance.", "start": 959.6, "end": 970.6}
+{"id": "KMeGefM6D34-t970.6", "text": "So to me, one of the issues is who is motivated by their lack of knowledge, by their relative lack of knowledge.", "start": 970.6, "end": 978.6}
+{"id": "KMeGefM6D34-t978.6", "text": "I wanted to say that just as a sort of caveat, it's not that only scientists are motivated by curiosity, but I think certain personality types are driven by wanting to understand more.", "start": 978.6, "end": 990.6}
+{"id": "KMeGefM6D34-t990.6", "text": "And those types of people will probably be drawn to fields like science and going to experimental kinds of careers because of that drive.", "start": 990.6, "end": 999.6}
+{"id": "KMeGefM6D34-t999.6", "text": "But I think it has to do with also personality.", "start": 999.6, "end": 1001.6}
+{"id": "KMeGefM6D34-t1001.6", "text": "But it could be historians.", "start": 1001.6, "end": 1002.6}
+{"id": "KMeGefM6D34-t1002.6", "text": "Yeah, or lawyers.", "start": 1002.6, "end": 1003.6}
+{"id": "KMeGefM6D34-t1003.6", "text": "Yeah, I agree.", "start": 1003.6, "end": 1004.6}
+{"id": "KMeGefM6D34-t1004.6", "text": "Academics.", "start": 1004.6, "end": 1005.6}
+{"id": "KMeGefM6D34-t1005.6", "text": "People who are curious.", "start": 1005.6, "end": 1006.6}
+{"id": "KMeGefM6D34-t1006.6", "text": "But not everybody has that drive.", "start": 1006.6, "end": 1008.6}
+{"id": "KMeGefM6D34-t1008.6", "text": "I've spoke to people and said, what keeps you going?", "start": 1008.6, "end": 1011.6}
+{"id": "KMeGefM6D34-t1011.6", "text": "Why do you keep going after this?", "start": 1011.6, "end": 1013.6}
+{"id": "KMeGefM6D34-t1013.6", "text": "It doesn't pay a lot.", "start": 1013.6, "end": 1015.6}
+{"id": "KMeGefM6D34-t1015.6", "text": "But there's some intrinsic drive that wants to understand more.", "start": 1015.6, "end": 1018.6}
+{"id": "KMeGefM6D34-t1018.6", "text": "So there might be personality differences as well.", "start": 1018.6, "end": 1021.6}
+{"id": "KMeGefM6D34-t1021.6", "text": "Yeah, I know.", "start": 1021.6, "end": 1022.6}
+{"id": "KMeGefM6D34-t1022.6", "text": "I'm going to follow up on that.", "start": 1022.6, "end": 1024.6}
+{"id": "KMeGefM6D34-t1024.6", "text": "Yeah, there's whether it's history, science, the arts.", "start": 1024.6, "end": 1030.6}
+{"id": "KMeGefM6D34-t1030.6", "text": "There is a certain pleasure in the doing, in the action of whatever endeavor it is.", "start": 1030.6, "end": 1038.6}
+{"id": "KMeGefM6D34-t1038.6", "text": "Without so much attention paid to the ultimate goal, of course, many scientists want to achieve a discovery.", "start": 1038.6, "end": 1048.6}
+{"id": "KMeGefM6D34-t1048.6", "text": "But in my historical research of astronomers in the 1800s, many of them are pursuing merely fine, fine measurement with no hope.", "start": 1048.6, "end": 1059.6}
+{"id": "KMeGefM6D34-t1059.6", "text": "No hope whatsoever ever discovering another planet or what galaxies are or anything of that sort.", "start": 1059.6, "end": 1066.6}
+{"id": "KMeGefM6D34-t1066.6", "text": "But when you read of their work, tedious, tedious work freezing themselves outside in the north of England in the middle of winter.", "start": 1066.6, "end": 1079.6}
+{"id": "KMeGefM6D34-t1079.6", "text": "It's very cold there, right?", "start": 1079.6, "end": 1080.6}
+{"id": "KMeGefM6D34-t1080.6", "text": "It's very cold.", "start": 1080.6, "end": 1081.6}
+{"id": "KMeGefM6D34-t1081.6", "text": "It's very damp.", "start": 1081.6, "end": 1082.6}
+{"id": "KMeGefM6D34-t1082.6", "text": "And the joy, the joy that they express in their notes at just adding a decimal point to some arbitrary seeming number, which decades later may turn out to be quite crucial.", "start": 1082.6, "end": 1096.6}
+{"id": "KMeGefM6D34-t1096.6", "text": "So you're just going to be the pain in the neck.", "start": 1096.6, "end": 1101.6}
+{"id": "KMeGefM6D34-t1101.6", "text": "Because there are also plenty of scientists who aren't that curious and who are motivated by a wish for success or another publication or they get stuck just trying to prove that they're right.", "start": 1101.6, "end": 1111.6}
+{"id": "KMeGefM6D34-t1111.6", "text": "So I think to the extent that science or scholarly pursuits celebrates and rewards curiosity and institutionalizes it, that's interesting and significant.", "start": 1111.6, "end": 1125.6}
+{"id": "KMeGefM6D34-t1125.6", "text": "And maybe there's a higher proportion of curious people in academia.", "start": 1125.6, "end": 1130.6}
+{"id": "KMeGefM6D34-t1130.6", "text": "Certainly life is made up of practices.", "start": 1130.6, "end": 1132.6}
+{"id": "KMeGefM6D34-t1132.6", "text": "So if you're in an environment where you're rewarded for your curiosity and you practice it regularly, it gets stronger or gets more robust.", "start": 1132.6, "end": 1145.6}
+{"id": "KMeGefM6D34-t1145.6", "text": "But I would say that while there may be a greater proportion of curious people in academia, there are plenty of really curious people who are not in academia and who express it in all kinds of non-scholarly ways.", "start": 1145.6, "end": 1157.6}
+{"id": "KMeGefM6D34-t1157.6", "text": "And like I said, there are plenty of people in academia who are not all that curious.", "start": 1157.6, "end": 1162.6}
+{"id": "KMeGefM6D34-t1162.6", "text": "So I would just be nervous about us elevating academia unwarrantedly.", "start": 1162.6, "end": 1168.6}
+{"id": "KMeGefM6D34-t1168.6", "text": "Well, the people I'm talking about are not academics.", "start": 1168.6, "end": 1171.6}
+{"id": "KMeGefM6D34-t1171.6", "text": "They're backyard amateur astronomers who, of course, happen to be independently wealthy, so they can pursue these.", "start": 1171.6, "end": 1178.6}
+{"id": "KMeGefM6D34-t1178.6", "text": "Well, but you can take somebody like, I kind of agree with you in this area that sometimes that's the way science goes.", "start": 1178.6, "end": 1186.6}
+{"id": "KMeGefM6D34-t1186.6", "text": "So I mean, Kepler, a famous astronomer from many years ago, spent what, like eight years or six years fighting with eight minutes of arc in the sky, which is about a quarter of your thumbnail when you hold it out.", "start": 1186.6, "end": 1197.6}
+{"id": "KMeGefM6D34-t1197.6", "text": "But Newton's, well, the Copernican predictions were off by about eight minutes of arc.", "start": 1197.6, "end": 1203.6}
+{"id": "KMeGefM6D34-t1203.6", "text": "And Kepler just wouldn't let it go, and that's because everybody was involved in circular orbits, the tyranny of Plato's circle or whatever.", "start": 1203.6, "end": 1211.6}
+{"id": "KMeGefM6D34-t1211.6", "text": "And Kepler showed that they were elliptical.", "start": 1211.6, "end": 1213.6}
+{"id": "KMeGefM6D34-t1213.6", "text": "The only way you could explain it was that orbits were elliptical.", "start": 1213.6, "end": 1216.6}
+{"id": "KMeGefM6D34-t1216.6", "text": "That not happened, it's not clear that Newton would have figured out the laws of force and so forth.", "start": 1216.6, "end": 1221.6}
+{"id": "KMeGefM6D34-t1221.6", "text": "So, but Kepler was just happy to keep fighting with these six little minutes of arc over eight years or eight minutes of arc for six years.", "start": 1221.6, "end": 1229.6}
+{"id": "KMeGefM6D34-t1229.6", "text": "I forget which it was, I get them confused.", "start": 1229.6, "end": 1232.6}
+{"id": "KMeGefM6D34-t1232.6", "text": "But so that often happens.", "start": 1232.6, "end": 1234.6}
+{"id": "KMeGefM6D34-t1234.6", "text": "So I have a question, maybe sort of for the two of you, because you're both in education.", "start": 1234.6, "end": 1237.6}
+{"id": "KMeGefM6D34-t1237.6", "text": "Don't you think to some extent this notion of curiosity and this idea that Heather has also that that the eventually the frontal cortex kind of takes over and maybe dampens it a bit?", "start": 1237.6, "end": 1249.6}
+{"id": "KMeGefM6D34-t1249.6", "text": "Is this reflected in a terrible way in the way we educate kids?", "start": 1249.6, "end": 1253.6}
+{"id": "KMeGefM6D34-t1253.6", "text": "I mean, in the second grade, all the kids are interested in science or something like it, something akin to it.", "start": 1253.6, "end": 1259.6}
+{"id": "KMeGefM6D34-t1259.6", "text": "They're all curious.", "start": 1259.6, "end": 1260.6}
+{"id": "KMeGefM6D34-t1260.6", "text": "They're all inquisitive. They like to screw around with things.", "start": 1260.6, "end": 1263.6}
+{"id": "KMeGefM6D34-t1263.6", "text": "They like to see what happens and kind of blotion up or whatever and all that stuff.", "start": 1263.6, "end": 1266.6}
+{"id": "KMeGefM6D34-t1266.6", "text": "But by eleventh grade, we pretty much drained all the interest in science and things like that right out of them.", "start": 1266.6, "end": 1273.6}
+{"id": "KMeGefM6D34-t1273.6", "text": "We have this amazingly efficient educational system for draining all the interest in curiosity,", "start": 1273.6, "end": 1279.6}
+{"id": "KMeGefM6D34-t1279.6", "text": "and presitiveness, and science out of them in favor of what a colleague of mine calls the balemic method of education,", "start": 1279.6, "end": 1286.6}
+{"id": "KMeGefM6D34-t1286.6", "text": "which is to jam a whole bunch of facts down there throughout here, and I'll let them puke it up on an exam over here.", "start": 1286.6, "end": 1291.6}
+{"id": "KMeGefM6D34-t1291.6", "text": "Then everybody goes home with no appreciable gain, right?", "start": 1291.6, "end": 1294.6}
+{"id": "KMeGefM6D34-t1294.6", "text": "So this is a terrific question, and Susan is writing a book about the answer.", "start": 1294.6, "end": 1298.6}
+{"id": "KMeGefM6D34-t1298.6", "text": "What's your answer?", "start": 1298.6, "end": 1300.6}
+{"id": "KMeGefM6D34-t1300.6", "text": "Yes, it's turning to you.", "start": 1300.6, "end": 1303.6}
+{"id": "KMeGefM6D34-t1303.6", "text": "Oh, right. Well, I am still in the middle of writing the book, so I don't have the answer.", "start": 1303.6, "end": 1308.6}
+{"id": "KMeGefM6D34-t1308.6", "text": "But I do think that our educational system works against curiosity.", "start": 1308.6, "end": 1316.6}
+{"id": "KMeGefM6D34-t1316.6", "text": "I think one interesting question is why some kids remain curious in spite of school.", "start": 1316.6, "end": 1322.6}
+{"id": "KMeGefM6D34-t1322.6", "text": "It's sad that that's the way you'd have to phrase it, and I have some thoughts.", "start": 1322.6, "end": 1326.6}
+{"id": "KMeGefM6D34-t1326.6", "text": "I mean, look, there are a lot of reasons why schools sort of push against discouraged curiosity,", "start": 1326.6, "end": 1333.6}
+{"id": "KMeGefM6D34-t1333.6", "text": "and some are almost inevitable, and others are not.", "start": 1333.6, "end": 1338.6}
+{"id": "KMeGefM6D34-t1338.6", "text": "I mean, I don't want to take up too much time, but there are some ways in which just being in a group", "start": 1338.6, "end": 1343.6}
+{"id": "KMeGefM6D34-t1343.6", "text": "and learning things that everybody thinks you should learn pushes against being able to pursue an interest you", "start": 1343.6, "end": 1350.6}
+{"id": "KMeGefM6D34-t1350.6", "text": "and spend hours fiddling around with something or stay with one line of inquiry,", "start": 1350.6, "end": 1356.6}
+{"id": "KMeGefM6D34-t1356.6", "text": "and it goes back to your original sort of the way you framed it, which is that in general school rewards what you know,", "start": 1356.6, "end": 1364.6}
+{"id": "KMeGefM6D34-t1364.6", "text": "not what you don't know.", "start": 1364.6, "end": 1365.6}
+{"id": "KMeGefM6D34-t1365.6", "text": "And that's not terrible. It's just complicated.", "start": 1365.6, "end": 1369.6}
+{"id": "KMeGefM6D34-t1369.6", "text": "I mean, we do want people to know things, and as you said, it's very different to be to embrace some amount of ignorance", "start": 1369.6, "end": 1375.6}
+{"id": "KMeGefM6D34-t1375.6", "text": "when you know a lot and you want to know more than to embrace ignorance and just not want to know anything more.", "start": 1375.6, "end": 1383.6}
+{"id": "KMeGefM6D34-t1383.6", "text": "And so we want to encourage people to know things, and schools push people to know things,", "start": 1383.6, "end": 1388.6}
+{"id": "KMeGefM6D34-t1388.6", "text": "and the trick is how to push for that and still encourage or nurture a sense of inquiry.", "start": 1388.6, "end": 1396.6}
+{"id": "KMeGefM6D34-t1396.6", "text": "And I do have thoughts about that, but that's another question.", "start": 1396.6, "end": 1399.6}
+{"id": "KMeGefM6D34-t1399.6", "text": "What's the trick?", "start": 1399.6, "end": 1401.6}
+{"id": "KMeGefM6D34-t1401.6", "text": "It's not a trick.", "start": 1401.6, "end": 1403.6}
+{"id": "KMeGefM6D34-t1403.6", "text": "It would require a big rethinking about what schools do and how they're structured.", "start": 1403.6, "end": 1410.6}
+{"id": "KMeGefM6D34-t1410.6", "text": "So let me throw an example at that because I teach introductory astronomy to non-science students,", "start": 1410.6, "end": 1417.6}
+{"id": "KMeGefM6D34-t1417.6", "text": "have been doing that for 35 years.", "start": 1417.6, "end": 1421.6}
+{"id": "KMeGefM6D34-t1421.6", "text": "About first 28 of those, I did it in the way that everybody has always done it,", "start": 1421.6, "end": 1427.6}
+{"id": "KMeGefM6D34-t1427.6", "text": "and it was extremely, extremely boring for me, for the students, and tests indicated nobody learned anything.", "start": 1427.6, "end": 1436.6}
+{"id": "KMeGefM6D34-t1436.6", "text": "But this was... This was... This was the... I'm very slow thinker, but I eventually did realize that", "start": 1436.6, "end": 1445.6}
+{"id": "KMeGefM6D34-t1445.6", "text": "I was not in any way enabling their curiosity.", "start": 1445.6, "end": 1450.6}
+{"id": "KMeGefM6D34-t1450.6", "text": "If we consider that every child has an innate curiosity up to a certain age,", "start": 1450.6, "end": 1457.6}
+{"id": "KMeGefM6D34-t1457.6", "text": "I would see these college students just appear to have no interest in what was going on", "start": 1457.6, "end": 1466.6}
+{"id": "KMeGefM6D34-t1466.6", "text": "other than what is going to be on the test.", "start": 1466.6, "end": 1469.6}
+{"id": "KMeGefM6D34-t1469.6", "text": "So I changed the entire course out of desperation because I couldn't go on with the lie.", "start": 1469.6, "end": 1479.6}
+{"id": "KMeGefM6D34-t1479.6", "text": "So what the students are doing now is they are essentially recreating, at least in a symbolic sense,", "start": 1479.6, "end": 1489.6}
+{"id": "KMeGefM6D34-t1489.6", "text": "all of the astronomical advances that have been made since the time of the ancient Greeks up to the discovery of the expanding universe.", "start": 1489.6, "end": 1499.6}
+{"id": "KMeGefM6D34-t1499.6", "text": "They work in groups. The entire class is working together.", "start": 1499.6, "end": 1504.6}
+{"id": "KMeGefM6D34-t1504.6", "text": "It is somewhat mathematical, which freaks out quite a number of the students,", "start": 1504.6, "end": 1512.6}
+{"id": "KMeGefM6D34-t1512.6", "text": "and I get a lot of opposition in the beginning, but after a while, after they see that their entire social circle in that classroom", "start": 1512.6, "end": 1523.6}
+{"id": "KMeGefM6D34-t1523.6", "text": "is doing the same thing and struggling together.", "start": 1523.6, "end": 1526.6}
+{"id": "KMeGefM6D34-t1526.6", "text": "After they get a bit more familiar with the mathematics and they see that I'm not throwing calculus at them or anything like that,", "start": 1526.6, "end": 1535.6}
+{"id": "KMeGefM6D34-t1535.6", "text": "I sort of see that spark of curiosity coming back.", "start": 1535.6, "end": 1539.6}
+{"id": "KMeGefM6D34-t1539.6", "text": "They ask questions of me, of the teaching assistant, to try and get to the answer.", "start": 1539.6, "end": 1546.6}
+{"id": "KMeGefM6D34-t1546.6", "text": "And what happened to them in the interim before I got them?", "start": 1546.6, "end": 1553.6}
+{"id": "KMeGefM6D34-t1553.6", "text": "I don't know. I'll tell you a story that I'll explain it.", "start": 1553.6, "end": 1557.6}
+{"id": "KMeGefM6D34-t1557.6", "text": "So I was in a fourth grade science class from watching a group of kids do a very cool hands-on activity,", "start": 1557.6, "end": 1564.6}
+{"id": "KMeGefM6D34-t1564.6", "text": "and they had to do with sort of inventing for themselves or seeing how Egyptians had invented wheels,", "start": 1564.6, "end": 1573.6}
+{"id": "KMeGefM6D34-t1573.6", "text": "and they had ramps, and they had wheels, and they had a little string, and they had a worksheet.", "start": 1573.6, "end": 1578.6}
+{"id": "KMeGefM6D34-t1578.6", "text": "And they were supposed to come upon this great discovery in the same way that the Egyptians had,", "start": 1578.6, "end": 1584.6}
+{"id": "KMeGefM6D34-t1584.6", "text": "and they were supposed to sort of answer some questions on the worksheet.", "start": 1584.6, "end": 1587.6}
+{"id": "KMeGefM6D34-t1587.6", "text": "And they were working in groups, so everything looked good.", "start": 1587.6, "end": 1590.6}
+{"id": "KMeGefM6D34-t1590.6", "text": "You know, hands-on, lively groups, and one group got distracted by trying some things that were not on the worksheet with the equipment,", "start": 1590.6, "end": 1598.6}
+{"id": "KMeGefM6D34-t1598.6", "text": "and they started to hang in the bar up and down and swing ahead and try stacking things,", "start": 1598.6, "end": 1603.6}
+{"id": "KMeGefM6D34-t1603.6", "text": "and the teacher came over and saw them getting sort of off topic, and she said, kids, kids.", "start": 1603.6, "end": 1611.6}
+{"id": "KMeGefM6D34-t1611.6", "text": "I'll give you time to experiment at recess. This is time for science.", "start": 1611.6, "end": 1615.6}
+{"id": "KMeGefM6D34-t1615.6", "text": "She was a really nice teacher, and they were having a great time.", "start": 1615.6, "end": 1621.6}
+{"id": "KMeGefM6D34-t1621.6", "text": "But what they weren't doing was that she saw that as a waste of time instead of thinking,", "start": 1621.6, "end": 1626.6}
+{"id": "KMeGefM6D34-t1626.6", "text": "how can I teach these kids to ask a series of good questions, and then pursue the answer?", "start": 1626.6, "end": 1631.6}
+{"id": "KMeGefM6D34-t1631.6", "text": "But it's not enough. You see, the motivation just sort of drain away.", "start": 1631.6, "end": 1634.6}
+{"id": "KMeGefM6D34-t1634.6", "text": "Well, it's not just motivation. School has to add something.", "start": 1634.6, "end": 1638.6}
+{"id": "KMeGefM6D34-t1638.6", "text": "And what it can add is teaching kids how to, I think, I don't know what you think about this,", "start": 1638.6, "end": 1643.6}
+{"id": "KMeGefM6D34-t1643.6", "text": "how to ask questions in a slightly different way than they would have on their own.", "start": 1643.6, "end": 1647.6}
+{"id": "KMeGefM6D34-t1647.6", "text": "Well, I'm still up to teaching them.", "start": 1647.6, "end": 1649.6}
+{"id": "KMeGefM6D34-t1649.6", "text": "Well, I was wanting to pursue Alan's curriculum a little bit more,", "start": 1649.6, "end": 1654.6}
+{"id": "KMeGefM6D34-t1654.6", "text": "so is it the case that you would sometimes present them with the history of the subject,", "start": 1654.6, "end": 1659.6}
+{"id": "KMeGefM6D34-t1659.6", "text": "and they rediscover it?", "start": 1659.6, "end": 1662.6}
+{"id": "KMeGefM6D34-t1662.6", "text": "And to what extent is it that they struggle to make certain observations", "start": 1662.6, "end": 1667.6}
+{"id": "KMeGefM6D34-t1667.6", "text": "that were previously made and were difficult to make?", "start": 1667.6, "end": 1669.6}
+{"id": "KMeGefM6D34-t1669.6", "text": "And to what extent is it that you also, in addition, once they've arrived at a certain point,", "start": 1669.6, "end": 1674.6}
+{"id": "KMeGefM6D34-t1674.6", "text": "invite them to say, what is the next question?", "start": 1674.6, "end": 1678.6}
+{"id": "KMeGefM6D34-t1678.6", "text": "Because that seems to me, what is the next question?", "start": 1678.6, "end": 1681.6}
+{"id": "KMeGefM6D34-t1681.6", "text": "Seems to be a much more delicate, pedagogic art.", "start": 1681.6, "end": 1684.6}
+{"id": "KMeGefM6D34-t1684.6", "text": "To nurture a student's ability to pose the next question in light of what they've established,", "start": 1684.6, "end": 1689.6}
+{"id": "KMeGefM6D34-t1689.6", "text": "is something which I think schools don't do very successfully.", "start": 1689.6, "end": 1693.6}
+{"id": "KMeGefM6D34-t1693.6", "text": "I mean, to be fair to teachers, that few of them are research scientists.", "start": 1693.6, "end": 1698.6}
+{"id": "KMeGefM6D34-t1698.6", "text": "I think also an important point is to just keep in mind that it's not a one-size-fits-all,", "start": 1698.6, "end": 1702.6}
+{"id": "KMeGefM6D34-t1702.6", "text": "so there are many individual differences, and I think different learning,", "start": 1702.6, "end": 1706.6}
+{"id": "KMeGefM6D34-t1706.6", "text": "different training styles are going to be better for different types of people.", "start": 1706.6, "end": 1711.6}
+{"id": "KMeGefM6D34-t1711.6", "text": "And I think we're all born into this world.", "start": 1711.6, "end": 1714.6}
+{"id": "KMeGefM6D34-t1714.6", "text": "We don't know how we got here or why we're here,", "start": 1714.6, "end": 1716.6}
+{"id": "KMeGefM6D34-t1716.6", "text": "and people are very curious in the beginning and ask lots of questions.", "start": 1716.6, "end": 1720.6}
+{"id": "KMeGefM6D34-t1720.6", "text": "And then you go through the educational system, and a lot of that is being out of you,", "start": 1720.6, "end": 1723.6}
+{"id": "KMeGefM6D34-t1723.6", "text": "so you're taught to learn things by rote memory and regurgitate it.", "start": 1723.6, "end": 1726.6}
+{"id": "KMeGefM6D34-t1726.6", "text": "But some people maintain that curiosity throughout, and it continues,", "start": 1726.6, "end": 1730.6}
+{"id": "KMeGefM6D34-t1730.6", "text": "and it can be reinvigorated by things like what you're doing.", "start": 1730.6, "end": 1734.6}
+{"id": "KMeGefM6D34-t1734.6", "text": "But not everybody does.", "start": 1734.6, "end": 1735.6}
+{"id": "KMeGefM6D34-t1735.6", "text": "Not everybody continues to ask questions.", "start": 1735.6, "end": 1738.6}
+{"id": "KMeGefM6D34-t1738.6", "text": "I know for me, I was educated in the American system here,", "start": 1738.6, "end": 1741.6}
+{"id": "KMeGefM6D34-t1741.6", "text": "and it was a lot of the memorization and just do well in the exams.", "start": 1741.6, "end": 1744.6}
+{"id": "KMeGefM6D34-t1744.6", "text": "And then when I went to graduate school at Oxford, where you spent a lot of time,", "start": 1744.6, "end": 1747.6}
+{"id": "KMeGefM6D34-t1747.6", "text": "it was a whole nother system.", "start": 1747.6, "end": 1750.6}
+{"id": "KMeGefM6D34-t1750.6", "text": "And for me, it was so refreshing.", "start": 1750.6, "end": 1751.6}
+{"id": "KMeGefM6D34-t1751.6", "text": "They gave us all this freedom. There was no exams.", "start": 1751.6, "end": 1753.6}
+{"id": "KMeGefM6D34-t1753.6", "text": "And it was, you were allowed to just go wherever your curiosity took you.", "start": 1753.6, "end": 1757.6}
+{"id": "KMeGefM6D34-t1757.6", "text": "And for me, I really thrived.", "start": 1757.6, "end": 1759.6}
+{"id": "KMeGefM6D34-t1759.6", "text": "But I had other colleagues of mine, they really struggled in that system", "start": 1759.6, "end": 1765.6}
+{"id": "KMeGefM6D34-t1765.6", "text": "because they didn't know how to navigate it.", "start": 1765.6, "end": 1767.6}
+{"id": "KMeGefM6D34-t1767.6", "text": "And I'm sure you've been there for many years.", "start": 1767.6, "end": 1769.6}
+{"id": "KMeGefM6D34-t1769.6", "text": "People who spend years and years and years doing their PhD", "start": 1769.6, "end": 1772.6}
+{"id": "KMeGefM6D34-t1772.6", "text": "because they have no structure and they need the structure.", "start": 1772.6, "end": 1774.6}
+{"id": "KMeGefM6D34-t1774.6", "text": "So I think that kind of open system, where you're free to ask questions,", "start": 1774.6, "end": 1777.6}
+{"id": "KMeGefM6D34-t1777.6", "text": "it works for some types of minds, but not all of them.", "start": 1777.6, "end": 1781.6}
+{"id": "KMeGefM6D34-t1781.6", "text": "And it's important to keep that in mind.", "start": 1781.6, "end": 1783.6}
+{"id": "KMeGefM6D34-t1783.6", "text": "Not everybody is going to thrive in the same kind of structure.", "start": 1783.6, "end": 1786.6}
+{"id": "KMeGefM6D34-t1786.6", "text": "Yeah, I guess I would say, in addition to our wanting to emphasize the fact that", "start": 1786.6, "end": 1791.6}
+{"id": "KMeGefM6D34-t1791.6", "text": "you have to maintain curiosity as a motivational factor.", "start": 1791.6, "end": 1796.6}
+{"id": "KMeGefM6D34-t1796.6", "text": "Beyond the motivational factor, I do think there's an intellectual art", "start": 1796.6, "end": 1801.6}
+{"id": "KMeGefM6D34-t1801.6", "text": "in framing the next question.", "start": 1801.6, "end": 1804.6}
+{"id": "KMeGefM6D34-t1804.6", "text": "And of course, the next question is framed in the light of actually very often,", "start": 1804.6, "end": 1809.6}
+{"id": "KMeGefM6D34-t1809.6", "text": "not ignorance, but a deep knowledge of where the subject is at,", "start": 1809.6, "end": 1813.6}
+{"id": "KMeGefM6D34-t1813.6", "text": "and what would be tractable next.", "start": 1813.6, "end": 1817.6}
+{"id": "KMeGefM6D34-t1817.6", "text": "And I mean, I guess I would venture to say that some of us, I'm sure,", "start": 1817.6, "end": 1823.6}
+{"id": "KMeGefM6D34-t1823.6", "text": "do that, try to do that as advisors of doctoral students.", "start": 1823.6, "end": 1826.6}
+{"id": "KMeGefM6D34-t1826.6", "text": "But I think it would be nice if we sometimes did it as teachers of 11 year olds", "start": 1826.6, "end": 1832.6}
+{"id": "KMeGefM6D34-t1832.6", "text": "or teachers of four year olds.", "start": 1832.6, "end": 1834.6}
+{"id": "KMeGefM6D34-t1834.6", "text": "So I guess I see something of a blend here, perhaps,", "start": 1834.6, "end": 1837.6}
+{"id": "KMeGefM6D34-t1837.6", "text": "because I don't think you can get to having students sophisticated enough", "start": 1837.6, "end": 1842.6}
+{"id": "KMeGefM6D34-t1842.6", "text": "to ask the next question, to think to the next question,", "start": 1842.6, "end": 1845.6}
+{"id": "KMeGefM6D34-t1845.6", "text": "simply by laying out, here's a so-and-so facts.", "start": 1845.6, "end": 1848.6}
+{"id": "KMeGefM6D34-t1848.6", "text": "Now, you know these facts.", "start": 1848.6, "end": 1850.6}
+{"id": "KMeGefM6D34-t1850.6", "text": "You should be able to figure out the next question.", "start": 1850.6, "end": 1853.6}
+{"id": "KMeGefM6D34-t1853.6", "text": "Because in point, in fact, many great scientists have it.", "start": 1853.6, "end": 1855.6}
+{"id": "KMeGefM6D34-t1855.6", "text": "I mean, there's no reason whatsoever by Darwin could not have figured out the gene.", "start": 1855.6, "end": 1859.6}
+{"id": "KMeGefM6D34-t1859.6", "text": "He had all the knowledge that was needed to figure out the gene and never did it.", "start": 1859.6, "end": 1864.6}
+{"id": "KMeGefM6D34-t1864.6", "text": "I mean, he did something pretty good, but he was never able to get to that next step.", "start": 1864.6, "end": 1870.6}
+{"id": "KMeGefM6D34-t1870.6", "text": "The gene was just never, somehow or another, available to his intellect,", "start": 1870.6, "end": 1874.6}
+{"id": "KMeGefM6D34-t1874.6", "text": "or his particular line of questioning.", "start": 1874.6, "end": 1876.6}
+{"id": "KMeGefM6D34-t1876.6", "text": "What I do think you can do though...", "start": 1876.6, "end": 1877.6}
+{"id": "KMeGefM6D34-t1877.6", "text": "Would you say that he didn't actually pose the question?", "start": 1877.6, "end": 1880.6}
+{"id": "KMeGefM6D34-t1880.6", "text": "Oh, no, he did. He did pose the question.", "start": 1880.6, "end": 1882.6}
+{"id": "KMeGefM6D34-t1882.6", "text": "So it does, as he was asking the right question.", "start": 1882.6, "end": 1884.6}
+{"id": "KMeGefM6D34-t1884.6", "text": "Well, he's asking the wrong question, as it turned out, or pursuing sort of...", "start": 1884.6, "end": 1887.6}
+{"id": "KMeGefM6D34-t1887.6", "text": "The wrong...", "start": 1887.6, "end": 1888.6}
+{"id": "KMeGefM6D34-t1888.6", "text": "Yes. And I mean, maybe there was no shortcut, and maybe it was just an", "start": 1888.6, "end": 1891.6}
+{"id": "KMeGefM6D34-t1891.6", "text": "unconscionable hypothesis for him.", "start": 1891.6, "end": 1894.6}
+{"id": "KMeGefM6D34-t1894.6", "text": "But I think that the way you can maybe train this is, to in fact,", "start": 1894.6, "end": 1898.6}
+{"id": "KMeGefM6D34-t1898.6", "text": "I always like to say recreate the ignorance of a particular moment of discovery.", "start": 1898.6, "end": 1903.6}
+{"id": "KMeGefM6D34-t1903.6", "text": "I mean, one of the great tragedies in science, and seems to be for scientists,", "start": 1903.6, "end": 1906.6}
+{"id": "KMeGefM6D34-t1906.6", "text": "since these days, is that the bigger the discovery you make,", "start": 1906.6, "end": 1910.6}
+{"id": "KMeGefM6D34-t1910.6", "text": "the more quickly it just becomes part of the mainstream.", "start": 1910.6, "end": 1913.6}
+{"id": "KMeGefM6D34-t1913.6", "text": "It's forgotten, it's been some big deal discovery, you know,", "start": 1913.6, "end": 1917.6}
+{"id": "KMeGefM6D34-t1917.6", "text": "because that's what we do in making an animation.", "start": 1917.6, "end": 1919.6}
+{"id": "KMeGefM6D34-t1919.6", "text": "But if you can go back to that kind of moment of ignorance before the discovery was made,", "start": 1919.6, "end": 1924.6}
+{"id": "KMeGefM6D34-t1924.6", "text": "then I think you develop in students not only the knowledge,", "start": 1924.6, "end": 1928.6}
+{"id": "KMeGefM6D34-t1928.6", "text": "now they're going to get this knowledge.", "start": 1928.6, "end": 1929.6}
+{"id": "KMeGefM6D34-t1929.6", "text": "So, I mean, there's Galileo's formula for acceleration, gravity, and all that.", "start": 1929.6, "end": 1934.6}
+{"id": "KMeGefM6D34-t1934.6", "text": "It has a time thing, and it's one of my favorite examples.", "start": 1934.6, "end": 1937.6}
+{"id": "KMeGefM6D34-t1937.6", "text": "It has a unit of time, and a time squared, in fact, right?", "start": 1937.6, "end": 1940.6}
+{"id": "KMeGefM6D34-t1940.6", "text": "So you can say this is in giving the equation, and you can tell them about the balls dropping", "start": 1940.6, "end": 1944.6}
+{"id": "KMeGefM6D34-t1944.6", "text": "and the inclined planes, if you can keep them awake that long, right?", "start": 1944.6, "end": 1947.6}
+{"id": "KMeGefM6D34-t1947.6", "text": "Or you can say, well, here's the thing, though.", "start": 1947.6, "end": 1949.6}
+{"id": "KMeGefM6D34-t1949.6", "text": "Galileo didn't have a watch, or a timer.", "start": 1949.6, "end": 1952.6}
+{"id": "KMeGefM6D34-t1952.6", "text": "The best he could do was a sundial, the best he could do was an hour,", "start": 1952.6, "end": 1956.6}
+{"id": "KMeGefM6D34-t1956.6", "text": "but it takes the big balls an hour to drop, you know.", "start": 1956.6, "end": 1958.6}
+{"id": "KMeGefM6D34-t1958.6", "text": "So how did he time that out?", "start": 1958.6, "end": 1960.6}
+{"id": "KMeGefM6D34-t1960.6", "text": "Now you can begin to see students think about how you would solve a problem at a level,", "start": 1960.6, "end": 1965.6}
+{"id": "KMeGefM6D34-t1965.6", "text": "and I think if you get them to solve those problems coming up then,", "start": 1965.6, "end": 1969.6}
+{"id": "KMeGefM6D34-t1969.6", "text": "first of all, they'll remember the equation, and secondly, they'll begin to develop a sense", "start": 1969.6, "end": 1973.6}
+{"id": "KMeGefM6D34-t1973.6", "text": "that you find things out by solving problems, you find things out by asking questions,", "start": 1973.6, "end": 1978.6}
+{"id": "KMeGefM6D34-t1978.6", "text": "and then you get more knowledge, you ask more questions naturally.", "start": 1978.6, "end": 1981.6}
+{"id": "KMeGefM6D34-t1981.6", "text": "Just as a matter of curiosity.", "start": 1981.6, "end": 1983.6}
+{"id": "KMeGefM6D34-t1983.6", "text": "Yeah, because this is the process.", "start": 1983.6, "end": 1985.6}
+{"id": "KMeGefM6D34-t1985.6", "text": "I have a question for you.", "start": 1985.6, "end": 1987.6}
+{"id": "KMeGefM6D34-t1987.6", "text": "So is it the case that Galileo solves the measurement problem by transposing it", "start": 1987.6, "end": 1993.6}
+{"id": "KMeGefM6D34-t1993.6", "text": "from a vertical drop to an inclined plane, or is that a mischievous?", "start": 1993.6, "end": 1996.6}
+{"id": "KMeGefM6D34-t1996.6", "text": "That was two ways.", "start": 1996.6, "end": 1997.6}
+{"id": "KMeGefM6D34-t1997.6", "text": "One was he used as pulse as a timer.", "start": 1997.6, "end": 1999.6}
+{"id": "KMeGefM6D34-t1999.6", "text": "He realized he could use as pulse, and then a pendulum swing as well.", "start": 1999.6, "end": 2003.6}
+{"id": "KMeGefM6D34-t2003.6", "text": "But finally, even that wasn't fast enough, and so the problem was,", "start": 2003.6, "end": 2007.6}
+{"id": "KMeGefM6D34-t2007.6", "text": "like I said, as students, he had the slow gravity down.", "start": 2007.6, "end": 2010.6}
+{"id": "KMeGefM6D34-t2010.6", "text": "Well, how do you slow gravity down?", "start": 2010.6, "end": 2012.6}
+{"id": "KMeGefM6D34-t2012.6", "text": "Well, an inclined plane is where you drop a ball from here to there,", "start": 2012.6, "end": 2016.6}
+{"id": "KMeGefM6D34-t2016.6", "text": "or you can send it down that same vertical, but much more slowly by sending it down a long plane,", "start": 2016.6, "end": 2021.6}
+{"id": "KMeGefM6D34-t2021.6", "text": "and then he could measure that.", "start": 2021.6, "end": 2022.6}
+{"id": "KMeGefM6D34-t2022.6", "text": "But it seems it's more than just curiosity.", "start": 2022.6, "end": 2024.6}
+{"id": "KMeGefM6D34-t2024.6", "text": "It's creativity.", "start": 2024.6, "end": 2025.6}
+{"id": "KMeGefM6D34-t2025.6", "text": "I mean, these are creative minds, and you need to be able to think outside the box.", "start": 2025.6, "end": 2029.6}
+{"id": "KMeGefM6D34-t2029.6", "text": "And also not to poo poo, the fact that learning the facts is very important.", "start": 2029.6, "end": 2033.6}
+{"id": "KMeGefM6D34-t2033.6", "text": "I mean, just rote learning facts is important to get to that point.", "start": 2033.6, "end": 2037.6}
+{"id": "KMeGefM6D34-t2037.6", "text": "So we have to find a system that also encourages that, because you can't just start out with nothing.", "start": 2037.6, "end": 2043.6}
+{"id": "KMeGefM6D34-t2043.6", "text": "But once you know all these facts, the people who make the great discoveries,", "start": 2043.6, "end": 2047.6}
+{"id": "KMeGefM6D34-t2047.6", "text": "a lot of it is these flashes of insight.", "start": 2047.6, "end": 2049.6}
+{"id": "KMeGefM6D34-t2049.6", "text": "And I think a lot of that, you consciously take in all the information,", "start": 2049.6, "end": 2052.6}
+{"id": "KMeGefM6D34-t2052.6", "text": "and then the unconscious kind of moles it over, and it has a much larger capacity than conscious thought,", "start": 2052.6, "end": 2056.6}
+{"id": "KMeGefM6D34-t2056.6", "text": "and it can make irrational connections between things that the conscious mind won't allow.", "start": 2056.6, "end": 2061.6}
+{"id": "KMeGefM6D34-t2061.6", "text": "That's why they say take in the information and then sleep on it, and then usually you can wake up with an answer.", "start": 2061.6, "end": 2066.6}
+{"id": "KMeGefM6D34-t2066.6", "text": "So I think it's a combination of minds that have done all the hard work and taken in all the information", "start": 2066.6, "end": 2071.6}
+{"id": "KMeGefM6D34-t2071.6", "text": "and then allowed the unconscious to kind of mull it over, and then come up with creative solutions", "start": 2071.6, "end": 2075.6}
+{"id": "KMeGefM6D34-t2075.6", "text": "that not everybody can come up with.", "start": 2075.6, "end": 2077.6}
+{"id": "KMeGefM6D34-t2077.6", "text": "That's why we point to these examples as being so extraordinary, because they're so unique", "start": 2077.6, "end": 2081.6}
+{"id": "KMeGefM6D34-t2081.6", "text": "to come up with these solutions way outside the box.", "start": 2081.6, "end": 2084.6}
+{"id": "KMeGefM6D34-t2084.6", "text": "From the teacher's perspective, it's a lot easier to teach a body of proven facts", "start": 2084.6, "end": 2090.6}
+{"id": "KMeGefM6D34-t2090.6", "text": "than to say conduct an experiment, a series of experiments with the students certainly", "start": 2090.6, "end": 2096.6}
+{"id": "KMeGefM6D34-t2096.6", "text": "at the elementary school or middle school age, because often the experiments don't work.", "start": 2096.6, "end": 2102.6}
+{"id": "KMeGefM6D34-t2102.6", "text": "They don't come out right.", "start": 2102.6, "end": 2104.6}
+{"id": "KMeGefM6D34-t2104.6", "text": "The care that the, well, the Galileo's put into assuring that there are no effects that are mucking up the results.", "start": 2104.6, "end": 2113.6}
+{"id": "KMeGefM6D34-t2113.6", "text": "But I would suggest something, a slightly different emphasis going back to your answer to Paul's question,", "start": 2113.6, "end": 2121.6}
+{"id": "KMeGefM6D34-t2121.6", "text": "which is that part of what everybody's describing is the pleasure of thinking, of working through a problem,", "start": 2121.6, "end": 2130.6}
+{"id": "KMeGefM6D34-t2130.6", "text": "because it's not just the question, right?", "start": 2130.6, "end": 2133.6}
+{"id": "KMeGefM6D34-t2133.6", "text": "It's then using what you've learned to ask it to think about building the next question.", "start": 2133.6, "end": 2138.6}
+{"id": "KMeGefM6D34-t2138.6", "text": "And partly we have the problem of figuring out how to get kids to do that in more and more sophisticated,", "start": 2138.6, "end": 2145.6}
+{"id": "KMeGefM6D34-t2145.6", "text": "knowledgeable ways as they get older, but partly it has to do with helping children sort of who might not otherwise discover the pleasure of that.", "start": 2145.6, "end": 2155.6}
+{"id": "KMeGefM6D34-t2155.6", "text": "So if you grow up in any one of your households, you're going to be around parents who encourage that kind of thinking out loud", "start": 2155.6, "end": 2162.6}
+{"id": "KMeGefM6D34-t2162.6", "text": "and who model the pleasure of thinking out loud or pursuing a problem.", "start": 2162.6, "end": 2167.6}
+{"id": "KMeGefM6D34-t2167.6", "text": "But many kids don't grow up in families like that.", "start": 2167.6, "end": 2169.6}
+{"id": "KMeGefM6D34-t2169.6", "text": "And so then the teacher has another problem, which is to make his or her classroom a place where thinking is pleasurable.", "start": 2169.6, "end": 2177.6}
+{"id": "KMeGefM6D34-t2177.6", "text": "And in order for that to work, the teacher has to feel that thinking is pleasurable.", "start": 2177.6, "end": 2181.6}
+{"id": "KMeGefM6D34-t2181.6", "text": "So then you're trying to figure out, I mean, and that's a worthwhile task for anybody who wants to take that.", "start": 2181.6, "end": 2188.6}
+{"id": "KMeGefM6D34-t2188.6", "text": "How to get teachers to fill that one?", "start": 2188.6, "end": 2190.6}
+{"id": "KMeGefM6D34-t2190.6", "text": "There's a serious balance problem, right?", "start": 2190.6, "end": 2191.6}
+{"id": "KMeGefM6D34-t2191.6", "text": "Do we all worry about, at some point you have to try and admit some facts to people, right?", "start": 2191.6, "end": 2196.6}
+{"id": "KMeGefM6D34-t2196.6", "text": "I mean, I have to learn some things.", "start": 2196.6, "end": 2199.6}
+{"id": "KMeGefM6D34-t2199.6", "text": "I mean, scientists have to know a lot of stuff.", "start": 2199.6, "end": 2201.6}
+{"id": "KMeGefM6D34-t2201.6", "text": "So do lawyers, so do engineers, so do doctors and accountants and all.", "start": 2201.6, "end": 2205.6}
+{"id": "KMeGefM6D34-t2205.6", "text": "But knowing a pile of stuff doesn't really make you a scientist lawyer.", "start": 2205.6, "end": 2209.6}
+{"id": "KMeGefM6D34-t2209.6", "text": "I make you a geek, basically.", "start": 2209.6, "end": 2212.6}
+{"id": "KMeGefM6D34-t2212.6", "text": "So there has to be something additional to it.", "start": 2212.6, "end": 2215.6}
+{"id": "KMeGefM6D34-t2215.6", "text": "And I think there's a relatively, well, there's a very important question as to what are the relevant facts to teach?", "start": 2215.6, "end": 2221.6}
+{"id": "KMeGefM6D34-t2221.6", "text": "Why have we chosen the ones we've chosen?", "start": 2221.6, "end": 2224.6}
+{"id": "KMeGefM6D34-t2224.6", "text": "I mean, I, there's a fellow named Paul Lockhart who wrote this wonderful little book pamphlet almost called The Mathematicians Lament,", "start": 2224.6, "end": 2231.6}
+{"id": "KMeGefM6D34-t2231.6", "text": "and I recommend, very highly to everybody, it's a bit of a rant, but it's a great rant.", "start": 2231.6, "end": 2235.6}
+{"id": "KMeGefM6D34-t2235.6", "text": "And I mean, he asked you a very simple question.", "start": 2235.6, "end": 2237.6}
+{"id": "KMeGefM6D34-t2237.6", "text": "Why do we teach algebra?", "start": 2237.6, "end": 2239.6}
+{"id": "KMeGefM6D34-t2239.6", "text": "Who in this room uses algebra?", "start": 2239.6, "end": 2241.6}
+{"id": "KMeGefM6D34-t2241.6", "text": "Do you use algebra anymore?", "start": 2241.6, "end": 2243.6}
+{"id": "KMeGefM6D34-t2243.6", "text": "I mean, a few people.", "start": 2243.6, "end": 2244.6}
+{"id": "KMeGefM6D34-t2244.6", "text": "But that's a small number of people, actually.", "start": 2244.6, "end": 2250.6}
+{"id": "KMeGefM6D34-t2250.6", "text": "You use algebra in the, I mean, he gives us great examples.", "start": 2250.6, "end": 2253.6}
+{"id": "KMeGefM6D34-t2253.6", "text": "You know, the reason they tell you that algebra is so great is because we're able to figure out problems like,", "start": 2253.6, "end": 2258.6}
+{"id": "KMeGefM6D34-t2258.6", "text": "Marcy is two years older than she was when she was twice her age.", "start": 2258.6, "end": 2261.6}
+{"id": "KMeGefM6D34-t2261.6", "text": "How old is Marcy?", "start": 2261.6, "end": 2262.6}
+{"id": "KMeGefM6D34-t2262.6", "text": "I mean, who would have access to that kind of information and not just be able to say, Marcy, how old are you?", "start": 2262.6, "end": 2267.6}
+{"id": "KMeGefM6D34-t2267.6", "text": "You know, I mean, it's ridiculous, of course.", "start": 2267.6, "end": 2271.6}
+{"id": "KMeGefM6D34-t2271.6", "text": "But the reason I bring this up is that mathematics is an area where you can just think and come up with things.", "start": 2271.6, "end": 2278.6}
+{"id": "KMeGefM6D34-t2278.6", "text": "There can be little problems and you can kind of think and try things at relatively little cost.", "start": 2278.6, "end": 2283.6}
+{"id": "KMeGefM6D34-t2283.6", "text": "I mean, you don't have to have a lot of experimental equipment.", "start": 2283.6, "end": 2286.6}
+{"id": "KMeGefM6D34-t2286.6", "text": "You can have a pencil and paper and draw some things or this or that and say, well, how come it works out this way?", "start": 2286.6, "end": 2291.6}
+{"id": "KMeGefM6D34-t2291.6", "text": "Or, you know, why is it that the squares of every odd and the odd numbers make squares of all these sorts of funny numerical things?", "start": 2291.6, "end": 2299.6}
+{"id": "KMeGefM6D34-t2299.6", "text": "And they're just thought problems.", "start": 2299.6, "end": 2301.6}
+{"id": "KMeGefM6D34-t2301.6", "text": "They won't help you balance a checkbook, but who does that anymore either, you know?", "start": 2301.6, "end": 2305.6}
+{"id": "KMeGefM6D34-t2305.6", "text": "And so who needs algebra?", "start": 2305.6, "end": 2308.6}
+{"id": "KMeGefM6D34-t2308.6", "text": "If you want algebra great, then I want to be there and available to you if that's where your thinking takes you.", "start": 2308.6, "end": 2313.6}
+{"id": "KMeGefM6D34-t2313.6", "text": "But I don't think we teach math.", "start": 2313.6, "end": 2315.6}
+{"id": "KMeGefM6D34-t2315.6", "text": "I mean, math is the worst of the subjects.", "start": 2315.6, "end": 2317.6}
+{"id": "KMeGefM6D34-t2317.6", "text": "We just kill people and everybody hates math.", "start": 2317.6, "end": 2319.6}
+{"id": "KMeGefM6D34-t2319.6", "text": "And they're taught to hate math.", "start": 2319.6, "end": 2321.6}
+{"id": "KMeGefM6D34-t2321.6", "text": "For no reason at all.", "start": 2321.6, "end": 2322.6}
+{"id": "KMeGefM6D34-t2322.6", "text": "It can be a great deal of fun.", "start": 2322.6, "end": 2324.6}
+{"id": "KMeGefM6D34-t2324.6", "text": "The rant against the rant, I algebra trigonometry arithmetic.", "start": 2324.6, "end": 2332.6}
+{"id": "KMeGefM6D34-t2332.6", "text": "It doesn't, I don't see the particular area of mathematics as being significant, so you're never going to use algebra.", "start": 2332.6, "end": 2341.6}
+{"id": "KMeGefM6D34-t2341.6", "text": "Well, why do people exercise?", "start": 2341.6, "end": 2343.6}
+{"id": "KMeGefM6D34-t2343.6", "text": "They go running.", "start": 2343.6, "end": 2344.6}
+{"id": "KMeGefM6D34-t2344.6", "text": "They're never going to chase down prey for you anymore.", "start": 2344.6, "end": 2348.6}
+{"id": "KMeGefM6D34-t2348.6", "text": "Well, they might be running away from them.", "start": 2348.6, "end": 2351.6}
+{"id": "KMeGefM6D34-t2351.6", "text": "So what I do see, again, in my own students, and what I suspect is true is if you do a lot of mathematical, quantitative thinking, I think it's good exercise for the brain.", "start": 2351.6, "end": 2366.6}
+{"id": "KMeGefM6D34-t2366.6", "text": "So I agree with that.", "start": 2366.6, "end": 2368.6}
+{"id": "KMeGefM6D34-t2368.6", "text": "It's just a question of should we just be teaching the rules of algebra?", "start": 2368.6, "end": 2371.6}
+{"id": "KMeGefM6D34-t2371.6", "text": "Should we get to the bottom?", "start": 2371.6, "end": 2373.6}
+{"id": "KMeGefM6D34-t2373.6", "text": "Well, fully not.", "start": 2373.6, "end": 2374.6}
+{"id": "KMeGefM6D34-t2374.6", "text": "But do you know that's how it's taught?", "start": 2374.6, "end": 2376.6}
+{"id": "KMeGefM6D34-t2376.6", "text": "Yes, yes.", "start": 2376.6, "end": 2381.6}
+{"id": "KMeGefM6D34-t2381.6", "text": "I think there's no question that education can be improved.", "start": 2381.6, "end": 2384.6}
+{"id": "KMeGefM6D34-t2384.6", "text": "And there are so many methods of teaching math that are making it so that the students have more curiosity.", "start": 2384.6, "end": 2391.6}
+{"id": "KMeGefM6D34-t2391.6", "text": "But isn't there at some level a certain degree of contradiction between curiosity and knowledge in the sense that if I want to know how to make a difference,", "start": 2391.6, "end": 2405.6}
+{"id": "KMeGefM6D34-t2405.6", "text": "I want to know how to go to Third Avenue.", "start": 2405.6, "end": 2408.6}
+{"id": "KMeGefM6D34-t2408.6", "text": "I'm going to be curious about how I'm going to leave this building and go to Third Avenue.", "start": 2408.6, "end": 2413.6}
+{"id": "KMeGefM6D34-t2413.6", "text": "The moment I know how to go to Third Avenue, I'm no longer curious about going to Third Avenue.", "start": 2413.6, "end": 2419.6}
+{"id": "KMeGefM6D34-t2419.6", "text": "So little kids, they have very little knowledge, and so they have curiosity about a lot of things.", "start": 2419.6, "end": 2425.6}
+{"id": "KMeGefM6D34-t2425.6", "text": "As they get more and more knowledge, some of that curiosity inevitably, whether it's the prefrontal or whether it's just the way you're getting more knowledge,", "start": 2425.6, "end": 2434.6}
+{"id": "KMeGefM6D34-t2434.6", "text": "diminishes.", "start": 2434.6, "end": 2435.6}
+{"id": "KMeGefM6D34-t2435.6", "text": "So the issue seems to me to be how to maintain, nevertheless, despite that natural diminution, a certain amount of question asking and curiosity.", "start": 2435.6, "end": 2448.6}
+{"id": "KMeGefM6D34-t2448.6", "text": "And that in a way requires...", "start": 2448.6, "end": 2450.6}
+{"id": "KMeGefM6D34-t2450.6", "text": "There is some evidence.", "start": 2450.6, "end": 2451.6}
+{"id": "KMeGefM6D34-t2451.6", "text": "So the developmental evidence is roughly as follows.", "start": 2451.6, "end": 2457.6}
+{"id": "KMeGefM6D34-t2457.6", "text": "Let me just step back a moment and sketch one educational philosophy, which I think in some sense relied on children's questions.", "start": 2457.6, "end": 2466.6}
+{"id": "KMeGefM6D34-t2466.6", "text": "So if you look at progressive education, both in this country and in the United Kingdom, the idea was that young children are indeed spontaneously curious.", "start": 2466.6, "end": 2475.6}
+{"id": "KMeGefM6D34-t2475.6", "text": "So they would come to you with questions, but rather than answer them, you would provide them with the raw material so that they could go off and answer them,", "start": 2475.6, "end": 2484.6}
+{"id": "KMeGefM6D34-t2484.6", "text": "whether it was dissecting a dead rat or playing with matches so that they could figure out what burns and what doesn't and so forth.", "start": 2484.6, "end": 2493.6}
+{"id": "KMeGefM6D34-t2493.6", "text": "Trickier these days in safety-driven preschools.", "start": 2493.6, "end": 2498.6}
+{"id": "KMeGefM6D34-t2498.6", "text": "At any rate, I actually don't think that is the ideal way to nurture children's curiosity.", "start": 2498.6, "end": 2504.6}
+{"id": "KMeGefM6D34-t2504.6", "text": "So what is?", "start": 2504.6, "end": 2505.6}
+{"id": "KMeGefM6D34-t2505.6", "text": "Well, if you look at the data, it looks as if children do indeed vary in the number of questions they ask.", "start": 2505.6, "end": 2512.6}
+{"id": "KMeGefM6D34-t2512.6", "text": "And it turns out that children who ask questions often don't show satisfaction with the answer.", "start": 2512.6, "end": 2520.6}
+{"id": "KMeGefM6D34-t2520.6", "text": "It triggers more questions.", "start": 2520.6, "end": 2522.6}
+{"id": "KMeGefM6D34-t2522.6", "text": "So if anything, I think the way to nurture children's questions is indeed to answer them to enter into a dialogue with them.", "start": 2522.6, "end": 2529.6}
+{"id": "KMeGefM6D34-t2529.6", "text": "And you see that, you know, if we look at people's family background, and this echoes the point that Susan was making,", "start": 2529.6, "end": 2536.6}
+{"id": "KMeGefM6D34-t2536.6", "text": "I think those families where conversation is seen as a vehicle for exploration rather than as a regulatory activity,", "start": 2536.6, "end": 2548.6}
+{"id": "KMeGefM6D34-t2548.6", "text": "telling the child what not to do or what to do, as long as it's seen as a vehicle for exploration,", "start": 2548.6, "end": 2554.6}
+{"id": "KMeGefM6D34-t2554.6", "text": "then I think you don't actually dampen children's curiosity by giving them an answer because, as we know, as scientists,", "start": 2554.6, "end": 2562.6}
+{"id": "KMeGefM6D34-t2562.6", "text": "no sooner have you got the one answer than it provokes further questions.", "start": 2562.6, "end": 2567.6}
+{"id": "KMeGefM6D34-t2567.6", "text": "So I think in that sense, there are deep continuities between the way that children function intellectually", "start": 2567.6, "end": 2573.6}
+{"id": "KMeGefM6D34-t2573.6", "text": "and the way that scientists function.", "start": 2573.6, "end": 2576.6}
+{"id": "KMeGefM6D34-t2576.6", "text": "I guess where we're stuck though is in asking, well, how do we transpose what some children are lucky enough to enjoy at the family dinner table", "start": 2576.6, "end": 2584.6}
+{"id": "KMeGefM6D34-t2584.6", "text": "to what goes on in school?", "start": 2584.6, "end": 2586.6}
+{"id": "KMeGefM6D34-t2586.6", "text": "And there I think we meet some of the challenges that Susan was talking about, and I guess one challenge, especially in this country,", "start": 2586.6, "end": 2595.6}
+{"id": "KMeGefM6D34-t2595.6", "text": "to be honest, is true in the UK as well, is that we've set up educational achievement in terms of testable knowledge.", "start": 2595.6, "end": 2603.6}
+{"id": "KMeGefM6D34-t2603.6", "text": "And my own children have complained about the fact that their teacher is so keen to move on with the curriculum", "start": 2603.6, "end": 2610.6}
+{"id": "KMeGefM6D34-t2610.6", "text": "that when one of them asks a quirky question, the teacher is inclined to say,", "start": 2610.6, "end": 2614.6}
+{"id": "KMeGefM6D34-t2614.6", "text": "I'm sorry, we don't have time for that because we have the end cast to deal with or whatever.", "start": 2614.6, "end": 2620.6}
+{"id": "KMeGefM6D34-t2620.6", "text": "So I think that's really true.", "start": 2620.6, "end": 2622.6}
+{"id": "KMeGefM6D34-t2622.6", "text": "And actually listening to you talk about scientific endeavors, what struck me was the amount of time they take,", "start": 2622.6, "end": 2630.6}
+{"id": "KMeGefM6D34-t2630.6", "text": "both time from one scientist to the next as we inherit the good questions and data of previous scientists", "start": 2630.6, "end": 2636.6}
+{"id": "KMeGefM6D34-t2636.6", "text": "and also within our own bodies of work, and the great enemy of scientific achievement, but also of education, is efficiency.", "start": 2636.6, "end": 2648.6}
+{"id": "KMeGefM6D34-t2648.6", "text": "And we have a school system that's driven by efficiency, and you can hear it echoed in the things that teachers say,", "start": 2648.6, "end": 2655.6}
+{"id": "KMeGefM6D34-t2655.6", "text": "like I don't have time for that, and you can see it in the way that schools are structured.", "start": 2655.6, "end": 2659.6}
+{"id": "KMeGefM6D34-t2659.6", "text": "And so one, you'd have to change your thinking about efficiency, about what needs to be done in those 12 years of schooling,", "start": 2659.6, "end": 2667.6}
+{"id": "KMeGefM6D34-t2667.6", "text": "because it's not efficient to pursue a line of English.", "start": 2667.6, "end": 2670.6}
+{"id": "KMeGefM6D34-t2670.6", "text": "I asked a more fundamental question, you'll never find an answer as far as I know.", "start": 2670.6, "end": 2675.6}
+{"id": "KMeGefM6D34-t2675.6", "text": "Why do school last 12 years?", "start": 2675.6, "end": 2677.6}
+{"id": "KMeGefM6D34-t2679.6", "text": "I mean, I've never found an educator that can tell you why it's last 12 years.", "start": 2679.6, "end": 2682.6}
+{"id": "KMeGefM6D34-t2682.6", "text": "I can tell you.", "start": 2682.6, "end": 2683.6}
+{"id": "KMeGefM6D34-t2683.6", "text": "Does no educational answer.", "start": 2683.6, "end": 2684.6}
+{"id": "KMeGefM6D34-t2684.6", "text": "That's right.", "start": 2684.6, "end": 2685.6}
+{"id": "KMeGefM6D34-t2685.6", "text": "That's right.", "start": 2685.6, "end": 2686.6}
+{"id": "KMeGefM6D34-t2686.6", "text": "It's an economic answer.", "start": 2686.6, "end": 2687.6}
+{"id": "KMeGefM6D34-t2687.6", "text": "But the economics have changed since we started school lasting 12 years.", "start": 2687.6, "end": 2692.6}
+{"id": "KMeGefM6D34-t2692.6", "text": "I mean, the economics are completely different.", "start": 2692.6, "end": 2694.6}
+{"id": "KMeGefM6D34-t2694.6", "text": "It's actually, you could go much longer to school because there's no job out there for you anyway.", "start": 2694.6, "end": 2699.6}
+{"id": "KMeGefM6D34-t2699.6", "text": "I'm going to stay in school a little longer.", "start": 2699.6, "end": 2701.6}
+{"id": "KMeGefM6D34-t2701.6", "text": "I mean, you know, we don't have to rush our way through it.", "start": 2701.6, "end": 2704.6}
+{"id": "KMeGefM6D34-t2704.6", "text": "It's not going to have asked university people out there,", "start": 2704.6, "end": 2707.6}
+{"id": "KMeGefM6D34-t2707.6", "text": "well, how come it takes four years to get an undergraduate degree?", "start": 2707.6, "end": 2709.6}
+{"id": "KMeGefM6D34-t2709.6", "text": "Are you saying it should take less or more?", "start": 2709.6, "end": 2711.6}
+{"id": "KMeGefM6D34-t2711.6", "text": "I don't care.", "start": 2711.6, "end": 2712.6}
+{"id": "KMeGefM6D34-t2712.6", "text": "I just want us to think about it instead of just keep doing what we've been doing.", "start": 2712.6, "end": 2718.6}
+{"id": "KMeGefM6D34-t2718.6", "text": "I mean, it seems like nobody's ever thought about it.", "start": 2718.6, "end": 2720.6}
+{"id": "KMeGefM6D34-t2720.6", "text": "Yeah, I've thought about a lot.", "start": 2720.6, "end": 2721.6}
+{"id": "KMeGefM6D34-t2721.6", "text": "Or whatever did think about it is gone and they let leave anything behind.", "start": 2721.6, "end": 2725.6}
+{"id": "KMeGefM6D34-t2725.6", "text": "I always wish that I could get like five PhDs.", "start": 2725.6, "end": 2729.6}
+{"id": "KMeGefM6D34-t2729.6", "text": "You know, like life is the time constraint really, right?", "start": 2729.6, "end": 2732.6}
+{"id": "KMeGefM6D34-t2732.6", "text": "Because I want to know, you know, all these interests, you know,", "start": 2732.6, "end": 2735.6}
+{"id": "KMeGefM6D34-t2735.6", "text": "as I got older and went through education, I had to cut things out.", "start": 2735.6, "end": 2738.6}
+{"id": "KMeGefM6D34-t2738.6", "text": "You know, I started out, I was acting and painting and playing the violin and science and psychology.", "start": 2738.6, "end": 2744.6}
+{"id": "KMeGefM6D34-t2744.6", "text": "And then I had to gradually first the violin went, you know, and then the theatre went.", "start": 2744.6, "end": 2749.6}
+{"id": "KMeGefM6D34-t2749.6", "text": "And then the painting went because I had to sort of fine tune and get become an expert in something.", "start": 2749.6, "end": 2753.6}
+{"id": "KMeGefM6D34-t2753.6", "text": "But I wish I could go and get a master of fine arts now and do this and do that.", "start": 2753.6, "end": 2757.6}
+{"id": "KMeGefM6D34-t2757.6", "text": "But life constrains you.", "start": 2757.6, "end": 2759.6}
+{"id": "KMeGefM6D34-t2759.6", "text": "So there is that natural time history, but my biggest question is as time goes on,", "start": 2759.6, "end": 2764.6}
+{"id": "KMeGefM6D34-t2764.6", "text": "information keeps getting, information keeps increasing.", "start": 2764.6, "end": 2768.6}
+{"id": "KMeGefM6D34-t2768.6", "text": "So the real problem is how do you, and history keeps increasing?", "start": 2768.6, "end": 2772.6}
+{"id": "KMeGefM6D34-t2772.6", "text": "I was thinking about, you know, more and more events.", "start": 2772.6, "end": 2774.6}
+{"id": "KMeGefM6D34-t2774.6", "text": "So you have to kind of curtail a lot of information and just pick out the most relevant bits.", "start": 2774.6, "end": 2779.6}
+{"id": "KMeGefM6D34-t2779.6", "text": "And how do you fit that all in to 12 years?", "start": 2779.6, "end": 2781.6}
+{"id": "KMeGefM6D34-t2781.6", "text": "And the other thing, well then as the internet grew, you know, I just have to look up things in the encyclopedia.", "start": 2781.6, "end": 2786.6}
+{"id": "KMeGefM6D34-t2786.6", "text": "But now you can get information very quickly.", "start": 2786.6, "end": 2787.6}
+{"id": "KMeGefM6D34-t2787.6", "text": "So although information is increasing, we have greater access to it.", "start": 2787.6, "end": 2790.6}
+{"id": "KMeGefM6D34-t2790.6", "text": "And a lot of people are teaching themselves at home the information.", "start": 2790.6, "end": 2793.6}
+{"id": "KMeGefM6D34-t2793.6", "text": "So then what's the job of the teacher?", "start": 2793.6, "end": 2795.6}
+{"id": "KMeGefM6D34-t2795.6", "text": "I mean, why go to school anymore when the lectures are posted online?", "start": 2795.6, "end": 2799.6}
+{"id": "KMeGefM6D34-t2799.6", "text": "You can just read it online.", "start": 2799.6, "end": 2800.6}
+{"id": "KMeGefM6D34-t2800.6", "text": "What does the teacher do?", "start": 2800.6, "end": 2802.6}
+{"id": "KMeGefM6D34-t2802.6", "text": "And does it help, you know, organize the information in a meaningful way?", "start": 2802.6, "end": 2806.6}
+{"id": "KMeGefM6D34-t2806.6", "text": "And these are just questions that I've been asked of myself lately.", "start": 2806.6, "end": 2811.6}
+{"id": "KMeGefM6D34-t2811.6", "text": "Why are you all looking at me?", "start": 2811.6, "end": 2813.6}
+{"id": "KMeGefM6D34-t2813.6", "text": "Well, I don't know, but I think you're right.", "start": 2813.6, "end": 2815.6}
+{"id": "KMeGefM6D34-t2815.6", "text": "I mean, in the age of Google and Wikipedia, the business plan of the university for sure isn't going to hold up anymore.", "start": 2815.6, "end": 2820.6}
+{"id": "KMeGefM6D34-t2820.6", "text": "We just can't sell the facts at these outrageous prices anymore.", "start": 2820.6, "end": 2823.6}
+{"id": "KMeGefM6D34-t2823.6", "text": "They're available.", "start": 2823.6, "end": 2824.6}
+{"id": "KMeGefM6D34-t2824.6", "text": "We have to be adding something else to all this.", "start": 2824.6, "end": 2828.6}
+{"id": "KMeGefM6D34-t2828.6", "text": "Or it's not going to use.", "start": 2828.6, "end": 2829.6}
+{"id": "KMeGefM6D34-t2829.6", "text": "I mean, I would say that what we have to add is to instill in students a taste for what's beyond the facts,", "start": 2829.6, "end": 2835.6}
+{"id": "KMeGefM6D34-t2835.6", "text": "or if you will, ignorance for questions, for getting past the facts.", "start": 2835.6, "end": 2839.6}
+{"id": "KMeGefM6D34-t2839.6", "text": "I think that there, I would object to the idea that there's either facts or a taste for more as the two options.", "start": 2839.6, "end": 2846.6}
+{"id": "KMeGefM6D34-t2846.6", "text": "Because I think what we're seeing, and I think this is very clear if you look at young kids,", "start": 2846.6, "end": 2852.6}
+{"id": "KMeGefM6D34-t2852.6", "text": "I think this is what Paul was saying, is that there's a process to asking questions.", "start": 2852.6, "end": 2857.6}
+{"id": "KMeGefM6D34-t2857.6", "text": "And actually, I don't think anyone would want us to go on having a mind of the three-year-old.", "start": 2857.6, "end": 2862.6}
+{"id": "KMeGefM6D34-t2862.6", "text": "So there's some good development that takes place.", "start": 2862.6, "end": 2865.6}
+{"id": "KMeGefM6D34-t2865.6", "text": "And you ask questions in a different way, and you seek answers in a different way one would think as you get older.", "start": 2865.6, "end": 2870.6}
+{"id": "KMeGefM6D34-t2870.6", "text": "And I'm sure everybody, everybody, your teachers, that no one thinks that they're, I don't think any of us either give a taste for more or give facts.", "start": 2870.6, "end": 2880.6}
+{"id": "KMeGefM6D34-t2880.6", "text": "There's also the skill of asking more penetrating questions, of attending to finer distinctions.", "start": 2880.6, "end": 2887.6}
+{"id": "KMeGefM6D34-t2887.6", "text": "We haven't talked about that at all.", "start": 2887.6, "end": 2889.6}
+{"id": "KMeGefM6D34-t2889.6", "text": "But the more you know about something, you don't know where Third Avenue is, and then you know it.", "start": 2889.6, "end": 2896.6}
+{"id": "KMeGefM6D34-t2896.6", "text": "But by then, by the time you know it, you could be attuned to other unexpected things.", "start": 2896.6, "end": 2900.6}
+{"id": "KMeGefM6D34-t2900.6", "text": "That's true.", "start": 2900.6, "end": 2901.6}
+{"id": "KMeGefM6D34-t2901.6", "text": "You know, what's along the street, and why is that person doing what they're doing at the corner, and so forth and so on.", "start": 2901.6, "end": 2906.6}
+{"id": "KMeGefM6D34-t2906.6", "text": "So those kinds of, those sort of pieces of how one pursues knowledge, I think, can be taught and do need to be taught.", "start": 2906.6, "end": 2917.6}
+{"id": "KMeGefM6D34-t2917.6", "text": "And that's not simply inspiring children, nor is it sort of filling them with facts. It's guiding them in how to ask questions and then how to seek answers.", "start": 2917.6, "end": 2928.6}
+{"id": "KMeGefM6D34-t2928.6", "text": "I agree with you, actually.", "start": 2928.6, "end": 2930.6}
+{"id": "KMeGefM6D34-t2930.6", "text": "So I have this argument with students all the time. I teach neurosci, I teach cellular neuroscience, some of molecular neuroscience.", "start": 2930.6, "end": 2936.6}
+{"id": "KMeGefM6D34-t2936.6", "text": "I mean that sounds terrifying, right? Terrifies me a little bit.", "start": 2936.6, "end": 2939.6}
+{"id": "KMeGefM6D34-t2939.6", "text": "And, and, but I argue, I always have arguments with these students.", "start": 2939.6, "end": 2942.6}
+{"id": "KMeGefM6D34-t2942.6", "text": "You know, they said, well, why do we have to know these, these details? Why can't we look those up?", "start": 2942.6, "end": 2947.6}
+{"id": "KMeGefM6D34-t2947.6", "text": "Don't you think you should be teaching us the big concept, you know, that, that cover these?", "start": 2947.6, "end": 2951.6}
+{"id": "KMeGefM6D34-t2951.6", "text": "And I argue with them, and I say, absolutely not. Big concepts you should flee from.", "start": 2951.6, "end": 2955.6}
+{"id": "KMeGefM6D34-t2955.6", "text": "They're just a bunch of propaganda. This is just somebody's idea about how to organize these facts, but maybe there's a better way to organize them.", "start": 2955.6, "end": 2963.6}
+{"id": "KMeGefM6D34-t2963.6", "text": "I think what you need to know is, is this an apocleft, 0.22 or 2 or 20 microns, you know, in size.", "start": 2963.6, "end": 2971.6}
+{"id": "KMeGefM6D34-t2971.6", "text": "Because if you know that, then you can think about the kind of questions that are appropriate to something that size.", "start": 2971.6, "end": 2976.6}
+{"id": "KMeGefM6D34-t2976.6", "text": "And that, that leads other things. You know, the concepts are a bad idea. I hate teaching concepts. I think it's the worst thing you can do.", "start": 2976.6, "end": 2983.6}
+{"id": "KMeGefM6D34-t2983.6", "text": "I really, I think they're propaganda, you know. They just hold you back.", "start": 2983.6, "end": 2987.6}
+{"id": "KMeGefM6D34-t2987.6", "text": "So in that sense, fact, a very freeing. I agree they permit you to ask questions, as long as you present them that way.", "start": 2987.6, "end": 2993.6}
+{"id": "KMeGefM6D34-t2993.6", "text": "But it sounds to me like it or not. You're also offering them an intellectual novel to emulate. Right?", "start": 2993.6, "end": 3001.6}
+{"id": "KMeGefM6D34-t3001.6", "text": "You're being somewhat iconoclastic about the field within which you operate.", "start": 3001.6, "end": 3006.6}
+{"id": "KMeGefM6D34-t3006.6", "text": "And students also learn to be question-asking and curiosity driven by virtue of that kind of osmosis.", "start": 3006.6, "end": 3013.6}
+{"id": "KMeGefM6D34-t3013.6", "text": "I mean, so there's a sense in which, well, we're asking this question, how do we nurture curiosity?", "start": 3013.6, "end": 3018.6}
+{"id": "KMeGefM6D34-t3018.6", "text": "How do we answer? How do we get children to ask questions? How do we get students to ask questions?", "start": 3018.6, "end": 3022.6}
+{"id": "KMeGefM6D34-t3022.6", "text": "I think there are lots of intangibles about how you do it. You, partly, you try your best to embody it.", "start": 3022.6, "end": 3030.6}
+{"id": "KMeGefM6D34-t3030.6", "text": "Yes. There's one other little story that a very famous neurobiologist in Allen Hodgkin at Cambridge", "start": 3030.6, "end": 3037.6}
+{"id": "KMeGefM6D34-t3037.6", "text": "for many years discovered how the action potential works in brain.", "start": 3037.6, "end": 3040.6}
+{"id": "KMeGefM6D34-t3040.6", "text": "Anyways, an electrophysiologist, and I knew a postdoc who was in his lab. He's now dead many years, but who was in his lab.", "start": 3040.6, "end": 3047.6}
+{"id": "KMeGefM6D34-t3047.6", "text": "He said, the thing about Allen was he would come in every morning and he would walk around from one experimental setup to the other.", "start": 3047.6, "end": 3053.6}
+{"id": "KMeGefM6D34-t3053.6", "text": "We'd student had some experimental setup and had some showed him some results in the experiment work to go very good, very good to keep on", "start": 3053.6, "end": 3059.6}
+{"id": "KMeGefM6D34-t3059.6", "text": "until he ran into somebody whose experiments weren't working.", "start": 3059.6, "end": 3063.6}
+{"id": "KMeGefM6D34-t3063.6", "text": "And then he would take off his jacket, sit down like his pipe, because in those days he could smoke in the lab, you know.", "start": 3063.6, "end": 3068.6}
+{"id": "KMeGefM6D34-t3068.6", "text": "And sit with the student for an hour. He was only interested in the stuff that didn't work.", "start": 3068.6, "end": 3073.6}
+{"id": "KMeGefM6D34-t3073.6", "text": "That's where the cool stuff was. So, you know, it worked. Yeah.", "start": 3073.6, "end": 3078.6}
+{"id": "KMeGefM6D34-t3078.6", "text": "You know, you made a, I think Enrico Fermi, you said, tell the students if you do an experiment and approve the hypothesis, you made a measurement.", "start": 3078.6, "end": 3086.6}
+{"id": "KMeGefM6D34-t3086.6", "text": "If you do an experiment and it doesn't prove the hypothesis, you made a discovery.", "start": 3086.6, "end": 3090.6}
+{"id": "KMeGefM6D34-t3090.6", "text": "And that's, so in the end, that's what you want to do. And you're right.", "start": 3090.6, "end": 3093.6}
+{"id": "KMeGefM6D34-t3093.6", "text": "I mean, you have to pay more attention to the struggle than to the one where the student who just pops off the answers, because they're particularly good at memorizing.", "start": 3093.6, "end": 3102.6}
+{"id": "KMeGefM6D34-t3102.6", "text": "I think the other piece of that, though, which is really interesting, if you look at one really interesting model of early development is the children apprentice themselves, or the adults sort of pull children into an apprenticeship relationship.", "start": 3102.6, "end": 3117.6}
+{"id": "KMeGefM6D34-t3117.6", "text": "And that doesn't just happen. And this country, in fact, it particularly happens all over the world where there's non-formal schooling.", "start": 3117.6, "end": 3124.6}
+{"id": "KMeGefM6D34-t3124.6", "text": "And kids learn alongside of a grown-up who's doing the thing the kid is supposed to learn. And of course, that involves watching someone do the thing that you're supposed to learn how to do.", "start": 3124.6, "end": 3135.6}
+{"id": "KMeGefM6D34-t3135.6", "text": "And the thing you're doing becomes explicit. It's sort of displayed.", "start": 3135.6, "end": 3140.6}
+{"id": "KMeGefM6D34-t3140.6", "text": "We haven't used that model very well in our formal systems of schooling.", "start": 3140.6, "end": 3145.6}
+{"id": "KMeGefM6D34-t3145.6", "text": "So we learn all the stuff. We figure out the experiment ahead of time, not in college, but in K-12.", "start": 3145.6, "end": 3151.6}
+{"id": "KMeGefM6D34-t3151.6", "text": "And then kids get some very digested version of it. And teachers dread, even at college often, is the question they don't know the answer to.", "start": 3151.6, "end": 3159.6}
+{"id": "KMeGefM6D34-t3159.6", "text": "But you could argue that what kids at any age can learn most from is watching the grown-up solve the problem, think out loud, answer a question.", "start": 3159.6, "end": 3169.6}
+{"id": "KMeGefM6D34-t3169.6", "text": "Or confess ignorance.", "start": 3169.6, "end": 3171.6}
+{"id": "KMeGefM6D34-t3171.6", "text": "And then think and say out loud, I mean, the best professors I ever had were the ones who said, let me think about that.", "start": 3171.6, "end": 3178.6}
+{"id": "KMeGefM6D34-t3178.6", "text": "If I think this, if I do this, if I were to draw on that piece of information.", "start": 3178.6, "end": 3183.6}
+{"id": "KMeGefM6D34-t3183.6", "text": "So there, it's not only what you're encouraging in the student, it's what you're willing to display or make explicit in an educational setting.", "start": 3183.6, "end": 3190.6}
+{"id": "KMeGefM6D34-t3190.6", "text": "Is the outcome of these other systems known?", "start": 3190.6, "end": 3193.6}
+{"id": "KMeGefM6D34-t3193.6", "text": "No, where's this?", "start": 3193.6, "end": 3194.6}
+{"id": "KMeGefM6D34-t3194.6", "text": "Well, we know that in a large number of places where there's non-formal schooling, kids get good at the things that they're learning by apprenticeship.", "start": 3194.6, "end": 3205.6}
+{"id": "KMeGefM6D34-t3205.6", "text": "The question is, so you could get good in certain communities in Mexico at weaving if you weave alongside the expert weavers or in other cultures at drumming or whatever it is.", "start": 3205.6, "end": 3216.6}
+{"id": "KMeGefM6D34-t3216.6", "text": "The question I think that we're asking is, is that a good model for something a little less concrete and finite, like scientific knowledge or being curious?", "start": 3216.6, "end": 3228.6}
+{"id": "KMeGefM6D34-t3228.6", "text": "I think that's a question.", "start": 3228.6, "end": 3230.6}
+{"id": "KMeGefM6D34-t3230.6", "text": "I think that's a question.", "start": 3230.6, "end": 3231.6}
+{"id": "KMeGefM6D34-t3231.6", "text": "There's also, there's just fiscal constraints. So I think, of course, the best type of learning is going to be one-on-one mentorship.", "start": 3231.6, "end": 3237.6}
+{"id": "KMeGefM6D34-t3237.6", "text": "But when you're stuck with these big universities, there's one professor teaching to 300 students in an introductory course.", "start": 3237.6, "end": 3245.6}
+{"id": "KMeGefM6D34-t3245.6", "text": "It's very difficult to get that really important one-on-one kind of mentorship, whereas when I switched over to the Oxford model where they have a tutorial system, which is amazing, you read this essay, you go and you meet with your professor one-on-one and you discuss it and the ideas.", "start": 3245.6, "end": 3260.6}
+{"id": "KMeGefM6D34-t3260.6", "text": "I mean, but that's just not fiscally possible. I mean, there's Sarah Lawrence College, which is here tries to maintain that Don system where everybody has one mentor and they can learn from, but it's very, very expensive to maintain.", "start": 3260.6, "end": 3272.6}
+{"id": "KMeGefM6D34-t3272.6", "text": "So I think the question is, how do you get some of the good aspects of that kind of mentorship relationship in these situations where you have classes that are hunted?", "start": 3272.6, "end": 3280.6}
+{"id": "KMeGefM6D34-t3280.6", "text": "I think you can use other kids to do it.", "start": 3280.6, "end": 3282.6}
+{"id": "KMeGefM6D34-t3282.6", "text": "So I think that's one of the great tricks. I mean, I'm not the first person to say this, I think, but I think one of the mistakes we make actually in our educational system now is that we educate kids all at the same age all the way through school.", "start": 3282.6, "end": 3294.6}
+{"id": "KMeGefM6D34-t3294.6", "text": "You go through school with kids all at the same age. I mean, that's also who decided on that exactly?", "start": 3294.6, "end": 3300.6}
+{"id": "KMeGefM6D34-t3300.6", "text": "So we could take Stuart's point to say that children will no longer have 12 years of education. They'll just have one year, but it's going to be very, very intense.", "start": 3300.6, "end": 3309.6}
+{"id": "KMeGefM6D34-t3309.6", "text": "If we look at the entire educational arc from kindergarten on, if the end point is going to be a cellular neurobiologist, I mean, kindergarten, I guess you have the broadest possible education with great flexibility, and there's some sort of geometric analogy.", "start": 3309.6, "end": 3331.6}
+{"id": "KMeGefM6D34-t3331.6", "text": "There's some sort of narrowing and specialization until you wind up with one of you. But...", "start": 3331.6, "end": 3339.6}
+{"id": "KMeGefM6D34-t3339.6", "text": "What was the one thing that was a great deal about almost nothing?", "start": 3339.6, "end": 3343.6}
+{"id": "KMeGefM6D34-t3343.6", "text": "What would the end point is, say, a blacksmith?", "start": 3343.6, "end": 3349.6}
+{"id": "KMeGefM6D34-t3349.6", "text": "I don't know if these converging educational models, how can it serve both at the same time? I think there's a great model of what should be taught and how it should be taught, and when the specialization should occur to accommodate every single person's ultimate career aspiration.", "start": 3349.6, "end": 3372.6}
+{"id": "KMeGefM6D34-t3372.6", "text": "Well, in that sense, I think the European system is a little bit better, because in the American system, it's kind of like all American, but sort of the Rhodes Scholar model, where you should have a good and a whole variety of different things.", "start": 3372.6, "end": 3385.6}
+{"id": "KMeGefM6D34-t3385.6", "text": "And so you first come into school, you don't even have to declare a major, you can take all these classes, and eventually you whittle down.", "start": 3385.6, "end": 3391.6}
+{"id": "KMeGefM6D34-t3391.6", "text": "But you actually don't get as much expertise as in some of the European system, where you go into school knowing what you're going to be studying, and you're just taking classes in that area.", "start": 3391.6, "end": 3400.6}
+{"id": "KMeGefM6D34-t3400.6", "text": "You can take some classes outside of that. But you get these really highly specialized people, not just academics, but if you go to the mechanic in Germany, they know everything.", "start": 3400.6, "end": 3410.6}
+{"id": "KMeGefM6D34-t3410.6", "text": "They have these specialty schools. So not everybody has to go, they're just model in America. Everybody needs to go to these colleges and get this degree and be multifaceted.", "start": 3410.6, "end": 3419.6}
+{"id": "KMeGefM6D34-t3419.6", "text": "But that might not necessarily be the best model. It might be better to have these really highly specialized people know a lot about their particular field.", "start": 3419.6, "end": 3426.6}
+{"id": "KMeGefM6D34-t3426.6", "text": "Not everybody needs to know about ancient Greek history to be an educated person.", "start": 3426.6, "end": 3432.6}
+{"id": "KMeGefM6D34-t3432.6", "text": "We still have vocational.", "start": 3432.6, "end": 3434.6}
+{"id": "KMeGefM6D34-t3434.6", "text": "Yeah, but they're not as, I know in Europe they're much more common and they're prestigious too.", "start": 3434.6, "end": 3441.6}
+{"id": "KMeGefM6D34-t3441.6", "text": "I mean the vocational schools, you go to some shop owner and they really know and they care about all the stuff that it is, whatever they might be selling, which is different here.", "start": 3441.6, "end": 3453.6}
+{"id": "KMeGefM6D34-t3453.6", "text": "Well, I would argue though that we wouldn't, I wouldn't want an educational system that only cultivated or mentored or embodied curiosity for the people who are going to go on and get a graduate degree.", "start": 3453.6, "end": 3468.6}
+{"id": "KMeGefM6D34-t3468.6", "text": "So I would say that whether you're going to become, there's a beautiful piece by Rebecca Mead and the New Yorker from about a year ago that talks about college education and says this much better than I could.", "start": 3468.6, "end": 3480.6}
+{"id": "KMeGefM6D34-t3480.6", "text": "Society would benefit from everyone having this cultivated and by cultivated I mean modeled and taught and guided K-12.", "start": 3480.6, "end": 3492.6}
+{"id": "KMeGefM6D34-t3492.6", "text": "No matter what your job is going to be, you know, blacksmith could be curious too.", "start": 3492.6, "end": 3498.6}
+{"id": "KMeGefM6D34-t3498.6", "text": "And so...", "start": 3498.6, "end": 3500.6}
+{"id": "KMeGefM6D34-t3500.6", "text": "That's a very blacksmith swelled anymore.", "start": 3500.6, "end": 3502.6}
+{"id": "KMeGefM6D34-t3502.6", "text": "There are.", "start": 3502.6, "end": 3503.6}
+{"id": "KMeGefM6D34-t3503.6", "text": "Sure.", "start": 3503.6, "end": 3504.6}
+{"id": "KMeGefM6D34-t3504.6", "text": "But I mean I'm not saying cold curiosity, of course, K-12, but I think when you go on to the higher education, why not specialize in things rather than still keeping it all open and all decide maybe when I'm a senior, if I'm going to major in whatever.", "start": 3504.6, "end": 3519.6}
+{"id": "KMeGefM6D34-t3519.6", "text": "You know, I mean I'm not saying cold curiosity but maybe have specialization slightly earlier on.", "start": 3519.6, "end": 3530.6}
+{"id": "KMeGefM6D34-t3530.6", "text": "Do you want to take questions? Do we take questions?", "start": 3530.6, "end": 3534.6}
+{"id": "KMeGefM6D34-t3534.6", "text": "Yeah.", "start": 3534.6, "end": 3535.6}
+{"id": "KMeGefM6D34-t3535.6", "text": "If you're ready, we can't.", "start": 3535.6, "end": 3538.6}
+{"id": "KMeGefM6D34-t3538.6", "text": "I guess if you're okay with me.", "start": 3538.6, "end": 3541.6}
+{"id": "KMeGefM6D34-t3541.6", "text": "Michael Sacks, I guess one thing that came across seemingly was about the recognition of a need of desire to acquire basic knowledge.", "start": 3541.6, "end": 3555.6}
+{"id": "KMeGefM6D34-t3555.6", "text": "Obviously that's the way our school system or educational system has been structured and then we have curiosity as something else.", "start": 3555.6, "end": 3565.6}
+{"id": "KMeGefM6D34-t3565.6", "text": "But could it be, and it really ties into the issue of the efficiency of the educational system, that part of the cure lies in how that basic knowledge is presented from K-12, which is to say, and even some language that you use,", "start": 3565.6, "end": 3584.6}
+{"id": "KMeGefM6D34-t3584.6", "text": "it was as if the knowledge is here and it's very, very specific, be it science, be it history.", "start": 3584.6, "end": 3591.6}
+{"id": "KMeGefM6D34-t3591.6", "text": "But the thing that would be perhaps stimulating would be the way that was presented, in a way that it's presented in a context,", "start": 3591.6, "end": 3600.6}
+{"id": "KMeGefM6D34-t3600.6", "text": "where not it's history rather than just looking, learning dates, battles, kings, queens, to understand what they would have.", "start": 3600.6, "end": 3609.6}
+{"id": "KMeGefM6D34-t3609.6", "text": "So the question is simply, can things be changed by addressing the way that basic knowledge is presented,", "start": 3609.6, "end": 3621.6}
+{"id": "KMeGefM6D34-t3621.6", "text": "or would that lead to too much discussion and therefore go against the concept of leading to educating people?", "start": 3621.6, "end": 3632.6}
+{"id": "KMeGefM6D34-t3632.6", "text": "Susan.", "start": 3632.6, "end": 3633.6}
+{"id": "KMeGefM6D34-t3633.6", "text": "Yeah, I actually don't think that children learn facts and then learn to think well about them or ask questions about them.", "start": 3633.6, "end": 3641.6}
+{"id": "KMeGefM6D34-t3641.6", "text": "I think that, and if you think about how kids get expert at the first things they get expert at in early life,", "start": 3641.6, "end": 3648.6}
+{"id": "KMeGefM6D34-t3648.6", "text": "they learn a little, then they do a little with it, then they learn a little more, I mean in all domains of life, you know.", "start": 3648.6, "end": 3654.6}
+{"id": "KMeGefM6D34-t3654.6", "text": "And so it's, I would dispense with the whole idea that first anybody learns about any facts and then learns to be curious about it", "start": 3654.6, "end": 3664.6}
+{"id": "KMeGefM6D34-t3664.6", "text": "or use the facts to ask questions.", "start": 3664.6, "end": 3667.6}
+{"id": "KMeGefM6D34-t3667.6", "text": "That would be clear that I'm fine.", "start": 3667.6, "end": 3669.6}
+{"id": "KMeGefM6D34-t3669.6", "text": "But I'm really saying it's the way it's taught.", "start": 3669.6, "end": 3672.6}
+{"id": "KMeGefM6D34-t3672.6", "text": "Yes, we agree.", "start": 3672.6, "end": 3673.6}
+{"id": "KMeGefM6D34-t3673.6", "text": "It's the way it's taught.", "start": 3673.6, "end": 3674.6}
+{"id": "KMeGefM6D34-t3674.6", "text": "Can you please not interfere?", "start": 3674.6, "end": 3676.6}
+{"id": "KMeGefM6D34-t3676.6", "text": "Let me do it.", "start": 3676.6, "end": 3677.6}
+{"id": "KMeGefM6D34-t3677.6", "text": "It's also, I would say quickly, it's also the way it's evaluated.", "start": 3677.6, "end": 3683.6}
+{"id": "KMeGefM6D34-t3683.6", "text": "So if you have an evaluation system which assesses children's ability to supply answers, you will not be interested in children's ability to answer, ask questions.", "start": 3683.6, "end": 3693.6}
+{"id": "KMeGefM6D34-t3693.6", "text": "Exactly.", "start": 3693.6, "end": 3694.6}
+{"id": "KMeGefM6D34-t3694.6", "text": "Hi.", "start": 3694.6, "end": 3695.6}
+{"id": "KMeGefM6D34-t3695.6", "text": "I'm hoping to redirect the conversation just a little bit away from children in the educational system to a comment that you made very early on, which I found fascinating.", "start": 3695.6, "end": 3705.6}
+{"id": "KMeGefM6D34-t3705.6", "text": "I'm hoping to redirect away from children in the educational system to a comment that you, a fascinating comment that you made early on, which was the difference among adults as far as level of curiosity.", "start": 3705.6, "end": 3721.6}
+{"id": "KMeGefM6D34-t3721.6", "text": "And you had said that as a function of age, there's a more active prefrontal cortex which results in less curiosity and less creativity.", "start": 3721.6, "end": 3731.6}
+{"id": "KMeGefM6D34-t3731.6", "text": "But I'm wondering if there are any other thoughts in terms of what would make the difference between people who are naturally more curious, whether they're scientists or artists, whatever versus those who are not.", "start": 3731.6, "end": 3744.6}
+{"id": "KMeGefM6D34-t3744.6", "text": "So for that, I mean, I can tell a little bit of what I've been looking at recently is the neural basis of spontaneous creativity.", "start": 3744.6, "end": 3751.6}
+{"id": "KMeGefM6D34-t3751.6", "text": "So people who are really good, for example, like jazz improv or, you know, theater improv or freestyle rappers, even compared to the sitting down and thinking about something and writing out a poem, for example.", "start": 3751.6, "end": 3763.6}
+{"id": "KMeGefM6D34-t3763.6", "text": "And what studies have found using things like fMRI is that during those moments of spontaneous creativity, where people almost say they're in a flow and it feels like things are coming from someplace else or outside of them.", "start": 3763.6, "end": 3775.6}
+{"id": "KMeGefM6D34-t3775.6", "text": "And you might say that's related also to people at these moments of insight where things just kind of emerge.", "start": 3775.6, "end": 3781.6}
+{"id": "KMeGefM6D34-t3781.6", "text": "What was found is that there's increased activation of this part of the prefrontal cortex called the ventral medial prefrontal cortex, which is sort of right here.", "start": 3781.6, "end": 3788.6}
+{"id": "KMeGefM6D34-t3788.6", "text": "And there's actually decreased activation of what's called the dorsal lateral prefrontal cortex, which is normally turned on.", "start": 3788.6, "end": 3794.6}
+{"id": "KMeGefM6D34-t3794.6", "text": "And so normally you have these sort of thoughts that are coming from a bit outside of awareness, so they're self-generated, they're stimulus independent.", "start": 3794.6, "end": 3803.6}
+{"id": "KMeGefM6D34-t3803.6", "text": "So internally generated thoughts that are then kind of that are activated by medial prefrontal cortex that are then kind of modulated or modified by activation of the dorsal lateral prefrontal cortex, which is kind of like, you can think of it almost like a super ego or something.", "start": 3803.6, "end": 3819.6}
+{"id": "KMeGefM6D34-t3819.6", "text": "If you want to put it in psychoanalytic terms, you have these sort of id drives and impulses coming up and you have the super ego saying, wait, no, that doesn't conform to rational thought or to societal rules.", "start": 3819.6, "end": 3829.6}
+{"id": "KMeGefM6D34-t3829.6", "text": "And you kind of call down people so they become less and less eager to perhaps express these unconventional thoughts.", "start": 3829.6, "end": 3837.6}
+{"id": "KMeGefM6D34-t3837.6", "text": "But when they're in these states of flow or creativity, that sort of self-critical part of the brain is turned down and it allows this free flow of thoughts to come out, which can lead to things like insights or creativity.", "start": 3837.6, "end": 3851.6}
+{"id": "KMeGefM6D34-t3851.6", "text": "So I think that there are individual differences perhaps in the capability of turning down certain self-critical parts of the brain that will kind of put a damper on curiosity.", "start": 3851.6, "end": 3862.6}
+{"id": "KMeGefM6D34-t3862.6", "text": "And brains are different, personalities are different.", "start": 3862.6, "end": 3865.6}
+{"id": "KMeGefM6D34-t3865.6", "text": "But I do think there is an age difference that when you get to a point where that prefrontal cortex is fully formed, it becomes more difficult to allow that spontaneous freedom.", "start": 3865.6, "end": 3876.6}
+{"id": "KMeGefM6D34-t3876.6", "text": "A lot of people say it's good to get into a childlike mode if you want to become creative and kind of turn down the prefrontal cortex and allow yourself to kind of free things up a bit.", "start": 3876.6, "end": 3885.6}
+{"id": "KMeGefM6D34-t3885.6", "text": "But can I quickly read this other line from my favorite obituary of this week?", "start": 3885.6, "end": 3893.6}
+{"id": "KMeGefM6D34-t3893.6", "text": "Talking about how we got this idea, Dr. Jacob said he had been watching a dull movie with his wife Liseon in 1958 when he began daydreaming and was struck with an idea of how genes might function.", "start": 3893.6, "end": 3905.6}
+{"id": "KMeGefM6D34-t3905.6", "text": "So I think I've just thought up something important to control her.", "start": 3905.6, "end": 3911.6}
+{"id": "KMeGefM6D34-t3911.6", "text": "Okay, next question.", "start": 3911.6, "end": 3918.6}
+{"id": "KMeGefM6D34-t3918.6", "text": "The Myers-Briggs pipe indicator reports to measure virtually every person precisely on the scales we've been talking about here.", "start": 3918.6, "end": 3927.6}
+{"id": "KMeGefM6D34-t3927.6", "text": "On the intuitive versus sensing scale, it's I think a preference for concepts versus very concrete facts.", "start": 3927.6, "end": 3934.6}
+{"id": "KMeGefM6D34-t3934.6", "text": "And on the thinking on the perceiving versus judging, it's a propensity to be curious and want more information, constant want more information, and a judge who wants to have certainty, wants closure.", "start": 3934.6, "end": 3946.6}
+{"id": "KMeGefM6D34-t3946.6", "text": "So rather than talking about whether the school system should go one way or the other, shouldn't we really be talking about how the school system adapts to the different traits each person has and best develops their propensity, whatever they tend to be on those scales?", "start": 3946.6, "end": 3965.6}
+{"id": "KMeGefM6D34-t3965.6", "text": "That's what I was saying before, is that their individual differences in certain educational models are going to be better for certain personality types versus others.", "start": 3965.6, "end": 3975.6}
+{"id": "KMeGefM6D34-t3975.6", "text": "And even the other big five personality traits, people who are higher on open mindedness are going to thrive in different types of educational environments than people who are low and open mindedness and perhaps high on neuroticism.", "start": 3975.6, "end": 3989.6}
+{"id": "KMeGefM6D34-t3989.6", "text": "They just want to know the facts and they want to know, am I going to get a good grade and that will give them their learn best in that model.", "start": 3989.6, "end": 3996.6}
+{"id": "KMeGefM6D34-t3996.6", "text": "But it's hard, you can't tailor an education system to individual differences unless you start separating people out.", "start": 3996.6, "end": 4002.6}
+{"id": "KMeGefM6D34-t4002.6", "text": "Do you have any ideas about this?", "start": 4002.6, "end": 4004.6}
+{"id": "KMeGefM6D34-t4004.6", "text": "I guess I'm slightly nervous about this because the history of educational research is replete with schemes for individual differences, whether we're talking about how a gardener's multiple intelligences or visual thinking versus others.", "start": 4004.6, "end": 4018.6}
+{"id": "KMeGefM6D34-t4018.6", "text": "And I think that's a very important thing versus analytic thinking.", "start": 4018.6, "end": 4023.6}
+{"id": "KMeGefM6D34-t4023.6", "text": "So I guess at the very least I would want a school which was rather flexible in what it offered for particular children rather than being too sure of itself in identifying what type of child this particular child is because I think that way can also close off conceptions of what children are capable of.", "start": 4023.6, "end": 4047.6}
+{"id": "KMeGefM6D34-t4047.6", "text": "I'm currently a student of undergraduate psychology at the Sonoma Institute of Adelphi University.", "start": 4047.6, "end": 4054.6}
+{"id": "KMeGefM6D34-t4054.6", "text": "So this is coming more out of my own personal experience in observations and it is the actual empirical research.", "start": 4054.6, "end": 4060.6}
+{"id": "KMeGefM6D34-t4060.6", "text": "What I've noticed is that the continuum between people who just want the memorization and to get a grade versus the people who really want to learn has really become very disproportionate.", "start": 4060.6, "end": 4073.6}
+{"id": "KMeGefM6D34-t4073.6", "text": "And in my observations it's been sort of going into two camps or?", "start": 4073.6, "end": 4078.6}
+{"id": "KMeGefM6D34-t4078.6", "text": "It's yeah, it's really it's.", "start": 4078.6, "end": 4081.6}
+{"id": "KMeGefM6D34-t4081.6", "text": "And what I've seen is you see more people who are more interested in the grid and less interested in learning when the professor will thrust the PowerPoint out in front of the students.", "start": 4081.6, "end": 4092.6}
+{"id": "KMeGefM6D34-t4092.6", "text": "And I guess my question really is is the PowerPoint killing creativity and curiosity in universities throughout the United States and the world.", "start": 4092.6, "end": 4105.6}
+{"id": "KMeGefM6D34-t4105.6", "text": "But seriously I was almost brought to tears by this talk because it literally speaks to everything the education of the educational system is deficient in.", "start": 4105.6, "end": 4118.6}
+{"id": "KMeGefM6D34-t4118.6", "text": "Well I never use PowerPoint.", "start": 4118.6, "end": 4123.6}
+{"id": "KMeGefM6D34-t4123.6", "text": "I go over the lecture on it but I never teach with PowerPoint. I never use it in teaching.", "start": 4123.6, "end": 4129.6}
+{"id": "KMeGefM6D34-t4129.6", "text": "I prefer the board and I think it's I don't know I feel like I have a better connection with students when they see it develop on the board and I misspell words and I get chalk all over me and I'm a wreck and I think that's useful for them.", "start": 4129.6, "end": 4142.6}
+{"id": "KMeGefM6D34-t4142.6", "text": "And I think it's just let you kind of go.", "start": 4142.6, "end": 4146.6}
+{"id": "KMeGefM6D34-t4146.6", "text": "I think it depends how you use PowerPoint. And if you basically project your lecture notes on the screen that's certainly not a wise use of PowerPoint.", "start": 4146.6, "end": 4155.6}
+{"id": "KMeGefM6D34-t4155.6", "text": "But it lent itself to some animation some level of entertainment that I think students are more used to.", "start": 4155.6, "end": 4165.6}
+{"id": "KMeGefM6D34-t4165.6", "text": "I wish that we could sort of have a Hollywood set with special effects and all that kind of stuff.", "start": 4165.6, "end": 4172.6}
+{"id": "KMeGefM6D34-t4172.6", "text": "I mean to to immerse students I feel like that the standards are very very high in terms of what students are expecting expecting for an educational presentation.", "start": 4172.6, "end": 4184.6}
+{"id": "KMeGefM6D34-t4184.6", "text": "I've got a solution to this. What I do is to invite the students they work in pairs and each week they do the presentation typically a PowerPoint.", "start": 4184.6, "end": 4195.6}
+{"id": "KMeGefM6D34-t4195.6", "text": "But there's so much more skill than me that it works for.", "start": 4195.6, "end": 4199.6}
+{"id": "KMeGefM6D34-t4199.6", "text": "That's very good.", "start": 4199.6, "end": 4200.6}
+{"id": "KMeGefM6D34-t4200.6", "text": "Okay.", "start": 4200.6, "end": 4201.6}
+{"id": "KMeGefM6D34-t4201.6", "text": "I'm going to move away from the microphone now. There's a reason my professors limit me to three questions per class.", "start": 4201.6, "end": 4206.6}
+{"id": "KMeGefM6D34-t4206.6", "text": "Just real quick to share I've been studying education for like 3540 years.", "start": 4206.6, "end": 4214.6}
+{"id": "KMeGefM6D34-t4214.6", "text": "The father of compulsory education was actually French general Napoleon who used the military training system for no other purpose than to create soldiers from little kids.", "start": 4214.6, "end": 4224.6}
+{"id": "KMeGefM6D34-t4224.6", "text": "The Germans copied him. We copied the Germans.", "start": 4224.6, "end": 4228.6}
+{"id": "KMeGefM6D34-t4228.6", "text": "If the standing at attention drills and all of that feels like it's the army it is because it is the army and had no other purpose than to do that.", "start": 4228.6, "end": 4237.6}
+{"id": "KMeGefM6D34-t4237.6", "text": "And just real fast again no academic I have ever talked to has known the origin of the word that's been studying for a lifetime which is intelligence.", "start": 4237.6, "end": 4245.6}
+{"id": "KMeGefM6D34-t4245.6", "text": "The etymology real fast.", "start": 4245.6, "end": 4248.6}
+{"id": "KMeGefM6D34-t4248.6", "text": "Intelli means between the other half the word is laigier which means to choose.", "start": 4248.6, "end": 4253.6}
+{"id": "KMeGefM6D34-t4253.6", "text": "Intelligence means to choose between.", "start": 4253.6, "end": 4257.6}
+{"id": "KMeGefM6D34-t4257.6", "text": "But the point that the question that I like to ask and I'm going to challenge you on this because I've developed a DVD based curriculum that's going to major distribution called eye openers or mind openers.", "start": 4257.6, "end": 4269.6}
+{"id": "KMeGefM6D34-t4269.6", "text": "To help kids that have a variety of attention learning problems because as you move your eyes sometimes it's called EYE IYOGA you build up attention and focus like a muscle of your body.", "start": 4269.6, "end": 4280.6}
+{"id": "KMeGefM6D34-t4280.6", "text": "And with this whole thing that you've been talking about with the brain that in an almost state of nature you can't see without moving your eyes.", "start": 4280.6, "end": 4289.6}
+{"id": "KMeGefM6D34-t4289.6", "text": "But we lock up our eyes on static letters and we actually atrophy our natural awareness because in a state of nature when your eyes are, peripheral vision is open the old days they used to call it samurai vision.", "start": 4289.6, "end": 4299.6}
+{"id": "KMeGefM6D34-t4299.6", "text": "A human being is naturally capable of being aware of seven streams of awareness simultaneously.", "start": 4299.6, "end": 4306.6}
+{"id": "KMeGefM6D34-t4306.6", "text": "Now in the work that you do, could you just imagine by doing simple eye movements and exercises that go back in India for 3,000 years?", "start": 4306.6, "end": 4314.6}
+{"id": "KMeGefM6D34-t4314.6", "text": "A normal human being could expand their creative imagination by 700% which is our normal natural ability.", "start": 4314.6, "end": 4324.6}
+{"id": "KMeGefM6D34-t4324.6", "text": "Now in the work that you do, would you like to know about that?", "start": 4324.6, "end": 4327.6}
+{"id": "KMeGefM6D34-t4327.6", "text": "Would you think it would be meaningful to expand your creative imagination by 700% that has nothing to do with studying or reading?", "start": 4327.6, "end": 4335.6}
+{"id": "KMeGefM6D34-t4335.6", "text": "It's just the way we were born. Any answers?", "start": 4335.6, "end": 4340.6}
+{"id": "KMeGefM6D34-t4340.6", "text": "Let me, I think I hesitate to answer the final somewhat rhetorical question but let me just step back and say a word about your first point.", "start": 4340.6, "end": 4356.6}
+{"id": "KMeGefM6D34-t4356.6", "text": "I do think the way in which education you started us off has spread from Western Europe imported into America and as you say it's a rather regimented activity.", "start": 4356.6, "end": 4372.6}
+{"id": "KMeGefM6D34-t4372.6", "text": "And for better or for worse the West has now exported it throughout the world and so we see increasingly in India, Indonesia and so on and so forth.", "start": 4372.6, "end": 4386.6}
+{"id": "KMeGefM6D34-t4386.6", "text": "Cultures which had different notions of how knowledge is transmitted, borrowing this Western model where you sit peers in classrooms with a single teacher and you examine them at the end of the year and then you have certificates at the end of it.", "start": 4386.6, "end": 4400.6}
+{"id": "KMeGefM6D34-t4400.6", "text": "And there's a sense in which it's very difficult to know how to stop this machine but it is an enormously powerful machine and I think part of what we've talked about today reflects the good and the bad aspects of that machine.", "start": 4400.6, "end": 4419.6}
+{"id": "KMeGefM6D34-t4419.6", "text": "I just add something to that actually going back to something Heather said which is formal education for everybody is a very new idea and we may not be very good at it but we haven't been trying for very long.", "start": 4419.6, "end": 4433.6}
+{"id": "KMeGefM6D34-t4433.6", "text": "Ted Sizer who was a really incredible educational thinker used to say he started the coalition schools and when people would criticize him because they weren't doing as well as he had first thought he'd say look we haven't cured cancer yet but we haven't stopped trying.", "start": 4433.6, "end": 4449.6}
+{"id": "KMeGefM6D34-t4449.6", "text": "And the same is true of the educational model that we're trying to use it's fairly new to try to educate everybody to a certain standard and in our society in particular we're trying everybody includes a lot of different kinds of people.", "start": 4449.6, "end": 4464.6}
+{"id": "KMeGefM6D34-t4464.6", "text": "And so I just I mean part of this is not we shouldn't be too down on educators or educational institutions we're just starting actually. Okay, but essentially you did not answer my question. Sorry.", "start": 4464.6, "end": 4479.6}
+{"id": "KMeGefM6D34-t4479.6", "text": "I'm sorry that I said the natural way the neurologist here our brains are put together that a human brain can be aware of seven streams of awareness the answer to your quick if your question is our people interested in learning more about that as a curious group of scholars were always interested in learning more about everything.", "start": 4479.6, "end": 4498.6}
+{"id": "KMeGefM6D34-t4498.6", "text": "Okay, let's go to the next question. I just have a little video up on YouTube call. No, there is no there is no such self no no.", "start": 4498.6, "end": 4510.6}
+{"id": "KMeGefM6D34-t4510.6", "text": "Please don't do any self promoting.", "start": 4510.6, "end": 4515.6}
+{"id": "KMeGefM6D34-t4515.6", "text": "Somebody gets a client about you. It's next question. Next question. Next question.", "start": 4515.6, "end": 4527.6}
+{"id": "KMeGefM6D34-t4527.6", "text": "You were meant is this thing on. Yeah. You were mentioning about algebra and why we needed.", "start": 4527.6, "end": 4533.6}
+{"id": "KMeGefM6D34-t4533.6", "text": "In the eighth grade they taught me the quadratic equation, which was very boring. I understood it, but it was very uninteresting. So I asked my math teacher, what is the purpose of this.", "start": 4533.6, "end": 4546.6}
+{"id": "KMeGefM6D34-t4546.6", "text": "And he said, well, if you want to launch a missile to the moon, you need to know this.", "start": 4546.6, "end": 4554.6}
+{"id": "KMeGefM6D34-t4554.6", "text": "There you go. I've lived quite a few years since then, and I've never had a chance to use it. As a matter of fact, if I constructed a missile to shoot to the moon, I'd probably become a guest in Guantanamo Bay.", "start": 4554.6, "end": 4572.6}
+{"id": "KMeGefM6D34-t4572.6", "text": "So the reason you see is that we're, you see the first 12 great years of education. The education you get like medical school or whatever, that's for a particular profession.", "start": 4572.6, "end": 4583.6}
+{"id": "KMeGefM6D34-t4583.6", "text": "But the first 12 years of education, we're told it's to educate the kids. But that's just a byproduct. That's not the purpose of the first 12 years of education.", "start": 4583.6, "end": 4593.6}
+{"id": "KMeGefM6D34-t4593.6", "text": "The first 12 years of education is to assign status. And it's a lot easier to grade an algebra test than a history test or a test on how you deal with people or what your philosophy is.", "start": 4593.6, "end": 4609.6}
+{"id": "KMeGefM6D34-t4609.6", "text": "So do you have any idea how to address that? Well, no, and I hope maybe you don't. I'm not going to promote any videos.", "start": 4609.6, "end": 4616.6}
+{"id": "KMeGefM6D34-t4616.6", "text": "I have you. No, but I think you have hit on what I consider probably to be what's really the problem to solve in education, which is not so much what we should be teaching on.", "start": 4616.6, "end": 4627.6}
+{"id": "KMeGefM6D34-t4627.6", "text": "We shouldn't be teaching. We go back and forth that. But it's the evaluation issue. And that's what we haven't figured out.", "start": 4627.6, "end": 4633.6}
+{"id": "KMeGefM6D34-t4633.6", "text": "We don't have a good way of evaluating what we're doing. And so we take the simplest things to evaluate, like, you know, teach from the text and then give to a tag.", "start": 4633.6, "end": 4645.6}
+{"id": "KMeGefM6D34-t4645.6", "text": "Give a test because those are the things that are the easiest to evaluate. But they're actually also the most useless.", "start": 4645.6, "end": 4651.6}
+{"id": "KMeGefM6D34-t4651.6", "text": "And I agree with you much of what we actually evaluate. I wouldn't call evaluating. I would say it's weeding.", "start": 4651.6, "end": 4657.6}
+{"id": "KMeGefM6D34-t4657.6", "text": "We're weeding people out for this or the other thing. That's what these tests do.", "start": 4657.6, "end": 4661.6}
+{"id": "KMeGefM6D34-t4661.6", "text": "I would say actually going back to your point that we don't even really know or have a shared understanding of what the purpose of education is anymore.", "start": 4661.6, "end": 4672.6}
+{"id": "KMeGefM6D34-t4672.6", "text": "I told you it was always to establish what your...", "start": 4672.6, "end": 4676.6}
+{"id": "KMeGefM6D34-t4676.6", "text": "Well, okay. I was waiting to find out today.", "start": 4676.6, "end": 4679.6}
+{"id": "KMeGefM6D34-t4679.6", "text": "Even when they first had school, they gave you school. I think two or three years. You learned how to do arithmetic, how to read, how to write.", "start": 4679.6, "end": 4686.6}
+{"id": "KMeGefM6D34-t4686.6", "text": "That's it. You're gone.", "start": 4686.6, "end": 4688.6}
+{"id": "KMeGefM6D34-t4688.6", "text": "Can I stick up for algebra for a second though? I think...", "start": 4688.6, "end": 4693.6}
+{"id": "KMeGefM6D34-t4693.6", "text": "Algebra is getting a bad name. Now, you don't know what is going to spark your curiosity until you're exposed to it. I, for one, love math.", "start": 4693.6, "end": 4702.6}
+{"id": "KMeGefM6D34-t4702.6", "text": "I think it's a language of the universe. And I was really excited and inspired by it. And even though everybody said, oh, you know, I hate math, you're going to hate that class, I'm glad we had it.", "start": 4702.6, "end": 4710.6}
+{"id": "KMeGefM6D34-t4710.6", "text": "And I think that people don't know what's going to inspire them unless they're exposed to it. And learning those equations, it's a mind, it's a mental exercise.", "start": 4710.6, "end": 4716.6}
+{"id": "KMeGefM6D34-t4716.6", "text": "And you seem like such an ice lady.", "start": 4716.6, "end": 4719.6}
+{"id": "KMeGefM6D34-t4719.6", "text": "And we have the next question. You might not use it. You might not use it, but it doesn't mean that it's not important.", "start": 4719.6, "end": 4726.6}
+{"id": "KMeGefM6D34-t4726.6", "text": "I would say that in high school, I was asking, why do I have to read Shakespeare? I don't understand anything that he's saying.", "start": 4726.6, "end": 4732.6}
+{"id": "KMeGefM6D34-t4732.6", "text": "But I came later to understand more, at least, and appreciated more.", "start": 4732.6, "end": 4737.6}
+{"id": "KMeGefM6D34-t4737.6", "text": "Could be that whatever is gained from algebra is later appreciated.", "start": 4737.6, "end": 4742.6}
+{"id": "KMeGefM6D34-t4742.6", "text": "Back to the topic of ignorance. And I was very struck at how quickly the conversation focused on education.", "start": 4742.6, "end": 4756.6}
+{"id": "KMeGefM6D34-t4756.6", "text": "I actually worked in academia after being trained to be a musician.", "start": 4756.6, "end": 4764.6}
+{"id": "KMeGefM6D34-t4764.6", "text": "And I don't have a degree, but I've worked for people who do. And I'll tell you a secret part of my life.", "start": 4764.6, "end": 4776.6}
+{"id": "KMeGefM6D34-t4776.6", "text": "I chose to stop doing science, even though it made me very excited.", "start": 4776.6, "end": 4781.6}
+{"id": "KMeGefM6D34-t4781.6", "text": "And the reason what made me stop is because the scientific method is an illusion.", "start": 4781.6, "end": 4791.6}
+{"id": "KMeGefM6D34-t4791.6", "text": "If you really think about it, you have a protocol, which could be a creative protocol that nobody else has thought of.", "start": 4791.6, "end": 4800.6}
+{"id": "KMeGefM6D34-t4800.6", "text": "But you need controls. So let's say you come across a phenomenon during your study that doesn't spit the protocol.", "start": 4800.6, "end": 4808.6}
+{"id": "KMeGefM6D34-t4808.6", "text": "Or it cannot be proven through control. It's positive or negative.", "start": 4808.6, "end": 4812.6}
+{"id": "KMeGefM6D34-t4812.6", "text": "Well, what happens is it's labeled artifact.", "start": 4812.6, "end": 4815.6}
+{"id": "KMeGefM6D34-t4815.6", "text": "Then the scientific community decides collectively, okay, this is artifact, so it means it's meaningless.", "start": 4815.6, "end": 4824.6}
+{"id": "KMeGefM6D34-t4824.6", "text": "So I just bring this up to bring to mind, you know, and I please forgive me all you academics.", "start": 4824.6, "end": 4834.6}
+{"id": "KMeGefM6D34-t4834.6", "text": "My father was in academic. And he was very upset when I chose music.", "start": 4834.6, "end": 4840.6}
+{"id": "KMeGefM6D34-t4840.6", "text": "But I bring this point to sort of shock you that it's not too late to open your eyes.", "start": 4840.6, "end": 4850.6}
+{"id": "KMeGefM6D34-t4850.6", "text": "It's never too late to realize that you have a sixth sense. There might be no sign of the other five, but that's a joke.", "start": 4850.6, "end": 4859.6}
+{"id": "KMeGefM6D34-t4859.6", "text": "Seriously, we have been endowed with a tremendous power.", "start": 4859.6, "end": 4866.6}
+{"id": "KMeGefM6D34-t4866.6", "text": "And that power, you bring up education. That power is, we're born with that power.", "start": 4866.6, "end": 4872.6}
+{"id": "KMeGefM6D34-t4872.6", "text": "And I feel that education should be based on happiness. Do what makes you happy.", "start": 4872.6, "end": 4882.6}
+{"id": "KMeGefM6D34-t4882.6", "text": "You know, if you want to...", "start": 4882.6, "end": 4884.6}
+{"id": "KMeGefM6D34-t4884.6", "text": "Well, then we just don't be drug addicts, I think.", "start": 4884.6, "end": 4887.6}
+{"id": "KMeGefM6D34-t4887.6", "text": "The only sensible thing to do, in my opinion.", "start": 4887.6, "end": 4889.6}
+{"id": "KMeGefM6D34-t4889.6", "text": "I disagree, because I...", "start": 4889.6, "end": 4891.6}
+{"id": "KMeGefM6D34-t4891.6", "text": "So I just like to say, I don't know personally any scientist that used the scientific method.", "start": 4891.6, "end": 4898.6}
+{"id": "KMeGefM6D34-t4898.6", "text": "Basically, we just fart around and do our best and see what comes up.", "start": 4898.6, "end": 4902.6}
+{"id": "KMeGefM6D34-t4902.6", "text": "I mean, that's really the method that we use.", "start": 4902.6, "end": 4905.6}
+{"id": "KMeGefM6D34-t4905.6", "text": "I would say, I would quote Richard, to some of you, Richard Feynman on this.", "start": 4905.6, "end": 4908.6}
+{"id": "KMeGefM6D34-t4908.6", "text": "Richard Feynman's idea about science was, the purpose of science is to keep you from fooling yourself, and you are the easiest person to fool.", "start": 4908.6, "end": 4917.6}
+{"id": "KMeGefM6D34-t4917.6", "text": "And that's really all that's required of it. So you use control experiments where they're valuable, so you don't fool yourself,", "start": 4917.6, "end": 4923.6}
+{"id": "KMeGefM6D34-t4923.6", "text": "always being incredibly suspicious of yourself, knowing you'll be fooled just like that in a minute.", "start": 4923.6, "end": 4930.6}
+{"id": "KMeGefM6D34-t4930.6", "text": "But otherwise, I don't think any... I don't know any scientist, at least, who stick to the scientific method.", "start": 4930.6, "end": 4936.6}
+{"id": "KMeGefM6D34-t4936.6", "text": "First of all, none of us will live long enough. Who has the time to do a control and another turn in and back to the control and test all the variables you do now.", "start": 4936.6, "end": 4943.6}
+{"id": "KMeGefM6D34-t4943.6", "text": "Take forever.", "start": 4943.6, "end": 4945.6}
+{"id": "KMeGefM6D34-t4945.6", "text": "I may painter an art historian, and I went to a progressive school when I was in high school.", "start": 4945.6, "end": 4954.6}
+{"id": "KMeGefM6D34-t4954.6", "text": "And so I have a lot of interest in two problems, which I mentioned here, which can't possibly cover it in depth,", "start": 4954.6, "end": 4961.6}
+{"id": "KMeGefM6D34-t4961.6", "text": "but just I'm bringing them up and maybe it'll be a question, maybe it won't.", "start": 4961.6, "end": 4965.6}
+{"id": "KMeGefM6D34-t4965.6", "text": "One of them is, again, I don't really think we yet understand... We don't really understand yet the individual ability for comprehension.", "start": 4965.6, "end": 4974.6}
+{"id": "KMeGefM6D34-t4974.6", "text": "The individual structure of brains. How certain individuals understand a problem, how others understand a problem.", "start": 4974.6, "end": 4982.6}
+{"id": "KMeGefM6D34-t4982.6", "text": "And a lot of learning problems come from different timelines, so it's very hard, again, to have a collective way of approaching students.", "start": 4982.6, "end": 4990.6}
+{"id": "KMeGefM6D34-t4990.6", "text": "But we have such large classes today. There's this mass culture. So it's harder and harder now to get into the intricacies of how we find out things and how we slowly learn things.", "start": 4990.6, "end": 5002.6}
+{"id": "KMeGefM6D34-t5002.6", "text": "An example is I studied art history and it was taught in a very dry way in my years.", "start": 5002.6, "end": 5009.6}
+{"id": "KMeGefM6D34-t5009.6", "text": "And then later I was reading Merlot Ponti about the body and the mind and the eye, and it becomes much more comprehensible.", "start": 5009.6, "end": 5018.6}
+{"id": "KMeGefM6D34-t5018.6", "text": "Some people have already brought up this point that we learn in so many aspects of our being.", "start": 5018.6, "end": 5024.6}
+{"id": "KMeGefM6D34-t5024.6", "text": "It's such a unity of the mind, the heart, the physical being.", "start": 5024.6, "end": 5028.6}
+{"id": "KMeGefM6D34-t5028.6", "text": "And this is one of the most complex things to inculcate with various students.", "start": 5028.6, "end": 5033.6}
+{"id": "KMeGefM6D34-t5033.6", "text": "And the other issue I want to bring up is the interdisciplinary.", "start": 5033.6, "end": 5037.6}
+{"id": "KMeGefM6D34-t5037.6", "text": "In the golden ages of the past, the great ages, there was always a connection between the sciences and the arts.", "start": 5037.6, "end": 5045.6}
+{"id": "KMeGefM6D34-t5045.6", "text": "Of course, knowledge was less than it is today, but I still think we have a very important task to introduce different fields that students should study different fields.", "start": 5045.6, "end": 5057.6}
+{"id": "KMeGefM6D34-t5057.6", "text": "I once taught a class called 1912 and I invited every discipline to talk about the year 1912.", "start": 5057.6, "end": 5064.6}
+{"id": "KMeGefM6D34-t5064.6", "text": "And the most amazing things came out from scientists, to poets, to composers about what was happening in that year.", "start": 5064.6, "end": 5072.6}
+{"id": "KMeGefM6D34-t5072.6", "text": "And I still think we need more of a comprehension of the intercesses and connectivity of the what knowledge we have in this present time.", "start": 5072.6, "end": 5082.6}
+{"id": "KMeGefM6D34-t5082.6", "text": "So these are just two issues that if anyone wants to make any comments about them.", "start": 5082.6, "end": 5088.6}
+{"id": "KMeGefM6D34-t5088.6", "text": "They're extremely good points. I'm not sure I could comment any further on.", "start": 5088.6, "end": 5095.6}
+{"id": "KMeGefM6D34-t5095.6", "text": "I agree with you. They're both correct.", "start": 5095.6, "end": 5103.6}
+{"id": "KMeGefM6D34-t5103.6", "text": "How are you?", "start": 5103.6, "end": 5106.6}
+{"id": "KMeGefM6D34-t5106.6", "text": "Okay, that's a lot of pressure.", "start": 5106.6, "end": 5108.6}
+{"id": "KMeGefM6D34-t5108.6", "text": "So my question starts from the beginning. How do we make more of this?", "start": 5108.6, "end": 5113.6}
+{"id": "KMeGefM6D34-t5113.6", "text": "But how do we do this for people my age? I mean, one of the biggest benefits of sitting here is that as far as I know none of this was scripted.", "start": 5113.6, "end": 5120.6}
+{"id": "KMeGefM6D34-t5120.6", "text": "And one of the things that you probably yourselves enjoyed was the fact that you could connect ideas and thoughts that you were necessarily thinking about and you created almost like a web of ideas and knowledge.", "start": 5120.6, "end": 5129.6}
+{"id": "KMeGefM6D34-t5129.6", "text": "And this is a web that captures the people in the audience. We all like it because we get stuck to this information.", "start": 5129.6, "end": 5134.6}
+{"id": "KMeGefM6D34-t5134.6", "text": "But you can't just teach the facts, right? That's something that doesn't necessarily work for me when you mentioned that you don't like teaching concepts.", "start": 5134.6, "end": 5141.6}
+{"id": "KMeGefM6D34-t5141.6", "text": "For me, the first thing that came to mind was Karl Marx. That's kind of not really a fact thing. That's more for me.", "start": 5141.6, "end": 5148.6}
+{"id": "KMeGefM6D34-t5148.6", "text": "When I did it, it was more like philosophical exercise of the mind.", "start": 5148.6, "end": 5153.6}
+{"id": "KMeGefM6D34-t5153.6", "text": "It's just ideas and talking about it and saying, what can we do to understand this?", "start": 5153.6, "end": 5158.6}
+{"id": "KMeGefM6D34-t5158.6", "text": "So how do we create that sort of environment where you aren't necessarily diminishing the importance of the facts,", "start": 5158.6, "end": 5165.6}
+{"id": "KMeGefM6D34-t5165.6", "text": "but you're creating an environment where the facts don't tell the whole story, right? That's what this was sort of about.", "start": 5165.6, "end": 5172.6}
+{"id": "KMeGefM6D34-t5172.6", "text": "You sort of just had an ongoing conversation. But as far as I know, I'm younger than all of you, so I'm not sure how I fit into that.", "start": 5172.6, "end": 5179.6}
+{"id": "KMeGefM6D34-t5179.6", "text": "Do you mean it in the classroom?", "start": 5179.6, "end": 5181.6}
+{"id": "KMeGefM6D34-t5181.6", "text": "I mean, I'm not from New York originally, but it seems like everybody here has kind of blocked off.", "start": 5181.6, "end": 5188.6}
+{"id": "KMeGefM6D34-t5188.6", "text": "I have to look for events like this just so that I can stimulate my own mind or spend hours in front of TED Talks trying to figure out what's going on in the world.", "start": 5188.6, "end": 5195.6}
+{"id": "KMeGefM6D34-t5195.6", "text": "So how do we create an environment where information is readily available, but conversation isn't trying to share these ideas and play off with them", "start": 5195.6, "end": 5205.6}
+{"id": "KMeGefM6D34-t5205.6", "text": "and have that intellectual exercise. That builds curiosity, that builds creativity.", "start": 5205.6, "end": 5211.6}
+{"id": "KMeGefM6D34-t5211.6", "text": "You don't have that. You have the tests. Like he was saying, you have the people who go in.", "start": 5211.6, "end": 5215.6}
+{"id": "KMeGefM6D34-t5215.6", "text": "And they think, if I get my degree in four years and I walk out here with a degree in finance or whatever,", "start": 5215.6, "end": 5220.6}
+{"id": "KMeGefM6D34-t5220.6", "text": "then I'm going to make a lot of money. Okay, cool. Now what? That's your life.", "start": 5220.6, "end": 5225.6}
+{"id": "KMeGefM6D34-t5225.6", "text": "I think that you brought up a really important, really interesting issue, which is the role of conversation.", "start": 5225.6, "end": 5231.6}
+{"id": "KMeGefM6D34-t5231.6", "text": "Certainly, some of us here have been very interested in that early development, the role of conversation in early intellectual development.", "start": 5231.6, "end": 5238.6}
+{"id": "KMeGefM6D34-t5238.6", "text": "So some kids hear a lot of conversation at home.", "start": 5238.6, "end": 5243.6}
+{"id": "KMeGefM6D34-t5243.6", "text": "And all most kids, at least as far as the data show, I think you'd say this was right here, participate.", "start": 5243.6, "end": 5249.6}
+{"id": "KMeGefM6D34-t5249.6", "text": "Don't just hear, but participate in more conversations at home than they do when they get to school.", "start": 5249.6, "end": 5254.6}
+{"id": "KMeGefM6D34-t5254.6", "text": "So one of the problems is how, you said it, is how to create conversations that people can either watch or better yet participate in", "start": 5254.6, "end": 5264.6}
+{"id": "KMeGefM6D34-t5264.6", "text": "as they continue on in life. And that's a very, that's a beautiful, I think very interesting way of framing an educational problem,", "start": 5264.6, "end": 5271.6}
+{"id": "KMeGefM6D34-t5271.6", "text": "which is how do we build conversations into K-12 education and or into college?", "start": 5271.6, "end": 5277.6}
+{"id": "KMeGefM6D34-t5277.6", "text": "I used to say, oh, I used to say, oh, I got my education, you know, despite my education, right?", "start": 5277.6, "end": 5283.6}
+{"id": "KMeGefM6D34-t5283.6", "text": "So I thought, you know, a lot of what I learned in college and through school was like things that I went off and did on my own.", "start": 5283.6, "end": 5288.6}
+{"id": "KMeGefM6D34-t5288.6", "text": "And it was a lot of self-motivation. But that being said, I think having an education is a privilege.", "start": 5288.6, "end": 5293.6}
+{"id": "KMeGefM6D34-t5293.6", "text": "I mean, people in other countries who don't have access to this, I mean, they would do anything to get access even to books, right?", "start": 5293.6, "end": 5298.6}
+{"id": "KMeGefM6D34-t5298.6", "text": "So, I mean, I appreciate what's available, but within the system, I think there's a lot of room for individuals to go out and seek and find, you know, find a mentor.", "start": 5298.6, "end": 5306.6}
+{"id": "KMeGefM6D34-t5306.6", "text": "The things I remember most from college are my mentors, are the professors who kind of, you know, took me under their wing and going to conferences outside of school and learning things, you know, outside of the formal, but I still needed that structure to gain access to those other things.", "start": 5306.6, "end": 5321.6}
+{"id": "KMeGefM6D34-t5321.6", "text": "So I think it's within being within the system and then being creative and exploiting it in a way.", "start": 5321.6, "end": 5327.6}
+{"id": "KMeGefM6D34-t5327.6", "text": "And I think it takes a self-motivation to do that, but people who are really curious will do that.", "start": 5327.6, "end": 5332.6}
+{"id": "KMeGefM6D34-t5332.6", "text": "And I think professors and educators should make themselves available for students who really are wanting more than just the formalized class system.", "start": 5332.6, "end": 5340.6}
+{"id": "KMeGefM6D34-t5340.6", "text": "Are you old enough to drink?", "start": 5340.6, "end": 5342.6}
+{"id": "KMeGefM6D34-t5342.6", "text": "Well, I mean, I recommend the local pubs to tell you the truth.", "start": 5342.6, "end": 5348.6}
+{"id": "KMeGefM6D34-t5348.6", "text": "I am.", "start": 5348.6, "end": 5349.6}
+{"id": "KMeGefM6D34-t5349.6", "text": "You want to know that?", "start": 5349.6, "end": 5350.6}
+{"id": "KMeGefM6D34-t5350.6", "text": "No, seriously.", "start": 5350.6, "end": 5352.6}
+{"id": "KMeGefM6D34-t5352.6", "text": "And I think that's at one time what the purpose of a pub was.", "start": 5352.6, "end": 5355.6}
+{"id": "KMeGefM6D34-t5355.6", "text": "And you know, not one with loud music, but one where you can go and talk and have a conversation with people.", "start": 5355.6, "end": 5362.6}
+{"id": "KMeGefM6D34-t5362.6", "text": "There's some websites certainly in the UK, maybe here too, where there's a philosophy topic and you converge on the pub and you discuss the philosophy topic.", "start": 5362.6, "end": 5371.6}
+{"id": "KMeGefM6D34-t5371.6", "text": "Well, I mean, I went through college and one of the things I did realize was that a lot of the things that involved social interaction, it's almost like a requirement for that alcohol to be there, personally, rather go a block over and get a cup of tea.", "start": 5371.6, "end": 5382.6}
+{"id": "KMeGefM6D34-t5382.6", "text": "But one of the things, another thing that I mentioned about conversation was that the idea that when a professor is instructing, sometimes the presentation also focuses too much on the end of the line.", "start": 5382.6, "end": 5395.6}
+{"id": "KMeGefM6D34-t5395.6", "text": "They're giving that this is where we are and the information spectrum in this field.", "start": 5395.6, "end": 5400.6}
+{"id": "KMeGefM6D34-t5400.6", "text": "No, and this is what we got to.", "start": 5400.6, "end": 5403.6}
+{"id": "KMeGefM6D34-t5403.6", "text": "And if a professor were speaking of the ideas as though they're re-exploring them as they're presenting them, that gives the individual not just the", "start": 5403.6, "end": 5411.6}
+{"id": "KMeGefM6D34-t5411.6", "text": "end of the line, but that journey there.", "start": 5411.6, "end": 5414.6}
+{"id": "KMeGefM6D34-t5414.6", "text": "And if you can.", "start": 5414.6, "end": 5415.6}
+{"id": "KMeGefM6D34-t5415.6", "text": "That's why I'm so interested in the history of science.", "start": 5415.6, "end": 5419.6}
+{"id": "KMeGefM6D34-t5419.6", "text": "I think that's the story and you're right.", "start": 5419.6, "end": 5421.6}
+{"id": "KMeGefM6D34-t5421.6", "text": "I mean, if you just say this is what we know about the moon and the galaxy and the sun now, you have no sense of where that came from or how long it took to the moon.", "start": 5421.6, "end": 5431.6}
+{"id": "KMeGefM6D34-t5431.6", "text": "In the age of tribes to focus on storytelling.", "start": 5431.6, "end": 5433.6}
+{"id": "KMeGefM6D34-t5433.6", "text": "I don't know why.", "start": 5433.6, "end": 5434.6}
+{"id": "KMeGefM6D34-t5434.6", "text": "It's also true, though, that I think maybe you wouldn't do this, but I know that some students, when they get the opportunity to evaluate a professor at the end of the semester, they're not necessarily so enthusiastic when it's been exploratory and uncertain.", "start": 5434.6, "end": 5449.6}
+{"id": "KMeGefM6D34-t5449.6", "text": "So there are many students who do actually look for closure.", "start": 5449.6, "end": 5452.6}
+{"id": "KMeGefM6D34-t5452.6", "text": "So you may be not one of those, but I know they exist.", "start": 5452.6, "end": 5455.6}
+{"id": "KMeGefM6D34-t5455.6", "text": "No, my evaluation.", "start": 5455.6, "end": 5456.6}
+{"id": "KMeGefM6D34-t5456.6", "text": "We have to move on.", "start": 5456.6, "end": 5457.6}
+{"id": "KMeGefM6D34-t5457.6", "text": "My student evaluations went down.", "start": 5457.6, "end": 5461.6}
+{"id": "KMeGefM6D34-t5461.6", "text": "Because the students had to work harder to achieve the grade.", "start": 5461.6, "end": 5466.6}
+{"id": "KMeGefM6D34-t5466.6", "text": "Hello.", "start": 5466.6, "end": 5469.6}
+{"id": "KMeGefM6D34-t5469.6", "text": "I'm not using that.", "start": 5469.6, "end": 5471.6}
+{"id": "KMeGefM6D34-t5471.6", "text": "Oh, that's good.", "start": 5471.6, "end": 5473.6}
+{"id": "KMeGefM6D34-t5473.6", "text": "Gosh, I had a whole thing that was worked out that I was going to ask.", "start": 5473.6, "end": 5476.6}
+{"id": "KMeGefM6D34-t5476.6", "text": "And then this conversation about drugs, maybe I want to ask a totally other question.", "start": 5476.6, "end": 5480.6}
+{"id": "KMeGefM6D34-t5480.6", "text": "I feel like they're too much to talk about.", "start": 5480.6, "end": 5486.6}
+{"id": "KMeGefM6D34-t5486.6", "text": "But I'm going to go with the original thing, which was you were talking about the nature of creativity and where it originates in the brain and this idea of the ventral medial prefrontal cortex getting into a childlike mode and the dorsal lateral prefrontal cortex as being the thing that kind of mediates that or makes you more aware of what's happening.", "start": 5486.6, "end": 5507.6}
+{"id": "KMeGefM6D34-t5507.6", "text": "That was what I understood.", "start": 5507.6, "end": 5508.6}
+{"id": "KMeGefM6D34-t5508.6", "text": "That was basically right.", "start": 5508.6, "end": 5509.6}
+{"id": "KMeGefM6D34-t5509.6", "text": "Well, that's the turning down of the dorsal lateral prefrontal cortex and the turning up of the medial.", "start": 5509.6, "end": 5513.6}
+{"id": "KMeGefM6D34-t5513.6", "text": "So less inhibition and more creativity, essentially.", "start": 5513.6, "end": 5515.6}
+{"id": "KMeGefM6D34-t5515.6", "text": "Yeah.", "start": 5515.6, "end": 5516.6}
+{"id": "KMeGefM6D34-t5516.6", "text": "Yeah.", "start": 5516.6, "end": 5517.6}
+{"id": "KMeGefM6D34-t5517.6", "text": "So I'm just going to speak for my own experience here as a musician, a lifelong musician, and a lifelong musician and a cook.", "start": 5517.6, "end": 5530.6}
+{"id": "KMeGefM6D34-t5530.6", "text": "So I do a lot of things that involve creativity but also require a certain level of theoretical knowledge to be able to execute them and to be able to see through various ideas.", "start": 5530.6, "end": 5540.6}
+{"id": "KMeGefM6D34-t5540.6", "text": "But I was confused. What struck me about what you said was the idea that creativity is stimulus independent.", "start": 5540.6, "end": 5548.6}
+{"id": "KMeGefM6D34-t5548.6", "text": "I'm just going to go ahead and say what I'm thinking about that because through my own experience, I would say that there's nothing that's stimulus independent.", "start": 5548.6, "end": 5560.6}
+{"id": "KMeGefM6D34-t5560.6", "text": "It's not that you're not interacting with the world outside and responding to it.", "start": 5560.6, "end": 5566.6}
+{"id": "KMeGefM6D34-t5566.6", "text": "But that moment of when you're sort of in this flow state, a lot of what's coming up or let's say you're a jazz musician and you're having to come up with a new note structure.", "start": 5566.6, "end": 5580.6}
+{"id": "KMeGefM6D34-t5580.6", "text": "But it has to still conform to certain rules.", "start": 5580.6, "end": 5583.6}
+{"id": "KMeGefM6D34-t5583.6", "text": "It has to be within a certain key or you have to know where the notes are.", "start": 5583.6, "end": 5586.6}
+{"id": "KMeGefM6D34-t5586.6", "text": "And so you are interacting with the environment.", "start": 5586.6, "end": 5588.6}
+{"id": "KMeGefM6D34-t5588.6", "text": "But coming up with that novel note structure is internally generated.", "start": 5588.6, "end": 5592.6}
+{"id": "KMeGefM6D34-t5592.6", "text": "So it's coming from a place, when I say stimulus independent, you just think of that it's internal generation of creating a new thought or an idea.", "start": 5592.6, "end": 5601.6}
+{"id": "KMeGefM6D34-t5601.6", "text": "Or you know, you know, these freestyle wrappers, they have to come off the cuff.", "start": 5601.6, "end": 5605.6}
+{"id": "KMeGefM6D34-t5605.6", "text": "It has to rhyme. It has to go. The words have to make sense.", "start": 5605.6, "end": 5607.6}
+{"id": "KMeGefM6D34-t5607.6", "text": "It's not random words coming up or random notes.", "start": 5607.6, "end": 5610.6}
+{"id": "KMeGefM6D34-t5610.6", "text": "But they're still internally generated.", "start": 5610.6, "end": 5612.6}
+{"id": "KMeGefM6D34-t5612.6", "text": "And then at the end, there's the structure put onto it.", "start": 5612.6, "end": 5615.6}
+{"id": "KMeGefM6D34-t5615.6", "text": "But there's not it's not stimulus independent in the sense that you're not interacting with the world.", "start": 5615.6, "end": 5618.6}
+{"id": "KMeGefM6D34-t5618.6", "text": "Okay. Well, then if you are to look at like in terms of what is qualified as creative, like, you know, you may say that freestyle wrappers that have to rhyme or jazz musicians that have to play within a designated key structure are being creative.", "start": 5618.6, "end": 5634.6}
+{"id": "KMeGefM6D34-t5634.6", "text": "But the fact is they are being created within a particular set of constraints.", "start": 5634.6, "end": 5638.6}
+{"id": "KMeGefM6D34-t5638.6", "text": "Maybe that's dorsal cortex or whatever.", "start": 5638.6, "end": 5641.6}
+{"id": "KMeGefM6D34-t5641.6", "text": "But like, you know, there's a decided rule to the setting that's being created within parameters.", "start": 5641.6, "end": 5647.6}
+{"id": "KMeGefM6D34-t5647.6", "text": "But so an interesting thing to look at. And this is where my experience lies.", "start": 5647.6, "end": 5652.6}
+{"id": "KMeGefM6D34-t5652.6", "text": "I mean, I've learned a lot of jazz theory of I've learned and read a good amount about food science, whatever.", "start": 5652.6, "end": 5658.6}
+{"id": "KMeGefM6D34-t5658.6", "text": "Where creativity for me is always like it's free jazz is really hard.", "start": 5658.6, "end": 5667.6}
+{"id": "KMeGefM6D34-t5667.6", "text": "That's what I'm trying to say.", "start": 5667.6, "end": 5669.6}
+{"id": "KMeGefM6D34-t5669.6", "text": "It requires a certain degree of creativity that is not just about reacting to stimuli and it's not just about generating internal like internally generating content.", "start": 5669.6, "end": 5681.6}
+{"id": "KMeGefM6D34-t5681.6", "text": "It's about basically, yeah, like when you're in flow for me, it's about, yeah, listening to that constant that voice or whatever that means sight.", "start": 5681.6, "end": 5695.6}
+{"id": "KMeGefM6D34-t5695.6", "text": "But then, like say I'm playing saxophone by myself, then you hear your own externalizations and you respond to those.", "start": 5695.6, "end": 5704.6}
+{"id": "KMeGefM6D34-t5704.6", "text": "So it's essentially a feedback loop that's being created by your own perception and expression of your thoughts.", "start": 5704.6, "end": 5713.6}
+{"id": "KMeGefM6D34-t5713.6", "text": "So even though it's reacting to stimuli, the stimuli are self-generated.", "start": 5713.6, "end": 5717.6}
+{"id": "KMeGefM6D34-t5717.6", "text": "Yeah.", "start": 5717.6, "end": 5718.6}
+{"id": "KMeGefM6D34-t5718.6", "text": "And so it's like...", "start": 5718.6, "end": 5720.6}
+{"id": "KMeGefM6D34-t5720.6", "text": "And then they're modified with what the output is. So if you realize you made it, you could do revision.", "start": 5720.6, "end": 5725.6}
+{"id": "KMeGefM6D34-t5725.6", "text": "So you made a bad mistake or you said a bad word or you did a bad note.", "start": 5725.6, "end": 5729.6}
+{"id": "KMeGefM6D34-t5729.6", "text": "You modify that. So you're constantly monitoring your own output.", "start": 5729.6, "end": 5734.6}
+{"id": "KMeGefM6D34-t5734.6", "text": "And it's structured, but it is internally generated.", "start": 5734.6, "end": 5737.6}
+{"id": "KMeGefM6D34-t5737.6", "text": "Yeah.", "start": 5737.6, "end": 5738.6}
+{"id": "KMeGefM6D34-t5738.6", "text": "I think what you're sort of saying, if I could still do a couple of words, is that you need a certain amount of discipline to experience real freedom.", "start": 5738.6, "end": 5748.6}
+{"id": "KMeGefM6D34-t5748.6", "text": "That's actually the odd one.", "start": 5748.6, "end": 5750.6}
+{"id": "KMeGefM6D34-t5750.6", "text": "No, what did you say?", "start": 5750.6, "end": 5751.6}
+{"id": "KMeGefM6D34-t5751.6", "text": "Okay.", "start": 5751.6, "end": 5752.6}
+{"id": "KMeGefM6D34-t5752.6", "text": "And here we go.", "start": 5752.6, "end": 5753.6}
+{"id": "KMeGefM6D34-t5753.6", "text": "You tie it with that way.", "start": 5753.6, "end": 5754.6}
+{"id": "KMeGefM6D34-t5754.6", "text": "And this is where it comes back to the original question about education.", "start": 5754.6, "end": 5757.6}
+{"id": "KMeGefM6D34-t5757.6", "text": "So one thing that I've been just consistently frustrated with in my own education is what you were talking about, which is the idea of what should come first.", "start": 5757.6, "end": 5767.6}
+{"id": "KMeGefM6D34-t5767.6", "text": "Facts are curiosity, right?", "start": 5767.6, "end": 5769.6}
+{"id": "KMeGefM6D34-t5769.6", "text": "Like kids need to be imaginary and creative when they're young.", "start": 5769.6, "end": 5773.6}
+{"id": "KMeGefM6D34-t5773.6", "text": "If they're not led to do that, then they become repressed and they play drugs.", "start": 5773.6, "end": 5778.6}
+{"id": "KMeGefM6D34-t5778.6", "text": "And they can trust.", "start": 5778.6, "end": 5779.6}
+{"id": "KMeGefM6D34-t5779.6", "text": "They turn to music and bad kids, you know, whatever.", "start": 5779.6, "end": 5782.6}
+{"id": "KMeGefM6D34-t5782.6", "text": "But like, the point is like, I think that's a school.", "start": 5782.6, "end": 5784.6}
+{"id": "KMeGefM6D34-t5784.6", "text": "I've always felt that school should follow that same model.", "start": 5784.6, "end": 5787.6}
+{"id": "KMeGefM6D34-t5787.6", "text": "Like it should be about playtime first and then saying, and here's how other people have done it.", "start": 5787.6, "end": 5792.6}
+{"id": "KMeGefM6D34-t5792.6", "text": "Check it out and continue to ask yourself if there are other ways to do it.", "start": 5792.6, "end": 5797.6}
+{"id": "KMeGefM6D34-t5797.6", "text": "Because there are myriad ways.", "start": 5797.6, "end": 5799.6}
+{"id": "KMeGefM6D34-t5799.6", "text": "There are a million ways to get the third avenue.", "start": 5799.6, "end": 5802.6}
+{"id": "KMeGefM6D34-t5802.6", "text": "So we will stop there and go to the next question.", "start": 5802.6, "end": 5806.6}
+{"id": "KMeGefM6D34-t5806.6", "text": "That's a good one I don't know.", "start": 5806.6, "end": 5808.6}
+{"id": "KMeGefM6D34-t5808.6", "text": "I don't like that.", "start": 5808.6, "end": 5810.6}
+{"id": "KMeGefM6D34-t5810.6", "text": "One I just want to make a comment which everybody knows, but obviously none of this could be talked about without talking about the economic structure that makes our schools, or you know, we don't want to say makes our schools what they are, but certainly it's a very powerful force.", "start": 5810.6, "end": 5827.6}
+{"id": "KMeGefM6D34-t5827.6", "text": "Not only in schools, but what we do to the whole notion of curiosity, especially if we look at America and we move on about that, but certainly even the whole mission of the university, is it a place to help people think becomes citizens of America citizens of the world, or is it a place to fill a cog in the corporation and build, you know, I think those are really different philosophies of education and certainly very powerful in America system.", "start": 5827.6, "end": 5850.6}
+{"id": "KMeGefM6D34-t5850.6", "text": "The second thing I want to say is very different. I'm a psychoanalyst and I sort of want to hear more psychoanalytically. We should know a lot about ignorance and curiosity of a very different kind at an individual level where, at least in my experience, obviously anxiety works against curiosity, both consciously and unconsciously in tremendous ways.", "start": 5850.6, "end": 5873.6}
+{"id": "KMeGefM6D34-t5873.6", "text": "And I think that you see that at the level of the individual and at the level of society when everyone, you know, is terrified, is there a job out there, it's very hard to say, should I just want to follow my bliss and be a history major and do this and that.", "start": 5873.6, "end": 5886.6}
+{"id": "KMeGefM6D34-t5886.6", "text": "I think that adds to the individual pressure when there is that kind of anxiety as well as unconscious anxiety that I also think, starting from a very young age, can get in the way of the capacity to learn and be curious.", "start": 5886.6, "end": 5901.6}
+{"id": "KMeGefM6D34-t5901.6", "text": "And there are many different ideas about this, but one of them also brings me back to what has been touched on in many ways here, but it's the whole idea of learning about curiosity within a relationship and not in a concrete sense of about being in a relationship, whether it's my relationship with a patient and knowing that some of their fears,", "start": 5901.6, "end": 5923.6}
+{"id": "KMeGefM6D34-t5923.6", "text": "my belief and capacity to engage them is going to be part of what is going to allow the two of us to work together and to be able to begin to look at the anxiety and look at what makes it so frightening to learn, in that case about oneself, which can also, I might add, open up one's capacity to want to learn many other things, that learning of self-choriosity.", "start": 5923.6, "end": 5946.6}
+{"id": "KMeGefM6D34-t5946.6", "text": "Now, I'm not saying that obviously everybody isn't going to be an analysis to say the least, but the idea of what comes out of the, as has been mentioned, the parent child relationship, the enthusiasm, belief of the teacher with the students, sitting in a bar, the conversation,", "start": 5946.6, "end": 5964.6}
+{"id": "KMeGefM6D34-t5964.6", "text": "this opportunity for conversation of sort of what is going on in our brains and our minds together that may facilitate greater openness, creativity, curiosity that, you know, obviously got somehow that that was alive in each of you here.", "start": 5964.6, "end": 5981.6}
+{"id": "KMeGefM6D34-t5981.6", "text": "So, I would say two things, maybe there's no need to say anything actually, she didn't really ask a question.", "start": 5981.6, "end": 5995.6}
+{"id": "KMeGefM6D34-t5995.6", "text": "We maybe have not completely decided what it is we expect out of an educational system, and so we've heard that somehow or another comes to us through these sort of military systems and that there's still some of that. I've heard it suggested that a lot of it comes to us through the English system when England was an empire,", "start": 5995.6, "end": 6013.6}
+{"id": "KMeGefM6D34-t6013.6", "text": "and England had this empire to run, stretched all the way around the world, but they didn't have telephones, they didn't have an internet, they didn't have email, and so how do you get that done? How do you get that done efficiently? Well, you get a cadre of people who all know how to read and write and spell and do math in exactly the same way,", "start": 6013.6, "end": 6031.6}
+{"id": "KMeGefM6D34-t6031.6", "text": "and then you send them off to do those jobs and you don't have to worry about them, they are literally cogs in a machinery.", "start": 6031.6, "end": 6036.6}
+{"id": "KMeGefM6D34-t6036.6", "text": "We have largely that sort of an educational system today where we have very distinct things we expect you to know by second grade, my third grade, my fourth grade, whatever, and that's because we're turning out some sort of a, you know, a role-filling person.", "start": 6036.6, "end": 6050.6}
+{"id": "KMeGefM6D34-t6050.6", "text": "That's not, I think, what we want, but as the geneticists say, you always get what you select for.", "start": 6050.6, "end": 6056.6}
+{"id": "KMeGefM6D34-t6056.6", "text": "You mean that as a warning, of course.", "start": 6056.6, "end": 6059.6}
+{"id": "KMeGefM6D34-t6059.6", "text": "I was going to actually say something a little different, which now I'll say it. I'm very interested actually in curious about what more clinically informed people have to say about anxiety, because my understanding of this,", "start": 6059.6, "end": 6072.6}
+{"id": "KMeGefM6D34-t6072.6", "text": "developmentally there are two opposing things you could say about the role of anxiety. One is, I think there is some evidence and I'm trying to write about it, we'll see if I'm successful,", "start": 6072.6, "end": 6080.6}
+{"id": "KMeGefM6D34-t6080.6", "text": "that a certain level of security, secure attachment in toddlerhood promotes exploration. We know that already, that's well established, but I'm trying to make a link to sort of curiosity.", "start": 6080.6, "end": 6090.6}
+{"id": "KMeGefM6D34-t6090.6", "text": "On the other hand, the old, the classical definitions of curiosity in the developmental literature suggest that curiosity is the urge to resolve uncertainty or explain the unexpected.", "start": 6090.6, "end": 6102.6}
+{"id": "KMeGefM6D34-t6102.6", "text": "Those are two of the well-known definitions of curiosity, which suggests that a certain amount of anxiety makes you try to get an answer.", "start": 6102.6, "end": 6112.6}
+{"id": "KMeGefM6D34-t6112.6", "text": "And so, if you're talking about very anxious people, where it's a broad sort of description of their, all their experience, I can understand why if you're too anxious, you sort of shut down and you don't seek the unexpected or the unknown.", "start": 6112.6, "end": 6129.6}
+{"id": "KMeGefM6D34-t6129.6", "text": "On the other hand, having a little bit of anxiety is one way to explain curiosity is that it's a response to a little bit of anxiety.", "start": 6129.6, "end": 6139.6}
+{"id": "KMeGefM6D34-t6139.6", "text": "I guess I would wonder if curiosity is more a response to something vital, vitality, or some...", "start": 6139.6, "end": 6150.6}
+{"id": "KMeGefM6D34-t6150.6", "text": "Curiosity usually, I mean, correct me if I'm wrong, other people, but usually there's something you don't know and you want to know it, and so you have to find an answer to it.", "start": 6150.6, "end": 6161.6}
+{"id": "KMeGefM6D34-t6161.6", "text": "Well, you know, historically in psychoanalysis, at least my personal experience, was that it was the other way.", "start": 6161.6, "end": 6170.6}
+{"id": "KMeGefM6D34-t6170.6", "text": "The idea in psychoanalysis was that you sit behind the patient, you ask the patient to say whatever came to their mind, and then you made an interpretation,", "start": 6170.6, "end": 6179.6}
+{"id": "KMeGefM6D34-t6179.6", "text": "meaning you then said something to the patient that the patient himself did not know that.", "start": 6179.6, "end": 6184.6}
+{"id": "KMeGefM6D34-t6184.6", "text": "So, in essence, that method of doing the work, to me at least, blocked the analyst's curiosity, because the analyst had the answers and fit whatever the patient said within a schema that he had studied and made.", "start": 6184.6, "end": 6202.6}
+{"id": "KMeGefM6D34-t6202.6", "text": "So, some years ago, I, in fact, wrote a paper about this and encouraged that the analyst should focus more on making themselves curious and making the patient curious about himself,", "start": 6202.6, "end": 6216.6}
+{"id": "KMeGefM6D34-t6216.6", "text": "but not in the way that Heather described before in terms of what she called the superego, namely self-critical way, because as long as you're self-critical, you learn nothing about yourself.", "start": 6216.6, "end": 6228.6}
+{"id": "KMeGefM6D34-t6228.6", "text": "The only way you learn about yourself is by being curious in terms of understanding why you did something, you felt something, you behaved in a certain way.", "start": 6228.6, "end": 6241.6}
+{"id": "KMeGefM6D34-t6241.6", "text": "If you do that without criticism, inevitably, you get more control over anxiety, and you get more knowledge about yourself.", "start": 6241.6, "end": 6250.6}
+{"id": "KMeGefM6D34-t6250.6", "text": "For a child to pursue their curiosity in a school environment can be a very risky social action.", "start": 6250.6, "end": 6258.6}
+{"id": "KMeGefM6D34-t6258.6", "text": "I mean, there are very few students who are willing to ask the questions and make a fuss and badger the teacher, whatever.", "start": 6258.6, "end": 6266.6}
+{"id": "KMeGefM6D34-t6266.6", "text": "I think most students, I'm an astronomer, what do I know, but in my experience, most students probably want to fit in.", "start": 6266.6, "end": 6276.6}
+{"id": "KMeGefM6D34-t6276.6", "text": "I think that's one of the more important social agendas of middle school and high school, less on mistake.", "start": 6276.6, "end": 6285.6}
+{"id": "KMeGefM6D34-t6285.6", "text": "Then I think that may cover a large large fraction of students.", "start": 6285.6, "end": 6289.6}
+{"id": "KMeGefM6D34-t6289.6", "text": "So we have three more questions, and then we stop.", "start": 6289.6, "end": 6291.6}
+{"id": "KMeGefM6D34-t6291.6", "text": "Please make them brief, because we are running out of time on order.", "start": 6291.6, "end": 6295.6}
+{"id": "KMeGefM6D34-t6295.6", "text": "I have a general question for all of you and a very short specific question for one of you.", "start": 6295.6, "end": 6301.6}
+{"id": "KMeGefM6D34-t6301.6", "text": "How can we deal with societal anxiety?", "start": 6301.6, "end": 6306.6}
+{"id": "KMeGefM6D34-t6306.6", "text": "I mean, if we all agree that, or general tendencies to agree, that there's a balance in education between facts and difficult work of interpretation, which is hard to evaluate, which is even, and any evaluation.", "start": 6306.6, "end": 6325.6}
+{"id": "KMeGefM6D34-t6325.6", "text": "Detective evaluation requires some subjectivity, so you're worried that the teacher may be being fraudulent, trying to claim that her, his students are doing better, and society is afraid of being defrauded.", "start": 6325.6, "end": 6337.6}
+{"id": "KMeGefM6D34-t6337.6", "text": "Society is anxious about that.", "start": 6337.6, "end": 6340.6}
+{"id": "KMeGefM6D34-t6340.6", "text": "If you can come up with a better way of measuring critical thinking, that's great.", "start": 6340.6, "end": 6347.6}
+{"id": "KMeGefM6D34-t6347.6", "text": "What you can't, is there any way, either on this issue or on others, to address the degree that society, that societal fear forces a dumbing down?", "start": 6347.6, "end": 6361.6}
+{"id": "KMeGefM6D34-t6361.6", "text": "The very specific question to you, sir, is were you being intentionally self-contradictory in order to provoke, or is there some way that I'm missing?", "start": 6361.6, "end": 6373.6}
+{"id": "KMeGefM6D34-t6373.6", "text": "If you want students to know that a structure is 0.2 microns rather than two microns, because they want to know which questions they should be asking about that structure, is not the idea that some questions are more appropriate for different-sized structures.", "start": 6373.6, "end": 6393.6}
+{"id": "KMeGefM6D34-t6393.6", "text": "Is that not itself a general concept, which is what you were saying you shouldn't be focusing on?", "start": 6393.6, "end": 6398.6}
+{"id": "KMeGefM6D34-t6398.6", "text": "Excuse me.", "start": 6398.6, "end": 6399.6}
+{"id": "KMeGefM6D34-t6399.6", "text": "You better answer the first part.", "start": 6399.6, "end": 6403.6}
+{"id": "KMeGefM6D34-t6403.6", "text": "So, I went to a very interesting talk in the course of this week, given by a Finnish educator about the Finnish educational system.", "start": 6403.6, "end": 6414.6}
+{"id": "KMeGefM6D34-t6414.6", "text": "It's worth thinking about the Finnish educational system, because if you look at international comparisons, it's typically number one or two.", "start": 6414.6, "end": 6421.6}
+{"id": "KMeGefM6D34-t6421.6", "text": "Lack of poverty.", "start": 6421.6, "end": 6422.6}
+{"id": "KMeGefM6D34-t6422.6", "text": "But, you said lack of poverty.", "start": 6422.6, "end": 6425.6}
+{"id": "KMeGefM6D34-t6425.6", "text": "Lack of, once you normalize for poverty, it's still good, but the difference becomes much less, and the difference between the US and other developed nations becomes much less.", "start": 6425.6, "end": 6434.6}
+{"id": "KMeGefM6D34-t6434.6", "text": "Okay, we could discuss exactly what the causes are, and I agree with you that their success is bound up with a lot of other social indicators.", "start": 6434.6, "end": 6446.6}
+{"id": "KMeGefM6D34-t6446.6", "text": "But I think what struck me most about this particular spokesperson was his emphasis not on pursuing more and more refined tests, even more sophisticated ones for critical thinking.", "start": 6446.6, "end": 6460.6}
+{"id": "KMeGefM6D34-t6460.6", "text": "He emphasized the extent to which in Finland there's deep trust in the professionalism and integrity of teachers.", "start": 6460.6, "end": 6468.6}
+{"id": "KMeGefM6D34-t6468.6", "text": "And sadly, in this country and in the UK, I fear to say, we've moved away from that trust.", "start": 6468.6, "end": 6476.6}
+{"id": "KMeGefM6D34-t6476.6", "text": "So, it's interesting that you use the word, we might be subject to fraud, or how can we get a truly valid test.", "start": 6476.6, "end": 6486.6}
+{"id": "KMeGefM6D34-t6486.6", "text": "So, you can also say we should calm down a little bit and reinvest trust back in the classroom. One last point he made, which I thought was absolutely fascinating.", "start": 6486.6, "end": 6498.6}
+{"id": "KMeGefM6D34-t6498.6", "text": "He talked, and I took it to heart as an early childhood educator, so to speak.", "start": 6498.6, "end": 6503.6}
+{"id": "KMeGefM6D34-t6503.6", "text": "He said, a lot of psychologists and educators in the United States are concerned about how you make children's school ready.", "start": 6503.6, "end": 6511.6}
+{"id": "KMeGefM6D34-t6511.6", "text": "As if, in some sense, it was the child who had to be measured and tailor-made for the school, whereas, of course, you could turn it around the other way.", "start": 6511.6, "end": 6524.6}
+{"id": "KMeGefM6D34-t6524.6", "text": "You forgot. I was hoping that would happen.", "start": 6524.6, "end": 6529.6}
+{"id": "KMeGefM6D34-t6529.6", "text": "You're doing so.", "start": 6529.6, "end": 6531.6}
+{"id": "KMeGefM6D34-t6531.6", "text": "One of you left off, right?", "start": 6531.6, "end": 6534.6}
+{"id": "KMeGefM6D34-t6534.6", "text": "No, no, sorry.", "start": 6534.6, "end": 6536.6}
+{"id": "KMeGefM6D34-t6536.6", "text": "Come on.", "start": 6536.6, "end": 6537.6}
+{"id": "KMeGefM6D34-t6537.6", "text": "I'm not sure what exactly the question was, but I don't think there was a little inconsistency. I'm always a little inconsistent because I just talk.", "start": 6537.6, "end": 6547.6}
+{"id": "KMeGefM6D34-t6547.6", "text": "No, I don't think that, I don't think it's a concept, except to say that if you think a concept is the size of things, the scale of things matters in the way you think about them, that's a concept.", "start": 6547.6, "end": 6559.6}
+{"id": "KMeGefM6D34-t6559.6", "text": "Everything's some kind of a concept.", "start": 6559.6, "end": 6567.6}
+{"id": "KMeGefM6D34-t6567.6", "text": "As a concept is, you go to general rule and you want to know under what circumstances and to what degree it's applicable.", "start": 6567.6, "end": 6574.6}
+{"id": "KMeGefM6D34-t6574.6", "text": "Then I don't think that, then no, I don't think that's what I meant.", "start": 6574.6, "end": 6579.6}
+{"id": "KMeGefM6D34-t6579.6", "text": "What would you want the purpose of public education to be and how would you evaluate it?", "start": 6579.6, "end": 6590.6}
+{"id": "KMeGefM6D34-t6590.6", "text": "Well, let me give a slightly light-hearted answer, but I think maybe it's in the spirit of this afternoon.", "start": 6590.6, "end": 6597.6}
+{"id": "KMeGefM6D34-t6597.6", "text": "One of the things I think we would want, and of course we never evaluate it, is that pupils emerge with the ability to enter into a lively conversation, an enjoyment.", "start": 6597.6, "end": 6610.6}
+{"id": "KMeGefM6D34-t6610.6", "text": "I have to say the best thing I've ever heard said about this was by the woman who's the president of Barnard, whose name just went right out of my head.", "start": 6610.6, "end": 6618.6}
+{"id": "KMeGefM6D34-t6618.6", "text": "She said the reason you'd like to get an education is to make the inside of your head an interesting place to spend the rest of your life.", "start": 6618.6, "end": 6628.6}
+{"id": "KMeGefM6D34-t6628.6", "text": "That's pretty great.", "start": 6628.6, "end": 6632.6}
+{"id": "KMeGefM6D34-t6632.6", "text": "I just want to reiterate that the education, the reason why when I went over to England and it was a different model, it was so stimulating for me.", "start": 6632.6, "end": 6640.6}
+{"id": "KMeGefM6D34-t6640.6", "text": "It was all the things that I had access to outside of the university, all of the people that were there collected in this amazing place that I had conversations with at pubs.", "start": 6640.6, "end": 6650.6}
+{"id": "KMeGefM6D34-t6650.6", "text": "Somebody had said to me, you come and talk sort of as a boy and then you leave as a gentleman, you learn how to become a better person just by having these interactions with the people.", "start": 6650.6, "end": 6659.6}
+{"id": "KMeGefM6D34-t6659.6", "text": "The other thing about the education, it gives you access to a whole group of like-minded people that you can have discussions with outside of the classroom.", "start": 6659.6, "end": 6666.6}
+{"id": "KMeGefM6D34-t6666.6", "text": "That's just a large part of the education as is the formalized education in the classroom.", "start": 6666.6, "end": 6672.6}
+{"id": "KMeGefM6D34-t6672.6", "text": "I'm sure Stuart knows you also learn how to drink.", "start": 6672.6, "end": 6676.6}
+{"id": "KMeGefM6D34-t6676.6", "text": "It's critical though, I hate ignorant drinkers. The one place I will not brogue ignorance with is drinking.", "start": 6676.6, "end": 6683.6}
+{"id": "KMeGefM6D34-t6683.6", "text": "You're also playing girls and girls playing boys.", "start": 6683.6, "end": 6687.6}
+{"id": "KMeGefM6D34-t6687.6", "text": "Yeah.", "start": 6687.6, "end": 6689.6}
+{"id": "KMeGefM6D34-t6689.6", "text": "I think it's great.", "start": 6689.6, "end": 6691.6}
+{"id": "KMeGefM6D34-t6691.6", "text": "We'd better get to the next question.", "start": 6691.6, "end": 6693.6}
+{"id": "KMeGefM6D34-t6693.6", "text": "So this is fraction of people who have, I'm tempted to be loud.", "start": 6693.6, "end": 6699.6}
+{"id": "KMeGefM6D34-t6699.6", "text": "It will record.", "start": 6699.6, "end": 6701.6}
+{"id": "KMeGefM6D34-t6701.6", "text": "It will record.", "start": 6701.6, "end": 6703.6}
+{"id": "KMeGefM6D34-t6703.6", "text": "Oh, you're recording.", "start": 6703.6, "end": 6705.6}
+{"id": "KMeGefM6D34-t6705.6", "text": "Okay.", "start": 6705.6, "end": 6706.6}
+{"id": "KMeGefM6D34-t6706.6", "text": "So this is a fraction of people who seem to thrive or for not knowing, move around trying to find out.", "start": 6706.6, "end": 6713.6}
+{"id": "KMeGefM6D34-t6713.6", "text": "And no sooner do you find out something that you got something else that you're questioning and so forth.", "start": 6713.6, "end": 6719.6}
+{"id": "KMeGefM6D34-t6719.6", "text": "There's this fraction.", "start": 6719.6, "end": 6720.6}
+{"id": "KMeGefM6D34-t6720.6", "text": "And there's this curiosity in terms of what goes into or what accounts for this particular tendency,", "start": 6720.6, "end": 6728.6}
+{"id": "KMeGefM6D34-t6728.6", "text": "which tends to be different from where most folks are at, and some kind of desire to expand the fraction or pull more people into this process of wanting to seek questions,", "start": 6728.6, "end": 6748.6}
+{"id": "KMeGefM6D34-t6748.6", "text": "you know, to thrive off of our ignorance, right?", "start": 6748.6, "end": 6751.6}
+{"id": "KMeGefM6D34-t6751.6", "text": "But I'm questioning, aside from you just having a curiosity around why that is what it is, why do this?", "start": 6751.6, "end": 6761.6}
+{"id": "KMeGefM6D34-t6761.6", "text": "Okay.", "start": 6761.6, "end": 6762.6}
+{"id": "KMeGefM6D34-t6762.6", "text": "For what purpose other than your own curiosity?", "start": 6762.6, "end": 6766.6}
+{"id": "KMeGefM6D34-t6766.6", "text": "Chances are, whatever new developments, new capabilities are generated from anybody who becomes so expanded.", "start": 6766.6, "end": 6777.6}
+{"id": "KMeGefM6D34-t6777.6", "text": "So expanded by your quest to expand their capacity to seek, right?", "start": 6777.6, "end": 6784.6}
+{"id": "KMeGefM6D34-t6784.6", "text": "That in all likelihood, the results of what gets generated will be utilized by folks who don't necessarily have that particular set of motivations,", "start": 6784.6, "end": 6796.6}
+{"id": "KMeGefM6D34-t6796.6", "text": "but have a whole lot of practice or knowledge around how to utilize people who have those kinds of motivations in order to accomplish their particular reject.", "start": 6796.6, "end": 6806.6}
+{"id": "KMeGefM6D34-t6806.6", "text": "Their particular reject is so I'm raising the question, why do this?", "start": 6806.6, "end": 6813.6}
+{"id": "KMeGefM6D34-t6813.6", "text": "Well, a short answer, I mean, has an astronomer everything that I do and my colleagues do has virtually, there's no practical value.", "start": 6813.6, "end": 6827.6}
+{"id": "KMeGefM6D34-t6827.6", "text": "I mean, which, we readily admit, at least some of us do, the ones who are honest.", "start": 6827.6, "end": 6837.6}
+{"id": "KMeGefM6D34-t6837.6", "text": "The ones that I have talked to and myself included, I don't know, it's not a complete answer, but we can't help it.", "start": 6837.6, "end": 6847.6}
+{"id": "KMeGefM6D34-t6847.6", "text": "It is somehow just deeply ingrained that we want to seek more knowledge or be in this kind of activity of investigation.", "start": 6847.6, "end": 6859.6}
+{"id": "KMeGefM6D34-t6859.6", "text": "I'm clear that this is fraction of the channel, you just driven it back to the money.", "start": 6859.6, "end": 6864.6}
+{"id": "KMeGefM6D34-t6864.6", "text": "Okay.", "start": 6864.6, "end": 6865.6}
+{"id": "KMeGefM6D34-t6865.6", "text": "That's it.", "start": 6865.6, "end": 6867.6}
+{"id": "KMeGefM6D34-t6867.6", "text": "When I'm closing is the question of why are you interested, if you are interested, in expanding the numbers of people who might engage in this.", "start": 6867.6, "end": 6884.6}
+{"id": "KMeGefM6D34-t6884.6", "text": "If you don't already have some clear purpose as to what that would be for, other than just doing it, you know, for the sake of doing it.", "start": 6884.6, "end": 6894.6}
+{"id": "KMeGefM6D34-t6894.6", "text": "Well, let me answer.", "start": 6894.6, "end": 6897.6}
+{"id": "KMeGefM6D34-t6897.6", "text": "In fact, part of my job as a professor and my colleagues is to decrease the number of people who join our ranks.", "start": 6897.6, "end": 6908.6}
+{"id": "KMeGefM6D34-t6908.6", "text": "I mean, we have in the physics department about one third, I guess, of our students drop out before they graduate,", "start": 6908.6, "end": 6917.6}
+{"id": "KMeGefM6D34-t6917.6", "text": "or they just pursue other activities that they're like better.", "start": 6917.6, "end": 6925.6}
+{"id": "KMeGefM6D34-t6925.6", "text": "I don't think it's like we're trying to gather everybody to do what we do.", "start": 6925.6, "end": 6929.6}
+{"id": "KMeGefM6D34-t6929.6", "text": "We certainly are interested in letting them know.", "start": 6929.6, "end": 6932.6}
+{"id": "KMeGefM6D34-t6932.6", "text": "But the conversation today, the thoughts that touched education, had to do with the notion of how to make people be more curious, more creative.", "start": 6932.6, "end": 6940.6}
+{"id": "KMeGefM6D34-t6940.6", "text": "Right, but not necessarily a scientist.", "start": 6940.6, "end": 6942.6}
+{"id": "KMeGefM6D34-t6942.6", "text": "I'd like to give an answer from Benjamin Franklin, our founding fathers.", "start": 6942.6, "end": 6947.6}
+{"id": "KMeGefM6D34-t6947.6", "text": "Franklin, as it turns out, was in Paris at the time, he spent a lot of time in Paris, you know.", "start": 6947.6, "end": 6953.6}
+{"id": "KMeGefM6D34-t6953.6", "text": "And he witnessed the first time, the first human flight, and it wasn't fixed with an aircraft, it was hot air balloons.", "start": 6953.6, "end": 6959.6}
+{"id": "KMeGefM6D34-t6959.6", "text": "Nonetheless, it was the first time human beings lifted themselves off the face of the planet.", "start": 6959.6, "end": 6964.6}
+{"id": "KMeGefM6D34-t6964.6", "text": "And this is, by the way, a well-documented story, not just some cukianic note that I'm making up, it's in his biography and all that sort of thing.", "start": 6964.6, "end": 6971.6}
+{"id": "KMeGefM6D34-t6971.6", "text": "And he's standing next to some Frenchman who asked him at a time, well, this is a lot of fun, this looks interesting, and it's cool, but really, what good is this?", "start": 6971.6, "end": 6979.6}
+{"id": "KMeGefM6D34-t6979.6", "text": "What good is this likely to be? And Franklin's answer was, what good is a newborn baby?", "start": 6979.6, "end": 6984.6}
+{"id": "KMeGefM6D34-t6984.6", "text": "What uses a newborn baby? I mean, frankly, they're not very useful. They're a pain in the ass.", "start": 6984.6, "end": 6990.6}
+{"id": "KMeGefM6D34-t6990.6", "text": "But a few of them turn out, and thankfully they do, and we have all this to thank them for.", "start": 6990.6, "end": 6996.6}
+{"id": "KMeGefM6D34-t6996.6", "text": "And so you'll never know just looking at a newborn baby.", "start": 6996.6, "end": 6999.6}
+{"id": "KMeGefM6D34-t6999.6", "text": "Can I just add one thing, though? I don't think you're answering the question, if I may say so.", "start": 6999.6, "end": 7005.6}
+{"id": "KMeGefM6D34-t7005.6", "text": "That's OK, it's still a good story, wasn't it?", "start": 7005.6, "end": 7009.6}
+{"id": "KMeGefM6D34-t7009.6", "text": "So, on the way here from Boston, I was reading a book that I recommend to everybody, it's called, Don't Sleep There, There Are Snakes, and it's shit.", "start": 7009.6, "end": 7021.6}
+{"id": "KMeGefM6D34-t7021.6", "text": "It's my... It's embarrassing, it's my wife.", "start": 7021.6, "end": 7025.6}
+{"id": "KMeGefM6D34-t7025.6", "text": "Say hi, just gets me in the mood at all.", "start": 7025.6, "end": 7031.6}
+{"id": "KMeGefM6D34-t7031.6", "text": "So, anyway, this particular book was written by somebody who started off as a missionary,", "start": 7031.6, "end": 7041.6}
+{"id": "KMeGefM6D34-t7041.6", "text": "went to a South American Amazonian tribe called the Binhaday, who had been very difficult to contact,", "start": 7041.6, "end": 7049.6}
+{"id": "KMeGefM6D34-t7049.6", "text": "and whose language was very, very difficult to understand and transcribe.", "start": 7049.6, "end": 7053.6}
+{"id": "KMeGefM6D34-t7053.6", "text": "Anyway, in the course of his stay among the Binhaday, he loses his Christian faith, but he becomes fascinated by this culture.", "start": 7053.6, "end": 7062.6}
+{"id": "KMeGefM6D34-t7062.6", "text": "One of the things he describes in a very fascinating way is actually the fact that they live, and he analyzes this,", "start": 7062.6, "end": 7073.6}
+{"id": "KMeGefM6D34-t7073.6", "text": "both with respect to their cultural practices, but also the language that they use, they live very much in the moment.", "start": 7073.6, "end": 7079.6}
+{"id": "KMeGefM6D34-t7079.6", "text": "They do not think about the past, they do not really think about the distant future.", "start": 7079.6, "end": 7084.6}
+{"id": "KMeGefM6D34-t7084.6", "text": "Their memory goes back as much as can be offered by living eyewitnesses, so they have no myths, no fiction, no history, no religion,", "start": 7084.6, "end": 7094.6}
+{"id": "KMeGefM6D34-t7094.6", "text": "other than a kind of very here and now belief in the existence of certain spirits, which they claim to actually see.", "start": 7094.6, "end": 7102.6}
+{"id": "KMeGefM6D34-t7102.6", "text": "Anyway, what struck me was that in the course of living among these people for about 30 years, ever at the linguist,", "start": 7102.6, "end": 7111.6}
+{"id": "KMeGefM6D34-t7111.6", "text": "comes to value their way of life, which in a way undercuts everything we believe in in the West.", "start": 7111.6, "end": 7121.6}
+{"id": "KMeGefM6D34-t7121.6", "text": "And so, to that extent, they might well say, what is the use of a newborn baby?", "start": 7121.6, "end": 7127.6}
+{"id": "KMeGefM6D34-t7127.6", "text": "Well, they might say, in some sense, it's the celebration of life here and now, and that's all that we need.", "start": 7127.6, "end": 7134.6}
+{"id": "KMeGefM6D34-t7134.6", "text": "But we academics, for whatever reason, are stuck thinking about the next question and how it could be different and how we should analyze it.", "start": 7134.6, "end": 7146.6}
+{"id": "KMeGefM6D34-t7146.6", "text": "Can I say something more hopeful a little bit?", "start": 7146.6, "end": 7148.6}
+{"id": "KMeGefM6D34-t7148.6", "text": "People have said to me, you know, what are you doing?", "start": 7148.6, "end": 7150.6}
+{"id": "KMeGefM6D34-t7150.6", "text": "They call it mental masturbation, right?", "start": 7150.6, "end": 7152.6}
+{"id": "KMeGefM6D34-t7152.6", "text": "It's just for your own self-simulation, and why are you doing this?", "start": 7152.6, "end": 7155.6}
+{"id": "KMeGefM6D34-t7155.6", "text": "It has no practical, you know, because my passion is trying to understand the neural basis of consciousness,", "start": 7155.6, "end": 7160.6}
+{"id": "KMeGefM6D34-t7160.6", "text": "and people are like, that has no practical value at all, and I go into the formalized system.", "start": 7160.6, "end": 7164.6}
+{"id": "KMeGefM6D34-t7164.6", "text": "Now, I mean, I'm in a medical school and I want to do research in this area, and people say, well, you can't.", "start": 7164.6, "end": 7168.6}
+{"id": "KMeGefM6D34-t7168.6", "text": "It's not practical. It has to be, you know, and I each funded it has to have practical applications to treat psychiatric illness,", "start": 7168.6, "end": 7174.6}
+{"id": "KMeGefM6D34-t7174.6", "text": "and that's just trying to pursue knowledge for the sake of knowledge is a waste of time.", "start": 7174.6, "end": 7179.6}
+{"id": "KMeGefM6D34-t7179.6", "text": "And my response to that is that I think that as I said in the beginning, just bring it back,", "start": 7179.6, "end": 7185.6}
+{"id": "KMeGefM6D34-t7185.6", "text": "the norm is not to go and really be exploratory and ask all these big questions.", "start": 7185.6, "end": 7189.6}
+{"id": "KMeGefM6D34-t7189.6", "text": "A lot of the sort of beaten out of you over time, and we're taught to just do what's practical,", "start": 7189.6, "end": 7193.6}
+{"id": "KMeGefM6D34-t7193.6", "text": "and the reason why we should encourage people to be more curious and exploratory is that that's where the big discoveries are made.", "start": 7193.6, "end": 7200.6}
+{"id": "KMeGefM6D34-t7200.6", "text": "The people who think outside of the box, the people that go against the grain and do things that are not practical,", "start": 7200.6, "end": 7207.6}
+{"id": "KMeGefM6D34-t7207.6", "text": "that's where these unconventional things and that can actually eventually help people,", "start": 7207.6, "end": 7211.6}
+{"id": "KMeGefM6D34-t7211.6", "text": "and big advances in science are done by people who are thinking outside of the box and who are being curious.", "start": 7211.6, "end": 7217.6}
+{"id": "KMeGefM6D34-t7217.6", "text": "So, as you said, maybe there's no use for babies in the beginning, but every so often one of them might be really special.", "start": 7217.6, "end": 7222.6}
+{"id": "KMeGefM6D34-t7222.6", "text": "So we might as well invest the resources in them because that one might have a large impact.", "start": 7222.6, "end": 7227.6}
+{"id": "KMeGefM6D34-t7227.6", "text": "Okay. Thank you very much.", "start": 7227.6, "end": 7229.6}
+{"id": "KMeGefM6D34-t7229.6", "text": "Thank you.", "start": 7229.6, "end": 7239.6}

@@ -1,0 +1,4716 @@
+1
+00:00:00,000 --> 00:00:03,440
+We're going to get started.
+
+2
+00:00:03,440 --> 00:00:04,720
+Good afternoon, everybody.
+
+3
+00:00:04,720 --> 00:00:07,400
+Welcome to the Helix Center.
+
+4
+00:00:07,400 --> 00:00:12,920
+Before I introduce today's participants, let me tell you about a couple of round tables
+
+5
+00:00:12,920 --> 00:00:13,920
+that are coming up.
+
+6
+00:00:13,920 --> 00:00:20,760
+On Saturday, March 12, the meditative state, with research psychologist Sarah Lazar, Peter
+
+7
+00:00:20,760 --> 00:00:27,600
+Melanowski, and Yi Yang Tang, and pastoral care leader, Koshan Paley Ellison, and psychoanalyst
+
+8
+00:00:27,600 --> 00:00:29,360
+Morgan Stevens.
+
+9
+00:00:29,360 --> 00:00:36,760
+And on Saturday, March 26, understanding genius part two women, with historians Joyce Chaplin,
+
+10
+00:00:36,760 --> 00:00:43,600
+Kathleen Keat, and Darren McMahon, anthropologist Susan Seymour, and poet and visual artist,
+
+11
+00:00:43,600 --> 00:00:49,360
+Ann Marie Levine, who as Helix executive committee member also organized that round table.
+
+12
+00:00:49,360 --> 00:00:55,960
+Now for today, jeans, computers, and medicine, James Domen, assistant professor of biomedical
+
+13
+00:00:55,960 --> 00:00:58,200
+engineering at Georgia Tech.
+
+14
+00:00:58,200 --> 00:01:03,440
+Frances Lee, Mortimer D. Sackler professor and vice chair for research department of psychiatry
+
+15
+00:01:03,440 --> 00:01:06,200
+at Wile Cornell Medical College.
+
+16
+00:01:06,200 --> 00:01:11,840
+Karen Mashke, research scholar at the Hastings Center, and Hans Guido Wendell, principal
+
+17
+00:01:11,840 --> 00:01:16,160
+investigator at the cancer genetics laboratory at Memorial Sloan Kettering.
+
+18
+00:01:16,160 --> 00:01:25,880
+Okay, we'll begin.
+
+19
+00:01:25,880 --> 00:01:29,760
+So what's the latest in genetics?
+
+20
+00:01:29,760 --> 00:01:38,200
+Well, I'm really pleased that you started off with a question I could answer quickly.
+
+21
+00:01:38,200 --> 00:01:45,040
+So from my perspective as somebody who does genetic therapies, who looks into the future
+
+22
+00:01:45,040 --> 00:01:51,880
+and sees medicines where we target the genome, I think there's a revolution occurring in
+
+23
+00:01:51,880 --> 00:01:59,000
+biology where with different types of new small molecules or, excuse me, DNAs or RNAs,
+
+24
+00:01:59,000 --> 00:02:03,800
+we can actually go for the first time and effectively manipulate the genome the way that
+
+25
+00:02:03,800 --> 00:02:04,800
+we would like to.
+
+26
+00:02:04,800 --> 00:02:10,720
+So in genetics, one of the many revolutions is this ability to actually go in and edit
+
+27
+00:02:10,720 --> 00:02:15,880
+the genome as we would like or manipulate the genome and see what that can do therapeutically
+
+28
+00:02:15,880 --> 00:02:17,080
+and scientifically.
+
+29
+00:02:17,080 --> 00:02:23,360
+That's one of the advances in genetics, I would say.
+
+30
+00:02:23,360 --> 00:02:29,360
+If you were to take a guess, where would be the first clinical application of this type
+
+31
+00:02:29,360 --> 00:02:33,480
+of new wave of gene editing?
+
+32
+00:02:33,480 --> 00:02:36,320
+It's a difficult question.
+
+33
+00:02:36,320 --> 00:02:41,440
+I guess I'd answer it by outlining sort of one of the biggest hurdles to implementing
+
+34
+00:02:41,440 --> 00:02:48,280
+the gene editing therapies, which is the ability to safely deliver the new genetic drugs where
+
+35
+00:02:48,280 --> 00:02:50,120
+you want to deliver them.
+
+36
+00:02:50,120 --> 00:02:56,480
+As you might imagine, if you're going to go in and create a targeted therapy, you want
+
+37
+00:02:56,480 --> 00:03:00,320
+to make sure it's going to the right spot in the body.
+
+38
+00:03:00,320 --> 00:03:05,880
+For that reason, I would venture a guess and say that anywhere where you can administer
+
+39
+00:03:05,880 --> 00:03:10,360
+the genetic medicine locally, so for instance, your eye, you can literally spray it into
+
+40
+00:03:10,360 --> 00:03:13,360
+your eye.
+
+41
+00:03:13,360 --> 00:03:18,160
+You can take cells out of the body like your immune cells and edit them and then put them
+
+42
+00:03:18,160 --> 00:03:19,160
+back in.
+
+43
+00:03:19,160 --> 00:03:23,880
+So immune cells and then perhaps also deliver, which is an organ that is a little easier
+
+44
+00:03:23,880 --> 00:03:28,440
+to target drugs to than other organs.
+
+45
+00:03:28,440 --> 00:03:33,960
+So just as since I'm sort of a layman of this gene editing, so what's the difference between
+
+46
+00:03:33,960 --> 00:03:39,360
+this and the revolution I had recalled in the 1990s with gene therapy?
+
+47
+00:03:39,360 --> 00:03:43,400
+Yeah, so again, it's tricky.
+
+48
+00:03:43,400 --> 00:03:47,200
+The revolution in gene therapy is really actually bearing some interesting therapeutic fruit
+
+49
+00:03:47,200 --> 00:03:48,200
+right now.
+
+50
+00:03:48,200 --> 00:03:52,840
+So again, back in the 90s, there were these advances where people started saying, all
+
+51
+00:03:52,840 --> 00:03:58,040
+right, we're going to actually start taking patients where they're not able to produce
+
+52
+00:03:58,040 --> 00:04:00,240
+a particular gene.
+
+53
+00:04:00,240 --> 00:04:04,800
+And then we're going to put that gene into patients and cure the patient in some way,
+
+54
+00:04:04,800 --> 00:04:05,800
+shape or form.
+
+55
+00:04:05,800 --> 00:04:11,040
+And unfortunately, in sort of the late 90s and early 2000s, there were a few hurdles
+
+56
+00:04:11,040 --> 00:04:13,120
+and events that set the field back.
+
+57
+00:04:13,120 --> 00:04:18,240
+But now because the delivery of some of these genetic therapies has become much more safe,
+
+58
+00:04:18,240 --> 00:04:22,880
+we're seeing a change and we're actually seeing really impressive clinical data come
+
+59
+00:04:22,880 --> 00:04:28,880
+out with gene therapies that were originally thought of in the 80s and 90s.
+
+60
+00:04:28,880 --> 00:04:32,240
+So an interject, because one of the step-backs was actually a death.
+
+61
+00:04:32,240 --> 00:04:33,240
+Yeah, that's right.
+
+62
+00:04:33,240 --> 00:04:37,680
+That had to do with research ethics issues.
+
+63
+00:04:37,680 --> 00:04:43,920
+And with possibly one exception, there's no FDA-approved gene therapy at this time.
+
+64
+00:04:43,920 --> 00:04:45,640
+There's maybe more than one.
+
+65
+00:04:45,640 --> 00:04:47,600
+Yeah, one year up, there it is.
+
+66
+00:04:47,600 --> 00:04:53,200
+Yeah, but in the United States as a yet, so I'm not, I'm just sort of, as a part of the
+
+67
+00:04:53,200 --> 00:04:54,520
+revolutionary language.
+
+68
+00:04:54,520 --> 00:04:56,000
+Yeah, of course.
+
+69
+00:04:56,000 --> 00:04:59,440
+The revolution hasn't happened yet and there was a lot of hype.
+
+70
+00:04:59,440 --> 00:05:00,440
+That's right.
+
+71
+00:05:00,440 --> 00:05:06,080
+Some people wonder if there's the same kind of hype with gene editing, you know, with,
+
+72
+00:05:06,080 --> 00:05:12,160
+and also potential harms because of the exuberance that people are going into with this the same
+
+73
+00:05:12,160 --> 00:05:13,560
+way they did with gene therapies.
+
+74
+00:05:13,560 --> 00:05:14,560
+Yeah.
+
+75
+00:05:14,560 --> 00:05:17,560
+Not to put you on the spot because you're not the only person.
+
+76
+00:05:17,560 --> 00:05:18,560
+Yeah, of course.
+
+77
+00:05:18,560 --> 00:05:23,320
+And I should clarify that when I say, you know, revolution, I'm not specifically only
+
+78
+00:05:23,320 --> 00:05:25,440
+referring to gene editing technologies.
+
+79
+00:05:25,440 --> 00:05:31,840
+I'm also referring to anti-sense technologies and RNAi, which, you know, small, interfering
+
+80
+00:05:31,840 --> 00:05:37,400
+sirna, or excuse me, small interfering RNAs or sirna.
+
+81
+00:05:37,400 --> 00:05:43,640
+So you know, I do think that there is a risk for overhyping new technologies, just like
+
+82
+00:05:43,640 --> 00:05:47,920
+with any other technology that has ever been, you know, reported.
+
+83
+00:05:47,920 --> 00:05:53,440
+But I think generally speaking, it is a relatively safe statement to make when we say that maybe
+
+84
+00:05:53,440 --> 00:05:59,080
+20 years, different classes of medicine based on either small RNAs or anti-sense will have
+
+85
+00:05:59,080 --> 00:06:01,920
+a much larger impact in the clinic than certainly they will now.
+
+86
+00:06:01,920 --> 00:06:06,160
+So, and I think that's primarily because the delivery is going to continue to improve.
+
+87
+00:06:06,160 --> 00:06:09,440
+So to the clinicians, are you seeing that in the clinical world?
+
+88
+00:06:09,440 --> 00:06:12,040
+But you see this in your path?
+
+89
+00:06:12,040 --> 00:06:14,480
+I have not seen a patient in 15 years.
+
+90
+00:06:14,480 --> 00:06:17,280
+I'm calling myself a clinician anymore.
+
+91
+00:06:17,280 --> 00:06:23,000
+I'm my only patient if I have a fever that's about it.
+
+92
+00:06:23,000 --> 00:06:24,000
+I don't know.
+
+93
+00:06:24,000 --> 00:06:27,840
+I think much of the technology is a long way to go before it's a clinical reality.
+
+94
+00:06:27,840 --> 00:06:36,160
+So no doubt it's cool new research tools that we can use to learn a lot about how cells
+
+95
+00:06:36,160 --> 00:06:41,080
+work, how cell biology works and what genes do and what happens if you change them and
+
+96
+00:06:41,080 --> 00:06:42,080
+so on.
+
+97
+00:06:42,080 --> 00:06:45,320
+I think the practical applications are very limited right at the moment.
+
+98
+00:06:45,320 --> 00:06:50,880
+You can maybe the most promising he mentioned is that you can isolate immune cells, pull
+
+99
+00:06:50,880 --> 00:06:56,280
+them out of your body, modify them and put them back and suddenly these cells have learned
+
+100
+00:06:56,280 --> 00:07:00,640
+to target a leukemia and that works sometimes right.
+
+101
+00:07:00,640 --> 00:07:05,920
+It's not risk free but if you don't have a choice then at the moment hey there's a
+
+102
+00:07:05,920 --> 00:07:08,880
+new thing on the horizon right.
+
+103
+00:07:08,880 --> 00:07:09,880
+So that's a reality.
+
+104
+00:07:09,880 --> 00:07:14,000
+If you open a newspaper you're going to find much more speculative things of how we're
+
+105
+00:07:14,000 --> 00:07:20,560
+going to engineer you know new super athletes or we'll make you know smarter children.
+
+106
+00:07:20,560 --> 00:07:27,200
+But all these things I think are not a reality and I mean but obviously if you think that
+
+107
+00:07:27,200 --> 00:07:32,720
+it might be then that has a lot of ethical implications that you have to think about.
+
+108
+00:07:32,720 --> 00:07:35,920
+I'm going to hold this because I'm having problems with that.
+
+109
+00:07:35,920 --> 00:07:39,440
+Well one of the things I wanted to point out and the reason for raising that question is
+
+110
+00:07:39,440 --> 00:07:43,080
+a lot of the science that does get hyped in the media is really what we might call discovery
+
+111
+00:07:43,080 --> 00:07:44,080
+science.
+
+112
+00:07:44,080 --> 00:07:49,600
+I mean you're in the lab and you're building a body of work and you're training a body
+
+113
+00:07:49,600 --> 00:07:56,160
+of scientists to continue to build on that work and science is a very incremental process
+
+114
+00:07:56,160 --> 00:08:00,600
+which often is two steps forward eight steps back and maybe even more than eight steps
+
+115
+00:08:00,600 --> 00:08:06,880
+back and cleaning up mistakes and errors and over sites and just not even thinking about
+
+116
+00:08:06,880 --> 00:08:10,880
+certain things that you thought might happen or didn't happen.
+
+117
+00:08:10,880 --> 00:08:15,760
+And yet in the media when we talk about technologies and we hear all these issues about brand technologies
+
+118
+00:08:15,760 --> 00:08:24,320
+and computer interfaces and therapy, gene splicing, gene editing, there's an intermediate point
+
+119
+00:08:24,320 --> 00:08:26,960
+and that's where I sit which is the research ethics point.
+
+120
+00:08:26,960 --> 00:08:30,960
+You don't just come up with a discovery in the lab and then say let's take it across
+
+121
+00:08:30,960 --> 00:08:35,640
+the street over to Well Cornale or to take it over to Slunk Hetteran and let's use it.
+
+122
+00:08:35,640 --> 00:08:42,240
+There's another whole step that can take anywhere from 10 to 15, 20, 30, 40 years.
+
+123
+00:08:42,240 --> 00:08:49,240
+When you were speaking I was just thinking about a month ago there was this amazing
+
+124
+00:08:49,240 --> 00:08:54,040
+article that was in both Washington Post and New York Times that we had now made a quantum
+
+125
+00:08:54,040 --> 00:08:57,000
+leap in our understanding of schizophrenia.
+
+126
+00:08:57,000 --> 00:09:03,040
+They had been able to find an immune gene, an MHC gene that was one of the largest hits
+
+127
+00:09:03,040 --> 00:09:05,520
+in the genome wide association studies.
+
+128
+00:09:05,520 --> 00:09:09,080
+And as you read the article you just were and it was elegant.
+
+129
+00:09:09,080 --> 00:09:13,000
+The genetics were elegant, the mouse model that they were, they found a compliment gene
+
+130
+00:09:13,000 --> 00:09:17,840
+that was somehow related to this that would actually prune spines and neurons.
+
+131
+00:09:17,840 --> 00:09:23,480
+And then ultimately when you read the fine print they said that this gene, this MHC complex
+
+132
+00:09:23,480 --> 00:09:32,120
+gene, possibly explains 0.25% of the risk factor for schizophrenia.
+
+133
+00:09:32,120 --> 00:09:36,240
+So that from a clinical point of view it has almost no worth.
+
+134
+00:09:36,240 --> 00:09:44,080
+It would possibly help us understand something about the pathophysiology for that 0.25% of
+
+135
+00:09:44,080 --> 00:09:48,800
+people on the planet earth who have this genetic variation.
+
+136
+00:09:48,800 --> 00:09:52,200
+But for the rest of the people it would have no effect.
+
+137
+00:09:52,200 --> 00:09:58,000
+So the way I think about it is that in terms of the genetic revolution, I think of it in
+
+138
+00:09:58,000 --> 00:10:05,240
+terms of either diagnosis, pathophysiology or some type of intermediate phenotype that
+
+139
+00:10:05,240 --> 00:10:07,880
+we could use to possibly understand things.
+
+140
+00:10:07,880 --> 00:10:14,760
+And I would put this in the pathophysiology that we could study, as you said, it's a discovery
+
+141
+00:10:14,760 --> 00:10:22,720
+science that possibly that there is some neuroimmune component to schizophrenia in 0.2% of the
+
+142
+00:10:22,720 --> 00:10:27,480
+population that increases your risk by 0.25%.
+
+143
+00:10:27,480 --> 00:10:33,520
+But by itself would not cause schizophrenia by no means at all.
+
+144
+00:10:33,520 --> 00:10:38,400
+And I think this is the kind of things that the media does, which actually does a disservice
+
+145
+00:10:38,400 --> 00:10:43,640
+to our field because psychiatry in particular has had many false starts.
+
+146
+00:10:43,640 --> 00:10:49,040
+I was at a talk recently where the Nobel Prize was given for frontal lobotomies and it's
+
+147
+00:10:49,040 --> 00:10:53,680
+absolutely clear that we do not understand many things and that when these types of articles
+
+148
+00:10:53,680 --> 00:11:01,560
+come out they actually, now people think that we're probably, as you said, one step closer
+
+149
+00:11:01,560 --> 00:11:07,680
+to probably eight steps back in terms of understanding this.
+
+150
+00:11:07,680 --> 00:11:14,320
+And that makes me wonder, so from the bioethics perspective, this is something I think that
+
+151
+00:11:14,320 --> 00:11:21,280
+many fields struggle with, how do you present your science to the public and how do you
+
+152
+00:11:21,280 --> 00:11:24,560
+tone down some of the popular press reports?
+
+153
+00:11:24,560 --> 00:11:29,960
+So when you guys look at the bioethics, do you guys ever consider questions like these?
+
+154
+00:11:29,960 --> 00:11:32,760
+Yes, it's been written about a lot.
+
+155
+00:11:32,760 --> 00:11:38,640
+And unfortunately, when I'm at sessions having these conversations, the scientists end up
+
+156
+00:11:38,640 --> 00:11:41,880
+being in the hot seat because we're asking you, well, is this really going to happen
+
+157
+00:11:41,880 --> 00:11:44,320
+in 10 years or 15 years.
+
+158
+00:11:44,320 --> 00:11:48,520
+Part of it's a media problem and part of it is also, I think, the nature of our culture
+
+159
+00:11:48,520 --> 00:11:54,160
+that institutions are in a position of competing because they want the best and the brightest
+
+160
+00:11:54,160 --> 00:11:57,320
+and they want the NIH money and they want the venture capital money and they want the
+
+161
+00:11:57,320 --> 00:12:04,960
+patents and they want, you know, and so they're part of the mix of promoting, I wouldn't say
+
+162
+00:12:04,960 --> 00:12:07,960
+hype, but promoting their work and their people.
+
+163
+00:12:07,960 --> 00:12:11,600
+And the media then takes those stories and translates it in ways and then you see movies
+
+164
+00:12:11,600 --> 00:12:16,240
+like The Matrix and you see other movies where this gets put into the popular culture in
+
+165
+00:12:16,240 --> 00:12:21,520
+ways that the, you know, the scientists and his or her team who are working in the lab
+
+166
+00:12:21,520 --> 00:12:26,880
+day after day, after day, you know, you know, wonder.
+
+167
+00:12:26,880 --> 00:12:31,160
+And yet in the popular discourse, we have these conversations about different human
+
+168
+00:12:31,160 --> 00:12:32,920
+brains, different human organs.
+
+169
+00:12:32,920 --> 00:12:34,000
+We can fix them in the lab.
+
+170
+00:12:34,000 --> 00:12:37,800
+We can do petri dish organs and put them in humans and they'll live forever and it's
+
+171
+00:12:37,800 --> 00:12:38,800
+not really close to reality.
+
+172
+00:12:38,800 --> 00:12:43,280
+Yet it becomes a part of the public discourse and then it becomes a part of the public fear
+
+173
+00:12:43,280 --> 00:12:47,040
+too, which can often hinder science going forward.
+
+174
+00:12:47,040 --> 00:12:54,600
+Yeah, I would also contend that it does a disservice because it sets expectations, you
+
+175
+00:12:54,600 --> 00:12:55,840
+know, pretty high.
+
+176
+00:12:55,840 --> 00:13:00,040
+And as you said, I think it's a really nice way of stating it science is really two steps
+
+177
+00:13:00,040 --> 00:13:02,040
+forward and eight steps backwards.
+
+178
+00:13:02,040 --> 00:13:06,040
+I mean, it takes a lot of effort to make even an incremental change.
+
+179
+00:13:06,040 --> 00:13:10,360
+And I think when we, you know, you read a popular press report about, you know, we're
+
+180
+00:13:10,360 --> 00:13:14,880
+going to create a new organ and, you know, now you're going to be able to have new kidneys
+
+181
+00:13:14,880 --> 00:13:17,360
+and new lungs and new whatever all the time.
+
+182
+00:13:17,360 --> 00:13:26,440
+I think if that's what's sort of understood in the popular media, that's what people are
+
+183
+00:13:26,440 --> 00:13:29,760
+going to read and that's how they're going to think about science and that, as you said,
+
+184
+00:13:29,760 --> 00:13:31,400
+that's not at all how it works.
+
+185
+00:13:31,400 --> 00:13:35,120
+It takes a really long time and there are a lot of failures before you get any kind of
+
+186
+00:13:35,120 --> 00:13:36,120
+even mild success.
+
+187
+00:13:36,120 --> 00:13:37,120
+Yeah, okay.
+
+188
+00:13:37,120 --> 00:13:50,080
+So when you have a hypothesis that you have verified, like a gene editing, that has been
+
+189
+00:13:50,080 --> 00:13:51,080
+done.
+
+190
+00:13:51,080 --> 00:13:55,680
+So what causes the eight steps back?
+
+191
+00:13:55,680 --> 00:14:00,200
+If you know how to do the gene editing and you know what to apply it to.
+
+192
+00:14:00,200 --> 00:14:05,400
+And I think what Giro was saying, you can modify the immune system of the person.
+
+193
+00:14:05,400 --> 00:14:07,480
+So what causes the steps back?
+
+194
+00:14:07,480 --> 00:14:09,480
+I don't know.
+
+195
+00:14:09,480 --> 00:14:14,040
+I'd defer to the people closer to the clinic than I am on that.
+
+196
+00:14:14,040 --> 00:14:18,120
+I would defer to, I think the sex stories have mainly been in cancer.
+
+197
+00:14:18,120 --> 00:14:20,840
+So I would ask you, like, what would you think would be?
+
+198
+00:14:20,840 --> 00:14:27,080
+Because this is where you actually do have genetic biomarkers that inform diagnosis and
+
+199
+00:14:27,080 --> 00:14:28,080
+treatment.
+
+200
+00:14:28,080 --> 00:14:29,080
+The success stories.
+
+201
+00:14:29,080 --> 00:14:31,320
+Yeah, no, there are plenty.
+
+202
+00:14:31,320 --> 00:14:37,000
+And I think it's not just therapeutics, and it's not just gene editing and it's not science
+
+203
+00:14:37,000 --> 00:14:38,000
+fiction.
+
+204
+00:14:38,000 --> 00:14:45,160
+There's real life things that have improved light years since I've treated my last patient.
+
+205
+00:14:45,160 --> 00:14:50,520
+Now if you come to a major cancer center, your cancer is going to be sequenced.
+
+206
+00:14:50,520 --> 00:14:52,640
+The whole genome of the thing.
+
+207
+00:14:52,640 --> 00:14:54,520
+Previously, we didn't have that.
+
+208
+00:14:54,520 --> 00:14:55,960
+Now you can sequence the whole thing.
+
+209
+00:14:55,960 --> 00:14:59,920
+You can find what is the mutation that drives this disease.
+
+210
+00:14:59,920 --> 00:15:04,920
+And there's a chance you might have a drug specifically for that mutation.
+
+211
+00:15:04,920 --> 00:15:09,320
+For some patients that benefit directly from this, that's a major breakthrough.
+
+212
+00:15:09,320 --> 00:15:14,520
+Right suddenly you don't get, you know, the standard therapy, but you get something that
+
+213
+00:15:14,520 --> 00:15:18,120
+is essentially tailor-made for your disease.
+
+214
+00:15:18,120 --> 00:15:25,320
+I think that's where we are now, and probably with new drugs and we will go further.
+
+215
+00:15:25,320 --> 00:15:26,320
+Right?
+
+216
+00:15:26,320 --> 00:15:29,600
+So I think there is a real breakthrough here that now we can sequence a whole tumor.
+
+217
+00:15:29,600 --> 00:15:31,560
+Now previously, how did you diagnose a tumor?
+
+218
+00:15:31,560 --> 00:15:35,680
+You look at it under a microscope and you say, well, this kind of looks like, you know,
+
+219
+00:15:35,680 --> 00:15:41,440
+figure 7B in the textbook, and therefore it has to be that tumor, and we usually treat
+
+220
+00:15:41,440 --> 00:15:44,240
+them with drug B, and that kind of works.
+
+221
+00:15:44,240 --> 00:15:48,640
+And now you have the whole genome, and you can find specific sensitive.
+
+222
+00:15:48,640 --> 00:15:52,680
+So on the diagnostic side, I think there's like a real breakthrough.
+
+223
+00:15:52,680 --> 00:15:57,440
+That's just sequencing, analyzing, being able to do this, which maybe 20 years ago was
+
+224
+00:15:57,440 --> 00:15:59,920
+like flying to the moon, it was impossible.
+
+225
+00:15:59,920 --> 00:16:01,280
+You couldn't do it.
+
+226
+00:16:01,280 --> 00:16:03,160
+You would count individual nucleotides.
+
+227
+00:16:03,160 --> 00:16:05,120
+Now you sequence everything.
+
+228
+00:16:05,120 --> 00:16:06,560
+So that's a major break.
+
+229
+00:16:06,560 --> 00:16:14,880
+And I think for us as a research group, the next major advances that we can use these
+
+230
+00:16:14,880 --> 00:16:22,320
+genetic tools like CRISPR, like gene editing, and RNA, RNA interference, and so on, as research
+
+231
+00:16:22,320 --> 00:16:30,720
+tools to ask in a leukemia or in a cancer, what would happen if we take away any of the
+
+232
+00:16:30,720 --> 00:16:33,040
+genes in this cancer?
+
+233
+00:16:33,040 --> 00:16:36,480
+Which ones can't they tolerate to lose?
+
+234
+00:16:36,480 --> 00:16:39,880
+What are they really sensitive to?
+
+235
+00:16:39,880 --> 00:16:43,360
+And what are these things maybe already?
+
+236
+00:16:43,360 --> 00:16:47,040
+Something that we can target with a drug that we have today?
+
+237
+00:16:47,040 --> 00:16:52,200
+Or maybe tell the pharmaceutical company and say, look, we keep finding this gene and we
+
+238
+00:16:52,200 --> 00:16:57,840
+think that these liver cancers, they really need this gene.
+
+239
+00:16:57,840 --> 00:16:59,320
+Can you help us make a drug?
+
+240
+00:16:59,320 --> 00:17:06,800
+And I think that's sort of the next research level that these technologies are practically
+
+241
+00:17:06,800 --> 00:17:09,360
+immediately useful for.
+
+242
+00:17:09,360 --> 00:17:15,760
+I think those for me are the biggest sort of advances that we have there.
+
+243
+00:17:15,760 --> 00:17:21,040
+Now along those lines, I'm stepping outside my field of expertise here a little bit because
+
+244
+00:17:21,040 --> 00:17:27,360
+I do therapeutics, but one of the things that's most interesting to me is using this idea
+
+245
+00:17:27,360 --> 00:17:33,080
+of genomics and looking for mutations early on in a patient sample because I know that
+
+246
+00:17:33,080 --> 00:17:39,520
+at least my understanding is that in the clinic, especially with cancer, one of the
+
+247
+00:17:39,520 --> 00:17:44,320
+biggest limitations is being able to find out that you have the disease early.
+
+248
+00:17:44,320 --> 00:17:49,160
+And if you catch it early, then you have a much better shot of surviving or being treated
+
+249
+00:17:49,160 --> 00:17:50,760
+successfully.
+
+250
+00:17:50,760 --> 00:17:56,880
+So is it true or is it realistic that, again, not to put everybody on the spot, but in a
+
+251
+00:17:56,880 --> 00:18:01,320
+reasonable amount of time that we'll have technologies available where you can, when
+
+252
+00:18:01,320 --> 00:18:04,880
+you get your annual checkup, you can take a blood sample and say, oh, there's something
+
+253
+00:18:04,880 --> 00:18:05,880
+going on here.
+
+254
+00:18:05,880 --> 00:18:12,280
+This looks kind of wonky and we need to take in to give a CT scan and look for early signs
+
+255
+00:18:12,280 --> 00:18:13,280
+that way using genetics.
+
+256
+00:18:13,280 --> 00:18:18,720
+Yeah, so that's a difficult, I have an echo, right?
+
+257
+00:18:18,720 --> 00:18:20,920
+I think that's very attractive, right?
+
+258
+00:18:20,920 --> 00:18:26,720
+Being able to pull blood and say, well, we're going to find a specific marker or a specific
+
+259
+00:18:26,720 --> 00:18:34,520
+cell that has a specific mutation and therefore we know that you have pancreatic cancer.
+
+260
+00:18:34,520 --> 00:18:40,200
+That has a lot of difficulties to this and they're not just technical.
+
+261
+00:18:40,200 --> 00:18:41,800
+So technically it's all possible.
+
+262
+00:18:41,800 --> 00:18:48,280
+You can pull blood and you can sequence it and you can analyze and you can find things.
+
+263
+00:18:48,280 --> 00:18:50,880
+But I think they're practical issues here.
+
+264
+00:18:50,880 --> 00:19:00,520
+So let's say you find a mutation in your blood, a translocation, T1480 and it occurs in lymphomas.
+
+265
+00:19:00,520 --> 00:19:05,560
+Well it turns out 50% of healthy people, you can find it.
+
+266
+00:19:05,560 --> 00:19:06,920
+So what are you going to do with that?
+
+267
+00:19:06,920 --> 00:19:12,040
+I mean, take 50% of the population and roll them through a CAT scan and nobody's going
+
+268
+00:19:12,040 --> 00:19:13,040
+to pay for that.
+
+269
+00:19:13,040 --> 00:19:15,360
+It's impossible, right?
+
+270
+00:19:15,360 --> 00:19:21,320
+So there isn't the level of specificity to it yet that you can say, well, we really
+
+271
+00:19:21,320 --> 00:19:24,440
+have the tools to do it.
+
+272
+00:19:24,440 --> 00:19:29,840
+I think many of these diagnostic tests, they're very useful in following up.
+
+273
+00:19:29,840 --> 00:19:34,440
+So you have diagnosed someone with a cancer and you treat it and you know this marker
+
+274
+00:19:34,440 --> 00:19:39,960
+was at a certain level and you get treated and it disappears.
+
+275
+00:19:39,960 --> 00:19:42,320
+You know, you did the right thing.
+
+276
+00:19:42,320 --> 00:19:46,480
+If it comes back, you know, where we need to have another look.
+
+277
+00:19:46,480 --> 00:19:52,440
+So there are issues about specificity and about the cost associated.
+
+278
+00:19:52,440 --> 00:19:57,240
+All this was discussed and it's not just even genomics or genetic tools.
+
+279
+00:19:57,240 --> 00:19:59,920
+All this was discussed with PSA recently, right?
+
+280
+00:19:59,920 --> 00:20:05,040
+Which I mean, this is a marker that's been around for, I don't know, 30, 40, 50 years.
+
+281
+00:20:05,040 --> 00:20:10,400
+It's a protein marker you can measure in the blood and it indicates whether your prostate
+
+282
+00:20:10,400 --> 00:20:12,360
+is happy or not happy basically.
+
+283
+00:20:12,360 --> 00:20:16,200
+It also goes very high in prostate cancer.
+
+284
+00:20:16,200 --> 00:20:20,840
+But if you just screen the population for high levels of PSA, you're going to end up
+
+285
+00:20:20,840 --> 00:20:25,680
+doing a lot of biopsies and not everyone likes to have a needle stuck in their prostate
+
+286
+00:20:25,680 --> 00:20:28,000
+and it does cost a lot of money.
+
+287
+00:20:28,000 --> 00:20:34,120
+So there are practical problems of following through with these tests.
+
+288
+00:20:34,120 --> 00:20:36,040
+So yeah, I'll go ahead.
+
+289
+00:20:36,040 --> 00:20:42,120
+I'm also stepping out of my comfort area, but one of my colleagues is a geneticist and
+
+290
+00:20:42,120 --> 00:20:47,560
+he said that what he's now working on, he said, he's at Hudson Alpha in Alabama, is
+
+291
+00:20:47,560 --> 00:20:51,400
+that so what they're doing to study breast cancer, for example, some of the psychiatrists.
+
+292
+00:20:51,400 --> 00:20:53,080
+So this is obviously outside of it.
+
+293
+00:20:53,080 --> 00:20:58,760
+Is that they're actually isolating all the immune cells in the blood and they're sequencing
+
+294
+00:20:58,760 --> 00:21:03,960
+them because obviously your immune profile by genetics is different because you're generating
+
+295
+00:21:03,960 --> 00:21:04,960
+different antibodies.
+
+296
+00:21:04,960 --> 00:21:08,040
+And they'll notice that they get a completely different profile.
+
+297
+00:21:08,040 --> 00:21:10,400
+It's not a single gene.
+
+298
+00:21:10,400 --> 00:21:13,800
+It's just a different genetic profile biometratically.
+
+299
+00:21:13,800 --> 00:21:20,280
+And then after treatment, your immune system looks different on this genetic profile.
+
+300
+00:21:20,280 --> 00:21:23,280
+Was he just making this up or have you heard of this?
+
+301
+00:21:23,280 --> 00:21:24,720
+I was just having a bit of it.
+
+302
+00:21:24,720 --> 00:21:26,520
+I had a similar idea a while ago.
+
+303
+00:21:26,520 --> 00:21:31,440
+I thought, you know, this would be fun, fun thing to do with people who are exposed to
+
+304
+00:21:31,440 --> 00:21:32,880
+a lot of pathogens.
+
+305
+00:21:32,880 --> 00:21:34,880
+So you know, bacteria or something.
+
+306
+00:21:34,880 --> 00:21:38,560
+So you just take everyone who takes the subway in New York and compare them to people who
+
+307
+00:21:38,560 --> 00:21:39,560
+don't take the subway.
+
+308
+00:21:39,560 --> 00:21:46,600
+You're going to get a completely different representation of the immune system, right?
+
+309
+00:21:46,600 --> 00:21:49,160
+Again, I don't know how specific this is.
+
+310
+00:21:49,160 --> 00:21:55,840
+I'm not familiar with the specific research he's doing.
+
+311
+00:21:55,840 --> 00:21:56,840
+Maybe.
+
+312
+00:21:56,840 --> 00:22:00,280
+Your comment was what I was going to actually, it was a good comment because that's what
+
+313
+00:22:00,280 --> 00:22:01,880
+I was going to say over here was.
+
+314
+00:22:01,880 --> 00:22:11,640
+Again, I'm an enthusiastic skeptic or a skeptical enthusiastic.
+
+315
+00:22:11,640 --> 00:22:15,920
+Biomarkers are one whole category of skepticism in some ways.
+
+316
+00:22:15,920 --> 00:22:22,160
+And if we just look at genetics and look at a genetic biomarker and take out the environment
+
+317
+00:22:22,160 --> 00:22:27,240
+and the exposures of people and the epigenetic issues, we may not have the whole story.
+
+318
+00:22:27,240 --> 00:22:32,160
+So there's this much more complex picture that we don't hear about in the media and that
+
+319
+00:22:32,160 --> 00:22:36,040
+we don't even hear about in cancer genomics, which is absolutely right, it's had phenomenal
+
+320
+00:22:36,040 --> 00:22:42,280
+improvements and spectacular advances in terms of being able to sequence a cancer genome.
+
+321
+00:22:42,280 --> 00:22:46,080
+On the other hand, you have a vast amount of information that physicians and geneticists
+
+322
+00:22:46,080 --> 00:22:47,080
+know nothing about.
+
+323
+00:22:47,080 --> 00:22:49,480
+And I really understand how they interact with each other.
+
+324
+00:22:49,480 --> 00:22:53,480
+They don't understand how environmental factors interact.
+
+325
+00:22:53,480 --> 00:23:03,000
+And even within categories of ancestry, age, when the disease was actually caught in that
+
+326
+00:23:03,000 --> 00:23:08,080
+sense, there are a lot of factors that don't necessarily mean there's going to be a drug
+
+327
+00:23:08,080 --> 00:23:14,400
+for that specific patient at that specific time or that editing some piece of the genome
+
+328
+00:23:14,400 --> 00:23:18,280
+is actually going to help and may help that patient but not another one who you would
+
+329
+00:23:18,280 --> 00:23:22,480
+think looks just like that patient in terms of biophysical characteristics.
+
+330
+00:23:22,480 --> 00:23:28,120
+So again, it's a lot more complex and my skepticism comes from the precision medicine,
+
+331
+00:23:28,120 --> 00:23:33,760
+personalized medicine hype in some sense that we're just going to be able to find just
+
+332
+00:23:33,760 --> 00:23:37,720
+one person, you don't want personalize, you want something that works for everyone.
+
+333
+00:23:37,720 --> 00:23:38,720
+Exactly.
+
+334
+00:23:38,720 --> 00:23:42,320
+Who wants personalize, who wants something that works, right?
+
+335
+00:23:42,320 --> 00:23:44,840
+That was the first cancer war, that it's going to work for everybody.
+
+336
+00:23:44,840 --> 00:23:48,880
+We're going to find the drug and we're going to use powerful chemo therapeutic drugs for
+
+337
+00:23:48,880 --> 00:23:52,880
+lots of people and we're going to find the right combination and it's going to work for
+
+338
+00:23:52,880 --> 00:23:53,880
+everybody.
+
+339
+00:23:53,880 --> 00:23:58,320
+Well, the other thing I like to point out is when we think about precision medicine or
+
+340
+00:23:58,320 --> 00:24:03,760
+we think about personalized medicine, I like to sort of split diseases when I think about
+
+341
+00:24:03,760 --> 00:24:08,160
+them into basically cancer and everything else.
+
+342
+00:24:08,160 --> 00:24:13,440
+Because when I look at, you know, when I try to design something that will deliver a drug
+
+343
+00:24:13,440 --> 00:24:24,960
+to a tumor, I get a little nervous because the tumor thinks and will fight back against
+
+344
+00:24:24,960 --> 00:24:25,960
+whatever you're delivering.
+
+345
+00:24:25,960 --> 00:24:30,760
+So you'll deliver a drug and if you kill, if you have like the best drug delivering the
+
+346
+00:24:30,760 --> 00:24:37,040
+world and you have a tumor that for easy numbers has 100 cells in it and you get 99 of those
+
+347
+00:24:37,040 --> 00:24:42,440
+cells, that one little surviving cell is now smarter and won't respond to that therapy
+
+348
+00:24:42,440 --> 00:24:44,720
+later on.
+
+349
+00:24:44,720 --> 00:24:50,200
+I don't know many other diseases that evolve so rapidly in that way.
+
+350
+00:24:50,200 --> 00:24:55,120
+So a lot of times when we talk about personalized medicine, we automatically sort of default
+
+351
+00:24:55,120 --> 00:25:03,960
+to cancer and I don't, again, this is outside of my expertise but I'm a little less skeptical
+
+352
+00:25:03,960 --> 00:25:08,800
+that precision medicine will work for diseases outside of the cancer field.
+
+353
+00:25:08,800 --> 00:25:13,400
+Maybe we'll get lucky and we'll find something for aethro or we'll get something for some
+
+354
+00:25:13,400 --> 00:25:16,640
+other ischemic heart disease or something like this, something that isn't, you know,
+
+355
+00:25:16,640 --> 00:25:20,040
+so aggressively fighting against you.
+
+356
+00:25:20,040 --> 00:25:23,280
+So I think that's important to note is that, and I actually don't know if that's the case
+
+357
+00:25:23,280 --> 00:25:27,920
+in neuropsychiatric disease or not because that's complicated for a different reason,
+
+358
+00:25:27,920 --> 00:25:28,920
+is that what you're just saying?
+
+359
+00:25:28,920 --> 00:25:30,920
+Yes, it's very complicated.
+
+360
+00:25:30,920 --> 00:25:33,280
+Well first of all, the brain's very complicated.
+
+361
+00:25:33,280 --> 00:25:39,080
+You know, but I would have to say what, just in my sort of like last five years of research,
+
+362
+00:25:39,080 --> 00:25:44,680
+is that what I'd never understood particularly well even though I was trained by Dr. Narsesian
+
+363
+00:25:44,680 --> 00:25:50,840
+and others in psychiatry, is that almost every psychiatric disorder emerges between the transition
+
+364
+00:25:50,840 --> 00:25:53,600
+from childhood to adolescence to late adolescence.
+
+365
+00:25:53,600 --> 00:25:58,320
+So the entire disease progresses and then you live for the rest of your life with this.
+
+366
+00:25:58,320 --> 00:26:01,880
+So when you actually start treating them, you're actually seeing people that have had
+
+367
+00:26:01,880 --> 00:26:03,720
+this disease for a while.
+
+368
+00:26:03,720 --> 00:26:10,880
+And the idea is that we might have had to treat them at that moment when it first started
+
+369
+00:26:10,880 --> 00:26:18,080
+because the, and it, and what we're now realizing is that the adolescent or child brain is very
+
+370
+00:26:18,080 --> 00:26:19,080
+different.
+
+371
+00:26:19,080 --> 00:26:26,560
+So whatever drugs that we now have in our current armamentarian is not really set for
+
+372
+00:26:26,560 --> 00:26:29,520
+this therapies we have or set for what we are treating.
+
+373
+00:26:29,520 --> 00:26:31,880
+So it's actually quite a moving target.
+
+374
+00:26:31,880 --> 00:26:38,160
+You have a disease that began in essentially an immature developing brain and you are treating
+
+375
+00:26:38,160 --> 00:26:42,280
+it based on a completely different roadmap later on.
+
+376
+00:26:42,280 --> 00:26:49,480
+So it's very hard to design particular, both behavioral or molecular therapies based on
+
+377
+00:26:49,480 --> 00:26:50,480
+that.
+
+378
+00:26:50,480 --> 00:26:54,200
+Ultimately you would want to treat that when your symptoms first emerge but it's very
+
+379
+00:26:54,200 --> 00:27:00,440
+difficult to, it's very difficult to do clinical trials in children and adolescents which is
+
+380
+00:27:00,440 --> 00:27:04,600
+probably when what we'll ultimately find, if I had to make a prediction 20 years from
+
+381
+00:27:04,600 --> 00:27:07,400
+now we realize that we'll have to, that's when you treat it.
+
+382
+00:27:07,400 --> 00:27:14,520
+Because ultimately 10 year, if you go to disease like chronic disease go on for 10 years,
+
+383
+00:27:14,520 --> 00:27:15,960
+it's just not going to be hard.
+
+384
+00:27:15,960 --> 00:27:20,640
+I think that's sort of the lesson we're learning in the field of Alzheimer's disease that actually
+
+385
+00:27:20,640 --> 00:27:25,800
+you need to actually treat them when they first have their cognitive impairments emerging
+
+386
+00:27:25,800 --> 00:27:31,240
+and the reason why almost every clinical trial has failed is because they're treating them
+
+387
+00:27:31,240 --> 00:27:33,920
+at age of 60 and above.
+
+388
+00:27:33,920 --> 00:27:36,080
+Let me ask in your field.
+
+389
+00:27:36,080 --> 00:27:40,160
+It's a kind of genetic research.
+
+390
+00:27:40,160 --> 00:27:45,360
+Come up with new targets, new ways of treating.
+
+391
+00:27:45,360 --> 00:27:51,960
+I mean for cancers I think being put a finger on a few things that we have new drugs and
+
+392
+00:27:51,960 --> 00:27:56,280
+we know they target certain mutations and that's how they work.
+
+393
+00:27:56,280 --> 00:28:00,040
+And psychiatry and neurological diseases has there been...
+
+394
+00:28:00,040 --> 00:28:05,240
+Well first of all I would say that there's been a great revolution in studying the fact
+
+395
+00:28:05,240 --> 00:28:12,200
+that both autism and schizophrenia, there's been massive advances in genome sequencing
+
+396
+00:28:12,200 --> 00:28:19,560
+and for example the study of the MHC gene was based on the capacity of large consortiums
+
+397
+00:28:19,560 --> 00:28:25,560
+to get essentially over 100,000 schizophrenic patients entire genome sequence and there you
+
+398
+00:28:25,560 --> 00:28:28,280
+can then get genome wide significant hits.
+
+399
+00:28:28,280 --> 00:28:34,720
+The problem that they ultimately found was that it explains so little of the vary.
+
+400
+00:28:34,720 --> 00:28:37,960
+Each of these genes don't explain much.
+
+401
+00:28:37,960 --> 00:28:45,040
+What's most befuddling for autism is that after 10 years what they realized is that almost
+
+402
+00:28:45,040 --> 00:28:49,160
+every mutation in autism is essentially rare.
+
+403
+00:28:49,160 --> 00:28:53,680
+And what they said in the last five years what they realized is the word rare actually
+
+404
+00:28:53,680 --> 00:28:55,000
+means rare.
+
+405
+00:28:55,000 --> 00:29:01,320
+So that ultimately there's not going to be a common biomarker or diagnostic tool and
+
+406
+00:29:01,320 --> 00:29:07,000
+every autism spectrum disorder patient is going to probably be unique because it's sort of
+
+407
+00:29:07,000 --> 00:29:14,000
+these spontaneous deletions and mutations and in that sense that for that one patient
+
+408
+00:29:14,000 --> 00:29:20,720
+if they found one interesting gene that will help that one patient but that's about it.
+
+409
+00:29:20,720 --> 00:29:28,920
+The hope is that in the future that there will be common mutation variants that have
+
+410
+00:29:28,920 --> 00:29:33,400
+been found that can be used because the genome is filled with people that have these genetic
+
+411
+00:29:33,400 --> 00:29:39,640
+variants in these special plasticity genes that my lab actually studies and the idea
+
+412
+00:29:39,640 --> 00:29:42,560
+is that we could use this to at least guide something.
+
+413
+00:29:42,560 --> 00:29:48,280
+It's still very early days of whether or not this will happen but that's the idea that
+
+414
+00:29:48,280 --> 00:29:53,680
+there would be some common genetic variation that could be used to at least but the bar
+
+415
+00:29:53,680 --> 00:29:54,680
+is so low inside.
+
+416
+00:29:54,680 --> 00:29:59,880
+But you think of these are mutations that you think of as inherited so that it's in
+
+417
+00:29:59,880 --> 00:30:02,200
+every cell in your body basically.
+
+418
+00:30:02,200 --> 00:30:07,680
+So I think it's very different from the idea we think about cancers arising where you know
+
+419
+00:30:07,680 --> 00:30:14,760
+most cancer genes are normal in every other cell but we think really there's mutations
+
+420
+00:30:14,760 --> 00:30:22,280
+that occur in one cell somewhere that triggers a cascade of further changes that ultimately
+
+421
+00:30:22,280 --> 00:30:24,400
+lead to the tumor.
+
+422
+00:30:24,400 --> 00:30:31,680
+But I think in your field you think of the genetics as a predisposing thing that will
+
+423
+00:30:31,680 --> 00:30:39,160
+make you more sensitive to environment, to stresses, to early life's traumas or something.
+
+424
+00:30:39,160 --> 00:30:41,360
+Right, whatever that actually is.
+
+425
+00:30:41,360 --> 00:30:46,000
+So you probably don't think of it then as much as a genetic disease.
+
+426
+00:30:46,000 --> 00:30:48,360
+I mean we think of cancer as a genetic disease.
+
+427
+00:30:48,360 --> 00:30:55,840
+Basically there is a cell that gets irradiated, something goes wrong and then the things happen.
+
+428
+00:30:55,840 --> 00:30:59,560
+But to what extent do you think psychiatric diseases are genetic?
+
+429
+00:30:59,560 --> 00:31:06,400
+They have to be genetic because this is just an example because my lab also studies obsessive
+
+430
+00:31:06,400 --> 00:31:07,840
+compulsive disorder.
+
+431
+00:31:07,840 --> 00:31:14,120
+If you have an identical twin there's a 65% chance that identical twin will have obsessive
+
+432
+00:31:14,120 --> 00:31:15,400
+compulsive disorder.
+
+433
+00:31:15,400 --> 00:31:20,320
+So something is definitely being transmitted and the same with schizophrenia is almost
+
+434
+00:31:20,320 --> 00:31:22,120
+that hot or bipolar disorder.
+
+435
+00:31:22,120 --> 00:31:27,120
+So these are incredibly heritable disorders and what the field has been dealing with is
+
+436
+00:31:27,120 --> 00:31:30,200
+what we call the missing heritability.
+
+437
+00:31:30,200 --> 00:31:34,240
+There's something massive, some large elephant we're missing.
+
+438
+00:31:34,240 --> 00:31:35,240
+And you can imagine.
+
+439
+00:31:35,240 --> 00:31:36,240
+What do you mean by missing?
+
+440
+00:31:36,240 --> 00:31:37,240
+What is missing here?
+
+441
+00:31:37,240 --> 00:31:41,960
+Because not all the genome wide association studies have not found a gene that can be
+
+442
+00:31:41,960 --> 00:31:45,480
+transmitted that is in identical twins even.
+
+443
+00:31:45,480 --> 00:31:47,240
+People are very smart now.
+
+444
+00:31:47,240 --> 00:31:52,800
+They're doing twin studies and family based studies with large pedigrees to try to find
+
+445
+00:31:52,800 --> 00:31:56,520
+even sort of rare genetic and they've not been able to find.
+
+446
+00:31:56,520 --> 00:31:58,480
+There have been so many false starts.
+
+447
+00:31:58,480 --> 00:32:01,200
+That's what I'm being very...
+
+448
+00:32:01,200 --> 00:32:03,000
+They thought they found some before.
+
+449
+00:32:03,000 --> 00:32:07,560
+They named them schizophrenia genes and now they're sort of discredited.
+
+450
+00:32:07,560 --> 00:32:10,840
+So how does the field reconcile?
+
+451
+00:32:10,840 --> 00:32:11,840
+Because that's...
+
+452
+00:32:11,840 --> 00:32:13,200
+How does the field reconcile that?
+
+453
+00:32:13,200 --> 00:32:16,560
+Because you might say, okay, well then we're just going to sequence more people to which
+
+454
+00:32:16,560 --> 00:32:18,080
+the kind of argument could be made.
+
+455
+00:32:18,080 --> 00:32:21,920
+Well, if it's really that ubiquitous then you shouldn't have to sequence very many people
+
+456
+00:32:21,920 --> 00:32:22,920
+at all.
+
+457
+00:32:22,920 --> 00:32:23,920
+You should be able to pick it up.
+
+458
+00:32:23,920 --> 00:32:26,520
+Well, it's going to be something new.
+
+459
+00:32:26,520 --> 00:32:28,520
+It's the three dimensional structure of the genome which we don't know how to characterize
+
+460
+00:32:28,520 --> 00:32:33,560
+or some other sort of currently black box mechanism.
+
+461
+00:32:33,560 --> 00:32:34,800
+No, I think the...
+
+462
+00:32:34,800 --> 00:32:41,080
+At least in the neuropsychiaty field we've come to terms with the fact that we actually
+
+463
+00:32:41,080 --> 00:32:43,520
+don't know how to diagnose our patients very well.
+
+464
+00:32:43,520 --> 00:32:51,240
+We use a criteria called the Diagnostic Statistical Manual which is essentially a syndromic manual.
+
+465
+00:32:51,240 --> 00:32:52,960
+There's no quantitative biomarkers.
+
+466
+00:32:52,960 --> 00:32:59,280
+You have a histology test or you have blood pressure even to measure hypertension.
+
+467
+00:32:59,280 --> 00:33:04,000
+I was at a wonderful grand rounds at Cornell the other day where Kathleen Merrick-Hang is
+
+468
+00:33:04,000 --> 00:33:06,840
+a very talented human geneticist.
+
+469
+00:33:06,840 --> 00:33:07,840
+I had done some...
+
+470
+00:33:07,840 --> 00:33:09,280
+A very fascinating study.
+
+471
+00:33:09,280 --> 00:33:15,760
+She took bipolar patients and gave them essentially fit bits and smart watches to walk around.
+
+472
+00:33:15,760 --> 00:33:22,120
+What she noticed that what every bipolar patient had was not what we think of as a DSM-5,
+
+473
+00:33:22,120 --> 00:33:30,200
+racing thoughts, whatever, mania or hypomania, she noticed that she could predict when they
+
+474
+00:33:30,200 --> 00:33:36,400
+would become functionally ill is by the fact that they traveled more within the city or
+
+475
+00:33:36,400 --> 00:33:37,400
+within their town.
+
+476
+00:33:37,400 --> 00:33:41,480
+So it was just physical activity that there are certain aspects of the way we diagnose
+
+477
+00:33:41,480 --> 00:33:44,560
+patients that don't actually capture the disorder.
+
+478
+00:33:44,560 --> 00:33:50,360
+As an example, another example, if someone is given a diagnosis of major depression, you
+
+479
+00:33:50,360 --> 00:33:54,560
+can either eat too much, eat too little, sleep too much, sleep too little and actually get
+
+480
+00:33:54,560 --> 00:33:55,840
+the same disorder.
+
+481
+00:33:55,840 --> 00:34:04,480
+So essentially you're studying the equivalent of 1940s cough or some bad x-ray, long x-ray.
+
+482
+00:34:04,480 --> 00:34:05,480
+You're not...
+
+483
+00:34:05,480 --> 00:34:10,080
+So it's not surprising that all the genome-wide association studies have failed.
+
+484
+00:34:10,080 --> 00:34:15,080
+I've always advocated that there are certain things in psychiatry which are incredibly
+
+485
+00:34:15,080 --> 00:34:16,840
+robust.
+
+486
+00:34:16,840 --> 00:34:20,840
+If you have a panic attack, no one will say there's no...
+
+487
+00:34:20,840 --> 00:34:21,840
+It looks...
+
+488
+00:34:21,840 --> 00:34:26,120
+No one will disagree that that was a panic attack or if you wash your hands ten times
+
+489
+00:34:26,120 --> 00:34:30,920
+a day, no one will disagree that that is a repetitive behavior and if your hands are
+
+490
+00:34:30,920 --> 00:34:33,600
+chapped, then you know you have a disorder.
+
+491
+00:34:33,600 --> 00:34:39,160
+So you need to study what we call phenotypic extremes or if you have a disorder of type
+
+492
+00:34:39,160 --> 00:34:44,120
+of depression where you start hallucinating, you're now studying a very specific type of
+
+493
+00:34:44,120 --> 00:34:48,720
+depression, a subtype that is extreme in some sense.
+
+494
+00:34:48,720 --> 00:34:55,640
+And I think that's where the field is moving, that we have failed and this was a sort of
+
+495
+00:34:55,640 --> 00:35:00,920
+an argument between the head of the APA and the head of NIMH a couple of years ago that
+
+496
+00:35:00,920 --> 00:35:04,680
+was played out in the New York Times where they disagreed about the...
+
+497
+00:35:04,680 --> 00:35:11,680
+How to diagnose patients and to my senses that the fact that there is even a discussion
+
+498
+00:35:11,680 --> 00:35:17,400
+about how we even diagnose our patients tells us that we're still at a very early stage
+
+499
+00:35:17,400 --> 00:35:19,160
+for this.
+
+500
+00:35:19,160 --> 00:35:24,720
+But I should not be so negative about psychiatry just because...
+
+501
+00:35:24,720 --> 00:35:26,920
+I know technology is going to help you there.
+
+502
+00:35:26,920 --> 00:35:33,160
+I mean it's a new imaging thing is going to help you out of a lot of other medical diagnostics
+
+503
+00:35:33,160 --> 00:35:37,760
+are based on imaging or measuring activities in your EEGs.
+
+504
+00:35:37,760 --> 00:35:42,120
+But are those things providing criteria at all or are they?
+
+505
+00:35:42,120 --> 00:35:45,840
+I would even step back further and just say that the brain is complex.
+
+506
+00:35:45,840 --> 00:35:51,600
+The model of genetic disorder in the brain is Huntington's disease.
+
+507
+00:35:51,600 --> 00:35:53,240
+It's autosomal dominant.
+
+508
+00:35:53,240 --> 00:35:57,800
+You have one copy, you have the disorder and the genetics is just beautiful.
+
+509
+00:35:57,800 --> 00:36:04,400
+You have 70 repeats, you get different gradations of this phenotype and you now have a genetic
+
+510
+00:36:04,400 --> 00:36:11,320
+test you have a great MR or whatever cat scanning to basically show you that the brain is shrink...
+
+511
+00:36:11,320 --> 00:36:17,120
+certain areas of the brain are shrinking and they've known this since the 1980s.
+
+512
+00:36:17,120 --> 00:36:23,480
+And to this day it is an incurable disorder and the reason only reason why it's decreasing
+
+513
+00:36:23,480 --> 00:36:29,320
+in prevalence is because the genetic testing will allow people to decide that if you have
+
+514
+00:36:29,320 --> 00:36:31,680
+the gene you will not have children or something.
+
+515
+00:36:31,680 --> 00:36:39,800
+So this should have been like the lowest hanging fruit in terms of neurological psychiatric
+
+516
+00:36:39,800 --> 00:36:46,720
+disorders and they've been trying to put in growth factors into the brain or somehow
+
+517
+00:36:46,720 --> 00:36:51,480
+because they know exactly what circuit they know that the striatum is degenerating.
+
+518
+00:36:51,480 --> 00:37:00,720
+So even if you can't repair Huntington the protein you can at least pump it full of whatever
+
+519
+00:37:00,720 --> 00:37:04,760
+growth factors and that has not actually worked at this point.
+
+520
+00:37:04,760 --> 00:37:08,480
+Is that where this CRISPR thing should be useful?
+
+521
+00:37:08,480 --> 00:37:12,040
+So actually I think this proves your point beautifully.
+
+522
+00:37:12,040 --> 00:37:20,840
+Earlier you said you're very skeptical and that we should tone down at times our exuberance
+
+523
+00:37:20,840 --> 00:37:26,640
+for these new technologies and I think this is a great demonstration that you're correct.
+
+524
+00:37:26,640 --> 00:37:32,600
+We've known as you said the genetics on Huntington's have been clear for a very long time since
+
+525
+00:37:32,600 --> 00:37:36,320
+the original linkage studies and some of Dave Hausmann's work and worked by some really
+
+526
+00:37:36,320 --> 00:37:40,400
+other great scientists.
+
+527
+00:37:40,400 --> 00:37:45,720
+It's pretty clear that in theory if you could reduce the CAG repeats in that disease that
+
+528
+00:37:45,720 --> 00:37:55,800
+you could correct the phenotype and theory and despite that fact my field, this drug
+
+529
+00:37:55,800 --> 00:38:04,920
+delivery therapeutics field has not successfully been able to deliver a therapeutic that can
+
+530
+00:38:04,920 --> 00:38:10,560
+do this very simple genetic task despite the fact that we've known exactly what we needed
+
+531
+00:38:10,560 --> 00:38:12,440
+to do for 30 years.
+
+532
+00:38:12,440 --> 00:38:18,160
+And also to some extent proves your point when you say the brain is complex.
+
+533
+00:38:18,160 --> 00:38:22,040
+When I look at the brain from a drug delivery perspective I get extremely nervous because
+
+534
+00:38:22,040 --> 00:38:29,880
+of that fact it's just a big huge complicated organ and it's hard to get stuff to go to
+
+535
+00:38:29,880 --> 00:38:30,880
+the brain.
+
+536
+00:38:30,880 --> 00:38:32,440
+Which is a nice place in the brain.
+
+537
+00:38:32,440 --> 00:38:38,680
+Yeah I would even argue it's hard to get, I don't want to speak too broadly or too like
+
+538
+00:38:38,680 --> 00:38:43,440
+an over colloquial terminology here but I think about this very simply which is that there's
+
+539
+00:38:43,440 --> 00:38:48,600
+this thing that we're all aware of the blood brain barrier which is basically the blood
+
+540
+00:38:48,600 --> 00:38:53,240
+vessels in the brain are very good at keeping stuff out of the brain generally speaking.
+
+541
+00:38:53,240 --> 00:38:56,640
+And so if you want to deliver a drug into the brain it's really hard to do it because
+
+542
+00:38:56,640 --> 00:39:01,080
+the body has evolved and designed itself to prevent things from getting into the brain.
+
+543
+00:39:01,080 --> 00:39:04,960
+It's quite literally that simple, it's hard to get drugs into the brain so even if we have
+
+544
+00:39:04,960 --> 00:39:08,960
+clear genetics it's hard to make an impact which again like you said.
+
+545
+00:39:08,960 --> 00:39:12,720
+Well to second that with the imaging I think the next big hype is going to be the brain
+
+546
+00:39:12,720 --> 00:39:13,720
+imaging.
+
+547
+00:39:13,720 --> 00:39:20,840
+The reality is out there you can see things that we could never see before and the absolutely.
+
+548
+00:39:20,840 --> 00:39:26,360
+But it has a, well it's not a picture that's the other myth, it's not a picture of somebody's
+
+549
+00:39:26,360 --> 00:39:30,960
+brain it's a composite of a number of statistical and computerized.
+
+550
+00:39:30,960 --> 00:39:32,720
+Is this like the, half of my eyes.
+
+551
+00:39:32,720 --> 00:39:36,480
+Oh I think it's not a picture of my brain in the sense that people think of a picture.
+
+552
+00:39:36,480 --> 00:39:40,520
+So there's already the media, I have this slide in some ways.
+
+553
+00:39:40,520 --> 00:39:45,880
+But you know I think the next kind of potential hype is going to be brain imaging and Alzheimer's
+
+554
+00:39:45,880 --> 00:39:51,960
+disease because again there's pretty good information about what's happening.
+
+555
+00:39:51,960 --> 00:39:55,720
+You can see the same thing happening in Alzheimer's patients and Parkinson's patients.
+
+556
+00:39:55,720 --> 00:40:00,600
+And yet just because one can actually show that doesn't mean there's going to be some
+
+557
+00:40:00,600 --> 00:40:02,800
+kind of targeted delivery.
+
+558
+00:40:02,800 --> 00:40:07,000
+And yet we keep seeing over and over again you know the next, I have articles that said
+
+559
+00:40:07,000 --> 00:40:11,560
+in ten years we're going to have drugs or Alzheimer's, we had those articles 15 years
+
+560
+00:40:11,560 --> 00:40:12,560
+ago for gene therapy.
+
+561
+00:40:12,560 --> 00:40:16,040
+We're going to have gene therapy for these particular disorders in ten years.
+
+562
+00:40:16,040 --> 00:40:23,400
+It's an ethical problem what you do with, do you want to diagnose early a condition that
+
+563
+00:40:23,400 --> 00:40:24,960
+you can't do anything about?
+
+564
+00:40:24,960 --> 00:40:25,960
+Correct.
+
+565
+00:40:25,960 --> 00:40:26,960
+I mean.
+
+566
+00:40:26,960 --> 00:40:30,960
+And that's the whole genetics information in terms of the bio banking and the results.
+
+567
+00:40:30,960 --> 00:40:33,960
+I mean that's what I've been doing for ten years, research results exactly.
+
+568
+00:40:33,960 --> 00:40:35,640
+That's super interesting right?
+
+569
+00:40:35,640 --> 00:40:39,840
+This is, I'm so curious to hear your voice for a second on this.
+
+570
+00:40:39,840 --> 00:40:47,040
+Yeah, we have this wave, I mean total tsunami of genetic information available and it's
+
+571
+00:40:47,040 --> 00:40:48,520
+frankly difficult to interpret.
+
+572
+00:40:48,520 --> 00:40:52,600
+Even for somebody who's, you know you have a PhD in genetics you can get spin a tube
+
+573
+00:40:52,600 --> 00:40:57,040
+and get your 23andMe profile back and it's hard to interpret your own stuff.
+
+574
+00:40:57,040 --> 00:41:02,640
+So it's going to be difficult and we're going to need scientists and people who are trained
+
+575
+00:41:02,640 --> 00:41:08,120
+specifically to take all the genetic information and talk to patients in a way that's practical
+
+576
+00:41:08,120 --> 00:41:09,120
+and I don't know how you do that.
+
+577
+00:41:09,120 --> 00:41:11,360
+I mean do you guys have any idea how to do that?
+
+578
+00:41:11,360 --> 00:41:13,000
+Well the field is moving in that direction.
+
+579
+00:41:13,000 --> 00:41:18,000
+When I started thirteen years ago at the Hastings Center I was on a project, an NIH funded
+
+580
+00:41:18,000 --> 00:41:25,400
+project on the genetics education and ethics or something to that effect was the title.
+
+581
+00:41:25,400 --> 00:41:29,920
+And we talked about these issues about, you know the human genome had just started to,
+
+582
+00:41:29,920 --> 00:41:32,560
+it had just started to produce some data.
+
+583
+00:41:32,560 --> 00:41:36,240
+So this was in the early 2000s and you know the whole issue was oh my god we have all
+
+584
+00:41:36,240 --> 00:41:38,400
+this information now and we're going to have all these breakthroughs.
+
+585
+00:41:38,400 --> 00:41:42,640
+Well then the scientists and the clinicians started saying we have a lot of information
+
+586
+00:41:42,640 --> 00:41:43,880
+that tells us nothing.
+
+587
+00:41:43,880 --> 00:41:45,880
+We just have a lot of information.
+
+588
+00:41:45,880 --> 00:41:50,520
+And even if we have information that shows something that might be close to helping us
+
+589
+00:41:50,520 --> 00:41:52,240
+on a diagnosis we have no treatments.
+
+590
+00:41:52,240 --> 00:41:57,560
+And then all the other issues about familial connections and heritability and paternity
+
+591
+00:41:57,560 --> 00:41:59,240
+issues and all this came up.
+
+592
+00:41:59,240 --> 00:42:03,760
+The field in medicine and genetics has moved, I would in at least the last five years quite
+
+593
+00:42:03,760 --> 00:42:15,760
+a bit to trying to find ways for institutions and specialty groups to at least kind of have
+
+594
+00:42:15,760 --> 00:42:20,480
+some kind of a consensus on what is the key information they want to actually look at
+
+595
+00:42:20,480 --> 00:42:22,200
+and what do you actually know.
+
+596
+00:42:22,200 --> 00:42:26,760
+And to try to have that information filtered down to the clinical level as opposed to
+
+597
+00:42:26,760 --> 00:42:28,440
+everybody just has everything.
+
+598
+00:42:28,440 --> 00:42:32,680
+So a lot of institutions I'm sure your institution I know at the Mayo Clinic I had done some
+
+599
+00:42:32,680 --> 00:42:34,040
+work there.
+
+600
+00:42:34,040 --> 00:42:37,760
+At the larger professional society level there are these groups now these consortia
+
+601
+00:42:37,760 --> 00:42:44,120
+either regionally, institutionally or across the field of trying to find out you know what
+
+602
+00:42:44,120 --> 00:42:49,880
+are the key genetic variants that we need to be focused on in terms of clinical practice.
+
+603
+00:42:49,880 --> 00:42:53,640
+Even if we can't do anything is there enough information about something that we would
+
+604
+00:42:53,640 --> 00:42:58,160
+want to at least ask patients if they want that information and then try to find some
+
+605
+00:42:58,160 --> 00:43:02,200
+way to deal with even if you can't do anything with Huntington's at least you know if they
+
+606
+00:43:02,200 --> 00:43:03,200
+want to know.
+
+607
+00:43:03,200 --> 00:43:05,640
+Then you come into the ethical issue of what if they don't want to know.
+
+608
+00:43:05,640 --> 00:43:07,280
+Does a clinician have an obligation?
+
+609
+00:43:07,280 --> 00:43:10,160
+So you've got the right to know issue and right not to know issue.
+
+610
+00:43:10,160 --> 00:43:11,160
+Yeah.
+
+611
+00:43:11,160 --> 00:43:14,080
+It reminds me of the informed consent.
+
+612
+00:43:14,080 --> 00:43:20,600
+I remember as a medical student I had to consent a teenage year for an appendectomy taking
+
+613
+00:43:20,600 --> 00:43:25,560
+the appendix out and it was just really difficult to explain to him exactly what it involved
+
+614
+00:43:25,560 --> 00:43:26,560
+and so on.
+
+615
+00:43:26,560 --> 00:43:28,280
+This is just an appendix.
+
+616
+00:43:28,280 --> 00:43:35,280
+Now you talk about risk factors that may by 2% or 5% or 17.3% or to your risk of something
+
+617
+00:43:35,280 --> 00:43:39,520
+for which you it just very hard to see how you will.
+
+618
+00:43:39,520 --> 00:43:45,840
+Well if you're educated in the field how will you reach a conclusion how you will how
+
+619
+00:43:45,840 --> 00:43:51,200
+this affects your treatment and how you then tell this to broader.
+
+620
+00:43:51,200 --> 00:43:57,480
+It's really critical to take into account how your description you know when that patient
+
+621
+00:43:57,480 --> 00:44:02,640
+receives that information it could affect their even even if medically their genetic
+
+622
+00:44:02,640 --> 00:44:07,040
+code isn't going to really change the odds that they get a given disease.
+
+623
+00:44:07,040 --> 00:44:13,520
+If you say okay you know I'm your risk for disease X has now increased by 15% right as
+
+624
+00:44:13,520 --> 00:44:14,960
+a patient I might go oh my lord.
+
+625
+00:44:14,960 --> 00:44:21,040
+This is that's scary to me you know I am at risk for disease X however the overall risk
+
+626
+00:44:21,040 --> 00:44:25,840
+of any disease is like 1 in 10,000 so now you're like 1.15 out of 10,000 statistically
+
+627
+00:44:25,840 --> 00:44:27,680
+nothing really has changed.
+
+628
+00:44:27,680 --> 00:44:28,680
+Correct.
+
+629
+00:44:28,680 --> 00:44:31,960
+Right and but that's I know that even if I got that information I would be like oh man
+
+630
+00:44:31,960 --> 00:44:34,360
+this is you know.
+
+631
+00:44:34,360 --> 00:44:38,360
+Most major diseases though even though they may be genetic components and maybe even the
+
+632
+00:44:38,360 --> 00:44:43,280
+science might get us to a point where you could be the next Nobel Prize winner for finding
+
+633
+00:44:43,280 --> 00:44:46,920
+a targeted you know pathway.
+
+634
+00:44:46,920 --> 00:44:50,480
+Most major diseases we already know if you're at risk for it.
+
+635
+00:44:50,480 --> 00:44:54,400
+You have family history, you have high blood pressure, you have certain markers in your
+
+636
+00:44:54,400 --> 00:45:00,520
+blood for diabetes and for prostate cancer, you have scans imaging from mammography,
+
+637
+00:45:00,520 --> 00:45:02,280
+CAT scans, MRIs.
+
+638
+00:45:02,280 --> 00:45:07,280
+So the genetic information may not in and of itself change much already and if you're
+
+639
+00:45:07,280 --> 00:45:12,360
+talking about trying to prevent those diseases we have tons of literature and studies showing
+
+640
+00:45:12,360 --> 00:45:18,440
+that people are very very very hard to get people to change their eating, exercise, lifestyle
+
+641
+00:45:18,440 --> 00:45:23,080
+habits even when they have the information that their dad died at 45.
+
+642
+00:45:23,080 --> 00:45:28,960
+So sometimes I wonder what you know from again from the discovery science point the discovery
+
+643
+00:45:28,960 --> 00:45:34,800
+science is critically important but from the clinical point what we already know about
+
+644
+00:45:34,800 --> 00:45:39,000
+patients what we already learn in the clinic you have a lot of information already.
+
+645
+00:45:39,000 --> 00:45:41,720
+Go into a new doctor and the first thing you do is go down the list what your family history
+
+646
+00:45:41,720 --> 00:45:44,800
+have you been in the hospital, have you had any operations, have you had a stroke, do
+
+647
+00:45:44,800 --> 00:45:48,880
+you have diabetes, do you ever get dizzy, do you ever have all these things that you
+
+648
+00:45:48,880 --> 00:45:54,360
+look at and it's not completely done but it gives you a lot of information already.
+
+649
+00:45:54,360 --> 00:46:01,800
+Correct, for example one of my colleagues is a stroke specialist and all he says is that
+
+650
+00:46:01,800 --> 00:46:06,200
+if you control your blood pressure that's probably the best thing to prevent stroke,
+
+651
+00:46:06,200 --> 00:46:11,320
+Alzheimer's disease, cognitive impairment much more so than much later on and that would
+
+652
+00:46:11,320 --> 00:46:16,840
+be probably from a public health impact that's probably much more important if you just control
+
+653
+00:46:16,840 --> 00:46:22,880
+your blood pressure your chances of all these devastating neurologic disorders that decrease
+
+654
+00:46:22,880 --> 00:46:23,880
+oxygen.
+
+655
+00:46:23,880 --> 00:46:29,520
+And it would be a lot easier if I can still eat the way I eat and get a gene chip or some
+
+656
+00:46:29,520 --> 00:46:35,040
+mechanism put into my brain to get your blood pressure checked and decrease salt intake
+
+657
+00:46:35,040 --> 00:46:37,120
+which is actually what you're supposed to do.
+
+658
+00:46:37,120 --> 00:46:41,360
+Well and the other thing I'll point out too is that so this is what it looks like right
+
+659
+00:46:41,360 --> 00:46:47,720
+now but you know things change and it could be in 20 years they play this video back and
+
+660
+00:46:47,720 --> 00:46:51,840
+everybody on the stage looks like a fool as I would actually statistically this is probably
+
+661
+00:46:51,840 --> 00:46:52,840
+a good case.
+
+662
+00:46:52,840 --> 00:46:56,680
+This is why it's always better to keep skeptical stance.
+
+663
+00:46:56,680 --> 00:46:57,680
+Yeah, that's right.
+
+664
+00:46:57,680 --> 00:47:02,760
+But you know things I mean things could change it could turn out that the precision medicine
+
+665
+00:47:02,760 --> 00:47:06,320
+didn't work out as much as we want to or it could turn out that you know we have cures
+
+666
+00:47:06,320 --> 00:47:10,040
+to three or four diseases that we didn't think were on the table because in eight years
+
+667
+00:47:10,040 --> 00:47:11,520
+I think that's actually more likely.
+
+668
+00:47:11,520 --> 00:47:12,520
+Yeah, that's right.
+
+669
+00:47:12,520 --> 00:47:16,240
+Because the focus is on a siloed science focus and yes absolutely right.
+
+670
+00:47:16,240 --> 00:47:18,840
+That's right it's just impossible to predict how these things evolve.
+
+671
+00:47:18,840 --> 00:47:20,160
+They're in the business of what discovery.
+
+672
+00:47:20,160 --> 00:47:21,160
+That's right.
+
+673
+00:47:21,160 --> 00:47:26,560
+One of the areas that was promising for the gene editing were the kind of diseases that
+
+674
+00:47:26,560 --> 00:47:32,040
+we know are inherited and we know that start early like muscular dystrophy for example.
+
+675
+00:47:32,040 --> 00:47:33,040
+More sickle salinine.
+
+676
+00:47:33,040 --> 00:47:34,040
+More sickle salinine.
+
+677
+00:47:34,040 --> 00:47:37,920
+I thought those are areas where the promise was the greatest.
+
+678
+00:47:37,920 --> 00:47:39,360
+Oh yeah that's right.
+
+679
+00:47:39,360 --> 00:47:45,080
+So there are a number of disease and I'm not an expert in this because we just work on
+
+680
+00:47:45,080 --> 00:47:46,640
+the delivery.
+
+681
+00:47:46,640 --> 00:47:51,600
+But there are a subset of biological diseases where again sort of akin to Huntington's
+
+682
+00:47:51,600 --> 00:47:56,440
+where the genetics and the biology is pretty clear.
+
+683
+00:47:56,440 --> 00:48:00,880
+As a broad statement we all know here that most diseases are very complicated biologically
+
+684
+00:48:00,880 --> 00:48:05,240
+but there are subset diseases where we know okay roughly you know this gene is messed
+
+685
+00:48:05,240 --> 00:48:08,080
+up and therefore you get the disease or that gene is messed up and therefore you get the
+
+686
+00:48:08,080 --> 00:48:09,280
+disease.
+
+687
+00:48:09,280 --> 00:48:15,680
+So for disease like that I do think there's a possibility that we'll see advances before.
+
+688
+00:48:15,680 --> 00:48:17,400
+This is definitely a safe statement to make.
+
+689
+00:48:17,400 --> 00:48:21,240
+We'll see famous lawswords.
+
+690
+00:48:21,240 --> 00:48:26,040
+I do think that we'll see advances in the simple diseases before we'll see advances
+
+691
+00:48:26,040 --> 00:48:27,920
+in the complicated diseases.
+
+692
+00:48:27,920 --> 00:48:31,320
+And I do think that's the case.
+
+693
+00:48:31,320 --> 00:48:39,400
+I was going to ask you don't these current ways of working with genes allow you to alter
+
+694
+00:48:39,400 --> 00:48:45,880
+the brain blood barrier at the brain, in other words isn't that part of the job to see how
+
+695
+00:48:45,880 --> 00:48:48,080
+you can alter that barrier.
+
+696
+00:48:48,080 --> 00:48:50,080
+So it kind of depends.
+
+697
+00:48:50,080 --> 00:48:56,240
+Alter can be a scary word in the brain and I guess the best way to describe it is there's
+
+698
+00:48:56,240 --> 00:48:59,680
+a reason why that blood barrier is there.
+
+699
+00:48:59,680 --> 00:49:05,520
+And so for instance let's say theoretically you said okay I want to deliver drugs to the
+
+700
+00:49:05,520 --> 00:49:10,160
+brain so we know that there is a gene.
+
+701
+00:49:10,160 --> 00:49:14,640
+So the blood vessels that line the brain all express this one particular gene called
+
+702
+00:49:14,640 --> 00:49:20,520
+VE kit here and the VE kit here basically takes the cells that line up the brain and
+
+703
+00:49:20,520 --> 00:49:24,600
+it makes the cells stick together so that there's a tight junction nothing can get in
+
+704
+00:49:24,600 --> 00:49:26,120
+between the cells.
+
+705
+00:49:26,120 --> 00:49:30,680
+So in theory you know you go in and inject an antibody towards VE kit here and direct
+
+706
+00:49:30,680 --> 00:49:35,360
+to SIR and A against VE kit here and knock down that protein so the cells become loosened
+
+707
+00:49:35,360 --> 00:49:39,240
+up and now you can deliver your drug and it would get out.
+
+708
+00:49:39,240 --> 00:49:44,760
+However they're going to be side effects to that and they could be pretty dramatic side
+
+709
+00:49:44,760 --> 00:49:45,760
+effects.
+
+710
+00:49:45,760 --> 00:49:56,800
+So I think manipulating the brain in order to get drugs to it is in theory a workable
+
+711
+00:49:56,800 --> 00:49:59,920
+strategy been practiced I would you know if I had to put money on the table I'd probably
+
+712
+00:49:59,920 --> 00:50:00,920
+bet against it.
+
+713
+00:50:00,920 --> 00:50:05,960
+Because you get to modify the drugs so they will go up and the other way around.
+
+714
+00:50:05,960 --> 00:50:10,800
+You can change the pharmacology of molecules so that they do go to the brain.
+
+715
+00:50:10,800 --> 00:50:11,800
+Yeah.
+
+716
+00:50:11,800 --> 00:50:18,800
+And there's a lot of utility in understanding some basic biology so you know there's a
+
+717
+00:50:18,800 --> 00:50:23,360
+there are certain they're very limited number but there are a small number of pathways where
+
+718
+00:50:23,360 --> 00:50:28,600
+you can actually these molecular pathways the cells use these pathways to get things
+
+719
+00:50:28,600 --> 00:50:32,720
+across the bloodstream into the brain because the brain does need to get stuff out of the
+
+720
+00:50:32,720 --> 00:50:37,120
+bloodstream so the body has ways to get certain things into the brain and you can hijack
+
+721
+00:50:37,120 --> 00:50:41,400
+some of these molecular pathways to get things across the brain.
+
+722
+00:50:41,400 --> 00:50:47,960
+Now the efficacy is can be limited but there are a small number of pathways where you can
+
+723
+00:50:47,960 --> 00:50:49,360
+exploit them to get things across.
+
+724
+00:50:49,360 --> 00:50:51,360
+There's a lot of things to the brain.
+
+725
+00:50:51,360 --> 00:50:55,400
+I would have to say one of the miracles of modern psychiatry or of psychiatry in the
+
+726
+00:50:55,400 --> 00:51:02,480
+20th to 20th century is that we actually were serendipitously able to find prozac and
+
+727
+00:51:02,480 --> 00:51:08,360
+halloparadol and lithium which are now sort of like everything is a mainstay of that but
+
+728
+00:51:08,360 --> 00:51:14,160
+if we and they get across very well and it's amazing because these actually change the
+
+729
+00:51:14,160 --> 00:51:20,240
+practice of psychiatry and if we did not have this we would not be in the state we are now
+
+730
+00:51:20,240 --> 00:51:25,400
+where it's so these definitely went across the board and they're actually quite effective
+
+731
+00:51:25,400 --> 00:51:31,600
+so it's not as if this is we're dealing with something that is 50 to 60% effective in most
+
+732
+00:51:31,600 --> 00:51:36,520
+people what we have the main issue that we're sort of grappling with now is what do we do
+
+733
+00:51:36,520 --> 00:51:43,080
+for the 40 to 50% of people that don't respond to the third and fourth generation of prozac
+
+734
+00:51:43,080 --> 00:51:48,560
+or the third and fourth generation of lithium at this point but it is quite miraculous that
+
+735
+00:51:48,560 --> 00:51:49,560
+we have these.
+
+736
+00:51:49,560 --> 00:51:55,640
+And it's also important to note here too that when you think about getting things across
+
+737
+00:51:55,640 --> 00:52:00,960
+or across the blood brain barrier into the brain there's a size limitation so the things
+
+738
+00:52:00,960 --> 00:52:05,560
+that get across to the things that cells can handle and sort of take across on their own
+
+739
+00:52:05,560 --> 00:52:10,680
+are typically extremely small so they might be on the order of like a chemical chemical
+
+740
+00:52:10,680 --> 00:52:16,120
+compound that might weigh 500 Dalton's or maybe a thousand Dalton's at most.
+
+741
+00:52:16,120 --> 00:52:19,360
+A lot of these biological drugs that we're talking about these sort of next generation
+
+742
+00:52:19,360 --> 00:52:25,040
+drugs if you put them inside a nanoparticle people don't know how to weigh a nanoparticle
+
+743
+00:52:25,040 --> 00:52:29,680
+but I've heard estimates on the order of 20 million to 100 million Dalton's which is certainly
+
+744
+00:52:29,680 --> 00:52:37,240
+a lot different than 500 Dalton's and so getting that delivery of these large biologics across
+
+745
+00:52:37,240 --> 00:52:41,360
+is going to be a different ball game.
+
+746
+00:52:41,360 --> 00:52:44,200
+What the technical hurdle of just getting RNA across?
+
+747
+00:52:44,200 --> 00:52:47,680
+It's RNA, that's a great question, thanks.
+
+748
+00:52:47,680 --> 00:52:54,960
+I love that question, I've been living with that question for years.
+
+749
+00:52:54,960 --> 00:53:03,440
+Yeah, so if you want to get RNA out of the bloodstream into a tissue it helps if the
+
+750
+00:53:03,440 --> 00:53:06,440
+tissue helps you out on its own.
+
+751
+00:53:06,440 --> 00:53:10,720
+In the liver there are certain blood vessels so I'll take a sit back and say that the blood
+
+752
+00:53:10,720 --> 00:53:17,000
+vessels that are sort of lying your liver are different than the blood vessels that line
+
+753
+00:53:17,000 --> 00:53:21,560
+your lung and the different ones that line your brain and the blood vessels that line
+
+754
+00:53:21,560 --> 00:53:26,720
+like an average artery in your heart for instance are different than the blood vessels that
+
+755
+00:53:26,720 --> 00:53:32,920
+line a vein in your heart so there's heterogeneity both across tissues and within the tissue
+
+756
+00:53:32,920 --> 00:53:35,640
+and you can use that to your advantage.
+
+757
+00:53:35,640 --> 00:53:40,880
+There are wonderful delivery vehicles for delivering small RNAs to hepatocytes in the
+
+758
+00:53:40,880 --> 00:53:46,280
+liver and one of the reasons why allegedly they work so well is because some of the blood
+
+759
+00:53:46,280 --> 00:53:51,720
+vessels in the liver actually a little holes punched in them so the holes might be between
+
+760
+00:53:51,720 --> 00:53:57,400
+a, you know, so imagine like a garden hose with like a bunch of holes punched in it and
+
+761
+00:53:57,400 --> 00:54:00,720
+then you want to get stuff out of the garden hose it's going to get out of the garden
+
+762
+00:54:00,720 --> 00:54:04,640
+hose more so than a garden hose that doesn't have any holes on it, right?
+
+763
+00:54:04,640 --> 00:54:09,920
+And so those fenestra or like little windows in the liver help drugs get across so that's
+
+764
+00:54:09,920 --> 00:54:17,280
+one thing and you know besides that to be honest I mean we don't really know, we don't really
+
+765
+00:54:17,280 --> 00:54:22,160
+know we know that we can use these physical barriers to our advantage but if we want to
+
+766
+00:54:22,160 --> 00:54:26,040
+actively target something like the brain or the lung or something that doesn't have those
+
+767
+00:54:26,040 --> 00:54:32,680
+physical advantages and we have to get clever and you know it's hard to get clever.
+
+768
+00:54:32,680 --> 00:54:36,120
+I was thinking as you were talking the two of you brain disorders are very different
+
+769
+00:54:36,120 --> 00:54:39,720
+too it's like cancers are different although they're finding some similarities and
+
+770
+00:54:39,720 --> 00:54:42,760
+listening to them are seeing cancers comparatively easier.
+
+771
+00:54:42,760 --> 00:54:48,640
+Yeah exactly because not all brain disorders are equal and you have the package of disorders
+
+772
+00:54:48,640 --> 00:54:53,120
+it had to do with depression and mania and psychosis and then you have the package it
+
+773
+00:54:53,120 --> 00:54:56,880
+has to do with neurodegenerative disease like Alzheimer's and Parkinson's and other
+
+774
+00:54:56,880 --> 00:55:05,000
+dimensions and then the other more complex kinds of ALS kinds of things they have spinal
+
+775
+00:55:05,000 --> 00:55:11,720
+connections it's such a complex area to try to figure out a can you just figure out can
+
+776
+00:55:11,720 --> 00:55:15,720
+you just explain what's happening number one which we're not there yet.
+
+777
+00:55:15,720 --> 00:55:21,000
+Number two even if you can't explain can you at least rejigger it somehow to get some kind
+
+778
+00:55:21,000 --> 00:55:27,920
+of different outcome than what the patient is experiencing and that's going to be complex
+
+779
+00:55:27,920 --> 00:55:30,520
+because you've got these different combinations.
+
+780
+00:55:30,520 --> 00:55:38,640
+Yes I think the biology is so complex but I would have to say since I'm I hope to be
+
+781
+00:55:38,640 --> 00:55:44,320
+an optimist is that is that as a society we have figured out how to treat patients in
+
+782
+00:55:44,320 --> 00:55:48,960
+a completely different way which is through psychotherapy right which I think is one
+
+783
+00:55:48,960 --> 00:55:53,720
+of the most effective ways people have shown that whether it be psychodynamic, psychoanalytic
+
+784
+00:55:53,720 --> 00:55:59,160
+or cognitive behavioral they all seem to have an effect size that is sometimes larger than
+
+785
+00:55:59,160 --> 00:56:03,320
+the drugs we use and I think this is something we can take advantage of.
+
+786
+00:56:03,320 --> 00:56:08,680
+I mean we which I think gets to the whole point that this is what we call targeted environment
+
+787
+00:56:08,680 --> 00:56:13,480
+you're actually using the environment you're trying to we program the brain by having a
+
+788
+00:56:13,480 --> 00:56:19,520
+discussion with someone else I mean obviously I'm simplifying it beyond means but the one
+
+789
+00:56:19,520 --> 00:56:24,200
+example I'm going to give and I apologize this is an example from my lab but so it's
+
+790
+00:56:24,200 --> 00:56:30,360
+sort of biased but so we've been studying post-traumatic stress disorder and actually
+
+791
+00:56:30,360 --> 00:56:35,040
+I actually see patients coming back from Iraq and Afghanistan and actually what I first
+
+792
+00:56:35,040 --> 00:56:41,240
+of all I've noticed is they're all really young they're like they're 22 to 24 years
+
+793
+00:56:41,240 --> 00:56:46,240
+old there's young soldiers and I really makes it what I've been working with them for about
+
+794
+00:56:46,240 --> 00:56:52,040
+five six years and and I realized that they're essentially adolescents so that we essentially
+
+795
+00:56:52,040 --> 00:56:57,160
+are sending our soldiers our adolescents to war because you don't send 30 year olds to
+
+796
+00:56:57,160 --> 00:57:04,160
+war you send 18 to 22 year olds and what we're what my colleague BJ Casey who was also at
+
+797
+00:57:04,160 --> 00:57:10,280
+the Sackler Institute we're in we're very we were very much trying to tailor treatments
+
+798
+00:57:10,280 --> 00:57:15,440
+at different stages of development and we recently have made a fairly significant we think well
+
+799
+00:57:15,440 --> 00:57:21,960
+and not not like New York time significant but just like lab significance advance in the
+
+800
+00:57:21,960 --> 00:57:27,920
+sense that we find that if we do different types of what we call exposure based treatments
+
+801
+00:57:27,920 --> 00:57:33,680
+in both humans and in our mice that we study that we actually get different what different
+
+802
+00:57:33,680 --> 00:57:40,680
+levels of attenuation of memories so in many ways you can imagine as I was discussing before
+
+803
+00:57:40,680 --> 00:57:46,280
+that that the brain is really developing during different stages and we've noticed now that
+
+804
+00:57:46,280 --> 00:57:51,400
+adolescents in particular is very plastic you're much more plastic during you're actually
+
+805
+00:57:51,400 --> 00:57:57,320
+much smarter than you are at other points in development and we think that we can possibly
+
+806
+00:57:57,320 --> 00:58:02,440
+tailor new types of behavioral treatments which are not whatever don't involve blood
+
+807
+00:58:02,440 --> 00:58:08,360
+brain barrier and so you can imagine another form of precision medicine is actually trying
+
+808
+00:58:08,360 --> 00:58:13,800
+to target the right time when your brain is ready it's very similar to the way we've
+
+809
+00:58:13,800 --> 00:58:19,640
+been very much informed by the work of like decades ago there was the Nobel Prize was
+
+810
+00:58:19,640 --> 00:58:24,640
+given for what they call critical periods of visual plasticity that if you have someone
+
+811
+00:58:24,640 --> 00:58:30,920
+that has doesn't have perfect aligned vision you had a window of about five years before
+
+812
+00:58:30,920 --> 00:58:35,560
+when you had to actually close one eye and let the other eye get stronger and basically
+
+813
+00:58:35,560 --> 00:58:41,040
+and if you miss that window you could not do things and we think that in psychiatric disorders
+
+814
+00:58:41,040 --> 00:58:46,920
+at least in the simple realm of something like fear learning or fear post traumatic stress
+
+815
+00:58:46,920 --> 00:58:52,120
+disorder you might be able to find a window where you can actually alter memories or alter
+
+816
+00:58:52,120 --> 00:58:56,800
+the emotional valence of memories because the brain is much more plastic again this is just
+
+817
+00:58:56,800 --> 00:59:02,560
+like the tip of the iceberg but then you could imagine if you could bootstrap this that ultimately
+
+818
+00:59:02,560 --> 00:59:08,320
+you could possibly then add a drug on top of it so right now we're doing a clinical trial
+
+819
+00:59:08,320 --> 00:59:13,280
+with these veterans where in addition to giving them exposure therapy we're actually giving
+
+820
+00:59:13,280 --> 00:59:17,680
+them a cognitive enhancer it's not a very good one I can say that but you can imagine
+
+821
+00:59:17,680 --> 00:59:22,680
+the future in the future of psychiatry might be where you combine what is probably the
+
+822
+00:59:22,680 --> 00:59:27,680
+most effective treatment where you actually get because not only psychotherapy is not
+
+823
+00:59:27,680 --> 00:59:33,240
+just what happens in the if you think about it for a patient to be in psychotherapy or
+
+824
+00:59:33,240 --> 00:59:39,200
+see a psychiatrist or psychologist they actually have to get out of their room and travel somewhere
+
+825
+00:59:39,200 --> 00:59:43,880
+so there's something about that whole movement which we think is much more important that
+
+826
+00:59:43,880 --> 00:59:48,320
+they're re-engaged with the environment in some way and that you could imagine in the
+
+827
+00:59:48,320 --> 00:59:54,320
+future it'll be this combination of using potentially drugs RNA or other biologics and
+
+828
+00:59:54,320 --> 00:59:58,600
+also but combining with psychotherapy I think we're now at a point where we're realizing
+
+829
+00:59:58,600 --> 01:00:03,080
+that one drug won't do it or one therapy won't do it so I think that's I mean that's sort
+
+830
+01:00:03,080 --> 01:00:07,800
+of the future I think you've touched you haven't you haven't gotten there but the logical discussion
+
+831
+01:00:07,800 --> 01:00:12,880
+that's going on in the ethics literature is so where so when you when if and when we get
+
+832
+01:00:12,880 --> 01:00:20,320
+to the point where you can fix PTSD and societies have always sent young boys to war that's
+
+833
+01:00:20,320 --> 01:00:27,360
+not new it's always been young boys by by draft in most in most historical moments you
+
+834
+01:00:27,360 --> 01:00:34,000
+don't have a choice the logical extension is well if you can fix the brain after this
+
+835
+01:00:34,000 --> 01:00:38,560
+horrific trauma and maybe even erase those horrible memories which you know there are
+
+836
+01:00:38,560 --> 01:00:43,120
+some drugs that are being discussed about that then what is what are the societal implications
+
+837
+01:00:43,120 --> 01:00:47,760
+for that for nation states and wars and so on if we can and even if you could gene edit
+
+838
+01:00:47,760 --> 01:00:55,120
+something later on to erase bad memories about killing and bad memories of trauma do we then
+
+839
+01:00:55,120 --> 01:01:00,880
+have a societal or other societal implications for the use of those therapeutics and the use
+
+840
+01:01:00,880 --> 01:01:06,360
+of those techniques or reasons that may be nefarious and not necessarily what we would
+
+841
+01:01:06,360 --> 01:01:12,520
+like to talk about yes no the brain is actually quite no I think it's a very good point I think
+
+842
+01:01:12,520 --> 01:01:18,920
+the best way the best anecdote I had heard about this is from Joe Lidou who's a neuroscientist
+
+843
+01:01:18,920 --> 01:01:25,640
+at New York University if you see a car crash outside you have a memory of it you go home
+
+844
+01:01:25,640 --> 01:01:29,800
+and within six hours for some reason has to be six hours but within six hours if you then
+
+845
+01:01:29,800 --> 01:01:37,240
+watch a TV news of episode of it and it's slightly different and you will update that
+
+846
+01:01:37,240 --> 01:01:41,960
+memory and the memory will be more like the newscast than your eyewitness account of it
+
+847
+01:01:41,960 --> 01:01:46,160
+and so this is what they call updating your memory so this I think is what you're saying
+
+848
+01:01:46,160 --> 01:01:50,880
+about this is actually quite dangerous which means that memories are not as fixed in this
+
+849
+01:01:50,880 --> 01:01:58,200
+I saw it as we think and it can it's always amenable to updating or in many some cases
+
+850
+01:01:58,200 --> 01:02:03,280
+potentially erasure right yeah so that you can update or and this is how I think this
+
+851
+01:02:03,280 --> 01:02:07,280
+is the danger that you could imagine that you there are various forms of treatments
+
+852
+01:02:07,280 --> 01:02:13,400
+that could actually lead to significant updating in a different way than it was we of course
+
+853
+01:02:13,400 --> 01:02:17,920
+want to think of it in a therapeutic way that we're going to try to update it and make
+
+854
+01:02:17,920 --> 01:02:22,840
+previously bad memories lose their emotional or fearful valence but you can imagine they
+
+855
+01:02:22,840 --> 01:02:28,720
+could go the other way the best example I have of this is I was talking to a general
+
+856
+01:02:28,720 --> 01:02:35,160
+from when we're doing a DoD study the Department of Defense study and when the soldiers first
+
+857
+01:02:35,160 --> 01:02:39,160
+came off the field and this has not been published but he said that what they did add
+
+858
+01:02:39,160 --> 01:02:43,560
+and totally they were and they know that they had been under a very traumatic experience
+
+859
+01:02:43,560 --> 01:02:50,040
+they gave all of them either ambient or clonipin these are sort of tranquilizer drugs and but
+
+860
+01:02:50,040 --> 01:02:57,200
+what all neuroscientists know is that sleep consolidates memories so so they looked temporarily
+
+861
+01:02:57,200 --> 01:03:03,520
+calmer they woke up and became more frightened because their memories had been consoled
+
+862
+01:03:03,520 --> 01:03:10,520
+acquired and consolidated so you can imagine that that that especially when we put our our
+
+863
+01:03:10,520 --> 01:03:16,680
+our adolescent citizens into war situations this is actually quite a dangerous situation
+
+864
+01:03:16,680 --> 01:03:21,520
+because we could actually make things much worse and my colleague also I have a colleague
+
+865
+01:03:21,520 --> 01:03:27,560
+Richard Friedman who is a psychiatrist but also writes for the New York Times and what
+
+866
+01:03:27,560 --> 01:03:31,520
+he mentioned is that he's noticed that the people and he's written about this so this
+
+867
+01:03:31,520 --> 01:03:36,000
+is in the New York Times that that there's an incredibly high use of amphetamines because
+
+868
+01:03:36,000 --> 01:03:42,360
+when you're on on in the field you have to stay awake and so then the but then this also
+
+869
+01:03:42,360 --> 01:03:48,160
+consolidates and makes you remember things much better just as anyone who's given a patient
+
+870
+01:03:48,160 --> 01:03:52,800
+ritalin this is essentially they're giving ritalin to others the soldiers and that ultimately
+
+871
+01:03:52,800 --> 01:03:58,880
+your your fearful memories also get hyper consolidated as a result of this so again we're we are
+
+872
+01:03:58,880 --> 01:04:04,120
+already doing things right now manipulating memories even potentially inadvertently even
+
+873
+01:04:04,120 --> 01:04:08,600
+though the government doesn't really think they're doing it and it was actually very
+
+874
+01:04:08,600 --> 01:04:13,640
+hard for Richard to actually extract this information from the government actually they've been using
+
+875
+01:04:13,640 --> 01:04:19,560
+amphetamines for a long time at least since World War II absolutely yeah in the military
+
+876
+01:04:19,560 --> 01:04:25,720
+yeah I mean from my perspective I don't from a drug discovery perspective I don't think
+
+877
+01:04:25,720 --> 01:04:33,240
+we're gonna be in the game but yeah we're looking to hemophilia and cystic fibrosis
+
+878
+01:04:33,240 --> 01:04:38,120
+and yeah that's kind of what we look at where does your field does it intersect at all with
+
+879
+01:04:38,120 --> 01:04:45,920
+brain interface in any way sure I mean we look at trying to design drugs for Alzheimer's
+
+880
+01:04:45,920 --> 01:04:53,000
+or Parkinson's I mean my field specifically asks a more simple question which is can we
+
+881
+01:04:53,000 --> 01:04:58,920
+full stop can we get drugs into the brain genetic drugs into the brain the underlying
+
+882
+01:04:58,920 --> 01:05:03,320
+hypothesis is that the biologists and the geneticists are going to come up with genetic
+
+883
+01:05:03,320 --> 01:05:08,640
+targets to treat disease X or disease Y or disease Z the one thing that those diseases
+
+884
+01:05:08,640 --> 01:05:13,120
+have in common is that no matter what gene you're going after you have to deliver that
+
+885
+01:05:13,120 --> 01:05:17,480
+genetic therapy so that that's where we live as we ask the simple question which is you
+
+886
+01:05:17,480 --> 01:05:22,760
+know can we use chemical engineering or nanotechnology or bioengineering to just get a
+
+887
+01:05:22,760 --> 01:05:28,040
+genetic drug into the brain period and then you know if we succeed and we say okay we're
+
+888
+01:05:28,040 --> 01:05:31,880
+gonna go after Parkinson's or if we get it to the long we're gonna go after cystic fibrosis
+
+889
+01:05:31,880 --> 01:05:36,400
+so we do interface with with neurologists and neuroscientists but only in that context
+
+890
+01:05:36,400 --> 01:05:43,440
+yeah and when you talk about getting targeted therapeutics to the brain are you talking
+
+891
+01:05:43,440 --> 01:05:48,800
+through a pill or through a transfusion or through brain surgery or all three so a pill
+
+892
+01:05:48,800 --> 01:06:01,040
+would be great but ideally yeah but but we're talking IV infusion oral delivery is incredibly
+
+893
+01:06:01,040 --> 01:06:10,560
+hard and it's kind of interesting why it's hard IV administration is already hard enough
+
+894
+01:06:10,560 --> 01:06:15,000
+because it goes to the liver right yeah well IV just it'll go through it'll pump out everywhere
+
+895
+01:06:15,000 --> 01:06:22,480
+and then the liver tends to soak things up as does the spleen and kidney but but if you
+
+896
+01:06:22,480 --> 01:06:28,800
+give something orally if you have a hamburger 20 minutes before you take that pill or you
+
+897
+01:06:28,800 --> 01:06:34,040
+don't the entire environment in your gut the receptors that are expressed the bacteria
+
+898
+01:06:34,040 --> 01:06:41,520
+that are everything changes so it's extremely hard to get something to get oral oral delivery
+
+899
+01:06:41,520 --> 01:06:47,280
+so I think you know the first genetic drugs that you'll see are likely to be either subcutaneous
+
+900
+01:06:47,280 --> 01:06:52,880
+administration or intravenous administration well so with Parkinson's other doing stem
+
+901
+01:06:52,880 --> 01:06:58,520
+cell injections actually through surgery through so so do you work with people who are thinking
+
+902
+01:06:58,520 --> 01:07:02,800
+about going that route or are you in a different kind of fall this is kind of a third rail
+
+903
+01:07:02,800 --> 01:07:08,560
+for me right now because I'm not a stem cell biologist so I don't want to sip out on too
+
+904
+01:07:08,560 --> 01:07:12,600
+much of a limb here but I do have colleagues who work on stem cell therapies I think that
+
+905
+01:07:12,600 --> 01:07:18,400
+some stem cell therapies will have the potential to be useful others others will not I can't
+
+906
+01:07:18,400 --> 01:07:23,080
+speak to Parkinson's but would you but would you think would but would there be a potential
+
+907
+01:07:23,080 --> 01:07:29,360
+drug that would that you might be able to discover that would only be able to be through
+
+908
+01:07:29,360 --> 01:07:34,920
+brain through brain surgery actually directly into the brain so this is one of the advantages
+
+909
+01:07:34,920 --> 01:07:39,160
+to the new gene editing technology so we were talking about distinguishing between like
+
+910
+01:07:39,160 --> 01:07:45,640
+sort of traditional gene therapies and new gene therapies one of the advantages to in
+
+911
+01:07:45,640 --> 01:07:53,800
+theory and again theory to these new gene therapies is that the effects are to some extent fairly
+
+912
+01:07:53,800 --> 01:07:59,960
+permanent so the analogy is that if you were to use an sirna which has a temporary effect
+
+913
+01:07:59,960 --> 01:08:04,880
+and you wanted to do something in cardiomyocytes you know like writing though or I will just
+
+914
+01:08:04,880 --> 01:08:10,360
+stick in the brain you want to do you want to do it in the brain you know if the effect
+
+915
+01:08:10,360 --> 01:08:13,520
+of the drug lasts like if you're lucky in the last three months you're not going to be able
+
+916
+01:08:13,520 --> 01:08:18,800
+to go in and perform brain surgery every three months right so that's not really an option
+
+917
+01:08:18,800 --> 01:08:23,480
+however if you have one of these new gene therapies where the effect is again in theory
+
+918
+01:08:23,480 --> 01:08:28,400
+pretty permanent then if you got the therapy to be effective enough then you could do you
+
+919
+01:08:28,400 --> 01:08:31,600
+could say okay we're going to perform a brain surgery and just spray a ton of this stuff
+
+920
+01:08:31,600 --> 01:08:37,360
+where we want it and we know just because we're these new gene therapies are semi-permanent
+
+921
+01:08:37,360 --> 01:08:41,200
+that the effects are going to last a really long time and therefore you know we're going
+
+922
+01:08:41,200 --> 01:08:46,360
+to look at this therapy now I don't know if people are looking into that but I know that
+
+923
+01:08:46,360 --> 01:08:50,040
+my colleagues and I when we think about this say oh this is actually kind of interesting
+
+924
+01:08:50,040 --> 01:08:54,360
+because it would open up like the pancreas or local administration to the heart in ways
+
+925
+01:08:54,360 --> 01:08:58,240
+that we haven't thought about before simply because the effect in the right type of cells
+
+926
+01:08:58,240 --> 01:09:03,320
+quiescent cells long-lasting cells is actually pretty pretty so how would you how would you
+
+927
+01:09:03,320 --> 01:09:06,520
+actually do this in human research because you can't go from the bench to the bedside
+
+928
+01:09:06,520 --> 01:09:13,120
+without doing studies and how would you actually study the long-term effects what kind of
+
+929
+01:09:13,120 --> 01:09:21,240
+endpoints would you be looking for that would be reasonably acceptable risk and yeah over
+
+930
+01:09:21,240 --> 01:09:25,840
+time I mean at least you can go back if you give somebody in some kind of a therapy with
+
+931
+01:09:25,840 --> 01:09:30,560
+the kidney or the heart or diabetes you can go back into follow-up testing that's not
+
+932
+01:09:30,560 --> 01:09:35,120
+sometimes it's invasive but it may be minimally invasive whereas if you're doing gene editing
+
+933
+01:09:35,120 --> 01:09:41,760
+yeah so and again there are people both probably on this panel and even in this room they probably
+
+934
+01:09:41,760 --> 01:09:47,920
+have more of an expertise in this and I do but when I when I think about this and I try
+
+935
+01:09:47,920 --> 01:09:51,280
+to think practically in the way that I would ever consider doing something like this I'd
+
+936
+01:09:51,280 --> 01:09:56,040
+say okay well what procedures are minimally invasive and access that tissue already in
+
+937
+01:09:56,040 --> 01:10:01,120
+other words are we going in already in a bunch of patients so if you're you know putting
+
+938
+01:10:01,120 --> 01:10:06,000
+a scope in and you're like in the heart as is could you just spray some stuff in there
+
+939
+01:10:06,000 --> 01:10:10,920
+while you're taking your pictures or if you're you know doing a colonoscopy and you're already
+
+940
+01:10:10,920 --> 01:10:16,040
+you know in that area can you just spray stuff in locally and I imagine that would be a reasonable
+
+941
+01:10:16,040 --> 01:10:21,000
+starting starting point but again there there you know that's really an answer for a practicing
+
+942
+01:10:21,000 --> 01:10:24,480
+clinician because they would say no you idiot like you know that isn't going to work you
+
+943
+01:10:24,480 --> 01:10:27,920
+know it's better to you know this would be useful I'm looking to the clinician from cancer
+
+944
+01:10:27,920 --> 01:10:34,880
+perspective because you can follow up by looking at yeah I said that one so my only
+
+945
+01:10:34,880 --> 01:10:41,320
+excursion and distanced those for Parkinson's and editing them was from a cancer point of
+
+946
+01:10:41,320 --> 01:10:49,600
+view and the idea of implanting basically precursors of neurons into the brain it's a dangerous
+
+947
+01:10:49,600 --> 01:10:55,560
+proposition too because these cells do have plasticity in the wrong ways right they can
+
+948
+01:10:55,560 --> 01:11:02,600
+in fact form tumors and so with I think a lot of these new technologies whether it's genome
+
+949
+01:11:02,600 --> 01:11:11,840
+editing or stem cells you need to think of engineering a fail-safe switch what happens
+
+950
+01:11:11,840 --> 01:11:16,840
+if these cells suddenly decided now they will form a tumor and there are studies on stem
+
+951
+01:11:16,840 --> 01:11:23,480
+cells they are just more likely to cause tumors so you need to to anticipate that and you need
+
+952
+01:11:23,480 --> 01:11:30,280
+to be able to to get rid of them genetic ways of doing it and then we can do a lot of cool
+
+953
+01:11:30,280 --> 01:11:38,520
+things genetically and we can eliminate them that's sort of my my an option basically an
+
+954
+01:11:38,520 --> 01:11:44,320
+ideally you'd want it in a way that you know let's say someone needs a new liver and you're
+
+955
+01:11:44,320 --> 01:11:51,120
+able to grow it in the lab right and some population of these liver cells decide to become a liver
+
+956
+01:11:51,120 --> 01:11:56,360
+cancer the patient still needs the rest of the liver so you don't want to wipe out everything
+
+957
+01:11:56,360 --> 01:12:02,160
+you want to have a way that ideally selectively destroys these tumor cells but perhaps leaves
+
+958
+01:12:02,160 --> 01:12:10,160
+the rest of the liver intact and even that you can you can do there are ways of doing
+
+959
+01:12:10,160 --> 01:12:17,880
+this you know these are suicide genes basically that kill specific cells and a specific circumstances
+
+960
+01:12:17,880 --> 01:12:24,680
+these things are all technically possible you can engineer cells before implanting them
+
+961
+01:12:24,680 --> 01:12:32,680
+in a patient or an animal for a time being and have those cells perform specific functions
+
+962
+01:12:32,680 --> 01:12:38,880
+and you can install failsafe mechanisms to take them out when they misbehave in a way
+
+963
+01:12:38,880 --> 01:13:00,960
+that you didn't want them okay questions thank you for a very interesting discussion there's
+
+964
+01:13:00,960 --> 01:13:10,520
+an area that perhaps ought to receive some attention in this age of over promise how
+
+965
+01:13:10,520 --> 01:13:18,400
+do we pay for the research when Galileo made his observations it didn't cost a billion
+
+966
+01:13:18,400 --> 01:13:26,320
+dollars the way it did to show the two black holes went were in collision so the cost of
+
+967
+01:13:26,320 --> 01:13:35,480
+this kind of research has mounted exponentially what about the cost for biomedical research
+
+968
+01:13:35,480 --> 01:13:42,120
+right now I have friends who when they hear the word socialism they faint but when I suggest
+
+969
+01:13:42,120 --> 01:13:50,640
+that the NIH is funding research they don't see that that's a form of socialism where
+
+970
+01:13:50,640 --> 01:13:56,480
+should the funding come from are we funding adequately do we need to fund it more and
+
+971
+01:13:56,480 --> 01:14:08,360
+are we over promising well of course research is expensive new therapies are expensive too
+
+972
+01:14:08,360 --> 01:14:16,120
+I think still in the context of the budget of the country it's nothing it's a drop in
+
+973
+01:14:16,120 --> 01:14:22,160
+the buckets compared to military spending compared to this successful operation in Iraq
+
+974
+01:14:22,160 --> 01:14:28,920
+a few years ago the money that is spent on cancer or psychological research is basically
+
+975
+01:14:28,920 --> 01:14:39,840
+nothing in comparison and I think it's ultimately more useful even if 99% of it will never lead
+
+976
+01:14:39,840 --> 01:14:47,480
+to clinical application a few things that actually do work immensely valuable so if
+
+977
+01:14:47,480 --> 01:14:52,600
+you are a government and you want to spend your money wisely it's probably one way to
+
+978
+01:14:52,600 --> 01:14:58,840
+go the related question I mentioned that the new therapies are also expensive so if you
+
+979
+01:14:58,840 --> 01:15:04,360
+think about the controversy about drug expenses and so on so there's a company that makes
+
+980
+01:15:04,360 --> 01:15:10,920
+a new drug against hepatitis C it's a pill it's a pill right you take it for a certain
+
+981
+01:15:10,920 --> 01:15:15,040
+number of months and they want a hundred thousand dollars for it prevent just the new other
+
+982
+01:15:15,040 --> 01:15:20,240
+other drug for cancer for a second cancer thirty thousand dollars three times and you'd
+
+983
+01:15:20,240 --> 01:15:27,280
+say that's insane how's it possible and it's expensive on the other hand up to now the same
+
+984
+01:15:27,280 --> 01:15:34,280
+patient would need a liver transplant it's gone across 200 300 400 thousand dollars even
+
+985
+01:15:34,280 --> 01:15:40,280
+even in those extreme cases where a company is really trying to make a lot of profit on
+
+986
+01:15:40,280 --> 01:15:47,400
+what is not even their own research partially maybe even there I think you still have a
+
+987
+01:15:47,400 --> 01:15:52,760
+benefits so Galileo and others were funded by the Catholic Church
+
+988
+01:15:52,760 --> 01:15:59,760
+a fairly wealthy and they were patrons of they were patrons of very wealthy people in
+
+989
+01:16:00,040 --> 01:16:05,760
+this culture so as an educator and an enthusiastic skeptic I absolutely agree we make prior we
+
+990
+01:16:05,760 --> 01:16:09,960
+make bad prior decision making in this country we have our priorities are wrong this is my
+
+991
+01:16:09,960 --> 01:16:15,680
+own personal view and I come from being trained and wanting to be an educator my whole life
+
+992
+01:16:15,680 --> 01:16:20,600
+and I think our priorities are wrong until recently the National Institutes of Health was
+
+993
+01:16:20,600 --> 01:16:25,840
+the largest funder of research that is in happens surpassed by private sector and mainly
+
+994
+01:16:25,840 --> 01:16:30,680
+by venture capital firms which many people here are familiar with which sometimes the
+
+995
+01:16:30,680 --> 01:16:37,680
+term venture capital sounds to those who are socialistic inclined bad but I think it's
+
+996
+01:16:38,680 --> 01:16:42,160
+a good thing that there's a mix but there's a huge problem now with conflicts of interest
+
+997
+01:16:42,160 --> 01:16:47,120
+in science and so that's another whole ethical dimension about where the money is coming
+
+998
+01:16:47,120 --> 01:16:51,000
+from and if you know all the movies that you watch you just follow the money there are
+
+999
+01:16:51,000 --> 01:16:56,080
+lots of complex issues many people argue for public private partnerships with and I come
+
+1000
+01:16:56,080 --> 01:17:00,320
+from a political science background so I'm the person who always says in the sunshine
+
+1001
+01:17:00,320 --> 01:17:05,320
+in the sunshine in the sunshine transparency accountability good governance with public
+
+1002
+01:17:05,320 --> 01:17:12,320
+participation that's my fantasy as a non scientist where I would like to get yeah and just
+
+1003
+01:17:12,320 --> 01:17:18,880
+in your early point I'd like just to sort of reemphasize things here which is that first
+
+1004
+01:17:18,880 --> 01:17:25,880
+it may seem like the NIH budget is very large but it is not and I can say for a fact that
+
+1005
+01:17:27,840 --> 01:17:34,840
+many of the colleagues that have grown up in sort of my scientific generation who would
+
+1006
+01:17:34,840 --> 01:17:41,840
+make incredible professors incredible researchers I'd say I won't put in a exact number many
+
+1007
+01:17:42,520 --> 01:17:49,520
+of them more than 50 percent well more than 50 percent do not go into academic science
+
+1008
+01:17:49,800 --> 01:17:56,800
+because there is no research money and that is the exact reason why I know that when I
+
+1009
+01:17:57,040 --> 01:18:00,920
+was considering taking a faculty job there were other jobs that were on the table as
+
+1010
+01:18:00,920 --> 01:18:06,800
+well and I've always wanted to be a professor I think teaching students is incredible I'm
+
+1011
+01:18:06,800 --> 01:18:12,800
+proud of the students I've taught so far it's the greatest joy in my life and yet I almost
+
+1012
+01:18:12,800 --> 01:18:18,680
+took a different type of position because the grants are so hard to get that is the reason
+
+1013
+01:18:18,680 --> 01:18:22,680
+why I almost didn't go in and it's the reason why everybody in my generation if they do
+
+1014
+01:18:22,680 --> 01:18:28,600
+not go in that's the reason why they don't go in the other thing I think is a really
+
+1015
+01:18:28,600 --> 01:18:35,600
+important point to understand is that it's really hard I would say it is impossible to
+
+1016
+01:18:35,600 --> 01:18:41,080
+predict what is going to be useful down the line so today we've discussed a lot about
+
+1017
+01:18:41,080 --> 01:18:45,600
+this new technology called these gene editing technologies and right now the most easy to
+
+1018
+01:18:45,600 --> 01:18:50,760
+use gene editing technologies called CRISPR-Cas9 and right now I mean everybody knows about
+
+1019
+01:18:50,760 --> 01:18:55,000
+CRISPR-Cas9 in the biological field it's considered arguably the biggest biotechnology
+
+1020
+01:18:55,000 --> 01:19:00,480
+discovery in 40 years totally changing the world and that was originally discovered by
+
+1021
+01:19:00,480 --> 01:19:07,280
+a bunch of bacteriologists sequencing some random repeats in an unknown bacteria and
+
+1022
+01:19:07,280 --> 01:19:12,440
+saying oh that's weird these things look the same now if you put that grant in that 1980s
+
+1023
+01:19:12,440 --> 01:19:17,560
+grant into the NIH system right now that doesn't get funded and 30 years down the line we don't
+
+1024
+01:19:17,560 --> 01:19:23,080
+have CRISPR-Cas9 and that's the huge risk that we're facing right now is that there's
+
+1025
+01:19:23,080 --> 01:19:27,120
+all these incredible transformational potentially transformational technologies 30 years 40 years
+
+1026
+01:19:27,120 --> 01:19:32,840
+down the line that we're not stumbling onto because that's how science works so I think
+
+1027
+01:19:32,840 --> 01:19:37,320
+it's really important to support increase in NIH funding you guys can believe me or not
+
+1028
+01:19:37,320 --> 01:19:42,720
+obviously I'm sort of biased in that because this is important to me but I think there's
+
+1029
+01:19:42,720 --> 01:19:47,080
+ample evidence to support the fact that that these discoveries are hard to make and there
+
+1030
+01:19:47,080 --> 01:19:51,480
+are many people who want to do a great job who just are leaving the field right now because
+
+1031
+01:19:51,480 --> 01:19:55,760
+there's no money but it's not just NIH funding because let's state so NIH is federal funding
+
+1032
+01:19:55,760 --> 01:19:59,280
+so yes our federal dollars paper research but state funding for research and education
+
+1033
+01:19:59,280 --> 01:20:06,160
+has been decimated in my lifetime I started as an academic teaching in 1989 or no age 1985
+
+1034
+01:20:06,160 --> 01:20:10,920
+and it was being decimated in its continued science programs that were at public schools
+
+1035
+01:20:10,920 --> 01:20:16,440
+you're at a private school but Georgia Georgia Tech gets public funding I've been cut dramatically
+
+1036
+01:20:16,440 --> 01:20:26,080
+I wanted to ask a question I studied computer science and not biotechnology so when I look
+
+1037
+01:20:26,080 --> 01:20:33,320
+at something like you know the RNA you know delivery of you know whether it's transmission
+
+1038
+01:20:33,320 --> 01:20:38,480
+or messaging I think in sort of a computer model where you know we might send something
+
+1039
+01:20:38,480 --> 01:20:44,920
+with an assist and rather than waiting for it to eventually succeed or break down we immediately
+
+1040
+01:20:44,920 --> 01:20:50,600
+see an acknowledgement like we would see you know like an AC or an ACK it would say right
+
+1041
+01:20:50,600 --> 01:20:56,360
+away send back this message and you say yes it succeeded it's failed and I've never heard
+
+1042
+01:20:56,360 --> 01:21:03,400
+of anything like that within sort of the study of medicine where you know I think in terms
+
+1043
+01:21:03,400 --> 01:21:10,440
+of you know is there it's more like eventually you see a cancer marker or you see a disorder
+
+1044
+01:21:10,440 --> 01:21:16,240
+in the blood or this thing happens and it's measured maybe through a blood test but I wondered
+
+1045
+01:21:16,240 --> 01:21:20,280
+I don't know enough about it to know is there something that you can immediately see that
+
+1046
+01:21:20,280 --> 01:21:27,000
+is this sort of feedback within the system loop.
+
+1047
+01:21:27,000 --> 01:21:32,360
+So it's you know it's a difficult question to say yes or no to I will point you to a
+
+1048
+01:21:32,360 --> 01:21:37,200
+field you may like reading about just for fun it's called synthetic biology it's a new
+
+1049
+01:21:37,200 --> 01:21:42,080
+field very experimental right now but actually that sits right at the interface of basically
+
+1050
+01:21:42,080 --> 01:21:48,680
+computer scientists like yourself and bioengineers and there are many universities now that actually
+
+1051
+01:21:48,680 --> 01:21:54,600
+have faculty members whose research are sort of dedicated to living right at that interface
+
+1052
+01:21:54,600 --> 01:21:59,720
+and it's really funny you'll see a biological paper published and they'll put in diagrams
+
+1053
+01:21:59,720 --> 01:22:04,680
+that have resistors and transistors and the equivalent of that stuff in the circuitry of
+
+1054
+01:22:04,680 --> 01:22:10,280
+the cell and so you know I don't know the field one enough to say yes or no that hazard
+
+1055
+01:22:10,280 --> 01:22:14,840
+hasn't happened yet but it may have and if so I would say synthetic biology is a likely
+
+1056
+01:22:14,840 --> 01:22:18,080
+place to find that.
+
+1057
+01:22:18,080 --> 01:22:24,280
+I think you sort of asked about immediate readouts of whether you know your message arrives and
+
+1058
+01:22:24,280 --> 01:22:26,320
+whether you get an effect.
+
+1059
+01:22:26,320 --> 01:22:33,360
+Sorry and I think so in drug studies certainly that's something that you need to be able
+
+1060
+01:22:33,360 --> 01:22:37,720
+to measure immediately you give a new drug and you want to be able to know the drug hit
+
+1061
+01:22:37,720 --> 01:22:43,360
+the target and how effectively and for how long it suppresses that so that's certainly
+
+1062
+01:22:43,360 --> 01:22:47,560
+part of any medical any drug study that you want.
+
+1063
+01:22:47,560 --> 01:22:53,080
+You have a call it a biomarker just something that says it got there and it did what it's
+
+1064
+01:22:53,080 --> 01:22:55,080
+supposed to do.
+
+1065
+01:22:55,080 --> 01:23:03,160
+I have a question about the field of optogenetics and channel redoxins and also the delivery
+
+1066
+01:23:03,160 --> 01:23:07,640
+how did they get it into the specific parts of the brain I've read a lot about it and
+
+1067
+01:23:07,640 --> 01:23:13,080
+confused about that part and also the ethical implications of turning on and off neurons
+
+1068
+01:23:13,080 --> 01:23:16,800
+in particular parts of the brain using channel redoxins.
+
+1069
+01:23:16,800 --> 01:23:22,760
+Well I'll quickly address the delivery part and I'll let the experts handle the media
+
+1070
+01:23:22,760 --> 01:23:24,440
+part of the question.
+
+1071
+01:23:24,440 --> 01:23:26,920
+Luckily the answer is pretty simple as far as understand it.
+
+1072
+01:23:26,920 --> 01:23:31,920
+No black magic here they basically say okay we're going to take a virus that encodes the
+
+1073
+01:23:31,920 --> 01:23:35,600
+optogenetic whatever channel redoxins you would like and they spray it in where they want
+
+1074
+01:23:35,600 --> 01:23:36,600
+to spray it in.
+
+1075
+01:23:36,600 --> 01:23:40,120
+They might use a cell type specific promoter to make sure it's only expressed in neurons
+
+1076
+01:23:40,120 --> 01:23:46,440
+as opposed to glia but yeah they basically just and then you know you're good.
+
+1077
+01:23:46,440 --> 01:23:52,520
+But I think interesting enough mainly because there's a technical glitch almost all optogenetics
+
+1078
+01:23:52,520 --> 01:23:56,760
+now is in rats and mice because all the promoters have been done.
+
+1079
+01:23:56,760 --> 01:24:00,680
+There seems to be a technical glitch of getting to primates so that there is not that much
+
+1080
+01:24:00,680 --> 01:24:06,440
+of the ultimate use of optogenetics in humans is probably not going to be the reason why
+
+1081
+01:24:06,440 --> 01:24:11,440
+optogenetics is so powerful up until now is because we had these very powerful promoter
+
+1082
+01:24:11,440 --> 01:24:16,360
+specific expressions so you could go right to one type of dopamine neuron for example
+
+1083
+01:24:16,360 --> 01:24:19,320
+and turn it on and in the monkey you cannot do it.
+
+1084
+01:24:19,320 --> 01:24:27,000
+So all the experiments so far in monkey and you can tell scientists are not stupid so
+
+1085
+01:24:27,000 --> 01:24:32,520
+if you see how many people are going towards trying to translate this to human optogenetics
+
+1086
+01:24:32,520 --> 01:24:36,880
+it seems to be very low it seems to be something that not is not something because you have
+
+1087
+01:24:36,880 --> 01:24:41,120
+to actually put a fiber optic cable it's very complicated.
+
+1088
+01:24:41,120 --> 01:24:47,520
+I think in the future there is another type of technology which is still in its sort of
+
+1089
+01:24:47,520 --> 01:24:52,000
+in essence is now being developed at many places but in particular at Rockefeller University
+
+1090
+01:24:52,000 --> 01:24:56,360
+where instead of putting a virus that gets turned on by light but will get turned on
+
+1091
+01:24:56,360 --> 01:25:03,600
+by a magnetic beam so that is something that is possible in terms of developing better
+
+1092
+01:25:03,600 --> 01:25:09,200
+and stronger ways of turning on magnetic fields within a darkened chamber like the brain and
+
+1093
+01:25:09,200 --> 01:25:10,680
+I think that's an area.
+
+1094
+01:25:10,680 --> 01:25:16,240
+What they have definitely been able to do is turn on a magnetic beam on the pancreas and
+
+1095
+01:25:16,240 --> 01:25:20,760
+get it to secrete insulin so that they can definitely do something like that so I think
+
+1096
+01:25:20,760 --> 01:25:25,240
+that will probably be something that will people would much rather have a magnet put
+
+1097
+01:25:25,240 --> 01:25:32,480
+on your abdomen than a fiber optic cable so I think that will probably be the 10, 5, 10
+
+1098
+01:25:32,480 --> 01:25:33,480
+years from now.
+
+1099
+01:25:33,480 --> 01:25:40,000
+But the ethical concerns of optogenetics for primate human and non-human are probably
+
+1100
+01:25:40,000 --> 01:25:45,440
+not that critical because the technical difficulties are a little bit too great right now and
+
+1101
+01:25:45,440 --> 01:25:47,560
+you can't get funding for it.
+
+1102
+01:25:47,560 --> 01:25:51,360
+Well there are some questions that have come up about controlling the brain though in some
+
+1103
+01:25:51,360 --> 01:25:57,680
+other technologies so deep brain stimulation and neuro enhancement not drug neuro enhancement
+
+1104
+01:25:57,680 --> 01:26:00,520
+but mechanisms the electronic.
+
+1105
+01:26:00,520 --> 01:26:07,040
+There's two issues, well there's more than two issues but free will is one but another
+
+1106
+01:26:07,040 --> 01:26:15,200
+one is what if I like what happens to me when I have deep brain stimulation or I'm using
+
+1107
+01:26:15,200 --> 01:26:19,760
+a neuro enhancer and I can figure out how to do it and jigger with it on my own and
+
+1108
+01:26:19,760 --> 01:26:24,080
+the clinician does not want to go there for a variety of reasons and there have been some
+
+1109
+01:26:24,080 --> 01:26:28,680
+discussions in the ethical field about the rights of the patient to be able to say either
+
+1110
+01:26:28,680 --> 01:26:34,240
+stop this which we in medical ethics we basically acknowledge the patients right to say I don't
+
+1111
+01:26:34,240 --> 01:26:39,400
+want chemotherapy, I don't want the heart surgery, whatever, I don't want a brain interface.
+
+1112
+01:26:39,400 --> 01:26:44,080
+But the other flip side is I really like this, I like being manic and there's some literature
+
+1113
+01:26:44,080 --> 01:26:48,800
+on this now and I like what this has done to me and I don't want to come down from whatever
+
+1114
+01:26:48,800 --> 01:26:53,760
+the particular brain not drugs we're talking about are the kinds of interventions although
+
+1115
+01:26:53,760 --> 01:26:57,600
+we could be talking about drugs but this is in the non drug field so it does raise some
+
+1116
+01:26:57,600 --> 01:27:03,840
+interesting questions about individual control and then if people have control over what's
+
+1117
+01:27:03,840 --> 01:27:10,040
+happening in terms of computers and chips and then the data that comes from that information
+
+1118
+01:27:10,040 --> 01:27:13,480
+and who has access to that data is another whole realm.
+
+1119
+01:27:13,480 --> 01:27:21,040
+I think the only comment I have is analgesia right so there were and maybe there's still
+
+1120
+01:27:21,040 --> 01:27:26,880
+their pain control where patients can control their own medication and basically give themselves
+
+1121
+01:27:26,880 --> 01:27:32,720
+opiates right and I think the conclusion of that research was that they actually administer
+
+1122
+01:27:32,720 --> 01:27:37,520
+less than if it is given by the doctors and the nurses who have been self-controllable
+
+1123
+01:27:37,520 --> 01:27:44,520
+actually do less than for better or worse it's actually a surprising.
+
+1124
+01:27:44,520 --> 01:28:05,040
+And you will know when you mention that we knew all there was to know about Huntington
+
+1125
+01:28:05,040 --> 01:28:11,360
+you know identifying it but we didn't know how to control or to take interventions this
+
+1126
+01:28:11,360 --> 01:28:19,760
+is very disturbing to me not what you said but that it's like it's closing it's as though
+
+1127
+01:28:19,760 --> 01:28:25,280
+it's closing so much because I think that I just heard of something and it was about
+
+1128
+01:28:25,280 --> 01:28:30,440
+post-traumatic syndrome and that other people have it you know we begin to realize under
+
+1129
+01:28:30,440 --> 01:28:35,200
+other circumstances and it had a lot to do with mindfulness now and this was people
+
+1130
+01:28:35,200 --> 01:28:40,360
+who were rather responsible saying that you know just controlling your mind and that gets
+
+1131
+01:28:40,360 --> 01:28:46,480
+into the psychoanalysis of it but it seems that how do you get support when you have
+
+1132
+01:28:46,480 --> 01:28:53,160
+some idea that's way out there that I have one more question and it was do you divide
+
+1133
+01:28:53,160 --> 01:29:00,160
+your field into dimensions you know this is this is what is happening in the cell this
+
+1134
+01:29:00,160 --> 01:29:06,600
+is what we can do to control that thing that's happening in the cell I mean are there all
+
+1135
+01:29:06,600 --> 01:29:11,040
+these steps that you you know do you go into this and different this I should know this
+
+1136
+01:29:11,040 --> 01:29:17,360
+but do you go into different disciplines or aspects of your discipline so I there were
+
+1137
+01:29:17,360 --> 01:29:23,480
+kind of three questions well it's a great set of questions so to your first question
+
+1138
+01:29:23,480 --> 01:29:33,360
+about about Huntington's so I remain optimistic that we will be able to deliver to Huntington's
+
+1139
+01:29:33,360 --> 01:29:37,440
+and my lab works on new delivery technologies and there are many great labs across the
+
+1140
+01:29:37,440 --> 01:29:44,000
+U.S. and also work on on the delivery technologies I think historically science most of the time
+
+1141
+01:29:44,000 --> 01:29:49,560
+fails but a friend of mine says that you know all your failure all your failures don't
+
+1142
+01:29:49,560 --> 01:29:53,400
+don't matter it's really your the few wins that you get that actually make a difference
+
+1143
+01:29:53,400 --> 01:29:58,160
+and I agree with that so I wouldn't be dissuaded or feel pessimistic yeah
+
+1144
+01:29:58,160 --> 01:30:12,200
+oh well you who's who's doing more basic oh by the way you're absolutely correct we don't
+
+1145
+01:30:12,200 --> 01:30:16,800
+know what the protein Huntington actually does yep we really still don't understand
+
+1146
+01:30:16,800 --> 01:30:20,640
+that yeah so and I should have been more clear earlier what I meant is from a therapeutic
+
+1147
+01:30:20,640 --> 01:30:25,440
+perspective we know the sequence to go after and that is an important distinction I didn't
+
+1148
+01:30:25,440 --> 01:30:30,960
+make that clearly so that's my fault to your second question I'll I'll intro that quickly
+
+1149
+01:30:30,960 --> 01:30:36,560
+in my lab we do think about things in different layers and we purposefully try to position
+
+1150
+01:30:36,560 --> 01:30:40,640
+ourselves at interfaces of new technology or different fields and that's how we try to
+
+1151
+01:30:40,640 --> 01:30:48,600
+thrive so we try to use genomics and genetics and really big data sets to make our chemical
+
+1152
+01:30:48,600 --> 01:30:52,920
+engineering systems better that's how we try to distinguish ourselves so I know that
+
+1153
+01:30:52,920 --> 01:30:59,560
+are in our lab we do purposefully subdivide things and then right look right where that
+
+1154
+01:30:59,560 --> 01:31:02,000
+interface is.
+
+1155
+01:31:02,000 --> 01:31:14,960
+Thank you very much for very professional conversation and I have a lot of questions
+
+1156
+01:31:14,960 --> 01:31:25,520
+but I would like to ask about simple techniques not like generating interventions for example
+
+1157
+01:31:25,520 --> 01:31:36,120
+couple of years ago I on routine tests I it was I got really bad results on very routine
+
+1158
+01:31:36,120 --> 01:31:45,360
+tests and I of course I straight was sent to more invasive tests and I was scared to
+
+1159
+01:31:45,360 --> 01:31:52,040
+that that I should do this instead of this I start to read and that I a lot of information
+
+1160
+01:31:52,040 --> 01:32:02,080
+right now a lot of research that could some got some way but then lost finding and in
+
+1161
+01:32:02,080 --> 01:32:13,460
+my case it was actually I should just change diet I just stop stop drink what I liked I
+
+1162
+01:32:13,460 --> 01:32:23,240
+liked very much so milk that was it in couple of months my test was okay everybody but everybody
+
+1163
+01:32:23,240 --> 01:32:33,600
+you're amazed it was it was not possible from their point of view so why we cannot yes maybe
+
+1164
+01:32:33,600 --> 01:32:41,040
+really test more people and give them these some kind of connection that probably some
+
+1165
+01:32:41,040 --> 01:32:48,240
+something in your environment in your diet could cause it why don't don't try it for
+
+1166
+01:32:48,240 --> 01:33:00,160
+example there are some research that psychological problems could be caused by our gut flow
+
+1167
+01:33:00,160 --> 01:33:11,760
+micro flow and just prebiotics could change our brain functions or there are some research
+
+1168
+01:33:11,760 --> 01:33:23,720
+that fish oil could really improve a lot of brain functions why we don't make these simple
+
+1169
+01:33:23,720 --> 01:33:31,720
+connections without go to invasive tests and very expensive treatments because there are
+
+1170
+01:33:31,720 --> 01:33:36,520
+a lot of great doctors out there who probably make a lot of those connections and can probably
+
+1171
+01:33:36,520 --> 01:33:43,560
+help you I'm glad that you got better by changing the diet I think there first of all you I
+
+1172
+01:33:43,560 --> 01:33:48,560
+can leave you there's smarter doctors but then also at Cornell I just realized this also we
+
+1173
+01:33:48,560 --> 01:33:55,080
+hired we have a new microbiome project and I didn't realize that our entire gut floor
+
+1174
+01:33:55,080 --> 01:34:01,080
+all our bacteria weighs more than our brain the mouth it's like five or six pounds of
+
+1175
+01:34:01,080 --> 01:34:08,120
+bacteria inside our body so it's not so simple it's not one bacteria and it's the genome of
+
+1176
+01:34:08,120 --> 01:34:13,880
+the bacteria is 30 to 40 times more complex than the genome we have ourselves so that
+
+1177
+01:34:13,880 --> 01:34:19,360
+you can imagine it's it looks like on the surface like it's simple it's actually much
+
+1178
+01:34:19,360 --> 01:34:24,400
+more complex because then you're it's almost like we were studying a lake and that's an
+
+1179
+01:34:24,400 --> 01:34:32,600
+ocean okay anyone else okay thank you very much thank you
+

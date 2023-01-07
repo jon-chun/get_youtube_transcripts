@@ -1,0 +1,2675 @@
+WEBVTT
+
+00:00.000 --> 00:05.000
+Okay, thank you.
+
+00:05.000 --> 00:10.000
+Okay, I'm at the necessity and director of the center.
+
+00:10.000 --> 00:14.000
+Welcome to the meeting today on the completeness of physics.
+
+00:18.000 --> 00:27.000
+The participants today are Joseph Cohen, who's professor emeritus of mathematics from Princeton University.
+
+00:27.000 --> 00:33.000
+Team Modlin, who's professor of philosophy at New York University.
+
+00:33.000 --> 00:40.000
+Priyam Vadhan Nataryan, who's professor of astronomy and physics at Yale University.
+
+00:40.000 --> 00:46.000
+Jonathan Kramnik, professor of main art math, professor of English, also at Yale.
+
+00:46.000 --> 00:51.000
+And Kallorovane, professor of philosophy at Columbia University.
+
+00:51.000 --> 00:54.000
+We have one more meeting scheduled this year.
+
+00:54.000 --> 01:05.000
+It will be in June and its combination of science and art and its own turbulence.
+
+01:05.000 --> 01:11.000
+And there will be an art show during that week.
+
+01:11.000 --> 01:17.000
+And the meeting, unlike our usual meetings, will not be on a Saturday, but on a Thursday night.
+
+01:17.000 --> 01:35.000
+I think it's June, the first Thursday, you can find it on the website.
+
+01:35.000 --> 01:40.000
+That's it.
+
+01:40.000 --> 01:48.000
+Why is everybody looking at me? What are we supposed to be talking about?
+
+01:48.000 --> 01:51.000
+The completeness of physics. I'm sorry, I can't remember the time.
+
+01:51.000 --> 01:53.000
+Yeah, that's it.
+
+01:53.000 --> 01:57.000
+The implications of the completeness of physics.
+
+01:57.000 --> 02:16.000
+I'll start. I'll start. I will start. Just to give. So there's a kind of sense in the science community that the physicists are a little bit uppity.
+
+02:16.000 --> 02:28.000
+And yeah, just a little and feel like there occupy some higher position in virtual of their subject matter than the other scientists.
+
+02:28.000 --> 02:36.000
+And, you know, there's some manner of hostility around that.
+
+02:36.000 --> 02:55.000
+It's certainly true that the physicists have been able, just as a matter of fact, to be incredibly successful at making quite precise predictions for certain experiments and testing them to many degrees, many, many decimal places
+
+02:55.000 --> 03:15.000
+and having them come out right in a way that the biologists or the economists or the chemists even never will give them as long as you want. There will never be a biological thesis that gives rise to a prediction to 14 decimal places and check to that accuracy.
+
+03:15.000 --> 03:34.000
+And so there's this sort of ambient sense that physics holds a primary in some sense a primary or foundational role among the sciences and at the height of arrogance.
+
+03:34.000 --> 03:48.000
+A physicist might say, well, all of chemistry that's really physics just done a little sloppily and all biology that's really chemistry just done even more sloppily.
+
+03:48.000 --> 03:52.000
+And so on up the scale.
+
+03:52.000 --> 03:57.000
+And that is for a perfectly trained mind.
+
+03:57.000 --> 04:02.000
+Everything would be clear if it was reduced to physics.
+
+04:02.000 --> 04:13.000
+And I guess I guess I can start at least with a comment about about that, which is that there's something to it but not anything like what I just said.
+
+04:13.000 --> 04:31.000
+And the something to it is that physics alone of the sciences has programmatically the requirement to cover everything in a certain sense within its own scope within its own vocabulary.
+
+04:31.000 --> 04:34.000
+And within its own concepts.
+
+04:34.000 --> 04:42.000
+So to give an example of the way the other sciences don't have this, think of medicine.
+
+04:42.000 --> 04:49.000
+You go to your doctor and he examines you and he pronounces, you're going to live another 40 years.
+
+04:49.000 --> 04:58.000
+And very happily you walk out of the doctor's office across the street, get hit by a bus and are killed.
+
+04:58.000 --> 05:10.000
+And if you go to the doctor and say that was a pretty bad prediction, the doctor quite rightly will say, that's not my department.
+
+05:10.000 --> 05:17.000
+My medical prognosis didn't cover collisions with buses.
+
+05:17.000 --> 05:20.000
+That's out of my field.
+
+05:20.000 --> 05:28.000
+And the difference is that the physicists can never say that.
+
+05:28.000 --> 05:31.000
+Every medical event is a physical event.
+
+05:31.000 --> 05:35.000
+Every economic event is a physical event.
+
+05:35.000 --> 05:38.000
+Every biological event is also a physical event.
+
+05:38.000 --> 05:42.000
+Every astronomical event is also a physical event.
+
+05:42.000 --> 05:54.000
+Everything that happens in principle ought to be covered by physics using its own vocabulary and using its own set of concepts.
+
+05:54.000 --> 05:59.000
+And it's never appropriate for a physicist to say that's not my department.
+
+05:59.000 --> 06:04.000
+And the demand also for complete precision and accuracy is unique to physics.
+
+06:04.000 --> 06:12.000
+Having said that, it's just false that the other sciences reduce to physics or are nothing but physics.
+
+06:12.000 --> 06:31.000
+The other sciences use their own conceptual systems, their own vocabularies, their own explanatory structures and give insight and understanding into events that you'll never get studied the physics as much as you want.
+
+06:31.000 --> 06:49.000
+If you want to understand what Joyce was doing when he wrote Finnegan's Wake, we were just having a discussion about this, a complete physical description down to the last detail of his brain will not help you.
+
+06:49.000 --> 06:54.000
+Study it as much as you want.
+
+06:54.000 --> 07:16.000
+So there's an interesting question of how the sciences relate to each other and how different forms of understanding and comprehension relate to each other and how independent the sciences, the special sciences can become of the physical basis, which I don't think there's a general answer to.
+
+07:16.000 --> 07:42.000
+So I think before we move on to looking at the relationship between other sciences, it is worthwhile pointing out how physics has achieved the kind of successes that it has and sort of looking perhaps at what the metaphysical, epistemological suppositions that were needed to understand sort of this success.
+
+07:42.000 --> 07:53.000
+And this notion of being able to order phenomena to formulate laws.
+
+07:53.000 --> 08:02.000
+And I think that's sort of one particular intellectual claim that physics would make, right?
+
+08:02.000 --> 08:22.000
+That there's something deep about the nature of reality and the order of the physical world that physicists, in combination with mathematics, have just found the right vocabulary to distill.
+
+08:22.000 --> 08:39.000
+I would say that in this pecking order, if you're going to have a pecking order, mathematics obviously goes on top of what we do.
+
+08:39.000 --> 08:42.000
+But we can do that one out.
+
+08:42.000 --> 08:44.000
+You have to do not know what you can do.
+
+08:44.000 --> 08:47.000
+You have to do something about mathematics.
+
+08:47.000 --> 08:57.000
+I just thought philosophy of science and the first day of class, I said, how do we divide, we have the arts and sciences, where does everybody go?
+
+08:57.000 --> 09:05.000
+And of course mathematics was just off by itself, because it's not empirical, it doesn't have laboratories.
+
+09:05.000 --> 09:09.000
+It doesn't fit with any of the other sciences, although in some sense it's a science.
+
+09:09.000 --> 09:17.000
+It's an interesting question. Let me just say this, we have a weird quote from a physicist.
+
+09:17.000 --> 09:20.000
+And I think it's something funny.
+
+09:20.000 --> 09:25.000
+Neil's bore said that there are two kinds of truths.
+
+09:25.000 --> 09:29.000
+The small truths and the great truths.
+
+09:29.000 --> 09:39.000
+The small truths have the property that the opposite of a small truth is false.
+
+09:39.000 --> 09:46.000
+But the great truths have the property that the opposite of a great truth is also true.
+
+09:46.000 --> 09:52.000
+So, I mean, this is nonsense of course in some ways, but in some ways there's something to it.
+
+09:52.000 --> 10:06.000
+I want to say that what's in there is that I don't view, I mean there's a kind of division about physics and biology and so on.
+
+10:06.000 --> 10:11.000
+People say disciplines are divided inside a discipline.
+
+10:11.000 --> 10:15.000
+There is cosmology and there's solid state physics and I don't know what.
+
+10:15.000 --> 10:19.000
+But I just want to look at the general picture.
+
+10:19.000 --> 10:25.000
+The general picture, how do people, what science, what do people understand the science?
+
+10:25.000 --> 10:34.000
+So, science seems to me is taking something that's demonstrably false, a model.
+
+10:34.000 --> 10:47.000
+In the early days science was mostly plotting, figuring out how large plots are and doing architecture and so on.
+
+10:47.000 --> 10:55.000
+And so, you start drawing lines on paper and you say that represents something real.
+
+10:55.000 --> 10:57.000
+Well, there's no such thing.
+
+10:57.000 --> 11:01.000
+I mean, a point is not, it's an abstraction.
+
+11:01.000 --> 11:04.000
+I mean, if you look closely, what is a point?
+
+11:04.000 --> 11:08.000
+It's some kind of thing, quarks or something.
+
+11:08.000 --> 11:09.000
+I don't know.
+
+11:09.000 --> 11:18.000
+So, you start out with something that's what people call a toy model, or a model.
+
+11:18.000 --> 11:24.000
+And you say, okay, now we have this beautiful thing called plane geometry that seems to describe our world.
+
+11:24.000 --> 11:30.000
+We can design buildings, we can design pyramids, we can design cities using plane geometry.
+
+11:30.000 --> 11:38.000
+Well, it turns out that if you try to design routes for airplanes, plane geometry doesn't work.
+
+11:38.000 --> 11:40.000
+You have to use spherical geometry.
+
+11:40.000 --> 11:46.000
+And then you say, okay, so that's part of our geometrical world.
+
+11:46.000 --> 11:51.000
+You have spheres and you know how to draw triangles on spheres and you have a spherical geometry.
+
+11:51.000 --> 12:01.000
+Okay, but then after a while you find out that that doesn't work either and you have a Romanian geometry, you have a Lorentz in there and so on.
+
+12:01.000 --> 12:15.000
+So, it seems to me that all of science consists of having some kind of model, which is usually a mathematical model or something.
+
+12:15.000 --> 12:17.000
+And you know them, well, that's not the thing.
+
+12:17.000 --> 12:19.000
+It's a model.
+
+12:19.000 --> 12:26.000
+And then you make logical deductions from that.
+
+12:26.000 --> 12:32.000
+And lo and behold, you'll find new phenomena, you look at the world and find that they work.
+
+12:32.000 --> 12:35.000
+Maybe I'll give an example of that.
+
+12:35.000 --> 12:36.000
+But anyway.
+
+12:36.000 --> 12:41.000
+But the point is that these idealized models, right, they're very powerful.
+
+12:41.000 --> 12:42.000
+They're very powerful.
+
+12:42.000 --> 12:43.000
+They're extremely powerful.
+
+12:43.000 --> 12:46.000
+And they come in very strange ways.
+
+12:46.000 --> 12:54.000
+For example, you know, mathematicians had been from centuries trying to find formulas to solve equations.
+
+12:54.000 --> 12:59.000
+The famous quadratic equation, you know, that formula to learn in high school.
+
+12:59.000 --> 13:00.000
+It was a great achievement.
+
+13:00.000 --> 13:08.000
+And then they worked very hard and actually found a solution, a cubic equation, you know, and a fifth degree equation.
+
+13:08.000 --> 13:09.000
+And it was all mysterious.
+
+13:09.000 --> 13:10.000
+What happens?
+
+13:10.000 --> 13:14.000
+And then group theory was discovered.
+
+13:14.000 --> 13:23.000
+And they found exactly what kind of formulas can be used for what equations from group theory, from what's called Galois theory.
+
+13:23.000 --> 13:30.000
+And they developed a certain theory of groups, which means really symmetries of the roots of the polynomial.
+
+13:30.000 --> 13:33.000
+Anyway, it's kind of a symmetric group.
+
+13:33.000 --> 13:34.000
+Okay.
+
+13:34.000 --> 13:35.000
+We're coming back to order, right?
+
+13:35.000 --> 13:36.000
+We're coming back to order.
+
+13:36.000 --> 13:49.000
+And so then came really one of the great mathematicians of all times, Emi Nerther, who noticed that the conservation laws of physics have to do,
+
+13:49.000 --> 13:54.000
+the conservation laws of physics have to do with symmetries of space, of certain group.
+
+13:54.000 --> 13:59.000
+And certain group, which mathematicians call it, so three, never mind.
+
+13:59.000 --> 14:07.000
+But anyway, certain group analysis of that predicts the conservation laws of classical physics.
+
+14:07.000 --> 14:16.000
+And then using the same idea, using other groups, you know, they were Herman Weil and Eugene Wigner and others,
+
+14:16.000 --> 14:25.000
+developed a way of studying particle physics, using those groups as these ideas of group theory.
+
+14:25.000 --> 14:27.000
+And they could do remarkable things.
+
+14:27.000 --> 14:35.000
+They could predict quarks, predict new particles, just from the study of group theory.
+
+14:35.000 --> 14:38.000
+So it's a kind of a back and forth business.
+
+14:38.000 --> 14:48.000
+It's ideas sometimes are originally mathematics, sometimes are engineering physics, sometimes are engineering somewhere else,
+
+14:48.000 --> 14:59.000
+are then abstracted into some kind of model and you work with that and use mathematical methods and find certain consequences.
+
+14:59.000 --> 15:04.000
+And then you go and check in the real world if those consequences work.
+
+15:04.000 --> 15:08.000
+And if they do, then you have an explanation.
+
+15:08.000 --> 15:18.000
+But then, then, somewhat later, you may find out that kind of thing explains lots of stuff, the theory, right?
+
+15:18.000 --> 15:21.000
+But at a certain point, it doesn't explain something.
+
+15:21.000 --> 15:24.000
+So you'll modify the whole works and start a new theory.
+
+15:24.000 --> 15:26.000
+And so you don't...
+
+15:26.000 --> 15:29.000
+The goal is to explain everything.
+
+15:29.000 --> 15:32.000
+The goal is to explain everything but step by step.
+
+15:32.000 --> 15:35.000
+You don't explain everything in one blow.
+
+15:35.000 --> 15:42.000
+The goal, if I understood you, if the goal is to explain everything, you were saying it's not possible.
+
+15:42.000 --> 15:53.000
+The goal of physics is to account for all physical phenomena, which includes all the careful phenomena.
+
+15:53.000 --> 16:03.000
+What does all mean? All is a function of time.
+
+16:03.000 --> 16:06.000
+But it's a function of time.
+
+16:06.000 --> 16:16.000
+Once I discover a new electron microscope or something, I'll find a new cyclotron or more powerful cyclotron.
+
+16:16.000 --> 16:26.000
+I'll may discover new things. And then all would have to include that. And the previous theory explained everything before that may not explain that one.
+
+16:26.000 --> 16:33.000
+But the reality exists whether or not. Whether you have an electron microscope when you are able to see viruses or not.
+
+16:33.000 --> 16:35.000
+Viruses exist.
+
+16:35.000 --> 16:40.000
+But somebody has to discover them before you say they exist.
+
+16:40.000 --> 16:46.000
+I take it in a slightly different direction though to follow up on Tim.
+
+16:46.000 --> 16:50.000
+The two points that you are making that seem to be in a kind of interesting tension with each other.
+
+16:50.000 --> 16:54.000
+On the one hand that the goal of physics is to provide an account for everything.
+
+16:54.000 --> 17:01.000
+All of reality, all of the physical reality. At the same time, there's much that physics can't explain that lies outside of physics.
+
+17:01.000 --> 17:08.000
+It seems like you're committed to the degree to which I understand the propositions.
+
+17:08.000 --> 17:11.000
+I think I'm also committed to each one of those things.
+
+17:11.000 --> 17:15.000
+But it also seems to me that there is an interesting tension between the two.
+
+17:15.000 --> 17:17.000
+And perhaps we could just sort of spell that out of it.
+
+17:17.000 --> 17:22.000
+Because I think that lies at the heart of what it is that animates this question.
+
+17:22.000 --> 17:25.000
+Yeah. Can I give a really simple example?
+
+17:25.000 --> 17:28.000
+One thing I don't want it to do is sound mystical.
+
+17:28.000 --> 17:33.000
+So let me demystify it as much as possible.
+
+17:33.000 --> 17:42.000
+I have an object in front of me on the desk and there is a pattern of light coming at me from it.
+
+17:42.000 --> 17:48.000
+And I say to the physicist, way physicist.
+
+17:48.000 --> 17:53.000
+And you please predict what's going to happen with this pattern.
+
+17:53.000 --> 17:57.000
+And they take the object and they subject it to complete physical analysis.
+
+17:57.000 --> 18:05.000
+And they say, all right, what you have is a spectrum of light that's shifting in a certain patterned way.
+
+18:05.000 --> 18:12.000
+From our analysis, it will continue doing this for exactly 2.83 years and then stop.
+
+18:12.000 --> 18:19.000
+Good. And I can't describe to you how difficult what I'm saying would be to do.
+
+18:19.000 --> 18:26.000
+That is you take this thing and you have to analyze it down to the level of electrons and solve impossible equations.
+
+18:26.000 --> 18:30.000
+And you have to find the physicists all kinds of powers he doesn't have.
+
+18:30.000 --> 18:34.000
+But in principle, physics could do.
+
+18:34.000 --> 18:40.000
+And then I ask the computer scientist to come into the office.
+
+18:40.000 --> 18:43.000
+And he walks in front of the same object.
+
+18:43.000 --> 18:49.000
+He doesn't even look at it. He glances at it and looks at the sheets of paper that are sitting next to it.
+
+18:49.000 --> 18:59.000
+And he says, what you're seeing is this little spinning disk of death that comes up on your computer, right?
+
+18:59.000 --> 19:04.000
+When it's just thinking. And he just glances down at the papers and says, you idiot.
+
+19:04.000 --> 19:10.000
+Step 12 in your program is go to step 18 and step 18 is to go to step 12.
+
+19:10.000 --> 19:16.000
+You've built a loop into your program and that little guy is going to spin forever.
+
+19:16.000 --> 19:19.000
+That is your program will never stop.
+
+19:19.000 --> 19:25.000
+Now, he makes a prediction too. He says that this little light will go on forever. He's wrong.
+
+19:25.000 --> 19:36.000
+It's actually going to go off in 2.83 years when certain circuits burn out of the computer, which the physicist is fine with, right?
+
+19:36.000 --> 19:45.000
+But the computer scientist has given me a heck of a lot more insight or understanding or comprehension of what's going on.
+
+19:45.000 --> 19:52.000
+Then the physicist has. And this has exactly to do with building a model.
+
+19:52.000 --> 20:03.000
+The computer scientist has an abstract model of the computer and of the programming that he says, I don't care how you realize this thing in physics, right?
+
+20:03.000 --> 20:08.000
+I don't care what kind of chips you're using. I don't care what kind of elements there are.
+
+20:08.000 --> 20:16.000
+As long as what you've realized is described well by this abstract model, I can tell you what it's going to do.
+
+20:16.000 --> 20:21.000
+And so this is again, this is the example of bringing. So there's no tension between.
+
+20:21.000 --> 20:28.000
+I think I understand this better now. So in a sense, so Jins Zooming out even further, if you imagine this as being like a still life painting,
+
+20:28.000 --> 20:34.000
+using your example from the arts from earlier. So this is still life painting of a table with a bottle on it.
+
+20:34.000 --> 20:40.000
+You can give a physical account of it. And so far as you're describing the properties of light and the way you just did.
+
+20:40.000 --> 20:47.000
+So it lies within physics in that sense. But that account probably will not tell you very much about the painting itself.
+
+20:47.000 --> 20:53.000
+Or making predictions for the future of that object.
+
+20:53.000 --> 20:58.000
+So it's a description that's valid for a moment of time.
+
+20:58.000 --> 21:06.000
+Snapshot. Yeah. And in terms of our understanding is valid if you were interested in the questions that it answers, I suppose.
+
+21:06.000 --> 21:11.000
+But doesn't go very far to answer the question, well, tell me about this painting.
+
+21:11.000 --> 21:15.000
+Tell me what tell me about its aesthetic properties. Tell me about its historical meaning.
+
+21:15.000 --> 21:21.000
+Right. We're even even let's go to prediction. You've taken the painting into some of these.
+
+21:21.000 --> 21:28.000
+And you say, I would like a prediction for how much someone's going to be willing to pay for this object next week.
+
+21:28.000 --> 21:31.000
+The physicists is not going to have a chance at that, right? No way.
+
+21:31.000 --> 21:39.000
+And this person may very well be able to look at it and say, yeah, this looks like an authentic, you know, and I know the market and I know what people are thinking.
+
+21:39.000 --> 21:42.000
+And here's my prediction for how much it's going to go for.
+
+21:42.000 --> 21:54.000
+We just say, I don't get this line of argumentation. Are we talking about, I mean, this program since we're talking about possibilities in the future?
+
+21:54.000 --> 22:01.000
+I was saying today the physics is nothing to say about anything. That's physics. Can't say anything about joys or something like that.
+
+22:01.000 --> 22:13.000
+But we're talking about future of mankind, right? Physics and science has existed for a few hundred years, but it's developed enormously.
+
+22:13.000 --> 22:24.000
+And I don't think you can limit just by saying, because you don't understand what the physics can do today, you can't say that physics or science can't do something in the future.
+
+22:24.000 --> 22:37.000
+You don't know what it'll be able to do. You don't know what kind of understanding of the market forces there will be so that you can really predict by your move.
+
+22:37.000 --> 22:40.000
+I think it was just being excessive for the sake of argument.
+
+22:40.000 --> 22:44.000
+No, I was saying everything I said was perfectly sincere.
+
+22:44.000 --> 22:47.000
+Since I'm not being obsessive about anything.
+
+22:47.000 --> 23:05.000
+You mean you don't think you're being obsessive when you say that there are lots of purposes and explanatory enterprises that we pursue, which look right now as though they give us information that it would be hard to get just doing physics.
+
+23:05.000 --> 23:08.000
+I think that it will never give us that information.
+
+23:08.000 --> 23:18.000
+Well, I think that we should just be, you know, it's odd, so I want to jump in here. I think it's really interesting how much certitude there is in these discussions rather than agnosticism.
+
+23:18.000 --> 23:22.000
+So, okay.
+
+23:22.000 --> 23:30.000
+And the very idea of the completeness of physics is ambiguous between a lot of things, and that's why the conversation had a hard time getting going.
+
+23:30.000 --> 23:44.000
+And I've heard a number of different things already come up. You made clear you don't think it is the case that every truth you might want to know would be a truth that counts as the truth of physical theory, right?
+
+23:44.000 --> 23:47.000
+Because we might have other enterprises.
+
+23:47.000 --> 23:51.000
+That's one way in which you could think about an incompleteness of physics.
+
+23:51.000 --> 24:03.000
+And then you say, oh, well, but it turns out it's complete because there's no event that takes place that doesn't come within the purview of sort of the question, how did it happen where the answer would get a physical explanation.
+
+24:03.000 --> 24:07.000
+So that's another notion of completeness, which looks ontological almost.
+
+24:07.000 --> 24:14.000
+Then you have fundamental order. That's your notion. And so there's some notion of fundamentality there.
+
+24:14.000 --> 24:24.000
+Okay. So my colleague David Albert says things like, you know, what if we've discovered all the fundamental particles and all the fundamental laws that govern the fundamental particles, then that's everything.
+
+24:24.000 --> 24:34.000
+Now, but what notion of everything is it? You've already, so I think there's a concession about how, if you know that, there's much you still don't know, right?
+
+24:34.000 --> 24:45.000
+Literally don't know if the descriptions of James's work or the truth about a program that's about possibilities and not physical facts.
+
+24:45.000 --> 25:00.000
+And so at that point, once you know all the fundamental forces, you know, all the fundamental particles and you know how the forces are mediated, then what you don't know is the relationship between those.
+
+25:00.000 --> 25:13.000
+There are two terms. There are two terms. There's a thing already tracked by physics and there are the things that we describe not in the terms of physical theory, not in terms of those fundamental particles and so on.
+
+25:13.000 --> 25:22.000
+So there are two related. I mean, there's no, I'm talking about the previous layer, like even within physics one, there is an argument about whether you can have a theory of everything.
+
+25:22.000 --> 25:34.000
+That's totally unified. Okay. So that's another sense. Okay. So good. All right. So that's another sense. And then we could add in, I think, a further sense about what's unknowable by human beings.
+
+25:34.000 --> 25:43.000
+Right. So the aspiration to a kind of complete true theory of the world, at least in the sense that the physicist is interested, which might be
+
+25:43.000 --> 25:53.000
+obsessive about what doesn't fall inside the theory and what's not reducible to it. And I would just say for the record there that I would plump for.
+
+25:53.000 --> 26:07.000
+That's where I stop being agnostic, I guess. I think it's a very theological picture of ourselves that we can know everything. And if we really believe we've evolved and we believe that we have cognitive abilities that are products of evolution, I think it's
+
+26:07.000 --> 26:23.000
+a small step to say that they're limited. Yeah. I mean, you know, and it's a small step also to say that they're various and that what they deliver might not be integratable into a single unified theory.
+
+26:23.000 --> 26:32.000
+Right. So there might be things beyond those capacities and what those capacities deliver might not all fit together in a unified theory.
+
+26:32.000 --> 26:46.000
+I think that's just stepping far back from the details of physics. I think those are sure things to bet on. Sure. Yeah. Okay. So the pretensions of the completeness of physics and have to be specified much more carefully, so you don't sound like you're just
+
+26:46.000 --> 27:01.000
+seeing something pretty obviously not true. And the other thing that I would just inject into the conversation is if you want to step back and just say, well, we have physical theory, we have the goals of physical theory as Tim described,
+
+27:01.000 --> 27:18.000
+and as you've described them, not as just modeling, but actually, purporting to get at fundamental ontology, fundamental laws, fundamental order, and that things in space and time can always fall under the net of physical explanation.
+
+27:18.000 --> 27:30.000
+I think that's a sense of completeness of physics. That's consistent with us not knowing everything and consistent with maybe not everything that we think take ourselves to know being integratable into a single theory.
+
+27:30.000 --> 27:58.000
+Unified, reductive, or whatever. Once you get that far with the question of the completeness of physics, then I think I would just suggest that one good way to proceed is to ask, are there things we haven't yet put on the table that look like they're not promising candidates for understanding
+
+27:58.000 --> 28:12.000
+and physical terms, and that they're so distant from it that it starts to look, then you start to worry about completeness of physics. So the example I would give is first person point of view.
+
+28:12.000 --> 28:24.000
+There are many ways to think about it. There's bodily point of view from which you perceive and move. There's phenomenological point of view from which it's something that it's like to feel things.
+
+28:24.000 --> 28:37.000
+There's also a normative point of view from which you can reason and deliberate. They're not the same thing at all. But there are questions about whether I suppose physicists now say that there's something fundamentally
+
+28:37.000 --> 28:59.000
+perspectival about reality itself. I would start by just trying to think about what are the features of things accessible, we're inclined to say only from a first person point of view. And is there a tension between thinking about things under that description, accessible only from a first person point of view,
+
+28:59.000 --> 29:07.000
+and bringing it under the scope of physical explanation. That's one place where I would push and explore.
+
+29:07.000 --> 29:18.000
+That sounds right to me. I think this is compatible, I believe, with the point that Tim and I were working out earlier, which is that you could perhaps give something like a physical account of that.
+
+29:18.000 --> 29:28.000
+There wouldn't be an explanation of it, I suppose, or it wouldn't be a satisfying explanation of what something is like from a first person point of view. I would just add to that that there's most of the questions and topics that I think people care deeply
+
+29:28.000 --> 29:43.000
+about who aren't working on physics probably would fall under that broad domain, which is to say you could give it, you know, they're not outside of the scope of physical reality, but they nevertheless can't really be given a physical explanation.
+
+29:43.000 --> 30:03.000
+And I would add to first person point of view, most of human culture, that was my example of the arts earlier, but that's just one piece of it. I mean, most of human history, most of human culture, most of the kind of questions that people care about and are interested in who are not actually working
+
+30:03.000 --> 30:27.000
+on a physical basis, which is maybe to be sort of consensus from the other side, which is to say that physics is obviously very powerful in the ways that we've been just been told, but it's also the way that it could actually provide knowledge for us about much of what we care about is actually quite limited,
+
+30:27.000 --> 30:34.000
+I think probably a pretty deep relationship between those limits and its power. If that makes sense.
+
+30:34.000 --> 30:54.000
+That makes sense, yeah. It's, I guess what I take that point. What I'm looking for is perhaps an exploration of the features of the first person point of view that are detailed enough,
+
+30:54.000 --> 31:05.000
+that so not like broad things about the kinds of things we care about and being acculturated and so on and products of history and having lots of purposes besides physical explanation, all of that's true.
+
+31:05.000 --> 31:20.000
+But if you just think of the nature of the first person, that nature threw up first person points of view, so to speak, you know, just think about some of their most fundamental features and ask what would it look like to try to tackle that in a physicist spirit.
+
+31:20.000 --> 31:27.000
+That's what I'm looking for. I'm kind of agnostic, but I have places where I have doubts anyway, so that's what I am inviting.
+
+31:27.000 --> 31:39.000
+Well, look, I sort of agree with the sentiments that you're expressing, but I still don't want to stick to the thing as a situation like this that we are talking about science.
+
+31:39.000 --> 31:52.000
+Science is something that's very young and just starting, and it's not just models, it is only models, I would say science is only models.
+
+31:52.000 --> 32:04.000
+You don't have, there's no way of doing something without presupposing some kind of simplified object which we then work with.
+
+32:04.000 --> 32:13.000
+You don't, if you say the distance from this point to that point is so much, there's no such thing as a point, no such thing as this.
+
+32:13.000 --> 32:24.000
+This is some sort of model that you can describe very precisely and it has some sort of relation to what we call distance, but it's all models.
+
+32:24.000 --> 32:27.000
+That's what I say, model.
+
+32:27.000 --> 32:47.000
+That's my first, let me just make another little point. So, I think science is models. I agree with the other things that sentiments expressed, I think, where the beginning of science, but I don't think we can upreory put on limitations and say science will not be able ever to explain such and such.
+
+32:47.000 --> 32:57.000
+You don't know, it's been historically it's been proven that many things that were thought completely unexplainable suddenly became explainable by science.
+
+32:57.000 --> 33:06.000
+Science is an evolving thing, there's no such thing as something that's been completely established.
+
+33:06.000 --> 33:25.000
+History is that you find a certain model that corresponds to a certain situation and it's very good if it corresponds to further stuff that you didn't expect, but you can't say that it's not going to be good forever because history has shown that usually you find something beyond that
+
+33:25.000 --> 33:28.000
+that the model doesn't apply to and then you have to change the model.
+
+33:28.000 --> 33:48.000
+I mean the provisionality is sort of a given, but I wanted to sort of make two points. The first is that this question in itself to make it an interdisciplinary one requires sort of a few rounds of the merry-go-round before we can really get to the question.
+
+33:48.000 --> 34:02.000
+I think that the key point for me is it's really the nature of reality. So the nature of reality that complexity of the nature of reality.
+
+34:02.000 --> 34:09.000
+So for example, I actually disagree that the only things we care about are the painting or representation.
+
+34:09.000 --> 34:15.000
+We care about the physical world, the fact that you can make predictions with physics, we care about that.
+
+34:15.000 --> 34:29.000
+That's part of the things that we care about. It's not separate. It's not separate. The way you were sitting at sound like that's the separate thing other than the light going back to Tim's example that there's the representation of this object or whatever.
+
+34:29.000 --> 34:46.000
+So I think the first issue is reality and the descriptors of reality be they subjective or mathematical descriptors. Let's just collapse all the model mathematics. Let's just make it mathematics.
+
+34:46.000 --> 35:07.000
+So that kind of description of reality, the individual person, there's something obviously innately universal within quotation marks where it doesn't matter if I don't like 2 plus 2 equals 4.
+
+35:07.000 --> 35:21.000
+It's not a matter of my subjective desires or particular perspective on what the sum of those 2 numbers is.
+
+35:21.000 --> 35:44.000
+I think to me the fact that there is this domain of reality, a description that we can all agree upon and demarcating that from the domains that we cannot agree upon because of each individual haptic experience of reality.
+
+35:44.000 --> 35:54.000
+I think introducing the idea of the first person point of view suggests this notion of subjectivity and disagreement, but it isn't what I meant.
+
+35:54.000 --> 36:11.000
+I think it's quite possible that what we think about when we deliberate and ask what it would be best to do is not a matter of what I like and it might be that there aren't in the end really truly irrez eyeable disagreements about that.
+
+36:11.000 --> 36:16.000
+It might be that there are real matters of value to investigate and find out about.
+
+36:16.000 --> 36:25.000
+But the point about a deliberative point of view is that you have to ask the question from the first person point of view.
+
+36:25.000 --> 36:28.000
+What would it be best for me to do given all that I think?
+
+36:28.000 --> 36:33.000
+Now, thinking isn't the same thing as thinking from the fact you have to think from what you think.
+
+36:33.000 --> 36:35.000
+Okay, so that's where the subjectivity comes in.
+
+36:35.000 --> 36:43.000
+Those thoughts are still answerable to reality, whether they're evaluative thoughts or cognitive attitudes, I would say.
+
+36:43.000 --> 36:45.000
+Yeah, Tim's been waiting a while.
+
+36:45.000 --> 36:47.000
+I'll try and be very brief.
+
+36:47.000 --> 36:55.000
+I just want to reframe some of what was said in a way, at least I find helpful.
+
+36:55.000 --> 37:02.000
+So here are some things that I think cannot and never will be reducible to physical truth.
+
+37:02.000 --> 37:07.000
+The big one with respect to first person point of view is consciousness.
+
+37:07.000 --> 37:08.000
+That's the mind body problem.
+
+37:08.000 --> 37:12.000
+I see no prospect of physics ever solving the mind body problem.
+
+37:12.000 --> 37:13.000
+I'm agnostic.
+
+37:13.000 --> 37:14.000
+Let me just talk about it.
+
+37:14.000 --> 37:15.000
+This is my credo.
+
+37:15.000 --> 37:16.000
+Okay?
+
+37:16.000 --> 37:18.000
+What else is there that's not physical truth?
+
+37:18.000 --> 37:20.000
+I think there's such a thing as mathematical truth.
+
+37:20.000 --> 37:21.000
+It's not physical truth.
+
+37:21.000 --> 37:22.000
+It's independent of physics.
+
+37:22.000 --> 37:26.000
+The mathematician may well disagree with me, curiously enough.
+
+37:26.000 --> 37:28.000
+I think they're ethical and moral truths.
+
+37:28.000 --> 37:33.000
+Some of them, which are not physical truths, and are completely unaffected by physics.
+
+37:33.000 --> 37:34.000
+They don't have to be fixed.
+
+37:34.000 --> 37:37.000
+I think some of them are fixed.
+
+37:37.000 --> 37:38.000
+Is this controversial?
+
+37:38.000 --> 37:40.000
+I'm just laying out there.
+
+37:40.000 --> 37:41.000
+Okay?
+
+37:41.000 --> 37:45.000
+That's objective moral realist.
+
+37:45.000 --> 37:48.000
+I'm a plate-mist in mathematics.
+
+37:48.000 --> 37:56.000
+The last little point, just conceptually, just to make sure we don't drift, there are two questions that got compressed at a moment.
+
+37:56.000 --> 38:02.000
+Oh, I'll make one more point after this, which was how much can physics explain and how much can science explain?
+
+38:02.000 --> 38:05.000
+And my whole point was that there's lots of science that is in physics.
+
+38:05.000 --> 38:07.000
+And I was talking about the limitations of physics.
+
+38:07.000 --> 38:09.000
+Those are not the limitations of science.
+
+38:09.000 --> 38:17.000
+How far science goes and what in principle can be brought under a scientific method in so far as there is one?
+
+38:17.000 --> 38:20.000
+Is it quite a different and much more difficult problem?
+
+38:20.000 --> 38:21.000
+And what's your big one?
+
+38:21.000 --> 38:22.000
+Consciousness and that?
+
+38:22.000 --> 38:26.000
+Well, could there be a science of consciousness?
+
+38:26.000 --> 38:27.000
+So you see how these intersect?
+
+38:27.000 --> 38:31.000
+The last point, I'll just make it very quickly, is just a point of disagreement.
+
+38:31.000 --> 38:36.000
+I don't believe that physics or science has to always be models and so on.
+
+38:36.000 --> 38:46.000
+I think that when you could write down the rules of Euclidean geometry, he was under the belief that he was describing the physical world.
+
+38:46.000 --> 38:49.000
+He was describing the thing I'm waving my hands around it, can I finish?
+
+38:49.000 --> 38:54.000
+And he thought it was accurate and perfectly correct, and he could have been right.
+
+38:54.000 --> 38:57.000
+It just turns out he wasn't, but he could have been right.
+
+38:57.000 --> 39:02.000
+And if he was right, then geometry would have been done.
+
+39:02.000 --> 39:03.000
+Period.
+
+39:03.000 --> 39:07.000
+And I think physicists think that can still happen and I believe it can still happen.
+
+39:07.000 --> 39:10.000
+I disagree with everything you said.
+
+39:10.000 --> 39:13.000
+Yes, as I would have predicted.
+
+39:13.000 --> 39:15.000
+Predictive accuracy.
+
+39:15.000 --> 39:19.000
+Let's see now.
+
+39:19.000 --> 39:30.000
+I don't know if you want to go through all of this, but it seems to me, first of all, that when you have a discussion like this, you can't differentiate between science, what science, what physics, what's this.
+
+39:30.000 --> 39:33.000
+There's something called a scientific method.
+
+39:33.000 --> 39:37.000
+And that's what we are, I think, talking about.
+
+39:37.000 --> 39:48.000
+And it seems to me that scientific method is something that's been very successful up to a certain point, and we can hope that it will continue to be more and more successful.
+
+39:48.000 --> 39:51.000
+And whether we, and it's very...
+
+39:51.000 --> 39:52.000
+But it's very...
+
+39:52.000 --> 39:53.000
+It doesn't really work.
+
+39:53.000 --> 39:54.000
+What?
+
+39:54.000 --> 39:58.000
+But in practice, scientific method doesn't quite work the way...
+
+39:58.000 --> 40:02.000
+No, of course, it seems to say here that I mean, this should come from outside of philosophy.
+
+40:02.000 --> 40:10.000
+It was one of the most interesting work and philosophy of science that I've read has been about establishing relations between physics and the special sciences.
+
+40:10.000 --> 40:12.000
+I mean, there's interesting questions of production there.
+
+40:12.000 --> 40:14.000
+Okay, look, the next one.
+
+40:14.000 --> 40:15.000
+The other one.
+
+40:15.000 --> 40:16.000
+Okay, there.
+
+40:16.000 --> 40:17.000
+I think there are two questions here.
+
+40:17.000 --> 40:18.000
+Yeah.
+
+40:18.000 --> 40:23.000
+There's a question about reductionism inside each specialty.
+
+40:23.000 --> 40:33.000
+Even a very big question about reductionism inside mathematics, because there are various parts of mathematics, how they relate, how they're reduced to each other, and in physics.
+
+40:33.000 --> 40:36.000
+And inside and by... how is biology can be reduced to...
+
+40:36.000 --> 40:37.000
+Those are the...
+
+40:37.000 --> 40:39.000
+In my field, those are details.
+
+40:39.000 --> 40:52.000
+The question, the whole philosophical question seems to me, is how far science can reach to explain things, scientific scientific method, which is everything that we call science.
+
+40:52.000 --> 41:04.000
+And there, it seems to me, you cannot... right now it reaches only a certain extent a lot, but a little at the same time.
+
+41:04.000 --> 41:11.000
+It's lots of things that we have no idea about, but even for mathematics too, for that matter.
+
+41:11.000 --> 41:24.000
+But then, so beyond that, the question is, can you say, point to something and say, this will never be understood or enlightened by the scientific method?
+
+41:24.000 --> 41:26.000
+I say, that's just false.
+
+41:26.000 --> 41:28.000
+We don't...
+
+41:28.000 --> 41:29.000
+We...
+
+41:29.000 --> 41:36.000
+It may be true in that particular case, but you cannot assert that with any certainty that you'll never understand something.
+
+41:36.000 --> 41:47.000
+I understand that as a kind of faith and I admire it, but I think also at the same time that there are dimensions to their world that required really to understand them ways of...
+
+41:47.000 --> 41:52.000
+ways of investigating that really are not... that are not scientific or don't follow the scientific method.
+
+41:52.000 --> 42:05.000
+And then again, just to follow up on that point, I think much of what not all of what we care about, but much of what we care about, actually would fall under that code.
+
+42:05.000 --> 42:07.000
+I agree with you.
+
+42:07.000 --> 42:14.000
+I want to give you an example of something which agrees with your point, but it illustrates my point also.
+
+42:14.000 --> 42:34.000
+Many years ago, I was in a very situation where we had a person in South America who was taken to a hospital and infection on his foot, and they decided to amputate the lake.
+
+42:34.000 --> 42:48.000
+And this person, a 16-year-old kid, ran away from the hospital, went to the mountains to the shaman or something, and they treated him with some kind of thing, and this was what was saved.
+
+42:48.000 --> 42:49.000
+Okay?
+
+42:49.000 --> 43:03.000
+So obviously, this sort of points your point, that in some situations you should get away from the scientists and have people who have experiences, such and such.
+
+43:03.000 --> 43:19.000
+But later on, if you investigate that, it was shown that the shaman applied something that... before antibiotics were discovered, it was really had antibiotics with it, and boiling the moon-nose-watt together.
+
+43:19.000 --> 43:40.000
+So it seems to me that it's true that at any given moment of time, there are lots of things which are not going to be understood for the point of view of science, of scientific reasoning, and you have to rely on experiences and traditions and guesses of all sorts and intuitions, etc.
+
+43:40.000 --> 43:48.000
+But to say, a priori that such and such will never be understood by scientific method, I think, is just not reasonable.
+
+43:48.000 --> 44:12.000
+I think it's a matter of worldview, and I think that, and where and why I call it worldview is you can come from a worldview, like the one that probably Tim and I share, which is of epistemic humility, which is why should this gelatinous thing between our years
+
+44:12.000 --> 44:18.000
+give us the capability to figure everything out, including itself?
+
+44:18.000 --> 44:24.000
+Saying never is not a sign of humility.
+
+44:24.000 --> 44:26.000
+There it is.
+
+44:26.000 --> 44:35.000
+Can I just again make one brief and very controversial intervention here.
+
+44:35.000 --> 44:42.000
+I'll go out of character for a minute.
+
+44:42.000 --> 44:52.000
+I don't think as a philosopher of science, and I think the general agreement of all philosophers of science at this point, there is no such thing as a scientific method.
+
+44:52.000 --> 44:53.000
+That's just a myth.
+
+44:53.000 --> 44:56.000
+There is no method that all sciences use.
+
+44:56.000 --> 45:06.000
+And so to say, we just have to use the scientific method is empty.
+
+45:06.000 --> 45:11.000
+There are certain there are some good experimental techniques.
+
+45:11.000 --> 45:13.000
+There's double-blinding.
+
+45:13.000 --> 45:17.000
+There's some things you can guard yourself against that are fairly general.
+
+45:17.000 --> 45:22.000
+But there's no, you know, take the scientific method and do economics.
+
+45:22.000 --> 45:23.000
+What does that even mean?
+
+45:23.000 --> 45:27.000
+And ask for the particular evidence they have and criticize it.
+
+45:27.000 --> 45:31.000
+But there just is no such thing.
+
+45:31.000 --> 45:35.000
+Okay, so I think that there is such a thing as a scientific method.
+
+45:35.000 --> 45:42.000
+And it's something that all of us know and agree with deep inside if they think about it.
+
+45:42.000 --> 46:04.000
+The scientific method basically is that you observe the world or think about the world and in some way organize ideas about it and then check it out where it's true or not.
+
+46:04.000 --> 46:06.000
+That's basically the scientific method.
+
+46:06.000 --> 46:14.000
+And that actually covers at least all of the disciplines in which case I entirely agree with you.
+
+46:14.000 --> 46:17.000
+That's not scientific.
+
+46:17.000 --> 46:19.000
+You're uniquely scientific about it.
+
+46:19.000 --> 46:24.000
+It means rigor, it means aiming at truth, accounting for the world, then sure.
+
+46:24.000 --> 46:29.000
+I mean, that's the same for my department of English literature, the same for the anthropology department.
+
+46:29.000 --> 46:31.000
+Another way of saying it.
+
+46:31.000 --> 46:33.000
+But I don't think any of us are going to be physics in the long run.
+
+46:33.000 --> 46:41.000
+Another way of saying it is that you're thinking about things, you're forming a certain model, and then you check it against reality.
+
+46:41.000 --> 46:46.000
+Okay, so one thing that for sure, according to you, does not follow the scientific method is mathematics.
+
+46:46.000 --> 46:49.000
+No, no.
+
+46:49.000 --> 46:51.000
+It's a...
+
+46:51.000 --> 46:53.000
+I mean, we should kick you out of the science department.
+
+46:53.000 --> 46:55.000
+The science part of science and human science.
+
+46:55.000 --> 47:05.000
+The scientific method is to construct this concept, and that's usually done by using mathematics.
+
+47:05.000 --> 47:08.000
+But you don't check mathematics empirically.
+
+47:08.000 --> 47:11.000
+Yeah, you don't check mathematics in itself, right?
+
+47:11.000 --> 47:13.000
+No, well, sure.
+
+47:13.000 --> 47:16.000
+You have something called...
+
+47:16.000 --> 47:22.000
+You have language and mathematics and things to communicate with, that's...
+
+47:22.000 --> 47:25.000
+No, but it's an internal consistency.
+
+47:25.000 --> 47:37.000
+And those who understand the science of our time, as well as the mathematician here, a question about the significance of our mathematical capacities.
+
+47:37.000 --> 47:46.000
+Since, you know, one of the really exciting things about physics that everybody's been emphasizing is that the world became mathematically tractable in a new and exciting way with the rise of physics.
+
+47:46.000 --> 47:49.000
+And it continues beyond expectations.
+
+47:49.000 --> 47:51.000
+And it continues beyond expectations.
+
+47:51.000 --> 47:53.000
+Okay, so...
+
+47:53.000 --> 47:56.000
+So that is exciting.
+
+47:56.000 --> 48:07.000
+I even remember in high school physics, I was in a school where it was progressive science, so you actually were supposed to figure out scientific theory, which was silly.
+
+48:07.000 --> 48:17.000
+But anyway, I was taking calculus at the same time that I was doing physics experiments and loading carts with stones and timing their velocity and plotting acceleration.
+
+48:17.000 --> 48:27.000
+And I got to this point where the graphs I was learning to plot in calculus were identical, but the graphs I was plotting about velocity and acceleration.
+
+48:27.000 --> 48:29.000
+And I got goosebumps.
+
+48:29.000 --> 48:32.000
+It was like, ooh, you know, this a priori thing.
+
+48:32.000 --> 48:33.000
+It's not just a model.
+
+48:33.000 --> 48:43.000
+It seems like our capacity to work with these a priori concepts was enabling us to mainline features, like very stable features of change in space and time.
+
+48:43.000 --> 48:46.000
+And that was like an incredibly exciting moment.
+
+48:46.000 --> 48:49.000
+My 17-year-old life left an indelible impression.
+
+48:49.000 --> 48:50.000
+Okay.
+
+48:50.000 --> 49:14.000
+So when I think about the fact that, you know, if you're not a non-naturalist altogether about human beings and human capacities, this capacity to do mathematics, which gave us a capacity to track so many interesting features of things in space and time, just looks like it calls for some sort of study.
+
+49:14.000 --> 49:16.000
+Right. So, and I'm sure people have done it.
+
+49:16.000 --> 49:17.000
+This is not my field.
+
+49:17.000 --> 49:21.000
+I came to inject stuff about point of view today, which I'm not even doing very much of.
+
+49:21.000 --> 49:23.000
+Maybe we'll get through later.
+
+49:23.000 --> 49:32.000
+But, you know, some of the capacities we're born with, I think arguably aren't helpful for doing science.
+
+49:32.000 --> 49:41.000
+So I think personally that our disposition to track things in terms of essences, to say, you know, what's the essence of a table?
+
+49:41.000 --> 49:46.000
+Or it's necessary and sufficient conditions for being a table is not very useful for science.
+
+49:46.000 --> 49:47.000
+Biology got rid of it.
+
+49:47.000 --> 49:49.000
+We no longer look for the essences of species.
+
+49:49.000 --> 49:50.000
+Right.
+
+49:50.000 --> 49:54.000
+So, but we are all essentialists in our cognitive development.
+
+49:54.000 --> 49:56.000
+We just think in essentialist terms.
+
+49:56.000 --> 49:59.000
+And I think scientifically we've learned to transcend that capacity.
+
+49:59.000 --> 50:06.000
+We've learned to transcend the way things look in order to get deeper physical explanations of some of the things we learned by sight.
+
+50:06.000 --> 50:17.000
+And so there are these questions I have about which of our psychological capacities are our best tools for actually the project of the tracking mind independent reality.
+
+50:17.000 --> 50:21.000
+And it's most elevated ambition, right, you know, to do that.
+
+50:21.000 --> 50:34.000
+And so wouldn't it be interesting if there was a physical explanation of an emergence of a capacity to track in these structures so that you're kind of of what you're tracking in some sense.
+
+50:34.000 --> 50:35.000
+Right.
+
+50:35.000 --> 50:58.000
+And that to me looks like in a sort of interesting way of completing physics, right, to sort of understand how one of the capacities you need to do at mathematics would have, interestingly, possibly some kind of physical explanation because of the way in which the physics of the brain
+
+50:58.000 --> 51:09.000
+enables these funny structures to be constructed mentally, which then are useful for, as you say, modeling or predicting or whatever else things outside it, right.
+
+51:09.000 --> 51:12.000
+You know, that just looks like a really exciting domain of study to me.
+
+51:12.000 --> 51:16.000
+And that's part of psychology, which I wouldn't say is the first person point of view.
+
+51:16.000 --> 51:20.000
+That's a capacity to compute certain things.
+
+51:20.000 --> 51:23.000
+That's not got to do with the first person point of view.
+
+51:23.000 --> 51:35.000
+So anyway, so I was just wondering what, like, I'm sure you, we all marvel at how the fact that we can do mathematics seems independent of induction and empirical methods, and yet it drives them when science gets good.
+
+51:35.000 --> 51:36.000
+Right.
+
+51:36.000 --> 51:38.000
+That's like an interesting and exciting fact.
+
+51:38.000 --> 51:52.000
+And so what would it be to be open minded about a way in which physical understanding could complete our understanding of ourselves as having a capacity for mathematics.
+
+51:52.000 --> 52:02.000
+I can give a really quick sketch of something that is in the area of what you just said, and is highly speculative.
+
+52:02.000 --> 52:09.000
+The Greeks divided mathematics into arithmetic and geometry.
+
+52:09.000 --> 52:14.000
+And arithmetic, they really meant the theory of whole numbers, as we would say, counting numbers.
+
+52:14.000 --> 52:16.000
+Those were the only numbers there were.
+
+52:16.000 --> 52:22.000
+And geometry, the theory of magnitudes, and in particular, what we would call spatial structure.
+
+52:22.000 --> 52:43.000
+That we have a capacity to think about spatial structure, especially kind of Euclidean space, is explained perfectly well by evolution on the assumption that we live in a sort of spatial structure, which is pretty nearly not quite Euclidean.
+
+52:43.000 --> 52:57.000
+And so to survive any animal would have to evolve a really efficient map, way to map, and think about and predict, because you think any animal that's going to make a decision has to make a prediction.
+
+52:57.000 --> 52:59.000
+If I do this, this will happen.
+
+52:59.000 --> 53:01.000
+If I do that, that'll happen.
+
+53:01.000 --> 53:06.000
+All of this is modeled in this geometrical arena.
+
+53:06.000 --> 53:16.000
+So that we can do that well is not so surprising, visual processing, this is all again bringing things into a kind of spatial representation.
+
+53:16.000 --> 53:28.000
+The interesting thing that happened in math was that at a certain point, the arithmetic part that had to do with numbers, what they kept doing was inventing or discovering more and more numbers.
+
+53:28.000 --> 53:34.000
+So start with the integers, then you get the rational numbers, then you get the real numbers, then you get the negative numbers, then you get the complex numbers.
+
+53:34.000 --> 53:51.000
+And then there was this amazing thing of being able to translate between geometry and algebra and take geometrical problems and put them in algebraic form and have these powerful ways of solving the algebraic problems and then translating them back into the geometrical
+
+53:51.000 --> 54:05.000
+language, and then geometry itself got pushed into a smaller, smaller corner and everything grew the other way.
+
+54:05.000 --> 54:09.000
+All of that, I think, is extremely interesting.
+
+54:09.000 --> 54:15.000
+I mean, that's a kind of magical part, these interconnections among mathematical concepts themselves that you don't think are going to be there that turn out to be true, which is just astonishing.
+
+54:15.000 --> 54:22.000
+But our ability anyway to think geometrically, I think, has a pretty clear explanation, and the basics of counting do too.
+
+54:22.000 --> 54:31.000
+And more interested in our capacity to think the dot dot dot of infinity and to do mathematical induction and other things.
+
+54:31.000 --> 54:32.000
+Yeah.
+
+54:32.000 --> 54:44.000
+Well, I think the way I interpret your question is the following, and I think that's the real interpretation is that, okay, there are all these intuitions that we have about space and so on, that comes, as you say,
+
+54:44.000 --> 55:04.000
+but the real thing that makes mathematics mathematics is the fact that you can have rules for deduction, which have been, and that's the great discovery of the Greek city beyond geometry, that you have the rules of logic.
+
+55:04.000 --> 55:12.000
+And that really hasn't been developed over the centuries and hasn't really been understood completely until Gertel,
+
+55:12.000 --> 55:29.000
+where he actually has a complete, all these various books that are, from Aristotle on, that he wrote on these different ways of different logical principles and different reductions in this.
+
+55:29.000 --> 55:45.000
+All of that can be, has been sort of something called Gertel completeness theorem, showed exactly the complete system of rules that you can ever use to deduce things.
+
+55:45.000 --> 55:54.000
+And that is, I think the important thing, how can the human mind have ever gotten to that, takes to hundreds of years?
+
+55:54.000 --> 56:12.000
+And then I think is the essence of mathematical reasoning is that you have these things of proofs, you start with certain assumptions and you have proofs which are sort of incontrovertible, everybody agrees that this follows from that.
+
+56:12.000 --> 56:19.000
+And I think that's the question, which is probably, which, but...
+
+56:19.000 --> 56:24.000
+The physical realization of mathematical process is kind of what I'm saying.
+
+56:24.000 --> 56:42.000
+One of the questions that would be very hard to get some insight, maybe you can get some insight by some understanding of the brain and so on, but that's a kind of a very hard question.
+
+56:42.000 --> 56:57.000
+Still though, sorry to keep harping about reality and our capacity to comprehend that reality beyond just sensory comprehension, right, modelled to abstract it, use mathematics.
+
+56:57.000 --> 57:12.000
+Do we still the most intriguing question, meta question that, you know, for given what you pointed out, is why the heck is mathematics? Why does it work so well?
+
+57:12.000 --> 57:24.000
+Not just our capacity to do it, but in its explanatory power about physical phenomena, what is it about physical phenomena, right?
+
+57:24.000 --> 57:27.000
+That's why it's so tempting to think about something.
+
+57:27.000 --> 57:44.000
+So it's not merely just a language, so you can't just abstract it to the level of language learning, which again, you know, one could easily say, evolutionally advantageous and so on, right, but beyond that, there's a deeper, to me, what's intriguing is that it appears to be something
+
+57:44.000 --> 57:51.000
+deeper than that, right, which is why it has the explanatory power that it does, right?
+
+57:51.000 --> 58:11.000
+Is there something deeper about the nature of reality itself that is organized in such a fashion that this is the framework that allows you to access it, and therefore, the kinds of questions, qualia that you might be interested in, that this
+
+58:11.000 --> 58:24.000
+framework is not automatically adaptable to mathematical framework. They don't give you the same glimpse of reality, right? So I think that's one way to frame.
+
+58:24.000 --> 58:46.000
+I mean, observation is quite right, but also, of course, they are around because in many ways, mathematics comes out of physics. Like, for example, not only from the, you started doing these things by measurement and so on, but almost anything like, for example,
+
+58:46.000 --> 59:09.000
+a very powerful thing that was in the 19th century, something called, it was discovered called the Dirichlet principle, which basically means that you can do a certain way of proving existence of things by, I don't know mind, I wasn't.
+
+59:09.000 --> 59:29.000
+Anyway, so this is principle, and then amazingly enough, Riemann used this to prove all sorts of mathematical theorems, which are geometry, which are very powerful in anthropology, and then came Varystrass and said, this principle doesn't work.
+
+59:29.000 --> 59:54.000
+And gave examples where the principle doesn't work. Then there was a period of about 50 years where people tried to figure out what's really going on there and found out exactly under what circumstances the principle works, and that developed the theory of partial differential equations and also Riemann's work applied to flows, analysis of liquid flows.
+
+59:54.000 --> 01:00:00.000
+So there's a kind of complete, you know, something made of somebody, I may come from physics, then it gets...
+
+01:00:00.000 --> 01:00:11.000
+I'm not as intrigued about the causative connections. I mean, yes, sometimes this, you know, things come out of whatever.
+
+01:00:11.000 --> 01:00:14.000
+But to me still, the question is...
+
+01:00:14.000 --> 01:00:17.000
+With that mystery, sorry, you want to tell you...
+
+01:00:17.000 --> 01:00:29.000
+I think I understand your question correctly, Brie, why is it that reality, physical reality seems to be so uniquely explainable by or fit with mathematical rules formula.
+
+01:00:29.000 --> 01:00:33.000
+And that's...
+
+01:00:33.000 --> 01:00:20.000
+I'd like to hear more about that. That sounds fascinating to me. This is not nothing I know anything about, except for that it seems to be in some potential interesting, again, tension with what Carol was describing earlier as our moving away from the
+
+01:00:20.000 --> 01:00:49.000
+essence is, since you're talking about things are somehow kind of boiling in the sense that it's not going to be a problem.
+
+01:00:49.000 --> 01:01:00.000
+So there's something intrinsically orderable about the physical world that seems to fit up with the formal order of mathematics.
+
+01:01:00.000 --> 01:01:18.000
+And so the kinds of things that might be of interest to us that don't fit that rubric of mathematics might be what limit those points of view from being encompassed into physics and a description of freedom.
+
+01:01:18.000 --> 01:01:21.000
+And a description of reality.
+
+01:01:21.000 --> 01:01:29.000
+I'm going to make a kind of weird thing here, because I feel like Jonathan's been sitting here very patiently.
+
+01:01:29.000 --> 01:01:35.000
+And something went by quickly, and then I just want to come back and ask you about this.
+
+01:01:35.000 --> 01:01:47.000
+So there was the idea that the essence of scientific method is that in science you come up with a theory, it makes some empirical predictions.
+
+01:01:47.000 --> 01:01:58.000
+You go and check and the world can push back on your theory, because the empirical predictions can just turn out to be wrong.
+
+01:01:58.000 --> 01:02:09.000
+And this is certainly part of the understanding of why physics is at a certain point was so successful because they got lots of data that would push back.
+
+01:02:09.000 --> 01:02:13.000
+And you said, well, then that's sort of everything.
+
+01:02:13.000 --> 01:02:18.000
+And I'm just curious about how far you think that goes. I mean, you'd certainly a historian, right?
+
+01:02:18.000 --> 01:02:23.000
+The world can push back. A literary theorist. Do you think the world can push back?
+
+01:02:23.000 --> 01:02:25.000
+Or, of course. So can you just...
+
+01:02:25.000 --> 01:02:38.000
+Yeah, no, the world can push back in so far as the corner of the world, that literary theorist or literary scholars or those who work in that section of the humanities are concerned with is the world of text or artworks.
+
+01:02:38.000 --> 01:02:48.000
+They push back all the time. In some ways I think actually my section of the humanities is perhaps the most empirical corner of the academy.
+
+01:02:48.000 --> 01:02:58.000
+And so far as we are constantly trying to make our interpretations or explanations of our phenomena adequate to the material that we're engaging.
+
+01:02:58.000 --> 01:03:00.000
+Texts, artworks, what have you.
+
+01:03:00.000 --> 01:03:10.000
+So they push back in the sense that something seems wrong about what we are saying or attempting to describe our time.
+
+01:03:10.000 --> 01:03:12.000
+So let me just, sure, be sure I understand.
+
+01:03:12.000 --> 01:03:15.000
+It's not my understanding and I would be curious to know.
+
+01:03:15.000 --> 01:03:22.000
+So there are literary theories. I don't know them well. I'm way out of my depth.
+
+01:03:22.000 --> 01:03:23.000
+Sure.
+
+01:03:23.000 --> 01:03:25.000
+But at some point deconstruction was a big deal.
+
+01:03:25.000 --> 01:03:27.000
+Very, very, very deal.
+
+01:03:27.000 --> 01:03:35.000
+Is it that you could go into a library and find in a dusty corner a text and open it and say, hey, Derrida, I was wrong.
+
+01:03:35.000 --> 01:03:46.000
+Well, this text is incompatible with whatever it was he was doing. Can we kill off literary crazes, theoretical crazes?
+
+01:03:46.000 --> 01:03:47.000
+Yeah.
+
+01:03:47.000 --> 01:03:48.000
+Empirically like that?
+
+01:03:48.000 --> 01:03:51.000
+No, it wouldn't work exactly like that.
+
+01:03:51.000 --> 01:04:08.000
+But I think it would be more along the lines of certain schools of thought that guided interpretation seemed like they were over time less compelling or convincing with what they had to say about the world that we were endeavoring to explain.
+
+01:04:08.000 --> 01:04:13.000
+There may be dimensions to them that actually one wants to hold on to.
+
+01:04:13.000 --> 01:04:30.000
+But I think that actually literary critical practice was on the ground very rarely taking a set of ideas from a theorist or a philosopher like Derrida and then just using it to smush whatever we were engaging.
+
+01:04:30.000 --> 01:04:32.000
+At least not when it was done well.
+
+01:04:32.000 --> 01:04:39.000
+But isn't the notion of validation that we have in science is fundamentally different?
+
+01:04:39.000 --> 01:04:44.000
+Of course, yes, in the sense of prediction, for example.
+
+01:04:44.000 --> 01:04:51.000
+There is no expectation that a literary theory could be proved or disproved by going into a library and opening up a book.
+
+01:04:51.000 --> 01:04:52.000
+Yes, exactly.
+
+01:04:52.000 --> 01:05:05.000
+And like in physics where you go to South Africa and you perform the same experiment and you don't get the same result and you go to India and you don't, then it's no valid.
+
+01:05:05.000 --> 01:05:28.000
+And again, I think this probably is the case for most of not just the literary humanities, but most of the rest of the humanities and also the humanistic social sciences, anthropology, parts of sociology as well, which is that things tend much less to be sort of conclusively proven or disproven
+
+01:05:28.000 --> 01:05:35.000
+to yield interesting or adequate explanations of the phenomena.
+
+01:05:35.000 --> 01:05:40.000
+So do you think it's about closure that there is no completeness?
+
+01:05:40.000 --> 01:05:45.000
+I think it's partly about closure or it's partly about keeping questions open.
+
+01:05:45.000 --> 01:05:55.000
+I think it's also probably about expecting there to be less progress in the sense of like, you know, aiming over time slowly to some sort of agreement.
+
+01:05:55.000 --> 01:06:02.000
+That is not just a different lens to view provisionality in science.
+
+01:06:02.000 --> 01:06:03.000
+It very well could be.
+
+01:06:03.000 --> 01:06:22.000
+No, I mean, because I think that there are lots of ways in which there are, say, you know, all the disciplines are aiming at truth and are aiming for, you know, with disciplinary humility to provide an account of the phenomenon that they engage.
+
+01:06:22.000 --> 01:06:32.000
+And to do so within norms that are established within a disciplinary framework and that are in some ways driven by something like consensus.
+
+01:06:32.000 --> 01:06:35.000
+Yes, I wanted you to pitch it now.
+
+01:06:35.000 --> 01:06:48.000
+No, I just wanted to ask you to follow up with the difference between what I would think of as critical disciplines, like literary studies and literature itself, or truth in art, truth in fiction and so on.
+
+01:06:48.000 --> 01:06:56.000
+And so I don't know, I guess my working view is that my working view is that, yeah, you can learn things from art.
+
+01:06:56.000 --> 01:06:58.000
+You know, there's truth there.
+
+01:06:58.000 --> 01:06:59.000
+Absolutely.
+
+01:06:59.000 --> 01:07:10.000
+And but I might, the problem might be that I'm a bit of a pragmatist and pragmatists are quite comfortable with the idea that you've got a truth so long as it helped you solve a problem or figure something out and it was useful.
+
+01:07:10.000 --> 01:07:20.000
+And Henry James famously said in the Art of Fiction that fiction is true when you can use it to ride one bit of your experience to another.
+
+01:07:20.000 --> 01:07:21.000
+Right.
+
+01:07:21.000 --> 01:07:23.000
+And that sounded just like his brother, William.
+
+01:07:23.000 --> 01:07:24.000
+Yeah.
+
+01:07:24.000 --> 01:07:37.000
+And anyway, I just was wondering, I would think that a critical discipline might not have that same empirical burden that Tim was asking about as art itself.
+
+01:07:37.000 --> 01:07:40.000
+It was my follow-up question.
+
+01:07:40.000 --> 01:07:41.000
+I thought you were going to be other direction.
+
+01:07:41.000 --> 01:07:50.000
+You see that a critical discipline could be aimed at all kinds of things besides that, I think, whereas the art itself may be not.
+
+01:07:50.000 --> 01:07:54.000
+Oh, yeah, again, I thought you were going to go in the other direction.
+
+01:07:54.000 --> 01:07:56.000
+I know, must be the right perspective.
+
+01:07:56.000 --> 01:08:06.000
+Yeah, I guess you say art is interested in all other things besides truth, is it perhaps just in beauty or in some other more subjective experience on the part of a reader or beholder.
+
+01:08:06.000 --> 01:08:15.000
+It makes art works valuable and interesting and why one tends to go to want to read them or to view them or whatever, which is, you know, you're not necessarily interested in truth.
+
+01:08:15.000 --> 01:08:20.000
+You're interested in, say, the experience of beauty or some version of the sublime or something like that.
+
+01:08:20.000 --> 01:08:35.000
+But I agree with you there that I think actually the aesthetic domain is a domain that can produce certain kinds of truth that can tell you things about that we care deeply about, about our world and about our culture and about ourselves.
+
+01:08:35.000 --> 01:08:36.000
+Sure.
+
+01:08:36.000 --> 01:08:52.000
+But I think most, again, I mean, this is maybe this also is a sort of version of pragmatism too, which is I think like most of the time we are living in a world with what we care about is lower case truths rather than upper case truths.
+
+01:08:52.000 --> 01:08:56.000
+Although I think that also the two are fundamentally compatible.
+
+01:08:56.000 --> 01:09:18.000
+But I think on the other hand, to take the other example, the critical disciplines, that is to say the humanities, perhaps living philosophy out of it for a moment and the humanistic social sciences, I think are truth oriented disciplines.
+
+01:09:18.000 --> 01:09:35.000
+I mean, in the sense that they have internal standards, they have norms, the interpretive work that they try to do is subject to these norms and they try to provide an account of the phenomena that is true, accurate, compelling.
+
+01:09:35.000 --> 01:09:52.000
+But often quite, you know, limited and hedged, I mean, in the sense of like, you know, aiming for an answer, a particular set of questions about a range of texts or other kinds of cultural phenomena that you are in the business of interpreting.
+
+01:09:52.000 --> 01:10:06.000
+I wanted to go back to something, I don't know if I totally understood. You said we will never understand in scientific term consciousness. In physical terms. I said in physical terms. Why not?
+
+01:10:06.000 --> 01:10:19.000
+Because ultimately, I think this would be an entire panel on its own. I'll try and say it briefly. Ultimately, physics is the theory of matter in motion.
+
+01:10:19.000 --> 01:10:30.000
+That's sort of a way you can, and that's why I said it has everything, an economic, you know, the depression was certainly matter in motion, right? There were these bodies falling out of buildings.
+
+01:10:30.000 --> 01:10:42.000
+So physics had to cover that. Any phenomenon that you see at least in some part is matter in motion. Roughly physics is going to have to handle.
+
+01:10:42.000 --> 01:11:00.000
+The idea that my pain, feeling pain, the experience of pain, that fundamentally first person subjective ouchiness could be a matter of being explained in terms of matter in motion.
+
+01:11:00.000 --> 01:11:15.000
+The explanatory gap there, I don't see how it could in principle be covered. This is not a scientific assertion.
+
+01:11:15.000 --> 01:11:34.000
+Hypothetically, if I brought your thyroid hormones down, you will start feeling sad. Then you'll start feeling down and eventually very depressed.
+
+01:11:34.000 --> 01:11:47.000
+And everything that you're experiencing would look bleak. Then I put you back on thyroid hormones and you suddenly are feeling fine.
+
+01:11:47.000 --> 01:12:05.000
+That's a physical explanation of what happens to your emotions by virtue of these chemical reactions.
+
+01:12:05.000 --> 01:12:19.000
+So I can predict, like pain, I can make perfectly good predictions if I drop a bowling ball on your toe, which is a physical state, that you're going to go into a state of extreme pain, assuming everything is normal.
+
+01:12:19.000 --> 01:12:31.000
+That is not a physical explanation of pain itself. Maybe the simple way I can do it is say this. If I tell somebody, program a computer so it plays a really fine game of chess.
+
+01:12:31.000 --> 01:12:38.000
+That's a hard thing to do, but you pretty much have an idea of what you're going about to do it and how to approach it.
+
+01:12:38.000 --> 01:12:47.000
+If I say good, now program the computer so it can carry on an apparently normal human conversation, people can do that, they have done it and so on.
+
+01:12:47.000 --> 01:12:54.000
+Now I say, okay, here's your computer. Now program it so that when I hit the F key, it hurts.
+
+01:12:54.000 --> 01:13:03.000
+The computer feels pain in the same way we do. That is that it would be morally unacceptable to hit the F key.
+
+01:13:03.000 --> 01:13:11.000
+It would be torturing an actual sentient object when you hit the F key. Program your computer to do that.
+
+01:13:11.000 --> 01:13:15.000
+Any computer scientist is going to say, I haven't got a clue.
+
+01:13:15.000 --> 01:13:19.000
+But it doesn't have to be programmable into a computer to be physical.
+
+01:13:19.000 --> 01:13:24.000
+I'm just making a point. Just ask yourself what the resources are to be able to do that.
+
+01:13:24.000 --> 01:13:25.000
+That's a question.
+
+01:13:25.000 --> 01:13:26.000
+Nobody exists obvious.
+
+01:13:26.000 --> 01:13:31.000
+But isn't there an answer to that? I agree with you actually. I think on the point that you're making.
+
+01:13:31.000 --> 01:13:41.000
+But for that particular example, couldn't you imagine some future of some many, many years from now some advanced computer scientists,
+
+01:13:41.000 --> 01:13:49.000
+some advanced computer science where someone could actually make that program, figure out precisely what's happening or build a brain.
+
+01:13:49.000 --> 01:13:58.000
+So we've mapped the neural carlids of pain perfectly so that I can actually create a brain that would experience pain if I banged it in a certain way.
+
+01:13:58.000 --> 01:14:03.000
+But even then, actually, you could also imagine the same brain not experiencing pain.
+
+01:14:03.000 --> 01:14:07.000
+You don't understand the relationship between the structure and the experience itself.
+
+01:14:07.000 --> 01:14:08.000
+That's the point.
+
+01:14:08.000 --> 01:14:09.000
+That's the point.
+
+01:14:09.000 --> 01:14:11.000
+Right. Yes, exactly.
+
+01:14:11.000 --> 01:14:12.000
+Right.
+
+01:14:12.000 --> 01:14:19.000
+Well, obviously it's extremely speculative.
+
+01:14:19.000 --> 01:14:28.000
+I mean, why we've just started a little bit about understanding a little bit of medicine and about things like that.
+
+01:14:28.000 --> 01:14:34.000
+Why I don't see why it follows that you can say you never.
+
+01:14:34.000 --> 01:14:40.000
+I think I'm going to stop at maybe giving an example that might explain this point of view.
+
+01:14:40.000 --> 01:14:56.000
+I just think that there, for example, there isn't going to be a particular formula for anger, which is all the neurons that have to fire,
+
+01:14:56.000 --> 01:15:03.000
+and all the calcium levels that have to be at whatever, whatever, in order to define anger.
+
+01:15:03.000 --> 01:15:09.000
+That whatever, suppose even, first of all, there's stochasticity in all those pathways.
+
+01:15:09.000 --> 01:15:23.000
+I think the point is that if those neurons fire just in the same way, for her and for me, the result may not be anger for both of us.
+
+01:15:23.000 --> 01:15:25.000
+It might be experientially.
+
+01:15:25.000 --> 01:15:28.000
+So it's that mapping that we...
+
+01:15:28.000 --> 01:15:30.000
+Why not be open-minded?
+
+01:15:30.000 --> 01:15:31.000
+What if it is?
+
+01:15:31.000 --> 01:15:41.000
+I guess, again, even if it is, understanding what or why, why this particular pathway produces the subjective experience of anger,
+
+01:15:41.000 --> 01:15:43.000
+is still an unanswered question.
+
+01:15:43.000 --> 01:15:47.000
+That's the explanatory gap, and that's what you're saying is in principle, unreasonable.
+
+01:15:47.000 --> 01:15:51.000
+Actually, my own intuitions are in the same direction.
+
+01:15:51.000 --> 01:16:05.000
+So what you are saying is, if I have an exponent, if I say this particular pathway, it leads to my big toe moving.
+
+01:16:05.000 --> 01:16:11.000
+That's different than if I say this explanatory pathway leads to anxiety.
+
+01:16:11.000 --> 01:16:14.000
+Or leads to the subjective experience of anger.
+
+01:16:14.000 --> 01:16:22.000
+The subjective experience, because there's some other filter of a personal point of view.
+
+01:16:22.000 --> 01:16:30.000
+But since subjective experience is connected to the same neural pathways, I don't know why you would make this thing, why you would separate them.
+
+01:16:30.000 --> 01:16:32.000
+The problem is privacy.
+
+01:16:32.000 --> 01:16:38.000
+But you see, I don't think, I think that it's overblown why privacy is unincorporated in physics.
+
+01:16:38.000 --> 01:16:42.000
+This is one of the things that I was hoping we would get to.
+
+01:16:42.000 --> 01:16:44.000
+Do you define privacy?
+
+01:16:44.000 --> 01:16:48.000
+You only know these things from your own case.
+
+01:16:48.000 --> 01:16:50.000
+What it actually feels like.
+
+01:16:50.000 --> 01:16:52.000
+Privileged access.
+
+01:16:52.000 --> 01:16:56.000
+Privileged access isn't only privileged access, it's exclusive access.
+
+01:16:56.000 --> 01:16:58.000
+And exclusive access is privacy.
+
+01:16:58.000 --> 01:17:03.000
+So philosophers talk about the mind-body problem and the problem of other minds,
+
+01:17:03.000 --> 01:17:08.000
+and they like to start with these qualitative dimensions of consciousness,
+
+01:17:08.000 --> 01:17:11.000
+where there's something it's like to see red, something it's like to feel pain.
+
+01:17:11.000 --> 01:17:16.000
+And if you don't have color vision, then you don't have the right kinds of sensitivities you will never know,
+
+01:17:16.000 --> 01:17:19.000
+because you've never had the experience in your own case.
+
+01:17:19.000 --> 01:17:21.000
+So that's privacy.
+
+01:17:21.000 --> 01:17:29.000
+And it feels, and there's a good case to be made that that's a kind of quintessential example of subjectivity.
+
+01:17:29.000 --> 01:17:34.000
+I don't think it's the most central and important one, I think it's way overblown.
+
+01:17:34.000 --> 01:17:39.000
+But the idea that there's something it's like has emerged in nature.
+
+01:17:39.000 --> 01:17:42.000
+It has, for some creatures.
+
+01:17:42.000 --> 01:17:47.000
+And we have pretty strong evidence that it requires a working brain and working neurocircuitary
+
+01:17:47.000 --> 01:17:49.000
+and certain sensitivities.
+
+01:17:49.000 --> 01:17:52.000
+There are deficits when those things are not there.
+
+01:17:52.000 --> 01:17:59.000
+And it is mysterious why there's this inequality of dimension to life.
+
+01:17:59.000 --> 01:18:00.000
+It's true.
+
+01:18:00.000 --> 01:18:04.000
+But it doesn't seem to me like it's not a good thing to study scientifically.
+
+01:18:04.000 --> 01:18:10.000
+I can only, for instance, going back to the big toe, there's a problem with other bodies.
+
+01:18:10.000 --> 01:18:13.000
+I can only control my body, I can't control your body.
+
+01:18:13.000 --> 01:18:16.000
+It's just what it is to be the single organism that you are.
+
+01:18:16.000 --> 01:18:19.000
+You have bodily boundaries, you have motor control within that body.
+
+01:18:19.000 --> 01:18:25.000
+And you also have a kind of sentient access to things going on within it, which you're locked into
+
+01:18:25.000 --> 01:18:30.000
+because you're a separate organism and you have a self-contained nervous system.
+
+01:18:30.000 --> 01:18:38.000
+But that it's a hard problem of consciousness that physics couldn't ever take on strikes me as.
+
+01:18:38.000 --> 01:18:41.000
+I mean, these events do occur in time.
+
+01:18:41.000 --> 01:18:46.000
+It looks like they occur kind of in space because they're located inside people who are spatially located.
+
+01:18:46.000 --> 01:18:49.000
+So they look like they fall under, like when you said there's no event that happens
+
+01:18:49.000 --> 01:18:52.000
+that a physicist shouldn't be able to take on and think about,
+
+01:18:52.000 --> 01:18:55.000
+I would think these would then be among them.
+
+01:18:55.000 --> 01:19:03.000
+And oddly, I don't really think that the features of the first-person point of view that might resist physical treatment
+
+01:19:03.000 --> 01:19:06.000
+include the qualitative dimensions of consciousness.
+
+01:19:06.000 --> 01:19:11.000
+I think they're more likely to be tractable physically than dimensions of value.
+
+01:19:11.000 --> 01:19:13.000
+Personally, I think...
+
+01:19:13.000 --> 01:19:16.000
+Well, yes, that's another layer.
+
+01:19:16.000 --> 01:19:18.000
+Just to put another thing out there.
+
+01:19:18.000 --> 01:19:26.000
+I think value and normative truth is separate and untouchable by physics.
+
+01:19:26.000 --> 01:19:27.000
+I mean, I said that.
+
+01:19:27.000 --> 01:19:28.000
+Yeah, exactly.
+
+01:19:28.000 --> 01:19:30.000
+But consciousness is not...
+
+01:19:30.000 --> 01:19:31.000
+I just...
+
+01:19:31.000 --> 01:19:37.000
+There's no problem at all understanding physically why I can control my body and not breathe.
+
+01:19:37.000 --> 01:19:38.000
+Exactly.
+
+01:19:38.000 --> 01:19:39.000
+So that's trivial.
+
+01:19:39.000 --> 01:19:40.000
+Right.
+
+01:19:40.000 --> 01:19:42.000
+But this is a problem that...
+
+01:19:42.000 --> 01:19:47.000
+When you sort of imagine proto-physics, imagine I'm a democracy.
+
+01:19:47.000 --> 01:19:50.000
+And all I believe there's this empty space of these atoms that float around.
+
+01:19:50.000 --> 01:19:51.000
+They bang into each other.
+
+01:19:51.000 --> 01:19:53.000
+They put in hooks and eyes.
+
+01:19:53.000 --> 01:19:59.000
+And then you say, in principle, can such a theory explain nutrition?
+
+01:19:59.000 --> 01:20:03.000
+Why an animal can eat things and grow?
+
+01:20:03.000 --> 01:20:09.000
+And you say, well, sure, in principle, you could imagine these kinds of shaped atoms get taken in and they hook up to these
+
+01:20:09.000 --> 01:20:11.000
+that are in the animal and it grows out.
+
+01:20:11.000 --> 01:20:13.000
+That's not an actual theory, but it's...
+
+01:20:13.000 --> 01:20:18.000
+You see clearly how the resources are there in principle.
+
+01:20:18.000 --> 01:20:19.000
+To make connections.
+
+01:20:19.000 --> 01:20:23.000
+And to explain the phenomenon that you're trying to explain.
+
+01:20:23.000 --> 01:20:24.000
+Right.
+
+01:20:24.000 --> 01:20:25.000
+It's...
+
+01:20:25.000 --> 01:20:31.000
+The problem of consciousness is that you just don't see in principle, which is not to say you can't get all kinds of
+
+01:20:31.000 --> 01:20:38.000
+correlations that you could make, even predictions that you could bring it under a certain kind of scientific discipline,
+
+01:20:38.000 --> 01:20:39.000
+but that there's an explanatory...
+
+01:20:39.000 --> 01:20:40.000
+An explore aspect of it.
+
+01:20:40.000 --> 01:20:41.000
+Sure.
+
+01:20:41.000 --> 01:20:42.000
+Sure.
+
+01:20:42.000 --> 01:20:43.000
+Absolutely.
+
+01:20:43.000 --> 01:20:44.000
+Okay, well, I guess, but that...
+
+01:20:44.000 --> 01:20:45.000
+Completely explain it.
+
+01:20:45.000 --> 01:20:46.000
+Okay, that's the question.
+
+01:20:46.000 --> 01:20:48.000
+What is an explanation?
+
+01:20:48.000 --> 01:20:49.000
+Yes.
+
+01:20:49.000 --> 01:20:50.000
+Yes.
+
+01:20:50.000 --> 01:20:54.000
+Because inductive correlations do darn well for Newton and a lot of things, right?
+
+01:20:54.000 --> 01:20:59.000
+When he doesn't have deep, ultimate explanations of a lot of things, he just found out some basic laws.
+
+01:20:59.000 --> 01:21:00.000
+Right.
+
+01:21:00.000 --> 01:21:03.000
+You know, so maybe those things can be found here.
+
+01:21:03.000 --> 01:21:04.000
+All right.
+
+01:21:04.000 --> 01:21:07.000
+We'll stop and open for questions.
+
+01:21:07.000 --> 01:21:17.000
+I think that's very stimulating.
+
+01:21:17.000 --> 01:21:21.000
+I was struck by the absence of a discussion.
+
+01:21:21.000 --> 01:21:23.000
+Well, let me start over.
+
+01:21:23.000 --> 01:21:24.000
+So there's been...
+
+01:21:24.000 --> 01:21:31.000
+There's sort of like an intuitive argument here and a back and forth among the panelists about whether certain explanations
+
+01:21:31.000 --> 01:21:38.000
+will ever be available with enough time, like why not be agnostic about it?
+
+01:21:38.000 --> 01:21:41.000
+Maybe we will ultimately have an explanation.
+
+01:21:41.000 --> 01:21:47.000
+It would be interesting that I thought it would be interesting to consider the idea of algorithmic
+
+01:21:47.000 --> 01:21:48.000
+complexity.
+
+01:21:48.000 --> 01:21:54.000
+It is how much of an explanation is required to give a relevant explanation.
+
+01:21:54.000 --> 01:21:57.000
+That's a little bit of what I think Tim touched on a little bit.
+
+01:21:57.000 --> 01:22:04.000
+When you talked about the computer person and the physicist describing how long a certain computer program will run,
+
+01:22:04.000 --> 01:22:08.000
+I think it's interesting too, the relevance ties into perspective.
+
+01:22:08.000 --> 01:22:16.000
+So the idea would be if you have an explanation, even in mathematics, you have an explanation that runs 300 pages
+
+01:22:16.000 --> 01:22:22.000
+and someone's able to condense it to two pages, we normally say, well, that two page one gives the explanation.
+
+01:22:22.000 --> 01:22:24.000
+No, we say it's a more beautiful explanation.
+
+01:22:24.000 --> 01:22:30.000
+Normally, people say it at the same time, but it also provides more...
+
+01:22:30.000 --> 01:22:34.000
+Our understanding is increased by the shorter explanation, not the very very long.
+
+01:22:34.000 --> 01:22:36.000
+It depends on what those two...
+
+01:22:36.000 --> 01:22:41.000
+Okay, I suppose so, but the idea is just to support your view.
+
+01:22:41.000 --> 01:22:44.000
+I object to everything.
+
+01:22:44.000 --> 01:22:52.000
+Even if one explanation is extremely long and the other is shorter and it's more relevant to what you're trying to explain,
+
+01:22:52.000 --> 01:22:59.000
+then you could argue that the long, long explanation is really irrelevant or it doesn't really provide much from the explanation.
+
+01:22:59.000 --> 01:23:05.000
+It's as long in terms of complexity as the very problem you're trying to explain.
+
+01:23:05.000 --> 01:23:07.000
+Sometimes.
+
+01:23:07.000 --> 01:23:16.000
+I mean, the notion of explanation has been floating through the conversation and never become the target.
+
+01:23:16.000 --> 01:23:22.000
+Right.
+
+01:23:22.000 --> 01:23:26.000
+And it's a really, really complicated and difficult thing.
+
+01:23:26.000 --> 01:23:31.000
+I mean, maybe I'll just make a couple points, which is we've talked a lot about science wanting to provide explanations
+
+01:23:31.000 --> 01:23:38.000
+and that being part of the aim of science and that even being an indication of truth, those things can come way apart.
+
+01:23:38.000 --> 01:23:49.000
+For example, and now I can really be offensive here, one of the things that bothered Popper when he was worried about the nature of science,
+
+01:23:49.000 --> 01:23:58.000
+the things that claimed to be scientific that he rejected were one of them was Marxism and one of the most Freudianism.
+
+01:23:58.000 --> 01:24:03.000
+And his objection to Freudianism, as it were, wasn't that it was incapable...
+
+01:24:03.000 --> 01:24:05.000
+Well, you put it a funny way.
+
+01:24:05.000 --> 01:24:08.000
+It wasn't that it was incapable of explaining anything.
+
+01:24:08.000 --> 01:24:11.000
+It was capable of explaining literally anything.
+
+01:24:11.000 --> 01:24:22.000
+That any human behavior, you could come up with some Freudian story that had the hallmarks of being explaining.
+
+01:24:22.000 --> 01:24:29.000
+But exactly because it was completely unconstrained by the behavior, it meant you were just telling it just so story.
+
+01:24:29.000 --> 01:24:32.000
+There's no reason to think any of it was true.
+
+01:24:32.000 --> 01:24:40.000
+So the first, what an explanation is and the relation between explanation and truth and explanation and evidence of truth,
+
+01:24:40.000 --> 01:24:43.000
+these are very, very, very difficult questions.
+
+01:24:43.000 --> 01:24:58.000
+So the challenge that people who believe that there could be a complete physical theory for everything is to explain how you would get to condensing an overlong and overly too high dimensional.
+
+01:24:58.000 --> 01:25:02.000
+And how would you know you have a valentery of everything?
+
+01:25:02.000 --> 01:25:04.000
+That's the challenge I think.
+
+01:25:04.000 --> 01:25:09.000
+That I can make it a real quick comment on about brevity and the completeness of physics.
+
+01:25:09.000 --> 01:25:22.000
+So many physicists who believe there should be an ultimate physical theory, which I believe, they often say, and one of the indications you've gotten it is that there's an equation you can write on a t-shirt.
+
+01:25:22.000 --> 01:25:28.000
+There's the t-shirt standard. You can't get much briefer than that.
+
+01:25:28.000 --> 01:25:33.000
+This equation in principle explains everything.
+
+01:25:33.000 --> 01:25:47.000
+Now, to actually work out any particular one of those explanations, like why does the water bottle do that, from that equation could take billions of pages to work out of the mathematics.
+
+01:25:47.000 --> 01:26:00.000
+And you'd say, that's irrelevant as long as it follows deductively, and this comes back to, as long as it follows from that equation, that could be the correct physics.
+
+01:26:00.000 --> 01:26:01.000
+Thank you.
+
+01:26:01.000 --> 01:26:14.000
+Just to make a remark about equations, somebody and I forget who made the observation that all of mathematics can be described by the equation A equals zero.
+
+01:26:14.000 --> 01:26:19.000
+It was specified what A is.
+
+01:26:19.000 --> 01:26:27.000
+So, you know, brief explanations have something funny about them.
+
+01:26:27.000 --> 01:26:35.000
+But I want to throw out sort of an example of explanation, which I think is interesting.
+
+01:26:35.000 --> 01:26:54.000
+That is, that Van Neumann in the 30s, later in the 40s, maybe even developed a very interesting theory about how to design what would be required for a computer to be able to reproduce itself.
+
+01:26:54.000 --> 01:27:10.000
+And he sort of, you know, mathematically sort of, like, actually, what would be, what's the right conditions are, and then you find, then he found four elements, I've written down here, but I think I know better not.
+
+01:27:10.000 --> 01:27:19.000
+But roughly he's found four things that a computer will have to have in order to reproduce itself, four kinds of things.
+
+01:27:19.000 --> 01:27:26.000
+And then if you have them, you can theoretically design a computer that does.
+
+01:27:26.000 --> 01:27:33.000
+Okay, then 10 years later or something, DNA was discovered and so on.
+
+01:27:33.000 --> 01:27:46.000
+It turns out that we've exactly found, they found exactly those things in nature, which sort of explain, in quotes, reproduction.
+
+01:27:46.000 --> 01:28:00.000
+So, I mean, I think what I'm trying to say is that we're at the beginning of some sort of adventure here and it's really hard to put down limits a priori.
+
+01:28:00.000 --> 01:28:03.000
+Okay.
+
+01:28:03.000 --> 01:28:18.000
+Thank you for very stimulating conversation and I have a lot of questions, but probably can ask on Le Ronde.
+
+01:28:18.000 --> 01:28:19.000
+And I would like to ask about this mythology of Mathematic Success.
+
+01:28:19.000 --> 01:28:28.000
+Because let's talk, for example, let's calculate my movements and I will be moving on them mathematically.
+
+01:28:28.000 --> 01:28:40.000
+I would not be able to move even one step. You see, but my body calculated without my conscious awareness and I could do whatever I want.
+
+01:28:40.000 --> 01:28:57.000
+And these follow to their question that evolution created us during million years with very intricate and very slight progression.
+
+01:28:57.000 --> 01:29:15.000
+And our successful science, mostly successful in destructive creation, when we remove everything that was created during millions of evolution and proliferate ourselves.
+
+01:29:15.000 --> 01:29:32.000
+Like, remove everything and build a pyramid or build a nuclear bomb or build something that destroyed everything that we could move and make something convenient only to us, which is actually working against us.
+
+01:29:32.000 --> 01:30:01.000
+Like, for example, mitigation, we remove all our migratory bomb, we remove everything and it's we create destructive bacteria who actually in these situations that established on our success in science actually creates situation that very destructive even for us.
+
+01:30:01.000 --> 01:30:04.000
+Well, there's the question.
+
+01:30:04.000 --> 01:30:12.000
+Question, is there is our science more destructive or more creative?
+
+01:30:12.000 --> 01:30:15.000
+I think it's not an either or.
+
+01:30:15.000 --> 01:30:37.000
+If we have atomic hydrogen bomb warfare within the next hundred years, then it's more destructive. But if we continue to make people have more energy for the whole world.
+
+01:30:37.000 --> 01:30:47.000
+Not just nuclear destruction, carbon extraction, I mean, is going to do much more.
+
+01:30:47.000 --> 01:30:56.000
+Science can be used for bad. It is used for both. So the question is, what is it used for?
+
+01:30:56.000 --> 01:31:10.000
+I mean, this comes back to values and so science is a kind of tool and it's like asking our hammers more destructive or constructive. It depends on what people use them for.
+
+01:31:10.000 --> 01:31:28.000
+The hammer is not responsible for the hammer user. Hope well constructed science gives us true accurate predictive abilities and therefore tends to expand our technological abilities.
+
+01:31:28.000 --> 01:31:36.000
+But how we use that and whether we're wise enough to see that there will be unintended and unforeseen consequences and also that we're kind of idiots.
+
+01:31:36.000 --> 01:31:40.000
+And we make mistakes all the time is that's on us.
+
+01:31:40.000 --> 01:32:04.000
+I think some of what she was asking is that perhaps we as human beings have focused too selfishly just on ourselves and the impact of the science and technologies that we create on ourselves and that we need to have the ecosystem, the larger world and impact on the planet
+
+01:32:04.000 --> 01:32:15.000
+and all of that be part of the playground in which we do the evaluation of a technology, for example.
+
+01:32:15.000 --> 01:32:18.000
+Let's go and then we'll go to the question.
+
+01:32:18.000 --> 01:32:20.000
+Yeah.
+
+01:32:20.000 --> 01:32:26.000
+There's one unfortunate thing. I mean, I agree with everything everybody said, more or less.
+
+01:32:26.000 --> 01:32:34.000
+But one unfortunate thing, unfortunately, I mean, a person may make a hammer in order for good purposes.
+
+01:32:34.000 --> 01:32:45.000
+But there are things that people make like the atomic bomb, which are done presumably for good purpose of defense of the nation of something.
+
+01:32:45.000 --> 01:32:59.000
+And when they do that, unfortunately, they have two things. They produce this horrible possibility. But as a byproduct of these kinds of investigations, all sorts of things that are good can come out.
+
+01:32:59.000 --> 01:33:15.000
+And unfortunately, a lot of very powerful and good science has come out from research on war, like things, like the internet, for example, which may be good or bad. I don't know why it could be very good.
+
+01:33:15.000 --> 01:33:19.000
+But it has come from...
+
+01:33:19.000 --> 01:33:35.000
+And also a lot of things, kind of, I mean, being able to fly across the Atlantic in five hours to go to a conference in London is a fine thing for advanced Western democracies to have at the same time that's actually destroying the planet.
+
+01:33:35.000 --> 01:33:49.000
+So, I mean, the...
+
+01:33:49.000 --> 01:33:55.000
+Going back to the issue of reductionism, I think that was the real subject.
+
+01:33:55.000 --> 01:34:10.000
+I think the leap from physics to consciousness is a huge leap and maybe too hard for us to bridge here. But let's just take very small leaps. So, for example, in biology of concept of gene, it's purely a biological object, or you have DNA, for example.
+
+01:34:10.000 --> 01:34:20.000
+Can you ever explain or derive the concept of a gene from physical principles? I think that's really one of the fundamental questions.
+
+01:34:20.000 --> 01:34:34.000
+Let me even go into a sub-level. Within physics, you have the fundamental laws of physics, and then you have thermodynamics, or the second law of thermodynamics. You have to introduce new principles in order to get asymmetry in time because the fundamental laws of symmetric in time.
+
+01:34:34.000 --> 01:34:40.000
+So, even within physics, you have levels that are very hard to bridge those levels.
+
+01:34:40.000 --> 01:34:54.000
+So, the question is, can you really, really, in an explanatory way, bridge these levels in any way as long as the constructs are different? Can you ever develop constructs in one level that are emerged from constructs in a level that's lower?
+
+01:34:54.000 --> 01:35:20.000
+Yeah. Is that, I mean, should I try and hand? Well, the gene is a perfect example. Mendel was looking at his keys and seeing how they grew, and he knew that characteristics were passed on from the parents to the offspring.
+
+01:35:20.000 --> 01:35:33.000
+But he didn't know how. He had no idea of what the physical basis of that was. But he could have a really good theory by just saying, well, let's assume that there are some things, I'll call it a gene.
+
+01:35:33.000 --> 01:35:42.000
+One comes from each parent, and there's this dominant and recessive, and there's independent assortment, and so on.
+
+01:35:42.000 --> 01:35:54.000
+And I can make then predictions about if I cross a true breeding smooth P with a true breeding, you know, other P, and then they'll all do this, and they'll all do that.
+
+01:35:54.000 --> 01:36:00.000
+Makes these predictions are absolutely right. Can physics ultimately explain that? Sure.
+
+01:36:00.000 --> 01:36:12.000
+It's just a matter of finding a physical system that does what the gene is postulated to do functionally, and we did it.
+
+01:36:12.000 --> 01:36:18.000
+And so there's no explanatory gap there. I mean, what the physics will tell you is a limitations on the model.
+
+01:36:18.000 --> 01:36:29.000
+So you can say Mendel's model was very simple-minded. And if you look deep into the physics, you'll find that this very simple mathematics isn't going to work in detail, because the genes just, you know,
+
+01:36:29.000 --> 01:36:39.000
+the genes just don't are more complicated, and their interactions are more complicated. But I think that's a very clean case of a physical explanation,
+
+01:36:39.000 --> 01:36:46.000
+giving the physical underpinning of something that was explained. Okay, go ahead.
+
+01:36:46.000 --> 01:37:00.000
+Well, this is a little bit of a variation since I'm in the arts, and I heard you speaking about ideas of ultimate truth and beauty, and today in the arts, that doesn't seem the primary goal at all.
+
+01:37:00.000 --> 01:37:10.000
+It seems almost the opposite. The goal in the arts today seem to be- I'm also talking, particularly maybe the visual arts, multiplicity,
+
+01:37:10.000 --> 01:37:20.000
+communications, variability, mutability, lack of boundaries, porousness,
+
+01:37:20.000 --> 01:37:28.000
+strange combinations of things that haven't existed before. But I wouldn't speak of it as a search for truth or beauty.
+
+01:37:28.000 --> 01:37:37.000
+It seems more a different kind of search. I don't want to give a word for it. I mean, I sort of like to leave it open and not give it a category.
+
+01:37:37.000 --> 01:37:50.000
+But actually, it seems to be in search really of the mystery and the unknowable rather than the finding of the knowable that what seems to be attracting is the elusiveness of things.
+
+01:37:50.000 --> 01:37:57.000
+I'm not speaking about all the branches that have come out of the art. The arts have gotten into all kinds of hybrid combinations,
+
+01:37:57.000 --> 01:38:14.000
+but I don't think youth or truth is part of the vocabulary anymore of this particular search. And I just wondered what you think about that in terms of the search in science and the search in the arts.
+
+01:38:14.000 --> 01:38:32.000
+Well, I think, I mean, I agree with much of the way that you characterize the sort of the rationale for the contemporary art world. I think I would only add to that that a lot of the language you use,
+
+01:38:32.000 --> 01:38:48.000
+the mutability, boundary, crossing, and blurring are subspecies of a certain kind of beauty. And that, to use the term from the great Russian literary critic Viktor Slofsky from the early 20th century,
+
+01:38:48.000 --> 01:39:00.000
+what the artworks are trying to do there is to defamiliarize our experience, to show us dimensions to the world by taking them out of our common perceptions and common interactions with the world.
+
+01:39:00.000 --> 01:39:12.000
+And I think actually much is learned in that process about the world that we live in and about ourselves. I think that it's just not a mimetic truth,
+
+01:39:12.000 --> 01:39:19.000
+that is to say artworks are not representing the world and not holding a mirror up to it. They are in some ways defamiliarizing the world.
+
+01:39:19.000 --> 01:39:27.000
+And doing that in virtue of their form, the particular kind of shape that they have and the certain devices that they use.
+
+01:39:27.000 --> 01:39:35.000
+For me at least, that's compatible with understanding that what works of art are often beautiful.
+
+01:39:35.000 --> 01:39:42.000
+Or the sublime to go back to categories of aesthetic theory that developed in my own period, the 18th century,
+
+01:39:42.000 --> 01:39:48.000
+which I think do a pretty good but not complete job of accounting for the aesthetic domain.
+
+01:39:48.000 --> 01:40:00.000
+I was curious whether there was a political dimension to your question at all. I think what is being contested now for the last, I guess, 30 years or so,
+
+01:40:00.000 --> 01:40:06.000
+in all forms of art is also who gets to define truth and beauty.
+
+01:40:06.000 --> 01:40:07.000
+And is there a single standard for them?
+
+01:40:07.000 --> 01:40:16.000
+Or who gets to which cultures, which genders, whose lenses define truth and beauty? And that is rupturing everywhere.
+
+01:40:16.000 --> 01:40:20.000
+So I wondered if you were asking that put more political side of the question.
+
+01:40:20.000 --> 01:40:25.000
+No, with that one aspect. No, I'm speaking about the idea of ultimate questions.
+
+01:40:25.000 --> 01:40:31.000
+And that's more sociological and that's something happening out of our history. I'm talking about maybe...
+
+01:40:31.000 --> 01:40:34.000
+No, but even in the creation of artworks, right?
+
+01:40:34.000 --> 01:40:40.000
+It's one branch, I wouldn't call it, you know, a total branch of what's really occurring.
+
+01:40:40.000 --> 01:40:51.000
+And I think communication, I would say communication instead of truth, because truth in the arts very often is a very difficult phenomena.
+
+01:40:51.000 --> 01:40:57.000
+And beauty is also a very difficult word, I find, a very difficult word.
+
+01:40:57.000 --> 01:41:04.000
+But I mean, isn't it just because they are such subjective notions, very different from the kind of truth and beauty we're talking about in science,
+
+01:41:04.000 --> 01:41:12.000
+like the 20-page proof versus the 3-line proof. There's an agreement that we can get at.
+
+01:41:12.000 --> 01:41:20.000
+There's a process to reach agreement. I'm not saying that you can't agree that, you know, we can't agree that Caravaggio was an amazing artist.
+
+01:41:20.000 --> 01:41:27.000
+I mean, obviously. But the question is, there's a process by which you arrive at what is truth and beauty.
+
+01:41:27.000 --> 01:41:33.000
+Has that been disrupted? I'm just offering a suggestion. Do you reckon that's what's happened?
+
+01:41:33.000 --> 01:41:40.000
+I'm just curious also about the nature of your resistance. I mean, that is like what's motivating the question.
+
+01:41:40.000 --> 01:41:47.000
+There seems to be, I mean, something about, and I agree with you, that the overt language of beauty might have somewhat retreated.
+
+01:41:47.000 --> 01:41:54.000
+But I still think actually there's a tacit understanding of it in so far as art works demand a certain kind of valuation,
+
+01:41:54.000 --> 01:42:01.000
+and there are a domain of value which, you know, has to have some substance to it, some accounting for it.
+
+01:42:01.000 --> 01:42:07.000
+Well, I was thinking of the word communication, which you, if you want to find communication, beautiful.
+
+01:42:07.000 --> 01:42:11.000
+Well, but if I want communication, I can also just like, you know, I can just read the newspaper.
+
+01:42:11.000 --> 01:42:15.000
+No, no. There's all levels. There are existential communications too.
+
+01:42:15.000 --> 01:42:21.000
+Sure, but then what distinguishes an act of aesthetic communication from an act just of like ordinary communication?
+
+01:42:21.000 --> 01:42:27.000
+And I would say that it's something having to do with its form, and something to do with the way in which the form
+
+01:42:27.000 --> 01:42:33.000
+of the art is going to be familiarized as the kind of, the dimension to the world that is trying to eliminate.
+
+01:42:33.000 --> 01:42:40.000
+Once you go that far, I think actually recognizing that what we're talking about falls underneath some broad conception
+
+01:42:40.000 --> 01:42:48.000
+of the beautiful is actually a pretty easy step to take. But if, but I find your resistance to that interesting.
+
+01:42:48.000 --> 01:42:56.000
+Well, I think a lot of words are overused over the centuries, and what's happened to them is they no longer seem to have a certain potency.
+
+01:42:56.000 --> 01:43:04.000
+And I think we have to, we have to renew many things, and maybe vocabulary has to be thought of too, because vocabulary had,
+
+01:43:04.000 --> 01:43:08.000
+there are traditional thoughts about beauty, traditional thoughts about truth.
+
+01:43:08.000 --> 01:43:19.000
+Maybe then we have to find out how we're going to redefine these questions, because it doesn't relate to the kind of beauty we thought of.
+
+01:43:19.000 --> 01:43:27.000
+Some good questions or any other questions? Can I make a comment?
+
+01:43:27.000 --> 01:43:35.000
+Yeah, a very deflating comment here. I don't think art tries to do anything. I don't think that actually is what we call
+
+01:43:35.000 --> 01:43:44.000
+enflaucity a category mistake. Art is incapable of attempting or intending or trying to do anything. Artists are.
+
+01:43:44.000 --> 01:43:54.000
+And individual artists, I think, have many, many, many different entirely diverse aims. Some of them are trying to make a political point.
+
+01:43:54.000 --> 01:44:01.000
+Some of them are trying to make a good buck. Some of them are doing their art for their own sake entirely, and don't care whether anybody sees it.
+
+01:44:01.000 --> 01:44:07.000
+Some are trying to communicate something. Some have read some science and say this is true.
+
+01:44:07.000 --> 01:44:15.000
+I want to depict this truth. Some are saying I want to imagine something that nobody ever thought of.
+
+01:44:15.000 --> 01:44:25.000
+I don't really see that there's anything very useful about asking what is art for. I think it's useful to understand what was this artist trying to do and appreciate.
+
+01:44:25.000 --> 01:44:31.000
+But the only way that you can answer that question is to actually look at the works of art.
+
+01:44:31.000 --> 01:44:38.000
+You can ask the artist and you'll get almost always the wrong answer.
+
+01:44:38.000 --> 01:44:42.000
+I just want to correct one.
+
+01:44:42.000 --> 01:44:48.000
+In no way was I. Of course there's multiplicity of you. And of course that's the wonderful thing about art.
+
+01:44:48.000 --> 01:44:53.000
+We have all this multiple different psyches that are all investigating things.
+
+01:44:53.000 --> 01:45:00.000
+And I was just speaking about when one was speaking of truth and beauty. It made me jolted me a little because I thought,
+
+01:45:00.000 --> 01:45:06.000
+oh my God, that's a word that will have to be, you know, it just doesn't hold a power.
+
+01:45:06.000 --> 01:45:08.000
+Thank you.
+
+01:45:08.000 --> 01:45:12.000
+I'm not a member of these people but people who believe in beauty.
+
+01:45:12.000 --> 01:45:20.000
+I'm an artist.
+
+01:45:20.000 --> 01:45:23.000
+Thank you.
+
+01:45:23.000 --> 01:45:33.000
+Thank you.
+
+01:45:33.000 --> 01:45:56.000
+Thank you.
+
+01:45:56.000 --> 01:46:11.000
+Thank you.
+
+01:46:11.000 --> 01:46:34.000
+Thank you.
+

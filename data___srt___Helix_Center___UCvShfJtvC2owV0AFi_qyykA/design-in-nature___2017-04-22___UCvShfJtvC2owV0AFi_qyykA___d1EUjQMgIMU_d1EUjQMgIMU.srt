@@ -1,0 +1,6660 @@
+1
+00:00:00,000 --> 00:00:02,640
+Have you done one of these people?
+
+2
+00:00:02,640 --> 00:00:03,640
+No.
+
+3
+00:00:03,640 --> 00:00:04,800
+How about you?
+
+4
+00:00:04,800 --> 00:00:06,920
+Good afternoon, everybody.
+
+5
+00:00:06,920 --> 00:00:07,520
+Welcome.
+
+6
+00:00:07,520 --> 00:00:08,240
+I'm Rob Penzer.
+
+7
+00:00:08,240 --> 00:00:10,560
+I'm the Associate Director of the Heelics Center.
+
+8
+00:00:10,560 --> 00:00:14,200
+I have an announcement for an upcoming roundtable
+
+9
+00:00:14,200 --> 00:00:17,760
+on Saturday, May 20th on complexity and emergence.
+
+10
+00:00:17,760 --> 00:00:21,120
+It's the second of our roundtables on the subject,
+
+11
+00:00:21,120 --> 00:00:25,200
+called Visions of Cosmic Order from Particles to People.
+
+12
+00:00:25,200 --> 00:00:27,680
+And our discussants will be William Grassi, who's
+
+13
+00:00:27,680 --> 00:00:31,520
+the founder of Metanexis, David Grinspoon, senior scientist
+
+14
+00:00:31,520 --> 00:00:33,840
+at the Planetary Science Institute,
+
+15
+00:00:33,840 --> 00:00:35,600
+Iliya Tampkin, Professor of Biology
+
+16
+00:00:35,600 --> 00:00:37,280
+at Northern Virginia Community College
+
+17
+00:00:37,280 --> 00:00:39,480
+and Research Associate at the National Museum
+
+18
+00:00:39,480 --> 00:00:42,800
+of Natural History, and Tyler Volk, Professor of Biology
+
+19
+00:00:42,800 --> 00:00:45,600
+and Environmental Studies at NYU.
+
+20
+00:00:45,600 --> 00:00:48,480
+So today's topic, Design and Nature,
+
+21
+00:00:48,480 --> 00:00:50,840
+let me introduce our participants today.
+
+22
+00:00:50,840 --> 00:00:54,480
+And when I announce your name, if you can raise your hand.
+
+23
+00:00:54,480 --> 00:00:56,960
+Elizabeth Alter.
+
+24
+00:00:56,960 --> 00:00:59,280
+Adrian Bejan.
+
+25
+00:00:59,280 --> 00:01:01,480
+Robin Collins.
+
+26
+00:01:01,480 --> 00:01:03,240
+Mark Norel.
+
+27
+00:01:03,240 --> 00:01:05,240
+And Caleb Scharf.
+
+28
+00:01:05,240 --> 00:01:09,200
+And without further ado, I turn this over to our participants.
+
+29
+00:01:13,840 --> 00:01:16,320
+You look at him.
+
+30
+00:01:16,320 --> 00:01:17,320
+OK.
+
+31
+00:01:17,320 --> 00:01:19,320
+Well, I get to talk about design and nature.
+
+32
+00:01:19,320 --> 00:01:22,520
+And design and nature has always been one of these things
+
+33
+00:01:22,520 --> 00:01:26,400
+that people have questioned since the origins of modern science,
+
+34
+00:01:26,400 --> 00:01:27,920
+especially in Western Europe, in terms
+
+35
+00:01:27,920 --> 00:01:30,200
+with the origin of the enlightening.
+
+36
+00:01:30,200 --> 00:01:33,760
+And design and nature can be boiled down
+
+37
+00:01:33,760 --> 00:01:34,960
+into two different things.
+
+38
+00:01:34,960 --> 00:01:36,600
+One, is there a creator?
+
+39
+00:01:36,600 --> 00:01:39,720
+Is there some intelligent being who
+
+40
+00:01:39,720 --> 00:01:41,400
+figured all this stuff out?
+
+41
+00:01:41,400 --> 00:01:44,280
+Or are we just the products of physical constraint?
+
+42
+00:01:44,280 --> 00:01:46,360
+I mean, is it the reason that knees look like hinges
+
+43
+00:01:46,360 --> 00:01:48,200
+is because that's the way it works?
+
+44
+00:01:48,200 --> 00:01:51,800
+Is the reason that we have so many
+
+45
+00:01:51,800 --> 00:01:53,920
+of the same kinds of eyes and everything
+
+46
+00:01:53,920 --> 00:01:57,000
+from giant squids to ourselves?
+
+47
+00:01:57,000 --> 00:01:59,320
+Is that just because of things that
+
+48
+00:01:59,320 --> 00:02:03,600
+are embedded within our developmental patterns in our DNA
+
+49
+00:02:03,600 --> 00:02:08,440
+and with evolution being an optimizing process,
+
+50
+00:02:08,440 --> 00:02:11,080
+that that's just what ends up under different selective
+
+51
+00:02:11,080 --> 00:02:12,080
+regimes.
+
+52
+00:02:12,080 --> 00:02:14,360
+So this has always been two different kinds of things
+
+53
+00:02:14,360 --> 00:02:16,880
+which people have looked at myself.
+
+54
+00:02:16,880 --> 00:02:20,040
+I'm more on the kind of just replicating piece of DNA.
+
+55
+00:02:20,040 --> 00:02:22,560
+And this is just the way that it works out as far as
+
+56
+00:02:22,560 --> 00:02:26,960
+the way that we deal with the world either through constraint.
+
+57
+00:02:26,960 --> 00:02:28,560
+When I say constraint, I see that it
+
+58
+00:02:28,560 --> 00:02:30,960
+through physical constraints from the external part
+
+59
+00:02:30,960 --> 00:02:33,680
+or through constraints just on the basis of what
+
+60
+00:02:33,680 --> 00:02:35,760
+that our genetic material is possible
+
+61
+00:02:35,760 --> 00:02:39,800
+to be able to do within certain kinds of things
+
+62
+00:02:39,800 --> 00:02:41,800
+along with our developmental channeling.
+
+63
+00:02:41,800 --> 00:02:44,520
+But some other people have some different opinions.
+
+64
+00:02:44,520 --> 00:02:46,520
+So let's open it up.
+
+65
+00:02:46,520 --> 00:02:49,800
+I would see that as not you kind of painted those two
+
+66
+00:02:49,800 --> 00:02:52,800
+as confouries, but you might ask about the constraints
+
+67
+00:02:52,800 --> 00:02:57,280
+themselves whether there's a design-like pattern
+
+68
+00:02:57,280 --> 00:02:59,600
+in those constraints.
+
+69
+00:02:59,600 --> 00:03:02,240
+And so you could have it and you have
+
+70
+00:03:02,240 --> 00:03:05,120
+to look at physical reality in different levels.
+
+71
+00:03:05,120 --> 00:03:08,720
+You've got the biological level down to the chemical level.
+
+72
+00:03:08,720 --> 00:03:11,800
+And the biological level seems to be, at least,
+
+73
+00:03:11,800 --> 00:03:16,400
+a lot of accidents seems to be one of the governing
+
+74
+00:03:16,400 --> 00:03:17,080
+principles.
+
+75
+00:03:17,080 --> 00:03:19,080
+But when you get all the way down to, let's say,
+
+76
+00:03:19,080 --> 00:03:21,760
+the physical level, that's where I think a real big question
+
+77
+00:03:21,760 --> 00:03:23,040
+comes in.
+
+78
+00:03:23,040 --> 00:03:25,000
+To what degree does that look random,
+
+79
+00:03:25,000 --> 00:03:30,120
+or is that have a design-like character?
+
+80
+00:03:30,120 --> 00:03:32,680
+And by design in a very general sense,
+
+81
+00:03:32,680 --> 00:03:37,480
+I would say that the parts, so you can invoke a crater,
+
+82
+00:03:37,480 --> 00:03:39,580
+but I think there's even a more general sense in which
+
+83
+00:03:39,580 --> 00:03:42,880
+the parts are arranged in some intricate way
+
+84
+00:03:42,880 --> 00:03:46,240
+so that they realize some easily recognizable
+
+85
+00:03:46,240 --> 00:03:48,600
+overall property.
+
+86
+00:03:48,600 --> 00:03:51,280
+And so in the case of, like, I work in the area,
+
+87
+00:03:51,280 --> 00:03:53,920
+fine-tuning of the cosmos for life,
+
+88
+00:03:53,920 --> 00:03:58,840
+and so there, things do seem to be extremely well-adjusted
+
+89
+00:03:58,840 --> 00:04:01,840
+so that life can exist.
+
+90
+00:04:01,840 --> 00:04:02,840
+I disagree.
+
+91
+00:04:02,840 --> 00:04:04,840
+I'll go ahead.
+
+92
+00:04:04,840 --> 00:04:05,840
+Go ahead.
+
+93
+00:04:05,840 --> 00:04:06,840
+You go ahead.
+
+94
+00:04:06,840 --> 00:04:07,840
+Come back.
+
+95
+00:04:07,840 --> 00:04:12,280
+Well, I get the thing.
+
+96
+00:04:12,280 --> 00:04:17,600
+I know this understanding of design as you stated it,
+
+97
+00:04:17,600 --> 00:04:22,760
+but it is a novelty because English is, in fact,
+
+98
+00:04:22,760 --> 00:04:26,120
+a very, very young language.
+
+99
+00:04:26,120 --> 00:04:28,640
+Design is a very old concept.
+
+100
+00:04:28,640 --> 00:04:33,120
+The Council on Latin, the word signal means sign.
+
+101
+00:04:33,120 --> 00:04:36,560
+It is something that's discernible,
+
+102
+00:04:36,560 --> 00:04:38,760
+meaning to us, the observers.
+
+103
+00:04:38,760 --> 00:04:43,480
+And this observation, the sign, conveys a message,
+
+104
+00:04:43,480 --> 00:04:47,800
+which if followed, it means that it's useful to us.
+
+105
+00:04:47,800 --> 00:04:51,480
+Engineering, which is my education, comes from that.
+
+106
+00:04:51,480 --> 00:04:55,960
+It is about, OK, making better drawings.
+
+107
+00:04:55,960 --> 00:04:58,880
+And so that's design.
+
+108
+00:04:58,880 --> 00:05:03,280
+And where the image comes from, for example,
+
+109
+00:05:03,280 --> 00:05:07,600
+the shape of a leaf or the bend in a river,
+
+110
+00:05:07,600 --> 00:05:09,760
+is the observation.
+
+111
+00:05:09,760 --> 00:05:15,520
+Has nothing to do with who made that?
+
+112
+00:05:15,520 --> 00:05:20,240
+It is all about the observer getting the idea
+
+113
+00:05:20,240 --> 00:05:22,080
+that that observation is useful.
+
+114
+00:05:22,080 --> 00:05:24,520
+So that the observer with it, with the observation,
+
+115
+00:05:24,520 --> 00:05:28,600
+and with the artifact that comes from doing something,
+
+116
+00:05:28,600 --> 00:05:31,480
+acting, based on that observation,
+
+117
+00:05:31,480 --> 00:05:38,360
+the observer becomes a more empowered mover of itself
+
+118
+00:05:38,360 --> 00:05:41,920
+or himself on the landscape.
+
+119
+00:05:41,920 --> 00:05:43,680
+So that's design.
+
+120
+00:05:43,680 --> 00:05:49,160
+And so design is one of the most universal phenomena,
+
+121
+00:05:49,160 --> 00:05:55,760
+the most universal phenomenon of value to us that exists.
+
+122
+00:05:55,760 --> 00:05:58,840
+It's right there, or down there with gravity,
+
+123
+00:05:58,840 --> 00:06:03,960
+and with the irreversibility, the second law of dynamics.
+
+124
+00:06:03,960 --> 00:06:04,640
+That is design.
+
+125
+00:06:04,640 --> 00:06:05,960
+I agree with that entirely, but isn't that a lot,
+
+126
+00:06:05,960 --> 00:06:09,160
+because of its just constraint, that there's physical constraints?
+
+127
+00:06:09,160 --> 00:06:10,040
+Quite the opposite.
+
+128
+00:06:10,040 --> 00:06:12,280
+It's about freedom, not constraints,
+
+129
+00:06:12,280 --> 00:06:13,480
+without freedom.
+
+130
+00:06:13,480 --> 00:06:20,440
+On the contrary, without freedom, there's no discernible image,
+
+131
+00:06:20,440 --> 00:06:24,240
+no change in that image, no evolution.
+
+132
+00:06:24,240 --> 00:06:26,280
+And I think it speaks to this better than anyone,
+
+133
+00:06:26,280 --> 00:06:28,920
+because certainly, there is constraint
+
+134
+00:06:28,920 --> 00:06:30,640
+within the physical world, and stuff,
+
+135
+00:06:30,640 --> 00:06:33,960
+of what organisms are capable of doing
+
+136
+00:06:33,960 --> 00:06:35,120
+and not capable of doing.
+
+137
+00:06:35,120 --> 00:06:36,120
+Sure.
+
+138
+00:06:36,120 --> 00:06:38,640
+I mean, the classic example of this
+
+139
+00:06:38,640 --> 00:06:42,600
+is the laryngeal nerve in the giraffe,
+
+140
+00:06:42,600 --> 00:06:47,360
+which this is a sort of a case study in evolutionary biology.
+
+141
+00:06:47,360 --> 00:06:50,240
+The laryngeal nerve in the giraffe branches off
+
+142
+00:06:50,240 --> 00:06:54,760
+the vagus nerve in the brain, travels all the way down
+
+143
+00:06:54,760 --> 00:06:56,240
+through some arteries in the heart,
+
+144
+00:06:56,240 --> 00:06:58,200
+and then back up the neck of the giraffe,
+
+145
+00:06:58,200 --> 00:07:00,720
+where it innervates the larynx.
+
+146
+00:07:00,720 --> 00:07:03,280
+Why would it travel all that way down and all the way back?
+
+147
+00:07:03,280 --> 00:07:05,520
+Well, it's just because of the constraint
+
+148
+00:07:05,520 --> 00:07:06,800
+from its ancestors.
+
+149
+00:07:06,800 --> 00:07:09,480
+So that design, if you could call it that,
+
+150
+00:07:09,480 --> 00:07:14,400
+evolved in our fish ancestors, and that constraint,
+
+151
+00:07:14,400 --> 00:07:16,560
+that physiological constraint remains in the giraffe,
+
+152
+00:07:16,560 --> 00:07:21,400
+even though it causes this bizarre morphology.
+
+153
+00:07:21,400 --> 00:07:25,400
+One of the, I think when you're speaking about freedom
+
+154
+00:07:25,400 --> 00:07:31,360
+that comes as part of design, and as an evolutionary genomist,
+
+155
+00:07:31,360 --> 00:07:34,560
+I think of that as variation, the raw variation,
+
+156
+00:07:34,560 --> 00:07:38,120
+that is necessary for adaptation.
+
+157
+00:07:38,120 --> 00:07:42,880
+And I think one of the interesting aspects
+
+158
+00:07:42,880 --> 00:07:47,840
+to consider when we think about nature
+
+159
+00:07:47,840 --> 00:07:52,920
+and whether, as the da Vinci quote that we were provided with,
+
+160
+00:07:52,920 --> 00:07:55,880
+suggests that nothing is extra in nature
+
+161
+00:07:55,880 --> 00:07:59,520
+because it's so finely designed for its environs.
+
+162
+00:07:59,520 --> 00:08:02,400
+If we look at the genome, say the human genome,
+
+163
+00:08:02,400 --> 00:08:05,120
+3 billion base pairs, 50% of that,
+
+164
+00:08:05,120 --> 00:08:10,840
+fully 50% of that is repetitive DNA with no known purpose.
+
+165
+00:08:10,840 --> 00:08:15,000
+So there's a lot of extra stuff out there in nature.
+
+166
+00:08:15,000 --> 00:08:17,440
+And surely it's shaped by constraint,
+
+167
+00:08:17,440 --> 00:08:21,400
+but it's that variation that allows freedom to adapt.
+
+168
+00:08:23,400 --> 00:08:25,600
+I think there's one we have, but we haven't spoken.
+
+169
+00:08:25,600 --> 00:08:30,360
+So I'm just biting my time.
+
+170
+00:08:30,360 --> 00:08:34,120
+Well, maybe just to, so I'm trying to understand
+
+171
+00:08:34,120 --> 00:08:36,400
+when you talk about freedom.
+
+172
+00:08:36,400 --> 00:08:39,400
+So I guess, you know, I come out of physics.
+
+173
+00:08:39,400 --> 00:08:43,800
+And so to me, all that we're talking about here
+
+174
+00:08:43,800 --> 00:08:47,080
+and what you've talked about, what you've talked about is,
+
+175
+00:08:47,080 --> 00:08:51,720
+you know, boils down to, well, the constraints,
+
+176
+00:08:51,720 --> 00:08:57,400
+there are constraints of, I don't want to use the word design.
+
+177
+00:08:57,400 --> 00:08:58,480
+Wow, that's terrible.
+
+178
+00:08:58,480 --> 00:09:00,760
+I don't want to use the word design.
+
+179
+00:09:00,760 --> 00:09:05,600
+Everything is finding its way through a complex energy landscape.
+
+180
+00:09:05,600 --> 00:09:08,760
+I mean, as a physicist, we always resort to this.
+
+181
+00:09:08,760 --> 00:09:14,800
+We always say, well, it's all about finding free energy to do work.
+
+182
+00:09:14,800 --> 00:09:17,160
+So our molecules are doing that all the time.
+
+183
+00:09:17,160 --> 00:09:19,560
+Our DNA is doing all that all the time.
+
+184
+00:09:19,560 --> 00:09:24,120
+It's the root of biological evolution at some level.
+
+185
+00:09:24,120 --> 00:09:25,960
+It is these organisms there.
+
+186
+00:09:25,960 --> 00:09:28,720
+They're exploring this vast chemical landscape
+
+187
+00:09:28,720 --> 00:09:32,200
+and where there is opportunity to extract free energy and do
+
+188
+00:09:32,200 --> 00:09:33,920
+work, it will happen.
+
+189
+00:09:33,920 --> 00:09:34,760
+And why is that?
+
+190
+00:09:34,760 --> 00:09:37,000
+Because the whole universe is driven
+
+191
+00:09:37,000 --> 00:09:40,560
+towards dissipation of energy, right?
+
+192
+00:09:40,560 --> 00:09:43,880
+And moving towards a higher entropy state.
+
+193
+00:09:43,880 --> 00:09:47,680
+And so I guess, is that the freedom that you see
+
+194
+00:09:47,680 --> 00:09:52,240
+is this vast energy landscape that everything
+
+195
+00:09:52,240 --> 00:09:54,560
+from the river to the molecule is exploring?
+
+196
+00:09:54,560 --> 00:09:59,320
+I will, OK, since I like that you stick the language
+
+197
+00:09:59,320 --> 00:10:00,720
+of thermodynamics.
+
+198
+00:10:00,720 --> 00:10:08,120
+I'll try to make it more readable to everybody.
+
+199
+00:10:08,120 --> 00:10:14,640
+The first of all, I like the title of your blog, Life Unbound It.
+
+200
+00:10:14,640 --> 00:10:18,200
+Here's a comment on the so-called constraint.
+
+201
+00:10:18,200 --> 00:10:20,040
+It does not exist, OK?
+
+202
+00:10:20,040 --> 00:10:27,600
+There's the space is to be accessed by these flows
+
+203
+00:10:27,600 --> 00:10:28,400
+that you bring up.
+
+204
+00:10:28,400 --> 00:10:30,360
+The flows that are driven by the power
+
+205
+00:10:30,360 --> 00:10:31,960
+that you bring up.
+
+206
+00:10:31,960 --> 00:10:35,120
+The so-called free energy, a much better name for that
+
+207
+00:10:35,120 --> 00:10:40,280
+is fuel or food for those of us who live on this planet,
+
+208
+00:10:40,280 --> 00:10:46,880
+is converted into the power by engines.
+
+209
+00:10:46,880 --> 00:10:50,320
+And most of the engines are natural, OK?
+
+210
+00:10:50,320 --> 00:10:54,760
+Animals are basically engines on the tracks.
+
+211
+00:10:54,760 --> 00:10:57,720
+And of course, we are now very likely
+
+212
+00:10:57,720 --> 00:11:03,720
+to be riding on engines made by smarter humans
+
+213
+00:11:03,720 --> 00:11:07,080
+20 years ago in Britain.
+
+214
+00:11:07,080 --> 00:11:10,880
+And in propelling as much, much more cheaply.
+
+215
+00:11:10,880 --> 00:11:15,200
+But the question that is not being addressed until now
+
+216
+00:11:15,200 --> 00:11:21,600
+is, what is that power coming from the free energy useful
+
+217
+00:11:21,600 --> 00:11:23,320
+for to what end?
+
+218
+00:11:23,320 --> 00:11:28,120
+And the end is, for greater, easier movement,
+
+219
+00:11:28,120 --> 00:11:33,560
+movement into this free space, NES, available time,
+
+220
+00:11:33,560 --> 00:11:38,680
+because obviously here I speak autobiographically,
+
+221
+00:11:38,680 --> 00:11:40,480
+I would like to live longer.
+
+222
+00:11:40,480 --> 00:11:44,880
+And so I could move more easily all over
+
+223
+00:11:44,880 --> 00:11:47,840
+and bring others along with me, you see?
+
+224
+00:11:47,840 --> 00:11:50,160
+So that's the tendency.
+
+225
+00:11:50,160 --> 00:11:59,600
+As Neil's board said, nature is about us.
+
+226
+00:11:59,600 --> 00:12:03,040
+It's about what we say about nature.
+
+227
+00:12:03,040 --> 00:12:06,200
+That's what's interesting.
+
+228
+00:12:06,200 --> 00:12:10,680
+So that's the beginning of a more inclusive picture
+
+229
+00:12:10,680 --> 00:12:14,000
+of the topic.
+
+230
+00:12:14,000 --> 00:12:16,560
+I read parts of your book.
+
+231
+00:12:16,560 --> 00:12:18,280
+And I had a question for you.
+
+232
+00:12:18,280 --> 00:12:21,440
+The constructional laws that things constructive.
+
+233
+00:12:21,440 --> 00:12:22,600
+Constructive.
+
+234
+00:12:22,600 --> 00:12:23,600
+Constructive.
+
+235
+00:12:23,600 --> 00:12:26,400
+If you can say fractal, OK?
+
+236
+00:12:26,400 --> 00:12:27,240
+Constructal.
+
+237
+00:12:27,240 --> 00:12:28,400
+It's constructed.
+
+238
+00:12:28,400 --> 00:12:33,000
+So long is that things systems move towards more easier
+
+239
+00:12:33,000 --> 00:12:34,520
+and easier flow.
+
+240
+00:12:34,520 --> 00:12:36,120
+Use your greater access.
+
+241
+00:12:36,120 --> 00:12:37,400
+I like to, yeah.
+
+242
+00:12:37,400 --> 00:12:40,720
+So I mean, just a couple of really everyday examples.
+
+243
+00:12:40,720 --> 00:12:42,120
+My drain gets plugged up.
+
+244
+00:12:42,120 --> 00:12:45,640
+It seems like it's went from less easy flow
+
+245
+00:12:45,640 --> 00:12:49,360
+for easy flow to less easy flow, or arteries get clogged.
+
+246
+00:12:49,360 --> 00:12:52,240
+So how do you deal with examples like that?
+
+247
+00:12:52,240 --> 00:12:54,480
+Those examples are very different.
+
+248
+00:12:54,480 --> 00:12:57,800
+Your drain gets plugged up because your drain,
+
+249
+00:12:57,800 --> 00:13:00,480
+the pipe is not natural.
+
+250
+00:13:00,480 --> 00:13:04,920
+It is not free to morph, to morph,
+
+251
+00:13:04,920 --> 00:13:09,840
+to live with the incidental blockage.
+
+252
+00:13:09,840 --> 00:13:12,680
+The pipe is your artifact.
+
+253
+00:13:12,680 --> 00:13:17,000
+The drain is you, you're the human and machine specimen.
+
+254
+00:13:17,000 --> 00:13:23,040
+The river basin is the natural counterpart of your example.
+
+255
+00:13:23,040 --> 00:13:25,760
+In the river basin, I grew up under Daniel.
+
+256
+00:13:25,760 --> 00:13:28,480
+And I've been observing as a kid going fishing.
+
+257
+00:13:28,480 --> 00:13:31,920
+The river basin gets the tree log out of the way.
+
+258
+00:13:31,920 --> 00:13:35,280
+Tree logs do block the flow.
+
+259
+00:13:35,280 --> 00:13:37,760
+It does the sunken ship.
+
+260
+00:13:37,760 --> 00:13:40,760
+But the river, because it is free to morph,
+
+261
+00:13:40,760 --> 00:13:43,720
+because it is alive, is a flow architecture,
+
+262
+00:13:43,720 --> 00:13:48,280
+is a sign, is a thing that impresses you,
+
+263
+00:13:48,280 --> 00:13:53,320
+has the natural, the intrinsic property
+
+264
+00:13:53,320 --> 00:13:56,280
+of evolving to flow more easily.
+
+265
+00:13:56,280 --> 00:13:57,920
+So what about arteries?
+
+266
+00:13:57,920 --> 00:13:58,400
+Arrays?
+
+267
+00:13:58,400 --> 00:13:59,600
+Yeah, like people.
+
+268
+00:13:59,600 --> 00:14:00,440
+Same thing.
+
+269
+00:14:00,440 --> 00:14:05,040
+The artery also does its best until it's old enough
+
+270
+00:14:05,040 --> 00:14:11,240
+to split, to basically cause an aneurysm, to do all sorts of things.
+
+271
+00:14:11,240 --> 00:14:14,200
+But it seems to have gone from when you're younger,
+
+272
+00:14:14,200 --> 00:14:17,120
+your arteries are, there's more free flow.
+
+273
+00:14:17,120 --> 00:14:21,760
+So the evolution there seems to be from more free flow to less.
+
+274
+00:14:21,760 --> 00:14:22,440
+And that's what...
+
+275
+00:14:22,440 --> 00:14:25,680
+No, no, the life of a human being is no devolution.
+
+276
+00:14:25,680 --> 00:14:27,680
+It's called growth.
+
+277
+00:14:27,680 --> 00:14:31,480
+Many people in science confuse the life of the individual
+
+278
+00:14:31,480 --> 00:14:34,040
+with the evolution of the species.
+
+279
+00:14:34,040 --> 00:14:35,640
+No, evolution is about the...
+
+280
+00:14:35,640 --> 00:14:37,160
+Not sure we confuse it.
+
+281
+00:14:37,160 --> 00:14:38,920
+That's what we think is.
+
+282
+00:14:38,920 --> 00:14:40,400
+Right, it's part and parcel.
+
+283
+00:14:40,400 --> 00:14:45,680
+A single organism is one instance out of a vast evolutionary landscape, right?
+
+284
+00:14:45,680 --> 00:14:46,880
+And it's playing...
+
+285
+00:14:46,880 --> 00:14:48,680
+So I hear...
+
+286
+00:14:48,680 --> 00:14:53,400
+Are you suggesting that there's agency in a river or an arteries?
+
+287
+00:14:53,400 --> 00:14:54,600
+I mean, that's the sort of...
+
+288
+00:14:54,600 --> 00:14:57,600
+I hear that in the language, but I'm not sure that's what you're suggesting.
+
+289
+00:14:57,600 --> 00:15:01,040
+What is your definition of agency?
+
+290
+00:15:01,040 --> 00:15:03,840
+I mean, literally the dictionary definition of agency.
+
+291
+00:15:03,840 --> 00:15:05,160
+Well, you don't know, I'm asking you.
+
+292
+00:15:05,160 --> 00:15:06,000
+Are you saying...
+
+293
+00:15:06,000 --> 00:15:07,000
+No, I've used the word.
+
+294
+00:15:07,000 --> 00:15:08,160
+Because here's the word.
+
+295
+00:15:08,160 --> 00:15:13,000
+Is the river somehow deciding?
+
+296
+00:15:13,000 --> 00:15:15,360
+No, no, agency doesn't mean that.
+
+297
+00:15:15,360 --> 00:15:20,240
+Agency is essentially power.
+
+298
+00:15:20,240 --> 00:15:26,280
+Power, which is that that makes action possible.
+
+299
+00:15:26,280 --> 00:15:32,560
+Agency is not about the direction in which the design change
+
+300
+00:15:32,560 --> 00:15:35,760
+happens because of the power that is used.
+
+301
+00:15:35,760 --> 00:15:40,000
+The direction of the change in flow architecture,
+
+302
+00:15:40,000 --> 00:15:43,760
+because of that power you brought up the engines earlier,
+
+303
+00:15:43,760 --> 00:15:46,920
+that is actually the phenomenon of the evolution,
+
+304
+00:15:46,920 --> 00:15:53,240
+which is of all physics, and which is summarized by the constructive law of physics,
+
+305
+00:15:53,240 --> 00:15:55,920
+which is really the statement of everything that is...
+
+306
+00:15:55,920 --> 00:15:58,360
+that is finite size, not the quirk,
+
+307
+00:15:58,360 --> 00:16:01,040
+where you can tell some more invisible, finite size,
+
+308
+00:16:01,040 --> 00:16:04,560
+including the solar cell bodies,
+
+309
+00:16:04,560 --> 00:16:06,320
+has the...
+
+310
+00:16:06,320 --> 00:16:09,160
+In order to persist, which is to...
+
+311
+00:16:09,160 --> 00:16:11,760
+That means to live in physics,
+
+312
+00:16:11,760 --> 00:16:18,040
+it must evolve freely, freely, toward greater access.
+
+313
+00:16:18,040 --> 00:16:24,480
+Or in your example of the universe, toward the faster route to equilibrium,
+
+314
+00:16:24,480 --> 00:16:26,480
+which means death.
+
+315
+00:16:26,480 --> 00:16:29,480
+But why in a biological or an evolutionary context then?
+
+316
+00:16:29,480 --> 00:16:33,560
+I mean, if you take it back to looking at how evolution works,
+
+317
+00:16:33,560 --> 00:16:36,960
+why are there then unoccupied ecological spaces?
+
+318
+00:16:36,960 --> 00:16:38,440
+Because it's that if you...
+
+319
+00:16:38,440 --> 00:16:41,280
+I mean, we just did it for our students, we just did something
+
+320
+00:16:41,280 --> 00:16:43,160
+for an exhibit that we want to do,
+
+321
+00:16:43,160 --> 00:16:46,560
+and you can look at like a three-axis graph of...
+
+322
+00:16:46,560 --> 00:16:47,560
+Of it?
+
+323
+00:16:47,560 --> 00:16:52,000
+A three-axis projection of a bird egg, for instance,
+
+324
+00:16:52,000 --> 00:16:52,840
+and you can...
+
+325
+00:16:52,840 --> 00:16:56,000
+Like one axis is size, one axis is shape,
+
+326
+00:16:56,000 --> 00:16:57,920
+and the other axis is color.
+
+327
+00:16:57,920 --> 00:16:58,920
+Okay.
+
+328
+00:16:58,920 --> 00:16:59,920
+The third is what?
+
+329
+00:16:59,920 --> 00:17:00,920
+Color.
+
+330
+00:17:00,920 --> 00:17:01,920
+Color.
+
+331
+00:17:01,920 --> 00:17:02,920
+Yeah.
+
+332
+00:17:02,920 --> 00:17:04,400
+And if you would look at it that from...
+
+333
+00:17:04,400 --> 00:17:07,280
+It could say, yeah, you know, that evolution is a great optimizing thing,
+
+334
+00:17:07,280 --> 00:17:11,000
+you would expect that the whole kind of thing would be filled in universally,
+
+335
+00:17:11,000 --> 00:17:12,000
+but it's not.
+
+336
+00:17:12,000 --> 00:17:14,040
+There's big, empty spaces in a lot of it.
+
+337
+00:17:14,040 --> 00:17:15,040
+Right.
+
+338
+00:17:15,040 --> 00:17:16,040
+Of where...
+
+339
+00:17:16,040 --> 00:17:17,040
+Or just unoccupied ecological spaces.
+
+340
+00:17:17,040 --> 00:17:18,560
+And that's just one example.
+
+341
+00:17:18,560 --> 00:17:21,160
+I mean, people have recognized that for a long time,
+
+342
+00:17:21,160 --> 00:17:23,840
+and then once in a while some major evolutionary event happens,
+
+343
+00:17:23,840 --> 00:17:29,000
+I mean, previous to about 325 million years ago,
+
+344
+00:17:29,000 --> 00:17:33,160
+there was nothing that weighed over 20...
+
+345
+00:17:33,160 --> 00:17:35,480
+25, 30 grams that flew.
+
+346
+00:17:35,480 --> 00:17:38,400
+And then all of a sudden is that flying reptiles,
+
+347
+00:17:38,400 --> 00:17:42,000
+charasars evolved, and then also birds evolved,
+
+348
+00:17:42,000 --> 00:17:43,920
+then later on.
+
+349
+00:17:43,920 --> 00:17:48,480
+And then all of a sudden that was unoccupied ecological space
+
+350
+00:17:48,480 --> 00:17:50,640
+that became filled in.
+
+351
+00:17:50,640 --> 00:17:53,840
+And because of whatever happened, but nevertheless,
+
+352
+00:17:53,840 --> 00:17:56,800
+is that it's very...
+
+353
+00:17:56,800 --> 00:17:58,760
+It just doesn't go with this kind of thing,
+
+354
+00:17:58,760 --> 00:18:01,760
+it is always just that this undercurrent of...
+
+355
+00:18:01,760 --> 00:18:05,600
+I can respond to you by speaking a language that most people know,
+
+356
+00:18:05,600 --> 00:18:10,560
+which is that of looking at the river basin morphology, the map.
+
+357
+00:18:10,560 --> 00:18:14,720
+The wetland, the rain keeps falling, is wide open.
+
+358
+00:18:14,720 --> 00:18:17,280
+By the river channels, fall hierarchical,
+
+359
+00:18:17,280 --> 00:18:19,800
+happen only in the sun places.
+
+360
+00:18:19,800 --> 00:18:22,720
+There is lots of space that's not invaded by...
+
+361
+00:18:22,720 --> 00:18:24,520
+I mean, you call it design space.
+
+362
+00:18:24,520 --> 00:18:25,520
+It were...
+
+363
+00:18:25,520 --> 00:18:28,480
+Okay, for that my energy landscape.
+
+364
+00:18:28,480 --> 00:18:29,720
+There are lots of...
+
+365
+00:18:29,720 --> 00:18:32,680
+Most of it is actually not bathed.
+
+366
+00:18:32,680 --> 00:18:37,680
+And the reason is that in order to bathe with flow,
+
+367
+00:18:37,680 --> 00:18:40,760
+an area or a volume, the easiest,
+
+368
+00:18:40,760 --> 00:18:44,400
+meaning the greatest access to the entire space
+
+369
+00:18:44,400 --> 00:18:46,600
+is offered by a vasculature.
+
+370
+00:18:46,600 --> 00:18:47,440
+A vasculature.
+
+371
+00:18:47,440 --> 00:18:51,840
+This is why all these things that come up are happening.
+
+372
+00:18:51,840 --> 00:18:57,840
+You mentioned repetitive DNA in this theoretical infinity,
+
+373
+00:18:57,840 --> 00:19:01,920
+infinite space of DNA combinations.
+
+374
+00:19:01,920 --> 00:19:06,600
+The reason is that all DNA is not equal,
+
+375
+00:19:06,600 --> 00:19:08,840
+just like the words in a language.
+
+376
+00:19:08,840 --> 00:19:13,680
+Most of us speak basically hierarchy of words.
+
+377
+00:19:13,680 --> 00:19:14,880
+All of them, very few.
+
+378
+00:19:14,880 --> 00:19:18,880
+It's much smaller than the number than the main vocabulary.
+
+379
+00:19:18,880 --> 00:19:22,720
+Because that is the way to speak easiest
+
+380
+00:19:22,720 --> 00:19:27,160
+and the way to communicate with everybody else the fastest.
+
+381
+00:19:27,160 --> 00:19:30,440
+So you talk about these things that look the same,
+
+382
+00:19:30,440 --> 00:19:32,520
+that have two eyes, well, they had no eyes
+
+383
+00:19:32,520 --> 00:19:35,440
+before the Cambrian explosion.
+
+384
+00:19:35,440 --> 00:19:36,280
+But then...
+
+385
+00:19:36,280 --> 00:19:38,960
+But they're still limited by like the Aristingular history.
+
+386
+00:19:38,960 --> 00:19:41,240
+Is it all why I've said it from a common ancestor?
+
+387
+00:19:41,240 --> 00:19:42,840
+So we're stuck with that.
+
+388
+00:19:42,840 --> 00:19:45,440
+But let me just say one more thing, which is the punchline.
+
+389
+00:19:45,440 --> 00:19:50,080
+So when the eye occurred, obviously two eyes were better
+
+390
+00:19:50,080 --> 00:19:51,760
+because the world is flat.
+
+391
+00:19:51,760 --> 00:19:56,760
+These beings were perceiving the ambient, which is flat.
+
+392
+00:19:56,760 --> 00:20:01,760
+The two eyes were oriented this way, not this way.
+
+393
+00:20:01,760 --> 00:20:03,760
+And that's right.
+
+394
+00:20:03,760 --> 00:20:10,760
+And as soon as that happened, movement became immensely easier,
+
+395
+00:20:10,760 --> 00:20:16,760
+easier, safer, farther, just like after the invention of radar
+
+396
+00:20:16,760 --> 00:20:19,760
+in military aviation.
+
+397
+00:20:19,760 --> 00:20:23,760
+And so that's why you talked about the nature of optimizing things.
+
+398
+00:20:23,760 --> 00:20:27,760
+That's why this trade stayed.
+
+399
+00:20:27,760 --> 00:20:32,760
+The traits that are in fact inferior to existing alternatives
+
+400
+00:20:32,760 --> 00:20:33,760
+do not stay.
+
+401
+00:20:33,760 --> 00:20:35,760
+What works is kept.
+
+402
+00:20:35,760 --> 00:20:37,760
+That's evolution.
+
+403
+00:20:37,760 --> 00:20:40,760
+And it's a random up to a point.
+
+404
+00:20:40,760 --> 00:20:42,760
+That's kind of weird, Bill.
+
+405
+00:20:42,760 --> 00:20:46,760
+I find it a lot, I mean, you know, not an example.
+
+406
+00:20:46,760 --> 00:20:47,760
+You know, why are the...
+
+407
+00:20:47,760 --> 00:20:48,760
+I mean, we had...
+
+408
+00:20:48,760 --> 00:20:51,760
+It was bilateral symmetry in organisms, I think,
+
+409
+00:20:51,760 --> 00:20:53,760
+before complex eyes evolved.
+
+410
+00:20:53,760 --> 00:20:57,760
+I mean, there are other reasons for that.
+
+411
+00:20:57,760 --> 00:21:00,760
+I'm not an expert in evolution, but...
+
+412
+00:21:00,760 --> 00:21:02,760
+Well, I mean, like, you know...
+
+413
+00:21:02,760 --> 00:21:06,760
+Yeah, in terms of the repetitive DNA,
+
+414
+00:21:06,760 --> 00:21:09,760
+talking about the reason that exists in the genome,
+
+415
+00:21:09,760 --> 00:21:12,760
+certainly not all organisms have the degree of repetitive DNA
+
+416
+00:21:12,760 --> 00:21:17,760
+that mammals have, but it's thought that that's the result of
+
+417
+00:21:17,760 --> 00:21:20,760
+viral elements, viral DNA that, you know,
+
+418
+00:21:20,760 --> 00:21:24,760
+that actually come and insert genomic elements
+
+419
+00:21:24,760 --> 00:21:26,760
+that will copy DNA over and over,
+
+420
+00:21:26,760 --> 00:21:28,760
+and that's what they do for a living.
+
+421
+00:21:28,760 --> 00:21:32,760
+So, viral infection into your genome can result in many of those events.
+
+422
+00:21:32,760 --> 00:21:37,760
+So, you know, I think most people consider that to be a random process.
+
+423
+00:21:37,760 --> 00:21:41,760
+Yeah, I mean, like birds, when it's since have tiny genomes
+
+424
+00:21:41,760 --> 00:21:44,760
+compared to mammals, and their ancestors' crocodiles have genomes,
+
+425
+00:21:44,760 --> 00:21:48,760
+which are not ancestors, but the closest living group to them
+
+426
+00:21:48,760 --> 00:21:51,760
+have genomes, which are far larger than birds are.
+
+427
+00:21:51,760 --> 00:21:54,760
+Look, there is the river basin that has no genome,
+
+428
+00:21:54,760 --> 00:21:57,760
+yet it looks just like the human lung, okay?
+
+429
+00:21:57,760 --> 00:21:59,760
+Yeah, but that's not a consequence.
+
+430
+00:21:59,760 --> 00:22:03,760
+That's nothing to do with it, because it's like that it doesn't have a singular history.
+
+431
+00:22:03,760 --> 00:22:07,760
+It's not related to every other river basin in the planet.
+
+432
+00:22:07,760 --> 00:22:09,760
+I think that's an example of...
+
+433
+00:22:09,760 --> 00:22:13,760
+So, people who study complex systems are always talking,
+
+434
+00:22:13,760 --> 00:22:16,760
+I'm sure you know this, that talk about scaling laws,
+
+435
+00:22:16,760 --> 00:22:19,760
+for example, that exist across all sorts of things.
+
+436
+00:22:19,760 --> 00:22:25,760
+So, there are scaling laws in biology between body mass and metabolism, right?
+
+437
+00:22:25,760 --> 00:22:29,760
+And it's across all organisms, and it's probably it's a result of some
+
+438
+00:22:29,760 --> 00:22:33,760
+approximate optimization process, but it's still playing out
+
+439
+00:22:33,760 --> 00:22:35,760
+over billions of years of evolution.
+
+440
+00:22:35,760 --> 00:22:38,760
+It's the same scaling law that exists in language.
+
+441
+00:22:38,760 --> 00:22:41,760
+It's called the Zip Law, right?
+
+442
+00:22:41,760 --> 00:22:45,760
+It's the word use frequency versus, you know,
+
+443
+00:22:45,760 --> 00:22:47,760
+the...
+
+444
+00:22:47,760 --> 00:22:49,760
+So, you know, these are all...
+
+445
+00:22:49,760 --> 00:22:52,760
+I think as a physicist, I would say that a lot of what you're talking about,
+
+446
+00:22:52,760 --> 00:22:56,760
+the rivers and so on, yes, there are similarities to biological systems,
+
+447
+00:22:56,760 --> 00:22:59,760
+but they're for slightly different reasons.
+
+448
+00:22:59,760 --> 00:23:03,760
+They're not because of inherited traits, right?
+
+449
+00:23:03,760 --> 00:23:05,760
+They're because of...
+
+450
+00:23:05,760 --> 00:23:09,760
+And this perhaps gets back to the universal idea of design,
+
+451
+00:23:09,760 --> 00:23:14,760
+that there are these emergent scaling laws, these emergent relationships,
+
+452
+00:23:14,760 --> 00:23:22,760
+because of the underlying nature of systems driven by, you know,
+
+453
+00:23:22,760 --> 00:23:25,760
+finding their way through some energy landscape of optimization,
+
+454
+00:23:25,760 --> 00:23:27,760
+of efficiency and so on, right?
+
+455
+00:23:27,760 --> 00:23:28,760
+I mean, the same...
+
+456
+00:23:28,760 --> 00:23:32,760
+I think these scaling rules also apply to a circulatory system, right?
+
+457
+00:23:32,760 --> 00:23:33,760
+Right.
+
+458
+00:23:33,760 --> 00:23:36,760
+And things like the species area curve, how many species you find in, you know,
+
+459
+00:23:36,760 --> 00:23:39,760
+one square meter versus 100 square meters?
+
+460
+00:23:39,760 --> 00:23:40,760
+Right.
+
+461
+00:23:40,760 --> 00:23:44,760
+Let me try to clarify the words we speak.
+
+462
+00:23:44,760 --> 00:23:48,760
+These scaling laws that you mentioned are not laws of physics.
+
+463
+00:23:48,760 --> 00:23:53,760
+They are compact mathematical summaries, also known as correlations,
+
+464
+00:23:53,760 --> 00:23:55,760
+of observations.
+
+465
+00:23:55,760 --> 00:24:00,760
+The law of physics is the purely mental viewing that empowers one to predict
+
+466
+00:24:00,760 --> 00:24:02,760
+such correlations.
+
+467
+00:24:02,760 --> 00:24:04,760
+And that is what I do.
+
+468
+00:24:04,760 --> 00:24:08,760
+And along the way, what I predict is not only the correlations,
+
+469
+00:24:08,760 --> 00:24:12,760
+and all these things you bring up, including zips,
+
+470
+00:24:12,760 --> 00:24:17,760
+I predict why, at one point, the so-called correlation should break down,
+
+471
+00:24:17,760 --> 00:24:22,760
+because, yes, there is a scaling law to the many, many ramifications
+
+472
+00:24:22,760 --> 00:24:29,760
+in the human life, but with a constructive law, I predict that the cutoff should be 23
+
+473
+00:24:29,760 --> 00:24:30,760
+branching levels.
+
+474
+00:24:30,760 --> 00:24:33,760
+That is the power of a law of physics.
+
+475
+00:24:33,760 --> 00:24:39,760
+So, yes, most of my colleagues use the word law when, in fact,
+
+476
+00:24:39,760 --> 00:24:46,760
+they're talking about an empirical activity, which is that of making a more
+
+477
+00:24:46,760 --> 00:24:49,760
+compact, a huge volume of observations.
+
+478
+00:24:49,760 --> 00:24:53,760
+The law of physics does that one better.
+
+479
+00:24:53,760 --> 00:24:58,760
+It makes even more compact a huge number of these correlations.
+
+480
+00:24:58,760 --> 00:25:02,760
+I'm just going to go back to something previous.
+
+481
+00:25:02,760 --> 00:25:04,760
+I said you disagree about the finding too.
+
+482
+00:25:04,760 --> 00:25:07,760
+I want to further take on it.
+
+483
+00:25:07,760 --> 00:25:12,760
+Well, I mean, would it be useful if you explain, do you want to explain a little
+
+484
+00:25:12,760 --> 00:25:14,760
+bit what point is and then I can.
+
+485
+00:25:14,760 --> 00:25:20,760
+OK, so what's been discussed pretty much since the 70s has been what's called
+
+486
+00:25:20,760 --> 00:25:25,760
+anthropic fine tuning, and that the universe is, in many ways, the fundamental
+
+487
+00:25:25,760 --> 00:25:31,760
+structure precisely set so that life can exist at least somewhere
+
+488
+00:25:31,760 --> 00:25:33,760
+in the universe.
+
+489
+00:25:33,760 --> 00:25:37,760
+OK, and I usually like to refer to the kind of life is what I call embodied
+
+490
+00:25:37,760 --> 00:25:43,760
+conscious agents, which would be a generalized version of what we are.
+
+491
+00:25:43,760 --> 00:25:46,760
+And so you could do this on different levels.
+
+492
+00:25:46,760 --> 00:25:51,760
+There's the laws of nature, the very general principles like the law of
+
+493
+00:25:51,760 --> 00:25:56,760
+gravity or that, unlike charges repel each other.
+
+494
+00:25:56,760 --> 00:25:58,760
+And there has to be the right set of those.
+
+495
+00:25:58,760 --> 00:26:04,760
+If you like pulled off the law of gravity, there wouldn't be any masses
+
+496
+00:26:04,760 --> 00:26:09,760
+when clumped together and obviously you wouldn't get highly complex beings like
+
+497
+00:26:09,760 --> 00:26:13,760
+us and would also be stars, which are the energy sources for them.
+
+498
+00:26:13,760 --> 00:26:18,760
+And then another, the post-discussed area of this is on what they call the
+
+499
+00:26:18,760 --> 00:26:20,760
+fundamental parameters of physics.
+
+500
+00:26:20,760 --> 00:26:27,760
+So those would be like the mass of the proton or even more fundamental than that
+
+501
+00:26:27,760 --> 00:26:33,760
+is the mass of the up and down quarks, which compose the proton.
+
+502
+00:26:33,760 --> 00:26:39,760
+Other examples would be the strength of gravity as not just the strength on any
+
+503
+00:26:39,760 --> 00:26:47,760
+given planet, but that constant g in Newton's law that f equals g, the mass,
+
+504
+00:26:47,760 --> 00:26:52,760
+first mass times the second mass divided by the distance between m squared,
+
+505
+00:26:52,760 --> 00:26:53,760
+that's all.
+
+506
+00:26:53,760 --> 00:26:57,760
+There's a number for that and you can express that for those who have physics
+
+507
+00:26:57,760 --> 00:27:00,760
+training, you can express that in what's called dimensionalist units.
+
+508
+00:27:00,760 --> 00:27:02,760
+You don't actually have to refer to units there.
+
+509
+00:27:02,760 --> 00:27:05,760
+But anyhow, it's a number that gives the strength of gravity.
+
+510
+00:27:05,760 --> 00:27:09,760
+There's a number that gives the strength of the electromagnetic force, the strong
+
+511
+00:27:09,760 --> 00:27:11,760
+nuclear force, et cetera.
+
+512
+00:27:11,760 --> 00:27:19,760
+And those have to be precisely adjusted over vast ranges of possibilities in order
+
+513
+00:27:19,760 --> 00:27:25,760
+to have a universe that allows for what I would say would be life more
+
+514
+00:27:25,760 --> 00:27:30,760
+generally stable, reproducible complexity.
+
+515
+00:27:30,760 --> 00:27:32,760
+And I can give more examples than those.
+
+516
+00:27:32,760 --> 00:27:37,760
+There's lots of examples you can give, but that's the general idea.
+
+517
+00:27:37,760 --> 00:27:38,760
+Right.
+
+518
+00:27:38,760 --> 00:27:44,760
+And I think, yeah, what I'll get to why I sort of made my squeak of that objective.
+
+519
+00:27:44,760 --> 00:27:50,760
+What's so interesting about that as part of this topic of design and nature is that
+
+520
+00:27:50,760 --> 00:27:57,760
+it could be construed to mean that everything was set up, as you say,
+
+521
+00:27:57,760 --> 00:28:02,760
+to be just so in order to enable the production of things like stars in the
+
+522
+00:28:02,760 --> 00:28:06,760
+cosmos, which in turn produced heavy elements in just the right abundancies
+
+523
+00:28:06,760 --> 00:28:12,760
+to ultimately make planets with chemical compositions that allow for the sort of
+
+524
+00:28:12,760 --> 00:28:15,760
+complexity that life can emerge from.
+
+525
+00:28:15,760 --> 00:28:18,760
+And I've been interested in that for a while.
+
+526
+00:28:18,760 --> 00:28:24,760
+And what's interesting to me, actually, is that now we come back and look at it
+
+527
+00:28:24,760 --> 00:28:27,760
+with a little more scrutiny.
+
+528
+00:28:27,760 --> 00:28:35,760
+And I'll explain this as well, that fine tuning is probably not so fine at all,
+
+529
+00:28:35,760 --> 00:28:43,760
+which negates some of this idea that the universe is perfect for life or just
+
+530
+00:28:43,760 --> 00:28:48,760
+appears to be perfect for that one instance of, you know, cognizant life that
+
+531
+00:28:48,760 --> 00:28:49,760
+you talk about.
+
+532
+00:28:49,760 --> 00:28:51,760
+So I have two things to say.
+
+533
+00:28:51,760 --> 00:28:56,760
+And one is to do with people's investigations of that quite recently that
+
+534
+00:28:56,760 --> 00:29:02,760
+seem to suggest the universe is not fine-tuned particularly well.
+
+535
+00:29:02,760 --> 00:29:07,760
+And the other piece of it is, I think you can flip it around and, you know,
+
+536
+00:29:07,760 --> 00:29:12,760
+it's predicated on the notion of life being a very particular thing, right,
+
+537
+00:29:12,760 --> 00:29:16,760
+carbon-based organisms somewhat like us.
+
+538
+00:29:16,760 --> 00:29:22,760
+And the truth is we don't know whether you can build life out of other
+
+539
+00:29:22,760 --> 00:29:24,760
+building blocks or not.
+
+540
+00:29:24,760 --> 00:29:25,760
+Suppose you can't.
+
+541
+00:29:25,760 --> 00:29:29,760
+Suppose life can be more general as a phenomenon.
+
+542
+00:29:29,760 --> 00:29:34,760
+It can come together out of any set of building blocks that allow for
+
+543
+00:29:34,760 --> 00:29:38,760
+sufficient complexity, right, and maybe that's, I mean, everybody always says
+
+544
+00:29:38,760 --> 00:29:43,760
+silicon, but silicon probably isn't a very good element to be involved in this,
+
+545
+00:29:43,760 --> 00:29:44,760
+but it could be.
+
+546
+00:29:44,760 --> 00:29:48,760
+You know, then that could conceivably change the perception of the universe
+
+547
+00:29:48,760 --> 00:29:51,760
+being particularly well-fined-tuned.
+
+548
+00:29:51,760 --> 00:29:55,760
+But I just wanted to say, and this is why I sort of, you know, got excited when
+
+549
+00:29:55,760 --> 00:29:58,760
+you mentioned it, that, you know, so the hands are very, very
+
+550
+00:29:58,760 --> 00:29:59,760
+important.
+
+551
+00:29:59,760 --> 00:30:02,760
+You know, so there has been recent work on this from the physics end.
+
+552
+00:30:02,760 --> 00:30:08,760
+You may well be aware of it, but for example, you mentioned the relative
+
+553
+00:30:08,760 --> 00:30:13,760
+strength or the strength of gravity, right, and so one of those
+
+554
+00:30:13,760 --> 00:30:18,760
+dimensionless quantities is the strength of gravity to the strength of
+
+555
+00:30:18,760 --> 00:30:20,760
+electromagnetic forces.
+
+556
+00:30:20,760 --> 00:30:25,760
+That ratio has been deemed in the past as something that if that was changed
+
+557
+00:30:25,760 --> 00:30:29,760
+just a little bit, you couldn't make things like stars, right, because a star
+
+558
+00:30:29,760 --> 00:30:33,760
+is essentially a competition between gravity and electromagnetic forces.
+
+559
+00:30:33,760 --> 00:30:38,760
+It's in a sort of dynamic equilibrium as matter comes together.
+
+560
+00:30:38,760 --> 00:30:42,760
+And so the argument has been, well, if you changed gravity a little bit or you
+
+561
+00:30:42,760 --> 00:30:46,760
+changed electromagnetic, magnetism a tiny bit, you just wouldn't make stars,
+
+562
+00:30:46,760 --> 00:30:48,760
+and all that then follows.
+
+563
+00:30:48,760 --> 00:30:54,760
+But recent investigation of that suggests that in fact, you could still make
+
+564
+00:30:54,760 --> 00:30:59,760
+stars, even if you change the strength of electromagnetism by maybe a factor
+
+565
+00:30:59,760 --> 00:31:04,760
+of a thousand, and if you change the strength of gravity, the G constant,
+
+566
+00:31:04,760 --> 00:31:10,760
+by up to a million, or maybe even 10 million, that space, that parameter
+
+567
+00:31:10,760 --> 00:31:14,760
+space still allows for stars to form in the universe.
+
+568
+00:31:14,760 --> 00:31:18,760
+Now they might be different than the stars we used to, they might be about
+
+569
+00:31:18,760 --> 00:31:23,760
+bigger, but they would still go through the same cycle of nuclear
+
+570
+00:31:23,760 --> 00:31:26,760
+fusion and element production.
+
+571
+00:31:26,760 --> 00:31:31,760
+And to me, that's really interesting, if that's true, because it means that at
+
+572
+00:31:31,760 --> 00:31:36,760
+least one piece of the fine tuning argument, I know there are other factors
+
+573
+00:31:36,760 --> 00:31:40,760
+to that, other fundamental properties, if you tweak them a little bit,
+
+574
+00:31:40,760 --> 00:31:42,760
+would be seemingly problematic.
+
+575
+00:31:42,760 --> 00:31:47,760
+But that suggests to me that it's, first of all, maybe the universe isn't
+
+576
+00:31:47,760 --> 00:31:49,760
+particularly well tuned for life as we know it.
+
+577
+00:31:49,760 --> 00:31:54,760
+I mean, we don't actually know, because we've only got the one instance that we
+
+578
+00:31:54,760 --> 00:31:56,760
+know about right here on the Earth.
+
+579
+00:31:56,760 --> 00:32:00,760
+So we don't know whether this is a fertile universe or not a fertile
+
+580
+00:32:00,760 --> 00:32:01,760
+universe.
+
+581
+00:32:01,760 --> 00:32:09,760
+And that, to me, would change, suppose 500 years ago, or 400 years ago,
+
+582
+00:32:09,760 --> 00:32:13,760
+first telescopes, we just saw life everywhere.
+
+583
+00:32:13,760 --> 00:32:18,760
+Everybody had big neon signs out across the universe saying, we are here.
+
+584
+00:32:18,760 --> 00:32:20,760
+What are you up to?
+
+585
+00:32:20,760 --> 00:32:21,760
+Oh, yeah, Renaissance.
+
+586
+00:32:21,760 --> 00:32:22,760
+Lovely.
+
+587
+00:32:22,760 --> 00:32:25,760
+We had that, you know, a thousand years earlier.
+
+588
+00:32:25,760 --> 00:32:29,760
+Then we'd have lived with a universe replete with living organisms,
+
+589
+00:32:29,760 --> 00:32:36,760
+and I'm not even sure the question would come up that the universe was fine-tuned.
+
+590
+00:32:36,760 --> 00:32:39,760
+If what, I didn't quite catch the last scenario.
+
+591
+00:32:39,760 --> 00:32:43,760
+Suppose the universe, we knew we had known that the universe was packed with
+
+592
+00:32:43,760 --> 00:32:47,760
+life, that the planet everywhere, and all of them had life, and it was all
+
+593
+00:32:47,760 --> 00:32:52,760
+sophisticated, technological, it had evolved in many different ways, and so on.
+
+594
+00:32:52,760 --> 00:32:55,760
+I just wonder whether we'd even ask the question.
+
+595
+00:32:55,760 --> 00:33:00,760
+And the thing is, we don't know how fertile the universe is.
+
+596
+00:33:00,760 --> 00:33:02,760
+So sorry, I'm loading this with lots of...
+
+597
+00:33:02,760 --> 00:33:06,760
+One thing I want to say, okay, start with a response to your second point you made
+
+598
+00:33:06,760 --> 00:33:08,760
+about assuming carbon-based life.
+
+599
+00:33:08,760 --> 00:33:10,760
+Most of the arguments actually don't.
+
+600
+00:33:10,760 --> 00:33:14,760
+For example, the fine-tuning of the cosmological constant, which governs the
+
+601
+00:33:14,760 --> 00:33:19,760
+expansion rate of space, that simply, if it wasn't within a very small range,
+
+602
+00:33:19,760 --> 00:33:25,760
+typically estimate as one part in 10 to the 120th power, very, very small number,
+
+603
+00:33:25,760 --> 00:33:30,760
+that the universe would expand too rapidly for galaxies and stars to form,
+
+604
+00:33:30,760 --> 00:33:34,760
+so there just wouldn't be planets, there wouldn't be stars, and then you're not even
+
+605
+00:33:34,760 --> 00:33:37,760
+going to get any kind of complexity.
+
+606
+00:33:37,760 --> 00:33:40,760
+Or if you looked at the level of laws, if you didn't have like this,
+
+607
+00:33:40,760 --> 00:33:45,760
+strong nuclear force was long-range force, wasn't just right, you wouldn't have atoms.
+
+608
+00:33:45,760 --> 00:33:51,760
+And concerning your case, so first of all, I say, the more general, if somebody's
+
+609
+00:33:51,760 --> 00:33:56,760
+correctly formulating this, most cases won't involve, are not simply focused on
+
+610
+00:33:56,760 --> 00:33:57,760
+carbon-based life.
+
+611
+00:33:57,760 --> 00:34:02,760
+There was that case with Fred Hoyle initially with the carbon and oxygen,
+
+612
+00:34:02,760 --> 00:34:05,760
+but most of them aren't.
+
+613
+00:34:05,760 --> 00:34:14,760
+And the second thing, in the example you mentioned of the star, I don't think that
+
+614
+00:34:14,760 --> 00:34:20,760
+it's just whether stars could exist or not with the gravitational-constra-fying
+
+615
+00:34:20,760 --> 00:34:21,760
+structure constant.
+
+616
+00:34:21,760 --> 00:34:25,760
+It wasn't just a matter of whether stars could exist, but whether they would have
+
+617
+00:34:25,760 --> 00:34:30,760
+right temperature last long enough for life to exist.
+
+618
+00:34:30,760 --> 00:34:36,760
+And there's also, if you change those, there's planetary effects, like the ability to
+
+619
+00:34:36,760 --> 00:34:41,760
+retain an atmosphere if you increase the strength of gravity, it can fairly easy
+
+620
+00:34:41,760 --> 00:34:47,760
+to show that you're forced into increasing the surface force on a planet to retain
+
+621
+00:34:47,760 --> 00:34:49,760
+an atmosphere.
+
+622
+00:34:49,760 --> 00:34:52,760
+And so, you know, gravity is very weak as a force.
+
+623
+00:34:52,760 --> 00:34:57,760
+If you didn't dimensionless units, about one in ten to the 38th power of the
+
+624
+00:34:57,760 --> 00:35:06,760
+strong nuclear force, and if you increase gravity by, let's say, a thousandfold,
+
+625
+00:35:06,760 --> 00:35:14,760
+then only planets have 30 times the surface force strength of experience, it would be
+
+626
+00:35:14,760 --> 00:35:18,760
+less, a lot less, I think, ideal for our kind of life.
+
+627
+00:35:18,760 --> 00:35:24,760
+So, I think you can, the argument actually, when you start talking about the conditions
+
+628
+00:35:24,760 --> 00:35:30,760
+being even optimal, you might even be able to get light, but it's going to be, as you
+
+629
+00:35:30,760 --> 00:35:34,760
+increase the surface force, it's going to be a lot harder to do much of anything.
+
+630
+00:35:34,760 --> 00:35:41,760
+So, I would agree that figuring out all these secondary ramifications is tough, right?
+
+631
+00:35:41,760 --> 00:35:46,760
+And it may be that you would eliminate regions of this expanded parameter space.
+
+632
+00:35:46,760 --> 00:35:51,760
+But, no, I mean, the example I gave, that range, and I'm sorry, is just getting into
+
+633
+00:35:51,760 --> 00:35:57,760
+sort of horribly specific physics. So, we should veer off from this again.
+
+634
+00:35:57,760 --> 00:36:04,760
+That range I gave for strength of gravity, strength of electromagnetism, is the range
+
+635
+00:36:04,760 --> 00:36:11,760
+from which you would derive sufficiently long-lived stars with the right sort of
+
+636
+00:36:11,760 --> 00:36:15,760
+properties to produce, as far as we can tell, I mean, you'd have to run a lot of
+
+637
+00:36:15,760 --> 00:36:23,760
+physics simulations, an abundance of heavier elements, not so dissimilar to what we
+
+638
+00:36:23,760 --> 00:36:29,760
+have at the moment. No, I mean, I raised it, not really just to sort of attack this idea,
+
+639
+00:36:29,760 --> 00:36:33,760
+but it's interesting to me that, you know, and maybe this almost relates to what you
+
+640
+00:36:33,760 --> 00:36:39,760
+would say, I mean, we impose design on things, right? That's us.
+
+641
+00:36:39,760 --> 00:36:42,760
+The universe may have nothing to do with that, right?
+
+642
+00:36:42,760 --> 00:36:46,760
+We tend to impose design more than anything else.
+
+643
+00:36:46,760 --> 00:36:50,760
+Here's Adam, this is what you just look at, a range of physically possible values,
+
+644
+00:36:50,760 --> 00:36:54,760
+and then you look at those values that are allowed for complexity, and some of them are
+
+645
+00:36:54,760 --> 00:36:58,760
+very straight, much more straightforward, you don't have to run the kind of simulations
+
+646
+00:36:58,760 --> 00:37:01,760
+which we like the concept. Yeah, I mean, I think the cosological concept is a good one.
+
+647
+00:37:01,760 --> 00:37:04,760
+It's much more straightforward. Right, right. And the other ones are the
+
+648
+00:37:04,760 --> 00:37:06,760
+planetary effects of change in gravity are pretty straightforward.
+
+649
+00:37:06,760 --> 00:37:10,760
+But, we bring it back to this idea just how messy all this stuff is, basically.
+
+650
+00:37:10,760 --> 00:37:14,760
+I mean, the best example of that is, I mean, even if you bought into the creator
+
+651
+00:37:14,760 --> 00:37:18,760
+kind of stuff, that Adam and Eve, everything, I mean, it's looking around, we all look
+
+652
+00:37:18,760 --> 00:37:22,760
+different, we wouldn't, because DNA replication is incredibly
+
+653
+00:37:22,760 --> 00:37:26,760
+messy, and that there's, you know, all of these things,
+
+654
+00:37:26,760 --> 00:37:30,760
+whether it's, you know, talking about things within the aspect of the beginning
+
+655
+00:37:30,760 --> 00:37:34,760
+of the universe, to, like, you know, things that, like, you know,
+
+656
+00:37:34,760 --> 00:37:38,760
+e.coli mutating in petri dishes around the city in different labs.
+
+657
+00:37:38,760 --> 00:37:42,760
+I mean, there's a lot of messiness and a lot of stochastic kind of things that just
+
+658
+00:37:42,760 --> 00:37:46,760
+happened to all of these things. And if it weren't messy, we wouldn't beat him.
+
+659
+00:37:46,760 --> 00:37:50,760
+Exactly. Well, let me, I don't know if you were.
+
+660
+00:37:50,760 --> 00:37:54,760
+No, I was just going to add to that. And we, as I think you're saying,
+
+661
+00:37:54,760 --> 00:37:58,760
+are predisposed to see the design and everything, even if
+
+662
+00:37:58,760 --> 00:38:02,760
+it's created by random processes with, you know,
+
+663
+00:38:02,760 --> 00:38:06,760
+additional constraints on top. And that's part of not just our brains, but animal brains
+
+664
+00:38:06,760 --> 00:38:10,760
+in general, that are designed to look for pattern. That itself is adaptive.
+
+665
+00:38:10,760 --> 00:38:14,760
+Because the brain or any other
+
+666
+00:38:14,760 --> 00:38:18,760
+such organ is the finite size and
+
+667
+00:38:18,760 --> 00:38:22,760
+can only do this little in order to enable the moving
+
+668
+00:38:22,760 --> 00:38:26,760
+vehicle. I've been listening to your discussion.
+
+669
+00:38:26,760 --> 00:38:30,760
+I don't, I don't, I don't use a lot of our brain. Well, so if you say it's
+
+670
+00:38:30,760 --> 00:38:34,760
+too small, why don't we use more of it? No, the point I'm making is
+
+671
+00:38:34,760 --> 00:38:38,760
+that from one generation to the next, we
+
+672
+00:38:38,760 --> 00:38:42,760
+were exposed to more information, more observations,
+
+673
+00:38:42,760 --> 00:38:46,760
+reams and reams of this. And of course we
+
+674
+00:38:46,760 --> 00:38:50,760
+absorb it in the forms of principles and the correlations, but not
+
+675
+00:38:50,760 --> 00:38:54,760
+number by number in the immense volumes of
+
+676
+00:38:54,760 --> 00:38:58,760
+tables of data. We, we become
+
+677
+00:38:58,760 --> 00:39:02,760
+more knowledgeable through, through hierarchical
+
+678
+00:39:02,760 --> 00:39:06,760
+not through mindless accumulation of volume.
+
+679
+00:39:06,760 --> 00:39:10,760
+That was the point I was making. I wanted to contribute this discussion
+
+680
+00:39:10,760 --> 00:39:14,760
+because several points were made here.
+
+681
+00:39:14,760 --> 00:39:18,760
+The, first of all, I was learning from the
+
+682
+00:39:18,760 --> 00:39:22,760
+exchange between the two of you, which is basically about physics. The topic today
+
+683
+00:39:22,760 --> 00:39:26,760
+is Design in Nature, which is something that is familiar to everyone.
+
+684
+00:39:26,760 --> 00:39:30,760
+It's something for us mortals here, somewhere halfway
+
+685
+00:39:30,760 --> 00:39:34,760
+between the stars and the protons and the quarks.
+
+686
+00:39:34,760 --> 00:39:38,760
+Now, many people, as you
+
+687
+00:39:38,760 --> 00:39:42,760
+implied, equate the
+
+688
+00:39:42,760 --> 00:39:46,760
+quark, the proton and the infinitesimal with, quote,
+
+689
+00:39:46,760 --> 00:39:50,760
+even more fundamental. Smaller
+
+690
+00:39:50,760 --> 00:39:54,760
+does not mean more fundamental. Fundamental fundus in Latin means
+
+691
+00:39:54,760 --> 00:39:58,760
+at bottom. Look at the Statue of Liberty, the pedestal
+
+692
+00:39:58,760 --> 00:40:02,760
+is bigger than the statue. The thing,
+
+693
+00:40:02,760 --> 00:40:06,760
+or the fire brick in Roman architecture, is
+
+694
+00:40:06,760 --> 00:40:10,760
+finite size. You can kill a man with it. And it is fundamental
+
+695
+00:40:10,760 --> 00:40:14,760
+because before that, the buildings are really,
+
+696
+00:40:14,760 --> 00:40:18,760
+really miserable and crumbling earthquakes and so forth.
+
+697
+00:40:18,760 --> 00:40:22,760
+Most of them, but not after the fire brick. You have
+
+698
+00:40:22,760 --> 00:40:26,760
+these vaults. You have architecture of a different kind. After the fire
+
+699
+00:40:26,760 --> 00:40:30,760
+brick came, the steel reinforced concrete all over this country,
+
+700
+00:40:30,760 --> 00:40:34,760
+skyscrapers and iron bridges. Okay? So
+
+701
+00:40:34,760 --> 00:40:36,760
+that's fundamental. A
+
+702
+00:40:36,760 --> 00:40:40,760
+finite size elemental construct,
+
+703
+00:40:40,760 --> 00:40:44,760
+this thing, the brick, the steel in the cement.
+
+704
+00:40:44,760 --> 00:40:48,760
+These are fundamental because they are
+
+705
+00:40:48,760 --> 00:40:52,760
+literally at the bottom of
+
+706
+00:40:52,760 --> 00:40:54,380
+the
+
+707
+00:40:54,380 --> 00:40:58,760
+surface. So, in science, unfortunately, language
+
+708
+00:40:58,760 --> 00:41:02,760
+basically has a life of its own.
+
+709
+00:41:02,760 --> 00:41:06,760
+Some words are so useful that they end up being used,
+
+710
+00:41:06,760 --> 00:41:10,760
+actually misused in other places.
+
+711
+00:41:10,760 --> 00:41:12,760
+The life
+
+712
+00:41:12,760 --> 00:41:16,760
+carbon based. Of course, that's the view if you
+
+713
+00:41:16,760 --> 00:41:20,760
+equate the design nature only with
+
+714
+00:41:20,760 --> 00:41:24,760
+animals, with the biosphere, you see.
+
+715
+00:41:24,760 --> 00:41:28,760
+But the design nature is general. It's not about that.
+
+716
+00:41:28,760 --> 00:41:32,760
+So, there's a famous question, what is life?
+
+717
+00:41:32,760 --> 00:41:36,760
+And I think the answer is very easy if you know
+
+718
+00:41:36,760 --> 00:41:38,760
+thermodynamics. Because in
+
+719
+00:41:38,760 --> 00:41:42,760
+thermodynamics, this is the part of physics that had to be born after
+
+720
+00:41:42,760 --> 00:41:44,760
+the steam engine, the
+
+721
+00:41:44,760 --> 00:41:48,760
+heat engine, 200 years ago.
+
+722
+00:41:48,760 --> 00:41:52,760
+So, this is actually Maxwell in Cambridge.
+
+723
+00:41:52,760 --> 00:41:56,760
+One of the key concepts in physics is that of
+
+724
+00:41:56,760 --> 00:42:00,760
+the dead state. Death is
+
+725
+00:42:00,760 --> 00:42:04,760
+resolved as an answer to a question in physics.
+
+726
+00:42:04,760 --> 00:42:08,760
+Dead means in a system, which means this that you're discussing.
+
+727
+00:42:08,760 --> 00:42:12,760
+That system is in the dead state. If in it, nothing
+
+728
+00:42:12,760 --> 00:42:16,760
+moves. That also means nothing morphs. Nothing changes.
+
+729
+00:42:16,760 --> 00:42:20,760
+Well, the antonym of that is the
+
+730
+00:42:20,760 --> 00:42:24,760
+life state of a system. It is a system in a
+
+731
+00:42:24,760 --> 00:42:28,760
+state occupied by flow, meaning
+
+732
+00:42:28,760 --> 00:42:32,760
+movement. And the change. Change in configuration.
+
+733
+00:42:32,760 --> 00:42:36,760
+I mentioned earlier change cannot happen without freedom to change.
+
+734
+00:42:36,760 --> 00:42:40,760
+That's another basic concept in physics.
+
+735
+00:42:40,760 --> 00:42:44,760
+Process means change. Change of state from this
+
+736
+00:42:44,760 --> 00:42:48,760
+being of, say, the part of water
+
+737
+00:42:48,760 --> 00:42:52,760
+to this other being of the part of water.
+
+738
+00:42:52,760 --> 00:42:56,760
+So, all these things together, taking us from what everybody
+
+739
+00:42:56,760 --> 00:43:00,760
+understands and accepts, which is dead state in physics.
+
+740
+00:43:00,760 --> 00:43:04,760
+Life state, the antonym of the first. And then
+
+741
+00:43:04,760 --> 00:43:08,760
+change in state, which happens because of freedom. That change is evolution.
+
+742
+00:43:08,760 --> 00:43:12,760
+And the direction of that change is not the haphazard.
+
+743
+00:43:12,760 --> 00:43:16,760
+It is in one direction, which is that of
+
+744
+00:43:16,760 --> 00:43:20,760
+changes that facilitate
+
+745
+00:43:20,760 --> 00:43:24,760
+the occurrence of configurations that
+
+746
+00:43:24,760 --> 00:43:28,760
+offer greater access. Or all the way to
+
+747
+00:43:28,760 --> 00:43:32,760
+more efficiency, to smarter economics,
+
+748
+00:43:32,760 --> 00:43:36,760
+to faster speech, or cheaper communicating between entities that want
+
+749
+00:43:36,760 --> 00:43:40,760
+to communicate. Or the fact that it is
+
+750
+00:43:40,760 --> 00:43:44,760
+called economies of scale. The fact that it is easier to move as a group
+
+751
+00:43:44,760 --> 00:43:48,760
+not as individuals. And on and on, and this is the
+
+752
+00:43:48,760 --> 00:43:52,760
+river water, the two people entering the stadium,
+
+753
+00:43:52,760 --> 00:43:56,760
+this is physics. It's everything
+
+754
+00:43:56,760 --> 00:44:00,760
+showing the same tendency to morph and to surprise the observer
+
+755
+00:44:00,760 --> 00:44:04,760
+with surprisingly the same kind of pattern.
+
+756
+00:44:04,760 --> 00:44:08,760
+Pattern is not designed.
+
+757
+00:44:08,760 --> 00:44:12,760
+Design is a flow configuration with
+
+758
+00:44:12,760 --> 00:44:16,760
+freedom, but also with a message.
+
+759
+00:44:16,760 --> 00:44:20,760
+I get the impression the way you talk
+
+760
+00:44:20,760 --> 00:44:24,760
+is that all of these questions
+
+761
+00:44:24,760 --> 00:44:28,760
+that are being raised and all of the debates that are happening
+
+762
+00:44:28,760 --> 00:44:32,760
+that you seem to present it as if you already have all the answers.
+
+763
+00:44:32,760 --> 00:44:36,760
+And I'm a little bit puzzled by that because
+
+764
+00:44:36,760 --> 00:44:40,760
+obviously these are unsettled issues.
+
+765
+00:44:40,760 --> 00:44:44,760
+Well look, since you put it that way, I have to respond by the way.
+
+766
+00:44:44,760 --> 00:44:48,760
+That goes without saying.
+
+767
+00:44:48,760 --> 00:44:52,760
+No. On the contrary.
+
+768
+00:44:52,760 --> 00:44:56,760
+I'm the ignorant who
+
+769
+00:44:56,760 --> 00:45:00,760
+came to this very old and big
+
+770
+00:45:00,760 --> 00:45:04,760
+table of discussion. I'm talking about in physics, in biology.
+
+771
+00:45:04,760 --> 00:45:08,760
+I'm from engineering. I'm a person who
+
+772
+00:45:08,760 --> 00:45:12,760
+basically was not supposed to be here. But it so happens.
+
+773
+00:45:12,760 --> 00:45:16,760
+You are here. No, I'm talking about the
+
+774
+00:45:16,760 --> 00:45:20,760
+in... It is only now that I published, meaning
+
+775
+00:45:20,760 --> 00:45:24,760
+20 years ago, I published in physics in biology. Previously I was preaching to the
+
+776
+00:45:24,760 --> 00:45:28,760
+choir. My peers in engineering
+
+777
+00:45:28,760 --> 00:45:32,760
+get it. They are simply not invited to discussions on
+
+778
+00:45:32,760 --> 00:45:36,760
+design, even though the word meaning
+
+779
+00:45:36,760 --> 00:45:40,760
+design is what people do. Incidentally,
+
+780
+00:45:40,760 --> 00:45:44,760
+this thing with the signal in Latin, then it became
+
+781
+00:45:44,760 --> 00:45:48,760
+design in Italian. The west got
+
+782
+00:45:48,760 --> 00:45:52,760
+the science that we cherish today from
+
+783
+00:45:52,760 --> 00:45:56,760
+the Renaissance. That's how we really got it. And then through the French,
+
+784
+00:45:56,760 --> 00:46:00,760
+so it means the sign. It doesn't mean
+
+785
+00:46:00,760 --> 00:46:04,760
+the act of designing something and making it.
+
+786
+00:46:04,760 --> 00:46:08,760
+That's something totally different. Design happens.
+
+787
+00:46:08,760 --> 00:46:12,760
+But to finish your point, when I started
+
+788
+00:46:12,760 --> 00:46:16,760
+to talk about the physics of evolution,
+
+789
+00:46:16,760 --> 00:46:20,760
+in this most general sense, not as chemistry of carbon,
+
+790
+00:46:20,760 --> 00:46:24,760
+in the most general sense, I was surprised
+
+791
+00:46:24,760 --> 00:46:28,760
+to hear from my peers, those who came to the construct
+
+792
+00:46:28,760 --> 00:46:32,760
+a look from physics in biology, that what I'm telling them from
+
+793
+00:46:32,760 --> 00:46:36,760
+my direction is in fact
+
+794
+00:46:36,760 --> 00:46:40,760
+not only familiar to them, but it covers
+
+795
+00:46:40,760 --> 00:46:44,760
+what the contemporary scientists regard as known
+
+796
+00:46:44,760 --> 00:46:48,760
+in their various compartments like departments on a campus
+
+797
+00:46:48,760 --> 00:46:52,760
+that do not talk to each other. So that's the reason... I think good questions.
+
+798
+00:46:52,760 --> 00:46:56,760
+I want to go back to a previous comment.
+
+799
+00:46:56,760 --> 00:47:00,760
+You made about that the brain is
+
+800
+00:47:00,760 --> 00:47:04,760
+programmed to see design in nature.
+
+801
+00:47:04,760 --> 00:47:08,760
+Now, one could take that as the brain is
+
+802
+00:47:08,760 --> 00:47:12,760
+programmed to mislead us because there's not near as much design
+
+803
+00:47:12,760 --> 00:47:16,760
+in nature as the brain seems to want to think. In certain areas
+
+804
+00:47:16,760 --> 00:47:20,760
+that's certainly true.
+
+805
+00:47:20,760 --> 00:47:24,760
+But I would want to point out that from the
+
+806
+00:47:24,760 --> 00:47:28,760
+time of the scientific revolution, you can, I could cite Morris Klein on this
+
+807
+00:47:28,760 --> 00:47:32,760
+who said the assumption everybody was making
+
+808
+00:47:32,760 --> 00:47:36,760
+was that
+
+809
+00:47:36,760 --> 00:47:40,760
+since the time of the Pythagoreans that nature was mathematically designed, meaning
+
+810
+00:47:40,760 --> 00:47:44,760
+in particular mathematically put together to realize
+
+811
+00:47:44,760 --> 00:47:48,760
+elegant mathematics. And that, during the
+
+812
+00:47:48,760 --> 00:47:52,760
+last century, ever since then, has been just enormously fruitful.
+
+813
+00:47:52,760 --> 00:47:56,760
+You have people like Paul Dirac, one of the
+
+814
+00:47:56,760 --> 00:48:00,760
+major founders of quantum mechanics, says, you know, the equation must be beautiful.
+
+815
+00:48:00,760 --> 00:48:04,760
+It's more important than even that experiment because sometimes when they pursued
+
+816
+00:48:04,760 --> 00:48:08,760
+beauty in the equations and they seemed to conflict with the experiment
+
+817
+00:48:08,760 --> 00:48:12,760
+later it turned out to be correct. That was Einstein's approach.
+
+818
+00:48:12,760 --> 00:48:16,760
+It was...look, he would actually, as
+
+819
+00:48:16,760 --> 00:48:20,760
+major biographer said, he would think of it. Even though he didn't believe in a
+
+820
+00:48:20,760 --> 00:48:24,760
+idea that he would think to himself, if I were God, what would I do?
+
+821
+00:48:24,760 --> 00:48:28,760
+In other words, how would be the most beautiful mathematics
+
+822
+00:48:28,760 --> 00:48:32,760
+to put this together? And that was a guide for him.
+
+823
+00:48:32,760 --> 00:48:36,760
+And it's been a continual guide and a very successful one.
+
+824
+00:48:36,760 --> 00:48:40,760
+So I wouldn't want to make the inference that a brain being...
+
+825
+00:48:40,760 --> 00:48:44,760
+I think we have to resist the inference. That means it's going to mislead us. It's actually amazing
+
+826
+00:48:44,760 --> 00:48:48,760
+that that kind of idea has been so successful.
+
+827
+00:48:48,760 --> 00:48:52,760
+At an area we wouldn't expect it because if
+
+828
+00:48:52,760 --> 00:48:56,760
+it was programmed to...for reproductive
+
+829
+00:48:56,760 --> 00:49:00,760
+success to see design and everything and to see these elegant
+
+830
+00:49:00,760 --> 00:49:04,760
+patterns, we wouldn't initially expect
+
+831
+00:49:04,760 --> 00:49:08,760
+it to work at the underlying level when the mathematics is
+
+832
+00:49:08,760 --> 00:49:12,760
+far removed from what we see
+
+833
+00:49:12,760 --> 00:49:16,760
+on the everyday level.
+
+834
+00:49:16,760 --> 00:49:20,760
+I think I would also understand you that some of the mathematical
+
+835
+00:49:20,760 --> 00:49:24,760
+beauty may not be as...
+
+836
+00:49:24,760 --> 00:49:28,760
+I think there is enormous
+
+837
+00:49:28,760 --> 00:49:32,760
+beauty in this context for mathematics. I think it's very interesting
+
+838
+00:49:32,760 --> 00:49:36,760
+point that you raised. As you were talking, I was thinking about this
+
+839
+00:49:36,760 --> 00:49:40,760
+and thinking, okay, so why do we do this? Why do our brains
+
+840
+00:49:40,760 --> 00:49:44,760
+do this? Is it because, you know, again,
+
+841
+00:49:44,760 --> 00:49:48,760
+we've evolved presumably like other species
+
+842
+00:49:48,760 --> 00:49:52,760
+so that our brains are part of a data
+
+843
+00:49:52,760 --> 00:49:56,760
+processing system, right? And we're bombarded
+
+844
+00:49:56,760 --> 00:50:00,760
+by millions of pieces of information all the time for every
+
+845
+00:50:00,760 --> 00:50:04,760
+nerve ending, everything we see, everything we hear, smell,
+
+846
+00:50:04,760 --> 00:50:08,760
+you know, pheromones that are floating around
+
+847
+00:50:08,760 --> 00:50:12,760
+in this room that triggers what's the thing. And it's a lot to handle, right?
+
+848
+00:50:12,760 --> 00:50:16,760
+But, you know, there's a tiger waiting to eat me over there
+
+849
+00:50:16,760 --> 00:50:20,760
+so I'd better make some good judgment decisions
+
+850
+00:50:20,760 --> 00:50:24,760
+and I just... you know, this is a very naive way of thinking about it.
+
+851
+00:50:24,760 --> 00:50:28,760
+I suspect, but is that... does that seem like a plausible
+
+852
+00:50:28,760 --> 00:50:32,760
+reason why we see patterns, we see
+
+853
+00:50:32,760 --> 00:50:36,760
+beauty in certain equations? There was some
+
+854
+00:50:36,760 --> 00:50:40,760
+report very recently talking about the study of people doing math
+
+855
+00:50:40,760 --> 00:50:44,760
+and I think even looking at FMRI scans, why they were solving
+
+856
+00:50:44,760 --> 00:50:48,760
+mathematical puzzles and getting that pleasure,
+
+857
+00:50:48,760 --> 00:50:52,760
+I don't know if it was dopamine or whatever, does that
+
+858
+00:50:52,760 --> 00:50:56,760
+make sense? Yeah, I'll just mention a quick example
+
+859
+00:50:56,760 --> 00:51:00,760
+from Fish. Obviously, where our brains are
+
+860
+00:51:00,760 --> 00:51:04,760
+more complex and understanding our predispositions
+
+861
+00:51:04,760 --> 00:51:08,760
+is more complicated, but there's a very lovely
+
+862
+00:51:08,760 --> 00:51:12,760
+long-term study of guppies in Trinidad and these guppies,
+
+863
+00:51:12,760 --> 00:51:16,760
+I'm sure a lot of you have had guppies as pets, they have these beautiful
+
+864
+00:51:16,760 --> 00:51:20,760
+tails, very colorful, and the tails are...
+
+865
+00:51:20,760 --> 00:51:24,760
+the males have the colorful tails and it's thought that these are to attract
+
+866
+00:51:24,760 --> 00:51:28,760
+females. The females choose the males based on the color of the tails, which are
+
+867
+00:51:28,760 --> 00:51:32,760
+kind of this bright orange color in this particular area.
+
+868
+00:51:32,760 --> 00:51:36,760
+And so for a long time the research was completely focused
+
+869
+00:51:36,760 --> 00:51:40,760
+on why the females prefer these beautiful colorful
+
+870
+00:51:40,760 --> 00:51:44,760
+tails, and it's lovely, they look designed, right?
+
+871
+00:51:44,760 --> 00:51:48,760
+And then some smart team came along and thought
+
+872
+00:51:48,760 --> 00:51:52,760
+to examine what the guppies were eating and it turned out that
+
+873
+00:51:52,760 --> 00:51:56,760
+these guppies prefer these orange berries that
+
+874
+00:51:56,760 --> 00:52:00,760
+fall into the river that have a very similar color and
+
+875
+00:52:00,760 --> 00:52:04,760
+pattern to the males' tails. So it turned out the females,
+
+876
+00:52:04,760 --> 00:52:08,760
+some neurological level, had a preference for orange, for this bright orange color
+
+877
+00:52:08,760 --> 00:52:12,760
+of the males' tails, and that on an evolutionary time scale got translated
+
+878
+00:52:12,760 --> 00:52:16,760
+into a preference for males with these bright orange tails.
+
+879
+00:52:16,760 --> 00:52:20,760
+So something that looks completely unrelated, turns out...
+
+880
+00:52:20,760 --> 00:52:24,760
+How does that apply to humans? Yes, good question.
+
+881
+00:52:24,760 --> 00:52:28,760
+Maybe somebody with a...
+
+882
+00:52:28,760 --> 00:52:32,760
+So how does that connect up with our brain spin program to see
+
+883
+00:52:32,760 --> 00:52:36,760
+that there may be at an evolutionary time scale some
+
+884
+00:52:36,760 --> 00:52:40,760
+predisposition due to selective
+
+885
+00:52:40,760 --> 00:52:44,760
+forces that we don't see around us anymore,
+
+886
+00:52:44,760 --> 00:52:48,760
+but that may have been part of our evolutionary history.
+
+887
+00:52:48,760 --> 00:52:52,760
+It still would be the case that why would we expect that to work
+
+888
+00:52:52,760 --> 00:52:56,760
+in areas that are so far removed from
+
+889
+00:52:56,760 --> 00:53:00,760
+what helps us in our long evolutionary past
+
+890
+00:53:00,760 --> 00:53:04,760
+survive, namely at this fundamental mathematical level, which is actually
+
+891
+00:53:04,760 --> 00:53:08,760
+very abstract. That's why people have a lot of
+
+892
+00:53:08,760 --> 00:53:12,760
+difficulty learning quantum mechanics or general relativity
+
+893
+00:53:12,760 --> 00:53:16,760
+because the mathematics is far different from even...
+
+894
+00:53:16,760 --> 00:53:20,760
+It's a difficulty explaining how we can even do mathematics in the normal
+
+895
+00:53:20,760 --> 00:53:24,760
+from an evolutionary perspective. People have worked on that.
+
+896
+00:53:24,760 --> 00:53:28,760
+But that's the ordinary counting fractions.
+
+897
+00:53:28,760 --> 00:53:32,760
+That sort of mathematics is very far removed. And as Eugene Vigner wrote a famous essay
+
+898
+00:53:32,760 --> 00:53:36,760
+on this, as you pointed out, it's chosen. The mathematics
+
+899
+00:53:36,760 --> 00:53:40,760
+is chosen for its elegance and fruitfulness mathematically
+
+900
+00:53:40,760 --> 00:53:44,760
+in being able to, let's say, solve equations. And so why would it work so
+
+901
+00:53:44,760 --> 00:53:48,760
+well there? That's the puzzle I'm pointing to.
+
+902
+00:53:48,760 --> 00:53:52,760
+I guess, I mean, you know, quantum mechanics...
+
+903
+00:53:52,760 --> 00:53:56,760
+Right, I mean, to do quantum mechanics you have to know...
+
+904
+00:53:56,760 --> 00:54:00,760
+I mean, mathematics as we have it.
+
+905
+00:54:00,760 --> 00:54:04,760
+And so I'm just...
+
+906
+00:54:04,760 --> 00:54:08,760
+Yeah, we see quantum mechanics
+
+907
+00:54:08,760 --> 00:54:12,760
+but that beauty wasn't arrived at like that.
+
+908
+00:54:12,760 --> 00:54:16,760
+No, but the mathematics, using that mathematics with the complex numbers
+
+909
+00:54:16,760 --> 00:54:20,760
+was developed before the arrival of quantum mechanics
+
+910
+00:54:20,760 --> 00:54:24,760
+and it's essential, either that or something isomorphic
+
+911
+00:54:24,760 --> 00:54:28,760
+to it, is essential for quantum mechanics. And that was developed because it was
+
+912
+00:54:28,760 --> 00:54:32,760
+enormously fruitful and complex numbers are real number, plus
+
+913
+00:54:32,760 --> 00:54:36,760
+an imaginary number which you could think of as a square root of negative 1.
+
+914
+00:54:36,760 --> 00:54:40,760
+And so they were developed because it was enormously one reason
+
+915
+00:54:40,760 --> 00:54:44,760
+you can solve like third order or more
+
+916
+00:54:44,760 --> 00:54:48,760
+or any polynomial using imaginary numbers, but you can't using the real numbers.
+
+917
+00:54:48,760 --> 00:54:52,760
+There's no... And so the normal...
+
+918
+00:54:52,760 --> 00:54:56,760
+enormously fruitful algebraically and in other ways.
+
+919
+00:54:56,760 --> 00:55:00,760
+And it was developed all independently yet for aesthetic reasons
+
+920
+00:55:00,760 --> 00:55:04,760
+because of its mathematical fruitfulness and yet that's just the system
+
+921
+00:55:04,760 --> 00:55:08,760
+that nature is
+
+922
+00:55:08,760 --> 00:55:12,760
+the mathematics that suits nature.
+
+923
+00:55:12,760 --> 00:55:16,760
+I wanted to just... you didn't finish your point about the fish.
+
+924
+00:55:16,760 --> 00:55:20,760
+No, it was pretty much finished.
+
+925
+00:55:20,760 --> 00:55:24,760
+Yeah, I'm hoping that somebody that used a little bit more about the fish and brain
+
+926
+00:55:24,760 --> 00:55:28,760
+could take it a little further.
+
+927
+00:55:28,760 --> 00:55:32,760
+The conclusion being that in terms of
+
+928
+00:55:32,760 --> 00:55:36,760
+what was making the female fish choose
+
+929
+00:55:36,760 --> 00:55:40,760
+that, that that was...
+
+930
+00:55:40,760 --> 00:55:44,760
+was not really a design, it was more something else.
+
+931
+00:55:44,760 --> 00:55:48,760
+Right, there was a predisposition that looked to us to be
+
+932
+00:55:48,760 --> 00:55:52,760
+sort of design related at first glance but turned out to have
+
+933
+00:55:52,760 --> 00:55:56,760
+a deeper evolutionary history that shaped
+
+934
+00:55:56,760 --> 00:56:00,760
+this preference based on food.
+
+935
+00:56:00,760 --> 00:56:04,760
+So the ability, maybe the thrill of adding
+
+936
+00:56:04,760 --> 00:56:08,760
+two numbers together is related
+
+937
+00:56:08,760 --> 00:56:12,760
+to the ability to think, oh, if I go over there I get
+
+938
+00:56:12,760 --> 00:56:16,760
+two berries instead of one berry.
+
+939
+00:56:16,760 --> 00:56:19,760
+I'm going to talk to our colleagues at Columbia and say, very
+
+940
+00:56:19,760 --> 00:56:22,760
+Candel and stuff is like that he's made his career.
+
+941
+00:56:22,760 --> 00:56:26,760
+One was in the world prize just on the basis of how that
+
+942
+00:56:26,760 --> 00:56:30,760
+every single interaction you ever have, everything you ever look at,
+
+943
+00:56:30,760 --> 00:56:34,760
+not just changes your brain chemically, it changes it physically,
+
+944
+00:56:34,760 --> 00:56:38,760
+is that new synapses become larger and hotter.
+
+945
+00:56:38,760 --> 00:56:42,760
+And that there's been a huge amount, I mean, basically we know about the brains of
+
+946
+00:56:42,760 --> 00:56:46,760
+three things, kind of, we know some about humor, we know some about
+
+947
+00:56:46,760 --> 00:56:50,760
+mouse, we know a little bit about sea elegance, if you want to say they have a brain or not,
+
+948
+00:56:50,760 --> 00:56:54,760
+and then a little bit about zebrafish, but certainly I mean they've been
+
+949
+00:56:54,760 --> 00:56:58,760
+able to demonstrate that in some experimental organisms as well. So like that
+
+950
+00:56:58,760 --> 00:57:02,760
+we can talk about this set of complex mathematics but
+
+951
+00:57:02,760 --> 00:57:06,760
+these are relatively new things that are basically the things that have come since
+
+952
+00:57:06,760 --> 00:57:10,760
+Newton's time. And that, so our brains, when we look at mathematics
+
+953
+00:57:10,760 --> 00:57:14,760
+today, look fundamentally different than somebody who would have thought
+
+954
+00:57:14,760 --> 00:57:18,760
+about those same sorts of problems before those mathematics were different.
+
+955
+00:57:18,760 --> 00:57:22,760
+And not just in a chemical way, I'm just studying and understanding it, but in a physical way as well.
+
+956
+00:57:22,760 --> 00:57:28,760
+I wanted to bring the discussion back to
+
+957
+00:57:28,760 --> 00:57:32,760
+design and nature and respond to
+
+958
+00:57:32,760 --> 00:57:36,760
+things you brought up or actually both of you. Why
+
+959
+00:57:36,760 --> 00:57:40,760
+is the brain program as well to
+
+960
+00:57:40,760 --> 00:57:44,760
+detect pattern? You see that, by the way,
+
+961
+00:57:44,760 --> 00:57:48,760
+right now in the famous story about the NSA
+
+962
+00:57:48,760 --> 00:57:52,760
+using big data in order to discern
+
+963
+00:57:52,760 --> 00:57:56,760
+patterns that are useful. And that's the answer to your second point
+
+964
+00:57:56,760 --> 00:58:00,760
+about beauty, okay? Why is the pattern useful to the
+
+965
+00:58:00,760 --> 00:58:04,760
+NSA so that the government could act faster
+
+966
+00:58:04,760 --> 00:58:08,760
+in the direction of protecting all of us. The same with
+
+967
+00:58:08,760 --> 00:58:12,760
+the animal, obviously one million years
+
+968
+00:58:12,760 --> 00:58:16,760
+after another million learning that what is good
+
+969
+00:58:16,760 --> 00:58:20,760
+for it is actually
+
+970
+00:58:20,760 --> 00:58:24,760
+pleasure because to live is the option that we all like as opposed
+
+971
+00:58:24,760 --> 00:58:28,760
+to becoming the victim. And so beauty
+
+972
+00:58:28,760 --> 00:58:32,760
+in physics is a part of this evolutionary
+
+973
+00:58:32,760 --> 00:58:36,760
+design, meaning changes that we make
+
+974
+00:58:36,760 --> 00:58:40,760
+every day and how we move in order to get going, to go
+
+975
+00:58:40,760 --> 00:58:44,760
+through life easier. We like a simple equation
+
+976
+00:58:44,760 --> 00:58:48,760
+because we get it and we move on. My best example
+
+977
+00:58:48,760 --> 00:58:52,760
+is why statistics has been proven that most people
+
+978
+00:58:52,760 --> 00:58:56,760
+like to look at images shaped like this. Like
+
+979
+00:58:56,760 --> 00:59:00,760
+the business card where like the computer screen or like the screen of the cinema.
+
+980
+00:59:00,760 --> 00:59:04,760
+The shape happens to have a length to hide ratio
+
+981
+00:59:04,760 --> 00:59:08,760
+approximately the same as the golden ratio. That's a
+
+982
+00:59:08,760 --> 00:59:12,760
+coincidence. But why do people like this shape?
+
+983
+00:59:12,760 --> 00:59:16,760
+Why? Because this is the area that's the easiest, the fastest
+
+984
+00:59:16,760 --> 00:59:20,760
+to scan with two eyes, okay? This is the animal
+
+985
+00:59:20,760 --> 00:59:24,760
+in the business of surviving and getting out of the
+
+986
+00:59:24,760 --> 00:59:28,760
+way of the predator and looking at the world which is flat.
+
+987
+00:59:28,760 --> 00:59:32,760
+This is why the animal has two eyes on the horizontal and by the way
+
+988
+00:59:32,760 --> 00:59:36,760
+the area, the ocular area of the two eyes
+
+989
+00:59:36,760 --> 00:59:40,760
+is an area approximated by this shape. And that is
+
+990
+00:59:40,760 --> 00:59:44,760
+then the beauty which goes hand in hand with locomotion
+
+991
+00:59:44,760 --> 00:59:48,760
+and with greater access and with the survival.
+
+992
+00:59:48,760 --> 00:59:52,760
+So you have the intangibles like beauty as of course
+
+993
+00:59:52,760 --> 00:59:56,760
+all the way to economics that actually belongs in physics,
+
+994
+00:59:56,760 --> 01:00:00,760
+so I'm sorry.
+
+995
+01:00:00,760 --> 01:00:04,760
+I'm just wondering if anybody comment
+
+996
+01:00:04,760 --> 01:00:08,760
+on evolutionary biologists. On
+
+997
+01:00:08,760 --> 01:00:12,760
+Simon Conway morosis thesis I'm just wondering which, because that's I think
+
+998
+01:00:12,760 --> 01:00:16,760
+very relevant to the discussion here of that.
+
+999
+01:00:16,760 --> 01:00:20,760
+That the built in constraints already there from physics,
+
+1000
+01:00:20,760 --> 01:00:24,760
+chemistry, etc. makes certain, almost inevitable
+
+1001
+01:00:24,760 --> 01:00:28,760
+certain kinds of organisms. So he's bucking the idea
+
+1002
+01:00:28,760 --> 01:00:32,760
+particularly popularized by Stephen J. Gould
+
+1003
+01:00:32,760 --> 01:00:36,760
+that if you ran the evolutionary tape over again
+
+1004
+01:00:36,760 --> 01:00:40,760
+you'd get very, very different types of life forms and
+
+1005
+01:00:40,760 --> 01:00:44,760
+that would be a miracle to get, a miracle in the sense of being
+
+1006
+01:00:44,760 --> 01:00:48,760
+a very, very improbable occurrence to get beings like us
+
+1007
+01:00:48,760 --> 01:00:52,760
+with our level of intelligence. But he thinks that
+
+1008
+01:00:52,760 --> 01:00:56,760
+the evidence of convergence of things like the compound eye occurring
+
+1009
+01:00:56,760 --> 01:01:00,760
+independently many different times in evolutionary history
+
+1010
+01:01:00,760 --> 01:01:04,760
+indicate that these sorts of things
+
+1011
+01:01:04,760 --> 01:01:08,760
+are much more inevitable than we once thought.
+
+1012
+01:01:08,760 --> 01:01:12,760
+So there is a sort of inevitable set of patterns that are going to occur in nature
+
+1013
+01:01:12,760 --> 01:01:16,760
+despite a lot of the
+
+1014
+01:01:16,760 --> 01:01:20,760
+accidental character of mutations. And I'm wondering what you think of that piece
+
+1015
+01:01:20,760 --> 01:01:24,760
+and the comments you have on. I would certainly agree with Simon on that one
+
+1016
+01:01:24,760 --> 01:01:28,760
+because I think that the evidence of convergence is so great that we can see
+
+1017
+01:01:28,760 --> 01:01:32,760
+that the same kinds of teeth of occurring
+
+1018
+01:01:32,760 --> 01:01:36,760
+in different kinds of vertebrates who eat similar kinds of things
+
+1019
+01:01:36,760 --> 01:01:40,760
+that are totally unrelated from one another. We see that the same kinds of
+
+1020
+01:01:40,760 --> 01:01:44,760
+what I was alluding to before of these empty ecological spaces that are occurring
+
+1021
+01:01:44,760 --> 01:01:48,760
+and lots of different groups be they insects, be they bats, be they birds
+
+1022
+01:01:48,760 --> 01:01:52,760
+which occur over and over and over again. I mean that there is
+
+1023
+01:01:52,760 --> 01:01:56,760
+something which is just some physical constraint which is keeping
+
+1024
+01:01:56,760 --> 01:02:00,760
+it out of that select that
+
+1025
+01:02:00,760 --> 01:02:04,760
+we see things like that the sizes and shapes of eggs something that
+
+1026
+01:02:04,760 --> 01:02:08,760
+our lab has studied and things that you see that
+
+1027
+01:02:08,760 --> 01:02:12,760
+different groups which have lots of different sizes, lots of different kinds of things that they
+
+1028
+01:02:12,760 --> 01:02:16,760
+come up with the same shapes all the time. So they don't go way out of bounds.
+
+1029
+01:02:16,760 --> 01:02:20,760
+So it's really a
+
+1030
+01:02:20,760 --> 01:02:24,760
+I mean I think that if you were having the evolutionary tape over again
+
+1031
+01:02:24,760 --> 01:02:28,760
+we might not be mammals, we might not be related to things. Maybe we
+
+1032
+01:02:28,760 --> 01:02:32,760
+wouldn't exist but the kinds of biodiversity you see on the planet would be partitioned
+
+1033
+01:02:32,760 --> 01:02:36,760
+pretty much the same way. Just like what was partitioned with totally different animals
+
+1034
+01:02:36,760 --> 01:02:40,760
+during the Paleozoic period 200 million years ago and then when
+
+1035
+01:02:40,760 --> 01:02:44,760
+the big extinction at the end of the Paleozoic it came back
+
+1036
+01:02:44,760 --> 01:02:48,760
+during the Cretaceous period with the same kinds of reefs that came back again in the
+
+1037
+01:02:48,760 --> 01:02:52,760
+Cenozoic as well with the same kinds of reefs the animals to a
+
+1038
+01:02:52,760 --> 01:02:56,760
+non-biologist would look pretty much the same but they're totally unrelated to one another.
+
+1039
+01:02:56,760 --> 01:03:00,760
+I would add I contribute
+
+1040
+01:03:00,760 --> 01:03:04,760
+the addendum that it's
+
+1041
+01:03:04,760 --> 01:03:09,760
+this thing that you're describing is actually predictable and it's not only about the population of these beings
+
+1042
+01:03:09,760 --> 01:03:13,760
+but actually the movement of these beings
+
+1043
+01:03:13,760 --> 01:03:17,760
+the locomotion is in fact the physics. The shape of the egg is
+
+1044
+01:03:17,760 --> 01:03:21,760
+physics is predictable. The frequency of the egg laying
+
+1045
+01:03:21,760 --> 01:03:25,760
+is physics and is predictable.
+
+1046
+01:03:25,760 --> 01:03:29,760
+And the as the configuration of animal mass movement on the globe is
+
+1047
+01:03:29,760 --> 01:03:33,760
+no different than the vascular configuration of
+
+1048
+01:03:33,760 --> 01:03:37,760
+the movement of all the other water which is much older which is the water in the river basin
+
+1049
+01:03:37,760 --> 01:03:41,760
+or the movement of air currents on the
+
+1050
+01:03:41,760 --> 01:03:45,760
+surface of the globe. It's hierarchical and
+
+1051
+01:03:45,760 --> 01:03:49,760
+with design. I did some reading
+
+1052
+01:03:49,760 --> 01:03:53,760
+about my colleagues here and I developed
+
+1053
+01:03:53,760 --> 01:03:57,760
+the questions and one is to you if you'd like to address it because time is running short.
+
+1054
+01:03:57,760 --> 01:04:01,760
+Would you comment on two things. One
+
+1055
+01:04:01,760 --> 01:04:05,760
+I hear my colleagues in academia
+
+1056
+01:04:05,760 --> 01:04:09,760
+ringing their hands about the conflict between science and religion
+
+1057
+01:04:09,760 --> 01:04:13,760
+that's one and second about your own interest
+
+1058
+01:04:13,760 --> 01:04:17,760
+and specialty and a theory of atonement.
+
+1059
+01:04:17,760 --> 01:04:21,760
+Well I think the theory of atonement
+
+1060
+01:04:21,760 --> 01:04:25,760
+is going to be somewhat off topic but if you want me to comment on it I can
+
+1061
+01:04:25,760 --> 01:04:29,760
+but in terms of is there a conflict between science
+
+1062
+01:04:29,760 --> 01:04:33,760
+and religion I would say no I think science and religion
+
+1063
+01:04:33,760 --> 01:04:37,760
+at a deeper level there's a superficial conflict. For example young
+
+1064
+01:04:37,760 --> 01:04:41,760
+earth creationist with their literal interpretation of Genesis
+
+1065
+01:04:41,760 --> 01:04:45,760
+is in conflict with what we know from
+
+1066
+01:04:45,760 --> 01:04:49,760
+science that human beings
+
+1067
+01:04:49,760 --> 01:04:53,760
+apes and other creatures are genetically related so there's
+
+1068
+01:04:53,760 --> 01:04:57,760
+the common ancestry thesis but at a deeper level
+
+1069
+01:04:57,760 --> 01:05:01,760
+I think the kind of let's say the belief in God in particular
+
+1070
+01:05:01,760 --> 01:05:05,760
+and if you want to go more particularly Christian
+
+1071
+01:05:05,760 --> 01:05:09,760
+the belief in logos the reason
+
+1072
+01:05:09,760 --> 01:05:13,760
+that the world is an intelligible
+
+1073
+01:05:13,760 --> 01:05:17,760
+whole and order in an intelligible way
+
+1074
+01:05:17,760 --> 01:05:21,760
+is deeply consonant with science in fact most people
+
+1075
+01:05:21,760 --> 01:05:25,760
+in fact all the people who began the scientific revolution
+
+1076
+01:05:25,760 --> 01:05:29,760
+believed that and thought that Galileo thought that the
+
+1077
+01:05:29,760 --> 01:05:33,760
+universe was written in the language of mathematics and likewise
+
+1078
+01:05:33,760 --> 01:05:37,760
+Kepler but what you have to be careful of is
+
+1079
+01:05:37,760 --> 01:05:41,760
+what level you're looking for this in
+
+1080
+01:05:41,760 --> 01:05:45,760
+what level you attribute to chance and what level you
+
+1081
+01:05:45,760 --> 01:05:49,760
+attribute to a more fundamental kind of design
+
+1082
+01:05:49,760 --> 01:05:53,760
+for example Kepler in he spent
+
+1083
+01:05:53,760 --> 01:05:57,760
+the early years trying to
+
+1084
+01:05:57,760 --> 01:06:01,760
+figure out a mathematical order to the actual
+
+1085
+01:06:01,760 --> 01:06:05,760
+distance the planets were away from the sun so we look for the
+
+1086
+01:06:05,760 --> 01:06:09,760
+5 platonic solids and that never worked out because
+
+1087
+01:06:09,760 --> 01:06:13,760
+the distance of planets are that's a matter of chance not necessity
+
+1088
+01:06:13,760 --> 01:06:17,760
+but they're actual elliptical orbits and the speed in which they
+
+1089
+01:06:17,760 --> 01:06:21,760
+go that's a matter of physical necessity so he finally eventually found the
+
+1090
+01:06:21,760 --> 01:06:25,760
+three Kepler's three laws of motion which led to Newton
+
+1091
+01:06:25,760 --> 01:06:29,760
+at that point so I would say no there's no
+
+1092
+01:06:29,760 --> 01:06:33,760
+at a deep level there are consonant there's only this superficial
+
+1093
+01:06:33,760 --> 01:06:37,760
+um conflict
+
+1094
+01:06:37,760 --> 01:06:41,760
+I'm sorry what would you say but it sounds good to me
+
+1095
+01:06:41,760 --> 01:06:45,760
+so I don't think the conflict
+
+1096
+01:06:45,760 --> 01:06:49,760
+but I mean what we get from the popular image
+
+1097
+01:06:49,760 --> 01:06:53,760
+is this conflict and it was also a thesis promoted by
+
+1098
+01:06:53,760 --> 01:06:57,760
+which the historian friends of mine say and people are history
+
+1099
+01:06:57,760 --> 01:07:01,760
+in the history of the science of religion whether or not
+
+1100
+01:07:01,760 --> 01:07:05,760
+their believers are and god or not
+
+1101
+01:07:05,760 --> 01:07:09,760
+like Anderson Dixon White I think he's the first president
+
+1102
+01:07:09,760 --> 01:07:13,760
+of Cornell University promoted this perpetual conflict
+
+1103
+01:07:13,760 --> 01:07:17,760
+thesis and history was really really bad history
+
+1104
+01:07:17,760 --> 01:07:21,760
+the footnotes didn't go anywhere and so that
+
+1105
+01:07:21,760 --> 01:07:25,760
+from the historian's perspective it's way more complex than that there's been
+
+1106
+01:07:25,760 --> 01:07:29,760
+skirmishes but there's also been a lot of support for
+
+1107
+01:07:29,760 --> 01:07:33,760
+science from the religious community so
+
+1108
+01:07:33,760 --> 01:07:37,760
+it's it's it's it's
+
+1109
+01:07:37,760 --> 01:07:41,760
+that would be my religion I mean
+
+1110
+01:07:41,760 --> 01:07:45,760
+I would agree with all of this history absolutely I mean someone like Kepler
+
+1111
+01:07:45,760 --> 01:07:49,760
+was deeply religious that's my understanding but
+
+1112
+01:07:49,760 --> 01:07:53,760
+he also felt that that was perfectly compatible
+
+1113
+01:07:53,760 --> 01:07:57,760
+with this this empirically studied quantitative
+
+1114
+01:07:57,760 --> 01:08:01,760
+universe but I mean
+
+1115
+01:08:01,760 --> 01:08:05,760
+he was even capable of taking quite risky
+
+1116
+01:08:05,760 --> 01:08:09,760
+steps because my understanding is before Kepler people
+
+1117
+01:08:09,760 --> 01:08:13,760
+assumed that the movement of planets was all in perfect circles
+
+1118
+01:08:13,760 --> 01:08:17,760
+and Kepler took this leap to say well maybe they're ellipses
+
+1119
+01:08:17,760 --> 01:08:21,760
+which is pretty shocking for someone
+
+1120
+01:08:21,760 --> 01:08:25,760
+who was motivated by the idea of
+
+1121
+01:08:25,760 --> 01:08:29,760
+the underlying idea of elegance that heavens were elegantly ordered would give you
+
+1122
+01:08:29,760 --> 01:08:33,760
+perfect circles the most symmetrical but he was willing to break that but
+
+1123
+01:08:33,760 --> 01:08:37,760
+it was still that underlying idea of an elegant order to the universe
+
+1124
+01:08:37,760 --> 01:08:41,760
+it's just you can't be you can't get too fixated
+
+1125
+01:08:41,760 --> 01:08:45,760
+on a certain version of that I mean Einstein got fixated on a certain version
+
+1126
+01:08:45,760 --> 01:08:49,760
+of that and never could really accept quantum mechanics so
+
+1127
+01:08:49,760 --> 01:08:53,760
+and sometimes a religious motivation
+
+1128
+01:08:53,760 --> 01:08:57,760
+can be very helpful I mean the developer the Montre who developed
+
+1129
+01:08:57,760 --> 01:09:01,760
+the big bang theory
+
+1130
+01:09:01,760 --> 01:09:05,760
+was religious and it was people like Fred
+
+1131
+01:09:05,760 --> 01:09:09,760
+Hoyle who opposed it
+
+1132
+01:09:09,760 --> 01:09:13,760
+strongly until the evidence came in in the 1960s even then he opposed
+
+1133
+01:09:13,760 --> 01:09:17,760
+I think he never did accept it he
+
+1134
+01:09:17,760 --> 01:09:21,760
+couldn't imagine the universe having a beginning but somebody from
+
+1135
+01:09:21,760 --> 01:09:25,760
+a kind of theistic perspective that was much easier to imagine
+
+1136
+01:09:25,760 --> 01:09:29,760
+Einstein couldn't imagine the universe having a beginning and that's why he
+
+1137
+01:09:29,760 --> 01:09:33,760
+introduced originally the cosmological constant to make to get an eternal
+
+1138
+01:09:33,760 --> 01:09:37,760
+universe so in that particular case you can see that
+
+1139
+01:09:37,760 --> 01:09:41,760
+actually the religious believed actually helped the acceptability
+
+1140
+01:09:41,760 --> 01:09:45,760
+of that the big bang theory so you are saying
+
+1141
+01:09:45,760 --> 01:09:49,760
+that the universe on a surface level religion and science
+
+1142
+01:09:49,760 --> 01:09:53,760
+may seem not compatible but on a deeper level
+
+1143
+01:09:53,760 --> 01:09:57,760
+they are compatible right how are they compatible
+
+1144
+01:09:57,760 --> 01:10:01,760
+there I mean the idea of
+
+1145
+01:10:01,760 --> 01:10:05,760
+theism that's what I was saying the idea that there's a god who created
+
+1146
+01:10:05,760 --> 01:10:09,760
+the universe and intelligence behind it would lead you
+
+1147
+01:10:09,760 --> 01:10:13,760
+to expect that there'd be in the structure of the universe would be
+
+1148
+01:10:13,760 --> 01:10:17,760
+intelligible it would lead you to expect it would be an
+
+1149
+01:10:17,760 --> 01:10:21,760
+elegant elegantly structured at a fundamental level so
+
+1150
+01:10:21,760 --> 01:10:25,760
+and that we could understand and that's then a mainstay of science is that we
+
+1151
+01:10:25,760 --> 01:10:29,760
+could actually understand the universe which wasn't given to us that we
+
+1152
+01:10:29,760 --> 01:10:33,760
+most cultures didn't assume we could really understand the underlying nature of things
+
+1153
+01:10:33,760 --> 01:10:37,760
+but how would you ever like as a scientist when you work in two
+
+1154
+01:10:37,760 --> 01:10:41,760
+domains you work in mathematics where you work with mathematical proofs
+
+1155
+01:10:41,760 --> 01:10:45,760
+then you work within the construct of an observational list which you test hypotheses
+
+1156
+01:10:45,760 --> 01:10:49,760
+how is the idea of god a testable hypothesis
+
+1157
+01:10:49,760 --> 01:10:53,760
+I mean how would you test that? well I mean the thing is you're demanding
+
+1158
+01:10:53,760 --> 01:10:57,760
+that everything all your what you're assuming is
+
+1159
+01:10:57,760 --> 01:11:01,760
+all knowledge is scientific knowledge and all the hypotheses you have about the world
+
+1160
+01:11:01,760 --> 01:11:05,760
+can be gained by science I mean a simple reputation
+
+1161
+01:11:05,760 --> 01:11:09,760
+of that is your own consciousness you'll never get to your own consciousness by a
+
+1162
+01:11:09,760 --> 01:11:13,760
+scientific study you know your conscious because you're aware
+
+1163
+01:11:13,760 --> 01:11:17,760
+I'm not sure I know my consciousness by a certain your conscious okay
+
+1164
+01:11:17,760 --> 01:11:21,760
+or moral if you hold a moral throughs you're not getting them by means
+
+1165
+01:11:21,760 --> 01:11:25,760
+of scientific investigation so I wouldn't subscribe to god
+
+1166
+01:11:25,760 --> 01:11:29,760
+as a scientific hypothesis I think that's a big mistake to do that
+
+1167
+01:11:29,760 --> 01:11:33,760
+so you can't
+
+1168
+01:11:33,760 --> 01:11:37,760
+test god to test the god hypothesis isn't that a slippery slope
+
+1169
+01:11:37,760 --> 01:11:41,760
+when it comes on to other things then and say well this is really scientific
+
+1170
+01:11:41,760 --> 01:11:45,760
+well there could be evidence for things without being scientific evidence I mean
+
+1171
+01:11:45,760 --> 01:11:49,760
+I think you have evidence in mathematics which is not strictly speaking empirical evidence
+
+1172
+01:11:49,760 --> 01:11:53,760
+there's evidence I mentioned for but as a formality to it at least to
+
+1173
+01:11:53,760 --> 01:11:57,760
+still prove so there's a difference between evidence and scientific evidence
+
+1174
+01:11:57,760 --> 01:12:01,760
+scientific evidence is a narrow one particular area that's been very successful
+
+1175
+01:12:01,760 --> 01:12:05,760
+of kinds of evidence but there's other kinds of evidence or reasons
+
+1176
+01:12:05,760 --> 01:12:09,760
+that people could have let me clarify why I asked you about
+
+1177
+01:12:09,760 --> 01:12:13,760
+science and religion both in the evolution
+
+1178
+01:12:13,760 --> 01:12:17,760
+of Homo sapiens are add-ons they are
+
+1179
+01:12:17,760 --> 01:12:21,760
+human constructs things we attach to ourselves
+
+1180
+01:12:21,760 --> 01:12:25,760
+and the vice versa obviously in order to live
+
+1181
+01:12:25,760 --> 01:12:29,760
+more easily science is obviously that
+
+1182
+01:12:29,760 --> 01:12:33,760
+why do you think now in your own
+
+1183
+01:12:33,760 --> 01:12:37,760
+specialty and domain why do you think
+
+1184
+01:12:37,760 --> 01:12:41,760
+religion was
+
+1185
+01:12:41,760 --> 01:12:45,760
+obviously invented, discovered and adopted by humans
+
+1186
+01:12:45,760 --> 01:12:49,760
+a long time ago not the Simono Theis and
+
+1187
+01:12:49,760 --> 01:12:53,760
+to which you are referring why is religion
+
+1188
+01:12:53,760 --> 01:12:57,760
+that's a very complex question but I think it has two
+
+1189
+01:12:57,760 --> 01:13:01,760
+there's a huge question but I would say
+
+1190
+01:13:01,760 --> 01:13:05,760
+two things I think people do have a sense of the transcendent and so
+
+1191
+01:13:05,760 --> 01:13:09,760
+on one side the philosophical side
+
+1192
+01:13:09,760 --> 01:13:13,760
+they have a sense of the transcendent they have a sense of
+
+1193
+01:13:13,760 --> 01:13:17,760
+moral value and once you have the sense of moral value
+
+1194
+01:13:17,760 --> 01:13:21,760
+if you see let's say evil in the world
+
+1195
+01:13:21,760 --> 01:13:25,760
+people that commit evil often
+
+1196
+01:13:25,760 --> 01:13:29,760
+live better lives than those that do good then it seems morality
+
+1197
+01:13:29,760 --> 01:13:33,760
+in many people's minds require that you know the
+
+1198
+01:13:33,760 --> 01:13:37,760
+good ultimately are not worse off at least
+
+1199
+01:13:37,760 --> 01:13:41,760
+than the evil are better officers there's a sort of what happens to a person
+
+1200
+01:13:41,760 --> 01:13:45,760
+and but their moral character is eventually must
+
+1201
+01:13:45,760 --> 01:13:49,760
+coincide so then you either get just on naturalistic
+
+1202
+01:13:49,760 --> 01:13:53,760
+basis from those kind of things you either get a having a hell or reincarnation
+
+1203
+01:13:53,760 --> 01:13:57,760
+system and then there's a sense of
+
+1204
+01:13:57,760 --> 01:14:01,760
+transcendent reality I mean that counting
+
+1205
+01:14:01,760 --> 01:14:05,760
+for maybe the order you see in the world that the world exists at all
+
+1206
+01:14:05,760 --> 01:14:09,760
+but then on the there's a whole bunch more religion than that and there's a lot of
+
+1207
+01:14:09,760 --> 01:14:13,760
+in sociological explanations religion helps
+
+1208
+01:14:13,760 --> 01:14:17,760
+group cohesiveness and
+
+1209
+01:14:17,760 --> 01:14:23,760
+we see that throughout the world so then there's a whole bunch of sociological issues
+
+1210
+01:14:23,760 --> 01:14:27,760
+that arise which is another
+
+1211
+01:14:27,760 --> 01:14:31,760
+big factor in religion and then if you believe in revelation then there can be
+
+1212
+01:14:31,760 --> 01:14:35,760
+you know the revelatory side but if you just give a naturalistic or merely
+
+1213
+01:14:35,760 --> 01:14:39,760
+philosophical account I think those are the two two big ones
+
+1214
+01:14:39,760 --> 01:14:43,760
+and group cohesiveness from an evolutionary perspective is going to help the survival
+
+1215
+01:14:43,760 --> 01:14:47,760
+of the grid but but there you go these things these good things that you're
+
+1216
+01:14:47,760 --> 01:14:51,760
+enumerating could be contributed by a lover of science
+
+1217
+01:14:51,760 --> 01:14:55,760
+all the way to wonderful mathematics better
+
+1218
+01:14:55,760 --> 01:14:59,760
+engineering how to build the city
+
+1219
+01:14:59,760 --> 01:15:03,760
+how to stay away from danger your name
+
+1220
+01:15:03,760 --> 01:15:07,760
+the place okay so the urge the human
+
+1221
+01:15:07,760 --> 01:15:11,760
+urge to live more easily save for longer
+
+1222
+01:15:11,760 --> 01:15:15,760
+is in the very beginning and the earliest
+
+1223
+01:15:15,760 --> 01:15:19,760
+version in my view at least the word knowledge of the history of man
+
+1224
+01:15:19,760 --> 01:15:23,760
+the earliest way to
+
+1225
+01:15:23,760 --> 01:15:27,760
+to put that urge to use meaning to use nature
+
+1226
+01:15:27,760 --> 01:15:31,760
+to live with nature to live with the environment
+
+1227
+01:15:31,760 --> 01:15:35,760
+was to was through religion
+
+1228
+01:15:35,760 --> 01:15:39,760
+so I am I was curious to know whether
+
+1229
+01:15:39,760 --> 01:15:43,760
+like many of my colleagues you you regard that you think that
+
+1230
+01:15:43,760 --> 01:15:47,760
+people in religion should fear science and vice versa
+
+1231
+01:15:47,760 --> 01:15:51,760
+people in science should fear religion to me they're all
+
+1232
+01:15:51,760 --> 01:15:55,760
+in fact human religion being older
+
+1233
+01:15:55,760 --> 01:15:59,760
+and a religion with science is definitely a much better
+
+1234
+01:15:59,760 --> 01:16:03,760
+add-on than religion without science
+
+1235
+01:16:03,760 --> 01:16:07,760
+why I agree religion with science is much better
+
+1236
+01:16:07,760 --> 01:16:11,760
+than religion okay I'm going to go to questions
+
+1237
+01:16:11,760 --> 01:16:15,760
+please come up to the microphone
+
+1238
+01:16:15,760 --> 01:16:19,760
+please come up to the microphone and
+
+1239
+01:16:19,760 --> 01:16:23,760
+thanks be gentle to the questions
+
+1240
+01:16:23,760 --> 01:16:27,760
+and keep your comments in the form of a question
+
+1241
+01:16:27,760 --> 01:16:35,760
+how you doing?
+
+1242
+01:16:35,760 --> 01:16:39,760
+so the question that I have is
+
+1243
+01:16:39,760 --> 01:16:43,760
+I guess pretty much I kind of like going off the last
+
+1244
+01:16:43,760 --> 01:16:47,760
+thing given the fact that
+
+1245
+01:16:47,760 --> 01:16:51,760
+okay so the question being couldn't mathematics itself be
+
+1246
+01:16:51,760 --> 01:16:55,760
+quote unquote god right I'm putting in air quotes for a reason
+
+1247
+01:16:55,760 --> 01:16:59,760
+or couldn't the not couldn't knowledge itself
+
+1248
+01:16:59,760 --> 01:17:03,760
+be quote unquote god or couldn't sort of
+
+1249
+01:17:03,760 --> 01:17:07,760
+the idea of like what you were saying before
+
+1250
+01:17:07,760 --> 01:17:11,760
+in terms of like that transmutative
+
+1251
+01:17:11,760 --> 01:17:15,760
+nature of things in and of itself
+
+1252
+01:17:15,760 --> 01:17:19,760
+or pattern itself that we sort of
+
+1253
+01:17:19,760 --> 01:17:23,760
+assign understanding to
+
+1254
+01:17:23,760 --> 01:17:27,760
+couldn't that in and of itself be god like does
+
+1255
+01:17:27,760 --> 01:17:31,760
+god necessarily have to be personification or
+
+1256
+01:17:31,760 --> 01:17:35,760
+anthropomorphization of what we see
+
+1257
+01:17:35,760 --> 01:17:39,760
+like couldn't the intelligence itself be god
+
+1258
+01:17:39,760 --> 01:17:43,760
+thank you you want to tackle that yeah I'll tackle that
+
+1259
+01:17:43,760 --> 01:17:47,760
+I think in the I mean the kind of popular image you get
+
+1260
+01:17:47,760 --> 01:17:51,760
+of god as a god out there that's very anthropomorphic image and molding
+
+1261
+01:17:51,760 --> 01:17:55,760
+things etc I mean when I think of god
+
+1262
+01:17:55,760 --> 01:17:59,760
+I think of it just as that an underlying intelligence
+
+1263
+01:17:59,760 --> 01:18:03,760
+that grounds everything so that the idea is is that if you
+
+1264
+01:18:03,760 --> 01:18:07,760
+ask the question what is and I know you
+
+1265
+01:18:07,760 --> 01:18:11,760
+have comments about fundamental what's when you go all the way back to reality
+
+1266
+01:18:11,760 --> 01:18:15,760
+what do you find is reality ultimately impersonal is that the ultimate
+
+1267
+01:18:15,760 --> 01:18:19,760
+story so is it just matter in motion for instance
+
+1268
+01:18:19,760 --> 01:18:23,760
+or so and then consciousness arises out of matter
+
+1269
+01:18:23,760 --> 01:18:27,760
+so consciousness is sort of an epiphenomenon of the material
+
+1270
+01:18:27,760 --> 01:18:31,760
+or is that consciousness
+
+1271
+01:18:31,760 --> 01:18:35,760
+is the most fundamental and then when you get consciousness you get mind
+
+1272
+01:18:35,760 --> 01:18:39,760
+usually goes along with it and will and intelligence
+
+1273
+01:18:39,760 --> 01:18:43,760
+and mathematics
+
+1274
+01:18:43,760 --> 01:18:47,760
+has been the conceptualizations of that intelligence that's one view
+
+1275
+01:18:47,760 --> 01:18:51,760
+of mathematics and so
+
+1276
+01:18:51,760 --> 01:18:55,760
+in that conception of god then it's really thinking
+
+1277
+01:18:55,760 --> 01:18:59,760
+that it's not an anthropomorphic conception of god out there but
+
+1278
+01:18:59,760 --> 01:19:03,760
+a reality a conscious reality that's underlying and sustaining
+
+1279
+01:19:03,760 --> 01:19:07,760
+everything and so that it's a question of which route
+
+1280
+01:19:07,760 --> 01:19:11,760
+do you go at the very beginning of what's most fundamental
+
+1281
+01:19:11,760 --> 01:19:15,760
+which leads you in these two different directions
+
+1282
+01:19:15,760 --> 01:19:19,760
+let me also address your points first of all
+
+1283
+01:19:19,760 --> 01:19:23,760
+mathematics is not physics physics is nature
+
+1284
+01:19:23,760 --> 01:19:27,760
+physics is what happens I like the
+
+1285
+01:19:27,760 --> 01:19:31,760
+Latin version of it nature or notura which is the personification
+
+1286
+01:19:31,760 --> 01:19:35,760
+of into a lady who gives birth to everything
+
+1287
+01:19:35,760 --> 01:19:39,760
+so that is physics now in the history of science the
+
+1288
+01:19:39,760 --> 01:19:43,760
+description and the reasoning of these things that we've seen
+
+1289
+01:19:43,760 --> 01:19:47,760
+nature came first meaning was born out of this
+
+1290
+01:19:47,760 --> 01:19:51,760
+notura as geometry
+
+1291
+01:19:51,760 --> 01:19:55,760
+and that was a very cumbersome argument
+
+1292
+01:19:55,760 --> 01:19:59,760
+to teach all the way to
+
+1293
+01:19:59,760 --> 01:20:03,760
+the school of Plato which said
+
+1294
+01:20:03,760 --> 01:20:07,760
+he who cannot do geometry is not allowed to enter
+
+1295
+01:20:07,760 --> 01:20:11,760
+very difficult so then it was simplified
+
+1296
+01:20:11,760 --> 01:20:15,760
+algebra, trigonometry
+
+1297
+01:20:15,760 --> 01:20:19,760
+or calculus so in the beginning geometric arguments
+
+1298
+01:20:19,760 --> 01:20:23,760
+from Newton and so mathematics is a
+
+1299
+01:20:23,760 --> 01:20:27,760
+evolutionary process of simplifying the
+
+1300
+01:20:27,760 --> 01:20:31,760
+book of physics that's what it is
+
+1301
+01:20:31,760 --> 01:20:35,760
+so no English is a much simpler language
+
+1302
+01:20:35,760 --> 01:20:39,760
+than say French and Latin that's why
+
+1303
+01:20:39,760 --> 01:20:43,760
+English now has taken the world taken over the world
+
+1304
+01:20:43,760 --> 01:20:47,760
+I would disagree just like I didn't make it to screen
+
+1305
+01:20:47,760 --> 01:20:51,760
+I think in many cases actually the mathematics preceded the physics like I mentioned
+
+1306
+01:20:51,760 --> 01:20:55,760
+the complex numbers so it wasn't actually useful in physics to quantum
+
+1307
+01:20:55,760 --> 01:20:59,760
+mechanics in the 1930s but complex numbers
+
+1308
+01:20:59,760 --> 01:21:03,760
+in fact I think it goes back to the 17
+
+1309
+01:21:03,760 --> 01:21:07,760
+imaginary numbers in the development of the complex number system
+
+1310
+01:21:07,760 --> 01:21:11,760
+in the 18th and 19th century
+
+1311
+01:21:11,760 --> 01:21:15,760
+clarify just a second the name for the discipline
+
+1312
+01:21:15,760 --> 01:21:19,760
+is new it comes from the second half of the 1800s
+
+1313
+01:21:19,760 --> 01:21:23,760
+before that it was called mechanics and it is
+
+1314
+01:21:23,760 --> 01:21:27,760
+called as the Greeks and mechanics is the science of
+
+1315
+01:21:27,760 --> 01:21:31,760
+figures, bodies
+
+1316
+01:21:31,760 --> 01:21:35,760
+well the ones that statically were described as geometry now these things
+
+1317
+01:21:35,760 --> 01:21:39,760
+the pulleys, the ropes, the buildings, the making of the buildings
+
+1318
+01:21:39,760 --> 01:21:43,760
+was mechanics the building of the ditches and trenches and roads
+
+1319
+01:21:43,760 --> 01:21:47,760
+so mechanics is the original name for what I was talking about but the question was
+
+1320
+01:21:47,760 --> 01:21:51,760
+could mathematics be God so if you say physics
+
+1321
+01:21:51,760 --> 01:21:55,760
+could be God?
+
+1322
+01:21:55,760 --> 01:21:59,760
+well I understand that there are all God's laws
+
+1323
+01:21:59,760 --> 01:22:03,760
+okay so there's the end to that okay next question
+
+1324
+01:22:03,760 --> 01:22:07,760
+I'm wondering in considering these difficult questions
+
+1325
+01:22:07,760 --> 01:22:11,760
+whether the panelists are really so sure themselves
+
+1326
+01:22:11,760 --> 01:22:15,760
+as it appears why so difficult people say I don't really
+
+1327
+01:22:15,760 --> 01:22:19,760
+know it seems obvious to me given the dispute amongst
+
+1328
+01:22:19,760 --> 01:22:23,760
+you all that no one really knows
+
+1329
+01:22:23,760 --> 01:22:27,760
+do you have doubts or do you really think you're right
+
+1330
+01:22:27,760 --> 01:22:31,760
+did you do know about what about life
+
+1331
+01:22:31,760 --> 01:22:35,760
+why things are the way they are?
+
+1332
+01:22:35,760 --> 01:22:39,760
+that's where scientists we don't know
+
+1333
+01:22:39,760 --> 01:22:43,760
+but I did not say the beginning of the question because they don't hear
+
+1334
+01:22:43,760 --> 01:22:47,760
+well would you speak slow enough? this one you have people can be so sure
+
+1335
+01:22:47,760 --> 01:22:51,760
+themselves about why things are the way they are
+
+1336
+01:22:51,760 --> 01:22:55,760
+given the arguments and disputes and why people can't say I don't know
+
+1337
+01:22:55,760 --> 01:22:59,760
+it seems like a lot of these questions people really don't know
+
+1338
+01:22:59,760 --> 01:23:03,760
+but very few people they may share with them
+
+1339
+01:23:03,760 --> 01:23:07,760
+in secret yes yeah before this meeting started
+
+1340
+01:23:07,760 --> 01:23:11,760
+we're having a round table in a back room there
+
+1341
+01:23:11,760 --> 01:23:15,760
+and Dr. Narcissianne
+
+1342
+01:23:15,760 --> 01:23:19,760
+you brought up the fact that most people think they know more
+
+1343
+01:23:19,760 --> 01:23:23,760
+than they know I wanted to add to that
+
+1344
+01:23:23,760 --> 01:23:27,760
+that most professors think they know more than they know
+
+1345
+01:23:27,760 --> 01:23:31,760
+except England so
+
+1346
+01:23:31,760 --> 01:23:35,760
+that's the way we are okay and very few
+
+1347
+01:23:35,760 --> 01:23:39,760
+except those who are in a hurry to go home after a lecture
+
+1348
+01:23:39,760 --> 01:23:43,760
+or a conference say gee I don't excellent question but
+
+1349
+01:23:43,760 --> 01:23:47,760
+I don't know so it's a useful answer
+
+1350
+01:23:47,760 --> 01:23:51,760
+to many of these questions but the urge
+
+1351
+01:23:51,760 --> 01:23:55,760
+to pursue the question especially when it arrives
+
+1352
+01:23:55,760 --> 01:23:59,760
+unexpectedly out of an honest audience
+
+1353
+01:23:59,760 --> 01:24:03,760
+that courage is actually very valuable
+
+1354
+01:24:03,760 --> 01:24:07,760
+and from me to my students they're very important to teach
+
+1355
+01:24:07,760 --> 01:24:11,760
+because most people do not get it that they're actually
+
+1356
+01:24:11,760 --> 01:24:15,760
+free to question authority thank you
+
+1357
+01:24:15,760 --> 01:24:19,760
+if you can't propose some experiment that would prove you're wrong
+
+1358
+01:24:19,760 --> 01:24:23,760
+or right make some prediction and say we're going to do some experiment to show
+
+1359
+01:24:23,760 --> 01:24:27,760
+it comes out the way I think it does or doesn't do how is that different
+
+1360
+01:24:27,760 --> 01:24:31,760
+than you did the work and physics theory is full of these examples
+
+1361
+01:24:31,760 --> 01:24:35,760
+but in terms of your theory oh sure
+
+1362
+01:24:35,760 --> 01:24:39,760
+here is the story of I predicted the evolution
+
+1363
+01:24:39,760 --> 01:24:43,760
+of the speed and sports I predicted it that was in the spring
+
+1364
+01:24:43,760 --> 01:24:47,760
+of 2008 that was months before the Beijing Olympics
+
+1365
+01:24:47,760 --> 01:24:51,760
+I predicted that the next winners in sprint ends will be
+
+1366
+01:24:51,760 --> 01:24:55,760
+bigger okay and with a mathematical formula
+
+1367
+01:24:55,760 --> 01:24:59,760
+very simple a equals b kind of formula
+
+1368
+01:24:59,760 --> 01:25:03,760
+and I submitted this as a letter to nature
+
+1369
+01:25:03,760 --> 01:25:07,760
+with a cover letter in which I said that dear editors
+
+1370
+01:25:07,760 --> 01:25:11,760
+my colleagues please publish this immediately because in just two months
+
+1371
+01:25:11,760 --> 01:25:15,760
+from now this will be shown to be correct and they of course
+
+1372
+01:25:15,760 --> 01:25:19,760
+because I'm from engineering decided not even
+
+1373
+01:25:19,760 --> 01:25:23,760
+to review my contribution
+
+1374
+01:25:23,760 --> 01:25:27,760
+my contribution was on the rebound published a few months
+
+1375
+01:25:27,760 --> 01:25:31,760
+later in the Journal of Experimental Biology in Cambridge not a lightweight journal
+
+1376
+01:25:31,760 --> 01:25:35,760
+meaning here are the facts
+
+1377
+01:25:35,760 --> 01:25:39,760
+comparative biology journal
+
+1378
+01:25:39,760 --> 01:25:43,760
+but in Beijing in July my prediction
+
+1379
+01:25:43,760 --> 01:25:47,760
+turned out to be correct I do not predict the names
+
+1380
+01:25:47,760 --> 01:25:51,760
+of the winners but I predicted their sizes and their speeds
+
+1381
+01:25:51,760 --> 01:25:55,760
+you see but that's not proving a fundamental physical
+
+1382
+01:25:55,760 --> 01:25:59,760
+law or all it is as it is as proving a retrospect
+
+1383
+01:25:59,760 --> 01:26:03,760
+meaning a hindsight that everything that you brought up
+
+1384
+01:26:03,760 --> 01:26:07,760
+earlier with the insects and the so-called convergent evolution
+
+1385
+01:26:07,760 --> 01:26:11,760
+should be happening this way that the
+
+1386
+01:26:11,760 --> 01:26:15,760
+bigger should be faster not just you know waving your hands
+
+1387
+01:26:15,760 --> 01:26:19,760
+but in a long this in accord with this precise formula
+
+1388
+01:26:19,760 --> 01:26:23,760
+that is to predict that it was not questioned
+
+1389
+01:26:23,760 --> 01:26:27,760
+in the past is the proof that you are waiting
+
+1390
+01:26:27,760 --> 01:26:31,760
+oh the question how many predictions did you make that didn't come true that we never heard about
+
+1391
+01:26:31,760 --> 01:26:39,760
+the doctor already comes in the fact that that has not happened yet
+
+1392
+01:26:39,760 --> 01:26:43,760
+okay thank you you want to say something
+
+1393
+01:26:43,760 --> 01:26:47,760
+I do do you have time
+
+1394
+01:26:47,760 --> 01:26:51,760
+I just have a couple of comments I really enjoyed this it's wonderful I haven't thought this much
+
+1395
+01:26:51,760 --> 01:26:55,760
+about these issues since college and until the last selection of course
+
+1396
+01:26:55,760 --> 01:26:59,760
+and I wanted to make a couple of comments
+
+1397
+01:26:59,760 --> 01:27:03,760
+and they would raise questions regarding the existence
+
+1398
+01:27:03,760 --> 01:27:07,760
+of God I think the gentleman in a lighter jacket I
+
+1399
+01:27:07,760 --> 01:27:11,760
+was here late so I don't really have all your names
+
+1400
+01:27:11,760 --> 01:27:15,760
+mentioned that you can't test the existence of God unless I got that wrong
+
+1401
+01:27:15,760 --> 01:27:19,760
+and if that is true then how can you describe God that's one question
+
+1402
+01:27:19,760 --> 01:27:23,760
+you might want to reference a show
+
+1403
+01:27:23,760 --> 01:27:27,760
+that Stephen Colbert had a few weeks ago a few months ago where Ricky Gervais
+
+1404
+01:27:27,760 --> 01:27:31,760
+was there and he proposed a following thought experiment
+
+1405
+01:27:31,760 --> 01:27:35,760
+which is that if humanity were wiped out or all civilization were wiped out
+
+1406
+01:27:35,760 --> 01:27:39,760
+what would we recreate the same religions or
+
+1407
+01:27:39,760 --> 01:27:43,760
+would we recreate the same physics and mathematics which is more likely
+
+1408
+01:27:43,760 --> 01:27:47,760
+and Colbert was I think stunned by that which is
+
+1409
+01:27:47,760 --> 01:27:51,760
+impressive considering his deep religious beliefs and his mind
+
+1410
+01:27:51,760 --> 01:27:55,760
+I also wanted to comment on what you mentioned
+
+1411
+01:27:55,760 --> 01:27:59,760
+about what I think is synchronicity which is kind of
+
+1412
+01:27:59,760 --> 01:28:03,760
+parallel well I guess parallel evolutionary
+
+1413
+01:28:03,760 --> 01:28:07,760
+appearances due to different processes and I think that's an important thing
+
+1414
+01:28:07,760 --> 01:28:11,760
+to keep in mind and the last thing I want to say is I did some research
+
+1415
+01:28:11,760 --> 01:28:15,760
+when I was a resident I'm a pathologist by training
+
+1416
+01:28:15,760 --> 01:28:19,760
+that did describe symmetries in biology which I can discuss
+
+1417
+01:28:19,760 --> 01:28:23,760
+with you privately if you're interested that speak to some very basic
+
+1418
+01:28:23,760 --> 01:28:27,760
+primal mathematical principles I don't think it ever saw the light of day
+
+1419
+01:28:27,760 --> 01:28:31,760
+but it was fascinating sorry a lot
+
+1420
+01:28:31,760 --> 01:28:35,760
+so the two of you I think are questions
+
+1421
+01:28:35,760 --> 01:28:39,760
+I think what I heard you write you said
+
+1422
+01:28:39,760 --> 01:28:43,760
+if you can't test whether God exists how can you describe
+
+1423
+01:28:43,760 --> 01:28:47,760
+God well I mean we don't have
+
+1424
+01:28:47,760 --> 01:28:51,760
+I can describe God how an idea what consciousness is because I'm conscious
+
+1425
+01:28:51,760 --> 01:28:55,760
+and I have an idea of what being an agent is and knowledge is
+
+1426
+01:28:55,760 --> 01:28:59,760
+so I don't see where you'd have to test something to be able to
+
+1427
+01:28:59,760 --> 01:29:03,760
+describe it I could describe on
+
+1428
+01:29:03,760 --> 01:29:07,760
+a very very distant planet that is
+
+1429
+01:29:07,760 --> 01:29:11,760
+what physicists would say is outside our light cone which means we'll never
+
+1430
+01:29:11,760 --> 01:29:15,760
+be able to determine whether it's there or not I can describe
+
+1431
+01:29:15,760 --> 01:29:19,760
+there's a certain kind of being on the planet let's say a unicorn to view a description of
+
+1432
+01:29:19,760 --> 01:29:23,760
+the unicorn so I can describe without ever being able to test
+
+1433
+01:29:23,760 --> 01:29:27,760
+whether that's the case or that there's extraterrestrial intelligence
+
+1434
+01:29:27,760 --> 01:29:31,760
+outside our light cone so I don't see how the two are connected
+
+1435
+01:29:31,760 --> 01:29:35,760
+together I think you'd have to have some sort of
+
+1436
+01:29:35,760 --> 01:29:39,760
+access to the properties you're using to describe the thing but
+
+1437
+01:29:39,760 --> 01:29:43,760
+that doesn't require an ability to be able to test whether it exists or not
+
+1438
+01:29:43,760 --> 01:29:47,760
+would you like to comment sure yeah first I'll just
+
+1439
+01:29:47,760 --> 01:29:51,760
+say that I like to think of God as a flying spaghetti monster
+
+1440
+01:29:51,760 --> 01:29:55,760
+that's a big movement among evolutionary biologists to
+
+1441
+01:29:55,760 --> 01:29:59,760
+recast religion of flying spaghetti monster but with regard
+
+1442
+01:29:59,760 --> 01:30:03,760
+to synchronicity and convergence I mean one of
+
+1443
+01:30:03,760 --> 01:30:07,760
+an interesting topic that's come up in evolutionary biology recently
+
+1444
+01:30:07,760 --> 01:30:11,760
+is trying to understand convergence not just
+
+1445
+01:30:11,760 --> 01:30:15,760
+from the framework of
+
+1446
+01:30:15,760 --> 01:30:19,760
+a common natural selective force which is always how
+
+1447
+01:30:19,760 --> 01:30:23,760
+since Darwin it's been interpreted when you see two things that look the same
+
+1448
+01:30:23,760 --> 01:30:27,760
+you say aha they're under similar adaptive pressure
+
+1449
+01:30:27,760 --> 01:30:31,760
+but now I think with new
+
+1450
+01:30:31,760 --> 01:30:35,760
+new tools genomics new tools
+
+1451
+01:30:35,760 --> 01:30:39,760
+and developmental biology and cell biology we can start to understand
+
+1452
+01:30:39,760 --> 01:30:43,760
+the kind of canalization that is the molecular it constraints the molecular
+
+1453
+01:30:43,760 --> 01:30:47,760
+level that drive convergence in ways that
+
+1454
+01:30:47,760 --> 01:30:51,760
+may not be as related to adaptive pressure as we think
+
+1455
+01:30:51,760 --> 01:30:55,760
+thank you any other questions
+
+1456
+01:30:55,760 --> 01:30:59,760
+it seems to me that all of the members of the panel
+
+1457
+01:30:59,760 --> 01:31:07,760
+with the exception of Professor
+
+1458
+01:31:07,760 --> 01:31:15,760
+Bajan would be successfully avoided the topic at hand and I think the topic at hand is
+
+1459
+01:31:15,760 --> 01:31:19,760
+it says design and nature
+
+1460
+01:31:19,760 --> 01:31:23,760
+is really is there design and nature and what I heard from
+
+1461
+01:31:23,760 --> 01:31:27,760
+Professor Bajan was that nature
+
+1462
+01:31:27,760 --> 01:31:31,760
+designs itself and it does it through the mechanism of evolution
+
+1463
+01:31:31,760 --> 01:31:35,760
+which is underpinned by the law of physics
+
+1464
+01:31:35,760 --> 01:31:39,760
+and that means and that really is
+
+1465
+01:31:39,760 --> 01:31:43,760
+something which is in its own way post creation
+
+1466
+01:31:43,760 --> 01:31:47,760
+or post development in some way so it still leaves open
+
+1467
+01:31:47,760 --> 01:31:51,760
+the question as to whether or not there was design
+
+1468
+01:31:51,760 --> 01:31:55,760
+or a designer how did evolution how did the law of physics
+
+1469
+01:31:55,760 --> 01:31:59,760
+come about?
+
+1470
+01:31:59,760 --> 01:32:05,760
+who wants to tackle that? Let me read a brief
+
+1471
+01:32:05,760 --> 01:32:09,760
+in my latest book The Physics of Life the answer
+
+1472
+01:32:09,760 --> 01:32:13,760
+to your point is I agree with what you bring up
+
+1473
+01:32:13,760 --> 01:32:17,760
+is that evolution
+
+1474
+01:32:17,760 --> 01:32:21,760
+which really means changing design with the
+
+1475
+01:32:21,760 --> 01:32:25,760
+perceivable discernible direction over time
+
+1476
+01:32:25,760 --> 01:32:29,760
+was one earth and everything
+
+1477
+01:32:29,760 --> 01:32:33,760
+everywhere else from the beginning
+
+1478
+01:32:33,760 --> 01:32:37,760
+and I just want to follow up with a better understanding
+
+1479
+01:32:37,760 --> 01:32:41,760
+of the nature design and nature. You understand what the living is
+
+1480
+01:32:41,760 --> 01:32:45,760
+and I think the water flowing down here
+
+1481
+01:32:45,760 --> 01:32:49,760
+and the water flowing down here
+
+1482
+01:32:49,760 --> 01:32:53,760
+wants to keep moving then it keeps trying various ways
+
+1483
+01:32:53,760 --> 01:32:57,760
+of doing and it starts to look just
+
+1484
+01:32:57,760 --> 01:33:01,760
+that you destroy that or you destroy that
+
+1485
+01:33:01,760 --> 01:33:05,760
+as an evolution and a removal of part of the water.
+
+1486
+01:33:05,760 --> 01:33:09,760
+It's a survival of... it's an evolution of the flow
+
+1487
+01:33:09,760 --> 01:33:13,760
+architecture and the river basin is just one part of it
+
+1488
+01:33:13,760 --> 01:33:17,760
+it's the circuit executed by water in nature
+
+1489
+01:33:17,760 --> 01:33:21,760
+first there is the rain the rain falls on the ground
+
+1490
+01:33:21,760 --> 01:33:25,760
+the droplets while falling down
+
+1491
+01:33:25,760 --> 01:33:29,760
+a quiet shape that tends to
+
+1492
+01:33:29,760 --> 01:33:33,760
+minimize drag. There we go. So that's the
+
+1493
+01:33:33,760 --> 01:33:37,760
+quality embryo that gives birth to the river basin
+
+1494
+01:33:37,760 --> 01:33:41,760
+river basin is the wet mud in the beginning then you have the
+
+1495
+01:33:41,760 --> 01:33:45,760
+riverlets and then the hill slopes and the rivers
+
+1496
+01:33:45,760 --> 01:33:49,760
+and so all the way to the delta you forgot to mention delta which is the river basin
+
+1497
+01:33:49,760 --> 01:33:53,760
+and then the river is just like the breathing in and breathing out
+
+1498
+01:33:53,760 --> 01:33:57,760
+and then there is what happens to the water from the river
+
+1499
+01:33:57,760 --> 01:34:01,760
+basin either evaporation from the ocean or from the Kalahari desert
+
+1500
+01:34:01,760 --> 01:34:05,760
+in the case of the Oka-Langua delta. So and then
+
+1501
+01:34:05,760 --> 01:34:09,760
+the evaporated humid air is light and it rises
+
+1502
+01:34:09,760 --> 01:34:13,760
+with the undulating rivers you see meandering rivers
+
+1503
+01:34:13,760 --> 01:34:17,760
+of plumes which then circulate on the
+
+1504
+01:34:17,760 --> 01:34:21,760
+same world map as the winds more easily
+
+1505
+01:34:21,760 --> 01:34:25,760
+so this entire so this is where I actually asked you about
+
+1506
+01:34:25,760 --> 01:34:29,760
+the atonement it's about not only the thing that
+
+1507
+01:34:29,760 --> 01:34:33,760
+you bring up which is the river basin it's about the river basin
+
+1508
+01:34:33,760 --> 01:34:37,760
+flowing together with everything else with the so-called environment
+
+1509
+01:34:37,760 --> 01:34:41,760
+or with the nature itself so the physics
+
+1510
+01:34:41,760 --> 01:34:45,760
+is holistic the laws of physics are
+
+1511
+01:34:45,760 --> 01:34:49,760
+obeyed by anything everywhere and anytime
+
+1512
+01:34:49,760 --> 01:34:53,760
+and that's why this discussion at this topic I
+
+1513
+01:34:53,760 --> 01:34:57,760
+commend you for putting it together as a title is extremely timely
+
+1514
+01:34:57,760 --> 01:35:01,760
+and it is not about biology it is not about technology evolution
+
+1515
+01:35:01,760 --> 01:35:05,760
+either it's in fact it's about everything
+
+1516
+01:35:05,760 --> 01:35:09,760
+that has evolving design. Okay so maybe okay so
+
+1517
+01:35:09,760 --> 01:35:13,760
+okay so I'll just say you know design
+
+1518
+01:35:13,760 --> 01:35:17,760
+for me is such a loaded word as a scientist
+
+1519
+01:35:17,760 --> 01:35:21,760
+because the last thing I want to say is that anything is designed
+
+1520
+01:35:21,760 --> 01:35:25,760
+because I don't believe that I don't think anything is designed
+
+1521
+01:35:25,760 --> 01:35:29,760
+design is something we impose after the fact on
+
+1522
+01:35:29,760 --> 01:35:33,760
+what we see around us and it's because of our squirmy little
+
+1523
+01:35:33,760 --> 01:35:37,760
+mammalian brains doing the things but
+
+1524
+01:35:37,760 --> 01:35:41,760
+it doesn't mean that there aren't some really extraordinary questions
+
+1525
+01:35:41,760 --> 01:35:45,760
+and big questions so for example 13.8 billion
+
+1526
+01:35:45,760 --> 01:35:49,760
+years ago the Big Bang the universe was not the way it is now
+
+1527
+01:35:49,760 --> 01:35:53,760
+it was extremely uniform it was hot it had
+
+1528
+01:35:53,760 --> 01:35:57,760
+almost no structure to it somehow 13.8
+
+1529
+01:35:57,760 --> 01:36:01,760
+billion years later it's made structures out of itself
+
+1530
+01:36:01,760 --> 01:36:05,760
+capable of recognizing that fact
+
+1531
+01:36:05,760 --> 01:36:09,760
+that's a big question right I mean that and it's a big scientific question
+
+1532
+01:36:09,760 --> 01:36:13,760
+for me and I think that's you know that's the
+
+1533
+01:36:13,760 --> 01:36:17,760
+more interesting thing how did that happen I agree
+
+1534
+01:36:17,760 --> 01:36:21,760
+it's physics but I don't know how to connect all the dots
+
+1535
+01:36:21,760 --> 01:36:25,760
+from 13.8 billion years ago to today and I feel that
+
+1536
+01:36:25,760 --> 01:36:29,760
+sometimes I look you know we the fact
+
+1537
+01:36:29,760 --> 01:36:33,760
+that we impose this notion of design and form and shape
+
+1538
+01:36:33,760 --> 01:36:37,760
+and elegance and beauty on the world around us
+
+1539
+01:36:37,760 --> 01:36:41,760
+has been useful in some respects but we don't know if that's the best thing
+
+1540
+01:36:41,760 --> 01:36:45,760
+to do for unearthing the deeper truths I don't know
+
+1541
+01:36:45,760 --> 01:36:49,760
+I really don't so I just wanted to put that out there and I just wanted to say
+
+1542
+01:36:49,760 --> 01:36:53,760
+I say design to me and I kind of go into a quivering
+
+1543
+01:36:53,760 --> 01:36:57,760
+and as I want to run out the door just to say that
+
+1544
+01:36:57,760 --> 01:37:01,760
+let me know too well do you want to say something
+
+1545
+01:37:01,760 --> 01:37:05,760
+well not really I mean to me like it's like you know being a scientist
+
+1546
+01:37:05,760 --> 01:37:09,760
+for me it's not about like figuring out the big questions and all this other kind of stuff
+
+1547
+01:37:09,760 --> 01:37:13,760
+is just I'm just no seriously I just do it because it's fun
+
+1548
+01:37:13,760 --> 01:37:17,760
+it's creative like you know like I mean it's like that when we discovered like
+
+1549
+01:37:17,760 --> 01:37:21,760
+it's like you know I'm known for studying dinosaurs and I can't stand dinosaurs
+
+1550
+01:37:21,760 --> 01:37:25,760
+but you know it's just a way which
+
+1551
+01:37:25,760 --> 01:37:31,760
+like you know when we figured out what color dinosaurs were it's not like we cared we just wanted to see if we were clever enough to do it
+
+1552
+01:37:31,760 --> 01:37:37,760
+and to figure out a way that we could use the quantum radiation and stuff to be able to like do it
+
+1553
+01:37:37,760 --> 01:37:41,760
+and that you know so I can mean a lot of it is just
+
+1554
+01:37:41,760 --> 01:37:45,760
+it's just that because it gives us a you know I use science as a mechanism for us to be able to
+
+1555
+01:37:45,760 --> 01:37:49,760
+you know understand all the way from the most fundamental questions in the world
+
+1556
+01:37:49,760 --> 01:37:55,760
+to like the lint of figuring out what color one kind of dinosaur was 130 million years ago so like that it's just
+
+1557
+01:37:55,760 --> 01:37:59,760
+it allows us to be able to do that in a repeatable and fundamental way by
+
+1558
+01:37:59,760 --> 01:38:03,760
+you know using mathematics but using technology by asking the right questions
+
+1559
+01:38:03,760 --> 01:38:07,760
+and it's just a way to approach the world in that way so
+
+1560
+01:38:09,760 --> 01:38:11,760
+Anybody else?
+
+1561
+01:38:11,760 --> 01:38:15,760
+Okay. Can I ask you another question?
+
+1562
+01:38:15,760 --> 01:38:19,760
+Oh yes you can ask another question.
+
+1563
+01:38:19,760 --> 01:38:21,760
+So
+
+1564
+01:38:21,760 --> 01:38:25,760
+So what is there?
+
+1565
+01:38:25,760 --> 01:38:27,760
+It's there.
+
+1566
+01:38:27,760 --> 01:38:29,760
+Just fine. I can tell everybody can hear me.
+
+1567
+01:38:29,760 --> 01:38:33,760
+In terms of like
+
+1568
+01:38:33,760 --> 01:38:37,760
+so in terms of sort of like
+
+1569
+01:38:37,760 --> 01:38:41,760
+answering this question
+
+1570
+01:38:41,760 --> 01:38:45,760
+wouldn't answering the question require like
+
+1571
+01:38:45,760 --> 01:38:49,760
+some sort of multi-field understanding
+
+1572
+01:38:49,760 --> 01:38:51,760
+that for the most part like
+
+1573
+01:38:51,760 --> 01:38:53,760
+well that's two questions
+
+1574
+01:38:53,760 --> 01:38:57,760
+so wouldn't it require some sort of multi-field understanding that we're just not
+
+1575
+01:38:57,760 --> 01:39:01,760
+really capable of in any one's
+
+1576
+01:39:01,760 --> 01:39:03,760
+particular 90 year lifetime?
+
+1577
+01:39:03,760 --> 01:39:05,760
+It's probably intractable. I mean there's nothing wrong with that.
+
+1578
+01:39:05,760 --> 01:39:09,760
+There's nothing wrong with saying we can't do that and I don't know that
+
+1579
+01:39:09,760 --> 01:39:13,760
+because like one of the things I was thinking of was like
+
+1580
+01:39:13,760 --> 01:39:17,760
+in terms of even just for example I was watching a documentary on
+
+1581
+01:39:17,760 --> 01:39:21,760
+Einstein and it was a situation where like he ran into
+
+1582
+01:39:21,760 --> 01:39:25,760
+mathematics problems and so it was
+
+1583
+01:39:25,760 --> 01:39:29,760
+a situation where like there was a race between him and another mathematician
+
+1584
+01:39:29,760 --> 01:39:33,760
+who was older than he was and you know and he's trying to
+
+1585
+01:39:33,760 --> 01:39:37,760
+figure things out you know and a lot of
+
+1586
+01:39:37,760 --> 01:39:41,760
+situations where I think you know where you know yeah
+
+1587
+01:39:41,760 --> 01:39:45,760
+like physics and science and psychology and all these other things
+
+1588
+01:39:45,760 --> 01:39:47,760
+I teach a
+
+1589
+01:39:47,760 --> 01:39:51,760
+course and I was just talking with this gentleman on the fact that Carl Jung
+
+1590
+01:39:51,760 --> 01:39:55,760
+for example knew a lot and consulted with people outside
+
+1591
+01:39:55,760 --> 01:39:59,760
+of his field you know to answer a lot of different questions and even as
+
+1592
+01:39:59,760 --> 01:40:01,760
+myself as an English teacher
+
+1593
+01:40:01,760 --> 01:40:05,760
+I often bring up things in terms of
+
+1594
+01:40:05,760 --> 01:40:09,760
+science and all these other things that I'm learning about and constantly trying to say
+
+1595
+01:40:09,760 --> 01:40:13,760
+that I mean in terms of that understanding of like convergence
+
+1596
+01:40:13,760 --> 01:40:17,760
+I think that would be necessary for understanding
+
+1597
+01:40:17,760 --> 01:40:21,760
+the underlying sort of intelligence
+
+1598
+01:40:21,760 --> 01:40:25,760
+that there is to creation and then the second thing is
+
+1599
+01:40:25,760 --> 01:40:29,760
+going back to
+
+1600
+01:40:29,760 --> 01:40:33,760
+what you guys were initially talking about in terms of the fact that
+
+1601
+01:40:33,760 --> 01:40:37,760
+you know the dynamic is always
+
+1602
+01:40:37,760 --> 01:40:41,760
+changing that you know and going
+
+1603
+01:40:41,760 --> 01:40:45,760
+to your question which is
+
+1604
+01:40:45,760 --> 01:40:49,760
+you know don't we isn't there always a situation
+
+1605
+01:40:49,760 --> 01:40:53,760
+where we don't know you know like I think as some
+
+1606
+01:40:53,760 --> 01:40:57,760
+I was reading something when they were saying at the edge of the chaos in the world
+
+1607
+01:40:57,760 --> 01:41:01,760
+is always creation right so isn't there always a situation
+
+1608
+01:41:01,760 --> 01:41:05,760
+where and if we if we're ever
+
+1609
+01:41:05,760 --> 01:41:09,760
+if we were ever to say this is God then wouldn't that be the end of
+
+1610
+01:41:09,760 --> 01:41:13,760
+the morning okay so that's your question okay
+
+1611
+01:41:13,760 --> 01:41:17,760
+you can ask
+
+1612
+01:41:17,760 --> 01:41:21,760
+the time is it
+
+1613
+01:41:21,760 --> 01:41:25,760
+your view of it is in fact
+
+1614
+01:41:25,760 --> 01:41:29,760
+in the right direction the first of all the design is basically a movie
+
+1615
+01:41:29,760 --> 01:41:33,760
+not a sketch in a zoology book
+
+1616
+01:41:33,760 --> 01:41:37,760
+okay that's the first thing the second
+
+1617
+01:41:37,760 --> 01:41:41,760
+there is no end to evolution the speaks of the
+
+1618
+01:41:41,760 --> 01:41:45,760
+of the you call it the edge of chaos
+
+1619
+01:41:45,760 --> 01:41:49,760
+I don't use the word chaos because it means
+
+1620
+01:41:49,760 --> 01:41:53,760
+I don't know anything meaning I give up it's like turbulence
+
+1621
+01:41:53,760 --> 01:41:57,760
+so but anyway there is that's the good news that
+
+1622
+01:41:57,760 --> 01:42:01,760
+there is always a flow architecture
+
+1623
+01:42:01,760 --> 01:42:05,760
+in the future that will be serving us better
+
+1624
+01:42:05,760 --> 01:42:09,760
+and what you call it is really
+
+1625
+01:42:09,760 --> 01:42:13,760
+not only up to you but depends on your upbringing
+
+1626
+01:42:13,760 --> 01:42:17,760
+some of us have
+
+1627
+01:42:17,760 --> 01:42:21,760
+have gotten both the religion and science others have gotten only the first
+
+1628
+01:42:21,760 --> 01:42:25,760
+others have only gotten the second but
+
+1629
+01:42:25,760 --> 01:42:29,760
+but every single one of us has the urge to to to to live
+
+1630
+01:42:29,760 --> 01:42:33,760
+I'm talking about including my cat the urge to to live more easily
+
+1631
+01:42:33,760 --> 01:42:37,760
+or save for longer and
+
+1632
+01:42:37,760 --> 01:42:41,760
+all the rest again but your question question was
+
+1633
+01:42:41,760 --> 01:42:45,760
+if there's a god should we just stop questioning anything
+
+1634
+01:42:45,760 --> 01:42:49,760
+is that what you were enjoying the fun experience of
+
+1635
+01:42:49,760 --> 01:42:53,760
+living under Trump yeah
+
+1636
+01:42:53,760 --> 01:42:57,760
+yeah no but I think it's not about I mean I guess
+
+1637
+01:42:57,760 --> 01:43:01,760
+right it's gonna mean right depends right if if if you don't believe in God
+
+1638
+01:43:01,760 --> 01:43:05,760
+right then you're gonna keep questioning and if you do believe in God you have a choice
+
+1639
+01:43:05,760 --> 01:43:09,760
+right and historically many people who believe in God were
+
+1640
+01:43:09,760 --> 01:43:13,760
+also scientists and kept questioning the world around them and unveiling
+
+1641
+01:43:13,760 --> 01:43:17,760
+the majesty of whatever I mean it's just different motivation
+
+1642
+01:43:17,760 --> 01:43:21,760
+you know someone like me is not motivated that way and even if you told me
+
+1643
+01:43:21,760 --> 01:43:25,760
+there is a god I go nah nah not really nah
+
+1644
+01:43:25,760 --> 01:43:29,760
+I'm just not gonna go there
+
+1645
+01:43:29,760 --> 01:43:33,760
+and every year is like what do I believe in
+
+1646
+01:43:33,760 --> 01:43:37,760
+I'd say I believe in the Lord. I feel that's an excellent answer
+
+1647
+01:43:37,760 --> 01:43:41,760
+I think that's an excellent answer. One last comment
+
+1648
+01:43:41,760 --> 01:43:45,760
+I was just gonna say I think in that's really like some
+
+1649
+01:43:45,760 --> 01:43:49,760
+theory, a theory or anything and those who want to talk about
+
+1650
+01:43:49,760 --> 01:43:53,760
+the quantum creation of reality end up needing
+
+1651
+01:43:53,760 --> 01:43:57,760
+to hypothesize like the mathematics of quantum mechanics that is
+
+1652
+01:43:57,760 --> 01:44:01,760
+not instantiated anywhere it's just mathematics and that somehow
+
+1653
+01:44:01,760 --> 01:44:05,760
+something that mathematics has given
+
+1654
+01:44:05,760 --> 01:44:09,760
+being so I'm just trying to clarify I think that was your and if you got
+
+1655
+01:44:09,760 --> 01:44:13,760
+to that final theory whether it's a personal god or not
+
+1656
+01:44:13,760 --> 01:44:17,760
+with questioning
+
+1657
+01:44:17,760 --> 01:44:21,760
+well you might not be searching for the ultimate explanation anymore but there
+
+1658
+01:44:21,760 --> 01:44:25,760
+would be a lot of other things to explore.
+
+1659
+01:44:25,760 --> 01:44:29,760
+Thank you.
+
+1660
+01:44:29,760 --> 01:44:33,760
+Thank you very much.
+
+1661
+01:44:33,760 --> 01:44:37,760
+Thank you very much.
+
+1662
+01:44:37,760 --> 01:44:41,760
+Thank you.
+
+1663
+01:44:41,760 --> 01:44:45,760
+Thank you very much.
+
+1664
+01:44:45,760 --> 01:44:49,760
+Yeah.
+
+1665
+01:44:49,760 --> 01:44:57,760
+Thank you.
+

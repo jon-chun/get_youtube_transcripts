@@ -1,0 +1,1262 @@
+{"id": "HA6F4rcv2es-t30.0", "text": "Hi, everyone.", "start": 30.0, "end": 56.96}
+{"id": "HA6F4rcv2es-t56.96", "text": "If I could have your attention for a brief moment.", "start": 56.96, "end": 60.36}
+{"id": "HA6F4rcv2es-t60.36", "text": "So we're about to begin.", "start": 60.36, "end": 61.72}
+{"id": "HA6F4rcv2es-t61.72", "text": "Thank you all very much for coming.", "start": 61.72, "end": 64.16}
+{"id": "HA6F4rcv2es-t64.16", "text": "So this is a roundtable on the sublime experience.", "start": 64.16, "end": 67.92}
+{"id": "HA6F4rcv2es-t67.92", "text": "And it is funded in part by a very generous grant from the Templeton Foundation.", "start": 67.92, "end": 71.92}
+{"id": "HA6F4rcv2es-t71.92", "text": "But one of the stipulations of that is that we have surveys that we need to be filled", "start": 71.92, "end": 76.08}
+{"id": "HA6F4rcv2es-t76.08", "text": "out by a certain number of people for every single roundtable.", "start": 76.08, "end": 80.12}
+{"id": "HA6F4rcv2es-t80.12", "text": "That otherwise, I don't know what would happen.", "start": 80.12, "end": 82.12}
+{"id": "HA6F4rcv2es-t82.12", "text": "Maybe they'd ask for their money back.", "start": 82.12, "end": 84.76}
+{"id": "HA6F4rcv2es-t84.76", "text": "But either way, I was not present for the first 15 minutes of when everybody was arriving.", "start": 84.76, "end": 90.72}
+{"id": "HA6F4rcv2es-t90.72", "text": "So I didn't get a chance to harass you individually.", "start": 90.72, "end": 92.92}
+{"id": "HA6F4rcv2es-t92.92", "text": "So now I have to do it en masse.", "start": 92.92, "end": 95.08000000000001}
+{"id": "HA6F4rcv2es-t95.08000000000001", "text": "So if you'd be very, very generous and gracious and be willing to fill out a survey, the first", "start": 95.08000000000001, "end": 100.44}
+{"id": "HA6F4rcv2es-t100.44", "text": "half is for before, the roundtable is so filling out right now or during, and then the second", "start": 100.44, "end": 104.72}
+{"id": "HA6F4rcv2es-t104.72", "text": "half is for afterwards.", "start": 104.72, "end": 107.28}
+{"id": "HA6F4rcv2es-t107.28", "text": "I guess just raise your hand slightly or eyebrows or something, and I can come around", "start": 107.28, "end": 111.88000000000001}
+{"id": "HA6F4rcv2es-t111.88000000000001", "text": "with surveys.", "start": 111.88000000000001, "end": 112.88000000000001}
+{"id": "HA6F4rcv2es-t112.88", "text": "I have a couple pens, but if you have your own pen, you should use that one.", "start": 112.88, "end": 117.88}
+{"id": "HA6F4rcv2es-t117.88", "text": "Okay.", "start": 117.88, "end": 119.88}
+{"id": "HA6F4rcv2es-t119.88", "text": "While Julie is doing that, I'll introduce our program.", "start": 119.88, "end": 128.44}
+{"id": "HA6F4rcv2es-t128.44", "text": "I'm Ed Nurse-Sesien, Director of the Center.", "start": 128.44, "end": 132.48}
+{"id": "HA6F4rcv2es-t132.48", "text": "Next, not next week, the week after the February 21st, we are going to show in the morning", "start": 132.48, "end": 140.24}
+{"id": "HA6F4rcv2es-t140.24", "text": "the documentary Particle Fever, and then in the afternoon we are going to have a roundtable", "start": 140.24, "end": 146.76000000000002}
+{"id": "HA6F4rcv2es-t146.76000000000002", "text": "with the title, The Quest.", "start": 146.76000000000002, "end": 149.92000000000002}
+{"id": "HA6F4rcv2es-t149.92000000000002", "text": "The participants of that are Sarah D'Amiro, Alberto Manguel, Gene Strauss, and Mark Levinson.", "start": 149.92000000000002, "end": 161.12}
+{"id": "HA6F4rcv2es-t161.12", "text": "Then on March 7th, we have a roundtable on consciousness, and David Chalmers from NYU", "start": 161.12, "end": 172.68}
+{"id": "HA6F4rcv2es-t172.68", "text": "called Friston from the University College London, Gabriel Jackson from Stony Brook, Pete", "start": 172.68, "end": 179.72}
+{"id": "HA6F4rcv2es-t179.72", "text": "Hott from Princeton, Ken Paller from Northwestern, and Nicholas Schiff from Cornell will be the", "start": 179.72, "end": 187.32}
+{"id": "HA6F4rcv2es-t187.32", "text": "participants of that.", "start": 187.32, "end": 190.92000000000002}
+{"id": "HA6F4rcv2es-t190.92", "text": "So today's roundtable is on the sublime experience, and I will read you briefly the bios of the", "start": 190.92, "end": 201.64}
+{"id": "HA6F4rcv2es-t201.64", "text": "participants.", "start": 201.64, "end": 203.2}
+{"id": "HA6F4rcv2es-t203.2", "text": "They are available on the website if you want to dig deeper into it.", "start": 203.2, "end": 208.35999999999999}
+{"id": "HA6F4rcv2es-t208.35999999999999", "text": "Paul Fry, sitting there, is the William Lamson, Professor of English at Yale.", "start": 208.35999999999999, "end": 216.92}
+{"id": "HA6F4rcv2es-t216.92", "text": "He was educated at UC Berkeley and Harvard.", "start": 216.92, "end": 220.6}
+{"id": "HA6F4rcv2es-t220.6", "text": "He's seven books and numerous articles cover many fields, the history of lyric, British", "start": 220.6, "end": 226.23999999999998}
+{"id": "HA6F4rcv2es-t226.23999999999998", "text": "romanticism, the history of criticism, the history of aesthetics, philosophy and literature,", "start": 226.23999999999998, "end": 232.72}
+{"id": "HA6F4rcv2es-t232.72", "text": "recent literary theory, and literature and the visual arts.", "start": 232.72, "end": 238.92}
+{"id": "HA6F4rcv2es-t238.92", "text": "I will stop there.", "start": 238.92, "end": 240.4}
+{"id": "HA6F4rcv2es-t240.4", "text": "That's about a quarter of what I have.", "start": 240.4, "end": 244.04}
+{"id": "HA6F4rcv2es-t244.04", "text": "James Judd, who is sitting here, is music director of the Israel Symphony and the Little", "start": 244.04, "end": 250.28}
+{"id": "HA6F4rcv2es-t250.28", "text": "Orchestra Society in New York.", "start": 250.28, "end": 255.16}
+{"id": "HA6F4rcv2es-t255.16", "text": "His previous directorship include the New Zealand Symphony, the Ochast National de Lille, Adelaide", "start": 255.16, "end": 261.92}
+{"id": "HA6F4rcv2es-t261.92", "text": "Symphony, and the Philharmonic Symphony.", "start": 261.92, "end": 265.72}
+{"id": "HA6F4rcv2es-t265.72", "text": "He's been a regular guest, conducted many orchestras around the globe, and he leads", "start": 265.72, "end": 271.76}
+{"id": "HA6F4rcv2es-t271.76", "text": "annual tour of Asia and the Asian Youth Society.", "start": 271.76, "end": 276.12}
+{"id": "HA6F4rcv2es-t276.12", "text": "And as an opera conductor, he's led the English National Opera, Glendenborn, and Florida Grand", "start": 276.12, "end": 282.6}
+{"id": "HA6F4rcv2es-t282.6", "text": "Opera.", "start": 282.6, "end": 283.6}
+{"id": "HA6F4rcv2es-t283.6", "text": "And again, I'll stop all the other major achievements.", "start": 283.6, "end": 289.84000000000003}
+{"id": "HA6F4rcv2es-t289.84000000000003", "text": "Alan Richardson, who is sitting there, is Professor of English at Boston College.", "start": 289.84000000000003, "end": 294.04}
+{"id": "HA6F4rcv2es-t294.04", "text": "He holds degrees in English from Princeton University and Harvard University.", "start": 294.04, "end": 298.28000000000003}
+{"id": "HA6F4rcv2es-t298.28000000000003", "text": "A romanticist by training, he has published extensively on the literature and culture", "start": 298.28000000000003, "end": 303.6}
+{"id": "HA6F4rcv2es-t303.6", "text": "of the British Romantic era, especially in relation to issues of education, race and colonialism", "start": 303.6, "end": 311.48}
+{"id": "HA6F4rcv2es-t311.48", "text": "and scientific psychology.", "start": 311.48, "end": 314.44}
+{"id": "HA6F4rcv2es-t314.44", "text": "He's devoted his research more recently on the intersections between literary studies", "start": 314.44, "end": 320.04}
+{"id": "HA6F4rcv2es-t320.04", "text": "and the sciences of mind and brain.", "start": 320.04, "end": 323.96000000000004}
+{"id": "HA6F4rcv2es-t323.96000000000004", "text": "And finally, Sandra Shabshay has a BA in intellectual history from Penn, from University of Penn's", "start": 323.96000000000004, "end": 333.32000000000005}
+{"id": "HA6F4rcv2es-t333.32", "text": "Pennsylvania and her PhD in philosophy from Columbia University.", "start": 333.32, "end": 338.48}
+{"id": "HA6F4rcv2es-t338.48", "text": "She's an associate professor of philosophy at Indiana University and her interest center", "start": 338.48, "end": 345.08}
+{"id": "HA6F4rcv2es-t345.08", "text": "on the 19th century German philosophy, especially Kant and Schopenhauer, as well as contemporary", "start": 345.08, "end": 351.36}
+{"id": "HA6F4rcv2es-t351.36", "text": "aesthetics and ethics.", "start": 351.36, "end": 354.12}
+{"id": "HA6F4rcv2es-t354.12", "text": "We had a fifth participant, Amir Exel, but unfortunately he fell yesterday on ice in", "start": 354.12, "end": 360.48}
+{"id": "HA6F4rcv2es-t360.48", "text": "Boston and broke his forearm so he won't be with us.", "start": 360.48, "end": 364.52000000000004}
+{"id": "HA6F4rcv2es-t364.52000000000004", "text": "Thank you.", "start": 364.52000000000004, "end": 365.52000000000004}
+{"id": "HA6F4rcv2es-t365.52000000000004", "text": "Well, I thought that perhaps I could get us started in a good philosophical fashion.", "start": 365.52000000000004, "end": 380.56}
+{"id": "HA6F4rcv2es-t380.56", "text": "I thought I would ask a definitional question of everyone.", "start": 380.56, "end": 386.08000000000004}
+{"id": "HA6F4rcv2es-t386.08", "text": "What is sublime experience or what is a sublime experience?", "start": 386.08, "end": 392.0}
+{"id": "HA6F4rcv2es-t392.0", "text": "Well, I'm glad you asked it that way because when I did my work on the sublime, it became", "start": 392.0, "end": 401.84}
+{"id": "HA6F4rcv2es-t401.84", "text": "clear to me that not everyone agrees that there is a sublime experience, but I do feel", "start": 401.84, "end": 406.59999999999997}
+{"id": "HA6F4rcv2es-t406.59999999999997", "text": "that there is one.", "start": 406.59999999999997, "end": 407.84}
+{"id": "HA6F4rcv2es-t407.84", "text": "So I like the way that your question is biased towards my physician if we have physicians.", "start": 407.84, "end": 414.08}
+{"id": "HA6F4rcv2es-t414.08", "text": "Some people think that the sublime is just a language game, what Wittgenstein would call", "start": 414.08, "end": 417.59999999999997}
+{"id": "HA6F4rcv2es-t417.59999999999997", "text": "a language game, a way of talking about certain class of experiences that we decide to label", "start": 417.59999999999997, "end": 422.15999999999997}
+{"id": "HA6F4rcv2es-t422.15999999999997", "text": "that way a rhetorical trope.", "start": 422.15999999999997, "end": 426.56}
+{"id": "HA6F4rcv2es-t426.56", "text": "But most sublime theories up to the 20th century clearly thought there was an experience of", "start": 426.56, "end": 431.71999999999997}
+{"id": "HA6F4rcv2es-t431.71999999999997", "text": "the sublime and something that you could feel before there was ever a word for it.", "start": 431.71999999999997, "end": 438.12}
+{"id": "HA6F4rcv2es-t438.12", "text": "I guess that that's what I feel just to start with, that it is an experience and it's an", "start": 438.12, "end": 444.0}
+{"id": "HA6F4rcv2es-t444.0", "text": "experience of, for me in brief, when you realize palpably, when you realize viscerally in", "start": 444.0, "end": 452.0}
+{"id": "HA6F4rcv2es-t452.0", "text": "your body as well as with all of your acting mind, that the world is greater than you have", "start": 452.0, "end": 459.32}
+{"id": "HA6F4rcv2es-t459.32", "text": "ever supposed than you can take in with your senses and with your cognition.", "start": 459.32, "end": 467.16}
+{"id": "HA6F4rcv2es-t467.16", "text": "It's an experience that's both cognitive, and emotional, and very powerful.", "start": 467.16, "end": 471.96000000000004}
+{"id": "HA6F4rcv2es-t471.96000000000004", "text": "And my guess is that many of these rooms feel that they have had such an experience.", "start": 471.96000000000004, "end": 476.24}
+{"id": "HA6F4rcv2es-t476.24", "text": "I know that I have.", "start": 476.24, "end": 480.92}
+{"id": "HA6F4rcv2es-t480.92", "text": "I do think that there is certainly a sublime experience.", "start": 480.92, "end": 485.44000000000005}
+{"id": "HA6F4rcv2es-t485.44000000000005", "text": "I think that the terms for it have varied in history and that the sublime experience", "start": 485.44000000000005, "end": 496.08000000000004}
+{"id": "HA6F4rcv2es-t496.08", "text": "as the response initially in a state of fear, then in a state of recovery, and in a certain", "start": 496.08, "end": 505.12}
+{"id": "HA6F4rcv2es-t505.12", "text": "sense after that, a state of possession, that is to say possession of the experience, but", "start": 505.12, "end": 511.56}
+{"id": "HA6F4rcv2es-t511.56", "text": "at the same time possibly being possessed by the experience, I think flourishes particularly", "start": 511.56, "end": 519.88}
+{"id": "HA6F4rcv2es-t519.88", "text": "in the 18th century.", "start": 519.88, "end": 523.8}
+{"id": "HA6F4rcv2es-t523.8", "text": "The terms sublime applies most recognizably to that experience then, and that as one moves", "start": 523.8, "end": 532.92}
+{"id": "HA6F4rcv2es-t532.92", "text": "into the 19th century, partly owing to Kant's third critique, but perhaps not as much of", "start": 532.92, "end": 543.64}
+{"id": "HA6F4rcv2es-t543.64", "text": "influence as the zeitgeist or whatever.", "start": 543.64, "end": 548.4799999999999}
+{"id": "HA6F4rcv2es-t548.48", "text": "In my own view, the experience or becoming aware of the imagination, that is to say,", "start": 548.48, "end": 557.16}
+{"id": "HA6F4rcv2es-t557.16", "text": "an internal faculty, that one is alerted to by the experience of something almost incommensurable", "start": 557.16, "end": 565.04}
+{"id": "HA6F4rcv2es-t565.04", "text": "in the external world, replaces the sublime, and that the word sublime as it's used in", "start": 565.04, "end": 573.04}
+{"id": "HA6F4rcv2es-t573.04", "text": "the rheumatic period becomes a little more casual, sometimes it even means chemical sublimation", "start": 573.04, "end": 580.3199999999999}
+{"id": "HA6F4rcv2es-t580.3199999999999", "text": "as when Byron calls a rascal, rapscallion of a lawyer, the sublime of rascals.", "start": 580.3199999999999, "end": 589.0}
+{"id": "HA6F4rcv2es-t589.0", "text": "That's a chemical term, the pure distillation of rascals.", "start": 589.0, "end": 597.36}
+{"id": "HA6F4rcv2es-t597.36", "text": "And then I think that since then, and this is something I'm going to stop and need to", "start": 597.36, "end": 602.0799999999999}
+{"id": "HA6F4rcv2es-t602.08", "text": "talk about, well I think that since then, the experience itself has become more unstable.", "start": 602.08, "end": 608.88}
+{"id": "HA6F4rcv2es-t608.88", "text": "In Freud, I think that a comparable sort of experience is the uncanny, and that's something", "start": 608.88, "end": 616.44}
+{"id": "HA6F4rcv2es-t616.44", "text": "we might want to come back to as well.", "start": 616.44, "end": 620.12}
+{"id": "HA6F4rcv2es-t620.12", "text": "And there are other aesthetic categories as described in the 20th and 21st century that", "start": 620.12, "end": 627.36}
+{"id": "HA6F4rcv2es-t627.36", "text": "in various ways may be encroached on what we mean by the sublime without taking away", "start": 627.36, "end": 632.8000000000001}
+{"id": "HA6F4rcv2es-t632.8000000000001", "text": "the fact that there is such an experience, so I've gone on too much.", "start": 632.8000000000001, "end": 638.64}
+{"id": "HA6F4rcv2es-t638.64", "text": "Well I think from my experience as a musician, I would veg as a suggestion, is that me?", "start": 638.64, "end": 645.6800000000001}
+{"id": "HA6F4rcv2es-t645.6800000000001", "text": "It seems to me that I'm growling and I don't mean to, that perhaps the sublime is easiest", "start": 645.6800000000001, "end": 653.28}
+{"id": "HA6F4rcv2es-t653.28", "text": "to be accessed through music, that I remember my experiences as a very small child, not", "start": 653.28, "end": 660.9599999999999}
+{"id": "HA6F4rcv2es-t660.9599999999999", "text": "being aware of particularly what I was listening to, some great works of music, great choral", "start": 660.9599999999999, "end": 666.28}
+{"id": "HA6F4rcv2es-t666.28", "text": "works, great bah.", "start": 666.28, "end": 668.36}
+{"id": "HA6F4rcv2es-t668.36", "text": "Then later, realizing that that music had transported me in a special way, that's right", "start": 668.36, "end": 675.64}
+{"id": "HA6F4rcv2es-t675.64", "text": "up to now I'm trying to analyze and understand, but I think that through great music, and", "start": 675.64, "end": 684.28}
+{"id": "HA6F4rcv2es-t684.28", "text": "I think we could all agree on certain pieces of great music, we can find the sublime, access", "start": 684.28, "end": 692.08}
+{"id": "HA6F4rcv2es-t692.08", "text": "the sublime.", "start": 692.08, "end": 694.08}
+{"id": "HA6F4rcv2es-t694.08", "text": "Well, now you have to.", "start": 694.08, "end": 696.68}
+{"id": "HA6F4rcv2es-t696.68", "text": "Oh, I know I understand some of my own questions.", "start": 696.68, "end": 700.84}
+{"id": "HA6F4rcv2es-t700.84", "text": "I think I also agree that there is such a thing as sublime experience and that it has", "start": 700.84, "end": 708.4}
+{"id": "HA6F4rcv2es-t708.4", "text": "a certain character to it that makes it distinctive.", "start": 708.4, "end": 714.6800000000001}
+{"id": "HA6F4rcv2es-t714.6800000000001", "text": "I also think that the term sublime as you, Lutupal, has become stretched in various ways", "start": 714.6800000000001, "end": 724.12}
+{"id": "HA6F4rcv2es-t724.12", "text": "to sort of take on perhaps an experience of horror on canny and actually one of the art", "start": 724.12, "end": 732.92}
+{"id": "HA6F4rcv2es-t732.92", "text": "critics for the New Yorker whose last name I can't pronounce very well.", "start": 732.92, "end": 737.12}
+{"id": "HA6F4rcv2es-t737.12", "text": "That's it, Peter Shallow said in response to an exhibit of works by Casper David Friedrich", "start": 737.12, "end": 747.16}
+{"id": "HA6F4rcv2es-t747.16", "text": "that the sublime doesn't mean anything today, that it's been stretched too far.", "start": 747.16, "end": 754.4399999999999}
+{"id": "HA6F4rcv2es-t754.4399999999999", "text": "And so one of the things that I've actually been working on in contemporary aesthetics", "start": 754.4399999999999, "end": 757.48}
+{"id": "HA6F4rcv2es-t757.48", "text": "is to come up with some sense of the concept of the sublime response that has a certain", "start": 757.48, "end": 767.0799999999999}
+{"id": "HA6F4rcv2es-t767.0799999999999", "text": "shape to it and doesn't fall victim to Chaldal's charge that I think he said something like", "start": 767.0799999999999, "end": 774.88}
+{"id": "HA6F4rcv2es-t774.88", "text": "it's the sublime has had 200 years to start meaning something coherent and it has failed.", "start": 774.88, "end": 780.84}
+{"id": "HA6F4rcv2es-t780.84", "text": "But I would say that there really is a category, a set of category that makes sense, that is", "start": 780.84, "end": 788.4}
+{"id": "HA6F4rcv2es-t788.4", "text": "kind of a mixed pleasureful experience in the 18th century when the category came to", "start": 788.4, "end": 798.4399999999999}
+{"id": "HA6F4rcv2es-t798.44", "text": "be significantly theorized it was seen as kind of the whole of beauty.", "start": 798.44, "end": 805.0}
+{"id": "HA6F4rcv2es-t805.0", "text": "So beauty was seen as largely very pleasurable, tranquil experience often of smooth or polished", "start": 805.0, "end": 814.44}
+{"id": "HA6F4rcv2es-t814.44", "text": "formed, beautiful formed objects and the sublime was seen as kind of a more painful", "start": 814.44, "end": 820.7600000000001}
+{"id": "HA6F4rcv2es-t820.76", "text": "tumultuous experience of often formless or vast overwhelming kinds of a paradigmatically", "start": 820.76, "end": 831.96}
+{"id": "HA6F4rcv2es-t831.96", "text": "natural objects or scenes.", "start": 831.96, "end": 835.56}
+{"id": "HA6F4rcv2es-t835.56", "text": "But it seems to me that there still is a kind of experience of being overwhelmed that is", "start": 835.56, "end": 840.64}
+{"id": "HA6F4rcv2es-t840.64", "text": "both it's painful and it's also pleasurable that we still feel today that answers to the", "start": 840.64, "end": 850.36}
+{"id": "HA6F4rcv2es-t850.36", "text": "concept of sublime.", "start": 850.36, "end": 854.12}
+{"id": "HA6F4rcv2es-t854.12", "text": "If I could respond to where you started Sandra, I don't think it's such a concern that terms", "start": 854.12, "end": 860.16}
+{"id": "HA6F4rcv2es-t860.16", "text": "and concepts get stretched out because that's what we do as language users.", "start": 860.16, "end": 865.2}
+{"id": "HA6F4rcv2es-t865.2", "text": "We try them out in new contexts and we stretch them out as long as it's not really a problem", "start": 865.2, "end": 869.84}
+{"id": "HA6F4rcv2es-t869.84", "text": "as long as we have central examples.", "start": 869.84, "end": 873.5600000000001}
+{"id": "HA6F4rcv2es-t873.5600000000001", "text": "So we can talk about an examining table and we can talk about a massage table but we", "start": 873.5600000000001, "end": 880.28}
+{"id": "HA6F4rcv2es-t880.28", "text": "still know that what a table is and this is our central example is something like this.", "start": 880.28, "end": 886.4399999999999}
+{"id": "HA6F4rcv2es-t886.4399999999999", "text": "So if everybody had a paradigmatic example of the sublime experience that might help", "start": 886.4399999999999, "end": 892.88}
+{"id": "HA6F4rcv2es-t892.88", "text": "us.", "start": 892.88, "end": 893.88}
+{"id": "HA6F4rcv2es-t893.88", "text": "Obviously James has already given us his.", "start": 893.88, "end": 896.8}
+{"id": "HA6F4rcv2es-t896.8", "text": "It's listening to what Mollers ninth or Beethoven's ninth.", "start": 896.8, "end": 901.0799999999999}
+{"id": "HA6F4rcv2es-t901.0799999999999", "text": "Yes and the moment when the audience comes to tears for me it would be being really high", "start": 901.0799999999999, "end": 908.48}
+{"id": "HA6F4rcv2es-t908.48", "text": "up in the mountains and being able to see range after range after range of mountains", "start": 908.48, "end": 914.08}
+{"id": "HA6F4rcv2es-t914.08", "text": "all around me and be completely unable to take it all in and yet sort of in awe of this.", "start": 914.08, "end": 921.6800000000001}
+{"id": "HA6F4rcv2es-t921.6800000000001", "text": "I still really like the natural supply.", "start": 921.6800000000001, "end": 925.16}
+{"id": "HA6F4rcv2es-t925.16", "text": "Do you have a central example?", "start": 925.16, "end": 928.16}
+{"id": "HA6F4rcv2es-t928.16", "text": "Paul, I would be perfectly happy with yours and it's interesting of course that in the", "start": 928.16, "end": 932.32}
+{"id": "HA6F4rcv2es-t932.32", "text": "development of landscape painting the Dutch in particular specialized in extended prospects", "start": 932.32, "end": 938.6800000000001}
+{"id": "HA6F4rcv2es-t938.6800000000001", "text": "that were just like that painted from a high angle so that you saw against the across the", "start": 938.6800000000001, "end": 946.1600000000001}
+{"id": "HA6F4rcv2es-t946.1600000000001", "text": "flat country of Holland through innumerable villages and spires becoming smaller and smaller", "start": 946.1600000000001, "end": 952.6400000000001}
+{"id": "HA6F4rcv2es-t952.6400000000001", "text": "in the distance and finally arriving at what might be the sea but is so far away that it's", "start": 952.6400000000001, "end": 959.36}
+{"id": "HA6F4rcv2es-t959.36", "text": "difficult to tell.", "start": 959.36, "end": 961.8000000000001}
+{"id": "HA6F4rcv2es-t961.8", "text": "I certainly agree that that's a central experience of the natural sublime on this opposition", "start": 961.8, "end": 969.8399999999999}
+{"id": "HA6F4rcv2es-t969.8399999999999", "text": "that the sublime is in the world and not in our head.", "start": 969.8399999999999, "end": 973.76}
+{"id": "HA6F4rcv2es-t973.76", "text": "I think that already we're coming to the point where the question of whether the sublime", "start": 973.76, "end": 981.76}
+{"id": "HA6F4rcv2es-t981.76", "text": "is bound to be very large or bound less, it already becomes a matter of interest because", "start": 981.76, "end": 994.24}
+{"id": "HA6F4rcv2es-t994.24", "text": "to speak of the shape of the sublime experience I think is right the experience itself does", "start": 994.24, "end": 999.84}
+{"id": "HA6F4rcv2es-t999.84", "text": "have a shape but the sublime the catalyst that which gives rise to the experience is", "start": 999.84, "end": 1010.98}
+{"id": "HA6F4rcv2es-t1010.98", "text": "arguably and it depends who you listen to either almost infinite but still finite that", "start": 1010.98, "end": 1019.24}
+{"id": "HA6F4rcv2es-t1019.24", "text": "is to say an object in the external world or something that we think or constitute in", "start": 1019.24, "end": 1027.24}
+{"id": "HA6F4rcv2es-t1027.24", "text": "our minds as the infinite because of course we don't know the infinite in the external", "start": 1027.24, "end": 1032.44}
+{"id": "HA6F4rcv2es-t1032.44", "text": "world and this is one of the controversies about the sublime and it's very interesting", "start": 1032.44, "end": 1039.92}
+{"id": "HA6F4rcv2es-t1039.92", "text": "that even people who modern critics and thinkers who theorize about the sublime seem not altered", "start": 1039.92, "end": 1048.04}
+{"id": "HA6F4rcv2es-t1048.04", "text": "to get altogether to agree on it.", "start": 1048.04, "end": 1050.0800000000002}
+{"id": "HA6F4rcv2es-t1050.0800000000002", "text": "There's a book by Stephen Knapp of Professor Berkeley called Personification and the Sublime", "start": 1050.0800000000002, "end": 1057.28}
+{"id": "HA6F4rcv2es-t1057.28", "text": "that supposes sublime objects including supernatural beings, even human beings to have a finite", "start": 1057.28, "end": 1067.5600000000002}
+{"id": "HA6F4rcv2es-t1067.5600000000002", "text": "outline.", "start": 1067.5600000000002, "end": 1068.5600000000002}
+{"id": "HA6F4rcv2es-t1068.56", "text": "We recognize them in the form of their personification, a device or technique that we associate with", "start": 1068.56, "end": 1076.76}
+{"id": "HA6F4rcv2es-t1076.76", "text": "allegory so in some sense we can see them clearly.", "start": 1076.76, "end": 1082.28}
+{"id": "HA6F4rcv2es-t1082.28", "text": "In that case if you take built as your sublime literary text, Barak Solance who'd say well", "start": 1082.28, "end": 1087.84}
+{"id": "HA6F4rcv2es-t1087.84", "text": "Satan is the sublime figure because Satan is a being that you can see but you're mistaken", "start": 1087.84, "end": 1095.84}
+{"id": "HA6F4rcv2es-t1095.84", "text": "if you think you know what the real extent of his magnitude is and we can come back to", "start": 1095.84, "end": 1102.56}
+{"id": "HA6F4rcv2es-t1102.56", "text": "that I don't want to dwell over it for the moment.", "start": 1102.56, "end": 1104.6399999999999}
+{"id": "HA6F4rcv2es-t1104.6399999999999", "text": "What I wanted to say for the moment was if on the other hand you think of the figures", "start": 1104.6399999999999, "end": 1111.04}
+{"id": "HA6F4rcv2es-t1111.04", "text": "of sin and death in Milton, not so much Satan but the figures of sin and death you see that", "start": 1111.04, "end": 1118.48}
+{"id": "HA6F4rcv2es-t1118.48", "text": "Milton's whole point about them is that they're shapeless.", "start": 1118.48, "end": 1123.4399999999998}
+{"id": "HA6F4rcv2es-t1123.44", "text": "Their magnitude is communicated as that which is boundless and has no form.", "start": 1123.44, "end": 1130.3200000000002}
+{"id": "HA6F4rcv2es-t1130.3200000000002", "text": "An underlying question for me in thinking about this and it may have to do with the relation", "start": 1130.3200000000002, "end": 1134.96}
+{"id": "HA6F4rcv2es-t1134.96", "text": "between the sublime and the science is the question of whether the sublime as it were", "start": 1134.96, "end": 1141.88}
+{"id": "HA6F4rcv2es-t1141.88", "text": "has a form.", "start": 1141.88, "end": 1143.1200000000001}
+{"id": "HA6F4rcv2es-t1143.1200000000001", "text": "Well can I follow through on that?", "start": 1143.1200000000001, "end": 1146.76}
+{"id": "HA6F4rcv2es-t1146.76", "text": "You mentioned Beethoven.", "start": 1146.76, "end": 1147.76}
+{"id": "HA6F4rcv2es-t1147.76", "text": "Let's think of a piece we all know probably Beethoven's Ninth Symphony and I mentioned", "start": 1147.76, "end": 1154.32}
+{"id": "HA6F4rcv2es-t1154.32", "text": "this for a few reasons.", "start": 1154.32, "end": 1156.24}
+{"id": "HA6F4rcv2es-t1156.24", "text": "You look at the score, I've had the manuscript or the notebook in my hands from a library", "start": 1156.24, "end": 1161.32}
+{"id": "HA6F4rcv2es-t1161.32", "text": "and cracker, but the score of Beethoven's Ninth Symphony you see something incredibly", "start": 1161.32, "end": 1165.08}
+{"id": "HA6F4rcv2es-t1165.08", "text": "structured and perfectly formed in the hands of a great interpreter and I think the sublime", "start": 1165.08, "end": 1172.32}
+{"id": "HA6F4rcv2es-t1172.32", "text": "in Beethoven's Ninth needs a great interpreter.", "start": 1172.32, "end": 1176.16}
+{"id": "HA6F4rcv2es-t1176.16", "text": "For example, Foutvegler, if you listen to the recordings of Foutvegler live of Beethoven's", "start": 1176.16, "end": 1181.76}
+{"id": "HA6F4rcv2es-t1181.76", "text": "Ninth Symphony, he transports this formal structure into something that at the end of", "start": 1181.76, "end": 1187.52}
+{"id": "HA6F4rcv2es-t1187.52", "text": "his performance, his particular performance, he goes beyond the pain barrier in terms", "start": 1187.52, "end": 1192.52}
+{"id": "HA6F4rcv2es-t1192.52", "text": "of tempo and in terms of spiritual ecstasy and takes us into something that's completely", "start": 1192.52, "end": 1199.28}
+{"id": "HA6F4rcv2es-t1199.28", "text": "eternal I think.", "start": 1199.28, "end": 1201.24}
+{"id": "HA6F4rcv2es-t1201.24", "text": "And yet interestingly, I mean, Vagner talked a lot about Beethoven.", "start": 1201.24, "end": 1208.16}
+{"id": "HA6F4rcv2es-t1208.16", "text": "Foutvegler, the great Wagner interpreter, Beethoven interpreter read much or thought", "start": 1208.16, "end": 1216.16}
+{"id": "HA6F4rcv2es-t1216.16", "text": "about his interpretations through the writings of Schopenhauer for example, both Wagner and", "start": 1216.16, "end": 1221.68}
+{"id": "HA6F4rcv2es-t1221.68", "text": "Foutvegler.", "start": 1221.68, "end": 1222.68}
+{"id": "HA6F4rcv2es-t1222.68", "text": "And so what I think music needs is music is not on the piece of paper sublime.", "start": 1222.68, "end": 1231.2}
+{"id": "HA6F4rcv2es-t1231.2", "text": "It needs great interpretation because Beethoven's Ninth can sound perfectly pedantic.", "start": 1231.2, "end": 1236.92}
+{"id": "HA6F4rcv2es-t1236.92", "text": "Well, one thing that also might be...", "start": 1236.92, "end": 1242.8}
+{"id": "HA6F4rcv2es-t1242.8", "text": "Is the distinction that made in the Third Critique between the mathematical and the dynamical", "start": 1242.8, "end": 1249.92}
+{"id": "HA6F4rcv2es-t1249.92", "text": "sublime.", "start": 1249.92, "end": 1251.42}
+{"id": "HA6F4rcv2es-t1251.42", "text": "So the mathematical sublime deals with vast formless objects or expenses, possibly expenses", "start": 1251.42, "end": 1258.92}
+{"id": "HA6F4rcv2es-t1258.92", "text": "of time and the dynamical sublime is about great power and sort of overwhelming power", "start": 1258.92, "end": 1270.0}
+{"id": "HA6F4rcv2es-t1270.0", "text": "dominance.", "start": 1270.0, "end": 1273.3600000000001}
+{"id": "HA6F4rcv2es-t1273.36", "text": "And so in some ways, one might think that an experience of a particularly sublime interpretation", "start": 1273.36, "end": 1282.0}
+{"id": "HA6F4rcv2es-t1282.0", "text": "of Beethoven's Ninth would trigger more of the dynamical sort of sublime so that one is", "start": 1282.0, "end": 1290.32}
+{"id": "HA6F4rcv2es-t1290.32", "text": "experiencing kind of being overwhelmed by some kind of power or emotional expression.", "start": 1290.32, "end": 1300.28}
+{"id": "HA6F4rcv2es-t1300.28", "text": "And perhaps it's not, in that case, it's not a kind of sublime that answers to the more", "start": 1300.28, "end": 1305.76}
+{"id": "HA6F4rcv2es-t1305.76", "text": "mathematical vastness.", "start": 1305.76, "end": 1306.76}
+{"id": "HA6F4rcv2es-t1306.76", "text": "That's interesting because there is a work by Schokhausen for three orchestras written", "start": 1306.76, "end": 1312.68}
+{"id": "HA6F4rcv2es-t1312.68", "text": "in 1954 which is incredibly complex because it's written on the 12-tone scale.", "start": 1312.68, "end": 1318.68}
+{"id": "HA6F4rcv2es-t1318.68", "text": "But every dynamic is controlled by mathematics.", "start": 1318.68, "end": 1322.12}
+{"id": "HA6F4rcv2es-t1322.12", "text": "Every note is controlled by mathematics.", "start": 1322.12, "end": 1324.3999999999999}
+{"id": "HA6F4rcv2es-t1324.3999999999999", "text": "The instrumentation, three different orchestras placed around the hall, very complicated for", "start": 1324.3999999999999, "end": 1329.96}
+{"id": "HA6F4rcv2es-t1329.96", "text": "the conductor because you have three conductors.", "start": 1329.96, "end": 1333.3600000000001}
+{"id": "HA6F4rcv2es-t1333.3600000000001", "text": "Each orchestra is playing at different tempers.", "start": 1333.3600000000001, "end": 1335.3600000000001}
+{"id": "HA6F4rcv2es-t1335.3600000000001", "text": "But it's perfect mathematically and it's so, so satisfying.", "start": 1335.3600000000001, "end": 1341.72}
+{"id": "HA6F4rcv2es-t1341.72", "text": "So that's probably an example of music that you can just look at as a trained musician", "start": 1341.72, "end": 1348.48}
+{"id": "HA6F4rcv2es-t1348.48", "text": "and find the sublime mathematical purity.", "start": 1348.48, "end": 1353.56}
+{"id": "HA6F4rcv2es-t1353.56", "text": "Go and listen to it if you don't know.", "start": 1353.56, "end": 1355.8400000000001}
+{"id": "HA6F4rcv2es-t1355.8400000000001", "text": "It's a challenging piece but it's wonderful.", "start": 1355.8400000000001, "end": 1358.72}
+{"id": "HA6F4rcv2es-t1358.72", "text": "Yeah, really wonderful.", "start": 1358.72, "end": 1360.6000000000001}
+{"id": "HA6F4rcv2es-t1360.6000000000001", "text": "A pioneering thinker concerning the sublime was a Greek teacher of Roman youth preparing", "start": 1360.6000000000001, "end": 1370.96}
+{"id": "HA6F4rcv2es-t1370.96", "text": "to enter into civic life somewhere between the third century named Lunginus.", "start": 1370.96, "end": 1377.48}
+{"id": "HA6F4rcv2es-t1377.48", "text": "And he wrote a treatise called On the Sublime.", "start": 1377.48, "end": 1382.6000000000001}
+{"id": "HA6F4rcv2es-t1382.6000000000001", "text": "And he distinguishes there in ways that aren't, I think, fully analogous with Kant's mathematical", "start": 1382.6000000000001, "end": 1388.16}
+{"id": "HA6F4rcv2es-t1388.16", "text": "and dynamic but at the same time rather interesting.", "start": 1388.16, "end": 1391.92}
+{"id": "HA6F4rcv2es-t1391.92", "text": "On the one hand, there's the sort of power expressed by the tearing apart of the fabric", "start": 1391.92, "end": 1399.52}
+{"id": "HA6F4rcv2es-t1399.52", "text": "of language through rhetorical devices, an opening of a gap or wound in ordinary discourse", "start": 1399.52, "end": 1408.3600000000001}
+{"id": "HA6F4rcv2es-t1408.3600000000001", "text": "where somehow what he calls visualization or the experience of something arresting or", "start": 1408.3600000000001, "end": 1417.0400000000002}
+{"id": "HA6F4rcv2es-t1417.04", "text": "terrifying from the outside emerges.", "start": 1417.04, "end": 1421.6399999999999}
+{"id": "HA6F4rcv2es-t1421.6399999999999", "text": "And on the other hand, he speaks also of a sublime experience that one has if one's an", "start": 1421.6399999999999, "end": 1429.12}
+{"id": "HA6F4rcv2es-t1429.12", "text": "auditor of Demosthenes being as he puts it, hit over the head again and again and again", "start": 1429.12, "end": 1436.84}
+{"id": "HA6F4rcv2es-t1436.84", "text": "and again.", "start": 1436.84, "end": 1438.04}
+{"id": "HA6F4rcv2es-t1438.04", "text": "In other words, with Demosthenes, it's a matter of sustaining the experience of being overwhelmed.", "start": 1438.04, "end": 1445.52}
+{"id": "HA6F4rcv2es-t1445.52", "text": "In other sorts of rhetorical experience, it's a matter of a sudden tearing apart of the", "start": 1445.52, "end": 1451.08}
+{"id": "HA6F4rcv2es-t1451.08", "text": "fabric of the experience which he calls persuasion or the coherence of an argument that can be", "start": 1451.08, "end": 1459.28}
+{"id": "HA6F4rcv2es-t1459.28", "text": "very exciting and compel us because it is coherent.", "start": 1459.28, "end": 1462.6399999999999}
+{"id": "HA6F4rcv2es-t1462.6399999999999", "text": "But at the same time, this sort of experience tears that apart leaving a sudden rift or", "start": 1462.6399999999999, "end": 1468.8}
+{"id": "HA6F4rcv2es-t1468.8", "text": "gap through which as he puts it, the experience of the sublime floods.", "start": 1468.8, "end": 1482.32}
+{"id": "HA6F4rcv2es-t1482.32", "text": "I just taught Lon Jaines to my undergraduates and one of the things that always interests", "start": 1482.32, "end": 1487.96}
+{"id": "HA6F4rcv2es-t1487.96", "text": "me when I teach that piece is at the end of it, he starts this discussion or picks up", "start": 1487.96, "end": 1494.48}
+{"id": "HA6F4rcv2es-t1494.48", "text": "discussion that he's had already with someone else about what kind of society fosters the", "start": 1494.48, "end": 1500.1200000000001}
+{"id": "HA6F4rcv2es-t1500.1200000000001", "text": "sublime.", "start": 1500.1200000000001, "end": 1501.1200000000001}
+{"id": "HA6F4rcv2es-t1501.1200000000001", "text": "So apparently, there are certain societies that foster more sublimity than others and", "start": 1501.1200000000001, "end": 1506.28}
+{"id": "HA6F4rcv2es-t1506.28", "text": "he wonders at first, is it that democratic societies and he's thinking of Athenian democracy.", "start": 1506.28, "end": 1513.16}
+{"id": "HA6F4rcv2es-t1513.16", "text": "That's what fosters the sublime.", "start": 1513.16, "end": 1514.72}
+{"id": "HA6F4rcv2es-t1514.72", "text": "But he says, no, what I really think is that affluent societies like ours, where people", "start": 1514.72, "end": 1521.24}
+{"id": "HA6F4rcv2es-t1521.24", "text": "get very interested in consumer goods, what we would call consumer goods, money, those", "start": 1521.24, "end": 1527.0}
+{"id": "HA6F4rcv2es-t1527.0", "text": "people are so preoccupied with mean thoughts of things.", "start": 1527.0, "end": 1534.4}
+{"id": "HA6F4rcv2es-t1534.4", "text": "Lon Jaines says at the beginning, if it's treated as anything that it's cool to despise", "start": 1534.4, "end": 1538.96}
+{"id": "HA6F4rcv2es-t1538.96", "text": "can't be sublime.", "start": 1538.96, "end": 1540.1200000000001}
+{"id": "HA6F4rcv2es-t1540.1200000000001", "text": "So it's cool to despise money.", "start": 1540.1200000000001, "end": 1542.16}
+{"id": "HA6F4rcv2es-t1542.16", "text": "We all know that it's a bit so that it can't be sublime.", "start": 1542.16, "end": 1545.68}
+{"id": "HA6F4rcv2es-t1545.68", "text": "So a money society has much less sublimity than a society that prizes genius and characters.", "start": 1545.68, "end": 1554.92}
+{"id": "HA6F4rcv2es-t1554.92", "text": "So I don't know what people think of that.", "start": 1554.92, "end": 1558.64}
+{"id": "HA6F4rcv2es-t1558.64", "text": "Maybe that's the problem, not that we've defined a sublime too thinly, but that we're", "start": 1558.64, "end": 1564.8}
+{"id": "HA6F4rcv2es-t1564.8", "text": "addicted to consumer goods and we've seen too many ads that say a cigar is sublime.", "start": 1564.8, "end": 1571.8}
+{"id": "HA6F4rcv2es-t1571.8", "text": "Do you remember that one?", "start": 1571.8, "end": 1577.08}
+{"id": "HA6F4rcv2es-t1577.08", "text": "You have to be a certain age.", "start": 1577.08, "end": 1579.04}
+{"id": "HA6F4rcv2es-t1579.04", "text": "Back when they could advertise cigars that way.", "start": 1579.04, "end": 1583.52}
+{"id": "HA6F4rcv2es-t1583.52", "text": "Is there anything to that?", "start": 1583.52, "end": 1585.36}
+{"id": "HA6F4rcv2es-t1585.36", "text": "I think so.", "start": 1585.36, "end": 1587.36}
+{"id": "HA6F4rcv2es-t1587.36", "text": "Actually, I go back to Kant a lot.", "start": 1587.36, "end": 1589.76}
+{"id": "HA6F4rcv2es-t1589.76", "text": "I think Kant had a very nice way of understanding the sublime.", "start": 1589.76, "end": 1594.32}
+{"id": "HA6F4rcv2es-t1594.32", "text": "And one of the key analyses that he gave was that in contrast to the beautiful, which", "start": 1594.32, "end": 1602.52}
+{"id": "HA6F4rcv2es-t1602.52", "text": "is a kind of experience of proposiveness, of a sort of being at home in the world where", "start": 1602.52, "end": 1608.56}
+{"id": "HA6F4rcv2es-t1608.56", "text": "things accommodate themselves to you.", "start": 1608.56, "end": 1610.96}
+{"id": "HA6F4rcv2es-t1610.96", "text": "Their forms are comprehensible and one can sort of slip easily into a kind of tranquil", "start": 1610.96, "end": 1617.76}
+{"id": "HA6F4rcv2es-t1617.76", "text": "free play of the intellectual faculties in the beautiful.", "start": 1617.76, "end": 1622.84}
+{"id": "HA6F4rcv2es-t1622.84", "text": "The sublime is an experience of contra-proposiveness where you do not feel at home in the world,", "start": 1622.84, "end": 1630.9199999999998}
+{"id": "HA6F4rcv2es-t1630.9199999999998", "text": "where things are difficult, they challenge you, where the paradigmatic for Kant, the", "start": 1630.9199999999998, "end": 1638.9199999999998}
+{"id": "HA6F4rcv2es-t1638.9199999999998", "text": "environment is hostile in a way either to our intellectual faculties, hostile to comprehension", "start": 1638.9199999999998, "end": 1646.72}
+{"id": "HA6F4rcv2es-t1646.72", "text": "or hostile to us existentially.", "start": 1646.72, "end": 1649.36}
+{"id": "HA6F4rcv2es-t1649.36", "text": "So I do think the sublime does seem to be a kind of experience where one is being challenged", "start": 1649.36, "end": 1658.4399999999998}
+{"id": "HA6F4rcv2es-t1658.4399999999998", "text": "in some way.", "start": 1658.4399999999998, "end": 1659.52}
+{"id": "HA6F4rcv2es-t1659.52", "text": "So if things are too comfortable, if your environment has been made so comfortable through consumer", "start": 1659.52, "end": 1665.6799999999998}
+{"id": "HA6F4rcv2es-t1665.6799999999998", "text": "goods, you're feeling pretty at home in the world where the sublime is a kind of, at least", "start": 1665.6799999999998, "end": 1674.52}
+{"id": "HA6F4rcv2es-t1674.52", "text": "according to Kant, kind of feeling not quite at home, which leads one to, so that's the", "start": 1674.52, "end": 1680.6399999999999}
+{"id": "HA6F4rcv2es-t1680.6399999999999", "text": "painful aspect of it, the experience of a person's or human limits, limits to our cognitive", "start": 1680.6399999999999, "end": 1686.16}
+{"id": "HA6F4rcv2es-t1686.16", "text": "abilities and limits to our, but to our very own existence or our own power.", "start": 1686.16, "end": 1692.56}
+{"id": "HA6F4rcv2es-t1692.56", "text": "So you're rooting for more snow right now, as well?", "start": 1692.56, "end": 1697.6}
+{"id": "HA6F4rcv2es-t1697.6", "text": "Now you know who to blame.", "start": 1697.6, "end": 1699.08}
+{"id": "HA6F4rcv2es-t1699.08", "text": "That's right.", "start": 1699.08, "end": 1700.08}
+{"id": "HA6F4rcv2es-t1700.08", "text": "Yeah, it's true though.", "start": 1700.08, "end": 1701.08}
+{"id": "HA6F4rcv2es-t1701.08", "text": "I think here in New York, if we had three feet of snow, we might have a greater chance", "start": 1701.08, "end": 1706.1599999999999}
+{"id": "HA6F4rcv2es-t1706.1599999999999", "text": "of an actual experience of the sublime rather than.", "start": 1706.1599999999999, "end": 1709.12}
+{"id": "HA6F4rcv2es-t1709.12", "text": "Some don't allow that the music of Marla, you mentioned earlier, it can be sublime because", "start": 1709.12, "end": 1714.4399999999998}
+{"id": "HA6F4rcv2es-t1714.4399999999998", "text": "Marla is so earthbound with tragedy and with the personal battle and so on.", "start": 1714.4399999999998, "end": 1721.36}
+{"id": "HA6F4rcv2es-t1721.36", "text": "But I've always found that repetition that you get in Marla sometimes of banality and", "start": 1721.36, "end": 1728.48}
+{"id": "HA6F4rcv2es-t1728.48", "text": "of struggle releases something just so moving and profound.", "start": 1728.48, "end": 1733.64}
+{"id": "HA6F4rcv2es-t1733.64", "text": "And I was thinking, as you all speaking, about a book I was just reading by a fantastic historian", "start": 1733.64, "end": 1739.88}
+{"id": "HA6F4rcv2es-t1739.88", "text": "Brian Moynihan about the Leningrad Symphony of Schostakovich and about the circumstances", "start": 1739.88, "end": 1746.76}
+{"id": "HA6F4rcv2es-t1746.76", "text": "historically surrounding the siege of Leningrad.", "start": 1746.76, "end": 1749.16}
+{"id": "HA6F4rcv2es-t1749.16", "text": "I mean, it's too horrific, but I do recommend the book, Siege and Symphony.", "start": 1749.16, "end": 1754.0}
+{"id": "HA6F4rcv2es-t1754.0", "text": "And thinking about the seventh symphony of Schostakovich, I don't know whether any of you know,", "start": 1754.0, "end": 1758.64}
+{"id": "HA6F4rcv2es-t1758.64", "text": "in the first movement, that is a prolonged, I say prolonged, ten minutes of side drum,", "start": 1758.64, "end": 1764.36}
+{"id": "HA6F4rcv2es-t1764.36", "text": "snare drum, just repeating this banal kind of threatening march.", "start": 1764.36, "end": 1770.84}
+{"id": "HA6F4rcv2es-t1770.84", "text": "And through repetition, but this is another area, I suppose, of hypnotism repetition.", "start": 1770.84, "end": 1775.4}
+{"id": "HA6F4rcv2es-t1775.4", "text": "I'm not sure that does that lead to the sublime, but through this grotesque music that some", "start": 1775.4, "end": 1780.72}
+{"id": "HA6F4rcv2es-t1780.72", "text": "people can't stand, frankly.", "start": 1780.72, "end": 1782.64}
+{"id": "HA6F4rcv2es-t1782.64", "text": "They dismiss, many people dismiss the symphonies of Marla, they can't take it, and dismiss Schostakovich.", "start": 1782.64, "end": 1790.72}
+{"id": "HA6F4rcv2es-t1790.72", "text": "But for me, that music, just through the pain and so on, really, really takes it somewhere.", "start": 1790.72, "end": 1798.2800000000002}
+{"id": "HA6F4rcv2es-t1798.2800000000002", "text": "The beauty of Mozart doesn't always do.", "start": 1798.2800000000002, "end": 1801.0400000000002}
+{"id": "HA6F4rcv2es-t1801.0400000000002", "text": "Yeah.", "start": 1801.0400000000002, "end": 1802.0400000000002}
+{"id": "HA6F4rcv2es-t1802.0400000000002", "text": "Well, that's Demosthenes, I think, in the Londginian register.", "start": 1802.0400000000002, "end": 1808.3200000000002}
+{"id": "HA6F4rcv2es-t1808.32", "text": "And the element of repetition is an aspect, just as sheer accretion or accumulation of", "start": 1808.32, "end": 1815.6}
+{"id": "HA6F4rcv2es-t1815.6", "text": "Kant's mathematical sublime as well.", "start": 1815.6, "end": 1820.12}
+{"id": "HA6F4rcv2es-t1820.12", "text": "And I do see, somehow, a distinction between experiences, both sublime, one of which arises", "start": 1820.12, "end": 1827.52}
+{"id": "HA6F4rcv2es-t1827.52", "text": "from repetition or accretion, and the other of which arises from, as I say, a kind of", "start": 1827.52, "end": 1834.12}
+{"id": "HA6F4rcv2es-t1834.12", "text": "a blasting apart, which is momentary, is not sustained or repeated, but is momentary.", "start": 1834.12, "end": 1841.8799999999999}
+{"id": "HA6F4rcv2es-t1841.8799999999999", "text": "I thought, by the way, that if only for truth and advertising that we should acknowledge", "start": 1841.8799999999999, "end": 1853.8799999999999}
+{"id": "HA6F4rcv2es-t1853.8799999999999", "text": "rather strong adversary current in the 20th and 21st centuries concerning the sublime, because", "start": 1853.8799999999999, "end": 1861.3999999999999}
+{"id": "HA6F4rcv2es-t1861.4", "text": "it has been accused, if that's the right word, of being both patriarchal and tyrannical.", "start": 1861.4, "end": 1868.0}
+{"id": "HA6F4rcv2es-t1868.0", "text": "In other words, if one were to parse an ideology of the sublime, there are many who would say", "start": 1868.0, "end": 1877.0400000000002}
+{"id": "HA6F4rcv2es-t1877.0400000000002", "text": "that it's gendered, not just masculine, but hypermasculine, and that politically, and", "start": 1877.0400000000002, "end": 1885.72}
+{"id": "HA6F4rcv2es-t1885.72", "text": "this in some ways comes out already of the discussion at the end of Londginis, that", "start": 1885.72, "end": 1891.3600000000001}
+{"id": "HA6F4rcv2es-t1891.36", "text": "politically it's anti-democratic, that is to say, it imposes on the recipient kind of", "start": 1891.36, "end": 1902.04}
+{"id": "HA6F4rcv2es-t1902.04", "text": "tyrannical authority.", "start": 1902.04, "end": 1904.7199999999998}
+{"id": "HA6F4rcv2es-t1904.7199999999998", "text": "And this is very widespread.", "start": 1904.7199999999998, "end": 1906.8}
+{"id": "HA6F4rcv2es-t1906.8", "text": "I won't name names.", "start": 1906.8, "end": 1910.28}
+{"id": "HA6F4rcv2es-t1910.28", "text": "But a number of people who have made arguments of this kind, and it's interesting to think", "start": 1910.28, "end": 1915.6799999999998}
+{"id": "HA6F4rcv2es-t1915.68", "text": "about something I think those of us sitting here care about a great deal, under this sort", "start": 1915.68, "end": 1922.44}
+{"id": "HA6F4rcv2es-t1922.44", "text": "of threat and maybe thinking about how to counteract it, or at least put it in perspective.", "start": 1922.44, "end": 1932.72}
+{"id": "HA6F4rcv2es-t1932.72", "text": "I know that line of argument well, as you can imagine, and I don't buy it, and it's", "start": 1932.72, "end": 1937.64}
+{"id": "HA6F4rcv2es-t1937.64", "text": "partly because even in Londginis, one of his great examples of the sublime is a poem", "start": 1937.64, "end": 1945.6000000000001}
+{"id": "HA6F4rcv2es-t1945.6", "text": "lyric poem by Sappho.", "start": 1945.6, "end": 1947.8799999999999}
+{"id": "HA6F4rcv2es-t1947.8799999999999", "text": "And it's the first time in classical literary criticism I know of that a woman writer's", "start": 1947.8799999999999, "end": 1952.4399999999998}
+{"id": "HA6F4rcv2es-t1952.4399999999998", "text": "work is taken that seriously.", "start": 1952.4399999999998, "end": 1954.8}
+{"id": "HA6F4rcv2es-t1954.8", "text": "And I'm not a classicist, so I don't know this for sure, but is that the only reason", "start": 1954.8, "end": 1958.4399999999998}
+{"id": "HA6F4rcv2es-t1958.4399999999998", "text": "we have this poem by Sappho?", "start": 1958.4399999999998, "end": 1960.9199999999998}
+{"id": "HA6F4rcv2es-t1960.9199999999998", "text": "Because Londginis preserved it that way?", "start": 1960.9199999999998, "end": 1962.4399999999998}
+{"id": "HA6F4rcv2es-t1962.4399999999998", "text": "I think maybe I heard that one.", "start": 1962.4399999999998, "end": 1964.24}
+{"id": "HA6F4rcv2es-t1964.24", "text": "I think that it is the most preserved form of poem, though.", "start": 1964.24, "end": 1970.9599999999998}
+{"id": "HA6F4rcv2es-t1970.9599999999998", "text": "It was on, its praises were on everyone's lips.", "start": 1970.9599999999998, "end": 1975.4399999999998}
+{"id": "HA6F4rcv2es-t1975.44", "text": "And had been.", "start": 1975.44, "end": 1976.44}
+{"id": "HA6F4rcv2es-t1976.44", "text": "I mean, the extraordinary thing about the poem, as Londginis says, is that it expresses", "start": 1976.44, "end": 1982.68}
+{"id": "HA6F4rcv2es-t1982.68", "text": "uncontrollably emotion in perfectly controlled verse, the verse which we now call, sapphix.", "start": 1982.68, "end": 1993.52}
+{"id": "HA6F4rcv2es-t1993.52", "text": "It's an absolutely perfectly controlled meter, and yet constantly straining against it is", "start": 1993.52, "end": 1999.48}
+{"id": "HA6F4rcv2es-t1999.48", "text": "the volcanic emotion that she's feeling about her lost, beloved, anectoria.", "start": 1999.48, "end": 2007.44}
+{"id": "HA6F4rcv2es-t2007.44", "text": "And it's very emotional, and it's very physical.", "start": 2007.44, "end": 2010.2}
+{"id": "HA6F4rcv2es-t2010.2", "text": "It's very bodily.", "start": 2010.2, "end": 2011.6}
+{"id": "HA6F4rcv2es-t2011.6", "text": "And she's looking at this beloved woman, and she's sweating, she's trembling, she's gasping", "start": 2011.6, "end": 2018.0}
+{"id": "HA6F4rcv2es-t2018.0", "text": "for breath, she's cold and she's hot.", "start": 2018.0, "end": 2021.52}
+{"id": "HA6F4rcv2es-t2021.52", "text": "And it's the combination of all these things, Londginis says, that makes it sublime, the", "start": 2021.52, "end": 2025.92}
+{"id": "HA6F4rcv2es-t2025.92", "text": "fact that she can weave together all these chaotic and even contradictory physiological", "start": 2025.92, "end": 2031.4}
+{"id": "HA6F4rcv2es-t2031.4", "text": "symptoms as well as an.", "start": 2031.4, "end": 2033.8000000000002}
+{"id": "HA6F4rcv2es-t2033.8000000000002", "text": "So in Burke too, the great 18th century sublime theorist in the English tradition, in Burke", "start": 2033.8000000000002, "end": 2039.48}
+{"id": "HA6F4rcv2es-t2039.48", "text": "the sublime is very physical and very bodily.", "start": 2039.48, "end": 2042.48}
+{"id": "HA6F4rcv2es-t2042.48", "text": "And part of the slam against the sublime was that it's disembodied, and it's transcendental,", "start": 2042.48, "end": 2051.4}
+{"id": "HA6F4rcv2es-t2051.4", "text": "that there's such a rich sublime tradition, including Londginis and that citation of Sappho,", "start": 2051.4, "end": 2057.8}
+{"id": "HA6F4rcv2es-t2057.8", "text": "you know, that says, no, we feel the sublime in our bodies and with our bodies.", "start": 2057.8, "end": 2063.44}
+{"id": "HA6F4rcv2es-t2063.44", "text": "It's not up there someplace.", "start": 2063.44, "end": 2065.92}
+{"id": "HA6F4rcv2es-t2065.92", "text": "That's the, as I'm listening, I keep wondering, it's not anything I know much about.", "start": 2065.92, "end": 2072.88}
+{"id": "HA6F4rcv2es-t2072.88", "text": "But as I listen, I am not clear what's the, what is the experience and what is the product", "start": 2072.88, "end": 2083.96}
+{"id": "HA6F4rcv2es-t2083.96", "text": "that causes that experience.", "start": 2083.96, "end": 2087.0}
+{"id": "HA6F4rcv2es-t2087.0", "text": "So when you go up on the mountain and you are looking, is that perspective, that scenario", "start": 2087.0, "end": 2098.84}
+{"id": "HA6F4rcv2es-t2098.84", "text": "what you are seeing or is it what you are feeling the sublime.", "start": 2098.84, "end": 2105.92}
+{"id": "HA6F4rcv2es-t2105.92", "text": "And as a second question is, what is it you are feeling?", "start": 2105.92, "end": 2110.52}
+{"id": "HA6F4rcv2es-t2110.52", "text": "If you were to, because it seems there's always a lack of sharpness to me when we say", "start": 2110.52, "end": 2116.76}
+{"id": "HA6F4rcv2es-t2116.76", "text": "it's sublime.", "start": 2116.76, "end": 2118.2000000000003}
+{"id": "HA6F4rcv2es-t2118.2000000000003", "text": "What is it?", "start": 2118.2000000000003, "end": 2119.6000000000004}
+{"id": "HA6F4rcv2es-t2119.6000000000004", "text": "And what is it we feel?", "start": 2119.6000000000004, "end": 2121.92}
+{"id": "HA6F4rcv2es-t2121.92", "text": "Is it joy?", "start": 2121.92, "end": 2122.92}
+{"id": "HA6F4rcv2es-t2122.92", "text": "Is it all?", "start": 2122.92, "end": 2124.92}
+{"id": "HA6F4rcv2es-t2124.92", "text": "Is it the uncanny feeling which contains elements of some anxiety or discomfort?", "start": 2124.92, "end": 2132.16}
+{"id": "HA6F4rcv2es-t2132.16", "text": "So my...", "start": 2132.16, "end": 2133.16}
+{"id": "HA6F4rcv2es-t2133.16", "text": "Yeah, you know, the mountains by themselves are, if nobody's there, the mountains aren't", "start": 2133.16, "end": 2141.04}
+{"id": "HA6F4rcv2es-t2141.04", "text": "sublime, right?", "start": 2141.04, "end": 2142.96}
+{"id": "HA6F4rcv2es-t2142.96", "text": "The sublime is a human experience.", "start": 2142.96, "end": 2145.56}
+{"id": "HA6F4rcv2es-t2145.56", "text": "You need a human observer to have the sublime experience.", "start": 2145.56, "end": 2148.32}
+{"id": "HA6F4rcv2es-t2148.32", "text": "So that one's easy.", "start": 2148.32, "end": 2149.64}
+{"id": "HA6F4rcv2es-t2149.64", "text": "You know, the ocean isn't sublime when no one's out at sea in it, but you know, when", "start": 2149.64, "end": 2155.68}
+{"id": "HA6F4rcv2es-t2155.68", "text": "you have a huge wave and you're seeing it, it's sublime.", "start": 2155.68, "end": 2160.52}
+{"id": "HA6F4rcv2es-t2160.52", "text": "You know, that lack of definition is, this will sound like a cop out, but I don't think", "start": 2160.52, "end": 2165.0}
+{"id": "HA6F4rcv2es-t2165.0", "text": "it is.", "start": 2165.0, "end": 2166.4}
+{"id": "HA6F4rcv2es-t2166.4", "text": "The lack of definition is built into the sublime because it's what eludes our categories.", "start": 2166.4, "end": 2171.16}
+{"id": "HA6F4rcv2es-t2171.16", "text": "It's what Teats has this lovely phrase, you know, when he talks about how the Elgin", "start": 2171.16, "end": 2176.92}
+{"id": "HA6F4rcv2es-t2176.92", "text": "Marvel's Teases Out of Thought, the sublime is what Teases us Out of Thought.", "start": 2176.92, "end": 2183.04}
+{"id": "HA6F4rcv2es-t2183.04", "text": "We can't...", "start": 2183.04, "end": 2184.8}
+{"id": "HA6F4rcv2es-t2184.8", "text": "Our well-honed, you know, cognitive abilities are well-used, stable categories.", "start": 2184.8, "end": 2191.76}
+{"id": "HA6F4rcv2es-t2191.76", "text": "They just fall by the wayside.", "start": 2191.76, "end": 2194.32}
+{"id": "HA6F4rcv2es-t2194.32", "text": "It's a moment for me, the sublime is a moment of breakdown.", "start": 2194.32, "end": 2198.56}
+{"id": "HA6F4rcv2es-t2198.56", "text": "And in that moment, we get this sense that the world was greater than we ever suppose.", "start": 2198.56, "end": 2205.88}
+{"id": "HA6F4rcv2es-t2205.88", "text": "And Kant would add that, you know, the human mind is greater than we ever suppose, because", "start": 2205.88, "end": 2209.6}
+{"id": "HA6F4rcv2es-t2209.6", "text": "somehow, even though we can't imagine it, we can't take it in, we're still cognizing", "start": 2209.6, "end": 2215.04}
+{"id": "HA6F4rcv2es-t2215.04", "text": "it in some odd, intuitive feeling way.", "start": 2215.04, "end": 2219.8}
+{"id": "HA6F4rcv2es-t2219.8", "text": "So it's hard for me to know exactly what Kant means at that moment, but it's almost", "start": 2219.8, "end": 2224.52}
+{"id": "HA6F4rcv2es-t2224.52", "text": "like we feel our way into it.", "start": 2224.52, "end": 2227.32}
+{"id": "HA6F4rcv2es-t2227.32", "text": "We can't grasp it, but we know it's there.", "start": 2227.32, "end": 2232.1600000000003}
+{"id": "HA6F4rcv2es-t2232.16", "text": "I understand that, but then when I listen to James, and I'm very happy that he's here,", "start": 2232.16, "end": 2239.7599999999998}
+{"id": "HA6F4rcv2es-t2239.7599999999998", "text": "because he brings a perspective which I think is so important in this, he feels the sublime", "start": 2239.7599999999998, "end": 2246.64}
+{"id": "HA6F4rcv2es-t2246.64", "text": "a lot of the time.", "start": 2246.64, "end": 2249.3599999999997}
+{"id": "HA6F4rcv2es-t2249.3599999999997", "text": "You have to go up those mountains.", "start": 2249.3599999999997, "end": 2253.3199999999997}
+{"id": "HA6F4rcv2es-t2253.3199999999997", "text": "And James, he's almost constantly in the sublime.", "start": 2253.3199999999997, "end": 2261.08}
+{"id": "HA6F4rcv2es-t2261.08", "text": "That's why I started off by saying, I think music is the easiest.", "start": 2261.08, "end": 2264.96}
+{"id": "HA6F4rcv2es-t2264.96", "text": "But I was thinking about the mountains as well, because I had that same feeling when", "start": 2264.96, "end": 2270.2}
+{"id": "HA6F4rcv2es-t2270.2", "text": "I'd go up into the mountains.", "start": 2270.2, "end": 2271.7999999999997}
+{"id": "HA6F4rcv2es-t2271.7999999999997", "text": "And now I was thinking, I'm trying to figure this out for myself, the great symphonies", "start": 2271.7999999999997, "end": 2277.12}
+{"id": "HA6F4rcv2es-t2277.12", "text": "of Brookner.", "start": 2277.12, "end": 2278.7599999999998}
+{"id": "HA6F4rcv2es-t2278.7599999999998", "text": "I always think are sort of written for the mountain tops.", "start": 2278.7599999999998, "end": 2283.24}
+{"id": "HA6F4rcv2es-t2283.24", "text": "And he was writing his music to the glory of God, but somehow when you hear those giant", "start": 2283.24, "end": 2288.24}
+{"id": "HA6F4rcv2es-t2288.24", "text": "symphonies with their perfect mathematical structure, that's sort of where it takes me.", "start": 2288.24, "end": 2294.4399999999996}
+{"id": "HA6F4rcv2es-t2294.4399999999996", "text": "But music is not about trying to replicate the mountains.", "start": 2294.4399999999996, "end": 2303.9199999999996}
+{"id": "HA6F4rcv2es-t2303.9199999999996", "text": "And Beethoven in the pastoral symphony, as Wagner said, is not trying to depict the", "start": 2303.9199999999996, "end": 2310.8399999999997}
+{"id": "HA6F4rcv2es-t2310.8399999999997", "text": "countryside.", "start": 2310.8399999999997, "end": 2311.8399999999997}
+{"id": "HA6F4rcv2es-t2311.8399999999997", "text": "It's going beyond, beyond, beyond, beyond.", "start": 2311.8399999999997, "end": 2315.3199999999997}
+{"id": "HA6F4rcv2es-t2315.32", "text": "So for me, when I listen to a Brookner symphony, I get an extra dimension, frankly, than I", "start": 2315.32, "end": 2321.8}
+{"id": "HA6F4rcv2es-t2321.8", "text": "do from just being on the mountain top and being overwhelmed by that.", "start": 2321.8, "end": 2326.56}
+{"id": "HA6F4rcv2es-t2326.56", "text": "And great music for me.", "start": 2326.56, "end": 2329.2400000000002}
+{"id": "HA6F4rcv2es-t2329.2400000000002", "text": "That's because I'm a very simple soul, I think.", "start": 2329.2400000000002, "end": 2332.0800000000004}
+{"id": "HA6F4rcv2es-t2332.0800000000004", "text": "Great music just puts me in touch, I think, with everything that has existed for all of", "start": 2332.0800000000004, "end": 2341.44}
+{"id": "HA6F4rcv2es-t2341.44", "text": "my lack of knowledge about pretty much everything.", "start": 2341.44, "end": 2344.6000000000004}
+{"id": "HA6F4rcv2es-t2344.6", "text": "That somehow there is a truth and a unity.", "start": 2344.6, "end": 2350.24}
+{"id": "HA6F4rcv2es-t2350.24", "text": "It's not a religion.", "start": 2350.24, "end": 2352.6}
+{"id": "HA6F4rcv2es-t2352.6", "text": "And I think I'm not going to say that, to what extent is all of this eventually just", "start": 2352.6, "end": 2356.8399999999997}
+{"id": "HA6F4rcv2es-t2356.8399999999997", "text": "chemicals?", "start": 2356.8399999999997, "end": 2357.8399999999997}
+{"id": "HA6F4rcv2es-t2357.8399999999997", "text": "I mean, this worries me a lot.", "start": 2357.8399999999997, "end": 2360.92}
+{"id": "HA6F4rcv2es-t2360.92", "text": "I'm thinking about, I try to analyze why do I have these feelings about music.", "start": 2360.92, "end": 2365.56}
+{"id": "HA6F4rcv2es-t2365.56", "text": "And I want to know more about what it is, and these days.", "start": 2365.56, "end": 2369.16}
+{"id": "HA6F4rcv2es-t2369.16", "text": "And is there not a path that is leading us to believe that all of this is simply actions?", "start": 2369.16, "end": 2376.6}
+{"id": "HA6F4rcv2es-t2376.6", "text": "Well, going back to the distinction between the sublime and the experience of the sublime", "start": 2376.6, "end": 2383.12}
+{"id": "HA6F4rcv2es-t2383.12", "text": "in the mountains.", "start": 2383.12, "end": 2385.72}
+{"id": "HA6F4rcv2es-t2385.72", "text": "Kant actually mentions the peasants of the Savoy, the Savoy, who are so acclimatized", "start": 2385.72, "end": 2394.12}
+{"id": "HA6F4rcv2es-t2394.12", "text": "to the mountains because they live there, that they have no experience of them at all.", "start": 2394.12, "end": 2399.0}
+{"id": "HA6F4rcv2es-t2399.0", "text": "And it's just their daily environment.", "start": 2399.0, "end": 2403.32}
+{"id": "HA6F4rcv2es-t2403.32", "text": "So that what Kant is suggesting is that a certain distance from the quotidian experience", "start": 2403.32, "end": 2411.12}
+{"id": "HA6F4rcv2es-t2411.12", "text": "of whatever it is that surrounds you is required.", "start": 2411.12, "end": 2415.32}
+{"id": "HA6F4rcv2es-t2415.32", "text": "And in a certain sense, that's not chemical.", "start": 2415.32, "end": 2418.8}
+{"id": "HA6F4rcv2es-t2418.8", "text": "Because if it were a chemical, you're in a mountain, you're going to have the experience.", "start": 2418.8, "end": 2424.12}
+{"id": "HA6F4rcv2es-t2424.12", "text": "And that's that, whereas Kant is suggesting that it must, to some extent, be a question", "start": 2424.12, "end": 2430.6}
+{"id": "HA6F4rcv2es-t2430.6", "text": "of environmental distance and not intimacy.", "start": 2430.6, "end": 2434.12}
+{"id": "HA6F4rcv2es-t2434.12", "text": "And that's where the element of fear, for one thing, comes in, which is so frequently", "start": 2434.12, "end": 2439.4}
+{"id": "HA6F4rcv2es-t2439.4", "text": "associated with the first phase of the experience of the sublime.", "start": 2439.4, "end": 2443.96}
+{"id": "HA6F4rcv2es-t2443.96", "text": "The idea is that initially, in response to something that seems overwhelming, we feel", "start": 2443.96, "end": 2450.72}
+{"id": "HA6F4rcv2es-t2450.72", "text": "fear.", "start": 2450.72, "end": 2452.0}
+{"id": "HA6F4rcv2es-t2452.0", "text": "But then we realize that we're not actually in danger, that it is a kind of a proxy danger,", "start": 2452.0, "end": 2460.76}
+{"id": "HA6F4rcv2es-t2460.76", "text": "that we are in effect safe.", "start": 2460.76, "end": 2463.32}
+{"id": "HA6F4rcv2es-t2463.32", "text": "We're standing at the top of the mountain, but there's the railing that the tourist", "start": 2463.32, "end": 2466.96}
+{"id": "HA6F4rcv2es-t2466.96", "text": "industry has put in for us.", "start": 2466.96, "end": 2469.4}
+{"id": "HA6F4rcv2es-t2469.4", "text": "And okay, fine.", "start": 2469.4, "end": 2471.4}
+{"id": "HA6F4rcv2es-t2471.4", "text": "And then, through a kind of recoil or retrieval of self-respect, we internalize the experience.", "start": 2471.4, "end": 2483.36}
+{"id": "HA6F4rcv2es-t2483.36", "text": "And we feel that in some sense, it is the result of our own emotional or negative power.", "start": 2483.36, "end": 2494.44}
+{"id": "HA6F4rcv2es-t2494.44", "text": "So that, and Lonzainus says this too.", "start": 2494.44, "end": 2497.4}
+{"id": "HA6F4rcv2es-t2497.4", "text": "He says, the amazing thing about a great utterance is that it transports us.", "start": 2497.4, "end": 2503.32}
+{"id": "HA6F4rcv2es-t2503.32", "text": "It puts us into an ecstasy, extosus.", "start": 2503.32, "end": 2505.88}
+{"id": "HA6F4rcv2es-t2505.88", "text": "It transports us.", "start": 2505.88, "end": 2507.88}
+{"id": "HA6F4rcv2es-t2507.88", "text": "So that we imagine that we ourselves have produced the thing that we have heard.", "start": 2507.88, "end": 2515.6}
+{"id": "HA6F4rcv2es-t2515.6", "text": "So he takes you through the whole experience as well.", "start": 2515.6, "end": 2518.6}
+{"id": "HA6F4rcv2es-t2518.6", "text": "It's like a kid watching a baseball game and swinging his little toy bat.", "start": 2518.6, "end": 2523.4}
+{"id": "HA6F4rcv2es-t2523.4", "text": "He hits a home run and he's just so enthusiastic, swinging his bat.", "start": 2523.4, "end": 2528.08}
+{"id": "HA6F4rcv2es-t2528.08", "text": "He thinks he hits the home run himself.", "start": 2528.08, "end": 2531.08}
+{"id": "HA6F4rcv2es-t2531.08", "text": "He had through the intensity of identification.", "start": 2531.08, "end": 2535.32}
+{"id": "HA6F4rcv2es-t2535.32", "text": "He has this moment of thinking he did it, which is part of the excitement.", "start": 2535.32, "end": 2540.4}
+{"id": "HA6F4rcv2es-t2540.4", "text": "Right, in music, the great interpreters are recreators.", "start": 2540.4, "end": 2544.64}
+{"id": "HA6F4rcv2es-t2544.64", "text": "I think the moment of performance, you are the creator.", "start": 2544.64, "end": 2548.12}
+{"id": "HA6F4rcv2es-t2548.12", "text": "I mean, you have to be to make it convincing, I think.", "start": 2548.12, "end": 2552.4}
+{"id": "HA6F4rcv2es-t2552.4", "text": "Well, one thing that fosters a puzzled over with this sublime experience that is this", "start": 2552.4, "end": 2561.52}
+{"id": "HA6F4rcv2es-t2561.52", "text": "kind of mixed, painful, pleasurable experience, which I think will get to some of your worries", "start": 2561.52, "end": 2570.08}
+{"id": "HA6F4rcv2es-t2570.08", "text": "is that it's not clear where exactly the pleasure should come from this experience.", "start": 2570.08, "end": 2578.52}
+{"id": "HA6F4rcv2es-t2578.52", "text": "So if the experience starts off with a feeling of being kind of terrified or overwhelmed,", "start": 2578.52, "end": 2587.16}
+{"id": "HA6F4rcv2es-t2587.16", "text": "potentially insignificant in some ways, where does the pleasure come from?", "start": 2587.16, "end": 2591.12}
+{"id": "HA6F4rcv2es-t2591.12", "text": "And that's been kind of a puzzle for philosophers from the 18th century on.", "start": 2591.12, "end": 2596.04}
+{"id": "HA6F4rcv2es-t2596.04", "text": "I've just been thinking about that.", "start": 2596.04, "end": 2599.48}
+{"id": "HA6F4rcv2es-t2599.48", "text": "And in relation to the experience on the mountain and the experience of great music, it's a", "start": 2599.48, "end": 2603.8}
+{"id": "HA6F4rcv2es-t2603.8", "text": "profound and wonderful loneliness.", "start": 2603.8, "end": 2606.56}
+{"id": "HA6F4rcv2es-t2606.56", "text": "You know, pleasurable, but terrifying, but worrying about wonderful loneliness.", "start": 2606.56, "end": 2619.16}
+{"id": "HA6F4rcv2es-t2619.16", "text": "That's interesting because part of the political critique is that the sublime is demagoguery", "start": 2619.16, "end": 2624.96}
+{"id": "HA6F4rcv2es-t2624.96", "text": "and that the power of an orator is capable of transforming masses into a single entity", "start": 2624.96, "end": 2634.4}
+{"id": "HA6F4rcv2es-t2634.4", "text": "or sinister community.", "start": 2634.4, "end": 2637.64}
+{"id": "HA6F4rcv2es-t2637.64", "text": "Yeah.", "start": 2637.64, "end": 2638.64}
+{"id": "HA6F4rcv2es-t2638.64", "text": "Well, I think the various philosophers have tried to come up with the answer to, you know,", "start": 2638.64, "end": 2647.6}
+{"id": "HA6F4rcv2es-t2647.6", "text": "where's the pleasure coming from?", "start": 2647.6, "end": 2649.6800000000003}
+{"id": "HA6F4rcv2es-t2649.6800000000003", "text": "And in some ways, I guess you get a more democratic kind of an answer from the transcendental", "start": 2649.6800000000003, "end": 2658.44}
+{"id": "HA6F4rcv2es-t2658.44", "text": "philosophers that in some ways that this experience highlights a kind of power within the individual,", "start": 2658.44, "end": 2666.56}
+{"id": "HA6F4rcv2es-t2666.56", "text": "within all human beings, in some ways to withstand this terrifying or overwhelming environment", "start": 2666.56, "end": 2675.7200000000003}
+{"id": "HA6F4rcv2es-t2675.7200000000003", "text": "or force.", "start": 2675.7200000000003, "end": 2677.44}
+{"id": "HA6F4rcv2es-t2677.44", "text": "So that there's a kind of a dialectic between feeling existentially very small and frail,", "start": 2677.44, "end": 2685.88}
+{"id": "HA6F4rcv2es-t2685.88", "text": "feeling powerful and in some ways transcending natural limits that one is confronted with", "start": 2685.88, "end": 2693.96}
+{"id": "HA6F4rcv2es-t2693.96", "text": "in these kinds of experiences.", "start": 2693.96, "end": 2696.6800000000003}
+{"id": "HA6F4rcv2es-t2696.6800000000003", "text": "So yeah.", "start": 2696.6800000000003, "end": 2697.6800000000003}
+{"id": "HA6F4rcv2es-t2697.6800000000003", "text": "And by the way, in New Zealand, you seldom find those safety rails when you go.", "start": 2697.6800000000003, "end": 2703.88}
+{"id": "HA6F4rcv2es-t2703.88", "text": "You know, so I wondered to what extent are a search for this sublime in nature in this", "start": 2703.88, "end": 2711.4}
+{"id": "HA6F4rcv2es-t2711.4", "text": "country where there are too many safety things there for it to remind you, whereas in New", "start": 2711.4, "end": 2717.52}
+{"id": "HA6F4rcv2es-t2717.52", "text": "Zealand, there's this fantastic kind of risk and people get killed and eaten by sharks", "start": 2717.52, "end": 2722.28}
+{"id": "HA6F4rcv2es-t2722.28", "text": "in Australia because there's no notice saying that sharks could eat you, you know.", "start": 2722.28, "end": 2728.12}
+{"id": "HA6F4rcv2es-t2728.12", "text": "So yeah.", "start": 2728.12, "end": 2729.12}
+{"id": "HA6F4rcv2es-t2729.12", "text": "Hands the privilege of music.", "start": 2729.12, "end": 2731.88}
+{"id": "HA6F4rcv2es-t2731.88", "text": "The what?", "start": 2731.88, "end": 2732.88}
+{"id": "HA6F4rcv2es-t2732.88", "text": "Hands the privilege of music.", "start": 2732.88, "end": 2734.88}
+{"id": "HA6F4rcv2es-t2734.88", "text": "Yes.", "start": 2734.88, "end": 2735.88}
+{"id": "HA6F4rcv2es-t2735.88", "text": "But is that the whole sublime experience?", "start": 2735.88, "end": 2743.6800000000003}
+{"id": "HA6F4rcv2es-t2743.6800000000003", "text": "In other words, you feel the fear.", "start": 2743.6800000000003, "end": 2748.12}
+{"id": "HA6F4rcv2es-t2748.12", "text": "But does the absence of the safety net, let's say, prevent you from the recoil and recovery", "start": 2748.12, "end": 2757.88}
+{"id": "HA6F4rcv2es-t2757.88", "text": "that is allegedly or traditionally part of the experience?", "start": 2757.88, "end": 2763.48}
+{"id": "HA6F4rcv2es-t2763.48", "text": "In musical terms, I realize that the only times that I think I can produce music of any", "start": 2763.48, "end": 2769.16}
+{"id": "HA6F4rcv2es-t2769.16", "text": "worth, which is probably seldom to be honest or any obvious, is when there's...", "start": 2769.16, "end": 2775.16}
+{"id": "HA6F4rcv2es-t2775.16", "text": "Don't say that, you will not have a job.", "start": 2775.16, "end": 2778.52}
+{"id": "HA6F4rcv2es-t2778.52", "text": "There's absolutely no sleep.", "start": 2778.52, "end": 2780.72}
+{"id": "HA6F4rcv2es-t2780.72", "text": "No, no, no, no.", "start": 2780.72, "end": 2781.72}
+{"id": "HA6F4rcv2es-t2781.72", "text": "You have to really throw all of that away.", "start": 2781.72, "end": 2785.8}
+{"id": "HA6F4rcv2es-t2785.8", "text": "And the great performers that I think, or we talked about Fuddfenga earlier, an age where", "start": 2785.8, "end": 2791.32}
+{"id": "HA6F4rcv2es-t2791.32", "text": "they were doing less repertoire, but doing it with such a whole-heartedness, it's very", "start": 2791.32, "end": 2797.48}
+{"id": "HA6F4rcv2es-t2797.48", "text": "seldom that I hear this is a terrible thing to say, right?", "start": 2797.48, "end": 2803.0800000000004}
+{"id": "HA6F4rcv2es-t2803.0800000000004", "text": "Modern performances where I don't feel safety net and there's something too structured as", "start": 2803.0800000000004, "end": 2809.0800000000004}
+{"id": "HA6F4rcv2es-t2809.0800000000004", "text": "there's something around the performance that doesn't release the sublime.", "start": 2809.0800000000004, "end": 2813.32}
+{"id": "HA6F4rcv2es-t2813.32", "text": "I mean, listen, sorry, but I'm thinking of no safety net.", "start": 2813.32, "end": 2817.4}
+{"id": "HA6F4rcv2es-t2817.4", "text": "Listen to Glenn Gould playing Goldberg variations.", "start": 2817.4, "end": 2820.7200000000003}
+{"id": "HA6F4rcv2es-t2820.72", "text": "If you want the sublime.", "start": 2820.72, "end": 2823.4399999999996}
+{"id": "HA6F4rcv2es-t2823.4399999999996", "text": "And that's also interesting because when I think about that, you can watch him play", "start": 2823.4399999999996, "end": 2829.2}
+{"id": "HA6F4rcv2es-t2829.2", "text": "and you can listen to him play.", "start": 2829.2, "end": 2831.8799999999997}
+{"id": "HA6F4rcv2es-t2831.8799999999997", "text": "And is the experience the same?", "start": 2831.8799999999997, "end": 2834.24}
+{"id": "HA6F4rcv2es-t2834.24", "text": "Is it even more sublime when you see this soul so wrapped up in his loneliness with this", "start": 2834.24, "end": 2841.04}
+{"id": "HA6F4rcv2es-t2841.04", "text": "music that you're drawn in profoundly?", "start": 2841.04, "end": 2845.3599999999997}
+{"id": "HA6F4rcv2es-t2845.36", "text": "Yeah, there's a category.", "start": 2845.36, "end": 2850.96}
+{"id": "HA6F4rcv2es-t2850.96", "text": "As you were talking about the lack of the safety net, I was thinking, if you read people", "start": 2850.96, "end": 2857.04}
+{"id": "HA6F4rcv2es-t2857.04", "text": "that nature writers like John Muir or that class, there's a class of experience called", "start": 2857.04, "end": 2864.8}
+{"id": "HA6F4rcv2es-t2864.8", "text": "edge experiences that often get represented where, again, you're pushed beyond what you", "start": 2864.8, "end": 2872.08}
+{"id": "HA6F4rcv2es-t2872.08", "text": "think is possible for you.", "start": 2872.08, "end": 2873.92}
+{"id": "HA6F4rcv2es-t2873.92", "text": "And yet you still survive.", "start": 2873.92, "end": 2877.04}
+{"id": "HA6F4rcv2es-t2877.04", "text": "And that is often a moment that that unleashes the sublime description.", "start": 2877.04, "end": 2883.92}
+{"id": "HA6F4rcv2es-t2883.92", "text": "And so I agree, if you play with a net, if you've got the guardrail, it's not going to", "start": 2883.92, "end": 2890.2400000000002}
+{"id": "HA6F4rcv2es-t2890.2400000000002", "text": "happen.", "start": 2890.2400000000002, "end": 2891.2400000000002}
+{"id": "HA6F4rcv2es-t2891.2400000000002", "text": "On the other hand, if you don't survive, then you can't ever tell about it.", "start": 2891.2400000000002, "end": 2896.2000000000003}
+{"id": "HA6F4rcv2es-t2896.2000000000003", "text": "I guess that's what I meant about the shark.", "start": 2896.2000000000003, "end": 2902.84}
+{"id": "HA6F4rcv2es-t2902.84", "text": "What about Chopinhauer?", "start": 2902.84, "end": 2904.6000000000004}
+{"id": "HA6F4rcv2es-t2904.6000000000004", "text": "Chopinhauer.", "start": 2904.6000000000004, "end": 2906.6000000000004}
+{"id": "HA6F4rcv2es-t2906.6000000000004", "text": "His theory of the sublime is, I think, very Kantian.", "start": 2906.6000000000004, "end": 2912.36}
+{"id": "HA6F4rcv2es-t2912.36", "text": "He kind of takes over a lot of the Kantian theory, the distinction between the dynamical", "start": 2912.36, "end": 2917.52}
+{"id": "HA6F4rcv2es-t2917.52", "text": "and the mathematical sublime.", "start": 2917.52, "end": 2920.2000000000003}
+{"id": "HA6F4rcv2es-t2920.2000000000003", "text": "But the key difference, I think, between their theories and actually this might lead into", "start": 2920.2000000000003, "end": 2924.76}
+{"id": "HA6F4rcv2es-t2924.76", "text": "the music as well, is that for Kant, the source of the pleasure and the experience of the", "start": 2924.76, "end": 2932.6000000000004}
+{"id": "HA6F4rcv2es-t2932.6000000000004", "text": "sublime comes from the recognition of a super sensible part of us, which is for Kant our", "start": 2932.6000000000004, "end": 2941.48}
+{"id": "HA6F4rcv2es-t2941.48", "text": "rational location, our vocation to sort of understand, fathom nature as fully as possible", "start": 2941.48, "end": 2950.5600000000004}
+{"id": "HA6F4rcv2es-t2950.56", "text": "and our moral rational vocation to be able to obey the moral law no matter what kinds", "start": 2950.56, "end": 2958.52}
+{"id": "HA6F4rcv2es-t2958.52", "text": "of obstacles are put in our way.", "start": 2958.52, "end": 2961.84}
+{"id": "HA6F4rcv2es-t2961.84", "text": "And Chopinhauer had a very different view about morality and different take on the powers", "start": 2961.84, "end": 2969.36}
+{"id": "HA6F4rcv2es-t2969.36", "text": "of reason.", "start": 2969.36, "end": 2970.56}
+{"id": "HA6F4rcv2es-t2970.56", "text": "And so he replaces the role of reason in Kant with a certain kind of attitudinal freedom", "start": 2970.56, "end": 2978.2}
+{"id": "HA6F4rcv2es-t2978.2", "text": "so that when one is faced with very terrifying landscape, let's say you're facing a volcano", "start": 2978.2, "end": 2986.0}
+{"id": "HA6F4rcv2es-t2986.0", "text": "or a tornado or something or a raging storm at sea, that the pleasure that one would feel", "start": 2986.0, "end": 2995.3599999999997}
+{"id": "HA6F4rcv2es-t2995.3599999999997", "text": "according to Chopinhauer's theory would be a sense that one has a power to sort of respond", "start": 2995.3599999999997, "end": 3003.12}
+{"id": "HA6F4rcv2es-t3003.12", "text": "to it in a different way.", "start": 3003.12, "end": 3005.12}
+{"id": "HA6F4rcv2es-t3005.12", "text": "So one can not care, one can kind of disengage from the will.", "start": 3005.12, "end": 3014.7599999999998}
+{"id": "HA6F4rcv2es-t3014.7599999999998", "text": "But actually, Chopinhauer's theory is really interesting for music and I think why he was", "start": 3014.7599999999998, "end": 3019.2}
+{"id": "HA6F4rcv2es-t3019.2", "text": "such a darling of composers in that music for him was extraordinarily special in that", "start": 3019.2, "end": 3028.2}
+{"id": "HA6F4rcv2es-t3028.2", "text": "for his metaphysics, the ultimate nature of the world is will, sort of a blind striving.", "start": 3028.2, "end": 3037.64}
+{"id": "HA6F4rcv2es-t3037.64", "text": "And Chopinhauer thought that music actually was a copy of the metaphysical will and so", "start": 3037.64, "end": 3046.7599999999998}
+{"id": "HA6F4rcv2es-t3046.7599999999998", "text": "actually one's experience with music would be, with the right sort of music would be", "start": 3046.7599999999998, "end": 3051.7999999999997}
+{"id": "HA6F4rcv2es-t3051.7999999999997", "text": "more powerful than any other experience with art.", "start": 3051.7999999999997, "end": 3055.8399999999997}
+{"id": "HA6F4rcv2es-t3055.84", "text": "And one thing that's puzzled me though actually about Chopinhauer's aesthetic theory with respect", "start": 3055.84, "end": 3060.4}
+{"id": "HA6F4rcv2es-t3060.4", "text": "to music is that he himself does not apply his categories of the beautiful and the sublime", "start": 3060.4, "end": 3067.88}
+{"id": "HA6F4rcv2es-t3067.88", "text": "to music.", "start": 3067.88, "end": 3069.6800000000003}
+{"id": "HA6F4rcv2es-t3069.6800000000003", "text": "He talks about music as being the most powerful art form where we really sort of tap into", "start": 3069.6800000000003, "end": 3074.28}
+{"id": "HA6F4rcv2es-t3074.28", "text": "the ultimate nature of the world and we resonate with universal emotions and that gets us closest", "start": 3074.28, "end": 3082.36}
+{"id": "HA6F4rcv2es-t3082.36", "text": "to the way things really are but he does not talk about music as either a beautiful or", "start": 3082.36, "end": 3090.6800000000003}
+{"id": "HA6F4rcv2es-t3090.6800000000003", "text": "sublime but it seems that those categories would naturally fit quite well with music.", "start": 3090.6800000000003, "end": 3099.96}
+{"id": "HA6F4rcv2es-t3099.96", "text": "And I know Hanslek wrote on the musically beautiful but I was wondering actually if you", "start": 3099.96, "end": 3108.2000000000003}
+{"id": "HA6F4rcv2es-t3108.2", "text": "thought that is there a specific sort of music or there are specific kinds of forms in music", "start": 3108.2, "end": 3117.16}
+{"id": "HA6F4rcv2es-t3117.16", "text": "that you think would be the musically sublime that would be.", "start": 3117.16, "end": 3123.3599999999997}
+{"id": "HA6F4rcv2es-t3123.3599999999997", "text": "Of particular forms it's difficult to say.", "start": 3123.3599999999997, "end": 3128.4399999999996}
+{"id": "HA6F4rcv2es-t3128.4399999999996", "text": "I mean the Chopinhauer was such an influence on great music.", "start": 3128.4399999999996, "end": 3133.8799999999997}
+{"id": "HA6F4rcv2es-t3133.88", "text": "You can't imagine certain pieces I guess existing the same way without Chopinhauer in my limited", "start": 3133.88, "end": 3139.88}
+{"id": "HA6F4rcv2es-t3139.88", "text": "knowledge you know what I've read about the influence with Wagner and so on.", "start": 3139.88, "end": 3145.6}
+{"id": "HA6F4rcv2es-t3145.6", "text": "But when we think back in music I think the first sort of music I would call sublime might", "start": 3145.6, "end": 3153.76}
+{"id": "HA6F4rcv2es-t3153.76", "text": "be the music that had relatively little formal structure in a sense like music of Palestrina,", "start": 3153.76, "end": 3161.96}
+{"id": "HA6F4rcv2es-t3161.96", "text": "these great core pieces of Talis.", "start": 3161.96, "end": 3165.78}
+{"id": "HA6F4rcv2es-t3165.78", "text": "Music that just seems to hypnotize to flow, to be in touch with something that just goes", "start": 3165.78, "end": 3176.2}
+{"id": "HA6F4rcv2es-t3176.2", "text": "directly to our souls without us having to have any knowledge.", "start": 3176.2, "end": 3180.68}
+{"id": "HA6F4rcv2es-t3180.68", "text": "I think that's a great thing about music.", "start": 3180.68, "end": 3184.48}
+{"id": "HA6F4rcv2es-t3184.48", "text": "Maybe what he was capturing, talking about the will that music is closest is because", "start": 3184.48, "end": 3189.28}
+{"id": "HA6F4rcv2es-t3189.28", "text": "it's something so natural and to be very simplistic about it that wherever we go in the world", "start": 3189.28, "end": 3195.92}
+{"id": "HA6F4rcv2es-t3195.92", "text": "and we play a minor triad and we play a major triad everybody is going to understand what", "start": 3195.92, "end": 3201.2400000000002}
+{"id": "HA6F4rcv2es-t3201.2400000000002", "text": "is sad and what is happy, what is the fast rhythm, the slow rhythm.", "start": 3201.2400000000002, "end": 3205.44}
+{"id": "HA6F4rcv2es-t3205.44", "text": "So it's just I think was he saying that there's something so simply natural about music?", "start": 3205.44, "end": 3213.7200000000003}
+{"id": "HA6F4rcv2es-t3213.72", "text": "Yeah, I definitely thought that there was a kind of universal language of feeling to", "start": 3213.72, "end": 3221.3999999999996}
+{"id": "HA6F4rcv2es-t3221.3999999999996", "text": "music, at least the right sort of music.", "start": 3221.3999999999996, "end": 3223.52}
+{"id": "HA6F4rcv2es-t3223.52", "text": "He had tremendous criticisms of program music and music that wasn't truly expressive.", "start": 3223.52, "end": 3233.0}
+{"id": "HA6F4rcv2es-t3233.0", "text": "I think Wagner was very careful to talk about Beethoven, it's not a picture, the pastoral", "start": 3233.0, "end": 3239.2799999999997}
+{"id": "HA6F4rcv2es-t3239.2799999999997", "text": "symphony.", "start": 3239.2799999999997, "end": 3240.2799999999997}
+{"id": "HA6F4rcv2es-t3240.28", "text": "So many composers subsequently have been very, very cautious about attributing any kind", "start": 3240.28, "end": 3246.4}
+{"id": "HA6F4rcv2es-t3246.4", "text": "of description to that.", "start": 3246.4, "end": 3247.6400000000003}
+{"id": "HA6F4rcv2es-t3247.6400000000003", "text": "I put something and then withdrawn it later for this very, very reason because when you're", "start": 3247.6400000000003, "end": 3251.84}
+{"id": "HA6F4rcv2es-t3251.84", "text": "listening to the scene by the brook of Beethoven, you're not picturing a brook with fish and", "start": 3251.84, "end": 3259.0400000000004}
+{"id": "HA6F4rcv2es-t3259.0400000000004", "text": "glints of water.", "start": 3259.0400000000004, "end": 3260.6000000000004}
+{"id": "HA6F4rcv2es-t3260.6000000000004", "text": "Sometimes when we interpret that music and you're working with an orchestra and you're", "start": 3260.6000000000004, "end": 3263.76}
+{"id": "HA6F4rcv2es-t3263.76", "text": "not getting the sound you want, you do describe and you try to get the music by painting a", "start": 3263.76, "end": 3269.1600000000003}
+{"id": "HA6F4rcv2es-t3269.16", "text": "picture from home.", "start": 3269.16, "end": 3270.16}
+{"id": "HA6F4rcv2es-t3270.16", "text": "But that's not what it's about, it's about the overwhelming feeling of emotion.", "start": 3270.16, "end": 3275.96}
+{"id": "HA6F4rcv2es-t3275.96", "text": "How do you separate emotion from the sublime?", "start": 3275.96, "end": 3279.68}
+{"id": "HA6F4rcv2es-t3279.68", "text": "I mean, what is the difference between overwhelming emotion, overwhelming happiness and sublimity?", "start": 3279.68, "end": 3288.48}
+{"id": "HA6F4rcv2es-t3288.48", "text": "What is that?", "start": 3288.48, "end": 3290.48}
+{"id": "HA6F4rcv2es-t3290.48", "text": "Well, I think the sublime needs to be in some ways turbulent.", "start": 3290.48, "end": 3297.56}
+{"id": "HA6F4rcv2es-t3297.56", "text": "So there needs to be some kind of dialectic, maybe this is controversial, but some sort", "start": 3297.56, "end": 3303.2799999999997}
+{"id": "HA6F4rcv2es-t3303.2799999999997", "text": "of dialectic between a kind of feeling overwhelmed and then in some ways which would seem quite", "start": 3303.2799999999997, "end": 3312.36}
+{"id": "HA6F4rcv2es-t3312.36", "text": "negative, feeling overwhelmed by emotion or overwhelmingly sad and then some sort of positive,", "start": 3312.36, "end": 3323.04}
+{"id": "HA6F4rcv2es-t3323.04", "text": "effective experience that counters that.", "start": 3323.04, "end": 3327.0}
+{"id": "HA6F4rcv2es-t3327.0", "text": "So I'm not sure if an overwhelming sense of happiness would be a candidate for a sublime", "start": 3327.0, "end": 3336.28}
+{"id": "HA6F4rcv2es-t3336.28", "text": "experience unless there was in some ways some turbulence there.", "start": 3336.28, "end": 3340.6}
+{"id": "HA6F4rcv2es-t3340.6", "text": "It's interesting because most people when they talk about their love of Mozart and a", "start": 3340.6, "end": 3345.8}
+{"id": "HA6F4rcv2es-t3345.8", "text": "phrase of Mozart that really moves you, you talk about the happiness of Mozart but always", "start": 3345.8, "end": 3351.08}
+{"id": "HA6F4rcv2es-t3351.08", "text": "with a tinge of sadness, there's always something more than just happiness.", "start": 3351.08, "end": 3355.36}
+{"id": "HA6F4rcv2es-t3355.36", "text": "It's always, this genius always somehow reflects a contrast.", "start": 3355.36, "end": 3360.44}
+{"id": "HA6F4rcv2es-t3360.44", "text": "Oh, in the holy halls.", "start": 3360.44, "end": 3363.6800000000003}
+{"id": "HA6F4rcv2es-t3363.6800000000003", "text": "Yes.", "start": 3363.6800000000003, "end": 3365.48}
+{"id": "HA6F4rcv2es-t3365.48", "text": "What about program music?", "start": 3365.48, "end": 3368.1200000000003}
+{"id": "HA6F4rcv2es-t3368.1200000000003", "text": "Is there the possibility of sublimity in barely oats when we know the head is falling", "start": 3368.1200000000003, "end": 3374.08}
+{"id": "HA6F4rcv2es-t3374.08", "text": "from the guillotine into the basket or in Peter and the Wolf or whatever program music one", "start": 3374.08, "end": 3382.52}
+{"id": "HA6F4rcv2es-t3382.52", "text": "chooses to name, is there a possibility of sublimity or does the, I don't know, literary", "start": 3382.52, "end": 3388.6}
+{"id": "HA6F4rcv2es-t3388.6", "text": "ness or narrative ambition of the music somehow preclude the sublime?", "start": 3388.6, "end": 3393.24}
+{"id": "HA6F4rcv2es-t3393.24", "text": "No, I'm thinking actually the barely of somebody fantastic.", "start": 3393.24, "end": 3397.16}
+{"id": "HA6F4rcv2es-t3397.16", "text": "You think of the first movement of his inspiration from his unrequited loves and so on.", "start": 3397.16, "end": 3402.88}
+{"id": "HA6F4rcv2es-t3402.88", "text": "But when you think of the nature of that music in the first movement, I think that reaches", "start": 3402.88, "end": 3408.36}
+{"id": "HA6F4rcv2es-t3408.36", "text": "a kind of sublime because it just transcends any kind of poem or any kind of feeling.", "start": 3408.36, "end": 3415.6400000000003}
+{"id": "HA6F4rcv2es-t3415.6400000000003", "text": "I'm not sure about the march to the scaffold with the head falling into the basket but", "start": 3415.6400000000003, "end": 3422.32}
+{"id": "HA6F4rcv2es-t3422.32", "text": "maybe we need that contrast.", "start": 3422.32, "end": 3423.48}
+{"id": "HA6F4rcv2es-t3423.48", "text": "I think programmatic music can be sublime.", "start": 3423.48, "end": 3426.1200000000003}
+{"id": "HA6F4rcv2es-t3426.1200000000003", "text": "Think of, you know, you might like the Strauss Alpine Symphony where he does sort of describe", "start": 3426.1200000000003, "end": 3433.7200000000003}
+{"id": "HA6F4rcv2es-t3433.7200000000003", "text": "in chapters the journey of the mountain.", "start": 3433.7200000000003, "end": 3437.2000000000003}
+{"id": "HA6F4rcv2es-t3437.2", "text": "I think that that can reach in our minds in great performance, a tremendous sublimity.", "start": 3437.2, "end": 3443.9199999999996}
+{"id": "HA6F4rcv2es-t3443.9199999999996", "text": "I think it can be.", "start": 3443.9199999999996, "end": 3447.3599999999997}
+{"id": "HA6F4rcv2es-t3447.3599999999997", "text": "Why not?", "start": 3447.3599999999997, "end": 3448.3599999999997}
+{"id": "HA6F4rcv2es-t3448.3599999999997", "text": "But it somehow also, I also feel that those great pieces don't need the programmatic", "start": 3448.3599999999997, "end": 3452.4399999999996}
+{"id": "HA6F4rcv2es-t3452.4399999999996", "text": "content.", "start": 3452.4399999999996, "end": 3453.4399999999996}
+{"id": "HA6F4rcv2es-t3453.4399999999996", "text": "As we've been talking about the sublime in music, I've been thinking about are there", "start": 3453.4399999999996, "end": 3457.52}
+{"id": "HA6F4rcv2es-t3457.52", "text": "art forms that can't convey the sublime very well and I was thinking about film because", "start": 3457.52, "end": 3463.0}
+{"id": "HA6F4rcv2es-t3463.0", "text": "clearly there are films that try to convey the sublime.", "start": 3463.0, "end": 3466.6}
+{"id": "HA6F4rcv2es-t3466.6", "text": "But if you see them 20 years later, they just seem sort of pathetic in those attempts,", "start": 3466.6, "end": 3471.2}
+{"id": "HA6F4rcv2es-t3471.2", "text": "like the Ten Commandments.", "start": 3471.2, "end": 3473.4}
+{"id": "HA6F4rcv2es-t3473.4", "text": "I think for early audiences that was like, wow, that's onswire.", "start": 3473.4, "end": 3477.48}
+{"id": "HA6F4rcv2es-t3477.48", "text": "We see it.", "start": 3477.48, "end": 3478.48}
+{"id": "HA6F4rcv2es-t3478.48", "text": "They're not a spore option.", "start": 3478.48, "end": 3479.48}
+{"id": "HA6F4rcv2es-t3479.48", "text": "Yeah, right.", "start": 3479.48, "end": 3480.48}
+{"id": "HA6F4rcv2es-t3480.48", "text": "The first time you saw no spore option.", "start": 3480.48, "end": 3483.3199999999997}
+{"id": "HA6F4rcv2es-t3483.3199999999997", "text": "But they have to have music as well.", "start": 3483.3199999999997, "end": 3486.68}
+{"id": "HA6F4rcv2es-t3486.68", "text": "Right.", "start": 3486.68, "end": 3487.68}
+{"id": "HA6F4rcv2es-t3487.68", "text": "Well, and they do use music but like James Cameron's Titanic, that was an attempt to mass market", "start": 3487.68, "end": 3492.2799999999997}
+{"id": "HA6F4rcv2es-t3492.28", "text": "the sublime or the perfect storm at that moment when Mark Wahlberg for all his muscles is", "start": 3492.28, "end": 3499.76}
+{"id": "HA6F4rcv2es-t3499.76", "text": "about that big and the wave is that big.", "start": 3499.76, "end": 3502.96}
+{"id": "HA6F4rcv2es-t3502.96", "text": "That's a sublime moment but does it work or is it sort of cheesy?", "start": 3502.96, "end": 3507.44}
+{"id": "HA6F4rcv2es-t3507.44", "text": "Can film is film unable to sustain?", "start": 3507.44, "end": 3510.6800000000003}
+{"id": "HA6F4rcv2es-t3510.6800000000003", "text": "Can I make?", "start": 3510.6800000000003, "end": 3513.4}
+{"id": "HA6F4rcv2es-t3513.4", "text": "As opposed to...", "start": 3513.4, "end": 3514.4}
+{"id": "HA6F4rcv2es-t3514.4", "text": "I'm not trying to be a snob.", "start": 3514.4, "end": 3515.4}
+{"id": "HA6F4rcv2es-t3515.4", "text": "I'm just...", "start": 3515.4, "end": 3516.4}
+{"id": "HA6F4rcv2es-t3516.4", "text": "No, I'm just...", "start": 3516.4, "end": 3517.4}
+{"id": "HA6F4rcv2es-t3517.4", "text": "I'm just inviting you guys to be snobs.", "start": 3517.4, "end": 3520.4}
+{"id": "HA6F4rcv2es-t3520.4", "text": "I'm trying so hard.", "start": 3520.4, "end": 3523.84}
+{"id": "HA6F4rcv2es-t3523.84", "text": "Well, I mean, the question of whether artworks at all could be sublime has been a somewhat", "start": 3523.84, "end": 3531.96}
+{"id": "HA6F4rcv2es-t3531.96", "text": "controversial issue.", "start": 3531.96, "end": 3533.76}
+{"id": "HA6F4rcv2es-t3533.76", "text": "I mean, so in some ways that, you know, every...", "start": 3533.76, "end": 3537.36}
+{"id": "HA6F4rcv2es-t3537.36", "text": "Well, should I say, pretty much every work of art has some form or it has beginning,", "start": 3537.36, "end": 3542.84}
+{"id": "HA6F4rcv2es-t3542.84", "text": "in case of musical compositions, beginning and an end or a painting has a frame, you", "start": 3542.84, "end": 3551.4}
+{"id": "HA6F4rcv2es-t3551.4", "text": "know, there's a form to a film.", "start": 3551.4, "end": 3555.6800000000003}
+{"id": "HA6F4rcv2es-t3555.6800000000003", "text": "So would that in some ways discount it from being sublime just there?", "start": 3555.6800000000003, "end": 3560.6400000000003}
+{"id": "HA6F4rcv2es-t3560.6400000000003", "text": "And actually on some readings of Con, Con does sort of say, no, artworks can't be sublime", "start": 3560.6400000000003, "end": 3564.96}
+{"id": "HA6F4rcv2es-t3564.96", "text": "even though he has certain examples that he uses of sublime artworks but it seems like", "start": 3564.96, "end": 3569.92}
+{"id": "HA6F4rcv2es-t3569.92", "text": "it's a position that he made, it really held.", "start": 3569.92, "end": 3573.64}
+{"id": "HA6F4rcv2es-t3573.64", "text": "But it seems that it's as long as one can kind of...", "start": 3573.64, "end": 3581.48}
+{"id": "HA6F4rcv2es-t3581.48", "text": "If one has the sort of emotional response to say the Titanic, especially when it first", "start": 3581.48, "end": 3587.7200000000003}
+{"id": "HA6F4rcv2es-t3587.7200000000003", "text": "came out and there had been a lot of imitators, if one can have the experience of feeling", "start": 3587.7200000000003, "end": 3596.28}
+{"id": "HA6F4rcv2es-t3596.28", "text": "somehow overwhelmed or by the power of the sea and get into that dialectic of thought", "start": 3596.28, "end": 3604.44}
+{"id": "HA6F4rcv2es-t3604.44", "text": "and emotion, then why not?", "start": 3604.44, "end": 3606.36}
+{"id": "HA6F4rcv2es-t3606.36", "text": "Why couldn't that absolutely be sublime?", "start": 3606.36, "end": 3608.1200000000003}
+{"id": "HA6F4rcv2es-t3608.1200000000003", "text": "I don't see any reason in principle why it couldn't be.", "start": 3608.1200000000003, "end": 3611.52}
+{"id": "HA6F4rcv2es-t3611.52", "text": "It creates the New Zealand experience.", "start": 3611.52, "end": 3615.6000000000004}
+{"id": "HA6F4rcv2es-t3615.6000000000004", "text": "But it really does come back to the question though of the place of form and thinking about", "start": 3615.6000000000004, "end": 3623.44}
+{"id": "HA6F4rcv2es-t3623.44", "text": "the sublime again, as you say.", "start": 3623.44, "end": 3625.6000000000004}
+{"id": "HA6F4rcv2es-t3625.6", "text": "And you began by, or at one point reminded us that especially in the 18th century the", "start": 3625.6, "end": 3631.4}
+{"id": "HA6F4rcv2es-t3631.4", "text": "sublime is the gendered beautiful, Addison and Burke describe the beautiful as smooth", "start": 3631.4, "end": 3639.92}
+{"id": "HA6F4rcv2es-t3639.92", "text": "and round and soft.", "start": 3639.92, "end": 3642.44}
+{"id": "HA6F4rcv2es-t3642.44", "text": "Get it?", "start": 3642.44, "end": 3646.48}
+{"id": "HA6F4rcv2es-t3646.48", "text": "And associates the beautiful with reproduction.", "start": 3646.48, "end": 3652.56}
+{"id": "HA6F4rcv2es-t3652.56", "text": "The sort of the whole 18th century, Addison says of the beautiful, he distinguishes three", "start": 3652.56, "end": 3659.04}
+{"id": "HA6F4rcv2es-t3659.04", "text": "categories, the beautiful, the uncommon as he calls it, which came to be called the picturesque", "start": 3659.04, "end": 3667.6}
+{"id": "HA6F4rcv2es-t3667.6", "text": "and the great, which came to be called the sublime.", "start": 3667.6, "end": 3672.0}
+{"id": "HA6F4rcv2es-t3672.0", "text": "Well, the purpose of each of those is spelled out by Addison.", "start": 3672.0, "end": 3677.44}
+{"id": "HA6F4rcv2es-t3677.44", "text": "He says that the beautiful exists to procreate the species.", "start": 3677.44, "end": 3682.48}
+{"id": "HA6F4rcv2es-t3682.48", "text": "He says that the uncommon exists to inspire curiosity and to increase knowledge and that", "start": 3682.48, "end": 3690.16}
+{"id": "HA6F4rcv2es-t3690.16", "text": "the great exists to make us experience reverence for God.", "start": 3690.16, "end": 3696.56}
+{"id": "HA6F4rcv2es-t3696.56", "text": "In other words, it is something finite, but in the contemplation of which we realize that", "start": 3696.56, "end": 3705.28}
+{"id": "HA6F4rcv2es-t3705.28", "text": "there's something infinite.", "start": 3705.28, "end": 3706.6}
+{"id": "HA6F4rcv2es-t3706.6", "text": "In other words, in a certain sense, it already anticipates the argument of God except it's", "start": 3706.6, "end": 3710.88}
+{"id": "HA6F4rcv2es-t3710.88", "text": "not a subjective idea but a spiritual or transcendent idea.", "start": 3710.88, "end": 3716.88}
+{"id": "HA6F4rcv2es-t3716.88", "text": "But the beautiful is plainly the usurper of any idea of form because even the picturesque", "start": 3716.88, "end": 3727.36}
+{"id": "HA6F4rcv2es-t3727.36", "text": "to some extent, and certainly the great or the sublime, tend to take us out of form,", "start": 3727.36, "end": 3734.28}
+{"id": "HA6F4rcv2es-t3734.28", "text": "not necessarily not by way of form, I mean, obviously the intermediation is formal, but", "start": 3734.28, "end": 3741.6400000000003}
+{"id": "HA6F4rcv2es-t3741.6400000000003", "text": "it takes us out of form.", "start": 3741.6400000000003, "end": 3743.0800000000004}
+{"id": "HA6F4rcv2es-t3743.0800000000004", "text": "Whereas the beautiful is as it were form and for itself and for its own sake.", "start": 3743.0800000000004, "end": 3751.88}
+{"id": "HA6F4rcv2es-t3751.88", "text": "So the place of form in this conversation, I continue to think is an important one.", "start": 3751.88, "end": 3758.28}
+{"id": "HA6F4rcv2es-t3758.28", "text": "This round table, you have a picture, a Turner picture, right?", "start": 3758.28, "end": 3763.88}
+{"id": "HA6F4rcv2es-t3763.88", "text": "On the website, I think.", "start": 3763.88, "end": 3765.8}
+{"id": "HA6F4rcv2es-t3765.8", "text": "And just as you were speaking, I was reminded that Fingal's Cave of Mendelssohn, this wonderful", "start": 3765.8, "end": 3772.32}
+{"id": "HA6F4rcv2es-t3772.32", "text": "piece from the 1830s, came out the same, I think was performed the same year as the", "start": 3772.32, "end": 3777.4}
+{"id": "HA6F4rcv2es-t3777.4", "text": "Turner picture.", "start": 3777.4, "end": 3778.4}
+{"id": "HA6F4rcv2es-t3778.4", "text": "Is that right?", "start": 3778.4, "end": 3779.4}
+{"id": "HA6F4rcv2es-t3779.4", "text": "Of Fingal's Cave.", "start": 3779.4, "end": 3780.92}
+{"id": "HA6F4rcv2es-t3780.92", "text": "And that is framed.", "start": 3780.92, "end": 3782.5600000000004}
+{"id": "HA6F4rcv2es-t3782.5600000000004", "text": "Mendelssohn's music is not.", "start": 3782.5600000000004, "end": 3785.0400000000004}
+{"id": "HA6F4rcv2es-t3785.04", "text": "Which is closest to the sublime, I wonder.", "start": 3785.04, "end": 3788.92}
+{"id": "HA6F4rcv2es-t3788.92", "text": "Well, the Turner does its best not to be formal.", "start": 3788.92, "end": 3794.32}
+{"id": "HA6F4rcv2es-t3794.32", "text": "You have this huge cliff.", "start": 3794.32, "end": 3796.64}
+{"id": "HA6F4rcv2es-t3796.64", "text": "The actual cave is almost impossible to discern in the painting.", "start": 3796.64, "end": 3802.72}
+{"id": "HA6F4rcv2es-t3802.72", "text": "You then have the sea and you have the one thing that is formally and conspicuously there", "start": 3802.72, "end": 3810.6}
+{"id": "HA6F4rcv2es-t3810.6", "text": "is the, looks like a freight boat with a big cloud of black steam coming out of it.", "start": 3810.6, "end": 3819.56}
+{"id": "HA6F4rcv2es-t3819.56", "text": "On which we understand Turner was seated when he was thinking about how to compose his painting.", "start": 3819.56, "end": 3826.2}
+{"id": "HA6F4rcv2es-t3826.2", "text": "And that's what you can see.", "start": 3826.2, "end": 3828.3199999999997}
+{"id": "HA6F4rcv2es-t3828.3199999999997", "text": "As if to say, well, I am doing this from a perspective and I can show you the perspective", "start": 3828.3199999999997, "end": 3834.0}
+{"id": "HA6F4rcv2es-t3834.0", "text": "clearly.", "start": 3834.0, "end": 3835.08}
+{"id": "HA6F4rcv2es-t3835.08", "text": "But I don't actually want to show you the cave itself, maybe for just the reason that", "start": 3835.08, "end": 3842.52}
+{"id": "HA6F4rcv2es-t3842.52", "text": "if I do, music will have the advantage of me.", "start": 3842.52, "end": 3846.44}
+{"id": "HA6F4rcv2es-t3846.44", "text": "But as you describe the Turner painting, there's that loss of outline again and that confusion", "start": 3846.44, "end": 3853.52}
+{"id": "HA6F4rcv2es-t3853.52", "text": "of categories, what sky and what sea.", "start": 3853.52, "end": 3856.84}
+{"id": "HA6F4rcv2es-t3856.84", "text": "Or you know the burning ship paintings, what's fire and what's lightning coming down and", "start": 3856.84, "end": 3863.48}
+{"id": "HA6F4rcv2es-t3863.48", "text": "what's a shaft of light.", "start": 3863.48, "end": 3865.68}
+{"id": "HA6F4rcv2es-t3865.68", "text": "And it goes back to the Sappho poem where you're trembling and you're cold and you're hot", "start": 3865.68, "end": 3870.4}
+{"id": "HA6F4rcv2es-t3870.4", "text": "and you're sweating all at the same time.", "start": 3870.4, "end": 3873.4}
+{"id": "HA6F4rcv2es-t3873.4", "text": "And you can't organize your experience.", "start": 3873.4, "end": 3879.8}
+{"id": "HA6F4rcv2es-t3879.8", "text": "Your experience becomes radically disorganized and yet it's more powerful than it's ever", "start": 3879.8, "end": 3884.52}
+{"id": "HA6F4rcv2es-t3884.52", "text": "been.", "start": 3884.52, "end": 3885.52}
+{"id": "HA6F4rcv2es-t3885.52", "text": "So, for me, Turner totally works as a sublime but it's probably because he really captures", "start": 3885.52, "end": 3891.2}
+{"id": "HA6F4rcv2es-t3891.2", "text": "that suspension of our ordinary categories.", "start": 3891.2, "end": 3895.2799999999997}
+{"id": "HA6F4rcv2es-t3895.2799999999997", "text": "That seems to me to be one of his big programs in his art.", "start": 3895.2799999999997, "end": 3898.68}
+{"id": "HA6F4rcv2es-t3898.68", "text": "He was way ahead of music at that time after all.", "start": 3898.68, "end": 3903.4399999999996}
+{"id": "HA6F4rcv2es-t3903.4399999999996", "text": "I mean Mendelssohn's music is absolutely beautiful but very formally structured and is more obviously", "start": 3903.4399999999996, "end": 3909.48}
+{"id": "HA6F4rcv2es-t3909.48", "text": "picturesque, although I would argue that it isn't really.", "start": 3909.48, "end": 3913.08}
+{"id": "HA6F4rcv2es-t3913.08", "text": "It goes much deeper than that.", "start": 3913.08, "end": 3915.08}
+{"id": "HA6F4rcv2es-t3915.08", "text": "But when you think of what Turner was doing in the 30s, was 1832 I think.", "start": 3915.08, "end": 3920.3999999999996}
+{"id": "HA6F4rcv2es-t3920.4", "text": "I mean, music came several decades later, music that was so unfocused in the way.", "start": 3920.4, "end": 3936.56}
+{"id": "HA6F4rcv2es-t3936.56", "text": "You're going to the impressionists and it's amazing how I have to give it to Turner over", "start": 3936.56, "end": 3943.04}
+{"id": "HA6F4rcv2es-t3943.04", "text": "Mendelssohn.", "start": 3943.04, "end": 3946.52}
+{"id": "HA6F4rcv2es-t3946.52", "text": "It's interesting too that when you think about Turner, when you think about some of", "start": 3946.52, "end": 3951.6}
+{"id": "HA6F4rcv2es-t3951.6", "text": "the composers, there's a lot of hostility initially when they're doing their great works.", "start": 3951.6, "end": 3959.32}
+{"id": "HA6F4rcv2es-t3959.32", "text": "A lot of people don't understand them.", "start": 3959.32, "end": 3961.84}
+{"id": "HA6F4rcv2es-t3961.84", "text": "And is that somehow tied in with the sublime, the art that goes ahead of its audience, which", "start": 3961.84, "end": 3970.52}
+{"id": "HA6F4rcv2es-t3970.52", "text": "would again make it very different from a mass marketed film that wants to manipulate", "start": 3970.52, "end": 3975.6}
+{"id": "HA6F4rcv2es-t3975.6", "text": "its audience, that wants to hit its audience right where it already is.", "start": 3975.6, "end": 3980.68}
+{"id": "HA6F4rcv2es-t3980.68", "text": "Stravinsky famously said, I was the vessel through which Lesaka passed.", "start": 3980.68, "end": 3986.24}
+{"id": "HA6F4rcv2es-t3986.24", "text": "And you think of Schoenberg's music, which I would argue is absolutely sublime when he", "start": 3986.24, "end": 3994.36}
+{"id": "HA6F4rcv2es-t3994.36", "text": "became more expressionistic with the 12 tone system, so to speak, which music sounds more", "start": 3994.36, "end": 4003.56}
+{"id": "HA6F4rcv2es-t4003.56", "text": "modern today than most music being written today, actually, in the century on is still", "start": 4003.56, "end": 4008.64}
+{"id": "HA6F4rcv2es-t4008.64", "text": "totally misunderstood.", "start": 4008.64, "end": 4013.0}
+{"id": "HA6F4rcv2es-t4013.0", "text": "It seems that music takes a long time to catch up and we're in a world where we are so visual.", "start": 4013.0, "end": 4019.7599999999998}
+{"id": "HA6F4rcv2es-t4019.7599999999998", "text": "I would love to see a sublime cuddly toy made and my sublime cuddly toy would be a sort", "start": 4019.7599999999998, "end": 4027.4}
+{"id": "HA6F4rcv2es-t4027.4", "text": "of 12 tone wind up thing for babies to see what influence that would have on their perception", "start": 4027.4, "end": 4036.84}
+{"id": "HA6F4rcv2es-t4036.84", "text": "of music in later life.", "start": 4036.84, "end": 4038.96}
+{"id": "HA6F4rcv2es-t4038.96", "text": "I was just going to remark, in fact, in response to Alan's question how it is that art we consider", "start": 4038.96, "end": 4046.32}
+{"id": "HA6F4rcv2es-t4046.32", "text": "to be sublime or at least to have a legitimate aspiration to sublimity is so often greeted", "start": 4046.32, "end": 4052.2400000000002}
+{"id": "HA6F4rcv2es-t4052.2400000000002", "text": "with hostility.", "start": 4052.2400000000002, "end": 4053.7200000000003}
+{"id": "HA6F4rcv2es-t4053.72", "text": "And once spontaneous first response is, well, obviously, we fear what we don't know.", "start": 4053.72, "end": 4058.3199999999997}
+{"id": "HA6F4rcv2es-t4058.3199999999997", "text": "So it's a sublime emotion that we're having and it just kind of gets stuck on the dislike", "start": 4058.3199999999997, "end": 4066.3599999999997}
+{"id": "HA6F4rcv2es-t4066.3599999999997", "text": "that comes of fear and what we don't know.", "start": 4066.3599999999997, "end": 4069.08}
+{"id": "HA6F4rcv2es-t4069.08", "text": "But at the same time, you know, there again the question of is there a sublime experience?", "start": 4069.08, "end": 4076.2}
+{"id": "HA6F4rcv2es-t4076.2", "text": "The initial feeling of which is not fear.", "start": 4076.2, "end": 4079.9599999999996}
+{"id": "HA6F4rcv2es-t4079.96", "text": "I think that in the time being music and the way in which we respond to music, you've been", "start": 4079.96, "end": 4085.68}
+{"id": "HA6F4rcv2es-t4085.68", "text": "very strongly suggesting that that probably we need to not that some sublime experiences", "start": 4085.68, "end": 4092.64}
+{"id": "HA6F4rcv2es-t4092.64", "text": "don't begin in fear but that we need to dissociate, let's say our definition of the sublime experience", "start": 4092.64, "end": 4100.84}
+{"id": "HA6F4rcv2es-t4100.84", "text": "from the notion that it begins in fear.", "start": 4100.84, "end": 4103.64}
+{"id": "HA6F4rcv2es-t4103.64", "text": "There's a sublime moment in music which you either consider sublime or cheesy.", "start": 4103.64, "end": 4110.200000000001}
+{"id": "HA6F4rcv2es-t4110.200000000001", "text": "I consider sublime.", "start": 4110.200000000001, "end": 4111.200000000001}
+{"id": "HA6F4rcv2es-t4111.200000000001", "text": "There's a wonderful oratorio by Edward Elgar whose music I love being English, the dream", "start": 4111.200000000001, "end": 4117.160000000001}
+{"id": "HA6F4rcv2es-t4117.160000000001", "text": "of Gerontius or Gerontius.", "start": 4117.160000000001, "end": 4119.52}
+{"id": "HA6F4rcv2es-t4119.52", "text": "And there's a moment in that enormous work where there's a terrifying sort of march in", "start": 4119.52, "end": 4125.400000000001}
+{"id": "HA6F4rcv2es-t4125.4", "text": "the music and everything just goes crash and still where Gerontius is allowed or perhaps", "start": 4125.4, "end": 4135.96}
+{"id": "HA6F4rcv2es-t4135.96", "text": "allowed to see God for a moment but can't face.", "start": 4135.96, "end": 4139.92}
+{"id": "HA6F4rcv2es-t4139.92", "text": "And I'm thinking it allowed to see the sublime in a way.", "start": 4139.92, "end": 4143.2}
+{"id": "HA6F4rcv2es-t4143.2", "text": "So I don't think it's anything to do with God that's too restricting.", "start": 4143.2, "end": 4148.08}
+{"id": "HA6F4rcv2es-t4148.08", "text": "But it is the most amazing moment in music where it's so f***ing music, it's so fearful,", "start": 4148.08, "end": 4156.68}
+{"id": "HA6F4rcv2es-t4156.68", "text": "it's so overwhelming.", "start": 4156.68, "end": 4158.5199999999995}
+{"id": "HA6F4rcv2es-t4158.5199999999995", "text": "And the moment of reaching something, it's unattainable and everything collapses.", "start": 4158.5199999999995, "end": 4168.64}
+{"id": "HA6F4rcv2es-t4168.64", "text": "So the sublime is unattainable, Elgar's case.", "start": 4168.64, "end": 4173.08}
+{"id": "HA6F4rcv2es-t4173.08", "text": "Ready for questions?", "start": 4173.08, "end": 4175.88}
+{"id": "HA6F4rcv2es-t4175.88", "text": "Yes.", "start": 4175.88, "end": 4176.88}
+{"id": "HA6F4rcv2es-t4176.88", "text": "Okay.", "start": 4176.88, "end": 4177.88}
+{"id": "HA6F4rcv2es-t4177.88", "text": "Please line up.", "start": 4177.88, "end": 4186.68}
+{"id": "HA6F4rcv2es-t4186.68", "text": "It seems to me that there are a few ghosts who have been haunting this discussion and", "start": 4186.68, "end": 4195.96}
+{"id": "HA6F4rcv2es-t4195.96", "text": "I would like to hear your remarks on that and that those would be society, culture and", "start": 4195.96, "end": 4209.56}
+{"id": "HA6F4rcv2es-t4209.56", "text": "class.", "start": 4209.56, "end": 4211.28}
+{"id": "HA6F4rcv2es-t4211.28", "text": "And neither of those have been mentioned in an explicit way and it seems to me to be", "start": 4211.28, "end": 4218.84}
+{"id": "HA6F4rcv2es-t4218.84", "text": "very much the foundation of the sublime the way it's been discussed here.", "start": 4218.84, "end": 4226.56}
+{"id": "HA6F4rcv2es-t4226.56", "text": "Yeah, well we talked a little bit about society in relation to Longinus, right?", "start": 4226.56, "end": 4238.08}
+{"id": "HA6F4rcv2es-t4238.08", "text": "And his concern that this debate that was going on, whether you need a democratic society", "start": 4238.08, "end": 4243.6}
+{"id": "HA6F4rcv2es-t4243.6", "text": "for this, which is interesting because that would distance it from these fears that the", "start": 4243.6, "end": 4249.240000000001}
+{"id": "HA6F4rcv2es-t4249.240000000001", "text": "sublime is related to authoritarianism that Paul mentioned.", "start": 4249.240000000001, "end": 4253.52}
+{"id": "HA6F4rcv2es-t4253.52", "text": "Or whether what you need is a society that's less commercialistic and materialistic.", "start": 4253.52, "end": 4260.4800000000005}
+{"id": "HA6F4rcv2es-t4260.4800000000005", "text": "When you mention class, I don't know if there's an implicit question there about whether the", "start": 4260.4800000000005, "end": 4267.320000000001}
+{"id": "HA6F4rcv2es-t4267.32", "text": "sublime is an inherently upper class phenomenon that you don't have a sublime until you have", "start": 4267.32, "end": 4274.759999999999}
+{"id": "HA6F4rcv2es-t4274.759999999999", "text": "a...", "start": 4274.759999999999, "end": 4275.759999999999}
+{"id": "HA6F4rcv2es-t4275.759999999999", "text": "Yeah, please.", "start": 4275.759999999999, "end": 4277.84}
+{"id": "HA6F4rcv2es-t4277.84", "text": "What I mean is when we're talking about sublime in music, it seems to me that there's most", "start": 4277.84, "end": 4287.4}
+{"id": "HA6F4rcv2es-t4287.4", "text": "of music that most people listen to really has a great class difference from the classical", "start": 4287.4, "end": 4294.799999999999}
+{"id": "HA6F4rcv2es-t4294.8", "text": "music, especially 12 tone music.", "start": 4294.8, "end": 4300.6}
+{"id": "HA6F4rcv2es-t4300.6", "text": "What about the pretenders?", "start": 4300.6, "end": 4301.84}
+{"id": "HA6F4rcv2es-t4301.84", "text": "I mean, I think right, there's as much ecstasy and sublimity there as in any music.", "start": 4301.84, "end": 4313.0}
+{"id": "HA6F4rcv2es-t4313.0", "text": "But somehow that hasn't been a part of this discussion and it seems to me we're talking", "start": 4313.0, "end": 4318.72}
+{"id": "HA6F4rcv2es-t4318.72", "text": "about a particular notion of the sublime, which really has a class foundation or at least", "start": 4318.72, "end": 4328.360000000001}
+{"id": "HA6F4rcv2es-t4328.360000000001", "text": "a part of the foundation does.", "start": 4328.360000000001, "end": 4331.88}
+{"id": "HA6F4rcv2es-t4331.88", "text": "Right, my vote would be for Jimi Hendrix.", "start": 4331.88, "end": 4335.72}
+{"id": "HA6F4rcv2es-t4335.72", "text": "But seriously, and you know, you're right, I mean, here we're all academically trained", "start": 4335.72, "end": 4341.240000000001}
+{"id": "HA6F4rcv2es-t4341.24", "text": "and so we're going to our stock academic examples, Turner, Moller, Milton, you've heard them", "start": 4341.24, "end": 4350.12}
+{"id": "HA6F4rcv2es-t4350.12", "text": "all and you're right, there's a bigger world of sublime out there.", "start": 4350.12, "end": 4354.679999999999}
+{"id": "HA6F4rcv2es-t4354.679999999999", "text": "It's interesting in terms of the limits of the discussion, it is interesting that we", "start": 4354.679999999999, "end": 4358.36}
+{"id": "HA6F4rcv2es-t4358.36", "text": "don't want to talk very much about religion because there's clearly an overlap between", "start": 4358.36, "end": 4362.599999999999}
+{"id": "HA6F4rcv2es-t4362.599999999999", "text": "the awe of the sublime and the awe of a lot of religious discourse and experience.", "start": 4362.599999999999, "end": 4368.599999999999}
+{"id": "HA6F4rcv2es-t4368.6", "text": "So yeah, you've definitely located one of our blind spots so far.", "start": 4368.6, "end": 4372.88}
+{"id": "HA6F4rcv2es-t4372.88", "text": "All along the watch tower in particular, if we vote for Jimi Hendrix.", "start": 4372.88, "end": 4378.240000000001}
+{"id": "HA6F4rcv2es-t4378.240000000001", "text": "And the musicians pointed you, I mean, one of the things I truly believe is music is", "start": 4378.240000000001, "end": 4383.320000000001}
+{"id": "HA6F4rcv2es-t4383.320000000001", "text": "music, you know, so within the day of music, I hate the barriers that we put up that are", "start": 4383.320000000001, "end": 4391.320000000001}
+{"id": "HA6F4rcv2es-t4391.320000000001", "text": "both restrictive and suggestive of class and elitism.", "start": 4391.320000000001, "end": 4396.4400000000005}
+{"id": "HA6F4rcv2es-t4396.44", "text": "But what I'm just thinking about mostly is culture, which licenses ecstasy and that's", "start": 4396.44, "end": 4410.679999999999}
+{"id": "HA6F4rcv2es-t4410.679999999999", "text": "the kind of sublime that I find the most aggressive, you know, has the most aggressive", "start": 4410.679999999999, "end": 4423.719999999999}
+{"id": "HA6F4rcv2es-t4423.72", "text": "call on my particular way of responding.", "start": 4423.72, "end": 4431.240000000001}
+{"id": "HA6F4rcv2es-t4431.240000000001", "text": "And it's distinctly a social form and that really hasn't been mentioned.", "start": 4431.240000000001, "end": 4439.64}
+{"id": "HA6F4rcv2es-t4439.64", "text": "Yes, we understand about, you know, whether it's democracy or you shouldn't be so, you", "start": 4439.64, "end": 4449.56}
+{"id": "HA6F4rcv2es-t4449.56", "text": "know, much interested in money.", "start": 4449.56, "end": 4451.360000000001}
+{"id": "HA6F4rcv2es-t4451.36", "text": "So the wealthy who don't have to worry about money, it's not the poor people, right?", "start": 4451.36, "end": 4456.639999999999}
+{"id": "HA6F4rcv2es-t4456.639999999999", "text": "So do they somehow lack for the sublime, right?", "start": 4456.639999999999, "end": 4461.28}
+{"id": "HA6F4rcv2es-t4461.28", "text": "Could I jump in actually just quick because I do think we've been largely talking about", "start": 4461.28, "end": 4469.0}
+{"id": "HA6F4rcv2es-t4469.0", "text": "an aesthetic tradition that considers aesthetic experience to be disinterested.", "start": 4469.0, "end": 4475.599999999999}
+{"id": "HA6F4rcv2es-t4475.599999999999", "text": "And so there is a certain kind of presumption that, well, one needs to have some leisure", "start": 4475.599999999999, "end": 4480.12}
+{"id": "HA6F4rcv2es-t4480.12", "text": "time, one needs to be able to take, you know, time away from one's concerns in order to", "start": 4480.12, "end": 4486.44}
+{"id": "HA6F4rcv2es-t4486.44", "text": "appreciate something in a disinterested fashion.", "start": 4486.44, "end": 4490.04}
+{"id": "HA6F4rcv2es-t4490.04", "text": "That you could say, well, that's a privilege of people who have some significant leisure", "start": 4490.04, "end": 4497.48}
+{"id": "HA6F4rcv2es-t4497.48", "text": "time.", "start": 4497.48, "end": 4499.24}
+{"id": "HA6F4rcv2es-t4499.24", "text": "But at least with the 18th century tradition of the sublime, I would say it focused more", "start": 4499.24, "end": 4506.76}
+{"id": "HA6F4rcv2es-t4506.76", "text": "on nature, though, than art.", "start": 4506.76, "end": 4510.04}
+{"id": "HA6F4rcv2es-t4510.04", "text": "And one of the environments that was seen to be the most sublime were the starry heavens", "start": 4510.04, "end": 4518.12}
+{"id": "HA6F4rcv2es-t4518.12", "text": "above us, which is anybody, you know, with eyes to look up at the night sky.", "start": 4518.12, "end": 4525.2}
+{"id": "HA6F4rcv2es-t4525.2", "text": "So I think it's, I mean, I agree that kind of class bias, one needs the leisure time", "start": 4525.2, "end": 4532.52}
+{"id": "HA6F4rcv2es-t4532.52", "text": "in order to have a kind of disinterested appreciation, but the objects, the sublime, I would think,", "start": 4532.52, "end": 4538.92}
+{"id": "HA6F4rcv2es-t4538.92", "text": "in some ways, are more democratically open.", "start": 4538.92, "end": 4542.4400000000005}
+{"id": "HA6F4rcv2es-t4542.4400000000005", "text": "Okay.", "start": 4542.4400000000005, "end": 4543.4400000000005}
+{"id": "HA6F4rcv2es-t4543.4400000000005", "text": "I'd be more of a discussion.", "start": 4543.4400000000005, "end": 4545.040000000001}
+{"id": "HA6F4rcv2es-t4545.040000000001", "text": "Or is these days flexible?", "start": 4545.040000000001, "end": 4549.88}
+{"id": "HA6F4rcv2es-t4549.88", "text": "Yeah.", "start": 4549.88, "end": 4550.88}
+{"id": "HA6F4rcv2es-t4550.88", "text": "I would allow people with questions for it.", "start": 4550.88, "end": 4554.68}
+{"id": "HA6F4rcv2es-t4554.68", "text": "Okay, go ahead.", "start": 4554.68, "end": 4555.68}
+{"id": "HA6F4rcv2es-t4555.68", "text": "Thanks, everybody, for a memorable discussion.", "start": 4555.68, "end": 4558.120000000001}
+{"id": "HA6F4rcv2es-t4558.12", "text": "My question is for Professor Frye specifically in a concerns ecology and the sublime.", "start": 4558.12, "end": 4567.4}
+{"id": "HA6F4rcv2es-t4567.4", "text": "Characterizations of the sublime historically have been inflected with terms of terror", "start": 4567.4, "end": 4570.48}
+{"id": "HA6F4rcv2es-t4570.48", "text": "and fear, which precipitate from the central concern of death and the subjectivity that", "start": 4570.48, "end": 4575.72}
+{"id": "HA6F4rcv2es-t4575.72", "text": "gives rise to.", "start": 4575.72, "end": 4577.64}
+{"id": "HA6F4rcv2es-t4577.64", "text": "It's universally acknowledged, or ought to be universally acknowledged, is tracked towards", "start": 4577.64, "end": 4582.599999999999}
+{"id": "HA6F4rcv2es-t4582.6", "text": "what C.S.L.A. would call the death of earth in four quartets.", "start": 4582.6, "end": 4588.88}
+{"id": "HA6F4rcv2es-t4588.88", "text": "Fossil fuels accumulating in our atmosphere just rang for me when you talked about the", "start": 4588.88, "end": 4595.400000000001}
+{"id": "HA6F4rcv2es-t4595.400000000001", "text": "sublime as repetition and accretion.", "start": 4595.400000000001, "end": 4599.280000000001}
+{"id": "HA6F4rcv2es-t4599.280000000001", "text": "And that production is ingrained in our quotidian lives, our daily lives.", "start": 4599.280000000001, "end": 4604.4400000000005}
+{"id": "HA6F4rcv2es-t4604.4400000000005", "text": "So if the experience of the sublime requires a kind of distance from quotidian experience,", "start": 4604.4400000000005, "end": 4610.88}
+{"id": "HA6F4rcv2es-t4610.88", "text": "then that be achieved in this particular context.", "start": 4610.88, "end": 4615.4800000000005}
+{"id": "HA6F4rcv2es-t4615.4800000000005", "text": "If it requires this kind of internalization of a proxy danger, what happens when the danger", "start": 4615.4800000000005, "end": 4620.08}
+{"id": "HA6F4rcv2es-t4620.08", "text": "is very real?", "start": 4620.08, "end": 4622.16}
+{"id": "HA6F4rcv2es-t4622.16", "text": "How does that complicate the internalization process?", "start": 4622.16, "end": 4625.6}
+{"id": "HA6F4rcv2es-t4625.6", "text": "Guess what I'm getting at in the context of our ecological moment, the impending catastrophe", "start": 4625.6, "end": 4633.28}
+{"id": "HA6F4rcv2es-t4633.28", "text": "probably.", "start": 4633.28, "end": 4634.28}
+{"id": "HA6F4rcv2es-t4634.28", "text": "We don't have a time scale, but it's looking that way.", "start": 4634.28, "end": 4638.24}
+{"id": "HA6F4rcv2es-t4638.24", "text": "The reality of sublimity available to us.", "start": 4638.24, "end": 4642.32}
+{"id": "HA6F4rcv2es-t4642.32", "text": "If it's not, is that a problem?", "start": 4642.32, "end": 4644.48}
+{"id": "HA6F4rcv2es-t4644.48", "text": "And if that's a problem, is it a political problem?", "start": 4644.48, "end": 4647.8}
+{"id": "HA6F4rcv2es-t4647.8", "text": "Thank you.", "start": 4647.8, "end": 4648.8}
+{"id": "HA6F4rcv2es-t4648.8", "text": "Thank you.", "start": 4648.8, "end": 4649.8}
+{"id": "HA6F4rcv2es-t4649.8", "text": "It's a very interesting question.", "start": 4649.8, "end": 4651.36}
+{"id": "HA6F4rcv2es-t4651.36", "text": "I think the very concept of the Anthropocene itself is sublime, primarily because it has", "start": 4651.36, "end": 4658.719999999999}
+{"id": "HA6F4rcv2es-t4658.719999999999", "text": "to do with the traditional, very traditional way in which the sublime is a questioning", "start": 4658.719999999999, "end": 4666.16}
+{"id": "HA6F4rcv2es-t4666.16", "text": "of the limits of human power.", "start": 4666.16, "end": 4669.76}
+{"id": "HA6F4rcv2es-t4669.76", "text": "There's an odd paradox about the Anthropocene.", "start": 4669.76, "end": 4672.92}
+{"id": "HA6F4rcv2es-t4672.92", "text": "On the one hand, we are holding our feet to the fire as a civilization in a way that", "start": 4672.92, "end": 4679.2}
+{"id": "HA6F4rcv2es-t4679.2", "text": "we never did before.", "start": 4679.2, "end": 4682.12}
+{"id": "HA6F4rcv2es-t4682.12", "text": "And on the other hand, we are supposing ourselves to have greater power than we supposed ourselves", "start": 4682.12, "end": 4688.24}
+{"id": "HA6F4rcv2es-t4688.24", "text": "ever to have before.", "start": 4688.24, "end": 4690.32}
+{"id": "HA6F4rcv2es-t4690.32", "text": "And in either case, you could say, that it's something like a sublime experience.", "start": 4690.32, "end": 4695.48}
+{"id": "HA6F4rcv2es-t4695.48", "text": "I suppose the question is, depending on the degree that one might feel that the Anthropocene", "start": 4695.48, "end": 4703.36}
+{"id": "HA6F4rcv2es-t4703.36", "text": "is, how can I say it, a strong argument as opposed to a concern of global warming?", "start": 4703.36, "end": 4712.2}
+{"id": "HA6F4rcv2es-t4712.2", "text": "One might wonder about whether or not the relationship between the human and the impending", "start": 4712.2, "end": 4721.04}
+{"id": "HA6F4rcv2es-t4721.04", "text": "disaster remains sublime in the same way.", "start": 4721.04, "end": 4725.84}
+{"id": "HA6F4rcv2es-t4725.84", "text": "You could argue, given the agreement most of us probably share that the debate is impending,", "start": 4725.84, "end": 4733.6}
+{"id": "HA6F4rcv2es-t4733.6", "text": "you could argue that this is very much like the traditional sublime moment in which one", "start": 4733.6, "end": 4739.0}
+{"id": "HA6F4rcv2es-t4739.0", "text": "is having a Birkian experience of being overwhelmed by something external.", "start": 4739.0, "end": 4745.92}
+{"id": "HA6F4rcv2es-t4745.92", "text": "And you could argue that if we accept the strong argument about human responsibility,", "start": 4745.92, "end": 4752.4800000000005}
+{"id": "HA6F4rcv2es-t4752.4800000000005", "text": "that that's more like the content experience of recognizing something in yourself in response", "start": 4752.4800000000005, "end": 4760.92}
+{"id": "HA6F4rcv2es-t4760.92", "text": "to what you see in the external world.", "start": 4760.92, "end": 4763.04}
+{"id": "HA6F4rcv2es-t4763.04", "text": "So I guess I would put the ecological question in relation to the sublime in those terms.", "start": 4763.04, "end": 4768.56}
+{"id": "HA6F4rcv2es-t4768.56", "text": "Sorry to have gone on, but you did ask me.", "start": 4768.56, "end": 4775.36}
+{"id": "HA6F4rcv2es-t4775.36", "text": "I too would like to thank the panel for a fascinating and broad-ranging discussion.", "start": 4775.36, "end": 4781.36}
+{"id": "HA6F4rcv2es-t4781.36", "text": "The question I have, I guess, relates to the difference between the object that's nominally", "start": 4781.36, "end": 4787.799999999999}
+{"id": "HA6F4rcv2es-t4787.799999999999", "text": "sublime and the experience, the chemicals in our brain.", "start": 4787.799999999999, "end": 4793.48}
+{"id": "HA6F4rcv2es-t4793.48", "text": "I'm told that the liveness in the newtons have a sublime experience thinking about numbers.", "start": 4793.48, "end": 4799.5599999999995}
+{"id": "HA6F4rcv2es-t4799.5599999999995", "text": "That would not be my experience, but I accept that they do.", "start": 4799.5599999999995, "end": 4804.5199999999995}
+{"id": "HA6F4rcv2es-t4804.52", "text": "The question I have is, is there a relationship between the peak experience that may not have", "start": 4804.52, "end": 4812.76}
+{"id": "HA6F4rcv2es-t4812.76", "text": "any objective cause, particularly the zen and the art of archery type experience that", "start": 4812.76, "end": 4821.8}
+{"id": "HA6F4rcv2es-t4821.8", "text": "we experience not necessarily for archery?", "start": 4821.8, "end": 4824.72}
+{"id": "HA6F4rcv2es-t4824.72", "text": "It may come from Le Maud Joust.", "start": 4824.72, "end": 4827.76}
+{"id": "HA6F4rcv2es-t4827.76", "text": "It may come from hitting a perfect forehand.", "start": 4827.76, "end": 4830.200000000001}
+{"id": "HA6F4rcv2es-t4830.2", "text": "It may come from various other types of events.", "start": 4830.2, "end": 4835.599999999999}
+{"id": "HA6F4rcv2es-t4835.599999999999", "text": "Is that similar in some sense?", "start": 4835.599999999999, "end": 4838.12}
+{"id": "HA6F4rcv2es-t4838.12", "text": "It feels to me as if it's similar, but maybe a minor league form of the sublime, not in", "start": 4838.12, "end": 4842.5599999999995}
+{"id": "HA6F4rcv2es-t4842.5599999999995", "text": "the level of appreciating Bach or feeling transported, but I'd be interested in your", "start": 4842.5599999999995, "end": 4847.8}
+{"id": "HA6F4rcv2es-t4847.8", "text": "thoughts.", "start": 4847.8, "end": 4848.8}
+{"id": "HA6F4rcv2es-t4848.8", "text": "I think it's close, but I think that it absolutely borders on it, but that the difference for", "start": 4848.8, "end": 4858.08}
+{"id": "HA6F4rcv2es-t4858.08", "text": "me would be, well, it depends on how you experience.", "start": 4858.08, "end": 4862.76}
+{"id": "HA6F4rcv2es-t4862.76", "text": "If you experience it as the ultimate moment of mastery, like you really got it, then to", "start": 4862.76, "end": 4868.48}
+{"id": "HA6F4rcv2es-t4868.48", "text": "me it's not sublime, but it's close because you've transcended your usual capabilities", "start": 4868.48, "end": 4874.48}
+{"id": "HA6F4rcv2es-t4874.48", "text": "and done something like being in the zone.", "start": 4874.48, "end": 4881.08}
+{"id": "HA6F4rcv2es-t4881.08", "text": "If you had this moment where you had no idea what you did, and then you looked and the", "start": 4881.08, "end": 4887.64}
+{"id": "HA6F4rcv2es-t4887.64", "text": "arrow was quivering right in the heart of the bull's eye, that's more like the sublime.", "start": 4887.64, "end": 4892.240000000001}
+{"id": "HA6F4rcv2es-t4892.240000000001", "text": "When you weren't there, you didn't get to be there, and yet it happened.", "start": 4892.240000000001, "end": 4897.320000000001}
+{"id": "HA6F4rcv2es-t4897.320000000001", "text": "Again, you get a sense that, wow, there's something going on that I don't have a handle", "start": 4897.320000000001, "end": 4902.04}
+{"id": "HA6F4rcv2es-t4902.04", "text": "on, control over that's bigger than me, and yet it just did this thing.", "start": 4902.04, "end": 4907.12}
+{"id": "HA6F4rcv2es-t4907.12", "text": "That to me would be closer to the sublime, if not the sublime itself.", "start": 4907.12, "end": 4913.92}
+{"id": "HA6F4rcv2es-t4913.92", "text": "The marvelous discussion, and it's all present for me because I haven't been thinking about", "start": 4913.92, "end": 4921.52}
+{"id": "HA6F4rcv2es-t4921.52", "text": "the sublime.", "start": 4921.52, "end": 4923.24}
+{"id": "HA6F4rcv2es-t4923.24", "text": "My experience with what's happened here is all within the context of the now.", "start": 4923.24, "end": 4931.4}
+{"id": "HA6F4rcv2es-t4931.4", "text": "It was going to say it wasn't a sublime experience, and I don't mean that as a subtle comment", "start": 4931.4, "end": 4940.16}
+{"id": "HA6F4rcv2es-t4940.16", "text": "on the discussion, which I think was terrific.", "start": 4940.16, "end": 4942.64}
+{"id": "HA6F4rcv2es-t4942.64", "text": "Instead, it became a graphic experience for me after a progression because when I came", "start": 4942.64, "end": 4949.56}
+{"id": "HA6F4rcv2es-t4949.56", "text": "in, I began to hear a discussion of binaries.", "start": 4949.56, "end": 4952.52}
+{"id": "HA6F4rcv2es-t4952.52", "text": "You had fear, and then you have this experience.", "start": 4952.52, "end": 4955.04}
+{"id": "HA6F4rcv2es-t4955.04", "text": "You have something else.", "start": 4955.04, "end": 4956.8}
+{"id": "HA6F4rcv2es-t4956.8", "text": "You have go to the mountains.", "start": 4956.8, "end": 4958.0}
+{"id": "HA6F4rcv2es-t4958.0", "text": "You hear music.", "start": 4958.0, "end": 4960.64}
+{"id": "HA6F4rcv2es-t4960.64", "text": "I was hearing a binary, and largely a binary of flow, an experience and a consequence.", "start": 4960.64, "end": 4968.4800000000005}
+{"id": "HA6F4rcv2es-t4968.48", "text": "And it became graphic, and eventually, out of the past because it was spots, it became", "start": 4968.48, "end": 4977.48}
+{"id": "HA6F4rcv2es-t4977.48", "text": "sublime.", "start": 4977.48, "end": 4979.679999999999}
+{"id": "HA6F4rcv2es-t4979.679999999999", "text": "I was hearing a discussion of sublime, and philosophers may have disagreed, which suggests", "start": 4979.679999999999, "end": 4988.719999999999}
+{"id": "HA6F4rcv2es-t4988.719999999999", "text": "to me, therefore, they were landing on different landscapes or having different experiences.", "start": 4988.719999999999, "end": 4995.16}
+{"id": "HA6F4rcv2es-t4995.16", "text": "And within this context, there is no set definition, at least, that I heard of the sublime.", "start": 4995.16, "end": 5000.12}
+{"id": "HA6F4rcv2es-t5000.12", "text": "So we have a plurality of sublimbs.", "start": 5000.12, "end": 5004.639999999999}
+{"id": "HA6F4rcv2es-t5004.639999999999", "text": "Mostly as I say, the binary was something leading to something.", "start": 5004.639999999999, "end": 5010.2}
+{"id": "HA6F4rcv2es-t5010.2", "text": "But there was not a word used that I'd like to see if you have any comments on it.", "start": 5010.2, "end": 5015.96}
+{"id": "HA6F4rcv2es-t5015.96", "text": "It suggested, constantly, discontinuity, that in this plurality of experiences, I would", "start": 5015.96, "end": 5025.76}
+{"id": "HA6F4rcv2es-t5025.76", "text": "say with music, it's a flow, not a discontinuity from what's happening to the sense of the", "start": 5025.76, "end": 5033.84}
+{"id": "HA6F4rcv2es-t5033.84", "text": "sublime.", "start": 5033.84, "end": 5036.08}
+{"id": "HA6F4rcv2es-t5036.08", "text": "But in the disruption of life, severe loss, suddenly, all expectations, and impasse.", "start": 5036.08, "end": 5045.92}
+{"id": "HA6F4rcv2es-t5045.92", "text": "There's a discontinuity.", "start": 5045.92, "end": 5048.4}
+{"id": "HA6F4rcv2es-t5048.4", "text": "On other levels, there are discontinuities, expectations, totally.", "start": 5048.4, "end": 5054.4400000000005}
+{"id": "HA6F4rcv2es-t5054.4400000000005", "text": "No, wow.", "start": 5054.4400000000005, "end": 5058.0}
+{"id": "HA6F4rcv2es-t5058.0", "text": "And you could have that.", "start": 5058.0, "end": 5059.8}
+{"id": "HA6F4rcv2es-t5059.8", "text": "So I'm seeing this graph of physical.", "start": 5059.8, "end": 5065.68}
+{"id": "HA6F4rcv2es-t5065.68", "text": "You mentioned various physical things happening, and then the sublime.", "start": 5065.68, "end": 5070.4}
+{"id": "HA6F4rcv2es-t5070.4", "text": "Sensual, many senses, visual, and sensual, leading to this.", "start": 5070.4, "end": 5077.759999999999}
+{"id": "HA6F4rcv2es-t5077.759999999999", "text": "Emotional, strong emotional experiences.", "start": 5077.759999999999, "end": 5080.28}
+{"id": "HA6F4rcv2es-t5080.28", "text": "So I just wanted to share that, and then get a sense of, particularly, the sense of how", "start": 5080.28, "end": 5085.5199999999995}
+{"id": "HA6F4rcv2es-t5085.5199999999995", "text": "discontinuity, as well as the flow, are related to this experience, and then the product,", "start": 5085.5199999999995, "end": 5093.4}
+{"id": "HA6F4rcv2es-t5093.4", "text": "which we call the sublime, but should be sublime.", "start": 5093.4, "end": 5096.16}
+{"id": "HA6F4rcv2es-t5096.16", "text": "Thank you.", "start": 5096.16, "end": 5097.16}
+{"id": "HA6F4rcv2es-t5097.16", "text": "I feel very strongly that discontinuity is at the heart of the sublime.", "start": 5097.16, "end": 5102.2}
+{"id": "HA6F4rcv2es-t5102.2", "text": "And that's why I talked about the rift in the fabric of communication, or rhetoric,", "start": 5102.2, "end": 5109.24}
+{"id": "HA6F4rcv2es-t5109.24", "text": "or discourse, something that unexpectedly bursts through.", "start": 5109.24, "end": 5116.4}
+{"id": "HA6F4rcv2es-t5116.4", "text": "And I think in the 20th century, one of the more interesting instances of thinking of", "start": 5116.4, "end": 5122.2}
+{"id": "HA6F4rcv2es-t5122.2", "text": "it this way is in the work of the Frankfurt School philosopher Walter Benjamin, who speaks", "start": 5122.2, "end": 5128.96}
+{"id": "HA6F4rcv2es-t5128.96", "text": "of distraction or cerstroyonk as a necessary component of the experience of genuinely modern", "start": 5128.96, "end": 5139.5599999999995}
+{"id": "HA6F4rcv2es-t5139.5599999999995", "text": "art.", "start": 5139.5599999999995, "end": 5142.32}
+{"id": "HA6F4rcv2es-t5142.32", "text": "And the way I always try to explain it is that it's basically it's saw on the road to", "start": 5142.32, "end": 5147.16}
+{"id": "HA6F4rcv2es-t5147.16", "text": "Damascus.", "start": 5147.16, "end": 5148.16}
+{"id": "HA6F4rcv2es-t5148.16", "text": "He's writing his horse along.", "start": 5148.16, "end": 5150.12}
+{"id": "HA6F4rcv2es-t5150.12", "text": "He's paying no attention.", "start": 5150.12, "end": 5151.5199999999995}
+{"id": "HA6F4rcv2es-t5151.52", "text": "And all of a sudden he falls off his horse.", "start": 5151.52, "end": 5154.72}
+{"id": "HA6F4rcv2es-t5154.72", "text": "And he picks himself up, dust himself off, and he realizes that now he's Paul, somebody", "start": 5154.72, "end": 5160.120000000001}
+{"id": "HA6F4rcv2es-t5160.120000000001", "text": "with whom I can identify, and that he has had a transformational experience.", "start": 5160.120000000001, "end": 5168.52}
+{"id": "HA6F4rcv2es-t5168.52", "text": "He could not have had this experience except as a form of disruption or distraction.", "start": 5168.52, "end": 5175.8}
+{"id": "HA6F4rcv2es-t5175.8", "text": "He couldn't have had the experience if he just kept galloping Damascus.", "start": 5175.8, "end": 5180.4400000000005}
+{"id": "HA6F4rcv2es-t5180.44", "text": "There had to be this moment of complete disruptive surprise which opened up for him the possibility", "start": 5180.44, "end": 5189.08}
+{"id": "HA6F4rcv2es-t5189.08", "text": "of a transformative experience.", "start": 5189.08, "end": 5191.839999999999}
+{"id": "HA6F4rcv2es-t5191.839999999999", "text": "And I think that's the way Benjamin thinks of distraction and, for example, the work", "start": 5191.839999999999, "end": 5197.639999999999}
+{"id": "HA6F4rcv2es-t5197.639999999999", "text": "of art essay.", "start": 5197.639999999999, "end": 5198.639999999999}
+{"id": "HA6F4rcv2es-t5198.639999999999", "text": "I want to say about discontinuity in terms of music.", "start": 5198.639999999999, "end": 5202.48}
+{"id": "HA6F4rcv2es-t5202.48", "text": "Well in music, I'm just thinking as you were speaking that you think of the sublime continuity", "start": 5202.48, "end": 5208.36}
+{"id": "HA6F4rcv2es-t5208.36", "text": "of the music of Mozart, and he wrote from one moment to the next that you can see just", "start": 5208.36, "end": 5215.12}
+{"id": "HA6F4rcv2es-t5215.12", "text": "a complete flow.", "start": 5215.12, "end": 5216.4}
+{"id": "HA6F4rcv2es-t5216.4", "text": "And then you think of the disruptions that Beethoven went through in order to achieve", "start": 5216.4, "end": 5221.12}
+{"id": "HA6F4rcv2es-t5221.12", "text": "the fifth symphony, and how he almost didn't get to the point that we know now is the sublime", "start": 5221.12, "end": 5227.28}
+{"id": "HA6F4rcv2es-t5227.28", "text": "work.", "start": 5227.28, "end": 5228.28}
+{"id": "HA6F4rcv2es-t5228.28", "text": "Because his work was constantly, he was disrupted by his own thoughts.", "start": 5228.28, "end": 5232.92}
+{"id": "HA6F4rcv2es-t5232.92", "text": "He was such a lack of continuity in his thought, and yet he chiseled away and managed from", "start": 5232.92, "end": 5239.88}
+{"id": "HA6F4rcv2es-t5239.88", "text": "all of this to produce these cohesive, wonderful pieces.", "start": 5239.88, "end": 5244.0}
+{"id": "HA6F4rcv2es-t5244.0", "text": "That's probably nothing to do with your question really, but just as simple musicians.", "start": 5244.0, "end": 5249.4800000000005}
+{"id": "HA6F4rcv2es-t5249.4800000000005", "text": "Yeah, I'm wondering how much does one state of mind determine whether you have a sublime", "start": 5249.4800000000005, "end": 5255.4800000000005}
+{"id": "HA6F4rcv2es-t5255.4800000000005", "text": "experience as opposed to the actual event?", "start": 5255.4800000000005, "end": 5257.92}
+{"id": "HA6F4rcv2es-t5257.92", "text": "Can anything cause someone to have a sublime experience?", "start": 5257.92, "end": 5261.96}
+{"id": "HA6F4rcv2es-t5261.96", "text": "If they're in the right frame of mind, particularly if they're on the right drugs.", "start": 5261.96, "end": 5266.96}
+{"id": "HA6F4rcv2es-t5266.96", "text": "I actually think sort of depending on your view of the sublime, I think if you go with", "start": 5266.96, "end": 5276.0}
+{"id": "HA6F4rcv2es-t5276.0", "text": "a more physiological view of the sublime, like in Burke, where it's in some ways a kind", "start": 5276.0, "end": 5283.52}
+{"id": "HA6F4rcv2es-t5283.52", "text": "of relief from a terror or a kind of relaxation of mental and bodily exertion, then it seems", "start": 5283.52, "end": 5293.200000000001}
+{"id": "HA6F4rcv2es-t5293.200000000001", "text": "like it would be kind of a fairly easy experience for anyone to have.", "start": 5293.200000000001, "end": 5299.400000000001}
+{"id": "HA6F4rcv2es-t5299.400000000001", "text": "But I think those who take a more transcendental approach to the sublime see that there's much", "start": 5299.400000000001, "end": 5306.080000000001}
+{"id": "HA6F4rcv2es-t5306.080000000001", "text": "more of a cognitive element to a sublime experience that involves a kind of train of thought", "start": 5306.080000000001, "end": 5312.52}
+{"id": "HA6F4rcv2es-t5312.52", "text": "about one's place in the universe and a human's in nature.", "start": 5312.52, "end": 5317.6}
+{"id": "HA6F4rcv2es-t5317.6", "text": "And in that case, I think you might need a little more education of a certain sort or", "start": 5317.6, "end": 5323.76}
+{"id": "HA6F4rcv2es-t5323.76", "text": "you might have to have a certain ideas in order to have that sort of sublime experience.", "start": 5323.76, "end": 5330.240000000001}
+{"id": "HA6F4rcv2es-t5330.240000000001", "text": "Wouldn't that imply that the same event would cause the same people to be sublime?", "start": 5330.240000000001, "end": 5336.240000000001}
+{"id": "HA6F4rcv2es-t5336.240000000001", "text": "Why?", "start": 5336.240000000001, "end": 5337.240000000001}
+{"id": "HA6F4rcv2es-t5337.240000000001", "text": "It seems like people have very different experiences with the same event.", "start": 5337.240000000001, "end": 5340.280000000001}
+{"id": "HA6F4rcv2es-t5340.28", "text": "So there's not absolutely about it.", "start": 5340.28, "end": 5342.679999999999}
+{"id": "HA6F4rcv2es-t5342.679999999999", "text": "It just depends on the person.", "start": 5342.679999999999, "end": 5344.92}
+{"id": "HA6F4rcv2es-t5344.92", "text": "Yeah, although I think even though different people might have different experiences, you", "start": 5344.92, "end": 5351.92}
+{"id": "HA6F4rcv2es-t5351.92", "text": "might think that well, certain experiences are more appropriate for the environment than", "start": 5351.92, "end": 5356.5199999999995}
+{"id": "HA6F4rcv2es-t5356.5199999999995", "text": "others or certain experiences may be more serious.", "start": 5356.5199999999995, "end": 5360.44}
+{"id": "HA6F4rcv2es-t5360.44", "text": "So I think in some ways it doesn't mean just because people might have different experiences", "start": 5360.44, "end": 5365.0}
+{"id": "HA6F4rcv2es-t5365.0", "text": "doesn't mean that there's no normativity available to us about these experiences.", "start": 5365.0, "end": 5371.48}
+{"id": "HA6F4rcv2es-t5371.48", "text": "I think he goes back to the first intervention that I mean there is cultural conditioning", "start": 5371.48, "end": 5376.6}
+{"id": "HA6F4rcv2es-t5376.6", "text": "in the experience of the sublime.", "start": 5376.6, "end": 5379.36}
+{"id": "HA6F4rcv2es-t5379.36", "text": "And probably there isn't anyone who doesn't fall under one form or another of that cultural", "start": 5379.36, "end": 5386.52}
+{"id": "HA6F4rcv2es-t5386.52", "text": "conditioning and therefore responds to a certain set of external events as the sublime.", "start": 5386.52, "end": 5396.92}
+{"id": "HA6F4rcv2es-t5396.92", "text": "I think that's possible, very, very probable and that that means all kinds of music, all", "start": 5396.92, "end": 5404.92}
+{"id": "HA6F4rcv2es-t5404.92", "text": "kinds of art, all kinds of experience in the natural world.", "start": 5404.92, "end": 5410.6}
+{"id": "HA6F4rcv2es-t5410.6", "text": "Thank you.", "start": 5410.6, "end": 5411.6}
+{"id": "HA6F4rcv2es-t5411.6", "text": "Hi.", "start": 5411.6, "end": 5412.6}
+{"id": "HA6F4rcv2es-t5412.6", "text": "Thank you so much for this awesome roundtable.", "start": 5412.6, "end": 5416.160000000001}
+{"id": "HA6F4rcv2es-t5416.16", "text": "I have a question that's similar but looking at it from a different perspective from the", "start": 5416.16, "end": 5420.16}
+{"id": "HA6F4rcv2es-t5420.16", "text": "individual feeling connected to the universe and whether or not the sublime or that moment", "start": 5420.16, "end": 5429.04}
+{"id": "HA6F4rcv2es-t5429.04", "text": "of feeling beauty or feeling sublime be a way to connect to society, to feel like a member", "start": 5429.04, "end": 5436.28}
+{"id": "HA6F4rcv2es-t5436.28", "text": "of a community.", "start": 5436.28, "end": 5437.28}
+{"id": "HA6F4rcv2es-t5437.28", "text": "For example, I know that feeling standing on top of a mountain and you know that feeling", "start": 5437.28, "end": 5442.28}
+{"id": "HA6F4rcv2es-t5442.28", "text": "and you know that feeling and that I could know that feeling when you mention it implies", "start": 5442.28, "end": 5448.639999999999}
+{"id": "HA6F4rcv2es-t5448.639999999999", "text": "that there's some kind of shared or communal experience.", "start": 5448.639999999999, "end": 5452.84}
+{"id": "HA6F4rcv2es-t5452.84", "text": "And if you could talk about how I'm also coming through this from the perspective of Emerson", "start": 5452.84, "end": 5458.599999999999}
+{"id": "HA6F4rcv2es-t5458.599999999999", "text": "and his idea of like the common heart and human sentiment and if you could talk about", "start": 5458.599999999999, "end": 5463.44}
+{"id": "HA6F4rcv2es-t5463.44", "text": "how that could maybe be the foundation for society or community.", "start": 5463.44, "end": 5475.2}
+{"id": "HA6F4rcv2es-t5475.2", "text": "You went on the mountain.", "start": 5475.2, "end": 5477.16}
+{"id": "HA6F4rcv2es-t5477.16", "text": "So that's a really thoughtful question and I appreciate it.", "start": 5477.16, "end": 5485.32}
+{"id": "HA6F4rcv2es-t5485.32", "text": "And I'm understanding it various ways and one is at first I thought you were asking is", "start": 5485.32, "end": 5489.919999999999}
+{"id": "HA6F4rcv2es-t5489.92", "text": "there a kind of a social sublime and then I started to get worried about there's the", "start": 5489.92, "end": 5495.68}
+{"id": "HA6F4rcv2es-t5495.68", "text": "fascist sublime where you're part of the crowd and that to me is not the sublime maybe just", "start": 5495.68, "end": 5504.32}
+{"id": "HA6F4rcv2es-t5504.32", "text": "because I find it distasteful.", "start": 5504.32, "end": 5507.32}
+{"id": "HA6F4rcv2es-t5507.32", "text": "I'm not sure I have a good intellectual reason to rule that out but then I understood you", "start": 5507.32, "end": 5512.68}
+{"id": "HA6F4rcv2es-t5512.68", "text": "saying do you tap into something that then connects to everyone else?", "start": 5512.68, "end": 5521.4400000000005}
+{"id": "HA6F4rcv2es-t5521.4400000000005", "text": "We were just talking about the sublime disruption.", "start": 5521.4400000000005, "end": 5524.04}
+{"id": "HA6F4rcv2es-t5524.04", "text": "Can the sublime also lead to connection?", "start": 5524.04, "end": 5528.240000000001}
+{"id": "HA6F4rcv2es-t5528.240000000001", "text": "I guess there it would be insofar as the sublime shakes you out of your habitual sense of self,", "start": 5528.240000000001, "end": 5537.16}
+{"id": "HA6F4rcv2es-t5537.16", "text": "makes you out of your sense of you as a stable individual with this name and this history.", "start": 5537.16, "end": 5544.44}
+{"id": "HA6F4rcv2es-t5544.44", "text": "Then does it enable new kinds of connections?", "start": 5544.44, "end": 5547.5199999999995}
+{"id": "HA6F4rcv2es-t5547.5199999999995", "text": "And yeah I would say yes.", "start": 5547.5199999999995, "end": 5551.32}
+{"id": "HA6F4rcv2es-t5551.32", "text": "Hi, thank you for your discussion.", "start": 5551.32, "end": 5557.32}
+{"id": "HA6F4rcv2es-t5557.32", "text": "I have a question about the permanence of sublime and a couple of examples about this", "start": 5557.32, "end": 5563.8}
+{"id": "HA6F4rcv2es-t5563.8", "text": "is I always take pictures of everything so I'm very observant of my surroundings and", "start": 5563.8, "end": 5569.6}
+{"id": "HA6F4rcv2es-t5569.6", "text": "a pigeon on a rail on the way to work one morning will cause me to take pause and it's", "start": 5569.6, "end": 5574.52}
+{"id": "HA6F4rcv2es-t5574.52", "text": "almost sublime something so simple.", "start": 5574.52, "end": 5577.08}
+{"id": "HA6F4rcv2es-t5577.08", "text": "And the next morning I'll see the same thing and it's not there but the memory of the first", "start": 5577.08, "end": 5581.12}
+{"id": "HA6F4rcv2es-t5581.12", "text": "one remains.", "start": 5581.12, "end": 5582.76}
+{"id": "HA6F4rcv2es-t5582.76", "text": "So memory and sublime I think is something that I wonder about but also going back to", "start": 5582.76, "end": 5589.320000000001}
+{"id": "HA6F4rcv2es-t5589.32", "text": "the mountains for example let's say you make that trip with someone you love and you lose", "start": 5589.32, "end": 5595.16}
+{"id": "HA6F4rcv2es-t5595.16", "text": "that loved one and suddenly that experience is shifted into a very different painful type", "start": 5595.16, "end": 5602.12}
+{"id": "HA6F4rcv2es-t5602.12", "text": "of sublime.", "start": 5602.12, "end": 5603.12}
+{"id": "HA6F4rcv2es-t5603.12", "text": "I was just wondering if you could comment on that.", "start": 5603.12, "end": 5608.2}
+{"id": "HA6F4rcv2es-t5608.2", "text": "Actually the mountains is a really interesting example and there's a book called Mountain", "start": 5608.2, "end": 5615.48}
+{"id": "HA6F4rcv2es-t5615.48", "text": "Gloom and Mountain Glory, thank you, Marjorie Hope Nicholson and if I recall correctly her", "start": 5615.48, "end": 5623.919999999999}
+{"id": "HA6F4rcv2es-t5623.919999999999", "text": "thesis is that actually it wasn't until about mid-17th century that is that right that people", "start": 5623.919999999999, "end": 5631.5599999999995}
+{"id": "HA6F4rcv2es-t5631.5599999999995", "text": "started actually thinking of mountains as sublime and not blights on the earth's surface and", "start": 5631.5599999999995, "end": 5639.679999999999}
+{"id": "HA6F4rcv2es-t5639.68", "text": "that's largely because of theological views that held that the earth was originally made", "start": 5639.68, "end": 5647.96}
+{"id": "HA6F4rcv2es-t5647.96", "text": "by God to be perfectly smooth and that it was because of the fall and sin that then the", "start": 5647.96, "end": 5654.56}
+{"id": "HA6F4rcv2es-t5654.56", "text": "world became you know a pocked with mountains and so in some ways it seemed that at a certain", "start": 5654.56, "end": 5662.200000000001}
+{"id": "HA6F4rcv2es-t5662.2", "text": "point it had to be people's ideas about the earth and theology that enabled mountains to", "start": 5662.2, "end": 5671.5199999999995}
+{"id": "HA6F4rcv2es-t5671.5199999999995", "text": "become sublime and I think to be experienced as sublime I think one of the issues that", "start": 5671.5199999999995, "end": 5677.16}
+{"id": "HA6F4rcv2es-t5677.16", "text": "you raised about you know sort of what's the subjective component to the sublime experience", "start": 5677.16, "end": 5684.639999999999}
+{"id": "HA6F4rcv2es-t5684.64", "text": "how much has it to do really with the ideas we have of the world and the metaphysical ideas", "start": 5684.64, "end": 5693.04}
+{"id": "HA6F4rcv2es-t5693.04", "text": "or even personal subjective associations you know I climbed that mountain with the love", "start": 5693.04, "end": 5699.360000000001}
+{"id": "HA6F4rcv2es-t5699.360000000001", "text": "of my life or something like that so I think I mean that's gets at some of the subjective", "start": 5699.360000000001, "end": 5708.04}
+{"id": "HA6F4rcv2es-t5708.04", "text": "aspect of this experience and which would make it I think very difficult to give any convincing", "start": 5708.04, "end": 5715.12}
+{"id": "HA6F4rcv2es-t5715.12", "text": "account of sublime experience that is perfectly objective you know that well these kinds of", "start": 5715.12, "end": 5720.68}
+{"id": "HA6F4rcv2es-t5720.68", "text": "things are sublime and these are not it seems to have a lot to do with personal and also", "start": 5720.68, "end": 5729.16}
+{"id": "HA6F4rcv2es-t5729.16", "text": "cultural and intellectual associations what interests me about this lecture is it starts", "start": 5729.16, "end": 5740.2}
+{"id": "HA6F4rcv2es-t5740.2", "text": "out with a particular point and then radiates all over and the complexity of the subject", "start": 5740.2, "end": 5745.76}
+{"id": "HA6F4rcv2es-t5745.76", "text": "becomes vaster and vaster now I'm a pain story and so I'm going to speak a little bit", "start": 5745.76, "end": 5751.96}
+{"id": "HA6F4rcv2es-t5751.96", "text": "on a biased point of view from my particular stance but this kind of discussion has happened", "start": 5751.96, "end": 5757.88}
+{"id": "HA6F4rcv2es-t5757.88", "text": "more in the last 10 15 years and prior to that there wasn't as much interest in the sublime", "start": 5757.88, "end": 5765.0}
+{"id": "HA6F4rcv2es-t5765.0", "text": "and when you go back in history and you see religion took a very strong point and then", "start": 5765.0, "end": 5772.04}
+{"id": "HA6F4rcv2es-t5772.04", "text": "we move into the 19th century with nature and then art took on the role of the sublime", "start": 5772.04, "end": 5777.24}
+{"id": "HA6F4rcv2es-t5777.24", "text": "it became the mediator of the transcendental and then the art world changed and it went", "start": 5777.24, "end": 5783.88}
+{"id": "HA6F4rcv2es-t5783.88", "text": "into a gear of high and low and there was a questioning about should we be involved in", "start": 5783.88, "end": 5789.92}
+{"id": "HA6F4rcv2es-t5789.92", "text": "the cloud should we be thinking more about what's happening on the sidewalk around us", "start": 5789.92, "end": 5794.76}
+{"id": "HA6F4rcv2es-t5794.76", "text": "to look at all the all the de-trius of the world and the the emphasis on this peak experience", "start": 5794.76, "end": 5801.8}
+{"id": "HA6F4rcv2es-t5801.8", "text": "on this this experience of transition or the friction within the pearl that brings about", "start": 5801.8, "end": 5807.400000000001}
+{"id": "HA6F4rcv2es-t5807.4", "text": "this this thunder was not essential and I'm finding now in these years which is interesting", "start": 5807.4, "end": 5814.28}
+{"id": "HA6F4rcv2es-t5814.28", "text": "with the pendulum is swinging and there's more discussion about this nature of of things", "start": 5814.28, "end": 5820.92}
+{"id": "HA6F4rcv2es-t5820.92", "text": "of this sort and so again it is such a brought up so I didn't because there were so many", "start": 5820.92, "end": 5828.44}
+{"id": "HA6F4rcv2es-t5828.44", "text": "subjects that came under but perhaps the most important thing discussed was the concept", "start": 5828.44, "end": 5833.719999999999}
+{"id": "HA6F4rcv2es-t5833.72", "text": "of discontinuity which does bring out the the awe and the sense somehow that we are the", "start": 5833.72, "end": 5842.68}
+{"id": "HA6F4rcv2es-t5842.68", "text": "human condition is a very fragile and and limited condition and I think it's that awareness", "start": 5842.68, "end": 5849.64}
+{"id": "HA6F4rcv2es-t5849.64", "text": "how fragile we are as as humans and as the earth is.", "start": 5849.64, "end": 5853.88}
+{"id": "HA6F4rcv2es-t5856.360000000001", "text": "The 20th century saw a widespread distrust of aesthetics in general one might want to say", "start": 5856.360000000001, "end": 5862.76}
+{"id": "HA6F4rcv2es-t5862.76", "text": "not just of the sublime the beautiful for its part came under a comparable cloud the literary", "start": 5862.76, "end": 5872.6}
+{"id": "HA6F4rcv2es-t5872.6", "text": "critic A.A. Richards early in the 20th century spoke of the phantom aesthetic state and what", "start": 5872.6, "end": 5878.68}
+{"id": "HA6F4rcv2es-t5878.68", "text": "he meant was the state of disinterestedness in Kant in which we have an aesthetic experience", "start": 5878.68, "end": 5888.76}
+{"id": "HA6F4rcv2es-t5888.76", "text": "as opposed to a pettitive experience or a cognitive slash moral experience the only one of those", "start": 5888.76, "end": 5896.52}
+{"id": "HA6F4rcv2es-t5896.52", "text": "experiences which being which is disinterested being the aesthetic experience the 20th century", "start": 5896.52, "end": 5904.2}
+{"id": "HA6F4rcv2es-t5904.2", "text": "skeptical of most things has been skeptical of disinterestedness in general and has insisted", "start": 5904.2, "end": 5912.76}
+{"id": "HA6F4rcv2es-t5912.76", "text": "through the great triumvirate that recur called the hermatives of suspicion marks Nietzsche Freud", "start": 5912.76, "end": 5920.68}
+{"id": "HA6F4rcv2es-t5920.68", "text": "has insisted that experience is interested and that there is no bracketing of a certain kind of", "start": 5920.68, "end": 5929.64}
+{"id": "HA6F4rcv2es-t5929.64", "text": "experience as though it were disinterested so therefore in in in this sense it was the aesthetic", "start": 5929.64, "end": 5937.0}
+{"id": "HA6F4rcv2es-t5937.0", "text": "in general that went into a kind of eclipse people were afraid to talk about their appreciation", "start": 5937.0, "end": 5942.68}
+{"id": "HA6F4rcv2es-t5942.68", "text": "of art or of their environment on aesthetic grounds now this it seems to me for a variety of reasons", "start": 5942.68, "end": 5953.0}
+{"id": "HA6F4rcv2es-t5953.0", "text": "that I'm not sure I fully understand because perhaps I'm a little skeptical myself despite being", "start": 5953.0, "end": 5959.56}
+{"id": "HA6F4rcv2es-t5959.56", "text": "very interested in aesthetics this it seems to me has somewhat subsided this as it were hostility", "start": 5959.56, "end": 5969.8}
+{"id": "HA6F4rcv2es-t5969.8", "text": "toward the aesthetic and we're hearing in addition to hearing more about the sublime again we're also", "start": 5969.8, "end": 5975.64}
+{"id": "HA6F4rcv2es-t5975.64", "text": "hearing more about the beautiful there are people main scary just to name one who are dedicated to", "start": 5975.64, "end": 5984.04}
+{"id": "HA6F4rcv2es-t5984.04", "text": "what I think in the early 20th century would have been called cult of beauty and insisting on the", "start": 5984.04, "end": 5991.24}
+{"id": "HA6F4rcv2es-t5991.24", "text": "return of this as a category which is intrinsically an ethical one and I think the return of the sublime", "start": 5991.24, "end": 5998.360000000001}
+{"id": "HA6F4rcv2es-t5998.36", "text": "also has an interest and implicitly ethical dimension of the kind that we've been obliquely", "start": 5998.36, "end": 6006.599999999999}
+{"id": "HA6F4rcv2es-t6006.599999999999", "text": "talking about during this whole discussion so that that's how I would maybe explain if that's the", "start": 6006.599999999999, "end": 6012.2}
+{"id": "HA6F4rcv2es-t6012.2", "text": "right word how it's returning you know", "start": 6012.2, "end": 6014.44}
+{"id": "HA6F4rcv2es-t6014.44", "text": "there's been a great emphasis on deconstruction of everything a whole concept so it's curious now", "start": 6014.44, "end": 6020.04}
+{"id": "HA6F4rcv2es-t6020.04", "text": "that the parts are being looked at that is unbroken but I think it seems to me also there were a", "start": 6020.04, "end": 6026.92}
+{"id": "HA6F4rcv2es-t6026.92", "text": "couple of moments in the middle of the 20th century though where the sublime kind of in painting came", "start": 6026.92, "end": 6032.76}
+{"id": "HA6F4rcv2es-t6032.76", "text": "back yeah right", "start": 6032.76, "end": 6035.56}
+{"id": "HA6F4rcv2es-t6042.6", "text": "I thought that was sublime but I was afraid to say something okay okay hi this discussion seems to be", "start": 6042.6, "end": 6052.4400000000005}
+{"id": "HA6F4rcv2es-t6052.44", "text": "dancing around the fringe and not tackling the issue that would seem to be essential to most", "start": 6052.44, "end": 6061.48}
+{"id": "HA6F4rcv2es-t6061.48", "text": "people who think about this subject namely what is the meaning of these experiences yes on one", "start": 6061.48, "end": 6069.32}
+{"id": "HA6F4rcv2es-t6069.32", "text": "level a mountainous mountain is just a rock and then somebody comes along and has a different", "start": 6069.32, "end": 6075.96}
+{"id": "HA6F4rcv2es-t6075.96", "text": "experience of it is that experience merely an illusion based on the chemicals that are dancing", "start": 6075.96, "end": 6083.64}
+{"id": "HA6F4rcv2es-t6083.64", "text": "around inside our body or is it just that those chemicals are associated with an experience", "start": 6083.64, "end": 6091.32}
+{"id": "HA6F4rcv2es-t6092.04", "text": "that has some real meaning that tells us something that is beyond the immediate reality of our", "start": 6092.04, "end": 6098.28}
+{"id": "HA6F4rcv2es-t6098.28", "text": "perspective and is carrying and giving us some clue to another dimension some would call it mystery", "start": 6098.28, "end": 6104.36}
+{"id": "HA6F4rcv2es-t6105.88", "text": "of course some people with that because then that takes you into the realm of spirituality and", "start": 6105.88, "end": 6111.88}
+{"id": "HA6F4rcv2es-t6111.88", "text": "some people then get suspicious are you talking about God perhaps and many feel much more comfortable", "start": 6111.88, "end": 6119.0}
+{"id": "HA6F4rcv2es-t6119.0", "text": "in reducing it to the materialistic level and talking about these chemicals dancing inside so I", "start": 6119.0, "end": 6129.72}
+{"id": "HA6F4rcv2es-t6129.72", "text": "wish you would address that these experiences meaningful in giving us a clue to something that is beyond our", "start": 6129.72, "end": 6137.96}
+{"id": "HA6F4rcv2es-t6137.96", "text": "understanding beyond our immediate perception but that represent that represents something that is", "start": 6137.96, "end": 6145.32}
+{"id": "HA6F4rcv2es-t6145.32", "text": "a reality but something that may be beyond our grasp of our immediate reality I would like someone", "start": 6145.32, "end": 6153.5599999999995}
+{"id": "HA6F4rcv2es-t6153.5599999999995", "text": "else to answer that question because I feel like I've already come closest to that of anyone but I", "start": 6153.5599999999995, "end": 6158.84}
+{"id": "HA6F4rcv2es-t6158.84", "text": "did want to say this is like the third or fourth time that the chemicals in the brain have come up", "start": 6158.84, "end": 6163.0}
+{"id": "HA6F4rcv2es-t6163.0", "text": "and I just wanted to make a point about the chemicals every thought we have is because of", "start": 6163.0, "end": 6168.759999999999}
+{"id": "HA6F4rcv2es-t6168.76", "text": "chemical reactions every perception every movement we make none of that happens without chemical", "start": 6168.76, "end": 6176.84}
+{"id": "HA6F4rcv2es-t6176.84", "text": "reactions in the brain so to say something's just chemical everything everything in our", "start": 6176.84, "end": 6182.2}
+{"id": "HA6F4rcv2es-t6182.2", "text": "mental lives is chemicals in the brain so it doesn't reduce it or you know that that's cut for me that's", "start": 6182.2, "end": 6188.04}
+{"id": "HA6F4rcv2es-t6188.04", "text": "that's sort of a category mistake so so I just want to get the chemicals that's not entirely true", "start": 6188.04, "end": 6194.12}
+{"id": "HA6F4rcv2es-t6194.12", "text": "what you're saying because there are many people who do believe that it's just the chemicals I mean", "start": 6194.12, "end": 6198.76}
+{"id": "HA6F4rcv2es-t6198.76", "text": "one big school of neuroscience for example would say that that brain is just it's another name for", "start": 6198.76, "end": 6207.0}
+{"id": "HA6F4rcv2es-t6207.0", "text": "consciousness and that consciousness is brain okay and that's another way of saying that it's all", "start": 6207.0, "end": 6214.84}
+{"id": "HA6F4rcv2es-t6214.84", "text": "physical it's all chemicals of course I mean we couldn't be here we couldn't be having this", "start": 6214.84, "end": 6220.04}
+{"id": "HA6F4rcv2es-t6220.04", "text": "discussion unless we were encased in a body with all of the physiology associated with that but is", "start": 6220.04, "end": 6225.72}
+{"id": "HA6F4rcv2es-t6225.72", "text": "there something beyond that these experiences merely illusions is your experience of music merely an", "start": 6225.72, "end": 6233.16}
+{"id": "HA6F4rcv2es-t6233.16", "text": "illusion because it evokes those chemicals in your body and do the chemicals produce the", "start": 6233.16, "end": 6240.76}
+{"id": "HA6F4rcv2es-t6240.76", "text": "experience does the experience produce the chemicals or are the chemicals just associated with an", "start": 6240.76, "end": 6246.44}
+{"id": "HA6F4rcv2es-t6246.44", "text": "experience that has some meaning yet beyond the immediate reality I mean I can't answer that music", "start": 6246.44, "end": 6253.32}
+{"id": "HA6F4rcv2es-t6253.32", "text": "that question in music I I believe that my reaction to music when I first heard it and I hear it now", "start": 6253.32, "end": 6261.32}
+{"id": "HA6F4rcv2es-t6261.32", "text": "is something beyond something I don't understand can't comprehend but I'm always trying to challenge", "start": 6261.32, "end": 6268.44}
+{"id": "HA6F4rcv2es-t6268.44", "text": "that I find the fascinating and challenging that with with questions all the time and why I don't", "start": 6268.44, "end": 6278.919999999999}
+{"id": "HA6F4rcv2es-t6278.919999999999", "text": "believe that that it's God I don't I'm not sure what it is but I do believe that that sense sense", "start": 6278.919999999999, "end": 6285.08}
+{"id": "HA6F4rcv2es-t6285.08", "text": "of sense central loneliness that we discussed earlier brings me together with something that I", "start": 6285.08, "end": 6293.799999999999}
+{"id": "HA6F4rcv2es-t6293.8", "text": "think that that in great music that it does serve a purpose I believe the great music can simply", "start": 6293.8, "end": 6305.8}
+{"id": "HA6F4rcv2es-t6305.8", "text": "bring us together whether we want to call it God whether we want to call it spirituality whatever", "start": 6305.8, "end": 6310.360000000001}
+{"id": "HA6F4rcv2es-t6310.360000000001", "text": "we want to call it I really believe not only great music great art that is its its role its", "start": 6310.360000000001, "end": 6316.92}
+{"id": "HA6F4rcv2es-t6316.92", "text": "purpose its design its glory well there's a legend about Verdi that as a child", "start": 6316.92, "end": 6323.56}
+{"id": "HA6F4rcv2es-t6323.56", "text": "the first time he heard a symphony or some music that overwhelmed but he fainted and then his parents", "start": 6323.56, "end": 6334.52}
+{"id": "HA6F4rcv2es-t6334.52", "text": "decided that maybe we should get him that piano he's been asking for I think your question is a good", "start": 6334.52, "end": 6341.4800000000005}
+{"id": "HA6F4rcv2es-t6341.4800000000005", "text": "one but I don't think we have an answer for it well there may not be an answer but I think it's a very", "start": 6341.4800000000005, "end": 6348.280000000001}
+{"id": "HA6F4rcv2es-t6348.280000000001", "text": "important thing but I think it's your answer but if I understand you correctly you are trying to", "start": 6348.280000000001, "end": 6353.320000000001}
+{"id": "HA6F4rcv2es-t6353.32", "text": "say at which point does the chemistry stop and something else is added to it I don't know if anybody", "start": 6353.32, "end": 6360.44}
+{"id": "HA6F4rcv2es-t6360.44", "text": "can tell you at which point chemistry stops and something is added to it unless you bring in belief", "start": 6360.44, "end": 6368.12}
+{"id": "HA6F4rcv2es-t6370.679999999999", "text": "could I actually well I do think there's a there's a non-theological answer that I'm kind of sympathetic", "start": 6370.679999999999, "end": 6377.799999999999}
+{"id": "HA6F4rcv2es-t6377.8", "text": "with that comes out of the shop and how are kind of tradition which sees the the the meaning of", "start": 6377.8, "end": 6384.52}
+{"id": "HA6F4rcv2es-t6384.52", "text": "sublime experience as a kind of revelation of freedom so that which is a pretty mysterious thing", "start": 6384.52, "end": 6392.52}
+{"id": "HA6F4rcv2es-t6392.52", "text": "you know that we are beings who are natural beings but we also seem to have free will and", "start": 6392.52, "end": 6398.84}
+{"id": "HA6F4rcv2es-t6399.64", "text": "operate on a what some philosophers call a space of reasons that is not", "start": 6399.64, "end": 6404.12}
+{"id": "HA6F4rcv2es-t6404.12", "text": "just reducible to kind of a causal story and for for a common shelf and how are the the experience", "start": 6404.12, "end": 6413.4}
+{"id": "HA6F4rcv2es-t6413.4", "text": "of the sublime was the way we could have a felt recognition of our freedom when I look thank you", "start": 6413.4, "end": 6422.76}
+{"id": "HA6F4rcv2es-t6422.76", "text": "come to realize a little more question okay go ahead well when I come to realize that everything", "start": 6422.76, "end": 6428.36}
+{"id": "HA6F4rcv2es-t6428.36", "text": "in the external world however large or distant is nonetheless finite the discovery of the very", "start": 6428.36, "end": 6438.5199999999995}
+{"id": "HA6F4rcv2es-t6438.5199999999995", "text": "concept of infinitude that I find in myself is the signal in this in the sublime experience in this", "start": 6438.5199999999995, "end": 6448.2}
+{"id": "HA6F4rcv2es-t6448.2", "text": "tradition of freedom because freedom is nothing other than the escape from limits and if the", "start": 6448.2, "end": 6457.799999999999}
+{"id": "HA6F4rcv2es-t6457.8", "text": "experience of the external discloses in me the escape from those very limits the power to escape", "start": 6457.8, "end": 6466.04}
+{"id": "HA6F4rcv2es-t6466.04", "text": "from those very limits that in that tradition that's another way to put it is the meaning of the sublime", "start": 6466.04, "end": 6472.12}
+{"id": "HA6F4rcv2es-t6475.96", "text": "okay two more questions and then we'll stop first like I saw on this day I'm going to", "start": 6475.96, "end": 6481.72}
+{"id": "HA6F4rcv2es-t6481.72", "text": "first oxhole couldn't make it because this question was originally meant for him but", "start": 6481.72, "end": 6485.4800000000005}
+{"id": "HA6F4rcv2es-t6485.48", "text": "it's about a distinction so I study mathematics and it's not clear to me that I've ever experienced", "start": 6485.48, "end": 6495.799999999999}
+{"id": "HA6F4rcv2es-t6495.799999999999", "text": "the sublime in what I do but it's all it's been clear to me that I've certainly experienced wonder", "start": 6495.799999999999, "end": 6502.2}
+{"id": "HA6F4rcv2es-t6503.16", "text": "and our discussion of wonder at least my impression of it is it's something that's it's got wonder", "start": 6503.16, "end": 6509.08}
+{"id": "HA6F4rcv2es-t6509.08", "text": "arouses a kind of productive curiosity about the world and it sort of fosters curiosity in science", "start": 6509.08, "end": 6515.72}
+{"id": "HA6F4rcv2es-t6516.6", "text": "and my question I guess is there a distinction between wonder and the sublime", "start": 6516.6, "end": 6522.76}
+{"id": "HA6F4rcv2es-t6526.28", "text": "and is if there is is the sensation of the sublime is that well certainly it seems to be only", "start": 6526.28, "end": 6535.08}
+{"id": "HA6F4rcv2es-t6535.08", "text": "encountered in the arts and literature and music and what would that look like in a sort of a", "start": 6535.08, "end": 6542.36}
+{"id": "HA6F4rcv2es-t6543.0", "text": "more scientific mode", "start": 6543.0, "end": 6544.04}
+{"id": "HA6F4rcv2es-t6547.5599999999995", "text": "what you know for me wonder is obviously they're close because the experience of awe can be applied", "start": 6547.5599999999995, "end": 6557.48}
+{"id": "HA6F4rcv2es-t6557.48", "text": "to wonder or the sublime right so that so there's our our stretching of language again but if I", "start": 6557.48, "end": 6563.96}
+{"id": "HA6F4rcv2es-t6563.96", "text": "were going to try to distinguish wonder from the sublime I would say wonder makes us it it", "start": 6563.96, "end": 6569.8}
+{"id": "HA6F4rcv2es-t6570.68", "text": "there is a certain amount of awe involved with it but it makes us want to it makes us want to", "start": 6570.68, "end": 6574.92}
+{"id": "HA6F4rcv2es-t6574.92", "text": "know more and more about something right this is wonderful I want more intimacy with it I want", "start": 6574.92, "end": 6580.52}
+{"id": "HA6F4rcv2es-t6580.52", "text": "you know to really plunge into it now that wonder peaks us and and gets us engaged the sublime", "start": 6580.52, "end": 6589.0}
+{"id": "HA6F4rcv2es-t6589.0", "text": "knocks us off our feet right and and makes us feel that any amount of knowledge would be inadequate", "start": 6589.0, "end": 6595.72}
+{"id": "HA6F4rcv2es-t6595.72", "text": "to what we've just experienced", "start": 6595.72, "end": 6597.08}
+{"id": "HA6F4rcv2es-t6602.04", "text": "to what extent do you think context is important especially in light of your comment that or", "start": 6602.04, "end": 6608.84}
+{"id": "HA6F4rcv2es-t6608.84", "text": "I believe it was your comment that art you know the analysis in the 20th century shifted away from", "start": 6608.84, "end": 6615.72}
+{"id": "HA6F4rcv2es-t6615.72", "text": "a formal you know aesthetics or understanding because many people who appreciate modern art", "start": 6615.72, "end": 6622.2}
+{"id": "HA6F4rcv2es-t6622.2", "text": "appreciate it with an understanding of the need for context such that the Matisse exhibition", "start": 6622.2, "end": 6629.88}
+{"id": "HA6F4rcv2es-t6629.88", "text": "you don't necessarily have to know his place in history or his place in or what it represents", "start": 6629.88, "end": 6635.4800000000005}
+{"id": "HA6F4rcv2es-t6635.4800000000005", "text": "but the actual apprehension of it many people speak about it being joyful and and creating", "start": 6635.4800000000005, "end": 6641.16}
+{"id": "HA6F4rcv2es-t6641.16", "text": "possibly a sublimity or a sense of of great happiness with music on the other hand to what", "start": 6641.16, "end": 6647.72}
+{"id": "HA6F4rcv2es-t6647.72", "text": "extent can do you need a formal knowledge of it for example I I can't really access Schoenberg", "start": 6647.72, "end": 6656.68}
+{"id": "HA6F4rcv2es-t6656.68", "text": "I don't have enough knowledge to to appreciate him and and would you call it aesthetic level", "start": 6656.68, "end": 6663.88}
+{"id": "HA6F4rcv2es-t6663.88", "text": "it's not satisfying to me and I know it's from a lack of knowledge whereas", "start": 6663.88, "end": 6668.36}
+{"id": "HA6F4rcv2es-t6668.36", "text": "Socrates is it's accessible to me for whatever reason it's not in that tone I don't think it's", "start": 6668.36, "end": 6675.16}
+{"id": "HA6F4rcv2es-t6675.16", "text": "the same extent of of what would you call it complexity if you will if you could just address", "start": 6675.16, "end": 6682.839999999999}
+{"id": "HA6F4rcv2es-t6682.839999999999", "text": "that well that's a different language the difference between Schoenberg and Stravinsky some people", "start": 6682.839999999999, "end": 6686.759999999999}
+{"id": "HA6F4rcv2es-t6686.759999999999", "text": "will still find the Stravinsky very difficult and in principle I don't I think great art you can't", "start": 6686.759999999999, "end": 6693.719999999999}
+{"id": "HA6F4rcv2es-t6693.72", "text": "like everything and that what is great will hit you without you needing to know anything about", "start": 6693.72, "end": 6699.96}
+{"id": "HA6F4rcv2es-t6699.96", "text": "the ingredients of the meal exactly the first part of what you were talking about interests me if you", "start": 6699.96, "end": 6706.68}
+{"id": "HA6F4rcv2es-t6707.400000000001", "text": "you talked at very early in the day about Marla's Ninth Symphony the shared experience the context", "start": 6707.400000000001, "end": 6713.96}
+{"id": "HA6F4rcv2es-t6713.96", "text": "of the shared experience is a very interesting one to me if you go back home and look on YouTube", "start": 6713.96, "end": 6721.400000000001}
+{"id": "HA6F4rcv2es-t6721.4", "text": "you will find a performance of the Ninth Marla's Symphony by the Lucerne Festival Orchestra with", "start": 6721.4, "end": 6727.639999999999}
+{"id": "HA6F4rcv2es-t6727.639999999999", "text": "Claudio Abado conducting and the performance is so extraordinary I would suggest leads the whole", "start": 6727.639999999999, "end": 6736.44}
+{"id": "HA6F4rcv2es-t6736.44", "text": "hall of 2000 people to about 15 minutes of total silence at the end where that shared experience", "start": 6736.44, "end": 6746.28}
+{"id": "HA6F4rcv2es-t6746.28", "text": "and context has led to a sublime experience for all those people that you can also get", "start": 6746.28, "end": 6753.4}
+{"id": "HA6F4rcv2es-t6753.96", "text": "from just watching and participating and for me that's one of the great sort of truths of what", "start": 6753.96, "end": 6762.44}
+{"id": "HA6F4rcv2es-t6763.32", "text": "can do and the in context. I can just a quick point about something you said and and this lady will", "start": 6763.32, "end": 6773.08}
+{"id": "HA6F4rcv2es-t6773.08", "text": "correct us because she probably has her own views of it I would say that there is actually a fairly", "start": 6773.08, "end": 6780.2}
+{"id": "HA6F4rcv2es-t6780.2", "text": "important difference between aesthetic appreciation and formal analysis I would not say that formal", "start": 6780.2, "end": 6787.24}
+{"id": "HA6F4rcv2es-t6787.24", "text": "analysis went into Eclipse in thinking about the art of the 20th century whereas what did tend to", "start": 6787.24, "end": 6794.92}
+{"id": "HA6F4rcv2es-t6794.92", "text": "go into Eclipse or underground as one might say was the willingness to say oh that's beautiful or", "start": 6794.92, "end": 6803.72}
+{"id": "HA6F4rcv2es-t6803.72", "text": "that's sublime or it's ugly or it's grotesque or any of the other aesthetic categories that one", "start": 6803.72, "end": 6809.32}
+{"id": "HA6F4rcv2es-t6809.32", "text": "might point to formal analysis on the other side on the other hand is something that I think has", "start": 6809.32, "end": 6815.4}
+{"id": "HA6F4rcv2es-t6815.4", "text": "flourished in the in the 20th century so maybe a distinction is needed there but that's a little", "start": 6815.4, "end": 6821.32}
+{"id": "HA6F4rcv2es-t6821.32", "text": "that's pathetic because we all understood what you were saying and it was very interesting.", "start": 6821.32, "end": 6825.48}
+{"id": "HA6F4rcv2es-t6826.84", "text": "It was the last question why let you ask your question but make it briefly.", "start": 6826.84, "end": 6830.44}
+{"id": "HA6F4rcv2es-t6831.0", "text": "I'm a little sorry that you conflated sublime with aesthetics and beauty because I think they're", "start": 6831.0, "end": 6838.599999999999}
+{"id": "HA6F4rcv2es-t6838.599999999999", "text": "very very different issues and you can often appreciate aesthetics and beauty in in just about", "start": 6838.599999999999, "end": 6846.44}
+{"id": "HA6F4rcv2es-t6846.44", "text": "any field that you want to talk about and not have sublime experiences with any of them and I think", "start": 6846.44, "end": 6853.4}
+{"id": "HA6F4rcv2es-t6853.4", "text": "this sublimity is something that you could it's almost like a pointillistic response", "start": 6853.4, "end": 6858.919999999999}
+{"id": "HA6F4rcv2es-t6860.2", "text": "and you can you mentioned Glenn Gould and you can conjure up probably from anyone here who", "start": 6860.2, "end": 6868.04}
+{"id": "HA6F4rcv2es-t6868.599999999999", "text": "knows him how to get a sublime experience out of looking into his eyes on film", "start": 6868.599999999999, "end": 6874.759999999999}
+{"id": "HA6F4rcv2es-t6874.76", "text": "little variations or one one chord in Tristan or one chord in the second string quartet of Schoenberg", "start": 6874.76, "end": 6885.88}
+{"id": "HA6F4rcv2es-t6885.88", "text": "or a sound of UC Bierling you know what what these things do and you could pick anything you could", "start": 6885.88, "end": 6892.6}
+{"id": "HA6F4rcv2es-t6892.6", "text": "talk about birds or flowers or mountains and have these kind of experiences without", "start": 6892.6, "end": 6899.08}
+{"id": "HA6F4rcv2es-t6899.08", "text": "they have anything to do with aesthetics you can you can have associative experiences even from", "start": 6899.08, "end": 6908.6}
+{"id": "HA6F4rcv2es-t6909.24", "text": "ideas if you want to talk about someone's idea let's say of Schoenberg or Walter Benjamin and", "start": 6909.24, "end": 6921.0}
+{"id": "HA6F4rcv2es-t6921.0", "text": "then you can conjure up a whole class of ideas associated with what they're talking about and", "start": 6921.0, "end": 6928.12}
+{"id": "HA6F4rcv2es-t6928.12", "text": "have a sublime experience it's an abstraction it's it's a way of going into the universe of having an", "start": 6928.12, "end": 6938.84}
+{"id": "HA6F4rcv2es-t6938.84", "text": "infinite opening you know looking at one color out of a Roscoe painting or one one", "start": 6938.84, "end": 6946.76}
+{"id": "HA6F4rcv2es-t6947.96", "text": "gestural element in an abstract painting or Palestrina I mean or early blues or early jazz or anything", "start": 6947.96, "end": 6956.84}
+{"id": "HA6F4rcv2es-t6956.84", "text": "you know it this sounds you know naying it it has there's something obviously physiological there's a", "start": 6956.84, "end": 6965.96}
+{"id": "HA6F4rcv2es-t6965.96", "text": "strong chemical component a physiological component but there's an associative component that as you", "start": 6965.96, "end": 6973.88}
+{"id": "HA6F4rcv2es-t6973.88", "text": "say can go from culture to culture to culture you could share it with almost anyone who knows", "start": 6973.88, "end": 6979.56}
+{"id": "HA6F4rcv2es-t6979.56", "text": "nothing about what we're talking about and they will know the meaning of sublime or the meaning of", "start": 6979.56, "end": 6984.84}
+{"id": "HA6F4rcv2es-t6984.84", "text": "numinous you know which is a word that wasn't used there are so many other things that the flowing", "start": 6984.84, "end": 6991.08}
+{"id": "HA6F4rcv2es-t6991.08", "text": "into eternity it's not a question but I just felt listening to so many of these things that", "start": 6991.08, "end": 6996.2}
+{"id": "HA6F4rcv2es-t6996.84", "text": "that there is a broad category and someone said which I thought was fascinating that no that", "start": 6996.84, "end": 7003.8}
+{"id": "HA6F4rcv2es-t7003.8", "text": "can you share the sublime if someone says something to someone else it's like like the old joke well", "start": 7003.8, "end": 7011.24}
+{"id": "HA6F4rcv2es-t7011.24", "text": "it's not the joke that's funny it's the way you tell it you know it's the number the way you say", "start": 7011.24, "end": 7016.44}
+{"id": "HA6F4rcv2es-t7016.44", "text": "the number of that joke and it's the same thing if you talk about the the pointillism of an event", "start": 7016.44, "end": 7023.48}
+{"id": "HA6F4rcv2es-t7023.48", "text": "that conjures a sublime experience so that opens it can you then share that with other people thank", "start": 7023.48, "end": 7031.639999999999}
+{"id": "HA6F4rcv2es-t7031.639999999999", "text": "you thank you and we have one more we have one more question last question and briefly of course", "start": 7031.639999999999, "end": 7038.84}
+{"id": "HA6F4rcv2es-t7038.84", "text": "and this and this is a question and by its nature it will be brief but I'd appreciate to ask it", "start": 7038.84, "end": 7044.92}
+{"id": "HA6F4rcv2es-t7044.92", "text": "around the panel because it's striking for me that's something that's central to the discourse of", "start": 7044.92, "end": 7050.2}
+{"id": "HA6F4rcv2es-t7050.2", "text": "18th century Jewish mystics about the sublime as an opening into unumistica into the experience of", "start": 7050.2, "end": 7058.28}
+{"id": "HA6F4rcv2es-t7058.28", "text": "of of oneness and the move across the divide between human self and and divinity is is is the", "start": 7058.28, "end": 7067.48}
+{"id": "HA6F4rcv2es-t7067.48", "text": "emotional tone that goes along with that and that and that actually can be seen as the engine's way", "start": 7067.48, "end": 7073.08}
+{"id": "HA6F4rcv2es-t7073.08", "text": "into that is humility and while you've touched on we've touched on sort of the other side which is", "start": 7073.08, "end": 7079.0}
+{"id": "HA6F4rcv2es-t7079.0", "text": "almost a secularization of the of the of the of the of the translation into divinity in terms of freedom", "start": 7079.0, "end": 7088.44}
+{"id": "HA6F4rcv2es-t7088.44", "text": "but while on this side of the divide the feeling that of sublimity that it goes along with with", "start": 7088.44, "end": 7094.68}
+{"id": "HA6F4rcv2es-t7094.68", "text": "the feeling of the of the encounter with the experience of the sublime of humility has been", "start": 7094.68, "end": 7099.32}
+{"id": "HA6F4rcv2es-t7099.32", "text": "missing entirely from this discourse and I'm I'm curious about that so I appreciate going around", "start": 7099.32, "end": 7105.8}
+{"id": "HA6F4rcv2es-t7105.8", "text": "the panel and addressing that in some way oh hey really confines the expression of the sublime", "start": 7105.8, "end": 7112.04}
+{"id": "HA6F4rcv2es-t7112.04", "text": "in history to he to the iconoclasm of Hebrew scriptures and the reason he does that is he feels that", "start": 7112.04, "end": 7120.28}
+{"id": "HA6F4rcv2es-t7120.28", "text": "the sense of the infinite is directly connected to a mistrust of images in other words that images", "start": 7120.28, "end": 7127.0}
+{"id": "HA6F4rcv2es-t7127.0", "text": "always take bring with them an investment in finitude and the humility of our of our deference to the", "start": 7127.0, "end": 7138.04}
+{"id": "HA6F4rcv2es-t7138.04", "text": "infinite is something that can only enter into the picture sorry wrong expression can only enter", "start": 7138.04, "end": 7145.88}
+{"id": "HA6F4rcv2es-t7145.88", "text": "into consideration for Hegel in the form of iconoclasm thank you okay we will stop", "start": 7145.88, "end": 7160.4400000000005}

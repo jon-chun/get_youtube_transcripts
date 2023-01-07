@@ -1,0 +1,939 @@
+{"id": "UO7FlZ9Gikw-t0.0", "text": "We're going to start the meeting.", "start": 0.0, "end": 6.6000000000000005}
+{"id": "UO7FlZ9Gikw-t6.6000000000000005", "text": "Francois, sir, may we introduce the participants of this roundtable.", "start": 6.6000000000000005, "end": 12.84}
+{"id": "UO7FlZ9Gikw-t12.84", "text": "So if you would please sit down and we can get going.", "start": 12.84, "end": 18.0}
+{"id": "UO7FlZ9Gikw-t18.0", "text": "Okay, I have to present this roundtable about Nemo Sin, the roundtable about memory and unconscious.", "start": 18.0, "end": 33.4}
+{"id": "UO7FlZ9Gikw-t33.4", "text": "The definition and the different limits between the question of unconscious and the question", "start": 33.4, "end": 40.72}
+{"id": "UO7FlZ9Gikw-t40.72", "text": "of memory.", "start": 40.72, "end": 43.08}
+{"id": "UO7FlZ9Gikw-t43.08", "text": "In this roundtable, there are people that I know very well like Kristina Alberini, who", "start": 43.08, "end": 49.32}
+{"id": "UO7FlZ9Gikw-t49.32", "text": "is professor of neuroscience at NIU here in New York, and working about reconciliation.", "start": 49.32, "end": 59.32}
+{"id": "UO7FlZ9Gikw-t59.32", "text": "We are collaborating with Guillermo Gistretti and I with Kristina Alberini about the question.", "start": 59.32, "end": 65.88}
+{"id": "UO7FlZ9Gikw-t65.88", "text": "I have to present also Siri Housvet.", "start": 65.88, "end": 68.8}
+{"id": "UO7FlZ9Gikw-t68.8", "text": "I can say what little world about you because everybody knows your books and reading your", "start": 68.8, "end": 76.03999999999999}
+{"id": "UO7FlZ9Gikw-t76.03999999999999", "text": "books.", "start": 76.03999999999999, "end": 77.03999999999999}
+{"id": "UO7FlZ9Gikw-t77.03999999999999", "text": "I remember that Pierre said that in one of your books, you said that reconciliation is something", "start": 77.03999999999999, "end": 85.72}
+{"id": "UO7FlZ9Gikw-t85.72", "text": "like aprecur.", "start": 85.72, "end": 88.4}
+{"id": "UO7FlZ9Gikw-t88.4", "text": "And he asked me what I was thinking about the relation between reconciliation and aprecur.", "start": 88.4, "end": 97.56}
+{"id": "UO7FlZ9Gikw-t97.56", "text": "I said no, I don't agree.", "start": 97.56, "end": 100.16}
+{"id": "UO7FlZ9Gikw-t100.16", "text": "And after I said yes, that you were right, that I am very happy to see you and perhaps", "start": 100.16, "end": 107.32000000000001}
+{"id": "UO7FlZ9Gikw-t107.32000000000001", "text": "to discuss after with you about the notion of aprecur.", "start": 107.32000000000001, "end": 112.28}
+{"id": "UO7FlZ9Gikw-t112.28", "text": "And he is also Joseph Sledou.", "start": 112.28, "end": 115.28}
+{"id": "UO7FlZ9Gikw-t115.28", "text": "Joseph Sledou is well known for all the work about emotional memory and this famous book", "start": 115.28, "end": 122.64}
+{"id": "UO7FlZ9Gikw-t122.64", "text": "for me too was very important, the emotional brain and all the works that were about traumatic", "start": 122.64, "end": 129.76}
+{"id": "UO7FlZ9Gikw-t129.76", "text": "experience and memory and different emotional memory, emotional center of memory.", "start": 129.76, "end": 137.36}
+{"id": "UO7FlZ9Gikw-t137.36", "text": "And also Kristo Fargenson, who I discover here and he is professor of Spanish early", "start": 137.36, "end": 148.64}
+{"id": "UO7FlZ9Gikw-t148.64", "text": "modern literature at UCLA.", "start": 148.64, "end": 152.67999999999998}
+{"id": "UO7FlZ9Gikw-t152.67999999999998", "text": "And Pierre Magistetti, that I know well, but I don't know how to present you.", "start": 152.67999999999998, "end": 158.64}
+{"id": "UO7FlZ9Gikw-t158.64", "text": "We are working about neuroscience and psychoanalysis, but you are specialized in the energetic", "start": 158.64, "end": 167.2}
+{"id": "UO7FlZ9Gikw-t167.2", "text": "of the brain and astrocytes and he is a famous neuroscientist and president now of the Ebro,", "start": 167.2, "end": 176.2}
+{"id": "UO7FlZ9Gikw-t176.2", "text": "international brain research organization.", "start": 176.2, "end": 181.56}
+{"id": "UO7FlZ9Gikw-t181.56", "text": "And we are together in Agalma Foundation in relation with the Elic Center discussing about", "start": 181.56, "end": 190.39999999999998}
+{"id": "UO7FlZ9Gikw-t190.39999999999998", "text": "Vahburg and now it's time for the wrong table.", "start": 190.39999999999998, "end": 195.95999999999998}
+{"id": "UO7FlZ9Gikw-t195.95999999999998", "text": "Thank you.", "start": 195.95999999999998, "end": 199.79999999999998}
+{"id": "UO7FlZ9Gikw-t199.8", "text": "So I wanted to begin by following a thread that was thankfully begun in the last session", "start": 199.8, "end": 209.16000000000003}
+{"id": "UO7FlZ9Gikw-t209.16000000000003", "text": "and it has to do with method and memory, the topic of our session.", "start": 209.16000000000003, "end": 216.56}
+{"id": "UO7FlZ9Gikw-t216.56", "text": "The idea really is whether or not after he comes out of Kojtlingen, he produces or cultivates", "start": 216.56, "end": 227.64000000000001}
+{"id": "UO7FlZ9Gikw-t227.64", "text": "what he calls in a letter to Binswanger discussing the Cesseteses, discussing the 1920s A on German", "start": 227.64, "end": 235.2}
+{"id": "UO7FlZ9Gikw-t235.2", "text": "astrology, what Vahburg terms historical psychology and how Vahburg's own projects in the last", "start": 235.2, "end": 243.55999999999997}
+{"id": "UO7FlZ9Gikw-t243.55999999999997", "text": "five years fit in with this historical psychology.", "start": 243.55999999999997, "end": 248.76}
+{"id": "UO7FlZ9Gikw-t248.76", "text": "He says in this wonderful volume that David Aes, D'Amilly co-edits in a Vahburg rights", "start": 248.76, "end": 256.36}
+{"id": "UO7FlZ9Gikw-t256.36", "text": "in an autobiographical sketch.", "start": 256.36, "end": 258.24}
+{"id": "UO7FlZ9Gikw-t258.24", "text": "This is therefore in 1924 after Kojtlingen's diagnosis of manic depression has, as a word", "start": 258.24, "end": 271.56}
+{"id": "UO7FlZ9Gikw-t271.56", "text": "is being now applied and therefore Vahburg is on his way to healing and he's looking forward", "start": 271.56, "end": 278.92}
+{"id": "UO7FlZ9Gikw-t278.92", "text": "to going back to Hamburg and he's writing an autobiographical sketch and he recalls a", "start": 278.92, "end": 284.72}
+{"id": "UO7FlZ9Gikw-t284.72", "text": "time when he was six years old and suffered a mild, what he calls a mild, of typhoid", "start": 284.72, "end": 288.96000000000004}
+{"id": "UO7FlZ9Gikw-t288.96000000000004", "text": "fever and he says at that time began the fear of quoting, disproportional, context less,", "start": 288.96000000000004, "end": 300.92}
+{"id": "UO7FlZ9Gikw-t300.92", "text": "context less or without a context, memories of images.", "start": 300.92, "end": 307.88000000000005}
+{"id": "UO7FlZ9Gikw-t307.88000000000005", "text": "So my question is how does he, with the Bilda Atlas, name wasune Bilda Atlas, it has many", "start": 307.88000000000005, "end": 314.64000000000004}
+{"id": "UO7FlZ9Gikw-t314.64", "text": "titles, Vahburg could never settle on a particular title, how does he, with this constellation", "start": 314.64, "end": 320.32}
+{"id": "UO7FlZ9Gikw-t320.32", "text": "of images, there were about a thousand images, 63 or 72 different Tothan panels, screens,", "start": 320.32, "end": 330.24}
+{"id": "UO7FlZ9Gikw-t330.24", "text": "screen memories perhaps even, how does he come up with a new method by which he can", "start": 330.24, "end": 338.08}
+{"id": "UO7FlZ9Gikw-t338.08", "text": "oscillate between the immediate demonic sensual, these are all words that Vahburg uses and", "start": 338.08, "end": 347.84}
+{"id": "UO7FlZ9Gikw-t347.84", "text": "the ecstatic prudential, wise, calm, mediated pole, or I mean he literally talks about", "start": 347.84, "end": 364.15999999999997}
+{"id": "UO7FlZ9Gikw-t364.16", "text": "swinging between both poles, now the Atlas is, as we have it, largely wordless and it", "start": 364.16, "end": 374.28000000000003}
+{"id": "UO7FlZ9Gikw-t374.28000000000003", "text": "is based on a method that is frequently diagrammatic, if we look at his notebooks, if we look at", "start": 374.28000000000003, "end": 380.64000000000004}
+{"id": "UO7FlZ9Gikw-t380.64000000000004", "text": "the Zetto Kesten, he's not able to write it out anymore, he's not able, he was never,", "start": 380.64000000000004, "end": 387.44000000000005}
+{"id": "UO7FlZ9Gikw-t387.44", "text": "he always had difficulty as Gombrick and others have noted with polished academic prose, instead", "start": 387.44, "end": 395.36}
+{"id": "UO7FlZ9Gikw-t395.36", "text": "he condenses, he uses the word fadictus, his ideas, and he condenses them so dramatically", "start": 395.36, "end": 405.44}
+{"id": "UO7FlZ9Gikw-t405.44", "text": "in the non-verbal Atlas that the de-demonization process that Vahburg sees as both personal", "start": 405.44, "end": 418.12}
+{"id": "UO7FlZ9Gikw-t418.12", "text": "and cultural is achieved, so he moves in a chronological fashion from ancient Greece", "start": 418.12, "end": 427.2}
+{"id": "UO7FlZ9Gikw-t427.2", "text": "to 1929 in Rome, in the course of the 63 panels, but that motion is not only cultural, chronological,", "start": 427.2, "end": 437.28}
+{"id": "UO7FlZ9Gikw-t437.28", "text": "historical, but it's personal in that in many of the panels he is repeating his own research,", "start": 437.28, "end": 444.24}
+{"id": "UO7FlZ9Gikw-t444.24", "text": "he's revisiting his own research, so it's a form of personal memory and cultural memory,", "start": 444.24, "end": 451.56}
+{"id": "UO7FlZ9Gikw-t451.56", "text": "maybe just one last anecdote really, the last panel ends with the Eucharist, or he's meditating", "start": 451.56, "end": 459.32}
+{"id": "UO7FlZ9Gikw-t459.32", "text": "on the Eucharist, so we know that this was a kind of redemptive gesture on the part of", "start": 459.32, "end": 465.08}
+{"id": "UO7FlZ9Gikw-t465.08", "text": "Vahburg, both a religious and a redemptive gesture, but in light of some of the number", "start": 465.08, "end": 471.44}
+{"id": "UO7FlZ9Gikw-t471.44", "text": "of people every kind of the accident or the anecdote that in Christ again he felt that", "start": 471.44, "end": 476.16}
+{"id": "UO7FlZ9Gikw-t476.16", "text": "he was being poisoned with human blood, that he was forced to consume human blood.", "start": 476.16, "end": 483.56}
+{"id": "UO7FlZ9Gikw-t483.56", "text": "Clearly, Vahburg was able to transform that, displace that by metonymy, by his art of combination", "start": 483.56, "end": 494.96000000000004}
+{"id": "UO7FlZ9Gikw-t494.96000000000004", "text": "in the Atlas, maybe one further postscript is that he also becomes obsessed by the work", "start": 494.96000000000004, "end": 504.64000000000004}
+{"id": "UO7FlZ9Gikw-t504.64", "text": "of Giardano Bruno in his last year of life, and he sees that as another intellectual project", "start": 504.64, "end": 511.96}
+{"id": "UO7FlZ9Gikw-t511.96", "text": "that can satisfy his method and the fact that Cassieva, both in letters to Vahburg in this", "start": 511.96, "end": 522.48}
+{"id": "UO7FlZ9Gikw-t522.48", "text": "period and in his funeral oration for Vahburg in 29, confirmed that Vahburg's method was", "start": 522.48, "end": 530.68}
+{"id": "UO7FlZ9Gikw-t530.68", "text": "the right one to make sense of Bruno.", "start": 530.68, "end": 534.4}
+{"id": "UO7FlZ9Gikw-t534.4", "text": "I think again, these are other examples of his historical psychology that goes between", "start": 534.4, "end": 540.2399999999999}
+{"id": "UO7FlZ9Gikw-t540.2399999999999", "text": "image and work.", "start": 540.2399999999999, "end": 541.2399999999999}
+{"id": "UO7FlZ9Gikw-t541.2399999999999", "text": "Okay, I'm going to try to make a bridge because we have an expert on Abi Vahburg sitting next", "start": 541.2399999999999, "end": 547.92}
+{"id": "UO7FlZ9Gikw-t547.92", "text": "to me.", "start": 547.92, "end": 548.92}
+{"id": "UO7FlZ9Gikw-t548.92", "text": "I've read your book and he really knows his stuff, and then we have three neurosciences,", "start": 548.92, "end": 555.4799999999999}
+{"id": "UO7FlZ9Gikw-t555.48", "text": "one who is written with a psychoanalyst, so I'm going to try to make a bridge about", "start": 555.48, "end": 560.6}
+{"id": "UO7FlZ9Gikw-t560.6", "text": "memory in the unconscious so that we have a way of crossing it, because what happens", "start": 560.6, "end": 565.88}
+{"id": "UO7FlZ9Gikw-t565.88", "text": "in these discussions is that there are epistemological and methodological differences.", "start": 565.88, "end": 572.8000000000001}
+{"id": "UO7FlZ9Gikw-t572.8000000000001", "text": "So people working in labs need controlled circumstances and you need to be able to reproduce", "start": 572.8000000000001, "end": 578.72}
+{"id": "UO7FlZ9Gikw-t578.72", "text": "your results.", "start": 578.72, "end": 580.0}
+{"id": "UO7FlZ9Gikw-t580.0", "text": "You do not need to do that.", "start": 580.0, "end": 581.6}
+{"id": "UO7FlZ9Gikw-t581.6", "text": "You need to have important insights about metaphor and Vahburg, and you can write a beautiful", "start": 581.6, "end": 587.28}
+{"id": "UO7FlZ9Gikw-t587.28", "text": "book.", "start": 587.28, "end": 588.28}
+{"id": "UO7FlZ9Gikw-t588.28", "text": "I'm a novelist.", "start": 588.28, "end": 589.44}
+{"id": "UO7FlZ9Gikw-t589.44", "text": "I don't need any of it.", "start": 589.44, "end": 592.6800000000001}
+{"id": "UO7FlZ9Gikw-t592.6800000000001", "text": "But I think it's really crucial that we think about how this is going to work.", "start": 592.6800000000001, "end": 598.5600000000001}
+{"id": "UO7FlZ9Gikw-t598.5600000000001", "text": "So we have essentially here, if we're going to talk about the unconscious, first of all,", "start": 598.5600000000001, "end": 604.64}
+{"id": "UO7FlZ9Gikw-t604.64", "text": "we have a dynamic Freudian unconscious, something I think we're all here at this table familiar", "start": 604.64, "end": 611.0}
+{"id": "UO7FlZ9Gikw-t611.0", "text": "with.", "start": 611.0, "end": 612.0}
+{"id": "UO7FlZ9Gikw-t612.0", "text": "We have something now called, has been called the cognitive unconscious.", "start": 612.0, "end": 617.32}
+{"id": "UO7FlZ9Gikw-t617.32", "text": "And if we remember in behaviorism, this wasn't even talked about in the early 20th century.", "start": 617.32, "end": 624.4}
+{"id": "UO7FlZ9Gikw-t624.4", "text": "It came about later.", "start": 624.4, "end": 626.08}
+{"id": "UO7FlZ9Gikw-t626.08", "text": "Now neuroscientists are talking about all kinds of higher cognitive material that is", "start": 626.08, "end": 631.92}
+{"id": "UO7FlZ9Gikw-t631.92", "text": "part of unconsciousness that can, some of it, which can be brought to memory.", "start": 631.92, "end": 639.88}
+{"id": "UO7FlZ9Gikw-t639.88", "text": "The Vahburgian unconscious, you will have to help me with.", "start": 639.88, "end": 643.88}
+{"id": "UO7FlZ9Gikw-t643.88", "text": "It seems to me that what Vahburg is talking about is a kind of collective unconscious", "start": 643.88, "end": 654.84}
+{"id": "UO7FlZ9Gikw-t654.84", "text": "that is perhaps more related to Jung in some ways than to Freud, but it's not clear.", "start": 654.84, "end": 661.76}
+{"id": "UO7FlZ9Gikw-t661.76", "text": "The one science link that I found to Vahburg memory and the unconscious is Richard Zeemon,", "start": 661.76, "end": 672.88}
+{"id": "UO7FlZ9Gikw-t672.88", "text": "the German scientist on memory who really got lost.", "start": 672.88, "end": 678.2}
+{"id": "UO7FlZ9Gikw-t678.2", "text": "I started looking at it.", "start": 678.2, "end": 679.76}
+{"id": "UO7FlZ9Gikw-t679.76", "text": "He was a Lamarckian, but as we know, not that Lamarck has returned, but there are studies", "start": 679.76, "end": 687.4399999999999}
+{"id": "UO7FlZ9Gikw-t687.44", "text": "in epigenetics where there are shocks or stresses delivered to mice which change methylation,", "start": 687.44, "end": 698.24}
+{"id": "UO7FlZ9Gikw-t698.24", "text": "which then can be inherited.", "start": 698.24, "end": 701.5600000000001}
+{"id": "UO7FlZ9Gikw-t701.5600000000001", "text": "Interesting little link possibly.", "start": 701.5600000000001, "end": 704.08}
+{"id": "UO7FlZ9Gikw-t704.08", "text": "Kristina knows a lot more about this than I do, and maybe you should take the ball from", "start": 704.08, "end": 708.84}
+{"id": "UO7FlZ9Gikw-t708.84", "text": "there.", "start": 708.84, "end": 709.84}
+{"id": "UO7FlZ9Gikw-t709.84", "text": "I'm trying to make little connective tissue so that we have something to talk about together", "start": 709.84, "end": 715.84}
+{"id": "UO7FlZ9Gikw-t715.84", "text": "about the function of memory and how it works for Vahburg.", "start": 715.84, "end": 721.08}
+{"id": "UO7FlZ9Gikw-t721.08", "text": "There's a 19th century, 20th century example of a scientist working on memory who had some", "start": 721.08, "end": 728.0}
+{"id": "UO7FlZ9Gikw-t728.0", "text": "insights that Vahburg borrowed and transformed.", "start": 728.0, "end": 733.2}
+{"id": "UO7FlZ9Gikw-t733.2", "text": "Now I throw it to Kristina.", "start": 733.2, "end": 734.64}
+{"id": "UO7FlZ9Gikw-t734.64", "text": "I'll take it from there and just to start the discussion.", "start": 734.64, "end": 740.6800000000001}
+{"id": "UO7FlZ9Gikw-t740.68", "text": "I'm going to talk about memory in general, so what we define as memory and how is this", "start": 740.68, "end": 747.7199999999999}
+{"id": "UO7FlZ9Gikw-t747.7199999999999", "text": "related to the unconscious.", "start": 747.7199999999999, "end": 749.4799999999999}
+{"id": "UO7FlZ9Gikw-t749.4799999999999", "text": "We define memory, anything we learn, and then we keep as information over time.", "start": 749.4799999999999, "end": 758.68}
+{"id": "UO7FlZ9Gikw-t758.68", "text": "There are already keywords here.", "start": 758.68, "end": 761.12}
+{"id": "UO7FlZ9Gikw-t761.12", "text": "Learning, which is something that is perceived and changed in the brain as an oral scientist.", "start": 761.12, "end": 770.64}
+{"id": "UO7FlZ9Gikw-t770.64", "text": "Then it's maintained over time, so there is the other important issue of time.", "start": 770.64, "end": 778.3199999999999}
+{"id": "UO7FlZ9Gikw-t778.3199999999999", "text": "This already goes away a little bit, takes some space from the unconscious because there", "start": 778.3199999999999, "end": 785.76}
+{"id": "UO7FlZ9Gikw-t785.76", "text": "is no time in that.", "start": 785.76, "end": 788.1999999999999}
+{"id": "UO7FlZ9Gikw-t788.1999999999999", "text": "We can talk about that.", "start": 788.1999999999999, "end": 790.56}
+{"id": "UO7FlZ9Gikw-t790.56", "text": "Is there for memory always conscious, of course not.", "start": 790.56, "end": 794.84}
+{"id": "UO7FlZ9Gikw-t794.84", "text": "We know not only in psychoanalysis but in psychology and in neuroscience more and more", "start": 794.84, "end": 800.48}
+{"id": "UO7FlZ9Gikw-t800.48", "text": "that many of the experiences remain in a place that is non-conscious and therefore by definition", "start": 800.48, "end": 810.0}
+{"id": "UO7FlZ9Gikw-t810.0", "text": "unconscious.", "start": 810.0, "end": 811.0}
+{"id": "UO7FlZ9Gikw-t811.0", "text": "Does that mean that is the Freudian unconscious?", "start": 811.0, "end": 814.08}
+{"id": "UO7FlZ9Gikw-t814.08", "text": "That's going to be up for debate and discussion.", "start": 814.08, "end": 816.72}
+{"id": "UO7FlZ9Gikw-t816.72", "text": "We actually wrote a paper together with Pierre and Francois exactly about these topics, so", "start": 816.72, "end": 824.24}
+{"id": "UO7FlZ9Gikw-t824.24", "text": "perhaps Pierre can take it from there.", "start": 824.24, "end": 825.84}
+{"id": "UO7FlZ9Gikw-t825.84", "text": "I comment about Freudian unconscious, cognitive unconscious, many types of unconscious.", "start": 825.84, "end": 831.48}
+{"id": "UO7FlZ9Gikw-t831.48", "text": "Obviously needs to be defined because the word unconscious is common to all of them,", "start": 831.48, "end": 836.5600000000001}
+{"id": "UO7FlZ9Gikw-t836.5600000000001", "text": "but do they have anything to do with each other?", "start": 836.5600000000001, "end": 840.52}
+{"id": "UO7FlZ9Gikw-t840.52", "text": "Freud himself wrote that memory is actually an unconscious process or the memory trace", "start": 840.52, "end": 858.64}
+{"id": "UO7FlZ9Gikw-t858.64", "text": "to be more precise is an unconscious entity.", "start": 858.64, "end": 863.92}
+{"id": "UO7FlZ9Gikw-t863.92", "text": "The memory of the trace can be conscious, so he is distinguishing what is inside that", "start": 863.92, "end": 873.8}
+{"id": "UO7FlZ9Gikw-t873.8", "text": "is maintained, let's say in the brain, the brain body connection, that is unconscious", "start": 873.8, "end": 880.4}
+{"id": "UO7FlZ9Gikw-t880.4", "text": "but the memory of it of something is the conscious part.", "start": 880.4, "end": 885.4}
+{"id": "UO7FlZ9Gikw-t885.4", "text": "So clearly in this trace there is something conscious that can be brought to consciousness", "start": 885.4, "end": 890.48}
+{"id": "UO7FlZ9Gikw-t890.48", "text": "and the remains in the unconscious.", "start": 890.48, "end": 894.2}
+{"id": "UO7FlZ9Gikw-t894.2", "text": "There is a lot that can be discussed and certainly a lot of interest, particularly in I am very", "start": 894.2, "end": 901.44}
+{"id": "UO7FlZ9Gikw-t901.44", "text": "interested in that, in understanding the memories during development, which are very linked", "start": 901.44, "end": 907.9200000000001}
+{"id": "UO7FlZ9Gikw-t907.9200000000001", "text": "to the psychoanalytic issues in question, how much are they conscious or unconscious?", "start": 907.9200000000001, "end": 915.76}
+{"id": "UO7FlZ9Gikw-t915.76", "text": "Then is the process of consciousness coming in and are these traces, these memory traces", "start": 915.76, "end": 924.48}
+{"id": "UO7FlZ9Gikw-t924.48", "text": "maintained and influenced our behavior later on, which is the answer is obviously yes.", "start": 924.48, "end": 934.28}
+{"id": "UO7FlZ9Gikw-t934.28", "text": "So here we can connect about the perceptions of an artist making the work of art or thinking", "start": 934.28, "end": 944.08}
+{"id": "UO7FlZ9Gikw-t944.08", "text": "or visualizing anything, any perception.", "start": 944.08, "end": 949.24}
+{"id": "UO7FlZ9Gikw-t949.24", "text": "How much is that connected to memories?", "start": 949.24, "end": 953.0400000000001}
+{"id": "UO7FlZ9Gikw-t953.0400000000001", "text": "Memories besides that is a biologically essential function for life without memories we will", "start": 953.0400000000001, "end": 960.48}
+{"id": "UO7FlZ9Gikw-t960.48", "text": "not survive is also a very important part of the individuality of who we are.", "start": 960.48, "end": 970.0}
+{"id": "UO7FlZ9Gikw-t970.0", "text": "And there is a lot of connection to emotions and then Joe is going to tell us more about", "start": 970.0, "end": 975.56}
+{"id": "UO7FlZ9Gikw-t975.56", "text": "the emotions.", "start": 975.56, "end": 976.56}
+{"id": "UO7FlZ9Gikw-t976.56", "text": "So there is so much to go through, I think I will stop here and I will leave it to you.", "start": 976.56, "end": 982.24}
+{"id": "UO7FlZ9Gikw-t982.24", "text": "Maybe I can take it from your distinction of three unconscious cognitive Freudian and", "start": 982.24, "end": 990.36}
+{"id": "UO7FlZ9Gikw-t990.36", "text": "what you mentioned the Warburgian unconscious.", "start": 990.36, "end": 993.56}
+{"id": "UO7FlZ9Gikw-t993.56", "text": "I think Christina already made a first pass to the first two cognitive and Freudian and", "start": 993.56, "end": 1001.28}
+{"id": "UO7FlZ9Gikw-t1001.28", "text": "we can get back.", "start": 1001.28, "end": 1002.28}
+{"id": "UO7FlZ9Gikw-t1002.28", "text": "I mean as you say there is still a lot to be said.", "start": 1002.28, "end": 1005.92}
+{"id": "UO7FlZ9Gikw-t1005.92", "text": "But the quote unquote Warburgian unconscious, which you, until yesterday I never thought", "start": 1005.92, "end": 1013.1999999999999}
+{"id": "UO7FlZ9Gikw-t1013.1999999999999", "text": "that that could have anything to do with what you mentioned, some sort of collective", "start": 1013.1999999999999, "end": 1018.0}
+{"id": "UO7FlZ9Gikw-t1018.0", "text": "unconscious because for me it is very difficult to understand the notion of consciousness", "start": 1018.0, "end": 1023.52}
+{"id": "UO7FlZ9Gikw-t1023.52", "text": "collective unconscious.", "start": 1023.52, "end": 1026.28}
+{"id": "UO7FlZ9Gikw-t1026.28", "text": "So let me try to give you what I think about it.", "start": 1026.28, "end": 1032.76}
+{"id": "UO7FlZ9Gikw-t1032.76", "text": "I have been thinking about this quite intensively obviously because of this immersion since", "start": 1032.76, "end": 1037.8799999999999}
+{"id": "UO7FlZ9Gikw-t1037.8799999999999", "text": "yesterday.", "start": 1037.8799999999999, "end": 1040.6399999999999}
+{"id": "UO7FlZ9Gikw-t1040.6399999999999", "text": "That resonates by the way with what you were saying initially the cultural and the personal", "start": 1040.6399999999999, "end": 1046.68}
+{"id": "UO7FlZ9Gikw-t1046.68", "text": "memory.", "start": 1046.68, "end": 1048.76}
+{"id": "UO7FlZ9Gikw-t1048.76", "text": "It is another way, so this contrast, this paradox between something personal and something", "start": 1048.76, "end": 1057.44}
+{"id": "UO7FlZ9Gikw-t1057.44", "text": "cultural or collective I think is a question in the Warburgian unconscious.", "start": 1057.44, "end": 1063.48}
+{"id": "UO7FlZ9Gikw-t1063.48", "text": "Let us call it.", "start": 1063.48, "end": 1064.92}
+{"id": "UO7FlZ9Gikw-t1064.92", "text": "What does it mean?", "start": 1064.92, "end": 1066.12}
+{"id": "UO7FlZ9Gikw-t1066.12", "text": "So initially when with Vittorio and Francois we thought of this gathering here, I think", "start": 1066.12, "end": 1074.16}
+{"id": "UO7FlZ9Gikw-t1074.16", "text": "one of the starting point was the notion of Navelleben.", "start": 1074.16, "end": 1078.04}
+{"id": "UO7FlZ9Gikw-t1078.04", "text": "So this idea that there is something, as Jor-Vivolscom says, something that remains over time maybe", "start": 1078.04, "end": 1088.2}
+{"id": "UO7FlZ9Gikw-t1088.2", "text": "is updated at different times and cultures.", "start": 1088.2, "end": 1093.3999999999999}
+{"id": "UO7FlZ9Gikw-t1093.3999999999999", "text": "But there is these patterns that reemerge through different stages of culture.", "start": 1093.3999999999999, "end": 1106.1599999999999}
+{"id": "UO7FlZ9Gikw-t1106.16", "text": "It is something that is puzzling.", "start": 1106.16, "end": 1108.0}
+{"id": "UO7FlZ9Gikw-t1108.0", "text": "So it has something to do with memory but how do you talk about memory being maintained", "start": 1108.0, "end": 1114.6000000000001}
+{"id": "UO7FlZ9Gikw-t1114.6000000000001", "text": "across centuries and cultures, unless you speak of this collective unconscious which", "start": 1114.6000000000001, "end": 1122.92}
+{"id": "UO7FlZ9Gikw-t1122.92", "text": "I don't really think exists.", "start": 1122.92, "end": 1125.44}
+{"id": "UO7FlZ9Gikw-t1125.44", "text": "So how do you connect this?", "start": 1125.44, "end": 1127.88}
+{"id": "UO7FlZ9Gikw-t1127.88", "text": "So you can take two approaches.", "start": 1127.88, "end": 1130.76}
+{"id": "UO7FlZ9Gikw-t1130.76", "text": "One is, and I think that's the one that triggered our interest, is the idea that also, and Kristina", "start": 1130.76, "end": 1137.96}
+{"id": "UO7FlZ9Gikw-t1137.96", "text": "has worked a lot on this, the idea that traces are made after an experience and then somehow", "start": 1137.96, "end": 1144.36}
+{"id": "UO7FlZ9Gikw-t1144.36", "text": "there is the memory is very dynamic.", "start": 1144.36, "end": 1146.52}
+{"id": "UO7FlZ9Gikw-t1146.52", "text": "It can be updated, there are new associations of traces.", "start": 1146.52, "end": 1149.8799999999999}
+{"id": "UO7FlZ9Gikw-t1149.8799999999999", "text": "And one could say, when Navelleben is kind of a concept that has a resonance with some", "start": 1149.8799999999999, "end": 1156.8}
+{"id": "UO7FlZ9Gikw-t1156.8", "text": "neurobiological aspects of memory that there are traces that are re-abdated, re-associated", "start": 1156.8, "end": 1164.0}
+{"id": "UO7FlZ9Gikw-t1164.0", "text": "with time.", "start": 1164.0, "end": 1165.0}
+{"id": "UO7FlZ9Gikw-t1165.0", "text": "But it's really purely conceptual because the notion of trace re-association, of reconciliation", "start": 1165.0, "end": 1171.56}
+{"id": "UO7FlZ9Gikw-t1171.56", "text": "is linked to a single individual.", "start": 1171.56, "end": 1173.96}
+{"id": "UO7FlZ9Gikw-t1173.96", "text": "So how can you imagine that this goes on across centuries?", "start": 1173.96, "end": 1177.8799999999999}
+{"id": "UO7FlZ9Gikw-t1177.88", "text": "So it works as a model but I don't think it works in practice to explain this verborgian", "start": 1177.88, "end": 1188.64}
+{"id": "UO7FlZ9Gikw-t1188.64", "text": "unconscious.", "start": 1188.64, "end": 1190.2800000000002}
+{"id": "UO7FlZ9Gikw-t1190.2800000000002", "text": "So it's an idea that I put here with all the, because we are completely open and discussed.", "start": 1190.2800000000002, "end": 1201.96}
+{"id": "UO7FlZ9Gikw-t1201.96", "text": "But I just thought that, how about if there are some patterns that activate in a particularly", "start": 1201.96, "end": 1220.48}
+{"id": "UO7FlZ9Gikw-t1220.48", "text": "strong way or patterns of neurons that it's an invariant of the human species, at least", "start": 1220.48, "end": 1230.3600000000001}
+{"id": "UO7FlZ9Gikw-t1230.36", "text": "over these two or three thousand years that we're talking about.", "start": 1230.36, "end": 1235.4399999999998}
+{"id": "UO7FlZ9Gikw-t1235.4399999999998", "text": "And somehow they generate some emotional response or some, even maybe cognitive response or", "start": 1235.4399999999998, "end": 1243.9199999999998}
+{"id": "UO7FlZ9Gikw-t1243.9199999999998", "text": "something.", "start": 1243.9199999999998, "end": 1244.9199999999998}
+{"id": "UO7FlZ9Gikw-t1244.9199999999998", "text": "So there is kind of a signature in certain patterns that is an invariant across time", "start": 1244.9199999999998, "end": 1256.12}
+{"id": "UO7FlZ9Gikw-t1256.12", "text": "and space.", "start": 1256.12, "end": 1257.52}
+{"id": "UO7FlZ9Gikw-t1257.52", "text": "And maybe something very primitive.", "start": 1257.52, "end": 1261.2}
+{"id": "UO7FlZ9Gikw-t1261.2", "text": "I can't actually help but thinking of in one of your early papers in the Scientific", "start": 1261.2, "end": 1267.84}
+{"id": "UO7FlZ9Gikw-t1267.84", "text": "American, you had a man in a forest hitting with a rod, a snake.", "start": 1267.84, "end": 1277.12}
+{"id": "UO7FlZ9Gikw-t1277.12", "text": "And the idea that the snake would go through the low way, the talamus amigdala and generate", "start": 1277.12, "end": 1284.52}
+{"id": "UO7FlZ9Gikw-t1284.52", "text": "this very fast response, not at all cognitively interpreted, which is the long way through", "start": 1284.52, "end": 1293.16}
+{"id": "UO7FlZ9Gikw-t1293.16", "text": "the primary sensory cortex and then back to.", "start": 1293.16, "end": 1296.56}
+{"id": "UO7FlZ9Gikw-t1296.56", "text": "So as a pure speculation, is it possible that these patterns that verborg identified and", "start": 1296.56, "end": 1305.96}
+{"id": "UO7FlZ9Gikw-t1305.96", "text": "that we can group under this idea of the verborgian unconscious actually reflect a neurobiological", "start": 1305.96, "end": 1313.68}
+{"id": "UO7FlZ9Gikw-t1313.68", "text": "reality of very simple or even complex patterns that are an invariant in neuronal circuitry", "start": 1313.68, "end": 1326.64}
+{"id": "UO7FlZ9Gikw-t1326.64", "text": "and then that triggers certain type of energy, if you wish, which then are then integrated", "start": 1326.64, "end": 1334.8}
+{"id": "UO7FlZ9Gikw-t1334.8", "text": "in much more elaborated productions such as the gi\u00e9rlandaleo or your name.", "start": 1334.8, "end": 1342.44}
+{"id": "UO7FlZ9Gikw-t1342.44", "text": "So this is my take.", "start": 1342.44, "end": 1344.88}
+{"id": "UO7FlZ9Gikw-t1344.88", "text": "I think maybe it is possible to talk about some kind of biological there there.", "start": 1344.88, "end": 1353.0800000000002}
+{"id": "UO7FlZ9Gikw-t1353.0800000000002", "text": "What happened yesterday I think is that in certain strains of poststructuralist French", "start": 1353.0800000000002, "end": 1360.04}
+{"id": "UO7FlZ9Gikw-t1360.04", "text": "thought, the body as a non-ideological, non-textual phenomenon vanished, which is I think the", "start": 1360.04, "end": 1371.0800000000002}
+{"id": "UO7FlZ9Gikw-t1371.08", "text": "spat about La Con and Malle Punti was connected to this, that there is real biology and neurology", "start": 1371.08, "end": 1380.04}
+{"id": "UO7FlZ9Gikw-t1380.04", "text": "in Malle Punti in a way that La Con's relationship to drive theory, which I think there are people", "start": 1380.04, "end": 1389.76}
+{"id": "UO7FlZ9Gikw-t1389.76", "text": "here that can explain it better than I understood it, but it is changed.", "start": 1389.76, "end": 1393.8}
+{"id": "UO7FlZ9Gikw-t1393.8", "text": "He really revises that in relation to what is happening in French thinking of the period.", "start": 1393.8, "end": 1401.44}
+{"id": "UO7FlZ9Gikw-t1401.44", "text": "But if we can agree that there is some kind of biological route to human experience, which", "start": 1401.44, "end": 1407.8}
+{"id": "UO7FlZ9Gikw-t1407.8", "text": "I think there is, then this is from Vareberg's journal and I think maybe Joe will have something", "start": 1407.8, "end": 1413.68}
+{"id": "UO7FlZ9Gikw-t1413.68", "text": "to say about this.", "start": 1413.68, "end": 1414.8}
+{"id": "UO7FlZ9Gikw-t1414.8", "text": "He says, the inherited consciousness of maximized impressions stamped on the mind, engram,", "start": 1414.8, "end": 1425.6}
+{"id": "UO7FlZ9Gikw-t1425.6", "text": "engram, passes them on without taking cognizance of the direction of their emotional charge", "start": 1425.6, "end": 1432.6}
+{"id": "UO7FlZ9Gikw-t1432.6", "text": "simply as an experience of energy tensions, this sounds a little like Freud, this unpolarized", "start": 1432.6, "end": 1439.56}
+{"id": "UO7FlZ9Gikw-t1439.56", "text": "continuum, the imparting of a new meaning, you can think of that as Freud drives attaching", "start": 1439.56, "end": 1448.24}
+{"id": "UO7FlZ9Gikw-t1448.24", "text": "to an object, to these energies serves as a protective screen.", "start": 1448.24, "end": 1453.56}
+{"id": "UO7FlZ9Gikw-t1453.56", "text": "Joe, this sounds like you.", "start": 1453.56, "end": 1456.6399999999999}
+{"id": "UO7FlZ9Gikw-t1456.6399999999999", "text": "This is Bobo, this is Bobo, but I know Joe can pick up on this.", "start": 1456.6399999999999, "end": 1463.2}
+{"id": "UO7FlZ9Gikw-t1463.2", "text": "I want to start with something that Christopher said about the arrangement of these images", "start": 1463.2, "end": 1471.24}
+{"id": "UO7FlZ9Gikw-t1471.24", "text": "and the dynamic that is going on between conscious and unconscious processes.", "start": 1471.24, "end": 1475.16}
+{"id": "UO7FlZ9Gikw-t1475.16", "text": "Let's really simplify it and think of the conscious perceptual mind as one thing and", "start": 1475.16, "end": 1486.2}
+{"id": "UO7FlZ9Gikw-t1486.2", "text": "everything else underneath as more implicit systems that operate unconsciously.", "start": 1486.2, "end": 1491.96}
+{"id": "UO7FlZ9Gikw-t1491.96", "text": "What about the Freudian unconscious, all of that other stuff and just talk about it as", "start": 1491.96, "end": 1496.04}
+{"id": "UO7FlZ9Gikw-t1496.04", "text": "pure wiring of the brain?", "start": 1496.04, "end": 1498.1200000000001}
+{"id": "UO7FlZ9Gikw-t1498.1200000000001", "text": "Some things are unconscious simply because they don't have connectivity with the systems", "start": 1498.1200000000001, "end": 1502.92}
+{"id": "UO7FlZ9Gikw-t1502.92", "text": "that make consciousness.", "start": 1502.92, "end": 1503.92}
+{"id": "UO7FlZ9Gikw-t1503.92", "text": "We could call it cognitive unconscious, but a lot of emotion stuff is like that too.", "start": 1503.92, "end": 1507.96}
+{"id": "UO7FlZ9Gikw-t1507.96", "text": "We'll just call it the implicit of psychological unconscious.", "start": 1507.96, "end": 1514.72}
+{"id": "UO7FlZ9Gikw-t1514.72", "text": "Let's say he's there ranging these pictures, his conscious mind is looking at it, but his", "start": 1514.72, "end": 1519.8400000000001}
+{"id": "UO7FlZ9Gikw-t1519.84", "text": "unconscious mind is controlling his behavior.", "start": 1519.84, "end": 1523.8799999999999}
+{"id": "UO7FlZ9Gikw-t1523.8799999999999", "text": "The actual arrangement physically of the images is probably being done independent of what", "start": 1523.8799999999999, "end": 1532.08}
+{"id": "UO7FlZ9Gikw-t1532.08", "text": "he's consciously thinking.", "start": 1532.08, "end": 1534.08}
+{"id": "UO7FlZ9Gikw-t1534.08", "text": "That's how you're getting these.", "start": 1534.08, "end": 1536.24}
+{"id": "UO7FlZ9Gikw-t1536.24", "text": "You make a move, you put this here just intuitively and now it's part of your consciousness.", "start": 1536.24, "end": 1544.6399999999999}
+{"id": "UO7FlZ9Gikw-t1544.6399999999999", "text": "That gets incorporated into your present state.", "start": 1544.6399999999999, "end": 1549.24}
+{"id": "UO7FlZ9Gikw-t1549.24", "text": "Now you make another move and so it's a dance between the conscious and the unconscious", "start": 1549.24, "end": 1553.96}
+{"id": "UO7FlZ9Gikw-t1553.96", "text": "as all of life is every moment.", "start": 1553.96, "end": 1557.48}
+{"id": "UO7FlZ9Gikw-t1557.48", "text": "I see that as how these systems are interacting, but now to bring in emotion and universal", "start": 1557.48, "end": 1565.84}
+{"id": "UO7FlZ9Gikw-t1565.84", "text": "unconscious.", "start": 1565.84, "end": 1568.4}
+{"id": "UO7FlZ9Gikw-t1568.4", "text": "There are definitely things that are wired into the brain that we're sensitive to, whether", "start": 1568.4, "end": 1574.28}
+{"id": "UO7FlZ9Gikw-t1574.28", "text": "it's the certain shapes, the visual cortex for example, has things that it's innately", "start": 1574.28, "end": 1581.08}
+{"id": "UO7FlZ9Gikw-t1581.08", "text": "sensitive to in terms of angles and lines and contrast between stimulants and so forth.", "start": 1581.08, "end": 1586.24}
+{"id": "UO7FlZ9Gikw-t1586.24", "text": "There are more complex things that we might think of in a psychological sense such as", "start": 1586.24, "end": 1591.24}
+{"id": "UO7FlZ9Gikw-t1591.24", "text": "the snake on the ground.", "start": 1591.24, "end": 1594.04}
+{"id": "UO7FlZ9Gikw-t1594.04", "text": "We know that the low road that you talked about, which takes information into the amygdala,", "start": 1594.04, "end": 1601.48}
+{"id": "UO7FlZ9Gikw-t1601.48", "text": "which is important for detecting danger, the low road takes that information in, but it", "start": 1601.48, "end": 1606.16}
+{"id": "UO7FlZ9Gikw-t1606.16", "text": "has nothing, has no way to convey psychology.", "start": 1606.16, "end": 1610.96}
+{"id": "UO7FlZ9Gikw-t1610.96", "text": "All it has is curvature, intensity and those sorts of features.", "start": 1610.96, "end": 1617.04}
+{"id": "UO7FlZ9Gikw-t1617.04", "text": "The guy that's walking in the woods in this picture and is about to step on the snake and", "start": 1617.04, "end": 1621.3600000000001}
+{"id": "UO7FlZ9Gikw-t1621.3600000000001", "text": "freezing before he steps on the snake is not responding to the snake.", "start": 1621.3600000000001, "end": 1625.76}
+{"id": "UO7FlZ9Gikw-t1625.76", "text": "He's responding to a curve shape on the ground that activates this archetypal image that has", "start": 1625.76, "end": 1633.68}
+{"id": "UO7FlZ9Gikw-t1633.68", "text": "been threatening to our ancestors and our animal ancestors and all the way back down for millennia", "start": 1633.68, "end": 1641.76}
+{"id": "UO7FlZ9Gikw-t1641.76", "text": "and causing him to stop to freeze.", "start": 1641.76, "end": 1644.84}
+{"id": "UO7FlZ9Gikw-t1644.84", "text": "Just as you walk out on 2nd Avenue and the bus goes flying by and you jump back and afterwards", "start": 1644.84, "end": 1649.76}
+{"id": "UO7FlZ9Gikw-t1649.76", "text": "you consciously become afraid, the brain has this kind of capacity to respond this way.", "start": 1649.76, "end": 1655.72}
+{"id": "UO7FlZ9Gikw-t1655.72", "text": "As you know, many phobias are based on these kinds of archetypal stimuli, whether it's", "start": 1655.72, "end": 1661.64}
+{"id": "UO7FlZ9Gikw-t1661.64", "text": "snakes and spiders and heights and blood and things like that or social situations where", "start": 1661.64, "end": 1668.6000000000001}
+{"id": "UO7FlZ9Gikw-t1668.6000000000001", "text": "you're not in a sense of uncontrolled is present.", "start": 1668.6000000000001, "end": 1674.0}
+{"id": "UO7FlZ9Gikw-t1674.0", "text": "There are lots of things that go on below the surface of consciousness that then we", "start": 1674.0, "end": 1678.28}
+{"id": "UO7FlZ9Gikw-t1678.28", "text": "consciously recognize and incorporate into ourself, our mind, our personality, including", "start": 1678.28, "end": 1684.48}
+{"id": "UO7FlZ9Gikw-t1684.48", "text": "our own behavior.", "start": 1684.48, "end": 1685.48}
+{"id": "UO7FlZ9Gikw-t1685.48", "text": "So we act in a certain way that becomes part of our conscious perception of who we are", "start": 1685.48, "end": 1690.88}
+{"id": "UO7FlZ9Gikw-t1690.88", "text": "and in fact we learn a lot about who we are through the way we act.", "start": 1690.88, "end": 1694.88}
+{"id": "UO7FlZ9Gikw-t1694.88", "text": "I'm just going to say this, you can relate this back I think to actually trauma as something", "start": 1694.88, "end": 1701.48}
+{"id": "UO7FlZ9Gikw-t1701.48", "text": "important in Valvo and also to the images you mentioned first connected to the typhoid", "start": 1701.48, "end": 1708.2}
+{"id": "UO7FlZ9Gikw-t1708.2", "text": "fever.", "start": 1708.2, "end": 1710.76}
+{"id": "UO7FlZ9Gikw-t1710.76", "text": "And trauma and learned fear responses which is something that Joe has also written about", "start": 1710.76, "end": 1716.52}
+{"id": "UO7FlZ9Gikw-t1716.52", "text": "I think are very much implicated in Valvo's life but also in his theoretical position", "start": 1716.52, "end": 1724.24}
+{"id": "UO7FlZ9Gikw-t1724.24", "text": "about the shock that returns and you know Valvo I'm giving it to you.", "start": 1724.24, "end": 1730.32}
+{"id": "UO7FlZ9Gikw-t1730.32", "text": "Well I was picking up on the notion of the Valvo walking in unconscious in the distance", "start": 1730.32, "end": 1735.04}
+{"id": "UO7FlZ9Gikw-t1735.04", "text": "between or how we might move from a conscious level.", "start": 1735.04, "end": 1741.44}
+{"id": "UO7FlZ9Gikw-t1741.44", "text": "The first phrase in the introduction to name Azune is conscious creation of distance.", "start": 1741.44, "end": 1751.0}
+{"id": "UO7FlZ9Gikw-t1751.0", "text": "He insists upon the fact that he is this is a practice that this project is going to show", "start": 1751.0, "end": 1758.04}
+{"id": "UO7FlZ9Gikw-t1758.04", "text": "the means by which he moves from the demonic to something more ecstatic or more mediated", "start": 1758.04, "end": 1766.36}
+{"id": "UO7FlZ9Gikw-t1766.36", "text": "something something controllable and the fact that he insists on Nietzsche's polarity between", "start": 1766.36, "end": 1775.84}
+{"id": "UO7FlZ9Gikw-t1775.84", "text": "the Dionysian and the Apollonian in the same text suggests to me that he's realizing that", "start": 1775.84, "end": 1782.08}
+{"id": "UO7FlZ9Gikw-t1782.08", "text": "the method that he of collating combining separating which he worked on with collaborators", "start": 1782.08, "end": 1789.84}
+{"id": "UO7FlZ9Gikw-t1789.84", "text": "but mainly was it was Valvo himself who insisted on the arrangement of the images was the means", "start": 1789.84, "end": 1796.36}
+{"id": "UO7FlZ9Gikw-t1796.36", "text": "by which he could de demonize quote unquote these images but implicitly also his own past", "start": 1796.36, "end": 1804.6399999999999}
+{"id": "UO7FlZ9Gikw-t1804.6399999999999", "text": "and his own demons.", "start": 1804.6399999999999, "end": 1806.56}
+{"id": "UO7FlZ9Gikw-t1806.56", "text": "So if you take people into the lab and make them afraid of something create a threatening", "start": 1806.56, "end": 1814.56}
+{"id": "UO7FlZ9Gikw-t1814.56", "text": "stimulus by pairing something with shock or so forth and then re-expose them to that", "start": 1814.56, "end": 1820.84}
+{"id": "UO7FlZ9Gikw-t1820.84", "text": "stimulus and ask them to think about a pleasant field of daisies or something like that you", "start": 1820.84, "end": 1826.56}
+{"id": "UO7FlZ9Gikw-t1826.56", "text": "can lower the the response of the autonomic nervous system and also reduce the amygdala", "start": 1826.56, "end": 1831.6399999999999}
+{"id": "UO7FlZ9Gikw-t1831.64", "text": "activity to that threat by arranging a context for it so it sounds like this is similar to", "start": 1831.64, "end": 1839.48}
+{"id": "UO7FlZ9Gikw-t1839.48", "text": "what he's doing.", "start": 1839.48, "end": 1840.48}
+{"id": "UO7FlZ9Gikw-t1840.48", "text": "It's similar I'm just afraid from the sort of philological comparison perspective that", "start": 1840.48, "end": 1846.44}
+{"id": "UO7FlZ9Gikw-t1846.44", "text": "we're losing the historical richness of Valvo's knowledge that he knew things about the history", "start": 1846.44, "end": 1855.72}
+{"id": "UO7FlZ9Gikw-t1855.72", "text": "of astrology the history of cosmography the history of art that history of literature", "start": 1855.72, "end": 1861.96}
+{"id": "UO7FlZ9Gikw-t1861.96", "text": "that allowed him to as you suggested in your last as you suggested in your last sentence", "start": 1861.96, "end": 1868.56}
+{"id": "UO7FlZ9Gikw-t1868.56", "text": "to lower the fear factor as a her.", "start": 1868.56, "end": 1872.72}
+{"id": "UO7FlZ9Gikw-t1872.72", "text": "But at least when I sense is that and again you formulated it by speaking about cultural", "start": 1872.72, "end": 1880.28}
+{"id": "UO7FlZ9Gikw-t1880.28", "text": "versus personal memory I think there are two aspects that one can bring to the discussion", "start": 1880.28, "end": 1885.6000000000001}
+{"id": "UO7FlZ9Gikw-t1885.6", "text": "one is the the motivations let cool them or the drives that made Warburg organize the", "start": 1885.6, "end": 1893.4399999999998}
+{"id": "UO7FlZ9Gikw-t1893.4399999999998", "text": "images in a certain way in Nemozin in the Atlas and and and that is clearly the result", "start": 1893.4399999999998, "end": 1901.08}
+{"id": "UO7FlZ9Gikw-t1901.08", "text": "of his personal life his personal.", "start": 1901.08, "end": 1905.9599999999998}
+{"id": "UO7FlZ9Gikw-t1905.9599999999998", "text": "Yeah I mean it's his unconscious drives and then his intuition about Naheleben these the", "start": 1905.9599999999998, "end": 1913.9599999999998}
+{"id": "UO7FlZ9Gikw-t1913.96", "text": "constancy the the persistence the surveillance of of certain antique patterns and that relates", "start": 1913.96, "end": 1922.16}
+{"id": "UO7FlZ9Gikw-t1922.16", "text": "to to the other point I was trying to make and to to propose to this maybe there are", "start": 1922.16, "end": 1928.48}
+{"id": "UO7FlZ9Gikw-t1928.48", "text": "these archetypal forms that are not that nothing to do with a collective unconscious but simply", "start": 1928.48, "end": 1934.76}
+{"id": "UO7FlZ9Gikw-t1934.76", "text": "with a biological reality and and and actually I was discussing last night with the under", "start": 1934.76, "end": 1939.96}
+{"id": "UO7FlZ9Gikw-t1939.96", "text": "Pinoti about something that resonates with this and is the notion of ou built by D\u00fclke", "start": 1939.96, "end": 1946.8}
+{"id": "UO7FlZ9Gikw-t1946.8", "text": "and so this idea that there are certain prime primal or original or original images that", "start": 1946.8, "end": 1958.04}
+{"id": "UO7FlZ9Gikw-t1958.04", "text": "that I have nothing mythical actually they have some they're biological for our species.", "start": 1958.04, "end": 1962.92}
+{"id": "UO7FlZ9Gikw-t1962.92", "text": "Yes and I think I think you're right we don't want to fall into some kind of reductive position", "start": 1962.92, "end": 1969.4}
+{"id": "UO7FlZ9Gikw-t1969.4", "text": "at least I don't maybe other people do where you're reducing this very complex historical", "start": 1969.4, "end": 1978.16}
+{"id": "UO7FlZ9Gikw-t1978.16", "text": "and intellectual reality to say a part of the brain.", "start": 1978.16, "end": 1982.8400000000001}
+{"id": "UO7FlZ9Gikw-t1982.8400000000001", "text": "Are we trying to understand him or are we trying to get more general ideas about the", "start": 1982.8400000000001, "end": 1987.1200000000001}
+{"id": "UO7FlZ9Gikw-t1987.1200000000001", "text": "mind or I think for example the idea of Dankram you can move this across fields so this idea", "start": 1987.1200000000001, "end": 1996.88}
+{"id": "UO7FlZ9Gikw-t1996.88", "text": "of distance or Dankram subject object can I think be related to unconsciousness or pre-reflective", "start": 1996.88, "end": 2008.92}
+{"id": "UO7FlZ9Gikw-t2008.92", "text": "self-consciousness and reflective self-consciousness in in phenomenology or Kierkegaard said immediacy", "start": 2008.92, "end": 2018.8400000000001}
+{"id": "UO7FlZ9Gikw-t2018.8400000000001", "text": "a motor sensory immediate you know perceptions that are coming into the body versus reflection", "start": 2018.8400000000001, "end": 2026.64}
+{"id": "UO7FlZ9Gikw-t2026.64", "text": "so and this would relate to what you call the slow road in fear perception right so there's", "start": 2026.64, "end": 2038.1200000000001}
+{"id": "UO7FlZ9Gikw-t2038.1200000000001", "text": "this immediate response to the snake on you know in front of you where your whole body", "start": 2038.1200000000001, "end": 2043.0800000000002}
+{"id": "UO7FlZ9Gikw-t2043.0800000000002", "text": "is just in alarm mode and then there are the slower responses that have cognitive functions", "start": 2043.0800000000002, "end": 2050.7200000000003}
+{"id": "UO7FlZ9Gikw-t2050.72", "text": "higher cognitive functions. So what this makes me think is perhaps the load of emotions", "start": 2050.72, "end": 2060.12}
+{"id": "UO7FlZ9Gikw-t2060.12", "text": "and the demons attached to it so it's overwhelming it's emotions and then making this space or", "start": 2060.12, "end": 2069.6}
+{"id": "UO7FlZ9Gikw-t2069.6", "text": "taking the distance by giving a context by giving something that is attached to it so", "start": 2069.6, "end": 2078.2799999999997}
+{"id": "UO7FlZ9Gikw-t2078.28", "text": "that a story can be made or a continuity so that something can be said from the beginning", "start": 2078.28, "end": 2086.44}
+{"id": "UO7FlZ9Gikw-t2086.44", "text": "to the end and that is a way to move from the pure emotional state that is overwhelming", "start": 2086.44, "end": 2094.44}
+{"id": "UO7FlZ9Gikw-t2094.44", "text": "and therefore may be therapeutic. And you're really figuring the fundamental metaphor that", "start": 2094.44, "end": 2100.1200000000003}
+{"id": "UO7FlZ9Gikw-t2100.12", "text": "Bobo uses well in all throughout the 20s namely the Vanda Strassa that the road by which he", "start": 2100.12, "end": 2109.88}
+{"id": "UO7FlZ9Gikw-t2109.88", "text": "moves from the demonic through to something more reason more prudential but then of course", "start": 2109.88, "end": 2117.0}
+{"id": "UO7FlZ9Gikw-t2117.0", "text": "he re-encounters the demonic maybe in 1929 Rome that it's never it's never unlike Gomberich", "start": 2117.0, "end": 2124.68}
+{"id": "UO7FlZ9Gikw-t2124.68", "text": "Snyol Kantian account of a Boboque career intellectual career and George has said this", "start": 2124.68, "end": 2133.8799999999997}
+{"id": "UO7FlZ9Gikw-t2133.8799999999997", "text": "in his book wonderfully it's never there's it's Boboque spot is not teleological never", "start": 2133.8799999999997, "end": 2139.3199999999997}
+{"id": "UO7FlZ9Gikw-t2139.3199999999997", "text": "comes to an end a nice calm settled synthesis and so that he's always re-encountering these", "start": 2139.3199999999997, "end": 2148.0}
+{"id": "UO7FlZ9Gikw-t2148.0", "text": "images in both in a manner that requires mediation and memory and the kind of work that you are", "start": 2148.0, "end": 2155.32}
+{"id": "UO7FlZ9Gikw-t2155.32", "text": "describing. In a form possibly of visual narrative and maybe that's my narrative obsession but", "start": 2155.32, "end": 2162.04}
+{"id": "UO7FlZ9Gikw-t2162.04", "text": "I do think it's making conscious meanings out of the terror I mean the the archetypal", "start": 2162.04, "end": 2170.12}
+{"id": "UO7FlZ9Gikw-t2170.12", "text": "motor sensory visual overload is the flashback that you're just there's no linguistic material", "start": 2170.12, "end": 2178.96}
+{"id": "UO7FlZ9Gikw-t2178.96", "text": "there. Exactly. There's no linguistic material so I think that the Varburgian reality is", "start": 2178.96, "end": 2186.8399999999997}
+{"id": "UO7FlZ9Gikw-t2186.8399999999997", "text": "negotiating exactly what you said the demonic is this motor sensory terror. He talks about", "start": 2186.8399999999997, "end": 2196.6}
+{"id": "UO7FlZ9Gikw-t2196.6", "text": "something like I have it somewhere the melancholy you know the the tranquility or no the oh", "start": 2196.6, "end": 2203.56}
+{"id": "UO7FlZ9Gikw-t2203.56", "text": "god it's cannibalistic fury and melancholic something or other here it is. Entire range", "start": 2203.56, "end": 2215.7599999999998}
+{"id": "UO7FlZ9Gikw-t2215.7599999999998", "text": "of emotional gesture and now he's talking about the image from helpless melancholy to", "start": 2215.7599999999998, "end": 2221.3199999999997}
+{"id": "UO7FlZ9Gikw-t2221.32", "text": "murderous cannibalism. Yes. Although I just that he in fact consists that the possibilities", "start": 2221.32, "end": 2235.1600000000003}
+{"id": "UO7FlZ9Gikw-t2235.1600000000003", "text": "of using his method can result in either this the ecstatic or the melancholic. Yeah. And this", "start": 2235.1600000000003, "end": 2241.76}
+{"id": "UO7FlZ9Gikw-t2241.76", "text": "is after having the initial he uses the phrase which is very Nietzschean nerve and rights", "start": 2241.76, "end": 2251.88}
+{"id": "UO7FlZ9Gikw-t2251.88", "text": "the initial initial pull draw of the of the nerves of the feelings of this bodily the", "start": 2251.88, "end": 2262.0400000000004}
+{"id": "UO7FlZ9Gikw-t2262.0400000000004", "text": "corporeal and then the abstracted even mathematical view of images that he condemns in for instance", "start": 2262.0400000000004, "end": 2270.5200000000004}
+{"id": "UO7FlZ9Gikw-t2270.52", "text": "Hellenistic astrology. It's either too visceral or too abstracted and Varburg is looking for", "start": 2270.52, "end": 2279.36}
+{"id": "UO7FlZ9Gikw-t2279.36", "text": "a middle road a middle path in which both the immediate and the abstracted can be in some", "start": 2279.36, "end": 2287.08}
+{"id": "UO7FlZ9Gikw-t2287.08", "text": "sort of balance. Therefore he's interested in logos and mythos at the same time. Yeah.", "start": 2287.08, "end": 2292.7599999999998}
+{"id": "UO7FlZ9Gikw-t2292.7599999999998", "text": "And hallucination is an interesting aspect of this. How so? Well the hallucinations that", "start": 2292.7599999999998, "end": 2298.56}
+{"id": "UO7FlZ9Gikw-t2298.56", "text": "he remembers from his childhood the and the fact that that he does organize his thinking", "start": 2298.56, "end": 2306.24}
+{"id": "UO7FlZ9Gikw-t2306.24", "text": "in a kind of bipolar way. And that then he has a psychotic break which is not just a", "start": 2306.24, "end": 2313.56}
+{"id": "UO7FlZ9Gikw-t2313.56", "text": "break but it lasts for years. Right. Which he then recovers from I think in a way through", "start": 2313.56, "end": 2320.36}
+{"id": "UO7FlZ9Gikw-t2320.36", "text": "Dankham. Through this therapeutic aspect of finding the distance through both writing", "start": 2320.36, "end": 2329.4}
+{"id": "UO7FlZ9Gikw-t2329.4", "text": "and maybe arranging his mind. Yes. These complexes of images. Just fascinating.", "start": 2329.4, "end": 2339.32}
+{"id": "UO7FlZ9Gikw-t2339.32", "text": "And he was extraordinarily keen to have acknowledgement from his peers that this new method of the", "start": 2339.32, "end": 2348.4}
+{"id": "UO7FlZ9Gikw-t2348.4", "text": "build a higher technique of sequences of images that it would successfully help others mediate", "start": 2348.4, "end": 2355.64}
+{"id": "UO7FlZ9Gikw-t2355.64", "text": "this polarity. The famous example of him traveling to visit Einstein and show him some", "start": 2355.64, "end": 2362.96}
+{"id": "UO7FlZ9Gikw-t2362.96", "text": "of the cosmographical images in this form of visual autonomy. And that Einstein was impressed", "start": 2362.96, "end": 2370.44}
+{"id": "UO7FlZ9Gikw-t2370.44", "text": "and agreed and could argue with him about the mathematics of it suggested to Varburg that", "start": 2370.44, "end": 2375.52}
+{"id": "UO7FlZ9Gikw-t2375.52", "text": "he had succeeded in finding a technique or method. Yeah. But I think also someone in", "start": 2375.52, "end": 2381.48}
+{"id": "UO7FlZ9Gikw-t2381.48", "text": "the last session Ernst Chris was mentioned. And Chris talks about an aesthetic barrier", "start": 2381.48, "end": 2391.88}
+{"id": "UO7FlZ9Gikw-t2391.88", "text": "in art in creativity. That in a way preserves the artist from you know complete ego disintegration", "start": 2391.88, "end": 2402.8}
+{"id": "UO7FlZ9Gikw-t2402.8", "text": "in these imaginative flight. This is a this is a linked thought that the aesthetic barrier", "start": 2402.8, "end": 2410.6400000000003}
+{"id": "UO7FlZ9Gikw-t2410.6400000000003", "text": "is what Varburg is trying to set up. And the stakes are very high in his case.", "start": 2410.6400000000003, "end": 2420.48}
+{"id": "UO7FlZ9Gikw-t2420.48", "text": "But what just go back to this archetypal images that can then be re-put into different context.", "start": 2420.48, "end": 2430.96}
+{"id": "UO7FlZ9Gikw-t2430.96", "text": "I mean the for example we show the images that we saw yesterday in Georges presentation.", "start": 2430.96, "end": 2438.48}
+{"id": "UO7FlZ9Gikw-t2438.48", "text": "I mean the angle of the foot I mean this and and with all that it brings in terms of you", "start": 2438.48, "end": 2447.0}
+{"id": "UO7FlZ9Gikw-t2447.0", "text": "know representations. I mean that is a very specific pattern that may have been remained", "start": 2447.0, "end": 2460.92}
+{"id": "UO7FlZ9Gikw-t2460.92", "text": "across centuries. And that's what I was saying again activating particular circuits but then", "start": 2460.92, "end": 2469.64}
+{"id": "UO7FlZ9Gikw-t2469.64", "text": "or neurons actually. But then obviously it's it's contextualized you know in a painting by", "start": 2469.64, "end": 2477.8799999999997}
+{"id": "UO7FlZ9Gikw-t2477.8799999999997", "text": "Guillermo and I or in in others. So this detail that he points and mentions often this and", "start": 2477.8799999999997, "end": 2482.7599999999998}
+{"id": "UO7FlZ9Gikw-t2482.7599999999998", "text": "others but the notion of detail that he gives so much importance maybe again I don't want", "start": 2482.7599999999998, "end": 2489.56}
+{"id": "UO7FlZ9Gikw-t2489.56", "text": "to be reductionistic but maybe it has a biological underpinning. Yeah well and I think if we bring", "start": 2489.56, "end": 2494.56}
+{"id": "UO7FlZ9Gikw-t2494.56", "text": "up Vittorio and you know mirror systems in the brain that are you know working preconceptually", "start": 2494.56, "end": 2504.48}
+{"id": "UO7FlZ9Gikw-t2504.48", "text": "and you know those wonderful tapes about dancers who are watching other dancers. And how the", "start": 2504.48, "end": 2513.08}
+{"id": "UO7FlZ9Gikw-t2513.08", "text": "activation is different from just a lay person like myself watching a dancer. So there you", "start": 2513.08, "end": 2519.0}
+{"id": "UO7FlZ9Gikw-t2519.0", "text": "know there are these this is not a conscious connection but it activates you know motor", "start": 2519.0, "end": 2527.68}
+{"id": "UO7FlZ9Gikw-t2527.68", "text": "sensory parts of ourselves and this may be a link to Valbo as you say. Not talking about", "start": 2527.68, "end": 2533.8}
+{"id": "UO7FlZ9Gikw-t2533.8", "text": "a Jungian collective unconscious but certain aspects of human experience that are well to", "start": 2533.8, "end": 2540.92}
+{"id": "UO7FlZ9Gikw-t2540.92", "text": "risk the word universal. And maybe you know Joe the notion of how the body is engaged I", "start": 2540.92, "end": 2559.4}
+{"id": "UO7FlZ9Gikw-t2559.4", "text": "mean in terms of the somatic states in emotions maybe again I mean that's also an aspect I", "start": 2559.4, "end": 2567.4}
+{"id": "UO7FlZ9Gikw-t2567.4", "text": "think in when he speaks I'm not sure maybe you have to correct me but he said you have", "start": 2567.4, "end": 2572.76}
+{"id": "UO7FlZ9Gikw-t2572.76", "text": "patos formel is it some kind of affect some kind of emotion that such patterns can generate", "start": 2572.76, "end": 2584.1600000000003}
+{"id": "UO7FlZ9Gikw-t2584.1600000000003", "text": "you know maybe there also there is a connection with you know something that from the amygdala", "start": 2584.1600000000003, "end": 2589.52}
+{"id": "UO7FlZ9Gikw-t2589.52", "text": "activates endocrine or autonomic responses. There are certain systems in the brain obviously", "start": 2589.52, "end": 2598.16}
+{"id": "UO7FlZ9Gikw-t2598.16", "text": "they control our autonomic nervous system and the patterns that occur often are in response", "start": 2598.16, "end": 2606.08}
+{"id": "UO7FlZ9Gikw-t2606.08", "text": "to movement in response to behavior to meet the metabolic demands of the behavior. So if", "start": 2606.08, "end": 2612.32}
+{"id": "UO7FlZ9Gikw-t2612.32", "text": "you move your arm you've got to get blood in there and as you begin to move it you're", "start": 2612.32, "end": 2616.64}
+{"id": "UO7FlZ9Gikw-t2616.64", "text": "using energy until you have to resupply the energy. So every movement requires that the", "start": 2616.64, "end": 2622.12}
+{"id": "UO7FlZ9Gikw-t2622.12", "text": "brain orchestrates set of responses to adjust the physiology of the body to that system.", "start": 2622.12, "end": 2629.24}
+{"id": "UO7FlZ9Gikw-t2629.24", "text": "And all of those physiological responses whether they're of the autonomic nervous system or", "start": 2629.24, "end": 2633.48}
+{"id": "UO7FlZ9Gikw-t2633.48", "text": "the endocrine system are providing signals that then feed back to the brain as is the", "start": 2633.48, "end": 2638.72}
+{"id": "UO7FlZ9Gikw-t2638.72", "text": "movement itself through the proprioceptive systems. So there's a tremendous amount of", "start": 2638.72, "end": 2643.0}
+{"id": "UO7FlZ9Gikw-t2643.0", "text": "information coming back to the brain and I'm not necessarily talking about it in the", "start": 2643.0, "end": 2647.6}
+{"id": "UO7FlZ9Gikw-t2647.6", "text": "sense of the demazio kind of creating a feeling but it's certainly affecting the information", "start": 2647.6, "end": 2655.44}
+{"id": "UO7FlZ9Gikw-t2655.44", "text": "processing functions of the brain in a massive way. So all of the hormones that are released", "start": 2655.44, "end": 2660.68}
+{"id": "UO7FlZ9Gikw-t2660.68", "text": "for example cortisol is very important it's released in the adrenal gland goes into the", "start": 2660.68, "end": 2666.04}
+{"id": "UO7FlZ9Gikw-t2666.04", "text": "brain and binds to the amygdala, hippocampus, prefrontal cortex, you name it it's a hypothalamus", "start": 2666.04, "end": 2673.56}
+{"id": "UO7FlZ9Gikw-t2673.56", "text": "it's all over the brain and so it's going to affect the way all of those systems are", "start": 2673.56, "end": 2678.24}
+{"id": "UO7FlZ9Gikw-t2678.24", "text": "responding to the external world whether they're processing information implicitly or unconsciously", "start": 2678.24, "end": 2684.2799999999997}
+{"id": "UO7FlZ9Gikw-t2684.2799999999997", "text": "or in a conscious sense. So the detection of some significant stimulus in an image can", "start": 2684.2799999999997, "end": 2695.44}
+{"id": "UO7FlZ9Gikw-t2695.44", "text": "trigger all of that and then it feeds back to the brain which then affects the perception", "start": 2695.44, "end": 2701.48}
+{"id": "UO7FlZ9Gikw-t2701.48", "text": "and it becomes a feed forward circle.", "start": 2701.48, "end": 2704.6}
+{"id": "UO7FlZ9Gikw-t2704.6", "text": "So I suppose my question then would be in the case of Bob Walk and using the word case", "start": 2704.6, "end": 2711.68}
+{"id": "UO7FlZ9Gikw-t2711.68", "text": "after five years five plus years of institutions after having his voice there's a description", "start": 2711.68, "end": 2717.96}
+{"id": "UO7FlZ9Gikw-t2717.96", "text": "of his voice having been affected by all the screening that he did when he was institutionalized", "start": 2717.96, "end": 2722.84}
+{"id": "UO7FlZ9Gikw-t2722.84", "text": "it was kind of broken by it. Can, from a neuroscientific point of view could Bob Walk have how would", "start": 2722.84, "end": 2732.44}
+{"id": "UO7FlZ9Gikw-t2732.44", "text": "his reaction to the image have been changed having gone through that dark night of the", "start": 2732.44, "end": 2738.44}
+{"id": "UO7FlZ9Gikw-t2738.44", "text": "soul as it were and having learned or taught himself and been taught to see these images", "start": 2738.44, "end": 2746.0}
+{"id": "UO7FlZ9Gikw-t2746.0", "text": "over and over again for 40 years physiologically is there something that has changed or could", "start": 2746.0, "end": 2755.16}
+{"id": "UO7FlZ9Gikw-t2755.16", "text": "he have changed could he have cultivated a particular reaction is unique is he exemplary", "start": 2755.16, "end": 2760.4}
+{"id": "UO7FlZ9Gikw-t2760.4", "text": "well every experience changes your brain and the book is sitting here talking changes", "start": 2760.4, "end": 2765.84}
+{"id": "UO7FlZ9Gikw-t2765.84", "text": "your brain and the more profound the experience the more change there's going to be. So being", "start": 2765.84, "end": 2771.56}
+{"id": "UO7FlZ9Gikw-t2771.56", "text": "in a prison and screaming and being in an awful or any kind of awful situation is going", "start": 2771.56, "end": 2777.2799999999997}
+{"id": "UO7FlZ9Gikw-t2777.2799999999997", "text": "to change all of the systems in the brain because they're all responding and part of", "start": 2777.2799999999997, "end": 2782.32}
+{"id": "UO7FlZ9Gikw-t2782.32", "text": "this activity. So yeah I mean he's going to change his result of that and the way he", "start": 2782.32, "end": 2791.4}
+{"id": "UO7FlZ9Gikw-t2791.4", "text": "deals with the world after that will change as well. I don't know if that answered your", "start": 2791.4, "end": 2795.48}
+{"id": "UO7FlZ9Gikw-t2795.48", "text": "question but.", "start": 2795.48, "end": 2796.48}
+{"id": "UO7FlZ9Gikw-t2796.48", "text": "Which brings up plasticity.", "start": 2796.48, "end": 2797.48}
+{"id": "UO7FlZ9Gikw-t2797.48", "text": "Yeah which you have something to say about I know but so that in other words what we're", "start": 2797.48, "end": 2803.48}
+{"id": "UO7FlZ9Gikw-t2803.48", "text": "talking about are dynamic systems which does really relate to Volvo very in a profound", "start": 2803.48, "end": 2811.0}
+{"id": "UO7FlZ9Gikw-t2811.0", "text": "way I think both methodologically and you know how we can know what we know he's always", "start": 2811.0, "end": 2817.72}
+{"id": "UO7FlZ9Gikw-t2817.72", "text": "in motion. Yes.", "start": 2817.72, "end": 2819.56}
+{"id": "UO7FlZ9Gikw-t2819.56", "text": "Right it's never I mean this is what I'm Jo who was here anyway. Jo Jo was saying that", "start": 2819.56, "end": 2826.96}
+{"id": "UO7FlZ9Gikw-t2826.96", "text": "there's a kind of a day in flute you know to use the bin spong in the work itself which", "start": 2826.96, "end": 2836.44}
+{"id": "UO7FlZ9Gikw-t2836.44", "text": "can be maddening when you're reading it but is very very interesting from an intellectual", "start": 2836.44, "end": 2846.2}
+{"id": "UO7FlZ9Gikw-t2846.2", "text": "point of view that it can't be pinned down and so the idea of dynamism is implicit and", "start": 2846.2, "end": 2854.2}
+{"id": "UO7FlZ9Gikw-t2854.2", "text": "explicit in his work might in fact in his latter years he starts to use the word dynamo", "start": 2854.2, "end": 2859.2799999999997}
+{"id": "UO7FlZ9Gikw-t2859.2799999999997", "text": "ground yes yes as a replacement term for the pathos formula yeah yeah more or less yeah", "start": 2859.2799999999997, "end": 2867.56}
+{"id": "UO7FlZ9Gikw-t2867.56", "text": "and so again pushing on this of course every individual every experience has shaped the", "start": 2867.56, "end": 2875.8399999999997}
+{"id": "UO7FlZ9Gikw-t2875.8399999999997", "text": "way we see the world but I'm wondering.", "start": 2875.8399999999997, "end": 2879.3999999999996}
+{"id": "UO7FlZ9Gikw-t2879.4", "text": "The world's conscious strategies the build out list dynamo ground pathos formulas that", "start": 2879.4, "end": 2886.4}
+{"id": "UO7FlZ9Gikw-t2886.4", "text": "they they seem from a certain point of view to almost be not defense mechanisms but coping", "start": 2886.4, "end": 2891.7200000000003}
+{"id": "UO7FlZ9Gikw-t2891.7200000000003", "text": "mechanisms by which he is able to still look at those images that right cause him such", "start": 2891.7200000000003, "end": 2898.44}
+{"id": "UO7FlZ9Gikw-t2898.44", "text": "terror and uses the word terror fear over and over and over and over and so it's not", "start": 2898.44, "end": 2904.8}
+{"id": "UO7FlZ9Gikw-t2904.8", "text": "either or just to bring up here to guardian it's not either or it's some kind of swimming", "start": 2904.8, "end": 2911.8}
+{"id": "UO7FlZ9Gikw-t2911.8", "text": "and motion between these two poles that he you know he keeps thinking and it is a kind", "start": 2911.8, "end": 2919.5600000000004}
+{"id": "UO7FlZ9Gikw-t2919.5600000000004", "text": "of mind body polarity you know and unlike the rest of I kept thinking of the spatial", "start": 2919.5600000000004, "end": 2926.7200000000003}
+{"id": "UO7FlZ9Gikw-t2926.7200000000003", "text": "metaphor unlike the rest of western culture where it's mind over body the hierarchy.", "start": 2926.7200000000003, "end": 2934.76}
+{"id": "UO7FlZ9Gikw-t2934.76", "text": "In Valbo it seems to be the spatial metaphors like this and it's a continuum between the", "start": 2934.76, "end": 2942.4}
+{"id": "UO7FlZ9Gikw-t2942.4", "text": "two.", "start": 2942.4, "end": 2945.1600000000003}
+{"id": "UO7FlZ9Gikw-t2945.1600000000003", "text": "But you know you mentioned the plasticity and yeah I mean obviously every experience", "start": 2945.1600000000003, "end": 2951.6800000000003}
+{"id": "UO7FlZ9Gikw-t2951.6800000000003", "text": "changes the brain through the mechanisms of plasticity but maybe Christina you can say", "start": 2951.6800000000003, "end": 2957.5600000000004}
+{"id": "UO7FlZ9Gikw-t2957.5600000000004", "text": "something about the dynamics of memory and of the traces I think maybe that could be", "start": 2957.5600000000004, "end": 2963.8}
+{"id": "UO7FlZ9Gikw-t2963.8", "text": "of interest to the group.", "start": 2963.8, "end": 2967.04}
+{"id": "UO7FlZ9Gikw-t2967.04", "text": "Yeah so mechanism of plasticity which is that we used to process and we very much used to", "start": 2967.04, "end": 2975.28}
+{"id": "UO7FlZ9Gikw-t2975.28", "text": "make memories and memories can be short lasting or long lasting so there is short term plasticity", "start": 2975.28, "end": 2981.44}
+{"id": "UO7FlZ9Gikw-t2981.44", "text": "and this mechanism can be actually studying out relatively in detail so we know some of", "start": 2981.44, "end": 2995.32}
+{"id": "UO7FlZ9Gikw-t2995.32", "text": "the underlying mechanisms of long term plasticity important for long term memories and how those", "start": 2995.32, "end": 3002.64}
+{"id": "UO7FlZ9Gikw-t3002.64", "text": "then when they are retrieved the memories can influence the present and the present", "start": 3002.64, "end": 3008.68}
+{"id": "UO7FlZ9Gikw-t3008.68", "text": "is going to be made of the present experience plus the retrieval of the memories.", "start": 3008.68, "end": 3014.3999999999996}
+{"id": "UO7FlZ9Gikw-t3014.3999999999996", "text": "So this I think is very important and relevant to think about how that can play and there", "start": 3014.3999999999996, "end": 3022.0}
+{"id": "UO7FlZ9Gikw-t3022.0", "text": "is less known or understood about memory retrieval which is the other process that we are all", "start": 3022.0, "end": 3027.48}
+{"id": "UO7FlZ9Gikw-t3027.48", "text": "interested in.", "start": 3027.48, "end": 3028.48}
+{"id": "UO7FlZ9Gikw-t3028.48", "text": "I want to make a correction here actually Joe is the one who rediscover reconciliation", "start": 3028.48, "end": 3036.04}
+{"id": "UO7FlZ9Gikw-t3036.04", "text": "and when I started to work on it.", "start": 3036.04, "end": 3039.72}
+{"id": "UO7FlZ9Gikw-t3039.72", "text": "Carrying neither in your lab or in this conversation and those are processes that are very interesting", "start": 3039.72, "end": 3046.52}
+{"id": "UO7FlZ9Gikw-t3046.52", "text": "to think about also in the context of how we feel and how these changes over time so not", "start": 3046.52, "end": 3054.56}
+{"id": "UO7FlZ9Gikw-t3054.56", "text": "only this mechanism of plasticity which the brain changes and make long term changes to", "start": 3054.56, "end": 3060.7599999999998}
+{"id": "UO7FlZ9Gikw-t3060.76", "text": "store the memories but these changes are not static they keep changing they are very dynamic.", "start": 3060.76, "end": 3067.76}
+{"id": "UO7FlZ9Gikw-t3067.76", "text": "Which is related to Nacht-Triglickeit we can say to Freud's idea of what straight sheet", "start": 3067.76, "end": 3075.32}
+{"id": "UO7FlZ9Gikw-t3075.32", "text": "translated as deferred action which is not a good translation but afterliness which is", "start": 3075.32, "end": 3081.32}
+{"id": "UO7FlZ9Gikw-t3081.32", "text": "dynamic and not static.", "start": 3081.32, "end": 3083.32}
+{"id": "UO7FlZ9Gikw-t3083.32", "text": "So Christian maybe the coping that he is talking about is it comes to reconciliation where", "start": 3083.32, "end": 3090.8}
+{"id": "UO7FlZ9Gikw-t3090.8", "text": "the meaning is changed with each experience and maybe having the demonic and the ecstatic", "start": 3090.8, "end": 3098.44}
+{"id": "UO7FlZ9Gikw-t3098.44", "text": "together re-consolidates the memory in a slightly different way which then allows the next", "start": 3098.44, "end": 3104.6800000000003}
+{"id": "UO7FlZ9Gikw-t3104.6800000000003", "text": "experience to be less demonic.", "start": 3104.6800000000003, "end": 3106.28}
+{"id": "UO7FlZ9Gikw-t3106.28", "text": "I love this idea of re-consolidation or some people have described it as Boboek's", "start": 3106.28, "end": 3114.28}
+{"id": "UO7FlZ9Gikw-t3114.28", "text": "combinatory art which almost is based on a medieval combinatory art that he can take", "start": 3114.28, "end": 3121.4}
+{"id": "UO7FlZ9Gikw-t3121.4", "text": "the heterogeneous copia and find a way to constellate it in such a way in a manner that is both", "start": 3121.4, "end": 3132.84}
+{"id": "UO7FlZ9Gikw-t3132.84", "text": "instructive to others satisfying to him and ultimately a form of memory work.", "start": 3132.84, "end": 3139.08}
+{"id": "UO7FlZ9Gikw-t3139.08", "text": "And that's...", "start": 3139.08, "end": 3140.08}
+{"id": "UO7FlZ9Gikw-t3140.08", "text": "So just to be a little more precise about how it works, re-consolidation is when memories", "start": 3140.08, "end": 3150.0}
+{"id": "UO7FlZ9Gikw-t3150.0", "text": "are retrieved and they become fragile and changeable and this is a temporal window during which", "start": 3150.0, "end": 3160.76}
+{"id": "UO7FlZ9Gikw-t3160.76", "text": "changes can happen and then the memory becomes again less changeable.", "start": 3160.76, "end": 3166.32}
+{"id": "UO7FlZ9Gikw-t3166.32", "text": "However over time because there are many inputs coming in, many new experiences, many", "start": 3166.32, "end": 3174.84}
+{"id": "UO7FlZ9Gikw-t3174.84", "text": "re-elaboration, the overall trace is very very dynamic.", "start": 3174.84, "end": 3179.6800000000003}
+{"id": "UO7FlZ9Gikw-t3179.6800000000003", "text": "But there are specific processes and temporal window during which there is a much more power", "start": 3179.6800000000003, "end": 3186.6400000000003}
+{"id": "UO7FlZ9Gikw-t3186.64", "text": "and possibility and ability to make changes.", "start": 3186.64, "end": 3192.08}
+{"id": "UO7FlZ9Gikw-t3192.08", "text": "So modulating obviously the state, the emotional state is one of those that happens to you.", "start": 3192.08, "end": 3197.48}
+{"id": "UO7FlZ9Gikw-t3197.48", "text": "I mean this idea that the mechanisms of plasticity allow the traces to be inscribed in the neuronal", "start": 3197.48, "end": 3204.72}
+{"id": "UO7FlZ9Gikw-t3204.72", "text": "circuits but that that's something that would seem like permanent.", "start": 3204.72, "end": 3208.8799999999997}
+{"id": "UO7FlZ9Gikw-t3208.8799999999997", "text": "But actually that's not the case.", "start": 3208.8799999999997, "end": 3210.24}
+{"id": "UO7FlZ9Gikw-t3210.24", "text": "I think this is why I thought it was important to discuss.", "start": 3210.24, "end": 3212.96}
+{"id": "UO7FlZ9Gikw-t3212.96", "text": "They can be re-mobilized and re-associated with others in different contexts.", "start": 3212.96, "end": 3218.56}
+{"id": "UO7FlZ9Gikw-t3218.56", "text": "So it's a really dynamic of these traces.", "start": 3218.56, "end": 3220.96}
+{"id": "UO7FlZ9Gikw-t3220.96", "text": "It's very important and it's being studied by Christina, Joe and others.", "start": 3220.96, "end": 3225.88}
+{"id": "UO7FlZ9Gikw-t3225.88", "text": "And this is a heuristic...", "start": 3225.88, "end": 3229.36}
+{"id": "UO7FlZ9Gikw-t3229.36", "text": "You're speaking to the heuristic quality of Bob Olg's late work.", "start": 3229.36, "end": 3232.8}
+{"id": "UO7FlZ9Gikw-t3232.8", "text": "He's constantly using these methods, whether in lecture or with sequences of images, to", "start": 3232.8, "end": 3238.92}
+{"id": "UO7FlZ9Gikw-t3238.92", "text": "discover and bring people along with him.", "start": 3238.92, "end": 3242.36}
+{"id": "UO7FlZ9Gikw-t3242.36", "text": "And people describe his four hour lecture in famous lecture in Rome, the Hitziana lecture", "start": 3242.36, "end": 3248.8}
+{"id": "UO7FlZ9Gikw-t3248.8", "text": "in early January 1929 as a heuristic experience by which Bob Olg takes his viewers, and I", "start": 3248.8, "end": 3257.7200000000003}
+{"id": "UO7FlZ9Gikw-t3257.7200000000003", "text": "say viewers, maybe that's a slip there, because he had 19 panels along the lecture room.", "start": 3257.7200000000003, "end": 3263.08}
+{"id": "UO7FlZ9Gikw-t3263.08", "text": "And no one could see them.", "start": 3263.08, "end": 3264.28}
+{"id": "UO7FlZ9Gikw-t3264.28", "text": "No one could see them.", "start": 3264.28, "end": 3265.92}
+{"id": "UO7FlZ9Gikw-t3265.92", "text": "But yet people described the being in the lecture as this marvelous revelatory experience.", "start": 3265.92, "end": 3272.28}
+{"id": "UO7FlZ9Gikw-t3272.28", "text": "And Bob Olg himself at one point in the lecture says, yes, this speaks of it in terms of phenomenology", "start": 3272.28, "end": 3282.1600000000003}
+{"id": "UO7FlZ9Gikw-t3282.1600000000003", "text": "by which he mediates between the legacy of the phobic legacy on the one hand and the", "start": 3282.1600000000003, "end": 3292.44}
+{"id": "UO7FlZ9Gikw-t3292.44", "text": "ability to engage the world.", "start": 3292.44, "end": 3297.1600000000003}
+{"id": "UO7FlZ9Gikw-t3297.16", "text": "So let's take the images and then the historical images and then let's re-experience them.", "start": 3297.16, "end": 3303.3599999999997}
+{"id": "UO7FlZ9Gikw-t3303.3599999999997", "text": "And he brings his audience along with him.", "start": 3303.3599999999997, "end": 3306.24}
+{"id": "UO7FlZ9Gikw-t3306.24", "text": "Well, and also I think it's important to this, the idea of a dynamic changing concept, which", "start": 3306.24, "end": 3311.64}
+{"id": "UO7FlZ9Gikw-t3311.64", "text": "I think has attracted so many contemporary thinkers and scholars to Bob Olg, is the idea", "start": 3311.64, "end": 3318.52}
+{"id": "UO7FlZ9Gikw-t3318.52", "text": "that you could move the images, right?", "start": 3318.52, "end": 3322.7999999999997}
+{"id": "UO7FlZ9Gikw-t3322.8", "text": "I mean that they were on a kind of black felt and then you could shift the arrangement,", "start": 3322.8, "end": 3327.84}
+{"id": "UO7FlZ9Gikw-t3327.84", "text": "which is very similar to what happens in memory.", "start": 3327.84, "end": 3330.7200000000003}
+{"id": "UO7FlZ9Gikw-t3330.7200000000003", "text": "I myself have noticed in my autobiographical memories, explicit memories, that I have", "start": 3330.7200000000003, "end": 3340.04}
+{"id": "UO7FlZ9Gikw-t3340.04", "text": "actually changed the location.", "start": 3340.04, "end": 3343.1600000000003}
+{"id": "UO7FlZ9Gikw-t3343.1600000000003", "text": "So I have a strong memory, emotional memory, of being embarrassed by laughing adults when", "start": 3343.1600000000003, "end": 3350.48}
+{"id": "UO7FlZ9Gikw-t3350.48", "text": "I was four.", "start": 3350.48, "end": 3352.6}
+{"id": "UO7FlZ9Gikw-t3352.6", "text": "And I always remembered it in my aunt's house.", "start": 3352.6, "end": 3357.2}
+{"id": "UO7FlZ9Gikw-t3357.2", "text": "Well, it was remembered.", "start": 3357.2, "end": 3359.76}
+{"id": "UO7FlZ9Gikw-t3359.76", "text": "It did happen, I believe, in my aunt's house.", "start": 3359.76, "end": 3362.52}
+{"id": "UO7FlZ9Gikw-t3362.52", "text": "But because I couldn't remember the early house, I shifted the memory to the later location", "start": 3362.52, "end": 3369.92}
+{"id": "UO7FlZ9Gikw-t3369.92", "text": "which I had memorized.", "start": 3369.92, "end": 3372.6}
+{"id": "UO7FlZ9Gikw-t3372.6", "text": "This is an extremely interesting example, I think.", "start": 3372.6, "end": 3376.08}
+{"id": "UO7FlZ9Gikw-t3376.08", "text": "First of all, that we need to pin our memories to location, which is a very ancient idea", "start": 3376.08, "end": 3381.7999999999997}
+{"id": "UO7FlZ9Gikw-t3381.7999999999997", "text": "and medieval idea, to low side.", "start": 3381.7999999999997, "end": 3386.96}
+{"id": "UO7FlZ9Gikw-t3386.96", "text": "Greek, yes, but the Greek was topos, topos, and then Cicero.", "start": 3386.96, "end": 3392.2}
+{"id": "UO7FlZ9Gikw-t3392.2", "text": "Seminities is the story.", "start": 3392.2, "end": 3393.7999999999997}
+{"id": "UO7FlZ9Gikw-t3393.7999999999997", "text": "And then it's Cicero who really codified this, who tells the story of Simonides.", "start": 3393.7999999999997, "end": 3403.52}
+{"id": "UO7FlZ9Gikw-t3403.52", "text": "And that idea of topos, I think, is completely valid in these discussions of reconciliation.", "start": 3403.52, "end": 3413.28}
+{"id": "UO7FlZ9Gikw-t3413.28", "text": "In this sense, I actually would say that our memories are very inefficient, our memory", "start": 3413.28, "end": 3420.16}
+{"id": "UO7FlZ9Gikw-t3420.16", "text": "systems, or at least these type of memories, the memories that are declarative.", "start": 3420.16, "end": 3426.96}
+{"id": "UO7FlZ9Gikw-t3426.96", "text": "Shakeful.", "start": 3426.96, "end": 3427.96}
+{"id": "UO7FlZ9Gikw-t3427.96", "text": "Very shaky because we don't need really to remember all the details.", "start": 3427.96, "end": 3432.0}
+{"id": "UO7FlZ9Gikw-t3432.0", "text": "Actually, if we think about how many days we learn every single day, we lose them all.", "start": 3432.0, "end": 3439.72}
+{"id": "UO7FlZ9Gikw-t3439.72", "text": "What remains is an essential, very faint trace of something.", "start": 3439.72, "end": 3447.56}
+{"id": "UO7FlZ9Gikw-t3447.56", "text": "And then that something, especially if it's an old memory, has to be placed somewhere.", "start": 3447.56, "end": 3451.84}
+{"id": "UO7FlZ9Gikw-t3451.84", "text": "So then we make the connections, and this is how the false parts of the memories are", "start": 3451.84, "end": 3457.0}
+{"id": "UO7FlZ9Gikw-t3457.0", "text": "formed.", "start": 3457.0, "end": 3458.0}
+{"id": "UO7FlZ9Gikw-t3458.0", "text": "I think imagination and memory, as Vico said, these are two functions of the same faculty.", "start": 3458.0, "end": 3467.0}
+{"id": "UO7FlZ9Gikw-t3467.0", "text": "And if you look at hippocampal lesions in the brain, people who can't remember very well", "start": 3467.0, "end": 3473.4}
+{"id": "UO7FlZ9Gikw-t3473.4", "text": "also can't imagine very well.", "start": 3473.4, "end": 3476.32}
+{"id": "UO7FlZ9Gikw-t3476.32", "text": "So that Buckner Carroll paper about the perspective brain that maybe it's not about accurate memories", "start": 3476.32, "end": 3485.84}
+{"id": "UO7FlZ9Gikw-t3485.84", "text": "of our past, but using that material to predict future events.", "start": 3485.84, "end": 3491.36}
+{"id": "UO7FlZ9Gikw-t3491.36", "text": "Exactly.", "start": 3491.36, "end": 3492.36}
+{"id": "UO7FlZ9Gikw-t3492.36", "text": "Right.", "start": 3492.36, "end": 3493.36}
+{"id": "UO7FlZ9Gikw-t3493.36", "text": "So it's a forward-looking kind of function, and I think that's useful.", "start": 3493.36, "end": 3499.76}
+{"id": "UO7FlZ9Gikw-t3499.76", "text": "And all of this actually is not very unvalvogian, except he was looking more past.", "start": 3499.76, "end": 3506.08}
+{"id": "UO7FlZ9Gikw-t3506.08", "text": "He was a retrospective gamer.", "start": 3506.08, "end": 3508.48}
+{"id": "UO7FlZ9Gikw-t3508.48", "text": "He was a retrospective looker.", "start": 3508.48, "end": 3510.28}
+{"id": "UO7FlZ9Gikw-t3510.28", "text": "But he was fascinated by memory palaces.", "start": 3510.28, "end": 3512.28}
+{"id": "UO7FlZ9Gikw-t3512.28", "text": "Yes.", "start": 3512.28, "end": 3513.28}
+{"id": "UO7FlZ9Gikw-t3513.28", "text": "And he describes the atlas at certain points as a kind of neo-memory palace that would", "start": 3513.28, "end": 3521.6800000000003}
+{"id": "UO7FlZ9Gikw-t3521.6800000000003", "text": "help salvage or retain those details that are lost.", "start": 3521.6800000000003, "end": 3527.2400000000002}
+{"id": "UO7FlZ9Gikw-t3527.2400000000002", "text": "Without insisting on the details themselves, but just by making them present.", "start": 3527.2400000000002, "end": 3531.4}
+{"id": "UO7FlZ9Gikw-t3531.4", "text": "Because there was no verbal thickening around them as it stands.", "start": 3531.4, "end": 3537.44}
+{"id": "UO7FlZ9Gikw-t3537.44", "text": "Well, did.", "start": 3537.44, "end": 3546.7200000000003}
+{"id": "UO7FlZ9Gikw-t3546.7200000000003", "text": "Where are we in our drama?", "start": 3546.7200000000003, "end": 3551.44}
+{"id": "UO7FlZ9Gikw-t3551.44", "text": "Do you have a question?", "start": 3551.44, "end": 3559.8}
+{"id": "UO7FlZ9Gikw-t3559.8", "text": "How should we do?", "start": 3559.8, "end": 3560.8}
+{"id": "UO7FlZ9Gikw-t3560.8", "text": "Yeah, I think so.", "start": 3560.8, "end": 3561.8}
+{"id": "UO7FlZ9Gikw-t3561.8", "text": "Don't you think?", "start": 3561.8, "end": 3562.8}
+{"id": "UO7FlZ9Gikw-t3562.8", "text": "Yeah, you mentioned that it's not normal in your life.", "start": 3562.8, "end": 3569.8}
+{"id": "UO7FlZ9Gikw-t3569.8", "text": "Just for this.", "start": 3569.8, "end": 3571.8}
+{"id": "UO7FlZ9Gikw-t3571.8", "text": "I'm doing this right.", "start": 3571.8, "end": 3574.8}
+{"id": "UO7FlZ9Gikw-t3574.8", "text": "I can speak a lot.", "start": 3574.8, "end": 3581.04}
+{"id": "UO7FlZ9Gikw-t3581.04", "text": "So two possible next sees for your discussion about memory and reconsolidation.", "start": 3581.04, "end": 3586.28}
+{"id": "UO7FlZ9Gikw-t3586.28", "text": "One is about the nature of emotions research, which would be a nexus between neurobiology", "start": 3586.28, "end": 3592.0800000000004}
+{"id": "UO7FlZ9Gikw-t3592.08", "text": "and the other stuff that we all do.", "start": 3592.08, "end": 3594.44}
+{"id": "UO7FlZ9Gikw-t3594.44", "text": "I'm thinking of Paul Ekman's work on emotions.", "start": 3594.44, "end": 3597.2799999999997}
+{"id": "UO7FlZ9Gikw-t3597.2799999999997", "text": "And of how you have rapid reaction about a quarter second before you become conscious", "start": 3597.2799999999997, "end": 3603.4}
+{"id": "UO7FlZ9Gikw-t3603.4", "text": "or show your emotional expression on your face and his work on gesture.", "start": 3603.4, "end": 3607.68}
+{"id": "UO7FlZ9Gikw-t3607.68", "text": "And the second possible nexus, I thought of Bob Pinus's work on trauma when you were", "start": 3607.68, "end": 3614.08}
+{"id": "UO7FlZ9Gikw-t3614.08", "text": "giving your specific memory about space.", "start": 3614.08, "end": 3616.7599999999998}
+{"id": "UO7FlZ9Gikw-t3616.76", "text": "And Bob points out how he has a developmental model of trauma, which I think fits with what", "start": 3616.76, "end": 3624.0400000000004}
+{"id": "UO7FlZ9Gikw-t3624.0400000000004", "text": "you were talking about, of reconsolidation.", "start": 3624.0400000000004, "end": 3626.5200000000004}
+{"id": "UO7FlZ9Gikw-t3626.5200000000004", "text": "And there's entry points where one can change for better or for worse, the nature of memory", "start": 3626.5200000000004, "end": 3631.2000000000003}
+{"id": "UO7FlZ9Gikw-t3631.2000000000003", "text": "of trauma.", "start": 3631.2000000000003, "end": 3632.2000000000003}
+{"id": "UO7FlZ9Gikw-t3632.2000000000003", "text": "But also in terms of spatial location, Bob points out how a child, for instance, in a", "start": 3632.2000000000003, "end": 3639.4}
+{"id": "UO7FlZ9Gikw-t3639.4", "text": "sniping episode in LA remembers the sniping episode, remembers details of the soldiers'", "start": 3639.4, "end": 3646.0800000000004}
+{"id": "UO7FlZ9Gikw-t3646.08", "text": "boots, and misremembers his location next to his buddy, who was shot.", "start": 3646.08, "end": 3651.4}
+{"id": "UO7FlZ9Gikw-t3651.4", "text": "As a way of protecting himself, it's different from your explanation, protecting himself from", "start": 3651.4, "end": 3655.6}
+{"id": "UO7FlZ9Gikw-t3655.6", "text": "the memory of how close he came to death.", "start": 3655.6, "end": 3658.2}
+{"id": "UO7FlZ9Gikw-t3658.2", "text": "But my memory wasn't traumatic.", "start": 3658.2, "end": 3661.04}
+{"id": "UO7FlZ9Gikw-t3661.04", "text": "It was emotional, but it wasn't traumatic.", "start": 3661.04, "end": 3662.84}
+{"id": "UO7FlZ9Gikw-t3662.84", "text": "I think traumatic memory has a very specific kind of, and it can be hyper-detailed.", "start": 3662.84, "end": 3669.2}
+{"id": "UO7FlZ9Gikw-t3669.2", "text": "I mean, I have a traumatic memory of being in a car accident, which was followed by flashbacks.", "start": 3669.2, "end": 3674.68}
+{"id": "UO7FlZ9Gikw-t3674.68", "text": "And that's similar in the sense that I have avoided the actual impact.", "start": 3674.68, "end": 3679.2799999999997}
+{"id": "UO7FlZ9Gikw-t3679.2799999999997", "text": "Everything else is hyper-clear.", "start": 3679.2799999999997, "end": 3681.72}
+{"id": "UO7FlZ9Gikw-t3681.72", "text": "But the impact is missing.", "start": 3681.72, "end": 3683.52}
+{"id": "UO7FlZ9Gikw-t3683.52", "text": "The research on that suggests that it's very clear, but not necessarily accurate.", "start": 3683.52, "end": 3688.56}
+{"id": "UO7FlZ9Gikw-t3688.56", "text": "So you have very vid-specific-", "start": 3688.56, "end": 3690.56}
+{"id": "UO7FlZ9Gikw-t3690.56", "text": "Absolutely.", "start": 3690.56, "end": 3691.56}
+{"id": "UO7FlZ9Gikw-t3691.56", "text": "Absolutely.", "start": 3691.56, "end": 3692.56}
+{"id": "UO7FlZ9Gikw-t3692.56", "text": "I'm not claiming that it's what I'm remembering is how it happened, because actually I have", "start": 3692.56, "end": 3697.0}
+{"id": "UO7FlZ9Gikw-t3697.0", "text": "black and white memory.", "start": 3697.0, "end": 3699.6}
+{"id": "UO7FlZ9Gikw-t3699.6", "text": "I mean, I think what the data show is that the main focus is remembered, and then the", "start": 3699.6, "end": 3707.44}
+{"id": "UO7FlZ9Gikw-t3707.44", "text": "periphery of the memory is where all the mistakes come in.", "start": 3707.44, "end": 3711.96}
+{"id": "UO7FlZ9Gikw-t3711.96", "text": "Yeah, yeah, for sure.", "start": 3711.96, "end": 3714.52}
+{"id": "UO7FlZ9Gikw-t3714.52", "text": "Two things you said, Siri, sparked thoughts that I would love to just make two quick observations", "start": 3714.52, "end": 3723.7999999999997}
+{"id": "UO7FlZ9Gikw-t3723.7999999999997", "text": "and throw it back to you.", "start": 3723.7999999999997, "end": 3725.7999999999997}
+{"id": "UO7FlZ9Gikw-t3725.8", "text": "Speaking of murderous cannibalism, A.B. Warburg became a vegetarian during his hospitalization", "start": 3725.8, "end": 3733.96}
+{"id": "UO7FlZ9Gikw-t3733.96", "text": "because of a very concrete, specific fear that he was being served the cooked flesh", "start": 3733.96, "end": 3741.4}
+{"id": "UO7FlZ9Gikw-t3741.4", "text": "of his own family members.", "start": 3741.4, "end": 3744.6400000000003}
+{"id": "UO7FlZ9Gikw-t3744.6400000000003", "text": "He had these persistent fears of drinking blood, not just the Jews' blood, but his own family", "start": 3744.6400000000003, "end": 3750.7200000000003}
+{"id": "UO7FlZ9Gikw-t3750.7200000000003", "text": "members.", "start": 3750.7200000000003, "end": 3751.7200000000003}
+{"id": "UO7FlZ9Gikw-t3751.72", "text": "He had visions, and he accused his doctor of in a very eerily prescient way, shipping", "start": 3751.72, "end": 3759.2}
+{"id": "UO7FlZ9Gikw-t3759.2", "text": "train cars packed with the flesh of Jews.", "start": 3759.2, "end": 3763.6}
+{"id": "UO7FlZ9Gikw-t3763.6", "text": "This is 1921.", "start": 3763.6, "end": 3766.3999999999996}
+{"id": "UO7FlZ9Gikw-t3766.3999999999996", "text": "So I'm asking a question for which I don't have an answer about his own ambivalence or", "start": 3766.3999999999996, "end": 3771.64}
+{"id": "UO7FlZ9Gikw-t3771.64", "text": "even fear of his own aggression and his desire to not devour his relatives or their own", "start": 3771.64, "end": 3781.66}
+{"id": "UO7FlZ9Gikw-t3781.66", "text": "the Jews.", "start": 3781.66, "end": 3783.7599999999998}
+{"id": "UO7FlZ9Gikw-t3783.7599999999998", "text": "The other spark from something you said when you talked about him and his endless flight,", "start": 3783.7599999999998, "end": 3789.12}
+{"id": "UO7FlZ9Gikw-t3789.12", "text": "his endless motion and how he couldn't be pinned down while he was hospitalized, a doctor's", "start": 3789.12, "end": 3795.56}
+{"id": "UO7FlZ9Gikw-t3795.56", "text": "note in his chart, and this is obviously translated, said, he practices a cult with the moths and", "start": 3795.56, "end": 3801.6}
+{"id": "UO7FlZ9Gikw-t3801.6", "text": "butterflies that fly into his room at night.", "start": 3801.6, "end": 3804.2799999999997}
+{"id": "UO7FlZ9Gikw-t3804.2799999999997", "text": "He speaks to them for hours.", "start": 3804.2799999999997, "end": 3806.12}
+{"id": "UO7FlZ9Gikw-t3806.12", "text": "He calls them his little soul animals, Celin Tarkin, and tells them about his suffering", "start": 3806.12, "end": 3811.44}
+{"id": "UO7FlZ9Gikw-t3811.44", "text": "and then direct quote from his notes, it's hard to know is this experience or fantasy", "start": 3811.44, "end": 3817.44}
+{"id": "UO7FlZ9Gikw-t3817.44", "text": "or a dream or what it is.", "start": 3817.44, "end": 3819.48}
+{"id": "UO7FlZ9Gikw-t3819.48", "text": "The most beautiful butterfly I have ever pinned down suddenly bursts through the glass and", "start": 3819.48, "end": 3825.92}
+{"id": "UO7FlZ9Gikw-t3825.92", "text": "dances mockingly upwards into the blue air.", "start": 3825.92, "end": 3828.76}
+{"id": "UO7FlZ9Gikw-t3828.76", "text": "Now I should catch it again, but I am not equipped for this kind of locomotion or to", "start": 3828.76, "end": 3833.0}
+{"id": "UO7FlZ9Gikw-t3833.0", "text": "be exact I should like to, but my intellectual training does not permit me to do so.", "start": 3833.0, "end": 3838.44}
+{"id": "UO7FlZ9Gikw-t3838.44", "text": "I should like at the approach of our light-footed girl joyfully to whirl away with her, but", "start": 3838.44, "end": 3844.44}
+{"id": "UO7FlZ9Gikw-t3844.44", "text": "such soaring movements are not for me.", "start": 3844.44, "end": 3847.52}
+{"id": "UO7FlZ9Gikw-t3847.52", "text": "Yeah.", "start": 3847.52, "end": 3848.52}
+{"id": "UO7FlZ9Gikw-t3848.52", "text": "Yeah.", "start": 3848.52, "end": 3849.52}
+{"id": "UO7FlZ9Gikw-t3849.52", "text": "That's in the letter to Jolas, isn't it?", "start": 3849.52, "end": 3854.36}
+{"id": "UO7FlZ9Gikw-t3854.36", "text": "Yeah.", "start": 3854.36, "end": 3855.36}
+{"id": "UO7FlZ9Gikw-t3855.36", "text": "Yeah.", "start": 3855.36, "end": 3856.36}
+{"id": "UO7FlZ9Gikw-t3856.36", "text": "Jolas.", "start": 3856.36, "end": 3857.36}
+{"id": "UO7FlZ9Gikw-t3857.36", "text": "Yeah.", "start": 3857.36, "end": 3858.36}
+{"id": "UO7FlZ9Gikw-t3858.36", "text": "I think it's mostly like an elliptic.", "start": 3858.36, "end": 3861.36}
+{"id": "UO7FlZ9Gikw-t3861.36", "text": "Yeah.", "start": 3861.36, "end": 3862.36}
+{"id": "UO7FlZ9Gikw-t3862.36", "text": "Yeah.", "start": 3862.36, "end": 3863.36}
+{"id": "UO7FlZ9Gikw-t3863.36", "text": "Francois.", "start": 3863.36, "end": 3864.36}
+{"id": "UO7FlZ9Gikw-t3864.36", "text": "Yes.", "start": 3864.36, "end": 3865.36}
+{"id": "UO7FlZ9Gikw-t3865.36", "text": "Yes.", "start": 3865.36, "end": 3866.36}
+{"id": "UO7FlZ9Gikw-t3866.36", "text": "Yes.", "start": 3866.36, "end": 3867.36}
+{"id": "UO7FlZ9Gikw-t3867.36", "text": "I have a very nice question because here you are too from literature and free from neurosciences.", "start": 3867.36, "end": 3876.96}
+{"id": "UO7FlZ9Gikw-t3876.96", "text": "And Kessina is also a psychoanalyst and neuroscientist.", "start": 3876.96, "end": 3884.2400000000002}
+{"id": "UO7FlZ9Gikw-t3884.2400000000002", "text": "And I was asking me finally after this roundtable, what is a dynamic memory?", "start": 3884.2400000000002, "end": 3893.0}
+{"id": "UO7FlZ9Gikw-t3893.0", "text": "Because we are looking in a new way, a dynamic memory.", "start": 3893.0, "end": 3898.44}
+{"id": "UO7FlZ9Gikw-t3898.44", "text": "And you were speaking about verbal unconscious, new kind of unconsciousness.", "start": 3898.44, "end": 3904.04}
+{"id": "UO7FlZ9Gikw-t3904.04", "text": "This gets me afternoon.", "start": 3904.04, "end": 3905.36}
+{"id": "UO7FlZ9Gikw-t3905.36", "text": "Frigant unconscious, cognitive unconsciousness, now verbal unconscious.", "start": 3905.36, "end": 3910.2}
+{"id": "UO7FlZ9Gikw-t3910.2", "text": "And after the discussion about dynamic memory, reconciliation, retrieval, transformation,", "start": 3910.2, "end": 3916.92}
+{"id": "UO7FlZ9Gikw-t3916.92", "text": "I thought it was possible to introduce a new concept.", "start": 3916.92, "end": 3921.52}
+{"id": "UO7FlZ9Gikw-t3921.52", "text": "It is reconciliation in culture because you have the incidence also of culture through", "start": 3921.52, "end": 3928.16}
+{"id": "UO7FlZ9Gikw-t3928.16", "text": "the process of reconciliation, rebuilding, transforming the memories through not only", "start": 3928.16, "end": 3937.0}
+{"id": "UO7FlZ9Gikw-t3937.0", "text": "the individual history of each one, but also through the impact of the culture in the inside", "start": 3937.0, "end": 3946.64}
+{"id": "UO7FlZ9Gikw-t3946.64", "text": "world.", "start": 3946.64, "end": 3947.64}
+{"id": "UO7FlZ9Gikw-t3947.64", "text": "And I don't know if you can take this new view of thinking, reconciliation, also in", "start": 3947.64, "end": 3957.4}
+{"id": "UO7FlZ9Gikw-t3957.4", "text": "confrontation of the question of culture.", "start": 3957.4, "end": 3959.64}
+{"id": "UO7FlZ9Gikw-t3959.64", "text": "No, I think this is really important because I think it relates again to the dankham, to", "start": 3959.64, "end": 3964.68}
+{"id": "UO7FlZ9Gikw-t3964.68", "text": "reflective self-consciousness, if you will, to Kierkegaard's reflection to all of this,", "start": 3964.68, "end": 3971.3199999999997}
+{"id": "UO7FlZ9Gikw-t3971.3199999999997", "text": "that space where you have, necessarily, you have culture.", "start": 3971.3199999999997, "end": 3977.56}
+{"id": "UO7FlZ9Gikw-t3977.56", "text": "So if we think about human beings as socio-psycho-biological beings with those hyphens in some way blurred,", "start": 3977.56, "end": 3987.6}
+{"id": "UO7FlZ9Gikw-t3987.6", "text": "I know this is not good in science, but I can do this.", "start": 3987.6, "end": 3992.84}
+{"id": "UO7FlZ9Gikw-t3992.84", "text": "And that if we think about that, then we understand that these things are completely mingling", "start": 3992.84, "end": 3998.2}
+{"id": "UO7FlZ9Gikw-t3998.2", "text": "together because, of course, culture, everything we read, everything we see becomes part of", "start": 3998.2, "end": 4003.2799999999997}
+{"id": "UO7FlZ9Gikw-t4003.28", "text": "our, you know, psycho-biological reality.", "start": 4003.28, "end": 4008.28}
+{"id": "UO7FlZ9Gikw-t4008.28", "text": "Yes.", "start": 4008.28, "end": 4009.28}
+{"id": "UO7FlZ9Gikw-t4009.28", "text": "Because we have one part, plasticity means all is conserved, and for the other part,", "start": 4009.28, "end": 4017.5600000000004}
+{"id": "UO7FlZ9Gikw-t4017.5600000000004", "text": "plasticity all is susceptible to change.", "start": 4017.5600000000004, "end": 4020.84}
+{"id": "UO7FlZ9Gikw-t4020.84", "text": "And if you have this double view, for example, the snake, and it is the conservation of something", "start": 4020.84, "end": 4027.5600000000004}
+{"id": "UO7FlZ9Gikw-t4027.56", "text": "through memory, we don't know where, it's very difficult, Liam James, hypothesis, and", "start": 4027.56, "end": 4034.72}
+{"id": "UO7FlZ9Gikw-t4034.72", "text": "so on.", "start": 4034.72, "end": 4035.7999999999997}
+{"id": "UO7FlZ9Gikw-t4035.7999999999997", "text": "And we have also the idea of diachronic reorganization, permanent reorganization, each experience,", "start": 4035.7999999999997, "end": 4043.56}
+{"id": "UO7FlZ9Gikw-t4043.56", "text": "every experience modifies, we never use the same brain and so on.", "start": 4043.56, "end": 4048.24}
+{"id": "UO7FlZ9Gikw-t4048.24", "text": "And here in that, it's difficult to think these two contradictory dimensions.", "start": 4048.24, "end": 4055.08}
+{"id": "UO7FlZ9Gikw-t4055.08", "text": "It's all the same thing, so the snake is there, and so the place where you're bit by the", "start": 4055.08, "end": 4060.36}
+{"id": "UO7FlZ9Gikw-t4060.36", "text": "snake becomes stored as part of the, you know, becomes plastic and stored as a new memory.", "start": 4060.36, "end": 4067.84}
+{"id": "UO7FlZ9Gikw-t4067.84", "text": "And then the people you were with, or if you go back to that place, the people you're", "start": 4067.84, "end": 4073.56}
+{"id": "UO7FlZ9Gikw-t4073.56", "text": "with at that time become part of that memory.", "start": 4073.56, "end": 4076.7599999999998}
+{"id": "UO7FlZ9Gikw-t4076.7599999999998", "text": "And that's why I've argued that metaphor is precisely the way we need to read this dynamic", "start": 4076.7599999999998, "end": 4083.7999999999997}
+{"id": "UO7FlZ9Gikw-t4083.8", "text": "cultural space because it's able to keep contradictory things together at once.", "start": 4083.8, "end": 4088.36}
+{"id": "UO7FlZ9Gikw-t4088.36", "text": "But Christopher, absolutely right, that metaphor is probably the beautiful motion here of all", "start": 4088.36, "end": 4095.48}
+{"id": "UO7FlZ9Gikw-t4095.48", "text": "the possibilities of changing meanings.", "start": 4095.48, "end": 4098.04}
+{"id": "UO7FlZ9Gikw-t4098.04", "text": "Yes, yes.", "start": 4098.04, "end": 4099.04}
+{"id": "UO7FlZ9Gikw-t4099.04", "text": "Right, so that, and that can also be a form of dank realm between the two poles of metaphorical", "start": 4099.04, "end": 4106.360000000001}
+{"id": "UO7FlZ9Gikw-t4106.360000000001", "text": "thinking.", "start": 4106.360000000001, "end": 4107.360000000001}
+{"id": "UO7FlZ9Gikw-t4107.360000000001", "text": "Sorry.", "start": 4107.360000000001, "end": 4108.360000000001}
+{"id": "UO7FlZ9Gikw-t4108.360000000001", "text": "Thank you.", "start": 4108.360000000001, "end": 4110.360000000001}
+{"id": "UO7FlZ9Gikw-t4110.36", "text": "Thank you. I have a comment trying to link the two round tables and trying to go from", "start": 4110.36, "end": 4119.08}
+{"id": "UO7FlZ9Gikw-t4119.08", "text": "the notion of detail that was very much stressed in the previous round table to the notion", "start": 4119.08, "end": 4126.08}
+{"id": "UO7FlZ9Gikw-t4126.08", "text": "of this collective memory that on the contrary is at the center of some of your discussions.", "start": 4126.08, "end": 4134.44}
+{"id": "UO7FlZ9Gikw-t4134.44", "text": "I will attention to the peripheral element, the particular, I would say, micro logical", "start": 4134.44, "end": 4141.919999999999}
+{"id": "UO7FlZ9Gikw-t4141.919999999999", "text": "attitude.", "start": 4141.919999999999, "end": 4143.32}
+{"id": "UO7FlZ9Gikw-t4143.32", "text": "It is true that it's something that, of course, is typical of Warburg, but of many other authors,", "start": 4143.32, "end": 4150.24}
+{"id": "UO7FlZ9Gikw-t4150.24", "text": "not only art historians in the 20th century.", "start": 4150.24, "end": 4153.839999999999}
+{"id": "UO7FlZ9Gikw-t4153.839999999999", "text": "I was thinking of Benjamin, of course.", "start": 4153.839999999999, "end": 4156.5599999999995}
+{"id": "UO7FlZ9Gikw-t4156.5599999999995", "text": "But Georgia yesterday mentioned Giovanni Morelli as even Leer Molliev, so important as we know", "start": 4156.5599999999995, "end": 4163.5199999999995}
+{"id": "UO7FlZ9Gikw-t4163.52", "text": "to Freud.", "start": 4163.52, "end": 4166.84}
+{"id": "UO7FlZ9Gikw-t4166.84", "text": "We shouldn't be very cautious here because I think that detail is crucial, but at the", "start": 4166.84, "end": 4174.84}
+{"id": "UO7FlZ9Gikw-t4174.84", "text": "same time we should distinguish two very different approaches, micro logical approaches, because", "start": 4174.84, "end": 4181.240000000001}
+{"id": "UO7FlZ9Gikw-t4181.240000000001", "text": "as George already said, in Morelli you have the analysis, the exploration of the single", "start": 4181.240000000001, "end": 4189.240000000001}
+{"id": "UO7FlZ9Gikw-t4189.24", "text": "detail, Botticelli's nail, Filipino DIP is ear, but what is the task?", "start": 4189.24, "end": 4197.88}
+{"id": "UO7FlZ9Gikw-t4197.88", "text": "The task is that you have to identify the responsible of the image, the individual, the", "start": 4197.88, "end": 4204.08}
+{"id": "UO7FlZ9Gikw-t4204.08", "text": "artist responsible, the attribution.", "start": 4204.08, "end": 4207.4}
+{"id": "UO7FlZ9Gikw-t4207.4", "text": "So detail here is used as I would say, Prince Chippium in the individual, the individual.", "start": 4207.4, "end": 4216.16}
+{"id": "UO7FlZ9Gikw-t4216.16", "text": "On the contrary, if you read the conclusion of the Botticelli's essay by Barbara, there", "start": 4216.16, "end": 4222.88}
+{"id": "UO7FlZ9Gikw-t4222.88", "text": "it comes out very clearly that he is not at all interested in Botticelli as an individual.", "start": 4222.88, "end": 4229.44}
+{"id": "UO7FlZ9Gikw-t4229.44", "text": "The detail is used there in order to see he uses Caliusti, in, of course, Aristotle's", "start": 4229.44, "end": 4237.76}
+{"id": "UO7FlZ9Gikw-t4237.76", "text": "categories, the notion of delta rauzi, the second substance, because he says the detail", "start": 4237.76, "end": 4245.16}
+{"id": "UO7FlZ9Gikw-t4245.16", "text": "evokes in Botticelli something that is not only Botticelli, something that Botticelli", "start": 4245.16, "end": 4251.4}
+{"id": "UO7FlZ9Gikw-t4251.4", "text": "shares with the past, with a common ground, with other painters, and so it's rather the", "start": 4251.4, "end": 4260.96}
+{"id": "UO7FlZ9Gikw-t4260.96", "text": "common ground, the co-innae iced this, the common sense shared.", "start": 4260.96, "end": 4266.8}
+{"id": "UO7FlZ9Gikw-t4266.8", "text": "And so I come to the second round table, what is this common ground shared?", "start": 4266.8, "end": 4273.48}
+{"id": "UO7FlZ9Gikw-t4273.48", "text": "It is not the collective unconscious, I have difficulties as well in thinking of this notion,", "start": 4273.48, "end": 4282.32}
+{"id": "UO7FlZ9Gikw-t4282.32", "text": "but here, hearing Zehmon, it is inherited cerebral substance, which is a very difficult,", "start": 4282.32, "end": 4295.4}
+{"id": "UO7FlZ9Gikw-t4295.4", "text": "as difficult perhaps as the collective unconscious to understand, but it is substance inherited", "start": 4295.4, "end": 4302.04}
+{"id": "UO7FlZ9Gikw-t4302.04", "text": "from centuries, through centuries, and if something can come up again in the Renaissance,", "start": 4302.04, "end": 4309.96}
+{"id": "UO7FlZ9Gikw-t4309.96", "text": "it is because Donatello or Botticelli inherit materials, so it's anti-Bergsonian, it's", "start": 4309.96, "end": 4320.12}
+{"id": "UO7FlZ9Gikw-t4320.12", "text": "not memory or matter, but it's memory is matter, and it's something shared, so I would call", "start": 4320.12, "end": 4327.44}
+{"id": "UO7FlZ9Gikw-t4327.44", "text": "it Brinchipium David was the only, because it hints at something that is shared among", "start": 4327.44, "end": 4334.879999999999}
+{"id": "UO7FlZ9Gikw-t4334.879999999999", "text": "a group of a community through centuries or thousands of years.", "start": 4334.879999999999, "end": 4342.32}
+{"id": "UO7FlZ9Gikw-t4342.32", "text": "Yeah, we just don't know how that works.", "start": 4342.32, "end": 4343.839999999999}
+{"id": "UO7FlZ9Gikw-t4343.839999999999", "text": "I will only quickly add that it is true that Barbara is not Jung as we know very well.", "start": 4343.839999999999, "end": 4351.5199999999995}
+{"id": "UO7FlZ9Gikw-t4351.52", "text": "It is also true, as we spoke, that's now the pair that Jung says, my notion of collective", "start": 4351.52, "end": 4360.040000000001}
+{"id": "UO7FlZ9Gikw-t4360.040000000001", "text": "unconscious is Zehmon's name, and my idea of archetype is Borquertz War built.", "start": 4360.040000000001, "end": 4371.4800000000005}
+{"id": "UO7FlZ9Gikw-t4371.4800000000005", "text": "We know that Borquertz and Zehmon are two very important sources in Barbara, and perhaps", "start": 4371.4800000000005, "end": 4376.92}
+{"id": "UO7FlZ9Gikw-t4376.92", "text": "we have a good idea to finally discuss how from Zehmon and Borquertz, common and shared", "start": 4376.92, "end": 4383.6}
+{"id": "UO7FlZ9Gikw-t4383.6", "text": "sources to different perspectives on the idea of the over builder and the collective", "start": 4383.6, "end": 4391.76}
+{"id": "UO7FlZ9Gikw-t4391.76", "text": "memory can be articulated.", "start": 4391.76, "end": 4396.04}
+{"id": "UO7FlZ9Gikw-t4396.04", "text": "Well, it's true, but it may be, you know, we talked a little bit last night because I", "start": 4396.04, "end": 4400.68}
+{"id": "UO7FlZ9Gikw-t4400.68", "text": "started reading this guy Zehmon really because I found him in Valblud, and it's very interesting.", "start": 4400.68, "end": 4409.8}
+{"id": "UO7FlZ9Gikw-t4409.8", "text": "But when you return to Valblud after having read Zehmon, you realize that it's not Zehmon", "start": 4409.8, "end": 4415.68}
+{"id": "UO7FlZ9Gikw-t4415.68", "text": "anymore.", "start": 4415.68, "end": 4416.92}
+{"id": "UO7FlZ9Gikw-t4416.92", "text": "I don't know what your impression is because you're probably closer to this, but I just", "start": 4416.92, "end": 4422.12}
+{"id": "UO7FlZ9Gikw-t4422.12", "text": "thought, oh, so it's not like Jung.", "start": 4422.12, "end": 4427.12}
+{"id": "UO7FlZ9Gikw-t4427.12", "text": "It's denatured.", "start": 4427.12, "end": 4428.12}
+{"id": "UO7FlZ9Gikw-t4428.12", "text": "The time you get back to it, it's not Zehmon anymore.", "start": 4428.12, "end": 4431.16}
+{"id": "UO7FlZ9Gikw-t4431.16", "text": "It's a kind of, again, I think a dynamic principle that just keeps running through, which escapes", "start": 4431.16, "end": 4437.36}
+{"id": "UO7FlZ9Gikw-t4437.36", "text": "at least me as a reader.", "start": 4437.36, "end": 4439.68}
+{"id": "UO7FlZ9Gikw-t4439.68", "text": "I can't literally pin it down.", "start": 4439.68, "end": 4441.64}
+{"id": "UO7FlZ9Gikw-t4441.64", "text": "I can't do the butterfly.", "start": 4441.64, "end": 4442.96}
+{"id": "UO7FlZ9Gikw-t4442.96", "text": "But the dynamism isn't with Valblud rethinking Zehmon throughout his life.", "start": 4442.96, "end": 4448.08}
+{"id": "UO7FlZ9Gikw-t4448.08", "text": "No.", "start": 4448.08, "end": 4449.08}
+{"id": "UO7FlZ9Gikw-t4449.08", "text": "As a rather static view of Zehmon, rather it is the dynamism of this synchronic immediate", "start": 4449.08, "end": 4454.32}
+{"id": "UO7FlZ9Gikw-t4454.32", "text": "presence that he feels with at Gilandayo, for instance.", "start": 4454.32, "end": 4457.96}
+{"id": "UO7FlZ9Gikw-t4457.96", "text": "Yes, I agree with it.", "start": 4457.96, "end": 4459.36}
+{"id": "UO7FlZ9Gikw-t4459.36", "text": "There's this kind of synchronicity between himself and the artist that he studies because,", "start": 4459.36, "end": 4464.28}
+{"id": "UO7FlZ9Gikw-t4464.28", "text": "in part, they're heroically, Valblud's words, struggling with this energy that he is struggling", "start": 4464.28, "end": 4475.44}
+{"id": "UO7FlZ9Gikw-t4475.44", "text": "with as well.", "start": 4475.44, "end": 4477.16}
+{"id": "UO7FlZ9Gikw-t4477.16", "text": "And that's remarkable.", "start": 4477.16, "end": 4480.0}
+{"id": "UO7FlZ9Gikw-t4480.0", "text": "It's very stimulating.", "start": 4480.0, "end": 4484.44}
+{"id": "UO7FlZ9Gikw-t4484.44", "text": "So I have many questions.", "start": 4484.44, "end": 4486.52}
+{"id": "UO7FlZ9Gikw-t4486.52", "text": "Two questions for Chris and Siri, and one question for Christina, Joe, and Pierre.", "start": 4486.52, "end": 4494.64}
+{"id": "UO7FlZ9Gikw-t4494.64", "text": "The first question is, stemming from my ignorance, you talk a lot about collective and conscious", "start": 4494.64, "end": 4500.4400000000005}
+{"id": "UO7FlZ9Gikw-t4500.4400000000005", "text": "Jung.", "start": 4500.4400000000005, "end": 4501.4400000000005}
+{"id": "UO7FlZ9Gikw-t4501.4400000000005", "text": "So what about if any, well, not you, but we discuss Jung a lot?", "start": 4501.4400000000005, "end": 4506.72}
+{"id": "UO7FlZ9Gikw-t4506.72", "text": "What if any relationship between Wundt and Barbara Wundt was almost never mentioned this", "start": 4506.72, "end": 4515.080000000001}
+{"id": "UO7FlZ9Gikw-t4515.080000000001", "text": "more?", "start": 4515.080000000001, "end": 4516.080000000001}
+{"id": "UO7FlZ9Gikw-t4516.08", "text": "The second question, particularly for Siri, the relationship between creativity was not", "start": 4516.08, "end": 4523.88}
+{"id": "UO7FlZ9Gikw-t4523.88", "text": "so much addressed so far.", "start": 4523.88, "end": 4525.5599999999995}
+{"id": "UO7FlZ9Gikw-t4525.5599999999995", "text": "So the relationship between mania or hypomania and creativity.", "start": 4525.5599999999995, "end": 4530.84}
+{"id": "UO7FlZ9Gikw-t4530.84", "text": "And for the neuroscientists, we have a dream team here about memory.", "start": 4530.84, "end": 4534.72}
+{"id": "UO7FlZ9Gikw-t4534.72", "text": "So something that really is puzzling me.", "start": 4534.72, "end": 4538.64}
+{"id": "UO7FlZ9Gikw-t4538.64", "text": "The brain is about 2% of body weight, but it gets about 15% of the heart output.", "start": 4538.64, "end": 4546.6}
+{"id": "UO7FlZ9Gikw-t4546.6", "text": "25.", "start": 4546.6, "end": 4547.6}
+{"id": "UO7FlZ9Gikw-t4547.6", "text": "25 or more than 20% of more than 20.", "start": 4547.6, "end": 4550.6}
+{"id": "UO7FlZ9Gikw-t4550.6", "text": "Based on consumption of oxygen.", "start": 4550.6, "end": 4553.160000000001}
+{"id": "UO7FlZ9Gikw-t4553.160000000001", "text": "So it costs a lot of energy.", "start": 4553.160000000001, "end": 4556.200000000001}
+{"id": "UO7FlZ9Gikw-t4556.200000000001", "text": "Episodic memory.", "start": 4556.200000000001, "end": 4557.200000000001}
+{"id": "UO7FlZ9Gikw-t4557.200000000001", "text": "It turns out I attended a lecture by Jerry Torb recently about music.", "start": 4557.200000000001, "end": 4564.4800000000005}
+{"id": "UO7FlZ9Gikw-t4564.48", "text": "So when you are a kid, you listen every day to the Beatles.", "start": 4564.48, "end": 4569.08}
+{"id": "UO7FlZ9Gikw-t4569.08", "text": "Then you stop.", "start": 4569.08, "end": 4570.08}
+{"id": "UO7FlZ9Gikw-t4570.08", "text": "You decide to shift to a different musical taste.", "start": 4570.08, "end": 4574.5199999999995}
+{"id": "UO7FlZ9Gikw-t4574.5199999999995", "text": "You listen to, I don't know, shoots or some Baroque music.", "start": 4574.5199999999995, "end": 4580.44}
+{"id": "UO7FlZ9Gikw-t4580.44", "text": "Then all of a sudden you listen to as little as 30 millisecond of a song.", "start": 4580.44, "end": 4587.679999999999}
+{"id": "UO7FlZ9Gikw-t4587.68", "text": "You used to listen a lot, but in the last 30 years you never listened to.", "start": 4587.68, "end": 4595.52}
+{"id": "UO7FlZ9Gikw-t4595.52", "text": "It hasn't to be helped because it's very easy.", "start": 4595.52, "end": 4600.4400000000005}
+{"id": "UO7FlZ9Gikw-t4600.4400000000005", "text": "But any song you listen continuously can be recognized immediately.", "start": 4600.4400000000005, "end": 4610.320000000001}
+{"id": "UO7FlZ9Gikw-t4610.320000000001", "text": "Or at least that's what I learned.", "start": 4610.320000000001, "end": 4613.6}
+{"id": "UO7FlZ9Gikw-t4613.6", "text": "So if you can confirm that, what is your opinion about the neurophysiological mechanism?", "start": 4613.6, "end": 4620.4800000000005}
+{"id": "UO7FlZ9Gikw-t4620.4800000000005", "text": "Enabling this trace to be sleeping for 30 years if it's a trace at all.", "start": 4620.4800000000005, "end": 4627.92}
+{"id": "UO7FlZ9Gikw-t4627.92", "text": "And then boom, to be recovered.", "start": 4627.92, "end": 4630.96}
+{"id": "UO7FlZ9Gikw-t4630.96", "text": "And how much affect has to do with this?", "start": 4630.96, "end": 4634.200000000001}
+{"id": "UO7FlZ9Gikw-t4634.200000000001", "text": "Thank you.", "start": 4634.200000000001, "end": 4635.200000000001}
+{"id": "UO7FlZ9Gikw-t4635.200000000001", "text": "Well, there's the first one.", "start": 4635.200000000001, "end": 4637.280000000001}
+{"id": "UO7FlZ9Gikw-t4637.280000000001", "text": "I'm just going to say something briefly about hypomania and creativity.", "start": 4637.280000000001, "end": 4641.400000000001}
+{"id": "UO7FlZ9Gikw-t4641.4", "text": "First of all, I really think that there is a connection, deep connection between the nervous", "start": 4641.4, "end": 4650.28}
+{"id": "UO7FlZ9Gikw-t4650.28", "text": "system, motor sensory roots to imaginative acts.", "start": 4650.28, "end": 4654.96}
+{"id": "UO7FlZ9Gikw-t4654.96", "text": "I can tell you just personally that for me when I'm writing, the rhythms are extremely", "start": 4654.96, "end": 4665.5199999999995}
+{"id": "UO7FlZ9Gikw-t4665.5199999999995", "text": "important.", "start": 4665.5199999999995, "end": 4666.5599999999995}
+{"id": "UO7FlZ9Gikw-t4666.5599999999995", "text": "And I can feel when a rhythm is wrong and I correct it.", "start": 4666.5599999999995, "end": 4671.04}
+{"id": "UO7FlZ9Gikw-t4671.04", "text": "And those rhythms and what I like to call emotional truth, which is why one story and", "start": 4671.04, "end": 4677.92}
+{"id": "UO7FlZ9Gikw-t4677.92", "text": "not another in my case, I mean this is a good question.", "start": 4677.92, "end": 4682.32}
+{"id": "UO7FlZ9Gikw-t4682.32", "text": "A fiction writer can write anything.", "start": 4682.32, "end": 4685.48}
+{"id": "UO7FlZ9Gikw-t4685.48", "text": "I can write about flying zebras if I want to.", "start": 4685.48, "end": 4688.56}
+{"id": "UO7FlZ9Gikw-t4688.56", "text": "And no one will say I can't do it.", "start": 4688.56, "end": 4690.76}
+{"id": "UO7FlZ9Gikw-t4690.76", "text": "There's no truth truth with a capital T. What there is are emotional truths that are expressed", "start": 4690.76, "end": 4698.2}
+{"id": "UO7FlZ9Gikw-t4698.2", "text": "through the stories and a great deal of that is unconscious.", "start": 4698.2, "end": 4701.76}
+{"id": "UO7FlZ9Gikw-t4701.76", "text": "And it's connected to motor sensory aspects.", "start": 4701.76, "end": 4704.96}
+{"id": "UO7FlZ9Gikw-t4704.96", "text": "I think all creativity is alike.", "start": 4704.96, "end": 4707.2}
+{"id": "UO7FlZ9Gikw-t4707.2", "text": "I don't care what fields you're in.", "start": 4707.2, "end": 4709.92}
+{"id": "UO7FlZ9Gikw-t4709.92", "text": "And I always pull out this brilliant quote from Einstein who was asked by Jacques Hadamah", "start": 4709.92, "end": 4716.16}
+{"id": "UO7FlZ9Gikw-t4716.16", "text": "how he worked.", "start": 4716.16, "end": 4717.96}
+{"id": "UO7FlZ9Gikw-t4717.96", "text": "And he said, none of my work has anything to do with signs, either mathematical or linguistic.", "start": 4717.96, "end": 4727.16}
+{"id": "UO7FlZ9Gikw-t4727.16", "text": "The way I work is visual, muscular and emotional.", "start": 4727.16, "end": 4733.8}
+{"id": "UO7FlZ9Gikw-t4733.8", "text": "And later it's translated into symbols.", "start": 4733.8, "end": 4738.36}
+{"id": "UO7FlZ9Gikw-t4738.36", "text": "This for me is simply an experience that resonates with my own experience.", "start": 4738.36, "end": 4746.08}
+{"id": "UO7FlZ9Gikw-t4746.08", "text": "And so I think that the roots of creativity and vlog, I think at least certainly implicitly", "start": 4746.08, "end": 4756.0}
+{"id": "UO7FlZ9Gikw-t4756.0", "text": "is talking about that.", "start": 4756.0, "end": 4758.8}
+{"id": "UO7FlZ9Gikw-t4758.8", "text": "The question of subject and object where there's no difference, this kind of deep bodily experience", "start": 4758.8, "end": 4767.92}
+{"id": "UO7FlZ9Gikw-t4767.92", "text": "where there's really no reflection which then becomes a form of reflection, say, in the", "start": 4767.92, "end": 4773.88}
+{"id": "UO7FlZ9Gikw-t4773.88", "text": "act of making symbols, whether they are, I think they're different.", "start": 4773.88, "end": 4780.24}
+{"id": "UO7FlZ9Gikw-t4780.24", "text": "Linguistic signs are different from images, but nevertheless they're all a form of creating", "start": 4780.24, "end": 4784.6}
+{"id": "UO7FlZ9Gikw-t4784.6", "text": "that distance.", "start": 4784.6, "end": 4785.96}
+{"id": "UO7FlZ9Gikw-t4785.96", "text": "There's an aesthetic barrier that's protective.", "start": 4785.96, "end": 4788.4800000000005}
+{"id": "UO7FlZ9Gikw-t4788.4800000000005", "text": "Yes, and we haven't really, speaking to the question of creativity, we haven't really", "start": 4788.4800000000005, "end": 4792.72}
+{"id": "UO7FlZ9Gikw-t4792.72", "text": "spoken about Vavwog's unpublished writings, especially in his late years, which are, he", "start": 4792.72, "end": 4799.200000000001}
+{"id": "UO7FlZ9Gikw-t4799.200000000001", "text": "calls them a laboratory, he uses this metaphor again and again, for his discoveries, for", "start": 4799.200000000001, "end": 4804.72}
+{"id": "UO7FlZ9Gikw-t4804.72", "text": "his numerous unfinished, unfinishable projects.", "start": 4804.72, "end": 4809.280000000001}
+{"id": "UO7FlZ9Gikw-t4809.28", "text": "The way that he moves from one idea to another and condenses, fadictates his language in", "start": 4809.28, "end": 4816.5199999999995}
+{"id": "UO7FlZ9Gikw-t4816.5199999999995", "text": "a playful way, is extraordinary as he tries to discover new projects and new connections", "start": 4816.5199999999995, "end": 4823.88}
+{"id": "UO7FlZ9Gikw-t4823.88", "text": "that he hadn't previously contemplated, even as he returns to his old ideas.", "start": 4823.88, "end": 4830.24}
+{"id": "UO7FlZ9Gikw-t4830.24", "text": "So, if you read the diary, the toggle book in the last three years, the palpable enthusiasm,", "start": 4830.24, "end": 4838.679999999999}
+{"id": "UO7FlZ9Gikw-t4838.68", "text": "the inspiration that he feels with the new Bruno project is like a little kid.", "start": 4838.68, "end": 4845.68}
+{"id": "UO7FlZ9Gikw-t4845.68", "text": "And it's as if he's persuaded himself that he's been able to remake himself.", "start": 4845.68, "end": 4856.08}
+{"id": "UO7FlZ9Gikw-t4856.08", "text": "So, for instance, he says at one point, Bruno, with whom I've been engaged with for 40 years,", "start": 4856.08, "end": 4863.400000000001}
+{"id": "UO7FlZ9Gikw-t4863.4", "text": "and there's no evidence whatsoever that this is anything but a new project.", "start": 4863.4, "end": 4869.28}
+{"id": "UO7FlZ9Gikw-t4869.28", "text": "Just suggest the degree to which he feels it.", "start": 4869.28, "end": 4873.32}
+{"id": "UO7FlZ9Gikw-t4873.32", "text": "Yes, yes.", "start": 4873.32, "end": 4874.32}
+{"id": "UO7FlZ9Gikw-t4874.32", "text": "It's a sibling.", "start": 4874.32, "end": 4875.32}
+{"id": "UO7FlZ9Gikw-t4875.32", "text": "Yes.", "start": 4875.32, "end": 4876.32}
+{"id": "UO7FlZ9Gikw-t4876.32", "text": "That's it.", "start": 4876.32, "end": 4877.32}
+{"id": "UO7FlZ9Gikw-t4877.32", "text": "Okay.", "start": 4877.32, "end": 4878.32}
+{"id": "UO7FlZ9Gikw-t4878.32", "text": "Oh, good.", "start": 4878.32, "end": 4879.32}
+{"id": "UO7FlZ9Gikw-t4879.32", "text": "Someone, Christina, maybe you'll talk about one star.", "start": 4879.32, "end": 4883.4}
+{"id": "UO7FlZ9Gikw-t4883.4", "text": "Some answer or some talks, some comment about the question of how these memories can last", "start": 4883.4, "end": 4891.839999999999}
+{"id": "UO7FlZ9Gikw-t4891.84", "text": "for such a long time and be retrieved later.", "start": 4891.84, "end": 4895.24}
+{"id": "UO7FlZ9Gikw-t4895.24", "text": "That is one of the outstanding questions to be addressed in neuroscience.", "start": 4895.24, "end": 4900.64}
+{"id": "UO7FlZ9Gikw-t4900.64", "text": "There are a number of suggestive results.", "start": 4900.64, "end": 4906.96}
+{"id": "UO7FlZ9Gikw-t4906.96", "text": "Launter memories rely on biological changes, that's a fact.", "start": 4906.96, "end": 4911.16}
+{"id": "UO7FlZ9Gikw-t4911.16", "text": "So, what type of biological changes can maintain these information for more than 30 years?", "start": 4911.16, "end": 4916.52}
+{"id": "UO7FlZ9Gikw-t4916.52", "text": "And they are recalled in a fraction of a second or, you know, a very short time they can return.", "start": 4916.52, "end": 4924.6}
+{"id": "UO7FlZ9Gikw-t4924.6", "text": "So, you know, study all these mechanisms in the last 20 years, we know that the making", "start": 4924.6, "end": 4936.320000000001}
+{"id": "UO7FlZ9Gikw-t4936.320000000001", "text": "of proteins, what's called gene expression that is required for long term memory and the", "start": 4936.320000000001, "end": 4940.400000000001}
+{"id": "UO7FlZ9Gikw-t4940.400000000001", "text": "transition of proteins, because proteins have a much shorter life.", "start": 4940.400000000001, "end": 4944.76}
+{"id": "UO7FlZ9Gikw-t4944.76", "text": "They can not last for more than 30 years.", "start": 4944.76, "end": 4947.24}
+{"id": "UO7FlZ9Gikw-t4947.24", "text": "But there are mechanisms that regulates those making of the proteins.", "start": 4947.24, "end": 4951.400000000001}
+{"id": "UO7FlZ9Gikw-t4951.400000000001", "text": "One that was mentioned is, you know, chromatin changes, epigenetics.", "start": 4951.400000000001, "end": 4957.56}
+{"id": "UO7FlZ9Gikw-t4957.56", "text": "And those can really last for a long time.", "start": 4957.56, "end": 4959.320000000001}
+{"id": "UO7FlZ9Gikw-t4959.320000000001", "text": "I would add to that that another possibility that is still not explored is feedback mechanisms.", "start": 4959.320000000001, "end": 4965.56}
+{"id": "UO7FlZ9Gikw-t4965.56", "text": "They can actually maintain a process for a very long time.", "start": 4965.56, "end": 4969.04}
+{"id": "UO7FlZ9Gikw-t4969.04", "text": "One that has been very much discussed is actually the network of synapses, the contacts among", "start": 4969.04, "end": 4977.44}
+{"id": "UO7FlZ9Gikw-t4977.44", "text": "neurocells, including astrocytes, I would think.", "start": 4977.44, "end": 4982.2}
+{"id": "UO7FlZ9Gikw-t4982.2", "text": "And maybe the network is what is able to maintain over time the information.", "start": 4982.2, "end": 4988.96}
+{"id": "UO7FlZ9Gikw-t4988.96", "text": "So they can be changes because of this plasticity.", "start": 4988.96, "end": 4992.56}
+{"id": "UO7FlZ9Gikw-t4992.56", "text": "You can make no association, take out others, modulate the intensity and so on.", "start": 4992.56, "end": 4996.84}
+{"id": "UO7FlZ9Gikw-t4996.84", "text": "And there is a substrate, a combination of synapses that is maintained and when triggered", "start": 4996.84, "end": 5003.28}
+{"id": "UO7FlZ9Gikw-t5003.28", "text": "the memory returns.", "start": 5003.28, "end": 5004.92}
+{"id": "UO7FlZ9Gikw-t5004.92", "text": "And I live to draw the emotional part very important.", "start": 5004.92, "end": 5009.2}
+{"id": "UO7FlZ9Gikw-t5009.2", "text": "I think the music part is, you know, it's interesting that music does have the special", "start": 5009.2, "end": 5017.92}
+{"id": "UO7FlZ9Gikw-t5017.92", "text": "way of kind of getting to the sweet spot of emotion and memory in the way that nothing", "start": 5017.92, "end": 5023.24}
+{"id": "UO7FlZ9Gikw-t5023.24", "text": "else can.", "start": 5023.24, "end": 5025.88}
+{"id": "UO7FlZ9Gikw-t5025.88", "text": "But I would maintain that the musical memories that do that most are the ones from your adolescence.", "start": 5025.88, "end": 5032.68}
+{"id": "UO7FlZ9Gikw-t5032.68", "text": "And the reason for that is because, this is a total speculation, but because of the hormonal", "start": 5032.68, "end": 5037.4800000000005}
+{"id": "UO7FlZ9Gikw-t5037.4800000000005", "text": "upheaval and changes that are taking place at that time, consolidate those memories especially", "start": 5037.4800000000005, "end": 5042.64}
+{"id": "UO7FlZ9Gikw-t5042.64", "text": "strongly so that when you hear that fragment of the introduction to help or some other", "start": 5042.64, "end": 5048.0}
+{"id": "UO7FlZ9Gikw-t5048.0", "text": "song, it's because it happened at a time when your emotional life was just really starting", "start": 5048.0, "end": 5053.88}
+{"id": "UO7FlZ9Gikw-t5053.88", "text": "to happen in a profound way.", "start": 5053.88, "end": 5057.400000000001}
+{"id": "UO7FlZ9Gikw-t5057.400000000001", "text": "Just a comment on the energy utilization.", "start": 5057.400000000001, "end": 5059.400000000001}
+{"id": "UO7FlZ9Gikw-t5059.400000000001", "text": "I mean, this idea that maintaining memories is an active process may be also reflected", "start": 5059.400000000001, "end": 5068.36}
+{"id": "UO7FlZ9Gikw-t5068.36", "text": "in this very high cost for energetic cost of the brain, which is really ten times as", "start": 5068.36, "end": 5075.64}
+{"id": "UO7FlZ9Gikw-t5075.64", "text": "well.", "start": 5075.64, "end": 5076.64}
+{"id": "UO7FlZ9Gikw-t5076.64", "text": "What's puzzling is why the brain should invest energy to keep in memory something the brain", "start": 5076.64, "end": 5082.96}
+{"id": "UO7FlZ9Gikw-t5082.96", "text": "will never know if it will happen unless there's some very strong emotion of the evening.", "start": 5082.96, "end": 5090.92}
+{"id": "UO7FlZ9Gikw-t5090.92", "text": "But I mean, absolutely.", "start": 5090.92, "end": 5094.08}
+{"id": "UO7FlZ9Gikw-t5094.08", "text": "I mean, long-term memories are always connected to emotion.", "start": 5094.08, "end": 5097.64}
+{"id": "UO7FlZ9Gikw-t5097.64", "text": "Unless there is another way of making long-term memories, which is true repetition, those are", "start": 5097.64, "end": 5102.44}
+{"id": "UO7FlZ9Gikw-t5102.44", "text": "other types of memories.", "start": 5102.44, "end": 5103.96}
+{"id": "UO7FlZ9Gikw-t5103.96", "text": "And who knows, maybe also repressing memories cost energy.", "start": 5103.96, "end": 5107.36}
+{"id": "UO7FlZ9Gikw-t5107.36", "text": "Thank you.", "start": 5107.36, "end": 5109.36}
+{"id": "UO7FlZ9Gikw-t5109.36", "text": "It occurs to me that hearing what we've heard last couple of days and particularly at this", "start": 5109.36, "end": 5117.08}
+{"id": "UO7FlZ9Gikw-t5117.08", "text": "session that what VARBORD needs most is what Freud received.", "start": 5117.08, "end": 5121.5199999999995}
+{"id": "UO7FlZ9Gikw-t5121.5199999999995", "text": "I want to say 25 or 30 years ago, a book by Frank Soloway, Freud, The Biology of the", "start": 5121.5199999999995, "end": 5127.0}
+{"id": "UO7FlZ9Gikw-t5127.0", "text": "Mind.", "start": 5127.0, "end": 5128.0}
+{"id": "UO7FlZ9Gikw-t5128.0", "text": "We need, it seems like, and I think Andrea mentioned that, you know, VARBORD went to", "start": 5128.0, "end": 5131.5199999999995}
+{"id": "UO7FlZ9Gikw-t5131.5199999999995", "text": "study medicine after his military service.", "start": 5131.5199999999995, "end": 5134.639999999999}
+{"id": "UO7FlZ9Gikw-t5134.64", "text": "I don't think we fully appreciate the magnitude, particularly in some of the suggested passages", "start": 5134.64, "end": 5140.240000000001}
+{"id": "UO7FlZ9Gikw-t5140.240000000001", "text": "that Spiro has mentioned about VARBORD's reading of Darwin and that his belief that", "start": 5140.240000000001, "end": 5147.88}
+{"id": "UO7FlZ9Gikw-t5147.88", "text": "perception involved a kind of energetic transfer, a creation of a symbol that is the stimulus", "start": 5147.88, "end": 5155.92}
+{"id": "UO7FlZ9Gikw-t5155.92", "text": "generated a response which became kind of the biological substrate for an internal image.", "start": 5155.92, "end": 5162.88}
+{"id": "UO7FlZ9Gikw-t5162.88", "text": "But I believe Professor Rose talks about it very persuasively and that it's the expression", "start": 5162.88, "end": 5169.2}
+{"id": "UO7FlZ9Gikw-t5169.2", "text": "of these biological images in pathos formula, schlock, build-up and what have you.", "start": 5169.2, "end": 5175.4800000000005}
+{"id": "UO7FlZ9Gikw-t5175.4800000000005", "text": "This is the stuff I think that VARBORD deserves.", "start": 5175.4800000000005, "end": 5178.24}
+{"id": "UO7FlZ9Gikw-t5178.24", "text": "He deserves the serious kind of treatment as a the first affective neuroscientist.", "start": 5178.24, "end": 5183.68}
+{"id": "UO7FlZ9Gikw-t5183.68", "text": "He, you know, and this business of this collective unconscious may not be as effective as what", "start": 5183.68, "end": 5189.4800000000005}
+{"id": "UO7FlZ9Gikw-t5189.48", "text": "Timothy Wilson talks about as in a, the, I think he calls it the adaptive unconscious.", "start": 5189.48, "end": 5197.32}
+{"id": "UO7FlZ9Gikw-t5197.32", "text": "And so this adaptivity, I think, is one of the things that VARBORD was constantly aware", "start": 5197.32, "end": 5201.5199999999995}
+{"id": "UO7FlZ9Gikw-t5201.5199999999995", "text": "of and why you could have these recurrences, this knock-labin is because the biological", "start": 5201.5199999999995, "end": 5206.759999999999}
+{"id": "UO7FlZ9Gikw-t5206.759999999999", "text": "substrate remains the same through time and the, you know, the stimuli change but the substrate", "start": 5206.759999999999, "end": 5213.919999999999}
+{"id": "UO7FlZ9Gikw-t5213.919999999999", "text": "remains.", "start": 5213.919999999999, "end": 5215.219999999999}
+{"id": "UO7FlZ9Gikw-t5215.22", "text": "Any thoughts on that adaptive and solway connection?", "start": 5215.22, "end": 5228.4400000000005}
+{"id": "UO7FlZ9Gikw-t5228.4400000000005", "text": "I would just say you make a very compelling case.", "start": 5228.4400000000005, "end": 5232.08}
+{"id": "UO7FlZ9Gikw-t5232.08", "text": "And I just want to address this idea of the mainia and creativity.", "start": 5232.08, "end": 5236.8}
+{"id": "UO7FlZ9Gikw-t5236.8", "text": "I think Freud was right when he said a mild state of depression is for him the best state", "start": 5236.8, "end": 5244.2}
+{"id": "UO7FlZ9Gikw-t5244.2", "text": "of creativity and that's because in a depressive position to go to Winnicott you bring the", "start": 5244.2, "end": 5250.639999999999}
+{"id": "UO7FlZ9Gikw-t5250.639999999999", "text": "projections back home, take responsibility and it's not all enemies out there, it's", "start": 5250.639999999999, "end": 5256.44}
+{"id": "UO7FlZ9Gikw-t5256.44", "text": "inside.", "start": 5256.44, "end": 5257.44}
+{"id": "UO7FlZ9Gikw-t5257.44", "text": "Yeah, but hypomania does not have to be that.", "start": 5257.44, "end": 5259.639999999999}
+{"id": "UO7FlZ9Gikw-t5259.639999999999", "text": "I mean if you look at, you know, certain manic patients and the energy that's, that's produced", "start": 5259.639999999999, "end": 5267.28}
+{"id": "UO7FlZ9Gikw-t5267.28", "text": "or even if you look at certain hypergraphic conditions that accompany temporal lobe epilepsy,", "start": 5267.28, "end": 5275.92}
+{"id": "UO7FlZ9Gikw-t5275.92", "text": "I'm, for example, Dostevsky, Dostevsky was clearly hypergraphic.", "start": 5275.92, "end": 5283.12}
+{"id": "UO7FlZ9Gikw-t5283.12", "text": "He had temporal lobe epilepsy and what he produced in those moments of I would, you can certainly", "start": 5283.12, "end": 5288.679999999999}
+{"id": "UO7FlZ9Gikw-t5288.679999999999", "text": "call it hypomania, we're, you know, brilliant works of art.", "start": 5288.679999999999, "end": 5292.16}
+{"id": "UO7FlZ9Gikw-t5292.16", "text": "I mean the content is not determined by his hypomania.", "start": 5292.16, "end": 5296.12}
+{"id": "UO7FlZ9Gikw-t5296.12", "text": "But I think it can go both ways that depressive positions can produce great art but so can", "start": 5296.12, "end": 5300.84}
+{"id": "UO7FlZ9Gikw-t5300.84", "text": "hypomanic positions.", "start": 5300.84, "end": 5302.36}
+{"id": "UO7FlZ9Gikw-t5302.36", "text": "Anybody has a comment to the gentleman's question regarding adaptation?", "start": 5302.36, "end": 5306.8}
+{"id": "UO7FlZ9Gikw-t5306.8", "text": "Oh yeah.", "start": 5306.8, "end": 5307.8}
+{"id": "UO7FlZ9Gikw-t5307.8", "text": "If not, then we will stop and we will regather here at two o'clock.", "start": 5307.8, "end": 5312.5599999999995}
+{"id": "UO7FlZ9Gikw-t5312.5599999999995", "text": "That'd be a wrap up with about an hour and hour, 15 minutes where all the participants", "start": 5312.5599999999995, "end": 5317.28}
+{"id": "UO7FlZ9Gikw-t5317.28", "text": "would be, is it two o'clock?", "start": 5317.28, "end": 5319.44}
+{"id": "UO7FlZ9Gikw-t5319.44", "text": "Yeah, two o'clock.", "start": 5319.44, "end": 5321.88}
+{"id": "UO7FlZ9Gikw-t5321.88", "text": "So we finish by about three-third, did the latest.", "start": 5321.88, "end": 5325.96}
+{"id": "UO7FlZ9Gikw-t5325.96", "text": "Right.", "start": 5325.96, "end": 5326.96}
+{"id": "UO7FlZ9Gikw-t5326.96", "text": "Yeah.", "start": 5326.96, "end": 5327.96}
+{"id": "UO7FlZ9Gikw-t5327.96", "text": "Yeah.", "start": 5327.96, "end": 5328.96}
+{"id": "UO7FlZ9Gikw-t5328.96", "text": "Yeah.", "start": 5328.96, "end": 5329.96}
+{"id": "UO7FlZ9Gikw-t5329.96", "text": "Let's go.", "start": 5329.96, "end": 5330.96}
+{"id": "UO7FlZ9Gikw-t5330.96", "text": "Let's go.", "start": 5330.96, "end": 5331.96}
+{"id": "UO7FlZ9Gikw-t5331.96", "text": "Okay.", "start": 5331.96, "end": 5332.96}
+{"id": "UO7FlZ9Gikw-t5332.96", "text": "Well, sure.", "start": 5332.96, "end": 5333.96}
+{"id": "UO7FlZ9Gikw-t5333.96", "text": "Great for you to come.", "start": 5333.96, "end": 5338.96}
+{"id": "UO7FlZ9Gikw-t5338.96", "text": "I do?", "start": 5338.96, "end": 5340.96}
+{"id": "UO7FlZ9Gikw-t5340.96", "text": "Yeah.", "start": 5340.96, "end": 5341.96}
+{"id": "UO7FlZ9Gikw-t5341.96", "text": "I, I, I was in immense power.", "start": 5341.96, "end": 5346.96}
+{"id": "UO7FlZ9Gikw-t5346.96", "text": "Yeah.", "start": 5346.96, "end": 5347.96}
+{"id": "UO7FlZ9Gikw-t5347.96", "text": "Yeah.", "start": 5347.96, "end": 5348.96}
+{"id": "UO7FlZ9Gikw-t5348.96", "text": "Yeah.", "start": 5348.96, "end": 5349.96}
+{"id": "UO7FlZ9Gikw-t5349.96", "text": "Yeah.", "start": 5349.96, "end": 5355.96}

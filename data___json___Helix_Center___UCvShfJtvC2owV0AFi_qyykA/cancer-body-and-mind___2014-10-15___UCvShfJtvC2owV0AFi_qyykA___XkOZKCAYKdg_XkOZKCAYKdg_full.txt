@@ -1,0 +1,1342 @@
+{"id": "XkOZKCAYKdg-t0.0", "text": "I'm Ed Nurse-Shesian, Director of the Center.", "start": 0.0, "end": 3.0}
+{"id": "XkOZKCAYKdg-t3.0", "text": "Welcome to this meeting on cancer and body and mind.", "start": 3.0, "end": 12.16}
+{"id": "XkOZKCAYKdg-t12.16", "text": "Before I introduce the participants,", "start": 12.16, "end": 14.48}
+{"id": "XkOZKCAYKdg-t14.48", "text": "I'd like to tell you a few things about future programming.", "start": 14.48, "end": 19.76}
+{"id": "XkOZKCAYKdg-t19.76", "text": "On October 25th, we have span of infinity.", "start": 19.76, "end": 24.76}
+{"id": "XkOZKCAYKdg-t24.76", "text": "On November 15th, complexity and emergence.", "start": 24.76, "end": 29.2}
+{"id": "XkOZKCAYKdg-t29.2", "text": "On November 22nd, we are going to show the movie Particle Fever", "start": 29.2, "end": 34.44}
+{"id": "XkOZKCAYKdg-t34.44", "text": "and after that, we are going to have a round table.", "start": 34.44, "end": 37.92}
+{"id": "XkOZKCAYKdg-t37.92", "text": "And on December 6th, we are going to have a program", "start": 37.92, "end": 41.96}
+{"id": "XkOZKCAYKdg-t41.96", "text": "called French Thureles Poetry, a sampler", "start": 41.96, "end": 45.68}
+{"id": "XkOZKCAYKdg-t45.68", "text": "that Anne-Marie Levine has organized.", "start": 45.68, "end": 48.36}
+{"id": "XkOZKCAYKdg-t48.36", "text": "And on December 13th, we will have", "start": 48.36, "end": 50.4}
+{"id": "XkOZKCAYKdg-t50.4", "text": "search for immortality.", "start": 50.4, "end": 54.32}
+{"id": "XkOZKCAYKdg-t54.32", "text": "Today's program came about during a conversation I had", "start": 54.32, "end": 60.6}
+{"id": "XkOZKCAYKdg-t60.6", "text": "with Andrea Califano, where he was telling me", "start": 60.6, "end": 65.52}
+{"id": "XkOZKCAYKdg-t65.52", "text": "that cancer is always in your body.", "start": 65.52, "end": 68.44}
+{"id": "XkOZKCAYKdg-t68.44", "text": "And he can correct me if I'm saying it wrong,", "start": 68.44, "end": 71.0}
+{"id": "XkOZKCAYKdg-t71.0", "text": "because we had a few glasses of wine.", "start": 71.0, "end": 72.88}
+{"id": "XkOZKCAYKdg-t72.88", "text": "And I may not remember things, right?", "start": 72.88, "end": 75.68}
+{"id": "XkOZKCAYKdg-t75.68", "text": "But essentially, that cancer is in your body", "start": 75.68, "end": 78.84}
+{"id": "XkOZKCAYKdg-t78.84", "text": "and what makes the difference.", "start": 78.84, "end": 80.08}
+{"id": "XkOZKCAYKdg-t80.08", "text": "Or one of the things that makes the difference", "start": 80.08, "end": 81.84}
+{"id": "XkOZKCAYKdg-t81.84", "text": "is your immune system.", "start": 81.84, "end": 83.96000000000001}
+{"id": "XkOZKCAYKdg-t83.96", "text": "And that one of the factors that affects the immune system", "start": 83.96, "end": 87.11999999999999}
+{"id": "XkOZKCAYKdg-t87.11999999999999", "text": "is stress.", "start": 87.11999999999999, "end": 88.36}
+{"id": "XkOZKCAYKdg-t88.36", "text": "And one of the things that can be stressful is being depressed.", "start": 88.36, "end": 92.75999999999999}
+{"id": "XkOZKCAYKdg-t92.75999999999999", "text": "So that's what gave us the idea of discussing", "start": 92.75999999999999, "end": 97.72}
+{"id": "XkOZKCAYKdg-t97.72", "text": "the latest findings on cancer, but then also", "start": 97.72, "end": 102.88}
+{"id": "XkOZKCAYKdg-t102.88", "text": "talking about the role of the mind in some effects", "start": 102.88, "end": 107.67999999999999}
+{"id": "XkOZKCAYKdg-t107.67999999999999", "text": "on the immune system.", "start": 107.67999999999999, "end": 110.6}
+{"id": "XkOZKCAYKdg-t110.6", "text": "So today's participants are Andrea Califano, who", "start": 110.6, "end": 116.8}
+{"id": "XkOZKCAYKdg-t116.8", "text": "has been here before, and who is the Clyde and Helen Woo", "start": 116.8, "end": 119.96}
+{"id": "XkOZKCAYKdg-t119.96", "text": "Professor of Chemical and Systems Biology at Columbia", "start": 119.96, "end": 123.8}
+{"id": "XkOZKCAYKdg-t123.8", "text": "in the departments of biochemistry and molecular", "start": 123.8, "end": 127.0}
+{"id": "XkOZKCAYKdg-t127.0", "text": "biophysics and of biomedical informatics.", "start": 127.0, "end": 131.0}
+{"id": "XkOZKCAYKdg-t131.0", "text": "He is currently the founding director and chair", "start": 131.0, "end": 133.16}
+{"id": "XkOZKCAYKdg-t133.16", "text": "of the Columbia Initiative for Systems Biology.", "start": 133.16, "end": 136.84}
+{"id": "XkOZKCAYKdg-t136.84", "text": "He also serves as associate director", "start": 136.84, "end": 138.95999999999998}
+{"id": "XkOZKCAYKdg-t138.96", "text": "of a bioinformatics in the Herbert Irving Comprehensive", "start": 138.96, "end": 143.4}
+{"id": "XkOZKCAYKdg-t143.4", "text": "Cancer Center.", "start": 143.4, "end": 145.24}
+{"id": "XkOZKCAYKdg-t145.24", "text": "I'm not going to read everything but just", "start": 145.24, "end": 149.68}
+{"id": "XkOZKCAYKdg-t149.68", "text": "to give you an idea.", "start": 149.68, "end": 152.84}
+{"id": "XkOZKCAYKdg-t152.84", "text": "The next to him is Selena Cenkeang,", "start": 152.84, "end": 155.96}
+{"id": "XkOZKCAYKdg-t155.96", "text": "who is professor of pathology and professor of immunology", "start": 155.96, "end": 159.0}
+{"id": "XkOZKCAYKdg-t159.0", "text": "and microbial pathogenesis at wild Cornell.", "start": 159.0, "end": 161.96}
+{"id": "XkOZKCAYKdg-t164.88", "text": "Her focus is to convert conceptual breakthroughs,", "start": 164.88, "end": 168.0}
+{"id": "XkOZKCAYKdg-t168.0", "text": "into novel cancer therapies.", "start": 168.0, "end": 170.2}
+{"id": "XkOZKCAYKdg-t170.2", "text": "She pioneered the concept that controlling the cell", "start": 170.2, "end": 173.0}
+{"id": "XkOZKCAYKdg-t173.0", "text": "cycling cancer cells can reprogram them for a killing", "start": 173.0, "end": 178.0}
+{"id": "XkOZKCAYKdg-t178.0", "text": "by a partner agent.", "start": 178.0, "end": 180.0}
+{"id": "XkOZKCAYKdg-t180.0", "text": "She has implemented this novel strategy", "start": 180.0, "end": 183.0}
+{"id": "XkOZKCAYKdg-t183.0", "text": "in several hypothesis driven clinical triers of combination", "start": 183.0, "end": 186.0}
+{"id": "XkOZKCAYKdg-t186.0", "text": "therapy in human cancers such as lymphoma.", "start": 186.0, "end": 190.0}
+{"id": "XkOZKCAYKdg-t190.0", "text": "Susan Lottgendorf is professor at the Department of Psychology,", "start": 190.0, "end": 195.0}
+{"id": "XkOZKCAYKdg-t195.0", "text": "Obstetrics and Gynecology and Geology and member", "start": 195.0, "end": 198.0}
+{"id": "XkOZKCAYKdg-t198.0", "text": "of the Holden Comprehensive Cancer Center", "start": 198.0, "end": 200.0}
+{"id": "XkOZKCAYKdg-t200.0", "text": "at the University of Iowa.", "start": 200.0, "end": 202.0}
+{"id": "XkOZKCAYKdg-t202.0", "text": "Her current work funded by the National Cancer Institute", "start": 202.0, "end": 205.0}
+{"id": "XkOZKCAYKdg-t205.0", "text": "examines how factors such as stress, depression,", "start": 205.0, "end": 209.0}
+{"id": "XkOZKCAYKdg-t209.0", "text": "social support or link to biological processes", "start": 209.0, "end": 212.0}
+{"id": "XkOZKCAYKdg-t212.0", "text": "involved in endogenesis, inflammation,", "start": 212.0, "end": 215.0}
+{"id": "XkOZKCAYKdg-t215.0", "text": "and recurrence in ovarian cancer patients.", "start": 215.0, "end": 220.0}
+{"id": "XkOZKCAYKdg-t220.0", "text": "Hans Gido Wendell is the principal investigator", "start": 220.0, "end": 225.0}
+{"id": "XkOZKCAYKdg-t225.0", "text": "at the Cancer Genetics Laboratory at Memorial Sloan Cathering.", "start": 225.0, "end": 230.0}
+{"id": "XkOZKCAYKdg-t230.0", "text": "He works to identify new cancer therapies", "start": 230.0, "end": 233.0}
+{"id": "XkOZKCAYKdg-t233.0", "text": "based on the genetic origins of the disease.", "start": 233.0, "end": 236.0}
+{"id": "XkOZKCAYKdg-t236.0", "text": "He comes from Germany,", "start": 236.0, "end": 238.0}
+{"id": "XkOZKCAYKdg-t238.0", "text": "and he is a physician.", "start": 238.0, "end": 240.0}
+{"id": "XkOZKCAYKdg-t240.0", "text": "He is a physician.", "start": 240.0, "end": 242.0}
+{"id": "XkOZKCAYKdg-t242.0", "text": "He is a physician for the disease.", "start": 242.0, "end": 245.0}
+{"id": "XkOZKCAYKdg-t245.0", "text": "He comes from Germany and trained in medicine in Arkan", "start": 245.0, "end": 248.0}
+{"id": "XkOZKCAYKdg-t248.0", "text": "and then was at Edinburgh and is currently", "start": 248.0, "end": 252.0}
+{"id": "XkOZKCAYKdg-t252.0", "text": "an associate member of the Sloan Cathering Institute.", "start": 252.0, "end": 256.0}
+{"id": "XkOZKCAYKdg-t256.0", "text": "So that's it, and you can start.", "start": 256.0, "end": 260.0}
+{"id": "XkOZKCAYKdg-t260.0", "text": "So, just going back to our discussion, I think it was prompted by the fact that over", "start": 260.0, "end": 275.16}
+{"id": "XkOZKCAYKdg-t275.16", "text": "the last three, four years, there has been a tremendous transformation of the cancer", "start": 275.16, "end": 280.76}
+{"id": "XkOZKCAYKdg-t280.76", "text": "field due to an increased success of immunotherapies based approaches.", "start": 280.76, "end": 287.32}
+{"id": "XkOZKCAYKdg-t287.32", "text": "And it started a long time ago with some of the work that Rosenfeld has done.", "start": 287.32, "end": 291.15999999999997}
+{"id": "XkOZKCAYKdg-t291.15999999999997", "text": "More recently, Carl June, many others have studied to really harness how we can remove", "start": 291.15999999999997, "end": 298.32}
+{"id": "XkOZKCAYKdg-t298.32", "text": "the veil that hides the cancer from the immune system and therefore have success in some", "start": 298.32, "end": 304.56}
+{"id": "XkOZKCAYKdg-t304.56", "text": "cases where, from a point of view of either surgery or conventional chemotherapy or even", "start": 304.56, "end": 311.56}
+{"id": "XkOZKCAYKdg-t311.56", "text": "targeted therapy, there was really no hope left.", "start": 311.56, "end": 315.8}
+{"id": "XkOZKCAYKdg-t315.8", "text": "And just a couple of weeks ago, a new drug called Pembro has been approved by the FDA", "start": 315.8, "end": 322.04}
+{"id": "XkOZKCAYKdg-t322.04", "text": "on an accelerated path.", "start": 322.04, "end": 325.32}
+{"id": "XkOZKCAYKdg-t325.32", "text": "And this drug essentially re-establishes immune function in the context of cancer and has", "start": 325.32, "end": 333.04}
+{"id": "XkOZKCAYKdg-t333.04", "text": "been tremendously successful for using melanomas and now it's been also tested on gastric cancers", "start": 333.04, "end": 339.48}
+{"id": "XkOZKCAYKdg-t339.48", "text": "that are positive for the ligand of this particular protein called PDL1.", "start": 339.48, "end": 345.32}
+{"id": "XkOZKCAYKdg-t345.32", "text": "So based on these unexpected and maybe long expected but not yet delivered suddenly becoming", "start": 345.32, "end": 355.08}
+{"id": "XkOZKCAYKdg-t355.08", "text": "available successes, we thought that maybe there was going to be an increasing focus on", "start": 355.08, "end": 361.76}
+{"id": "XkOZKCAYKdg-t361.76", "text": "the immune system even in terms of how immunosuppression contributes in some ways to the development", "start": 361.76, "end": 369.36}
+{"id": "XkOZKCAYKdg-t369.36", "text": "and progression of cancer.", "start": 369.36, "end": 371.36}
+{"id": "XkOZKCAYKdg-t371.36", "text": "And certainly there are now even concepts at the NCI that are focusing around the notion", "start": 371.36, "end": 377.8}
+{"id": "XkOZKCAYKdg-t377.8", "text": "of stress and how stress can potentially be one of the triggers.", "start": 377.8, "end": 381.96000000000004}
+{"id": "XkOZKCAYKdg-t381.96000000000004", "text": "And remember we were saying that we have cancer every day, what we mean is that we have, you", "start": 381.96000000000004, "end": 387.28000000000003}
+{"id": "XkOZKCAYKdg-t387.28000000000003", "text": "know, so a billion cells in our body and the probability that one of those cells has mutations", "start": 387.28000000000003, "end": 394.6}
+{"id": "XkOZKCAYKdg-t394.6", "text": "that would make it to more genetic are very high.", "start": 394.6, "end": 397.48}
+{"id": "XkOZKCAYKdg-t397.48", "text": "And so something has to be taken care of that on a continuous basis and that's what our immune", "start": 397.48, "end": 402.8}
+{"id": "XkOZKCAYKdg-t402.8", "text": "system does, basically immediately targets any kind of lesions.", "start": 402.8, "end": 406.64000000000004}
+{"id": "XkOZKCAYKdg-t406.64000000000004", "text": "There are also other mechanisms that are built in the cell like senescence and scope apoptosis", "start": 406.64000000000004, "end": 411.64000000000004}
+{"id": "XkOZKCAYKdg-t411.64000000000004", "text": "but the immune system does a great job of getting rid of initial sort of starts of these", "start": 411.64000000000004, "end": 419.40000000000003}
+{"id": "XkOZKCAYKdg-t419.40000000000003", "text": "disease.", "start": 419.40000000000003, "end": 420.68}
+{"id": "XkOZKCAYKdg-t420.68", "text": "So that was the context in which this discussion came out and I think it would be great to", "start": 420.68, "end": 427.08000000000004}
+{"id": "XkOZKCAYKdg-t427.08", "text": "hear from Susan whether there have been more sort of the molecular level connection between", "start": 427.08, "end": 433.08}
+{"id": "XkOZKCAYKdg-t433.08", "text": "stress and anxiety and cancer.", "start": 433.08, "end": 436.71999999999997}
+{"id": "XkOZKCAYKdg-t436.71999999999997", "text": "Okay, so in the work that we do, we look at two areas related to cancer, cancer initiation", "start": 436.71999999999997, "end": 450.12}
+{"id": "XkOZKCAYKdg-t450.12", "text": "and cancer progression.", "start": 450.12, "end": 451.76}
+{"id": "XkOZKCAYKdg-t451.76", "text": "And initiation is the development of cancer and people who don't have cancer already.", "start": 451.76, "end": 458.32}
+{"id": "XkOZKCAYKdg-t458.32", "text": "And progression is once people have cancer, does the question is does stress help cancer", "start": 458.32, "end": 465.24}
+{"id": "XkOZKCAYKdg-t465.24", "text": "progress?", "start": 465.24, "end": 466.48}
+{"id": "XkOZKCAYKdg-t466.48", "text": "So looking at the initiation side, there's, the evidence is really pretty equivocal.", "start": 466.48, "end": 476.03999999999996}
+{"id": "XkOZKCAYKdg-t476.03999999999996", "text": "People think that stress can cause cancer, it's out there in the popular literature.", "start": 476.03999999999996, "end": 480.71999999999997}
+{"id": "XkOZKCAYKdg-t480.72", "text": "I've had people come up to me in the clinic and say, my sister says I'm such a positive", "start": 480.72, "end": 486.88000000000005}
+{"id": "XkOZKCAYKdg-t486.88000000000005", "text": "person, I don't understand why I've got cancer.", "start": 486.88000000000005, "end": 490.64000000000004}
+{"id": "XkOZKCAYKdg-t490.64000000000004", "text": "And so the role of what stress can do is limited because it's interacting with biology.", "start": 490.64000000000004, "end": 500.32000000000005}
+{"id": "XkOZKCAYKdg-t500.32000000000005", "text": "One of the things we know in the field of psychonuroimmunology is that there is a very,", "start": 500.32000000000005, "end": 507.6}
+{"id": "XkOZKCAYKdg-t507.6", "text": "very well characterized relationship between stress and the immune system.", "start": 507.6, "end": 513.4}
+{"id": "XkOZKCAYKdg-t513.4", "text": "And it seems to affect both the cellular immune system and the humeral immune system.", "start": 513.4, "end": 520.8000000000001}
+{"id": "XkOZKCAYKdg-t520.8000000000001", "text": "A cute stress tends to stimulate the immune system and it's really chronic stress that", "start": 520.8000000000001, "end": 527.88}
+{"id": "XkOZKCAYKdg-t527.88", "text": "we think about in the context of cancer.", "start": 527.88, "end": 530.6800000000001}
+{"id": "XkOZKCAYKdg-t530.6800000000001", "text": "So what's chronic stress?", "start": 530.6800000000001, "end": 534.96}
+{"id": "XkOZKCAYKdg-t534.96", "text": "People have looked at it in terms of chronic loneliness, caretaking, medical students studying", "start": 534.96, "end": 543.6}
+{"id": "XkOZKCAYKdg-t543.6", "text": "for boards.", "start": 543.6, "end": 545.1600000000001}
+{"id": "XkOZKCAYKdg-t545.1600000000001", "text": "Nobody's looked at people studying for, people preparing grants, but you probably get that.", "start": 545.1600000000001, "end": 551.08}
+{"id": "XkOZKCAYKdg-t551.08", "text": "Well, unless you're doing grant after grant after grant.", "start": 551.08, "end": 555.76}
+{"id": "XkOZKCAYKdg-t555.76", "text": "Today, hearing grant is chronic stress.", "start": 555.76, "end": 559.12}
+{"id": "XkOZKCAYKdg-t559.12", "text": "Right, because it's one after the other.", "start": 559.12, "end": 562.5600000000001}
+{"id": "XkOZKCAYKdg-t562.56", "text": "But chronic stress particularly where the person has a feeling of helplessness or this", "start": 562.56, "end": 568.56}
+{"id": "XkOZKCAYKdg-t568.56", "text": "is going to go on and on can affect the immune system because on B cells, on T cells, on", "start": 568.56, "end": 576.76}
+{"id": "XkOZKCAYKdg-t576.76", "text": "MK cells, on macrophages, there are beta adrenergic receptors, there are glucocorticoid receptors,", "start": 576.76, "end": 585.04}
+{"id": "XkOZKCAYKdg-t585.04", "text": "and those basically change the functioning of those cells.", "start": 585.04, "end": 591.52}
+{"id": "XkOZKCAYKdg-t591.52", "text": "So what we've seen in the context of cancer is people started looking in the area of do", "start": 591.52, "end": 602.88}
+{"id": "XkOZKCAYKdg-t602.88", "text": "in people who have cancer is natural killer cell functioning depressed, is macrophage", "start": 602.88, "end": 610.4399999999999}
+{"id": "XkOZKCAYKdg-t610.4399999999999", "text": "functioning changed, is T cell functioning changed.", "start": 610.4399999999999, "end": 614.52}
+{"id": "XkOZKCAYKdg-t614.52", "text": "And basically, there's good evidence that in people with chronic stress and people with", "start": 614.52, "end": 622.72}
+{"id": "XkOZKCAYKdg-t622.72", "text": "depression, in people who are lonely, that various aspects of cellular immune function", "start": 622.72, "end": 631.8}
+{"id": "XkOZKCAYKdg-t631.8", "text": "is downregulated in people who have cancer.", "start": 631.8, "end": 637.0}
+{"id": "XkOZKCAYKdg-t637.0", "text": "And that's where we started out in our research.", "start": 637.0, "end": 643.3199999999999}
+{"id": "XkOZKCAYKdg-t643.32", "text": "And people had looked basically at peripheral blood and we asked the question, what about", "start": 643.32, "end": 648.84}
+{"id": "XkOZKCAYKdg-t648.84", "text": "in the tumor itself?", "start": 648.84, "end": 651.48}
+{"id": "XkOZKCAYKdg-t651.48", "text": "And we found that indeed not only in circulating blood but in the area of the tumor, there", "start": 651.48, "end": 657.7600000000001}
+{"id": "XkOZKCAYKdg-t657.7600000000001", "text": "was depression of natural killer cell activity.", "start": 657.7600000000001, "end": 662.36}
+{"id": "XkOZKCAYKdg-t662.36", "text": "Then we started looking more directly and saying, well, if there is an effect on host", "start": 662.36, "end": 670.96}
+{"id": "XkOZKCAYKdg-t670.96", "text": "tumor cells, on immune cells which are supposed to be doing surveillance against tumor cells", "start": 670.96, "end": 678.2800000000001}
+{"id": "XkOZKCAYKdg-t678.2800000000001", "text": "or attacking tumor cells, would we see direct effects of stress on tumor cells?", "start": 678.2800000000001, "end": 684.48}
+{"id": "XkOZKCAYKdg-t684.48", "text": "And that started a line of research which I've been involved in with a colleague, Neil", "start": 684.48, "end": 691.2}
+{"id": "XkOZKCAYKdg-t691.2", "text": "Sood, from MD Anderson and supported by the National Cancer Institute looking at direct", "start": 691.2, "end": 698.64}
+{"id": "XkOZKCAYKdg-t698.64", "text": "effects on tumor cells.", "start": 698.64, "end": 701.08}
+{"id": "XkOZKCAYKdg-t701.08", "text": "And so what we see is that in correlational studies and clinical studies that patients", "start": 701.08, "end": 709.4399999999999}
+{"id": "XkOZKCAYKdg-t709.4399999999999", "text": "with either higher levels of loneliness or higher levels of tumor norepinephrine, which", "start": 709.4399999999999, "end": 718.56}
+{"id": "XkOZKCAYKdg-t718.56", "text": "is a stress hormone, have higher rates of angiogenesis.", "start": 718.56, "end": 726.56}
+{"id": "XkOZKCAYKdg-t726.56", "text": "They have, their tumor cells are more aggressive, they're more invasive, they're less likely", "start": 726.56, "end": 732.4799999999999}
+{"id": "XkOZKCAYKdg-t732.4799999999999", "text": "to die when they're circulating through the body.", "start": 732.4799999999999, "end": 735.52}
+{"id": "XkOZKCAYKdg-t735.52", "text": "So there seem to be all these relationships.", "start": 735.52, "end": 740.1199999999999}
+{"id": "XkOZKCAYKdg-t740.1199999999999", "text": "And conversely with people who are more positive, who have a more, an outlook on life that is", "start": 740.1199999999999, "end": 751.64}
+{"id": "XkOZKCAYKdg-t751.64", "text": "looking more for benefits rather than fear based, they tend to have a stronger immune", "start": 751.64, "end": 759.04}
+{"id": "XkOZKCAYKdg-t759.04", "text": "system and less of these effects.", "start": 759.04, "end": 763.1999999999999}
+{"id": "XkOZKCAYKdg-t763.1999999999999", "text": "So that's sort of the overall picture that we're seeing that stress or negative psychosocial", "start": 763.1999999999999, "end": 770.48}
+{"id": "XkOZKCAYKdg-t770.48", "text": "functioning not only can make the tumor more aggressive but also depletes the body's resistance", "start": 770.48, "end": 780.92}
+{"id": "XkOZKCAYKdg-t780.92", "text": "against the tumor.", "start": 780.92, "end": 781.92}
+{"id": "XkOZKCAYKdg-t781.92", "text": "Can I ask you a little bit because this is very interesting.", "start": 781.92, "end": 783.8}
+{"id": "XkOZKCAYKdg-t783.8", "text": "You talk about a direct effect on the cancer cell but is it mediated by the immune system", "start": 783.8, "end": 788.68}
+{"id": "XkOZKCAYKdg-t788.68", "text": "or do you think that it's actually immune system independent?", "start": 788.68, "end": 791.24}
+{"id": "XkOZKCAYKdg-t791.24", "text": "So if you did this in a, in a nutmeg mouse, that's no immune system, would you still", "start": 791.24, "end": 796.4799999999999}
+{"id": "XkOZKCAYKdg-t796.4799999999999", "text": "see an effect of stress directly on the tumor cells?", "start": 796.4799999999999, "end": 799.76}
+{"id": "XkOZKCAYKdg-t799.76", "text": "You do.", "start": 799.76, "end": 800.76}
+{"id": "XkOZKCAYKdg-t800.76", "text": "You do.", "start": 800.76, "end": 801.76}
+{"id": "XkOZKCAYKdg-t801.76", "text": "Okay.", "start": 801.76, "end": 802.76}
+{"id": "XkOZKCAYKdg-t802.76", "text": "And so I'll give you some thoughts on mediation.", "start": 802.76, "end": 806.8399999999999}
+{"id": "XkOZKCAYKdg-t806.84", "text": "So if you're looking at how does stress affect tumor cells, you have direct effects through", "start": 806.84, "end": 814.6800000000001}
+{"id": "XkOZKCAYKdg-t814.6800000000001", "text": "beta-atronergic receptors on tumor cells and through nerves that are innovating the tumor", "start": 814.6800000000001, "end": 823.6800000000001}
+{"id": "XkOZKCAYKdg-t823.6800000000001", "text": "mass itself.", "start": 823.6800000000001, "end": 825.2}
+{"id": "XkOZKCAYKdg-t825.2", "text": "You also have indirect effects, for example, through the macrophages so that stress can", "start": 825.2, "end": 834.08}
+{"id": "XkOZKCAYKdg-t834.08", "text": "\u2013 so should we put cancer patients on beta blockers?", "start": 834.08, "end": 839.5600000000001}
+{"id": "XkOZKCAYKdg-t839.5600000000001", "text": "Well there's been a lot of interest in that and there have been some pilot studies looking", "start": 839.5600000000001, "end": 845.0}
+{"id": "XkOZKCAYKdg-t845.0", "text": "at that because \u2013 Does it make a difference?", "start": 845.0, "end": 847.44}
+{"id": "XkOZKCAYKdg-t847.44", "text": "Does it make a difference?", "start": 847.44, "end": 849.1600000000001}
+{"id": "XkOZKCAYKdg-t849.1600000000001", "text": "I'm not aware of the study.", "start": 849.1600000000001, "end": 851.44}
+{"id": "XkOZKCAYKdg-t851.44", "text": "There have been both positive and negative findings.", "start": 851.44, "end": 854.64}
+{"id": "XkOZKCAYKdg-t854.64", "text": "It seems to depend on the cancer and it seems to depend on the particular receptors on the", "start": 854.64, "end": 865.36}
+{"id": "XkOZKCAYKdg-t865.36", "text": "cancer.", "start": 865.36, "end": 866.1999999999999}
+{"id": "XkOZKCAYKdg-t866.1999999999999", "text": "But there have been some \u2013 there was a meta-analysis done recently and there have been", "start": 866.1999999999999, "end": 870.48}
+{"id": "XkOZKCAYKdg-t870.48", "text": "some pretty successful studies of \u2013 and at this point most of the studies are retrospective.", "start": 870.48, "end": 878.4}
+{"id": "XkOZKCAYKdg-t878.4", "text": "There hasn't been a really solid multi-center clinical trial looking at putting patients", "start": 878.4, "end": 884.4}
+{"id": "XkOZKCAYKdg-t884.4", "text": "on beta blockers.", "start": 884.4, "end": 885.4}
+{"id": "XkOZKCAYKdg-t885.4", "text": "I think that in terms of stress, the two areas are probably quite important \u2013 one is cytokines.", "start": 885.4, "end": 891.68}
+{"id": "XkOZKCAYKdg-t891.68", "text": "These are the small molecule and often stress \u2013 at the molecular level some of them are", "start": 891.68, "end": 898.76}
+{"id": "XkOZKCAYKdg-t898.76", "text": "understood is induced inflammatory cytokines.", "start": 898.76, "end": 902.6}
+{"id": "XkOZKCAYKdg-t902.6", "text": "And that has a huge consequence in terms of every cell in the immune system, how they", "start": 902.6, "end": 908.8}
+{"id": "XkOZKCAYKdg-t908.8", "text": "receive the cytokine and how in turn generates cytokines.", "start": 908.8, "end": 913.96}
+{"id": "XkOZKCAYKdg-t913.96", "text": "I think this is a loop that's extremely important.", "start": 913.96, "end": 917.4000000000001}
+{"id": "XkOZKCAYKdg-t917.4000000000001", "text": "And one of the consequences about this loop is \u2013 there are two things.", "start": 917.4000000000001, "end": 922.52}
+{"id": "XkOZKCAYKdg-t922.52", "text": "One of the sloop is increasing cell number by cell division.", "start": 922.52, "end": 928.0400000000001}
+{"id": "XkOZKCAYKdg-t928.0400000000001", "text": "So you cannot have cancer unless the cell division is misregulated.", "start": 928.0400000000001, "end": 932.48}
+{"id": "XkOZKCAYKdg-t932.48", "text": "You need to have \u2013 one of the basis for cancer is cells are not controlled as programmed", "start": 932.48, "end": 941.1600000000001}
+{"id": "XkOZKCAYKdg-t941.1600000000001", "text": "and stopped dividing.", "start": 941.1600000000001, "end": 942.1600000000001}
+{"id": "XkOZKCAYKdg-t942.1600000000001", "text": "They keep on dividing.", "start": 942.1600000000001, "end": 943.76}
+{"id": "XkOZKCAYKdg-t943.76", "text": "That's one thing.", "start": 943.76, "end": 944.96}
+{"id": "XkOZKCAYKdg-t944.96", "text": "The other is as if a train failed to get to the station.", "start": 944.96, "end": 950.16}
+{"id": "XkOZKCAYKdg-t950.16", "text": "They stopped somewhere in the middle.", "start": 950.16, "end": 952.72}
+{"id": "XkOZKCAYKdg-t952.72", "text": "And that's lack of differentiation.", "start": 952.72, "end": 956.64}
+{"id": "XkOZKCAYKdg-t956.64", "text": "But even that we won't have cancer.", "start": 956.64, "end": 958.52}
+{"id": "XkOZKCAYKdg-t958.52", "text": "The other part is the cells fail to die.", "start": 958.52, "end": 961.64}
+{"id": "XkOZKCAYKdg-t961.64", "text": "So you need all these parts.", "start": 961.64, "end": 963.6}
+{"id": "XkOZKCAYKdg-t963.6", "text": "And actually all these are very much affected by cytokines.", "start": 963.6, "end": 969.08}
+{"id": "XkOZKCAYKdg-t969.08", "text": "Because actually in the immune system T cells, B cells, all these cells \u2013 the students", "start": 969.08, "end": 976.8000000000001}
+{"id": "XkOZKCAYKdg-t976.8000000000001", "text": "talk about cells in the immune system.", "start": 976.8000000000001, "end": 979.8000000000001}
+{"id": "XkOZKCAYKdg-t979.8000000000001", "text": "NK represents natural killer cells.", "start": 979.8000000000001, "end": 982.76}
+{"id": "XkOZKCAYKdg-t982.76", "text": "B cells are the cells that make antibodies.", "start": 982.76, "end": 986.1600000000001}
+{"id": "XkOZKCAYKdg-t986.1600000000001", "text": "And T cells are two kinds.", "start": 986.1600000000001, "end": 988.2800000000001}
+{"id": "XkOZKCAYKdg-t988.2800000000001", "text": "One is the T cell that help B cells to make antibodies.", "start": 988.2800000000001, "end": 992.36}
+{"id": "XkOZKCAYKdg-t992.36", "text": "The other is the kind of T cell that itself can kill cells.", "start": 992.36, "end": 997.08}
+{"id": "XkOZKCAYKdg-t997.08", "text": "And the macrophage is the powerhouse of making inflammatory cytokines.", "start": 997.08, "end": 1002.88}
+{"id": "XkOZKCAYKdg-t1002.88", "text": "So I think that is actually \u2013 and that's both systemic as well as in tumor.", "start": 1002.88, "end": 1009.84}
+{"id": "XkOZKCAYKdg-t1009.84", "text": "And a lot of tumor cells are not supposed to make these things, but because they become", "start": 1009.84, "end": 1014.32}
+{"id": "XkOZKCAYKdg-t1014.32", "text": "tumor cells, they themselves make them.", "start": 1014.32, "end": 1016.64}
+{"id": "XkOZKCAYKdg-t1016.64", "text": "I think that's the issue.", "start": 1016.64, "end": 1018.64}
+{"id": "XkOZKCAYKdg-t1018.64", "text": "I think that's the issue.", "start": 1018.64, "end": 1019.64}
+{"id": "XkOZKCAYKdg-t1019.64", "text": "There's probably more here though, right?", "start": 1019.64, "end": 1021.6400000000001}
+{"id": "XkOZKCAYKdg-t1021.64", "text": "At the moment we're sort of discussing how does your psychology affect your immune system?", "start": 1021.64, "end": 1027.2}
+{"id": "XkOZKCAYKdg-t1027.2", "text": "We all know that, right?", "start": 1027.2, "end": 1028.2}
+{"id": "XkOZKCAYKdg-t1028.2", "text": "You're stressed and you hope this flares up.", "start": 1028.2, "end": 1030.08}
+{"id": "XkOZKCAYKdg-t1030.08", "text": "And obviously there is a connection here.", "start": 1030.08, "end": 1033.12}
+{"id": "XkOZKCAYKdg-t1033.12", "text": "You can probably turn it around as well.", "start": 1033.12, "end": 1034.76}
+{"id": "XkOZKCAYKdg-t1034.76", "text": "You can say, well, people have different abilities to deal with stress, different abilities to", "start": 1034.76, "end": 1039.32}
+{"id": "XkOZKCAYKdg-t1039.32", "text": "deal with the stress of a cancer diagnosis, cancer treatment, cancer going to the hospital", "start": 1039.32, "end": 1043.76}
+{"id": "XkOZKCAYKdg-t1043.76", "text": "back and forth themselves.", "start": 1043.76, "end": 1045.84}
+{"id": "XkOZKCAYKdg-t1045.84", "text": "And that may affect \u2013 well, it may affect the outcome.", "start": 1045.84, "end": 1048.68}
+{"id": "XkOZKCAYKdg-t1048.68", "text": "It may affect the way they can handle it.", "start": 1048.68, "end": 1051.44}
+{"id": "XkOZKCAYKdg-t1051.44", "text": "I'm talking about something that I have no clue of because I'm not a psychiatrist.", "start": 1051.44, "end": 1055.52}
+{"id": "XkOZKCAYKdg-t1055.52", "text": "But I would imagine for patients who are diagnosed who have cancer, their own ability to deal", "start": 1055.52, "end": 1063.88}
+{"id": "XkOZKCAYKdg-t1063.88", "text": "with stress, you know, having friends, having their network, having whatever helps you to", "start": 1063.88, "end": 1070.6000000000001}
+{"id": "XkOZKCAYKdg-t1070.6000000000001", "text": "deal with all your own predisposition to deal with stress affects the way that the cancer", "start": 1070.6000000000001, "end": 1076.8400000000001}
+{"id": "XkOZKCAYKdg-t1076.8400000000001", "text": "in turn affects them.", "start": 1076.8400000000001, "end": 1077.92}
+{"id": "XkOZKCAYKdg-t1077.92", "text": "I don't know if that is measurable in outcome, in survival and so on.", "start": 1077.92, "end": 1082.48}
+{"id": "XkOZKCAYKdg-t1082.48", "text": "But it probably is a big factor for patients and a big difference.", "start": 1082.48, "end": 1086.88}
+{"id": "XkOZKCAYKdg-t1086.88", "text": "If you look in a hospital on any ward with 30, 40 patients, you're going to have a spectrum", "start": 1086.88, "end": 1092.2}
+{"id": "XkOZKCAYKdg-t1092.2", "text": "of people who respond to it by saying, well, you know, it is what it is and I'll deal", "start": 1092.2, "end": 1097.8000000000002}
+{"id": "XkOZKCAYKdg-t1097.8000000000002", "text": "with it and you'll have people who respond very differently.", "start": 1097.8000000000002, "end": 1101.0}
+{"id": "XkOZKCAYKdg-t1101.0", "text": "And, you know, so I think that we've now discussed the \u2013 these sort of how does your", "start": 1101.0, "end": 1107.6}
+{"id": "XkOZKCAYKdg-t1107.6", "text": "psychology affect your immune system and cytokines and macrophages.", "start": 1107.6, "end": 1112.08}
+{"id": "XkOZKCAYKdg-t1112.08", "text": "But the mind and cancer problem, you can probably turn it around and it's not that I have", "start": 1112.08, "end": 1118.08}
+{"id": "XkOZKCAYKdg-t1118.08", "text": "anything.", "start": 1118.08, "end": 1119.08}
+{"id": "XkOZKCAYKdg-t1119.08", "text": "One of the things that turns out to be consistently really important in terms of coping is social", "start": 1119.08, "end": 1126.92}
+{"id": "XkOZKCAYKdg-t1126.92", "text": "support.", "start": 1126.92, "end": 1128.36}
+{"id": "XkOZKCAYKdg-t1128.36", "text": "And one of the things \u2013 and the kind of social support is also really important.", "start": 1128.36, "end": 1133.84}
+{"id": "XkOZKCAYKdg-t1133.84", "text": "So for example, in ovarian cancer patients, which is mostly what I study, we've seen", "start": 1133.84, "end": 1139.36}
+{"id": "XkOZKCAYKdg-t1139.36", "text": "that it's the kind of social support where people feel emotionally connected with people,", "start": 1139.36, "end": 1145.4399999999998}
+{"id": "XkOZKCAYKdg-t1145.4399999999998", "text": "where they feel like they can talk to somebody, there's somebody at their back as opposed", "start": 1145.4399999999998, "end": 1150.56}
+{"id": "XkOZKCAYKdg-t1150.56", "text": "to there's somebody that can bring them chicken soup, that they can borrow money from, etc.", "start": 1150.56, "end": 1156.36}
+{"id": "XkOZKCAYKdg-t1156.36", "text": "So it's this emotional connection that we see related to survival in ovarian cancer", "start": 1156.36, "end": 1164.76}
+{"id": "XkOZKCAYKdg-t1164.76", "text": "patients.", "start": 1164.76, "end": 1165.76}
+{"id": "XkOZKCAYKdg-t1165.76", "text": "We see it related to tumor norepinephrine and we see it related to actually the gene expression", "start": 1165.76, "end": 1173.52}
+{"id": "XkOZKCAYKdg-t1173.52", "text": "at the time of diagnosis that there are \u2013 there's really a different signature in people who", "start": 1173.52, "end": 1181.8}
+{"id": "XkOZKCAYKdg-t1181.8", "text": "have high social support versus low social support.", "start": 1181.8, "end": 1187.36}
+{"id": "XkOZKCAYKdg-t1187.36", "text": "So I'm not understanding that what you were talking about, you were talking more about", "start": 1187.36, "end": 1194.2}
+{"id": "XkOZKCAYKdg-t1194.2", "text": "patients, the stress coming from having the cancer, having the diagnosis.", "start": 1194.2, "end": 1201.2}
+{"id": "XkOZKCAYKdg-t1201.2", "text": "Resources and dealing with it, right?", "start": 1201.2, "end": 1203.12}
+{"id": "XkOZKCAYKdg-t1203.12", "text": "But after having the disease.", "start": 1203.12, "end": 1205.76}
+{"id": "XkOZKCAYKdg-t1205.76", "text": "Yes.", "start": 1205.76, "end": 1206.76}
+{"id": "XkOZKCAYKdg-t1206.76", "text": "Right.", "start": 1206.76, "end": 1207.76}
+{"id": "XkOZKCAYKdg-t1207.76", "text": "It's too different.", "start": 1207.76, "end": 1208.76}
+{"id": "XkOZKCAYKdg-t1208.76", "text": "That's what I'm talking about too.", "start": 1208.76, "end": 1210.68}
+{"id": "XkOZKCAYKdg-t1210.68", "text": "So nobody's then talking about or it's not relevant, the issue of social support, stress", "start": 1210.68, "end": 1218.8400000000001}
+{"id": "XkOZKCAYKdg-t1218.8400000000001", "text": "and so on prior to the diagnosis.", "start": 1218.8400000000001, "end": 1222.5600000000002}
+{"id": "XkOZKCAYKdg-t1222.5600000000002", "text": "I think that's where Susan was saying that the waters are much murkier because I think", "start": 1222.5600000000002, "end": 1226.96}
+{"id": "XkOZKCAYKdg-t1226.96", "text": "after you get cancer there's a clear function in the immune system and the question is whether", "start": 1226.96, "end": 1233.64}
+{"id": "XkOZKCAYKdg-t1233.64", "text": "because the number of cells, the cancer cell is huge once you have cancer is detectable,", "start": 1233.64, "end": 1238.76}
+{"id": "XkOZKCAYKdg-t1238.76", "text": "it's a huge number.", "start": 1238.76, "end": 1240.28}
+{"id": "XkOZKCAYKdg-t1240.28", "text": "Once you have \u2013 when you start \u2013 you essentially start to get cancer, the number of cells", "start": 1240.28, "end": 1244.6}
+{"id": "XkOZKCAYKdg-t1244.6", "text": "is small, the potentially even maybe a minimal function of the immune system is already sufficient", "start": 1244.6, "end": 1249.04}
+{"id": "XkOZKCAYKdg-t1249.04", "text": "to keep it in check.", "start": 1249.04, "end": 1250.2}
+{"id": "XkOZKCAYKdg-t1250.2", "text": "So I think that's maybe what \u2013 you know what I see, again, I'm also like Gito, I'm", "start": 1250.2, "end": 1255.2}
+{"id": "XkOZKCAYKdg-t1255.2", "text": "not a psychiatrist or psychologist, but I work in basic sciences and one thing that we see", "start": 1255.2, "end": 1261.6}
+{"id": "XkOZKCAYKdg-t1261.6", "text": "that is very interesting is that in tissues there's always this balance.", "start": 1261.6, "end": 1265.72}
+{"id": "XkOZKCAYKdg-t1265.72", "text": "And essentially you have processes that compete, typical processes that compete in tumors are", "start": 1265.72, "end": 1273.64}
+{"id": "XkOZKCAYKdg-t1273.64", "text": "something called apoptosis which is programmed cell death and proliferation.", "start": 1273.64, "end": 1277.92}
+{"id": "XkOZKCAYKdg-t1277.92", "text": "And literally you can in lymphoma for instance, you know, which is on a field that you have", "start": 1277.92, "end": 1282.96}
+{"id": "XkOZKCAYKdg-t1282.96", "text": "eminent experts here, it was long thought that there was a process for instance by abrogating", "start": 1282.96, "end": 1289.3600000000001}
+{"id": "XkOZKCAYKdg-t1289.3600000000001", "text": "the function of P53 that you would essentially block apoptosis.", "start": 1289.3600000000001, "end": 1294.72}
+{"id": "XkOZKCAYKdg-t1294.72", "text": "But actually in the LBC alpha, diffused laspis-helymphoma, there is a significant fair bit of apoptosis", "start": 1294.72, "end": 1299.68}
+{"id": "XkOZKCAYKdg-t1299.68", "text": "going on.", "start": 1299.68, "end": 1300.68}
+{"id": "XkOZKCAYKdg-t1300.68", "text": "It's just that the proliferation is higher than the apoptosis and the tumor grows.", "start": 1300.68, "end": 1304.28}
+{"id": "XkOZKCAYKdg-t1304.28", "text": "If you can bring down \u2013 either increase apoptosis a little bit or bring down proliferation,", "start": 1304.28, "end": 1308.2}
+{"id": "XkOZKCAYKdg-t1308.2", "text": "then the tumor shrinks.", "start": 1308.2, "end": 1309.3600000000001}
+{"id": "XkOZKCAYKdg-t1309.3600000000001", "text": "And so it's really a balance between two things.", "start": 1309.3600000000001, "end": 1311.56}
+{"id": "XkOZKCAYKdg-t1311.56", "text": "And one thing that we've observed and this came out from some research results that we", "start": 1311.56, "end": 1315.92}
+{"id": "XkOZKCAYKdg-t1315.92", "text": "have not even published yet is that cancer seems to be really divided in two groups.", "start": 1315.92, "end": 1320.4}
+{"id": "XkOZKCAYKdg-t1320.4", "text": "There's a group where proliferation pathways seem to have a really marked sort of signature", "start": 1320.4, "end": 1327.4}
+{"id": "XkOZKCAYKdg-t1327.4", "text": "and there's a group where immunosuppressive pathways seem to have a significant signature.", "start": 1327.4, "end": 1331.4}
+{"id": "XkOZKCAYKdg-t1331.4", "text": "And the ones that are immunosuppressive are much less proliferative.", "start": 1331.4, "end": 1334.0800000000002}
+{"id": "XkOZKCAYKdg-t1334.0800000000002", "text": "So for instance, neuroendocrine tumors, completely non-proliferation tumors, they can be indolent", "start": 1334.0800000000002, "end": 1339.0}
+{"id": "XkOZKCAYKdg-t1339.0", "text": "for years but they're totally immunosuppressive.", "start": 1339.0, "end": 1342.0}
+{"id": "XkOZKCAYKdg-t1342.0", "text": "They have like, they eliminate, they mask themselves behind the veil of a shroud of secretness", "start": 1342.0, "end": 1348.24}
+{"id": "XkOZKCAYKdg-t1348.24", "text": "and the immune system can undertake them.", "start": 1348.24, "end": 1350.72}
+{"id": "XkOZKCAYKdg-t1350.72", "text": "And there's work by \u2013 or Weisman that I think has been really seminal in the area", "start": 1350.72, "end": 1354.56}
+{"id": "XkOZKCAYKdg-t1354.56", "text": "of specific receptors called CD47 that actually are called the don't eat me signal.", "start": 1354.56, "end": 1361.28}
+{"id": "XkOZKCAYKdg-t1361.28", "text": "Basically they're used by stem cell that still have an immature self image that would", "start": 1361.28, "end": 1366.64}
+{"id": "XkOZKCAYKdg-t1366.64", "text": "otherwise be attacked by the immune system to basically tell your own immune system don't", "start": 1366.64, "end": 1370.04}
+{"id": "XkOZKCAYKdg-t1370.04", "text": "eat me as I go and do, you know, generate the tissue that I need to go and generate.", "start": 1370.04, "end": 1374.44}
+{"id": "XkOZKCAYKdg-t1374.44", "text": "It turns out that the vast majority of tumors actually express the CD47 receptor and IRV", "start": 1374.44, "end": 1379.96}
+{"id": "XkOZKCAYKdg-t1379.96", "text": "has been having some pretty substantial success and it's now running some large clinical", "start": 1379.96, "end": 1383.4}
+{"id": "XkOZKCAYKdg-t1383.4", "text": "studies with inhibitors of the CD47 receptor just to see whether we can \u2013 so that's", "start": 1383.4, "end": 1390.2}
+{"id": "XkOZKCAYKdg-t1390.2", "text": "an example where it would be very difficult for your own immune system to play a role", "start": 1390.2, "end": 1396.4}
+{"id": "XkOZKCAYKdg-t1396.4", "text": "because it's really \u2013 there's nothing to attack.", "start": 1396.4, "end": 1398.8400000000001}
+{"id": "XkOZKCAYKdg-t1398.8400000000001", "text": "You know, the essentially the tumor is invisible.", "start": 1398.8400000000001, "end": 1401.3200000000002}
+{"id": "XkOZKCAYKdg-t1401.32", "text": "So it doesn't matter whether your immune system is suppressed or not.", "start": 1401.32, "end": 1404.36}
+{"id": "XkOZKCAYKdg-t1404.36", "text": "Just tumor is like thin air.", "start": 1404.36, "end": 1408.36}
+{"id": "XkOZKCAYKdg-t1408.36", "text": "But if the tumor becomes visible where you essentially for instance in proliferative tumors", "start": 1408.36, "end": 1411.84}
+{"id": "XkOZKCAYKdg-t1411.84", "text": "where you have less immunosuppression then it may be possible that what Susan was saying", "start": 1411.84, "end": 1417.12}
+{"id": "XkOZKCAYKdg-t1417.12", "text": "may play a big role.", "start": 1417.12, "end": 1418.12}
+{"id": "XkOZKCAYKdg-t1418.12", "text": "So in fact I think many people wonder what the nutrition plays a role in cancer and that's", "start": 1418.12, "end": 1423.72}
+{"id": "XkOZKCAYKdg-t1423.72", "text": "another aspect I think that of eating healthily and sort of, you know, so far the reasons", "start": 1423.72, "end": 1429.3999999999999}
+{"id": "XkOZKCAYKdg-t1429.4", "text": "of the glucose metabolism.", "start": 1429.4, "end": 1431.4}
+{"id": "XkOZKCAYKdg-t1431.4", "text": "I think there's definitely a good reason is that one clearly recognized fact is the", "start": 1431.4, "end": 1438.48}
+{"id": "XkOZKCAYKdg-t1438.48", "text": "metabolism of a tumor cell is very different from a normal cell.", "start": 1438.48, "end": 1443.68}
+{"id": "XkOZKCAYKdg-t1443.68", "text": "And because the tumor cells you would think that they are more powerful but actually if", "start": 1443.68, "end": 1451.3200000000002}
+{"id": "XkOZKCAYKdg-t1451.3200000000002", "text": "you remove these tumor cells and take it out they die very quickly.", "start": 1451.3200000000002, "end": 1455.4}
+{"id": "XkOZKCAYKdg-t1455.4", "text": "They are much more dependent on certain type of metabolism.", "start": 1455.4, "end": 1460.3200000000002}
+{"id": "XkOZKCAYKdg-t1460.3200000000002", "text": "So one of the ways now thinking about attacking tumor and sparing a normal cell is actually", "start": 1460.3200000000002, "end": 1468.0800000000002}
+{"id": "XkOZKCAYKdg-t1468.0800000000002", "text": "attacking the cancer metabolism.", "start": 1468.0800000000002, "end": 1470.76}
+{"id": "XkOZKCAYKdg-t1470.76", "text": "We're not there yet but there's a direction.", "start": 1470.76, "end": 1473.2800000000002}
+{"id": "XkOZKCAYKdg-t1473.2800000000002", "text": "The reason I want to bring this up again is the fact that all the things that you've", "start": 1473.2800000000002, "end": 1478.68}
+{"id": "XkOZKCAYKdg-t1478.68", "text": "mentioned and you mentioned about a cell cycle because we study that at some point it's", "start": 1478.68, "end": 1484.6000000000001}
+{"id": "XkOZKCAYKdg-t1484.6", "text": "actually integrated at metabolism it's like a real stat because that's the central sort", "start": 1484.6, "end": 1494.28}
+{"id": "XkOZKCAYKdg-t1494.28", "text": "of business wheel of a cell.", "start": 1494.28, "end": 1497.0}
+{"id": "XkOZKCAYKdg-t1497.0", "text": "It gives you energy, it gives you resources to generate manganese so a mother cancer cell", "start": 1497.0, "end": 1505.6799999999998}
+{"id": "XkOZKCAYKdg-t1505.6799999999998", "text": "can divide into two daughters cell.", "start": 1505.6799999999998, "end": 1508.7199999999998}
+{"id": "XkOZKCAYKdg-t1508.7199999999998", "text": "Without this the cancer cell will die and this is a very important thing.", "start": 1508.7199999999998, "end": 1513.12}
+{"id": "XkOZKCAYKdg-t1513.12", "text": "And I think what is also important is the way that if unless a patient is not treated", "start": 1513.12, "end": 1521.36}
+{"id": "XkOZKCAYKdg-t1521.36", "text": "otherwise when patients treat it often times the dose is too high, the drug and that high", "start": 1521.36, "end": 1529.36}
+{"id": "XkOZKCAYKdg-t1529.36", "text": "dose itself induces stress.", "start": 1529.36, "end": 1532.4799999999998}
+{"id": "XkOZKCAYKdg-t1532.4799999999998", "text": "And I think that's the direction that we are actually designing clinical trial beginning", "start": 1532.4799999999998, "end": 1539.34}
+{"id": "XkOZKCAYKdg-t1539.34", "text": "to think about this because sometimes the consequence of those high dose is worse than", "start": 1539.34, "end": 1547.48}
+{"id": "XkOZKCAYKdg-t1547.48", "text": "the benefit of it.", "start": 1547.48, "end": 1549.08}
+{"id": "XkOZKCAYKdg-t1549.08", "text": "And one major thing is interfering with metabolism tremendously in a bad way and the other is", "start": 1549.08, "end": 1555.84}
+{"id": "XkOZKCAYKdg-t1555.84", "text": "induced stress.", "start": 1555.84, "end": 1557.76}
+{"id": "XkOZKCAYKdg-t1557.76", "text": "I think this is a very, I think this stress and immune system are not separable.", "start": 1557.76, "end": 1563.9599999999998}
+{"id": "XkOZKCAYKdg-t1563.9599999999998", "text": "These two things are almost integrated.", "start": 1563.9599999999998, "end": 1566.76}
+{"id": "XkOZKCAYKdg-t1566.76", "text": "Is there another reason actually that started to come out just now of why for instance using", "start": 1566.76, "end": 1572.8}
+{"id": "XkOZKCAYKdg-t1572.8", "text": "drugs in ways that sort of overwhelm maybe negative positive is that drugs essentially", "start": 1572.8, "end": 1580.84}
+{"id": "XkOZKCAYKdg-t1580.84", "text": "a pressure on the cancer system and as a pressure typical evolutionary system it promotes", "start": 1580.84, "end": 1588.52}
+{"id": "XkOZKCAYKdg-t1588.52", "text": "essentially survival of certain clones, essentially some cells that have specific characteristics", "start": 1588.52, "end": 1593.56}
+{"id": "XkOZKCAYKdg-t1593.56", "text": "and kills the ones that don't have those characteristics.", "start": 1593.56, "end": 1596.16}
+{"id": "XkOZKCAYKdg-t1596.16", "text": "Because the ones that have the survival characteristics are much worse cells than the ones that", "start": 1596.16, "end": 1600.48}
+{"id": "XkOZKCAYKdg-t1600.48", "text": "get killed.", "start": 1600.48, "end": 1601.48}
+{"id": "XkOZKCAYKdg-t1601.48", "text": "And so you're basically, you're creating an environment where the absolute worst cells", "start": 1601.48, "end": 1605.4}
+{"id": "XkOZKCAYKdg-t1605.4", "text": "that would then give you a very aggressive tumor are now given total empty space to survive", "start": 1605.4, "end": 1613.76}
+{"id": "XkOZKCAYKdg-t1613.76", "text": "and to proliferate.", "start": 1613.76, "end": 1614.76}
+{"id": "XkOZKCAYKdg-t1614.76", "text": "And so what happens very frequently for instance is that you see that these tumors are initially", "start": 1614.76, "end": 1619.0}
+{"id": "XkOZKCAYKdg-t1619.0", "text": "shrink significantly after you get a particular treatment but then the tumor that comes up", "start": 1619.0, "end": 1625.28}
+{"id": "XkOZKCAYKdg-t1625.28", "text": "after that becomes extremely aggressive and actually kills the patient very, very rapidly.", "start": 1625.28, "end": 1629.76}
+{"id": "XkOZKCAYKdg-t1629.76", "text": "So these are things that we're just starting to understand.", "start": 1629.76, "end": 1632.76}
+{"id": "XkOZKCAYKdg-t1632.76", "text": "In fact I think almost invariably anyone who unfortunately get diagnosed the initial treatment", "start": 1632.76, "end": 1642.36}
+{"id": "XkOZKCAYKdg-t1642.36", "text": "always work a little bit and sometimes work very well.", "start": 1642.36, "end": 1646.04}
+{"id": "XkOZKCAYKdg-t1646.04", "text": "The time that's very difficult and very challenging sometimes is hopeless is a relapse.", "start": 1646.04, "end": 1654.36}
+{"id": "XkOZKCAYKdg-t1654.36", "text": "So I think what we really have to understand is how the progression leads to that relapse", "start": 1654.36, "end": 1661.76}
+{"id": "XkOZKCAYKdg-t1661.76", "text": "and all these factors whether it's stress, whether it's nutrition, whether it's support", "start": 1661.76, "end": 1667.08}
+{"id": "XkOZKCAYKdg-t1667.08", "text": "because I think support is not only for cancer.", "start": 1667.08, "end": 1670.4799999999998}
+{"id": "XkOZKCAYKdg-t1670.4799999999998", "text": "Anyone who has childbirth would like to have support.", "start": 1670.4799999999998, "end": 1673.32}
+{"id": "XkOZKCAYKdg-t1673.32", "text": "All these factors are universal.", "start": 1673.32, "end": 1675.32}
+{"id": "XkOZKCAYKdg-t1675.32", "text": "They're not just for cancer alone.", "start": 1675.32, "end": 1677.32}
+{"id": "XkOZKCAYKdg-t1677.32", "text": "It's the entire well-being of the individual.", "start": 1677.32, "end": 1680.56}
+{"id": "XkOZKCAYKdg-t1680.56", "text": "And I think for cancer I think probably the most important thing is to really understand", "start": 1680.56, "end": 1687.3999999999999}
+{"id": "XkOZKCAYKdg-t1687.3999999999999", "text": "and everybody's different.", "start": 1687.3999999999999, "end": 1689.28}
+{"id": "XkOZKCAYKdg-t1689.28", "text": "I'm sure you know this too.", "start": 1689.28, "end": 1691.1599999999999}
+{"id": "XkOZKCAYKdg-t1691.1599999999999", "text": "We do genomic sequencing and you take the normal cell from a cancer patient and we do", "start": 1691.1599999999999, "end": 1696.48}
+{"id": "XkOZKCAYKdg-t1696.48", "text": "this all the time.", "start": 1696.48, "end": 1698.12}
+{"id": "XkOZKCAYKdg-t1698.12", "text": "And you ask how many mutations, you know, normal cells.", "start": 1698.12, "end": 1701.48}
+{"id": "XkOZKCAYKdg-t1701.48", "text": "I bet you will have a million and I have a million, you have over a million.", "start": 1701.48, "end": 1705.56}
+{"id": "XkOZKCAYKdg-t1705.56", "text": "But you're okay.", "start": 1705.56, "end": 1707.12}
+{"id": "XkOZKCAYKdg-t1707.12", "text": "And what is different is what's the difference between your two more cells and normal cells.", "start": 1707.12, "end": 1711.8799999999999}
+{"id": "XkOZKCAYKdg-t1711.8799999999999", "text": "So I think ultimately to really get very deeply, we sort of have to recognize the individual.", "start": 1711.8799999999999, "end": 1720.08}
+{"id": "XkOZKCAYKdg-t1720.08", "text": "Every person is different and to really understand that deeper in order to integrate all this", "start": 1720.08, "end": 1725.08}
+{"id": "XkOZKCAYKdg-t1725.08", "text": "information and get to it.", "start": 1725.08, "end": 1727.2399999999998}
+{"id": "XkOZKCAYKdg-t1727.2399999999998", "text": "Otherwise we're going around the circle because until today cancer in most cases is not curable", "start": 1727.2399999999998, "end": 1733.8}
+{"id": "XkOZKCAYKdg-t1733.8", "text": "because we're going around the circle.", "start": 1733.8, "end": 1736.04}
+{"id": "XkOZKCAYKdg-t1736.04", "text": "And I think it's pretty important.", "start": 1736.04, "end": 1737.92}
+{"id": "XkOZKCAYKdg-t1737.92", "text": "But we have the tools now, right?", "start": 1737.92, "end": 1739.96}
+{"id": "XkOZKCAYKdg-t1739.96", "text": "We have a lot of tools.", "start": 1739.96, "end": 1742.1599999999999}
+{"id": "XkOZKCAYKdg-t1742.1599999999999", "text": "Incredible tools.", "start": 1742.1599999999999, "end": 1743.1599999999999}
+{"id": "XkOZKCAYKdg-t1743.1599999999999", "text": "There's also a lot of promise because I would say five years ago we don't have all these", "start": 1743.1599999999999, "end": 1749.2}
+{"id": "XkOZKCAYKdg-t1749.2", "text": "targeted agents.", "start": 1749.2, "end": 1750.8799999999999}
+{"id": "XkOZKCAYKdg-t1750.8799999999999", "text": "We have no ability to deal with some more number of cancer cells.", "start": 1750.8799999999999, "end": 1756.2}
+{"id": "XkOZKCAYKdg-t1756.2", "text": "But I think we do.", "start": 1756.2, "end": 1757.2}
+{"id": "XkOZKCAYKdg-t1757.2", "text": "We have a lot of systems, biology, everything to help us deal with that.", "start": 1757.2, "end": 1762.04}
+{"id": "XkOZKCAYKdg-t1762.04", "text": "I think it's a very interesting point right now because I'm actually quite skeptical towards", "start": 1762.04, "end": 1767.8799999999999}
+{"id": "XkOZKCAYKdg-t1767.8799999999999", "text": "targeted agents that go after a specific oncogen simply because, you know, typical examples", "start": 1767.8799999999999, "end": 1773.3999999999999}
+{"id": "XkOZKCAYKdg-t1773.3999999999999", "text": "be rough, right?", "start": 1773.3999999999999, "end": 1774.56}
+{"id": "XkOZKCAYKdg-t1774.56", "text": "So every one of our...", "start": 1774.56, "end": 1775.56}
+{"id": "XkOZKCAYKdg-t1775.56", "text": "But the combination of therapies ultimately need it.", "start": 1775.56, "end": 1778.96}
+{"id": "XkOZKCAYKdg-t1778.96", "text": "Exactly.", "start": 1778.96, "end": 1779.96}
+{"id": "XkOZKCAYKdg-t1779.96", "text": "But also I think we need to hit...", "start": 1779.96, "end": 1782.44}
+{"id": "XkOZKCAYKdg-t1782.44", "text": "Right now we're concentrating on the oncogenes.", "start": 1782.44, "end": 1784.56}
+{"id": "XkOZKCAYKdg-t1784.56", "text": "I think we need to find very much like your work, we have to find the non-oncogenes that", "start": 1784.56, "end": 1788.96}
+{"id": "XkOZKCAYKdg-t1788.96", "text": "are the Achilles heel of the tumor.", "start": 1788.96, "end": 1792.0}
+{"id": "XkOZKCAYKdg-t1792.0", "text": "And for instance, a typical example you were mentioning about the fact that we have cells,", "start": 1792.0, "end": 1796.04}
+{"id": "XkOZKCAYKdg-t1796.04", "text": "normal cells that have ulcerous mutation.", "start": 1796.04, "end": 1798.44}
+{"id": "XkOZKCAYKdg-t1798.44", "text": "Well the most famous one is BRAF, which is a mutation in melanoma.", "start": 1798.44, "end": 1801.92}
+{"id": "XkOZKCAYKdg-t1801.92", "text": "It's basically over 50% of melatonin have these mutations in this gene.", "start": 1801.92, "end": 1805.92}
+{"id": "XkOZKCAYKdg-t1805.92", "text": "A very specific point of the BRAF protein.", "start": 1805.92, "end": 1811.96}
+{"id": "XkOZKCAYKdg-t1811.96", "text": "But all our nevi have BRAF mutation.", "start": 1811.96, "end": 1814.28}
+{"id": "XkOZKCAYKdg-t1814.28", "text": "But they're not tumors.", "start": 1814.28, "end": 1815.28}
+{"id": "XkOZKCAYKdg-t1815.28", "text": "They're just normal cells.", "start": 1815.28, "end": 1817.08}
+{"id": "XkOZKCAYKdg-t1817.08", "text": "So clearly it can be just BRAF alone.", "start": 1817.08, "end": 1820.16}
+{"id": "XkOZKCAYKdg-t1820.16", "text": "And so when you look at the tumor, the big problem is that every single cell of the tumor", "start": 1820.16, "end": 1824.72}
+{"id": "XkOZKCAYKdg-t1824.72", "text": "is different.", "start": 1824.72, "end": 1825.72}
+{"id": "XkOZKCAYKdg-t1825.72", "text": "Why?", "start": 1825.72, "end": 1826.72}
+{"id": "XkOZKCAYKdg-t1826.72", "text": "Because the very first event that goes wrong in the tumor is called loss of a tumor suppressor,", "start": 1826.72, "end": 1831.24}
+{"id": "XkOZKCAYKdg-t1831.24", "text": "which means that your tumor starts accumulating mutations much faster than your normal cells.", "start": 1831.24, "end": 1836.4}
+{"id": "XkOZKCAYKdg-t1836.4", "text": "And when you do that, essentially every tumor cell accumulates different mutations.", "start": 1836.4, "end": 1840.72}
+{"id": "XkOZKCAYKdg-t1840.72", "text": "So I think one of the major difficulties, and when you talk about relapse being the major", "start": 1840.72, "end": 1844.16}
+{"id": "XkOZKCAYKdg-t1844.16", "text": "problem, is that what drugs do, they hit the part of the tumor they can't hit.", "start": 1844.16, "end": 1849.5600000000002}
+{"id": "XkOZKCAYKdg-t1849.56", "text": "And whatever is left out that doesn't respond to the drug emerges and no longer sensitive", "start": 1849.56, "end": 1854.28}
+{"id": "XkOZKCAYKdg-t1854.28", "text": "to the drug.", "start": 1854.28, "end": 1855.9199999999998}
+{"id": "XkOZKCAYKdg-t1855.9199999999998", "text": "So I think what we need to figure out, and we actually published a paper today's ago", "start": 1855.9199999999998, "end": 1860.04}
+{"id": "XkOZKCAYKdg-t1860.04", "text": "in Cell showing that there are these sort of bottlenecks in the regulatory system of", "start": 1860.04, "end": 1865.32}
+{"id": "XkOZKCAYKdg-t1865.32", "text": "the tumors where all these mutations that you could try to hit with individual drugs", "start": 1865.32, "end": 1869.52}
+{"id": "XkOZKCAYKdg-t1869.52", "text": "are actually all converging and they have to go through just a small number of proteins.", "start": 1869.52, "end": 1874.3999999999999}
+{"id": "XkOZKCAYKdg-t1874.3999999999999", "text": "And we think very strongly that those are the proteins you want to hit.", "start": 1874.3999999999999, "end": 1877.6399999999999}
+{"id": "XkOZKCAYKdg-t1877.64", "text": "For instance in prostate cancer, it doesn't matter which genes you have mutated.", "start": 1877.64, "end": 1882.88}
+{"id": "XkOZKCAYKdg-t1882.88", "text": "In order to have the aggressive form of prostate cancer that will actually kill the patient", "start": 1882.88, "end": 1886.16}
+{"id": "XkOZKCAYKdg-t1886.16", "text": "and become undergens independent and become metastatic, you have to have co-activation", "start": 1886.16, "end": 1891.5600000000002}
+{"id": "XkOZKCAYKdg-t1891.5600000000002", "text": "of two proteins, one called FOXM1 and one called CMPF.", "start": 1891.5600000000002, "end": 1894.8400000000001}
+{"id": "XkOZKCAYKdg-t1894.8400000000001", "text": "If you don't have the super-activated, you will not get the aggressive prostate cancer.", "start": 1894.8400000000001, "end": 1898.48}
+{"id": "XkOZKCAYKdg-t1898.48", "text": "If you have them activated, you will get aggressive prostate cancer.", "start": 1898.48, "end": 1901.24}
+{"id": "XkOZKCAYKdg-t1901.24", "text": "So instead of hitting the oncogen upstream, where of which many can be differently mutated", "start": 1901.24, "end": 1907.24}
+{"id": "XkOZKCAYKdg-t1907.24", "text": "in different cancer cells within the same tumor, if you hit those two proteins, you're", "start": 1907.24, "end": 1911.1200000000001}
+{"id": "XkOZKCAYKdg-t1911.1200000000001", "text": "going to be in a much better shape.", "start": 1911.1200000000001, "end": 1912.76}
+{"id": "XkOZKCAYKdg-t1912.76", "text": "I think these are concepts that are just starting to be developed and it will be a long time", "start": 1912.76, "end": 1916.36}
+{"id": "XkOZKCAYKdg-t1916.36", "text": "before we apply them to the plane.", "start": 1916.36, "end": 1919.76}
+{"id": "XkOZKCAYKdg-t1919.76", "text": "I think if every cancer is parallel in this type of understanding, then we can begin to", "start": 1919.76, "end": 1928.4}
+{"id": "XkOZKCAYKdg-t1928.4", "text": "elevate our total understanding.", "start": 1928.4, "end": 1930.72}
+{"id": "XkOZKCAYKdg-t1930.72", "text": "I think that's very necessary.", "start": 1930.72, "end": 1933.4}
+{"id": "XkOZKCAYKdg-t1933.4", "text": "Unfortunately, we do have much better tools than we did before.", "start": 1933.4, "end": 1940.24}
+{"id": "XkOZKCAYKdg-t1940.24", "text": "In the last five years, things really, really move.", "start": 1940.24, "end": 1944.2}
+{"id": "XkOZKCAYKdg-t1944.2", "text": "So that's the hope.", "start": 1944.2, "end": 1945.2}
+{"id": "XkOZKCAYKdg-t1945.2", "text": "I think we can say that.", "start": 1945.2, "end": 1948.52}
+{"id": "XkOZKCAYKdg-t1948.52", "text": "It's very exciting.", "start": 1948.52, "end": 1950.72}
+{"id": "XkOZKCAYKdg-t1950.72", "text": "But the part that I do feel is important is anyone who is really trying to understand", "start": 1950.72, "end": 1957.64}
+{"id": "XkOZKCAYKdg-t1957.64", "text": "the cancer do have to consider what a normal cell does.", "start": 1957.64, "end": 1962.92}
+{"id": "XkOZKCAYKdg-t1962.92", "text": "Otherwise, we don't have the differential between tumor and normal.", "start": 1962.92, "end": 1968.1200000000001}
+{"id": "XkOZKCAYKdg-t1968.1200000000001", "text": "I think that's very important.", "start": 1968.1200000000001, "end": 1970.04}
+{"id": "XkOZKCAYKdg-t1970.04", "text": "After all, at the end, we are wanting to preserve is a normal and not the cancer.", "start": 1970.04, "end": 1976.28}
+{"id": "XkOZKCAYKdg-t1976.28", "text": "So what do you think?", "start": 1976.28, "end": 1978.28}
+{"id": "XkOZKCAYKdg-t1978.28", "text": "What do I think?", "start": 1978.28, "end": 1980.28}
+{"id": "XkOZKCAYKdg-t1980.28", "text": "Yeah, so the topic here is, what's the topic?", "start": 1980.28, "end": 1984.3600000000001}
+{"id": "XkOZKCAYKdg-t1984.3600000000001", "text": "Mind and cancer, right?", "start": 1984.3600000000001, "end": 1985.88}
+{"id": "XkOZKCAYKdg-t1985.88", "text": "In my view of how cancer rises, it's a population of cells that sit in your bone marrow or wherever", "start": 1985.88, "end": 1993.2}
+{"id": "XkOZKCAYKdg-t1993.2", "text": "in your lung that escape all the normal control mechanisms.", "start": 1993.2, "end": 1998.1200000000001}
+{"id": "XkOZKCAYKdg-t1998.1200000000001", "text": "So cells that are in your bone marrow and that make blood cells that are tightly controlled", "start": 1998.1200000000001, "end": 2002.8400000000001}
+{"id": "XkOZKCAYKdg-t2002.8400000000001", "text": "by cytokines and factors in the environment.", "start": 2002.8400000000001, "end": 2005.92}
+{"id": "XkOZKCAYKdg-t2005.92", "text": "The metabolism is controlled.", "start": 2005.92, "end": 2008.3200000000002}
+{"id": "XkOZKCAYKdg-t2008.3200000000002", "text": "Everything is tightly regulated.", "start": 2008.3200000000002, "end": 2010.48}
+{"id": "XkOZKCAYKdg-t2010.48", "text": "And maybe your psychology even affects the ability to do things.", "start": 2010.48, "end": 2015.8000000000002}
+{"id": "XkOZKCAYKdg-t2015.8", "text": "The cells lose all of that control.", "start": 2015.8, "end": 2018.48}
+{"id": "XkOZKCAYKdg-t2018.48", "text": "They bypass it step by step.", "start": 2018.48, "end": 2020.84}
+{"id": "XkOZKCAYKdg-t2020.84", "text": "They become independent of growth factors.", "start": 2020.84, "end": 2023.32}
+{"id": "XkOZKCAYKdg-t2023.32", "text": "They survive self-stress that a normal cell can't survive.", "start": 2023.32, "end": 2027.8}
+{"id": "XkOZKCAYKdg-t2027.8", "text": "Their metabolism becomes completely disconnected from any outside stimulus or even the availability", "start": 2027.8, "end": 2033.72}
+{"id": "XkOZKCAYKdg-t2033.72", "text": "of nutrients.", "start": 2033.72, "end": 2035.32}
+{"id": "XkOZKCAYKdg-t2035.32", "text": "They become like yeast on a petri dish.", "start": 2035.32, "end": 2040.24}
+{"id": "XkOZKCAYKdg-t2040.24", "text": "And so I think an important point for me in the discussion here is to discuss how does", "start": 2040.24, "end": 2046.36}
+{"id": "XkOZKCAYKdg-t2046.36", "text": "the mind affect cancer and vice versa.", "start": 2046.36, "end": 2049.04}
+{"id": "XkOZKCAYKdg-t2049.04", "text": "Cancer are sort of population of cells that tries to escape from any outside influence.", "start": 2049.04, "end": 2055.6}
+{"id": "XkOZKCAYKdg-t2055.6", "text": "They become rogue.", "start": 2055.6, "end": 2057.16}
+{"id": "XkOZKCAYKdg-t2057.16", "text": "They become terrorists who say, you know, we are out of your reach.", "start": 2057.16, "end": 2062.16}
+{"id": "XkOZKCAYKdg-t2062.16", "text": "Don't talk to us.", "start": 2062.16, "end": 2063.72}
+{"id": "XkOZKCAYKdg-t2063.72", "text": "They escape the immune system by losing genes or proteins.", "start": 2063.72, "end": 2068.68}
+{"id": "XkOZKCAYKdg-t2068.68", "text": "The immune system may be able to recognize.", "start": 2068.68, "end": 2070.96}
+{"id": "XkOZKCAYKdg-t2070.96", "text": "They throw them away.", "start": 2070.96, "end": 2071.96}
+{"id": "XkOZKCAYKdg-t2071.96", "text": "So there's a very strong selection for losing any kind of control and becoming rogue cells.", "start": 2071.96, "end": 2080.52}
+{"id": "XkOZKCAYKdg-t2080.52", "text": "So they escape these control mechanisms.", "start": 2080.52, "end": 2084.3999999999996}
+{"id": "XkOZKCAYKdg-t2084.3999999999996", "text": "Physiological, immunological, maybe psychological.", "start": 2084.3999999999996, "end": 2089.7999999999997}
+{"id": "XkOZKCAYKdg-t2089.7999999999997", "text": "And with therapies, I think now our discussion is sort of going to the genes inside the cancer", "start": 2089.7999999999997, "end": 2094.52}
+{"id": "XkOZKCAYKdg-t2094.52", "text": "and how we may be able to target them.", "start": 2094.52, "end": 2097.3999999999996}
+{"id": "XkOZKCAYKdg-t2097.4", "text": "And I think that reflects the fact that these cancers use these mechanisms to become independent.", "start": 2097.4, "end": 2103.08}
+{"id": "XkOZKCAYKdg-t2103.08", "text": "And we have some tools to target and to try to restore some dependence on outside factors.", "start": 2103.08, "end": 2111.7200000000003}
+{"id": "XkOZKCAYKdg-t2111.7200000000003", "text": "Right.", "start": 2111.7200000000003, "end": 2112.7200000000003}
+{"id": "XkOZKCAYKdg-t2112.7200000000003", "text": "But last night you were saying something that you implied that you were more pessimistic", "start": 2112.7200000000003, "end": 2119.1600000000003}
+{"id": "XkOZKCAYKdg-t2119.1600000000003", "text": "about an outside treatment.", "start": 2119.1600000000003, "end": 2122.8}
+{"id": "XkOZKCAYKdg-t2122.8", "text": "No, you asked me a very pointed question whether we can eradicate cancer, which is sort of", "start": 2122.8, "end": 2131.36}
+{"id": "XkOZKCAYKdg-t2131.36", "text": "as a question like, can we overcome death?", "start": 2131.36, "end": 2135.6800000000003}
+{"id": "XkOZKCAYKdg-t2135.6800000000003", "text": "Right?", "start": 2135.6800000000003, "end": 2136.92}
+{"id": "XkOZKCAYKdg-t2136.92", "text": "I mean, in a way, that's one way you can understand a question.", "start": 2136.92, "end": 2142.4}
+{"id": "XkOZKCAYKdg-t2142.4", "text": "You can ask, can a given patient survive cancer?", "start": 2142.4, "end": 2146.48}
+{"id": "XkOZKCAYKdg-t2146.48", "text": "And we have great drugs.", "start": 2146.48, "end": 2147.48}
+{"id": "XkOZKCAYKdg-t2147.48", "text": "Can we eradicate cancer?", "start": 2147.48, "end": 2148.92}
+{"id": "XkOZKCAYKdg-t2148.92", "text": "Can we?", "start": 2148.92, "end": 2149.92}
+{"id": "XkOZKCAYKdg-t2149.92", "text": "No.", "start": 2149.92, "end": 2150.92}
+{"id": "XkOZKCAYKdg-t2150.92", "text": "But why do you compare cancer to that?", "start": 2150.92, "end": 2153.64}
+{"id": "XkOZKCAYKdg-t2153.64", "text": "Why don't we be eradicated, for example, smallpox?", "start": 2153.64, "end": 2157.2400000000002}
+{"id": "XkOZKCAYKdg-t2157.2400000000002", "text": "So you immediately equate, we can't eradicate cancer because we can't eradicate death.", "start": 2157.2400000000002, "end": 2164.8}
+{"id": "XkOZKCAYKdg-t2164.8", "text": "Why do you make that connection?", "start": 2164.8, "end": 2168.96}
+{"id": "XkOZKCAYKdg-t2168.96", "text": "Cancer is part of our biology.", "start": 2168.96, "end": 2171.0}
+{"id": "XkOZKCAYKdg-t2171.0", "text": "It's built in.", "start": 2171.0, "end": 2172.0}
+{"id": "XkOZKCAYKdg-t2172.0", "text": "That's what I was asking you to elaborate.", "start": 2172.0, "end": 2174.4}
+{"id": "XkOZKCAYKdg-t2174.4", "text": "It's built into our biology.", "start": 2174.4, "end": 2178.92}
+{"id": "XkOZKCAYKdg-t2178.92", "text": "There is, we, just by breathing oxygen, you are going to accumulate mutations.", "start": 2178.92, "end": 2185.36}
+{"id": "XkOZKCAYKdg-t2185.36", "text": "Oxygen is very toxic, in fact.", "start": 2185.36, "end": 2186.6800000000003}
+{"id": "XkOZKCAYKdg-t2186.6800000000003", "text": "But you can't live without it.", "start": 2186.6800000000003, "end": 2188.56}
+{"id": "XkOZKCAYKdg-t2188.56", "text": "Right?", "start": 2188.56, "end": 2189.56}
+{"id": "XkOZKCAYKdg-t2189.56", "text": "Yeah, we need it.", "start": 2189.56, "end": 2191.16}
+{"id": "XkOZKCAYKdg-t2191.16", "text": "I think that we-", "start": 2191.16, "end": 2192.16}
+{"id": "XkOZKCAYKdg-t2192.16", "text": "So you accumulate these mutations and they have an advantage.", "start": 2192.16, "end": 2195.88}
+{"id": "XkOZKCAYKdg-t2195.88", "text": "Without accumulating mutations, we would still be single organisms somewhere in a little", "start": 2195.88, "end": 2202.52}
+{"id": "XkOZKCAYKdg-t2202.52", "text": "puddle of the coast of who knows where.", "start": 2202.52, "end": 2205.88}
+{"id": "XkOZKCAYKdg-t2205.88", "text": "Right?", "start": 2205.88, "end": 2206.88}
+{"id": "XkOZKCAYKdg-t2206.88", "text": "We would not come off the trees.", "start": 2206.88, "end": 2208.56}
+{"id": "XkOZKCAYKdg-t2208.56", "text": "So evolution requires some versatility, some flexibility.", "start": 2208.56, "end": 2214.16}
+{"id": "XkOZKCAYKdg-t2214.16", "text": "There has to be a way that you can mutagenize genes, that you can change things in a germ", "start": 2214.16, "end": 2218.64}
+{"id": "XkOZKCAYKdg-t2218.64", "text": "line and by extension or zen somatic tissues and so on.", "start": 2218.64, "end": 2223.48}
+{"id": "XkOZKCAYKdg-t2223.48", "text": "So that versatility I think comes at a price.", "start": 2223.48, "end": 2229.44}
+{"id": "XkOZKCAYKdg-t2229.44", "text": "So whatever is the evolution of a species is also the evolution of cells.", "start": 2229.44, "end": 2236.4}
+{"id": "XkOZKCAYKdg-t2236.4", "text": "And cancer is evolution of cells, gone rogue, evolution of cells that decided we don't need", "start": 2236.4, "end": 2243.28}
+{"id": "XkOZKCAYKdg-t2243.28", "text": "the rest of you.", "start": 2243.28, "end": 2244.28}
+{"id": "XkOZKCAYKdg-t2244.28", "text": "I think following that point is that to have mutation accumulate, again, you need to", "start": 2244.28, "end": 2254.36}
+{"id": "XkOZKCAYKdg-t2254.36", "text": "mutate the cells to divide.", "start": 2254.36, "end": 2256.1600000000003}
+{"id": "XkOZKCAYKdg-t2256.1600000000003", "text": "Otherwise, you will not increase the population.", "start": 2256.1600000000003, "end": 2260.0}
+{"id": "XkOZKCAYKdg-t2260.0", "text": "And for cells in immune system, they are different from other cells in a way that they", "start": 2260.0, "end": 2268.64}
+{"id": "XkOZKCAYKdg-t2268.64", "text": "have this continuous ability to rearrange their DNA.", "start": 2268.64, "end": 2273.72}
+{"id": "XkOZKCAYKdg-t2273.72", "text": "And as a result, the frequency of making a mistake is a lot higher.", "start": 2273.72, "end": 2278.36}
+{"id": "XkOZKCAYKdg-t2278.36", "text": "So this obviously is the division and the selection.", "start": 2278.36, "end": 2283.76}
+{"id": "XkOZKCAYKdg-t2283.76", "text": "There is a parallel between selection for the fittest and the cancer, that's for sure.", "start": 2283.76, "end": 2291.8}
+{"id": "XkOZKCAYKdg-t2291.8", "text": "But I just want to point out that in terms of eradicating cancer, correct, we are not", "start": 2291.8, "end": 2298.6000000000004}
+{"id": "XkOZKCAYKdg-t2298.6000000000004", "text": "anywhere near eradicating all the cancers, but some cancers are cured compared with what", "start": 2298.6000000000004, "end": 2305.1600000000003}
+{"id": "XkOZKCAYKdg-t2305.1600000000003", "text": "it was 20 years ago.", "start": 2305.1600000000003, "end": 2307.44}
+{"id": "XkOZKCAYKdg-t2307.44", "text": "That is correct.", "start": 2307.44, "end": 2308.7200000000003}
+{"id": "XkOZKCAYKdg-t2308.7200000000003", "text": "So I think we have to look at different cancer in different ways.", "start": 2308.7200000000003, "end": 2312.6400000000003}
+{"id": "XkOZKCAYKdg-t2312.64", "text": "For example, pancreatic cancer is extremely challenging.", "start": 2312.64, "end": 2316.8399999999997}
+{"id": "XkOZKCAYKdg-t2316.8399999999997", "text": "But childhood leukemia, you can treat it.", "start": 2316.8399999999997, "end": 2320.3199999999997}
+{"id": "XkOZKCAYKdg-t2320.3199999999997", "text": "And the cure rate is very high.", "start": 2320.3199999999997, "end": 2322.6}
+{"id": "XkOZKCAYKdg-t2322.6", "text": "So I think we have to look at specific, we cannot draw a...", "start": 2322.6, "end": 2326.24}
+{"id": "XkOZKCAYKdg-t2326.24", "text": "I think your question of can we eradicate cancer?", "start": 2326.24, "end": 2328.96}
+{"id": "XkOZKCAYKdg-t2328.96", "text": "It would be translated into can we eradicate infection diseases?", "start": 2328.96, "end": 2332.48}
+{"id": "XkOZKCAYKdg-t2332.48", "text": "Not can we eradicate smallpox, because smallpox is just one type of infection disease.", "start": 2332.48, "end": 2337.3599999999997}
+{"id": "XkOZKCAYKdg-t2337.3599999999997", "text": "If you look at the stickular cancer, chorionic cancer, basically, you want to put it close", "start": 2337.3599999999997, "end": 2341.6}
+{"id": "XkOZKCAYKdg-t2341.6", "text": "to one under presentation on cure.", "start": 2341.6, "end": 2343.4}
+{"id": "XkOZKCAYKdg-t2343.4", "text": "So you have eradicated those, but it's still, it's just like saying, yes, smallpox, we have", "start": 2343.4, "end": 2347.42}
+{"id": "XkOZKCAYKdg-t2347.42", "text": "eradicated.", "start": 2347.42, "end": 2348.42}
+{"id": "XkOZKCAYKdg-t2348.42", "text": "Well, but the idea I think that I found very interesting in the way Gido was talking about", "start": 2348.42, "end": 2355.56}
+{"id": "XkOZKCAYKdg-t2355.56", "text": "it was that, as he said it again today, that unlike an infectious disease where there is", "start": 2355.56, "end": 2363.2799999999997}
+{"id": "XkOZKCAYKdg-t2363.2799999999997", "text": "an outside agent that causes the infection, that the problem with cancer is that it's", "start": 2363.2799999999997, "end": 2368.96}
+{"id": "XkOZKCAYKdg-t2368.96", "text": "essentially inherent in your biology.", "start": 2368.96, "end": 2372.48}
+{"id": "XkOZKCAYKdg-t2372.48", "text": "Even in designing therapies.", "start": 2372.48, "end": 2374.04}
+{"id": "XkOZKCAYKdg-t2374.04", "text": "I mean, Selena just talked about different therapies.", "start": 2374.04, "end": 2376.88}
+{"id": "XkOZKCAYKdg-t2376.88", "text": "Because we all start from a fertilized egg.", "start": 2376.88, "end": 2380.84}
+{"id": "XkOZKCAYKdg-t2380.84", "text": "This egg divides.", "start": 2380.84, "end": 2381.84}
+{"id": "XkOZKCAYKdg-t2381.84", "text": "No, I understand that.", "start": 2381.84, "end": 2382.84}
+{"id": "XkOZKCAYKdg-t2382.84", "text": "And in the process, every division gives a possibility to mutate.", "start": 2382.84, "end": 2390.7200000000003}
+{"id": "XkOZKCAYKdg-t2390.7200000000003", "text": "And the best cells survive, usually those not fit would be eliminated.", "start": 2390.7200000000003, "end": 2396.84}
+{"id": "XkOZKCAYKdg-t2396.84", "text": "But there would be times all of a sudden you have a mutation that has a survival advantage", "start": 2396.84, "end": 2401.88}
+{"id": "XkOZKCAYKdg-t2401.88", "text": "and those are the ones.", "start": 2401.88, "end": 2403.48}
+{"id": "XkOZKCAYKdg-t2403.48", "text": "And all some of the cancer, for example, one cancer called multiple myeloma, it's found", "start": 2403.48, "end": 2410.88}
+{"id": "XkOZKCAYKdg-t2410.88", "text": "in the bone.", "start": 2410.88, "end": 2412.2000000000003}
+{"id": "XkOZKCAYKdg-t2412.2000000000003", "text": "And often the average age of occurrence is very late.", "start": 2412.2000000000003, "end": 2417.0}
+{"id": "XkOZKCAYKdg-t2417.0", "text": "But now we understand that there is a period of time and it's called emgas.", "start": 2417.0, "end": 2423.2400000000002}
+{"id": "XkOZKCAYKdg-t2423.24", "text": "It means monoclonal agomopathy of undetermined significance.", "start": 2423.24, "end": 2428.9199999999996}
+{"id": "XkOZKCAYKdg-t2428.9199999999996", "text": "Why?", "start": 2428.9199999999996, "end": 2429.9199999999996}
+{"id": "XkOZKCAYKdg-t2429.9199999999996", "text": "Because you could actually detect a tiny, tiny bit of something and that could take 20, 30", "start": 2429.9199999999996, "end": 2437.24}
+{"id": "XkOZKCAYKdg-t2437.24", "text": "years to develop.", "start": 2437.24, "end": 2439.6}
+{"id": "XkOZKCAYKdg-t2439.6", "text": "And that's an example.", "start": 2439.6, "end": 2441.12}
+{"id": "XkOZKCAYKdg-t2441.12", "text": "You have something already going wrong, very early on, but there's no general symptom.", "start": 2441.12, "end": 2447.4799999999996}
+{"id": "XkOZKCAYKdg-t2447.48", "text": "And I can imagine during the process, 20, 30 years, the nutrition, the stress, the mind,", "start": 2447.48, "end": 2454.76}
+{"id": "XkOZKCAYKdg-t2454.76", "text": "that everything would definitely influence its progression.", "start": 2454.76, "end": 2457.88}
+{"id": "XkOZKCAYKdg-t2457.88", "text": "So I'm going to take a walk from there and go back to something that you were asking", "start": 2457.88, "end": 2462.0}
+{"id": "XkOZKCAYKdg-t2462.0", "text": "about Ed when you were talking about cancer initiation.", "start": 2462.0, "end": 2466.48}
+{"id": "XkOZKCAYKdg-t2466.48", "text": "And what do we know about how stress affects cancer initiation?", "start": 2466.48, "end": 2472.76}
+{"id": "XkOZKCAYKdg-t2472.76", "text": "Because it takes place during that 20, 30 years or whatever.", "start": 2472.76, "end": 2477.44}
+{"id": "XkOZKCAYKdg-t2477.44", "text": "That's one of the reasons why it's so hard to study because you can get 10,000, 20,000", "start": 2477.44, "end": 2482.84}
+{"id": "XkOZKCAYKdg-t2482.84", "text": "people and a small group of them have gotten cancer.", "start": 2482.84, "end": 2488.12}
+{"id": "XkOZKCAYKdg-t2488.12", "text": "But one of the areas that people are starting to study, which you might be interested in", "start": 2488.12, "end": 2492.56}
+{"id": "XkOZKCAYKdg-t2492.56", "text": "as a psychoanalyst, is what we call early life adversity.", "start": 2492.56, "end": 2497.48}
+{"id": "XkOZKCAYKdg-t2497.48", "text": "Which is going back to how is a person initially set up when their physiological systems are", "start": 2497.48, "end": 2506.76}
+{"id": "XkOZKCAYKdg-t2506.76", "text": "very mutable in a way.", "start": 2506.76, "end": 2511.1200000000003}
+{"id": "XkOZKCAYKdg-t2511.1200000000003", "text": "And there's been a lot of work looking at when people have inadequate mothering, when", "start": 2511.1200000000003, "end": 2519.0400000000004}
+{"id": "XkOZKCAYKdg-t2519.0400000000004", "text": "they're neglected, when they're abused.", "start": 2519.0400000000004, "end": 2522.6400000000003}
+{"id": "XkOZKCAYKdg-t2522.6400000000003", "text": "The endocrine systems don't develop normally.", "start": 2522.6400000000003, "end": 2526.2000000000003}
+{"id": "XkOZKCAYKdg-t2526.2000000000003", "text": "The immune system doesn't develop normally.", "start": 2526.2000000000003, "end": 2528.7200000000003}
+{"id": "XkOZKCAYKdg-t2528.72", "text": "And so you get a sort of a vulnerability towards later insults.", "start": 2528.72, "end": 2539.3199999999997}
+{"id": "XkOZKCAYKdg-t2539.3199999999997", "text": "One of the things that people have started studying in the context of cancer is what", "start": 2539.3199999999997, "end": 2544.2799999999997}
+{"id": "XkOZKCAYKdg-t2544.2799999999997", "text": "happens when you have an early vulnerability like that.", "start": 2544.2799999999997, "end": 2548.8799999999997}
+{"id": "XkOZKCAYKdg-t2548.8799999999997", "text": "And then you get stress later in life.", "start": 2548.8799999999997, "end": 2551.4399999999996}
+{"id": "XkOZKCAYKdg-t2551.44", "text": "And there's a group at Ohio State that has looked at people with skin cancers and they've", "start": 2551.44, "end": 2558.92}
+{"id": "XkOZKCAYKdg-t2558.92", "text": "looked at the skin lesions of people with early life stress, with early, with no early", "start": 2558.92, "end": 2565.7200000000003}
+{"id": "XkOZKCAYKdg-t2565.7200000000003", "text": "life stress but later life stress and with both.", "start": 2565.7200000000003, "end": 2569.8}
+{"id": "XkOZKCAYKdg-t2569.8", "text": "And the lesions of the people who have had both, and so it's sort of like two psychological", "start": 2569.8, "end": 2576.96}
+{"id": "XkOZKCAYKdg-t2576.96", "text": "hits are where the most aggressive and showed in terms of the functioning of the immune", "start": 2576.96, "end": 2588.44}
+{"id": "XkOZKCAYKdg-t2588.44", "text": "cells show the most vulnerability in the immune cells.", "start": 2588.44, "end": 2592.88}
+{"id": "XkOZKCAYKdg-t2592.88", "text": "So that's sort of thinking about early life plus later life.", "start": 2592.88, "end": 2598.16}
+{"id": "XkOZKCAYKdg-t2598.16", "text": "What's happened along that transition?", "start": 2598.16, "end": 2601.2400000000002}
+{"id": "XkOZKCAYKdg-t2601.24", "text": "I think this goes back also to this notion that I mentioned before of an endogenous versus", "start": 2601.24, "end": 2607.2799999999997}
+{"id": "XkOZKCAYKdg-t2607.2799999999997", "text": "exogenous nature of cancer.", "start": 2607.2799999999997, "end": 2609.2}
+{"id": "XkOZKCAYKdg-t2609.2", "text": "Is the nature of cancer inside the cell or is it outside the cell?", "start": 2609.2, "end": 2613.4399999999996}
+{"id": "XkOZKCAYKdg-t2613.4399999999996", "text": "We know that it's both.", "start": 2613.4399999999996, "end": 2614.4399999999996}
+{"id": "XkOZKCAYKdg-t2614.4399999999996", "text": "In fact, I think the first discovery of oncogene has been viral oncogenes.", "start": 2614.4399999999996, "end": 2618.9199999999996}
+{"id": "XkOZKCAYKdg-t2618.9199999999996", "text": "That's where the Nobel Prize was awarded to the virus.", "start": 2618.9199999999996, "end": 2624.2799999999997}
+{"id": "XkOZKCAYKdg-t2624.2799999999997", "text": "The notion that you can actually transfer a gene from the outside environment into the", "start": 2624.2799999999997, "end": 2629.4399999999996}
+{"id": "XkOZKCAYKdg-t2629.44", "text": "cell turns out that viral oncogen is in fact something that's been integrated in your own", "start": 2629.44, "end": 2633.7200000000003}
+{"id": "XkOZKCAYKdg-t2633.7200000000003", "text": "cells, in your genome.", "start": 2633.7200000000003, "end": 2635.84}
+{"id": "XkOZKCAYKdg-t2635.84", "text": "But if you ask about something like smallpox or take HIV or something, none of the HIV", "start": 2635.84, "end": 2641.68}
+{"id": "XkOZKCAYKdg-t2641.68", "text": "proteins exist anywhere else in your cells.", "start": 2641.68, "end": 2644.96}
+{"id": "XkOZKCAYKdg-t2644.96", "text": "You can safely hit them.", "start": 2644.96, "end": 2646.28}
+{"id": "XkOZKCAYKdg-t2646.28", "text": "You can target them.", "start": 2646.28, "end": 2647.28}
+{"id": "XkOZKCAYKdg-t2647.28", "text": "You can block them.", "start": 2647.28, "end": 2648.28}
+{"id": "XkOZKCAYKdg-t2648.28", "text": "You can take a cocktail of inhibitors against every HIV enzyme you can find.", "start": 2648.28, "end": 2652.88}
+{"id": "XkOZKCAYKdg-t2652.88", "text": "It's not going to affect your own cells, at least if the drugs are as good as they should", "start": 2652.88, "end": 2657.52}
+{"id": "XkOZKCAYKdg-t2657.52", "text": "be.", "start": 2657.52, "end": 2658.52}
+{"id": "XkOZKCAYKdg-t2658.52", "text": "So the answer is different.", "start": 2658.52, "end": 2659.52}
+{"id": "XkOZKCAYKdg-t2659.52", "text": "I mean, all of us spend most of our time figuring out what's the difference between", "start": 2659.52, "end": 2663.32}
+{"id": "XkOZKCAYKdg-t2663.32", "text": "the cancer and the normal tissue.", "start": 2663.32, "end": 2665.6}
+{"id": "XkOZKCAYKdg-t2665.6", "text": "Is there anything that we can hit in a cancer that's not going to destroy your normal tissue?", "start": 2665.6, "end": 2670.08}
+{"id": "XkOZKCAYKdg-t2670.08", "text": "And that's just really hard.", "start": 2670.08, "end": 2671.08}
+{"id": "XkOZKCAYKdg-t2671.08", "text": "I mean, you end up with a few mutations and a few differences and a few concepts but compared", "start": 2671.08, "end": 2677.16}
+{"id": "XkOZKCAYKdg-t2677.16", "text": "to a smallpox.", "start": 2677.16, "end": 2678.16}
+{"id": "XkOZKCAYKdg-t2678.16", "text": "That's where the question is.", "start": 2678.16, "end": 2681.16}
+{"id": "XkOZKCAYKdg-t2681.16", "text": "So the environmental factor stresses one, but let's say cigarettes more.", "start": 2681.16, "end": 2687.48}
+{"id": "XkOZKCAYKdg-t2687.48", "text": "There are those things that are considered to, if not cause, certainly contribute to", "start": 2687.48, "end": 2694.36}
+{"id": "XkOZKCAYKdg-t2694.36", "text": "development of cancer.", "start": 2694.36, "end": 2696.96}
+{"id": "XkOZKCAYKdg-t2696.96", "text": "So smoking causes.", "start": 2696.96, "end": 2699.52}
+{"id": "XkOZKCAYKdg-t2699.52", "text": "Causes.", "start": 2699.52, "end": 2700.52}
+{"id": "XkOZKCAYKdg-t2700.52", "text": "Right.", "start": 2700.52, "end": 2701.52}
+{"id": "XkOZKCAYKdg-t2701.52", "text": "But smoking breaks the DNA inside your own cell.", "start": 2701.52, "end": 2705.08}
+{"id": "XkOZKCAYKdg-t2705.08", "text": "So it actually induces mutation.", "start": 2705.08, "end": 2706.8}
+{"id": "XkOZKCAYKdg-t2706.8", "text": "But the other signal, for instance, if you look at estrogen, estrogen does not induce", "start": 2706.8, "end": 2711.04}
+{"id": "XkOZKCAYKdg-t2711.04", "text": "mutations.", "start": 2711.04, "end": 2712.2400000000002}
+{"id": "XkOZKCAYKdg-t2712.2400000000002", "text": "But it's like putting fuel on the cell and inducing...", "start": 2712.2400000000002, "end": 2715.68}
+{"id": "XkOZKCAYKdg-t2715.68", "text": "For the two most saturated roles, faster and faster.", "start": 2715.68, "end": 2719.2799999999997}
+{"id": "XkOZKCAYKdg-t2719.2799999999997", "text": "So women who are exposed to estrogen for longer period of life are much more risk of breast", "start": 2719.2799999999997, "end": 2723.24}
+{"id": "XkOZKCAYKdg-t2723.24", "text": "cancer than women are not.", "start": 2723.24, "end": 2725.16}
+{"id": "XkOZKCAYKdg-t2725.16", "text": "And it's not because of mutations.", "start": 2725.16, "end": 2727.2}
+{"id": "XkOZKCAYKdg-t2727.2", "text": "It's because of...", "start": 2727.2, "end": 2728.2}
+{"id": "XkOZKCAYKdg-t2728.2", "text": "Again, going back to the fact that it's the controlling of how many divisions.", "start": 2728.2, "end": 2734.72}
+{"id": "XkOZKCAYKdg-t2734.72", "text": "And that is central integrating whether it's a signal coming from estrogen from your...", "start": 2734.72, "end": 2742.3999999999996}
+{"id": "XkOZKCAYKdg-t2742.4", "text": "And we all work on cancer, we all recognize the importance of location, location, location,", "start": 2742.4, "end": 2748.44}
+{"id": "XkOZKCAYKdg-t2748.44", "text": "the environment.", "start": 2748.44, "end": 2749.8}
+{"id": "XkOZKCAYKdg-t2749.8", "text": "Because environment gives you such...", "start": 2749.8, "end": 2752.38}
+{"id": "XkOZKCAYKdg-t2752.38", "text": "Give cancer cells such support.", "start": 2752.38, "end": 2753.88}
+{"id": "XkOZKCAYKdg-t2753.88", "text": "If you cut out the environment, there will be one way to remove the cells.", "start": 2753.88, "end": 2759.08}
+{"id": "XkOZKCAYKdg-t2759.08", "text": "And no matter which signal it comes, at the end of the day, it really centralize in three", "start": 2759.08, "end": 2765.92}
+{"id": "XkOZKCAYKdg-t2765.92", "text": "issues.", "start": 2765.92, "end": 2767.2400000000002}
+{"id": "XkOZKCAYKdg-t2767.24", "text": "One is how many cell times this tumor cell able to divide.", "start": 2767.24, "end": 2773.2}
+{"id": "XkOZKCAYKdg-t2773.2", "text": "And second is after division, would they normally die as they are supposed to, or they lose", "start": 2773.2, "end": 2780.64}
+{"id": "XkOZKCAYKdg-t2780.64", "text": "that control and keep on dividing?", "start": 2780.64, "end": 2783.16}
+{"id": "XkOZKCAYKdg-t2783.16", "text": "A third thing is they move migration.", "start": 2783.16, "end": 2787.4399999999996}
+{"id": "XkOZKCAYKdg-t2787.4399999999996", "text": "And that's the cause of metastasis.", "start": 2787.4399999999996, "end": 2789.7999999999997}
+{"id": "XkOZKCAYKdg-t2789.7999999999997", "text": "So it goes from one place to the other to the other.", "start": 2789.7999999999997, "end": 2792.3199999999997}
+{"id": "XkOZKCAYKdg-t2792.3199999999997", "text": "And these are really the three major components.", "start": 2792.3199999999997, "end": 2796.24}
+{"id": "XkOZKCAYKdg-t2796.24", "text": "We all recognize that, but it's very difficult.", "start": 2796.24, "end": 2798.72}
+{"id": "XkOZKCAYKdg-t2798.72", "text": "And if you say controlling that, how your well-being is definitely a very important control for", "start": 2798.72, "end": 2805.4799999999996}
+{"id": "XkOZKCAYKdg-t2805.4799999999996", "text": "that.", "start": 2805.4799999999996, "end": 2806.4799999999996}
+{"id": "XkOZKCAYKdg-t2806.4799999999996", "text": "No doubt.", "start": 2806.4799999999996, "end": 2807.4799999999996}
+{"id": "XkOZKCAYKdg-t2807.4799999999996", "text": "Whatever reason that leads to the well-being is a good thing.", "start": 2807.4799999999996, "end": 2810.56}
+{"id": "XkOZKCAYKdg-t2810.56", "text": "It's actually the environment, I think, is probably the number one reason why we can't", "start": 2810.56, "end": 2814.9199999999996}
+{"id": "XkOZKCAYKdg-t2814.9199999999996", "text": "cure cancer as much as we would like to.", "start": 2814.9199999999996, "end": 2817.4799999999996}
+{"id": "XkOZKCAYKdg-t2817.4799999999996", "text": "Because right now, the way pharmaceutical companies have gone, and fact scientists have gone at", "start": 2817.4799999999996, "end": 2822.04}
+{"id": "XkOZKCAYKdg-t2822.04", "text": "trying to cure cancer for a long time, is to screen compounds against cells that are", "start": 2822.04, "end": 2826.04}
+{"id": "XkOZKCAYKdg-t2826.04", "text": "taken out of the body and put in a petri dish.", "start": 2826.04, "end": 2828.96}
+{"id": "XkOZKCAYKdg-t2828.96", "text": "And they find a lot of compounds that kill those cells.", "start": 2828.96, "end": 2831.48}
+{"id": "XkOZKCAYKdg-t2831.48", "text": "Unfortunately, when those cells are in the body, they don't get killed.", "start": 2831.48, "end": 2834.96}
+{"id": "XkOZKCAYKdg-t2834.96", "text": "Or you have to achieve toxicity that kills normal cells at the same rate.", "start": 2834.96, "end": 2839.24}
+{"id": "XkOZKCAYKdg-t2839.24", "text": "So this is because, in fact, as you mean a pistol in some very seminal experiments,", "start": 2839.24, "end": 2843.68}
+{"id": "XkOZKCAYKdg-t2843.68", "text": "you know, a couple, about 20 years ago, where she showed that if you take a cell with the", "start": 2843.68, "end": 2848.32}
+{"id": "XkOZKCAYKdg-t2848.32", "text": "exact same mutation, and you put it in one part of the body, or in another part of the", "start": 2848.32, "end": 2851.96}
+{"id": "XkOZKCAYKdg-t2851.96", "text": "body, you generate cancer or not.", "start": 2851.96, "end": 2854.04}
+{"id": "XkOZKCAYKdg-t2854.04", "text": "And so it is completely dependent on the signals that the cell gets in addition to the endogenous", "start": 2854.04, "end": 2859.44}
+{"id": "XkOZKCAYKdg-t2859.44", "text": "sort of disruption of the DNA.", "start": 2859.44, "end": 2861.88}
+{"id": "XkOZKCAYKdg-t2861.88", "text": "And that's why most thinking is that cancer cells are tough, they overtake you, but in", "start": 2861.88, "end": 2873.4}
+{"id": "XkOZKCAYKdg-t2873.4", "text": "many ways they are also vulnerable.", "start": 2873.4, "end": 2875.36}
+{"id": "XkOZKCAYKdg-t2875.36", "text": "It depends on the environment.", "start": 2875.36, "end": 2877.6}
+{"id": "XkOZKCAYKdg-t2877.6", "text": "And when you talk about environment, there are multiple factors, you know.", "start": 2877.6, "end": 2882.96}
+{"id": "XkOZKCAYKdg-t2882.96", "text": "I think, wouldn't you say that someone who has a very kind of cheer for a personality,", "start": 2882.96, "end": 2894.52}
+{"id": "XkOZKCAYKdg-t2894.52", "text": "many times tend to be able to control a lot of things in life and healthier, too?", "start": 2894.52, "end": 2900.2799999999997}
+{"id": "XkOZKCAYKdg-t2900.2799999999997", "text": "I think this psychology is two ways, it's not one way, isn't it?", "start": 2900.2799999999997, "end": 2906.92}
+{"id": "XkOZKCAYKdg-t2906.92", "text": "Well, I'm related to that.", "start": 2906.92, "end": 2909.2400000000002}
+{"id": "XkOZKCAYKdg-t2909.2400000000002", "text": "Andrea asked me a very interesting question last night, which was, if will to, how you", "start": 2909.2400000000002, "end": 2915.76}
+{"id": "XkOZKCAYKdg-t2915.76", "text": "can measure will to live, and if will to live, because anecdotally physicians report that", "start": 2915.76, "end": 2923.32}
+{"id": "XkOZKCAYKdg-t2923.32", "text": "if patients with strong will to live may live longer.", "start": 2923.32, "end": 2929.64}
+{"id": "XkOZKCAYKdg-t2929.64", "text": "And I've been thinking about that because we have not found a gene signature, for example,", "start": 2929.64, "end": 2939.16}
+{"id": "XkOZKCAYKdg-t2939.16", "text": "of will to live, it would be very nice.", "start": 2939.16, "end": 2941.7599999999998}
+{"id": "XkOZKCAYKdg-t2941.7599999999998", "text": "There's actually somebody who has done gene signatures of happiness that has a sense", "start": 2941.7599999999998, "end": 2952.3199999999997}
+{"id": "XkOZKCAYKdg-t2952.3199999999997", "text": "of meaning to it versus a happiness of, I'm going to go out and drink tonight, and those", "start": 2952.3199999999997, "end": 2958.4}
+{"id": "XkOZKCAYKdg-t2958.4", "text": "look differently, and they look differently in terms of, for example, inflammatory profiles.", "start": 2958.4, "end": 2964.6}
+{"id": "XkOZKCAYKdg-t2964.6", "text": "And you know, inflammation being one of the things that adds fuel to the fire of cancer.", "start": 2964.6, "end": 2970.52}
+{"id": "XkOZKCAYKdg-t2970.52", "text": "Will to live would be very, very nice if we could characterize, and maybe that's something", "start": 2970.52, "end": 2978.1600000000003}
+{"id": "XkOZKCAYKdg-t2978.1600000000003", "text": "that you can do with your systemic looking at things.", "start": 2978.1600000000003, "end": 2982.96}
+{"id": "XkOZKCAYKdg-t2982.96", "text": "Maybe just to throw out completely as you talk about the route to live in the psychology,", "start": 2982.96, "end": 2988.6}
+{"id": "XkOZKCAYKdg-t2988.6", "text": "just an idea that, again, I know nothing about, but just a completely different track of thought", "start": 2988.6, "end": 2994.52}
+{"id": "XkOZKCAYKdg-t2994.52", "text": "here.", "start": 2994.52, "end": 2996.16}
+{"id": "XkOZKCAYKdg-t2996.16", "text": "Cancer cells affect you in a lot of ways.", "start": 2996.16, "end": 2998.12}
+{"id": "XkOZKCAYKdg-t2998.12", "text": "So, cancer patients lose weight because these cancers make hormones, and cancers change", "start": 2998.12, "end": 3004.2400000000002}
+{"id": "XkOZKCAYKdg-t3004.2400000000002", "text": "your physiology, right?", "start": 3004.2400000000002, "end": 3007.0}
+{"id": "XkOZKCAYKdg-t3007.0", "text": "I don't know if anyone is looking at how does a cancer cells, how do they affect your mood,", "start": 3007.0, "end": 3013.92}
+{"id": "XkOZKCAYKdg-t3013.92", "text": "your psychology?", "start": 3013.92, "end": 3014.92}
+{"id": "XkOZKCAYKdg-t3014.92", "text": "Do they have a direct, measurable biochemical influence on your mental state, on your will", "start": 3014.92, "end": 3021.44}
+{"id": "XkOZKCAYKdg-t3021.44", "text": "to live with me?", "start": 3021.44, "end": 3022.44}
+{"id": "XkOZKCAYKdg-t3022.44", "text": "There's actually a whole emerging area of research in that area because, and there's", "start": 3022.44, "end": 3032.28}
+{"id": "XkOZKCAYKdg-t3032.28", "text": "a number of people around the country who are working on that.", "start": 3032.28, "end": 3037.1200000000003}
+{"id": "XkOZKCAYKdg-t3037.1200000000003", "text": "If you think of cancer cells in addition to, you know, they want to grow, et cetera, they're", "start": 3037.1200000000003, "end": 3042.2400000000002}
+{"id": "XkOZKCAYKdg-t3042.2400000000002", "text": "also like inflammatory factories.", "start": 3042.2400000000002, "end": 3045.7200000000003}
+{"id": "XkOZKCAYKdg-t3045.7200000000003", "text": "And they're producing aisle six, they're producing aisle eight, an audience.", "start": 3045.7200000000003, "end": 3051.96}
+{"id": "XkOZKCAYKdg-t3051.96", "text": "A whole...", "start": 3051.96, "end": 3052.96}
+{"id": "XkOZKCAYKdg-t3052.96", "text": "Or does neuroendocrine cancer system make or do you have that hormone, right?", "start": 3052.96, "end": 3056.6000000000004}
+{"id": "XkOZKCAYKdg-t3056.6000000000004", "text": "I'm sure.", "start": 3056.6000000000004, "end": 3057.6000000000004}
+{"id": "XkOZKCAYKdg-t3057.6", "text": "What happens when those inflammatory cytokines go through the bloodstream, there is a well", "start": 3057.6, "end": 3064.3199999999997}
+{"id": "XkOZKCAYKdg-t3064.3199999999997", "text": "characterized syndrome that happens when inflammatory cytokines hit the brain.", "start": 3064.3199999999997, "end": 3070.08}
+{"id": "XkOZKCAYKdg-t3070.08", "text": "And if you think of how you feel when you have the flu, which is basically inflammation,", "start": 3070.08, "end": 3075.88}
+{"id": "XkOZKCAYKdg-t3075.88", "text": "you know, people don't want to eat, they lay down, they don't want to talk to people, this...", "start": 3075.88, "end": 3083.08}
+{"id": "XkOZKCAYKdg-t3083.08", "text": "It's hard to concentrate, this sort of lassitude, and it essentially mimics the vegetative symptoms", "start": 3083.08, "end": 3090.6}
+{"id": "XkOZKCAYKdg-t3090.6", "text": "of depression, this sort of fatigue and difficulty concentrating.", "start": 3090.6, "end": 3098.36}
+{"id": "XkOZKCAYKdg-t3098.36", "text": "And so there's an area of research looking at to what extent is the depression that is...", "start": 3098.36, "end": 3109.12}
+{"id": "XkOZKCAYKdg-t3109.12", "text": "That may be experienced by cancer patients, not only secondary to a person looking at", "start": 3109.12, "end": 3115.68}
+{"id": "XkOZKCAYKdg-t3115.68", "text": "themselves and saying, I have cancer, this is awful, but secondary to this physiologic,", "start": 3115.68, "end": 3121.7599999999998}
+{"id": "XkOZKCAYKdg-t3121.7599999999998", "text": "what's called sickness.", "start": 3121.7599999999998, "end": 3122.7599999999998}
+{"id": "XkOZKCAYKdg-t3122.7599999999998", "text": "For many cancers, I think that's a main complaint of treatment and of cancer is this feeling", "start": 3122.7599999999998, "end": 3128.2}
+{"id": "XkOZKCAYKdg-t3128.2", "text": "of depression and tiredness.", "start": 3128.2, "end": 3130.0}
+{"id": "XkOZKCAYKdg-t3130.0", "text": "Well, let's forget that, caccadesia, for instance, which is basically your loss of body mass and", "start": 3130.0, "end": 3136.48}
+{"id": "XkOZKCAYKdg-t3136.48", "text": "is one of the fundamental reasons why cancer patients die.", "start": 3136.48, "end": 3139.84}
+{"id": "XkOZKCAYKdg-t3139.84", "text": "So if you're depressed and you don't want to eat, that's the worst possible thing you", "start": 3139.84, "end": 3144.08}
+{"id": "XkOZKCAYKdg-t3144.08", "text": "can do to your body.", "start": 3144.08, "end": 3145.64}
+{"id": "XkOZKCAYKdg-t3145.64", "text": "So in some way, the immune system is one aspect of the connection with stress and depression.", "start": 3145.64, "end": 3151.92}
+{"id": "XkOZKCAYKdg-t3151.92", "text": "But the other one is more of the metabolic, you know, and just...", "start": 3151.92, "end": 3155.2400000000002}
+{"id": "XkOZKCAYKdg-t3155.2400000000002", "text": "Yeah.", "start": 3155.2400000000002, "end": 3156.2400000000002}
+{"id": "XkOZKCAYKdg-t3156.2400000000002", "text": "Your orgasm fed to the point that we can survive the disease.", "start": 3156.2400000000002, "end": 3159.52}
+{"id": "XkOZKCAYKdg-t3159.52", "text": "So is there any work on why some people don't get cancer?", "start": 3159.52, "end": 3163.68}
+{"id": "XkOZKCAYKdg-t3163.68", "text": "It's in our system and the cells are mutating all the time and it's an ongoing process.", "start": 3163.68, "end": 3170.3999999999996}
+{"id": "XkOZKCAYKdg-t3170.3999999999996", "text": "So why is it that some people get it and some people...", "start": 3170.3999999999996, "end": 3173.68}
+{"id": "XkOZKCAYKdg-t3173.68", "text": "Yeah, this is actually some really interesting study.", "start": 3173.68, "end": 3175.56}
+{"id": "XkOZKCAYKdg-t3175.56", "text": "Right now, if we send the several labs that are studying why some very heavy smokers don't", "start": 3175.56, "end": 3181.6}
+{"id": "XkOZKCAYKdg-t3181.6", "text": "get cancer and there are very likely some highly protective genes that help you by cancer.", "start": 3181.6, "end": 3190.9199999999996}
+{"id": "XkOZKCAYKdg-t3190.92", "text": "I can engineer a mouse in the lab that's not going to get cancer.", "start": 3190.92, "end": 3194.28}
+{"id": "XkOZKCAYKdg-t3194.28", "text": "You can work?", "start": 3194.28, "end": 3195.28}
+{"id": "XkOZKCAYKdg-t3195.28", "text": "I can engineer a mouse in the lab that will not get cancer.", "start": 3195.28, "end": 3199.12}
+{"id": "XkOZKCAYKdg-t3199.12", "text": "Put an extra copy of P10 or P53.", "start": 3199.12, "end": 3201.92}
+{"id": "XkOZKCAYKdg-t3201.92", "text": "They will be perfectly...", "start": 3201.92, "end": 3202.92}
+{"id": "XkOZKCAYKdg-t3202.92", "text": "It's a major cancer of a tumor suppressor gene that's called P53.", "start": 3202.92, "end": 3211.16}
+{"id": "XkOZKCAYKdg-t3211.16", "text": "It's one of the major roadblocks that gets mutated in almost every cancer.", "start": 3211.16, "end": 3216.2000000000003}
+{"id": "XkOZKCAYKdg-t3216.2000000000003", "text": "We have two copies of it.", "start": 3216.2000000000003, "end": 3218.04}
+{"id": "XkOZKCAYKdg-t3218.04", "text": "If you make an animal with three copies, they're perfectly happy, they won't get cancer.", "start": 3218.04, "end": 3224.7599999999998}
+{"id": "XkOZKCAYKdg-t3224.7599999999998", "text": "Evolution didn't give us the third copy.", "start": 3224.7599999999998, "end": 3227.96}
+{"id": "XkOZKCAYKdg-t3227.96", "text": "Didn't think it was necessary.", "start": 3227.96, "end": 3229.2799999999997}
+{"id": "XkOZKCAYKdg-t3229.2799999999997", "text": "You gave the third copy to human.", "start": 3229.2799999999997, "end": 3231.7599999999998}
+{"id": "XkOZKCAYKdg-t3231.7599999999998", "text": "How are you going to do it?", "start": 3231.7599999999998, "end": 3233.8}
+{"id": "XkOZKCAYKdg-t3233.8", "text": "It's a lot of things.", "start": 3233.8, "end": 3234.8}
+{"id": "XkOZKCAYKdg-t3234.8", "text": "Where would you do it?", "start": 3234.8, "end": 3236.6}
+{"id": "XkOZKCAYKdg-t3236.6", "text": "Well, how soon do you do it?", "start": 3236.6, "end": 3239.6}
+{"id": "XkOZKCAYKdg-t3239.6", "text": "Where do you do it in the zygote?", "start": 3239.6, "end": 3241.2}
+{"id": "XkOZKCAYKdg-t3241.2", "text": "Yeah.", "start": 3241.2, "end": 3242.2}
+{"id": "XkOZKCAYKdg-t3242.2", "text": "You engineer...", "start": 3242.2, "end": 3243.2}
+{"id": "XkOZKCAYKdg-t3243.2", "text": "Right, I mean, this whole...", "start": 3243.2, "end": 3244.2}
+{"id": "XkOZKCAYKdg-t3244.2", "text": "What do you mean?", "start": 3244.2, "end": 3245.2}
+{"id": "XkOZKCAYKdg-t3245.2", "text": "It's a collision.", "start": 3245.2, "end": 3246.2}
+{"id": "XkOZKCAYKdg-t3246.2", "text": "You have a big box here, right?", "start": 3246.2, "end": 3248.2}
+{"id": "XkOZKCAYKdg-t3248.2", "text": "Your immune system will not work actually.", "start": 3248.2, "end": 3250.08}
+{"id": "XkOZKCAYKdg-t3250.08", "text": "In a lab animal, you can do it.", "start": 3250.08, "end": 3252.24}
+{"id": "XkOZKCAYKdg-t3252.24", "text": "You can get a terminal center, you can do it.", "start": 3252.24, "end": 3255.24}
+{"id": "XkOZKCAYKdg-t3255.24", "text": "You said you didn't make a lab available and it will not get cancer.", "start": 3255.24, "end": 3259.3199999999997}
+{"id": "XkOZKCAYKdg-t3259.3199999999997", "text": "Yeah, it's published.", "start": 3259.3199999999997, "end": 3261.12}
+{"id": "XkOZKCAYKdg-t3261.12", "text": "The...", "start": 3261.12, "end": 3262.12}
+{"id": "XkOZKCAYKdg-t3262.12", "text": "But I think...", "start": 3262.12, "end": 3263.12}
+{"id": "XkOZKCAYKdg-t3263.12", "text": "The downside.", "start": 3263.12, "end": 3264.12}
+{"id": "XkOZKCAYKdg-t3264.12", "text": "The cancer...", "start": 3264.12, "end": 3265.12}
+{"id": "XkOZKCAYKdg-t3265.12", "text": "Oh, okay.", "start": 3265.12, "end": 3266.12}
+{"id": "XkOZKCAYKdg-t3266.12", "text": "It will not develop those cancer you have tested.", "start": 3266.12, "end": 3270.72}
+{"id": "XkOZKCAYKdg-t3270.72", "text": "There might be others we don't know yet.", "start": 3270.72, "end": 3273.9199999999996}
+{"id": "XkOZKCAYKdg-t3273.92", "text": "And also, P-53 does many, many things.", "start": 3273.92, "end": 3276.96}
+{"id": "XkOZKCAYKdg-t3276.96", "text": "I certainly would not want a third copy for myself.", "start": 3276.96, "end": 3280.44}
+{"id": "XkOZKCAYKdg-t3280.44", "text": "I wouldn't.", "start": 3280.44, "end": 3281.44}
+{"id": "XkOZKCAYKdg-t3281.44", "text": "I'm not advertising it, but I'm saying...", "start": 3281.44, "end": 3283.64}
+{"id": "XkOZKCAYKdg-t3283.64", "text": "People have made and they have engineered these mice and they are protected from cancer.", "start": 3283.64, "end": 3291.28}
+{"id": "XkOZKCAYKdg-t3291.28", "text": "There are people that have a third copy of P-53.", "start": 3291.28, "end": 3293.6800000000003}
+{"id": "XkOZKCAYKdg-t3293.6800000000003", "text": "I don't think so.", "start": 3293.6800000000003, "end": 3295.64}
+{"id": "XkOZKCAYKdg-t3295.64", "text": "I mean, there is the opposite.", "start": 3295.64, "end": 3297.28}
+{"id": "XkOZKCAYKdg-t3297.28", "text": "There are families that have mutated one of those genes.", "start": 3297.28, "end": 3301.52}
+{"id": "XkOZKCAYKdg-t3301.52", "text": "It's called leaf romaine syndrome and they are at very high risk of cancer.", "start": 3301.52, "end": 3307.8}
+{"id": "XkOZKCAYKdg-t3307.8", "text": "But there's another...", "start": 3307.8, "end": 3309.64}
+{"id": "XkOZKCAYKdg-t3309.64", "text": "They're two famous genes called tumor-suppressor gene.", "start": 3309.64, "end": 3314.16}
+{"id": "XkOZKCAYKdg-t3314.16", "text": "The other is called RB.", "start": 3314.16, "end": 3316.4}
+{"id": "XkOZKCAYKdg-t3316.4", "text": "And I was discovered when children have retinal blastoma, they...", "start": 3316.4, "end": 3321.96}
+{"id": "XkOZKCAYKdg-t3321.96", "text": "Every single one of them lose this gene.", "start": 3321.96, "end": 3324.96}
+{"id": "XkOZKCAYKdg-t3324.96", "text": "And now we know.", "start": 3324.96, "end": 3326.6}
+{"id": "XkOZKCAYKdg-t3326.6", "text": "The difference, I think, is different from P-53 in the sense that we have studied this", "start": 3326.6, "end": 3333.04}
+{"id": "XkOZKCAYKdg-t3333.04", "text": "for many years and followed the patient.", "start": 3333.04, "end": 3335.64}
+{"id": "XkOZKCAYKdg-t3335.64", "text": "And what we found was both genes at the beginning of the cancer, you lose one copy or perhaps", "start": 3335.64, "end": 3342.52}
+{"id": "XkOZKCAYKdg-t3342.52", "text": "have mutation and during relapse, the P-53 is always mutated or lost and not functioning.", "start": 3342.52, "end": 3350.04}
+{"id": "XkOZKCAYKdg-t3350.04", "text": "But RB somehow often is preserved at least one of the copy.", "start": 3350.04, "end": 3355.56}
+{"id": "XkOZKCAYKdg-t3355.56", "text": "There are times both copy loss.", "start": 3355.56, "end": 3358.32}
+{"id": "XkOZKCAYKdg-t3358.32", "text": "So that means that perhaps even that gene that is tumor-suppressor gene, that actually", "start": 3358.32, "end": 3365.7599999999998}
+{"id": "XkOZKCAYKdg-t3365.7599999999998", "text": "a cancer cell still needed to develop the cancer.", "start": 3365.7599999999998, "end": 3369.7599999999998}
+{"id": "XkOZKCAYKdg-t3369.7599999999998", "text": "So things are not completely black and white.", "start": 3369.7599999999998, "end": 3373.04}
+{"id": "XkOZKCAYKdg-t3373.04", "text": "It really depends on the context.", "start": 3373.04, "end": 3375.24}
+{"id": "XkOZKCAYKdg-t3375.24", "text": "So as you do more studies of people's genetic makeup, are you...", "start": 3375.24, "end": 3380.96}
+{"id": "XkOZKCAYKdg-t3380.96", "text": "Are you going to be able to detect what is causing some people to develop cancer and", "start": 3380.96, "end": 3386.84}
+{"id": "XkOZKCAYKdg-t3386.84", "text": "some people to...", "start": 3386.84, "end": 3387.84}
+{"id": "XkOZKCAYKdg-t3387.84", "text": "No, we don't.", "start": 3387.84, "end": 3389.28}
+{"id": "XkOZKCAYKdg-t3389.28", "text": "We now know at least in our study, in one case, we know exactly in one type of lymphoma, treated", "start": 3389.28, "end": 3398.32}
+{"id": "XkOZKCAYKdg-t3398.32", "text": "with a very recent accelerate FDA approved drug, what is causing the relapse that we know,", "start": 3398.32, "end": 3407.96}
+{"id": "XkOZKCAYKdg-t3407.96", "text": "as we follow the patient before treatment, after treatment, and until it's relapse and", "start": 3407.96, "end": 3413.76}
+{"id": "XkOZKCAYKdg-t3413.76", "text": "ask what happened.", "start": 3413.76, "end": 3414.76}
+{"id": "XkOZKCAYKdg-t3414.76", "text": "Then we put...", "start": 3414.76, "end": 3416.4}
+{"id": "XkOZKCAYKdg-t3416.4", "text": "Take that gene away from the normal...", "start": 3416.4, "end": 3419.52}
+{"id": "XkOZKCAYKdg-t3419.52", "text": "Not the normal tumor cell and this tumor no longer respond to the drug and everything.", "start": 3419.52, "end": 3425.92}
+{"id": "XkOZKCAYKdg-t3425.92", "text": "So that can be done.", "start": 3425.92, "end": 3427.44}
+{"id": "XkOZKCAYKdg-t3427.44", "text": "As far as what differentiates initiation, I don't think anybody has an answer.", "start": 3427.44, "end": 3434.2}
+{"id": "XkOZKCAYKdg-t3434.2", "text": "No, but also I think you're asking a very important question because I think this is", "start": 3434.2, "end": 3437.32}
+{"id": "XkOZKCAYKdg-t3437.32", "text": "right now, in my opinion, a little bit the failure of the current way of thinking about", "start": 3437.32, "end": 3442.88}
+{"id": "XkOZKCAYKdg-t3442.88", "text": "cancer.", "start": 3442.88, "end": 3444.1200000000003}
+{"id": "XkOZKCAYKdg-t3444.1200000000003", "text": "If you're going database right now, there are thousands of cancer patients that have", "start": 3444.1200000000003, "end": 3447.1200000000003}
+{"id": "XkOZKCAYKdg-t3447.1200000000003", "text": "been sequenced.", "start": 3447.1200000000003, "end": 3448.1200000000003}
+{"id": "XkOZKCAYKdg-t3448.1200000000003", "text": "So we actually know the mutation that you have across 20, 25 types of cancer, the more.", "start": 3448.1200000000003, "end": 3456.32}
+{"id": "XkOZKCAYKdg-t3456.32", "text": "We know also, because of work that Burt Vogelstein did, but a couple of decades back, that cancer", "start": 3456.32, "end": 3463.1600000000003}
+{"id": "XkOZKCAYKdg-t3463.16", "text": "is not a single hit with very few exceptions, and even those are probably also not a single", "start": 3463.16, "end": 3468.12}
+{"id": "XkOZKCAYKdg-t3468.12", "text": "hit, but you know, you need six, seven, eight different mutations that accumulate before", "start": 3468.12, "end": 3472.3999999999996}
+{"id": "XkOZKCAYKdg-t3472.3999999999996", "text": "you actually get cancer.", "start": 3472.3999999999996, "end": 3474.16}
+{"id": "XkOZKCAYKdg-t3474.16", "text": "If you go into those databases and you look for the genes that we know today, there's", "start": 3474.16, "end": 3479.68}
+{"id": "XkOZKCAYKdg-t3479.68", "text": "only maybe 20 or 30 percent of the patients that have more than one mutation among those", "start": 3479.68, "end": 3484.16}
+{"id": "XkOZKCAYKdg-t3484.16", "text": "under genes.", "start": 3484.16, "end": 3485.16}
+{"id": "XkOZKCAYKdg-t3485.16", "text": "The remaining ones either have just one hit or they have nothing, which means that where", "start": 3485.16, "end": 3490.2799999999997}
+{"id": "XkOZKCAYKdg-t3490.2799999999997", "text": "are the six or seven other hits?", "start": 3490.2799999999997, "end": 3492.8399999999997}
+{"id": "XkOZKCAYKdg-t3492.84", "text": "They are mutations that are probably what we call private mutations, that is mutation", "start": 3492.84, "end": 3496.96}
+{"id": "XkOZKCAYKdg-t3496.96", "text": "in genes.", "start": 3496.96, "end": 3497.96}
+{"id": "XkOZKCAYKdg-t3497.96", "text": "There are somewhere upstream of the genes that induce cancer, but you can't find them because", "start": 3497.96, "end": 3503.48}
+{"id": "XkOZKCAYKdg-t3503.48", "text": "you don't find two patients that have the same exact pattern of mutation.", "start": 3503.48, "end": 3506.56}
+{"id": "XkOZKCAYKdg-t3506.56", "text": "So if you do a very simple math, you will find that there are more cancer genotypes,", "start": 3506.56, "end": 3512.8}
+{"id": "XkOZKCAYKdg-t3512.8", "text": "that is more possible ways in which you could get cancer, than there are cells on the planet.", "start": 3512.8, "end": 3518.04}
+{"id": "XkOZKCAYKdg-t3518.04", "text": "And so what we're seeing right now in patients is just a very, very small sample of all the", "start": 3518.04, "end": 3523.16}
+{"id": "XkOZKCAYKdg-t3523.16", "text": "possible ways in which you could get cancer, which means that you can't just use statistics", "start": 3523.16, "end": 3527.08}
+{"id": "XkOZKCAYKdg-t3527.08", "text": "to figure out how it works, because you're not going to be able to find enough patients", "start": 3527.08, "end": 3531.64}
+{"id": "XkOZKCAYKdg-t3531.64", "text": "that have that particular group of three mutations or four mutations that give you cancer with", "start": 3531.64, "end": 3536.48}
+{"id": "XkOZKCAYKdg-t3536.48", "text": "that particular response to a drug, for instance.", "start": 3536.48, "end": 3538.52}
+{"id": "XkOZKCAYKdg-t3538.52", "text": "And so the only way to do it, you know, we are at least, that's what we are advocating,", "start": 3538.52, "end": 3541.92}
+{"id": "XkOZKCAYKdg-t3541.92", "text": "is you have to understand how cancer works.", "start": 3541.92, "end": 3543.72}
+{"id": "XkOZKCAYKdg-t3543.72", "text": "That is how cancer literally works as a microprocessor that has had some pieces disconnected or rewired,", "start": 3543.72, "end": 3553.8399999999997}
+{"id": "XkOZKCAYKdg-t3553.8399999999997", "text": "and I have to figure out why it's working in the wrong way.", "start": 3553.8399999999997, "end": 3556.7599999999998}
+{"id": "XkOZKCAYKdg-t3556.7599999999998", "text": "I think that going after individual mutation is going to be a long way coming before you", "start": 3556.7599999999998, "end": 3560.08}
+{"id": "XkOZKCAYKdg-t3560.08", "text": "can get the full repertoire.", "start": 3560.08, "end": 3562.52}
+{"id": "XkOZKCAYKdg-t3562.52", "text": "Yeah.", "start": 3562.52, "end": 3563.52}
+{"id": "XkOZKCAYKdg-t3563.52", "text": "Very, very dynamic.", "start": 3563.52, "end": 3564.52}
+{"id": "XkOZKCAYKdg-t3564.52", "text": "Of course, there are cancers that are easier than others, and actually, the ematological", "start": 3564.52, "end": 3570.08}
+{"id": "XkOZKCAYKdg-t3570.08", "text": "malignancies are particularly good class of cancer to study because they tend to have", "start": 3570.08, "end": 3574.4}
+{"id": "XkOZKCAYKdg-t3574.4", "text": "fewer mutations than the other, but if you take a melanoma compared to a childhood leukemia,", "start": 3574.4, "end": 3580.96}
+{"id": "XkOZKCAYKdg-t3580.96", "text": "it's like having your DNA put through a blender in melanoma versus having your DNA with a couple", "start": 3580.96, "end": 3586.68}
+{"id": "XkOZKCAYKdg-t3586.68", "text": "hits here and there.", "start": 3586.68, "end": 3587.88}
+{"id": "XkOZKCAYKdg-t3587.88", "text": "And that is where we can understand sort of leukemia and we treat them much better than", "start": 3587.88, "end": 3593.56}
+{"id": "XkOZKCAYKdg-t3593.56", "text": "we can treat right now melanoma.", "start": 3593.56, "end": 3594.56}
+{"id": "XkOZKCAYKdg-t3594.56", "text": "Well, that part of the reason is that for the cancer in the blood, you are in a position", "start": 3594.56, "end": 3603.04}
+{"id": "XkOZKCAYKdg-t3603.04", "text": "to define which state and its normal counterpart because you can take the cells.", "start": 3603.04, "end": 3610.56}
+{"id": "XkOZKCAYKdg-t3610.56", "text": "For other type of cancer, like ovarian, a breast, it's called solid tumor.", "start": 3610.56, "end": 3617.32}
+{"id": "XkOZKCAYKdg-t3617.32", "text": "You take the tumor, it's not every cell in that mass is a cancer cell.", "start": 3617.32, "end": 3622.4}
+{"id": "XkOZKCAYKdg-t3622.4", "text": "You have normal cells, you have everything, they talk to each other and it's very difficult", "start": 3622.4, "end": 3626.88}
+{"id": "XkOZKCAYKdg-t3626.88", "text": "and can go that.", "start": 3626.88, "end": 3628.44}
+{"id": "XkOZKCAYKdg-t3628.44", "text": "But if you take leukemia, you could just take study pure leukemia cells.", "start": 3628.44, "end": 3635.44}
+{"id": "XkOZKCAYKdg-t3635.44", "text": "And then you also have, by the signature, you also know what the normal cell, that's", "start": 3635.44, "end": 3643.36}
+{"id": "XkOZKCAYKdg-t3643.36", "text": "the normal counterpart and what the normal cell does.", "start": 3643.36, "end": 3646.52}
+{"id": "XkOZKCAYKdg-t3646.52", "text": "So that helps you understand something.", "start": 3646.52, "end": 3649.08}
+{"id": "XkOZKCAYKdg-t3649.08", "text": "But some of the things we learned in the blood cancer is applicable to solid but not everything.", "start": 3649.08, "end": 3655.88}
+{"id": "XkOZKCAYKdg-t3655.88", "text": "Yeah, not everything.", "start": 3655.88, "end": 3657.08}
+{"id": "XkOZKCAYKdg-t3657.08", "text": "Again, it gets to the point of location and environment because you're not the same.", "start": 3657.08, "end": 3663.2}
+{"id": "XkOZKCAYKdg-t3663.2", "text": "So you sequence genes of 50,000 people who have reached the age of 80 with no cancer and", "start": 3663.2, "end": 3670.96}
+{"id": "XkOZKCAYKdg-t3670.96", "text": "compared it to people who have had cancer.", "start": 3670.96, "end": 3674.12}
+{"id": "XkOZKCAYKdg-t3674.12", "text": "You wouldn't be able to.", "start": 3674.12, "end": 3675.84}
+{"id": "XkOZKCAYKdg-t3675.84", "text": "It would be difficult because as I said that we take our, the normal cells we often get", "start": 3675.84, "end": 3685.36}
+{"id": "XkOZKCAYKdg-t3685.36", "text": "from patients from the cheeks.", "start": 3685.36, "end": 3687.1600000000003}
+{"id": "XkOZKCAYKdg-t3687.1600000000003", "text": "Wow, okay.", "start": 3687.1600000000003, "end": 3688.1600000000003}
+{"id": "XkOZKCAYKdg-t3688.1600000000003", "text": "And so you take mine, take Andreas, take Edo, take Susan, take yours.", "start": 3688.1600000000003, "end": 3693.08}
+{"id": "XkOZKCAYKdg-t3693.08", "text": "I bet our mutations are not the same, normal.", "start": 3693.08, "end": 3695.92}
+{"id": "XkOZKCAYKdg-t3695.92", "text": "So it's a very difficult one.", "start": 3695.92, "end": 3699.8}
+{"id": "XkOZKCAYKdg-t3699.8", "text": "And I do sometimes think about what you are saying, I mean they were, they are people", "start": 3699.8, "end": 3706.1600000000003}
+{"id": "XkOZKCAYKdg-t3706.1600000000003", "text": "who lived to over 100 and they have no cancer.", "start": 3706.1600000000003, "end": 3709.92}
+{"id": "XkOZKCAYKdg-t3709.92", "text": "What if we look at them, their genes, what would happen?", "start": 3709.92, "end": 3712.84}
+{"id": "XkOZKCAYKdg-t3712.84", "text": "It's very difficult because for instance, you know, people have actually done these studies", "start": 3712.84, "end": 3718.2000000000003}
+{"id": "XkOZKCAYKdg-t3718.2000000000003", "text": "for what we call complex diseases like diabetes, obesity, you know, other major ones.", "start": 3718.2000000000003, "end": 3726.96}
+{"id": "XkOZKCAYKdg-t3726.96", "text": "And you know, even autism.", "start": 3726.96, "end": 3730.2400000000002}
+{"id": "XkOZKCAYKdg-t3730.2400000000002", "text": "And what they find is that when you look at each individual gene in isolation, you find", "start": 3730.2400000000002, "end": 3735.68}
+{"id": "XkOZKCAYKdg-t3735.68", "text": "thousands of genes, each one with a tiny, tiny, tiny contribution.", "start": 3735.68, "end": 3739.7200000000003}
+{"id": "XkOZKCAYKdg-t3739.7200000000003", "text": "And so it is impossible to put together the actual pattern because if you have something", "start": 3739.7200000000003, "end": 3743.8}
+{"id": "XkOZKCAYKdg-t3743.8", "text": "that says, oh, if you have this gene, it's not an alteration, but it's a germline variant.", "start": 3743.8, "end": 3748.96}
+{"id": "XkOZKCAYKdg-t3748.96", "text": "If you have this variant, you will live longer, but your ability to live longer is the probability", "start": 3748.96, "end": 3754.84}
+{"id": "XkOZKCAYKdg-t3754.84", "text": "you live longer is 1.2% more than somebody who doesn't have it.", "start": 3754.84, "end": 3758.76}
+{"id": "XkOZKCAYKdg-t3758.76", "text": "What do you do with that?", "start": 3758.76, "end": 3759.76}
+{"id": "XkOZKCAYKdg-t3759.76", "text": "You know, it's just really not an actionable number.", "start": 3759.76, "end": 3761.7200000000003}
+{"id": "XkOZKCAYKdg-t3761.7200000000003", "text": "But that's the tail end of the curve, right?", "start": 3761.7200000000003, "end": 3764.4}
+{"id": "XkOZKCAYKdg-t3764.4", "text": "So at the other end, you talk about GWAS studies basically, right?", "start": 3764.4, "end": 3767.92}
+{"id": "XkOZKCAYKdg-t3767.92", "text": "At the other end of the spectrum, you do have things like braka, braka mutations and breast", "start": 3767.92, "end": 3775.76}
+{"id": "XkOZKCAYKdg-t3775.76", "text": "cancer.", "start": 3775.76, "end": 3776.76}
+{"id": "XkOZKCAYKdg-t3776.76", "text": "You have it.", "start": 3776.76, "end": 3777.76}
+{"id": "XkOZKCAYKdg-t3777.76", "text": "It has a consequence.", "start": 3777.76, "end": 3778.76}
+{"id": "XkOZKCAYKdg-t3778.76", "text": "You need a surgeon.", "start": 3778.76, "end": 3779.84}
+{"id": "XkOZKCAYKdg-t3779.84", "text": "I mean, you really need to have a discussion, right?", "start": 3779.84, "end": 3782.52}
+{"id": "XkOZKCAYKdg-t3782.52", "text": "So there is this curve of things that are really important and it goes all the way down.", "start": 3782.52, "end": 3787.04}
+{"id": "XkOZKCAYKdg-t3787.04", "text": "And the more you look, the more you'll find things, of course, that are, you know, really", "start": 3787.04, "end": 3791.32}
+{"id": "XkOZKCAYKdg-t3791.32", "text": "do we need to do something about this?", "start": 3791.32, "end": 3792.7599999999998}
+{"id": "XkOZKCAYKdg-t3792.7599999999998", "text": "No, we're talking about two different things.", "start": 3792.7599999999998, "end": 3794.44}
+{"id": "XkOZKCAYKdg-t3794.44", "text": "So for risk of cancer, absolutely agree with you, you know, braka, one, braka, two, et cetera.", "start": 3794.44, "end": 3799.4}
+{"id": "XkOZKCAYKdg-t3799.4", "text": "What he's talking about is protective alleles.", "start": 3799.4, "end": 3802.48}
+{"id": "XkOZKCAYKdg-t3802.48", "text": "Protective alleles, I don't know if there's any protective alleles that has been discovered", "start": 3802.48, "end": 3805.2}
+{"id": "XkOZKCAYKdg-t3805.2", "text": "so far with eye penetrant.", "start": 3805.2, "end": 3808.36}
+{"id": "XkOZKCAYKdg-t3808.36", "text": "And as I said, like in more complex diseases, so breaking the vase, it's easy fixing it a", "start": 3808.36, "end": 3814.8}
+{"id": "XkOZKCAYKdg-t3814.8", "text": "lot harder and it's much more polygenic.", "start": 3814.8, "end": 3817.6400000000003}
+{"id": "XkOZKCAYKdg-t3817.6400000000003", "text": "So you need the contribution of many, many different genes.", "start": 3817.6400000000003, "end": 3820.0}
+{"id": "XkOZKCAYKdg-t3820.0", "text": "That's where you get into this situation where you may have the 100 patients that defeat", "start": 3820.0, "end": 3824.44}
+{"id": "XkOZKCAYKdg-t3824.44", "text": "cancers, they may do it in 100 different ways.", "start": 3824.44, "end": 3826.92}
+{"id": "XkOZKCAYKdg-t3826.92", "text": "Well, it's just a flip side of the same question, right?", "start": 3826.92, "end": 3830.1600000000003}
+{"id": "XkOZKCAYKdg-t3830.1600000000003", "text": "If you can define the risk alleles, then the absence of the risk is the protection.", "start": 3830.1600000000003, "end": 3835.0}
+{"id": "XkOZKCAYKdg-t3835.0", "text": "Yeah, but protective alleles are much harder to find than the risk alleles.", "start": 3835.0, "end": 3838.1200000000003}
+{"id": "XkOZKCAYKdg-t3838.12", "text": "So you can't design that study.", "start": 3838.12, "end": 3839.8399999999997}
+{"id": "XkOZKCAYKdg-t3839.8399999999997", "text": "You cannot have a population of 100,000 people who will not get cancer.", "start": 3839.8399999999997, "end": 3844.7599999999998}
+{"id": "XkOZKCAYKdg-t3844.7599999999998", "text": "It's hard to design that study.", "start": 3844.7599999999998, "end": 3847.7999999999997}
+{"id": "XkOZKCAYKdg-t3847.7999999999997", "text": "It's easy to design the study where you say, yeah, I have 5,000 patients with breast cancer", "start": 3847.7999999999997, "end": 3852.2}
+{"id": "XkOZKCAYKdg-t3852.2", "text": "and 5,000 patients who don't have it and I can compare them.", "start": 3852.2, "end": 3855.24}
+{"id": "XkOZKCAYKdg-t3855.24", "text": "We're actually going at that kind of question, but from a different sort of angle, I'm part", "start": 3855.24, "end": 3860.04}
+{"id": "XkOZKCAYKdg-t3860.04", "text": "of a consortium development project that's looking at long-term ovarian cancer survivors.", "start": 3860.04, "end": 3866.92}
+{"id": "XkOZKCAYKdg-t3866.92", "text": "So these are stage three and four ovarian cancer patients who may have a predicted lifespan", "start": 3866.92, "end": 3875.12}
+{"id": "XkOZKCAYKdg-t3875.12", "text": "of like three and four years.", "start": 3875.12, "end": 3876.92}
+{"id": "XkOZKCAYKdg-t3876.92", "text": "And these are people who have lived past 10 years and we're looking at their molecular,", "start": 3876.92, "end": 3887.32}
+{"id": "XkOZKCAYKdg-t3887.32", "text": "we're looking at the tumors molecularly and we're also looking at their psychological", "start": 3887.32, "end": 3892.0}
+{"id": "XkOZKCAYKdg-t3892.0", "text": "factors.", "start": 3892.0, "end": 3893.16}
+{"id": "XkOZKCAYKdg-t3893.16", "text": "And we're interviewing them about what do you think has led to your long-term survival", "start": 3893.16, "end": 3900.68}
+{"id": "XkOZKCAYKdg-t3900.68", "text": "and we're also looking at what's mutated, what's not mutated, et cetera.", "start": 3900.68, "end": 3905.08}
+{"id": "XkOZKCAYKdg-t3905.08", "text": "So I don't have results for you yet, but that's a potential approach to look at who survives", "start": 3905.08, "end": 3912.24}
+{"id": "XkOZKCAYKdg-t3912.24", "text": "that you wouldn't expect to.", "start": 3912.24, "end": 3914.2}
+{"id": "XkOZKCAYKdg-t3914.2", "text": "So you don't have to result from the gene part, but for the interview part, what have", "start": 3914.2, "end": 3920.92}
+{"id": "XkOZKCAYKdg-t3920.92", "text": "you found?", "start": 3920.92, "end": 3922.3199999999997}
+{"id": "XkOZKCAYKdg-t3922.32", "text": "We haven't looked at them yet.", "start": 3922.32, "end": 3923.92}
+{"id": "XkOZKCAYKdg-t3923.92", "text": "We're just collecting data on it.", "start": 3923.92, "end": 3926.8}
+{"id": "XkOZKCAYKdg-t3926.8", "text": "You're looking at their immune system?", "start": 3926.8, "end": 3928.8}
+{"id": "XkOZKCAYKdg-t3928.8", "text": "No, we're looking at their tumors.", "start": 3928.8, "end": 3932.04}
+{"id": "XkOZKCAYKdg-t3932.04", "text": "We're not, at this point, we're not looking at their immune system.", "start": 3932.04, "end": 3935.2000000000003}
+{"id": "XkOZKCAYKdg-t3935.2000000000003", "text": "But also, I think that this kind of study has not been done, maybe in cancer with the", "start": 3935.2000000000003, "end": 3942.2400000000002}
+{"id": "XkOZKCAYKdg-t3942.2400000000002", "text": "right control, but they've been done for instance in cardio myopathies and now the type of,", "start": 3942.2400000000002, "end": 3947.6800000000003}
+{"id": "XkOZKCAYKdg-t3947.68", "text": "you know, in diabetes, they've looked at huge populations, 30,000 individuals, you know,", "start": 3947.68, "end": 3953.52}
+{"id": "XkOZKCAYKdg-t3953.52", "text": "and that they're profiled using snip chips.", "start": 3953.52, "end": 3957.48}
+{"id": "XkOZKCAYKdg-t3957.48", "text": "And I think traditionally it's been much harder to find anything protective than to", "start": 3957.48, "end": 3960.7599999999998}
+{"id": "XkOZKCAYKdg-t3960.7599999999998", "text": "find something that appears.", "start": 3960.7599999999998, "end": 3962.12}
+{"id": "XkOZKCAYKdg-t3962.12", "text": "The tears are alleles.", "start": 3962.12, "end": 3964.2799999999997}
+{"id": "XkOZKCAYKdg-t3964.2799999999997", "text": "They're few, but they're a little bit easier to find.", "start": 3964.2799999999997, "end": 3967.24}
+{"id": "XkOZKCAYKdg-t3967.24", "text": "Protective alleles, I think, is a much more complicated story.", "start": 3967.24, "end": 3970.52}
+{"id": "XkOZKCAYKdg-t3970.52", "text": "I think it's the same thing with stress.", "start": 3970.52, "end": 3972.2}
+{"id": "XkOZKCAYKdg-t3972.2", "text": "You can point at stress and you can say that that's bad, you know, psychologically.", "start": 3972.2, "end": 3976.24}
+{"id": "XkOZKCAYKdg-t3976.24", "text": "And what's the biology of stress?", "start": 3976.24, "end": 3978.3199999999997}
+{"id": "XkOZKCAYKdg-t3978.3199999999997", "text": "But it's harder to define the biology of what's good.", "start": 3978.3199999999997, "end": 3981.0}
+{"id": "XkOZKCAYKdg-t3981.0", "text": "What's good.", "start": 3981.0, "end": 3982.0}
+{"id": "XkOZKCAYKdg-t3982.0", "text": "I wanted to point to another aspect of cancer in mind, which we haven't touched upon, which", "start": 3982.0, "end": 3988.08}
+{"id": "XkOZKCAYKdg-t3988.08", "text": "I think it's very important, which is that to defeat cancer or you say, what was the", "start": 3988.08, "end": 3998.64}
+{"id": "XkOZKCAYKdg-t3998.64", "text": "word that you used before?", "start": 3998.64, "end": 3999.7999999999997}
+{"id": "XkOZKCAYKdg-t3999.7999999999997", "text": "Just to eradicate cancer.", "start": 3999.7999999999997, "end": 4000.7999999999997}
+{"id": "XkOZKCAYKdg-t4000.8", "text": "You need great scientific minds and I think that this is a major threat right now because", "start": 4000.8, "end": 4013.44}
+{"id": "XkOZKCAYKdg-t4013.44", "text": "right at a time where biologists has come, has been empowered by extraordinary tools,", "start": 4013.44, "end": 4021.32}
+{"id": "XkOZKCAYKdg-t4021.32", "text": "both in terms of availability of small molecules, but also in terms of the ability to now literally", "start": 4021.32, "end": 4027.32}
+{"id": "XkOZKCAYKdg-t4027.32", "text": "look at every single molecule aspect of a cell or image of a cell, we are seeing a dramatic", "start": 4027.32, "end": 4034.6000000000004}
+{"id": "XkOZKCAYKdg-t4034.6000000000004", "text": "decrease in inflation on the ability to do science.", "start": 4034.6000000000004, "end": 4037.84}
+{"id": "XkOZKCAYKdg-t4037.84", "text": "And I think this has been a dramatic setback that I think should be brought out more often", "start": 4037.84, "end": 4044.6000000000004}
+{"id": "XkOZKCAYKdg-t4044.6000000000004", "text": "and more forcefully to the public attention because we are close to make some real amazing", "start": 4044.6000000000004, "end": 4051.32}
+{"id": "XkOZKCAYKdg-t4051.32", "text": "breakthroughs.", "start": 4051.32, "end": 4052.32}
+{"id": "XkOZKCAYKdg-t4052.32", "text": "Just to give you an example of what's happening, until three years ago or two years ago actually,", "start": 4052.32, "end": 4060.0800000000004}
+{"id": "XkOZKCAYKdg-t4060.0800000000004", "text": "the number of approved, FDA approved cancer drugs had declined steadily over the years", "start": 4060.0800000000004, "end": 4065.6400000000003}
+{"id": "XkOZKCAYKdg-t4065.6400000000003", "text": "and then the last two years have seen a dramatic increase in the number of therapeutic agents", "start": 4065.6400000000003, "end": 4070.76}
+{"id": "XkOZKCAYKdg-t4070.76", "text": "that have been approved.", "start": 4070.76, "end": 4072.76}
+{"id": "XkOZKCAYKdg-t4072.76", "text": "That's an indication, in my opinion, that something is starting to work and it's starting to work", "start": 4072.76, "end": 4077.6000000000004}
+{"id": "XkOZKCAYKdg-t4077.6000000000004", "text": "in a very major way.", "start": 4077.6000000000004, "end": 4079.2000000000003}
+{"id": "XkOZKCAYKdg-t4079.2", "text": "And I think this is to a large extent due to the fact that we now are empowered by the", "start": 4079.2, "end": 4083.24}
+{"id": "XkOZKCAYKdg-t4083.24", "text": "tools of technology that we didn't have before.", "start": 4083.24, "end": 4087.56}
+{"id": "XkOZKCAYKdg-t4087.56", "text": "It is to me dramatic and overbearing that right at the time where you have these technologies", "start": 4087.56, "end": 4094.8399999999997}
+{"id": "XkOZKCAYKdg-t4094.8399999999997", "text": "that can, and we have now figure out cancer a little bit as a mechanistic story that we", "start": 4094.8399999999997, "end": 4101.679999999999}
+{"id": "XkOZKCAYKdg-t4101.679999999999", "text": "don't know, essentially we see a decrease in the number of students, postdocs and faculties", "start": 4101.679999999999, "end": 4106.72}
+{"id": "XkOZKCAYKdg-t4106.72", "text": "that we can actually put to work.", "start": 4106.72, "end": 4107.72}
+{"id": "XkOZKCAYKdg-t4107.72", "text": "And so the decrease in resources.", "start": 4107.72, "end": 4109.72}
+{"id": "XkOZKCAYKdg-t4109.72", "text": "Resourceism.", "start": 4109.72, "end": 4110.72}
+{"id": "XkOZKCAYKdg-t4110.72", "text": "And actually this is kind of sad because it's at the time we're embarrassed by too many", "start": 4110.72, "end": 4118.360000000001}
+{"id": "XkOZKCAYKdg-t4118.360000000001", "text": "riches.", "start": 4118.360000000001, "end": 4119.360000000001}
+{"id": "XkOZKCAYKdg-t4119.360000000001", "text": "We have the tool, we have the reagent, and we need the mind to integrate all this information", "start": 4119.360000000001, "end": 4126.360000000001}
+{"id": "XkOZKCAYKdg-t4126.360000000001", "text": "and that's we need resources.", "start": 4126.360000000001, "end": 4128.64}
+{"id": "XkOZKCAYKdg-t4128.64", "text": "And it's very difficult.", "start": 4128.64, "end": 4129.64}
+{"id": "XkOZKCAYKdg-t4129.64", "text": "It's very difficult.", "start": 4129.64, "end": 4130.64}
+{"id": "XkOZKCAYKdg-t4130.64", "text": "It's very difficult.", "start": 4130.64, "end": 4131.64}
+{"id": "XkOZKCAYKdg-t4131.64", "text": "It's very kind of discouraging to the next generation because they see the future is", "start": 4131.64, "end": 4138.72}
+{"id": "XkOZKCAYKdg-t4138.72", "text": "so kind of not promising.", "start": 4138.72, "end": 4141.56}
+{"id": "XkOZKCAYKdg-t4141.56", "text": "Well, there's a reason to...", "start": 4141.56, "end": 4143.56}
+{"id": "XkOZKCAYKdg-t4143.56", "text": "Look, I told you yesterday when I teach my introductory class in Colombia, what I tell", "start": 4143.56, "end": 4148.320000000001}
+{"id": "XkOZKCAYKdg-t4148.320000000001", "text": "my students is you should be, you should continue in this direction only if this is", "start": 4148.320000000001, "end": 4152.88}
+{"id": "XkOZKCAYKdg-t4152.88", "text": "the only thing you can do.", "start": 4152.88, "end": 4153.88}
+{"id": "XkOZKCAYKdg-t4153.88", "text": "If there's any other thing you can do, go do it.", "start": 4153.88, "end": 4155.88}
+{"id": "XkOZKCAYKdg-t4155.88", "text": "Don't do it.", "start": 4155.88, "end": 4156.88}
+{"id": "XkOZKCAYKdg-t4156.88", "text": "I say the same thing.", "start": 4156.88, "end": 4157.88}
+{"id": "XkOZKCAYKdg-t4157.88", "text": "I say the same thing.", "start": 4157.88, "end": 4158.88}
+{"id": "XkOZKCAYKdg-t4158.88", "text": "Because I think to do what you do is not a job, it's a passion.", "start": 4158.88, "end": 4165.36}
+{"id": "XkOZKCAYKdg-t4165.36", "text": "Unless you have it, you're not going to be able to contribute.", "start": 4165.36, "end": 4169.400000000001}
+{"id": "XkOZKCAYKdg-t4169.400000000001", "text": "So you have less people who are more passionate.", "start": 4169.400000000001, "end": 4171.6}
+{"id": "XkOZKCAYKdg-t4171.6", "text": "I'll give you an example.", "start": 4171.6, "end": 4173.400000000001}
+{"id": "XkOZKCAYKdg-t4173.400000000001", "text": "The average lifespan of a postdoc today, before they could get six to seven, eight years.", "start": 4173.400000000001, "end": 4181.84}
+{"id": "XkOZKCAYKdg-t4181.84", "text": "That's insane because those are the most productive year of a scientist right after their PhD.", "start": 4181.84, "end": 4186.4800000000005}
+{"id": "XkOZKCAYKdg-t4186.48", "text": "So it used to be that people were getting hired even out of the PhD.", "start": 4186.48, "end": 4190.759999999999}
+{"id": "XkOZKCAYKdg-t4190.759999999999", "text": "Yeah, we were at the time when we were postdoc.", "start": 4190.759999999999, "end": 4193.719999999999}
+{"id": "XkOZKCAYKdg-t4193.719999999999", "text": "Three years later, you become assistant professor.", "start": 4193.719999999999, "end": 4196.879999999999}
+{"id": "XkOZKCAYKdg-t4196.879999999999", "text": "Now two postdoc is standard.", "start": 4196.879999999999, "end": 4200.32}
+{"id": "XkOZKCAYKdg-t4200.32", "text": "And that's six years.", "start": 4200.32, "end": 4202.12}
+{"id": "XkOZKCAYKdg-t4202.12", "text": "And it's struggling.", "start": 4202.12, "end": 4203.12}
+{"id": "XkOZKCAYKdg-t4203.12", "text": "And it's a very difficult position.", "start": 4203.12, "end": 4204.12}
+{"id": "XkOZKCAYKdg-t4204.12", "text": "And it's really...", "start": 4204.12, "end": 4205.12}
+{"id": "XkOZKCAYKdg-t4205.12", "text": "But that's the kind of funding in the sciences that we're using.", "start": 4205.12, "end": 4208.12}
+{"id": "XkOZKCAYKdg-t4208.12", "text": "Yes, it's the lack of regeneration of science.", "start": 4208.12, "end": 4211.12}
+{"id": "XkOZKCAYKdg-t4211.12", "text": "We definitely are.", "start": 4211.12, "end": 4212.12}
+{"id": "XkOZKCAYKdg-t4212.12", "text": "We definitely are.", "start": 4212.12, "end": 4213.12}
+{"id": "XkOZKCAYKdg-t4213.12", "text": "And that's very unfortunate because it is not an entertainment of your intellectual", "start": 4213.12, "end": 4220.28}
+{"id": "XkOZKCAYKdg-t4220.28", "text": "need.", "start": 4220.28, "end": 4221.28}
+{"id": "XkOZKCAYKdg-t4221.28", "text": "It's actually a time that things can really get integrated to really make a difference.", "start": 4221.28, "end": 4227.36}
+{"id": "XkOZKCAYKdg-t4227.36", "text": "So is it nice to have federal funding?", "start": 4227.36, "end": 4229.64}
+{"id": "XkOZKCAYKdg-t4229.64", "text": "Is that an issue?", "start": 4229.64, "end": 4230.64}
+{"id": "XkOZKCAYKdg-t4230.64", "text": "Right.", "start": 4230.64, "end": 4231.64}
+{"id": "XkOZKCAYKdg-t4231.64", "text": "Well, it's a domino effect because the federal funding is the biggest funding agency.", "start": 4231.64, "end": 4237.96}
+{"id": "XkOZKCAYKdg-t4237.96", "text": "So the federal funding drops, then they are smaller foundations.", "start": 4237.96, "end": 4243.44}
+{"id": "XkOZKCAYKdg-t4243.44", "text": "Then it's a ripple effect.", "start": 4243.44, "end": 4244.64}
+{"id": "XkOZKCAYKdg-t4244.64", "text": "Then everybody goes to those foundations.", "start": 4244.64, "end": 4247.32}
+{"id": "XkOZKCAYKdg-t4247.32", "text": "And all of a sudden those foundations and also those foundations depend on donations.", "start": 4247.32, "end": 4253.52}
+{"id": "XkOZKCAYKdg-t4253.52", "text": "The donation is not as robust as it was before because I'm on a board.", "start": 4253.52, "end": 4258.6}
+{"id": "XkOZKCAYKdg-t4258.6", "text": "A couple of them.", "start": 4258.6, "end": 4259.6}
+{"id": "XkOZKCAYKdg-t4259.6", "text": "I know that.", "start": 4259.6, "end": 4260.6}
+{"id": "XkOZKCAYKdg-t4260.6", "text": "It's a very difficult time.", "start": 4260.6, "end": 4261.88}
+{"id": "XkOZKCAYKdg-t4261.88", "text": "Very difficult time.", "start": 4261.88, "end": 4263.88}
+{"id": "XkOZKCAYKdg-t4263.88", "text": "No, I agree.", "start": 4263.88, "end": 4267.92}
+{"id": "XkOZKCAYKdg-t4267.92", "text": "Money is always better than less money.", "start": 4267.92, "end": 4270.6}
+{"id": "XkOZKCAYKdg-t4270.6", "text": "There's another side to it.", "start": 4270.6, "end": 4271.76}
+{"id": "XkOZKCAYKdg-t4271.76", "text": "I think there's an interesting article in Lancet or something maybe last year or so about", "start": 4271.76, "end": 4277.56}
+{"id": "XkOZKCAYKdg-t4277.56", "text": "waste in research.", "start": 4277.56, "end": 4283.08}
+{"id": "XkOZKCAYKdg-t4283.08", "text": "I read it and I thought there's a truth to this.", "start": 4283.08, "end": 4286.04}
+{"id": "XkOZKCAYKdg-t4286.04", "text": "And part of it is the nature of it.", "start": 4286.04, "end": 4288.04}
+{"id": "XkOZKCAYKdg-t4288.04", "text": "You don't know where you're going.", "start": 4288.04, "end": 4289.64}
+{"id": "XkOZKCAYKdg-t4289.64", "text": "So of course you get lost and you take the wrong direction and it's easier when you have", "start": 4289.64, "end": 4296.08}
+{"id": "XkOZKCAYKdg-t4296.08", "text": "a direct threat.", "start": 4296.08, "end": 4298.0}
+{"id": "XkOZKCAYKdg-t4298.0", "text": "It's probably less wasteful.", "start": 4298.0, "end": 4299.200000000001}
+{"id": "XkOZKCAYKdg-t4299.200000000001", "text": "So that's the nature of what we do.", "start": 4299.200000000001, "end": 4301.56}
+{"id": "XkOZKCAYKdg-t4301.56", "text": "Right?", "start": 4301.56, "end": 4302.56}
+{"id": "XkOZKCAYKdg-t4302.56", "text": "I mean, it's not predictable.", "start": 4302.56, "end": 4304.160000000001}
+{"id": "XkOZKCAYKdg-t4304.160000000001", "text": "So you don't think...", "start": 4304.160000000001, "end": 4305.160000000001}
+{"id": "XkOZKCAYKdg-t4305.160000000001", "text": "Yeah, I think it's...", "start": 4305.160000000001, "end": 4306.160000000001}
+{"id": "XkOZKCAYKdg-t4306.160000000001", "text": "There is also a lot of waste in the system which you look at.", "start": 4306.160000000001, "end": 4310.6}
+{"id": "XkOZKCAYKdg-t4310.6", "text": "And you go to some of these meetings and you look at what's happening there.", "start": 4310.6, "end": 4314.160000000001}
+{"id": "XkOZKCAYKdg-t4314.160000000001", "text": "Yeah, I think it's a vicious cycle because I remember...", "start": 4314.160000000001, "end": 4317.96}
+{"id": "XkOZKCAYKdg-t4317.96", "text": "I remember when I was a graduate student in the postdoc, you have certain liberty to", "start": 4317.96, "end": 4325.2}
+{"id": "XkOZKCAYKdg-t4325.2", "text": "exercise your creativity and you don't have to justify what you do tomorrow.", "start": 4325.2, "end": 4331.0}
+{"id": "XkOZKCAYKdg-t4331.0", "text": "But now the pressure is so high that everyone is under the pressure.", "start": 4331.0, "end": 4336.12}
+{"id": "XkOZKCAYKdg-t4336.12", "text": "You need to produce.", "start": 4336.12, "end": 4337.12}
+{"id": "XkOZKCAYKdg-t4337.12", "text": "You need to produce.", "start": 4337.12, "end": 4338.12}
+{"id": "XkOZKCAYKdg-t4338.12", "text": "That's part of the reason that things become...", "start": 4338.12, "end": 4340.12}
+{"id": "XkOZKCAYKdg-t4340.12", "text": "It makes people be very conservative in repeating things that we all know over and over.", "start": 4340.12, "end": 4347.32}
+{"id": "XkOZKCAYKdg-t4347.32", "text": "And that's actually...", "start": 4347.32, "end": 4348.32}
+{"id": "XkOZKCAYKdg-t4348.32", "text": "Taking tiny little steps.", "start": 4348.32, "end": 4350.4}
+{"id": "XkOZKCAYKdg-t4350.4", "text": "I think that's...", "start": 4350.4, "end": 4351.4}
+{"id": "XkOZKCAYKdg-t4351.4", "text": "And often you just look at it and you think, really did we need to do that experiment again?", "start": 4351.4, "end": 4356.4}
+{"id": "XkOZKCAYKdg-t4356.4", "text": "It really is not...", "start": 4356.4, "end": 4359.88}
+{"id": "XkOZKCAYKdg-t4359.88", "text": "Or paradigm shifts.", "start": 4359.88, "end": 4360.88}
+{"id": "XkOZKCAYKdg-t4360.88", "text": "Yeah, it's a...", "start": 4360.88, "end": 4361.88}
+{"id": "XkOZKCAYKdg-t4361.88", "text": "Well, it's risky.", "start": 4361.88, "end": 4362.88}
+{"id": "XkOZKCAYKdg-t4362.88", "text": "You will not get money from the NIH for something risky.", "start": 4362.88, "end": 4366.88}
+{"id": "XkOZKCAYKdg-t4366.88", "text": "Or in a...", "start": 4366.88, "end": 4367.88}
+{"id": "XkOZKCAYKdg-t4367.88", "text": "Paradigm shifting.", "start": 4367.88, "end": 4368.88}
+{"id": "XkOZKCAYKdg-t4368.88", "text": "No, I mean...", "start": 4368.88, "end": 4369.88}
+{"id": "XkOZKCAYKdg-t4369.88", "text": "Yeah.", "start": 4369.88, "end": 4370.88}
+{"id": "XkOZKCAYKdg-t4370.88", "text": "Yeah.", "start": 4370.88, "end": 4371.88}
+{"id": "XkOZKCAYKdg-t4371.88", "text": "Well, as we said yesterday, there are two types of experiments that you do for a", "start": 4371.88, "end": 4376.799999999999}
+{"id": "XkOZKCAYKdg-t4376.8", "text": "graph, the ones that you've already done and the ones that you will never do.", "start": 4376.8, "end": 4383.8}
+{"id": "XkOZKCAYKdg-t4383.8", "text": "Right?", "start": 4383.8, "end": 4384.8}
+{"id": "XkOZKCAYKdg-t4384.8", "text": "All right.", "start": 4384.8, "end": 4385.8}
+{"id": "XkOZKCAYKdg-t4385.8", "text": "We'll stop here and open up for a question.", "start": 4385.8, "end": 4386.8}
+{"id": "XkOZKCAYKdg-t4386.8", "text": "Can I ask a question?", "start": 4386.8, "end": 4387.8}
+{"id": "XkOZKCAYKdg-t4387.8", "text": "Please go to the microphone.", "start": 4387.8, "end": 4390.8}
+{"id": "XkOZKCAYKdg-t4390.8", "text": "Okay.", "start": 4390.8, "end": 4391.8}
+{"id": "XkOZKCAYKdg-t4391.8", "text": "Okay.", "start": 4391.8, "end": 4392.8}
+{"id": "XkOZKCAYKdg-t4392.8", "text": "Okay.", "start": 4392.8, "end": 4393.8}
+{"id": "XkOZKCAYKdg-t4393.8", "text": "Okay.", "start": 4393.8, "end": 4394.8}
+{"id": "XkOZKCAYKdg-t4394.8", "text": "Okay.", "start": 4394.8, "end": 4395.8}
+{"id": "XkOZKCAYKdg-t4395.8", "text": "Okay.", "start": 4395.8, "end": 4396.8}
+{"id": "XkOZKCAYKdg-t4396.8", "text": "Okay.", "start": 4396.8, "end": 4397.8}
+{"id": "XkOZKCAYKdg-t4397.8", "text": "Okay.", "start": 4397.8, "end": 4398.8}
+{"id": "XkOZKCAYKdg-t4398.8", "text": "Okay.", "start": 4398.8, "end": 4399.8}
+{"id": "XkOZKCAYKdg-t4399.8", "text": "Okay.", "start": 4399.8, "end": 4400.8}
+{"id": "XkOZKCAYKdg-t4400.8", "text": "Okay.", "start": 4400.8, "end": 4401.8}
+{"id": "XkOZKCAYKdg-t4401.8", "text": "Okay.", "start": 4401.8, "end": 4402.8}
+{"id": "XkOZKCAYKdg-t4402.8", "text": "Okay.", "start": 4402.8, "end": 4403.8}
+{"id": "XkOZKCAYKdg-t4403.8", "text": "Okay.", "start": 4403.8, "end": 4404.8}
+{"id": "XkOZKCAYKdg-t4404.8", "text": "I have two questions.", "start": 4404.8, "end": 4417.820000000001}
+{"id": "XkOZKCAYKdg-t4417.820000000001", "text": "One of them is sort of science fiction and the other is a little more addressed to the", "start": 4417.820000000001, "end": 4422.3}
+{"id": "XkOZKCAYKdg-t4422.3", "text": "idea of cancer and the mind.", "start": 4422.3, "end": 4424.92}
+{"id": "XkOZKCAYKdg-t4424.92", "text": "The science fiction one arises from what you said about the P-53.", "start": 4424.92, "end": 4428.96}
+{"id": "XkOZKCAYKdg-t4428.96", "text": "Gene, why can't we have them?", "start": 4428.96, "end": 4432.68}
+{"id": "XkOZKCAYKdg-t4432.68", "text": "Why?", "start": 4432.68, "end": 4433.68}
+{"id": "XkOZKCAYKdg-t4433.68", "text": "Why can't the baby is born or when the woman is...", "start": 4433.68, "end": 4436.16}
+{"id": "XkOZKCAYKdg-t4436.16", "text": "I mean, can you get...", "start": 4436.16, "end": 4437.320000000001}
+{"id": "XkOZKCAYKdg-t4437.320000000001", "text": "That's a science fiction one.", "start": 4437.320000000001, "end": 4438.84}
+{"id": "XkOZKCAYKdg-t4438.84", "text": "Can I buy one somewhere?", "start": 4438.84, "end": 4441.04}
+{"id": "XkOZKCAYKdg-t4441.04", "text": "Seriously.", "start": 4441.04, "end": 4442.04}
+{"id": "XkOZKCAYKdg-t4442.04", "text": "I mean, is there any...", "start": 4442.04, "end": 4444.240000000001}
+{"id": "XkOZKCAYKdg-t4444.240000000001", "text": "Okay.", "start": 4444.240000000001, "end": 4445.240000000001}
+{"id": "XkOZKCAYKdg-t4445.240000000001", "text": "I think being a scientist, you get more and more humbled and modest every day because", "start": 4445.240000000001, "end": 4453.320000000001}
+{"id": "XkOZKCAYKdg-t4453.320000000001", "text": "we know so little about how nature designed us.", "start": 4453.320000000001, "end": 4457.72}
+{"id": "XkOZKCAYKdg-t4457.72", "text": "So P-53 is a gene.", "start": 4457.72, "end": 4460.84}
+{"id": "XkOZKCAYKdg-t4460.84", "text": "If you lose it.", "start": 4460.84, "end": 4462.96}
+{"id": "XkOZKCAYKdg-t4462.96", "text": "If you consider a cell has to go around a clock to divide.", "start": 4462.96, "end": 4467.84}
+{"id": "XkOZKCAYKdg-t4467.84", "text": "P-53 kind of the gatekeeper at two points and it cut a sense if the cell should go on", "start": 4467.84, "end": 4475.6}
+{"id": "XkOZKCAYKdg-t4475.6", "text": "or not go on.", "start": 4475.6, "end": 4476.6}
+{"id": "XkOZKCAYKdg-t4476.6", "text": "Okay.", "start": 4476.6, "end": 4477.6}
+{"id": "XkOZKCAYKdg-t4477.6", "text": "This is a tumor surprise.", "start": 4477.6, "end": 4478.6}
+{"id": "XkOZKCAYKdg-t4478.6", "text": "But it does many other things as well.", "start": 4478.6, "end": 4481.56}
+{"id": "XkOZKCAYKdg-t4481.56", "text": "You can imagine if you have more than two copies, three copies, what if your cell just won't", "start": 4481.56, "end": 4487.24}
+{"id": "XkOZKCAYKdg-t4487.24", "text": "be able to move?", "start": 4487.24, "end": 4488.24}
+{"id": "XkOZKCAYKdg-t4488.24", "text": "You're in trouble.", "start": 4488.24, "end": 4489.24}
+{"id": "XkOZKCAYKdg-t4489.24", "text": "You probably would never...", "start": 4489.24, "end": 4490.24}
+{"id": "XkOZKCAYKdg-t4490.24", "text": "There's one function actually.", "start": 4490.24, "end": 4491.24}
+{"id": "XkOZKCAYKdg-t4491.24", "text": "This is important which is the way you develop immunity, right?", "start": 4491.24, "end": 4495.719999999999}
+{"id": "XkOZKCAYKdg-t4495.719999999999", "text": "Is because your cells, when they see the antigen in the virus...", "start": 4495.719999999999, "end": 4501.2}
+{"id": "XkOZKCAYKdg-t4501.2", "text": "They divide.", "start": 4501.2, "end": 4502.2}
+{"id": "XkOZKCAYKdg-t4502.2", "text": "No, they actually mutate their own DNA.", "start": 4502.2, "end": 4504.28}
+{"id": "XkOZKCAYKdg-t4504.28", "text": "Okay.", "start": 4504.28, "end": 4505.28}
+{"id": "XkOZKCAYKdg-t4505.28", "text": "And to do that, you have to suppress T-53 because otherwise the P-53 would kill the cell.", "start": 4505.28, "end": 4509.639999999999}
+{"id": "XkOZKCAYKdg-t4509.639999999999", "text": "The moment it is the mutation.", "start": 4509.639999999999, "end": 4511.16}
+{"id": "XkOZKCAYKdg-t4511.16", "text": "So basically, if you now have three copies of P-53, as soon as it's trying to develop", "start": 4511.16, "end": 4515.44}
+{"id": "XkOZKCAYKdg-t4515.44", "text": "the signature for the virus, the cell dies.", "start": 4515.44, "end": 4517.96}
+{"id": "XkOZKCAYKdg-t4517.96", "text": "So you would have probably...", "start": 4517.96, "end": 4518.96}
+{"id": "XkOZKCAYKdg-t4518.96", "text": "I'll make an inducible one.", "start": 4518.96, "end": 4523.84}
+{"id": "XkOZKCAYKdg-t4523.84", "text": "I'll put an inducible...", "start": 4523.84, "end": 4525.84}
+{"id": "XkOZKCAYKdg-t4525.84", "text": "It's just what inducible.", "start": 4525.84, "end": 4526.84}
+{"id": "XkOZKCAYKdg-t4526.84", "text": "Okay.", "start": 4526.84, "end": 4527.84}
+{"id": "XkOZKCAYKdg-t4527.84", "text": "That's another...", "start": 4527.84, "end": 4528.84}
+{"id": "XkOZKCAYKdg-t4528.84", "text": "You can make genes in such a way that they're not active and then you give a drug like tetracycline", "start": 4528.84, "end": 4533.6}
+{"id": "XkOZKCAYKdg-t4533.6", "text": "and it switches the gene on.", "start": 4533.6, "end": 4535.52}
+{"id": "XkOZKCAYKdg-t4535.52", "text": "You can do this in animals and you would put a gene that kills cancer cells in there that", "start": 4535.52, "end": 4541.12}
+{"id": "XkOZKCAYKdg-t4541.12", "text": "has cell activity.", "start": 4541.12, "end": 4542.12}
+{"id": "XkOZKCAYKdg-t4542.12", "text": "That sounds good.", "start": 4542.12, "end": 4543.12}
+{"id": "XkOZKCAYKdg-t4543.12", "text": "You activate it and you leave it on for 24 hours or 48 hours or two weeks.", "start": 4543.12, "end": 4548.56}
+{"id": "XkOZKCAYKdg-t4548.56", "text": "Whatever you want.", "start": 4548.56, "end": 4549.56}
+{"id": "XkOZKCAYKdg-t4549.56", "text": "Yeah.", "start": 4549.56, "end": 4550.56}
+{"id": "XkOZKCAYKdg-t4550.56", "text": "Gee, I don't know.", "start": 4550.56, "end": 4551.56}
+{"id": "XkOZKCAYKdg-t4551.56", "text": "It's not that...", "start": 4551.56, "end": 4552.56}
+{"id": "XkOZKCAYKdg-t4552.56", "text": "It's not that...", "start": 4552.56, "end": 4553.56}
+{"id": "XkOZKCAYKdg-t4553.56", "text": "That's science fiction but certainly it doesn't really apply to...", "start": 4553.56, "end": 4556.4400000000005}
+{"id": "XkOZKCAYKdg-t4556.4400000000005", "text": "Well, so it doesn't apply to human medicine in the broad sense.", "start": 4556.4400000000005, "end": 4560.200000000001}
+{"id": "XkOZKCAYKdg-t4560.200000000001", "text": "It does, maybe with some exceptions.", "start": 4560.200000000001, "end": 4562.080000000001}
+{"id": "XkOZKCAYKdg-t4562.080000000001", "text": "So some exceptions, for example, are stem cell therapies.", "start": 4562.080000000001, "end": 4566.320000000001}
+{"id": "XkOZKCAYKdg-t4566.320000000001", "text": "Like we can make stem cells from scratch and we can make tissues from these stem cells.", "start": 4566.320000000001, "end": 4572.080000000001}
+{"id": "XkOZKCAYKdg-t4572.080000000001", "text": "And for example, if you're a diabetic, we can make from those stem cells insulin producing", "start": 4572.080000000001, "end": 4577.56}
+{"id": "XkOZKCAYKdg-t4577.56", "text": "cells.", "start": 4577.56, "end": 4578.56}
+{"id": "XkOZKCAYKdg-t4578.56", "text": "There's a risk that these cells at some point give rise to a cancer.", "start": 4578.56, "end": 4582.88}
+{"id": "XkOZKCAYKdg-t4582.88", "text": "Now while we make these cells, we can put genes like that in there.", "start": 4582.88, "end": 4587.160000000001}
+{"id": "XkOZKCAYKdg-t4587.160000000001", "text": "We can engineer these cells to have such a fail-safe mechanism that we can then switch", "start": 4587.160000000001, "end": 4591.4800000000005}
+{"id": "XkOZKCAYKdg-t4591.4800000000005", "text": "on.", "start": 4591.4800000000005, "end": 4592.4800000000005}
+{"id": "XkOZKCAYKdg-t4592.4800000000005", "text": "Right?", "start": 4592.4800000000005, "end": 4593.4800000000005}
+{"id": "XkOZKCAYKdg-t4593.4800000000005", "text": "So that's something that you can...", "start": 4593.4800000000005, "end": 4594.4800000000005}
+{"id": "XkOZKCAYKdg-t4594.4800000000005", "text": "In that setting...", "start": 4594.4800000000005, "end": 4595.4800000000005}
+{"id": "XkOZKCAYKdg-t4595.4800000000005", "text": "I do have diabetes, so I'll talk to you afterward.", "start": 4595.4800000000005, "end": 4600.240000000001}
+{"id": "XkOZKCAYKdg-t4600.240000000001", "text": "The second question is a little more serious and less science fiction, which is I've come", "start": 4600.240000000001, "end": 4606.4800000000005}
+{"id": "XkOZKCAYKdg-t4606.48", "text": "to a lot of these and the NYPSI.", "start": 4606.48, "end": 4609.12}
+{"id": "XkOZKCAYKdg-t4609.12", "text": "I've never before and I could be wrong.", "start": 4609.12, "end": 4611.799999999999}
+{"id": "XkOZKCAYKdg-t4611.799999999999", "text": "I don't know about a meeting like this about the sort of mind and the disease.", "start": 4611.799999999999, "end": 4619.0}
+{"id": "XkOZKCAYKdg-t4619.0", "text": "Diabetes is a good example.", "start": 4619.0, "end": 4620.959999999999}
+{"id": "XkOZKCAYKdg-t4620.959999999999", "text": "I don't know if you all have ever had a meeting about diabetes and the mind or malaria and", "start": 4620.959999999999, "end": 4627.639999999999}
+{"id": "XkOZKCAYKdg-t4627.639999999999", "text": "the mind or anything.", "start": 4627.639999999999, "end": 4629.12}
+{"id": "XkOZKCAYKdg-t4629.12", "text": "So why does cancer get one of these meetings?", "start": 4629.12, "end": 4635.4}
+{"id": "XkOZKCAYKdg-t4635.4", "text": "What is it about the illness that generates this sort of psychological interest, whereas", "start": 4635.4, "end": 4643.08}
+{"id": "XkOZKCAYKdg-t4643.08", "text": "others don't?", "start": 4643.08, "end": 4644.08}
+{"id": "XkOZKCAYKdg-t4644.08", "text": "Or as far as I know, at least not on East 82nd Street.", "start": 4644.08, "end": 4648.5199999999995}
+{"id": "XkOZKCAYKdg-t4648.5199999999995", "text": "Thank you.", "start": 4648.5199999999995, "end": 4649.5199999999995}
+{"id": "XkOZKCAYKdg-t4649.5199999999995", "text": "That Susan has to answer this.", "start": 4649.5199999999995, "end": 4651.5199999999995}
+{"id": "XkOZKCAYKdg-t4651.5199999999995", "text": "I should say that there are plenty of people doing research on stress and diabetes, stress", "start": 4651.5199999999995, "end": 4657.96}
+{"id": "XkOZKCAYKdg-t4657.96", "text": "and cardiovascular disease, stress and you name the disease.", "start": 4657.96, "end": 4662.12}
+{"id": "XkOZKCAYKdg-t4662.12", "text": "So maybe this is just the first and a long line of programs.", "start": 4662.12, "end": 4667.32}
+{"id": "XkOZKCAYKdg-t4667.32", "text": "This was serendipitous because it came out of a dinner table conversation that I had", "start": 4667.32, "end": 4672.5199999999995}
+{"id": "XkOZKCAYKdg-t4672.5199999999995", "text": "with Ed about the immune system increased role in fighting cancer.", "start": 4672.5199999999995, "end": 4677.04}
+{"id": "XkOZKCAYKdg-t4677.04", "text": "So we decided to kind of bring this up.", "start": 4677.04, "end": 4679.36}
+{"id": "XkOZKCAYKdg-t4679.36", "text": "Maybe one of a series.", "start": 4679.36, "end": 4681.5599999999995}
+{"id": "XkOZKCAYKdg-t4681.5599999999995", "text": "That there is, right.", "start": 4681.5599999999995, "end": 4684.28}
+{"id": "XkOZKCAYKdg-t4684.28", "text": "Well, it's more life-threatening than the more life-threatening.", "start": 4684.28, "end": 4687.88}
+{"id": "XkOZKCAYKdg-t4687.88", "text": "No, I don't think so.", "start": 4687.88, "end": 4689.88}
+{"id": "XkOZKCAYKdg-t4689.88", "text": "I don't think that's true.", "start": 4689.88, "end": 4690.88}
+{"id": "XkOZKCAYKdg-t4690.88", "text": "But patients react differently if you tell them you have cancer.", "start": 4690.88, "end": 4693.84}
+{"id": "XkOZKCAYKdg-t4693.84", "text": "You have two years to live.", "start": 4693.84, "end": 4695.32}
+{"id": "XkOZKCAYKdg-t4695.32", "text": "Or you tell them you have emphysema.", "start": 4695.32, "end": 4696.92}
+{"id": "XkOZKCAYKdg-t4696.92", "text": "You have two years to live.", "start": 4696.92, "end": 4699.0}
+{"id": "XkOZKCAYKdg-t4699.0", "text": "There is a different psychological connotation to cancer than to equally deadly diseases", "start": 4699.0, "end": 4704.2}
+{"id": "XkOZKCAYKdg-t4704.2", "text": "that are not cancer.", "start": 4704.2, "end": 4705.2}
+{"id": "XkOZKCAYKdg-t4705.2", "text": "Well, when I was in medical student, your comment reminds me one of our professors said, whatever", "start": 4705.2, "end": 4711.4800000000005}
+{"id": "XkOZKCAYKdg-t4711.4800000000005", "text": "you do, don't say to a patient, yes, cancer.", "start": 4711.4800000000005, "end": 4717.52}
+{"id": "XkOZKCAYKdg-t4717.52", "text": "Because that's bad.", "start": 4717.52, "end": 4719.32}
+{"id": "XkOZKCAYKdg-t4719.32", "text": "I think it's true.", "start": 4719.32, "end": 4721.32}
+{"id": "XkOZKCAYKdg-t4721.32", "text": "I think it's true.", "start": 4721.32, "end": 4722.32}
+{"id": "XkOZKCAYKdg-t4722.32", "text": "That's the reaction most people have.", "start": 4722.32, "end": 4723.32}
+{"id": "XkOZKCAYKdg-t4723.32", "text": "The disease comes with a different type of...", "start": 4723.32, "end": 4727.32}
+{"id": "XkOZKCAYKdg-t4727.32", "text": "First of all, an observation and then a question.", "start": 4727.32, "end": 4730.12}
+{"id": "XkOZKCAYKdg-t4730.12", "text": "The observation is, as you may have noticed, science this week has the cover story of humanized", "start": 4730.12, "end": 4736.2}
+{"id": "XkOZKCAYKdg-t4736.2", "text": "mice.", "start": 4736.2, "end": 4737.759999999999}
+{"id": "XkOZKCAYKdg-t4737.759999999999", "text": "So they can't psychoanalyse the mice yet, but almost everything else is going to be possible", "start": 4737.759999999999, "end": 4743.4}
+{"id": "XkOZKCAYKdg-t4743.4", "text": "to do with these mice.", "start": 4743.4, "end": 4746.32}
+{"id": "XkOZKCAYKdg-t4746.32", "text": "When I started medical school 64 years ago, they were curing cancer every day.", "start": 4746.32, "end": 4754.0}
+{"id": "XkOZKCAYKdg-t4754.0", "text": "Just as we do today.", "start": 4754.0, "end": 4755.0}
+{"id": "XkOZKCAYKdg-t4755.0", "text": "Of course, the surgeons can cure cancer now.", "start": 4755.0, "end": 4758.679999999999}
+{"id": "XkOZKCAYKdg-t4758.679999999999", "text": "They cured cancer then.", "start": 4758.679999999999, "end": 4760.679999999999}
+{"id": "XkOZKCAYKdg-t4760.679999999999", "text": "If it was found at a certain stage and could be surgically removed, you were good.", "start": 4760.679999999999, "end": 4766.32}
+{"id": "XkOZKCAYKdg-t4766.32", "text": "And the thing that always surprised me was that, for instance, you could have a lung cancer", "start": 4766.32, "end": 4770.639999999999}
+{"id": "XkOZKCAYKdg-t4770.639999999999", "text": "removed.", "start": 4770.639999999999, "end": 4772.24}
+{"id": "XkOZKCAYKdg-t4772.24", "text": "And my impression was, well, if this was a four-pack, a year, a day smoker, the cancer", "start": 4772.24, "end": 4779.5199999999995}
+{"id": "XkOZKCAYKdg-t4779.5199999999995", "text": "will recur and the rest of the remaining lung.", "start": 4779.5199999999995, "end": 4782.88}
+{"id": "XkOZKCAYKdg-t4782.88", "text": "Interestingly enough, many of these survivors do not develop a second cancer in the same", "start": 4782.88, "end": 4788.76}
+{"id": "XkOZKCAYKdg-t4788.76", "text": "bed that they develop their first one.", "start": 4788.76, "end": 4792.04}
+{"id": "XkOZKCAYKdg-t4792.04", "text": "Now the question is, and Atul Gawande was here this week talking to us about being mortal.", "start": 4792.04, "end": 4801.5599999999995}
+{"id": "XkOZKCAYKdg-t4801.56", "text": "And I know you're not clinicians, but I'm sure you come across friends and people who", "start": 4801.56, "end": 4807.96}
+{"id": "XkOZKCAYKdg-t4807.96", "text": "ask you, in this complex era, when metastatic disease is not the death sentence that it", "start": 4807.96, "end": 4816.400000000001}
+{"id": "XkOZKCAYKdg-t4816.400000000001", "text": "was 64 years ago, in this complex environment, when the times this week had an article about", "start": 4816.400000000001, "end": 4824.320000000001}
+{"id": "XkOZKCAYKdg-t4824.320000000001", "text": "the patients who are the rare responders, a clinical trial that has a 15% response", "start": 4824.320000000001, "end": 4831.160000000001}
+{"id": "XkOZKCAYKdg-t4831.16", "text": "rate, we used to say, well, that's placebo, whatever.", "start": 4831.16, "end": 4835.68}
+{"id": "XkOZKCAYKdg-t4835.68", "text": "Now we look at the people who are in that 15%, and we see that they are different than the", "start": 4835.68, "end": 4842.24}
+{"id": "XkOZKCAYKdg-t4842.24", "text": "people in the 85% who don't respond.", "start": 4842.24, "end": 4846.12}
+{"id": "XkOZKCAYKdg-t4846.12", "text": "From the clinical point of view, from the, you said, we're not there yet.", "start": 4846.12, "end": 4850.639999999999}
+{"id": "XkOZKCAYKdg-t4850.639999999999", "text": "And that's certainly true.", "start": 4850.639999999999, "end": 4852.599999999999}
+{"id": "XkOZKCAYKdg-t4852.599999999999", "text": "Incidentally, about the RO1 grants, the average RO1 recipient now is aged 50.", "start": 4852.599999999999, "end": 4859.68}
+{"id": "XkOZKCAYKdg-t4859.68", "text": "20 years ago, they were aged 38.", "start": 4859.68, "end": 4863.04}
+{"id": "XkOZKCAYKdg-t4863.04", "text": "That's the most depressing thing I'm going to say.", "start": 4863.04, "end": 4865.92}
+{"id": "XkOZKCAYKdg-t4865.92", "text": "Yes.", "start": 4865.92, "end": 4866.92}
+{"id": "XkOZKCAYKdg-t4866.92", "text": "You do seven-year postdocs.", "start": 4866.92, "end": 4867.92}
+{"id": "XkOZKCAYKdg-t4867.92", "text": "That's the result.", "start": 4867.92, "end": 4870.200000000001}
+{"id": "XkOZKCAYKdg-t4870.200000000001", "text": "What do you say to a patient now who comes in and says, and incidentally Gawande was, at", "start": 4870.200000000001, "end": 4877.400000000001}
+{"id": "XkOZKCAYKdg-t4877.400000000001", "text": "Harvard now, they are beginning to teach medical students and residents how to sit down with", "start": 4877.400000000001, "end": 4883.64}
+{"id": "XkOZKCAYKdg-t4883.64", "text": "the patient and really discuss with the patient where he is and what he wants to do about", "start": 4883.64, "end": 4890.0}
+{"id": "XkOZKCAYKdg-t4890.0", "text": "it, or she.", "start": 4890.0, "end": 4892.240000000001}
+{"id": "XkOZKCAYKdg-t4892.240000000001", "text": "What do you say to people in this turbulent era when different cancers are being addressed", "start": 4892.240000000001, "end": 4898.64}
+{"id": "XkOZKCAYKdg-t4898.64", "text": "in different ways in terms of getting their care because they need it this year?", "start": 4898.64, "end": 4906.320000000001}
+{"id": "XkOZKCAYKdg-t4906.32", "text": "So we just opened up a Columbia protocol for treating 260 patients in a completely different", "start": 4906.32, "end": 4913.799999999999}
+{"id": "XkOZKCAYKdg-t4913.799999999999", "text": "way.", "start": 4913.799999999999, "end": 4914.799999999999}
+{"id": "XkOZKCAYKdg-t4914.799999999999", "text": "These are going to be across six different rare tumors.", "start": 4914.799999999999, "end": 4916.799999999999}
+{"id": "XkOZKCAYKdg-t4916.799999999999", "text": "And we're going to treat each one of them individually, but not based on their genetics", "start": 4916.799999999999, "end": 4921.28}
+{"id": "XkOZKCAYKdg-t4921.28", "text": "because we know that many of these tumors actually have no genetic lesions that are directly", "start": 4921.28, "end": 4926.36}
+{"id": "XkOZKCAYKdg-t4926.36", "text": "tractable.", "start": 4926.36, "end": 4928.5599999999995}
+{"id": "XkOZKCAYKdg-t4928.5599999999995", "text": "But really by understanding their vulnerability, what are the entry point?", "start": 4928.5599999999995, "end": 4932.08}
+{"id": "XkOZKCAYKdg-t4932.08", "text": "We use very sophisticated computational models, in fact, an entire basement, one of the largest", "start": 4932.08, "end": 4937.48}
+{"id": "XkOZKCAYKdg-t4937.48", "text": "supercomputers in the United States just dedicated to solving this problem and then basically", "start": 4937.48, "end": 4942.36}
+{"id": "XkOZKCAYKdg-t4942.36", "text": "going to a model of the patients that's going to be put in a mouse and just testing what", "start": 4942.36, "end": 4947.32}
+{"id": "XkOZKCAYKdg-t4947.32", "text": "the conclusions from that model are.", "start": 4947.32, "end": 4949.5199999999995}
+{"id": "XkOZKCAYKdg-t4949.5199999999995", "text": "We already have some very exciting results that are coming from this type of approach.", "start": 4949.5199999999995, "end": 4954.28}
+{"id": "XkOZKCAYKdg-t4954.28", "text": "So I think that this is not to say that in the future we're going to treat each patient", "start": 4954.28, "end": 4958.08}
+{"id": "XkOZKCAYKdg-t4958.08", "text": "on an individual basis, but I think what we're discovering with the exceptional responder", "start": 4958.08, "end": 4963.08}
+{"id": "XkOZKCAYKdg-t4963.08", "text": "initiative, where we're discovering with this kind of N of one studies, what we're discovering", "start": 4963.08, "end": 4966.96}
+{"id": "XkOZKCAYKdg-t4966.96", "text": "with this new initiative called basket studies where instead of studying one drug for one", "start": 4966.96, "end": 4972.32}
+{"id": "XkOZKCAYKdg-t4972.32", "text": "tumor you study an entire repertoire of drugs, each one with its own biomarker.", "start": 4972.32, "end": 4977.48}
+{"id": "XkOZKCAYKdg-t4977.48", "text": "What we're discovering is that we need to first deal with tumor heterogeneity and we're", "start": 4977.48, "end": 4981.0}
+{"id": "XkOZKCAYKdg-t4981.0", "text": "going to understand what makes tumors different.", "start": 4981.0, "end": 4983.76}
+{"id": "XkOZKCAYKdg-t4983.76", "text": "Once you have the key to be able to interpret the data, then you'll be able to just collect", "start": 4983.76, "end": 4989.68}
+{"id": "XkOZKCAYKdg-t4989.68", "text": "all the different ways in which you treat a subset of tumors in the same way.", "start": 4989.68, "end": 4994.24}
+{"id": "XkOZKCAYKdg-t4994.24", "text": "In the past, we used to think of a tumor, say bladder cancer, fundamentally different", "start": 4994.24, "end": 4999.04}
+{"id": "XkOZKCAYKdg-t4999.04", "text": "from breast cancer.", "start": 4999.04, "end": 5000.04}
+{"id": "XkOZKCAYKdg-t5000.04", "text": "Today, if you actually put together side by side in terms of the actual vulnerabilities,", "start": 5000.04, "end": 5005.16}
+{"id": "XkOZKCAYKdg-t5005.16", "text": "what are their Achilles heels?", "start": 5005.16, "end": 5007.0}
+{"id": "XkOZKCAYKdg-t5007.0", "text": "The basal subtype of breast cancer, the basal time of the bladder cancer and the lumenal", "start": 5007.0, "end": 5012.24}
+{"id": "XkOZKCAYKdg-t5012.24", "text": "of the two are actually much more similar than a basal breast and a lumenal breast.", "start": 5012.24, "end": 5018.84}
+{"id": "XkOZKCAYKdg-t5018.84", "text": "I think we're starting to look at cancer very much from a molecular perspective and", "start": 5018.84, "end": 5023.36}
+{"id": "XkOZKCAYKdg-t5023.36", "text": "even though we may learn just there was only a small number of responders when you go across", "start": 5023.36, "end": 5027.84}
+{"id": "XkOZKCAYKdg-t5027.84", "text": "all the tumors, that ends up being a pretty large number.", "start": 5027.84, "end": 5037.12}
+{"id": "XkOZKCAYKdg-t5037.12", "text": "I've actually been walking around with a source of stress for 10 years now and I'm", "start": 5037.12, "end": 5041.48}
+{"id": "XkOZKCAYKdg-t5041.48", "text": "not been given a good answer and I hope you can help me.", "start": 5041.48, "end": 5045.5599999999995}
+{"id": "XkOZKCAYKdg-t5045.5599999999995", "text": "My son who's now 12, his lymphatic system didn't form properly and he developed tumors", "start": 5045.5599999999995, "end": 5051.679999999999}
+{"id": "XkOZKCAYKdg-t5051.679999999999", "text": "but they were not cancerous tumors.", "start": 5051.679999999999, "end": 5054.12}
+{"id": "XkOZKCAYKdg-t5054.12", "text": "At age one, he had a brain CAT scan.", "start": 5054.12, "end": 5057.36}
+{"id": "XkOZKCAYKdg-t5057.36", "text": "At age two, he had a chest and neck CAT scan.", "start": 5057.36, "end": 5061.5599999999995}
+{"id": "XkOZKCAYKdg-t5061.5599999999995", "text": "Again at age six, he had another chest and neck CAT scan and I am really worried about", "start": 5061.5599999999995, "end": 5067.36}
+{"id": "XkOZKCAYKdg-t5067.36", "text": "the effects of the radiation.", "start": 5067.36, "end": 5069.24}
+{"id": "XkOZKCAYKdg-t5069.24", "text": "He's had probably a dozen x-rays in the chest up until now.", "start": 5069.24, "end": 5073.679999999999}
+{"id": "XkOZKCAYKdg-t5073.679999999999", "text": "He's 12 and he's athletic.", "start": 5073.679999999999, "end": 5076.2}
+{"id": "XkOZKCAYKdg-t5076.2", "text": "I worry about him getting hurt, needing more x-rays.", "start": 5076.2, "end": 5079.88}
+{"id": "XkOZKCAYKdg-t5079.88", "text": "One of the tumors was not able to be removed from the center of his neck so there's a", "start": 5079.88, "end": 5083.5599999999995}
+{"id": "XkOZKCAYKdg-t5083.5599999999995", "text": "possibility that could grow in the future and he would need another CAT scan.", "start": 5083.5599999999995, "end": 5088.08}
+{"id": "XkOZKCAYKdg-t5088.08", "text": "So I've been walking around very nervous and paranoid.", "start": 5088.08, "end": 5090.84}
+{"id": "XkOZKCAYKdg-t5090.84", "text": "Is it my paranoia that I have nothing to worry about or is there something proactive that", "start": 5090.84, "end": 5094.36}
+{"id": "XkOZKCAYKdg-t5094.36", "text": "can be done before?", "start": 5094.36, "end": 5096.24}
+{"id": "XkOZKCAYKdg-t5096.24", "text": "He turns 20 and then, God forbid, something happens.", "start": 5096.24, "end": 5099.16}
+{"id": "XkOZKCAYKdg-t5099.16", "text": "You're like, oh, you have cancer because I feel like he's had quite a bit of radiation.", "start": 5099.16, "end": 5106.2}
+{"id": "XkOZKCAYKdg-t5106.2", "text": "Is there anything that could be done ahead of time?", "start": 5106.2, "end": 5108.0}
+{"id": "XkOZKCAYKdg-t5108.0", "text": "Could be checked.", "start": 5108.0, "end": 5109.0}
+{"id": "XkOZKCAYKdg-t5109.0", "text": "You worry about the adverse effect of radiation.", "start": 5109.0, "end": 5112.4}
+{"id": "XkOZKCAYKdg-t5112.4", "text": "Yes.", "start": 5112.4, "end": 5113.4}
+{"id": "XkOZKCAYKdg-t5113.4", "text": "Well, there is some concerns about that but is it proven that all these normal, I mean", "start": 5113.4, "end": 5122.32}
+{"id": "XkOZKCAYKdg-t5122.32", "text": "not normal, these routine scans?", "start": 5122.32, "end": 5125.5199999999995}
+{"id": "XkOZKCAYKdg-t5125.52", "text": "I think the radiation of an x-ray at the moment is the same as a flight across the Atlantic.", "start": 5125.52, "end": 5130.0}
+{"id": "XkOZKCAYKdg-t5130.0", "text": "Right.", "start": 5130.0, "end": 5131.0}
+{"id": "XkOZKCAYKdg-t5131.0", "text": "So many of us fly back and forth across the Atlantic.", "start": 5131.0, "end": 5134.4400000000005}
+{"id": "XkOZKCAYKdg-t5134.4400000000005", "text": "Yeah, I think it's about the scan.", "start": 5134.4400000000005, "end": 5137.320000000001}
+{"id": "XkOZKCAYKdg-t5137.320000000001", "text": "So even though he was...", "start": 5137.320000000001, "end": 5140.320000000001}
+{"id": "XkOZKCAYKdg-t5140.320000000001", "text": "I think the advantages of having a scan to have early detection of the lesion far outweighs", "start": 5140.320000000001, "end": 5148.040000000001}
+{"id": "XkOZKCAYKdg-t5148.040000000001", "text": "the potential negative effects.", "start": 5148.040000000001, "end": 5149.72}
+{"id": "XkOZKCAYKdg-t5149.72", "text": "So I think that right now you're doing absolutely the right thing.", "start": 5149.72, "end": 5154.280000000001}
+{"id": "XkOZKCAYKdg-t5154.28", "text": "And even if something should happen, you should not feel it's your responsibility because", "start": 5154.28, "end": 5159.639999999999}
+{"id": "XkOZKCAYKdg-t5159.639999999999", "text": "you're doing the right thing.", "start": 5159.639999999999, "end": 5161.16}
+{"id": "XkOZKCAYKdg-t5161.16", "text": "Well, that's why I'm stressed.", "start": 5161.16, "end": 5162.5199999999995}
+{"id": "XkOZKCAYKdg-t5162.5199999999995", "text": "I don't want to just wait and think, what was there a blood test or a non-reige radiation", "start": 5162.5199999999995, "end": 5167.639999999999}
+{"id": "XkOZKCAYKdg-t5167.639999999999", "text": "body skin that could have been done?", "start": 5167.639999999999, "end": 5169.5199999999995}
+{"id": "XkOZKCAYKdg-t5169.5199999999995", "text": "You know, because I've been told different things.", "start": 5169.5199999999995, "end": 5171.5199999999995}
+{"id": "XkOZKCAYKdg-t5171.5199999999995", "text": "But I think that Andrea just pointed out the fact that the advantage outweigh the concern.", "start": 5171.5199999999995, "end": 5179.16}
+{"id": "XkOZKCAYKdg-t5179.16", "text": "Because you want to follow whatever that might be developing and I'm pretty sure it's reassuring", "start": 5179.16, "end": 5185.04}
+{"id": "XkOZKCAYKdg-t5185.04", "text": "if you see nothing is developing, right?", "start": 5185.04, "end": 5187.48}
+{"id": "XkOZKCAYKdg-t5187.48", "text": "Well, that's what I'm saying.", "start": 5187.48, "end": 5189.2}
+{"id": "XkOZKCAYKdg-t5189.2", "text": "The doctors just say, well, if something hurts, bring them in.", "start": 5189.2, "end": 5191.599999999999}
+{"id": "XkOZKCAYKdg-t5191.599999999999", "text": "But isn't it too late once you feel something and something hurts?", "start": 5191.599999999999, "end": 5195.28}
+{"id": "XkOZKCAYKdg-t5195.28", "text": "You know the underlying condition, is there been a genetic testing for what your son has?", "start": 5195.28, "end": 5201.16}
+{"id": "XkOZKCAYKdg-t5201.16", "text": "Yes, he has cystic eye gromas, cavernous lymphin jumas.", "start": 5201.16, "end": 5205.0}
+{"id": "XkOZKCAYKdg-t5205.0", "text": "There were tumors inside of his body.", "start": 5205.0, "end": 5207.72}
+{"id": "XkOZKCAYKdg-t5207.72", "text": "Did he find the actual genetics of that?", "start": 5207.72, "end": 5210.12}
+{"id": "XkOZKCAYKdg-t5210.12", "text": "No, I didn't.", "start": 5210.12, "end": 5211.12}
+{"id": "XkOZKCAYKdg-t5211.12", "text": "That's it.", "start": 5211.12, "end": 5212.12}
+{"id": "XkOZKCAYKdg-t5212.12", "text": "So maybe that's one thing.", "start": 5212.12, "end": 5213.76}
+{"id": "XkOZKCAYKdg-t5213.76", "text": "There are several institutions right now and the NIH that look at diagnosing at the genetic", "start": 5213.76, "end": 5219.16}
+{"id": "XkOZKCAYKdg-t5219.16", "text": "level some of these very rare diseases.", "start": 5219.16, "end": 5223.4800000000005}
+{"id": "XkOZKCAYKdg-t5223.4800000000005", "text": "And in some cases, first of all, that lets you know exactly what it is.", "start": 5223.4800000000005, "end": 5228.96}
+{"id": "XkOZKCAYKdg-t5228.96", "text": "And so you can deal with it better.", "start": 5228.96, "end": 5230.52}
+{"id": "XkOZKCAYKdg-t5230.52", "text": "But also in some cases you may even find that there are potential approaches that could", "start": 5230.52, "end": 5234.6}
+{"id": "XkOZKCAYKdg-t5234.6", "text": "be taken to either prevent or delay or so.", "start": 5234.6, "end": 5238.52}
+{"id": "XkOZKCAYKdg-t5238.52", "text": "I think this is something where you may want to consider one of these sort of, you know,", "start": 5238.52, "end": 5243.72}
+{"id": "XkOZKCAYKdg-t5243.72", "text": "we know at Columbia we just recruited for instance David Goldstein who's going to head", "start": 5243.72, "end": 5248.160000000001}
+{"id": "XkOZKCAYKdg-t5248.160000000001", "text": "our institute for genomics.", "start": 5248.160000000001, "end": 5251.08}
+{"id": "XkOZKCAYKdg-t5251.08", "text": "And he's done some terrific studies at Duke, but at their institutes in Oman, Sinai, many", "start": 5251.08, "end": 5257.4400000000005}
+{"id": "XkOZKCAYKdg-t5257.4400000000005", "text": "other places in the country do these kinds of studies.", "start": 5257.4400000000005, "end": 5260.72}
+{"id": "XkOZKCAYKdg-t5260.72", "text": "And I think Wendy Chong will also look specifically at children with rare planetary genetic disease.", "start": 5260.72, "end": 5266.52}
+{"id": "XkOZKCAYKdg-t5266.52", "text": "Okay.", "start": 5266.52, "end": 5267.52}
+{"id": "XkOZKCAYKdg-t5267.52", "text": "All right.", "start": 5267.52, "end": 5268.52}
+{"id": "XkOZKCAYKdg-t5268.52", "text": "Well, thanks.", "start": 5268.52, "end": 5269.52}
+{"id": "XkOZKCAYKdg-t5269.52", "text": "You know, you point out the difference between science and clinical medical care.", "start": 5269.52, "end": 5274.96}
+{"id": "XkOZKCAYKdg-t5274.96", "text": "Because in science it's perfectly all right to say, I don't know.", "start": 5274.96, "end": 5280.96}
+{"id": "XkOZKCAYKdg-t5280.96", "text": "We haven't done those experiments.", "start": 5280.96, "end": 5282.96}
+{"id": "XkOZKCAYKdg-t5282.96", "text": "We haven't studied it.", "start": 5282.96, "end": 5284.96}
+{"id": "XkOZKCAYKdg-t5284.96", "text": "In clinical medicine when a patient comes in and looks at you, you can't just say,", "start": 5284.96, "end": 5289.56}
+{"id": "XkOZKCAYKdg-t5289.56", "text": "I don't know.", "start": 5289.56, "end": 5290.56}
+{"id": "XkOZKCAYKdg-t5290.56", "text": "That's right.", "start": 5290.56, "end": 5291.56}
+{"id": "XkOZKCAYKdg-t5291.56", "text": "That's what I went into science.", "start": 5291.56, "end": 5293.56}
+{"id": "XkOZKCAYKdg-t5293.56", "text": "That's right.", "start": 5293.56, "end": 5294.56}
+{"id": "XkOZKCAYKdg-t5294.56", "text": "No, nothing.", "start": 5294.56, "end": 5295.56}
+{"id": "XkOZKCAYKdg-t5295.56", "text": "You have to be able to find that.", "start": 5295.56, "end": 5297.56}
+{"id": "XkOZKCAYKdg-t5297.56", "text": "You're saying, I don't know.", "start": 5297.56, "end": 5299.56}
+{"id": "XkOZKCAYKdg-t5299.56", "text": "But I know how we can proceed.", "start": 5299.56, "end": 5301.56}
+{"id": "XkOZKCAYKdg-t5301.56", "text": "That's right.", "start": 5301.56, "end": 5302.56}
+{"id": "XkOZKCAYKdg-t5302.56", "text": "And that's what you've heard.", "start": 5302.56, "end": 5304.56}
+{"id": "XkOZKCAYKdg-t5304.56", "text": "In other words, you have to accept the fact that there's still an awful lot we don't know.", "start": 5304.56, "end": 5310.360000000001}
+{"id": "XkOZKCAYKdg-t5310.360000000001", "text": "But you also have to recognize that there are people who are interested in pursuing this", "start": 5310.360000000001, "end": 5315.400000000001}
+{"id": "XkOZKCAYKdg-t5315.4", "text": "and who will keep pursuing it, because otherwise you will die by Google.", "start": 5315.4, "end": 5323.799999999999}
+{"id": "XkOZKCAYKdg-t5323.799999999999", "text": "Any other questions?", "start": 5323.799999999999, "end": 5325.799999999999}
+{"id": "XkOZKCAYKdg-t5325.799999999999", "text": "No?", "start": 5325.799999999999, "end": 5326.799999999999}
+{"id": "XkOZKCAYKdg-t5326.799999999999", "text": "Okay.", "start": 5326.799999999999, "end": 5327.799999999999}
+{"id": "XkOZKCAYKdg-t5327.799999999999", "text": "Thank you.", "start": 5327.799999999999, "end": 5328.799999999999}
+{"id": "XkOZKCAYKdg-t5328.8", "text": "Thank you.", "start": 5328.8, "end": 5346.8}

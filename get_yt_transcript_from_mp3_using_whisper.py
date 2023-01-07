@@ -44,6 +44,8 @@ subdir_mp3 = f'data___mp3___{channel_name}___{channel_id}'
 subdir_txt = 'yes'
 subdir_srt = 'yes'
 subdir_vtt = 'yes'
+subdir_json = 'yes'
+subdir_fulltext = 'yes'
 # Transcript Format (a): Plain Text (full text with punctuation but no timestamps)
 if subdir_txt != '':
     subdir_txt = subdir_mp3.replace('___mp3___','___txt___')
@@ -59,12 +61,16 @@ if subdir_vtt != '':
     subdir_vtt = subdir_mp3.replace('___mp3___','___vtt___')
     print(f'Saving VTT Transcripts to subdir: {subdir_vtt}')
     Path(subdir_vtt).mkdir(parents=True, exist_ok=True)
-subdir_json = ''
 # Transcript Format (d): JSON Format
 if subdir_json != '':
-    subdir_fulltext = subdir_mp3.replace('___mp3___','___json___')
+    subdir_json = subdir_mp3.replace('___mp3___','___json___')
     print(f'Saving JSON Transcripts to subdir: {subdir_json}')
     Path(subdir_json).mkdir(parents=True, exist_ok=True)
+# Transcript Format (e): FULL TEXT Format
+if subdir_fulltext != '':
+    subdir_fulltext = subdir_mp3.replace('___mp3___','___fulltext___')
+    print(f'Saving JSON Transcripts to subdir: {subdir_fulltext}')
+    Path(subdir_fulltext).mkdir(parents=True, exist_ok=True)
 
 # print(f'Saving transcripts to subdir: {subdir_txt}')
 # Path(subdir_txt).mkdir(parents=True, exist_ok=True)
@@ -99,8 +105,26 @@ for i, apath in enumerate(tqdm(mp3_paths_ls)):
     # Get *.mp3 id and title
     _id = apath.split('___')[-1].split('.')[0]
     print(f'_id: {_id}')
+    _channel = apath.split('___')[-2].split('.')[0]
+    print(f'_channel: {_channel}')
     _title = apath.split('/')[-1].split('.')[:-1][0]
     print(f'_title: {_title}')
+
+    # Set skip_flag if YouTube ID already has been transcribed in the desired format(s)
+    skip_flag = True
+    subdir_transcriptions_ls = ['subdir_txt', 'subdir_srt', 'subdir_vtt', 'subdir_json', 'subdir_fulltext']
+    for asubdir in subdir_transcriptions_ls:
+        if globals()[asubdir] != '':
+            subdir_str = f"data___{asubdir.split('_')[1]}___{channel_name}___{channel_id}"
+            # file_ls = list(Path(f'./{asubdir}').glob('*.mp3'))
+            file_ls = [str(x) for x in Path(subdir_str).glob('*')]
+            print(f'{subdir_str}: {len(file_ls)} *.mp3 audio files')
+            file_ls_str = ' '.join(file_ls)
+            if not(_id in file_ls_str):
+                skip_flag = False
+    print(f'  Skip?: {skip_flag}')
+    if skip_flag == True:
+        continue
 
     # transcribe *.mp3
     time_start = datetime.now()
@@ -122,18 +146,21 @@ for i, apath in enumerate(tqdm(mp3_paths_ls)):
             write_txt(result['segments'], file=fp_txt)
         logging.info(f'Saved TXT Transcript for VideoID:{_id}: {file_fullpath}')
         print(f'Wrote: TXT Transcript to: {file_fullpath}')
+    # Transcript Format (b): SRT (fragments with timestamps)
     if subdir_srt != '':
         file_fullpath = f"./{subdir_srt}/{_title}_{_id}.srt"
         with open(file_fullpath, "w", encoding="utf-8") as fp_srt:
             write_srt(result['segments'], file=fp_srt)
         logging.info(f'Saved SRT Transcript for VideoID:{_id}: {file_fullpath}')
         print(f'Wrote: SRT Transcript to: {file_fullpath}')
+    # Transcript Format (c): VTT (fragments with timestamps)
     if subdir_vtt != '':
         file_fullpath = f"./{subdir_vtt}/{_title}_{_id}.vtt"
         with open(file_fullpath, "w", encoding="utf-8") as fp_vtt:
             write_vtt(result['segments'], file=fp_vtt)
         logging.info(f'Saved VTT Transcript for VideoID:{_id}: {file_fullpath}')
         print(f'Wrote: VTT Transcript to: {file_fullpath}')
+    # Transcript Format (c): VTT (fragments with timestamps)
     if subdir_json != '':
         file_fullpath = f"./{subdir_json}/{_title}_{_id}_full.txt"
         segments = result['segments']
@@ -153,5 +180,12 @@ for i, apath in enumerate(tqdm(mp3_paths_ls)):
 
         logging.info(f'Saved JSON Transcript for VideoID:{_id}: {file_fullpath}')
         print(f'Wrote: JSON Transcript to: {file_fullpath}')
+    # Transcript Format (d): FULL TEXT (One continous documents without timestamps))
+    if subdir_fulltext != '':
+        file_fullpath = f"./{subdir_fulltext}/{_title}_{_id}_full.txt"
+        with open(file_fullpath, "w", encoding="utf-8") as fp_fulltext:
+            fp_fulltext.write(result['text'])
+        logging.info(f'Saved FULL TEXT Transcript for VideoID:{_id}: {file_fullpath}')
+        print(f'Wrote: FULL TEXT Transcript to: {file_fullpath}')
 
 print('EXECTUION COMPLETE')

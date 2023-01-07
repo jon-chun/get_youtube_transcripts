@@ -1,0 +1,1334 @@
+{"id": "bAjBYEjeP6E-t0.0", "text": "Are you ready?", "start": 0.0, "end": 14.44}
+{"id": "bAjBYEjeP6E-t14.44", "text": "I'm the associate director of the center.", "start": 14.44, "end": 19.32}
+{"id": "bAjBYEjeP6E-t19.32", "text": "Before I introduce the participants of today's round table, I have two brief announcements.", "start": 19.32, "end": 26.400000000000002}
+{"id": "bAjBYEjeP6E-t26.4", "text": "One is that the next program on the beauty and unity of mathematics is on December 1.", "start": 26.4, "end": 36.72}
+{"id": "bAjBYEjeP6E-t36.72", "text": "And then on December 15, it's a program on animal consciousness.", "start": 36.72, "end": 42.599999999999994}
+{"id": "bAjBYEjeP6E-t42.599999999999994", "text": "And then other programs you will see if you go to the website.", "start": 42.599999999999994, "end": 47.480000000000004}
+{"id": "bAjBYEjeP6E-t47.480000000000004", "text": "I will make a very brief introduction of the participants today.", "start": 47.480000000000004, "end": 51.84}
+{"id": "bAjBYEjeP6E-t51.84", "text": "If you want more information on them, you go to our website.", "start": 51.84, "end": 55.400000000000006}
+{"id": "bAjBYEjeP6E-t55.400000000000006", "text": "There's a detailed bio there.", "start": 55.400000000000006, "end": 62.800000000000004}
+{"id": "bAjBYEjeP6E-t62.800000000000004", "text": "Michael first, who is sitting right there, is professor of clinical psychiatry at Columbia", "start": 62.800000000000004, "end": 69.64}
+{"id": "bAjBYEjeP6E-t69.64", "text": "University.", "start": 69.64, "end": 71.84}
+{"id": "bAjBYEjeP6E-t71.84", "text": "Laura Hirschbein is professor of psychiatry at University of Michigan.", "start": 71.84, "end": 76.96000000000001}
+{"id": "bAjBYEjeP6E-t76.96", "text": "Francis Lee is the chair of the department of psychiatry at Cornell Medical, Cornell", "start": 76.96, "end": 82.8}
+{"id": "bAjBYEjeP6E-t82.8", "text": "Medicine.", "start": 82.8, "end": 84.28}
+{"id": "bAjBYEjeP6E-t84.28", "text": "Robert Michaels is the Wach McDermott University professor of medicine at psychiatry at Wyl Cornell.", "start": 84.28, "end": 91.47999999999999}
+{"id": "bAjBYEjeP6E-t91.47999999999999", "text": "And Miklo Stott is the neuroscientist professor of pharmacology at Wyl Cornell.", "start": 91.47999999999999, "end": 98.8}
+{"id": "bAjBYEjeP6E-t98.8", "text": "So as you know, the format is a spontaneous conversation amongst the participants.", "start": 98.8, "end": 103.32}
+{"id": "bAjBYEjeP6E-t103.32", "text": "Thank you.", "start": 103.32, "end": 104.32}
+{"id": "bAjBYEjeP6E-t104.32", "text": "Who wants to get the going?", "start": 104.32, "end": 133.04}
+{"id": "bAjBYEjeP6E-t133.04", "text": "Well, we were just talking a minute ago before everybody started about the fact that I'm", "start": 133.04, "end": 137.35999999999999}
+{"id": "bAjBYEjeP6E-t137.35999999999999", "text": "a historian and I'm the only woman and the only non-New Yorker, so I guess I have a perspective.", "start": 137.35999999999999, "end": 143.88}
+{"id": "bAjBYEjeP6E-t143.88", "text": "But we were talking about wondering whether the history should start first if we're looking", "start": 143.88, "end": 147.0}
+{"id": "bAjBYEjeP6E-t147.0", "text": "to the future.", "start": 147.0, "end": 148.0}
+{"id": "bAjBYEjeP6E-t148.0", "text": "But the problem with starting in the past is if you're imagining a narrative, do we want", "start": 148.0, "end": 154.23999999999998}
+{"id": "bAjBYEjeP6E-t154.23999999999998", "text": "the way people tend to use history is to tell the story about the president.", "start": 154.23999999999998, "end": 159.79999999999998}
+{"id": "bAjBYEjeP6E-t159.8", "text": "Are we talking about the past as the battle days that are leading to the future with new", "start": 159.8, "end": 165.08}
+{"id": "bAjBYEjeP6E-t165.08", "text": "discoveries, new advances, new neuroscience, new whatever, or are we going to use the past", "start": 165.08, "end": 170.36}
+{"id": "bAjBYEjeP6E-t170.36", "text": "to tell a story of decline that we've lost track of the things that we used to do that", "start": 170.36, "end": 174.84}
+{"id": "bAjBYEjeP6E-t174.84", "text": "we used to do well and now we're in soulless territory of just symptom counting with due", "start": 174.84, "end": 181.8}
+{"id": "bAjBYEjeP6E-t181.8", "text": "appreciation to DSM.", "start": 181.8, "end": 185.36}
+{"id": "bAjBYEjeP6E-t185.36", "text": "So you can use the history to tell the story of decline, the story of progress, or as I", "start": 185.36, "end": 193.0}
+{"id": "bAjBYEjeP6E-t193.0", "text": "tend to see it, the story of things that continue, the themes that come up over and over and", "start": 193.0, "end": 197.16000000000003}
+{"id": "bAjBYEjeP6E-t197.16000000000003", "text": "over and over again.", "start": 197.16000000000003, "end": 201.12}
+{"id": "bAjBYEjeP6E-t201.12", "text": "The things that we discover and rediscover, we discover brains, we discover symptoms,", "start": 201.12, "end": 207.84}
+{"id": "bAjBYEjeP6E-t207.84", "text": "we discover statistics, I'm reading a great book on the history of statistics now that", "start": 207.84, "end": 212.32000000000002}
+{"id": "bAjBYEjeP6E-t212.32", "text": "it points out that we psychiatrists were doing statistical counting in the 17th century.", "start": 212.32, "end": 219.04}
+{"id": "bAjBYEjeP6E-t219.04", "text": "And so the idea of counting and looking at numbers is not new.", "start": 219.04, "end": 225.2}
+{"id": "bAjBYEjeP6E-t225.2", "text": "We humans like to do that.", "start": 225.2, "end": 226.72}
+{"id": "bAjBYEjeP6E-t226.72", "text": "The first step of trying to understand things is to put some order in things that hopefully", "start": 226.72, "end": 235.07999999999998}
+{"id": "bAjBYEjeP6E-t235.07999999999998", "text": "patterns will emerge and will have understanding.", "start": 235.07999999999998, "end": 237.28}
+{"id": "bAjBYEjeP6E-t237.28", "text": "So that's what going on for a very long time and that continues to be the main way everybody", "start": 237.28, "end": 243.76}
+{"id": "bAjBYEjeP6E-t243.76", "text": "wonders in the DSM diagnostic statistical manual, what was the statistical part?", "start": 243.76, "end": 248.76}
+{"id": "bAjBYEjeP6E-t248.76", "text": "And that was because it originally was used for collecting statistics in mental hospitals", "start": 248.76, "end": 252.68}
+{"id": "bAjBYEjeP6E-t252.68", "text": "and nowadays I guess you could argue the coding allows people to collect statistics but that's", "start": 252.68, "end": 258.16}
+{"id": "bAjBYEjeP6E-t258.16", "text": "really the only reason they keep the assets for historical reasons.", "start": 258.16, "end": 261.68}
+{"id": "bAjBYEjeP6E-t261.68", "text": "It's a well-known document.", "start": 261.68, "end": 263.24}
+{"id": "bAjBYEjeP6E-t263.24", "text": "It's really not a statistical anymore but you're right.", "start": 263.24, "end": 265.24}
+{"id": "bAjBYEjeP6E-t265.24", "text": "The idea of starting out by the DSM unfortunately remains a descriptive observational system", "start": 265.24, "end": 270.72}
+{"id": "bAjBYEjeP6E-t270.72", "text": "with almost no depth to it at all and people have criticized it for that reason which is", "start": 270.72, "end": 277.16}
+{"id": "bAjBYEjeP6E-t277.16", "text": "certainly a valid criticism but it remains useful because there's no alternative.", "start": 277.16, "end": 281.0}
+{"id": "bAjBYEjeP6E-t281.0", "text": "It's always the thing when somebody trashes the DSM it's okay so what do you want to replace", "start": 281.0, "end": 285.56}
+{"id": "bAjBYEjeP6E-t285.56", "text": "it with?", "start": 285.56, "end": 286.56}
+{"id": "bAjBYEjeP6E-t286.56", "text": "It usually don't get much response.", "start": 286.56, "end": 288.96000000000004}
+{"id": "bAjBYEjeP6E-t288.96", "text": "So it's incredibly limited but it continues despite all of the advances in neuroscience", "start": 288.96, "end": 295.96}
+{"id": "bAjBYEjeP6E-t295.96", "text": "and everything else it continues to have value as an organizing principle.", "start": 295.96, "end": 300.52}
+{"id": "bAjBYEjeP6E-t300.52", "text": "It's very limited.", "start": 300.52, "end": 302.44}
+{"id": "bAjBYEjeP6E-t302.44", "text": "I think the perspective actually is very useful.", "start": 302.44, "end": 308.59999999999997}
+{"id": "bAjBYEjeP6E-t308.59999999999997", "text": "I remember 15 years ago I think when Paul the Genius came out I'm looking at everything", "start": 308.59999999999997, "end": 315.52}
+{"id": "bAjBYEjeP6E-t315.52", "text": "from the basic science point you have to just a disclaimer but I remember that one of the", "start": 315.52, "end": 324.52}
+{"id": "bAjBYEjeP6E-t324.52", "text": "traction of what this field is that this new genes came out and everybody believed that", "start": 324.52, "end": 330.32}
+{"id": "bAjBYEjeP6E-t330.32", "text": "after a while we will be able to explain some of the symptoms and maybe actually we can", "start": 330.32, "end": 335.24}
+{"id": "bAjBYEjeP6E-t335.24", "text": "define a certain disease based on diseases, disease genes.", "start": 335.24, "end": 340.59999999999997}
+{"id": "bAjBYEjeP6E-t340.59999999999997", "text": "And historically now we know that it's actually absolutely another case.", "start": 340.59999999999997, "end": 344.84}
+{"id": "bAjBYEjeP6E-t344.84", "text": "If anything it's even more complicated.", "start": 344.84, "end": 347.28}
+{"id": "bAjBYEjeP6E-t347.28", "text": "So I've been struggling with this in my whole lab and in the university that how actually", "start": 347.28, "end": 353.64}
+{"id": "bAjBYEjeP6E-t353.64", "text": "to solve that problem and we can discuss it later but obviously we have to move out from", "start": 353.64, "end": 359.76}
+{"id": "bAjBYEjeP6E-t359.76", "text": "the single gene and even multiple gene because we have to understand how the environment", "start": 359.76, "end": 365.44}
+{"id": "bAjBYEjeP6E-t365.44", "text": "is really impinging on this whole gene network and if you have time maybe discuss about that.", "start": 365.44, "end": 371.52}
+{"id": "bAjBYEjeP6E-t371.52", "text": "I think still the genome is a hope that the genome can or epigenome rather can explain", "start": 371.52, "end": 376.44}
+{"id": "bAjBYEjeP6E-t376.44", "text": "a lot of things.", "start": 376.44, "end": 379.0}
+{"id": "bAjBYEjeP6E-t379.0", "text": "So historically I think we really moved a lot from genes and now we have the epigenome", "start": 379.0, "end": 384.71999999999997}
+{"id": "bAjBYEjeP6E-t384.71999999999997", "text": "and hopefully we have some chance to get a little bit deeper into this how because that's", "start": 384.71999999999997, "end": 389.91999999999996}
+{"id": "bAjBYEjeP6E-t389.91999999999996", "text": "still yes we are in a very simple case we have an epigenome now but like in the 780", "start": 389.91999999999996, "end": 395.88}
+{"id": "bAjBYEjeP6E-t395.88", "text": "90s that we have a lot of things but we don't understand how they work together how to interact.", "start": 395.88, "end": 401.44}
+{"id": "bAjBYEjeP6E-t401.44", "text": "But I think it's a little bit more bad execution now we have more players so it's almost", "start": 401.44, "end": 405.96}
+{"id": "bAjBYEjeP6E-t405.96", "text": "that we need another level of understanding.", "start": 405.96, "end": 408.16}
+{"id": "bAjBYEjeP6E-t408.16", "text": "I think we do know more I'm also a neuroscientist and I was just out of symposium at Cornell", "start": 408.16, "end": 415.72}
+{"id": "bAjBYEjeP6E-t415.72", "text": "and yesterday and from a lot of different neuroscientists I was coming from the sound", "start": 415.72, "end": 421.68}
+{"id": "bAjBYEjeP6E-t421.68", "text": "of the video and was actually clear it was muffled here too.", "start": 421.68, "end": 431.44}
+{"id": "bAjBYEjeP6E-t431.44", "text": "Is this better?", "start": 431.44, "end": 433.0}
+{"id": "bAjBYEjeP6E-t433.0", "text": "Is it really or not actually much closer to understanding the pathophysiologists like", "start": 433.0, "end": 442.72}
+{"id": "bAjBYEjeP6E-t442.72", "text": "yeah this order despite the hundreds of genes that have now been found.", "start": 442.72, "end": 447.68}
+{"id": "bAjBYEjeP6E-t447.68", "text": "The best example I was at this meeting was that the success story now the best success", "start": 447.68, "end": 453.56}
+{"id": "bAjBYEjeP6E-t453.56", "text": "story in psychiatry is autism.", "start": 453.56, "end": 455.84000000000003}
+{"id": "bAjBYEjeP6E-t455.84000000000003", "text": "99 genes will now have met genome wide significance very penetrative high effect sizes they account", "start": 455.84000000000003, "end": 464.92}
+{"id": "bAjBYEjeP6E-t464.92", "text": "for 1% or less than 1% all autism in this population.", "start": 464.92, "end": 470.48}
+{"id": "bAjBYEjeP6E-t470.48", "text": "But each of these papers is a nature paper.", "start": 470.48, "end": 473.72}
+{"id": "bAjBYEjeP6E-t473.72", "text": "This is considered the best advance of what we can do at this point.", "start": 473.72, "end": 478.32000000000005}
+{"id": "bAjBYEjeP6E-t478.32000000000005", "text": "And it's actually not clear how to move forward and I think this is something that I struggle", "start": 478.32000000000005, "end": 483.12}
+{"id": "bAjBYEjeP6E-t483.12", "text": "with also.", "start": 483.12, "end": 484.12}
+{"id": "bAjBYEjeP6E-t484.12", "text": "It's just that the hope as Miklo said was that 20 years ago or 30 years ago was just", "start": 484.12, "end": 493.16}
+{"id": "bAjBYEjeP6E-t493.16", "text": "like in pulmonology or nephrology we could just get a bunch of genes and then be able", "start": 493.16, "end": 499.72}
+{"id": "bAjBYEjeP6E-t499.72", "text": "to move forward and what's clear is that this is not a linear path.", "start": 499.72, "end": 508.44000000000005}
+{"id": "bAjBYEjeP6E-t508.44000000000005", "text": "The brain is probably more complicated.", "start": 508.44000000000005, "end": 510.72}
+{"id": "bAjBYEjeP6E-t510.72", "text": "There's some number like 150,000 or 150 trillion synapses.", "start": 510.72, "end": 518.6}
+{"id": "bAjBYEjeP6E-t518.6", "text": "This is just us for us to think that a single gene or 100 genes could help explaining this", "start": 518.6, "end": 525.24}
+{"id": "bAjBYEjeP6E-t525.24", "text": "is going to be difficult to answer.", "start": 525.24, "end": 527.52}
+{"id": "bAjBYEjeP6E-t527.52", "text": "It was very sobering meeting.", "start": 527.52, "end": 530.3199999999999}
+{"id": "bAjBYEjeP6E-t530.3199999999999", "text": "But if I may just to defect that so basically I think it's specific issues like 15 years", "start": 530.3199999999999, "end": 536.3199999999999}
+{"id": "bAjBYEjeP6E-t536.3199999999999", "text": "ago in the Facebook was or Amazon started.", "start": 536.3199999999999, "end": 541.64}
+{"id": "bAjBYEjeP6E-t541.64", "text": "So basically the idea if you think about it is that you get all of this information,", "start": 541.64, "end": 546.1999999999999}
+{"id": "bAjBYEjeP6E-t546.1999999999999", "text": "they collect information, personal information and 15 years ago they just started.", "start": 546.1999999999999, "end": 551.0}
+{"id": "bAjBYEjeP6E-t551.0", "text": "Now they have a tremendous amount of information and that's for me to ask.", "start": 551.0, "end": 557.0799999999999}
+{"id": "bAjBYEjeP6E-t557.08", "text": "Now they have arguments that they can actually figure out what next move is and maybe send", "start": 557.08, "end": 563.24}
+{"id": "bAjBYEjeP6E-t563.24", "text": "you an advertisement and we want to say that's saying some pet food or something because", "start": 563.24, "end": 568.64}
+{"id": "bAjBYEjeP6E-t568.64", "text": "you know that you have a pet at home and more complex.", "start": 568.64, "end": 572.8000000000001}
+{"id": "bAjBYEjeP6E-t572.8000000000001", "text": "So I was thinking maybe that kind of strategy because we have now genes, epigenomes and", "start": 572.8000000000001, "end": 577.76}
+{"id": "bAjBYEjeP6E-t577.76", "text": "a lot of that low side.", "start": 577.76, "end": 579.08}
+{"id": "bAjBYEjeP6E-t579.08", "text": "We have thousands of tests.", "start": 579.08, "end": 581.08}
+{"id": "bAjBYEjeP6E-t581.08", "text": "So how to put together all of individual players as they would pull out the society", "start": 581.08, "end": 586.5600000000001}
+{"id": "bAjBYEjeP6E-t586.56", "text": "to a comprehensive understanding of how the society works and how the brain works.", "start": 586.56, "end": 592.16}
+{"id": "bAjBYEjeP6E-t592.16", "text": "But I was just thinking another day about this but it's still probably not the right", "start": 592.16, "end": 596.5999999999999}
+{"id": "bAjBYEjeP6E-t596.5999999999999", "text": "template because it's a very two-dimensional of what they do.", "start": 596.5999999999999, "end": 600.68}
+{"id": "bAjBYEjeP6E-t600.68", "text": "They just collect and they can interpret.", "start": 600.68, "end": 603.28}
+{"id": "bAjBYEjeP6E-t603.28", "text": "What our problem is that we have multidimensional, we have genes, then we have synapses, connectivity,", "start": 603.28, "end": 609.3199999999999}
+{"id": "bAjBYEjeP6E-t609.3199999999999", "text": "then we have circuit functions and then behavior which is very elusive.", "start": 609.3199999999999, "end": 614.3599999999999}
+{"id": "bAjBYEjeP6E-t614.36", "text": "But most people work at that level.", "start": 614.36, "end": 617.6800000000001}
+{"id": "bAjBYEjeP6E-t617.6800000000001", "text": "So I think it has to be something where you could integrate these data sets like the", "start": 617.6800000000001, "end": 622.84}
+{"id": "bAjBYEjeP6E-t622.84", "text": "UN and Facebook interface but sets but you would be able to actually in a 3D almost fashion", "start": 622.84, "end": 630.84}
+{"id": "bAjBYEjeP6E-t630.84", "text": "to integrate all of this information to a comprehensive understanding of the brain.", "start": 630.84, "end": 635.6}
+{"id": "bAjBYEjeP6E-t635.6", "text": "I have no idea what basically I'm talking about here but I'm just basically saying that", "start": 635.6, "end": 639.84}
+{"id": "bAjBYEjeP6E-t639.84", "text": "it's just something which will be the next most of time this research you don't really", "start": 639.84, "end": 646.1600000000001}
+{"id": "bAjBYEjeP6E-t646.1600000000001", "text": "know what is the next big step but if something has to be very beyond this two-dimensional", "start": 646.1600000000001, "end": 651.24}
+{"id": "bAjBYEjeP6E-t651.24", "text": "understanding what we have now and probably nobody knows this.", "start": 651.24, "end": 654.36}
+{"id": "bAjBYEjeP6E-t654.36", "text": "It's just somebody will come up.", "start": 654.36, "end": 656.12}
+{"id": "bAjBYEjeP6E-t656.12", "text": "So that's why I think it's a good idea to invest NIH and IMH puts a lot of money in", "start": 656.12, "end": 660.72}
+{"id": "bAjBYEjeP6E-t660.72", "text": "these things.", "start": 660.72, "end": 661.72}
+{"id": "bAjBYEjeP6E-t661.72", "text": "There are a couple of people now, artificial intelligence comes in.", "start": 661.72, "end": 666.72}
+{"id": "bAjBYEjeP6E-t666.72", "text": "So maybe something is coming out but we don't know what it is and unfortunately we will", "start": 666.72, "end": 672.1600000000001}
+{"id": "bAjBYEjeP6E-t672.1600000000001", "text": "not be able to answer the future if I can't see I'm afraid but we just have to put money", "start": 672.1600000000001, "end": 679.36}
+{"id": "bAjBYEjeP6E-t679.36", "text": "and then beating 14 internet as a concept to coming out from this and I don't see it", "start": 679.36, "end": 687.0400000000001}
+{"id": "bAjBYEjeP6E-t687.0400000000001", "text": "yet.", "start": 687.0400000000001, "end": 688.0400000000001}
+{"id": "bAjBYEjeP6E-t688.0400000000001", "text": "I'm not for the major conditions let's say bipolar disorder or schizophrenia for example.", "start": 688.0400000000001, "end": 696.6800000000001}
+{"id": "bAjBYEjeP6E-t696.68", "text": "Are the studies focused on finding out what causes the condition or are the studies also", "start": 696.68, "end": 709.4399999999999}
+{"id": "bAjBYEjeP6E-t709.4399999999999", "text": "focused on dissecting it into the symptoms and trying to figure out what causes each", "start": 709.4399999999999, "end": 715.56}
+{"id": "bAjBYEjeP6E-t715.56", "text": "symptom?", "start": 715.56, "end": 716.56}
+{"id": "bAjBYEjeP6E-t716.56", "text": "I think at this point the main, at least from what I can get, the main thrust where the", "start": 716.56, "end": 724.04}
+{"id": "bAjBYEjeP6E-t724.04", "text": "money is going is collecting as many samples as possible to get hundreds of thousands of", "start": 724.04, "end": 731.76}
+{"id": "bAjBYEjeP6E-t731.76", "text": "samples of biological samples from ME, DNA and other and to try to do large statistical", "start": 731.76, "end": 738.48}
+{"id": "bAjBYEjeP6E-t738.48", "text": "analysis essentially genome-wide associations and they've succeeded in finding now over", "start": 738.48, "end": 745.24}
+{"id": "bAjBYEjeP6E-t745.24", "text": "200 schizophrenia genes accounting again for low percentages of the risk, like 0.5% of", "start": 745.24, "end": 752.24}
+{"id": "bAjBYEjeP6E-t752.24", "text": "the risk for schizophrenia.", "start": 752.24, "end": 754.84}
+{"id": "bAjBYEjeP6E-t754.84", "text": "They just completed in England a study where they took 100,000 people with depression and", "start": 754.84, "end": 761.6800000000001}
+{"id": "bAjBYEjeP6E-t761.6800000000001", "text": "they were able to find 50 genes that looked like they might be affected.", "start": 761.6800000000001, "end": 766.92}
+{"id": "bAjBYEjeP6E-t766.92", "text": "15, 5, 0.", "start": 766.92, "end": 768.96}
+{"id": "bAjBYEjeP6E-t768.96", "text": "Again, low effect sizes for each of these but essentially this is where efforts are to.", "start": 768.96, "end": 776.36}
+{"id": "bAjBYEjeP6E-t776.36", "text": "Again this is sort of like counting, it's sort of like they just want to accumulate as", "start": 776.36, "end": 780.4}
+{"id": "bAjBYEjeP6E-t780.4", "text": "many potential genes that might be a risk gene at this point and these are still early", "start": 780.4, "end": 786.56}
+{"id": "bAjBYEjeP6E-t786.56", "text": "days I would say.", "start": 786.56, "end": 788.84}
+{"id": "bAjBYEjeP6E-t788.84", "text": "20 years ago there was, there were none so if you divide by zero this is infinitely", "start": 788.84, "end": 795.3199999999999}
+{"id": "bAjBYEjeP6E-t795.3199999999999", "text": "better.", "start": 795.3199999999999, "end": 796.3199999999999}
+{"id": "bAjBYEjeP6E-t796.3199999999999", "text": "If you say 50 genes are responsible for the depression then what?", "start": 796.3199999999999, "end": 802.88}
+{"id": "bAjBYEjeP6E-t802.88", "text": "But they account for so little of the risk so it's sort of like it's a small effect size", "start": 802.88, "end": 807.56}
+{"id": "bAjBYEjeP6E-t807.56", "text": "so that there is a, the best example is one of the genes is a glutamate receptor which", "start": 807.56, "end": 814.1199999999999}
+{"id": "bAjBYEjeP6E-t814.1199999999999", "text": "makes somewhat sense glutamate receptors are everywhere now.", "start": 814.1199999999999, "end": 818.7199999999999}
+{"id": "bAjBYEjeP6E-t818.7199999999999", "text": "So but the problem, this one glutamate receptor they found is that it's everywhere.", "start": 818.7199999999999, "end": 824.1999999999999}
+{"id": "bAjBYEjeP6E-t824.1999999999999", "text": "So how you're going to actually target a drug to or something like that is going to be very", "start": 824.1999999999999, "end": 831.4399999999999}
+{"id": "bAjBYEjeP6E-t831.4399999999999", "text": "difficult.", "start": 831.4399999999999, "end": 832.4399999999999}
+{"id": "bAjBYEjeP6E-t832.4399999999999", "text": "Drug companies have been targeting this class of receptors already so in many ways we know", "start": 832.4399999999999, "end": 837.52}
+{"id": "bAjBYEjeP6E-t837.52", "text": "that this demiurs are stuck then with them again the complexity of the nervous system", "start": 837.52, "end": 842.92}
+{"id": "bAjBYEjeP6E-t842.92", "text": "in the brain and then even if we have one hit that makes some sense it's still very hard", "start": 842.92, "end": 850.0799999999999}
+{"id": "bAjBYEjeP6E-t850.0799999999999", "text": "to move forward.", "start": 850.0799999999999, "end": 851.64}
+{"id": "bAjBYEjeP6E-t851.64", "text": "You know it's interesting thinking about all of this data because again this brings", "start": 851.64, "end": 855.68}
+{"id": "bAjBYEjeP6E-t855.68", "text": "me back to this book I'm reading on the history of statistics and statistics in psychiatry", "start": 855.68, "end": 859.6}
+{"id": "bAjBYEjeP6E-t859.6", "text": "in particular where they were drowning in data in the 19th century.", "start": 859.6, "end": 863.48}
+{"id": "bAjBYEjeP6E-t863.48", "text": "You know one of the, one of Emil Cropelen's arguments was that he was spending all of", "start": 863.48, "end": 867.76}
+{"id": "bAjBYEjeP6E-t867.76", "text": "his time with data.", "start": 867.76, "end": 868.76}
+{"id": "bAjBYEjeP6E-t868.76", "text": "He had so much data he didn't know what to do with it and obviously we have a better", "start": 868.76, "end": 872.72}
+{"id": "bAjBYEjeP6E-t872.72", "text": "capacity for managing data but the thing that came after all of this data gathering in the", "start": 872.72, "end": 878.0}
+{"id": "bAjBYEjeP6E-t878.0", "text": "early 20th century was Freud and psychoanalysis has said okay we're not going to talk about", "start": 878.0, "end": 882.88}
+{"id": "bAjBYEjeP6E-t882.88", "text": "these big groups we're going to talk about one person and we're going to talk about how", "start": 882.88, "end": 886.52}
+{"id": "bAjBYEjeP6E-t886.52", "text": "what makes up this one person and how this one person's inner conflicts manifested in", "start": 886.52, "end": 891.88}
+{"id": "bAjBYEjeP6E-t891.88", "text": "these symptoms or these experiences and so I'm wondering if the future maybe if somebody", "start": 891.88, "end": 898.28}
+{"id": "bAjBYEjeP6E-t898.28", "text": "gets to the point where we have all this data and it's little pixels and it's everywhere", "start": 898.28, "end": 902.84}
+{"id": "bAjBYEjeP6E-t902.84", "text": "and it doesn't cohere to a particular picture that we're going to have another wave of people", "start": 902.84, "end": 906.56}
+{"id": "bAjBYEjeP6E-t906.56", "text": "saying no actually what we need are individuals, individual relationships.", "start": 906.56, "end": 911.48}
+{"id": "bAjBYEjeP6E-t911.48", "text": "You know we're spending all of our time bumping into people as we're looking on our phones", "start": 911.48, "end": 916.64}
+{"id": "bAjBYEjeP6E-t916.64", "text": "not engaging with people or we're going to have a backlash where maybe psychiatrists", "start": 916.64, "end": 921.32}
+{"id": "bAjBYEjeP6E-t921.32", "text": "will leave maybe will follow to say no actually what we need to do is work on interpersonal", "start": 921.32, "end": 925.9200000000001}
+{"id": "bAjBYEjeP6E-t925.9200000000001", "text": "interactions and that one patient again and go back in a different way.", "start": 925.9200000000001, "end": 931.72}
+{"id": "bAjBYEjeP6E-t931.72", "text": "I don't know.", "start": 931.72, "end": 932.72}
+{"id": "bAjBYEjeP6E-t932.72", "text": "Have we stopped doing that now?", "start": 932.72, "end": 935.36}
+{"id": "bAjBYEjeP6E-t935.36", "text": "According to some of our patients we have.", "start": 935.36, "end": 937.2800000000001}
+{"id": "bAjBYEjeP6E-t937.2800000000001", "text": "I think it's really they are not exclusive and they absolutely you have to just do both.", "start": 937.2800000000001, "end": 944.48}
+{"id": "bAjBYEjeP6E-t944.48", "text": "We do certainly the last day but in the clinics you do certainly the individual but they", "start": 944.48, "end": 951.2800000000001}
+{"id": "bAjBYEjeP6E-t951.28", "text": "our our goal is really to understand the basic framework of a disease rather than an individual", "start": 951.28, "end": 958.28}
+{"id": "bAjBYEjeP6E-t958.28", "text": "and maybe how an individual can end up with a disease phenotype from this overall concept", "start": 958.28, "end": 967.24}
+{"id": "bAjBYEjeP6E-t967.24", "text": "and you are more interested in obviously why this person got that but I think it's just", "start": 967.24, "end": 971.1999999999999}
+{"id": "bAjBYEjeP6E-t971.1999999999999", "text": "the two sides of the same story and we just have to do both.", "start": 971.1999999999999, "end": 975.88}
+{"id": "bAjBYEjeP6E-t975.88", "text": "There's an interesting sort of like similar backlash going right now in this other field", "start": 975.88, "end": 980.92}
+{"id": "bAjBYEjeP6E-t980.92", "text": "of systems neuroscience where people thought that you just need your image more people", "start": 980.92, "end": 986.12}
+{"id": "bAjBYEjeP6E-t986.12", "text": "and as they're going through various tasks or even whether sitting just to look at their", "start": 986.12, "end": 990.8399999999999}
+{"id": "bAjBYEjeP6E-t990.8399999999999", "text": "connect their brain connectome just as a to bring everyone up to speed.", "start": 990.8399999999999, "end": 995.56}
+{"id": "bAjBYEjeP6E-t995.56", "text": "Twenty years ago it was found that the brain actually organized itself into sort of like", "start": 995.56, "end": 1001.56}
+{"id": "bAjBYEjeP6E-t1001.56", "text": "hubs within their in the brain and you can actually just get a right what they call a", "start": 1001.56, "end": 1005.92}
+{"id": "bAjBYEjeP6E-t1005.92", "text": "resting state without any task you can actually get a scan and actually see these hugs in", "start": 1005.92, "end": 1011.8399999999999}
+{"id": "bAjBYEjeP6E-t1011.8399999999999", "text": "the brain and this is the work of Marcus Rakel at Washington University and people were fascinated", "start": 1011.8399999999999, "end": 1019.24}
+{"id": "bAjBYEjeP6E-t1019.24", "text": "by this and no one has really been able to sort of understand how is it that you can", "start": 1019.24, "end": 1022.8}
+{"id": "bAjBYEjeP6E-t1022.8", "text": "measure blood flow in the brain and actually see these self organized networks and and", "start": 1022.8, "end": 1028.8}
+{"id": "bAjBYEjeP6E-t1028.8", "text": "so then everyone got excited and just kept on collecting thousands and thousands of", "start": 1028.8, "end": 1034.6}
+{"id": "bAjBYEjeP6E-t1034.6", "text": "scans so now we have hundreds of thousands of scans within studies now at WashU where", "start": 1034.6, "end": 1040.4399999999998}
+{"id": "bAjBYEjeP6E-t1040.4399999999998", "text": "Marcus was there they now decided that everyone's network is individualized everyone's brain", "start": 1040.4399999999998, "end": 1048.8799999999999}
+{"id": "bAjBYEjeP6E-t1048.8799999999999", "text": "is that when you average it you get some average of brain that looks like no brain on the planet", "start": 1048.8799999999999, "end": 1054.6}
+{"id": "bAjBYEjeP6E-t1054.6", "text": "earth so now what they're doing is that they're they're actually taking individuals and actually", "start": 1054.6, "end": 1059.56}
+{"id": "bAjBYEjeP6E-t1059.56", "text": "just scanning them over and over again for example during the course of depression or", "start": 1059.56, "end": 1065.36}
+{"id": "bAjBYEjeP6E-t1065.36", "text": "during something so they can scan them at the height of symptom pathology and then at", "start": 1065.36, "end": 1072.2}
+{"id": "bAjBYEjeP6E-t1072.2", "text": "some other point when they're not so I think this is the goal now that that you might want", "start": 1072.2, "end": 1076.44}
+{"id": "bAjBYEjeP6E-t1076.44", "text": "to basically go back to into and then learn something from these individuals in a way that", "start": 1076.44, "end": 1082.44}
+{"id": "bAjBYEjeP6E-t1082.44", "text": "that they're not they're not been thought of before.", "start": 1082.44, "end": 1084.9199999999998}
+{"id": "bAjBYEjeP6E-t1084.9199999999998", "text": "I think there's a there have been some drug studies on that that this end of one studies", "start": 1084.9199999999998, "end": 1088.56}
+{"id": "bAjBYEjeP6E-t1088.56", "text": "where you you take a single person is the study and how they interact with medication", "start": 1088.56, "end": 1094.3999999999999}
+{"id": "bAjBYEjeP6E-t1094.3999999999999", "text": "and that's sort of this new thing that's being there.", "start": 1094.3999999999999, "end": 1097.36}
+{"id": "bAjBYEjeP6E-t1097.36", "text": "There's so many individual differences this is essentially this is that you can't the", "start": 1097.36, "end": 1101.96}
+{"id": "bAjBYEjeP6E-t1101.96", "text": "principles that even of trying to put together a brain connectome is very difficult even", "start": 1101.96, "end": 1106.3999999999999}
+{"id": "bAjBYEjeP6E-t1106.3999999999999", "text": "though NIH is spending lots of money on these connectome projects that ultimately you it", "start": 1106.3999999999999, "end": 1111.6399999999999}
+{"id": "bAjBYEjeP6E-t1111.6399999999999", "text": "might actually just sort of like you sort of like if you want to understand fruit you", "start": 1111.6399999999999, "end": 1115.76}
+{"id": "bAjBYEjeP6E-t1115.76", "text": "don't blend it together.", "start": 1115.76, "end": 1118.76}
+{"id": "bAjBYEjeP6E-t1118.76", "text": "I believe that response is a little bit simpler because then you ask the question why this", "start": 1118.76, "end": 1124.24}
+{"id": "bAjBYEjeP6E-t1124.24", "text": "drug is actually working in one individual actually understand the pharmacology of that", "start": 1124.24, "end": 1130.36}
+{"id": "bAjBYEjeP6E-t1130.36", "text": "based on an enzyme which is either stronger or weaker in certain individuals it's called", "start": 1130.36, "end": 1135.44}
+{"id": "bAjBYEjeP6E-t1135.44", "text": "seep enzymes but basically they just metabolize the drug many times this is crucial so and", "start": 1135.44, "end": 1141.96}
+{"id": "bAjBYEjeP6E-t1141.96", "text": "we can even now a patient can be screened because it's genetically based one can take", "start": 1141.96, "end": 1147.44}
+{"id": "bAjBYEjeP6E-t1147.44", "text": "a sample from blood and it's every cell is the same and we can basically figure out", "start": 1147.44, "end": 1153.92}
+{"id": "bAjBYEjeP6E-t1153.92", "text": "that it's a fast metabolizer a slow metabolizer and maybe that's the reason somebody is actually", "start": 1153.92, "end": 1160.3600000000001}
+{"id": "bAjBYEjeP6E-t1160.3600000000001", "text": "a side effects or another person does not respond and it's just a dose relationship", "start": 1160.3600000000001, "end": 1166.44}
+{"id": "bAjBYEjeP6E-t1166.44", "text": "so that that maybe somewhat easier to understand than what the underlying cause which could", "start": 1166.44, "end": 1172.76}
+{"id": "bAjBYEjeP6E-t1172.76", "text": "be thousands of different ways but I still believe that there's a still something common", "start": 1172.76, "end": 1178.44}
+{"id": "bAjBYEjeP6E-t1178.44", "text": "feature or features that it is a circuitry I kind of start to believe in circuitry no", "start": 1178.44, "end": 1185.76}
+{"id": "bAjBYEjeP6E-t1185.76", "text": "nobody's but maybe it's just to be as it's fashionable but but circuitry in animal models", "start": 1185.76, "end": 1191.48}
+{"id": "bAjBYEjeP6E-t1191.48", "text": "at least you can understand how the circuitry can be linked to a certain behavior we can", "start": 1191.48, "end": 1197.04}
+{"id": "bAjBYEjeP6E-t1197.04", "text": "model the circuitry we can activate we can deactivate certain very different secondary", "start": 1197.04, "end": 1201.6}
+{"id": "bAjBYEjeP6E-t1201.6", "text": "even we can we can tailor we call it synaptic transmission in certain areas of brain and", "start": 1201.6, "end": 1208.96}
+{"id": "bAjBYEjeP6E-t1208.96", "text": "we can we can't respond but of course after below and underneath there's a lot of genes", "start": 1208.96, "end": 1215.84}
+{"id": "bAjBYEjeP6E-t1215.84", "text": "and synapse and other things you just don't really understand I'm gonna go back to where", "start": 1215.84, "end": 1223.9199999999998}
+{"id": "bAjBYEjeP6E-t1223.9199999999998", "text": "we started and be a little provocative to me psychiatry's defined like all medical", "start": 1223.9199999999998, "end": 1232.08}
+{"id": "bAjBYEjeP6E-t1232.08", "text": "specialties as everything that's relevant to helping people with a certain kind of problem", "start": 1232.08, "end": 1240.52}
+{"id": "bAjBYEjeP6E-t1240.52", "text": "and the neuroscience research base that we've been talking about is fascinating exciting", "start": 1240.52, "end": 1249.72}
+{"id": "bAjBYEjeP6E-t1249.72", "text": "intriguing and essentially totally irrelevant to helping any living patient it may have", "start": 1249.72, "end": 1259.28}
+{"id": "bAjBYEjeP6E-t1259.28", "text": "some hope for the future although a possible outcome of the work is that this strategy", "start": 1259.28, "end": 1265.28}
+{"id": "bAjBYEjeP6E-t1265.28", "text": "won't lead to anything helpful for patients or maybe to some modest twists on some of", "start": 1265.28, "end": 1272.84}
+{"id": "bAjBYEjeP6E-t1272.84", "text": "our current drugs almost all of our current biologic treatments were discovered by happen", "start": 1272.84, "end": 1281.08}
+{"id": "bAjBYEjeP6E-t1281.08", "text": "stance not by scientific research they're serendipitous if we never spent the penny on", "start": 1281.08, "end": 1291.12}
+{"id": "bAjBYEjeP6E-t1291.12", "text": "any neuroscience basic research over the last hundred years it would make trivial difference", "start": 1291.12, "end": 1297.76}
+{"id": "bAjBYEjeP6E-t1297.76", "text": "the current psychiatric patients but we didn't know that I mean obviously clearly that's", "start": 1297.76, "end": 1303.4799999999998}
+{"id": "bAjBYEjeP6E-t1303.4799999999998", "text": "the problem I mean it was that we were going to crack the problem by going neuroscience", "start": 1303.4799999999998, "end": 1307.9199999999998}
+{"id": "bAjBYEjeP6E-t1307.9199999999998", "text": "but as our historian warned us we have to study the past to find out we won't repeat", "start": 1307.9199999999998, "end": 1314.6799999999998}
+{"id": "bAjBYEjeP6E-t1314.6799999999998", "text": "so it wasn't money weight it was wasted in the sense it didn't give us what we wanted", "start": 1314.6799999999998, "end": 1317.6799999999998}
+{"id": "bAjBYEjeP6E-t1317.68", "text": "but it was wasted but it led to nothing yes it was a very intelligent gamble that lost", "start": 1317.68, "end": 1327.24}
+{"id": "bAjBYEjeP6E-t1327.24", "text": "so it's short term lost we don't know about the future I just want that for background", "start": 1327.24, "end": 1333.92}
+{"id": "bAjBYEjeP6E-t1333.92", "text": "because when we talk about the excitement of contemporary neuroscience research we're", "start": 1333.92, "end": 1339.68}
+{"id": "bAjBYEjeP6E-t1339.68", "text": "talking about possible hopes for a fairly distant future we're not talking about anyone who's", "start": 1339.68, "end": 1347.8400000000001}
+{"id": "bAjBYEjeP6E-t1347.8400000000001", "text": "mentally ill today or anything that might help that person but one of the side effects", "start": 1347.8400000000001, "end": 1353.1200000000001}
+{"id": "bAjBYEjeP6E-t1353.1200000000001", "text": "of the neuroscience thing is I believe it's been partly responsible for lowering the stigma", "start": 1353.1200000000001, "end": 1359.64}
+{"id": "bAjBYEjeP6E-t1359.64", "text": "of mental disorders and it's unfortunate because somehow if it's in the brain therefore people", "start": 1359.64, "end": 1365.16}
+{"id": "bAjBYEjeP6E-t1365.16", "text": "shouldn't be stigma I mean the fact that it has helped stigma in a way is sad that it", "start": 1365.16, "end": 1369.48}
+{"id": "bAjBYEjeP6E-t1369.48", "text": "took something like this but I think it has people having a brain disease calling schizophrenia", "start": 1369.48, "end": 1374.0800000000002}
+{"id": "bAjBYEjeP6E-t1374.0800000000002", "text": "brain disease I mean all over and calling substance abuse if you believe it's a brain disease", "start": 1374.0800000000002, "end": 1379.24}
+{"id": "bAjBYEjeP6E-t1379.24", "text": "but people call it a brain disease partly to try to reduce the stigma so this angle to", "start": 1379.24, "end": 1384.24}
+{"id": "bAjBYEjeP6E-t1384.24", "text": "split the besides the fact we're trying to look for answers is actually I think had an", "start": 1384.24, "end": 1388.48}
+{"id": "bAjBYEjeP6E-t1388.48", "text": "improvement with respect to the place of psychiatry and medicine and also the place of patients", "start": 1388.48, "end": 1394.92}
+{"id": "bAjBYEjeP6E-t1394.92", "text": "with mental disorders within the myths of medical history that's the rhetoric of neuroscience", "start": 1394.92, "end": 1399.48}
+{"id": "bAjBYEjeP6E-t1399.48", "text": "yes exactly no no but that's a part of the plan of all this money was well if it achieved", "start": 1399.48, "end": 1405.28}
+{"id": "bAjBYEjeP6E-t1405.28", "text": "nothing but that then it would have been well spent as much as I think it's my thing", "start": 1405.28, "end": 1408.6000000000001}
+{"id": "bAjBYEjeP6E-t1408.6000000000001", "text": "the problem the downside of that though is that the patients expectations of what we", "start": 1408.6000000000001, "end": 1412.2}
+{"id": "bAjBYEjeP6E-t1412.2", "text": "can do for them are sky high you know that they they sit there and wait for us to fix", "start": 1412.2, "end": 1417.24}
+{"id": "bAjBYEjeP6E-t1417.24", "text": "their brain disease while they don't want to put any I have too much serotonin I read about", "start": 1417.24, "end": 1421.72}
+{"id": "bAjBYEjeP6E-t1421.72", "text": "that which can give you a drug to reduce that and I'll feel better right right and so the", "start": 1421.72, "end": 1427.0}
+{"id": "bAjBYEjeP6E-t1427.0", "text": "expectations are very high our drugs are okay we our therapies are good but people have to", "start": 1427.0, "end": 1432.52}
+{"id": "bAjBYEjeP6E-t1432.52", "text": "put effort into it right I think these happen really outside of the neuroscience for example", "start": 1432.52, "end": 1438.4}
+{"id": "bAjBYEjeP6E-t1438.4", "text": "if it's infectious diseases going back hundreds of years and then figure figure out if it's", "start": 1438.4, "end": 1444.4}
+{"id": "bAjBYEjeP6E-t1444.4", "text": "a cleaner environment probably can avoid something we need a little microbiome or microbiome", "start": 1444.4, "end": 1448.88}
+{"id": "bAjBYEjeP6E-t1448.88", "text": "or microorganisms but I think eventually when this boxers discovered cloned the gene structure", "start": 1448.88, "end": 1456.7600000000002}
+{"id": "bAjBYEjeP6E-t1456.7600000000002", "text": "understood then we know the target we can design antibiotics more precisely not just by by", "start": 1456.7600000000002, "end": 1463.4}
+{"id": "bAjBYEjeP6E-t1463.4", "text": "lock like not that is silly most certainly a lot but now everything is designed or age", "start": 1463.4, "end": 1469.0800000000002}
+{"id": "bAjBYEjeP6E-t1469.0800000000002", "text": "would have not been treated the way unless you know we had the virus we had the structure", "start": 1469.0800000000002, "end": 1475.1200000000001}
+{"id": "bAjBYEjeP6E-t1475.12", "text": "we have the genome and actually the drugs which are double up that are targeting a particular", "start": 1475.12, "end": 1479.9199999999998}
+{"id": "bAjBYEjeP6E-t1479.9199999999998", "text": "gene so I think we are just a few hundred years maybe behind psychiatry but basically", "start": 1479.9199999999998, "end": 1486.52}
+{"id": "bAjBYEjeP6E-t1486.52", "text": "a history tells me that yes this is the typical curve their accidental and then for just findings", "start": 1486.52, "end": 1494.9599999999998}
+{"id": "bAjBYEjeP6E-t1494.9599999999998", "text": "and we use it because that's the only way we have maybe they are not even useful to", "start": 1494.9599999999998, "end": 1499.84}
+{"id": "bAjBYEjeP6E-t1499.84", "text": "them of further drugs like in a certain in blockers so that we couldn't go further behind", "start": 1499.84, "end": 1505.3999999999999}
+{"id": "bAjBYEjeP6E-t1505.3999999999999", "text": "that so we need some other information to build another way and be just not there yet", "start": 1505.3999999999999, "end": 1511.36}
+{"id": "bAjBYEjeP6E-t1511.36", "text": "but I think we have to just patient and I don't know we will be see that time but it", "start": 1511.36, "end": 1517.9599999999998}
+{"id": "bAjBYEjeP6E-t1517.9599999999998", "text": "just have to be this is the normal course I think every since and I said I mean first", "start": 1517.9599999999998, "end": 1524.12}
+{"id": "bAjBYEjeP6E-t1524.12", "text": "of all as I always say I agree with you Bob is that and I think it's sort of sort of", "start": 1524.12, "end": 1533.84}
+{"id": "bAjBYEjeP6E-t1533.84", "text": "reflected by the fact that the the Cornell resident's psychiatry residents really have", "start": 1533.84, "end": 1538.3999999999999}
+{"id": "bAjBYEjeP6E-t1538.3999999999999", "text": "to know nothing about the brain in order to be an outstanding resident that the training", "start": 1538.3999999999999, "end": 1543.1599999999999}
+{"id": "bAjBYEjeP6E-t1543.1599999999999", "text": "itself does not require us to even know the mechanism of action of any of the drugs that", "start": 1543.1599999999999, "end": 1547.8799999999999}
+{"id": "bAjBYEjeP6E-t1547.8799999999999", "text": "they're given because we actually don't know for example even how this year maybe it's", "start": 1547.8799999999999, "end": 1551.6}
+{"id": "bAjBYEjeP6E-t1551.6", "text": "not a good each them medical school it's not taken very seriously but will you say the", "start": 1551.6, "end": 1558.9199999999998}
+{"id": "bAjBYEjeP6E-t1558.9199999999998", "text": "way forward is if instead of putting our X percent GDP into neuroscience research how", "start": 1558.9199999999998, "end": 1566.3999999999999}
+{"id": "bAjBYEjeP6E-t1566.3999999999999", "text": "do you construct moving the field of psychiatry which is to help these people that are that", "start": 1566.3999999999999, "end": 1573.32}
+{"id": "bAjBYEjeP6E-t1573.32", "text": "are leaving very difficult lives and you but more proportion for example in prison and", "start": 1573.32, "end": 1581.24}
+{"id": "bAjBYEjeP6E-t1581.24", "text": "how do we help these with that psychiatrist and possibly difficult but very important", "start": 1581.24, "end": 1590.04}
+{"id": "bAjBYEjeP6E-t1590.04", "text": "question and I'll translate it pragmatically how should the nation devote its resources", "start": 1590.04, "end": 1597.04}
+{"id": "bAjBYEjeP6E-t1597.04", "text": "for toward the issues of mental illness and we're doing it wrong we're spending too much", "start": 1597.04, "end": 1604.56}
+{"id": "bAjBYEjeP6E-t1604.56", "text": "money in tertiary care for people with serious mental illnesses not enough money in preventive", "start": 1604.56, "end": 1613.0}
+{"id": "bAjBYEjeP6E-t1613.0", "text": "medicine even where we know certain things that would make a difference and would work", "start": 1613.0, "end": 1619.12}
+{"id": "bAjBYEjeP6E-t1619.12", "text": "we certainly would do much more for the next x years 50 hundred of the populations psychiatric", "start": 1619.12, "end": 1629.2}
+{"id": "bAjBYEjeP6E-t1629.2", "text": "problems if we put more money into early child development mentoring experiences at a facility", "start": 1629.2, "end": 1638.92}
+{"id": "bAjBYEjeP6E-t1638.92", "text": "then in tertiary care strategies for the persistent and chronic mentally ill that are biologic", "start": 1638.92, "end": 1654.2}
+{"id": "bAjBYEjeP6E-t1654.2", "text": "in nature we know that the pattern of drug use in this country has more to do with physicians", "start": 1654.2, "end": 1666.56}
+{"id": "bAjBYEjeP6E-t1666.56", "text": "needing to placate dissatisfied and angry patients rather than with knowledge about the impact", "start": 1666.56, "end": 1674.04}
+{"id": "bAjBYEjeP6E-t1674.04", "text": "of the drugs on their behavior or their brain but we know that the skillful physicians know", "start": 1674.04, "end": 1681.6000000000001}
+{"id": "bAjBYEjeP6E-t1681.6", "text": "that can reduce the patients dissatisfaction with the treatment by writing a description", "start": 1681.6, "end": 1688.0}
+{"id": "bAjBYEjeP6E-t1688.0", "text": "and more expensive the medicine better the effect of the pharmaceutical and this is triggered", "start": 1688.0, "end": 1693.56}
+{"id": "bAjBYEjeP6E-t1693.56", "text": "out of walls and we're going along with it but it's very hard to revise the system so", "start": 1693.56, "end": 1701.7199999999998}
+{"id": "bAjBYEjeP6E-t1701.72", "text": "the goal is total public health rather than satisfying individual consumers and current", "start": 1701.72, "end": 1713.92}
+{"id": "bAjBYEjeP6E-t1713.92", "text": "health delivery system has as its output satisfying consumers rather than the health", "start": 1713.92, "end": 1721.96}
+{"id": "bAjBYEjeP6E-t1721.96", "text": "of the nation that's a public health disaster which is supported politically that's not", "start": 1721.96, "end": 1729.3600000000001}
+{"id": "bAjBYEjeP6E-t1729.36", "text": "really psychiatry but it has a lot more to do with mental health in the next hundred", "start": 1729.36, "end": 1734.8799999999999}
+{"id": "bAjBYEjeP6E-t1734.8799999999999", "text": "years than neuroscience.", "start": 1734.8799999999999, "end": 1737.76}
+{"id": "bAjBYEjeP6E-t1737.76", "text": "The only thing I would say that is we've already put an x number of billions or millions", "start": 1737.76, "end": 1747.0}
+{"id": "bAjBYEjeP6E-t1747.0", "text": "hundreds of millions of dollars in these sort of early intervention studies public health", "start": 1747.0, "end": 1752.3999999999999}
+{"id": "bAjBYEjeP6E-t1752.3999999999999", "text": "efforts such as Head Start and I've not yet seen any data that that is it's just that", "start": 1752.3999999999999, "end": 1758.28}
+{"id": "bAjBYEjeP6E-t1758.28", "text": "we have not put enough or is it that it's not clear to me that we're making we're moving", "start": 1758.28, "end": 1765.0}
+{"id": "bAjBYEjeP6E-t1765.0", "text": "the needle even with the programs we have now or is it that the needle is just a part", "start": 1765.0, "end": 1769.96}
+{"id": "bAjBYEjeP6E-t1769.96", "text": "to move?", "start": 1769.96, "end": 1770.96}
+{"id": "bAjBYEjeP6E-t1770.96", "text": "Well I'm not sure Head Start's the answer Francis but for example you know the study", "start": 1770.96, "end": 1777.04}
+{"id": "bAjBYEjeP6E-t1777.04", "text": "of sure better than I do that the children of depressed mothers who are depressed during", "start": 1777.04, "end": 1783.68}
+{"id": "bAjBYEjeP6E-t1783.68", "text": "pregnancy and in the postpartum period have been mental health outcomes.", "start": 1783.68, "end": 1789.2}
+{"id": "bAjBYEjeP6E-t1789.2", "text": "We know how to treat depression better than most things we know how to treat including", "start": 1789.2, "end": 1794.5600000000002}
+{"id": "bAjBYEjeP6E-t1794.5600000000002", "text": "depressed pregnant women and depressed women postpartum but we don't deliver that treatment", "start": 1794.5600000000002, "end": 1799.92}
+{"id": "bAjBYEjeP6E-t1799.92", "text": "effectively to lots of populations.", "start": 1799.92, "end": 1803.48}
+{"id": "bAjBYEjeP6E-t1803.48", "text": "We would have more public health mental health benefit by organizing a more effective intervention", "start": 1803.48, "end": 1812.76}
+{"id": "bAjBYEjeP6E-t1812.76", "text": "to assure the mental health of pregnant and postpartum women.", "start": 1812.76, "end": 1822.12}
+{"id": "bAjBYEjeP6E-t1822.12", "text": "Then almost anything else we get for our dollar and mental health.", "start": 1822.12, "end": 1831.36}
+{"id": "bAjBYEjeP6E-t1831.36", "text": "I think the neuroscience is fascinating.", "start": 1831.36, "end": 1834.24}
+{"id": "bAjBYEjeP6E-t1834.24", "text": "I believe we should invest in it but I think that there's a there's a image probably", "start": 1834.24, "end": 1842.68}
+{"id": "bAjBYEjeP6E-t1842.68", "text": "wrong.", "start": 1842.68, "end": 1843.68}
+{"id": "bAjBYEjeP6E-t1843.68", "text": "I think we sell it with the implication that it's going to make a difference soon and", "start": 1843.68, "end": 1849.3200000000002}
+{"id": "bAjBYEjeP6E-t1849.3200000000002", "text": "I don't think that's true.", "start": 1849.3200000000002, "end": 1851.4}
+{"id": "bAjBYEjeP6E-t1851.4", "text": "On the other hand if we tell the truth we're going to lose resources so people act rationally.", "start": 1851.4, "end": 1858.64}
+{"id": "bAjBYEjeP6E-t1858.64", "text": "The way you get the largest grant and the greatest congressional appropriation is to", "start": 1858.64, "end": 1865.3600000000001}
+{"id": "bAjBYEjeP6E-t1865.3600000000001", "text": "suggest not that the connect homes are fascinating but they may lead to a cure for Alzheimer's", "start": 1865.3600000000001, "end": 1872.16}
+{"id": "bAjBYEjeP6E-t1872.16", "text": "disease possibly Thursday.", "start": 1872.16, "end": 1878.52}
+{"id": "bAjBYEjeP6E-t1878.52", "text": "You can't imagine anyone not using that strategy because we do have data that that strategy", "start": 1878.52, "end": 1885.6000000000001}
+{"id": "bAjBYEjeP6E-t1885.6000000000001", "text": "works.", "start": 1885.6000000000001, "end": 1886.6000000000001}
+{"id": "bAjBYEjeP6E-t1886.6000000000001", "text": "Well the trade-off there is a fixed amount of money available for research and we've", "start": 1886.6000000000001, "end": 1892.52}
+{"id": "bAjBYEjeP6E-t1892.52", "text": "seen it NIH the amount of research that's going into treatment development.", "start": 1892.52, "end": 1896.88}
+{"id": "bAjBYEjeP6E-t1896.88", "text": "If all got shunted over into this neuroscience thing.", "start": 1896.88, "end": 1900.72}
+{"id": "bAjBYEjeP6E-t1900.72", "text": "If we had unlimited money we can do neuroscience and we can do this but it doesn't work that", "start": 1900.72, "end": 1905.2}
+{"id": "bAjBYEjeP6E-t1905.2", "text": "way.", "start": 1905.2, "end": 1906.2}
+{"id": "bAjBYEjeP6E-t1906.2", "text": "We are we or somebody is getting the money or certain portions of psychiatry and neuroscience", "start": 1906.2, "end": 1911.76}
+{"id": "bAjBYEjeP6E-t1911.76", "text": "are getting the money but the patients I think the treatment research is really dried up.", "start": 1911.76, "end": 1917.4}
+{"id": "bAjBYEjeP6E-t1917.4", "text": "A lot of it is going to form a sort of depending on pharmaceutical companies and they have", "start": 1917.4, "end": 1921.72}
+{"id": "bAjBYEjeP6E-t1921.72", "text": "unfortunately their motives aren't always aligned with ours so it's a real problem.", "start": 1921.72, "end": 1929.2}
+{"id": "bAjBYEjeP6E-t1929.2", "text": "That's right this is the way you sell money from the government but unfortunately by diluting", "start": 1929.2, "end": 1933.8400000000001}
+{"id": "bAjBYEjeP6E-t1933.8400000000001", "text": "the government into these promises we get don't get good results for the research and", "start": 1933.8400000000001, "end": 1938.8}
+{"id": "bAjBYEjeP6E-t1938.8", "text": "we're really depriving the use of the money elsewhere.", "start": 1938.8, "end": 1941.56}
+{"id": "bAjBYEjeP6E-t1941.56", "text": "Again I don't know what the solution is but I think that's a problem with the success", "start": 1941.56, "end": 1946.16}
+{"id": "bAjBYEjeP6E-t1946.16", "text": "of getting money for neuroscience.", "start": 1946.16, "end": 1947.76}
+{"id": "bAjBYEjeP6E-t1947.76", "text": "What is in the hope that the research is going to give you the tools?", "start": 1947.76, "end": 1953.32}
+{"id": "bAjBYEjeP6E-t1953.32", "text": "Oh no that's right but I think it's Bob was implying that's not happening.", "start": 1953.32, "end": 1957.68}
+{"id": "bAjBYEjeP6E-t1957.68", "text": "Well the fact that's not happening Bob said it's not happening soon but what does that", "start": 1957.68, "end": 1962.68}
+{"id": "bAjBYEjeP6E-t1962.68", "text": "mean?", "start": 1962.68, "end": 1963.68}
+{"id": "bAjBYEjeP6E-t1963.68", "text": "It's not happening tomorrow it's not happening in 20 years it's not happening in 50 years.", "start": 1963.68, "end": 1967.8400000000001}
+{"id": "bAjBYEjeP6E-t1967.8400000000001", "text": "But maybe never is the problem.", "start": 1967.8400000000001, "end": 1969.64}
+{"id": "bAjBYEjeP6E-t1969.64", "text": "The one thing that's been very clear is everybody said the more we study it the more difficult", "start": 1969.64, "end": 1973.0800000000002}
+{"id": "bAjBYEjeP6E-t1973.0800000000002", "text": "it gets.", "start": 1973.0800000000002, "end": 1974.0800000000002}
+{"id": "bAjBYEjeP6E-t1974.0800000000002", "text": "That's the you know years ago this neuroscience thing see oh all we have to do is sequence", "start": 1974.0800000000002, "end": 1978.68}
+{"id": "bAjBYEjeP6E-t1978.68", "text": "the genome all we have to do is this all we have to do is that and every time we do that", "start": 1978.68, "end": 1983.04}
+{"id": "bAjBYEjeP6E-t1983.04", "text": "we're just waiting for that one is not a single biological test in psychiatry for diagnosis.", "start": 1983.04, "end": 1989.1599999999999}
+{"id": "bAjBYEjeP6E-t1989.1599999999999", "text": "One thing I remember when I was working with Alan Francis of the DSM 4 we wrote this guide", "start": 1989.1599999999999, "end": 1993.6399999999999}
+{"id": "bAjBYEjeP6E-t1993.6399999999999", "text": "book and we put a set to the guide book it was in the Alzheimer's section and we were", "start": 1993.6399999999999, "end": 1997.96}
+{"id": "bAjBYEjeP6E-t1997.96", "text": "saying that we're very confident in the next five years by the time this book is out we're", "start": 1997.96, "end": 2002.48}
+{"id": "bAjBYEjeP6E-t2002.48", "text": "going to be a biological test for Alzheimer's and boy was that all I'd still offer it 30-", "start": 2002.48, "end": 2006.8799999999999}
+{"id": "bAjBYEjeP6E-t2006.8799999999999", "text": "25 years later and we're still you you speak to the Alzheimer's people they said oh another", "start": 2006.8799999999999, "end": 2011.3999999999999}
+{"id": "bAjBYEjeP6E-t2011.4", "text": "five year or years to get that right but there's this elusiveness to actually turning these", "start": 2011.4, "end": 2015.76}
+{"id": "bAjBYEjeP6E-t2015.76", "text": "into now it's not clear what you do about that you don't want to say well let's just", "start": 2015.76, "end": 2018.76}
+{"id": "bAjBYEjeP6E-t2018.76", "text": "give up and stop doing it but there is this problem with putting money in a direction", "start": 2018.76, "end": 2023.6000000000001}
+{"id": "bAjBYEjeP6E-t2023.6000000000001", "text": "that has proven to be very very complicated at what point again if we had an element of", "start": 2023.6000000000001, "end": 2027.8400000000001}
+{"id": "bAjBYEjeP6E-t2027.8400000000001", "text": "money I'd say well let's keep pursuing that but it's coming at the cost of resources being", "start": 2027.8400000000001, "end": 2032.5600000000002}
+{"id": "bAjBYEjeP6E-t2032.5600000000002", "text": "spent on research for better delivery of treatment you just mentioned the thing with the delivery", "start": 2032.5600000000002, "end": 2038.1200000000001}
+{"id": "bAjBYEjeP6E-t2038.12", "text": "of the treatment you know how to treat depression in pregnant women but there's a delivery problem", "start": 2038.12, "end": 2043.28}
+{"id": "bAjBYEjeP6E-t2043.28", "text": "I mean putting all our money into figuring how to solve those problems would probably", "start": 2043.28, "end": 2047.8}
+{"id": "bAjBYEjeP6E-t2047.8", "text": "get better short-term results but that's much harder to sell let's spend money on delivery", "start": 2047.8, "end": 2052.72}
+{"id": "bAjBYEjeP6E-t2052.72", "text": "of care when I was in medical school in a pathology lab one of the professors would", "start": 2052.72, "end": 2059.04}
+{"id": "bAjBYEjeP6E-t2059.04", "text": "walk around the lab while we were looking at microscopes of cancer cells cancer tissue while", "start": 2059.04, "end": 2065.68}
+{"id": "bAjBYEjeP6E-t2065.68", "text": "he was smoking and so we as medical students told him you know you are a professor of pathology", "start": 2065.68, "end": 2073.68}
+{"id": "bAjBYEjeP6E-t2073.68", "text": "we are looking at cancer there's a connection between lung cancer and smoking where are you", "start": 2073.68, "end": 2078.3199999999997}
+{"id": "bAjBYEjeP6E-t2078.3199999999997", "text": "smoking he said cancer is cured in ten years I'm talking about the six days so but that doesn't", "start": 2078.3199999999997, "end": 2087.72}
+{"id": "bAjBYEjeP6E-t2087.72", "text": "mean that the research in cancer has not borne a lot of fruit so that today with immunotherapy", "start": 2087.72, "end": 2095.04}
+{"id": "bAjBYEjeP6E-t2095.04", "text": "targeted therapy and so on we are so much further than when I was a medical student so", "start": 2095.04, "end": 2100.7599999999998}
+{"id": "bAjBYEjeP6E-t2100.7599999999998", "text": "why wouldn't the same thing happen and you're right the parallels there of course right", "start": 2100.7599999999998, "end": 2105.2799999999997}
+{"id": "bAjBYEjeP6E-t2105.2799999999997", "text": "that it's going to be cured in ten years the hubs all over medicine they've actually made", "start": 2105.2799999999997, "end": 2110.2}
+{"id": "bAjBYEjeP6E-t2110.2", "text": "a lot more progress like the precision medicine is a good example that entire field and all", "start": 2110.2, "end": 2114.24}
+{"id": "bAjBYEjeP6E-t2114.24", "text": "that you know when you apply that to psychiatry we are so far away whatever precision but", "start": 2114.24, "end": 2119.36}
+{"id": "bAjBYEjeP6E-t2119.36", "text": "it's discussed it's always cancer I mean that is has been the area of medicine with", "start": 2119.36, "end": 2124.12}
+{"id": "bAjBYEjeP6E-t2124.12", "text": "I guess you could argue infectious diseases always precision medicine but cancer is a", "start": 2124.12, "end": 2127.52}
+{"id": "bAjBYEjeP6E-t2127.52", "text": "great example and they have made I mean you could argue that all that money spent on cancer", "start": 2127.52, "end": 2132.7599999999998}
+{"id": "bAjBYEjeP6E-t2132.7599999999998", "text": "which is by the way historically much much more orders of magnitude more than was spent", "start": 2132.7599999999998, "end": 2136.88}
+{"id": "bAjBYEjeP6E-t2136.88", "text": "in mental health but you're right that's finally beginning to pay off and part of it I think", "start": 2136.88, "end": 2141.2799999999997}
+{"id": "bAjBYEjeP6E-t2141.2799999999997", "text": "however complicated the cancer story is it is more tractable than I think the psychiatry", "start": 2141.2799999999997, "end": 2146.0}
+{"id": "bAjBYEjeP6E-t2146.0", "text": "story because the of all the it's just it's just so much more complex the brain then I", "start": 2146.0, "end": 2151.92}
+{"id": "bAjBYEjeP6E-t2151.92", "text": "think that we always assume the cancer thing would be that hard because it looks like it", "start": 2151.92, "end": 2154.92}
+{"id": "bAjBYEjeP6E-t2154.92", "text": "should be simple that's turned out to be extremely complex or there's just a parallel there", "start": 2154.92, "end": 2158.8}
+{"id": "bAjBYEjeP6E-t2158.8", "text": "it looks doable then we see it's not and you put a lot of money in it and finally we're", "start": 2158.8, "end": 2163.04}
+{"id": "bAjBYEjeP6E-t2163.04", "text": "getting some results and that would be the argument let's just do it in our field and", "start": 2163.04, "end": 2167.08}
+{"id": "bAjBYEjeP6E-t2167.08", "text": "the same thing will happen and it's possible but I think the only downside of that is there's", "start": 2167.08, "end": 2172.52}
+{"id": "bAjBYEjeP6E-t2172.52", "text": "a limited pie of money and what's not being spent on by pursuing this goal but just as", "start": 2172.52, "end": 2179.6}
+{"id": "bAjBYEjeP6E-t2179.6", "text": "follow up with me closest as and what you're saying it probably means that we will probably", "start": 2179.6, "end": 2184.24}
+{"id": "bAjBYEjeP6E-t2184.24", "text": "have to spend as much money as we do in cancer which is probably ten times as much as being", "start": 2184.24, "end": 2188.92}
+{"id": "bAjBYEjeP6E-t2188.92", "text": "spent on all brain disorders so it's not surprising we've not moved the needle at this", "start": 2188.92, "end": 2193.56}
+{"id": "bAjBYEjeP6E-t2193.56", "text": "point in effect and that it took cancer maybe a better analogy is to think that we're about", "start": 2193.56, "end": 2200.64}
+{"id": "bAjBYEjeP6E-t2200.64", "text": "thirty years behind cancer that might be the best way to think about it at this point", "start": 2200.64, "end": 2205.2}
+{"id": "bAjBYEjeP6E-t2205.2", "text": "you know and that but that in order to get to work cancer is we're going to have to", "start": 2205.2, "end": 2210.08}
+{"id": "bAjBYEjeP6E-t2210.08", "text": "put more money in and I would not be as provocative as Bob I would actually say that the money", "start": 2210.08, "end": 2217.08}
+{"id": "bAjBYEjeP6E-t2217.08", "text": "that was spent on sort of fundamental neuroscience or fundamental biology is probably the best", "start": 2217.08, "end": 2224.72}
+{"id": "bAjBYEjeP6E-t2224.72", "text": "money spent because we really don't know the brain that well we think we do if you think", "start": 2224.72, "end": 2230.7599999999998}
+{"id": "bAjBYEjeP6E-t2230.76", "text": "about how why we move so quickly in terms of tackling HIV to a sort of a chronic disease", "start": 2230.76, "end": 2237.2400000000002}
+{"id": "bAjBYEjeP6E-t2237.2400000000002", "text": "is because of the fundamental biology of understanding how viruses replicate you know and so just", "start": 2237.2400000000002, "end": 2243.6800000000003}
+{"id": "bAjBYEjeP6E-t2243.6800000000003", "text": "basically emphasizing that neuroscience is not necessarily just linked to side cafe but", "start": 2243.6800000000003, "end": 2250.0400000000004}
+{"id": "bAjBYEjeP6E-t2250.0400000000004", "text": "we have to talk about neurology and then many other basically this money first of all is", "start": 2250.0400000000004, "end": 2257.2400000000002}
+{"id": "bAjBYEjeP6E-t2257.24", "text": "not a big amount from the basic science perspective to be honest compared to the cancer is like", "start": 2257.24, "end": 2263.3999999999996}
+{"id": "bAjBYEjeP6E-t2263.3999999999996", "text": "there would be not but but basically so this money is really not only understanding disease", "start": 2263.3999999999996, "end": 2269.3999999999996}
+{"id": "bAjBYEjeP6E-t2269.3999999999996", "text": "but also understanding how the brain functions which has different implications in the computer", "start": 2269.3999999999996, "end": 2274.0}
+{"id": "bAjBYEjeP6E-t2274.0", "text": "science or a society of problems or behavioral things which is nothing to do with an exact", "start": 2274.0, "end": 2279.7999999999997}
+{"id": "bAjBYEjeP6E-t2279.7999999999997", "text": "disease necessarily but still how we interpret each other social behavior wars and peace", "start": 2279.7999999999997, "end": 2286.6}
+{"id": "bAjBYEjeP6E-t2286.6", "text": "and a lot of implications so I think in fact I think there's no portion of the so would", "start": 2286.6, "end": 2294.36}
+{"id": "bAjBYEjeP6E-t2294.36", "text": "be a continuous and freshly spent on directly disease related and it's not a lot of money", "start": 2294.36, "end": 2300.48}
+{"id": "bAjBYEjeP6E-t2300.48", "text": "unfortunately and there's a lot of competition for this money that's I totally understand", "start": 2300.48, "end": 2306.04}
+{"id": "bAjBYEjeP6E-t2306.04", "text": "that it's not enough other field but I think it's not whether you put left or right the", "start": 2306.04, "end": 2311.7599999999998}
+{"id": "bAjBYEjeP6E-t2311.76", "text": "money just has to be conceptually different thinking of the governmental level for the", "start": 2311.76, "end": 2317.4}
+{"id": "bAjBYEjeP6E-t2317.4", "text": "city level so it's just a thinking but what we have not enough money going there I totally", "start": 2317.4, "end": 2323.2400000000002}
+{"id": "bAjBYEjeP6E-t2323.2400000000002", "text": "agree but it's not a problem the social basic science budget because it has to fight for", "start": 2323.2400000000002, "end": 2329.6400000000003}
+{"id": "bAjBYEjeP6E-t2329.6400000000003", "text": "no reason I pretty much agree with what's been said I would add something and suggest", "start": 2329.6400000000003, "end": 2337.2000000000003}
+{"id": "bAjBYEjeP6E-t2337.2", "text": "a possible inference one is I'm a strong advocate of basic research neuroscience is basic research", "start": 2337.2, "end": 2345.56}
+{"id": "bAjBYEjeP6E-t2345.56", "text": "like molecular biology or genetics the yield on that is greater than any other research", "start": 2345.56, "end": 2352.56}
+{"id": "bAjBYEjeP6E-t2352.56", "text": "we do but it has woefully little to do with psychiatry that's all I'm not arguing it's", "start": 2352.56, "end": 2358.4399999999996}
+{"id": "bAjBYEjeP6E-t2358.4399999999996", "text": "not interesting not relevant not helpful not practical it just isn't particularly related", "start": 2358.4399999999996, "end": 2363.9199999999996}
+{"id": "bAjBYEjeP6E-t2363.92", "text": "to psychiatry it's major relationship to psychiatry is the rhetoric of social funding", "start": 2363.92, "end": 2373.04}
+{"id": "bAjBYEjeP6E-t2373.04", "text": "you can't get somebody who's in control of a foundation to give you a hundred million", "start": 2373.04, "end": 2379.48}
+{"id": "bAjBYEjeP6E-t2379.48", "text": "dollars for connect dome study but you can for Alzheimer's study and therefore it requires", "start": 2379.48, "end": 2386.32}
+{"id": "bAjBYEjeP6E-t2386.32", "text": "someone who knows how to write the paragraph that starts with the statistics about Alzheimer's", "start": 2386.32, "end": 2392.52}
+{"id": "bAjBYEjeP6E-t2392.52", "text": "and ends with something there and ends with something about connect domes the other thing", "start": 2392.52, "end": 2409.16}
+{"id": "bAjBYEjeP6E-t2409.16", "text": "is that there is a sort of public image which makes perfect sense that we have these huge", "start": 2409.16, "end": 2415.72}
+{"id": "bAjBYEjeP6E-t2415.72", "text": "problems we have heart disease we have cancer we have mental illness and neurologic disease", "start": 2415.72, "end": 2422.48}
+{"id": "bAjBYEjeP6E-t2422.48", "text": "but it doesn't work that way from a biology point of view the brain is more complicated", "start": 2422.48, "end": 2430.44}
+{"id": "bAjBYEjeP6E-t2430.44", "text": "than the rest of the body put together the brain diseases are more challenging in terms", "start": 2430.44, "end": 2437.96}
+{"id": "bAjBYEjeP6E-t2437.96", "text": "of their understanding and treatment than all the other diseases we ever think of or", "start": 2437.96, "end": 2443.2}
+{"id": "bAjBYEjeP6E-t2443.2", "text": "treat that they're helped me we have basic scientists and I want help about 40% of all", "start": 2443.2, "end": 2451.56}
+{"id": "bAjBYEjeP6E-t2451.56", "text": "the genes go to the brain how much is it expressed probably 60 60% that's a measure of something", "start": 2451.56, "end": 2460.08}
+{"id": "bAjBYEjeP6E-t2460.08", "text": "or other but how do you express that's the question of course but just the magnitude", "start": 2460.08, "end": 2467.0}
+{"id": "bAjBYEjeP6E-t2467.0", "text": "is relevant in that we're dealing with what the maker thought was half of his problem", "start": 2467.0, "end": 2474.44}
+{"id": "bAjBYEjeP6E-t2474.44", "text": "and we know that anyone who ever went to medical school knows that you can slice all the other", "start": 2474.44, "end": 2481.0}
+{"id": "bAjBYEjeP6E-t2481.0", "text": "organs and then most biomedical research when I was involved in laboratory work started", "start": 2481.0, "end": 2488.32}
+{"id": "bAjBYEjeP6E-t2488.32", "text": "by slicing an organ and putting it in the wearing blender but you can't do that with", "start": 2488.32, "end": 2493.2}
+{"id": "bAjBYEjeP6E-t2493.2", "text": "the brain doesn't work that way so the fact that the brain is more than everything else", "start": 2493.2, "end": 2500.36}
+{"id": "bAjBYEjeP6E-t2500.36", "text": "in terms of the complexity of its problem is an important proviso so certainly we need", "start": 2500.36, "end": 2509.44}
+{"id": "bAjBYEjeP6E-t2509.44", "text": "more basic research psychiatry deals with very difficult problems and I think Francis", "start": 2509.44, "end": 2516.76}
+{"id": "bAjBYEjeP6E-t2516.76", "text": "is optimistic when he says 30 years that we're about 30 years behind you said that yeah", "start": 2516.76, "end": 2522.92}
+{"id": "bAjBYEjeP6E-t2522.92", "text": "Francis and I met 30 years I think we have to recognize that there's an order of magnitude", "start": 2522.92, "end": 2538.2400000000002}
+{"id": "bAjBYEjeP6E-t2538.24", "text": "difference in the problems we face when we talk about the future of cardiology or oncology", "start": 2538.24, "end": 2547.0}
+{"id": "bAjBYEjeP6E-t2547.0", "text": "or orthopedics or ophthalmology on the one hand and the future of psychiatry on the other", "start": 2547.0, "end": 2553.68}
+{"id": "bAjBYEjeP6E-t2553.68", "text": "one of the startling things we're going to face in the future of psychiatry is that most", "start": 2553.68, "end": 2558.4399999999996}
+{"id": "bAjBYEjeP6E-t2558.4399999999996", "text": "of the people will be treating 50 years from now we don't think of as being patients now", "start": 2558.4399999999996, "end": 2565.08}
+{"id": "bAjBYEjeP6E-t2565.08", "text": "because we haven't conceptualized how we can make a difference in their lives but the", "start": 2565.08, "end": 2571.02}
+{"id": "bAjBYEjeP6E-t2571.02", "text": "history of the last 50 years in psychiatry is we move from Ed's to major diseases schizophrenia", "start": 2571.02, "end": 2578.7999999999997}
+{"id": "bAjBYEjeP6E-t2578.7999999999997", "text": "and bipolar disease to recognize the huge pools of people out there who have personality", "start": 2578.7999999999997, "end": 2584.52}
+{"id": "bAjBYEjeP6E-t2584.52", "text": "disorders who have addictions who have problems in living that we're never thought of as", "start": 2584.52, "end": 2590.2}
+{"id": "bAjBYEjeP6E-t2590.2", "text": "medical or psychiatric but can be helped by interventions even at the food level we're", "start": 2590.2, "end": 2596.2}
+{"id": "bAjBYEjeP6E-t2596.2", "text": "at now I don't think we're going to see that growth of patients with cancer or heart disease", "start": 2596.2, "end": 2603.3999999999996}
+{"id": "bAjBYEjeP6E-t2603.3999999999996", "text": "or any other disease category but we are with mental health diseases but if I can't just", "start": 2603.3999999999996, "end": 2609.7599999999998}
+{"id": "bAjBYEjeP6E-t2609.7599999999998", "text": "go back to this cancer example I remember because Memorial Camp so cancer is just next", "start": 2609.7599999999998, "end": 2616.16}
+{"id": "bAjBYEjeP6E-t2616.16", "text": "door and we have a lot of collaborations so they were stuck with cancer like 20, 25 years", "start": 2616.16, "end": 2621.68}
+{"id": "bAjBYEjeP6E-t2621.68", "text": "ago they have been developing new drugs which are a little bit different than the previous", "start": 2621.68, "end": 2625.8799999999997}
+{"id": "bAjBYEjeP6E-t2625.8799999999997", "text": "one they certainly got a little increase but it's not tremendous movement and then suddenly", "start": 2625.8799999999997, "end": 2632.08}
+{"id": "bAjBYEjeP6E-t2632.08", "text": "there was a part of shift with this in therapy which was mentioned and nobody knew that it's", "start": 2632.08, "end": 2636.64}
+{"id": "bAjBYEjeP6E-t2636.64", "text": "coming nobody just came out from the dark and then obviously people have been working", "start": 2636.64, "end": 2642.72}
+{"id": "bAjBYEjeP6E-t2642.72", "text": "on it but suddenly there was a critical mass or critical finding the mass of critical findings", "start": 2642.72, "end": 2648.2}
+{"id": "bAjBYEjeP6E-t2648.2", "text": "which were translatable to humans in amounts one could do that well before but it had to", "start": 2648.2, "end": 2654.2}
+{"id": "bAjBYEjeP6E-t2654.2", "text": "be developed a technology where you could actually use it in humans and humans would tolerate", "start": 2654.2, "end": 2658.68}
+{"id": "bAjBYEjeP6E-t2658.68", "text": "this and I think in cancer research will tell you that there was a part of our shift because", "start": 2658.68, "end": 2663.9599999999996}
+{"id": "bAjBYEjeP6E-t2663.9599999999996", "text": "now I thought only personally but the the the curate is incredible it's very expensive but", "start": 2663.9599999999996, "end": 2669.3599999999997}
+{"id": "bAjBYEjeP6E-t2669.36", "text": "I think it's just you never know when it happens it can happen in next year and it can be", "start": 2669.36, "end": 2674.2000000000003}
+{"id": "bAjBYEjeP6E-t2674.2000000000003", "text": "in 50 years so but I'm just waiting for such a part of our shift which we don't really", "start": 2674.2000000000003, "end": 2679.76}
+{"id": "bAjBYEjeP6E-t2679.76", "text": "know as they didn't know that this will pan out because they are trying different things", "start": 2679.76, "end": 2683.48}
+{"id": "bAjBYEjeP6E-t2683.48", "text": "from bone marrow transplantation to different things but this for some reason became practical", "start": 2683.48, "end": 2689.6}
+{"id": "bAjBYEjeP6E-t2689.6", "text": "feasible in humans and actually this is but was it because of a I don't know it so well", "start": 2689.6, "end": 2695.7200000000003}
+{"id": "bAjBYEjeP6E-t2695.72", "text": "but is it because there were some basic meat made in immunology that made this happen?", "start": 2695.72, "end": 2701.7999999999997}
+{"id": "bAjBYEjeP6E-t2701.7999999999997", "text": "I'm not familiar I'm just hearing from them that this was just suddenly a change labs", "start": 2701.7999999999997, "end": 2708.8799999999997}
+{"id": "bAjBYEjeP6E-t2708.8799999999997", "text": "which switch to this kind of strategy they're far better and now we have these people who", "start": 2708.8799999999997, "end": 2714.6}
+{"id": "bAjBYEjeP6E-t2714.6", "text": "have been not not a spandex they suddenly a deeper of their throat basically they they", "start": 2714.6, "end": 2720.08}
+{"id": "bAjBYEjeP6E-t2720.08", "text": "have no chance they just come back this is what people need in psychology that somebody", "start": 2720.08, "end": 2726.88}
+{"id": "bAjBYEjeP6E-t2726.88", "text": "would be treatment treatment to just ask if a phoenix which is a really serious or an", "start": 2726.88, "end": 2732.88}
+{"id": "bAjBYEjeP6E-t2732.88", "text": "orthopedic side and then suddenly you have a treatment which we just cannot be comprehended", "start": 2732.88, "end": 2737.3199999999997}
+{"id": "bAjBYEjeP6E-t2737.3199999999997", "text": "today we should all study immunology at this point we have to return to study immunology", "start": 2737.3199999999997, "end": 2744.96}
+{"id": "bAjBYEjeP6E-t2744.96", "text": "that are important constraints for example the reason why they made the part of the reason", "start": 2744.96, "end": 2753.36}
+{"id": "bAjBYEjeP6E-t2753.36", "text": "why they made the progress immunology and so on is the ability to study cancer cells", "start": 2753.36, "end": 2758.96}
+{"id": "bAjBYEjeP6E-t2758.96", "text": "out there it's not that easy to study schizophrenia cells so cancer allowed you to study things", "start": 2758.96, "end": 2764.88}
+{"id": "bAjBYEjeP6E-t2764.88", "text": "in a completely different way from different angles and even now the treatment comes in", "start": 2764.88, "end": 2770.7200000000003}
+{"id": "bAjBYEjeP6E-t2770.7200000000003", "text": "from different.", "start": 2770.7200000000003, "end": 2771.7200000000003}
+{"id": "bAjBYEjeP6E-t2771.72", "text": "Well the lack of an animal model for schizophrenia I mean animal models for cancer have always", "start": 2771.72, "end": 2775.9199999999996}
+{"id": "bAjBYEjeP6E-t2775.9199999999996", "text": "been around it's a huge barrier I mean theoretically if there was an ant that could be a breakthrough", "start": 2775.9199999999996, "end": 2781.9599999999996}
+{"id": "bAjBYEjeP6E-t2781.9599999999996", "text": "some really amazing animal model for some of these illnesses came up that could be opened", "start": 2781.9599999999996, "end": 2786.7599999999998}
+{"id": "bAjBYEjeP6E-t2786.7599999999998", "text": "the door for a lot.", "start": 2786.7599999999998, "end": 2788.9599999999996}
+{"id": "bAjBYEjeP6E-t2788.9599999999996", "text": "I would say though that I think it might have been basic understanding of immunology because", "start": 2788.9599999999996, "end": 2794.3599999999997}
+{"id": "bAjBYEjeP6E-t2794.3599999999997", "text": "that actually also now we have drugs for MS multiple sclerosis that we didn't have and", "start": 2794.3599999999997, "end": 2800.0}
+{"id": "bAjBYEjeP6E-t2800.0", "text": "they're also in the immunotherapy realm also where they target the T cells so it turns", "start": 2800.0, "end": 2805.68}
+{"id": "bAjBYEjeP6E-t2805.68", "text": "out even if even neurologists just got lucky that it turns out that these advances that", "start": 2805.68, "end": 2810.88}
+{"id": "bAjBYEjeP6E-t2810.88", "text": "the drugs that they were making to basically make T cells quiescent are actually very", "start": 2810.88, "end": 2816.08}
+{"id": "bAjBYEjeP6E-t2816.08", "text": "effective for MS which and even and they didn't so I think this will and it's still a chronic", "start": 2816.08, "end": 2821.4}
+{"id": "bAjBYEjeP6E-t2821.4", "text": "disorder which was there's but they had nothing a decade ago you know the fact that they have", "start": 2821.4, "end": 2826.88}
+{"id": "bAjBYEjeP6E-t2826.88", "text": "four to three to four new drugs in the pipeline is still quite impressive so I think we were", "start": 2826.88, "end": 2833.48}
+{"id": "bAjBYEjeP6E-t2833.48", "text": "waiting for that moment also.", "start": 2833.48, "end": 2835.28}
+{"id": "bAjBYEjeP6E-t2835.28", "text": "So in terms of research where is the research in psychiatry in terms of those major illnesses", "start": 2835.28, "end": 2842.92}
+{"id": "bAjBYEjeP6E-t2842.92", "text": "I mentioned where is that research focused on?", "start": 2842.92, "end": 2847.1600000000003}
+{"id": "bAjBYEjeP6E-t2847.1600000000003", "text": "I think the genetics I would say most of the money right now is in genetics connectome these", "start": 2847.1600000000003, "end": 2854.92}
+{"id": "bAjBYEjeP6E-t2854.92", "text": "are the brain initiatives essentially in your imaging and then there's this continuum.", "start": 2854.92, "end": 2860.28}
+{"id": "bAjBYEjeP6E-t2860.28", "text": "A lot of money goes to epigenetic which is my epigenetic.", "start": 2860.28, "end": 2864.0}
+{"id": "bAjBYEjeP6E-t2864.0", "text": "But epigenetics I think just to mention for the audiences that basically what most people", "start": 2864.0, "end": 2869.6}
+{"id": "bAjBYEjeP6E-t2869.6", "text": "realize that genes do not solve the problem and we know that environment cannot work through", "start": 2869.6, "end": 2876.84}
+{"id": "bAjBYEjeP6E-t2876.84", "text": "genes so the concept came in that environment will actually produce some change in the DNA", "start": 2876.84, "end": 2883.36}
+{"id": "bAjBYEjeP6E-t2883.36", "text": "structure or the DNA function without changing a base pair so the sequence is the same but", "start": 2883.36, "end": 2890.0}
+{"id": "bAjBYEjeP6E-t2890.0", "text": "there are secondary modifications but if you view it from a function of perspective it", "start": 2890.0, "end": 2894.92}
+{"id": "bAjBYEjeP6E-t2894.92", "text": "doesn't really matter whether you have a mutation and it alters a gene function or", "start": 2894.92, "end": 2899.2400000000002}
+{"id": "bAjBYEjeP6E-t2899.2400000000002", "text": "you have a we call chromatin which is the larger assemble of DNA and surrounding proteins", "start": 2899.2400000000002, "end": 2906.44}
+{"id": "bAjBYEjeP6E-t2906.44", "text": "you can have that same functional change as a result of.", "start": 2906.44, "end": 2912.08}
+{"id": "bAjBYEjeP6E-t2912.08", "text": "So what we many people I know because it's pretty competitive know what is to write a", "start": 2912.08, "end": 2916.2799999999997}
+{"id": "bAjBYEjeP6E-t2916.2799999999997", "text": "grant but basically the chromatin is that you propose that environment whether this is", "start": 2916.2799999999997, "end": 2921.7999999999997}
+{"id": "bAjBYEjeP6E-t2921.7999999999997", "text": "early childhood adversity whether maybe it's a during pregnancy maybe the mother is depressed", "start": 2921.7999999999997, "end": 2930.24}
+{"id": "bAjBYEjeP6E-t2930.24", "text": "but there is something memory built into the child or a field DNA which is again not a", "start": 2930.24, "end": 2936.56}
+{"id": "bAjBYEjeP6E-t2936.56", "text": "change of the sequence but it's a permanent so the child will work with born with this", "start": 2936.56, "end": 2941.68}
+{"id": "bAjBYEjeP6E-t2941.68", "text": "it's a regulatory problem like a mutation would be and it ended up with a little bit", "start": 2941.68, "end": 2946.6}
+{"id": "bAjBYEjeP6E-t2946.6", "text": "different function at the gene level which is translated to a circuit level and then", "start": 2946.6, "end": 2953.0}
+{"id": "bAjBYEjeP6E-t2953.0", "text": "functional level one the child is less than typical even when his connection is made so", "start": 2953.0, "end": 2959.12}
+{"id": "bAjBYEjeP6E-t2959.12", "text": "I think that a lot of money goes into this which is fundamental is a very good concept", "start": 2959.12, "end": 2964.2}
+{"id": "bAjBYEjeP6E-t2964.2", "text": "and very new because we don't really know this we call this areas as a and want to sensitive", "start": 2964.2, "end": 2971.0}
+{"id": "bAjBYEjeP6E-t2971.0", "text": "areas maybe or we can call it marks or whatever you want to call but we don't really understand", "start": 2971.0, "end": 2975.88}
+{"id": "bAjBYEjeP6E-t2975.88", "text": "those but even outside of neuroscience epigenetics is also cancer cancer it's actually cancer", "start": 2975.88, "end": 2981.56}
+{"id": "bAjBYEjeP6E-t2981.56", "text": "is a more more developed phase again so we learn a lot from cancers but some of the cancer", "start": 2981.56, "end": 2987.08}
+{"id": "bAjBYEjeP6E-t2987.08", "text": "findings cannot be translated because the genes which are regulated are totally different", "start": 2987.08, "end": 2991.0}
+{"id": "bAjBYEjeP6E-t2991.0", "text": "and cancer you would have that how fast it's as proliferate or divide grow and in a sense", "start": 2991.0, "end": 2998.08}
+{"id": "bAjBYEjeP6E-t2998.08", "text": "more important how maybe a synaptic function is a little tailored so it's a little bit", "start": 2998.08, "end": 3002.88}
+{"id": "bAjBYEjeP6E-t3002.88", "text": "different and it's just several order of money to the more complex that's the problem", "start": 3002.88, "end": 3008.24}
+{"id": "bAjBYEjeP6E-t3008.24", "text": "the complexity but you pointed out which means that it takes more time but just to sort of", "start": 3008.24, "end": 3015.08}
+{"id": "bAjBYEjeP6E-t3015.08", "text": "simplify your work make less but what you've found in your own lab is that that this the", "start": 3015.08, "end": 3022.0}
+{"id": "bAjBYEjeP6E-t3022.0", "text": "level of stress of the mother the grandmother or the great grandfather or whatever all have", "start": 3022.0, "end": 3029.64}
+{"id": "bAjBYEjeP6E-t3029.64", "text": "impacts on the infant so we can trace down on the granddaughters I'm talking about animals", "start": 3029.64, "end": 3036.52}
+{"id": "bAjBYEjeP6E-t3036.52", "text": "here but there are some human studies but the granddaughters will carry the memory of", "start": 3036.52, "end": 3042.88}
+{"id": "bAjBYEjeP6E-t3042.88", "text": "a grandparent either you can have like stress infection or even early childhood adversity", "start": 3042.88, "end": 3052.92}
+{"id": "bAjBYEjeP6E-t3052.92", "text": "which is very relevant to psychiatry so so we can actually tell from the granddaughters", "start": 3052.92, "end": 3060.0}
+{"id": "bAjBYEjeP6E-t3060.0", "text": "DNA that the grandmother had some impact so that would be very useful to let's say you", "start": 3060.0, "end": 3066.96}
+{"id": "bAjBYEjeP6E-t3066.96", "text": "have a child and you are not sure whether the child will be more you see some sign maybe", "start": 3066.96, "end": 3072.4}
+{"id": "bAjBYEjeP6E-t3072.4", "text": "I'm not clinician but I can imagine that you have a child and you are not really sure", "start": 3072.4, "end": 3076.84}
+{"id": "bAjBYEjeP6E-t3076.84", "text": "whether the risk is very high or no but you see some signs you could go back and then", "start": 3076.84, "end": 3081.64}
+{"id": "bAjBYEjeP6E-t3081.64", "text": "test whether that child actually had some impact through some ancestor's life and you", "start": 3081.64, "end": 3088.76}
+{"id": "bAjBYEjeP6E-t3088.76", "text": "would say yes I see some impact so I would be more careful and maybe treat that particular", "start": 3088.76, "end": 3094.32}
+{"id": "bAjBYEjeP6E-t3094.32", "text": "individual and you can actually sample the epigenome not by having to get a brain biopsy", "start": 3094.32, "end": 3099.2000000000003}
+{"id": "bAjBYEjeP6E-t3099.2", "text": "but yeah we are doing from the blood actually from below we don't have to take cuter models", "start": 3099.2, "end": 3105.4399999999996}
+{"id": "bAjBYEjeP6E-t3105.4399999999996", "text": "so we just take a little blood and we can because the blood also responds to this and", "start": 3105.4399999999996, "end": 3111.52}
+{"id": "bAjBYEjeP6E-t3111.52", "text": "there is a correlation between the blood response to the brain response these are not so it's", "start": 3111.52, "end": 3116.72}
+{"id": "bAjBYEjeP6E-t3116.72", "text": "my talking of memory the memory in this case you cannot say this is how precise like an", "start": 3116.72, "end": 3121.3199999999997}
+{"id": "bAjBYEjeP6E-t3121.32", "text": "episode would be in our life or as room or remembering this environment it's really just", "start": 3121.32, "end": 3128.88}
+{"id": "bAjBYEjeP6E-t3128.88", "text": "the adversity component it's a negative balance of this whole situation which is really somehow", "start": 3128.88, "end": 3135.1600000000003}
+{"id": "bAjBYEjeP6E-t3135.1600000000003", "text": "alters certain genes which will be a genetic fingerprint so it's not a memory we like to", "start": 3135.1600000000003, "end": 3142.6800000000003}
+{"id": "bAjBYEjeP6E-t3142.6800000000003", "text": "use memory because everybody understands memory but it's a lose memory so you will not just", "start": 3142.6800000000003, "end": 3147.8}
+{"id": "bAjBYEjeP6E-t3147.8", "text": "remember you will not remember that the adversity occurred in A or B or C environment but you", "start": 3147.8, "end": 3153.52}
+{"id": "bAjBYEjeP6E-t3153.52", "text": "know that was some really bad experience it's not post-Trump Express's order where somebody", "start": 3153.52, "end": 3159.6400000000003}
+{"id": "bAjBYEjeP6E-t3159.6400000000003", "text": "can recall the exact location and going back to the same restaurant or a same battlefield", "start": 3159.6400000000003, "end": 3165.32}
+{"id": "bAjBYEjeP6E-t3165.32", "text": "it will have a reaction it is more of a general anxiety that in general the anxiety level", "start": 3165.32, "end": 3172.32}
+{"id": "bAjBYEjeP6E-t3172.32", "text": "is really high almost sometimes you don't even know why because the person doesn't have", "start": 3172.32, "end": 3177.52}
+{"id": "bAjBYEjeP6E-t3177.52", "text": "to have an input it's already built in the DNA chromatin or epigenome which was somehow", "start": 3177.52, "end": 3183.7599999999998}
+{"id": "bAjBYEjeP6E-t3183.7599999999998", "text": "predated maybe not even in the individual's life but in the ancestor's life so your mechanism", "start": 3183.7599999999998, "end": 3190.12}
+{"id": "bAjBYEjeP6E-t3190.12", "text": "is is beautiful and articulate and very sophisticated but that that that basic understanding that", "start": 3190.12, "end": 3196.92}
+{"id": "bAjBYEjeP6E-t3196.92", "text": "a person is affected by the the their ancestry psychiatrists have been saying for 150 years", "start": 3196.92, "end": 3202.88}
+{"id": "bAjBYEjeP6E-t3202.88", "text": "that's not new right so so the thing that worries me of course is that exact thinking", "start": 3202.88, "end": 3213.36}
+{"id": "bAjBYEjeP6E-t3213.36", "text": "is what got us to eugenics this idea that the best thing to do would be just eliminate", "start": 3213.36, "end": 3219.1600000000003}
+{"id": "bAjBYEjeP6E-t3219.1600000000003", "text": "those genes eliminate those people eliminate those races you know and with the obvious", "start": 3219.1600000000003, "end": 3225.8}
+{"id": "bAjBYEjeP6E-t3225.8", "text": "conclusion and what happened in Germany and so and the thing is that the scary part of", "start": 3225.8, "end": 3232.04}
+{"id": "bAjBYEjeP6E-t3232.04", "text": "those kinds of interventions is they they start off well intended and in the United", "start": 3232.04, "end": 3237.6}
+{"id": "bAjBYEjeP6E-t3237.6", "text": "States so it wasn't just you know these crazy folks in another country so again the question", "start": 3237.6, "end": 3242.6}
+{"id": "bAjBYEjeP6E-t3242.6", "text": "is so all right so you found this then what but yeah but but just expanding so what you", "start": 3242.6, "end": 3248.56}
+{"id": "bAjBYEjeP6E-t3248.56", "text": "would say that is known it was totally anecdotal there was no scientific evidence for that", "start": 3248.56, "end": 3255.08}
+{"id": "bAjBYEjeP6E-t3255.08", "text": "and in science you never believe so at least in basic science you never take it really", "start": 3255.08, "end": 3259.8}
+{"id": "bAjBYEjeP6E-t3259.8", "text": "true until you actually prove mechanistically so our standards are really mechanistic but", "start": 3259.8, "end": 3266.2400000000002}
+{"id": "bAjBYEjeP6E-t3266.2400000000002", "text": "for the standards of the time I mean but they looked at pedigrees they gathered data they", "start": 3266.2400000000002, "end": 3270.92}
+{"id": "bAjBYEjeP6E-t3270.92", "text": "interviewed families I mean for the standards of the time they do exactly the same thing", "start": 3270.92, "end": 3275.1600000000003}
+{"id": "bAjBYEjeP6E-t3275.1600000000003", "text": "yeah but yes so that was certainly a such an association we got association and now from", "start": 3275.1600000000003, "end": 3283.52}
+{"id": "bAjBYEjeP6E-t3283.52", "text": "scientific point of view you want to have the association to cause a relationship because", "start": 3283.52, "end": 3287.76}
+{"id": "bAjBYEjeP6E-t3287.76", "text": "if this association you cannot do anything about it because if two things can be associated", "start": 3287.76, "end": 3293.32}
+{"id": "bAjBYEjeP6E-t3293.32", "text": "and you influence one thing it doesn't feel like tonana things but my point is though", "start": 3293.32, "end": 3298.88}
+{"id": "bAjBYEjeP6E-t3298.88", "text": "for the standards of the for the scientific standards of the of the time 150 years ago", "start": 3298.88, "end": 3303.28}
+{"id": "bAjBYEjeP6E-t3303.28", "text": "that was true absolutely that was the true it wasn't I mean they believed that was causal", "start": 3303.28, "end": 3307.96}
+{"id": "bAjBYEjeP6E-t3307.96", "text": "now you're saying this is true and so I'm I wouldn't doubt that your science is more", "start": 3307.96, "end": 3313.0800000000004}
+{"id": "bAjBYEjeP6E-t3313.0800000000004", "text": "sophisticated question is 150 years from now is somebody going to look back and say well", "start": 3313.0800000000004, "end": 3317.48}
+{"id": "bAjBYEjeP6E-t3317.48", "text": "you know your science was all very nice but so and that's the that's the kind of but", "start": 3317.48, "end": 3323.64}
+{"id": "bAjBYEjeP6E-t3323.64", "text": "but a big difference is when you have a causative relationship then you have a chance to actually", "start": 3323.64, "end": 3328.72}
+{"id": "bAjBYEjeP6E-t3328.72", "text": "manipulate the system if an association then basically the two things are independent", "start": 3328.72, "end": 3334.16}
+{"id": "bAjBYEjeP6E-t3334.16", "text": "from each other it's a coincidental so you don't have the two you don't have the opportunity", "start": 3334.16, "end": 3339.0}
+{"id": "bAjBYEjeP6E-t3339.0", "text": "or a chance to actually influence your outcome with something which is correlated with so", "start": 3339.0, "end": 3344.96}
+{"id": "bAjBYEjeP6E-t3344.96", "text": "that's a difference but they thought they did I mean they thought they did but it's", "start": 3344.96, "end": 3348.84}
+{"id": "bAjBYEjeP6E-t3348.84", "text": "it's wrong the law of things I mean science we don't know that we don't know that our", "start": 3348.84, "end": 3354.68}
+{"id": "bAjBYEjeP6E-t3354.68", "text": "that our crude treatments because they're crude you know would match the sensitivity", "start": 3354.68, "end": 3360.28}
+{"id": "bAjBYEjeP6E-t3360.28", "text": "of that kind of science the treatment even in a SSRI sorry that's not really causative", "start": 3360.28, "end": 3366.8}
+{"id": "bAjBYEjeP6E-t3366.8", "text": "we don't want causative because it's a association so causative when you have an absolute known", "start": 3366.8, "end": 3375.1600000000003}
+{"id": "bAjBYEjeP6E-t3375.1600000000003", "text": "player molecule pathway which is linked to and then you manipulate the pathway and then", "start": 3375.1600000000003, "end": 3380.6400000000003}
+{"id": "bAjBYEjeP6E-t3380.6400000000003", "text": "then you fix the outcome so that's what we need for develop new drugs or any conditions", "start": 3380.6400000000003, "end": 3387.8}
+{"id": "bAjBYEjeP6E-t3387.8", "text": "where it is being shown specific epigenetic change is responsible for it so this is a", "start": 3387.8, "end": 3396.7200000000003}
+{"id": "bAjBYEjeP6E-t3396.72", "text": "this is this is another problem so there's not one single gene or single logos but and", "start": 3396.72, "end": 3405.04}
+{"id": "bAjBYEjeP6E-t3405.04", "text": "then we don't have a manipulation very multiple so that's very difficult to make the but I", "start": 3405.04, "end": 3411.12}
+{"id": "bAjBYEjeP6E-t3411.12", "text": "think that that's actually one way to think about it to figure out a way to work with", "start": 3411.12, "end": 3416.9199999999996}
+{"id": "bAjBYEjeP6E-t3416.9199999999996", "text": "multiple genes but I remember when I was school manipulating one gene was a total order nobody's", "start": 3416.9199999999996, "end": 3426.52}
+{"id": "bAjBYEjeP6E-t3426.52", "text": "that student field starting the lab and in my month the person can change that gene or", "start": 3426.52, "end": 3431.8}
+{"id": "bAjBYEjeP6E-t3431.8", "text": "single gene we can manipulate me three genes and if you asked these people this would be", "start": 3431.8, "end": 3439.8}
+{"id": "bAjBYEjeP6E-t3439.8", "text": "just a single cell and a lot of same cell they can manipulate thousands at the same", "start": 3439.8, "end": 3444.92}
+{"id": "bAjBYEjeP6E-t3444.92", "text": "time what we would need is that to manipulate hundreds of genes for thousands of genes in", "start": 3444.92, "end": 3450.24}
+{"id": "bAjBYEjeP6E-t3450.24", "text": "a complex mammalian neuron and just don't have a technology but people have been very", "start": 3450.24, "end": 3456.48}
+{"id": "bAjBYEjeP6E-t3456.48", "text": "working but in cancer aren't they using various H stack inhibitors right now yes try to affect", "start": 3456.48, "end": 3462.8}
+{"id": "bAjBYEjeP6E-t3462.8", "text": "the gene yes but they're not because selectivity that's also not enough they don't have it yeah", "start": 3462.8, "end": 3469.16}
+{"id": "bAjBYEjeP6E-t3469.16", "text": "select selectivity is really important that you basically target only those nothing else", "start": 3469.16, "end": 3474.28}
+{"id": "bAjBYEjeP6E-t3474.28", "text": "yeah and there's the the classical manipulation but we had 20 years ago develop we don't have", "start": 3474.28, "end": 3481.36}
+{"id": "bAjBYEjeP6E-t3481.36", "text": "to have we don't have any multiple genes a lot of genes because at all marketing so but", "start": 3481.36, "end": 3485.96}
+{"id": "bAjBYEjeP6E-t3485.96", "text": "not only the psychiatric condition of cardiovascular diabetes hypertension there's all the same", "start": 3485.96, "end": 3492.6}
+{"id": "bAjBYEjeP6E-t3492.6", "text": "problem and they cannot really prove because they have tens of hundreds genes one person", "start": 3492.6, "end": 3497.8}
+{"id": "bAjBYEjeP6E-t3497.8", "text": "has this combination other person that combination but we do know that this probably a lot of", "start": 3497.8, "end": 3503.6400000000003}
+{"id": "bAjBYEjeP6E-t3503.6400000000003", "text": "genes each has a very small contribution but you still need they have different constellations", "start": 3503.6400000000003, "end": 3509.2000000000003}
+{"id": "bAjBYEjeP6E-t3509.2", "text": "so these are all systems by which is I think system biology is another field which might", "start": 3509.2, "end": 3513.7599999999998}
+{"id": "bAjBYEjeP6E-t3513.7599999999998", "text": "need a lot of money but again much higher level than artificial intelligence would do", "start": 3513.7599999999998, "end": 3519.24}
+{"id": "bAjBYEjeP6E-t3519.24", "text": "nobody's which is one dimensional set fail I want to use this to segue to something that", "start": 3519.24, "end": 3525.9199999999996}
+{"id": "bAjBYEjeP6E-t3525.9199999999996", "text": "I think is often not seen this way but the availability of our finer tools for assessing", "start": 3525.9199999999996, "end": 3534.3999999999996}
+{"id": "bAjBYEjeP6E-t3534.4", "text": "genetic risk at the level even of an old means that we're really into a form of euthanasia", "start": 3534.4, "end": 3543.56}
+{"id": "bAjBYEjeP6E-t3543.56", "text": "except very early so when we decide to not implant a fertilized egg that's carrying the", "start": 3543.56, "end": 3552.88}
+{"id": "bAjBYEjeP6E-t3552.88", "text": "Huntington's gene that's just early euthanasia early eugenics biologically is the same thing", "start": 3552.88, "end": 3566.1600000000003}
+{"id": "bAjBYEjeP6E-t3566.1600000000003", "text": "we're clearing the population of a noxis gene by selecting who will support and who will", "start": 3566.1600000000003, "end": 3572.08}
+{"id": "bAjBYEjeP6E-t3572.08", "text": "destroy the Nazis waited a few decades afterwards before doing the same thing and we don't really", "start": 3572.08, "end": 3581.4}
+{"id": "bAjBYEjeP6E-t3581.4", "text": "have a dialogue socially about the meaning of that in our attitude toward it we're doing", "start": 3581.4, "end": 3587.6}
+{"id": "bAjBYEjeP6E-t3587.6", "text": "something you know way even more intriguing because the methods for doing this are available", "start": 3587.6, "end": 3594.84}
+{"id": "bAjBYEjeP6E-t3594.84", "text": "to some social classes and not to others so we've set up a system where if you're in a", "start": 3594.84, "end": 3602.4}
+{"id": "bAjBYEjeP6E-t3602.4", "text": "certain social class you get eugenics to get rid of bad genes and if you're in a different", "start": 3602.4, "end": 3608.4}
+{"id": "bAjBYEjeP6E-t3608.4", "text": "class you don't and we're going to distribute the bad genes class wise in the culture that's", "start": 3608.4, "end": 3616.2000000000003}
+{"id": "bAjBYEjeP6E-t3616.2000000000003", "text": "a very interesting psychiatric I don't know if it's a psychiatric issue maybe I think much", "start": 3616.2000000000003, "end": 3622.76}
+{"id": "bAjBYEjeP6E-t3622.76", "text": "of what our effective interventions might be in the next few decades maybe at the pre-implantation", "start": 3622.76, "end": 3635.56}
+{"id": "bAjBYEjeP6E-t3635.56", "text": "level of eugenics we can possibly get rid of some major psychiatric disorders if we have", "start": 3635.56, "end": 3643.7999999999997}
+{"id": "bAjBYEjeP6E-t3643.7999999999997", "text": "enough community acceptance of screening and selective implantation of fertilized of them", "start": 3643.7999999999997, "end": 3652.88}
+{"id": "bAjBYEjeP6E-t3652.88", "text": "that don't carry those disorders the thing that is I mean apart from the larger ethical", "start": 3652.88, "end": 3659.12}
+{"id": "bAjBYEjeP6E-t3659.12", "text": "issues of which there are many the other thing that strikes me is if we're trying to help", "start": 3659.12, "end": 3664.7599999999998}
+{"id": "bAjBYEjeP6E-t3664.76", "text": "say schizophrenia for focusing on schizophrenia where if we're trying to convince our patients", "start": 3664.76, "end": 3671.2000000000003}
+{"id": "bAjBYEjeP6E-t3671.2000000000003", "text": "who have schizophrenia that they have lives worth living that that that disease is not", "start": 3671.2000000000003, "end": 3676.4}
+{"id": "bAjBYEjeP6E-t3676.4", "text": "going to define them that they can live full lives that they have worth as a human and", "start": 3676.4, "end": 3681.28}
+{"id": "bAjBYEjeP6E-t3681.28", "text": "then at the same time we say that we're going to try to eliminate the genetic risk for that", "start": 3681.28, "end": 3687.96}
+{"id": "bAjBYEjeP6E-t3687.96", "text": "you know what does that say you know we care about you but actually we wish you hadn't", "start": 3687.96, "end": 3692.0}
+{"id": "bAjBYEjeP6E-t3692.0", "text": "been born I mean that and that you know we're not at a stage where we really have to wrestle", "start": 3692.0, "end": 3696.28}
+{"id": "bAjBYEjeP6E-t3696.28", "text": "with that other than as a thought experiment but that's we're close to it well depending", "start": 3696.28, "end": 3702.28}
+{"id": "bAjBYEjeP6E-t3702.28", "text": "on who yeah depending on who you talk to you know so just yeah totally agree and I guess", "start": 3702.28, "end": 3707.76}
+{"id": "bAjBYEjeP6E-t3707.76", "text": "we are just for accidentally open NIH and that's national super health that there's a whole", "start": 3707.76, "end": 3712.88}
+{"id": "bAjBYEjeP6E-t3712.88", "text": "branch trying to really address this question very relevant but I recall another effort", "start": 3712.88, "end": 3718.8}
+{"id": "bAjBYEjeP6E-t3718.8", "text": "from NIH which is more of a repairing the gene or genes so there are a lot of money goes", "start": 3718.8, "end": 3726.96}
+{"id": "bAjBYEjeP6E-t3726.96", "text": "into our field which is basically say this is a situation and it's a chart is born but", "start": 3726.96, "end": 3732.5600000000004}
+{"id": "bAjBYEjeP6E-t3732.5600000000004", "text": "can be really reestablished in normal regulation or whatever situation and now just a couple", "start": 3732.5600000000004, "end": 3739.6800000000003}
+{"id": "bAjBYEjeP6E-t3739.6800000000003", "text": "of weeks to people of you know the new technology where you can actually get in to sell again", "start": 3739.6800000000003, "end": 3743.92}
+{"id": "bAjBYEjeP6E-t3743.92", "text": "it's just a cell level we don't have the brain level but some yeah now some can do it", "start": 3743.92, "end": 3749.44}
+{"id": "bAjBYEjeP6E-t3749.44", "text": "and a single gene and you can actually repair it you can eliminate the physical or or or", "start": 3749.44, "end": 3757.04}
+{"id": "bAjBYEjeP6E-t3757.04", "text": "molecule problem and basically you it's very similar to to repairing an enzyme defect for", "start": 3757.04, "end": 3764.28}
+{"id": "bAjBYEjeP6E-t3764.28", "text": "example with a virus where you would have a child with an enzyme defect and it's pretty", "start": 3764.28, "end": 3769.64}
+{"id": "bAjBYEjeP6E-t3769.64", "text": "technically speaking is relatively simple because it's just an enzyme which is everywhere", "start": 3769.64, "end": 3774.4}
+{"id": "bAjBYEjeP6E-t3774.4", "text": "so you make make a white blood cell and this white blood cell be produced now and you exchange", "start": 3774.4, "end": 3780.3599999999997}
+{"id": "bAjBYEjeP6E-t3780.3599999999997", "text": "the deficient cells to their new the gene therapy so that's a similar concept except", "start": 3780.3599999999997, "end": 3785.3599999999997}
+{"id": "bAjBYEjeP6E-t3785.3599999999997", "text": "that you go to the brain cell or brain region and then you basically re-establish the normal", "start": 3785.3599999999997, "end": 3792.3199999999997}
+{"id": "bAjBYEjeP6E-t3792.32", "text": "situation it's it's a fiction and it's just laboratory things but it's certainly in the lab it's in", "start": 3792.32, "end": 3799.48}
+{"id": "bAjBYEjeP6E-t3799.48", "text": "a one-genent can be done and it's just five years ago that was the first of four years ago so there", "start": 3799.48, "end": 3804.6800000000003}
+{"id": "bAjBYEjeP6E-t3804.6800000000003", "text": "are new things happening yeah and we just need a larger I'm not only new things but we need a", "start": 3804.6800000000003, "end": 3810.6000000000004}
+{"id": "bAjBYEjeP6E-t3810.6000000000004", "text": "scale up from one it's always with one gene and then we have to have hundred genes simultaneously so", "start": 3810.6000000000004, "end": 3817.4}
+{"id": "bAjBYEjeP6E-t3817.4", "text": "it's going a little slow obviously well some degree of the repair of genes the technology is there now", "start": 3817.4, "end": 3825.64}
+{"id": "bAjBYEjeP6E-t3825.64", "text": "it's not only a mutation can repair you can reap this so-called epigenetic what I refer which is", "start": 3825.64, "end": 3832.0}
+{"id": "bAjBYEjeP6E-t3832.0", "text": "you know which is more complex you can repair that as well but the issue is in terms of mental", "start": 3832.0, "end": 3837.36}
+{"id": "bAjBYEjeP6E-t3837.36", "text": "illness is to first determine what genes we have talked about sugar yeah 100 dreams a small fact", "start": 3837.36, "end": 3843.76}
+{"id": "bAjBYEjeP6E-t3843.76", "text": "you can't be fixing those genes it's not going to make any difference but the whole idea is science", "start": 3843.76, "end": 3847.6000000000004}
+{"id": "bAjBYEjeP6E-t3847.6000000000004", "text": "that you have these hundreds of tracks of research and some people working with it and suddenly", "start": 3847.6000000000004, "end": 3853.0}
+{"id": "bAjBYEjeP6E-t3853.0", "text": "everything is just converge and that's the hope so they scale up the technology that they bring", "start": 3853.0, "end": 3860.84}
+{"id": "bAjBYEjeP6E-t3860.84", "text": "and we don't have access to the brain so we need new technology to get to the brain so when", "start": 3860.84, "end": 3865.96}
+{"id": "bAjBYEjeP6E-t3865.96", "text": "everything converges maybe a hundred years from now then then this is this is where you say maybe", "start": 3865.96, "end": 3871.88}
+{"id": "bAjBYEjeP6E-t3871.88", "text": "that was a birth to invest this money but otherwise we wouldn't be there and that's the hope but I", "start": 3871.88, "end": 3878.04}
+{"id": "bAjBYEjeP6E-t3878.04", "text": "think that was a hope in care sir the thing is though that our we do need to help our patients now", "start": 3878.04, "end": 3884.32}
+{"id": "bAjBYEjeP6E-t3884.32", "text": "and you know sure it isn't sexy but there is a lot in systems of care that we in psychiatry", "start": 3884.32, "end": 3890.92}
+{"id": "bAjBYEjeP6E-t3890.92", "text": "used to do a lot with the whole asylum movement the whole beginning of the the profession of", "start": 3890.92, "end": 3895.28}
+{"id": "bAjBYEjeP6E-t3895.28", "text": "psychiatry in the United States was based on systems of care this idea that we build the", "start": 3895.28, "end": 3899.1600000000003}
+{"id": "bAjBYEjeP6E-t3899.16", "text": "silums to take care of people to restore them to sanity and and so we have similar problems to", "start": 3899.16, "end": 3904.96}
+{"id": "bAjBYEjeP6E-t3904.96", "text": "what Dorothy the Dix was complaining about a hundred and seventy years ago we have people in the jails", "start": 3904.96, "end": 3910.2}
+{"id": "bAjBYEjeP6E-t3910.2", "text": "people in the streets people who are suffering who don't have family looking after them and in", "start": 3910.2, "end": 3915.04}
+{"id": "bAjBYEjeP6E-t3915.04", "text": "Michigan we are reinventing the idea that we need to take a look at state hospitals our", "start": 3915.04, "end": 3920.04}
+{"id": "bAjBYEjeP6E-t3920.04", "text": "Republican governors over succeeding decades closed most of our state hospitals and now all", "start": 3920.04, "end": 3925.2}
+{"id": "bAjBYEjeP6E-t3925.2", "text": "of a sudden we have to have a conversation about maybe reopening some reopening new new kinds of", "start": 3925.2, "end": 3930.12}
+{"id": "bAjBYEjeP6E-t3930.12", "text": "new systems of care and working on ways of taking care of people because gene therapy isn't", "start": 3930.12, "end": 3936.72}
+{"id": "bAjBYEjeP6E-t3936.72", "text": "available in our lifetime and it's hard to talk about that it's hard to say we need bricks and", "start": 3936.72, "end": 3943.3199999999997}
+{"id": "bAjBYEjeP6E-t3943.3199999999997", "text": "mortar we don't just need two different things so we have to talk about yeah I mean I'm not saying", "start": 3943.3199999999997, "end": 3949.64}
+{"id": "bAjBYEjeP6E-t3949.64", "text": "that you know the money should come from there I mean this is more a political issue actually what", "start": 3949.64, "end": 3954.8399999999997}
+{"id": "bAjBYEjeP6E-t3954.8399999999997", "text": "you're saying but for the patient the next 20 years neuroscience is probably not going to", "start": 3954.8399999999997, "end": 3960.68}
+{"id": "bAjBYEjeP6E-t3960.68", "text": "touch the problem at the social it's like you know probably be with all the astrophysics is", "start": 3960.68, "end": 3971.8399999999997}
+{"id": "bAjBYEjeP6E-t3971.8399999999997", "text": "not necessarily in our lifetime but we still pay or fund astrophysics or going to move or", "start": 3971.8399999999997, "end": 3977.64}
+{"id": "bAjBYEjeP6E-t3977.64", "text": "probably we won't be there in the next few years but still in some respects that's how humanity", "start": 3977.64, "end": 3986.8399999999997}
+{"id": "bAjBYEjeP6E-t3986.8399999999997", "text": "and then technology develops just to segue into something that might be a little more positive so", "start": 3986.8399999999997, "end": 3994.56}
+{"id": "bAjBYEjeP6E-t3994.56", "text": "even though I think that neuroscience is going to take 20 years there are certain things that and", "start": 3994.56, "end": 4000.6}
+{"id": "bAjBYEjeP6E-t4000.6", "text": "it just happens by Kirk Winston it's happening in my department but I put it in a Cornell we have", "start": 4000.6, "end": 4007.4}
+{"id": "bAjBYEjeP6E-t4007.4", "text": "figured one of the investigators at Cornell who's a psychiatrist has figured it out a way to use", "start": 4007.4, "end": 4013.88}
+{"id": "bAjBYEjeP6E-t4013.88", "text": "neuroimaging to subtype depression into four categories by the connectome and he is able to", "start": 4013.88, "end": 4022.64}
+{"id": "bAjBYEjeP6E-t4022.64", "text": "do it granted it's only one study of 1200 patients but he's able to basically get to do it with 90%", "start": 4022.64, "end": 4031.32}
+{"id": "bAjBYEjeP6E-t4031.32", "text": "specificity and sensitivity so he has the shot of actually possibly getting the first biomarker", "start": 4031.32, "end": 4040.1200000000003}
+{"id": "bAjBYEjeP6E-t4040.1200000000003", "text": "for a psychiatric disorder what subtypes where did the subtypes come from so what he did was he", "start": 4040.1200000000003, "end": 4046.36}
+{"id": "bAjBYEjeP6E-t4046.36", "text": "got 600 patients with major depression and then and for so of control made match controls got", "start": 4046.36, "end": 4056.92}
+{"id": "bAjBYEjeP6E-t4056.92", "text": "their resting state scans which I described theirs and basically through machine learning", "start": 4056.92, "end": 4063.0}
+{"id": "bAjBYEjeP6E-t4063.0", "text": "slash artificial intelligence asked the computer to tell them is there do these people fall into", "start": 4063.0, "end": 4069.48}
+{"id": "bAjBYEjeP6E-t4069.48", "text": "different subtypes do the brain connectomes look different from the controls and then the computer", "start": 4069.48, "end": 4075.64}
+{"id": "bAjBYEjeP6E-t4075.64", "text": "gave what they call a classifier sort of like yes here's a template where this this is the template", "start": 4075.64, "end": 4081.48}
+{"id": "bAjBYEjeP6E-t4081.48", "text": "for depression number one two three four then he took another set of samples of of 300 new people", "start": 4081.48, "end": 4090.04}
+{"id": "bAjBYEjeP6E-t4090.04", "text": "with depression or not depression or schizophrenia and this classifier could separate out people with", "start": 4090.04, "end": 4096.76}
+{"id": "bAjBYEjeP6E-t4096.76", "text": "schizophrenia versus depression with a hundred ninety nine percent precision and so so these are", "start": 4096.76, "end": 4104.12}
+{"id": "bAjBYEjeP6E-t4104.12", "text": "these are different subtypes and I'm just doesn't have no they're not phonological subs no these were", "start": 4104.12, "end": 4112.04}
+{"id": "bAjBYEjeP6E-t4112.04", "text": "the computer was not taught DSM so the computer was agnostic to it it was just looking at it essentially", "start": 4112.04, "end": 4117.88}
+{"id": "bAjBYEjeP6E-t4117.88", "text": "and each subtype has a slightly different abnormality in connectivity with the prefrontal cortex or", "start": 4117.88, "end": 4124.5199999999995}
+{"id": "bAjBYEjeP6E-t4124.5199999999995", "text": "first of all he can he confirmed that the prefrontal cortex is probably very important for major", "start": 4124.5199999999995, "end": 4128.599999999999}
+{"id": "bAjBYEjeP6E-t4128.599999999999", "text": "depression and they all have slightly different what they don't look different clinically is the", "start": 4128.599999999999, "end": 4132.5199999999995}
+{"id": "bAjBYEjeP6E-t4132.52", "text": "point right I guess that was they really don't look that different clinically miraculously", "start": 4132.52, "end": 4137.160000000001}
+{"id": "bAjBYEjeP6E-t4138.120000000001", "text": "subtypes actually fall into anhedonic anxious they actually do really amazingly do and it was not", "start": 4138.120000000001, "end": 4146.120000000001}
+{"id": "bAjBYEjeP6E-t4146.120000000001", "text": "taught the computer was not taught this and so that felt that's life yeah so that essentially", "start": 4146.120000000001, "end": 4151.64}
+{"id": "bAjBYEjeP6E-t4151.64", "text": "they naturally which makes sense that if you're anhedonic then the hub that's involved in the reward", "start": 4151.64, "end": 4157.160000000001}
+{"id": "bAjBYEjeP6E-t4157.160000000001", "text": "circuitry is probably going to be the one that's broken while the one that's that where you're sort", "start": 4157.160000000001, "end": 4161.88}
+{"id": "bAjBYEjeP6E-t4161.88", "text": "of more anxious is going to be probably more prefrontal cortical because of the anxiety", "start": 4161.88, "end": 4168.28}
+{"id": "bAjBYEjeP6E-t4168.28", "text": "circuits related there so it fell out naturally and now we're going but what is so remarkable is", "start": 4168.28, "end": 4175.32}
+{"id": "bAjBYEjeP6E-t4175.32", "text": "that so there's another form of treatment called trans-magnetics stimulation which is", "start": 4175.32, "end": 4180.2}
+{"id": "bAjBYEjeP6E-t4181.32", "text": "which we had wild enthusiasm ten years ago but has shown to be only effective for 40%", "start": 4181.32, "end": 4187.64}
+{"id": "bAjBYEjeP6E-t4187.64", "text": "than mild for mild to moderate depression what he found was was that only one subtype responded", "start": 4187.64, "end": 4195.08}
+{"id": "bAjBYEjeP6E-t4195.08", "text": "optimally to TMS so now the new clinical trial he's running is to do a that was a retrospective", "start": 4195.08, "end": 4201.4800000000005}
+{"id": "bAjBYEjeP6E-t4201.4800000000005", "text": "study that he did now he's doing a prospective study to see whether or not he can subtype them", "start": 4201.4800000000005, "end": 4206.76}
+{"id": "bAjBYEjeP6E-t4206.76", "text": "ahead of time then give them TMS and basically see whether or not that this is actually going", "start": 4206.76, "end": 4212.84}
+{"id": "bAjBYEjeP6E-t4212.84", "text": "to hold up but you can sort of now see how you can use this not obviously we say psychiatrists", "start": 4212.84, "end": 4218.28}
+{"id": "bAjBYEjeP6E-t4218.28", "text": "and psychologists and social workers we can diagnose pretty well but what this can tell you is is", "start": 4218.28, "end": 4223.88}
+{"id": "bAjBYEjeP6E-t4223.88", "text": "that what he noticed was was that after the people who responded to TMS their connect home", "start": 4223.88, "end": 4230.12}
+{"id": "bAjBYEjeP6E-t4230.12", "text": "changed to normal so basically you now have not only a diagnostic tool but something that could", "start": 4230.12, "end": 4236.76}
+{"id": "bAjBYEjeP6E-t4236.76", "text": "probably tell you whether or not the treatments you've had will possibly effective or not effective", "start": 4236.76, "end": 4242.6}
+{"id": "bAjBYEjeP6E-t4242.6", "text": "in changing at least one sort of non at least some objective measure and stuff but the future", "start": 4242.6, "end": 4249.8}
+{"id": "bAjBYEjeP6E-t4249.8", "text": "would be at least only in Cornell the media other than you would get your brain scanned", "start": 4249.8, "end": 4255.08}
+{"id": "bAjBYEjeP6E-t4256.52", "text": "in the outpatient clinic if you come in for depression and then basically then then different", "start": 4256.52, "end": 4261.64}
+{"id": "bAjBYEjeP6E-t4261.64", "text": "treatments would be tailored to that it sounds very but human one brain scan will tell you this", "start": 4261.64, "end": 4268.6}
+{"id": "bAjBYEjeP6E-t4268.6", "text": "yes so basically because he got the computer to come up with what they call it a computational", "start": 4268.6, "end": 4273.96}
+{"id": "bAjBYEjeP6E-t4273.96", "text": "classifier so then the classifier will then sort of sort it out and just say this you fit into", "start": 4273.96, "end": 4279.400000000001}
+{"id": "bAjBYEjeP6E-t4279.96", "text": "biotype one two three or four and and so then and and if you put in someone who has schizophrenia", "start": 4279.96, "end": 4287.4800000000005}
+{"id": "bAjBYEjeP6E-t4287.48", "text": "they go you don't fit into any of these biotypes you know you do not you're not depressed so he's", "start": 4287.48, "end": 4293.16}
+{"id": "bAjBYEjeP6E-t4293.16", "text": "now trying to develop the schizophrenic biotype and the bipolar disorder biotype but for now he", "start": 4293.16, "end": 4298.36}
+{"id": "bAjBYEjeP6E-t4298.36", "text": "started with depression so but you but the reason why this was possible was because so many people", "start": 4298.36, "end": 4304.759999999999}
+{"id": "bAjBYEjeP6E-t4306.28", "text": "country and and we're doing resting state scans so he didn't have to scan 1200 people he got people's", "start": 4306.28, "end": 4313.799999999999}
+{"id": "bAjBYEjeP6E-t4313.8", "text": "data from 1200 people from 1200 subjects from and then just use the computer to basically do", "start": 4313.8, "end": 4321.88}
+{"id": "bAjBYEjeP6E-t4321.88", "text": "the analysis I think this is probably what's going to happen and that's why it's still important to", "start": 4321.88, "end": 4326.6}
+{"id": "bAjBYEjeP6E-t4326.6", "text": "do all these studies because who knew that this 10 minute resting state scan was going to be so", "start": 4326.6, "end": 4331.96}
+{"id": "bAjBYEjeP6E-t4331.96", "text": "important for this type of work I think you know and some ideas that we could be basically be able", "start": 4331.96, "end": 4338.84}
+{"id": "bAjBYEjeP6E-t4338.84", "text": "to tailor things but it is really quite remarkable even to me it's hard to wrap my mind around the", "start": 4338.84, "end": 4344.84}
+{"id": "bAjBYEjeP6E-t4344.84", "text": "fact that the brains has an intrinsic connectivity that can be picked up in 10 minutes it's an", "start": 4344.84, "end": 4351.72}
+{"id": "bAjBYEjeP6E-t4351.72", "text": "fire an MRI machine essentially that's been around for 50 years essentially technology was always", "start": 4351.72, "end": 4361.56}
+{"id": "bAjBYEjeP6E-t4361.56", "text": "there you know what he only what he did is he used just like he just put the pieces together", "start": 4361.56, "end": 4367.32}
+{"id": "bAjBYEjeP6E-t4367.32", "text": "and he was able to do it so but replicates psychiatry is full of 50 years of starting to", "start": 4367.32, "end": 4375.08}
+{"id": "bAjBYEjeP6E-t4375.08", "text": "DSTF tests that look like they're going to be great so two replications are now being written up", "start": 4375.08, "end": 4381.639999999999}
+{"id": "bAjBYEjeP6E-t4381.639999999999", "text": "for the replication spittifier type things so people from other universities not us really that's", "start": 4381.639999999999, "end": 4387.24}
+{"id": "bAjBYEjeP6E-t4387.24", "text": "for depression not for any other depression that'd be pretty damn good if you have that", "start": 4387.24, "end": 4391.639999999999}
+{"id": "bAjBYEjeP6E-t4391.64", "text": "yeah we're very we'll see what happens but what's really nice is is that and and I the thing that", "start": 4391.64, "end": 4400.76}
+{"id": "bAjBYEjeP6E-t4400.76", "text": "I got from it was then we've we've we've also begun or he and begun doing", "start": 4400.76, "end": 4406.12}
+{"id": "bAjBYEjeP6E-t4407.0", "text": "anxiety disorders because that's the disorder and the people with anxiety disorders fall into", "start": 4407.0, "end": 4415.56}
+{"id": "bAjBYEjeP6E-t4415.56", "text": "that but again as office the brain did not read DSM and truly gonna be these gonna", "start": 4415.56, "end": 4426.6}
+{"id": "bAjBYEjeP6E-t4433.080000000001", "text": "and they're not the sort of", "start": 4433.080000000001, "end": 4436.120000000001}
+{"id": "bAjBYEjeP6E-t4436.12", "text": "problems are probably going to be very different for each", "start": 4436.12, "end": 4442.5199999999995}
+{"id": "bAjBYEjeP6E-t4442.5199999999995", "text": "sorry I can assure you that I hope it replicates too but that's enough the mystic notes so we can", "start": 4442.5199999999995, "end": 4451.88}
+{"id": "bAjBYEjeP6E-t4451.88", "text": "stop the open if you have a question you want", "start": 4451.88, "end": 4457.64}
+{"id": "bAjBYEjeP6E-t4457.64", "text": "to", "start": 4457.64, "end": 4463.320000000001}
+{"id": "bAjBYEjeP6E-t4463.320000000001", "text": "have", "start": 4463.320000000001, "end": 4465.08}
+{"id": "bAjBYEjeP6E-t4465.08", "text": "facts and look at various fields of science over the years and how many years it took for", "start": 4465.08, "end": 4471.88}
+{"id": "bAjBYEjeP6E-t4471.88", "text": "half the things before the truth to be no more true so I'm wondering if you should", "start": 4471.88, "end": 4477.88}
+{"id": "bAjBYEjeP6E-t4477.88", "text": "you how many years will take care for what you think is true now if you're not true yeah I'm not", "start": 4477.88, "end": 4487.16}
+{"id": "bAjBYEjeP6E-t4487.16", "text": "gonna predict the future but I will tell you a funny story about yeah I found a book that was written", "start": 4487.16, "end": 4491.4800000000005}
+{"id": "bAjBYEjeP6E-t4493.64", "text": "from the American College of Pharmacology", "start": 4493.64, "end": 4498.2}
+{"id": "bAjBYEjeP6E-t4498.2", "text": "and in I think 1965 they wrote this book called", "start": 4498.2, "end": 4507.16}
+{"id": "bAjBYEjeP6E-t4507.16", "text": "Psychopharmacology in the year 2000 where they were predicting it's gonna", "start": 4507.16, "end": 4510.36}
+{"id": "bAjBYEjeP6E-t4510.36", "text": "and they were", "start": 4510.36, "end": 4512.28}
+{"id": "bAjBYEjeP6E-t4516.12", "text": "drugs that people have", "start": 4516.12, "end": 4518.5199999999995}
+{"id": "bAjBYEjeP6E-t4519.72", "text": "helping them", "start": 4519.72, "end": 4520.36}
+{"id": "bAjBYEjeP6E-t4520.36", "text": "work happy and help them that weren't happy that because we weren't going to solve the food problems but", "start": 4520.36, "end": 4529.4}
+{"id": "bAjBYEjeP6E-t4535.5599999999995", "text": "velocity was the answer to everything was gonna cure outcome it was gonna cure", "start": 4535.5599999999995, "end": 4540.679999999999}
+{"id": "bAjBYEjeP6E-t4543.96", "text": "and then two years after this book was", "start": 4543.96, "end": 4545.799999999999}
+{"id": "bAjBYEjeP6E-t4545.8", "text": "in the United", "start": 4545.8, "end": 4548.84}
+{"id": "bAjBYEjeP6E-t4550.04", "text": "take long", "start": 4550.04, "end": 4550.6}
+{"id": "bAjBYEjeP6E-t4554.4400000000005", "text": "right well what I was gonna say we're back we're back to hallucinogens now we're back to", "start": 4554.4400000000005, "end": 4559.08}
+{"id": "bAjBYEjeP6E-t4559.08", "text": "we're not getting it have they not banned it maybe over the 30 years we'd actually have", "start": 4559.08, "end": 4563.400000000001}
+{"id": "bAjBYEjeP6E-t4563.400000000001", "text": "to", "start": 4563.400000000001, "end": 4564.04}
+{"id": "bAjBYEjeP6E-t4564.04", "text": "that was a big mistake", "start": 4564.04, "end": 4577.08}
+{"id": "bAjBYEjeP6E-t4577.08", "text": "that's going to be true and not true yeah like that", "start": 4577.08, "end": 4580.28}
+{"id": "bAjBYEjeP6E-t4580.28", "text": "that's the way paper that you can laugh at when it's", "start": 4580.28, "end": 4585.24}
+{"id": "bAjBYEjeP6E-t4585.24", "text": "it's", "start": 4585.24, "end": 4589.8}
+{"id": "bAjBYEjeP6E-t4589.8", "text": "funny the other you know", "start": 4589.8, "end": 4591.0}
+{"id": "bAjBYEjeP6E-t4592.2", "text": "your head of nature he was writing a paper by the RDoC project the people so RDoC project was", "start": 4592.2, "end": 4596.76}
+{"id": "bAjBYEjeP6E-t4596.76", "text": "an attempt to toss out the DSM approach on immunology and", "start": 4596.76, "end": 4601.32}
+{"id": "bAjBYEjeP6E-t4601.32", "text": "the tree base the idea is we're going to discover the the circuits of the brain", "start": 4601.32, "end": 4605.48}
+{"id": "bAjBYEjeP6E-t4605.48", "text": "and then we're going to build up you know this huge", "start": 4605.48, "end": 4609.16}
+{"id": "bAjBYEjeP6E-t4609.16", "text": "uh all these studies we're going to explore treatments went out in the limit said in 15 years", "start": 4609.16, "end": 4615.08}
+{"id": "bAjBYEjeP6E-t4618.12", "text": "will happen it was so off and the thing to me is the full", "start": 4618.12, "end": 4623.72}
+{"id": "bAjBYEjeP6E-t4623.72", "text": "it's predicting something in 15 years because those are", "start": 4623.72, "end": 4626.44}
+{"id": "bAjBYEjeP6E-t4626.44", "text": "these are all you can't ever so you're right I mean assume a lot of what we now is going to be", "start": 4626.44, "end": 4631.4}
+{"id": "bAjBYEjeP6E-t4631.4", "text": "thank you doctor Lee the end you mentioned a lot of", "start": 4631.4, "end": 4640.36}
+{"id": "bAjBYEjeP6E-t4641.96", "text": "two different", "start": 4641.96, "end": 4642.92}
+{"id": "bAjBYEjeP6E-t4642.92", "text": "in a rest brain from a typical brain look these are in huge these are in patients", "start": 4642.92, "end": 4650.5199999999995}
+{"id": "bAjBYEjeP6E-t4650.52", "text": "patients um and it's made me wonder what what is a healthy brain", "start": 4650.52, "end": 4663.400000000001}
+{"id": "bAjBYEjeP6E-t4666.040000000001", "text": "someone that doesn't meet any criteria for any DSM disorder but are there people who don't", "start": 4666.040000000001, "end": 4673.080000000001}
+{"id": "bAjBYEjeP6E-t4673.08", "text": "know", "start": 4673.08, "end": 4677.24}
+{"id": "bAjBYEjeP6E-t4677.24", "text": "you know it's sort of a circular argument but so I think what I think we don't have a really good", "start": 4677.24, "end": 4685.72}
+{"id": "bAjBYEjeP6E-t4685.72", "text": "idea of what brain is it's just what we call a brain so a brain", "start": 4685.72, "end": 4690.5199999999995}
+{"id": "bAjBYEjeP6E-t4691.72", "text": "besting codified as we have an idea of what the healthy mind is", "start": 4691.72, "end": 4696.36}
+{"id": "bAjBYEjeP6E-t4696.36", "text": "that the analyst to figure that out", "start": 4696.36, "end": 4701.639999999999}
+{"id": "bAjBYEjeP6E-t4705.48", "text": "thank you for the", "start": 4705.48, "end": 4707.96}
+{"id": "bAjBYEjeP6E-t4707.96", "text": "my question is with some question about which way the funding should go", "start": 4707.96, "end": 4712.92}
+{"id": "bAjBYEjeP6E-t4712.92", "text": "what will be um the field what's the", "start": 4712.92, "end": 4716.28}
+{"id": "bAjBYEjeP6E-t4716.28", "text": "patients and patients", "start": 4716.28, "end": 4720.28}
+{"id": "bAjBYEjeP6E-t4720.28", "text": "what goals and what values should guide institution uh what values should", "start": 4720.28, "end": 4725.639999999999}
+{"id": "bAjBYEjeP6E-t4725.639999999999", "text": "guide medicine and administration what's the future of pakari grants", "start": 4725.639999999999, "end": 4730.679999999999}
+{"id": "bAjBYEjeP6E-t4733.0", "text": "no questions", "start": 4733.0, "end": 4736.2}
+{"id": "bAjBYEjeP6E-t4741.719999999999", "text": "so", "start": 4741.719999999999, "end": 4745.719999999999}
+{"id": "bAjBYEjeP6E-t4745.72", "text": "so pakari grants are supposed to be so there's been a", "start": 4745.72, "end": 4750.76}
+{"id": "bAjBYEjeP6E-t4755.400000000001", "text": "whatever various new things then we'll", "start": 4755.400000000001, "end": 4757.88}
+{"id": "bAjBYEjeP6E-t4759.8", "text": "to the community", "start": 4759.8, "end": 4760.84}
+{"id": "bAjBYEjeP6E-t4765.240000000001", "text": "that seem to look what really", "start": 4765.240000000001, "end": 4767.88}
+{"id": "bAjBYEjeP6E-t4770.6", "text": "center but they're too complicated or something to be implemented and so", "start": 4770.6, "end": 4774.68}
+{"id": "bAjBYEjeP6E-t4774.68", "text": "the", "start": 4774.68, "end": 4776.68}
+{"id": "bAjBYEjeP6E-t4775.88", "text": "supposed to be something where you take a treatment and", "start": 4775.88, "end": 4778.92}
+{"id": "bAjBYEjeP6E-t4781.240000000001", "text": "grant is to actually dominate it's for example I think the types of", "start": 4781.240000000001, "end": 4787.400000000001}
+{"id": "bAjBYEjeP6E-t4787.400000000001", "text": "grant", "start": 4787.400000000001, "end": 4789.400000000001}
+{"id": "bAjBYEjeP6E-t4789.400000000001", "text": "really", "start": 4789.400000000001, "end": 4791.240000000001}
+{"id": "bAjBYEjeP6E-t4792.6", "text": "into behavioral therapy that has been validated", "start": 4792.6, "end": 4795.96}
+{"id": "bAjBYEjeP6E-t4795.96", "text": "institution can you", "start": 4795.96, "end": 4797.320000000001}
+{"id": "bAjBYEjeP6E-t4798.200000000001", "text": "to the queen's the queen's clinic and have trained the people there", "start": 4798.200000000001, "end": 4802.4400000000005}
+{"id": "bAjBYEjeP6E-t4802.44", "text": "and then rally around", "start": 4802.44, "end": 4806.28}
+{"id": "bAjBYEjeP6E-t4808.919999999999", "text": "lots of money isn't being poured into these human", "start": 4808.919999999999, "end": 4813.48}
+{"id": "bAjBYEjeP6E-t4813.48", "text": "how", "start": 4813.48, "end": 4815.48}
+{"id": "bAjBYEjeP6E-t4816.28", "text": "are", "start": 4816.28, "end": 4818.28}
+{"id": "bAjBYEjeP6E-t4818.28", "text": "sorry", "start": 4818.28, "end": 4820.5199999999995}
+{"id": "bAjBYEjeP6E-t4820.5199999999995", "text": "treatments", "start": 4820.5199999999995, "end": 4824.5199999999995}
+{"id": "bAjBYEjeP6E-t4824.5199999999995", "text": "we would have to say uh that the bigger question is is that we actually", "start": 4824.5199999999995, "end": 4830.44}
+{"id": "bAjBYEjeP6E-t4830.44", "text": "don't just to sort of segue we actually don't have the workforce", "start": 4830.44, "end": 4834.28}
+{"id": "bAjBYEjeP6E-t4835.639999999999", "text": "liver met to the treatment percent of 20 percent of our population", "start": 4835.639999999999, "end": 4841.719999999999}
+{"id": "bAjBYEjeP6E-t4845.24", "text": "how that workforce sure I'm not actually sure I would say that", "start": 4845.24, "end": 4850.28}
+{"id": "bAjBYEjeP6E-t4852.839999999999", "text": "no I think what", "start": 4852.839999999999, "end": 4854.599999999999}
+{"id": "bAjBYEjeP6E-t4854.599999999999", "text": "the rationale for the", "start": 4854.599999999999, "end": 4857.08}
+{"id": "bAjBYEjeP6E-t4857.08", "text": "grants has been mainly due to other treatment", "start": 4857.08, "end": 4861.32}
+{"id": "bAjBYEjeP6E-t4861.32", "text": "more sophisticated behavioral treatments have been able to be implemented", "start": 4861.32, "end": 4865.0}
+{"id": "bAjBYEjeP6E-t4866.44", "text": "and but it's probably because they don't have enough providers that can", "start": 4866.44, "end": 4871.0}
+{"id": "bAjBYEjeP6E-t4871.0", "text": "deliver it somewhat", "start": 4871.0, "end": 4872.68}
+{"id": "bAjBYEjeP6E-t4872.68", "text": "I think", "start": 4872.68, "end": 4873.0}
+{"id": "bAjBYEjeP6E-t4876.12", "text": "to pick up a thread that two threads of Dr. Mike", "start": 4876.12, "end": 4880.04}
+{"id": "bAjBYEjeP6E-t4881.4", "text": "one of them about about prevention and the allocation", "start": 4881.4, "end": 4884.76}
+{"id": "bAjBYEjeP6E-t4884.76", "text": "uh", "start": 4884.76, "end": 4886.76}
+{"id": "bAjBYEjeP6E-t4886.76", "text": "about being", "start": 4886.76, "end": 4888.76}
+{"id": "bAjBYEjeP6E-t4888.76", "text": "going to I'm going to echo that also", "start": 4888.76, "end": 4891.88}
+{"id": "bAjBYEjeP6E-t4891.88", "text": "uh given how we started off with the um", "start": 4891.88, "end": 4896.92}
+{"id": "bAjBYEjeP6E-t4898.12", "text": "progress with the genetic research", "start": 4898.12, "end": 4901.08}
+{"id": "bAjBYEjeP6E-t4901.64", "text": "um", "start": 4901.64, "end": 4902.68}
+{"id": "bAjBYEjeP6E-t4905.16", "text": "given that we spent most of the time talking about that", "start": 4905.16, "end": 4909.88}
+{"id": "bAjBYEjeP6E-t4910.4400000000005", "text": "that this means", "start": 4910.4400000000005, "end": 4911.0}
+{"id": "bAjBYEjeP6E-t4911.0", "text": "so what what does that mean so I will offer a an interpretation", "start": 4911.0, "end": 4916.2}
+{"id": "bAjBYEjeP6E-t4916.2", "text": "considering where we are", "start": 4916.2, "end": 4917.96}
+{"id": "bAjBYEjeP6E-t4917.96", "text": "and that and that and that there's an enormous cultural almost delusion of the", "start": 4917.96, "end": 4924.6}
+{"id": "bAjBYEjeP6E-t4924.6", "text": "Nile of um of the source of most", "start": 4924.6, "end": 4929.16}
+{"id": "bAjBYEjeP6E-t4930.12", "text": "technology which which Dr. Michael's mentioned which has something to do with", "start": 4930.12, "end": 4933.64}
+{"id": "bAjBYEjeP6E-t4933.64", "text": "early development early development early attachment traumatic uh dramatic", "start": 4933.64, "end": 4938.52}
+{"id": "bAjBYEjeP6E-t4938.52", "text": "abandonment early childhood even even we know data from moving to another country", "start": 4938.52, "end": 4944.360000000001}
+{"id": "bAjBYEjeP6E-t4944.360000000001", "text": "the the the", "start": 4944.360000000001, "end": 4946.360000000001}
+{"id": "bAjBYEjeP6E-t4949.56", "text": "and mental illness and yet there's no money um", "start": 4949.56, "end": 4955.320000000001}
+{"id": "bAjBYEjeP6E-t4955.320000000001", "text": "being provided for that kind of research so I suggest we take all of the money", "start": 4955.320000000001, "end": 4959.8}
+{"id": "bAjBYEjeP6E-t4962.040000000001", "text": "and", "start": 4962.040000000001, "end": 4964.040000000001}
+{"id": "bAjBYEjeP6E-t4964.040000000001", "text": "for", "start": 4964.040000000001, "end": 4966.040000000001}
+{"id": "bAjBYEjeP6E-t4966.04", "text": "my", "start": 4966.04, "end": 4968.04}
+{"id": "bAjBYEjeP6E-t4968.04", "text": "then we may", "start": 4968.04, "end": 4970.04}
+{"id": "bAjBYEjeP6E-t4970.04", "text": "as far as", "start": 4970.04, "end": 4972.04}
+{"id": "bAjBYEjeP6E-t4972.04", "text": "um so now", "start": 4972.04, "end": 4974.04}
+{"id": "bAjBYEjeP6E-t4974.04", "text": "wasn't being brought", "start": 4974.04, "end": 4976.04}
+{"id": "bAjBYEjeP6E-t4976.44", "text": "just", "start": 4976.44, "end": 4978.44}
+{"id": "bAjBYEjeP6E-t4978.44", "text": "the second", "start": 4978.44, "end": 4980.44}
+{"id": "bAjBYEjeP6E-t4981.24", "text": "the", "start": 4981.24, "end": 4982.44}
+{"id": "bAjBYEjeP6E-t4982.44", "text": "neuroscience research", "start": 4982.44, "end": 4984.44}
+{"id": "bAjBYEjeP6E-t4984.44", "text": "uh", "start": 4984.44, "end": 4986.44}
+{"id": "bAjBYEjeP6E-t4989.64", "text": "I think you mentioned", "start": 4989.64, "end": 4991.64}
+{"id": "bAjBYEjeP6E-t4991.64", "text": "expectation", "start": 4991.64, "end": 4993.64}
+{"id": "bAjBYEjeP6E-t4993.64", "text": "the", "start": 4993.64, "end": 4995.64}
+{"id": "bAjBYEjeP6E-t5006.04", "text": "to get back", "start": 5006.04, "end": 5008.04}
+{"id": "bAjBYEjeP6E-t5008.04", "text": "that's random", "start": 5008.04, "end": 5010.04}
+{"id": "bAjBYEjeP6E-t5010.04", "text": "in", "start": 5010.04, "end": 5012.04}
+{"id": "bAjBYEjeP6E-t5014.04", "text": "I think", "start": 5014.04, "end": 5016.04}
+{"id": "bAjBYEjeP6E-t5016.04", "text": "part of the", "start": 5016.04, "end": 5018.04}
+{"id": "bAjBYEjeP6E-t5018.04", "text": "is getting rid of stigma I think we're getting rid of stigma okay", "start": 5018.04, "end": 5024.5199999999995}
+{"id": "bAjBYEjeP6E-t5027.24", "text": "this is if they were broken brains we we've just added another type", "start": 5027.24, "end": 5030.84}
+{"id": "bAjBYEjeP6E-t5030.84", "text": "of", "start": 5030.84, "end": 5034.84}
+{"id": "bAjBYEjeP6E-t5044.84", "text": "a person", "start": 5044.84, "end": 5045.64}
+{"id": "bAjBYEjeP6E-t5048.84", "text": "then he did at case conferences okay", "start": 5048.84, "end": 5051.64}
+{"id": "bAjBYEjeP6E-t5051.64", "text": "the conferences had less details about", "start": 5051.64, "end": 5062.04}
+{"id": "bAjBYEjeP6E-t5063.56", "text": "interests are", "start": 5063.56, "end": 5065.56}
+{"id": "bAjBYEjeP6E-t5071.56", "text": "that is a strong", "start": 5071.56, "end": 5073.56}
+{"id": "bAjBYEjeP6E-t5073.56", "text": "information", "start": 5073.56, "end": 5075.56}
+{"id": "bAjBYEjeP6E-t5075.56", "text": "which is a war farm kind of far farm a go genetic testing and getting history", "start": 5075.56, "end": 5085.56}
+{"id": "bAjBYEjeP6E-t5093.320000000001", "text": "several comments", "start": 5093.320000000001, "end": 5094.52}
+{"id": "bAjBYEjeP6E-t5094.52", "text": "um our call for uh I'll start with the last one I think the psychological psychodynamic", "start": 5094.52, "end": 5105.320000000001}
+{"id": "bAjBYEjeP6E-t5107.72", "text": "broadly in favor of talking to patients listening to them and getting to know them", "start": 5107.72, "end": 5112.76}
+{"id": "bAjBYEjeP6E-t5113.400000000001", "text": "in fine texture and detail which you feel a member of I suspect from what you said I think", "start": 5113.400000000001, "end": 5119.4800000000005}
+{"id": "bAjBYEjeP6E-t5119.48", "text": "that community has failed to demonstrate value added from the information it collects", "start": 5119.48, "end": 5126.04}
+{"id": "bAjBYEjeP6E-t5126.04", "text": "for the majority of psychiatric patients so although we may not like it the fact is that", "start": 5126.04, "end": 5132.839999999999}
+{"id": "bAjBYEjeP6E-t5133.639999999999", "text": "if you want to be cost effective the first thing you do is make a dss", "start": 5133.639999999999, "end": 5138.759999999999}
+{"id": "bAjBYEjeP6E-t5139.719999999999", "text": "then use the standard treatment for that diagnosis and wait eight weeks a third of your", "start": 5139.719999999999, "end": 5145.799999999999}
+{"id": "bAjBYEjeP6E-t5145.8", "text": "patients will be better and there's no point in finding out how they felt about their mother", "start": 5145.8, "end": 5150.68}
+{"id": "bAjBYEjeP6E-t5151.400000000001", "text": "it's irrelevant to the outcome of the intervention if your focus is on the outcome of the intervention", "start": 5151.400000000001, "end": 5158.2}
+{"id": "bAjBYEjeP6E-t5158.92", "text": "you'd focus your subtle nuanced history taking and relationship development on the group of", "start": 5158.92, "end": 5167.96}
+{"id": "bAjBYEjeP6E-t5167.96", "text": "patients who need it and might profit from it but the community doesn't like doing that", "start": 5167.96, "end": 5174.28}
+{"id": "bAjBYEjeP6E-t5174.28", "text": "and it has an almost ethical quality it's un it's not humanistic no orthopedic surgeon", "start": 5174.28, "end": 5182.44}
+{"id": "bAjBYEjeP6E-t5182.44", "text": "worries about being humanistic before setting a colleagues fracture but psychiatrists do sometimes", "start": 5182.44, "end": 5190.04}
+{"id": "bAjBYEjeP6E-t5190.04", "text": "or conversely they don't because they're tired of those that do and they're arguing with them", "start": 5190.04, "end": 5196.679999999999}
+{"id": "bAjBYEjeP6E-t5196.68", "text": "so your dss diagnosis begin to in many psychiatrists hands substitute the person is sitting next to", "start": 5196.68, "end": 5206.68}
+{"id": "bAjBYEjeP6E-t5206.68", "text": "you on the bus it's an unsolved problem it's a major problem in psychiatric education so that", "start": 5206.68, "end": 5214.92}
+{"id": "bAjBYEjeP6E-t5216.92", "text": "if you travel around the country and you make rounds and things like that you find a fair", "start": 5216.92, "end": 5221.4800000000005}
+{"id": "bAjBYEjeP6E-t5221.48", "text": "number of young psychiatrists are very happy if they can document a dssm5 diagnostic", "start": 5221.48, "end": 5227.799999999999}
+{"id": "bAjBYEjeP6E-t5228.759999999999", "text": "uh conclusion even if they're not the biggest idea who it is they're talking about", "start": 5228.759999999999, "end": 5233.32}
+{"id": "bAjBYEjeP6E-t5234.2", "text": "on the other hand the the research problem not resolved is when does it make a difference", "start": 5234.2, "end": 5241.24}
+{"id": "bAjBYEjeP6E-t5242.12", "text": "and very importantly when does it not make a difference", "start": 5242.12, "end": 5245.719999999999}
+{"id": "bAjBYEjeP6E-t5245.72", "text": "even more provocative i think the lack of engagement", "start": 5245.72, "end": 5250.360000000001}
+{"id": "bAjBYEjeP6E-t5250.360000000001", "text": "in the future of the proper diagnosis sometimes people being in analysis i don't know about", "start": 5250.360000000001, "end": 5257.72}
+{"id": "bAjBYEjeP6E-t5257.72", "text": "even doing it properly sometimes well what i would agree with it i think too often i think", "start": 5257.72, "end": 5264.04}
+{"id": "bAjBYEjeP6E-t5264.04", "text": "you can't do uh not i you know i i created a structured interview for research and i see people", "start": 5264.04, "end": 5270.92}
+{"id": "bAjBYEjeP6E-t5270.92", "text": "do horrible jobs because they don't ask the right you know get below the surface i mean it's not a", "start": 5270.92, "end": 5276.2}
+{"id": "bAjBYEjeP6E-t5276.2", "text": "checklist and nobody who's ever worked on the dssm has ever claimed otherwise however because", "start": 5276.2, "end": 5280.76}
+{"id": "bAjBYEjeP6E-t5280.76", "text": "it looks so simple people there's a human nature here to do the simple quick thing and the dssm you", "start": 5280.76, "end": 5287.72}
+{"id": "bAjBYEjeP6E-t5287.72", "text": "could argue is one of the worst things that happened because it's a left psychiatrist to do what our", "start": 5287.72, "end": 5292.04}
+{"id": "bAjBYEjeP6E-t5292.04", "text": "colleagues and the rest of medicines it was just trying to do the quicker thing like getting a", "start": 5292.04, "end": 5295.16}
+{"id": "bAjBYEjeP6E-t5295.16", "text": "bunch of blood tests and not talking to the patient so it's facilitated that it's had a plus i think", "start": 5295.16, "end": 5300.04}
+{"id": "bAjBYEjeP6E-t5300.04", "text": "it's treatment and people have responded better but there's a huge cost and i agree about the", "start": 5300.04, "end": 5304.92}
+{"id": "bAjBYEjeP6E-t5304.92", "text": "psychiatric education it's up to psychiatric education to to go against that tendency for people to", "start": 5304.92, "end": 5311.96}
+{"id": "bAjBYEjeP6E-t5311.96", "text": "want a cookbook approach and tell them over and over again that is you're not going to get good", "start": 5311.96, "end": 5315.48}
+{"id": "bAjBYEjeP6E-t5315.48", "text": "results now unfortunately it'd be nice if there were studies that could actually show for sure", "start": 5315.48, "end": 5320.04}
+{"id": "bAjBYEjeP6E-t5322.2", "text": "check actually in uh alpham it's hard for me to believe that you're right it'd be", "start": 5322.2, "end": 5328.84}
+{"id": "bAjBYEjeP6E-t5328.84", "text": "somebody could do some kind of god people who", "start": 5328.84, "end": 5332.2}
+{"id": "bAjBYEjeP6E-t5335.96", "text": "got my gift with the out the", "start": 5335.96, "end": 5338.52}
+{"id": "bAjBYEjeP6E-t5339.4800000000005", "text": "what why do you don't", "start": 5339.4800000000005, "end": 5341.72}
+{"id": "bAjBYEjeP6E-t5343.0", "text": "who's going to fund that you're right i'd be great things to do", "start": 5343.0, "end": 5349.08}
+{"id": "bAjBYEjeP6E-t5349.64", "text": "there's also an idiotic in the profession", "start": 5349.64, "end": 5351.88}
+{"id": "bAjBYEjeP6E-t5351.88", "text": "you're patient in depth that it's almost", "start": 5351.88, "end": 5359.4800000000005}
+{"id": "bAjBYEjeP6E-t5359.4800000000005", "text": "a virtue rather than efficiency or efficacy right and that's a weak argument in a competitive world", "start": 5359.4800000000005, "end": 5367.56}
+{"id": "bAjBYEjeP6E-t5369.08", "text": "no you're right you see how we've gotten where we are and i'd be great if we can undo that with", "start": 5369.08, "end": 5373.8}
+{"id": "bAjBYEjeP6E-t5373.8", "text": "data if you had thought like the head of some federal finance health finance", "start": 5373.8, "end": 5381.88}
+{"id": "bAjBYEjeP6E-t5382.92", "text": "and said well we need to do this then they would ask well just show me why we should invest", "start": 5382.92, "end": 5387.96}
+{"id": "bAjBYEjeP6E-t5387.96", "text": "billions in this direction rather than in this direction maybe that study a series of", "start": 5387.96, "end": 5393.08}
+{"id": "bAjBYEjeP6E-t5393.08", "text": "well we may be going backwards and having to do that retrospectively with the current generation", "start": 5393.08, "end": 5398.12}
+{"id": "bAjBYEjeP6E-t5398.12", "text": "of kids we're raising now so we're raising an entire generation of consumers of mental health", "start": 5398.12, "end": 5404.36}
+{"id": "bAjBYEjeP6E-t5404.36", "text": "care who think that all they have to do is sit there and somebody will do it they will do a checklist", "start": 5404.36, "end": 5409.08}
+{"id": "bAjBYEjeP6E-t5409.08", "text": "they'll get a diagnosis they'll get a pill then", "start": 5409.08, "end": 5412.92}
+{"id": "bAjBYEjeP6E-t5415.0", "text": "they roll in that it's something that they again are it's our failure to treat rather than their", "start": 5415.0, "end": 5420.599999999999}
+{"id": "bAjBYEjeP6E-t5420.599999999999", "text": "failure to engage so i just had a patient in the hospital a 19 year old student and we get a lot", "start": 5420.599999999999, "end": 5426.84}
+{"id": "bAjBYEjeP6E-t5426.84", "text": "of university students that umm on the inpatient unit and she she had depression i don't know what", "start": 5426.84, "end": 5432.04}
+{"id": "bAjBYEjeP6E-t5432.04", "text": "that means for this teenager but she'd been on every drug i could name she'd gotten ECT", "start": 5432.04, "end": 5437.96}
+{"id": "bAjBYEjeP6E-t5438.76", "text": "she had never engaged with therapy because as far as she was concerned that was effort that she", "start": 5438.76, "end": 5443.32}
+{"id": "bAjBYEjeP6E-t5443.32", "text": "didn't want to put into and and we were done she was still depressed she was not bothering to go to", "start": 5443.32, "end": 5448.68}
+{"id": "bAjBYEjeP6E-t5448.68", "text": "serve and you know she needed to actually put some work in and she didn't want to hear that she", "start": 5448.68, "end": 5454.2}
+{"id": "bAjBYEjeP6E-t5454.2", "text": "wanted the magic the magic pill or you know raising its generation of consumers of mental health care", "start": 5454.2, "end": 5460.28}
+{"id": "bAjBYEjeP6E-t5460.92", "text": "to not take a role in their own recovery and i i worry about that", "start": 5460.92, "end": 5467.16}
+{"id": "bAjBYEjeP6E-t5472.92", "text": "i'm pleased that we've positioned the position and we still have", "start": 5472.92, "end": 5477.0}
+{"id": "bAjBYEjeP6E-t5477.0", "text": "to submit from the beginning the sociologic", "start": 5477.0, "end": 5486.6}
+{"id": "bAjBYEjeP6E-t5486.6", "text": "the", "start": 5486.6, "end": 5498.6}
+{"id": "bAjBYEjeP6E-t5503.56", "text": "my question", "start": 5503.56, "end": 5504.360000000001}
+{"id": "bAjBYEjeP6E-t5505.240000000001", "text": "I that statement have any of you um been studying", "start": 5505.240000000001, "end": 5509.64}
+{"id": "bAjBYEjeP6E-t5509.64", "text": "abilities now there's anxiety anxiety may be identified as", "start": 5509.64, "end": 5519.72}
+{"id": "bAjBYEjeP6E-t5523.4800000000005", "text": "a good state if it's no guided correctly", "start": 5523.4800000000005, "end": 5526.68}
+{"id": "bAjBYEjeP6E-t5529.08", "text": "the person is facing something in society that is not right", "start": 5529.08, "end": 5533.0}
+{"id": "bAjBYEjeP6E-t5533.0", "text": "yeah", "start": 5533.0, "end": 5538.68}
+{"id": "bAjBYEjeP6E-t5539.72", "text": "again he is a symptom not necessarily it's a state it's not bad i mean we all know", "start": 5539.72, "end": 5546.2}
+{"id": "bAjBYEjeP6E-t5546.76", "text": "you know if you have a test to and you don't have enough anxiety to study for you you're", "start": 5546.76, "end": 5550.04}
+{"id": "bAjBYEjeP6E-t5550.04", "text": "gonna fail it's anxiety or adaptive parts of being human being you can't live with that exactly", "start": 5550.04, "end": 5565.0}
+{"id": "bAjBYEjeP6E-t5570.04", "text": "perhaps even", "start": 5570.04, "end": 5570.76}
+{"id": "bAjBYEjeP6E-t5570.76", "text": "and", "start": 5570.76, "end": 5578.04}
+{"id": "bAjBYEjeP6E-t5583.88", "text": "deal with illness in that context but", "start": 5583.88, "end": 5586.4400000000005}
+{"id": "bAjBYEjeP6E-t5586.44", "text": "when you have these symptoms coupled with some disability that's causing", "start": 5586.44, "end": 5596.839999999999}
+{"id": "bAjBYEjeP6E-t5600.919999999999", "text": "it somehow impacts ability to function what you need", "start": 5600.919999999999, "end": 5605.08}
+{"id": "bAjBYEjeP6E-t5606.12", "text": "ships work you know that these symptoms are being severe enough", "start": 5606.12, "end": 5611.48}
+{"id": "bAjBYEjeP6E-t5611.48", "text": "always been", "start": 5611.48, "end": 5617.32}
+{"id": "bAjBYEjeP6E-t5619.719999999999", "text": "in normal", "start": 5619.719999999999, "end": 5621.0}
+{"id": "bAjBYEjeP6E-t5629.08", "text": "grieving for one year after the loss of loved one every day in pre-op", "start": 5629.08, "end": 5632.919999999999}
+{"id": "bAjBYEjeP6E-t5632.92", "text": "they agree right with that person say it so there's always a point where you figure out when these", "start": 5632.92, "end": 5643.96}
+{"id": "bAjBYEjeP6E-t5643.96", "text": "symptoms are when you know that's when they become educated", "start": 5643.96, "end": 5652.12}
+{"id": "bAjBYEjeP6E-t5652.12", "text": "it's", "start": 5652.12, "end": 5658.44}
+{"id": "bAjBYEjeP6E-t5658.44", "text": "by case basis it can be very do but it's a bullet theory", "start": 5658.44, "end": 5663.0}
+{"id": "bAjBYEjeP6E-t5663.5599999999995", "text": "let's let's", "start": 5663.5599999999995, "end": 5664.68}
+{"id": "bAjBYEjeP6E-t5672.5199999999995", "text": "my name is", "start": 5672.5199999999995, "end": 5674.92}
+{"id": "bAjBYEjeP6E-t5674.92", "text": "I am interested", "start": 5674.92, "end": 5680.76}
+{"id": "bAjBYEjeP6E-t5680.76", "text": "I have a suggestion to me and I would like to have an answer to it", "start": 5680.76, "end": 5687.24}
+{"id": "bAjBYEjeP6E-t5691.32", "text": "David", "start": 5691.32, "end": 5695.32}
+{"id": "bAjBYEjeP6E-t5695.32", "text": "the man who can", "start": 5695.32, "end": 5702.599999999999}
+{"id": "bAjBYEjeP6E-t5705.32", "text": "obsessive compulsory disorder my question", "start": 5705.32, "end": 5709.32}
+{"id": "bAjBYEjeP6E-t5709.32", "text": "a statement here is that in the review of the book that I have Adam argues", "start": 5709.32, "end": 5724.12}
+{"id": "bAjBYEjeP6E-t5724.12", "text": "he is in favor of a more complex", "start": 5724.12, "end": 5740.04}
+{"id": "bAjBYEjeP6E-t5740.04", "text": "I suggest from my category I'll approach", "start": 5740.04, "end": 5750.12}
+{"id": "bAjBYEjeP6E-t5751.16", "text": "time mental illness which the category", "start": 5751.16, "end": 5755.16}
+{"id": "bAjBYEjeP6E-t5758.28", "text": "approach driven by the DSM thank you I'm gonna", "start": 5758.28, "end": 5763.08}
+{"id": "bAjBYEjeP6E-t5763.08", "text": "I was the driver when the preparation the", "start": 5763.08, "end": 5769.24}
+{"id": "bAjBYEjeP6E-t5773.24", "text": "approach the whole one of the", "start": 5773.24, "end": 5774.44}
+{"id": "bAjBYEjeP6E-t5775.48", "text": "I don't know what was just to move it", "start": 5775.48, "end": 5777.72}
+{"id": "bAjBYEjeP6E-t5779.08", "text": "anyone in the knows that the categorical approach is a fiction there's no hard boundary between", "start": 5779.08, "end": 5785.4}
+{"id": "bAjBYEjeP6E-t5786.44", "text": "any you know mild depression", "start": 5786.44, "end": 5788.2}
+{"id": "bAjBYEjeP6E-t5788.2", "text": "life", "start": 5788.2, "end": 5793.88}
+{"id": "bAjBYEjeP6E-t5799.8", "text": "not so medicine the rest of medicine is categorical and dementia people's", "start": 5799.8, "end": 5805.24}
+{"id": "bAjBYEjeP6E-t5807.24", "text": "a you have category so this tension between measuring and recognizing that there has to be", "start": 5807.24, "end": 5813.88}
+{"id": "bAjBYEjeP6E-t5813.88", "text": "a point where you go from a measurement to a category", "start": 5813.88, "end": 5819.8}
+{"id": "bAjBYEjeP6E-t5820.2", "text": "the DSM it's been people reified I think these boundaries in the book", "start": 5820.2, "end": 5823.96}
+{"id": "bAjBYEjeP6E-t5824.76", "text": "handed down from something not the high", "start": 5824.76, "end": 5827.96}
+{"id": "bAjBYEjeP6E-t5829.56", "text": "and and somehow they have some meaning to really shouldn't have so I've always here as a", "start": 5829.56, "end": 5836.2}
+{"id": "bAjBYEjeP6E-t5836.92", "text": "lifelong", "start": 5836.92, "end": 5837.56}
+{"id": "bAjBYEjeP6E-t5837.56", "text": "you know it's a thing with it so we're struggling with what happens to the", "start": 5837.56, "end": 5846.84}
+{"id": "bAjBYEjeP6E-t5846.84", "text": "cat and how they become real", "start": 5846.84, "end": 5848.4400000000005}
+{"id": "bAjBYEjeP6E-t5852.92", "text": "clinicians to practice because you wouldn't know", "start": 5852.92, "end": 5855.400000000001}
+{"id": "bAjBYEjeP6E-t5856.76", "text": "time to give medicine right now if you have five out of nine symptoms of depression", "start": 5856.76, "end": 5861.72}
+{"id": "bAjBYEjeP6E-t5862.280000000001", "text": "and you all the clinical trials would use that definition you could say well if my", "start": 5862.280000000001, "end": 5866.360000000001}
+{"id": "bAjBYEjeP6E-t5866.36", "text": "patient version of depression the one that was in the trial I don't know their", "start": 5866.36, "end": 5871.4}
+{"id": "bAjBYEjeP6E-t5871.4", "text": "probability of responding to this treatment is because that's what the study", "start": 5871.4, "end": 5875.16}
+{"id": "bAjBYEjeP6E-t5875.16", "text": "should be in the", "start": 5875.16, "end": 5877.32}
+{"id": "bAjBYEjeP6E-t5883.4", "text": "not enough for an illness", "start": 5883.4, "end": 5884.759999999999}
+{"id": "bAjBYEjeP6E-t5885.719999999999", "text": "boundaries are yes that you have to that's why it says at the front of the book", "start": 5885.719999999999, "end": 5890.28}
+{"id": "bAjBYEjeP6E-t5890.28", "text": "but", "start": 5890.28, "end": 5893.32}
+{"id": "bAjBYEjeP6E-t5893.32", "text": "go into training and see patients to be able to get the feel", "start": 5893.32, "end": 5896.44}
+{"id": "bAjBYEjeP6E-t5897.16", "text": "what they are", "start": 5897.16, "end": 5897.96}
+{"id": "bAjBYEjeP6E-t5897.96", "text": "but", "start": 5897.96, "end": 5898.12}
+{"id": "bAjBYEjeP6E-t5911.48", "text": "is they opened the door up to continuous revisions they realized that it was", "start": 5911.48, "end": 5915.8}
+{"id": "bAjBYEjeP6E-t5915.8", "text": "or to see years we're going to redo the whole book now they said that you know", "start": 5915.8, "end": 5921.08}
+{"id": "bAjBYEjeP6E-t5921.08", "text": "one of the reasons they did that it's very difficult to roll it in the electronic world", "start": 5921.08, "end": 5924.360000000001}
+{"id": "bAjBYEjeP6E-t5924.360000000001", "text": "the belief is you", "start": 5924.360000000001, "end": 5925.16}
+{"id": "bAjBYEjeP6E-t5927.8", "text": "but now there's actually a committee set up and anyone outside can make proposals now if you", "start": 5927.8, "end": 5933.56}
+{"id": "bAjBYEjeP6E-t5933.56", "text": "make a proposal you have to have the data to back it up but", "start": 5933.56, "end": 5935.72}
+{"id": "bAjBYEjeP6E-t5939.72", "text": "the other thing with", "start": 5939.72, "end": 5940.52}
+{"id": "bAjBYEjeP6E-t5940.52", "text": "the system it's great in theory and you know very critical of", "start": 5940.52, "end": 5947.8}
+{"id": "bAjBYEjeP6E-t5947.8", "text": "the", "start": 5947.8, "end": 5949.160000000001}
+{"id": "bAjBYEjeP6E-t5949.160000000001", "text": "have had issues", "start": 5949.160000000001, "end": 5950.120000000001}
+{"id": "bAjBYEjeP6E-t5951.320000000001", "text": "and this", "start": 5951.320000000001, "end": 5952.120000000001}
+{"id": "bAjBYEjeP6E-t5953.64", "text": "does something have it or not criteria but the dimensions are incredibly", "start": 5953.64, "end": 5958.52}
+{"id": "bAjBYEjeP6E-t5958.52", "text": "sort of a lot of", "start": 5958.52, "end": 5967.240000000001}
+{"id": "bAjBYEjeP6E-t5970.76", "text": "want to put a", "start": 5970.76, "end": 5971.320000000001}
+{"id": "bAjBYEjeP6E-t5975.88", "text": "controlled on", "start": 5975.88, "end": 5976.68}
+{"id": "bAjBYEjeP6E-t5977.96", "text": "here you don't but", "start": 5977.96, "end": 5978.92}
+{"id": "bAjBYEjeP6E-t5980.040000000001", "text": "systems that were created by a second", "start": 5980.040000000001, "end": 5981.96}
+{"id": "bAjBYEjeP6E-t5981.96", "text": "so we have their own professional state in all", "start": 5981.96, "end": 5985.400000000001}
+{"id": "bAjBYEjeP6E-t5985.4", "text": "so complicated that I can imagine anybody actually", "start": 5985.4, "end": 5989.24}
+{"id": "bAjBYEjeP6E-t5989.24", "text": "use these factor analyses with you know 20 different domains and if you're high in this", "start": 5989.24, "end": 5994.92}
+{"id": "bAjBYEjeP6E-t5994.92", "text": "it's like it's only on", "start": 5994.92, "end": 5997.24}
+{"id": "bAjBYEjeP6E-t5998.759999999999", "text": "yeah yeah", "start": 5998.759999999999, "end": 5999.719999999999}
+{"id": "bAjBYEjeP6E-t5999.719999999999", "text": "it's incredibly complex so it it's any more", "start": 5999.719999999999, "end": 6005.639999999999}
+{"id": "bAjBYEjeP6E-t6007.5599999999995", "text": "real it's not", "start": 6007.5599999999995, "end": 6008.36}
+{"id": "bAjBYEjeP6E-t6008.36", "text": "it's one set of problems", "start": 6008.36, "end": 6014.36}
+{"id": "bAjBYEjeP6E-t6018.92", "text": "thank you", "start": 6018.92, "end": 6019.48}
+{"id": "bAjBYEjeP6E-t6032.04", "text": "issue which", "start": 6032.04, "end": 6032.679999999999}
+{"id": "bAjBYEjeP6E-t6032.68", "text": "is", "start": 6032.68, "end": 6037.96}
+{"id": "bAjBYEjeP6E-t6035.56", "text": "some serves in general", "start": 6035.56, "end": 6039.8}
+{"id": "bAjBYEjeP6E-t6037.96", "text": "dimensional approaches", "start": 6037.96, "end": 6041.320000000001}
+{"id": "bAjBYEjeP6E-t6039.8", "text": "observe information", "start": 6039.8, "end": 6043.320000000001}
+{"id": "bAjBYEjeP6E-t6041.320000000001", "text": "categorical approaches discard", "start": 6041.320000000001, "end": 6046.68}
+{"id": "bAjBYEjeP6E-t6043.320000000001", "text": "information when you reduce multiple", "start": 6043.320000000001, "end": 6047.8}
+{"id": "bAjBYEjeP6E-t6046.68", "text": "dimensions and", "start": 6046.68, "end": 6052.12}
+{"id": "bAjBYEjeP6E-t6047.8", "text": "up", "start": 6047.8, "end": 6052.12}
+{"id": "bAjBYEjeP6E-t6054.6", "text": "willing to spend a lot of time", "start": 6054.6, "end": 6058.200000000001}
+{"id": "bAjBYEjeP6E-t6057.4800000000005", "text": "clinician", "start": 6057.4800000000005, "end": 6060.200000000001}
+{"id": "bAjBYEjeP6E-t6060.2", "text": "they have", "start": 6060.2, "end": 6066.04}
+{"id": "bAjBYEjeP6E-t6064.92", "text": "so then you might guess", "start": 6064.92, "end": 6065.96}
+{"id": "bAjBYEjeP6E-t6069.8", "text": "20 diagnoses and certainly not much", "start": 6069.8, "end": 6072.92}
+{"id": "bAjBYEjeP6E-t6079.639999999999", "text": "and there's an argument DSM is a", "start": 6079.639999999999, "end": 6082.12}
+{"id": "bAjBYEjeP6E-t6083.639999999999", "text": "free purpose", "start": 6083.639999999999, "end": 6084.36}
+{"id": "bAjBYEjeP6E-t6084.36", "text": "it says the first sentence of the introduction", "start": 6084.36, "end": 6089.639999999999}
+{"id": "bAjBYEjeP6E-t6089.639999999999", "text": "but the authors of DSM are largely not", "start": 6089.639999999999, "end": 6092.839999999999}
+{"id": "bAjBYEjeP6E-t6094.04", "text": "they're largely invested in primary loyl", "start": 6094.04, "end": 6100.28}
+{"id": "bAjBYEjeP6E-t6100.28", "text": "well", "start": 6100.28, "end": 6106.5199999999995}
+{"id": "bAjBYEjeP6E-t6106.5199999999995", "text": "well", "start": 6106.5199999999995, "end": 6108.5199999999995}
+{"id": "bAjBYEjeP6E-t6108.5199999999995", "text": "of the disorders lots of data but the", "start": 6108.5199999999995, "end": 6111.5599999999995}
+{"id": "bAjBYEjeP6E-t6111.5599999999995", "text": "dimensions are most complex so", "start": 6111.5599999999995, "end": 6115.639999999999}
+{"id": "bAjBYEjeP6E-t6117.24", "text": "the committee that was supposed to solve the problem came up with the", "start": 6117.24, "end": 6120.759999999999}
+{"id": "bAjBYEjeP6E-t6120.759999999999", "text": "dimensional system then the parent can", "start": 6120.759999999999, "end": 6124.36}
+{"id": "bAjBYEjeP6E-t6125.5599999999995", "text": "worried about it and extra committees were brought in to review it", "start": 6125.5599999999995, "end": 6129.96}
+{"id": "bAjBYEjeP6E-t6129.96", "text": "and decide about it and we ended up with both of you lose it", "start": 6129.96, "end": 6134.36}
+{"id": "bAjBYEjeP6E-t6134.36", "text": "if somebody was in treatment that was correlated with the dimensions", "start": 6134.36, "end": 6140.52}
+{"id": "bAjBYEjeP6E-t6140.52", "text": "dimensions would suddenly become very very popular", "start": 6140.52, "end": 6143.72}
+{"id": "bAjBYEjeP6E-t6143.72", "text": "yeah i agree with that", "start": 6143.72, "end": 6146.52}
+{"id": "bAjBYEjeP6E-t6147.16", "text": "thank you", "start": 6147.16, "end": 6147.64}
+{"id": "bAjBYEjeP6E-t6151.08", "text": "thank you very much for participating in this", "start": 6151.08, "end": 6154.04}
+{"id": "bAjBYEjeP6E-t6154.04", "text": "it's been very good to hear everybody's", "start": 6154.04, "end": 6156.76}
+{"id": "bAjBYEjeP6E-t6156.76", "text": "I just when you guys were referring to the", "start": 6156.76, "end": 6161.4800000000005}
+{"id": "bAjBYEjeP6E-t6162.52", "text": "issue that as", "start": 6162.52, "end": 6164.92}
+{"id": "bAjBYEjeP6E-t6167.24", "text": "the separation that occurred at the turn of the century", "start": 6167.24, "end": 6170.6}
+{"id": "bAjBYEjeP6E-t6171.72", "text": "with Freud versus Josper you know", "start": 6171.72, "end": 6174.84}
+{"id": "bAjBYEjeP6E-t6176.68", "text": "don't really", "start": 6176.68, "end": 6177.72}
+{"id": "bAjBYEjeP6E-t6177.72", "text": "I", "start": 6177.72, "end": 6179.72}
+{"id": "bAjBYEjeP6E-t6179.72", "text": "in the proper way I think that there was a group of people", "start": 6179.72, "end": 6184.52}
+{"id": "bAjBYEjeP6E-t6184.52", "text": "that were mainly in psychiatrists dealing with the population", "start": 6184.52, "end": 6190.200000000001}
+{"id": "bAjBYEjeP6E-t6190.200000000001", "text": "which was you know history", "start": 6190.200000000001, "end": 6193.8}
+{"id": "bAjBYEjeP6E-t6193.8", "text": "in the individual whereas Josper's and the German", "start": 6193.8, "end": 6198.68}
+{"id": "bAjBYEjeP6E-t6198.68", "text": "philosophical psychiatrist were looking at people who were much", "start": 6198.68, "end": 6204.4400000000005}
+{"id": "bAjBYEjeP6E-t6204.4400000000005", "text": "more profoundly dysfunctional they were", "start": 6204.4400000000005, "end": 6207.56}
+{"id": "bAjBYEjeP6E-t6207.56", "text": "in", "start": 6207.56, "end": 6209.56}
+{"id": "bAjBYEjeP6E-t6209.56", "text": "and", "start": 6209.56, "end": 6215.64}
+{"id": "bAjBYEjeP6E-t6215.64", "text": "of", "start": 6215.64, "end": 6217.8}
+{"id": "bAjBYEjeP6E-t6217.8", "text": "Josper's and his treaties had", "start": 6217.8, "end": 6222.04}
+{"id": "bAjBYEjeP6E-t6222.04", "text": "the", "start": 6222.04, "end": 6224.200000000001}
+{"id": "bAjBYEjeP6E-t6224.200000000001", "text": "meat", "start": 6224.200000000001, "end": 6226.200000000001}
+{"id": "bAjBYEjeP6E-t6226.200000000001", "text": "and the biological psychiatrist have seen some kind of biological basis", "start": 6226.200000000001, "end": 6233.56}
+{"id": "bAjBYEjeP6E-t6233.56", "text": "for", "start": 6233.56, "end": 6233.8}
+{"id": "bAjBYEjeP6E-t6233.8", "text": "whereas", "start": 6233.8, "end": 6237.8}
+{"id": "bAjBYEjeP6E-t6237.8", "text": "the outpatient psychiatrist predominantly were", "start": 6237.8, "end": 6241.8}
+{"id": "bAjBYEjeP6E-t6245.8", "text": "what is that that", "start": 6245.8, "end": 6247.8}
+{"id": "bAjBYEjeP6E-t6247.8", "text": "or that", "start": 6247.8, "end": 6249.8}
+{"id": "bAjBYEjeP6E-t6249.8", "text": "but continued for a century", "start": 6249.8, "end": 6253.8}
+{"id": "bAjBYEjeP6E-t6253.8", "text": "and in complete", "start": 6253.8, "end": 6257.8}
+{"id": "bAjBYEjeP6E-t6257.8", "text": "it's pretty clear that the first", "start": 6257.8, "end": 6261.8}
+{"id": "bAjBYEjeP6E-t6261.8", "text": "predominant", "start": 6261.8, "end": 6265.8}
+{"id": "bAjBYEjeP6E-t6265.8", "text": "based psychiatrist", "start": 6265.8, "end": 6269.8}
+{"id": "bAjBYEjeP6E-t6269.8", "text": "was introduced", "start": 6269.8, "end": 6271.8}
+{"id": "bAjBYEjeP6E-t6271.8", "text": "then", "start": 6271.8, "end": 6273.8}
+{"id": "bAjBYEjeP6E-t6273.8", "text": "it was", "start": 6273.8, "end": 6277.8}
+{"id": "bAjBYEjeP6E-t6281.8", "text": "a", "start": 6281.8, "end": 6285.8}
+{"id": "bAjBYEjeP6E-t6285.8", "text": "a", "start": 6285.8, "end": 6291.8}
+{"id": "bAjBYEjeP6E-t6291.8", "text": "biological markers were", "start": 6291.8, "end": 6297.8}
+{"id": "bAjBYEjeP6E-t6297.8", "text": "a", "start": 6297.8, "end": 6303.8}
+{"id": "bAjBYEjeP6E-t6303.8", "text": "a silent", "start": 6303.8, "end": 6307.8}
+{"id": "bAjBYEjeP6E-t6307.8", "text": "a patient", "start": 6307.8, "end": 6311.8}
+{"id": "bAjBYEjeP6E-t6311.8", "text": "biggest", "start": 6311.8, "end": 6319.8}
+{"id": "bAjBYEjeP6E-t6319.8", "text": "as if they are", "start": 6319.8, "end": 6321.8}
+{"id": "bAjBYEjeP6E-t6321.8", "text": "you know", "start": 6321.8, "end": 6325.8}
+{"id": "bAjBYEjeP6E-t6325.8", "text": "discipline these are", "start": 6325.8, "end": 6329.8}
+{"id": "bAjBYEjeP6E-t6329.8", "text": "a", "start": 6329.8, "end": 6333.8}
+{"id": "bAjBYEjeP6E-t6333.8", "text": "event and that's", "start": 6333.8, "end": 6335.8}
+{"id": "bAjBYEjeP6E-t6335.8", "text": "one of the leading misunderstandings", "start": 6335.8, "end": 6339.8}
+{"id": "bAjBYEjeP6E-t6339.8", "text": "because what's happened is that", "start": 6339.8, "end": 6343.8}
+{"id": "bAjBYEjeP6E-t6343.8", "text": "you know 100 genes", "start": 6343.8, "end": 6347.8}
+{"id": "bAjBYEjeP6E-t6347.8", "text": "about the brain is a", "start": 6347.8, "end": 6351.8}
+{"id": "bAjBYEjeP6E-t6355.8", "text": "psychiatry from a lot of the", "start": 6355.8, "end": 6359.8}
+{"id": "bAjBYEjeP6E-t6359.8", "text": "disciplines that deal with the brain", "start": 6359.8, "end": 6363.8}
+{"id": "bAjBYEjeP6E-t6363.8", "text": "which is much more linear", "start": 6363.8, "end": 6367.8}
+{"id": "bAjBYEjeP6E-t6367.8", "text": "and I mean of course they've expanded", "start": 6367.8, "end": 6371.8}
+{"id": "bAjBYEjeP6E-t6371.8", "text": "because at one point they were", "start": 6371.8, "end": 6375.8}
+{"id": "bAjBYEjeP6E-t6375.8", "text": "pointing out because they could find a lesion", "start": 6375.8, "end": 6379.8}
+{"id": "bAjBYEjeP6E-t6379.8", "text": "and they thought they were all going to be", "start": 6379.8, "end": 6383.8}
+{"id": "bAjBYEjeP6E-t6383.8", "text": "part of", "start": 6383.8, "end": 6387.8}
+{"id": "bAjBYEjeP6E-t6387.8", "text": "which was initially known for community", "start": 6387.8, "end": 6391.8}
+{"id": "bAjBYEjeP6E-t6391.8", "text": "and that", "start": 6391.8, "end": 6395.8}
+{"id": "bAjBYEjeP6E-t6395.8", "text": "that represents", "start": 6395.8, "end": 6399.8}
+{"id": "bAjBYEjeP6E-t6399.8", "text": "a hierarchical level", "start": 6399.8, "end": 6403.8}
+{"id": "bAjBYEjeP6E-t6403.8", "text": "that has its own code so", "start": 6403.8, "end": 6407.8}
+{"id": "bAjBYEjeP6E-t6407.8", "text": "answers", "start": 6407.8, "end": 6411.8}
+{"id": "bAjBYEjeP6E-t6411.8", "text": "that becomes misleading it's too linear for the majority of", "start": 6411.8, "end": 6415.8}
+{"id": "bAjBYEjeP6E-t6415.8", "text": "psychics", "start": 6415.8, "end": 6419.8}
+{"id": "bAjBYEjeP6E-t6419.8", "text": "that are based on genetics usually it's in the", "start": 6419.8, "end": 6423.8}
+{"id": "bAjBYEjeP6E-t6423.8", "text": "why there hasn't been more", "start": 6423.8, "end": 6427.8}
+{"id": "bAjBYEjeP6E-t6427.8", "text": "literature that has been able to prove is because", "start": 6427.8, "end": 6431.8}
+{"id": "bAjBYEjeP6E-t6431.8", "text": "of course linear mechanisms are much much", "start": 6431.8, "end": 6435.8}
+{"id": "bAjBYEjeP6E-t6435.8", "text": "easier to so now we start", "start": 6435.8, "end": 6439.8}
+{"id": "bAjBYEjeP6E-t6439.8", "text": "to understand that those people", "start": 6439.8, "end": 6443.8}
+{"id": "bAjBYEjeP6E-t6443.8", "text": "may not know the world is", "start": 6443.8, "end": 6447.8}
+{"id": "bAjBYEjeP6E-t6447.8", "text": "what is making them feel", "start": 6447.8, "end": 6451.8}
+{"id": "bAjBYEjeP6E-t6451.8", "text": "when they take those", "start": 6451.8, "end": 6455.8}
+{"id": "bAjBYEjeP6E-t6455.8", "text": "can you come to a closure because they have people waiting we have to stop", "start": 6455.8, "end": 6459.8}
+{"id": "bAjBYEjeP6E-t6459.8", "text": "but", "start": 6459.8, "end": 6463.8}
+{"id": "bAjBYEjeP6E-t6463.8", "text": "about online", "start": 6463.8, "end": 6467.8}
+{"id": "bAjBYEjeP6E-t6467.8", "text": "that's why you", "start": 6467.8, "end": 6473.8}
+{"id": "bAjBYEjeP6E-t6473.8", "text": "that's why you can't prove water", "start": 6473.8, "end": 6477.8}
+{"id": "bAjBYEjeP6E-t6477.8", "text": "those are the most important things", "start": 6477.8, "end": 6481.8}
+{"id": "bAjBYEjeP6E-t6481.8", "text": "that make life worth living", "start": 6481.8, "end": 6485.8}
+{"id": "bAjBYEjeP6E-t6485.8", "text": "those are the things that are of the mind and even", "start": 6485.8, "end": 6489.8}
+{"id": "bAjBYEjeP6E-t6489.8", "text": "the information", "start": 6489.8, "end": 6493.8}
+{"id": "bAjBYEjeP6E-t6493.8", "text": "when he said you know it was the father of information", "start": 6493.8, "end": 6497.8}
+{"id": "bAjBYEjeP6E-t6497.8", "text": "it's not really about information that he proved it was just", "start": 6497.8, "end": 6501.8}
+{"id": "bAjBYEjeP6E-t6501.8", "text": "a statistic", "start": 6501.8, "end": 6505.8}
+{"id": "bAjBYEjeP6E-t6505.8", "text": "of data", "start": 6505.8, "end": 6509.8}
+{"id": "bAjBYEjeP6E-t6509.8", "text": "I think you made your point", "start": 6509.8, "end": 6513.8}
+{"id": "bAjBYEjeP6E-t6513.8", "text": "Hi", "start": 6513.8, "end": 6517.8}
+{"id": "bAjBYEjeP6E-t6517.8", "text": "as a data person myself I wanted to offer up", "start": 6517.8, "end": 6521.8}
+{"id": "bAjBYEjeP6E-t6521.8", "text": "the results from a literature review out of the University of Colorado Denver", "start": 6521.8, "end": 6525.8}
+{"id": "bAjBYEjeP6E-t6525.8", "text": "School of Medicine they looked", "start": 6525.8, "end": 6529.8}
+{"id": "bAjBYEjeP6E-t6529.8", "text": "at analysis of all the published studies up until 2012", "start": 6529.8, "end": 6533.8}
+{"id": "bAjBYEjeP6E-t6533.8", "text": "on antidepressant use versus the use of psychodynamic psychotherapy", "start": 6533.8, "end": 6537.8}
+{"id": "bAjBYEjeP6E-t6537.8", "text": "and what they found was that the effect size", "start": 6537.8, "end": 6541.8}
+{"id": "bAjBYEjeP6E-t6541.8", "text": "and there were 74 studies on the use of antidepressants alone was", "start": 6541.8, "end": 6545.8}
+{"id": "bAjBYEjeP6E-t6545.8", "text": "0.3 which means about three standard deviations between the control group and the", "start": 6545.8, "end": 6549.8}
+{"id": "bAjBYEjeP6E-t6549.8", "text": "intervention group that received antidepressants and when they", "start": 6549.8, "end": 6553.8}
+{"id": "bAjBYEjeP6E-t6553.8", "text": "looked at studies where they had control groups versus patients that", "start": 6553.8, "end": 6557.8}
+{"id": "bAjBYEjeP6E-t6557.8", "text": "had received psychodynamics that could be the average effect", "start": 6557.8, "end": 6561.8}
+{"id": "bAjBYEjeP6E-t6561.8", "text": "understanding", "start": 6561.8, "end": 6565.8}
+{"id": "bAjBYEjeP6E-t6565.8", "text": "it seems that there's something about establishing a", "start": 6565.8, "end": 6569.8}
+{"id": "bAjBYEjeP6E-t6569.8", "text": "science or a relationship with the system on expressing feelings", "start": 6569.8, "end": 6573.8}
+{"id": "bAjBYEjeP6E-t6573.8", "text": "things are established in the treatment patients", "start": 6573.8, "end": 6589.8}
+{"id": "bAjBYEjeP6E-t6603.8", "text": "Cancer, or myocardial infarction, or tuberculosis, or dentistry, or dentistry, right?", "start": 6603.8, "end": 6625.8}
+{"id": "bAjBYEjeP6E-t6625.8", "text": "We've been horrified. That's important.", "start": 6625.8, "end": 6629.8}
+{"id": "bAjBYEjeP6E-t6629.8", "text": "There are different treatments. There are several types of psychotherapy", "start": 6629.8, "end": 6635.8}
+{"id": "bAjBYEjeP6E-t6635.8", "text": "cognitive behavior therapies very popular. Dynamic therapy is the beloved of", "start": 6635.8, "end": 6641.8}
+{"id": "bAjBYEjeP6E-t6641.8", "text": "dynamically oriented psychiatrists, pharmacotherapy.", "start": 6641.8, "end": 6645.8}
+{"id": "bAjBYEjeP6E-t6645.8", "text": "All the treatments seem to have", "start": 6645.8, "end": 6649.8}
+{"id": "bAjBYEjeP6E-t6649.8", "text": "a order of magnitude similar effect to mild to moderate depression.", "start": 6649.8, "end": 6655.8}
+{"id": "bAjBYEjeP6E-t6655.8", "text": "One reading is that with severe depression, the pharmacotherapy", "start": 6655.8, "end": 6659.8}
+{"id": "bAjBYEjeP6E-t6659.8", "text": "shows an advantage but even more striking, you don't even mention it,", "start": 6659.8, "end": 6663.8}
+{"id": "bAjBYEjeP6E-t6663.8", "text": "the most effective treatment for severe depression is electroconvulsive", "start": 6663.8, "end": 6667.8}
+{"id": "bAjBYEjeP6E-t6667.8", "text": "therapy. There's a huge amount of data on that. It's not even in your", "start": 6667.8, "end": 6671.8}
+{"id": "bAjBYEjeP6E-t6671.8", "text": "survey. But again, more important", "start": 6671.8, "end": 6675.8}
+{"id": "bAjBYEjeP6E-t6675.8", "text": "I think the average", "start": 6675.8, "end": 6685.8}
+{"id": "bAjBYEjeP6E-t6685.8", "text": "range of depression is your well-depressed", "start": 6685.8, "end": 6689.8}
+{"id": "bAjBYEjeP6E-t6689.8", "text": "cover or your main need treatment and then you get better and then you're well again.", "start": 6689.8, "end": 6695.8}
+{"id": "bAjBYEjeP6E-t6695.8", "text": "That's not the natural history of depression. The majority of depressed", "start": 6695.8, "end": 6699.8}
+{"id": "bAjBYEjeP6E-t6699.8", "text": "patients have a long term usually lifelong predisposition", "start": 6699.8, "end": 6703.8}
+{"id": "bAjBYEjeP6E-t6703.8", "text": "or vulnerability to depression and they have more than one", "start": 6703.8, "end": 6707.8}
+{"id": "bAjBYEjeP6E-t6707.8", "text": "episode and therefore an important goal of the treatment is to modify", "start": 6707.8, "end": 6711.8}
+{"id": "bAjBYEjeP6E-t6711.8", "text": "that vulnerability and the likelihood of subsequent episodes.", "start": 6711.8, "end": 6715.8}
+{"id": "bAjBYEjeP6E-t6715.8", "text": "We've been dramatically affected in that with bipolar disease", "start": 6715.8, "end": 6719.8}
+{"id": "bAjBYEjeP6E-t6719.8", "text": "but that's a small amount of total depression. It's not", "start": 6719.8, "end": 6723.8}
+{"id": "bAjBYEjeP6E-t6723.8", "text": "quite clear how effective we are", "start": 6723.8, "end": 6727.8}
+{"id": "bAjBYEjeP6E-t6727.8", "text": "long term.", "start": 6727.8, "end": 6731.8}
+{"id": "bAjBYEjeP6E-t6731.8", "text": "That if you continue the treatment indefinitely, it continues to work", "start": 6731.8, "end": 6735.8}
+{"id": "bAjBYEjeP6E-t6735.8", "text": "but no patient continues treatment indefinitely.", "start": 6735.8, "end": 6739.8}
+{"id": "bAjBYEjeP6E-t6739.8", "text": "Pathologic transfer to their therapist", "start": 6739.8, "end": 6743.8}
+{"id": "bAjBYEjeP6E-t6743.8", "text": "so we have a problem you want me to end.", "start": 6743.8, "end": 6747.8}
+{"id": "bAjBYEjeP6E-t6747.8", "text": "We have a problem.", "start": 6747.8, "end": 6751.8}
+{"id": "bAjBYEjeP6E-t6751.8", "text": "A blind though is...", "start": 6751.8, "end": 6771.8}
+{"id": "bAjBYEjeP6E-t6771.8", "text": "that the drugs are effective. Take the drugs first. In fact", "start": 6771.8, "end": 6775.8}
+{"id": "bAjBYEjeP6E-t6775.8", "text": "the best drugs we have help about one third", "start": 6775.8, "end": 6779.8}
+{"id": "bAjBYEjeP6E-t6779.8", "text": "of the patients who take them. That's not widely recognized.", "start": 6779.8, "end": 6783.8}
+{"id": "bAjBYEjeP6E-t6783.8", "text": "Partly because the pharmaceutical industry doesn't", "start": 6783.8, "end": 6787.8}
+{"id": "bAjBYEjeP6E-t6787.8", "text": "advertise it that way. They'll tell you two-thirds of the", "start": 6787.8, "end": 6791.8}
+{"id": "bAjBYEjeP6E-t6791.8", "text": "patients who take the drugs get better which is true but", "start": 6791.8, "end": 6795.8}
+{"id": "bAjBYEjeP6E-t6795.8", "text": "with a placebo, one-third of the", "start": 6795.8, "end": 6797.8}
+{"id": "bAjBYEjeP6E-t6797.8", "text": "logic of efficacy, our best pharmacological treatments", "start": 6797.8, "end": 6801.8}
+{"id": "bAjBYEjeP6E-t6801.8", "text": "affects one-third of the people who take the treatment.", "start": 6801.8, "end": 6805.8}
+{"id": "bAjBYEjeP6E-t6805.8", "text": "The same might be true over psychotherapy in terms of", "start": 6805.8, "end": 6809.8}
+{"id": "bAjBYEjeP6E-t6809.8", "text": "treating depression. If you look on your face you don't like that idea.", "start": 6809.8, "end": 6813.8}
+{"id": "bAjBYEjeP6E-t6813.8", "text": "I'm trying to know the multiple studies on the use of psychothermology", "start": 6813.8, "end": 6817.8}
+{"id": "bAjBYEjeP6E-t6817.8", "text": "versus psychotherapy for some to come blind.", "start": 6817.8, "end": 6821.8}
+{"id": "bAjBYEjeP6E-t6821.8", "text": "As my understanding, I have not seen any literature with psychothermology", "start": 6821.8, "end": 6825.8}
+{"id": "bAjBYEjeP6E-t6825.8", "text": "but more on the better outcomes that I've done.", "start": 6825.8, "end": 6829.8}
+{"id": "bAjBYEjeP6E-t6829.8", "text": "I'm looking for R&D, the education program.", "start": 6829.8, "end": 6833.8}
+{"id": "bAjBYEjeP6E-t6833.8", "text": "I'll be quick. I'm interested to know what the panelists think about the future.", "start": 6833.8, "end": 6837.8}
+{"id": "bAjBYEjeP6E-t6837.8", "text": "Oh, for psychiatric treatment by hallucinogenics, specifically", "start": 6837.8, "end": 6841.8}
+{"id": "bAjBYEjeP6E-t6841.8", "text": "psilocybin and chemin.", "start": 6841.8, "end": 6845.8}
+{"id": "bAjBYEjeP6E-t6845.8", "text": "Interested to know what the state of the situation is now", "start": 6845.8, "end": 6849.8}
+{"id": "bAjBYEjeP6E-t6849.8", "text": "and what the prognosis is.", "start": 6849.8, "end": 6853.8}
+{"id": "bAjBYEjeP6E-t6853.8", "text": "I'm interested to know what the state of", "start": 6853.8, "end": 6857.8}
+{"id": "bAjBYEjeP6E-t6857.8", "text": "the situation is now and what the", "start": 6857.8, "end": 6861.8}
+{"id": "bAjBYEjeP6E-t6861.8", "text": "prognosis is for future research and", "start": 6861.8, "end": 6865.8}
+{"id": "bAjBYEjeP6E-t6865.8", "text": "application. It's still pretty early.", "start": 6865.8, "end": 6869.8}
+{"id": "bAjBYEjeP6E-t6869.8", "text": "I think that studies are not. So certainly the ketamine story,", "start": 6869.8, "end": 6873.8}
+{"id": "bAjBYEjeP6E-t6873.8", "text": "ketamine is legal to give and easier to study.", "start": 6873.8, "end": 6877.8}
+{"id": "bAjBYEjeP6E-t6877.8", "text": "As with most things, it's got a little height in the beginning but as more studies are being done", "start": 6877.8, "end": 6881.8}
+{"id": "bAjBYEjeP6E-t6881.8", "text": "it's clearly solid evidence that people respond to ketamine", "start": 6881.8, "end": 6885.8}
+{"id": "bAjBYEjeP6E-t6885.8", "text": "and people who are treating resistant to depression and don't respond to anything else", "start": 6885.8, "end": 6889.8}
+{"id": "bAjBYEjeP6E-t6889.8", "text": "sometimes respond to ketamine. The problem with ketamine of course is it requires continuous", "start": 6889.8, "end": 6893.8}
+{"id": "bAjBYEjeP6E-t6893.8", "text": "treatment. And we don't know how often we can do this.", "start": 6893.8, "end": 6897.8}
+{"id": "bAjBYEjeP6E-t6897.8", "text": "There's a signal there that has been now established.", "start": 6897.8, "end": 6901.8}
+{"id": "bAjBYEjeP6E-t6901.8", "text": "It takes it will be better for one week but that's about as far as we know.", "start": 6901.8, "end": 6905.8}
+{"id": "bAjBYEjeP6E-t6905.8", "text": "As far as the rest of the psychedelics go, again there's a signal there as well.", "start": 6905.8, "end": 6909.8}
+{"id": "bAjBYEjeP6E-t6909.8", "text": "This is a sad thing because of what happened in the 60s and the overreaction to", "start": 6909.8, "end": 6913.8}
+{"id": "bAjBYEjeP6E-t6913.8", "text": "the misuse of psychedelics. These things have been out of the hands of", "start": 6913.8, "end": 6917.8}
+{"id": "bAjBYEjeP6E-t6917.8", "text": "the patients for 40-50 years. Now luckily it's coming back in and the", "start": 6917.8, "end": 6921.8}
+{"id": "bAjBYEjeP6E-t6921.8", "text": "studies are now coming in more and more. The clinical trials for all kinds of", "start": 6921.8, "end": 6925.8}
+{"id": "bAjBYEjeP6E-t6925.8", "text": "you know, originally cancer patients who were terminal because", "start": 6925.8, "end": 6929.8}
+{"id": "bAjBYEjeP6E-t6929.8", "text": "only people who could be given the meds, they were allowed and they got very good results", "start": 6929.8, "end": 6933.8}
+{"id": "bAjBYEjeP6E-t6933.8", "text": "and it's now they're trying for more and more application than the", "start": 6933.8, "end": 6937.8}
+{"id": "bAjBYEjeP6E-t6937.8", "text": "future of psychedelic treatment is", "start": 6937.8, "end": 6941.8}
+{"id": "bAjBYEjeP6E-t6941.8", "text": "very promising. But the problem is we don't want to start telling people they should go", "start": 6941.8, "end": 6945.8}
+{"id": "bAjBYEjeP6E-t6945.8", "text": "and buy mushrooms on the street and start taking it because there's so much that's", "start": 6945.8, "end": 6949.8}
+{"id": "bAjBYEjeP6E-t6949.8", "text": "unknown dosing and these things have bad effects even the studies", "start": 6949.8, "end": 6953.8}
+{"id": "bAjBYEjeP6E-t6953.8", "text": "that you still aside in there are certain things that are complicated.", "start": 6953.8, "end": 6959.8}
+{"id": "bAjBYEjeP6E-t6959.8", "text": "What is the placebo?", "start": 6959.8, "end": 6965.8}
+{"id": "bAjBYEjeP6E-t6965.8", "text": "That's a problem because you're right. People know I think I have", "start": 6965.8, "end": 6971.8}
+{"id": "bAjBYEjeP6E-t6971.8", "text": "something that has effects.", "start": 6971.8, "end": 6975.8}
+{"id": "bAjBYEjeP6E-t6983.8", "text": "I think we'll stop after this.", "start": 6983.8, "end": 6987.8}
+{"id": "bAjBYEjeP6E-t6987.8", "text": "There were two areas that were brought up. One was between medicine and psychiatry", "start": 6987.8, "end": 6991.8}
+{"id": "bAjBYEjeP6E-t6991.8", "text": "you know somatic medicine doctors and psychiatrists", "start": 6991.8, "end": 6995.8}
+{"id": "bAjBYEjeP6E-t6995.8", "text": "and the other congress was this between", "start": 6995.8, "end": 6999.8}
+{"id": "bAjBYEjeP6E-t6999.8", "text": "medicine and psychiatry.", "start": 6999.8, "end": 7003.8}
+{"id": "bAjBYEjeP6E-t7003.8", "text": "The other book was from my generation the way that patients is better", "start": 7003.8, "end": 7007.8}
+{"id": "bAjBYEjeP6E-t7007.8", "text": "than the other patients.", "start": 7007.8, "end": 7011.8}
+{"id": "bAjBYEjeP6E-t7011.8", "text": "But it seems to me that there's kind of been an irony in the course of my", "start": 7011.8, "end": 7015.8}
+{"id": "bAjBYEjeP6E-t7015.8", "text": "career as a psychiatrist where I watched medicine people", "start": 7015.8, "end": 7019.8}
+{"id": "bAjBYEjeP6E-t7019.8", "text": "very interested in narrative. So now with Columbia you can get a master's degree in", "start": 7019.8, "end": 7023.8}
+{"id": "bAjBYEjeP6E-t7023.8", "text": "medicine and the medical school courses.", "start": 7023.8, "end": 7029.8}
+{"id": "bAjBYEjeP6E-t7029.8", "text": "That's psychiatry.", "start": 7029.8, "end": 7033.8}
+{"id": "bAjBYEjeP6E-t7033.8", "text": "We have to be abdicated with great skills in the sense and it's funny to me", "start": 7033.8, "end": 7039.8}
+{"id": "bAjBYEjeP6E-t7039.8", "text": "that we're not the ones teaching narrative medicine to the generation of", "start": 7039.8, "end": 7043.8}
+{"id": "bAjBYEjeP6E-t7043.8", "text": "medical students.", "start": 7043.8, "end": 7047.8}
+{"id": "bAjBYEjeP6E-t7047.8", "text": "Almost universal myth", "start": 7047.8, "end": 7051.8}
+{"id": "bAjBYEjeP6E-t7051.8", "text": "that's untrue and is interesting.", "start": 7051.8, "end": 7055.8}
+{"id": "bAjBYEjeP6E-t7055.8", "text": "Of course it was not a psychiatrist. Freud was a neurologist", "start": 7055.8, "end": 7059.8}
+{"id": "bAjBYEjeP6E-t7059.8", "text": "who treated patients who ended up with", "start": 7059.8, "end": 7063.8}
+{"id": "bAjBYEjeP6E-t7063.8", "text": "the rest of the story. But the psychiatry", "start": 7063.8, "end": 7067.8}
+{"id": "bAjBYEjeP6E-t7067.8", "text": "grows out of general medicine. Neurology", "start": 7067.8, "end": 7071.8}
+{"id": "bAjBYEjeP6E-t7071.8", "text": "wasn't a specialty. Freud was seeing his patient", "start": 7071.8, "end": 7075.8}
+{"id": "bAjBYEjeP6E-t7075.8", "text": "outpatient with physical symptoms.", "start": 7075.8, "end": 7079.8}
+{"id": "bAjBYEjeP6E-t7079.8", "text": "The history", "start": 7079.8, "end": 7083.8}
+{"id": "bAjBYEjeP6E-t7083.8", "text": "of the sciences into its moving away", "start": 7083.8, "end": 7087.8}
+{"id": "bAjBYEjeP6E-t7087.8", "text": "from medicine and away from psychiatry.", "start": 7087.8, "end": 7091.8}
+{"id": "bAjBYEjeP6E-t7091.8", "text": "But in fact, my view on the", "start": 7091.8, "end": 7095.8}
+{"id": "bAjBYEjeP6E-t7095.8", "text": "political interview skills and patient recognition are most", "start": 7095.8, "end": 7099.8}
+{"id": "bAjBYEjeP6E-t7099.8", "text": "with not", "start": 7099.8, "end": 7103.8}
+{"id": "bAjBYEjeP6E-t7103.8", "text": "with collided patients.", "start": 7103.8, "end": 7111.8}
+{"id": "bAjBYEjeP6E-t7111.8", "text": "Who are supposed to learn the", "start": 7111.8, "end": 7117.8}
+{"id": "bAjBYEjeP6E-t7117.8", "text": "or used to be supposed to learn these things. Although the inpatient seriously", "start": 7117.8, "end": 7122.8}
+{"id": "bAjBYEjeP6E-t7122.8", "text": "mentally on population.", "start": 7122.8, "end": 7127.8}
+{"id": "bAjBYEjeP6E-t7127.8", "text": "Skittling or disease.", "start": 7127.8, "end": 7131.8}
+{"id": "bAjBYEjeP6E-t7131.8", "text": "Are probably the least", "start": 7131.8, "end": 7135.8}
+{"id": "bAjBYEjeP6E-t7135.8", "text": "people", "start": 7135.8, "end": 7139.8}
+{"id": "bAjBYEjeP6E-t7139.8", "text": "and people. They're much more important.", "start": 7139.8, "end": 7143.8}
+{"id": "bAjBYEjeP6E-t7143.8", "text": "Physically ill", "start": 7143.8, "end": 7149.8}
+{"id": "bAjBYEjeP6E-t7149.8", "text": "or", "start": 7149.8, "end": 7151.8}
+{"id": "bAjBYEjeP6E-t7151.8", "text": "not mentally ill", "start": 7151.8, "end": 7155.8}
+{"id": "bAjBYEjeP6E-t7155.8", "text": "but they", "start": 7155.8, "end": 7159.8}
+{"id": "bAjBYEjeP6E-t7159.8", "text": "are", "start": 7159.8, "end": 7166.8}
+{"id": "bAjBYEjeP6E-t7166.8", "text": "all stuff on an inpatient.", "start": 7166.8, "end": 7171.8}
+{"id": "bAjBYEjeP6E-t7171.8", "text": "Deafs, you know.", "start": 7171.8, "end": 7191.8}
+{"id": "bAjBYEjeP6E-t7191.8", "text": "Hospital.", "start": 7191.8, "end": 7195.8}
+{"id": "bAjBYEjeP6E-t7195.8", "text": "He's not taking his meds anymore", "start": 7195.8, "end": 7199.8}
+{"id": "bAjBYEjeP6E-t7199.8", "text": "after him.", "start": 7199.8, "end": 7203.8}
+{"id": "bAjBYEjeP6E-t7203.8", "text": "So there's a", "start": 7203.8, "end": 7207.8}
+{"id": "bAjBYEjeP6E-t7207.8", "text": "story. And it's funny at University of Michigan", "start": 7207.8, "end": 7211.8}
+{"id": "bAjBYEjeP6E-t7211.8", "text": "reinvented a medical humanities program.", "start": 7211.8, "end": 7215.8}
+{"id": "bAjBYEjeP6E-t7215.8", "text": "Because we say, yeah,", "start": 7215.8, "end": 7217.8}
+{"id": "bAjBYEjeP6E-t7217.8", "text": "our stuff, we need to", "start": 7217.8, "end": 7219.8}
+{"id": "bAjBYEjeP6E-t7219.8", "text": "do the same thing.", "start": 7219.8, "end": 7231.8}
+{"id": "bAjBYEjeP6E-t7231.8", "text": "I'm gonna", "start": 7231.8, "end": 7239.8}
+{"id": "bAjBYEjeP6E-t7239.8", "text": "and I'm gonna afford your medical student applying for psychiatry.", "start": 7239.8, "end": 7243.8}
+{"id": "bAjBYEjeP6E-t7243.8", "text": "So very interesting to talk. And I really thank you all for being here today.", "start": 7243.8, "end": 7247.8}
+{"id": "bAjBYEjeP6E-t7247.8", "text": "And when I visited the future and understanding all the neuroscience we're talking about", "start": 7247.8, "end": 7251.8}
+{"id": "bAjBYEjeP6E-t7251.8", "text": "immunology and more target therapies, nanobots, hallucinogens,", "start": 7251.8, "end": 7255.8}
+{"id": "bAjBYEjeP6E-t7255.8", "text": "all the neuro stimulation. Before I'm hearing from", "start": 7255.8, "end": 7259.8}
+{"id": "bAjBYEjeP6E-t7259.8", "text": "this is the future of psychiatry. It sounds more like reallocating resources, delivering care.", "start": 7259.8, "end": 7265.8}
+{"id": "bAjBYEjeP6E-t7265.8", "text": "Is my future of psychiatrists, are we going to see more of the acceleration of kind of the fancy new therapies,", "start": 7265.8, "end": 7270.8}
+{"id": "bAjBYEjeP6E-t7270.8", "text": "modalities? Or should we really be advocating for spending money where it's going to be", "start": 7270.8, "end": 7274.8}
+{"id": "bAjBYEjeP6E-t7274.8", "text": "both impactful things like housing or the early challenge", "start": 7274.8, "end": 7278.8}
+{"id": "bAjBYEjeP6E-t7278.8", "text": "of vengeance?", "start": 7278.8, "end": 7282.8}
+{"id": "bAjBYEjeP6E-t7282.8", "text": "I'll take a shot at this. So in five years after you finish your residency,", "start": 7282.8, "end": 7286.8}
+{"id": "bAjBYEjeP6E-t7286.8", "text": "you will only see the most ill patients.", "start": 7286.8, "end": 7290.8}
+{"id": "bAjBYEjeP6E-t7290.8", "text": "And then at some point, so that most of the other mild", "start": 7290.8, "end": 7294.8}
+{"id": "bAjBYEjeP6E-t7294.8", "text": "to moderate will hopefully be taken care of by primary care or some other.", "start": 7294.8, "end": 7298.8}
+{"id": "bAjBYEjeP6E-t7298.8", "text": "You will at some point realize that the treatment that your", "start": 7298.8, "end": 7302.8}
+{"id": "bAjBYEjeP6E-t7302.8", "text": "armamentarium you have is limited. Then you will go, I heard this talk about", "start": 7302.8, "end": 7306.8}
+{"id": "bAjBYEjeP6E-t7306.8", "text": "psilocybin. I got to do something for my patients.", "start": 7306.8, "end": 7310.8}
+{"id": "bAjBYEjeP6E-t7310.8", "text": "This is why I think there's such a great interest because we have a limited", "start": 7310.8, "end": 7314.8}
+{"id": "bAjBYEjeP6E-t7314.8", "text": "repertoire of what we can offer are very very ill patients.", "start": 7314.8, "end": 7318.8}
+{"id": "bAjBYEjeP6E-t7318.8", "text": "And we have a", "start": 7318.8, "end": 7320.8}
+{"id": "bAjBYEjeP6E-t7320.8", "text": "lot of work to do.", "start": 7320.8, "end": 7334.8}

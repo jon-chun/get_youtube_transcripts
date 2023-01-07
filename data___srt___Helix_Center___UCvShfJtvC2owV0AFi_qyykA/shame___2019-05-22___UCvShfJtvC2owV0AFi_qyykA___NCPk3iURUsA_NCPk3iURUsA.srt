@@ -1,0 +1,5976 @@
+1
+00:00:00,000 --> 00:00:04,840
+I'm Ed Nursecien, I'm Director of the Centre.
+
+2
+00:00:04,840 --> 00:00:07,880
+Today's program is on shame.
+
+3
+00:00:07,880 --> 00:00:13,240
+Before I introduce the participants, I should tell you that the next program in June is
+
+4
+00:00:13,240 --> 00:00:22,240
+on status, status, and then in September we have a program on a round table on lying,
+
+5
+00:00:22,240 --> 00:00:29,840
+and then we are working on other round tables, including on the suicide.
+
+6
+00:00:29,840 --> 00:00:39,440
+So, I'm going to be very brief with the introductions.
+
+7
+00:00:39,440 --> 00:00:46,040
+The full biography of the participants is on the website, but I have a printed version
+
+8
+00:00:46,040 --> 00:00:52,640
+here that I can send a round and you can just pass it a round if you want.
+
+9
+00:00:52,640 --> 00:00:59,040
+Joseph Adamson is Professor Emeritus of English from McMaster University.
+
+10
+00:00:59,040 --> 00:01:04,920
+Richard Schweider is the Harold Higgins Swift Distinguished Service Professor, Department
+
+11
+00:01:04,920 --> 00:01:10,880
+of Comparative Human Development University of Chicago.
+
+12
+00:01:10,880 --> 00:01:17,000
+Michael Lewis is the University Distinguished Professor of Pediatrics and Psychiatry, Robert
+
+13
+00:01:17,000 --> 00:01:19,640
+Wood Johnson Medical School.
+
+14
+00:01:19,640 --> 00:01:26,200
+The program was suggested to me by Cathy O'Neill, who is there, and she is a mathematician
+
+15
+00:01:26,200 --> 00:01:29,440
+and founder of ORCAA.
+
+16
+00:01:29,440 --> 00:01:32,040
+So open for you to start.
+
+17
+00:01:32,040 --> 00:01:35,560
+Well, thank you guys so much for coming.
+
+18
+00:01:35,560 --> 00:01:38,080
+Can everyone hear me?
+
+19
+00:01:38,080 --> 00:01:40,920
+I think it's very important to speak loudly and clearly.
+
+20
+00:01:40,920 --> 00:01:45,400
+And I'm going to be kind of like the dumbest person here because I am a mathematician and
+
+21
+00:01:45,400 --> 00:01:47,080
+an author and a data scientist.
+
+22
+00:01:47,080 --> 00:01:53,520
+I wrote a book about how data science is fucking up democracy, and then I decided to
+
+23
+00:01:53,520 --> 00:01:58,680
+write another book about shame, and I have really no right to do so.
+
+24
+00:01:58,680 --> 00:02:02,600
+And I'm so grateful for these distinguished professors to come tell me what I've got
+
+25
+00:02:02,600 --> 00:02:04,560
+it wrong about it.
+
+26
+00:02:04,560 --> 00:02:07,920
+So I was just hoping that we could start by talking about what we mean by shame, the
+
+27
+00:02:07,920 --> 00:02:15,800
+definition, and then I would love to jump in and say all the bad ideas I have about
+
+28
+00:02:15,800 --> 00:02:18,480
+it so I could be corrected.
+
+29
+00:02:18,480 --> 00:02:25,600
+But maybe we'll just start by, if you guys are into it, talk about what we mean by shame.
+
+30
+00:02:25,600 --> 00:02:31,120
+And for me, it's probably the best to say that I think of shame as something I am rather
+
+31
+00:02:31,120 --> 00:02:32,720
+than something I did.
+
+32
+00:02:32,720 --> 00:02:35,400
+So it's not guilt, guilt is something I feel bad about.
+
+33
+00:02:35,400 --> 00:02:39,400
+I could apologize and it would be over, potentially.
+
+34
+00:02:39,400 --> 00:02:45,240
+Shame is something that is sort of a deeper meaning about my worthiness and my worthy
+
+35
+00:02:45,240 --> 00:02:46,800
+of something.
+
+36
+00:02:46,800 --> 00:02:53,280
+So for me, the sort of deep experience of shame probably came from my parents fat-shaming
+
+37
+00:02:53,280 --> 00:02:54,680
+me.
+
+38
+00:02:54,680 --> 00:03:00,120
+For years and years, I was told I was unattractive, would never get married, would never be worthy
+
+39
+00:03:00,120 --> 00:03:02,600
+of attention from men.
+
+40
+00:03:02,600 --> 00:03:08,160
+And that was sort of my first sort of inhabiting of shame, which I think of, I sort of think
+
+41
+00:03:08,160 --> 00:03:11,560
+of there as being a sort of four stages of shame.
+
+42
+00:03:11,560 --> 00:03:16,760
+The first stage is just inhabiting shame, feeling ashamed on a daily basis.
+
+43
+00:03:16,760 --> 00:03:20,160
+It's not always terribly shame to like sometimes worse than others.
+
+44
+00:03:20,160 --> 00:03:23,000
+But just sort of feeling, yes, I am unworthy.
+
+45
+00:03:23,000 --> 00:03:25,120
+That is inhabiting shame, the first stage.
+
+46
+00:03:25,120 --> 00:03:31,360
+The second stage happened when I was a teenager and I met people who didn't mind my body and
+
+47
+00:03:31,360 --> 00:03:34,720
+thought actually I was attractive.
+
+48
+00:03:34,720 --> 00:03:39,760
+And sort of like a different context, a different group of people around me that didn't have
+
+49
+00:03:39,760 --> 00:03:41,880
+the norm that I was unattractive.
+
+50
+00:03:41,880 --> 00:03:46,800
+And I went back to my family and to my high school friends and they shamed me again for
+
+51
+00:03:46,800 --> 00:03:48,440
+my body.
+
+52
+00:03:48,440 --> 00:03:53,640
+It provoked a different kind of experience for me, which I call outrage, outrage and
+
+53
+00:03:53,640 --> 00:03:54,640
+denial.
+
+54
+00:03:54,640 --> 00:03:55,880
+I was outraged by that.
+
+55
+00:03:55,880 --> 00:03:58,240
+I was like, I don't deserve that.
+
+56
+00:03:58,240 --> 00:04:00,040
+And yet it did make me feel ashamed.
+
+57
+00:04:00,040 --> 00:04:03,880
+So it sort of both pushed me back into stage one and also gave me this new experience of
+
+58
+00:04:03,880 --> 00:04:04,880
+stage two.
+
+59
+00:04:04,880 --> 00:04:11,320
+And I'll just briefly say for me, the stage three, which I call facing the facts, is
+
+60
+00:04:11,320 --> 00:04:17,480
+we came much later when I was an adult, when I had three children and I had all the sex
+
+61
+00:04:17,480 --> 00:04:19,040
+I wanted from all the men I wanted.
+
+62
+00:04:19,040 --> 00:04:20,880
+And I was like, wait, hold on a second.
+
+63
+00:04:20,880 --> 00:04:22,840
+They actually were lying to me.
+
+64
+00:04:22,840 --> 00:04:24,480
+It was wrong on its face.
+
+65
+00:04:24,480 --> 00:04:26,680
+The facts were wrong.
+
+66
+00:04:26,680 --> 00:04:31,760
+So that's called stage three for me, like facing my personal facts saying, wait a second,
+
+67
+00:04:31,760 --> 00:04:37,760
+turn off the noise, turn off the Weight Watchers, the industries trying to profit from me, the
+
+68
+00:04:37,760 --> 00:04:43,000
+people trying to maintain power because I'm very attractive and I'm not, ignore all that.
+
+69
+00:04:43,000 --> 00:04:44,840
+What are my actual facts at hand?
+
+70
+00:04:44,840 --> 00:04:47,520
+And that's what I call stage three facing the facts.
+
+71
+00:04:47,520 --> 00:04:54,080
+And then stage four for me is when I ultimately think, it's not about me anymore.
+
+72
+00:04:54,080 --> 00:04:59,520
+It's about saying what the what the heck are we doing to people, to children, by shaming
+
+73
+00:04:59,520 --> 00:05:01,160
+them for their bodies?
+
+74
+00:05:01,160 --> 00:05:03,040
+That's when you sort of see it from the outside.
+
+75
+00:05:03,040 --> 00:05:08,720
+And I'll stop there because I've already provoked, I'm sure you guys have all such
+
+76
+00:05:08,720 --> 00:05:10,360
+a yeah, go.
+
+77
+00:05:10,360 --> 00:05:13,240
+Can everyone hear me with this device on?
+
+78
+00:05:13,240 --> 00:05:16,960
+Well let me try a definition that I think overlaps with yours and then I'd like to put
+
+79
+00:05:16,960 --> 00:05:20,400
+out a proposition and give an illustration.
+
+80
+00:05:20,400 --> 00:05:25,800
+And I also think we're going to have to introduce different kinds of societies because your
+
+81
+00:05:25,800 --> 00:05:30,760
+description of your experience and relationship to it, I think comes from a particular kind
+
+82
+00:05:30,760 --> 00:05:38,680
+of subculture in which creative individualism, liberation and a big focus on self is privileged
+
+83
+00:05:38,680 --> 00:05:41,880
+over a lot of other ways of thinking about society.
+
+84
+00:05:41,880 --> 00:05:48,360
+I take it your parents were actually trying to instruct you in success and status and
+
+85
+00:05:48,360 --> 00:05:51,680
+the norms of society when they were doing that.
+
+86
+00:05:51,680 --> 00:05:56,680
+And the capacity to actually reject it, it seems to me a separate issue from analysis
+
+87
+00:05:56,680 --> 00:05:57,680
+of shame per se.
+
+88
+00:05:57,680 --> 00:06:05,480
+I would say shame is something like the fear of being seen as defective by others and it
+
+89
+00:06:05,480 --> 00:06:10,400
+can take many variations and what the defects are can vary.
+
+90
+00:06:10,400 --> 00:06:16,840
+I want to propose that shame and perhaps embarrassment are more powerful motivators of behavior
+
+91
+00:06:16,840 --> 00:06:18,960
+than the fear of death.
+
+92
+00:06:18,960 --> 00:06:24,280
+And the example I would give would be let's say, you know, if you go back to 1889, there
+
+93
+00:06:24,280 --> 00:06:30,800
+were the Zulu wars in South Africa and the British had machine guns and knew how to fire
+
+94
+00:06:30,800 --> 00:06:34,320
+rifles and they killed a lot of Zulu's.
+
+95
+00:06:34,320 --> 00:06:39,040
+But those Zulu's who went on and fought them for six months would start with a group of
+
+96
+00:06:39,040 --> 00:06:42,360
+five buddies in a village.
+
+97
+00:06:42,360 --> 00:06:44,880
+They would create a bond between themselves.
+
+98
+00:06:44,880 --> 00:06:49,760
+They actually would vomit into a pit, put the vomit, the collective vomit in a gourd which
+
+99
+00:06:49,760 --> 00:06:56,880
+each of them wore around their necks and would run in beautiful coordinated ways into battle
+
+100
+00:06:56,880 --> 00:07:00,880
+fifteen miles away to shore death.
+
+101
+00:07:00,880 --> 00:07:05,520
+They knew they were going to be killed and the machine guns were there and mowed them
+
+102
+00:07:05,520 --> 00:07:06,520
+down.
+
+103
+00:07:06,520 --> 00:07:12,760
+Gallipoli is another example in which I think the fear of shame or not showing courage or
+
+104
+00:07:12,760 --> 00:07:16,560
+not being there with your buddies is more powerful than the fear of death.
+
+105
+00:07:16,560 --> 00:07:21,040
+There are lots of social situations of course in which shaming is extremely powerful.
+
+106
+00:07:21,040 --> 00:07:26,400
+Lois Peake who has studied preschools in Japan for example describes the classroom in a
+
+107
+00:07:26,400 --> 00:07:28,800
+you know four and five year olds in Japan.
+
+108
+00:07:28,800 --> 00:07:32,840
+The teacher walks in, the kids are sitting there and say, teacher we are ready to learn
+
+109
+00:07:32,840 --> 00:07:38,320
+mathematics and the teacher could look around and say, but so and so doesn't have his book
+
+110
+00:07:38,320 --> 00:07:39,640
+with him today.
+
+111
+00:07:39,640 --> 00:07:42,360
+No one can learn mathematics today.
+
+112
+00:07:42,360 --> 00:07:46,760
+And that night the mother or parents of that kid who didn't bring his book are going to
+
+113
+00:07:46,760 --> 00:07:53,720
+hear from every other mother around and be powerfully shamed into making sure that they
+
+114
+00:07:53,720 --> 00:07:55,680
+bring that book to school.
+
+115
+00:07:55,680 --> 00:08:00,840
+And of course this is one of the ways in which the social order is carried forward.
+
+116
+00:08:00,840 --> 00:08:02,160
+People have a sense of shame.
+
+117
+00:08:02,160 --> 00:08:05,000
+We don't want someone to be shameless.
+
+118
+00:08:05,000 --> 00:08:13,200
+In fact in the community I work in in India which is an orthodox Hindu temple town to be
+
+119
+00:08:13,200 --> 00:08:20,200
+full of shame is to have propriety to be civilized to understand the rules.
+
+120
+00:08:20,200 --> 00:08:28,160
+It's an extremely powerful and positive kind of cultivation of self restraint for example
+
+121
+00:08:28,160 --> 00:08:34,240
+and an understanding of the state instructors that are there and a willingness to play the
+
+122
+00:08:34,240 --> 00:08:41,280
+part within this choreography of a hierarchical interrelated set of statuses.
+
+123
+00:08:41,280 --> 00:08:45,920
+And you're going to hear about it if you start deviating from that.
+
+124
+00:08:45,920 --> 00:08:48,240
+But anyway that's my first pass.
+
+125
+00:08:48,240 --> 00:08:56,760
+Yeah I'm very struck by what Catherine is saying because I'm working on The Mill and
+
+126
+00:08:56,760 --> 00:08:58,640
+the Floss right, George Elliott.
+
+127
+00:08:58,640 --> 00:09:08,120
+There's a little girl focused on the story, the novel, and she's relentlessly shamed
+
+128
+00:09:08,120 --> 00:09:11,800
+a child because her complexion is the wrong color.
+
+129
+00:09:11,800 --> 00:09:14,040
+Her hair is too dark.
+
+130
+00:09:14,040 --> 00:09:16,440
+Her personality is too big.
+
+131
+00:09:16,440 --> 00:09:25,200
+I mean she has very intense emotions and strong attachments.
+
+132
+00:09:25,200 --> 00:09:29,840
+So she's breaking all the norms in that society.
+
+133
+00:09:29,840 --> 00:09:33,720
+Richard Rick was saying.
+
+134
+00:09:33,720 --> 00:09:39,240
+And it's become very crushing for her.
+
+135
+00:09:39,240 --> 00:09:45,280
+It's actually an amazing novel in terms of how shame works and how destructive it can
+
+136
+00:09:45,280 --> 00:09:46,280
+be.
+
+137
+00:09:46,280 --> 00:09:49,080
+Although it can be a very positive effect too.
+
+138
+00:09:49,080 --> 00:09:55,160
+It's a correct, it can be a correct situation.
+
+139
+00:09:55,160 --> 00:10:02,800
+And then her family has an economic downfall, social disgrace.
+
+140
+00:10:02,800 --> 00:10:06,920
+So it's a kind of piling on of shame.
+
+141
+00:10:06,920 --> 00:10:08,680
+Because she's a girl, she's restricted.
+
+142
+00:10:08,680 --> 00:10:14,760
+So she's constantly being shamed just for her gender.
+
+143
+00:10:14,760 --> 00:10:20,720
+The novel ends very tragically because she finally experiences that kind of outrage you're
+
+144
+00:10:20,720 --> 00:10:30,880
+talking about and acts on it impulsively and elopes with a young man who is, you know,
+
+145
+00:10:30,880 --> 00:10:32,720
+she's from a lower class.
+
+146
+00:10:32,720 --> 00:10:42,280
+She elopes with a higher class gentleman and basically the idea she disgraces her family.
+
+147
+00:10:42,280 --> 00:10:43,360
+She's ostracized.
+
+148
+00:10:43,360 --> 00:10:48,960
+She can find no way of getting out of this impasse in her society and the novel ends
+
+149
+00:10:48,960 --> 00:10:50,680
+quite tragically.
+
+150
+00:10:50,680 --> 00:10:58,520
+But there are more positive versions of that story in Elliot too where it is a motivator,
+
+151
+00:10:58,520 --> 00:11:06,880
+very strong motivator for what Sylvan Tompkins calls, you know, restoring the good scene.
+
+152
+00:11:06,880 --> 00:11:16,080
+I find his work quite interesting because he sees it as the least punishing of the negative
+
+153
+00:11:16,080 --> 00:11:22,640
+effects as long as it's not magnified because it, you know, inherent in it is a desire to
+
+154
+00:11:22,640 --> 00:11:27,960
+get back to those good feelings, though that there's sort of positive feelings in the positive
+
+155
+00:11:27,960 --> 00:11:29,520
+scene.
+
+156
+00:11:29,520 --> 00:11:37,520
+So it could be a remarkable motivating force in human life.
+
+157
+00:11:37,520 --> 00:11:45,360
+I think the real problem is when it becomes toxic, when it's relentless and magnified
+
+158
+00:11:45,360 --> 00:11:52,400
+when someone's growing up, then it becomes problematic because you internalize it and
+
+159
+00:11:52,400 --> 00:11:59,720
+it's very difficult to break that internalization and to find a new way to be.
+
+160
+00:11:59,720 --> 00:12:01,640
+So it struck me very much.
+
+161
+00:12:01,640 --> 00:12:03,760
+You're the story you were telling there.
+
+162
+00:12:03,760 --> 00:12:05,560
+It's very much like you might enjoy.
+
+163
+00:12:05,560 --> 00:12:08,160
+I don't know if you've read it, Elliot, but I have.
+
+164
+00:12:08,160 --> 00:12:09,160
+Yes.
+
+165
+00:12:09,160 --> 00:12:10,160
+Yes.
+
+166
+00:12:10,160 --> 00:12:12,160
+You know what I'm saying?
+
+167
+00:12:12,160 --> 00:12:16,160
+Go ahead and go.
+
+168
+00:12:16,160 --> 00:12:17,960
+These are tough.
+
+169
+00:12:17,960 --> 00:12:25,680
+Well, it's, as Yogi Baris said, it's a deja vu all over again.
+
+170
+00:12:25,680 --> 00:12:33,200
+I was in this room perhaps 25 years ago and the topic was shame.
+
+171
+00:12:33,200 --> 00:12:38,400
+So it's a persistent and an important topic.
+
+172
+00:12:38,400 --> 00:12:43,120
+Well, because, as I mentioned earlier, I think we're becoming a massive shame culture and
+
+173
+00:12:43,120 --> 00:12:44,440
+that may be why it's back.
+
+174
+00:12:44,440 --> 00:12:47,080
+Well, it's certainly the case.
+
+175
+00:12:47,080 --> 00:12:56,240
+I had written a book called Shame the Exposed Self, which in the area of human development
+
+176
+00:12:56,240 --> 00:13:07,160
+and psychology and emotion, not a work and it was of both a synthesis and an attempt
+
+177
+00:13:07,160 --> 00:13:20,560
+to produce theory, a testable theory because the coinage that gets you ahead in my part
+
+178
+00:13:20,560 --> 00:13:25,960
+of the world is you need to subject this to proof.
+
+179
+00:13:25,960 --> 00:13:31,320
+It could be logical proof, but more in empirical.
+
+180
+00:13:31,320 --> 00:13:41,400
+But it's a topic, an emotional development, which interestingly enough, Darwin, I just
+
+181
+00:13:41,400 --> 00:13:51,640
+wrote a chapter for someone, on Darwin's treatment of shame, a new Sylvan well, and
+
+182
+00:13:51,640 --> 00:13:55,440
+we spent the year having lunch together.
+
+183
+00:13:55,440 --> 00:14:01,880
+Sylvan only ate two orders of coleslaw for the entire year.
+
+184
+00:14:01,880 --> 00:14:05,360
+And I also tell you another thing about Sylvan.
+
+185
+00:14:05,360 --> 00:14:15,600
+And Damian Uranian, the professor who goes to the horse races is Sylvan Tompkins, modeled
+
+186
+00:14:15,600 --> 00:14:16,600
+after him.
+
+187
+00:14:16,600 --> 00:14:27,080
+Sylvan was a wonderful creature, he wrote two of the most incomprehensible volumes that
+
+188
+00:14:27,080 --> 00:14:31,680
+had read, but it generated a lot of thought and interest.
+
+189
+00:14:31,680 --> 00:14:37,320
+But I really think if we want to, from an historical point of view, we should go back
+
+190
+00:14:37,320 --> 00:14:39,600
+to Darwin and read Darwin.
+
+191
+00:14:39,600 --> 00:14:47,520
+When King Close, the major problem Darwin had, is he could not create a theory of the
+
+192
+00:14:47,520 --> 00:14:49,880
+mind cognition.
+
+193
+00:14:49,880 --> 00:14:58,720
+So even in motion, he moved to the measurement of blushing, which he claimed was a good measure
+
+194
+00:14:58,720 --> 00:15:00,800
+of it.
+
+195
+00:15:00,800 --> 00:15:08,240
+Part of Darwin's problems, as we know, was he had trouble with a gradualism.
+
+196
+00:15:08,240 --> 00:15:14,080
+He had trouble going from animals, for primates, to humans.
+
+197
+00:15:14,080 --> 00:15:23,280
+And in fact, he toyed with, and it's in his time, was considered not inappropriate, but
+
+198
+00:15:23,280 --> 00:15:24,680
+we do.
+
+199
+00:15:24,680 --> 00:15:35,240
+Both people of color and people with an intellectual disability, he saw as a middle group between
+
+200
+00:15:35,240 --> 00:15:41,640
+great apes and humans, and he toyed with that idea about the emotions.
+
+201
+00:15:41,640 --> 00:15:48,100
+His major problem was he couldn't distinguish between what he called, and I call the self
+
+202
+00:15:48,100 --> 00:15:54,520
+conscious emotions, which we've touched on, which includes guilt, which includes embarrassment,
+
+203
+00:15:54,520 --> 00:15:57,520
+which includes shame.
+
+204
+00:15:57,520 --> 00:16:05,800
+And if we like, we could also include a hubris, which turns out to be, you know, in the English
+
+205
+00:16:05,800 --> 00:16:09,920
+language, we have one word for pride.
+
+206
+00:16:09,920 --> 00:16:17,920
+And that's pride goeth before the fall, which is a negative attribute, and proud of one's
+
+207
+00:16:17,920 --> 00:16:22,360
+accomplishments, which is consider a motivator and a positive.
+
+208
+00:16:22,360 --> 00:16:28,520
+We only have one word for it, so hubris is probably an attempt of mind to try to move
+
+209
+00:16:28,520 --> 00:16:33,800
+us away to have two words for the pride we're talking about.
+
+210
+00:16:33,800 --> 00:16:41,360
+It turns out that within the fact, on a Linux tradition, the confusion between shame and
+
+211
+00:16:41,360 --> 00:16:48,360
+guilt has been enormous, and it probably wasn't until the periods when I was writing
+
+212
+00:16:48,360 --> 00:16:55,600
+and several analysts for writing, Nathan said it was a derivative or a think up, but he
+
+213
+00:16:55,600 --> 00:17:02,880
+clearly was catching on to the idea that you had to make a distinction between them.
+
+214
+00:17:02,880 --> 00:17:13,480
+In the meeting that I attended, I sort of sat back, unusual for me, and let the analyst
+
+215
+00:17:13,480 --> 00:17:18,560
+talk about what they meant by shame and guilt.
+
+216
+00:17:18,560 --> 00:17:23,640
+And of course, if we did this with what we mean by shame, we wouldn't come up with many
+
+217
+00:17:23,640 --> 00:17:24,640
+definitions.
+
+218
+00:17:24,640 --> 00:17:31,920
+So we know it's important, and we know more over that there's we have to take culture
+
+219
+00:17:31,920 --> 00:17:33,920
+into account.
+
+220
+00:17:33,920 --> 00:17:42,760
+And Darwin had another idea, and he talked about things which he called action patterns.
+
+221
+00:17:42,760 --> 00:17:51,320
+So I'm going to make a ridiculous proposal to suggest that we don't learn shame.
+
+222
+00:17:51,320 --> 00:18:02,360
+Shame is an action pattern, and it's set off by the instigators or thoughts about the self.
+
+223
+00:18:02,360 --> 00:18:07,920
+And thoughts about the self are called self attribution, and that self attributions of
+
+224
+00:18:07,920 --> 00:18:15,520
+a certain kind are likely to lead to certain emotional states, motivators of action.
+
+225
+00:18:15,520 --> 00:18:28,400
+And I think Rick picked up that the idea of shame as an extremely negative emotion is
+
+226
+00:18:28,400 --> 00:18:29,400
+questionable.
+
+227
+00:18:29,400 --> 00:18:35,120
+Shame has clearly a very definite function.
+
+228
+00:18:35,120 --> 00:18:40,480
+Having one of the functions of shame is it stops you dead in your tracks.
+
+229
+00:18:40,480 --> 00:18:49,840
+You suddenly became suddenly developed a damaged self, and you have to do something about that.
+
+230
+00:18:49,840 --> 00:18:57,120
+Guilt on the other hand does not lead to a damaged self, it leads to reparation.
+
+231
+00:18:57,120 --> 00:19:03,560
+And so if you wanted to measure it, and since I'm interested in how it starts, I look at
+
+232
+00:19:03,560 --> 00:19:12,040
+the children, I can measure what a child does when they fail at something, they know they
+
+233
+00:19:12,040 --> 00:19:16,600
+failed, and there's some children who try to repair the failure.
+
+234
+00:19:16,600 --> 00:19:24,000
+There's some children who collapse, and there's some children who in fact don't show any of
+
+235
+00:19:24,000 --> 00:19:29,080
+these self negative self conscious like emotions.
+
+236
+00:19:29,080 --> 00:19:34,520
+And I want to tell you about the action pattern is specifically.
+
+237
+00:19:34,520 --> 00:19:36,320
+Okay, what is the action pattern?
+
+238
+00:19:36,320 --> 00:19:38,480
+I would have said it's hiding.
+
+239
+00:19:38,480 --> 00:19:43,200
+Well, I think I think you're absolutely.
+
+240
+00:19:43,200 --> 00:19:44,760
+But it's stopping.
+
+241
+00:19:44,760 --> 00:19:51,160
+And they're so been had some idea he called it interruption, but it's not interrupting
+
+242
+00:19:51,160 --> 00:20:00,320
+as the consequence of the act that's the consequence of the action pattern is to stop you hiding
+
+243
+00:20:00,320 --> 00:20:04,600
+is another way is part of the stopping.
+
+244
+00:20:04,600 --> 00:20:12,920
+So I would certainly agree that hiding we measure it by in fact the collapse of the body,
+
+245
+00:20:12,920 --> 00:20:17,000
+which is an attempt to hide the self.
+
+246
+00:20:17,000 --> 00:20:26,800
+The phenomenal logical experience is I want to die, hide and disappear or die.
+
+247
+00:20:26,800 --> 00:20:32,360
+So it is clearly a self inhibit.
+
+248
+00:20:32,360 --> 00:20:42,320
+But let me give you this example because one of the things that I discovered in 60 years
+
+249
+00:20:42,320 --> 00:20:49,680
+of studying this is it's very, very tricky.
+
+250
+00:20:49,680 --> 00:20:56,560
+And I've come to a much greater appreciation with people trying to think about it in a
+
+251
+00:20:56,560 --> 00:20:58,720
+more dynamic way.
+
+252
+00:20:58,720 --> 00:21:03,280
+When you're studying it, you have to stop it and look what just happened.
+
+253
+00:21:03,280 --> 00:21:11,720
+So let me give you a story that years ago a patient told me is driving a car.
+
+254
+00:21:11,720 --> 00:21:12,720
+It was at night.
+
+255
+00:21:12,720 --> 00:21:16,000
+It was on a lonely road.
+
+256
+00:21:16,000 --> 00:21:20,120
+It was raining and very hard to see anything.
+
+257
+00:21:20,120 --> 00:21:28,280
+And as he's driving, he hits a door, runs in front of him and he hits that door.
+
+258
+00:21:28,280 --> 00:21:35,440
+He slams on the brake and his first thoughts are what a horrible person I am.
+
+259
+00:21:35,440 --> 00:21:37,800
+I've just killed a dog.
+
+260
+00:21:37,800 --> 00:21:44,600
+Now he doesn't like to have that thought and the action pattern associated.
+
+261
+00:21:44,600 --> 00:21:48,040
+So he says, how do I get out of this?
+
+262
+00:21:48,040 --> 00:21:50,480
+I mean, it isn't safe, literally.
+
+263
+00:21:50,480 --> 00:22:00,360
+But very quickly, he decides, one, he's not the cause of this mishab, this failure.
+
+264
+00:22:00,360 --> 00:22:01,520
+Why?
+
+265
+00:22:01,520 --> 00:22:10,920
+Because it's raining and it's dark and moreover, the owner let the dog run wild.
+
+266
+00:22:10,920 --> 00:22:20,520
+So all of a sudden, he starts up with this powerful self-crunching action pattern.
+
+267
+00:22:20,520 --> 00:22:28,080
+But given the flexibility that we humans have, we can change our mind.
+
+268
+00:22:28,080 --> 00:22:31,440
+We can reinterpret it.
+
+269
+00:22:31,440 --> 00:22:35,240
+And indeed, what he does is he blames another.
+
+270
+00:22:35,240 --> 00:22:41,800
+Now the interesting thing, if it becomes a personality, namely, one constantly in a
+
+271
+00:22:41,800 --> 00:22:48,560
+situation in which the self might be injured.
+
+272
+00:22:48,560 --> 00:22:55,440
+Constantly, we interpret into other attributions.
+
+273
+00:22:55,440 --> 00:22:58,800
+Essentially, it's either not my fault.
+
+274
+00:22:58,800 --> 00:23:04,880
+By the way, males are much more likely to use it than females.
+
+275
+00:23:04,880 --> 00:23:07,240
+The attribution is it's not my fault.
+
+276
+00:23:07,240 --> 00:23:09,800
+I'm sorry, it's not my fault.
+
+277
+00:23:09,800 --> 00:23:17,560
+Females tend to use the attribution and is my fault more.
+
+278
+00:23:17,560 --> 00:23:29,360
+But the fact of the matter is that I think the example characterizes that in front of
+
+279
+00:23:29,360 --> 00:23:33,720
+us is what I call standards, rules, and goals.
+
+280
+00:23:33,720 --> 00:23:38,160
+These are cultural events that are taught.
+
+281
+00:23:38,160 --> 00:23:42,040
+These have no unique content.
+
+282
+00:23:42,040 --> 00:23:53,760
+However, when one has in the self attribution the capacity to think about oneself.
+
+283
+00:23:53,760 --> 00:23:57,920
+That's a whole other story on the development of that.
+
+284
+00:23:57,920 --> 00:24:08,680
+But having that capacity, you enter into a chain, a process, and depending on the outcome
+
+285
+00:24:08,680 --> 00:24:16,040
+of that process, you end up with the kind of action pattern that you're trying to describe.
+
+286
+00:24:16,040 --> 00:24:18,000
+So, let me stop.
+
+287
+00:24:18,000 --> 00:24:21,480
+I think this is going to be one of several cases where we're going to have to be very
+
+288
+00:24:21,480 --> 00:24:25,920
+clear about the boundary conditions we put about any generalizations we make.
+
+289
+00:24:25,920 --> 00:24:31,680
+Because the mode of control that you just described is not going to be readily available.
+
+290
+00:24:31,680 --> 00:24:36,920
+For example, in that Hindu temple town where I've been working for several decades, because
+
+291
+00:24:36,920 --> 00:24:42,120
+there's not going to be the capacity to blame others or to see yourself as a victim, the
+
+292
+00:24:42,120 --> 00:24:48,720
+reasoning is going to be you always reap what you sow in life.
+
+293
+00:24:48,720 --> 00:24:52,880
+And anything that happens is a consequence of your prior actions.
+
+294
+00:24:52,880 --> 00:24:55,560
+And you come into the world with spiritual debts.
+
+295
+00:24:55,560 --> 00:24:59,840
+And what you're doing constantly in life is trying to reduce the spiritual debts you
+
+296
+00:24:59,840 --> 00:25:04,120
+have because the more spiritual debts you have, the more likely you're going to be in the
+
+297
+00:25:04,120 --> 00:25:05,880
+kind of circumstance you describe.
+
+298
+00:25:05,880 --> 00:25:10,920
+The very fact that it was a rainy day and someone let their thing happen to you, why
+
+299
+00:25:10,920 --> 00:25:12,400
+did that happen to me?
+
+300
+00:25:12,400 --> 00:25:18,000
+It happened to me because of my past behavior and the spiritual debts that I bring in.
+
+301
+00:25:18,000 --> 00:25:24,000
+And so you're constantly trying to reduce those spiritual debts to various means that
+
+302
+00:25:24,000 --> 00:25:27,880
+are available to you that could be living a righteous life, could be eating the correct
+
+303
+00:25:27,880 --> 00:25:28,880
+food.
+
+304
+00:25:28,880 --> 00:25:34,560
+But in any case, this whole mode of causal analysis of which you say, I'm not responsible,
+
+305
+00:25:34,560 --> 00:25:36,960
+is not going to be available as a construal.
+
+306
+00:25:36,960 --> 00:25:41,360
+There's mostly many problems with what I've said.
+
+307
+00:25:41,360 --> 00:25:49,000
+One of them is a kind of a backward backtracking in cognitive science.
+
+308
+00:25:49,000 --> 00:25:51,040
+They've caught on to backtracking.
+
+309
+00:25:51,040 --> 00:25:57,120
+For those of you who don't know, a year ago, people wanted to discover how come an animal
+
+310
+00:25:57,120 --> 00:26:08,320
+eat something and 24 hours later get sick from it and has learned not to eat that thing.
+
+311
+00:26:08,320 --> 00:26:15,600
+And the argument is that we can move time, space, and an interesting way, forwards and
+
+312
+00:26:15,600 --> 00:26:23,040
+backwards, our associative systems allow us to move backwards and forwards in time.
+
+313
+00:26:23,040 --> 00:26:29,080
+So it is absolutely the case.
+
+314
+00:26:29,080 --> 00:26:36,840
+If we could talk about religions as well, I want to step up a little bit because as
+
+315
+00:26:36,840 --> 00:26:40,240
+a mathematician, I think very axiomatically.
+
+316
+00:26:40,240 --> 00:26:43,160
+And I think we all are actually kind of agreeing.
+
+317
+00:26:43,160 --> 00:26:44,720
+I want to go back to what you said.
+
+318
+00:26:44,720 --> 00:26:47,760
+It's like there's a norm here, right?
+
+319
+00:26:47,760 --> 00:26:51,200
+You shame someone with respect to a norm.
+
+320
+00:26:51,200 --> 00:26:54,840
+I was shamed with respect to a body norm.
+
+321
+00:26:54,840 --> 00:26:59,640
+What you're describing is when there is no other norm.
+
+322
+00:26:59,640 --> 00:27:05,480
+Those people did not have access to a community where it was okay to be fat.
+
+323
+00:27:05,480 --> 00:27:06,480
+It wasn't fatness.
+
+324
+00:27:06,480 --> 00:27:10,240
+It was like this concept of a debt to the gods.
+
+325
+00:27:10,240 --> 00:27:15,840
+If they had, let me imagine if some of them had gone on a study abroad program.
+
+326
+00:27:15,840 --> 00:27:17,320
+It's actually not the gods.
+
+327
+00:27:17,320 --> 00:27:18,320
+Okay, the nature.
+
+328
+00:27:18,320 --> 00:27:22,520
+My point is that they were ensconced in this norm group.
+
+329
+00:27:22,520 --> 00:27:26,680
+So of course, they're not going to see a different way of thinking about it.
+
+330
+00:27:26,680 --> 00:27:34,400
+And I just want to say, like to another point you made, we are living in a shaming culture.
+
+331
+00:27:34,400 --> 00:27:38,040
+So I'm just going to throw on another layer here.
+
+332
+00:27:38,040 --> 00:27:40,880
+I also had another experience of shame.
+
+333
+00:27:40,880 --> 00:27:46,000
+When I worked in finance, I worked at a hedge fund during the crisis with Larry Summers.
+
+334
+00:27:46,000 --> 00:27:49,120
+And I said, oh my God, we screwed up the world.
+
+335
+00:27:49,120 --> 00:27:50,440
+I felt ashamed.
+
+336
+00:27:50,440 --> 00:27:51,520
+I quit my job.
+
+337
+00:27:51,520 --> 00:27:53,520
+I joined Occupy Wall Street.
+
+338
+00:27:53,520 --> 00:28:02,040
+And I attempted to shame the government to improve financial regulation.
+
+339
+00:28:02,040 --> 00:28:03,120
+And that was shame.
+
+340
+00:28:03,120 --> 00:28:05,000
+I think shame is great.
+
+341
+00:28:05,000 --> 00:28:06,720
+Shame is very, very useful.
+
+342
+00:28:06,720 --> 00:28:07,880
+You were punching up.
+
+343
+00:28:07,880 --> 00:28:08,880
+I was punching up.
+
+344
+00:28:08,880 --> 00:28:09,880
+Right.
+
+345
+00:28:09,880 --> 00:28:12,280
+So I like to think of shame in three categories.
+
+346
+00:28:12,280 --> 00:28:13,920
+Punching up.
+
+347
+00:28:13,920 --> 00:28:15,240
+Punching down.
+
+348
+00:28:15,240 --> 00:28:20,240
+And I think shaming someone for their body, something that they can't control, is punching
+
+349
+00:28:20,240 --> 00:28:21,240
+down.
+
+350
+00:28:21,240 --> 00:28:25,800
+What about the usefulness for shame just for the person, independent of, because you're
+
+351
+00:28:25,800 --> 00:28:29,920
+only talking about being shamed or shaming.
+
+352
+00:28:29,920 --> 00:28:30,920
+Yes.
+
+353
+00:28:30,920 --> 00:28:34,880
+But what just feeling of having shame or feeling shame?
+
+354
+00:28:34,880 --> 00:28:40,480
+I mean, shame, as you point out, it can be very useful for cohesion in a culture.
+
+355
+00:28:40,480 --> 00:28:45,680
+I shame, for that matter, I shame my children when they don't do their chores.
+
+356
+00:28:45,680 --> 00:28:53,920
+It's a lubrication to get people to follow the rules without having to explain the rules
+
+357
+00:28:53,920 --> 00:28:56,640
+every single time and actually have to administer punishment when they don't.
+
+358
+00:28:56,640 --> 00:29:00,640
+Let me just finish my framework and then I'll let you guys respond.
+
+359
+00:29:00,640 --> 00:29:05,360
+I think there's a third type of shame that's getting more and more prevalent in this culture.
+
+360
+00:29:05,360 --> 00:29:07,560
+There's punching up, shame, there's punching down shame.
+
+361
+00:29:07,560 --> 00:29:10,040
+The third type I call punching nowhere, shame.
+
+362
+00:29:10,040 --> 00:29:14,960
+And punching nowhere, shame, is when we try to, we sort of performatively shame people
+
+363
+00:29:14,960 --> 00:29:17,320
+that will not care.
+
+364
+00:29:17,320 --> 00:29:22,280
+And what I'm thinking here, emblematic example, is when people on the left, because I'm on
+
+365
+00:29:22,280 --> 00:29:30,040
+the left, when I go to Twitter, I'm seeing my lefty friends, they are retweeting Trump
+
+366
+00:29:30,040 --> 00:29:36,200
+or Trump's son and saying, and sort of saying something to him in their retweet to sort
+
+367
+00:29:36,200 --> 00:29:38,960
+of try to shame Trump.
+
+368
+00:29:38,960 --> 00:29:39,960
+It's ludicrous.
+
+369
+00:29:39,960 --> 00:29:40,960
+It's ludicrous.
+
+370
+00:29:40,960 --> 00:29:45,600
+Like, do you think they are going to care what you're saying?
+
+371
+00:29:45,600 --> 00:29:48,040
+But it's definitely an attempt to shame.
+
+372
+00:29:48,040 --> 00:29:49,440
+It's a failed attempt to shame.
+
+373
+00:29:49,440 --> 00:29:51,160
+It's a performative thing.
+
+374
+00:29:51,160 --> 00:29:54,680
+And my question is, what is the end result of that?
+
+375
+00:29:54,680 --> 00:29:58,440
+And my feeling is it's not just a waste of time.
+
+376
+00:29:58,440 --> 00:30:00,280
+It's actually a problem.
+
+377
+00:30:00,280 --> 00:30:04,480
+And I think the anti-vaxxing movement is largely a product of that.
+
+378
+00:30:04,480 --> 00:30:11,080
+And I think the incels, which are the young, mostly white men who are misogynistic online,
+
+379
+00:30:11,080 --> 00:30:15,800
+talking to each other about how terrible women are, and actually going at sometimes and killing
+
+380
+00:30:15,800 --> 00:30:22,920
+people, killing women, is a very direct reaction to this shaming, performative shaming punching
+
+381
+00:30:22,920 --> 00:30:23,920
+nowhere called charity.
+
+382
+00:30:23,920 --> 00:30:25,720
+People call this virtue signaling also.
+
+383
+00:30:25,720 --> 00:30:27,600
+It's that's what I mean by performance.
+
+384
+00:30:27,600 --> 00:30:32,080
+I'm performing righteousness by shaming Don Jr.
+
+385
+00:30:32,080 --> 00:30:33,080
+Everyone retweet me.
+
+386
+00:30:33,080 --> 00:30:37,480
+But, you know, it doesn't actually, in number one, it doesn't shame him.
+
+387
+00:30:37,480 --> 00:30:42,680
+And number two, it just makes the other people more dehumanized.
+
+388
+00:30:42,680 --> 00:30:44,400
+It dehumanizes them.
+
+389
+00:30:44,400 --> 00:30:47,600
+It sort of focuses on us versus them.
+
+390
+00:30:47,600 --> 00:30:48,600
+Right.
+
+391
+00:30:48,600 --> 00:30:52,720
+Well, there's a sense in which, you know, I mean, I think there's a certain picture of
+
+392
+00:30:52,720 --> 00:30:58,360
+shame as oppressive, which comes from people who don't like living in closed communities
+
+393
+00:30:58,360 --> 00:31:01,440
+where there are these norms that everyone shares.
+
+394
+00:31:01,440 --> 00:31:03,800
+And they feel oppressed by it, and they want out.
+
+395
+00:31:03,800 --> 00:31:09,880
+It's sort of the creative individual who is willing to be transgressive with regard to
+
+396
+00:31:09,880 --> 00:31:15,200
+the norms, and they go to New York City, okay, rather than live in the small community.
+
+397
+00:31:15,200 --> 00:31:19,760
+Now it seems to me what's happened, however, is that the surveillance that goes on in small
+
+398
+00:31:19,760 --> 00:31:25,360
+communities, which produces shaming of all kind, often to maintain social order, and often
+
+399
+00:31:25,360 --> 00:31:29,840
+quite effectively, has now returned in the form of Twitter.
+
+400
+00:31:29,840 --> 00:31:35,640
+It's now reformed in the terms of newspapers that are constantly looking to invade and
+
+401
+00:31:35,640 --> 00:31:38,680
+get information that people think is private.
+
+402
+00:31:38,680 --> 00:31:43,040
+And if they can expose it, it becomes now the equivalent on a much larger scale of these
+
+403
+00:31:43,040 --> 00:31:44,480
+small communities.
+
+404
+00:31:44,480 --> 00:31:47,120
+And ironically, that's what we're doing.
+
+405
+00:31:47,120 --> 00:31:50,680
+The technologies have broken down the private public distinction.
+
+406
+00:31:50,680 --> 00:31:54,960
+The idea that you could find an area where you couldn't be shamed because you could draw
+
+407
+00:31:54,960 --> 00:31:57,160
+the shade, you could close the door.
+
+408
+00:31:57,160 --> 00:32:01,280
+It was in a private realm where you could be experimental with transgressive behavior,
+
+409
+00:32:01,280 --> 00:32:04,120
+and leave it there, is no longer possible.
+
+410
+00:32:04,120 --> 00:32:08,840
+And that reaches the essentially, we found a way to have a technology that turns us into
+
+411
+00:32:08,840 --> 00:32:12,840
+a small community again with all of these kinds of attempts you're describing.
+
+412
+00:32:12,840 --> 00:32:14,400
+Well, to humiliate people.
+
+413
+00:32:14,400 --> 00:32:19,000
+You can do a text on me of shame.
+
+414
+00:32:19,000 --> 00:32:32,760
+But there are anything can shame you if you have a standard or rule, a goal, and you don't
+
+415
+00:32:32,760 --> 00:32:37,680
+– and these are cultural determinant.
+
+416
+00:32:37,680 --> 00:32:46,240
+Although there was some argument, historically, that shame or charm, the German for back or
+
+417
+00:32:46,240 --> 00:32:53,800
+back side was in fact, and the early attempts at trying to address it was around toilet
+
+418
+00:32:53,800 --> 00:32:57,520
+training and shame was there.
+
+419
+00:32:57,520 --> 00:33:06,000
+Having lived a long life, when I was six or seven, I needed glasses.
+
+420
+00:33:06,000 --> 00:33:10,960
+And it was shameful to wear glasses.
+
+421
+00:33:10,960 --> 00:33:13,080
+You were called for eyes.
+
+422
+00:33:13,080 --> 00:33:17,640
+Now we're not ashamed of wearing glasses.
+
+423
+00:33:17,640 --> 00:33:22,440
+There's a – as you age, there's a hearing loss, okay?
+
+424
+00:33:22,440 --> 00:33:26,600
+And I wear hearing aids.
+
+425
+00:33:26,600 --> 00:33:35,480
+And hearing aids are designed, the technology, mostly that they should be hidden because
+
+426
+00:33:35,480 --> 00:33:38,800
+wearing hearing aids is shameful.
+
+427
+00:33:38,800 --> 00:33:46,280
+So we can change readily what is or isn't shameful.
+
+428
+00:33:46,280 --> 00:33:53,240
+The idea to be helpful is there has to be some cultural standard or rule.
+
+429
+00:33:53,240 --> 00:33:59,680
+Now interestingly enough, you could have a rule to be shameful.
+
+430
+00:33:59,680 --> 00:34:02,000
+That is, it's good to be shameful.
+
+431
+00:34:02,000 --> 00:34:08,440
+And so you could find many things that you might need to sweep away because you would
+
+432
+00:34:08,440 --> 00:34:09,440
+step away.
+
+433
+00:34:09,440 --> 00:34:15,160
+You can't eat a plant that's a root because there might be insects and destroy.
+
+434
+00:34:15,160 --> 00:34:20,360
+So I don't know how useful it is.
+
+435
+00:34:20,360 --> 00:34:27,480
+I think it is useful if we want to go contemporary to look at what's happening in not only our
+
+436
+00:34:27,480 --> 00:34:29,200
+culture, but everywhere.
+
+437
+00:34:29,200 --> 00:34:36,440
+To begin with, when I got a bad grade as the son of parents born in Europe turned to the
+
+438
+00:34:36,440 --> 00:34:44,160
+century, but nonetheless, I was ashamed for their shame that I didn't get a good grade.
+
+439
+00:34:44,160 --> 00:34:51,800
+I was not only ashamed for myself, I was ashamed that my parents' shame, well, that
+
+440
+00:34:51,800 --> 00:34:55,880
+doesn't seem much the case anymore.
+
+441
+00:34:55,880 --> 00:35:07,560
+But it seems to me that we need to not talk about the different kinds.
+
+442
+00:35:07,560 --> 00:35:14,360
+Let me just tell you what the observation in these meta-analyses are.
+
+443
+00:35:14,360 --> 00:35:22,120
+One, amount of narcissistic behavior has enormously increased.
+
+444
+00:35:22,120 --> 00:35:30,840
+Any scale or the various scales that supposedly measure it show an increase in this country.
+
+445
+00:35:30,840 --> 00:35:34,440
+Two, an increase in perfectionism.
+
+446
+00:35:34,440 --> 00:35:46,360
+That is, being overwhelmed by the concern for making an error.
+
+447
+00:35:46,360 --> 00:35:52,080
+Three, decrease in empathy.
+
+448
+00:35:52,080 --> 00:35:59,440
+All of these are an emphasis.
+
+449
+00:35:59,440 --> 00:36:01,640
+I think these things come about.
+
+450
+00:36:01,640 --> 00:36:05,600
+Rick has hinted at it.
+
+451
+00:36:05,600 --> 00:36:14,840
+These things come about because the self has become an increasing object to the self.
+
+452
+00:36:14,840 --> 00:36:27,040
+So that selfies, tattoos, communication, it's a common knowledge especially in the age group
+
+453
+00:36:27,040 --> 00:36:34,320
+in this room, that you watch a couple sitting, each taking a picture of their dish, sending
+
+454
+00:36:34,320 --> 00:36:38,400
+it to other people.
+
+455
+00:36:38,400 --> 00:36:44,800
+These are very technologically advanced, very complex behavior.
+
+456
+00:36:44,800 --> 00:36:51,200
+The more you pay attention to yourself, the more trouble you ultimately get in.
+
+457
+00:36:51,200 --> 00:36:53,840
+It's a pretty safe hypothesis.
+
+458
+00:36:53,840 --> 00:37:02,640
+A baseball slump occurs because you start to think that you are in a slump and thus
+
+459
+00:37:02,640 --> 00:37:10,040
+the kind of physical timing that you need to hit a ball, a swing at something before
+
+460
+00:37:10,040 --> 00:37:14,960
+as it's leaving the hand of the pitcher gets disrupted.
+
+461
+00:37:14,960 --> 00:37:17,560
+I have the problem when I have to shift.
+
+462
+00:37:17,560 --> 00:37:18,560
+Do self-conscious.
+
+463
+00:37:18,560 --> 00:37:23,000
+Well, I think the quote is, if you think you stink.
+
+464
+00:37:23,000 --> 00:37:24,000
+That's right.
+
+465
+00:37:24,000 --> 00:37:32,440
+So fundamentally, on a steep hill, when I'm driving a shift, which I learned to drove
+
+466
+00:37:32,440 --> 00:37:43,680
+most of my life, I was in Berkeley on Cedar Avenue, which has some steep hills that, and
+
+467
+00:37:43,680 --> 00:37:48,880
+now you have to put it in neutral, and there's a car behind you, and you've got to shift
+
+468
+00:37:48,880 --> 00:37:56,840
+into first and very steep, and you just start to think about, I may have trouble shifting,
+
+469
+00:37:56,840 --> 00:37:59,160
+you're going to have trouble shifting.
+
+470
+00:37:59,160 --> 00:38:07,280
+The whole point in motor action is to get it out of the operating system because there
+
+471
+00:38:07,280 --> 00:38:10,880
+are better things in your head to be doing with.
+
+472
+00:38:10,880 --> 00:38:19,680
+The point is, if in fact it is the case that we have become more self-involved as a way
+
+473
+00:38:19,680 --> 00:38:26,440
+to be happy, I don't know what the goals are, that fundamentally you would get an increase
+
+474
+00:38:26,440 --> 00:38:33,600
+in shame because you're paying attention to yourself, and therefore you would need mechanisms
+
+475
+00:38:33,600 --> 00:38:40,080
+to get away from it, which is narcissism, a very powerful mechanism.
+
+476
+00:38:40,080 --> 00:38:44,000
+It's not my fault, or I didn't make a mistake.
+
+477
+00:38:44,000 --> 00:38:45,480
+It's a defensive mechanism.
+
+478
+00:38:45,480 --> 00:38:51,920
+Well, they're essentially, yes, they're defensive mechanisms for the increase.
+
+479
+00:38:51,920 --> 00:39:00,360
+So the decrease in empathy is it's their fault, their poor, it's their fault to be poor.
+
+480
+00:39:00,360 --> 00:39:02,080
+They are quite handsome.
+
+481
+00:39:02,080 --> 00:39:05,640
+They should live all the way with Shamer and Chief in the country right now.
+
+482
+00:39:05,640 --> 00:39:07,200
+That's what he's talking about.
+
+483
+00:39:07,200 --> 00:39:08,200
+Well, Kathy, you are...
+
+484
+00:39:08,200 --> 00:39:09,200
+I'm sorry, I disagree.
+
+485
+00:39:09,200 --> 00:39:13,740
+I mean, we're wrong like Darwin thought that getting a red in the face was meant your
+
+486
+00:39:13,740 --> 00:39:14,740
+shame.
+
+487
+00:39:14,740 --> 00:39:15,740
+It's too easy.
+
+488
+00:39:15,740 --> 00:39:17,560
+It's not about selfies.
+
+489
+00:39:17,560 --> 00:39:19,120
+Selfies is narcissistic.
+
+490
+00:39:19,120 --> 00:39:21,600
+I just, obviously, it's vain, obviously.
+
+491
+00:39:21,600 --> 00:39:23,920
+I think people who do that are more vulnerable.
+
+492
+00:39:23,920 --> 00:39:26,400
+They're more vulnerable to shame.
+
+493
+00:39:26,400 --> 00:39:28,960
+People who take selfies, like just defining that way.
+
+494
+00:39:28,960 --> 00:39:36,520
+They are more vulnerable to shame, but I think the worst aspect of modern social media is
+
+495
+00:39:36,520 --> 00:39:37,520
+are not the selfies.
+
+496
+00:39:37,520 --> 00:39:39,200
+They're just annoying.
+
+497
+00:39:39,200 --> 00:39:48,160
+The worst aspect are the self-righteous shammers who are dehumanizing others and who are working
+
+498
+00:39:48,160 --> 00:39:50,800
+actively to decrease our empathy.
+
+499
+00:39:50,800 --> 00:39:52,600
+I think the empathy is the key.
+
+500
+00:39:52,600 --> 00:39:55,280
+We are decreasing our empathy to people we don't agree with.
+
+501
+00:39:55,280 --> 00:39:58,400
+We were like, if you think that, you must be a monster.
+
+502
+00:39:58,400 --> 00:40:03,680
+And honestly, we say that about people with whom we agree, 85% of the time, but we found
+
+503
+00:40:03,680 --> 00:40:04,680
+the 15%.
+
+504
+00:40:04,680 --> 00:40:06,600
+Social media helped us find it.
+
+505
+00:40:06,600 --> 00:40:10,920
+The 15% where we disagree and we're like, oh my God, I thought I liked you, but you're
+
+506
+00:40:10,920 --> 00:40:11,920
+a monster.
+
+507
+00:40:11,920 --> 00:40:13,720
+Now I know.
+
+508
+00:40:13,720 --> 00:40:17,520
+That's the kind of performative self-righteous shaming that is a problem.
+
+509
+00:40:17,520 --> 00:40:19,080
+Selfies is a small thing.
+
+510
+00:40:19,080 --> 00:40:23,120
+It's an interesting difference between shame and guilt in this sense because you do need
+
+511
+00:40:23,120 --> 00:40:27,800
+the cooperation of the other person to feel guilty if you try to, you might shame them
+
+512
+00:40:27,800 --> 00:40:30,640
+and hope they feel guilty about something they've done.
+
+513
+00:40:30,640 --> 00:40:33,000
+But to simply shame, you just need to leave a mark.
+
+514
+00:40:33,000 --> 00:40:34,880
+It doesn't need to be reciprocated.
+
+515
+00:40:34,880 --> 00:40:37,800
+Anyway, I think you need the cooperation of the other.
+
+516
+00:40:37,800 --> 00:40:42,120
+I would have thought that guilt could be just between you and your ego ideal and if you
+
+517
+00:40:42,120 --> 00:40:43,120
+don't live.
+
+518
+00:40:43,120 --> 00:40:45,640
+No, I mean, if you need the other to confess, if that's the way in which you're going to
+
+519
+00:40:45,640 --> 00:40:46,640
+unload your guilt.
+
+520
+00:40:46,640 --> 00:40:51,760
+If you're posting online and you want to leave a shame mark on someone, you don't need them
+
+521
+00:40:51,760 --> 00:40:52,760
+to reciprocate.
+
+522
+00:40:52,760 --> 00:40:55,720
+That's why it goes on and it goes on despite its utility.
+
+523
+00:40:55,720 --> 00:41:00,320
+What do you think the response is when you're the receiver of that?
+
+524
+00:41:00,320 --> 00:41:05,360
+If you know that you've 85% agree with the person and they're accusing you of being a
+
+525
+00:41:05,360 --> 00:41:06,360
+monster.
+
+526
+00:41:06,360 --> 00:41:07,360
+I personally feel terrible that happens, but I'm afraid.
+
+527
+00:41:07,360 --> 00:41:08,360
+What else would you feel?
+
+528
+00:41:08,360 --> 00:41:09,360
+What else would you feel?
+
+529
+00:41:09,360 --> 00:41:10,360
+You'd feel angry.
+
+530
+00:41:10,360 --> 00:41:14,440
+You'd feel outraged and you would say, no, you're the monster.
+
+531
+00:41:14,440 --> 00:41:19,440
+And that's the point, it becomes a feedback loop, a dynamical system where I guess I was
+
+532
+00:41:19,440 --> 00:41:23,000
+getting at the idea that it doesn't require as much empathy or back and forth for you
+
+533
+00:41:23,000 --> 00:41:28,720
+to simply leave a mark that intends the shame versus to engage someone and to make them feel
+
+534
+00:41:28,720 --> 00:41:29,720
+remorseful.
+
+535
+00:41:29,720 --> 00:41:31,720
+It sounds infantile, right?
+
+536
+00:41:31,720 --> 00:41:34,800
+I know you are, but what am I?
+
+537
+00:41:34,800 --> 00:41:35,800
+Yes.
+
+538
+00:41:35,800 --> 00:41:36,800
+At that level.
+
+539
+00:41:36,800 --> 00:41:41,960
+I'd like to pick up something you might go and just said, because I do have this sense
+
+540
+00:41:41,960 --> 00:41:48,520
+that there are certain pre-potent areas that it's easier to shame than other areas, that
+
+541
+00:41:48,520 --> 00:41:51,840
+it's just any arbitrary rule.
+
+542
+00:41:51,840 --> 00:41:55,280
+And I'll get to this way.
+
+543
+00:41:55,280 --> 00:41:58,880
+If you look at the explanations of illness around the world as an anthropologist, why
+
+544
+00:41:58,880 --> 00:42:02,960
+people think they're suffering, there are very, there's a big three.
+
+545
+00:42:02,960 --> 00:42:07,360
+The most frequent thing people do is point interpersonal influences on themselves, like
+
+546
+00:42:07,360 --> 00:42:13,080
+witchcraft, evil eyes, sorcery, some things be friends and neighbors who envy me who are
+
+547
+00:42:13,080 --> 00:42:15,040
+making me feel sick.
+
+548
+00:42:15,040 --> 00:42:19,880
+And then there end up being moral explanations in which they blame themselves for their suffering
+
+549
+00:42:19,880 --> 00:42:22,720
+and they think they've transgressed in some way.
+
+550
+00:42:22,720 --> 00:42:26,480
+And then there are of course biochemical explanations, which it turns out are not the most frequent
+
+551
+00:42:26,480 --> 00:42:28,520
+on a worldwide scale.
+
+552
+00:42:28,520 --> 00:42:31,440
+The other two are an interpersonal or far and away the most common.
+
+553
+00:42:31,440 --> 00:42:37,000
+But in the moral domain, when you look at what transgressions lead people to think,
+
+554
+00:42:37,000 --> 00:42:40,240
+I did that and that's why I'm suffering right now.
+
+555
+00:42:40,240 --> 00:42:47,880
+There's a small number and they end up being sexual, food and authority relationships.
+
+556
+00:42:47,880 --> 00:42:53,560
+So if you kick your father and six months later you go blind, you're not going to fail
+
+557
+00:42:53,560 --> 00:42:57,080
+to wonder whether you're blind because you kicked your father.
+
+558
+00:42:57,080 --> 00:43:02,440
+There's something about those areas of experience in life that somehow are pre-potent and I
+
+559
+00:43:02,440 --> 00:43:04,720
+wouldn't be surprised shaming could work that way.
+
+560
+00:43:04,720 --> 00:43:13,880
+I think it's a perfectly reasonable hypothesis indeed that there may be pre-potent, that
+
+561
+00:43:13,880 --> 00:43:24,560
+is failures or evaluations of one's behavior vis-a-vis some kind of standards, unique ones
+
+562
+00:43:24,560 --> 00:43:30,160
+may be pre-potent in fact.
+
+563
+00:43:30,160 --> 00:43:37,360
+And there would be good reason to suggest that these should be very important and frequent
+
+564
+00:43:37,360 --> 00:43:47,360
+enough events so that you protect against violating the rules because it really is going
+
+565
+00:43:47,360 --> 00:43:48,720
+to hurt you.
+
+566
+00:43:48,720 --> 00:43:54,280
+One of the problems is now we're going to introduce embarrassment.
+
+567
+00:43:54,280 --> 00:43:56,200
+Let me say a word about it.
+
+568
+00:43:56,200 --> 00:44:01,760
+If I sat down with anyone in this room and said, tell me about things that embarrass
+
+569
+00:44:01,760 --> 00:44:08,960
+you, you would, if you knew me for a while, you would tell me about embarrassing things.
+
+570
+00:44:08,960 --> 00:44:13,600
+If I said, tell me about the things that shame you, you don't.
+
+571
+00:44:13,600 --> 00:44:20,200
+And so it's been said that shame gets you into therapy but prevents you from getting
+
+572
+00:44:20,200 --> 00:44:21,200
+better.
+
+573
+00:44:21,200 --> 00:44:23,640
+There's no comparison because the lesson tends to operate.
+
+574
+00:44:23,640 --> 00:44:26,760
+We know that there's two kinds of embarrassment.
+
+575
+00:44:26,760 --> 00:44:30,680
+There's embarrassment of being the object of others' attention.
+
+576
+00:44:30,680 --> 00:44:34,440
+Darwin talked about it and it is certainly the case.
+
+577
+00:44:34,440 --> 00:44:43,080
+I could show you if for example the group around the table decided we would all simply
+
+578
+00:44:43,080 --> 00:44:46,280
+point at another person in unison.
+
+579
+00:44:46,280 --> 00:44:49,320
+For no reason we randomly selected it.
+
+580
+00:44:49,320 --> 00:44:53,800
+That person being pointed to would get embarrassing.
+
+581
+00:44:53,800 --> 00:45:00,160
+For example when you're introduced and the introducer says very nice things about you,
+
+582
+00:45:00,160 --> 00:45:03,640
+you certainly enjoy it but you are certainly embarrassed.
+
+583
+00:45:03,640 --> 00:45:11,720
+Now you could argue you should be embarrassed but I can show you in 18-month-olds, to 24-month-olds
+
+584
+00:45:11,720 --> 00:45:15,040
+when this embarrassment comes in.
+
+585
+00:45:15,040 --> 00:45:20,000
+People play a game of pointing to each other and they tend to embarrass.
+
+586
+00:45:20,000 --> 00:45:28,200
+The object of attention turns out to be a very early form of embarrassment.
+
+587
+00:45:28,200 --> 00:45:35,160
+It also starts to involve body because the early forms is may he.
+
+588
+00:45:35,160 --> 00:45:43,480
+So if you point to a child at 20 hertz who recognizes itself in a mirror by touching its
+
+589
+00:45:43,480 --> 00:45:50,360
+nose and you point to it, the child will show you embarrassment.
+
+590
+00:45:50,360 --> 00:45:57,720
+If you ask children, how many of you have children, grandchildren and the parent says
+
+591
+00:45:57,720 --> 00:46:04,800
+show grandfather or grandmother the new thing you do and the child shows embarrassment.
+
+592
+00:46:04,800 --> 00:46:07,200
+Why isn't that just changed, the mild form of shame?
+
+593
+00:46:07,200 --> 00:46:14,160
+Well because it seems by the reporter not to be shameful.
+
+594
+00:46:14,160 --> 00:46:21,880
+People have trouble interpreting this because it also turns out to be an individual difference.
+
+595
+00:46:21,880 --> 00:46:33,040
+Shy people are in fact those people who over respond to being the object of others' attention.
+
+596
+00:46:33,040 --> 00:46:40,920
+So there seems to be a distribution in the population of people who when they have the
+
+597
+00:46:40,920 --> 00:46:45,000
+object of attention show embarrassment.
+
+598
+00:46:45,000 --> 00:46:53,200
+This is a fair thing that people have different thresholds for shame, lower hires.
+
+599
+00:46:53,200 --> 00:46:55,520
+Yes, they're wired that way.
+
+600
+00:46:55,520 --> 00:46:58,440
+It's a way, we're wired that way.
+
+601
+00:46:58,440 --> 00:47:01,760
+Yeah and so there must be a usefulness to shame.
+
+602
+00:47:01,760 --> 00:47:07,760
+Most of the conversation has been about shame as a problem that you can shame.
+
+603
+00:47:07,760 --> 00:47:12,380
+You gave the example of your school, they shamed you and you felt ashamed about your
+
+604
+00:47:12,380 --> 00:47:13,380
+parents.
+
+605
+00:47:13,380 --> 00:47:17,120
+But there must be some reason why we have this emotion of shame.
+
+606
+00:47:17,120 --> 00:47:20,480
+It's absolutely very important socially for one thing.
+
+607
+00:47:20,480 --> 00:47:32,520
+You know if you do something let's say you're at a dinner party and your host is going on,
+
+608
+00:47:32,520 --> 00:47:37,040
+this won't happen tonight.
+
+609
+00:47:37,040 --> 00:47:44,200
+And you're irritated about something, maybe not even something to do with him.
+
+610
+00:47:44,200 --> 00:47:48,280
+And you lose it, you lose your temper.
+
+611
+00:47:48,280 --> 00:47:53,040
+And you insult it.
+
+612
+00:47:53,040 --> 00:47:57,120
+Exactly and you're right.
+
+613
+00:47:57,120 --> 00:48:05,880
+Now you know, I think a lot of us have done something like that.
+
+614
+00:48:05,880 --> 00:48:07,160
+And you feel terrible, right?
+
+615
+00:48:07,160 --> 00:48:13,560
+The feeling is you just feel like you're, like there's this sort of sickness sinking, right?
+
+616
+00:48:13,560 --> 00:48:19,280
+You just feel so ashamed of what you've done.
+
+617
+00:48:19,280 --> 00:48:22,440
+Because you have shamed him.
+
+618
+00:48:22,440 --> 00:48:27,720
+Well I think more you've, yeah, more you've acted in an entirely inappropriate way.
+
+619
+00:48:27,720 --> 00:48:30,120
+It draws attention to you.
+
+620
+00:48:30,120 --> 00:48:37,320
+And you there, and so you, you know, we've all done this, I've done it.
+
+621
+00:48:37,320 --> 00:48:42,720
+You know, you go away, you feel terrible, the next day you go over and you want to make
+
+622
+00:48:42,720 --> 00:48:43,720
+it right.
+
+623
+00:48:43,720 --> 00:48:48,000
+I think this is what Tomkins is talking about when he says that shame and here it in shame
+
+624
+00:48:48,000 --> 00:48:51,600
+is a desire to restore the positive feeling, right?
+
+625
+00:48:51,600 --> 00:48:54,280
+To restore what he calls the good seed.
+
+626
+00:48:54,280 --> 00:48:55,840
+And you apologize.
+
+627
+00:48:55,840 --> 00:49:02,600
+And you say, I don't, you know, I behaved so inappropriately, I'm very sorry, you know.
+
+628
+00:49:02,600 --> 00:49:03,600
+So look at the way.
+
+629
+00:49:03,600 --> 00:49:09,040
+And so that's highly functional because it's a highly functional.
+
+630
+00:49:09,040 --> 00:49:12,640
+Well it's more functionally if it prevented you from doing what you did.
+
+631
+00:49:12,640 --> 00:49:14,000
+Well it often does, right?
+
+632
+00:49:14,000 --> 00:49:16,400
+I mean it often prevents you from it.
+
+633
+00:49:16,400 --> 00:49:21,440
+You know, let's say the person is, and they correct themselves before they do it, right?
+
+634
+00:49:21,440 --> 00:49:22,440
+They control themselves.
+
+635
+00:49:22,440 --> 00:49:29,800
+It's a very important mechanism to reduce shame, confession.
+
+636
+00:49:29,800 --> 00:49:35,760
+You say, just as you indicated, I'm sorry I did that.
+
+637
+00:49:35,760 --> 00:49:37,240
+Forgive me.
+
+638
+00:49:37,240 --> 00:49:42,520
+So clearly there are mechanisms to reduce it.
+
+639
+00:49:42,520 --> 00:49:47,640
+One of them is displacement to blame the other and become angry.
+
+640
+00:49:47,640 --> 00:49:51,920
+And other is to internalize it and move toward depression.
+
+641
+00:49:51,920 --> 00:49:56,800
+I am a worthless creature now and in the future.
+
+642
+00:49:56,800 --> 00:50:03,960
+And the other one is to make fun of yourself, interestingly enough, especially in embarrassment.
+
+643
+00:50:03,960 --> 00:50:09,040
+So Michael, what you make of socialization techniques designed in some subcultures to
+
+644
+00:50:09,040 --> 00:50:10,040
+induce them.
+
+645
+00:50:10,040 --> 00:50:17,360
+So for example, Heidi Fung has done observations of children and families in Taipei, in Taiwan.
+
+646
+00:50:17,360 --> 00:50:25,400
+And the mother when she's around other associates or relatives or friends will bring in her
+
+647
+00:50:25,400 --> 00:50:33,560
+young child who has transgressed in some way like you was describing and has them narrate.
+
+648
+00:50:33,560 --> 00:50:35,200
+Their transgression.
+
+649
+00:50:35,200 --> 00:50:37,280
+Tell them how bad you were.
+
+650
+00:50:37,280 --> 00:50:38,960
+And it's not a confession.
+
+651
+00:50:38,960 --> 00:50:42,960
+It's not really there to get rid of some feeling.
+
+652
+00:50:42,960 --> 00:50:49,880
+It's there to recapitulate it and to have this child essentially cultivate a sense of
+
+653
+00:50:49,880 --> 00:50:53,800
+shame by inducing it in a very public way.
+
+654
+00:50:53,800 --> 00:50:58,680
+Presumably that's going to be relatively effective in having it not happen.
+
+655
+00:50:58,680 --> 00:51:06,560
+And when she shows the video tapes at an American Psychological Association meeting, everyone
+
+656
+00:51:06,560 --> 00:51:08,400
+views it as child abuse.
+
+657
+00:51:08,400 --> 00:51:11,400
+And she has to stop showing it because it provokes such a discussion.
+
+658
+00:51:11,400 --> 00:51:15,720
+So public shaming was a thing in this country.
+
+659
+00:51:15,720 --> 00:51:20,680
+There was a book called So You've Been Publicly Shamed Written by John Ronson recently.
+
+660
+00:51:20,680 --> 00:51:21,680
+Or maybe Ron Johnson.
+
+661
+00:51:21,680 --> 00:51:24,360
+I can't remember how he says his name.
+
+662
+00:51:24,360 --> 00:51:32,880
+But he did a study about this, a sort of New England early America, sort of scarlet letter
+
+663
+00:51:32,880 --> 00:51:34,760
+type stuff.
+
+664
+00:51:34,760 --> 00:51:37,520
+And he researched sort of the history of it.
+
+665
+00:51:37,520 --> 00:51:46,840
+And it stopped eventually, not because it became less useful, but because it was so harsh.
+
+666
+00:51:46,840 --> 00:51:53,000
+Like the public view, the people who came to see the public shaming were so into it that
+
+667
+00:51:53,000 --> 00:51:55,320
+it was embarrassing to the authorities.
+
+668
+00:51:55,320 --> 00:51:57,520
+That's why they stopped doing it, not because it didn't work.
+
+669
+00:51:57,520 --> 00:51:59,400
+So I have a mini example of this.
+
+670
+00:51:59,400 --> 00:52:04,760
+I lived with a six year old daughter and 10 year old son in rural India for a year and
+
+671
+00:52:04,760 --> 00:52:08,280
+they went to a local convent school.
+
+672
+00:52:08,280 --> 00:52:14,440
+And one day my son said to my wife, I don't want to go to school today.
+
+673
+00:52:14,440 --> 00:52:15,440
+And she explored it.
+
+674
+00:52:15,440 --> 00:52:17,680
+Why didn't you want to go to school today?
+
+675
+00:52:17,680 --> 00:52:22,760
+Because he had seen when you didn't do well on a math exam in that school, they pinned
+
+676
+00:52:22,760 --> 00:52:26,640
+it to your back and you wore it all day long around the school.
+
+677
+00:52:26,640 --> 00:52:29,560
+That was their technique for public shaming.
+
+678
+00:52:29,560 --> 00:52:32,120
+Which, you know, it's a complicated thing.
+
+679
+00:52:32,120 --> 00:52:33,560
+We can view that as harsh.
+
+680
+00:52:33,560 --> 00:52:37,880
+He obviously was, we come from a subculture where we weren't going to let that happen.
+
+681
+00:52:37,880 --> 00:52:42,440
+Nevertheless, internally, I'll bet those kids are all over the world doing really good math
+
+682
+00:52:42,440 --> 00:52:43,440
+down.
+
+683
+00:52:43,440 --> 00:52:58,440
+And Zimla has several books that are 25 years old that documents very clearly spare the
+
+684
+00:52:58,440 --> 00:53:02,160
+rights, spare the rights for the child.
+
+685
+00:53:02,160 --> 00:53:07,160
+Fundamentally, the theme to teach moral behavior.
+
+686
+00:53:07,160 --> 00:53:11,880
+You teach, you will forgive me, that you were born in sin.
+
+687
+00:53:11,880 --> 00:53:21,240
+Okay, and that's what we have in Christianity, the belief you are born in sin.
+
+688
+00:53:21,240 --> 00:53:28,080
+It's a different form, but you come into the world with a long history of transgressions
+
+689
+00:53:28,080 --> 00:53:29,080
+and friar lives.
+
+690
+00:53:29,080 --> 00:53:33,360
+You're not innocent, blank slate.
+
+691
+00:53:33,360 --> 00:53:41,440
+There will be there are techniques which, for the most part, we've given up as publicly
+
+692
+00:53:41,440 --> 00:53:44,800
+acceptable, but in fact are employed.
+
+693
+00:53:44,800 --> 00:53:51,520
+How many parents, if you watch them with their children and the child does something, switches
+
+694
+00:53:51,520 --> 00:53:59,240
+up their nose, for those of you who can see my face, which is a semi-discussed face.
+
+695
+00:53:59,240 --> 00:54:02,240
+That's disgusting.
+
+696
+00:54:02,240 --> 00:54:04,240
+You're disgusting.
+
+697
+00:54:04,240 --> 00:54:10,680
+Discussed is a very, very powerful shame-a-listener.
+
+698
+00:54:10,680 --> 00:54:14,400
+And so we were talking about, and I wanted to hear you tie together what you believe is
+
+699
+00:54:14,400 --> 00:54:17,400
+the connection between embarrassment and shame before you do.
+
+700
+00:54:17,400 --> 00:54:25,280
+I just wanted to add this extra ingredient, which is these do all have biological rudiments.
+
+701
+00:54:25,280 --> 00:54:30,600
+Like disgust, expression, the early stages of which embarrassment can be elicited in
+
+702
+00:54:30,600 --> 00:54:37,360
+children, etc., suggest to me that these potential, I would say, components of shame start even
+
+703
+00:54:37,360 --> 00:54:39,160
+on a very biological basis.
+
+704
+00:54:39,160 --> 00:54:43,680
+Before they're co-opted by society and form shame.
+
+705
+00:54:43,680 --> 00:54:54,400
+The study divorce in couples in trouble has pointed out that when one member of the couple
+
+706
+00:54:54,400 --> 00:55:01,320
+exhibits a shame faced toward the other for some action or some statement, the consequence
+
+707
+00:55:01,320 --> 00:55:10,200
+of that is either the one receiving the disgust face shows a depressive reaction or, in fact,
+
+708
+00:55:10,200 --> 00:55:14,960
+gets angry back, you know, how dare you shame me.
+
+709
+00:55:14,960 --> 00:55:25,800
+So clearly, we're going to have to worry about shame publicly, but also shame privately.
+
+710
+00:55:25,800 --> 00:55:33,800
+But there's a shame between the same, which I'll, that's disgusting, and that's, you
+
+711
+00:55:33,800 --> 00:55:37,000
+know, that's shameful or shaming the child.
+
+712
+00:55:37,000 --> 00:55:40,080
+I think there's a significant difference between the two.
+
+713
+00:55:40,080 --> 00:55:41,080
+Well, okay.
+
+714
+00:55:41,080 --> 00:55:46,720
+You know, I think we have an issue with shame which says fear of being perceived as disgusting.
+
+715
+00:55:46,720 --> 00:55:47,720
+That's actually what we'll be.
+
+716
+00:55:47,720 --> 00:55:49,720
+Well, it depends on what we say.
+
+717
+00:55:49,720 --> 00:55:50,720
+It's certainly.
+
+718
+00:55:50,720 --> 00:55:51,720
+Don't eat that.
+
+719
+00:55:51,720 --> 00:55:52,720
+That's disgusting.
+
+720
+00:55:52,720 --> 00:55:53,720
+That's different from your disgusting.
+
+721
+00:55:53,720 --> 00:55:54,720
+Yeah.
+
+722
+00:55:54,720 --> 00:56:00,200
+It's a question of whether you should be ashamed of yourself.
+
+723
+00:56:00,200 --> 00:56:05,120
+It doesn't seem to me to be as toxic as saying that you're disgusting.
+
+724
+00:56:05,120 --> 00:56:09,640
+You're a disgusting person because a disgusting, that's very rejecting.
+
+725
+00:56:09,640 --> 00:56:10,640
+Yes.
+
+726
+00:56:10,640 --> 00:56:11,640
+Right.
+
+727
+00:56:11,640 --> 00:56:13,880
+That's like, that's very distancing.
+
+728
+00:56:13,880 --> 00:56:17,640
+Where in shame, there's always a bridge back.
+
+729
+00:56:17,640 --> 00:56:22,920
+But how it's heard may defend may depend on the child to a degree.
+
+730
+00:56:22,920 --> 00:56:26,960
+I would like to add something a bit different.
+
+731
+00:56:26,960 --> 00:56:32,200
+I would like to add something a bit different because it is, from everything you are saying,
+
+732
+00:56:32,200 --> 00:56:39,800
+the implication is that you become frequently ashamed because you have been shamed off
+
+733
+00:56:39,800 --> 00:56:42,520
+and growing up.
+
+734
+00:56:42,520 --> 00:56:47,400
+That's not necessarily, I don't think it's the experience of psychoanalysts and generally,
+
+735
+00:56:47,400 --> 00:56:49,600
+certainly not my experience.
+
+736
+00:56:49,600 --> 00:56:54,480
+Some people have more shame, some people have less shame and it's not based on to what
+
+737
+00:56:54,480 --> 00:56:59,480
+degree their parents or their teachers or the school shamed them.
+
+738
+00:56:59,480 --> 00:57:04,920
+Well, it seems to do and the psychoanalytic idea that has a lot more to do.
+
+739
+00:57:04,920 --> 00:57:05,920
+Sorry.
+
+740
+00:57:05,920 --> 00:57:11,800
+You become victimized if you are repeatedly ashamed and becoming victimized means you
+
+741
+00:57:11,800 --> 00:57:13,000
+become the victim.
+
+742
+00:57:13,000 --> 00:57:20,680
+And so the report was that I really was shameful, not that my parent necessarily did that to
+
+743
+00:57:20,680 --> 00:57:21,680
+me.
+
+744
+00:57:21,680 --> 00:57:29,680
+Indeed, what I would like to say if we could do such an experiment is to say in a high
+
+745
+00:57:29,680 --> 00:57:37,120
+shaming family, what does the child do when the child finally becomes in charge and the
+
+746
+00:57:37,120 --> 00:57:39,240
+parents are now old?
+
+747
+00:57:39,240 --> 00:57:48,720
+They don't talk about old people being abused but a sweet revenge to a lifetime of being
+
+748
+00:57:48,720 --> 00:57:51,080
+ashamed.
+
+749
+00:57:51,080 --> 00:57:57,760
+So I wanted to get back to Kathy's observation about the historical change that took place,
+
+750
+00:57:57,760 --> 00:58:03,000
+let's say from the Massachusetts Bay Colony or 17th century Puritanism and its morality.
+
+751
+00:58:03,000 --> 00:58:08,800
+Because I do think in some sense the cyber stocks are back right now and we're very much
+
+752
+00:58:08,800 --> 00:58:13,080
+like that period once again given the technologies that we have.
+
+753
+00:58:13,080 --> 00:58:20,080
+But I do feel that it's important to think about societies that liberate individuals
+
+754
+00:58:20,080 --> 00:58:24,520
+from communal ethics of community type structures.
+
+755
+00:58:24,520 --> 00:58:27,920
+And when that happens I think they begin to see those techniques as harsh even though
+
+756
+00:58:27,920 --> 00:58:29,360
+they were effective.
+
+757
+00:58:29,360 --> 00:58:33,960
+But here's a triad that think about the following three emotions.
+
+758
+00:58:33,960 --> 00:58:36,720
+Happiness, shame and anger.
+
+759
+00:58:36,720 --> 00:58:40,200
+And if I ask you which is most different from the other two?
+
+760
+00:58:40,200 --> 00:58:43,040
+Happiness, shame, anger, which is the odd one out?
+
+761
+00:58:43,040 --> 00:58:49,120
+If I do that in a University of Chicago class the response is either going to be happiness
+
+762
+00:58:49,120 --> 00:58:56,080
+is the odd one out is most different or some people will say shame is the odd one out.
+
+763
+00:58:56,080 --> 00:59:00,440
+And it's largely based on a hedonic view of the emotions.
+
+764
+00:59:00,440 --> 00:59:01,720
+Does it feel good or doesn't?
+
+765
+00:59:01,720 --> 00:59:02,720
+It feels good.
+
+766
+00:59:02,720 --> 00:59:09,920
+It feels good to be happy, doesn't feel good to be shamed or angry.
+
+767
+00:59:09,920 --> 00:59:11,840
+Let me finish.
+
+768
+00:59:11,840 --> 00:59:19,360
+Some people say shame because they think that means the ego has been diminished whereas
+
+769
+00:59:19,360 --> 00:59:22,080
+if you're happy and angry you're full of yourself.
+
+770
+00:59:22,080 --> 00:59:26,880
+If I do this in the Indian community I work in the overwhelming response is anger is
+
+771
+00:59:26,880 --> 00:59:29,240
+the most different from the other two.
+
+772
+00:59:29,240 --> 00:59:32,960
+Which is a very rare response in our subculture.
+
+773
+00:59:32,960 --> 00:59:39,280
+And for them shame and happiness are the glue of social relationships and anger is destructive
+
+774
+00:59:39,280 --> 00:59:41,400
+of social relationships.
+
+775
+00:59:41,400 --> 00:59:44,000
+And that's a totally different way of viewing it.
+
+776
+00:59:44,000 --> 00:59:48,120
+And I think it has correlates in the way in which their society is organized on the
+
+777
+00:59:48,120 --> 00:59:54,520
+degree to which individualism versus some form of collectivism is a part of the organization
+
+778
+00:59:54,520 --> 00:59:56,800
+of social life.
+
+779
+00:59:56,800 --> 01:00:00,720
+And that puts boundaries on a lot of the generalizations we make about whether something's useful
+
+780
+01:00:00,720 --> 01:00:06,240
+or not what our own evaluative reactions are to it and so forth.
+
+781
+01:00:06,240 --> 01:00:16,560
+Let's come back to what's broadened if we can to bring in the other kinds of self-conscious
+
+782
+01:00:16,560 --> 01:00:19,800
+emotions which you were starting to do.
+
+783
+01:00:19,800 --> 01:00:26,880
+Such as I've claimed that there are two kinds of embarrassment one is a very basic early
+
+784
+01:00:26,880 --> 01:00:30,040
+does not require elaborate cognition.
+
+785
+01:00:30,040 --> 01:00:37,840
+The child shows it soon after it's thought using personal pronouns like me and mine and
+
+786
+01:00:37,840 --> 01:00:44,480
+that is an individual difference in their reaction to being the object of attention.
+
+787
+01:00:44,480 --> 01:00:47,320
+That's easy to do an elaborate story setting.
+
+788
+01:00:47,320 --> 01:00:55,440
+You bring the kid in and you start complimenting the child on how pretty they look or how handsome
+
+789
+01:00:55,440 --> 01:01:03,120
+the look or whatever you ask the child to do things like dance to or banging the tumeric
+
+790
+01:01:03,120 --> 01:01:11,000
+and what you see in the children being the object of attention they show embarrassment.
+
+791
+01:01:11,000 --> 01:01:18,440
+About a year and a half later when you now start to incorporate the standards the rules
+
+792
+01:01:18,440 --> 01:01:25,640
+of the goals of your family and the society at large you now have another embarrassment
+
+793
+01:01:25,640 --> 01:01:29,920
+which is embarrassment against some kind of standard.
+
+794
+01:01:29,920 --> 01:01:41,160
+I mean that starts to move us toward shame but I put to you that least in the sculpture
+
+795
+01:01:41,160 --> 01:01:47,040
+where we have two words if I ask you to tell me something that abasses you you would have
+
+796
+01:01:47,040 --> 01:01:53,600
+more readily willing to do it than if I asked you about something that changed you.
+
+797
+01:01:53,600 --> 01:01:59,440
+This is not just intensity we also have the word humiliation which is a very intense form
+
+798
+01:01:59,440 --> 01:02:01,960
+of shame.
+
+799
+01:02:01,960 --> 01:02:10,720
+Or mortification which as you mentioned earlier you're dying of shame.
+
+800
+01:02:10,720 --> 01:02:16,440
+I mean I think people experience embarrassment of some kind or another every day on a mild
+
+801
+01:02:16,440 --> 01:02:17,440
+form.
+
+802
+01:02:17,440 --> 01:02:24,640
+Sure but there are certain things that really define you okay so if someone says Michael
+
+803
+01:02:24,640 --> 01:02:29,400
+your parallel parking is really atrocious.
+
+804
+01:02:29,400 --> 01:02:36,240
+I may not like it I may feel yeah you're right I'm going backwards it's become more
+
+805
+01:02:36,240 --> 01:02:38,400
+difficult as I've aged.
+
+806
+01:02:38,400 --> 01:02:55,840
+But if they said Gee your last book is absolutely horrible it would elicit more embarrassment
+
+807
+01:02:55,840 --> 01:02:59,240
+of shame with a bad reveal.
+
+808
+01:02:59,240 --> 01:03:04,520
+So clearly there are different aspects of ourselves which are more important.
+
+809
+01:03:04,520 --> 01:03:10,560
+I'm going to if you guys don't mind layer on one more layer to this conversation which
+
+810
+01:03:10,560 --> 01:03:15,440
+I'm fascinated thinking about because I we've talked a lot about the individual experience
+
+811
+01:03:15,440 --> 01:03:19,680
+of shame you've talked a little bit about norms within a culture and how that changes
+
+812
+01:03:19,680 --> 01:03:20,680
+it.
+
+813
+01:03:20,680 --> 01:03:24,200
+I want to talk about group shame.
+
+814
+01:03:24,200 --> 01:03:30,240
+Group shame and I'll just throw out an example the Catholic church.
+
+815
+01:03:30,240 --> 01:03:32,640
+You know remember I talked about the phases of shame.
+
+816
+01:03:32,640 --> 01:03:37,880
+You're sitting in the shame there is outrage and denial of the shame then there's facing
+
+817
+01:03:37,880 --> 01:03:43,920
+the facts and then they're saying stepping outside and saying this is this is what happens.
+
+818
+01:03:43,920 --> 01:03:48,280
+You know I'm just going to throw that out the pope came out and he started talking about
+
+819
+01:03:48,280 --> 01:03:52,480
+oh you know sexual abuse of children is a terrible thing it's really terrible isn't
+
+820
+01:03:52,480 --> 01:03:54,080
+a terrible.
+
+821
+01:03:54,080 --> 01:03:58,120
+He didn't actually say this is what happened in the church this is what we're going to
+
+822
+01:03:58,120 --> 01:03:59,120
+do about it.
+
+823
+01:03:59,120 --> 01:04:00,560
+He never really cleaned house.
+
+824
+01:04:00,560 --> 01:04:03,040
+He never really went through stage three.
+
+825
+01:04:03,040 --> 01:04:09,320
+He kind of jumped to stage four like you can all forgive me this is an apology quote unquote
+
+826
+01:04:09,320 --> 01:04:11,040
+of course I'm putting my take on it.
+
+827
+01:04:11,040 --> 01:04:18,440
+But my point is that I want to talk about how groups inhabit shame how they get outraged
+
+828
+01:04:18,440 --> 01:04:23,840
+by accusations and how they come to see the truth see face their own facts clean their
+
+829
+01:04:23,840 --> 01:04:24,840
+own house.
+
+830
+01:04:24,840 --> 01:04:29,760
+How do they how do they navigate shame as groups.
+
+831
+01:04:29,760 --> 01:04:34,360
+Well did they navigate shame was only when we told them you should have felt shame about
+
+832
+01:04:34,360 --> 01:04:38,600
+this then they thought oh yes we did something shameful and possibly didn't.
+
+833
+01:04:38,600 --> 01:04:44,720
+See individual let me give you another example there's a very widespread habit in this country
+
+834
+01:04:44,720 --> 01:04:49,720
+of shaming children when they don't have enough school lunch money and what will happen is
+
+835
+01:04:49,720 --> 01:04:54,840
+that the children will either not be fed they will just be not fed at school or their lunch
+
+836
+01:04:54,840 --> 01:04:59,480
+will be thrown away in front of them and they sometimes even get branded on their arm.
+
+837
+01:04:59,480 --> 01:05:02,080
+I don't have enough lunch money.
+
+838
+01:05:02,080 --> 01:05:07,880
+The individuals who work at the lunchrooms sometimes refuse to do this policy and they
+
+839
+01:05:07,880 --> 01:05:09,760
+get fired.
+
+840
+01:05:09,760 --> 01:05:16,680
+So I'm not claiming that I think of that as a sort of systemic shame if you will it is
+
+841
+01:05:16,680 --> 01:05:22,160
+created as a policy and it is perpetrated by groups not every single individual in the
+
+842
+01:05:22,160 --> 01:05:27,240
+group has to agree with it as a policy because they might actually find it to shaming.
+
+843
+01:05:27,240 --> 01:05:31,120
+But for that matter I mean obviously lots of priests were doing terrible things but not
+
+844
+01:05:31,120 --> 01:05:33,720
+every priest thought that was a good idea.
+
+845
+01:05:33,720 --> 01:05:40,360
+Like we can't assume that it was like a unified attempt right but at the same time it is a
+
+846
+01:05:40,360 --> 01:05:42,560
+group thing.
+
+847
+01:05:42,560 --> 01:05:47,760
+It is a sort of a group navigation led by the Pope perhaps but like what is happening
+
+848
+01:05:47,760 --> 01:05:53,000
+there and when are we going to actually see them get to stage three cleaning house tell
+
+849
+01:05:53,000 --> 01:05:55,760
+us what the consequences are cleaning up their act.
+
+850
+01:05:55,760 --> 01:05:59,920
+And who is it the same process as for an individual?
+
+851
+01:05:59,920 --> 01:06:00,920
+That's what I'm saying.
+
+852
+01:06:00,920 --> 01:06:01,920
+Yes.
+
+853
+01:06:01,920 --> 01:06:10,120
+I mean you know the thing about it that is it's good news and bad news is good news because
+
+854
+01:06:10,120 --> 01:06:11,720
+we kind of understand it.
+
+855
+01:06:11,720 --> 01:06:18,900
+It's bad news because well I feel like I'm in stage four with gay shit bashing or fat
+
+856
+01:06:18,900 --> 01:06:22,360
+shaming or race shaming.
+
+857
+01:06:22,360 --> 01:06:27,280
+But I can't be in charge of everyone like how do we get the rest of you know how do
+
+858
+01:06:27,280 --> 01:06:30,120
+we pull people in this direction?
+
+859
+01:06:30,120 --> 01:06:32,800
+This is why you're moving toward something.
+
+860
+01:06:32,800 --> 01:06:33,800
+Yeah.
+
+861
+01:06:33,800 --> 01:06:35,120
+What are you moving toward?
+
+862
+01:06:35,120 --> 01:06:36,120
+An understanding.
+
+863
+01:06:36,120 --> 01:06:37,920
+Understanding of what?
+
+864
+01:06:37,920 --> 01:06:40,760
+Well see the examples I just gave are all in the first category.
+
+865
+01:06:40,760 --> 01:06:42,440
+You were talking about stages.
+
+866
+01:06:42,440 --> 01:06:43,440
+Yeah.
+
+867
+01:06:43,440 --> 01:06:46,560
+Tell me about stages because I don't know what that means.
+
+868
+01:06:46,560 --> 01:06:57,320
+Stages reflect a sequence where either accommodation, biology, culture or culture or biology.
+
+869
+01:06:57,320 --> 01:07:04,080
+So are you talking about a level of notion?
+
+870
+01:07:04,080 --> 01:07:05,800
+I don't think so.
+
+871
+01:07:05,800 --> 01:07:07,800
+But maybe you are.
+
+872
+01:07:07,800 --> 01:07:10,960
+What progress amount to and what is the difference?
+
+873
+01:07:10,960 --> 01:07:15,480
+I have all chapter in the shame book on this problem of progress.
+
+874
+01:07:15,480 --> 01:07:18,160
+What is progress?
+
+875
+01:07:18,160 --> 01:07:19,000
+What is progress?
+
+876
+01:07:19,000 --> 01:07:22,480
+So what is the ideal?
+
+877
+01:07:22,480 --> 01:07:24,080
+Let me put it this way.
+
+878
+01:07:24,080 --> 01:07:30,920
+Tell me from your perspective what the ideal society would be.
+
+879
+01:07:30,920 --> 01:07:33,160
+Wouldn't there be shame in it?
+
+880
+01:07:33,160 --> 01:07:34,920
+There would not be punching down shame.
+
+881
+01:07:34,920 --> 01:07:39,880
+So I was going to say that the examples I gave sexual abuse shaming people for being
+
+882
+01:07:39,880 --> 01:07:45,440
+poor, shaming children for being not having school lunch money, gay bashing.
+
+883
+01:07:45,440 --> 01:07:51,400
+Those examples are examples of punching down shame which I claim exist quite a lot.
+
+884
+01:07:51,400 --> 01:07:54,000
+There's a lot of power being maintained around punching down shame.
+
+885
+01:07:54,000 --> 01:08:00,080
+There's a lot of profit being made from punching down shame and I would call it invalid shame.
+
+886
+01:08:00,080 --> 01:08:03,440
+And the idea of progress would be to get past it.
+
+887
+01:08:03,440 --> 01:08:06,240
+And that would require that people who are shame by it say no.
+
+888
+01:08:06,240 --> 01:08:07,240
+No, it's not acceptable.
+
+889
+01:08:07,240 --> 01:08:09,080
+When you do those things.
+
+890
+01:08:09,080 --> 01:08:16,120
+If you get those things that people are doing, just punch down.
+
+891
+01:08:16,120 --> 01:08:21,600
+I characterize punching down shame as when you are shaming someone who has no choice,
+
+892
+01:08:21,600 --> 01:08:23,400
+who has either no choice or no voice.
+
+893
+01:08:23,400 --> 01:08:28,480
+So they either have no choice to conform to the norm or they have no power to explain
+
+894
+01:08:28,480 --> 01:08:29,480
+themselves.
+
+895
+01:08:29,480 --> 01:08:31,040
+So how's the lunch money work?
+
+896
+01:08:31,040 --> 01:08:33,240
+I don't quite have a picture of that as a shame.
+
+897
+01:08:33,240 --> 01:08:34,240
+Yeah.
+
+898
+01:08:34,240 --> 01:08:35,720
+You've never heard of that?
+
+899
+01:08:35,720 --> 01:08:36,720
+No.
+
+900
+01:08:36,720 --> 01:08:38,520
+It happens in more than half the school districts in this country.
+
+901
+01:08:38,520 --> 01:08:39,520
+Really?
+
+902
+01:08:39,520 --> 01:08:42,080
+I mean, why is it shaming?
+
+903
+01:08:42,080 --> 01:08:43,560
+What form does it take?
+
+904
+01:08:43,560 --> 01:08:44,560
+What's said?
+
+905
+01:08:44,560 --> 01:08:45,560
+What?
+
+906
+01:08:45,560 --> 01:08:46,560
+You are refused.
+
+907
+01:08:46,560 --> 01:08:48,040
+You did not give in food?
+
+908
+01:08:48,040 --> 01:08:49,720
+Okay, that's the number one.
+
+909
+01:08:49,720 --> 01:08:50,720
+You're not given food.
+
+910
+01:08:50,720 --> 01:08:51,720
+You're deprived of food.
+
+911
+01:08:51,720 --> 01:08:54,440
+You're considered, you're basically labeled as unworthy of food.
+
+912
+01:08:54,440 --> 01:08:57,040
+It is the most basic form of shaming.
+
+913
+01:08:57,040 --> 01:08:59,320
+And they are branded and you are, it's public.
+
+914
+01:08:59,320 --> 01:09:02,000
+It is like, hey, your parents didn't pay for food.
+
+915
+01:09:02,000 --> 01:09:03,400
+You're not going to get food.
+
+916
+01:09:03,400 --> 01:09:07,040
+Everybody knows it in the school lunch.
+
+917
+01:09:07,040 --> 01:09:08,920
+Even if they can't afford to give the money.
+
+918
+01:09:08,920 --> 01:09:10,280
+Of course, it's their children.
+
+919
+01:09:10,280 --> 01:09:12,440
+I mean, just to be clear, this is children.
+
+920
+01:09:12,440 --> 01:09:15,120
+It's their parents that are supposed to pay.
+
+921
+01:09:15,120 --> 01:09:16,560
+Do they have no power?
+
+922
+01:09:16,560 --> 01:09:17,560
+Yes, right.
+
+923
+01:09:17,560 --> 01:09:18,560
+Yes, exactly.
+
+924
+01:09:18,560 --> 01:09:24,760
+I would love to know a source for half the school system.
+
+925
+01:09:24,760 --> 01:09:26,600
+Okay, I'll give it to you.
+
+926
+01:09:26,600 --> 01:09:29,600
+Well, that's hard to believe.
+
+927
+01:09:29,600 --> 01:09:31,080
+It is hard to believe.
+
+928
+01:09:31,080 --> 01:09:32,880
+It's outrageous, actually.
+
+929
+01:09:32,880 --> 01:09:46,160
+The optimist, the terrible man that people are capable of perpetuating is not surprising.
+
+930
+01:09:46,160 --> 01:09:54,200
+So whether we want to call it up or down, punching, which is fine, it's a way of attacks
+
+931
+01:09:54,200 --> 01:09:55,960
+out of me.
+
+932
+01:09:55,960 --> 01:09:59,360
+He applied, there's a good shame or a bad shame.
+
+933
+01:09:59,360 --> 01:10:10,400
+If my child comes back with a paper or something they've done and they've not done well, what
+
+934
+01:10:10,400 --> 01:10:17,080
+are you going to tell parents or the tiger moms as they're called?
+
+935
+01:10:17,080 --> 01:10:19,520
+You shouldn't be doing that.
+
+936
+01:10:19,520 --> 01:10:28,080
+I mean, how can we disagree with people doing these things to children?
+
+937
+01:10:28,080 --> 01:10:29,960
+I mean, this can't be a New York.
+
+938
+01:10:29,960 --> 01:10:31,560
+There are laws against the child abuse.
+
+939
+01:10:31,560 --> 01:10:34,120
+So I think we can disagree about certain things.
+
+940
+01:10:34,120 --> 01:10:36,160
+But specifically about shame.
+
+941
+01:10:36,160 --> 01:10:40,000
+You mentioned that you were fat-chained.
+
+942
+01:10:40,000 --> 01:10:41,000
+Yeah.
+
+943
+01:10:41,000 --> 01:10:50,320
+Does that mean that you are more prone to shame as a result of that?
+
+944
+01:10:50,320 --> 01:10:55,320
+Or does that mean that you are no more prone to shame than anybody else?
+
+945
+01:10:55,320 --> 01:11:02,120
+In other words, is the implication that that kind of shaming leaves rather serious marks
+
+946
+01:11:02,120 --> 01:11:05,600
+on the person that is indelible?
+
+947
+01:11:05,600 --> 01:11:11,800
+Or is it that some people react one way, some people, kids react one way, some kids react
+
+948
+01:11:11,800 --> 01:11:17,640
+the other way and some grow up without much shaming by anybody and they have more prone
+
+949
+01:11:17,640 --> 01:11:19,840
+to shame and some don't?
+
+950
+01:11:19,840 --> 01:11:20,840
+That's a good question.
+
+951
+01:11:20,840 --> 01:11:24,600
+I mean, my parents shame me, I think, because they were fat.
+
+952
+01:11:24,600 --> 01:11:28,600
+So they were sort of propagating a certain type of shame onto me.
+
+953
+01:11:28,600 --> 01:11:31,720
+I have not done that to my children.
+
+954
+01:11:31,720 --> 01:11:33,560
+But that's because I've thought a lot about it.
+
+955
+01:11:33,560 --> 01:11:37,440
+You know, like I went through these stages I'm trying to describe.
+
+956
+01:11:37,440 --> 01:11:42,400
+That's one of the reasons I came up with this taxonomy of shame is to understand when is
+
+957
+01:11:42,400 --> 01:11:44,480
+it unfair, when is it possible to ask for it?
+
+958
+01:11:44,480 --> 01:11:48,760
+Are you yourself more prone to shame than, let's say, your husband or your kids?
+
+959
+01:11:48,760 --> 01:11:50,640
+I think I'm more aware of my shame.
+
+960
+01:11:50,640 --> 01:11:51,640
+More aware.
+
+961
+01:11:51,640 --> 01:11:52,640
+But not more prone.
+
+962
+01:11:52,640 --> 01:11:56,200
+In other words, you don't more easily than somebody else.
+
+963
+01:11:56,200 --> 01:11:59,680
+I would like to hear what instead of a, I'm going to put it back to you.
+
+964
+01:11:59,680 --> 01:12:00,680
+I don't know.
+
+965
+01:12:00,680 --> 01:12:09,360
+I'm only asking because it seems to me from my perspective and my experience, the kind
+
+966
+01:12:09,360 --> 01:12:18,480
+of outside shaming is not what often or necessarily leads to a promise to shame later.
+
+967
+01:12:18,480 --> 01:12:25,120
+But rather certain developments in the strength of the person's self, in their self-esteem,
+
+968
+01:12:25,120 --> 01:12:29,760
+in their view of themselves is what contributes to how they feel later.
+
+969
+01:12:29,760 --> 01:12:30,760
+Interesting.
+
+970
+01:12:30,760 --> 01:12:31,760
+Let me support that.
+
+971
+01:12:31,760 --> 01:12:38,640
+It's another life work in pediatrics.
+
+972
+01:12:38,640 --> 01:12:41,360
+And we've been doing a study, the Fellows.
+
+973
+01:12:41,360 --> 01:12:45,960
+We have a fellowship program and I'm in charge of the research.
+
+974
+01:12:45,960 --> 01:12:54,400
+And there is a fellow who is studying the siblings of children who have ASD, who are
+
+975
+01:12:54,400 --> 01:12:57,120
+autistic on the spectrum.
+
+976
+01:12:57,120 --> 01:13:09,080
+And the idea being what does a sibling feel about having a sibling who is demonstrably
+
+977
+01:13:09,080 --> 01:13:12,280
+different?
+
+978
+01:13:12,280 --> 01:13:21,400
+And the interesting fondness so far is that there are a good number of the people who
+
+979
+01:13:21,400 --> 01:13:29,760
+end up taking care of handicapped kids or kids with disabilities are, in fact, from
+
+980
+01:13:29,760 --> 01:13:38,440
+families from which they had a close number, as well as just the opposite.
+
+981
+01:13:38,440 --> 01:13:47,240
+So that indeed supporting what you're saying, that in fact an experience can have very different
+
+982
+01:13:47,240 --> 01:13:48,240
+consequence.
+
+983
+01:13:48,240 --> 01:13:50,440
+One is a social good.
+
+984
+01:13:50,440 --> 01:13:56,560
+There are people committed to working with these children who, until now, we don't have
+
+985
+01:13:56,560 --> 01:14:05,560
+much resource to improve, but they are working with them versus those who probably develop
+
+986
+01:14:05,560 --> 01:14:11,040
+a, I get it and if you don't do what you are, you know.
+
+987
+01:14:11,040 --> 01:14:13,040
+This is temperamental difference.
+
+988
+01:14:13,040 --> 01:14:16,600
+People are born with different, comfortable or more resilient.
+
+989
+01:14:16,600 --> 01:14:18,480
+I think they're born out of it, right?
+
+990
+01:14:18,480 --> 01:14:20,360
+Other people are more fragile.
+
+991
+01:14:20,360 --> 01:14:30,920
+But you know, after spending 40 years at a medical school, my thoughts about the biology
+
+992
+01:14:30,920 --> 01:14:32,920
+of our bodies.
+
+993
+01:14:32,920 --> 01:14:38,200
+You know, we're not all the same temperament, however we may conceive of it.
+
+994
+01:14:38,200 --> 01:14:40,040
+There are different things.
+
+995
+01:14:40,040 --> 01:14:48,160
+My son and daughter are 50 years old when they were babies and I would, you know, toss
+
+996
+01:14:48,160 --> 01:14:50,400
+them up and prove them in the air.
+
+997
+01:14:50,400 --> 01:14:57,480
+But you know, just the girl baby, the younger, she loved it.
+
+998
+01:14:57,480 --> 01:15:05,320
+And she loves the rough and tumble, she goes in short cages and in cages protecting you
+
+999
+01:15:05,320 --> 01:15:11,840
+from my son who was in terror of it.
+
+1000
+01:15:11,840 --> 01:15:21,000
+In fact, I want to try to get my mind around you are questioned about groups and how do
+
+1001
+01:15:21,000 --> 01:15:22,000
+they react.
+
+1002
+01:15:22,000 --> 01:15:26,320
+And I guess I need some clarification because when you say how does a group deal with its
+
+1003
+01:15:26,320 --> 01:15:27,320
+own shame?
+
+1004
+01:15:27,320 --> 01:15:28,320
+Yes.
+
+1005
+01:15:28,320 --> 01:15:33,200
+Do you mean they have in fact done something which everyone would agree is shameful or
+
+1006
+01:15:33,200 --> 01:15:37,840
+do you mean they have been shamed by some powerful group telling them to do what they're
+
+1007
+01:15:37,840 --> 01:15:38,840
+doing is shameful.
+
+1008
+01:15:38,840 --> 01:15:44,680
+So for example, we have many examples in colonial domination situations.
+
+1009
+01:15:44,680 --> 01:15:49,040
+Let's say you believe the West is best and its view of gender relations, its view of
+
+1010
+01:15:49,040 --> 01:15:55,520
+XYZ is closer to the truth than those primitives or backward peoples of the world.
+
+1011
+01:15:55,520 --> 01:15:59,920
+And you start going and dominating those groups and telling them that what they're doing with
+
+1012
+01:15:59,920 --> 01:16:04,640
+regard to gender relations, how they raise their children, all this is shameful.
+
+1013
+01:16:04,640 --> 01:16:06,640
+Now is that the kind of question we're dealing with?
+
+1014
+01:16:06,640 --> 01:16:08,040
+How do those groups then react?
+
+1015
+01:16:08,040 --> 01:16:14,480
+As we know that some groups identify with the colonials and quickly become colonialized.
+
+1016
+01:16:14,480 --> 01:16:19,280
+We know other groups have rebellions against it and have all sorts of resistance.
+
+1017
+01:16:19,280 --> 01:16:21,800
+We have revival movements that go on.
+
+1018
+01:16:21,800 --> 01:16:25,240
+But these are power dynamics that are very different from the way you framed it.
+
+1019
+01:16:25,240 --> 01:16:30,200
+We framed it with examples in which you're inviting us all to agree that's shameful what
+
+1020
+01:16:30,200 --> 01:16:31,200
+they did.
+
+1021
+01:16:31,200 --> 01:16:36,000
+Not that some group is shaming another group from its power position and those are very
+
+1022
+01:16:36,000 --> 01:16:37,920
+different situations.
+
+1023
+01:16:37,920 --> 01:16:39,960
+And I'm just wondering what you would have.
+
+1024
+01:16:39,960 --> 01:16:42,760
+After you answer, we will go to questions.
+
+1025
+01:16:42,760 --> 01:16:43,760
+Okay, great.
+
+1026
+01:16:43,760 --> 01:16:46,960
+Yeah, I mean, I think it's a great question.
+
+1027
+01:16:46,960 --> 01:16:52,200
+And I'm not sure I was scrupulously careful about the examples, but what I really want
+
+1028
+01:16:52,200 --> 01:16:56,800
+to focus on is changing norms, probably is the best way of saying it.
+
+1029
+01:16:56,800 --> 01:17:01,920
+And maybe a good example in that context is the Me Too movement.
+
+1030
+01:17:01,920 --> 01:17:06,160
+So the Me Too movement is a movement because we are changing our norms.
+
+1031
+01:17:06,160 --> 01:17:09,160
+We never actually thought it was okay to assault women.
+
+1032
+01:17:09,160 --> 01:17:10,440
+We never thought that.
+
+1033
+01:17:10,440 --> 01:17:14,000
+But the norm was that the women kept quiet.
+
+1034
+01:17:14,000 --> 01:17:15,880
+The norm has changed.
+
+1035
+01:17:15,880 --> 01:17:23,000
+And now there's a lot of group shame among the men who now feel like, oh, what I used
+
+1036
+01:17:23,000 --> 01:17:25,000
+to be doing was inappropriate.
+
+1037
+01:17:25,000 --> 01:17:27,360
+That's an example of group shame.
+
+1038
+01:17:27,360 --> 01:17:30,960
+And I'm not saying they're all actually feeling like I should feel ashamed.
+
+1039
+01:17:30,960 --> 01:17:35,360
+Some of them are outraged that these norms have changed under their feet.
+
+1040
+01:17:35,360 --> 01:17:37,520
+And how dare that norm changed?
+
+1041
+01:17:37,520 --> 01:17:40,840
+I was perfectly comfortable and now I'm a bad guy.
+
+1042
+01:17:40,840 --> 01:17:45,840
+So that is, but it's a group, nor a group shaming.
+
+1043
+01:17:45,840 --> 01:17:49,120
+And my theory is that it goes through the stages of shame similar to the way I laid
+
+1044
+01:17:49,120 --> 01:17:50,120
+them out.
+
+1045
+01:17:50,120 --> 01:17:51,760
+And I might be wrong about that.
+
+1046
+01:17:51,760 --> 01:17:53,400
+I don't mind being wrong.
+
+1047
+01:17:53,400 --> 01:17:57,960
+Just because I'm a mathematician, I'm trained to just be happy to be wrong.
+
+1048
+01:17:57,960 --> 01:17:58,960
+I love shame.
+
+1049
+01:17:58,960 --> 01:18:03,640
+If you can explain, yeah, it's actually one of those one of those freeing things as a
+
+1050
+01:18:03,640 --> 01:18:06,680
+mathematician is that you say something and someone says you're wrong.
+
+1051
+01:18:06,680 --> 01:18:09,280
+You're like, thanks for not like I won't waste my time on it.
+
+1052
+01:18:09,280 --> 01:18:15,440
+But it's useful even if it's wrong, I believe, to understand group shame as an evolution
+
+1053
+01:18:15,440 --> 01:18:17,800
+through stages similar to the individual.
+
+1054
+01:18:17,800 --> 01:18:20,320
+Okay, we'll go for questions.
+
+1055
+01:18:20,320 --> 01:18:22,720
+So there is the mic and go to it.
+
+1056
+01:18:22,720 --> 01:18:24,880
+The mic works now?
+
+1057
+01:18:24,880 --> 01:18:29,960
+I hope it works now.
+
+1058
+01:18:29,960 --> 01:18:45,360
+It was very, very interesting here today listening to everybody.
+
+1059
+01:18:45,360 --> 01:18:52,280
+Some of the things that we did not talk about today, what about people like we, everybody
+
+1060
+01:18:52,280 --> 01:18:58,040
+knows Martha Stewart, who was incarcerated for a period of time.
+
+1061
+01:18:58,040 --> 01:19:05,880
+She was shamed and then she was released from jail and Martha Stewart just picked up right
+
+1062
+01:19:05,880 --> 01:19:10,800
+from where she left off and she's on TV and she's selling her merchandise.
+
+1063
+01:19:10,800 --> 01:19:19,000
+And just recently we have Anthony Wiener, who was in some sort of a halfway house for
+
+1064
+01:19:19,000 --> 01:19:20,480
+pornography and all that.
+
+1065
+01:19:20,480 --> 01:19:27,920
+Now he was just, Anthony Wiener was released and he's thinking about going into politics
+
+1066
+01:19:27,920 --> 01:19:33,840
+again so I'm just using a couple of extreme examples that we did not talk about today.
+
+1067
+01:19:33,840 --> 01:19:34,840
+Thank you.
+
+1068
+01:19:34,840 --> 01:19:35,840
+Who wants to respond?
+
+1069
+01:19:35,840 --> 01:19:38,440
+Sounds like you're proposing banishment.
+
+1070
+01:19:38,440 --> 01:19:57,080
+I mean part of the problem is that shame is I think it fits with the change in empathy.
+
+1071
+01:19:57,080 --> 01:20:05,040
+By the way, a rules manner is, we haven't gotten to which would be a very important part of
+
+1072
+01:20:05,040 --> 01:20:06,920
+the discussion.
+
+1073
+01:20:06,920 --> 01:20:16,720
+The idea of letting it all hang out as opposed to a rules governing our behavior.
+
+1074
+01:20:16,720 --> 01:20:22,360
+So you write a thank you note for dinner whether you liked it or not.
+
+1075
+01:20:22,360 --> 01:20:31,080
+And now that it would be called lying and so the whole issue and the change in social
+
+1076
+01:20:31,080 --> 01:20:39,400
+protecting the feelings of others have given way to be authentic and indeed the election
+
+1077
+01:20:39,400 --> 01:20:45,280
+really hinged on the fact that even though he was a terrible man, he was at least authentic
+
+1078
+01:20:45,280 --> 01:20:50,320
+where she was inauthentic and so is.
+
+1079
+01:20:50,320 --> 01:21:01,120
+So the fact is that we're allowed, we have no shame about being shame is in fact what's
+
+1080
+01:21:01,120 --> 01:21:02,120
+occurring.
+
+1081
+01:21:02,120 --> 01:21:03,120
+Okay.
+
+1082
+01:21:03,120 --> 01:21:10,680
+Yeah, I just wanted to comment on individual versus institutional shame.
+
+1083
+01:21:10,680 --> 01:21:16,240
+You brought up the example of the Catholic church and why hasn't the pope felt more
+
+1084
+01:21:16,240 --> 01:21:18,440
+shame.
+
+1085
+01:21:18,440 --> 01:21:22,120
+Questions make political and financial decisions.
+
+1086
+01:21:22,120 --> 01:21:24,960
+They can't be shamed the way individuals are.
+
+1087
+01:21:24,960 --> 01:21:30,320
+But my question is to the professor, I see some agreement here.
+
+1088
+01:21:30,320 --> 01:21:37,240
+My question is to the professional psychologists among you.
+
+1089
+01:21:37,240 --> 01:21:44,360
+And this concerns the most prominent shamer, the shamer in chief.
+
+1090
+01:21:44,360 --> 01:21:52,480
+You feel that this is more strategic and purposeful than he's given credit for or on the other
+
+1091
+01:21:52,480 --> 01:21:54,560
+end of the spectrum.
+
+1092
+01:21:54,560 --> 01:21:57,560
+Does he suffer from a pathology?
+
+1093
+01:21:57,560 --> 01:22:10,000
+Well, 40, 45, 40% of the people believe that he has done nothing wrong.
+
+1094
+01:22:10,000 --> 01:22:16,880
+That is to say we're back to facts, even though you can demonstrate that he says he
+
+1095
+01:22:16,880 --> 01:22:23,840
+hasn't said something and you have a tape of him saying that he would just call it fake
+
+1096
+01:22:23,840 --> 01:22:25,000
+news.
+
+1097
+01:22:25,000 --> 01:22:32,960
+So one of the things that narcissists can do is that they change the rules, the normative
+
+1098
+01:22:32,960 --> 01:22:35,080
+behavior.
+
+1099
+01:22:35,080 --> 01:22:42,280
+So while on you're having now a man who did things that they shouldn't have done and
+
+1100
+01:22:42,280 --> 01:22:49,680
+now feel a movement to get them to feel there is also this movement and there's nothing
+
+1101
+01:22:49,680 --> 01:22:52,240
+to be ashamed about.
+
+1102
+01:22:52,240 --> 01:22:53,640
+You can make norms.
+
+1103
+01:22:53,640 --> 01:22:55,880
+You can go any way you want.
+
+1104
+01:22:55,880 --> 01:23:07,080
+You know, under or behind masked by his behaviors, which are defensive mechanisms, is toxic
+
+1105
+01:23:07,080 --> 01:23:08,080
+shame.
+
+1106
+01:23:08,080 --> 01:23:09,080
+Right?
+
+1107
+01:23:09,080 --> 01:23:16,040
+If you read anything about his upbringing, his background, he has massive shame, humiliation.
+
+1108
+01:23:16,040 --> 01:23:20,120
+These are all as narcissism almost always is.
+
+1109
+01:23:20,120 --> 01:23:23,080
+I have a paper that says defense of mechanism.
+
+1110
+01:23:23,080 --> 01:23:24,080
+He is wanting a band.
+
+1111
+01:23:24,080 --> 01:23:26,560
+He avoids, he attacks.
+
+1112
+01:23:26,560 --> 01:23:27,560
+Those are his two.
+
+1113
+01:23:27,560 --> 01:23:29,760
+Well, the device in my studio.
+
+1114
+01:23:29,760 --> 01:23:32,400
+Shame is so intolerable to him.
+
+1115
+01:23:32,400 --> 01:23:33,400
+Absolutely.
+
+1116
+01:23:33,400 --> 01:23:35,120
+That changes the laws.
+
+1117
+01:23:35,120 --> 01:23:36,120
+No changes, facts.
+
+1118
+01:23:36,120 --> 01:23:37,120
+He changes the laws.
+
+1119
+01:23:37,120 --> 01:23:40,040
+But you mentioned earlier, it claims others.
+
+1120
+01:23:40,040 --> 01:23:44,560
+You know, both of you had talked about the idea, the idea of, I don't think he's aware
+
+1121
+01:23:44,560 --> 01:23:50,560
+that he has, I don't think he'd ever admit or is aware that that's why he's doing it.
+
+1122
+01:23:50,560 --> 01:23:51,560
+So then it's a pathology.
+
+1123
+01:23:51,560 --> 01:23:52,560
+It's a pathology.
+
+1124
+01:23:52,560 --> 01:23:53,560
+Yeah.
+
+1125
+01:23:53,560 --> 01:23:54,560
+Exactly.
+
+1126
+01:23:54,560 --> 01:23:55,560
+It's a pathology.
+
+1127
+01:23:55,560 --> 01:24:01,080
+You both talked about anger as being a reaction to be accused, to be shamed by others to respond
+
+1128
+01:24:01,080 --> 01:24:02,080
+with anger.
+
+1129
+01:24:02,080 --> 01:24:09,320
+And I think you very wisely, Kathy, especially mentioned that in this purposeless shaming,
+
+1130
+01:24:09,320 --> 01:24:13,400
+I think one of the reactions of the parties that are shamed is they get angry.
+
+1131
+01:24:13,400 --> 01:24:14,760
+And unfortunately they get mobilized.
+
+1132
+01:24:14,760 --> 01:24:21,240
+This is what this shame, shame, or in chief relies on that if you try to shame me and
+
+1133
+01:24:21,240 --> 01:24:25,080
+I don't want to accept it, I'm going to get angry with you out there, you try to shame
+
+1134
+01:24:25,080 --> 01:24:26,080
+me.
+
+1135
+01:24:26,080 --> 01:24:28,120
+And that mobilizes a lot of the populace.
+
+1136
+01:24:28,120 --> 01:24:30,320
+I think I'm going to go back to that.
+
+1137
+01:24:30,320 --> 01:24:31,320
+Okay.
+
+1138
+01:24:31,320 --> 01:24:32,320
+Next question.
+
+1139
+01:24:32,320 --> 01:24:36,240
+So I just want to get back to, it's not my fault, first of all my question, but to you
+
+1140
+01:24:36,240 --> 01:24:47,960
+would be to please elaborate on why you stated that men usually say it's not my fault more
+
+1141
+01:24:47,960 --> 01:24:49,200
+than women.
+
+1142
+01:24:49,200 --> 01:24:54,520
+But before you answer that, in terms of it's not my fault, I've always been under the
+
+1143
+01:24:54,520 --> 01:25:03,520
+impression that a person that cannot take criticism or it's not my fault, they say that
+
+1144
+01:25:03,520 --> 01:25:11,240
+because they've been criticized quite a lot either by their parents or so I don't know
+
+1145
+01:25:11,240 --> 01:25:17,800
+if that has anything to do with it's not my fault, that defensive mechanism, but that
+
+1146
+01:25:17,800 --> 01:25:21,680
+goes into not being able to even take criticism.
+
+1147
+01:25:21,680 --> 01:25:28,160
+I didn't do it, it's not my fault and it's very pathological if you, so the question
+
+1148
+01:25:28,160 --> 01:25:31,560
+though really is why men were than women.
+
+1149
+01:25:31,560 --> 01:25:32,560
+Okay.
+
+1150
+01:25:32,560 --> 01:25:34,720
+I understand why that's important.
+
+1151
+01:25:34,720 --> 01:25:41,720
+If you win the lottery, you don't feel proud, you feel very happy because it's a chance
+
+1152
+01:25:41,720 --> 01:25:43,200
+you didn't cause it.
+
+1153
+01:25:43,200 --> 01:25:49,120
+Although some people will say I went to a particular store and I knew that that was,
+
+1154
+01:25:49,120 --> 01:25:55,200
+so they give themselves causality and they can feel pride because it's negotiable here.
+
+1155
+01:25:55,200 --> 01:26:06,360
+So winning the lottery and event, you don't, most people do not feel proud of winning
+
+1156
+01:26:06,360 --> 01:26:12,240
+the lottery because it's a chance it has nothing to do with you causing it.
+
+1157
+01:26:12,240 --> 01:26:20,000
+So believing that you cause it or not cause it is a very good mechanism to move you around
+
+1158
+01:26:20,000 --> 01:26:22,200
+the self-conscious emotion.
+
+1159
+01:26:22,200 --> 01:26:30,440
+If it's not my fault, then I can feel anything I want that's appropriate and so you can manipulate
+
+1160
+01:26:30,440 --> 01:26:33,960
+it's not my fault so I'll do some manipulation.
+
+1161
+01:26:33,960 --> 01:26:35,840
+Now the sex difference.
+
+1162
+01:26:35,840 --> 01:26:44,280
+There are many explanations, there are data in which you can look at when parents are teaching
+
+1163
+01:26:44,280 --> 01:26:51,600
+children in the laboratory tasks to do and the child doesn't succeed.
+
+1164
+01:26:51,600 --> 01:26:54,520
+What does the parent say?
+
+1165
+01:26:54,520 --> 01:27:02,680
+And it turns out that parents make these performance or global attributions more to girls than they
+
+1166
+01:27:02,680 --> 01:27:05,600
+do to boys.
+
+1167
+01:27:05,600 --> 01:27:11,280
+That is to say when the child is supposed to be able to do a puzzle and the child can't
+
+1168
+01:27:11,280 --> 01:27:18,320
+do it and you listen to what the child says.
+
+1169
+01:27:18,320 --> 01:27:22,440
+A parent could say on the extremes, oh you're so stupid.
+
+1170
+01:27:22,440 --> 01:27:23,440
+Why don't you get that?
+
+1171
+01:27:23,440 --> 01:27:25,200
+Parents say these things.
+
+1172
+01:27:25,200 --> 01:27:29,880
+Or they could say it's a very hard problem.
+
+1173
+01:27:29,880 --> 01:27:34,400
+Why don't you try and get and give them a strategy.
+
+1174
+01:27:34,400 --> 01:27:41,280
+It turns out that giving strategies rather than making global attributions are more likely
+
+1175
+01:27:41,280 --> 01:27:48,560
+for mothers now to give this to the boy child than to give it to the girl child.
+
+1176
+01:27:48,560 --> 01:27:49,560
+Why?
+
+1177
+01:27:49,560 --> 01:27:56,040
+I don't know why it is but I can only tell you what we think may be going on.
+
+1178
+01:27:56,040 --> 01:27:57,200
+But let me give you another one.
+
+1179
+01:27:57,200 --> 01:28:00,080
+I really think it's another reason.
+
+1180
+01:28:00,080 --> 01:28:08,120
+I think girls are much more, that is the woman kind, are much more concerned about their
+
+1181
+01:28:08,120 --> 01:28:10,480
+bodies than men.
+
+1182
+01:28:10,480 --> 01:28:12,600
+I don't know how broad it is.
+
+1183
+01:28:12,600 --> 01:28:19,920
+I can say that in most cultures that I've been to, if it's a more formal occasion, the
+
+1184
+01:28:19,920 --> 01:28:22,440
+women are better dressed than the men.
+
+1185
+01:28:22,440 --> 01:28:25,760
+The only place that might not be true is Italy.
+
+1186
+01:28:25,760 --> 01:28:27,760
+In India it's certainly my...
+
+1187
+01:28:27,760 --> 01:28:30,760
+I don't get them aside.
+
+1188
+01:28:30,760 --> 01:28:32,400
+It's not always true.
+
+1189
+01:28:32,400 --> 01:28:33,880
+It is not always true.
+
+1190
+01:28:33,880 --> 01:28:45,200
+But indeed the attending to the body is a necessity given that menstruation, which an
+
+1191
+01:28:45,200 --> 01:28:49,760
+adolescent starts with, you have to be concerned with your body.
+
+1192
+01:28:49,760 --> 01:28:52,920
+Men don't go, don't have that concern.
+
+1193
+01:28:52,920 --> 01:29:01,560
+In the research of pre-attolescent, you ask boys, what do you feel about the fleshiness
+
+1194
+01:29:01,560 --> 01:29:06,120
+under your arm or the thickness of your thighs?
+
+1195
+01:29:06,120 --> 01:29:09,720
+And a nine-year-old boy, they don't have anything to say about it.
+
+1196
+01:29:09,720 --> 01:29:11,240
+They never thought about it.
+
+1197
+01:29:11,240 --> 01:29:18,680
+And nine-year-old girls are already telling you, oh, I think this is too much and so there
+
+1198
+01:29:18,680 --> 01:29:20,720
+is a concern for the body.
+
+1199
+01:29:20,720 --> 01:29:23,160
+So the question is why is that?
+
+1200
+01:29:23,160 --> 01:29:28,480
+One solution women have said that the object, sexual objects, for men, and so they become
+
+1201
+01:29:28,480 --> 01:29:29,480
+objectified.
+
+1202
+01:29:29,480 --> 01:29:32,680
+That's a reasonable hypothesis.
+
+1203
+01:29:32,680 --> 01:29:33,680
+But an alternative one...
+
+1204
+01:29:33,680 --> 01:29:36,040
+Where does that stop my fault, Link?
+
+1205
+01:29:36,040 --> 01:29:37,240
+How's that link to that?
+
+1206
+01:29:37,240 --> 01:29:38,240
+Okay.
+
+1207
+01:29:38,240 --> 01:29:39,240
+It's...
+
+1208
+01:29:39,240 --> 01:29:45,480
+If you attend more to yourself and that's where temperament would come in, if there's
+
+1209
+01:29:45,480 --> 01:29:52,480
+more information that you are deriving out of your body sense, that information is more
+
+1210
+01:29:52,480 --> 01:30:01,800
+likely to make you think about yourself and therefore more likely to move toward the attributions.
+
+1211
+01:30:01,800 --> 01:30:06,000
+If something went wrong, I'd like to comment just on your question.
+
+1212
+01:30:06,000 --> 01:30:08,600
+I would like to add to this a little bit.
+
+1213
+01:30:08,600 --> 01:30:11,000
+Martha Stewart, was that your example?
+
+1214
+01:30:11,000 --> 01:30:12,000
+No.
+
+1215
+01:30:12,000 --> 01:30:13,000
+Whose example is that?
+
+1216
+01:30:13,000 --> 01:30:16,560
+Martha Stewart, she never would have been prosecuted if she were a man doing exactly
+
+1217
+01:30:16,560 --> 01:30:18,760
+what she did.
+
+1218
+01:30:18,760 --> 01:30:22,680
+It's the expectations of society that villainized her in the first place.
+
+1219
+01:30:22,680 --> 01:30:24,320
+Good for her for going back to work.
+
+1220
+01:30:24,320 --> 01:30:25,760
+That's what I say.
+
+1221
+01:30:25,760 --> 01:30:32,920
+I would also like to keep an eye on the Trump officials that get blamed for their terrible
+
+1222
+01:30:32,920 --> 01:30:39,040
+behavior as Trump officials like Kirsten Nielsen and Sarah Sanders.
+
+1223
+01:30:39,040 --> 01:30:41,120
+What about all the guys?
+
+1224
+01:30:41,120 --> 01:30:50,400
+When we accuse women and we shame women, it much more often and much more than we ashamed
+
+1225
+01:30:50,400 --> 01:30:51,400
+men.
+
+1226
+01:30:51,400 --> 01:30:58,440
+I say that as a person who's written journalistic essays for Bloomberg, I get unbelievable
+
+1227
+01:30:58,440 --> 01:31:02,160
+hate from the commenters as a woman.
+
+1228
+01:31:02,160 --> 01:31:04,000
+Just unbelievable.
+
+1229
+01:31:04,000 --> 01:31:05,000
+It is completely documented.
+
+1230
+01:31:05,000 --> 01:31:08,880
+I'm just saying it is socialized to a large extent.
+
+1231
+01:31:08,880 --> 01:31:13,000
+And of course, one last thing, dieting.
+
+1232
+01:31:13,000 --> 01:31:14,000
+Guess who diets?
+
+1233
+01:31:14,000 --> 01:31:15,000
+Girls.
+
+1234
+01:31:15,000 --> 01:31:16,000
+Guess why?
+
+1235
+01:31:16,000 --> 01:31:17,000
+They're told to diet.
+
+1236
+01:31:17,000 --> 01:31:18,240
+It's by their parents.
+
+1237
+01:31:18,240 --> 01:31:22,840
+So it's very, very good data that this is socialized.
+
+1238
+01:31:22,840 --> 01:31:27,400
+The Justice Department doesn't like it when people lie to public officials.
+
+1239
+01:31:27,400 --> 01:31:32,800
+And Martha Stewart was not sent to jail because of the inside of trading accusation.
+
+1240
+01:31:32,800 --> 01:31:38,240
+Inside of trading itself is a very complicated area and it's gone through lots of changes.
+
+1241
+01:31:38,240 --> 01:31:44,080
+But when you lie, when you're being interrogated by the FBI, they don't look at your gender.
+
+1242
+01:31:44,080 --> 01:31:47,080
+That's like a fundamental principle for them, whether you like it or not.
+
+1243
+01:31:47,080 --> 01:31:48,280
+I don't like it.
+
+1244
+01:31:48,280 --> 01:31:49,280
+I don't like it.
+
+1245
+01:31:49,280 --> 01:31:53,720
+I agree with you about Martha Stewart good for you.
+
+1246
+01:31:53,720 --> 01:31:58,560
+And I think it was unfair to just nail her on the procedural thing.
+
+1247
+01:31:58,560 --> 01:32:01,200
+But they do that all the time and they do it to men and women.
+
+1248
+01:32:01,200 --> 01:32:02,720
+I have a somewhat different view than Mike.
+
+1249
+01:32:02,720 --> 01:32:07,400
+I would be really skeptical of a generalization of that gender in this area because I think
+
+1250
+01:32:07,400 --> 01:32:14,520
+a really fundamental principle of action is the premise that all human beings have is
+
+1251
+01:32:14,520 --> 01:32:19,080
+that there's a relationship between action and outcome.
+
+1252
+01:32:19,080 --> 01:32:20,680
+I might.
+
+1253
+01:32:20,680 --> 01:32:22,280
+I swing an axe.
+
+1254
+01:32:22,280 --> 01:32:23,960
+Something happens.
+
+1255
+01:32:23,960 --> 01:32:28,720
+Everyday life is built on the fundamental premise of a relationship between action and
+
+1256
+01:32:28,720 --> 01:32:29,720
+outcome.
+
+1257
+01:32:29,720 --> 01:32:31,280
+And that's the default.
+
+1258
+01:32:31,280 --> 01:32:32,280
+That's where you start.
+
+1259
+01:32:32,280 --> 01:32:36,880
+If you're going to move away from it, there are special cases in which you might have a
+
+1260
+01:32:36,880 --> 01:32:40,120
+conception of something, the world being simply a lottery.
+
+1261
+01:32:40,120 --> 01:32:41,120
+It's a horrible notion.
+
+1262
+01:32:41,120 --> 01:32:44,640
+If you really think about it that way because you're losing control of your life.
+
+1263
+01:32:44,640 --> 01:32:46,000
+It's if it's that way.
+
+1264
+01:32:46,000 --> 01:32:50,160
+And the relationship of action and outcome has all sorts of manifestations for men and
+
+1265
+01:32:50,160 --> 01:32:51,160
+women.
+
+1266
+01:32:51,160 --> 01:32:55,280
+And I would bet you can find areas where men might be one way and women and other and
+
+1267
+01:32:55,280 --> 01:32:57,760
+just the opposite in some other domain.
+
+1268
+01:32:57,760 --> 01:33:02,280
+But I'd really be surprised if the most fundamental premise was what you're at.
+
+1269
+01:33:02,280 --> 01:33:06,240
+What you do has consequences and you're responsible for it.
+
+1270
+01:33:06,240 --> 01:33:13,120
+In my limited experience, because it's only from within my office, it's not based on
+
+1271
+01:33:13,120 --> 01:33:14,600
+extensive research.
+
+1272
+01:33:14,600 --> 01:33:20,320
+But in my experience, I do not see a distinction.
+
+1273
+01:33:20,320 --> 01:33:27,840
+But what I do see is that the harder the person is on themselves, the more they're tempted
+
+1274
+01:33:27,840 --> 01:33:32,000
+to say it's not my fault when they're confronted with something.
+
+1275
+01:33:32,000 --> 01:33:37,880
+The more the person is willing to accept that they've done something wrong, the less they
+
+1276
+01:33:37,880 --> 01:33:43,560
+are willing, they need to say, oh no, it's not my fault.
+
+1277
+01:33:43,560 --> 01:33:52,360
+That's a complicated question because it involves all sorts of developmental issues.
+
+1278
+01:33:52,360 --> 01:33:53,360
+Yeah.
+
+1279
+01:33:53,360 --> 01:33:54,360
+Yeah.
+
+1280
+01:33:54,360 --> 01:33:56,320
+Thank you.
+
+1281
+01:33:56,320 --> 01:33:59,760
+I'm overcoming my public speaking shame by doing this.
+
+1282
+01:33:59,760 --> 01:34:01,240
+That's what I hear of something.
+
+1283
+01:34:01,240 --> 01:34:02,240
+Thank you.
+
+1284
+01:34:02,240 --> 01:34:03,240
+Good job.
+
+1285
+01:34:03,240 --> 01:34:04,400
+Thank you.
+
+1286
+01:34:04,400 --> 01:34:10,600
+My question is I always thought of guilt as being almost like the introjected parental
+
+1287
+01:34:10,600 --> 01:34:17,520
+figure telling us what to do and shame more as being part of the death drive as aggression
+
+1288
+01:34:17,520 --> 01:34:19,240
+towards ourselves.
+
+1289
+01:34:19,240 --> 01:34:24,600
+So I think that in my own opinion, to get over shame, we can sublimate that aggression
+
+1290
+01:34:24,600 --> 01:34:33,560
+outwards into more socially acceptable and positive ways, what are your views on that?
+
+1291
+01:34:33,560 --> 01:34:39,040
+I would recommend that everyone go back and see the movie Four Feathers Done by Corda.
+
+1292
+01:34:39,040 --> 01:34:46,000
+And the movie Four Feathers Done in the 1930s in which you were in a military family in England
+
+1293
+01:34:46,000 --> 01:34:48,760
+and they're going off to the Sudan to fight.
+
+1294
+01:34:48,760 --> 01:34:51,800
+And one of the buddies decides he's not going to go.
+
+1295
+01:34:51,800 --> 01:34:57,320
+And the Four Feathers are the feathers that you receive being accused of being a coward.
+
+1296
+01:34:57,320 --> 01:35:04,560
+In this case by his fiance and his buddies and the rest of the movie is about his attempt
+
+1297
+01:35:04,560 --> 01:35:13,040
+to do incredible things of courage to be accepted back into this, having been shamed so powerfully.
+
+1298
+01:35:13,040 --> 01:35:19,960
+And that seems to me as a kind of typification of how shame works in a society that has statuses,
+
+1299
+01:35:19,960 --> 01:35:23,600
+has clear goals, has notions of the good.
+
+1300
+01:35:23,600 --> 01:35:30,080
+And when you fall out of it and you are called on it, it's an incredibly powerful set of
+
+1301
+01:35:30,080 --> 01:35:32,280
+motivations that go on.
+
+1302
+01:35:32,280 --> 01:35:38,920
+And the movie is well worth seeing if you want to see, let's call it the pre-modern view
+
+1303
+01:35:38,920 --> 01:35:41,960
+of how this whole thing operates.
+
+1304
+01:35:41,960 --> 01:35:43,880
+And it doesn't fit that definition.
+
+1305
+01:35:43,880 --> 01:35:54,000
+A friend of mine last night told me, which has some truth in it, that guilt is an afterthought.
+
+1306
+01:35:54,000 --> 01:35:56,040
+Guilt is an afterthought.
+
+1307
+01:35:56,040 --> 01:36:00,400
+Is that you commit the act and then you say, oh, I feel terrible about it.
+
+1308
+01:36:00,400 --> 01:36:03,520
+It rarely starts you from committing the act.
+
+1309
+01:36:03,520 --> 01:36:07,880
+It seems to me shame is a basic, is one of the emotions we have.
+
+1310
+01:36:07,880 --> 01:36:11,160
+We have love, we have shame, we have all those things.
+
+1311
+01:36:11,160 --> 01:36:14,200
+So I don't think that's anything to do with that drive or anything.
+
+1312
+01:36:14,200 --> 01:36:16,560
+It's just an emotion that humans have.
+
+1313
+01:36:16,560 --> 01:36:19,120
+And I guess some animals are.
+
+1314
+01:36:19,120 --> 01:36:27,320
+Which I tend to think of guilt and regret as having some spatial connection because the
+
+1315
+01:36:27,320 --> 01:36:43,840
+focus is on how to correct the wrong, whereas in shame, the self is attacked, thus very powerful.
+
+1316
+01:36:43,840 --> 01:36:54,720
+So I think that definition, that distinction is probably one from a behavioral point of
+
+1317
+01:36:54,720 --> 01:37:00,160
+view and also from a general theoretical point of view, that kind of distinction is worth
+
+1318
+01:37:00,160 --> 01:37:01,160
+having.
+
+1319
+01:37:01,160 --> 01:37:08,200
+But isn't guilt simply moral shame, immorality shame, plus fear because guilt involves fear
+
+1320
+01:37:08,200 --> 01:37:10,000
+of punishment too.
+
+1321
+01:37:10,000 --> 01:37:13,000
+Well, I guess so.
+
+1322
+01:37:13,000 --> 01:37:15,360
+I mean, there's a lot of words.
+
+1323
+01:37:15,360 --> 01:37:17,840
+I'm not quite sure what they mean.
+
+1324
+01:37:17,840 --> 01:37:19,640
+I think in fact that-
+
+1325
+01:37:19,640 --> 01:37:22,800
+It means that you've made moral transgressions.
+
+1326
+01:37:22,800 --> 01:37:32,080
+There is a vast literature of which I'm not much of a part of, which in fact looks at whether
+
+1327
+01:37:32,080 --> 01:37:44,360
+when it's around achievement, but it's very relevant, is you can look at your performance
+
+1328
+01:37:44,360 --> 01:37:57,080
+or you can look at the task, for example, Carol Dweck has made a very big, a whole career
+
+1329
+01:37:57,080 --> 01:37:59,160
+based on this distinction.
+
+1330
+01:37:59,160 --> 01:38:04,800
+I can focus and say, gee, I'll give you a perfect example.
+
+1331
+01:38:04,800 --> 01:38:08,480
+You write a paper and you send the paper into a journal.
+
+1332
+01:38:08,480 --> 01:38:11,240
+These are the kind of activities I do.
+
+1333
+01:38:11,240 --> 01:38:21,000
+And back comes the paper and it's rejected and there's a whole set of criticisms.
+
+1334
+01:38:21,000 --> 01:38:29,240
+I can do one of two things depending on what it elicits in me, this failure.
+
+1335
+01:38:29,240 --> 01:38:36,400
+I can look at what they criticized and focus upon that.
+
+1336
+01:38:36,400 --> 01:38:43,280
+This will cause me a set of actions to try to repair or save the paper.
+
+1337
+01:38:43,280 --> 01:38:53,080
+If in fact the result is a damaged self, I put it in a drawer and I forget about it.
+
+1338
+01:38:53,080 --> 01:38:59,840
+And when you work with graduate students and fellows in medicine, one of the things to
+
+1339
+01:38:59,840 --> 01:39:06,320
+try to teach them and is teachable, that's interesting, from a therapeutic point of view
+
+1340
+01:39:06,320 --> 01:39:12,880
+is in fact, I don't want to hear about you, what allows you, scientist, you are, I want
+
+1341
+01:39:12,880 --> 01:39:20,920
+you to go home and I want you to list each criticism separately and write some response.
+
+1342
+01:39:20,920 --> 01:39:23,320
+Do I have to do another analysis?
+
+1343
+01:39:23,320 --> 01:39:26,680
+Do I need to read more?
+
+1344
+01:39:26,680 --> 01:39:34,920
+Focusing them on the task gets them to stay in the game and try to correct the failure.
+
+1345
+01:39:34,920 --> 01:39:41,640
+If in turn you think you're a lousy scientist, you won't want to forget it.
+
+1346
+01:39:41,640 --> 01:39:51,200
+One way of coping with that shape is to forget it and so you put it in a drawer and exactly
+
+1347
+01:39:51,200 --> 01:39:52,200
+what you say then.
+
+1348
+01:39:52,200 --> 01:39:59,160
+And in fact, you want a mechanism that stops you in your tracks.
+
+1349
+01:39:59,160 --> 01:40:08,000
+It is sufficient that you can't do this except a great cost to yourself, a steam if you like.
+
+1350
+01:40:08,000 --> 01:40:17,400
+Whereas in guilt, you fundamentally want to repair it and you can actually see it in
+
+1351
+01:40:17,400 --> 01:40:18,400
+behavior.
+
+1352
+01:40:18,400 --> 01:40:21,160
+You can see that these children.
+
+1353
+01:40:21,160 --> 01:40:23,080
+But you want to repair it in shame too.
+
+1354
+01:40:23,080 --> 01:40:27,120
+The example I gave of doing something in a program.
+
+1355
+01:40:27,120 --> 01:40:31,120
+If you do something in a social context, it's inappropriate.
+
+1356
+01:40:31,120 --> 01:40:32,120
+No, you don't.
+
+1357
+01:40:32,120 --> 01:40:33,680
+You shame yourself.
+
+1358
+01:40:33,680 --> 01:40:34,680
+In fact, one of the problems.
+
+1359
+01:40:34,680 --> 01:40:35,920
+And you want to repair it.
+
+1360
+01:40:35,920 --> 01:40:41,640
+You want to go and say, I'm so sorry, I behaved so, I don't know.
+
+1361
+01:40:41,640 --> 01:40:42,640
+Anytime.
+
+1362
+01:40:42,640 --> 01:40:44,640
+That's also representative.
+
+1363
+01:40:44,640 --> 01:40:47,480
+Okay, let's go to the next question.
+
+1364
+01:40:47,480 --> 01:40:51,400
+I'm also facing my public shame here.
+
+1365
+01:40:51,400 --> 01:40:54,920
+But my question is something that hasn't been discussed here.
+
+1366
+01:40:54,920 --> 01:41:00,920
+So I read in this book that shame is one of the main pillars of loneliness.
+
+1367
+01:41:00,920 --> 01:41:03,040
+So what do you guys think about that?
+
+1368
+01:41:03,040 --> 01:41:06,840
+I just want to understand from your loneliness.
+
+1369
+01:41:06,840 --> 01:41:11,760
+You know, I'm going to jump in and tell you how I understand shame and this is through
+
+1370
+01:41:11,760 --> 01:41:13,920
+a lot of reading.
+
+1371
+01:41:13,920 --> 01:41:14,920
+It's not my definition.
+
+1372
+01:41:14,920 --> 01:41:17,440
+And I'm trying to remember the person's name whose book is from.
+
+1373
+01:41:17,440 --> 01:41:23,200
+But it's this idea of a disintegration of self that you basically have this connection with
+
+1374
+01:41:23,200 --> 01:41:25,920
+your caretaker, when you're a child.
+
+1375
+01:41:25,920 --> 01:41:28,560
+And it's a good feeling.
+
+1376
+01:41:28,560 --> 01:41:31,080
+And then at some point they are disappointed in you.
+
+1377
+01:41:31,080 --> 01:41:32,280
+They shame you.
+
+1378
+01:41:32,280 --> 01:41:35,600
+And it feels like you do not have a self.
+
+1379
+01:41:35,600 --> 01:41:42,440
+And you're so desperate to get back into that connection that you literally do anything.
+
+1380
+01:41:42,440 --> 01:41:46,440
+And if you can't get back into that connection, you feel completely floating.
+
+1381
+01:41:46,440 --> 01:41:47,440
+You feel disintegrated.
+
+1382
+01:41:47,440 --> 01:41:51,600
+Like you do not have a connection to your mother or whatever.
+
+1383
+01:41:51,600 --> 01:41:53,880
+And that, I mean, of course, that elicits loneliness.
+
+1384
+01:41:53,880 --> 01:41:57,720
+So I think there's a very strong connection with that definition of shame, which might
+
+1385
+01:41:57,720 --> 01:42:02,520
+not maybe isn't the only one, but that definition of shame is is loneliness.
+
+1386
+01:42:02,520 --> 01:42:07,160
+It is in fact the definition of being alone when you're disconnected from everything else.
+
+1387
+01:42:07,160 --> 01:42:14,160
+Some feelings are shameful.
+
+1388
+01:42:14,160 --> 01:42:21,240
+And so you can be ashamed of being guilty, but you can't be guilty about being ashamed.
+
+1389
+01:42:21,240 --> 01:42:24,680
+And you can be ashamed about being lonely.
+
+1390
+01:42:24,680 --> 01:42:30,080
+Now the question is, if you feel lonely, can you be ashamed?
+
+1391
+01:42:30,080 --> 01:42:30,680
+Thank you.
+
+1392
+01:42:30,680 --> 01:42:41,920
+So clearly, if you are believed that you should be part of a social group, there are people
+
+1393
+01:42:41,920 --> 01:42:49,240
+who are interestingly, who don't have a lot of social interaction, much prefer to be on
+
+1394
+01:42:49,240 --> 01:42:52,360
+their computer than to go to a party.
+
+1395
+01:42:52,360 --> 01:42:59,360
+So on that loneliness may not be shameful because they don't have a value that they
+
+1396
+01:42:59,360 --> 01:43:01,360
+should be socially integrated.
+
+1397
+01:43:01,360 --> 01:43:10,960
+And Asperger is a perfect indication because part of the Asperger personality is in fact
+
+1398
+01:43:10,960 --> 01:43:15,040
+they're interested in things more than people.
+
+1399
+01:43:15,040 --> 01:43:19,640
+Okay, last question.
+
+1400
+01:43:19,640 --> 01:43:26,520
+I am wondering about the relationship between shame and the stability of a society.
+
+1401
+01:43:26,520 --> 01:43:32,320
+Because it seems to me that in very, very stable societies, whether it's a family or
+
+1402
+01:43:32,320 --> 01:43:42,080
+a larger society like our nation, shame is sometimes weaponized when the society changes.
+
+1403
+01:43:42,080 --> 01:43:47,200
+And perhaps it's a function of fear, of the change.
+
+1404
+01:43:47,200 --> 01:43:56,520
+And shame is used whether to put down a racial group or women or to impose certain standards.
+
+1405
+01:43:56,520 --> 01:44:03,280
+These things really ramp up when the society is changing, really to maintain the stability
+
+1406
+01:44:03,280 --> 01:44:05,720
+of the society.
+
+1407
+01:44:05,720 --> 01:44:07,600
+So it's almost a political weapon.
+
+1408
+01:44:07,600 --> 01:44:13,280
+Yeah, I'm going to echo you that I think we can look at our society and see that norms
+
+1409
+01:44:13,280 --> 01:44:16,040
+are changing very, very quickly.
+
+1410
+01:44:16,040 --> 01:44:20,320
+And I would even argue that people think they're changing faster than they actually are changing
+
+1411
+01:44:20,320 --> 01:44:26,680
+because we have this artificial sense of accomplishment on social media when it looks like in our
+
+1412
+01:44:26,680 --> 01:44:31,400
+tiny little corner of Facebook that we all agree that such and such is true.
+
+1413
+01:44:31,400 --> 01:44:33,640
+And in fact, it's a very small corner of Facebook.
+
+1414
+01:44:33,640 --> 01:44:39,760
+I think we actually are being misled by our intuitions around social norms.
+
+1415
+01:44:39,760 --> 01:44:42,120
+And we think things are changing faster.
+
+1416
+01:44:42,120 --> 01:44:49,120
+But that goes to your point, which is that if some people think the norm is now, you
+
+1417
+01:44:49,120 --> 01:44:53,960
+have to ask three times before having sex with someone and other people think, no, you
+
+1418
+01:44:53,960 --> 01:44:56,040
+don't even have to ask.
+
+1419
+01:44:56,040 --> 01:45:00,040
+It's not surprising that conflict emerges.
+
+1420
+01:45:00,040 --> 01:45:06,280
+And when conflict about what we thought we already knew about norms, that is right for
+
+1421
+01:45:06,280 --> 01:45:07,280
+shame.
+
+1422
+01:45:07,280 --> 01:45:09,560
+That is what shame is for.
+
+1423
+01:45:09,560 --> 01:45:12,440
+Shame is for coercing people into the norm.
+
+1424
+01:45:12,440 --> 01:45:17,440
+So if they got it wrong, actually 95% of people are getting it wrong.
+
+1425
+01:45:17,440 --> 01:45:19,400
+What the fuck is wrong with these people?
+
+1426
+01:45:19,400 --> 01:45:23,720
+It's because we actually think we've accomplished more norm changing than we have.
+
+1427
+01:45:23,720 --> 01:45:24,840
+And that's what's happening right now.
+
+1428
+01:45:24,840 --> 01:45:29,800
+And we have, I think you made the point, one of the norms that we're seeing change is the
+
+1429
+01:45:29,800 --> 01:45:33,240
+idea of being authentic rather than factual, right?
+
+1430
+01:45:33,240 --> 01:45:35,640
+Or honest.
+
+1431
+01:45:35,640 --> 01:45:40,560
+That is itself a norm that is ripe for shaming, because it's exactly the point.
+
+1432
+01:45:40,560 --> 01:45:45,840
+The point of that norm is that people who follow that norm, who are in that norm group,
+
+1433
+01:45:45,840 --> 01:45:49,760
+are exactly the people that are going to be shamed by people who are like, no, we haven't
+
+1434
+01:45:49,760 --> 01:45:51,840
+agreed to that change in the norms, right?
+
+1435
+01:45:51,840 --> 01:45:56,040
+You are actually supposed to be an honest person, not a shameless person.
+
+1436
+01:45:56,040 --> 01:45:58,920
+So there's so much going on right now.
+
+1437
+01:45:58,920 --> 01:46:02,680
+It's chaos, honestly, with respect to changing norms.
+
+1438
+01:46:02,680 --> 01:46:08,840
+When there's chaos with changing norms, there is an uptick, if not an explosion of shame.
+
+1439
+01:46:08,840 --> 01:46:09,840
+Yeah.
+
+1440
+01:46:09,840 --> 01:46:15,360
+Yeah, well, this is off the top of my head, but I think it makes sense to think about the
+
+1441
+01:46:15,360 --> 01:46:19,320
+balance between the private and the public in societies.
+
+1442
+01:46:19,320 --> 01:46:23,520
+And when you're thinking about social change, there needs to be some kind of balance between
+
+1443
+01:46:23,520 --> 01:46:24,680
+those two.
+
+1444
+01:46:24,680 --> 01:46:29,840
+The domain of the private is a way in which you can't be shamed, because what you're
+
+1445
+01:46:29,840 --> 01:46:35,480
+doing with people who you're close to or intimate with, or you know trust you, is not
+
+1446
+01:46:35,480 --> 01:46:38,520
+something you would necessarily do with anybody.
+
+1447
+01:46:38,520 --> 01:46:44,200
+And now what's happened is the anybodies of the world are in that private domain, exposing
+
+1448
+01:46:44,200 --> 01:46:45,200
+it.
+
+1449
+01:46:45,200 --> 01:46:49,640
+And now your reputation, your career is affected because of something you happen to say in
+
+1450
+01:46:49,640 --> 01:46:54,280
+private that someone was able to eavesdrop on or leak.
+
+1451
+01:46:54,280 --> 01:46:58,840
+So basically our leaks, and this is with the irony of our free press, because our free
+
+1452
+01:46:58,840 --> 01:47:00,720
+press are a bunch of snoops.
+
+1453
+01:47:00,720 --> 01:47:03,440
+They're trying to dig into the private realm all the time.
+
+1454
+01:47:03,440 --> 01:47:08,200
+They're encouraging people to leak information, which would normally be in an insula area
+
+1455
+01:47:08,200 --> 01:47:11,840
+where you couldn't be shamed and they're shaming all sorts of people.
+
+1456
+01:47:11,840 --> 01:47:19,360
+And I think the MeToo movement, in fact, has brought us back to the 17th century.
+
+1457
+01:47:19,360 --> 01:47:21,080
+For stocks, that's why I use that notion.
+
+1458
+01:47:21,080 --> 01:47:23,040
+We have the stocks going all the time now.
+
+1459
+01:47:23,040 --> 01:47:25,800
+I don't think it's healthy for our society.
+
+1460
+01:47:25,800 --> 01:47:31,040
+And to the extent we continue to erode the private domain, it's an area where creativity
+
+1461
+01:47:31,040 --> 01:47:35,960
+can go on, transgressive experimentation can take place in miniature.
+
+1462
+01:47:35,960 --> 01:47:38,800
+Some of that stuff is truly loathsome.
+
+1463
+01:47:38,800 --> 01:47:43,520
+Others ends up being creative stuff that then filters out more broadly into the society.
+
+1464
+01:47:43,520 --> 01:47:46,320
+I think that's a correct.
+
+1465
+01:47:46,320 --> 01:47:51,280
+I think that's a commonality and that idea.
+
+1466
+01:47:51,280 --> 01:47:52,960
+But I think there's another thing.
+
+1467
+01:47:52,960 --> 01:47:55,000
+There is the idea of happiness.
+
+1468
+01:47:55,000 --> 01:47:56,960
+We haven't gotten to happiness.
+
+1469
+01:47:56,960 --> 01:48:01,640
+It was interesting that you brought it up as one of the best.
+
+1470
+01:48:01,640 --> 01:48:03,280
+I have to tell you the story.
+
+1471
+01:48:03,280 --> 01:48:07,800
+So I think I mentioned my father was born in the 19th century.
+
+1472
+01:48:07,800 --> 01:48:13,360
+So I mean in the 20th century, at the beginning of the 20th century.
+
+1473
+01:48:13,360 --> 01:48:20,040
+And he believed that if you did something well, you would be happy.
+
+1474
+01:48:20,040 --> 01:48:27,480
+And we now believe if you are happy, you will do something well.
+
+1475
+01:48:27,480 --> 01:48:34,080
+Focus has moved, which is part of the self-focus on our happiness.
+
+1476
+01:48:34,080 --> 01:48:44,080
+So in another round table, the discussion of happiness, and there's some wonderful books
+
+1477
+01:48:44,080 --> 01:48:52,240
+of how searching for happiness is made as miserable is really the theme.
+
+1478
+01:48:52,240 --> 01:49:04,000
+So not only are some of the changes in technology, which supports some of this, namely, I want
+
+1479
+01:49:04,000 --> 01:49:05,600
+to walk down, I live in the village.
+
+1480
+01:49:05,600 --> 01:49:08,960
+I walk down the streets and I'm a little old man.
+
+1481
+01:49:08,960 --> 01:49:17,360
+And a big towering person is walking toward me, reading their phone.
+
+1482
+01:49:17,360 --> 01:49:22,080
+And I have to say, excuse me, or he's going to run me down.
+
+1483
+01:49:22,080 --> 01:49:28,840
+And if we said, oh, well, we used to have people walk down the street reading books.
+
+1484
+01:49:28,840 --> 01:49:30,280
+That was not the case.
+
+1485
+01:49:30,280 --> 01:49:32,880
+People didn't walk down the street reading books.
+
+1486
+01:49:32,880 --> 01:49:33,880
+What?
+
+1487
+01:49:33,880 --> 01:49:36,720
+Making a joke.
+
+1488
+01:49:36,720 --> 01:49:49,840
+So I think there is a shift to this happiness, to this idea that the self deserves certain
+
+1489
+01:49:49,840 --> 01:49:50,840
+things.
+
+1490
+01:49:50,840 --> 01:49:59,080
+And I think it's in part why there's a decline in empathy and indeed a rise in narcissism.
+
+1491
+01:49:59,080 --> 01:50:01,720
+We have done, by the way, a round table on happiness.
+
+1492
+01:50:01,720 --> 01:50:04,160
+But thank you very much.
+
+1493
+01:50:04,160 --> 01:50:12,560
+We'd be happy to do it again.
+
+1494
+01:50:12,560 --> 01:50:38,640
+Alludeah33.
+

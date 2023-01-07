@@ -1,0 +1,4968 @@
+1
+00:00:00,000 --> 00:00:06,140
+So I'm Ed Nurse-Essian, I'm Director of the Center and I'd like to welcome you to this
+
+2
+00:00:06,140 --> 00:00:12,080
+meeting on what mathematics can tell us about the mind and the brain. The idea for this round
+
+3
+00:00:12,080 --> 00:00:22,200
+table was generated during a dinner conversation with Sylvan Capel, who's head of the Mathematics
+
+4
+00:00:22,200 --> 00:00:31,840
+Institute at NYU and Charles Marmour, who's a psychiatrist and chairman of the department
+
+5
+00:00:31,840 --> 00:00:39,600
+at NYU. So they thought that this would be a very timely subject for us to have a round
+
+6
+00:00:39,600 --> 00:00:47,280
+table about at the Helix Center and I want to thank them for it. Just briefly, we have
+
+7
+00:00:47,280 --> 00:00:54,000
+a number of programs set up already for the fall and I'd like to mention them. I think
+
+8
+00:00:54,000 --> 00:01:02,720
+the first one after this is a program on why economists disagree, which will be on October
+
+9
+00:01:02,720 --> 00:01:14,260
+13th and we'll have economists from the two sides of the intellectual or scientific areas
+
+10
+00:01:14,260 --> 00:01:26,140
+discussing it. The following day on Sunday, and is it a two-third day? We will have a
+
+11
+00:01:26,140 --> 00:01:34,540
+program called Poetry and Jazz where we have a poet and a jazz musician who will play,
+
+12
+00:01:34,540 --> 00:01:42,260
+recite and discuss the relationship between poetry and jazz. Following that in October,
+
+13
+00:01:42,260 --> 00:01:51,220
+Friday and Saturday, we'll have two round tables. One of them is going to be on, I wrote the
+
+14
+00:01:51,220 --> 00:01:59,180
+exact title somewhere, Life and Movement and the other would be on male-male competition,
+
+15
+00:01:59,180 --> 00:02:06,020
+globalization, war and violence. These two round tables have been organized and proposed
+
+16
+00:02:06,020 --> 00:02:13,940
+by Maxine Schitz-Johnson, who is an emeritus professor of philosophy of science from Oregon
+
+17
+00:02:13,940 --> 00:02:20,220
+University and who was here during the Philip Deides days and did a two or three programs
+
+18
+00:02:20,220 --> 00:02:32,260
+for us. Our website is up and one of the ideas that has always propelled us is that these
+
+19
+00:02:32,260 --> 00:02:39,020
+round tables should not just end here, but there should be an ongoing conversation taking
+
+20
+00:02:39,020 --> 00:02:47,540
+place afterwards. We were not set up before for it and I think we are. Maybe Rob can say
+
+21
+00:02:47,540 --> 00:02:52,580
+what you do for that.
+
+22
+00:02:52,580 --> 00:03:03,420
+Yes, thank you, Rod. First of all, go to www.thehelixcenter.org or helixcenter.org and that will access
+
+23
+00:03:03,420 --> 00:03:12,780
+the website. There's a link to sign up after which you can participate in conversations
+
+24
+00:03:12,780 --> 00:03:19,100
+on the website. You can either join a topic, a question that has already been posed by
+
+25
+00:03:19,100 --> 00:03:25,780
+someone else related to one of the events here or you can propose a new subject for
+
+26
+00:03:25,780 --> 00:03:32,100
+discussion. The other thing is that if you want to comment on anything that's going on
+
+27
+00:03:32,100 --> 00:03:42,300
+here, you can Twitter at the helixcenter.
+
+28
+00:03:42,300 --> 00:03:51,180
+As I said, today's subject has a very easy title, but it is a rather complicated subject
+
+29
+00:03:51,180 --> 00:04:02,740
+and we have people who I think can discuss it who are leaders in this field. I will start
+
+30
+00:04:02,740 --> 00:04:09,620
+with Ned Bloch who's been to us a number of times. He's the silver professor of philosophy,
+
+31
+00:04:09,620 --> 00:04:15,700
+biology and neural science at NYU. He came to NYU from MIT where he was chair of the
+
+32
+00:04:15,700 --> 00:04:21,700
+philosophy program there. He works in philosophy of mind and foundations of neuroscience and
+
+33
+00:04:21,700 --> 00:04:32,340
+cognitive science. Bar, there are many trout who is unfortunately unable to be here today.
+
+34
+00:04:32,340 --> 00:04:39,500
+What is with us via Skype is distinguished university professor of computational biology
+
+35
+00:04:39,500 --> 00:04:45,060
+and professor of mathematics at the University of Pittsburgh. He's written more than 200
+
+36
+00:04:45,060 --> 00:04:54,700
+papers in math, philosophy, physics and math, biology, physics and neuroscience. He has a
+
+37
+00:04:54,700 --> 00:05:03,140
+software called XPPAUT for the simulation of an analysis of dynamical systems. As written
+
+38
+00:05:03,140 --> 00:05:08,140
+a number of books and one of them is available here for you if you would like to purchase
+
+39
+00:05:08,140 --> 00:05:14,860
+it. Ken Miller is professor, department of neuroscience, department of physiology and
+
+40
+00:05:14,860 --> 00:05:22,940
+center for theoretical neurobiology at Columbia University. He's co-director of the Schwartz
+
+41
+00:05:22,940 --> 00:05:32,580
+program in theoretical neurobiology and its center of theoretical neuroscience. He's also
+
+42
+00:05:32,580 --> 00:05:38,860
+co-director of its neurobiology and behavior graduate program. He serves as vice chair
+
+43
+00:05:38,860 --> 00:05:43,660
+of the department of neuroscience. He's the founding editor of the Journal of Computational
+
+44
+00:05:43,660 --> 00:05:52,300
+Neuroscience, recipient of the Alfred P. Sloan research fellowship, Sol Scholars Award, Del
+
+45
+00:05:52,300 --> 00:06:01,820
+Web Biology fellowship, National Science Foundation graduate fellowship and author of many articles.
+
+46
+00:06:01,820 --> 00:06:07,860
+All of the people have books and you can see them after the meeting. George Reakey Jr.
+
+47
+00:06:07,860 --> 00:06:12,580
+is associate professor with tenure and head of the laboratory of biological modeling at
+
+48
+00:06:12,580 --> 00:06:19,260
+the Rockefeller University and the senior fellow of the Neuroscience Institute. He developed
+
+49
+00:06:19,260 --> 00:06:25,500
+the first microprocessed processor controlled lab instruments, an x-ray camera and his Fourier
+
+50
+00:06:25,500 --> 00:06:32,780
+synthesis software was used to solve many protein structures worldwide. Beginning in the 70s
+
+51
+00:06:32,780 --> 00:06:39,020
+his interest has turned to problems of pattern recognition, perceptual categorization and
+
+52
+00:06:39,020 --> 00:06:44,460
+motor control which he studies primarily through computer simulations of relevant neuronal
+
+53
+00:06:44,460 --> 00:06:55,100
+systems. Xiao Zhing Wang, am I pronouncing it wrong? Is professor of neurobiology, a joint
+
+54
+00:06:55,100 --> 00:07:00,460
+professor of physics, applied mathematics and psychology, director of the Schwartz program
+
+55
+00:07:00,460 --> 00:07:06,780
+in theoretical neuroscience at the Yale University. He's a theoretical neuroscientist studying
+
+56
+00:07:06,780 --> 00:07:12,300
+executive and cognitive function whose group has pioneered neural circuit models of the
+
+57
+00:07:12,300 --> 00:07:18,220
+prefrontal cortex discovering a specific neural circuit mechanism for decision making.
+
+58
+00:07:22,540 --> 00:07:30,380
+He's also studying I believe schizophrenia. Dr. Wang was a recipient of the Alfred
+
+59
+00:07:30,380 --> 00:07:36,300
+Peace Loan Fellow, National Science Foundation Career Award and John Simon Guggenheim Memorial
+
+60
+00:07:36,300 --> 00:07:45,100
+Foundation Fellow. Is that it? Okay. So that's it and we can get going.
+
+61
+00:07:45,100 --> 00:07:51,100
+Thank you.
+
+62
+00:08:02,140 --> 00:08:08,220
+Probably a very naive scientist point of view which I'm sure the philosophers will correct me but
+
+63
+00:08:08,220 --> 00:08:15,180
+essentially the mind comes from the brain and the brain is part of the natural world and
+
+64
+00:08:15,180 --> 00:08:28,060
+mathematics is developed in the study of physics of the trajectories of moving objects and how
+
+65
+00:08:28,700 --> 00:08:35,420
+collections of objects and new properties emerge at a higher level. And in essence,
+
+66
+00:08:35,420 --> 00:08:41,100
+studying the mind by studying the brain is no different. We're studying a physical system that
+
+67
+00:08:42,060 --> 00:08:48,780
+has many, many levels, many interacting parts at each level leading to new phenomena at the
+
+68
+00:08:48,780 --> 00:08:53,420
+next level and at the next from the molecules to the cells to the circuits and the circuit
+
+69
+00:08:53,420 --> 00:09:00,060
+behavior to the ultimately to the animals behavior. And what we use math for is to
+
+70
+00:09:00,060 --> 00:09:09,180
+understand how these interacting pieces produce the phenomena that we see. And in particular,
+
+71
+00:09:09,180 --> 00:09:14,060
+I think one of the biggest things that we do is we're studying things at one level like we have a
+
+72
+00:09:14,060 --> 00:09:19,740
+lot of cells connected with some circuitry and they have some functional responses. Say I study
+
+73
+00:09:19,740 --> 00:09:26,380
+visual cortex and so as a visual image comes in the neurons have certain responses to the visual
+
+74
+00:09:26,380 --> 00:09:31,500
+world which have been well studied. But how do those responses with all of their details and
+
+75
+00:09:31,500 --> 00:09:37,260
+complexity emerge out of the circuit? One of the circuit motifs that the interactions between the
+
+76
+00:09:37,260 --> 00:09:44,620
+cells that lead to this behavior emerging. And then so these multilevel one behavior at one level
+
+77
+00:09:44,620 --> 00:09:48,940
+emerging from another level from interaction of many things at another level is sort of the essence
+
+78
+00:09:48,940 --> 00:09:54,620
+of what we try to understand as we try to understand the brain. And ultimately, all the elements of
+
+79
+00:09:54,620 --> 00:10:02,940
+our minds are things that we would like to identify as emergent properties of what neurons do in
+
+80
+00:10:02,940 --> 00:10:11,980
+the same sense. And so mathematics is a tool of taking objects that you might say are blindly
+
+81
+00:10:11,980 --> 00:10:16,700
+interacting. They're interacting according to some rules. The rules might have some intelligence,
+
+82
+00:10:16,700 --> 00:10:20,220
+but they're interacting according to some rules and understanding what emerges out of them.
+
+83
+00:10:20,220 --> 00:10:28,220
+And that's to the extent to which the mind is a emanation of the natural physical world.
+
+84
+00:10:28,220 --> 00:10:30,780
+Mathematics is a way to understand what happens there.
+
+85
+00:10:30,780 --> 00:10:41,180
+Could I go on from what you said because it's a perfect introduction? I'd like to make a distinction
+
+86
+00:10:41,180 --> 00:10:47,660
+that I would like the audience to go home with between math as a tool for studying the brain,
+
+87
+00:10:47,660 --> 00:10:52,860
+which involves both statistics, physics and chemistry, as you've pointed out,
+
+88
+00:10:52,860 --> 00:10:58,780
+how we use computers to simulate what goes on with neurons, with ions in the brain,
+
+89
+00:10:58,780 --> 00:11:05,500
+with blood flow and all of these things. And on the other hand, the question of whether
+
+90
+00:11:06,220 --> 00:11:12,460
+mathematics should have a role in our theories about cognition and things at a higher level like
+
+91
+00:11:12,460 --> 00:11:18,140
+the question of consciousness and free will and all these things where it's not so obvious that
+
+92
+00:11:18,140 --> 00:11:25,020
+there's a connection. I think the place where a connection does come in and Ed Block knows
+
+93
+00:11:25,020 --> 00:11:31,500
+something about this is the theory called functionalism, which says that the material that the brain
+
+94
+00:11:31,500 --> 00:11:37,740
+is made out of really doesn't matter. It's the functions that the various parts carry out and
+
+95
+00:11:37,740 --> 00:11:45,740
+how they interact with each other. And if we call that a kind of mathematics because to work out
+
+96
+00:11:45,740 --> 00:11:53,100
+in detail what it implies does involve some mathematics, then I think one has to be very careful not
+
+97
+00:11:53,100 --> 00:12:01,500
+to go too far. And what we see today is this metaphor, if you will, that the brain is a kind of computer.
+
+98
+00:12:01,500 --> 00:12:07,580
+You know, it started out with the first electronic computers after the war, which were called
+
+99
+00:12:07,580 --> 00:12:13,980
+electronic brains in the papers and magazines of that era. You still hear that phrase once in a while.
+
+100
+00:12:13,980 --> 00:12:19,820
+And so we have a whole field where every paper you read now says this piece of cortex computes
+
+101
+00:12:19,820 --> 00:12:26,220
+this and this does that. And I think exposed fact, you can't deny that. As signals come in,
+
+102
+00:12:26,220 --> 00:12:31,740
+there are electric signals on neurons. They go into some areas, some stuff happens and other
+
+103
+00:12:31,740 --> 00:12:37,340
+electrical signals come out and exposed fact, oh, that you can describe that as a computation.
+
+104
+00:12:37,340 --> 00:12:44,380
+And but what that hides is how did it get to work that way? What part did evolution play on,
+
+105
+00:12:44,380 --> 00:12:49,740
+especially on tajini, which I mean the development of the individual interacting with the world.
+
+106
+00:12:50,300 --> 00:12:55,820
+And that's why some of us think it's important to work not just with totally abstract mathematical
+
+107
+00:12:55,820 --> 00:13:01,500
+models, but things like robots actually moving around in the world and receiving visual input
+
+108
+00:13:01,500 --> 00:13:07,660
+from cameras and trying to do something like an animal or a human would do in the real world.
+
+109
+00:13:07,660 --> 00:13:13,340
+So I'll shut up now. I've taken enough time, but I just think it's very important to distinguish
+
+110
+00:13:13,340 --> 00:13:20,700
+between those two kinds of areas where we use math as a theory and as a tool. And the consequences
+
+111
+00:13:20,700 --> 00:13:29,500
+are different. So in the areas in which I work, the metaphor of the brain as a computer has faded.
+
+112
+00:13:31,020 --> 00:13:36,780
+I think it's heyday was the 80s and maybe it's still every day in neuroscience journals.
+
+113
+00:13:36,780 --> 00:13:43,820
+Okay, but here's the problem. One of the hallmarks of a computer is that there can be many ways of
+
+114
+00:13:43,820 --> 00:13:52,540
+realizing of making the same computational structure. So it's commonly said in introductory books
+
+115
+00:13:52,540 --> 00:14:00,380
+about computation that you can do a computation with using an electronic computer. You could do
+
+116
+00:14:00,380 --> 00:14:07,980
+the same computation using something with wheels and pulleys and gears. You could make a hydraulic
+
+117
+00:14:07,980 --> 00:14:16,780
+setup that uses the same computational principles, the same program at some level of abstraction,
+
+118
+00:14:16,780 --> 00:14:24,300
+but does it completely differently. But the upshot of a lot of neuroscience is that it's not so easy
+
+119
+00:14:24,300 --> 00:14:30,700
+to see how you could do the same computation differently. Multiple realizability seems to be
+
+120
+00:14:30,700 --> 00:14:37,660
+fading away when we see the complexity of the electrochemical processes. So neurons influence
+
+121
+00:14:37,660 --> 00:14:46,060
+other neurons by sending out chemicals. And those chemicals diffuse. And it's not clear that the
+
+122
+00:14:46,060 --> 00:14:53,740
+computational pictures are the right way of describing that. I would agree with that to some extent.
+
+123
+00:14:53,740 --> 00:14:59,020
+But the first, the guy right before that, I don't know who's speaking in anything,
+
+124
+00:14:59,020 --> 00:15:09,580
+but at any given time. But the robots and external world and internal world, I mean, I don't see how
+
+125
+00:15:09,580 --> 00:15:17,500
+that is the use of mathematics. Math is all those. And to address some recent point,
+
+126
+00:15:21,420 --> 00:15:26,380
+he has a good point. The brain is a computer. In fact, if you go back, the brain has been many
+
+127
+00:15:26,380 --> 00:15:31,340
+things. It was back in Aristotle's time. I think it was pumps and water and things like that.
+
+128
+00:15:33,500 --> 00:15:40,700
+And more recently, I heard a talk that it was all done by quantum mechanics and things like that.
+
+129
+00:15:40,700 --> 00:15:46,380
+So whatever the newest theory is, is what the brain is. And it always bugs me because I think
+
+130
+00:15:46,380 --> 00:15:55,980
+the brain is what it is. And math is just a way, as Ken said, of taking lots of abstract boxes
+
+131
+00:15:55,980 --> 00:16:02,380
+and arrows that experimentalists put together, at least to me, I'm a hardened reductionist.
+
+132
+00:16:03,740 --> 00:16:12,060
+And it's just the way of taking boxes and arrows and using it to, it's sort of an existence proof
+
+133
+00:16:12,060 --> 00:16:20,540
+that this is the right mechanism. So I'm too stupid to ask. But I'm a big fan of how.
+
+134
+00:16:20,540 --> 00:16:31,500
+Let me just add a few things about what has been said. So, you know, I guess one reason that math
+
+135
+00:16:31,500 --> 00:16:38,300
+is really important in neuroscience is that neuroscience is one of the fields in biology that
+
+136
+00:16:38,300 --> 00:16:44,540
+are the most quantitative experimentally. So the neurophysiology, the measurements,
+
+137
+00:16:44,540 --> 00:16:51,100
+the experiments are really quantitative, has had a very long tradition of very quantitative,
+
+138
+00:16:51,980 --> 00:16:57,660
+you know, measurements and analysis. And that actually is important to bear in mind.
+
+139
+00:16:57,660 --> 00:17:03,580
+And that's why we are capable of using mathematical models and theory in this field.
+
+140
+00:17:03,580 --> 00:17:16,300
+And it's clear already, I guess, from what we heard that we don't really know how to conceptualize
+
+141
+00:17:16,300 --> 00:17:24,140
+the brain. You know, we have all kinds of analogies. But suddenly, when you really compare brain
+
+142
+00:17:24,140 --> 00:17:29,820
+with computer, they are just so dramatically different, right? So what computer is really
+
+143
+00:17:29,820 --> 00:17:36,940
+great at, like making zillions of computations very quickly, we're not very good at it. What
+
+144
+00:17:36,940 --> 00:17:43,580
+we are really wonderful at, like recognizing objects, recognizing a face in a crowd, in a fuzzy,
+
+145
+00:17:43,580 --> 00:17:49,260
+you know, foggy kind of environment, computer is incapable of doing today's computer, right? So
+
+146
+00:17:49,260 --> 00:17:58,620
+this is dramatically different, you know, dramatic differences between brain and computers, as we
+
+147
+00:17:58,620 --> 00:18:04,540
+know today. But on the other hand, clearly, if not consciousness, we need to think about the
+
+148
+00:18:04,540 --> 00:18:10,860
+computation. What kind of computations that brain does? So that's, you know, another way of thinking
+
+149
+00:18:10,860 --> 00:18:16,780
+about the connection within the brain and the mathematics. I'm not sure the computation is going
+
+150
+00:18:16,780 --> 00:18:22,380
+to turn out to be so important. You know, as a number of people mentioned, there are different
+
+151
+00:18:22,380 --> 00:18:27,100
+levels of description. And computation would be important at one level, but not at another.
+
+152
+00:18:27,100 --> 00:18:37,180
+A standard example of this is the explanation of why a rigid square peg doesn't go through a hole
+
+153
+00:18:37,180 --> 00:18:43,340
+in a rigid board, which can be done on the basis of the rigidity of the materials and the geometry
+
+154
+00:18:43,340 --> 00:18:49,660
+of the hole in the peg. So at that level, there really isn't anything that would be called
+
+155
+00:18:49,660 --> 00:18:54,860
+computation. Of course, if you go to the elementary particle level, then you have a, you could get
+
+156
+00:18:54,860 --> 00:19:01,900
+an explanation, which is computational, but which obscures the simple level of description. So it's
+
+157
+00:19:01,900 --> 00:19:07,900
+not always clear. So I don't think you can, unless you trivialize the notion of computation by assuming
+
+158
+00:19:07,900 --> 00:19:17,340
+that anything is a computation. So commonplace that you could regard a river as computing the
+
+159
+00:19:17,340 --> 00:19:25,420
+rate of erosion of its banks by, as an analog model of itself, it's a computer that computes its own
+
+160
+00:19:25,420 --> 00:19:31,420
+rate of erosion. So you can trivialize the notion of computation, but I don't think we can just assume
+
+161
+00:19:31,420 --> 00:19:37,900
+our priori that the right way to think about the mind is going to be a computational level,
+
+162
+00:19:37,900 --> 00:19:44,540
+a computational way at the most abstract level. That's fair. I guess you could say, so what's the
+
+163
+00:19:44,540 --> 00:19:53,020
+alternative? I guess one alternative would be, what really matters is behavior and thought, maybe,
+
+164
+00:19:53,020 --> 00:20:00,940
+mental life and our behavior, right? Can you describe those things without talking about the
+
+165
+00:20:00,940 --> 00:20:05,980
+computation? Well, as the guy in the screen said, we're always using the latest technology
+
+166
+00:20:07,740 --> 00:20:13,580
+to describe the mind. And there's a famous paper by neuroscientist John Marshall that goes into the
+
+167
+00:20:13,580 --> 00:20:21,820
+history of this, and he mentioned a few cases, but at the time of the popularity of the catapult,
+
+168
+00:20:22,620 --> 00:20:29,580
+people's theory of vision was that there's little catapults on objects that catapult a tiny
+
+169
+00:20:29,580 --> 00:20:33,900
+simulacrum of the object into your eye. And then, of course, the famous
+
+170
+00:20:35,660 --> 00:20:41,740
+telephone exchange model of the brain, or in the early days of the telephones. So the computer is a
+
+171
+00:20:41,740 --> 00:20:49,180
+very notable artifact, and if you trivialize the notion of computation, we can describe everything
+
+172
+00:20:49,180 --> 00:20:55,500
+as a computer. But that doesn't mean that we know now that computation is going to be important
+
+173
+00:20:56,700 --> 00:21:05,180
+in describing, for example, consciousness. Well, I think, I mean, computer is a loaded word,
+
+174
+00:21:05,180 --> 00:21:11,180
+because it means the things that we have on our desk. Clearly, they don't know anything like the
+
+175
+00:21:11,180 --> 00:21:19,180
+brain does. But computation, I mean, I think the reason to use a word like that, I mean,
+
+176
+00:21:19,180 --> 00:21:24,780
+maybe it's a matter of semantics and defining what we mean by it. But the hard,
+
+177
+00:21:26,060 --> 00:21:33,020
+it's biological function, obviously, is to make sure that blood and nutrition gets to every cell
+
+178
+00:21:33,020 --> 00:21:39,340
+in the body. And so it has to be a very good pump, and has to pump more and less under different
+
+179
+00:21:39,340 --> 00:21:46,460
+circumstances. The brain is a piece of meat sitting inside my head, whose function is, in some way,
+
+180
+00:21:46,460 --> 00:21:53,500
+to taking information about the sensory world and guide behavior toward the animals,
+
+181
+00:21:53,500 --> 00:21:57,420
+you know, to hold the animals' goals and guide behavior toward those goals. And
+
+182
+00:22:00,460 --> 00:22:06,300
+to me, computation means that you have to process information, and that's the job of the brain.
+
+183
+00:22:06,300 --> 00:22:11,980
+And that's all that computation means to me. But it's very clearly, you know, it's not what the
+
+184
+00:22:11,980 --> 00:22:16,140
+heart does, that's not what the liver does, that's what the brain is for, for processing the
+
+185
+00:22:16,140 --> 00:22:22,300
+information coming in from the sensory world, and processing, you know, having built in sense of
+
+186
+00:22:22,300 --> 00:22:27,500
+your, of the animals' goals, and working out the behaviors that are going to achieve those goals.
+
+187
+00:22:27,500 --> 00:22:31,500
+That's a lot of information processing, and that's the reason for me for the word
+
+188
+00:22:31,500 --> 00:22:36,700
+computation. It doesn't process the information anything like a computer does.
+
+189
+00:22:36,700 --> 00:22:45,900
+It's a diffusion of a chemical, is that computation? It can be described
+
+190
+00:22:45,900 --> 00:22:50,780
+computationally, but is that a computation? No, it's a diffusion of a chemical on the brain.
+
+191
+00:22:51,580 --> 00:22:56,700
+So I don't see, you know, it just seems to me to be trivializing the issue to call that computation.
+
+192
+00:22:56,700 --> 00:23:04,860
+Well, that's all the question. I mean, people, Stephen Wolfram called his cellular automata
+
+193
+00:23:05,500 --> 00:23:13,180
+computation. And you know, I think we're getting hung up on semantics here. And I do want to say
+
+194
+00:23:13,180 --> 00:23:18,620
+that the metaphor of a computer or computation is going to be really careful because when we do
+
+195
+00:23:18,620 --> 00:23:25,100
+a computation on our computer, if we type the same thing, we get the same response every time.
+
+196
+00:23:25,100 --> 00:23:31,420
+And the really cool thing about the brain is the fact that you don't. And that turns out to be
+
+197
+00:23:31,420 --> 00:23:36,700
+really important, right? Because if you get the same thing every time, then you can't learn. You
+
+198
+00:23:36,700 --> 00:23:43,820
+can't change. You can't adapt. And that's one real difference, I think, of the metaphor of a computer
+
+199
+00:23:44,380 --> 00:23:50,620
+and a real brain is that it, you know, you don't get the same thing every time you do something.
+
+200
+00:23:50,620 --> 00:23:57,020
+Yeah. What I want to add to what Ken said, and it fits right with what you said, is I have a slogan,
+
+201
+00:23:57,020 --> 00:24:02,540
+the function of the brain is not to process information. It is to create information. And
+
+202
+00:24:02,540 --> 00:24:09,500
+there's a distinction really trying to draw it between a process in the sense of an algorithm or
+
+203
+00:24:09,500 --> 00:24:15,420
+a pre-planned design where you, you know, perform operations on numerical quantities and get some
+
+204
+00:24:15,420 --> 00:24:23,260
+result. But it's this renewal, this learning, this initialization, if you will, of the infant who
+
+205
+00:24:23,260 --> 00:24:29,260
+comes into the world not doing any of these things and somehow figures out not because a programmer
+
+206
+00:24:29,260 --> 00:24:34,540
+comes in and tweaks some neurons around to make it work right, but just by having experience in
+
+207
+00:24:34,540 --> 00:24:41,900
+the world. And that's what the industrial, what I say, the desktop computer doesn't have. And as
+
+208
+00:24:41,900 --> 00:24:47,340
+long as we understand that, then we're fine to say, as Ken does, you know, the visual cortex,
+
+209
+00:24:48,220 --> 00:24:52,620
+you know, computes edges and that sort of thing. Sure. I don't know what it computes. I think
+
+210
+00:24:52,620 --> 00:24:56,940
+we're very naive about what it computes, but it's clearly taking in the visual world and ultimately
+
+211
+00:24:56,940 --> 00:25:02,540
+leading us to open our eyes and see people and chairs and lights and to see objects and their
+
+212
+00:25:02,540 --> 00:25:07,660
+relationships and to know a lot about them. But exactly what it does, computes to do that,
+
+213
+00:25:07,660 --> 00:25:16,300
+I don't think we really know. I guess I would just add that, you know, it's true that when you ask
+
+214
+00:25:17,580 --> 00:25:23,180
+ourselves, so ask people, you know, in daily lives, you think, you know, I don't really always
+
+215
+00:25:23,180 --> 00:25:27,740
+think in terms of computation, I think, you know, what's my goal? What I need to do today? So in that
+
+216
+00:25:27,740 --> 00:25:33,020
+sense, you start with a goal, you make decisions in order to achieve your goal and you seek
+
+217
+00:25:33,020 --> 00:25:39,820
+actively information from the environment. And sometimes you have to process, you know,
+
+218
+00:25:39,820 --> 00:25:45,660
+information forced on you, but there is active process that the main thing is to try to achieve
+
+219
+00:25:45,660 --> 00:25:50,860
+your goals, right, the behavior goals. So in that sense, it's not, you know, it's different from
+
+220
+00:25:50,860 --> 00:25:56,860
+the suddenly, very different from information processing from the computer perspective.
+
+221
+00:25:56,860 --> 00:26:04,060
+And it's also always trying to predict, I mean, you get partial information and you anticipate,
+
+222
+00:26:04,060 --> 00:26:12,700
+nobody, you know, you watch somebody to ball and they're automatically, nobody is born with
+
+223
+00:26:12,700 --> 00:26:19,420
+Newton's in there, but you figure out how to do this because you're trying to predict trajectories
+
+224
+00:26:20,300 --> 00:26:24,460
+and you're predicting what somebody's going to say. There's all kinds of cool psychophysics
+
+225
+00:26:24,460 --> 00:26:29,500
+experiments that can exploit this. And that's another thing a computer really doesn't do very well
+
+226
+00:26:30,780 --> 00:26:37,820
+is sort of extrapolate to the future because we have to do that to interact with the real world.
+
+227
+00:26:43,100 --> 00:26:47,500
+So one, in terms of the question of the role of mathematics, I'd like to just, you know,
+
+228
+00:26:47,500 --> 00:26:56,380
+return to the idea of, yeah, but to the idea of emergence because I think, I mean, for me, you
+
+229
+00:26:56,380 --> 00:27:03,740
+know, where theory plays and theory is basically building models which are mathematical and computer
+
+230
+00:27:03,740 --> 00:27:10,060
+models to try to put together the pieces to figure out how they explain phenomena. And so it's,
+
+231
+00:27:10,060 --> 00:27:18,300
+when I say theory, you could substitute math if you like. And what the role of theory, the
+
+232
+00:27:18,300 --> 00:27:26,140
+biggest role in trying to understand the brain has to do with this idea of properties emerging
+
+233
+00:27:26,140 --> 00:27:35,020
+at one level out of the complexity at another level. I mean, physics has pioneered some thinking
+
+234
+00:27:35,020 --> 00:27:41,580
+about that kind of problem in terms of, you know, understanding how you take a lot of molecules
+
+235
+00:27:41,580 --> 00:27:46,940
+and they end up having properties of being liquid and having a certain volume and a pressure. And
+
+236
+00:27:47,500 --> 00:27:53,980
+so how the interactions at one level lead to these at a very different level, these qualities,
+
+237
+00:27:53,980 --> 00:27:57,980
+like being liquid and being viscous that, you know, in terms of molecule, I would have no meaning,
+
+238
+00:27:57,980 --> 00:28:04,940
+but it emerges out of the interaction of many, many molecules. But the apparatus that physics
+
+239
+00:28:04,940 --> 00:28:12,700
+developed is pretty specialized in those situations. And the brain is just unbelievably more complex,
+
+240
+00:28:12,700 --> 00:28:19,180
+of course. But always what we're, you know, where we really, where theory really gives you insight
+
+241
+00:28:19,180 --> 00:28:23,980
+is when you know a lot of things at one level and you know a lot of things at the next level.
+
+242
+00:28:23,980 --> 00:28:28,540
+You know, you know how these neurons respond to this situation and you know something about what
+
+243
+00:28:28,540 --> 00:28:34,460
+the neurons are made of and how they're connected to each other. But you have no idea how you get
+
+244
+00:28:34,460 --> 00:28:40,140
+from here to there. And you try to put them together in terms of what you know, you know,
+
+245
+00:28:40,140 --> 00:28:48,460
+you have some ideas and you find suddenly a principle, say, of how a circuit can be organized so that
+
+246
+00:28:48,460 --> 00:28:54,140
+these properties, these actual responses to the world up here will emerge from these neurons down
+
+247
+00:28:54,140 --> 00:29:04,780
+here. But again and again at every level, it's that process of new phenomena emerging out of the
+
+248
+00:29:04,780 --> 00:29:11,180
+interactions of complex interaction to many things at a completely different level. That's,
+
+249
+00:29:11,980 --> 00:29:17,340
+I think, the most striking point where math is absolutely critical. You can't believe that.
+
+250
+00:29:17,340 --> 00:29:22,940
+And the best example of that is one of the, I mean one of the best examples is the first example
+
+251
+00:29:22,940 --> 00:29:30,380
+of that, the Hodgkin-Hosley theory, which basically took a hypothesis about channels and gates and
+
+252
+00:29:30,380 --> 00:29:36,220
+used that equations down very simply just four differential equations and were able to completely
+
+253
+00:29:36,220 --> 00:29:41,100
+explain the action potential of the squid. That was the first real example of mathematics
+
+254
+00:29:41,740 --> 00:29:46,700
+doing something very specific. And you know, I think things have continued on like that.
+
+255
+00:29:46,700 --> 00:29:53,020
+I think that's exactly what, you know, it's what Ken said to you, how do you take pieces of stuff
+
+256
+00:29:53,020 --> 00:29:58,540
+and get emergency properties? The only way you can do that is with theory, and the only way you
+
+257
+00:29:58,540 --> 00:30:03,100
+can do that is, and the only way you can do that kind of theory is with mathematics. And that's a
+
+258
+00:30:03,100 --> 00:30:10,220
+big difference between neuroscience and, say, physics is every physics experiment is driven by theory.
+
+259
+00:30:10,220 --> 00:30:18,620
+And neuroscience experiments almost are ever driven by theory. And it's just kind of an immature
+
+260
+00:30:18,620 --> 00:30:29,340
+science so far, I think. I disagree that neuroscience isn't driven by theory. Certainly in the visual
+
+261
+00:30:29,340 --> 00:30:35,180
+system, most of our, at least a great deal of what we know was derived from the psychology of the
+
+262
+00:30:35,180 --> 00:30:40,620
+visual system that was discovered before we knew the neuroscience of it. You know, the three kinds
+
+263
+00:30:40,620 --> 00:30:48,220
+of cones, the opponent process system, that was all discovered by visual psychologists.
+
+264
+00:30:48,220 --> 00:30:53,260
+Well, before we understood the neural underpants. And Gestalt psychologists who contributed
+
+265
+00:30:53,260 --> 00:30:59,580
+at things about what salient in a visual scene and so forth. But it's, but,
+
+266
+00:30:59,580 --> 00:31:04,940
+well, I just push it experiment. I'm just making a kind of hard case there. I don't complete, I agree
+
+267
+00:31:04,940 --> 00:31:12,380
+with you guys. It is just not, you know, not completely. But maybe, I guess one way Ken and
+
+268
+00:31:12,380 --> 00:31:22,460
+Bard articulated is to understand how you explain behavior at some level in terms of the interactions
+
+269
+00:31:22,460 --> 00:31:30,140
+and dynamics at the level below underneath it. So, in a way, I guess my PhD, otherwise, I used to say
+
+270
+00:31:30,140 --> 00:31:36,700
+the world is like onion. There are many layers. And really, you can satisfaction the scientist
+
+271
+00:31:36,700 --> 00:31:41,020
+by be able to explain something in terms of what's more fundamental maybe underneath it.
+
+272
+00:31:41,980 --> 00:31:47,100
+There's another aspect of it that's really experienced why mathematics is really important
+
+273
+00:31:47,100 --> 00:31:54,620
+for neuroscience. That is, the nerve system has a lot of feedback loops. And there's positive
+
+274
+00:31:54,620 --> 00:32:00,860
+feedback loops. So this neuron excites the other neuron that excites back this neuron. Or there's
+
+275
+00:32:00,860 --> 00:32:06,780
+inhibitory, you know, negative feedback loops. Like any, you know, system with a lot of feedback
+
+276
+00:32:06,780 --> 00:32:12,060
+loops, it's very hard to predict what's going to have when you do something, right, somewhere.
+
+277
+00:32:12,060 --> 00:32:21,180
+So, I guess one example I like to give is, you know, this day people talk about connectivity,
+
+278
+00:32:21,180 --> 00:32:29,180
+right? And so if you know connectivity, the connectome among genes or neurons, it's very
+
+279
+00:32:29,180 --> 00:32:34,540
+important information. You really learn a lot by knowing the anatomy and connectivity. But the
+
+280
+00:32:34,540 --> 00:32:40,140
+example I'm going to give you illustrates why that's not enough to predict behavior.
+
+281
+00:32:40,140 --> 00:32:46,460
+Okay, imagine I give you a circuit with just two neurons that we know inhibit to each other. Okay,
+
+282
+00:32:46,460 --> 00:32:52,140
+neuron one, if it's neuron two, and neuron two, if it's neuron one, what are going to predict?
+
+283
+00:32:52,700 --> 00:32:58,940
+What's going to be the behavior to begin? Well, for a very long time, people think the behavior
+
+284
+00:32:58,940 --> 00:33:05,500
+would be half center oscillator. So neuron one is up, suppress the neuron two, and then for some reason
+
+285
+00:33:05,500 --> 00:33:12,220
+they go, this one goes up, the one goes down. Okay, that's the motif for generating movements.
+
+286
+00:33:12,220 --> 00:33:19,100
+So if you walk left, right, left, right. Okay, so that's the circuit to get this kind of pattern,
+
+287
+00:33:19,100 --> 00:33:24,220
+generation. But it turns out that when you really analyze the dynamics of this kind of circuit,
+
+288
+00:33:24,220 --> 00:33:31,260
+you can have some other way of behavior. You could have, for example, neuron one being up all the time,
+
+289
+00:33:31,260 --> 00:33:36,380
+and always surprising neuron two. So you have a switch. Okay, you give a little kick for neural
+
+290
+00:33:36,380 --> 00:33:41,340
+two, that switch is a neural one up, a neural two up, and suppresses neural one. So that,
+
+291
+00:33:41,340 --> 00:33:46,300
+you know, gives you a mechanism to build a switch. Does that make sense? And it turns out that
+
+292
+00:33:46,300 --> 00:33:52,300
+surprisingly, in fact, under some conditions, even if those two neurons inhibit each other,
+
+293
+00:33:52,300 --> 00:33:57,660
+sometimes they are completely in sync. So they go up together, they go down together,
+
+294
+00:33:57,660 --> 00:34:06,140
+right? And this is a very complicated, intuitive kind of behavior of perfect synchrony by mutual
+
+295
+00:34:06,140 --> 00:34:13,500
+inhibition. It turns out to be, you know, actually happening in real life in the brain. And this is
+
+296
+00:34:13,500 --> 00:34:20,060
+the mechanism now, one of the mechanisms at least, for explaining brain waves, that we all see,
+
+297
+00:34:20,060 --> 00:34:24,940
+you know, when you do EEG measurements, for example. This is, I think, a very, very interesting
+
+298
+00:34:24,940 --> 00:34:32,060
+example, we're only by looking at the dynamics with the help of math, we can really figure out
+
+299
+00:34:32,060 --> 00:34:36,700
+what's possible in this kind of system with feedback loops. And actually, let me just
+
+300
+00:34:36,700 --> 00:34:43,100
+build on that, because say in that case, you know, the idea of them working together is essentially,
+
+301
+00:34:43,900 --> 00:34:47,980
+they both fire, they both suppress each other, and then they both recover together, and then
+
+302
+00:34:47,980 --> 00:34:51,580
+they're active, they both fire, they both suppress each other. So it gives you a new intuition.
+
+303
+00:34:51,580 --> 00:34:56,620
+You study the math, maybe you hadn't thought of that before, but you've got down the equation,
+
+304
+00:34:56,620 --> 00:35:00,380
+you study them, and you discover this other regime where things are going together instead
+
+305
+00:35:00,380 --> 00:35:04,940
+of opposite, which is all you really thought of. And then once the math has shown you this new
+
+306
+00:35:04,940 --> 00:35:11,420
+regime, now I can explain it to you without any equations. So the math often acts like a scaffolding,
+
+307
+00:35:12,860 --> 00:35:18,860
+out of which we could, you know, that we use to gain an intuitive understanding that we can
+
+308
+00:35:18,860 --> 00:35:22,620
+then express without the math. And that's, at least when I really feel like I understand something.
+
+309
+00:35:23,340 --> 00:35:30,700
+But the math is incredibly rich. I mean, the full details are in there, but as you study it,
+
+310
+00:35:30,700 --> 00:35:34,940
+and you start to see it behave in ways you didn't expect, and then you start to try to work out
+
+311
+00:35:34,940 --> 00:35:39,260
+why exactly is it doing that, you ultimately come up with a story you can tell. And when you can
+
+312
+00:35:39,260 --> 00:35:44,140
+tell yourself a story that explains it, which is a new intuition that you didn't have before,
+
+313
+00:35:44,140 --> 00:35:50,380
+but you discovered it by working on the math and figuring out why it's doing what it's doing.
+
+314
+00:35:52,220 --> 00:35:55,580
+That's the scaffolding of math leading to the intuitive understanding.
+
+315
+00:35:56,300 --> 00:36:02,060
+So are you saying that it's not that you have an intuition, and then the math can explain it?
+
+316
+00:36:02,060 --> 00:36:05,900
+But you are saying that the math itself creates the intuition.
+
+317
+00:36:05,900 --> 00:36:10,860
+Elite, by banging on the math and the behaviors that you don't understand and figuring out why
+
+318
+00:36:10,860 --> 00:36:14,300
+they're doing what they're doing. You're getting new intuitions, yeah.
+
+319
+00:36:14,300 --> 00:36:20,700
+One thing to be important in this is that the correct math at one level may be quite different
+
+320
+00:36:20,700 --> 00:36:25,580
+from the correct math at another level. And the example of the computer is a good case.
+
+321
+00:36:26,140 --> 00:36:31,740
+So the computer operates by these binary elements, but of course at a deeper level,
+
+322
+00:36:31,740 --> 00:36:39,580
+they're not binary at all. They fluctuate fluctuations of voltage, but at the computational level,
+
+323
+00:36:39,580 --> 00:36:43,500
+we have to think of them as binary in order to understand the computation.
+
+324
+00:36:46,620 --> 00:36:52,220
+So if I understand correctly, I mean, math has always had a place in neurophysiology,
+
+325
+00:36:52,220 --> 00:36:57,500
+because when you talk about electric currents and voltages and so on, so you always had
+
+326
+00:36:58,220 --> 00:37:06,460
+a kind of high school math or college math when I went to medical school, that was there.
+
+327
+00:37:06,460 --> 00:37:15,100
+But what you are saying is that what we are doing is not just understanding what happens, let's say,
+
+328
+00:37:16,540 --> 00:37:22,140
+when a current goes along a nerve, how can we explain it physically and mathematically?
+
+329
+00:37:22,140 --> 00:37:28,620
+But that mathematical ideas allow us to understand things that without them, we couldn't even imagine
+
+330
+00:37:28,620 --> 00:37:33,980
+or dare. Absolutely. Yep, yep, yep. Yeah, like, you know,
+
+331
+00:37:33,980 --> 00:37:42,220
+if you press your hand and press your hand and you'll start to see little flashlight
+
+332
+00:37:43,340 --> 00:37:49,260
+for a while, you'll start to see geometric patterns like checkerboards flashing and things like that.
+
+333
+00:37:49,260 --> 00:37:58,060
+So why? What is going on there? And it's not obvious that this is all probably in the visual
+
+334
+00:37:58,060 --> 00:38:04,380
+cortex, but what's the mechanism? And math kind of gives you this umbrella. And for example, the
+
+335
+00:38:04,380 --> 00:38:11,260
+example that Aozhing gave of two mutually inhibitory neurons, one guy making one guy a switch,
+
+336
+00:38:11,260 --> 00:38:16,940
+okay? That's a switch and it's completely symmetric. One guy can be up, the other guy can be up.
+
+337
+00:38:16,940 --> 00:38:23,260
+Okay, that's an example, the simplest example of what we'll call spontaneous pattern formation.
+
+338
+00:38:23,260 --> 00:38:30,380
+And what math does is give you this sort of broad brush in which to explain lots and lots of patterns
+
+339
+00:38:30,380 --> 00:38:36,060
+that you see. For example, Ken has done lots of work on things called ocular dominance patterns
+
+340
+00:38:36,060 --> 00:38:44,060
+in the visual cortex. And it's all based and I've done stuff on the phosphor. I just told you
+
+341
+00:38:44,060 --> 00:38:50,700
+about the flicker and pressing your eyeballs. And they all work with the same basic principle of,
+
+342
+00:38:50,700 --> 00:38:57,580
+I guess we call it, he can hat that there's excitation or also we could call it Reaganomics,
+
+343
+00:38:57,580 --> 00:39:03,020
+where you help the guy that help your buddies and then you inhibit everybody else.
+
+344
+00:39:08,540 --> 00:39:13,340
+But it's called lapping ambition. I forgot to say that. You know, that's a,
+
+345
+00:39:13,340 --> 00:39:20,140
+it's been known from a horseshoe crab and all the way up and it pretty much can do,
+
+346
+00:39:21,100 --> 00:39:26,060
+you know, it's a very straightforward concept, but it allows you to explain
+
+347
+00:39:26,060 --> 00:39:31,820
+so many things. And it's all under sort of a, there's a very broad mathematical theory that
+
+348
+00:39:31,820 --> 00:39:45,340
+delivers all these cases. Well, are you Dunbar? Yeah, yeah, I'm sorry. I'm thinking back
+
+349
+00:39:45,340 --> 00:39:50,380
+something Ned said way back at the beginning about different multiple solutions to the same problem.
+
+350
+00:39:50,380 --> 00:39:55,740
+And just looking at the math alone and never mind the neuroscience, we find that
+
+351
+00:39:55,740 --> 00:40:02,460
+there are different kinds of math we can use to apply to a neural system or a neural network,
+
+352
+00:40:02,460 --> 00:40:08,140
+if I'll use that word. And so we find in our field that sometimes people get stuck in one or
+
+353
+00:40:08,140 --> 00:40:13,180
+another of these and maybe a conversation like this can help. What I'm thinking of is,
+
+354
+00:40:13,900 --> 00:40:20,300
+I edited a book where some authors, with a lot of different subjects, but there were authors in
+
+355
+00:40:20,300 --> 00:40:24,620
+there who felt that most of them neural modeling that people are doing today is all wrong,
+
+356
+00:40:24,620 --> 00:40:31,580
+because it divides neurons up into little pieces called compartmental models where you say
+
+357
+00:40:31,580 --> 00:40:35,500
+everything that's going on in this little bit is the same and then it's hooked to another little
+
+358
+00:40:35,500 --> 00:40:41,340
+bit by a resistor. And that simplifies the computation. But that's not really right because the
+
+359
+00:40:41,340 --> 00:40:47,740
+voltage along the membrane changes in a continuous manner. And so you really should use differential
+
+360
+00:40:47,740 --> 00:40:54,220
+equations. And so what you end up is pages and pages of so-called Green's function solutions and
+
+361
+00:40:54,220 --> 00:40:59,580
+things in the most complicated system, these guys have been able to work out is two neurons
+
+362
+00:40:59,580 --> 00:41:03,820
+talking to each other. And you get a lot of insight from that. And you get a lot of insight
+
+363
+00:41:03,820 --> 00:41:09,660
+from understanding how the diameter of the cable as it changes as you get farther away from the cell
+
+364
+00:41:09,660 --> 00:41:15,580
+body affects how the voltage is changing. And you can go on like that and spend a whole career
+
+365
+00:41:15,580 --> 00:41:20,860
+doing that. And meanwhile, you haven't gone to the next level up as Ken and many of us are interested
+
+366
+00:41:20,860 --> 00:41:27,420
+in. So it behooves all of us who are in this field, I think, to be aware of these different levels
+
+367
+00:41:27,420 --> 00:41:33,980
+and be willing to move up and down among them as befits the particular problem of interest.
+
+368
+00:41:34,780 --> 00:41:40,140
+Maybe what I said is super obvious. I'm glad to pick up on that.
+
+369
+00:41:43,180 --> 00:41:47,740
+One thing that I think maybe is maybe surprising to people, not in the field, is that
+
+370
+00:41:47,740 --> 00:41:58,060
+it's not the case that you put every detail into your model. If you do, you're all is lost. You don't
+
+371
+00:41:58,060 --> 00:42:10,220
+have any help at all. Because there's a couple of reasons. One is that there's many, many, many
+
+372
+00:42:10,220 --> 00:42:16,540
+details. Exactly what kinds of channels do you have in the membrane and what are the physical
+
+373
+00:42:16,540 --> 00:42:21,020
+properties of each of these channels? How do they respond in which way? What's their density?
+
+374
+00:42:21,900 --> 00:42:25,900
+And on and on and on? How exactly do your dendrites spread out in space?
+
+375
+00:42:26,860 --> 00:42:32,860
+Most of those details, we don't really know. We know that there are such things and that they
+
+376
+00:42:32,860 --> 00:42:39,660
+have some structure and we have maybe some range in which they all live. But so the more of these
+
+377
+00:42:39,660 --> 00:42:46,700
+details you put in, the more unconstrained by data, unconstrained by data freedom you put into your
+
+378
+00:42:46,700 --> 00:42:52,060
+model. The more unconstrained by data complexity you put into your model. And if your model then
+
+379
+00:42:52,060 --> 00:42:56,140
+goes and does something, how are you going to figure out why it does it when there's so many
+
+380
+00:42:56,140 --> 00:43:03,100
+unconstrained details? And so part of the real art of modeling is the art of simplification.
+
+381
+00:43:03,100 --> 00:43:10,380
+The art of knowing what are the key relationships that I want to model and then I want to understand
+
+382
+00:43:10,380 --> 00:43:17,260
+what emergency. And I'm going to throw all the rest away to simplify, to just understand what
+
+383
+00:43:17,260 --> 00:43:23,820
+do these dynamics of these simple entities that I'm going to model lead to and can I identify that?
+
+384
+00:43:23,820 --> 00:43:29,740
+Can I then understand what's going on in the brain with this simplification and then in some
+
+385
+00:43:29,740 --> 00:43:35,180
+way that's testable. This simple structure leads to all this stuff and it also should lead to
+
+386
+00:43:35,180 --> 00:43:43,420
+this other stuff people haven't looked at. So let's go and measure that. Somebody, I think what
+
+387
+00:43:43,420 --> 00:43:47,580
+Edan Segev is another theoretical neuroscientist and I think maybe he was quoting Picasso. I've
+
+388
+00:43:47,580 --> 00:43:52,940
+kind of lost track of the quotes but they talked about modeling as the lie that reveals the truth.
+
+389
+00:43:53,580 --> 00:43:58,460
+Because you start out with a lie. You start out with a simple question. You have to. And there's
+
+390
+00:43:58,460 --> 00:44:05,020
+actually a big to do in the field right now. There's something called the Blue Brain Project
+
+391
+00:44:05,580 --> 00:44:12,060
+of Henry Markham and Switzerland where his claim and belief is that he's going to put every detail
+
+392
+00:44:12,060 --> 00:44:16,140
+into the computer and now it is going to merge the brain and then we're going to understand the brain.
+
+393
+00:44:16,780 --> 00:44:23,340
+And I have to say every theoretical neuroscientist, I know thinks that is nuts, including myself.
+
+394
+00:44:23,340 --> 00:44:30,460
+Because something will happen. God knows why. God knows what it depends on. God knows which
+
+395
+00:44:30,460 --> 00:44:36,220
+detail was important and which wasn't. Maybe you can maneuver it to do things like the brain.
+
+396
+00:44:36,220 --> 00:44:41,660
+Maybe you can't. I mean at the moment they have some very basic behavior, things exciting and
+
+397
+00:44:41,660 --> 00:44:46,620
+inhibit other things. I mean nothing very specific unless they see we replicated the brain. But when
+
+398
+00:44:46,620 --> 00:44:53,340
+you throw in every detail, I mean the essence of understanding that when we build this scaffold
+
+399
+00:44:53,340 --> 00:44:59,820
+and then eventually I can tell you a story, that story can't have a billion moving parts in it.
+
+400
+00:44:59,820 --> 00:45:05,980
+Because our brains can't handle it. And so we don't understand it. Now if we knew what those
+
+401
+00:45:05,980 --> 00:45:12,060
+billion moving parts were down to the physical details, then like physicists where they do know
+
+402
+00:45:12,060 --> 00:45:16,860
+those billion moving parts in real detail, they can just put it in the computer and see what it does
+
+403
+00:45:16,860 --> 00:45:20,780
+because they really have control over all of that complexity from the data. But we don't.
+
+404
+00:45:21,740 --> 00:45:25,500
+And so we have to simplify and we have to come to
+
+405
+00:45:28,140 --> 00:45:32,620
+stories of how some interaction at one level leads to an interaction at another level. So that I
+
+406
+00:45:32,620 --> 00:45:38,300
+do models where very often, sometimes I use more complicated models but very often I use models
+
+407
+00:45:38,300 --> 00:45:45,100
+where I take a neuron which is a spatially extended object with dendrites that are extending over
+
+408
+00:45:45,100 --> 00:45:49,740
+hundreds of microns that are communicating with each other in complicated ways, receiving all
+
+409
+00:45:49,740 --> 00:45:55,420
+kinds of inputs at different places and integrating that input in complicated ways. And I describe it
+
+410
+00:45:55,420 --> 00:46:01,100
+as a point neuron that just takes a lot of input, sums them, does a certain unlinearity to them.
+
+411
+00:46:01,100 --> 00:46:06,780
+But then I study how these interactions, who's connected to who, the circuitry among these point
+
+412
+00:46:06,780 --> 00:46:13,180
+neurons, what behavior that leads to. And lo and behold, you discover things that tell you a lot,
+
+413
+00:46:13,740 --> 00:46:19,180
+give you new insight into how the brain works. Now we've thrown away a lot of detail of integration
+
+414
+00:46:19,180 --> 00:46:23,740
+and that worries me. Maybe those details of integration when we put them in are going to
+
+415
+00:46:23,740 --> 00:46:29,260
+radically change things. But the fact that you come up with an insight that unifies an awful lot
+
+416
+00:46:29,260 --> 00:46:34,620
+of behavior in a simple way and it's testable and the test bear out, that gives me a lot of confidence,
+
+417
+00:46:34,620 --> 00:46:38,860
+although not a certainty, that all those details are not going to overturn what I've learned by
+
+418
+00:46:38,860 --> 00:46:47,420
+studying things at this level. Well, so you learned both by what you can explain and what you can't.
+
+419
+00:46:47,420 --> 00:46:51,420
+So you can't explain something. It shows that the detail was important. Well, I know, because you
+
+420
+00:46:51,420 --> 00:46:55,020
+don't know, maybe you just missed it, right? You know, you don't know why you can't, you know,
+
+421
+00:46:55,020 --> 00:47:00,540
+negative results. When you can, then you've really got your hands on something. It's hard to get
+
+422
+00:47:00,540 --> 00:47:06,860
+non-existent proof in these things. Yeah. The other thing I think this is building what Ken said is,
+
+423
+00:47:08,060 --> 00:47:12,620
+you know, you start with something simple and you see what it does, a port neuron or whatever,
+
+424
+00:47:12,620 --> 00:47:18,220
+and then you use that to build up your model. I think I want to point the other side of the
+
+425
+00:47:18,220 --> 00:47:23,420
+coin. We've been talking a lot about what mathematics can do for neuroscience, but the other thing is
+
+426
+00:47:23,420 --> 00:47:27,660
+what can neuroscience do for mathematics? And, you know, there's one of these big questions,
+
+427
+00:47:27,660 --> 00:47:34,540
+or one question that many of us are very interested in is if you've got many, many detailed models
+
+428
+00:47:34,540 --> 00:47:43,580
+of neurons hooked together, is there a principled way you like a simplified model out of that? And
+
+429
+00:47:43,580 --> 00:47:49,420
+people call this trying to derive a mean feeling from some sort of spiking neurons.
+
+430
+00:47:49,420 --> 00:47:56,060
+Now, Jing has done a lot of this. I've done some of this. I don't know about the other guys Ken might
+
+431
+00:47:56,060 --> 00:48:03,580
+have, but I get that this requires new mathematics as well and difficult mathematics because there's
+
+432
+00:48:03,580 --> 00:48:14,620
+noise and stochasticity and things like that. So I think, you know, there's this great positive
+
+433
+00:48:14,620 --> 00:48:19,740
+feedback that neuroscience math and a lot of nice mathematics has come out of trying to answer some,
+
+434
+00:48:19,740 --> 00:48:27,740
+even some of the simplest neuroscience questions. We only heard about every other word of
+
+435
+00:48:29,340 --> 00:48:36,220
+Oh, yeah, it's cutting out a lot. Oh, well, you want to? Yeah, seems to be bad, right?
+
+436
+00:48:36,860 --> 00:48:40,060
+I don't know what's the matter. Is it my connection?
+
+437
+00:48:41,420 --> 00:48:44,300
+Who knows? We don't know. Okay.
+
+438
+00:48:44,300 --> 00:48:50,940
+You will go into power. I mean, I'm hearing enough that I can make sense of it, but maybe it's
+
+439
+00:48:50,940 --> 00:48:59,180
+because I know I know some of the words are being left out. Maybe it's just we'll recap a little
+
+440
+00:48:59,180 --> 00:49:05,420
+bit what Bartle is saying. Basically, he's saying that, you know, I guess, rephrasing it, you could
+
+441
+00:49:05,420 --> 00:49:12,620
+say, you know, in the past or even today, physics is really a major source of mathematics, right?
+
+442
+00:49:12,620 --> 00:49:19,820
+A lot of physics problems, you know, particle physics, especially, for example, has led to
+
+443
+00:49:20,380 --> 00:49:26,460
+many new branches in math. And maybe today, biological sciences, especially neuroscience,
+
+444
+00:49:27,260 --> 00:49:35,980
+in fact, is going to provide a new source for, you know, problems and maybe ideas that will
+
+445
+00:49:35,980 --> 00:49:41,100
+inspire new math. So one of the specific examples Bartle mentioned is the so-called
+
+446
+00:49:41,100 --> 00:49:48,460
+the mean field theory. How do you go from most biologically based action potential kind of
+
+447
+00:49:48,460 --> 00:49:56,140
+neural models and neural network models to population description, okay? Where you say, you know,
+
+448
+00:49:56,140 --> 00:50:01,740
+for each little group of neurons, you know, they all within this group, all the neurons are more
+
+449
+00:50:01,740 --> 00:50:08,380
+less doing the same thing. What I really care about is the dynamics of the activity, the overall
+
+450
+00:50:08,380 --> 00:50:15,820
+population activity of this neural group. So can I find a mathematical way, mathematical way,
+
+451
+00:50:15,820 --> 00:50:21,500
+to derive, you know, mobile, physically based, spiking neural model to a population description?
+
+452
+00:50:21,500 --> 00:50:26,380
+That's one example. And that's what I said. Yeah. Really?
+
+453
+00:50:28,060 --> 00:50:32,460
+Essentially, I guess I just add it's really true. People actually feel like
+
+454
+00:50:32,460 --> 00:50:39,580
+that today there is going to be really a lot of interesting questions in part from neuroscience
+
+455
+00:50:39,580 --> 00:50:44,540
+that's going to inspire new math. So for example, not just neuroscience, of course. I guess I
+
+456
+00:50:44,540 --> 00:50:50,620
+would just mention one example is, you know, the kind of dynamics that really deviate in very,
+
+457
+00:50:50,620 --> 00:50:55,580
+very high dimensional space. Okay. So if you think about, you know, really the nerve system
+
+458
+00:50:56,220 --> 00:51:00,860
+described it in certain ways, you basically need the zinnians of variables, zinnians of
+
+459
+00:51:00,860 --> 00:51:06,220
+activity variables for neurons on neural populations. So you have to describe the dynamics in a very
+
+460
+00:51:06,220 --> 00:51:12,140
+high dimensional space. And you know, the math of dynamics in very high dimensional space is
+
+461
+00:51:12,140 --> 00:51:18,700
+true in neuroscience, and maybe true in some other scientific branches, given the data we now have
+
+462
+00:51:18,700 --> 00:51:25,580
+today. So, and I think that's one of the examples where, you know, the science, including neuroscience,
+
+463
+00:51:25,580 --> 00:51:32,220
+drives mass. Yeah. I can give another example that I just ran into on a thesis committee of a
+
+464
+00:51:32,220 --> 00:51:39,180
+physics student at Rockefeller named Bo Tei Fumei, who was interested when he comes down to the
+
+465
+00:51:39,180 --> 00:51:44,380
+random walk problem, but expressed in terms of a neuron, you have a neuron, some noise sources,
+
+466
+00:51:44,380 --> 00:51:49,260
+the membrane potential is fluctuating around. And the question you'd like to ask is,
+
+467
+00:51:49,260 --> 00:51:54,460
+how long do you expect it will be before one of those fluctuations goes over threshold and the
+
+468
+00:51:54,460 --> 00:52:01,820
+neuron fires? And so if you look at the fluctuations as what was called a random walk in other areas
+
+469
+00:52:01,820 --> 00:52:08,060
+of biology or chemistry, you know, this is a problem where a lot of work has been done, but he was able
+
+470
+00:52:08,060 --> 00:52:13,260
+by looking at it from the point of view of a neuroscience problem to produce some new mathematics
+
+471
+00:52:13,260 --> 00:52:17,660
+that adds to that whole body of work. So there's another, just an example.
+
+472
+00:52:17,660 --> 00:52:30,780
+I think a very beautiful example of making some new math is some work done by Fred Wolfen,
+
+473
+00:52:30,780 --> 00:52:39,020
+his group in Germany that was recently published in Science, where without, they're trying to
+
+474
+00:52:39,020 --> 00:52:45,420
+understand certain patterns that form in the arrangement of the neurons in the visual cortex of what
+
+475
+00:52:45,420 --> 00:52:51,980
+neurons have been, the primary visual cortex are responsive to light dark edges of a certain
+
+476
+00:52:51,980 --> 00:52:57,180
+orientation, and they care very much about the orientation. Change the orientation of 20 or 30
+
+477
+00:52:57,180 --> 00:53:04,140
+degrees, they may stop responding. And the what orientation they prefer is laid out in a way that
+
+478
+00:53:04,140 --> 00:53:08,780
+sort of rotates periodically as you move across the cortex so that all the orientations are
+
+479
+00:53:08,780 --> 00:53:17,820
+being represented. But it's laid out in a particular kind of pattern, and Fred, so in physics,
+
+480
+00:53:17,820 --> 00:53:23,980
+there's quite a lot of literature on pattern formation, on how, you know, interactions among
+
+481
+00:53:23,980 --> 00:53:30,620
+chemicals may lead to some kind of stripy behavior and so forth, to some pattern emerging. And there's
+
+482
+00:53:30,620 --> 00:53:40,380
+a very established literature of how you can go about analyzing those processes. Those have always
+
+483
+00:53:40,380 --> 00:53:46,460
+dealt with real value variables, though, so I don't know if you all know about real numbers and
+
+484
+00:53:46,460 --> 00:53:52,700
+complex numbers, complex numbers, important part of mathematics, but in the pattern formation
+
+485
+00:53:52,700 --> 00:53:56,780
+literature, just because these are physical variables, these have all been real value variables that
+
+486
+00:53:56,780 --> 00:54:02,300
+are organizing into patterns. It turns out that the proper description of these patterns, you need
+
+487
+00:54:02,300 --> 00:54:10,700
+to use complex value variables, and that required Fred to really revise or extend the existing
+
+488
+00:54:13,100 --> 00:54:18,940
+methodology on pattern formation into that case, and then, and he also had to bring another extension
+
+489
+00:54:18,940 --> 00:54:24,220
+to it, which is in physics, all of the interactions are local. Things just talk to their neighbors.
+
+490
+00:54:24,220 --> 00:54:28,140
+They're not able to talk to somebody way over here directly, because there's no long-range
+
+491
+00:54:28,140 --> 00:54:33,180
+connections between molecules, say, but in among neurons, there are long-range connections,
+
+492
+00:54:33,180 --> 00:54:36,780
+and so he had to bring in the role of long-range connections as well into how this influences
+
+493
+00:54:36,780 --> 00:54:44,700
+pattern formation, and the, the upshot is, I mean, he spent 10 or 15 years developing this theory
+
+494
+00:54:44,700 --> 00:54:54,460
+layer by layer by layer by layer, and the great triumph was he was able to predict that the structure
+
+495
+00:54:55,340 --> 00:55:02,940
+of these maps, it should have a certain signature, which is the density of, of points where all
+
+496
+00:55:02,940 --> 00:55:08,700
+orientations meet, which are called pinwheels, or singularities, and that that density in the
+
+497
+00:55:08,700 --> 00:55:17,260
+right unit should be the number pi, and they went, and they measured it, and some people had measured,
+
+498
+00:55:17,260 --> 00:55:22,140
+and to do that, they had to develop new quantitative methods of measuring the density of pinwheels,
+
+499
+00:55:22,140 --> 00:55:26,460
+because there's always a lot of noise, and it depends on how you filter things, and they had to find
+
+500
+00:55:26,460 --> 00:55:31,260
+ways of filtering out the noise that didn't filter out the signal, which people, people hadn't had
+
+501
+00:55:31,260 --> 00:55:35,260
+good ways of measuring pinwheel density before, so they developed new mathematics for that,
+
+502
+00:55:35,260 --> 00:55:43,020
+and people had studied maybe a few maps at a time, but they studied 100 maps with 10,000
+
+503
+00:55:43,020 --> 00:55:47,500
+singularities in order to get good enough statistics, and they found that the density was pi to
+
+504
+00:55:47,500 --> 00:55:55,020
+within plus or minus 2%, meaning that, and what, what that meant for us, in terms of the physics of it,
+
+505
+00:55:55,020 --> 00:56:01,260
+or in terms of what happened, how do these patterns emerge, is basically this number pi, this organization
+
+506
+00:56:01,260 --> 00:56:06,220
+that's characterized by this, this number pi, emerges very naturally out of self-organization,
+
+507
+00:56:06,220 --> 00:56:12,060
+meaning it's not, every cell isn't told by genetics what orientation to develop,
+
+508
+00:56:12,060 --> 00:56:17,180
+rather they develop by interacting with one another, maybe they excite their neighbors, and they may
+
+509
+00:56:17,180 --> 00:56:22,300
+have some long range suppression, and so they're developing through interaction, and this self-organization
+
+510
+00:56:22,300 --> 00:56:27,580
+among all these moving parts leads to this pattern, and the fact that he was able to show that you
+
+511
+00:56:27,580 --> 00:56:31,500
+get this very robust prediction of pi under that scenario, and then he wouldn't measure it,
+
+512
+00:56:31,500 --> 00:56:37,020
+and that's what was there, and it was there across three different species that are separated by
+
+513
+00:56:37,020 --> 00:56:42,780
+hundreds of millions of years in evolution, and in fact, separated so far that the common ancestor
+
+514
+00:56:42,780 --> 00:56:47,980
+had such a tiny visual cortex that it probably didn't have these patterns at all, meaning that it had
+
+515
+00:56:47,980 --> 00:56:54,300
+to evolve, that this pi pattern had to evolve twice independently, well that would happen naturally
+
+516
+00:56:54,300 --> 00:56:59,100
+if it's just, if it happens by the self-organization process, if you think it's genetically specified,
+
+517
+00:56:59,100 --> 00:57:03,260
+that would be very hard to explain, so I think this was a huge triumph, and it was advanced in the
+
+518
+00:57:03,260 --> 00:57:09,660
+math and advanced in our understanding of the biology. An argument that the pinwheel structure isn't
+
+519
+00:57:10,940 --> 00:57:17,420
+genetically determined, at least not in any simple way, is McGonker serves ferrets where he was able
+
+520
+00:57:17,420 --> 00:57:24,060
+to set up something where they use their auditory cortex to perceive visually, able to rewire
+
+521
+00:57:24,060 --> 00:57:29,900
+the ferrets at a very early age, they also show that auditory cortex shows that pinwheel structure.
+
+522
+00:57:29,900 --> 00:57:35,580
+Although actually, it does show pinwheels, but I don't think it's that characteristic structure
+
+523
+00:57:35,580 --> 00:57:38,460
+that Fred has identified. So I think it's a different pinwheels.
+
+524
+00:57:38,460 --> 00:57:44,220
+Yeah, I think it's a lot, I think it's different, I'm not actually certain of that, but I think it's
+
+525
+00:57:44,220 --> 00:57:55,740
+different. Well, we seem to be at a dead moment, so I'll just change the subject slightly and say
+
+526
+00:57:56,940 --> 00:58:05,020
+there's still plenty of room for new progress in this whole field and the diffusion of molecules,
+
+527
+00:58:05,020 --> 00:58:11,980
+as I mentioned a couple of times. I just want to say, I suggested in a book chapter some time ago
+
+528
+00:58:11,980 --> 00:58:18,540
+that in studying the brain we needed to combine not just what neurons are doing, but what molecules
+
+529
+00:58:18,540 --> 00:58:25,900
+are doing it and propose using a kind of finite element modeling, which is what engineers do who
+
+530
+00:58:25,900 --> 00:58:31,580
+build skyscrapers and bridges, looking at the physics of how little blocks of matter interact
+
+531
+00:58:31,580 --> 00:58:37,340
+under pressure. And this was rejected by referees as being ridiculous, although I thought it might
+
+532
+00:58:37,340 --> 00:58:41,580
+have something to do, for example, with studying tumors in the brain and how a tumor might press
+
+533
+00:58:41,580 --> 00:58:47,980
+on another part of the brain and cause something not to function because pressure might be changing
+
+534
+00:58:48,620 --> 00:58:55,820
+the activity of channels or something. But I just saw in a recent document that I'm reading, which
+
+535
+00:58:56,620 --> 00:59:03,100
+well, it's a PhD thesis, that this is now being applied, this kind of idea in the
+
+536
+00:59:03,100 --> 00:59:08,860
+eye where people are working on retinal prostheses, you know, and the idea there is to
+
+537
+00:59:08,860 --> 00:59:16,380
+in a blind person who's lost the visual receptors, it's known that the so-called retinal ganglion
+
+538
+00:59:16,380 --> 00:59:21,500
+cells, the cells that send the output of the retina back to the brain, those are often still
+
+539
+00:59:21,500 --> 00:59:26,220
+functional even when the receptors are not. So the person is blind, but that part of the eye is good.
+
+540
+00:59:26,220 --> 00:59:32,380
+So the proposal and it's been tried now in real life by different groups, you know, is to stick
+
+541
+00:59:32,380 --> 00:59:38,140
+some sort of array of electrodes into the back of the eye and stimulate these retinal ganglion cells
+
+542
+00:59:38,140 --> 00:59:44,780
+to provide some sort of prosthetic vision. And so this thesis that I'm reading has done just,
+
+543
+00:59:45,660 --> 00:59:48,780
+he of course never saw my proposal, it must have come out of his own ideas, but
+
+544
+00:59:49,580 --> 00:59:56,700
+the idea of making a finite element model of the fluid in the eye and then using the laws of
+
+545
+00:59:59,660 --> 01:00:03,500
+you know, the laws of electricity and magnetism to figure out how when you
+
+546
+01:00:03,500 --> 01:00:09,660
+put a little current into an electrode, how does that spread through that fluid and which ganglion
+
+547
+01:00:09,660 --> 01:00:16,460
+cells does it affect? So you can figure out what's the best way to compute what, now in a computer,
+
+548
+01:00:16,460 --> 01:00:23,340
+you know, what's stimulus to put into that electrode array to get the most natural vision. So there's
+
+549
+01:00:23,340 --> 01:00:29,180
+a very new kind of extension of what we've all been doing, looking at just one neuron, talking to
+
+550
+01:00:29,180 --> 01:00:35,900
+another and taking into account this ionic environment. And I think, you know, this is a very positive
+
+551
+01:00:36,700 --> 01:00:40,460
+thing to be happening right now. You may know more about this than I do.
+
+552
+01:00:40,460 --> 01:00:47,340
+I think, you know, you bring up, okay, so it seems we've sort of switched a little bit to pathology,
+
+553
+01:00:47,340 --> 01:00:54,140
+I guess, because this is a bad retina. And can you guys hear me every other word or do we speak to
+
+554
+01:00:54,140 --> 01:01:03,580
+twice for or, okay? Yeah, right now. Okay, okay, all right. So, you know, let me give you an example
+
+555
+01:01:03,580 --> 01:01:11,740
+of where math can be very helpful in in pathologies is one of the classic mechanisms for Parkinson's
+
+556
+01:01:11,740 --> 01:01:17,020
+disease is something called deep brain stimulation. And the problem with deep brain stimulation is
+
+557
+01:01:17,020 --> 01:01:22,940
+it's really, really stupid. It just does the same thing over and over again. And it doesn't
+
+558
+01:01:22,940 --> 01:01:28,860
+depend on any feedback or anything else. But there's a number of groups. There's groups in Germany,
+
+559
+01:01:28,860 --> 01:01:36,540
+and there's groups in the US that have developed much smarter, much smarter versions of deep brain
+
+560
+01:01:36,540 --> 01:01:44,700
+stimulation, based on writing down some goals for what happens in the basal ganglia, whether you treat
+
+561
+01:01:44,700 --> 01:01:50,380
+them as oscillators, or as excitatory inhibitory networks. And by using that, they've been
+
+562
+01:01:50,380 --> 01:01:56,780
+in a motor come up with techniques or deep brain stimulation. And this is this could not be
+
+563
+01:01:56,780 --> 01:02:00,620
+have done could not have been done without the math predicting this method would work.
+
+564
+01:02:01,260 --> 01:02:07,180
+But much more efficient ways of doing deep brain stimulation that won't come on until
+
+565
+01:02:07,180 --> 01:02:12,380
+there's a sense that something's wrong. And when it comes on, it does it much more efficiently
+
+566
+01:02:12,380 --> 01:02:18,780
+instead of jolting it with, you know, hundreds of millivolts of stuff they can do things in
+
+567
+01:02:18,780 --> 01:02:26,060
+in much lower levels and therefore improve things like battery life and also reduce damage a great
+
+568
+01:02:26,060 --> 01:02:32,300
+deal to the brain. You know, some of that work is going on at Rockpower 2 in the lab of Donald
+
+569
+01:02:32,300 --> 01:02:37,500
+Faf, who I want to mention because he's on the board of this organization that's sponsoring us
+
+570
+01:02:37,500 --> 01:02:44,700
+today. He has a student doing deep brain stimulation in a mouse model of traumatic brain injury.
+
+571
+01:02:44,700 --> 01:02:51,820
+And they're not, perhaps, unfortunately not doing what you say in terms of the math of what the
+
+572
+01:02:51,820 --> 01:02:58,540
+network is doing. But what they have done is to try out different modes of stimulation, you know,
+
+573
+01:02:58,540 --> 01:03:07,260
+whether it's a random or a chaotic or a pure oscillator, a regular oscillation. And do these
+
+574
+01:03:07,260 --> 01:03:13,820
+different modes of stimulation produce better results in that mouse model. So again, this is
+
+575
+01:03:13,820 --> 01:03:18,140
+something kind of new that's going on in just a few places and very positive, I think.
+
+576
+01:03:20,860 --> 01:03:25,980
+Especially for this audience, maybe it's also worth mentioning something related. So actually,
+
+577
+01:03:25,980 --> 01:03:34,700
+I'm on my way to a kind of short summer school on so-called computational psychiatry. So there
+
+578
+01:03:34,700 --> 01:03:44,860
+are several places including Yale and Germany and UCL in London where people feel like if we have
+
+579
+01:03:44,860 --> 01:03:51,500
+some, we are starting to have some understanding about the second mechanisms of brain structures,
+
+580
+01:03:52,060 --> 01:03:58,460
+especially the prefrontal cortex that are implicated in mental disorders. So if we know something
+
+581
+01:03:58,460 --> 01:04:03,820
+about the circuitry in this part of the brain. So it's not, all the brains are really the same.
+
+582
+01:04:03,820 --> 01:04:10,300
+Okay, so we know that there are early sensory areas that are, you know, optimized for
+
+583
+01:04:10,300 --> 01:04:15,900
+information processing. And then there are some, you know, kind of more cognitive areas that are
+
+584
+01:04:15,900 --> 01:04:22,060
+more implicated in decision-making and control of our behavior. So prefrontal cortex is one,
+
+585
+01:04:22,780 --> 01:04:28,620
+you know, the best example perhaps of cognitive type circuitry that's implicating in many
+
+586
+01:04:28,620 --> 01:04:37,500
+mental illness disorder types. So there's a sense that, you know, and again, this system's
+
+587
+01:04:37,500 --> 01:04:45,260
+very complex to just try to understand by intuition along. And the second modeling has helped together
+
+588
+01:04:45,260 --> 01:04:54,140
+with experimentation to kind of tease out, you know, what really might go on in normal subjects
+
+589
+01:04:54,140 --> 01:05:02,300
+as well as seeing patients, like phoenix patients or autism, for example. I mean, we know a bit
+
+590
+01:05:02,300 --> 01:05:08,700
+about schizophrenia, maybe much less, very little still, but there's something about schizophrenia,
+
+591
+01:05:08,700 --> 01:05:16,620
+but even less on autism, I think. But still, the idea is that if mathematics really, you know,
+
+592
+01:05:16,620 --> 01:05:23,020
+biologically based model of prefrontal cortex, if such a thing can be done, would provide a very
+
+593
+01:05:23,020 --> 01:05:30,540
+useful platform to really explore what may go wrong if this goes down, if that goes up, you know,
+
+594
+01:05:30,540 --> 01:05:38,380
+if, you know, at the circuitry level. And if that's the case, it really provides a two, first,
+
+595
+01:05:38,380 --> 01:05:45,020
+to also try to understand what really underlines cognitive deficits in mental disorders.
+
+596
+01:05:45,020 --> 01:05:57,820
+And there's a, this is just hypothesis and speculation, but there are, so the cerebral cortex is,
+
+597
+01:05:57,820 --> 01:06:04,540
+you know, the main, the stuff that makes us smart. It's what, it's peculiar to mammals.
+
+598
+01:06:04,540 --> 01:06:08,620
+The part of the brain that you ball specifically in mammals, to all the folded up stuff you see
+
+599
+01:06:08,620 --> 01:06:13,020
+on the surface. And it's what you see with and hear with and think with. And pretty much,
+
+600
+01:06:13,020 --> 01:06:16,300
+I think it's fair to say that your whole conscious life is computed there. I don't want to say
+
+601
+01:06:16,300 --> 01:06:20,300
+where, what consciousness is, but let's say whatever does enter consciousness is computed there.
+
+602
+01:06:22,540 --> 01:06:28,860
+And it has what has always fascinated anyone who tries to study cortex is that
+
+603
+01:06:29,580 --> 01:06:35,820
+it looks so much the same no matter what it's doing. Whether it's doing, you know, here's a piece
+
+604
+01:06:35,820 --> 01:06:39,660
+that's, that's analyzing the visual scene. Here's a piece that's analyzing touch. Here's a piece
+
+605
+01:06:39,660 --> 01:06:45,180
+that's analyzing audition. Here's a piece that's involved in motor planning and, and thinking and,
+
+606
+01:06:45,900 --> 01:06:51,740
+you know, speaking. And there are differences. There definitely are differences. But the first
+
+607
+01:06:51,740 --> 01:06:56,540
+thing that strikes you is how much they look alike. How much they seem to be the same architecture,
+
+608
+01:06:56,540 --> 01:07:04,220
+the same processing unit. And so it makes all of us dream at least that there is a fundamental
+
+609
+01:07:04,220 --> 01:07:09,660
+processing unit that was invented in a million evolution that's very good at doing something,
+
+610
+01:07:09,660 --> 01:07:13,420
+which when we really understand it, we'll be able to fill in what that something is. But something
+
+611
+01:07:13,420 --> 01:07:21,260
+like being able to take a varying world, find invariant structure in it, represent that invariant
+
+612
+01:07:21,260 --> 01:07:27,980
+structure associatively, and then do that again and again and again. So there's also a hypothesis
+
+613
+01:07:27,980 --> 01:07:36,540
+that some diseases like schizophrenia or autism might be not specifically cognitive deficit to
+
+614
+01:07:36,540 --> 01:07:41,740
+the cortex, specifically deficits in, you know, particular cognitive regions. But they might be
+
+615
+01:07:41,740 --> 01:07:49,900
+deficits in that processing unit that therefore would manifest not only in higher order cognitive
+
+616
+01:07:49,900 --> 01:07:55,020
+processing, but you would also see it in low level visual processing. And indeed in schizophrenia,
+
+617
+01:07:55,020 --> 01:08:02,780
+for example, there's something in much of sensory cortex called surround suppression. It's a
+
+618
+01:08:02,780 --> 01:08:08,140
+lateral inhibition that Bard was talking about before, which is that if I have a neuron that
+
+619
+01:08:08,140 --> 01:08:13,580
+responds to some visual stimulus here, then what's around it, the context can suppress the
+
+620
+01:08:13,580 --> 01:08:22,220
+responses somewhat. And it turns out that the people with schizophrenia have much weaker
+
+621
+01:08:22,220 --> 01:08:27,580
+surround suppression in primary visual cortex. And you can imagine that that's some kind of,
+
+622
+01:08:28,220 --> 01:08:34,140
+you know, that that could be some kind of global deficit in integrating, you know, local
+
+623
+01:08:34,140 --> 01:08:38,620
+information here or local information there, putting it together, that perhaps in some way
+
+624
+01:08:38,620 --> 01:08:42,780
+that I couldn't explain to you might add up to the cognitive deficits that we see as schizophrenia
+
+625
+01:08:42,780 --> 01:08:49,100
+when that deficit is happening in the right brain region. So we don't know, but it's possible that
+
+626
+01:08:49,100 --> 01:08:54,700
+these are diseases of the cortical processing unit and not of very specific cognitive functions.
+
+627
+01:08:54,700 --> 01:09:02,380
+Would that kind of problem with the processing unit also be able to explain why schizophrenia
+
+628
+01:09:02,380 --> 01:09:08,620
+is sometimes a deteriorating condition? I always wondered, imagine if once that processing is that
+
+629
+01:09:08,620 --> 01:09:14,700
+way, then it should stay the same way. Yes, I know it's a good question. You know, I can't say that
+
+630
+01:09:14,700 --> 01:09:19,420
+I've thought out all the implications of this really deep into schizophrenia. I've been struck
+
+631
+01:09:19,420 --> 01:09:26,300
+by the fact that there are these very low level deficiencies in schizophrenia and certainly,
+
+632
+01:09:26,300 --> 01:09:31,820
+in autism, it's been shown that at low level sensory areas, there's much more variability
+
+633
+01:09:31,820 --> 01:09:35,980
+in the processing. The mean response to a given stimulus is the same, but there's much more
+
+634
+01:09:35,980 --> 01:09:41,020
+variability in the response. So that it gives me the hint that there are maybe more general
+
+635
+01:09:41,020 --> 01:09:46,220
+processing problems in the cortex, but I don't know enough at that level of detail.
+
+636
+01:09:46,220 --> 01:09:52,700
+There's lots of very specific deficits in, especially in the prefrontal cortex,
+
+637
+01:09:52,700 --> 01:10:03,420
+in the inhibitory circuitry, some of the receptors become slower, they become weaker,
+
+638
+01:10:04,540 --> 01:10:10,060
+maybe compensation because there's also deficits in the excitatory stuff. So I think it's basically
+
+639
+01:10:10,060 --> 01:10:17,340
+what Ken was saying is that it's this basic circuitry, this seven layer or six or seven layer
+
+640
+01:10:17,340 --> 01:10:25,260
+structure, and there's something that goes wrong with, and Ken pointed out, if you weaken some of
+
+641
+01:10:25,260 --> 01:10:32,300
+these things like Xiaojing, if you weaken these inhibitory things, for example, which inhibitory
+
+642
+01:10:32,300 --> 01:10:39,340
+guys, or what kind of keep everything controlled. I mean, the cortex is highly recurrent, highly
+
+643
+01:10:39,340 --> 01:10:45,580
+excitatory recurrent, and because of that, any kind of perturbation of this controlling inhibition
+
+644
+01:10:45,580 --> 01:10:52,060
+can lead to all kinds of dramatic pathologies, activity where you don't want it not being able to
+
+645
+01:10:52,060 --> 01:11:00,220
+hold activity, spread of activity where it shouldn't go. That's, for example, epilepsy,
+
+646
+01:11:00,220 --> 01:11:06,940
+and spontaneous activity when it's not there, for example, hallucinations that are some of the
+
+647
+01:11:07,500 --> 01:11:14,620
+negative things that happen, positive things that happen with, so yeah, I think, and math can
+
+648
+01:11:14,620 --> 01:11:23,740
+really help us tear apart how these deficits in vision or deficit in the circuitry can lead to
+
+649
+01:11:23,740 --> 01:11:30,060
+some sort of macroscopic measure. For example, one thing that they found associated with cognitive
+
+650
+01:11:30,060 --> 01:11:36,700
+deficits in schizophrenia, people have greatly reduced certain kinds of problems in the brain
+
+651
+01:11:37,660 --> 01:11:45,100
+Xiaojing alluded to, these ones that are related to mutual inhibition in generating these 40 to 60
+
+652
+01:11:45,100 --> 01:11:52,780
+Hertz rhythms in the brain, and those rhythms are shown to be diminished in schizophrenics also.
+
+653
+01:11:52,780 --> 01:12:02,140
+So, math can kind of connect these deficits in circuitry with the macroscopic rhythms and
+
+654
+01:12:02,140 --> 01:12:10,460
+hopefully some of the cognitive deficits. So, to relate to what Barton King just said,
+
+655
+01:12:10,460 --> 01:12:18,620
+I guess one way to view this is to say, yeah, there's a canonical general layout, there's a general
+
+656
+01:12:18,620 --> 01:12:27,340
+in an organization of, say, cerebral cortex, and that's universal, let's say, okay, it's true in
+
+657
+01:12:27,340 --> 01:12:33,500
+early sensory areas like primary visual cortex as well as prefrontal cortex. But what's interesting
+
+658
+01:12:33,500 --> 01:12:42,140
+is that there could be some quantitative differences, right, and so to use the same analogy as used
+
+659
+01:12:42,140 --> 01:12:48,940
+before, you have the same matter, same material, which can be either in the liquid state or solid
+
+660
+01:12:48,940 --> 01:12:53,500
+state depending on the temperature, right. So, you could say just by changing something in
+
+661
+01:12:53,500 --> 01:12:58,060
+temperature in a great fashion, sometimes by a small amount, if you are near the, you know,
+
+662
+01:13:02,060 --> 01:13:08,220
+solidification critical point, just really the small change of certain things will
+
+663
+01:13:08,220 --> 01:13:14,140
+give you a very different kind of behavior, right. And that's how I see it, like, you know, comparing
+
+664
+01:13:14,140 --> 01:13:21,340
+sensory area versus prefrontal cortex, okay. So, and that really is very important and very
+
+665
+01:13:21,340 --> 01:13:27,820
+interesting to realize. And then, you can ask even by the same amount of change of certain things
+
+666
+01:13:27,820 --> 01:13:34,220
+due to genetic defect or due to environmental, you know, insult, what's the impact?
+
+667
+01:13:34,220 --> 01:13:41,660
+You know, sensory system versus the more cognitive type of system. So, by understanding the
+
+668
+01:13:41,660 --> 01:13:48,860
+operational mode, the behavior of each system, we can, you know, indeed address, you know, look
+
+669
+01:13:48,860 --> 01:13:54,380
+at, exam, how, you know, abnormalities can occur in each of the areas.
+
+670
+01:13:55,580 --> 01:14:01,660
+Let me ask Ken a question, because you emphasize the unity of structure across the cortex, but
+
+671
+01:14:01,660 --> 01:14:06,380
+of course, as you well know, and I'll do, there's differences, you know, more than 100 years ago,
+
+672
+01:14:06,380 --> 01:14:11,340
+Broadman described all with these numbered areas, and they have slight differences in the
+
+673
+01:14:11,980 --> 01:14:15,900
+population of different cell types or the lengths of the dendrites or areas.
+
+674
+01:14:18,060 --> 01:14:25,580
+I'm sure you didn't mean to denigrate that, but just, do you feel that those anatomical
+
+675
+01:14:25,580 --> 01:14:31,900
+differences that are easily visible can be related, in fact, to the functional differences that
+
+676
+01:14:32,780 --> 01:14:39,420
+Shaoxing is talking about? Or, you know, should we be looking at whether we can understand why
+
+677
+01:14:39,420 --> 01:14:44,940
+those differences are there, or is it just sort of peripheral and unimportant accidental, I mean,
+
+678
+01:14:44,940 --> 01:14:48,460
+to say? No, I mean, I think ultimately we need to understand those variations, but just,
+
+679
+01:14:48,460 --> 01:14:55,660
+I very much take XJ's point, sorry, we call it XJ, so that's just a call again.
+
+680
+01:14:56,540 --> 01:15:03,580
+Very much like SJ's point, that, you know, there may be some commonality, but it may be
+
+681
+01:15:03,580 --> 01:15:09,900
+operating in a different regime, and in particular, one difference that's very well known is that,
+
+682
+01:15:09,900 --> 01:15:20,300
+in primary sensory cortex, the excitatory neurons make much fewer synapses onto each other,
+
+683
+01:15:20,300 --> 01:15:27,260
+so an individual neuron in primary visual cortex might receive 700 excitatory synapses,
+
+684
+01:15:27,260 --> 01:15:32,380
+but in prefrontal cortex it might receive 20,000 excitatory synapses, and that has an obvious,
+
+685
+01:15:33,100 --> 01:15:39,500
+theoretically what you expect from that is that the place with 20,000 excitatory synapses is much
+
+686
+01:15:39,500 --> 01:15:44,140
+more likely to be able to generate its own activity in the absence of a stimulus, which in fact is
+
+687
+01:15:44,140 --> 01:15:48,460
+one of the big differences between frontal cortex and primary sensory cortex, where without a stimulus,
+
+688
+01:15:49,180 --> 01:15:54,220
+there's some background activity going on, but it doesn't generate the kinds of activity.
+
+689
+01:15:54,220 --> 01:15:58,620
+It's stimulus, but frontal cortex has to generate its own activity, it's got to make motor plans
+
+690
+01:15:58,620 --> 01:16:04,700
+and make the animal go, so that's one example of, you know, a numerical change that leads to a
+
+691
+01:16:04,700 --> 01:16:09,020
+qualitative change in your operating regime, and you may have a lot of the same structure underneath,
+
+692
+01:16:09,020 --> 01:16:13,340
+I'm sure that that's probably, you know, if we got down to every one of broadment areas,
+
+693
+01:16:13,340 --> 01:16:17,900
+every one of them would have some specialization that gives us some little, some, I mean, every
+
+694
+01:16:17,900 --> 01:16:21,820
+specialization and structure has got to be there for some specialization and function, and we don't
+
+695
+01:16:21,820 --> 01:16:28,300
+know what it is, but I prefer, I prefer right now to try to focus on, you know, what is the basic
+
+696
+01:16:28,300 --> 01:16:33,020
+operation of this unit rather than before we tackle all of its variations, but I do think between
+
+697
+01:16:33,020 --> 01:16:36,860
+sensory and motor, those are really two fundamentally different things that we need to each understand.
+
+698
+01:16:36,860 --> 01:16:44,140
+Well, how about something? I want to add something, if I can, is, it's, you know, there's also
+
+699
+01:16:44,140 --> 01:16:49,740
+who you're talking to and who talks to you that really matters, so the prefrontal cortex gets
+
+700
+01:16:49,740 --> 01:16:54,540
+information from lots of other different things than the visual cortex, so even though the
+
+701
+01:16:54,540 --> 01:17:00,060
+the hardware is the same connectivity, and I guess we come back to the old connect story,
+
+702
+01:17:00,060 --> 01:17:06,540
+is different, and I think that can also be a big reason why there's a difference in
+
+703
+01:17:06,540 --> 01:17:12,380
+functionality. I mean, it's just simply that you're getting, you know, the, the, the CPUs are the
+
+704
+01:17:12,380 --> 01:17:19,500
+same, it's just the, the, the memory and who you're talking to is completely different.
+
+705
+01:17:20,700 --> 01:17:24,700
+Yeah, that's right. Right on the water finish.
+
+706
+01:17:25,900 --> 01:17:30,940
+Oh, yeah, I think, you know, the, the point you were making before about, we don't know what the
+
+707
+01:17:30,940 --> 01:17:36,460
+units are yet. Look, I, I, I take the unit story very seriously, for one thing, it seems evolution
+
+708
+01:17:36,460 --> 01:17:42,860
+is generally plausible. We know that there's a reason to think that the, you know, increase in
+
+709
+01:17:43,660 --> 01:17:51,260
+cortex that we have from earlier stages is just duplication. You know, we have all these areas
+
+710
+01:17:51,260 --> 01:17:58,300
+that seem to be basically descended from retinas that, you know, they needed more cortex to make
+
+711
+01:17:58,300 --> 01:18:08,140
+another retina. So there does seem to be some reason to think that from an evolutionary point
+
+712
+01:18:08,140 --> 01:18:14,780
+of view, it's a matter of just, you know, duplication, but it seems amazing that we don't know what
+
+713
+01:18:14,780 --> 01:18:20,700
+these units are. How many neurons in such a unit would you say?
+
+714
+01:18:21,260 --> 01:18:24,380
+What's the size of the unit? So what we think of as... What do you mean by it?
+
+715
+01:18:24,380 --> 01:18:28,620
+Yeah, I mean, the unit is a totally hypothetical speculative object right now, but,
+
+716
+01:18:30,620 --> 01:18:35,420
+what's, what's commonly thought going back to the work of Hubel and Wiesel 40, 50 years ago,
+
+717
+01:18:36,460 --> 01:18:41,660
+is that about a square millimeter of cortex is sort of processing a local, a local bit of
+
+718
+01:18:41,660 --> 01:18:47,580
+information, and that contains about 100,000 neurons. And then when you consider, though,
+
+719
+01:18:47,580 --> 01:18:51,020
+that these different units are talking to each other, because you don't only process local
+
+720
+01:18:51,020 --> 01:18:55,420
+information, you're modulated by your context, you know, so how big should there should we take
+
+721
+01:18:55,420 --> 01:18:59,580
+the processing unit to be? But that gives you a beginning. I've asked the same question to other
+
+722
+01:18:59,580 --> 01:19:08,140
+neuroscientists, and sometimes I get the answer 10,000 neurons. I mean, it just shows how hypothetical
+
+723
+01:19:08,140 --> 01:19:14,300
+it is if we don't even... If we don't have methods of estimating that... Well, I mean, we know how many
+
+724
+01:19:14,300 --> 01:19:18,060
+neurons there are in a given area, but the question is how big an area should we call a unit? Yeah.
+
+725
+01:19:18,060 --> 01:19:20,300
+Yeah. He has to... Well, there is a great... Well, there is a great...
+
+726
+01:19:20,300 --> 01:19:18,560
+...
+
+727
+01:19:21,260 --> 01:19:21,260
+...
+
+728
+01:19:21,260 --> 01:19:21,260
+...
+
+729
+01:19:21,260 --> 01:19:21,260
+...
+
+730
+01:19:21,260 --> 01:19:21,760
+...
+
+731
+01:19:21,760 --> 01:19:22,260
+...
+
+732
+01:19:22,260 --> 01:19:22,260
+...
+
+733
+01:19:22,260 --> 01:19:23,260
+...
+
+734
+01:19:23,260 --> 01:19:23,260
+...
+
+735
+01:19:23,260 --> 01:19:24,260
+...
+
+736
+01:19:24,260 --> 01:19:24,260
+...
+
+737
+01:19:45,080 --> 01:19:46,080
+...
+
+738
+01:19:46,080 --> 01:19:47,860
+...
+
+739
+01:19:53,300 --> 01:20:00,400
+...
+
+740
+01:20:03,580 --> 01:20:03,920
+...
+
+741
+01:20:03,700 --> 01:20:05,060
+...
+
+742
+01:20:05,060 --> 01:20:06,360
+...
+
+743
+01:20:08,160 --> 01:20:09,700
+chats
+
+744
+01:20:09,700 --> 01:20:14,020
+I'm every perception that we make, every thought that we have.
+
+745
+01:20:14,020 --> 01:20:16,780
+And the whole world of metaphor depends
+
+746
+01:20:16,780 --> 01:20:20,860
+on a more sophisticated pattern recognition.
+
+747
+01:20:20,860 --> 01:20:23,860
+Now, my simple question is, is it conceivable
+
+748
+01:20:23,860 --> 01:20:29,300
+that there is some mathematical expression of whatever
+
+749
+01:20:29,300 --> 01:20:31,460
+matches one pattern to another?
+
+750
+01:20:31,460 --> 01:20:33,260
+Because we can't work without it.
+
+751
+01:20:33,260 --> 01:20:34,140
+That's my question.
+
+752
+01:20:34,140 --> 01:20:36,780
+I think that's the holy grail for understanding course.
+
+753
+01:20:36,780 --> 01:20:38,180
+I mean, I think we will get there,
+
+754
+01:20:38,180 --> 01:20:40,340
+but we're not there yet.
+
+755
+01:20:40,340 --> 01:20:43,420
+So just to say something about what we know about pattern
+
+756
+01:20:43,420 --> 01:20:49,780
+recognition, what we don't know, it was shown a long time
+
+757
+01:20:49,780 --> 01:20:53,540
+ago that pigeons can recognize patterns
+
+758
+01:20:53,540 --> 01:20:57,260
+that we have not been able to make a machine that can recognize.
+
+759
+01:20:57,260 --> 01:21:02,860
+So for example, it was shown, I think, 30 years ago that you,
+
+760
+01:21:02,860 --> 01:21:07,220
+so this was done by a famous, maybe infamous Harvard
+
+761
+01:21:07,220 --> 01:21:08,940
+psychologist named Heron Stein.
+
+762
+01:21:08,940 --> 01:21:12,740
+He got a bunch of pictures from the National Geographic
+
+763
+01:21:12,740 --> 01:21:17,700
+that some of which had people or parts of people in them.
+
+764
+01:21:17,700 --> 01:21:20,580
+Sometimes they were like a tree trunk with some fingers
+
+765
+01:21:20,580 --> 01:21:23,780
+on one side and others that had no people in them
+
+766
+01:21:23,780 --> 01:21:24,700
+or no parts of people.
+
+767
+01:21:24,700 --> 01:21:28,100
+And he got pigeons to, he trained pigeons
+
+768
+01:21:28,100 --> 01:21:31,100
+so that they could recognize the difference between a picture
+
+769
+01:21:31,100 --> 01:21:33,220
+that had a person or a part of a person.
+
+770
+01:21:33,220 --> 01:21:36,220
+And they did very well, better than some of the students
+
+771
+01:21:36,220 --> 01:21:40,100
+in his lab because that's why they're flying things that
+
+772
+01:21:40,100 --> 01:21:43,020
+could do better in aerial photograph.
+
+773
+01:21:43,020 --> 01:21:45,460
+They could do better in the aerial analysis.
+
+774
+01:21:45,460 --> 01:21:49,540
+We don't have any kind of artificial pattern recognized
+
+775
+01:21:49,540 --> 01:21:50,180
+so they can do that.
+
+776
+01:21:50,180 --> 01:21:53,100
+We don't know how it's done.
+
+777
+01:21:53,100 --> 01:21:56,260
+But I do believe that when we understand it,
+
+778
+01:21:56,260 --> 01:22:00,100
+we will understand it mathematically.
+
+779
+01:22:00,100 --> 01:22:03,580
+Until you can describe mathematically how you take the image
+
+780
+01:22:03,580 --> 01:22:07,220
+and what you do with it in order to recognize the pattern,
+
+781
+01:22:07,220 --> 01:22:08,380
+then we won't understand that.
+
+782
+01:22:08,380 --> 01:22:10,460
+And I think we will understand it.
+
+783
+01:22:10,460 --> 01:22:12,900
+My own feeling is that we're not going to figure it out
+
+784
+01:22:12,900 --> 01:22:15,380
+by trying to invent algorithms.
+
+785
+01:22:15,380 --> 01:22:18,460
+We're going to figure it out by studying how nature did it,
+
+786
+01:22:18,460 --> 01:22:20,020
+which is how our brains do it.
+
+787
+01:22:20,020 --> 01:22:21,140
+Because I don't think we're smart enough
+
+788
+01:22:21,140 --> 01:22:22,300
+to reinvent that ourselves.
+
+789
+01:22:22,300 --> 01:22:23,220
+I think we have to discover it.
+
+790
+01:22:23,220 --> 01:22:26,900
+It's an important point that I agree with what you just said.
+
+791
+01:22:26,900 --> 01:22:32,420
+But it reveals a real tectonic shift in this field
+
+792
+01:22:32,420 --> 01:22:36,780
+where there was a time when people thought they could discover
+
+793
+01:22:36,780 --> 01:22:38,060
+these just by thinking about it.
+
+794
+01:22:38,060 --> 01:22:39,500
+Just by thinking about it.
+
+795
+01:22:39,500 --> 01:22:40,500
+Yeah.
+
+796
+01:22:40,500 --> 01:22:41,500
+You know, David.
+
+797
+01:22:41,500 --> 01:22:44,940
+The analogy I'd like to make is that quantum mechanics
+
+798
+01:22:44,940 --> 01:22:46,980
+is the weirdest theory.
+
+799
+01:22:46,980 --> 01:22:49,700
+I mean, you get used to it and it makes sense to you.
+
+800
+01:22:49,700 --> 01:22:55,060
+But never in a billion years would anybody have figured it out
+
+801
+01:22:55,060 --> 01:22:56,420
+just by thinking about it.
+
+802
+01:22:56,420 --> 01:22:59,180
+Physicists had to knock their heads on atoms
+
+803
+01:22:59,180 --> 01:23:01,060
+and the weird way that adults behave
+
+804
+01:23:01,060 --> 01:23:03,780
+and knock their heads again and again and again
+
+805
+01:23:03,780 --> 01:23:07,860
+for decades until they finally somehow knocked their heads
+
+806
+01:23:07,860 --> 01:23:11,180
+enough that they managed to get to the point of quantum mechanics.
+
+807
+01:23:11,180 --> 01:23:12,580
+And then it started explaining things.
+
+808
+01:23:12,580 --> 01:23:16,380
+And I think understanding how the brain does instantly
+
+809
+01:23:16,380 --> 01:23:17,660
+recognizes things.
+
+810
+01:23:17,660 --> 01:23:19,740
+I think it's in the same category.
+
+811
+01:23:19,740 --> 01:23:21,540
+I know there's a line over here, but I really
+
+812
+01:23:21,540 --> 01:23:22,660
+want to throw in two things.
+
+813
+01:23:22,660 --> 01:23:25,860
+First, famously in that Heronstein experiment,
+
+814
+01:23:25,860 --> 01:23:27,620
+people complained just what you said
+
+815
+01:23:27,620 --> 01:23:30,260
+that the birds fly around so they would know about trees.
+
+816
+01:23:30,260 --> 01:23:32,860
+So he got the pigeons also to recognize scenes that
+
+817
+01:23:32,860 --> 01:23:36,380
+had fish or not fish, which the pigeons had never seen.
+
+818
+01:23:36,380 --> 01:23:38,180
+But no, my point was going to be, yeah,
+
+819
+01:23:38,180 --> 01:23:39,460
+we don't know how this works.
+
+820
+01:23:39,460 --> 01:23:42,340
+But I firmly believe that part of the story
+
+821
+01:23:42,340 --> 01:23:46,180
+is going to be what I've said earlier this afternoon,
+
+822
+01:23:46,180 --> 01:23:49,460
+the interaction of the young individual with the world.
+
+823
+01:23:49,460 --> 01:23:52,140
+The way we're going to recognize patterns
+
+824
+01:23:52,140 --> 01:23:56,420
+that connect with each other is because they occur together
+
+825
+01:23:56,420 --> 01:23:59,980
+in time or space on and off during development.
+
+826
+01:23:59,980 --> 01:24:02,740
+And parts of the brain are, I believe,
+
+827
+01:24:02,740 --> 01:24:07,940
+wired in such a way as to respond to those connections.
+
+828
+01:24:07,940 --> 01:24:12,340
+And that's what you cannot get by describing patterns
+
+829
+01:24:12,340 --> 01:24:15,740
+geometrically or with words.
+
+830
+01:24:15,740 --> 01:24:17,860
+It's all part of a scene.
+
+831
+01:24:17,860 --> 01:24:20,300
+And we know that we recall things in connection
+
+832
+01:24:20,300 --> 01:24:24,060
+with stimuli that were part of that scene
+
+833
+01:24:24,060 --> 01:24:28,780
+when we first saw that pattern that may be totally unrelated.
+
+834
+01:24:28,780 --> 01:24:31,020
+I recognize a certain Beethoven symphony
+
+835
+01:24:31,020 --> 01:24:33,260
+because when I played the record years and years ago,
+
+836
+01:24:33,260 --> 01:24:34,780
+there was a scratch at one point.
+
+837
+01:24:34,780 --> 01:24:38,540
+And that scratch is in my brain at that point in the music.
+
+838
+01:24:38,540 --> 01:24:40,380
+And that's how I know that with that.
+
+839
+01:24:40,380 --> 01:24:46,820
+So it's the whole surround, not just one thing that
+
+840
+01:24:46,820 --> 01:24:48,260
+makes patterns.
+
+841
+01:24:48,260 --> 01:24:50,580
+OK, I'll shut up.
+
+842
+01:24:50,580 --> 01:24:51,660
+I'm sorry, I'm sorry.
+
+843
+01:24:51,660 --> 01:24:54,100
+I'm actually a mathematically oriented psychiatrist,
+
+844
+01:24:54,100 --> 01:24:55,940
+which is relatively rare thing.
+
+845
+01:24:55,940 --> 01:24:59,380
+In 2003, I organized the first symposium
+
+846
+01:24:59,380 --> 01:25:01,980
+at the American Psychiatric on Game Theory in Psychiatry.
+
+847
+01:25:01,980 --> 01:25:03,500
+And it was roundly ridiculed.
+
+848
+01:25:03,500 --> 01:25:04,980
+I just have to, you know, it and I
+
+849
+01:25:04,980 --> 01:25:06,660
+were roundly ridiculed for this notion
+
+850
+01:25:06,660 --> 01:25:11,620
+that game theory could be applicable to psychiatry.
+
+851
+01:25:11,620 --> 01:25:13,740
+So I've been thinking about these ideas for a long time.
+
+852
+01:25:13,740 --> 01:25:15,620
+And I want to thank this panel for bringing this here.
+
+853
+01:25:15,620 --> 01:25:17,900
+I think it's absolutely fantastic.
+
+854
+01:25:17,900 --> 01:25:20,980
+And cutting edge kind of discussion.
+
+855
+01:25:20,980 --> 01:25:23,860
+I'd just like to say that if the hypothesis for today
+
+856
+01:25:23,860 --> 01:25:26,820
+is whether or not the mind can be described by mathematics,
+
+857
+01:25:26,820 --> 01:25:28,500
+I would consider the negation of that.
+
+858
+01:25:28,500 --> 01:25:30,700
+I mean, if the mind cannot be discovered
+
+859
+01:25:30,700 --> 01:25:33,340
+explained by mathematics, how could you possibly explain it?
+
+860
+01:25:33,340 --> 01:25:36,340
+What other language are you going to propose to do it in?
+
+861
+01:25:36,340 --> 01:25:38,460
+First of all, you're irreducibly a dualist.
+
+862
+01:25:38,460 --> 01:25:42,580
+If you propose another language, you're irreducibly a dualist.
+
+863
+01:25:42,580 --> 01:25:45,060
+Second of all, you're rejecting evolution
+
+864
+01:25:45,060 --> 01:25:47,540
+because evolution is about maximization under competition,
+
+865
+01:25:47,540 --> 01:25:51,820
+which is a mathematically solvable problem.
+
+866
+01:25:51,820 --> 01:25:55,300
+And third of all, you would have to propose
+
+867
+01:25:55,300 --> 01:25:57,340
+that there's some brain-dependent language that
+
+868
+01:25:57,340 --> 01:25:59,180
+do a better job than mathematics, which I think
+
+869
+01:25:59,180 --> 01:26:03,980
+is as close as we get to a brain-independent language.
+
+870
+01:26:03,980 --> 01:26:05,740
+I don't think we need any comments on that.
+
+871
+01:26:05,740 --> 01:26:07,740
+I don't think anybody will disagree with that here.
+
+872
+01:26:07,740 --> 01:26:08,300
+Well, I don't know.
+
+873
+01:26:08,300 --> 01:26:09,380
+Maybe that's a law.
+
+874
+01:26:09,380 --> 01:26:09,900
+But OK.
+
+875
+01:26:13,020 --> 01:26:14,860
+That's just so fun.
+
+876
+01:26:14,860 --> 01:26:16,660
+The notion of statistical mechanics
+
+877
+01:26:16,660 --> 01:26:18,900
+leads us to conclude that phenomena like pressure
+
+878
+01:26:18,900 --> 01:26:22,380
+merge from the interaction of molecules
+
+879
+01:26:22,380 --> 01:26:23,900
+is the prediction of the panel then
+
+880
+01:26:23,900 --> 01:26:27,540
+that a complete physiological and structural description
+
+881
+01:26:27,540 --> 01:26:30,140
+of some neural system is going to then
+
+882
+01:26:30,140 --> 01:26:33,500
+just lead to the deduction that we have in front of us
+
+883
+01:26:33,500 --> 01:26:35,340
+a cognitive system.
+
+884
+01:26:35,340 --> 01:26:38,780
+In other words, once the physical language of a system
+
+885
+01:26:38,780 --> 01:26:40,740
+of neurons is described completely,
+
+886
+01:26:40,740 --> 01:26:43,540
+do you think, or is it the opinion of the group,
+
+887
+01:26:43,540 --> 01:26:45,420
+that we will then come to the conclusion
+
+888
+01:26:45,420 --> 01:26:49,140
+that we've in essence described the mechanism of cognition
+
+889
+01:26:49,140 --> 01:26:52,180
+without being able to fully describe what cognition is?
+
+890
+01:26:52,180 --> 01:26:54,420
+Perhaps it touches on the notion of consciousness
+
+891
+01:26:54,420 --> 01:26:55,340
+versus not.
+
+892
+01:26:55,340 --> 01:26:56,980
+But just let's say even from an information
+
+893
+01:26:56,980 --> 01:26:59,340
+theoretic perspective, what are the thoughts of the panel?
+
+894
+01:26:59,340 --> 01:27:02,260
+Well, I said something that's relevant to this earlier.
+
+895
+01:27:02,260 --> 01:27:05,940
+The example of the square peg in the round hole.
+
+896
+01:27:05,940 --> 01:27:06,300
+OK.
+
+897
+01:27:06,300 --> 01:27:09,740
+So you could get an explanation of that, quote,
+
+898
+01:27:09,740 --> 01:27:12,820
+explanation in terms of the elementary particle
+
+899
+01:27:12,820 --> 01:27:16,460
+clouds, but it would just obscure the explanation
+
+900
+01:27:16,460 --> 01:27:19,140
+that you can see in terms of geometry and rigidity.
+
+901
+01:27:19,140 --> 01:27:20,580
+You could add to it by explaining
+
+902
+01:27:20,580 --> 01:27:22,900
+why those things that are rigid are rigid
+
+903
+01:27:22,900 --> 01:27:25,620
+or when they would fail to be rigid.
+
+904
+01:27:25,620 --> 01:27:28,740
+But some explanations have an appropriate level
+
+905
+01:27:28,740 --> 01:27:31,620
+that isn't illuminated from below.
+
+906
+01:27:31,620 --> 01:27:34,780
+And sometimes the what's below is so complicated
+
+907
+01:27:34,780 --> 01:27:39,300
+that you have no hope of deducing the molar behavior
+
+908
+01:27:39,300 --> 01:27:40,540
+from what's below.
+
+909
+01:27:40,540 --> 01:27:44,020
+So I think we have to find the right level
+
+910
+01:27:44,020 --> 01:27:46,860
+for any given phenomenon that we're interested in.
+
+911
+01:27:46,860 --> 01:27:48,500
+Is this in essence become a sort of short-time question?
+
+912
+01:27:48,500 --> 01:27:51,860
+But that doesn't answer his question, which is,
+
+913
+01:27:51,860 --> 01:27:53,540
+will this emerge?
+
+914
+01:27:53,540 --> 01:27:55,780
+And will consciousness or cognition
+
+915
+01:27:55,780 --> 01:27:58,900
+emerge from this low level?
+
+916
+01:27:58,900 --> 01:28:02,220
+And I think as reductionists, or at least most of us
+
+917
+01:28:02,220 --> 01:28:04,420
+as reductionists, the answer has to be yes.
+
+918
+01:28:04,420 --> 01:28:08,740
+I don't know how that levels will have to ignore.
+
+919
+01:28:08,740 --> 01:28:10,700
+At what course grading we have to do,
+
+920
+01:28:10,700 --> 01:28:16,340
+but I don't see how we can't answer that question is yes.
+
+921
+01:28:16,340 --> 01:28:20,140
+Look, if there's a distinction between being a physicalist,
+
+922
+01:28:20,140 --> 01:28:24,100
+which I am, I don't believe in any soul
+
+923
+01:28:24,100 --> 01:28:26,980
+that somehow interferes with the elementary particles,
+
+924
+01:28:26,980 --> 01:28:28,780
+there's a difference between being a physicalist
+
+925
+01:28:28,780 --> 01:28:30,340
+and being a reductionist.
+
+926
+01:28:30,340 --> 01:28:33,140
+So you're a physicalist, you think, OK, it's all just matter.
+
+927
+01:28:33,140 --> 01:28:35,900
+And somehow the consciousness and cognition
+
+928
+01:28:35,900 --> 01:28:37,100
+have to come out of matter.
+
+929
+01:28:37,100 --> 01:28:38,940
+But that's different from thinking.
+
+930
+01:28:38,940 --> 01:28:42,660
+You're going to be able to take any explanation you get
+
+931
+01:28:42,660 --> 01:28:46,780
+at the cognitive level and reduce it to an explanation
+
+932
+01:28:46,780 --> 01:28:49,500
+in terms of the smallest items.
+
+933
+01:28:49,500 --> 01:28:52,980
+That is a very adventurous, controversial claim,
+
+934
+01:28:52,980 --> 01:28:55,300
+even for physicalists.
+
+935
+01:28:55,300 --> 01:28:57,020
+So that's why I keep saying it's the right,
+
+936
+01:28:57,020 --> 01:28:59,140
+you have to find the right level.
+
+937
+01:28:59,140 --> 01:29:02,700
+I guess the old is in, I guess I would like to add is.
+
+938
+01:29:02,700 --> 01:29:05,820
+Well, I understand they all turn it.
+
+939
+01:29:05,820 --> 01:29:11,060
+Well, maybe it's pretty fair to say that for very good reasons
+
+940
+01:29:11,060 --> 01:29:14,180
+that neuroscience has been for a very long time,
+
+941
+01:29:14,180 --> 01:29:18,100
+focused on early sensory information processing
+
+942
+01:29:18,100 --> 01:29:19,540
+and the motor behavior.
+
+943
+01:29:19,540 --> 01:29:23,460
+But it's becoming more and more frequent, common now,
+
+944
+01:29:23,460 --> 01:29:25,980
+that people feel like you can study
+
+945
+01:29:25,980 --> 01:29:31,900
+the neuro-biological mechanism of cognitive processes,
+
+946
+01:29:31,900 --> 01:29:34,580
+such as decision-making in a rigorous way.
+
+947
+01:29:34,580 --> 01:29:37,820
+So that's a sea change in my mind.
+
+948
+01:29:37,820 --> 01:29:39,780
+So many things that people thought
+
+949
+01:29:39,780 --> 01:29:42,180
+were in the realm of psychologists
+
+950
+01:29:42,180 --> 01:29:47,140
+and now really been studied in a very cross disciplinary fashion
+
+951
+01:29:47,140 --> 01:29:51,700
+with cognitive psychologists and physiologists
+
+952
+01:29:51,700 --> 01:29:55,180
+and computational theorists.
+
+953
+01:29:55,180 --> 01:29:57,020
+They're going together to understand
+
+954
+01:29:57,020 --> 01:30:00,580
+really the mechanism of even cognition, I'd say.
+
+955
+01:30:00,580 --> 01:30:02,380
+And the answer to your comment, it seems
+
+956
+01:30:02,380 --> 01:30:03,940
+that one of the aspirations then is
+
+957
+01:30:03,940 --> 01:30:05,940
+to be able to come up with a descriptive mechanism
+
+958
+01:30:05,940 --> 01:30:08,460
+to talk about very high-dimensionality systems.
+
+959
+01:30:08,460 --> 01:30:10,460
+In a sense, it's very, for any of us,
+
+960
+01:30:10,460 --> 01:30:12,540
+it's very hard to do that in any discipline, it seems.
+
+961
+01:30:12,540 --> 01:30:16,460
+And so for such an perhaps the most exceptional high-dimensionality
+
+962
+01:30:16,460 --> 01:30:18,180
+system, it seems very hard to talk
+
+963
+01:30:18,180 --> 01:30:21,580
+with any micro and macro phenomenon other than the physicality.
+
+964
+01:30:21,580 --> 01:30:24,780
+From a CS person's point of view, it's hard to talk about.
+
+965
+01:30:24,780 --> 01:30:26,700
+We can come up with dumb little models.
+
+966
+01:30:26,700 --> 01:30:28,780
+Seems that logic itself has some problems with it.
+
+967
+01:30:28,780 --> 01:30:31,220
+But I'm just very curious as to what
+
+968
+01:30:31,220 --> 01:30:34,460
+practicing neuroscientists think of this.
+
+969
+01:30:34,460 --> 01:30:37,940
+I mean, I think every mental entity has ultimately
+
+970
+01:30:37,940 --> 01:30:42,340
+got to be understood as some in neural terms
+
+971
+01:30:42,340 --> 01:30:43,700
+and will be understood in neural terms,
+
+972
+01:30:43,700 --> 01:30:46,140
+except maybe conscious itself.
+
+973
+01:30:46,140 --> 01:30:49,660
+Given all of this is going on, why do you have a sensation?
+
+974
+01:30:49,660 --> 01:30:51,420
+I don't know that that ever can be answered.
+
+975
+01:30:51,420 --> 01:30:58,420
+But at least every mental structure
+
+976
+01:30:58,420 --> 01:31:01,460
+has a neural substrate ultimately, and that's
+
+977
+01:31:01,460 --> 01:31:03,500
+an article of faith, I think.
+
+978
+01:31:03,500 --> 01:31:07,500
+But I would distinguish between has a neural structure
+
+979
+01:31:07,500 --> 01:31:11,420
+is grounded in the neural structure?
+
+980
+01:31:11,420 --> 01:31:12,300
+That's on one side.
+
+981
+01:31:12,300 --> 01:31:16,060
+The other side is can be understood in terms
+
+982
+01:31:16,060 --> 01:31:17,140
+of that neural structure.
+
+983
+01:31:17,140 --> 01:31:20,420
+So there's a level of understanding.
+
+984
+01:31:20,420 --> 01:31:22,700
+You can't always get more understanding
+
+985
+01:31:22,700 --> 01:31:26,500
+by going to the smaller and smaller parts.
+
+986
+01:31:26,500 --> 01:31:28,700
+So I think that's a totally different point.
+
+987
+01:31:28,700 --> 01:31:30,260
+No, no, you work upwards.
+
+988
+01:31:30,260 --> 01:31:32,900
+You get the little, I'd explain the next guy,
+
+989
+01:31:32,900 --> 01:31:35,660
+and then you work.
+
+990
+01:31:35,660 --> 01:31:39,020
+I don't see why this is such a contradiction.
+
+991
+01:31:39,020 --> 01:31:40,860
+You work downwards too.
+
+992
+01:31:40,860 --> 01:31:44,260
+And sometimes the downwards is better than the upwards.
+
+993
+01:31:44,260 --> 01:31:45,260
+Oh, I agree.
+
+994
+01:31:45,260 --> 01:31:47,260
+I agree.
+
+995
+01:31:47,260 --> 01:31:49,740
+You have to meet the two ends at some point.
+
+996
+01:31:49,740 --> 01:31:52,180
+I mean, I think the point is that you're not
+
+997
+01:31:52,180 --> 01:31:54,300
+going to describe the brain in terms of elementary particles.
+
+998
+01:31:54,300 --> 01:31:55,900
+But it is ultimately made of them.
+
+999
+01:31:55,900 --> 01:31:57,660
+You've got to work at some intermediate level of structure
+
+1000
+01:31:57,660 --> 01:31:59,900
+to understand the next level of structure.
+
+1001
+01:31:59,900 --> 01:32:02,300
+But we're going to understand structure
+
+1002
+01:32:02,300 --> 01:32:04,140
+we've made out of neurons that correspond
+
+1003
+01:32:04,140 --> 01:32:05,620
+to the structures of our minds.
+
+1004
+01:32:05,620 --> 01:32:06,980
+That's what I believe.
+
+1005
+01:32:06,980 --> 01:32:11,460
+Maybe it's time to throw pen rows in here just briefly.
+
+1006
+01:32:11,460 --> 01:32:14,980
+Because if we're physicalists, and believe that it's all
+
+1007
+01:32:14,980 --> 01:32:17,820
+done with math, there's extensions
+
+1008
+01:32:17,820 --> 01:32:19,340
+that we haven't made yet.
+
+1009
+01:32:19,340 --> 01:32:22,340
+And there are people who try very hard to bring in stuff
+
+1010
+01:32:22,340 --> 01:32:25,740
+that we can claim as physical.
+
+1011
+01:32:25,740 --> 01:32:28,260
+But it's so complicated.
+
+1012
+01:32:28,260 --> 01:32:33,180
+Quantum mechanical fluctuations in microtubules
+
+1013
+01:32:33,180 --> 01:32:35,260
+in neural neurons.
+
+1014
+01:32:35,260 --> 01:32:36,700
+In neural stools.
+
+1015
+01:32:36,700 --> 01:32:40,980
+And so I think all of us believe that's probably wrong.
+
+1016
+01:32:40,980 --> 01:32:43,540
+And I think we can understand how it might be wrong,
+
+1017
+01:32:43,540 --> 01:32:45,940
+just because of all the complexity of these levels
+
+1018
+01:32:45,940 --> 01:32:48,340
+that we've already talked about or enough to explain it.
+
+1019
+01:32:48,340 --> 01:32:49,460
+But that's an intuition.
+
+1020
+01:32:49,460 --> 01:32:50,740
+It's not a proof.
+
+1021
+01:32:50,740 --> 01:32:53,260
+So that remains to be seen.
+
+1022
+01:32:53,260 --> 01:32:54,980
+But it'll still be physical.
+
+1023
+01:32:54,980 --> 01:32:58,660
+I think that there's no argument.
+
+1024
+01:32:58,660 --> 01:32:59,820
+Go ahead.
+
+1025
+01:32:59,820 --> 01:33:01,060
+Hi, everyone.
+
+1026
+01:33:01,060 --> 01:33:06,620
+First, I want to feel that I love what you said today.
+
+1027
+01:33:06,620 --> 01:33:09,220
+And sorry for the language.
+
+1028
+01:33:09,220 --> 01:33:13,900
+But I'm the kind of people who like to formalize life
+
+1029
+01:33:13,900 --> 01:33:15,220
+and whatever.
+
+1030
+01:33:15,220 --> 01:33:19,540
+Even my speech, for example, this is why I was late tonight.
+
+1031
+01:33:19,540 --> 01:33:26,860
+Because my husband speaks in such a linear way
+
+1032
+01:33:26,860 --> 01:33:32,900
+where I speak of things in a three dimensional way.
+
+1033
+01:33:32,900 --> 01:33:36,540
+I mean, I start and I open the parentheses and close.
+
+1034
+01:33:36,540 --> 01:33:39,420
+And I remember exactly where I opened this.
+
+1035
+01:33:39,420 --> 01:33:40,620
+And then I open another.
+
+1036
+01:33:40,620 --> 01:33:45,980
+And so after the third parentheses, he says he's bored.
+
+1037
+01:33:45,980 --> 01:33:49,780
+But I know that people is not bored.
+
+1038
+01:33:49,780 --> 01:33:51,580
+It depends on which people are talking with.
+
+1039
+01:33:51,580 --> 01:33:58,020
+I mean, for example, yesterday, now two days ago.
+
+1040
+01:33:58,020 --> 01:33:59,140
+That's your parentheses?
+
+1041
+01:33:59,140 --> 01:34:00,140
+Or is that your question?
+
+1042
+01:34:00,140 --> 01:34:01,140
+Sorry.
+
+1043
+01:34:01,140 --> 01:34:02,140
+This is one of the first questions.
+
+1044
+01:34:02,140 --> 01:34:03,140
+Sorry.
+
+1045
+01:34:03,140 --> 01:34:11,180
+And two days ago, I was, let's say, bored about some online
+
+1046
+01:34:11,180 --> 01:34:13,900
+agendas, because I couldn't put inside what
+
+1047
+01:34:13,900 --> 01:34:15,500
+I was thinking about.
+
+1048
+01:34:15,500 --> 01:34:21,900
+I mean, also because my email address was hacked twice.
+
+1049
+01:34:21,900 --> 01:34:24,140
+So I prefer to do something simple.
+
+1050
+01:34:24,140 --> 01:34:29,540
+And I start putting some sticky notes on the mirror.
+
+1051
+01:34:29,540 --> 01:34:30,020
+Look, OK.
+
+1052
+01:34:30,020 --> 01:34:32,620
+Let's say the pink one for projects,
+
+1053
+01:34:32,620 --> 01:34:36,980
+the blue one for contacts and meetings, like this.
+
+1054
+01:34:36,980 --> 01:34:38,780
+The yellow one for all the other stuff
+
+1055
+01:34:38,780 --> 01:34:42,780
+and the internet I have to do right now turns for this.
+
+1056
+01:34:42,780 --> 01:34:47,540
+And the green one, something, all but the pieces, which means,
+
+1057
+01:34:47,540 --> 01:34:49,740
+OK, you get up on this.
+
+1058
+01:34:49,740 --> 01:34:51,860
+Share it, get out.
+
+1059
+01:34:51,860 --> 01:34:56,140
+And then I start to divide into columns and rows,
+
+1060
+01:34:56,140 --> 01:35:00,780
+because I work for databases since 15 years.
+
+1061
+01:35:00,780 --> 01:35:01,780
+15 years.
+
+1062
+01:35:01,780 --> 01:35:02,780
+15 years.
+
+1063
+01:35:02,780 --> 01:35:03,780
+Yeah.
+
+1064
+01:35:03,780 --> 01:35:04,780
+Yeah.
+
+1065
+01:35:04,780 --> 01:35:05,780
+I don't know.
+
+1066
+01:35:05,780 --> 01:35:10,100
+And so I just, in the sticky notes,
+
+1067
+01:35:10,100 --> 01:35:11,820
+I put a kind of bullet points.
+
+1068
+01:35:11,820 --> 01:35:16,780
+So I mean, sometimes I realize that my mind is like a database.
+
+1069
+01:35:16,780 --> 01:35:21,540
+And that's why I love math, physics.
+
+1070
+01:35:21,540 --> 01:35:26,300
+For example, I remember when I started physics, the first physics
+
+1071
+01:35:26,300 --> 01:35:27,300
+hasn't.
+
+1072
+01:35:27,300 --> 01:35:32,260
+After a while, I still have all the ground,
+
+1073
+01:35:32,260 --> 01:35:34,500
+because everything happens.
+
+1074
+01:35:34,500 --> 01:35:37,060
+It comes from a dynamic load.
+
+1075
+01:35:37,060 --> 01:35:40,500
+So even a pen falling down.
+
+1076
+01:35:40,500 --> 01:35:44,260
+Well, I stare at the pen because that pen was connected with this
+
+1077
+01:35:44,260 --> 01:35:45,260
+and this and this.
+
+1078
+01:35:45,260 --> 01:35:50,060
+So it was full of math, physics, and whatever.
+
+1079
+01:35:50,060 --> 01:35:53,740
+And thank you for letting me understand better.
+
+1080
+01:35:53,740 --> 01:35:54,740
+Thank you.
+
+1081
+01:35:54,740 --> 01:35:55,740
+Thank you.
+
+1082
+01:35:55,740 --> 01:35:56,740
+Sorry about that.
+
+1083
+01:35:56,740 --> 01:35:57,740
+Thank you.
+
+1084
+01:35:57,740 --> 01:36:02,540
+I want to talk to the guy who is a skype or whatever.
+
+1085
+01:36:02,540 --> 01:36:05,900
+He told about, I don't know his name.
+
+1086
+01:36:05,900 --> 01:36:06,420
+Sorry.
+
+1087
+01:36:06,420 --> 01:36:09,500
+Anyway, for all of you, he told about computer.
+
+1088
+01:36:09,500 --> 01:36:10,500
+You're still listening.
+
+1089
+01:36:10,500 --> 01:36:11,500
+He's still listening.
+
+1090
+01:36:11,500 --> 01:36:12,500
+He just checking his notes.
+
+1091
+01:36:12,500 --> 01:36:13,500
+He's always the same.
+
+1092
+01:36:13,500 --> 01:36:14,500
+He's starting from an input.
+
+1093
+01:36:14,500 --> 01:36:17,500
+You can have all the same output.
+
+1094
+01:36:17,500 --> 01:36:25,500
+Well, this is about, you can call them deterministic algorithms.
+
+1095
+01:36:25,500 --> 01:36:31,500
+But in logic, there are also non-deterministic algorithms,
+
+1096
+01:36:31,500 --> 01:36:37,500
+which are like this, something that can happen in different way.
+
+1097
+01:36:37,500 --> 01:36:41,500
+Even the starting point, the same.
+
+1098
+01:36:41,500 --> 01:36:45,500
+But it's hard to develop in a computer.
+
+1099
+01:36:45,500 --> 01:36:46,500
+Thank you.
+
+1100
+01:36:46,500 --> 01:36:47,500
+Thank you.
+
+1101
+01:36:47,500 --> 01:36:48,500
+Thank you.
+
+1102
+01:36:48,500 --> 01:36:49,500
+Thank you.
+
+1103
+01:36:49,500 --> 01:36:50,500
+Thank you.
+
+1104
+01:36:50,500 --> 01:36:51,500
+Thank you.
+
+1105
+01:36:51,500 --> 01:37:01,500
+So I was really interested by the idea of, sorry, how, you know, whatever type of unit we're
+
+1106
+01:37:01,500 --> 01:37:07,500
+talking about, there may be similar ones across the cortex.
+
+1107
+01:37:07,500 --> 01:37:11,500
+I just was doing research in like cross-modal stuff.
+
+1108
+01:37:11,500 --> 01:37:14,500
+And so I'm really interested in that.
+
+1109
+01:37:14,500 --> 01:37:22,500
+And I guess my question is just, you know, do you think that even though we're talking
+
+1110
+01:37:22,500 --> 01:37:28,500
+about reproduction of units in a biological way, it may be just sort of the most efficient
+
+1111
+01:37:28,500 --> 01:37:32,500
+way of, you know, growing the brain through time.
+
+1112
+01:37:32,500 --> 01:37:38,500
+But there could also be this byproduct, which, you know, contributes to our sort of unified
+
+1113
+01:37:38,500 --> 01:37:44,500
+experience of the world in the sense that these units are similar and therefore can maybe
+
+1114
+01:37:44,500 --> 01:37:48,500
+communicate through, you know, communicate to each other more easily.
+
+1115
+01:37:48,500 --> 01:37:52,500
+And I just wonder if any of you have anything to say about that?
+
+1116
+01:37:52,500 --> 01:37:54,500
+I mean, yeah, that's confusing.
+
+1117
+01:37:54,500 --> 01:38:01,500
+Well, just the idea that like whatever unit you're talking about, they are reproduced
+
+1118
+01:38:01,500 --> 01:38:04,500
+across the cortex.
+
+1119
+01:38:04,500 --> 01:38:11,500
+And does that, I mean, do you know if that has any, does that have any effect on how easily
+
+1120
+01:38:11,500 --> 01:38:17,500
+they communicate to each other and how something happening in the visual cortex can be referred
+
+1121
+01:38:17,500 --> 01:38:20,500
+to something in the auditory cortex?
+
+1122
+01:38:20,500 --> 01:38:27,500
+Or is it just really, you know, basically, anyways, I'll stop.
+
+1123
+01:38:27,500 --> 01:38:29,500
+But I thought it was interesting.
+
+1124
+01:38:29,500 --> 01:38:33,500
+I mean, I should just say, I mean, there's unity at a lot of levels.
+
+1125
+01:38:33,500 --> 01:38:38,500
+There's unity at the, you know, when you look at this one millimeter chunk that it, you know,
+
+1126
+01:38:38,500 --> 01:38:42,500
+it looks to fruit, you know, there's a lot of similarity no matter where you are in cortex.
+
+1127
+01:38:42,500 --> 01:38:48,500
+But there's also unity in, you know, a lot of sort of higher level themes of how different,
+
+1128
+01:38:48,500 --> 01:38:55,500
+how the different chunks talk to each other across millimeters, how one area talks to another
+
+1129
+01:38:55,500 --> 01:39:02,500
+area and talks back, how they get their input from the thalamus and how they send loops
+
+1130
+01:39:02,500 --> 01:39:04,500
+through the basal ganglia.
+
+1131
+01:39:04,500 --> 01:39:09,500
+There's a lot of themes that are conserved across, you know, many levels of the hierarchy.
+
+1132
+01:39:09,500 --> 01:39:15,500
+So, but we're still, it's very early days for really figuring out what the hell that's all about.
+
+1133
+01:39:15,500 --> 01:39:21,500
+It might be useful to mention that just the basic mechanisms of communication are pretty much the same.
+
+1134
+01:39:21,500 --> 01:39:26,500
+I mean, there's a large number of neurotransmitters that have been identified, but there's a couple of major ones,
+
+1135
+01:39:26,500 --> 01:39:29,500
+you know, glutamate and gala.
+
+1136
+01:39:29,500 --> 01:39:33,500
+And those are used all over the brain.
+
+1137
+01:39:33,500 --> 01:39:36,500
+So that allows them to communicate with another one.
+
+1138
+01:39:36,500 --> 01:39:42,500
+The other minor transmitters modulate that activity and they may act differently in different places
+
+1139
+01:39:42,500 --> 01:39:48,500
+to help produce the different types of, you know, functionality that exists in those different places.
+
+1140
+01:39:48,500 --> 01:39:58,500
+But the overall scheme is very much, you know, calcium transmission through ion channels is the same everywhere.
+
+1141
+01:39:58,500 --> 01:40:03,500
+I'm sorry, I mean, there's probably ten kinds of calcium channels, but you know what I mean?
+
+1142
+01:40:03,500 --> 01:40:04,500
+Right, right, right.
+
+1143
+01:40:04,500 --> 01:40:07,500
+It's the ion that sends signals.
+
+1144
+01:40:07,500 --> 01:40:12,500
+So that facilitates what you're asking about.
+
+1145
+01:40:12,500 --> 01:40:20,500
+Right, I guess just to crystallize, my question is, you know, if you have one unit over here and another unit over here,
+
+1146
+01:40:20,500 --> 01:40:30,500
+and they're similarly structured, you know, the brain's whole function is to communicate things to two different areas.
+
+1147
+01:40:30,500 --> 01:40:36,500
+And so, does that, I mean, since you guys know so much about this stuff, does that similarity in structure
+
+1148
+01:40:36,500 --> 01:40:43,500
+in different areas does it often facilitate the communication, or is that an unrelated thing?
+
+1149
+01:40:43,500 --> 01:40:46,500
+Is it just, I want to hear the frequency and...
+
+1150
+01:40:46,500 --> 01:40:58,500
+I mean, you can, I could sort of, I could sort of say, I mean, there are some theories that if one area doing something,
+
+1151
+01:40:58,500 --> 01:41:05,500
+for example, a famous theory is that one area is oscillating in a particular rhythm,
+
+1152
+01:41:05,500 --> 01:41:11,500
+and it's much better, it has a better chance of communicating with another area that has a similar type of oscillation.
+
+1153
+01:41:11,500 --> 01:41:16,500
+So I can say, you know, I don't know if that, I'm paraphrasing what you said there correctly or not,
+
+1154
+01:41:16,500 --> 01:41:24,500
+but there, you know, that's a, that's so-called binding theory, and there's other things like that.
+
+1155
+01:41:24,500 --> 01:41:31,500
+So yeah, I mean, you guys that are similarly firing are more likely to hook up together and communicate.
+
+1156
+01:41:31,500 --> 01:41:41,500
+And there's one other thought I have, it just, I mean, somebody, the big commonality that you see is this six-layer structure of the cells.
+
+1157
+01:41:41,500 --> 01:41:49,500
+And although we don't know exactly what it means, it's clear that sort of different kinds of input enter in different layers with different functions.
+
+1158
+01:41:49,500 --> 01:41:55,500
+So it's so-called feed-forward input comes into layer four, top-down input tends to come into layer one.
+
+1159
+01:41:55,500 --> 01:42:03,500
+So we don't, you know, we don't understand what that's about, but there is a commonality there,
+
+1160
+01:42:03,500 --> 01:42:08,500
+which probably means that, you know, anybody who sends an input into layer one of somebody else,
+
+1161
+01:42:08,500 --> 01:42:12,500
+that has a certain meaning as opposed to sending it into layer four of somebody else.
+
+1162
+01:42:12,500 --> 01:42:14,500
+So that's maybe a lot of the lines I'm thinking about.
+
+1163
+01:42:14,500 --> 01:42:16,500
+Yeah, that is, yeah, that helps. Thank you.
+
+1164
+01:42:16,500 --> 01:42:17,500
+Okay.
+
+1165
+01:42:17,500 --> 01:42:20,500
+I just wanted to comment on it since I'm here at the mic.
+
+1166
+01:42:20,500 --> 01:42:30,500
+The metaphor is another way that different parts of the brain communicate using this sensory language, like sharp cheese, lavender, you know, so you're getting it into play.
+
+1167
+01:42:30,500 --> 01:42:36,500
+My comment is about using mathematics to, for physiology and vice versa.
+
+1168
+01:42:36,500 --> 01:42:44,500
+And the question is when the architecture of the brain starts to tweak a little bit, like in multiple sclerosis, you lose some island.
+
+1169
+01:42:44,500 --> 01:42:50,500
+In autism, you have shorter connections as opposed to the long connections in the brain.
+
+1170
+01:42:50,500 --> 01:42:55,500
+You have more white matter as opposed to gray matter.
+
+1171
+01:42:55,500 --> 01:43:01,500
+In dyslexia, you have sort of a neurological junk drawer of cells that aren't aligned.
+
+1172
+01:43:01,500 --> 01:43:05,500
+Can you use this in your model to infer what must be going on?
+
+1173
+01:43:05,500 --> 01:43:07,500
+In other words, this is not working.
+
+1174
+01:43:07,500 --> 01:43:11,500
+And that helps your model to decide what does work.
+
+1175
+01:43:11,500 --> 01:43:15,500
+I think ultimately, yes.
+
+1176
+01:43:15,500 --> 01:43:17,500
+You have to sort of know enough.
+
+1177
+01:43:17,500 --> 01:43:26,500
+You have to have enough of a model of that particular phenomena that you then can begin to say, well, if I change this variable here, how's that going to change things?
+
+1178
+01:43:26,500 --> 01:43:30,500
+So, you know, if you're just completely in the dark, you're not going to get there yet.
+
+1179
+01:43:30,500 --> 01:43:32,500
+But I think in the long run, yes.
+
+1180
+01:43:32,500 --> 01:43:37,500
+Webbing, you know, because the smaller changes give you small behavioral changes, especially with demyel.
+
+1181
+01:43:37,500 --> 01:43:41,500
+So that's not necessarily true. Small changes don't always.
+
+1182
+01:43:41,500 --> 01:43:46,500
+Small changes don't always give you small changes in behavior.
+
+1183
+01:43:46,500 --> 01:43:57,500
+I mean, the cortex is very, parts of it are very tightly balanced and just small perturbations are enough to kick you into wildly different area.
+
+1184
+01:43:57,500 --> 01:43:59,500
+And that's why it's so hard to control it.
+
+1185
+01:43:59,500 --> 01:44:07,500
+So, but, yeah, I think I agree with Ken, and I think ultimately we're going to be able to use, you know, theory and things to say.
+
+1186
+01:44:07,500 --> 01:44:16,500
+Like, if what we do, we say, you know, if this happens, then why does this lead to this sort of broader, you know, phenomena?
+
+1187
+01:44:16,500 --> 01:44:31,500
+If we wreck this neuron, why do we get this kind of behavior? And that's where theory is very helpful.
+
+1188
+01:44:31,500 --> 01:44:37,500
+Directed initially at NED, of course, anyone else subsequent to that.
+
+1189
+01:44:37,500 --> 01:44:46,500
+My question is focused on the importance of the known differences between the predictive,
+
+1190
+01:44:46,500 --> 01:44:54,500
+respectively, the predictive and conformational values of a mathematical description of an observed system.
+
+1191
+01:44:54,500 --> 01:44:57,500
+Case in point would be Ptolemaic Cosmology.
+
+1192
+01:44:57,500 --> 01:45:04,500
+It was predictive in terms of the observed motions of stars and planets, but had nothing to do with the physical reality of what was being observed.
+
+1193
+01:45:04,500 --> 01:45:09,500
+You know, fixed shells with planetoids and so on embedded as points of light.
+
+1194
+01:45:09,500 --> 01:45:17,500
+More to the context at hand would be the Blue Vraine Project, where the columnar stack has been modeled mathematically,
+
+1195
+01:45:17,500 --> 01:45:24,500
+so that there is some allegiance to the input output signaling, but it says nothing about the physical structure,
+
+1196
+01:45:24,500 --> 01:45:27,500
+inherently about the physical structure of the columnar stack.
+
+1197
+01:45:27,500 --> 01:45:35,500
+So I wanted to ask that and others, is that important to a physicalist, such as myself it is,
+
+1198
+01:45:35,500 --> 01:45:42,500
+but how important to the value of a robust mathematical theory of the neocortex?
+
+1199
+01:45:42,500 --> 01:45:49,500
+Well, you know, there's a kind of platitude in this answer, which is, you know, this is a text,
+
+1200
+01:45:49,500 --> 01:45:58,500
+the Ptolemaic astronomy system is a textbook case of how prediction by curve fitting isn't much use.
+
+1201
+01:45:58,500 --> 01:46:03,500
+Prediction is impressive if you do it with a general theory.
+
+1202
+01:46:03,500 --> 01:46:09,500
+So, you know, the Copernican theory had a much better qualitative explanation,
+
+1203
+01:46:09,500 --> 01:46:16,500
+even though without adding in all that same extra stuff, it didn't do as well in prediction.
+
+1204
+01:46:16,500 --> 01:46:24,500
+So, yeah, prediction is really important, it gives you reason to believe that the theory that did the prediction is true,
+
+1205
+01:46:24,500 --> 01:46:33,500
+but it's no good if the way you got that whole system was just by sticking in all the data to begin with.
+
+1206
+01:46:33,500 --> 01:46:41,500
+So then where are we at with regards to a mathematical description of neurophysiology in the same capacity?
+
+1207
+01:46:41,500 --> 01:46:45,500
+Is it necessary for, and this has been touched on earlier and earlier questions and so on,
+
+1208
+01:46:45,500 --> 01:46:48,500
+but how critical is it that at some point, for example, with string theory,
+
+1209
+01:46:48,500 --> 01:46:52,500
+we don't know because we don't have the technology to investigate that level of scale just yet.
+
+1210
+01:46:52,500 --> 01:46:54,500
+Maybe a 14 giga-litre of the spectrum.
+
+1211
+01:46:54,500 --> 01:46:59,500
+I think everybody would agree that we're at a very early days in neuroscience,
+
+1212
+01:46:59,500 --> 01:47:05,500
+and we don't have a lot of the theoretical structure that will allow us to do the kind of explanation we want.
+
+1213
+01:47:05,500 --> 01:47:08,500
+We don't even really know what the units are.
+
+1214
+01:47:08,500 --> 01:47:12,500
+We don't have explanations of things like pattern recognition.
+
+1215
+01:47:12,500 --> 01:47:19,500
+We can do a lot, at certain levels we have a lot of predictive power,
+
+1216
+01:47:19,500 --> 01:47:23,500
+but I think we're nowhere near having a satisfactory account.
+
+1217
+01:47:23,500 --> 01:47:32,500
+I think there's always sort of a tension between the details of your predictions
+
+1218
+01:47:32,500 --> 01:47:37,500
+and sort of the extent to which you're getting the structure of things right.
+
+1219
+01:47:37,500 --> 01:47:42,500
+I mean, ultimately what you're looking for is you want to really generalize.
+
+1220
+01:47:42,500 --> 01:47:47,500
+You want to predict something that wasn't what you put in to begin with.
+
+1221
+01:47:47,500 --> 01:47:52,500
+You want to be capturing a structure that gives you new insight into stuff that wasn't what led you to start thinking about it.
+
+1222
+01:47:52,500 --> 01:47:55,500
+You're never in neurobiology right now.
+
+1223
+01:47:55,500 --> 01:48:01,500
+You're never going to get things quantitatively very precise because there's just too much stuff going on
+
+1224
+01:48:01,500 --> 01:48:05,500
+that you're not incorporating while you're trying to capture some basic relationships.
+
+1225
+01:48:05,500 --> 01:48:10,500
+And yet you can make a lot of qualitative, and to some extent quantitative predictions,
+
+1226
+01:48:10,500 --> 01:48:18,500
+that you can test and verify, but what you really want is the insight that gives you the guess the structure right
+
+1227
+01:48:18,500 --> 01:48:22,500
+so that you can generalize to new domains with it.
+
+1228
+01:48:22,500 --> 01:48:25,500
+Go ahead.
+
+1229
+01:48:25,500 --> 01:48:34,500
+From a different standpoint, I wonder if a more humanistic aspect of
+
+1230
+01:48:34,500 --> 01:48:40,500
+people can be explained with the models that have been discussed and explained here.
+
+1231
+01:48:40,500 --> 01:48:53,500
+For example, affect or emotion, why somebody will react to a particular event with joy, somebody else with sorrow,
+
+1232
+01:48:53,500 --> 01:48:55,500
+another person with anger.
+
+1233
+01:48:55,500 --> 01:49:06,500
+Can any of this be explained or predicted on the basis either a statistical mathematical model or a physicalistic model?
+
+1234
+01:49:06,500 --> 01:49:09,500
+Not today, but Sunday.
+
+1235
+01:49:09,500 --> 01:49:13,500
+Thank you.
+
+1236
+01:49:13,500 --> 01:49:14,500
+Let's stop.
+
+1237
+01:49:14,500 --> 01:49:16,500
+Let's take those.
+
+1238
+01:49:16,500 --> 01:49:18,500
+Oh, man.
+
+1239
+01:49:18,500 --> 01:49:21,500
+Certainly.
+
+1240
+01:49:21,500 --> 01:49:22,500
+Okay.
+
+1241
+01:49:22,500 --> 01:49:23,500
+Thank you.
+
+1242
+01:49:23,500 --> 01:49:26,500
+Thank you.
+

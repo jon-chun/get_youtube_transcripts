@@ -1,0 +1,1355 @@
+{"id": "CgYogW-69PI-t0.0", "text": "I have to do all the time.", "start": 0.0, "end": 20.88}
+{"id": "CgYogW-69PI-t20.88", "text": "To enjoy the exhibit, it will continue on display through this Saturday and you can check the", "start": 20.88, "end": 27.560000000000002}
+{"id": "CgYogW-69PI-t27.56", "text": "helix center website for details.", "start": 27.56, "end": 30.479999999999997}
+{"id": "CgYogW-69PI-t30.479999999999997", "text": "I would like to introduce our participants in tonight's round table creative turbulence.", "start": 30.479999999999997, "end": 38.879999999999995}
+{"id": "CgYogW-69PI-t38.879999999999995", "text": "To my right is Dennis Pelly, professor of psychology and neuro science at New York University.", "start": 38.879999999999995, "end": 45.44}
+{"id": "CgYogW-69PI-t45.44", "text": "His right is Enrico Fonda, postdoctoral researcher at the NYU Tandon School of Engineering.", "start": 45.44, "end": 52.239999999999995}
+{"id": "CgYogW-69PI-t52.239999999999995", "text": "Next is Dana Carwis, artist and lecturer, integrated digital media, department of technology", "start": 52.239999999999995, "end": 57.4}
+{"id": "CgYogW-69PI-t57.4", "text": "culture and society at the NYU Tandon School of Engineering.", "start": 57.4, "end": 61.6}
+{"id": "CgYogW-69PI-t61.6", "text": "Next is Luc Dubois, composer, artist and performer, co-director of integrated digital media and", "start": 61.6, "end": 67.0}
+{"id": "CgYogW-69PI-t67.0", "text": "director of the Brooklyn Experimental Media Center, both of the NYU Tandon School of Engineering.", "start": 67.0, "end": 72.36}
+{"id": "CgYogW-69PI-t72.36", "text": "And joining us shortly is Caterpellis Reneavassen, professor of department of physics at the", "start": 72.36, "end": 77.56}
+{"id": "CgYogW-69PI-t77.56", "text": "Caront Institute and the Eugene Kleiner Professor of Innovation, department of mechanical", "start": 77.56, "end": 82.92}
+{"id": "CgYogW-69PI-t82.92", "text": "and aerospace engineering, and dean of the Tandon School of Engineering and University", "start": 82.92, "end": 86.88}
+{"id": "CgYogW-69PI-t86.88", "text": "professor all at NYU.", "start": 86.88, "end": 89.56}
+{"id": "CgYogW-69PI-t89.56", "text": "So with that, ladies and gentlemen, buckle your seat belts, we're about to encounter", "start": 89.56, "end": 93.75999999999999}
+{"id": "CgYogW-69PI-t93.75999999999999", "text": "turbulence.", "start": 93.75999999999999, "end": 96.67999999999999}
+{"id": "CgYogW-69PI-t96.67999999999999", "text": "Perhaps Enrico, you can start by telling us a little bit about how this came about.", "start": 96.67999999999999, "end": 103.24}
+{"id": "CgYogW-69PI-t103.24", "text": "Yeah, so I started when I was doing research at the University of Maryland in the down", "start": 103.24, "end": 107.84}
+{"id": "CgYogW-69PI-t107.84", "text": "lake lab group and I was doing research on quantum vortices, which are quantum tornadoes", "start": 107.84, "end": 113.44}
+{"id": "CgYogW-69PI-t113.44", "text": "that live inside super fluid helium, which is a liquid helium at very low temperature,", "start": 113.44, "end": 118.96}
+{"id": "CgYogW-69PI-t118.96", "text": "which is macroscopic quantum order.", "start": 118.96, "end": 121.56}
+{"id": "CgYogW-69PI-t121.56", "text": "And so these videos were really kind of interesting and we had the publication about it and some", "start": 121.56, "end": 128.04}
+{"id": "CgYogW-69PI-t128.04", "text": "press release that was really interested by the public.", "start": 128.04, "end": 132.8}
+{"id": "CgYogW-69PI-t132.8", "text": "They were asking strange questions even about it and seemed that it really inspired the", "start": 132.8, "end": 138.8}
+{"id": "CgYogW-69PI-t138.8", "text": "fantasy of people about the project.", "start": 138.8, "end": 141.8}
+{"id": "CgYogW-69PI-t141.8", "text": "So we thought it might be interesting also to see in a light that it's different compared", "start": 141.8, "end": 147.0}
+{"id": "CgYogW-69PI-t147.0", "text": "to the scientific area and so might include it in some artistic setting.", "start": 147.0, "end": 153.0}
+{"id": "CgYogW-69PI-t153.0", "text": "So with that idea, then we decided to incorporate also some artists to collaborate with scientists", "start": 153.0, "end": 159.88000000000002}
+{"id": "CgYogW-69PI-t159.88000000000002", "text": "to get together a show.", "start": 159.88000000000002, "end": 161.4}
+{"id": "CgYogW-69PI-t161.4", "text": "And so we get together with Luke, Dana, Professor Jivalda, and to set up this show.", "start": 161.4, "end": 168.24}
+{"id": "CgYogW-69PI-t168.24", "text": "And so you can see some of these artwork before the quantum vortices you've probably already", "start": 168.24, "end": 174.76000000000002}
+{"id": "CgYogW-69PI-t174.76000000000002", "text": "seen are those the research that have been done before.", "start": 174.76000000000002, "end": 178.32000000000002}
+{"id": "CgYogW-69PI-t178.32000000000002", "text": "And then there are some other ones like work by Dana.", "start": 178.32000000000002, "end": 182.36}
+{"id": "CgYogW-69PI-t182.36", "text": "Maybe you can tell us.", "start": 182.36, "end": 184.36}
+{"id": "CgYogW-69PI-t184.36", "text": "Sure.", "start": 184.36, "end": 185.36}
+{"id": "CgYogW-69PI-t185.36", "text": "So can everyone hear me okay?", "start": 185.36, "end": 187.84}
+{"id": "CgYogW-69PI-t187.84", "text": "Great.", "start": 187.84, "end": 188.84}
+{"id": "CgYogW-69PI-t188.84", "text": "So the piece I have out here is the one in the corner called immutable swell.", "start": 188.84, "end": 193.60000000000002}
+{"id": "CgYogW-69PI-t193.6", "text": "And it was something that I was kind of thinking about for a while, but ended up putting together", "start": 193.6, "end": 198.84}
+{"id": "CgYogW-69PI-t198.84", "text": "last summer when I was near the ocean.", "start": 198.84, "end": 202.04}
+{"id": "CgYogW-69PI-t202.04", "text": "So the piece was born out of both my fear of the ocean and my love of it.", "start": 202.04, "end": 207.56}
+{"id": "CgYogW-69PI-t207.56", "text": "And I'd always look at the ocean at night and try to understand what was happening and", "start": 207.56, "end": 212.76}
+{"id": "CgYogW-69PI-t212.76", "text": "why it was maybe more fearful at night to look at it than during the day or even swimming", "start": 212.76, "end": 217.28}
+{"id": "CgYogW-69PI-t217.28", "text": "in it.", "start": 217.28, "end": 218.51999999999998}
+{"id": "CgYogW-69PI-t218.51999999999998", "text": "And I started looking at different models of ocean waves just to try to look at the data", "start": 218.51999999999998, "end": 223.32}
+{"id": "CgYogW-69PI-t223.32", "text": "and understand it in a new way.", "start": 223.32, "end": 225.2}
+{"id": "CgYogW-69PI-t225.2", "text": "Kind of in the same way that maybe in other projects I would look at maybe a thunderstorm", "start": 225.2, "end": 230.4}
+{"id": "CgYogW-69PI-t230.4", "text": "through Doppler radar or through false image coloring.", "start": 230.4, "end": 234.64}
+{"id": "CgYogW-69PI-t234.64", "text": "You see the red area and there's a ton of rain or you see kind of like a green area and", "start": 234.64, "end": 239.84}
+{"id": "CgYogW-69PI-t239.84", "text": "it's maybe not as scary.", "start": 239.84, "end": 241.51999999999998}
+{"id": "CgYogW-69PI-t241.51999999999998", "text": "But then if you look at the thunderstorm itself outside, you can really feel it.", "start": 241.51999999999998, "end": 245.84}
+{"id": "CgYogW-69PI-t245.84", "text": "You can see kind of like the synoptic meteorologists looking at the sky before numerical modeling", "start": 245.84, "end": 252.88}
+{"id": "CgYogW-69PI-t252.88", "text": "came around.", "start": 252.88, "end": 254.44}
+{"id": "CgYogW-69PI-t254.44", "text": "There was kind of a direct observation of knowing that something was coming.", "start": 254.44, "end": 259.24}
+{"id": "CgYogW-69PI-t259.24", "text": "And I kind of took this departure from the normal scientific inscription that is very", "start": 259.24, "end": 267.8}
+{"id": "CgYogW-69PI-t267.8", "text": "trusted.", "start": 267.8, "end": 268.8}
+{"id": "CgYogW-69PI-t268.8", "text": "So I'm looking at Enrico because he is the scientist here among us.", "start": 268.8, "end": 273.12}
+{"id": "CgYogW-69PI-t273.12", "text": "And I think that, and you, yes, and Dennis.", "start": 273.12, "end": 276.12}
+{"id": "CgYogW-69PI-t276.12", "text": "So just thinking about kind of this, going into this project, kind of thinking about new", "start": 276.12, "end": 283.36}
+{"id": "CgYogW-69PI-t283.36", "text": "ways of kind of experiencing scientific data by still using it and using collection methods", "start": 283.36, "end": 289.96}
+{"id": "CgYogW-69PI-t289.96", "text": "that were somewhat scientific.", "start": 289.96, "end": 291.56}
+{"id": "CgYogW-69PI-t291.56", "text": "So for this particular piece, I took my phone and it has an accelerometer and pressure", "start": 291.56, "end": 300.84000000000003}
+{"id": "CgYogW-69PI-t300.84", "text": "data and location data and I wrapped it up in multiple levels of waterproofing attached", "start": 300.84, "end": 307.67999999999995}
+{"id": "CgYogW-69PI-t307.67999999999995", "text": "it to a fishing pole at first and cast it out into the sea, in Turro, Massachusetts.", "start": 307.67999999999995, "end": 313.71999999999997}
+{"id": "CgYogW-69PI-t313.71999999999997", "text": "And watched it.", "start": 313.71999999999997, "end": 315.47999999999996}
+{"id": "CgYogW-69PI-t315.47999999999996", "text": "I actually swam out a few times and then with the fishing pole and cast it during the clips", "start": 315.47999999999996, "end": 321.59999999999997}
+{"id": "CgYogW-69PI-t321.59999999999997", "text": "for the summer because no one was in the water and I didn't want to disturb anyone.", "start": 321.59999999999997, "end": 325.76}
+{"id": "CgYogW-69PI-t325.76", "text": "So I was by myself way out there.", "start": 325.76, "end": 328.08}
+{"id": "CgYogW-69PI-t328.08", "text": "And I floated with the phone back and the fishing pole.", "start": 328.08, "end": 332.68}
+{"id": "CgYogW-69PI-t332.68", "text": "Just trying to kind of, and I was scared.", "start": 332.68, "end": 334.12}
+{"id": "CgYogW-69PI-t334.12", "text": "It was deep.", "start": 334.12, "end": 335.12}
+{"id": "CgYogW-69PI-t335.12", "text": "I couldn't.", "start": 335.12, "end": 336.12}
+{"id": "CgYogW-69PI-t336.12", "text": "I'm very terrified of the water.", "start": 336.12, "end": 337.28}
+{"id": "CgYogW-69PI-t337.28", "text": "And I ended up letting the phone go back and forth as a sensor to shore.", "start": 337.28, "end": 344.15999999999997}
+{"id": "CgYogW-69PI-t344.15999999999997", "text": "And then this happened multiple times.", "start": 344.15999999999997, "end": 346.68}
+{"id": "CgYogW-69PI-t346.68", "text": "And I took that data and it was recorded at 100 hertz.", "start": 346.68, "end": 349.91999999999996}
+{"id": "CgYogW-69PI-t349.91999999999996", "text": "So there was dimensional data of me with the phone at first and then the fishing pole", "start": 349.91999999999996, "end": 356.0}
+{"id": "CgYogW-69PI-t356.0", "text": "in the phone in the water.", "start": 356.0, "end": 357.88}
+{"id": "CgYogW-69PI-t357.88", "text": "So I was able to collect over 500,000 data points of waves coming in to the shore and", "start": 357.88, "end": 366.76}
+{"id": "CgYogW-69PI-t366.76", "text": "breaking on the shore.", "start": 366.76, "end": 368.04}
+{"id": "CgYogW-69PI-t368.04", "text": "So then I took that data and brought it through Python and kind of traditional ways of visualizing", "start": 368.04, "end": 375.71999999999997}
+{"id": "CgYogW-69PI-t375.71999999999997", "text": "it and started to play with the form.", "start": 375.71999999999997, "end": 379.96}
+{"id": "CgYogW-69PI-t379.96", "text": "So what is the dimensional form of this?", "start": 379.96, "end": 381.44}
+{"id": "CgYogW-69PI-t381.44", "text": "How can I get this invisible kind of direct experience of floating in the wave exported", "start": 381.44, "end": 387.68}
+{"id": "CgYogW-69PI-t387.68", "text": "into some type of dimensional observation that someone could look at and emotionally", "start": 387.68, "end": 393.28000000000003}
+{"id": "CgYogW-69PI-t393.28000000000003", "text": "feel that that's what it feels like to be floating in the ocean?", "start": 393.28000000000003, "end": 397.48}
+{"id": "CgYogW-69PI-t397.48", "text": "Because all these wave models I was looking at, they were missing this dimension of emotional", "start": 397.48, "end": 403.36}
+{"id": "CgYogW-69PI-t403.36", "text": "connection to the thing itself.", "start": 403.36, "end": 404.72}
+{"id": "CgYogW-69PI-t404.72", "text": "Like when I look at a model of a scientific wave, and there's very beautiful models and", "start": 404.72, "end": 409.04}
+{"id": "CgYogW-69PI-t409.04", "text": "they can show you hundreds of different things and hundreds and hundreds and thousands of", "start": 409.04, "end": 412.84000000000003}
+{"id": "CgYogW-69PI-t412.84000000000003", "text": "different ways.", "start": 412.84000000000003, "end": 413.84000000000003}
+{"id": "CgYogW-69PI-t413.84", "text": "I didn't quite ever say like, oh, that's what it feels like to be in a wave.", "start": 413.84, "end": 420.4}
+{"id": "CgYogW-69PI-t420.4", "text": "So I wanted to play with that.", "start": 420.4, "end": 421.79999999999995}
+{"id": "CgYogW-69PI-t421.79999999999995", "text": "So I took all those data points and put them in a dimensional model and just extruded them", "start": 421.79999999999995, "end": 431.08}
+{"id": "CgYogW-69PI-t431.08", "text": "into, it was just a cube that I kept twisting and twisting and twisting.", "start": 431.08, "end": 436.0}
+{"id": "CgYogW-69PI-t436.0", "text": "But you can start to see the shape of the wave as it was hitting my body or as it was", "start": 436.0, "end": 442.47999999999996}
+{"id": "CgYogW-69PI-t442.48", "text": "hitting the sensor itself.", "start": 442.48, "end": 444.40000000000003}
+{"id": "CgYogW-69PI-t444.40000000000003", "text": "So I had it as a very complex model, which is what the image is.", "start": 444.40000000000003, "end": 450.88}
+{"id": "CgYogW-69PI-t450.88", "text": "And then I took the challenge of printing that with a machine back into a form, which", "start": 450.88, "end": 456.96000000000004}
+{"id": "CgYogW-69PI-t456.96000000000004", "text": "is what you're seeing in the hallway.", "start": 456.96000000000004, "end": 458.88}
+{"id": "CgYogW-69PI-t458.88", "text": "So he should come join.", "start": 458.88, "end": 464.40000000000003}
+{"id": "CgYogW-69PI-t464.40000000000003", "text": "So really it's a question of scientific.", "start": 464.40000000000003, "end": 466.20000000000005}
+{"id": "CgYogW-69PI-t466.20000000000005", "text": "How do we get beyond traditional scientific vernacular and inscription that is very trusted", "start": 466.20000000000005, "end": 472.32}
+{"id": "CgYogW-69PI-t472.32", "text": "and often looked at by a professional and it becomes, it can translate into the public", "start": 472.32, "end": 481.76}
+{"id": "CgYogW-69PI-t481.76", "text": "or into the research and people trust that data, scientific data and how to use other", "start": 481.76, "end": 487.76}
+{"id": "CgYogW-69PI-t487.76", "text": "kind of visualization tools.", "start": 487.76, "end": 489.28}
+{"id": "CgYogW-69PI-t489.28", "text": "Kind of in the spirit of Edward Tufti, but breaking that even further and trying to get", "start": 489.28, "end": 494.96}
+{"id": "CgYogW-69PI-t494.96", "text": "to a new way of looking at something or a new way of feeling something that is a phenomenon", "start": 494.96, "end": 499.8}
+{"id": "CgYogW-69PI-t499.8", "text": "that we all experience.", "start": 499.8, "end": 501.76}
+{"id": "CgYogW-69PI-t501.76", "text": "And it's a break of these scientists looking at this phenomenon separate from the thing", "start": 501.76, "end": 507.76}
+{"id": "CgYogW-69PI-t507.76", "text": "itself.", "start": 507.76, "end": 508.76}
+{"id": "CgYogW-69PI-t508.76", "text": "And I know that's not possible at certain scales.", "start": 508.76, "end": 510.32}
+{"id": "CgYogW-69PI-t510.32", "text": "So if you're looking at something in a macro-scaler, micro-scaler, if you're looking at the Mars", "start": 510.32, "end": 514.08}
+{"id": "CgYogW-69PI-t514.08", "text": "rover, there's no way that the person observing that is ever going to be able to see that", "start": 514.08, "end": 518.36}
+{"id": "CgYogW-69PI-t518.36", "text": "data with their naked eye.", "start": 518.36, "end": 520.08}
+{"id": "CgYogW-69PI-t520.08", "text": "So I'm very curious about coming up with new ways to look at it in an unmediated, almost", "start": 520.08, "end": 528.24}
+{"id": "CgYogW-69PI-t528.24", "text": "caveman way of looking at something or feeling something.", "start": 528.24, "end": 532.76}
+{"id": "CgYogW-69PI-t532.76", "text": "Has anyone looking at it said that they could feel the wave?", "start": 532.76, "end": 537.5600000000001}
+{"id": "CgYogW-69PI-t537.5600000000001", "text": "Yes.", "start": 537.5600000000001, "end": 538.5600000000001}
+{"id": "CgYogW-69PI-t538.5600000000001", "text": "Once I told them it was a wave, they could understand it as a wave.", "start": 538.5600000000001, "end": 543.6}
+{"id": "CgYogW-69PI-t543.6", "text": "It's a beautifully romantic kind of, my favorite art science overlaps always have this thing", "start": 543.6, "end": 550.04}
+{"id": "CgYogW-69PI-t550.04", "text": "that's very human to them.", "start": 550.04, "end": 551.52}
+{"id": "CgYogW-69PI-t551.52", "text": "So I love the whole, you throw your phone in the water when you have a terrible breakup.", "start": 551.52, "end": 556.36}
+{"id": "CgYogW-69PI-t556.36", "text": "That's like the throwing the phone in the water.", "start": 556.36, "end": 562.48}
+{"id": "CgYogW-69PI-t562.48", "text": "And it's the same thing with Raphael's piece and the idea that it's an utterance.", "start": 562.48, "end": 566.6800000000001}
+{"id": "CgYogW-69PI-t566.6800000000001", "text": "It's just a very human natural thing and we're somehow leveraging what we understand about", "start": 566.6800000000001, "end": 571.96}
+{"id": "CgYogW-69PI-t571.96", "text": "physics to show it to you.", "start": 571.96, "end": 573.72}
+{"id": "CgYogW-69PI-t573.72", "text": "And I don't know, I think that's really cool.", "start": 573.72, "end": 576.4}
+{"id": "CgYogW-69PI-t576.4", "text": "That's a really good way to bring it home.", "start": 576.4, "end": 578.6800000000001}
+{"id": "CgYogW-69PI-t578.6800000000001", "text": "Yeah.", "start": 578.6800000000001, "end": 579.6800000000001}
+{"id": "CgYogW-69PI-t579.68", "text": "Regarding visualization of data, also the work by collective motion by David McLeo, the professor", "start": 579.68, "end": 587.56}
+{"id": "CgYogW-69PI-t587.56", "text": "at NYU showing this collective motion of particles that are interacting with each other and", "start": 587.56, "end": 595.0}
+{"id": "CgYogW-69PI-t595.0", "text": "create this fluid-like form that was in the theme of the whole project, was fluids.", "start": 595.0, "end": 605.3199999999999}
+{"id": "CgYogW-69PI-t605.32", "text": "And also that was visualization of data but interpreted to the eye of the artist.", "start": 605.32, "end": 610.2}
+{"id": "CgYogW-69PI-t610.2", "text": "In the beginning, in fact, I was overlooking the interaction.", "start": 610.2, "end": 615.6400000000001}
+{"id": "CgYogW-69PI-t615.6400000000001", "text": "In the beginning, there were a lot of back and forths of data between the artists and", "start": 615.6400000000001, "end": 620.44}
+{"id": "CgYogW-69PI-t620.44", "text": "the scientists because the artist said the data of the scientist wasn't good, wasn't", "start": 620.44, "end": 624.6400000000001}
+{"id": "CgYogW-69PI-t624.6400000000001", "text": "looking good for some reason.", "start": 624.6400000000001, "end": 626.96}
+{"id": "CgYogW-69PI-t626.96", "text": "And so it's something to be considered what is looking good or not.", "start": 626.96, "end": 630.96}
+{"id": "CgYogW-69PI-t630.96", "text": "Eventually, they found something that was meaningful both scientifically and aesthetically,", "start": 630.96, "end": 637.32}
+{"id": "CgYogW-69PI-t637.32", "text": "according to the eyes of the artist.", "start": 637.32, "end": 642.88}
+{"id": "CgYogW-69PI-t642.88", "text": "And those decisions become completely subjective.", "start": 642.88, "end": 646.48}
+{"id": "CgYogW-69PI-t646.48", "text": "So there's this moment where there's a kind of a testing process, I think, that the artists", "start": 646.48, "end": 654.8000000000001}
+{"id": "CgYogW-69PI-t654.8000000000001", "text": "go through with whatever data they're working with, especially if they're working with scientific", "start": 654.8000000000001, "end": 658.52}
+{"id": "CgYogW-69PI-t658.52", "text": "data or any data set or any phenomena, that there's a moment where it shifts to maybe", "start": 658.52, "end": 665.1999999999999}
+{"id": "CgYogW-69PI-t665.1999999999999", "text": "how they're looking at it.", "start": 665.1999999999999, "end": 667.56}
+{"id": "CgYogW-69PI-t667.56", "text": "And potentially, this credits it in a scientific realm but offers something else that maybe", "start": 667.56, "end": 674.0799999999999}
+{"id": "CgYogW-69PI-t674.0799999999999", "text": "the scientists won't be able to reach.", "start": 674.0799999999999, "end": 675.56}
+{"id": "CgYogW-69PI-t675.56", "text": "So that's a really interesting space to work in when the data or the phenomena we're looking", "start": 675.56, "end": 681.28}
+{"id": "CgYogW-69PI-t681.28", "text": "at when it's transitioning into this kind of subjective space of the interpreter or the", "start": 681.28, "end": 689.3199999999999}
+{"id": "CgYogW-69PI-t689.3199999999999", "text": "new inscriber.", "start": 689.3199999999999, "end": 690.3199999999999}
+{"id": "CgYogW-69PI-t690.3199999999999", "text": "It's also speaking to sort of like the shared aesthetic qualities and experience that there", "start": 690.3199999999999, "end": 698.72}
+{"id": "CgYogW-69PI-t698.72", "text": "resonates between the artist and the scientist, that they're experiencing something on a similar", "start": 698.72, "end": 705.9599999999999}
+{"id": "CgYogW-69PI-t705.9599999999999", "text": "level.", "start": 705.9599999999999, "end": 706.9599999999999}
+{"id": "CgYogW-69PI-t706.96", "text": "It's kind of like the, I guess from the 19, even before this, in history, I don't think", "start": 706.96, "end": 713.6800000000001}
+{"id": "CgYogW-69PI-t713.6800000000001", "text": "that's the exact date, but when the naturalists would go out and look at new land or they'd", "start": 713.6800000000001, "end": 719.2}
+{"id": "CgYogW-69PI-t719.2", "text": "find new species and they would take notes on, so these scientists would be taking notes", "start": 719.2, "end": 724.88}
+{"id": "CgYogW-69PI-t724.88", "text": "on what they saw and they would go back and they would hire an artist that could draw", "start": 724.88, "end": 729.76}
+{"id": "CgYogW-69PI-t729.76", "text": "it better than they could.", "start": 729.76, "end": 730.76}
+{"id": "CgYogW-69PI-t730.76", "text": "So you get these beautiful atlases with species from the beginning of time that we're unable", "start": 730.76, "end": 738.36}
+{"id": "CgYogW-69PI-t738.36", "text": "to be photographed because that didn't exist yet, but this dialogue that the scientist", "start": 738.36, "end": 743.36}
+{"id": "CgYogW-69PI-t743.36", "text": "had to have with the artist to tell them, okay, that you need to draw it like this.", "start": 743.36, "end": 748.96}
+{"id": "CgYogW-69PI-t748.96", "text": "Because if the scientist drew it, it might have just looked like a cartoon.", "start": 748.96, "end": 752.36}
+{"id": "CgYogW-69PI-t752.36", "text": "So there's a kind of a communication that has existed for a while between artists and", "start": 752.36, "end": 757.3199999999999}
+{"id": "CgYogW-69PI-t757.32", "text": "scientists trying to realize or visually interpret the phenomena.", "start": 757.32, "end": 763.12}
+{"id": "CgYogW-69PI-t763.12", "text": "Back in the days, you were also Leonardo was doing both and before the science was born.", "start": 763.12, "end": 769.36}
+{"id": "CgYogW-69PI-t769.36", "text": "Right, but Leonardo would consider painting an art.", "start": 769.36, "end": 771.88}
+{"id": "CgYogW-69PI-t771.88", "text": "I mean, sorry, a painting of science because he, because of the instrumentation needed to", "start": 771.88, "end": 779.2}
+{"id": "CgYogW-69PI-t779.2", "text": "be used in the painting.", "start": 779.2, "end": 781.5600000000001}
+{"id": "CgYogW-69PI-t781.5600000000001", "text": "So he would, Leonardo's time, he considered painting of science.", "start": 781.5600000000001, "end": 786.5600000000001}
+{"id": "CgYogW-69PI-t786.56", "text": "Also because the painter had a divine mind, he could see things the way God could.", "start": 786.56, "end": 791.64}
+{"id": "CgYogW-69PI-t791.64", "text": "So there was an ultimate truth in what Leonardo was after.", "start": 791.64, "end": 797.1999999999999}
+{"id": "CgYogW-69PI-t797.1999999999999", "text": "His professor is Serena Boston.", "start": 797.1999999999999, "end": 799.68}
+{"id": "CgYogW-69PI-t799.68", "text": "Hi.", "start": 799.68, "end": 800.68}
+{"id": "CgYogW-69PI-t800.68", "text": "Apologies for being great.", "start": 800.68, "end": 801.68}
+{"id": "CgYogW-69PI-t801.68", "text": "Oh, that's okay.", "start": 801.68, "end": 802.68}
+{"id": "CgYogW-69PI-t802.68", "text": "We're glad you're here.", "start": 802.68, "end": 805.68}
+{"id": "CgYogW-69PI-t805.68", "text": "I know we want to know if we have the slides.", "start": 805.68, "end": 819.1999999999999}
+{"id": "CgYogW-69PI-t819.1999999999999", "text": "When everybody else is spoken, I'll take it.", "start": 819.1999999999999, "end": 826.64}
+{"id": "CgYogW-69PI-t826.64", "text": "Did you have some slides that you wanted to present?", "start": 826.64, "end": 830.64}
+{"id": "CgYogW-69PI-t830.64", "text": "I had four of them.", "start": 830.64, "end": 832.64}
+{"id": "CgYogW-69PI-t832.64", "text": "Are I still half of them?", "start": 832.64, "end": 836.12}
+{"id": "CgYogW-69PI-t836.12", "text": "Go to Ariel.", "start": 836.12, "end": 838.12}
+{"id": "CgYogW-69PI-t838.12", "text": "Sure.", "start": 838.12, "end": 839.12}
+{"id": "CgYogW-69PI-t839.12", "text": "Yeah, go for it.", "start": 839.12, "end": 842.1999999999999}
+{"id": "CgYogW-69PI-t842.1999999999999", "text": "I wanted to say that first of all, thank you for having us here.", "start": 842.1999999999999, "end": 848.8}
+{"id": "CgYogW-69PI-t848.8", "text": "Thank you.", "start": 848.8, "end": 850.36}
+{"id": "CgYogW-69PI-t850.36", "text": "It's new to me.", "start": 850.36, "end": 853.1999999999999}
+{"id": "CgYogW-69PI-t853.1999999999999", "text": "Yes.", "start": 853.1999999999999, "end": 854.76}
+{"id": "CgYogW-69PI-t854.76", "text": "Thank you.", "start": 854.76, "end": 856.16}
+{"id": "CgYogW-69PI-t856.16", "text": "My ears are not the right size.", "start": 856.16, "end": 861.04}
+{"id": "CgYogW-69PI-t861.04", "text": "Also when you think about science and art, I know that these are quite often deemed as", "start": 861.04, "end": 871.56}
+{"id": "CgYogW-69PI-t871.56", "text": "two different sorts of activities.", "start": 871.56, "end": 873.76}
+{"id": "CgYogW-69PI-t873.76", "text": "And in fact, there are very immense differences.", "start": 873.76, "end": 876.8399999999999}
+{"id": "CgYogW-69PI-t876.8399999999999", "text": "But on the other hand, if you go a little bit deeper, all my friends tell me that the", "start": 876.8399999999999, "end": 884.52}
+{"id": "CgYogW-69PI-t884.52", "text": "sense of beauty and also its ability to evoke emotions are sort of very similar.", "start": 884.52, "end": 897.48}
+{"id": "CgYogW-69PI-t897.48", "text": "I wanted to illustrate to you one or two things.", "start": 897.48, "end": 901.68}
+{"id": "CgYogW-69PI-t901.68", "text": "Here is the most beautiful week question in mathematics.", "start": 901.68, "end": 904.52}
+{"id": "CgYogW-69PI-t904.52", "text": "Now, why would you say it is most beautiful?", "start": 904.52, "end": 908.52}
+{"id": "CgYogW-69PI-t908.52", "text": "It's not apparent to people who are not trained in mathematics.", "start": 908.52, "end": 913.04}
+{"id": "CgYogW-69PI-t913.04", "text": "So what it does is it's now, of course, since 1748.", "start": 913.04, "end": 918.92}
+{"id": "CgYogW-69PI-t918.92", "text": "It combines five very important quantities since this nice way.", "start": 918.92, "end": 925.28}
+{"id": "CgYogW-69PI-t925.28", "text": "Zero, as you know, is just a quantity to which if you add anything, the quantity to remain", "start": 925.28, "end": 934.88}
+{"id": "CgYogW-69PI-t934.88", "text": "the same.", "start": 934.88, "end": 936.56}
+{"id": "CgYogW-69PI-t936.56", "text": "And that's the so-called additive invariant.", "start": 936.56, "end": 940.7199999999999}
+{"id": "CgYogW-69PI-t940.72", "text": "And one is something you multiply anything with, it will still give you the same thing.", "start": 940.72, "end": 947.0}
+{"id": "CgYogW-69PI-t947.0", "text": "And pi, as you know, is the ratio of the circumference of the circle to its diameter.", "start": 947.0, "end": 952.2}
+{"id": "CgYogW-69PI-t952.2", "text": "And it has been computed to 20 quadrillionth place.", "start": 952.2, "end": 957.72}
+{"id": "CgYogW-69PI-t957.72", "text": "That is not million, billion, trillion, quadrillion, 20 times.", "start": 957.72, "end": 964.0}
+{"id": "CgYogW-69PI-t964.0", "text": "And it still has no pattern and it keeps going.", "start": 964.0, "end": 966.76}
+{"id": "CgYogW-69PI-t966.76", "text": "There is no end to it.", "start": 966.76, "end": 968.72}
+{"id": "CgYogW-69PI-t968.72", "text": "I, as you would all recognize, is a square root of minus one, which is a strange quantity.", "start": 968.72, "end": 975.2}
+{"id": "CgYogW-69PI-t975.2", "text": "And E is so-called Euler number, which also has been computed to 500 billion places and", "start": 975.2, "end": 982.24}
+{"id": "CgYogW-69PI-t982.24", "text": "it still continues ad nauseam.", "start": 982.24, "end": 985.44}
+{"id": "CgYogW-69PI-t985.44", "text": "But somehow when you combine like this, all of that is somehow gone.", "start": 985.44, "end": 991.2}
+{"id": "CgYogW-69PI-t991.2", "text": "All this complexity that you see individually is totally gone.", "start": 991.2, "end": 995.5600000000001}
+{"id": "CgYogW-69PI-t995.56", "text": "And you have this extraordinarily simple formula due to Euler.", "start": 995.56, "end": 1000.88}
+{"id": "CgYogW-69PI-t1000.88", "text": "And it is like E equals MC squared or some very similar thing that people know.", "start": 1000.88, "end": 1007.0799999999999}
+{"id": "CgYogW-69PI-t1007.0799999999999", "text": "So of course, you will have to learn a little bit about how to appreciate this.", "start": 1007.0799999999999, "end": 1012.8399999999999}
+{"id": "CgYogW-69PI-t1012.8399999999999", "text": "And that's part of what I think is in appreciation of art, literature, anything like that.", "start": 1012.8399999999999, "end": 1019.2399999999999}
+{"id": "CgYogW-69PI-t1019.24", "text": "And the other one, next one, you all recognize this, this is the wave.", "start": 1019.24, "end": 1025.8}
+{"id": "CgYogW-69PI-t1025.8", "text": "Can you go to the next one?", "start": 1025.8, "end": 1028.08}
+{"id": "CgYogW-69PI-t1028.08", "text": "This is the great wave of Kanagawa in Japan.", "start": 1028.08, "end": 1031.4}
+{"id": "CgYogW-69PI-t1031.4", "text": "When Japan was for 250 years, sort of removed from the rest of the world, it basically developed", "start": 1031.4, "end": 1037.84}
+{"id": "CgYogW-69PI-t1037.84", "text": "its own skills in art, in all kinds of other human endeavors.", "start": 1037.84, "end": 1044.16}
+{"id": "CgYogW-69PI-t1044.16", "text": "And you can see the wave, the huge wave, which is now known as the rogue wave in the literature,", "start": 1044.16, "end": 1051.0400000000002}
+{"id": "CgYogW-69PI-t1051.0400000000002", "text": "keyboards now capsized and there is the Mount Fuji at the very back with the snow cap on", "start": 1051.0400000000002, "end": 1057.3600000000001}
+{"id": "CgYogW-69PI-t1057.3600000000001", "text": "it.", "start": 1057.3600000000001, "end": 1058.4}
+{"id": "CgYogW-69PI-t1058.4", "text": "And there are all kinds of scientific emotions that this will produce for us if I could go", "start": 1058.4, "end": 1066.4}
+{"id": "CgYogW-69PI-t1066.4", "text": "on at it, but I will not do that.", "start": 1066.4, "end": 1068.96}
+{"id": "CgYogW-69PI-t1068.96", "text": "And the third one, which again, all of you remember, this lovely little part of the bigger", "start": 1068.96, "end": 1076.68}
+{"id": "CgYogW-69PI-t1076.68", "text": "poem, the woods are lovely, dark and deep, but I have promises to keep.", "start": 1076.68, "end": 1082.48}
+{"id": "CgYogW-69PI-t1082.48", "text": "So he's working that he has responsibilities that he can't take himself off from going", "start": 1082.48, "end": 1088.3600000000001}
+{"id": "CgYogW-69PI-t1088.3600000000001", "text": "into the woods and enjoying them and miles to go before I sleep and miles to go before", "start": 1088.3600000000001, "end": 1093.8400000000001}
+{"id": "CgYogW-69PI-t1093.8400000000001", "text": "I sleep.", "start": 1093.8400000000001, "end": 1094.8400000000001}
+{"id": "CgYogW-69PI-t1094.84", "text": "I can't omit the fact that the last line has been repeated twice and repeated and so it", "start": 1094.84, "end": 1100.32}
+{"id": "CgYogW-69PI-t1100.32", "text": "is really extraordinary set of emotions that this will bring to bear on whoever reads it.", "start": 1100.32, "end": 1108.0}
+{"id": "CgYogW-69PI-t1108.0", "text": "And the last one is the topic of the conversation today about turbulence and its beauty and", "start": 1108.0, "end": 1116.04}
+{"id": "CgYogW-69PI-t1116.04", "text": "what it has for art.", "start": 1116.04, "end": 1117.84}
+{"id": "CgYogW-69PI-t1117.84", "text": "It's just a jet that is coming down.", "start": 1117.84, "end": 1120.6399999999999}
+{"id": "CgYogW-69PI-t1120.64", "text": "You can see tendrils and vertices and all of them somehow combined in some very complex", "start": 1120.64, "end": 1126.4}
+{"id": "CgYogW-69PI-t1126.4", "text": "way.", "start": 1126.4, "end": 1128.2}
+{"id": "CgYogW-69PI-t1128.2", "text": "There is an admixture of order on the one hand and chaos on the other.", "start": 1128.2, "end": 1132.5200000000002}
+{"id": "CgYogW-69PI-t1132.5200000000002", "text": "To me that evokes again extraordinary sense of beauty and extraordinary set of complex", "start": 1132.5200000000002, "end": 1138.0400000000002}
+{"id": "CgYogW-69PI-t1138.0400000000002", "text": "ideas.", "start": 1138.0400000000002, "end": 1139.24}
+{"id": "CgYogW-69PI-t1139.24", "text": "And to me, therefore, these illustrate somehow the kinds of things which I will not spell", "start": 1139.24, "end": 1144.48}
+{"id": "CgYogW-69PI-t1144.48", "text": "out for you.", "start": 1144.48, "end": 1145.64}
+{"id": "CgYogW-69PI-t1145.64", "text": "I think that science has in all its major endeavors.", "start": 1145.64, "end": 1152.6000000000001}
+{"id": "CgYogW-69PI-t1152.6000000000001", "text": "It's utilitarian and therefore people sort of don't understand that beyond the utilitarian", "start": 1152.6000000000001, "end": 1158.2}
+{"id": "CgYogW-69PI-t1158.2", "text": "aspect of science there's all kinds of beauty in it and that's what really gives rise to", "start": 1158.2, "end": 1164.2}
+{"id": "CgYogW-69PI-t1164.2", "text": "a satisfaction of doing something worthwhile and if truth and beauty can never be equated", "start": 1164.2, "end": 1171.2800000000002}
+{"id": "CgYogW-69PI-t1171.2800000000002", "text": "to each other, well, maybe there is something to it.", "start": 1171.2800000000002, "end": 1174.64}
+{"id": "CgYogW-69PI-t1174.64", "text": "That's all I wanted to say.", "start": 1174.64, "end": 1180.64}
+{"id": "CgYogW-69PI-t1180.64", "text": "Well perhaps this speaks to your interest in the psychophysics of beauty.", "start": 1180.64, "end": 1185.64}
+{"id": "CgYogW-69PI-t1185.64", "text": "Okay, so I'll just say a couple words about myself.", "start": 1185.64, "end": 1188.64}
+{"id": "CgYogW-69PI-t1188.64", "text": "I wanted to join this discussion.", "start": 1188.64, "end": 1192.76}
+{"id": "CgYogW-69PI-t1192.76", "text": "So I'm a psychophysicist.", "start": 1192.76, "end": 1194.5600000000002}
+{"id": "CgYogW-69PI-t1194.5600000000002", "text": "I study perception by behavior and most of my work is on object recognition, how we recognize", "start": 1194.5600000000002, "end": 1204.44}
+{"id": "CgYogW-69PI-t1204.44", "text": "things, how we read, but a new line of my research is trying to understand the experience", "start": 1204.44, "end": 1209.16}
+{"id": "CgYogW-69PI-t1209.16", "text": "of beauty.", "start": 1209.16, "end": 1213.04}
+{"id": "CgYogW-69PI-t1213.04", "text": "So in thinking about what we would talk about tonight, I thought there was a danger that", "start": 1213.04, "end": 1219.8}
+{"id": "CgYogW-69PI-t1219.8", "text": "we might all agree.", "start": 1219.8, "end": 1222.6000000000001}
+{"id": "CgYogW-69PI-t1222.6000000000001", "text": "So I tried to pick something that we might disagree about.", "start": 1222.6000000000001, "end": 1227.56}
+{"id": "CgYogW-69PI-t1227.56", "text": "So I'm going to take a position that perhaps others will want to differ from.", "start": 1227.56, "end": 1235.24}
+{"id": "CgYogW-69PI-t1235.24", "text": "We're teasing too.", "start": 1235.24, "end": 1237.2}
+{"id": "CgYogW-69PI-t1237.2", "text": "Well, that's what we'll argue about.", "start": 1237.2, "end": 1241.12}
+{"id": "CgYogW-69PI-t1241.12", "text": "So the theme tonight is this magic show that Indrico organized about combining art and", "start": 1241.12, "end": 1250.6799999999998}
+{"id": "CgYogW-69PI-t1250.6799999999998", "text": "science.", "start": 1250.6799999999998, "end": 1252.96}
+{"id": "CgYogW-69PI-t1252.96", "text": "And I suspect we all more or less agree about what science is, making up a definition, I", "start": 1252.96, "end": 1258.3600000000001}
+{"id": "CgYogW-69PI-t1258.3600000000001", "text": "would say something about an attempt to reach a mathematical understanding of something", "start": 1258.3600000000001, "end": 1264.08}
+{"id": "CgYogW-69PI-t1264.08", "text": "that's subject to test by prediction and experiment.", "start": 1264.08, "end": 1268.92}
+{"id": "CgYogW-69PI-t1268.92", "text": "You might disagree about that.", "start": 1268.92, "end": 1269.96}
+{"id": "CgYogW-69PI-t1269.96", "text": "But it seems more likely that we're going to disagree about what art is.", "start": 1269.96, "end": 1276.1200000000001}
+{"id": "CgYogW-69PI-t1276.1200000000001", "text": "And so I looked up what Wikipedia gives as definition of art.", "start": 1276.1200000000001, "end": 1281.04}
+{"id": "CgYogW-69PI-t1281.04", "text": "And I hadn't quite expected it, but it gives it conditional on the year.", "start": 1281.04, "end": 1286.8}
+{"id": "CgYogW-69PI-t1286.8", "text": "So let me just read it to his only couple sentences.", "start": 1286.8, "end": 1289.08}
+{"id": "CgYogW-69PI-t1289.08", "text": "Art is a diverse range of human activities in creating visual, auditory, or performing", "start": 1289.08, "end": 1295.08}
+{"id": "CgYogW-69PI-t1295.08", "text": "artifacts, artworks, expressing the author's imaginative or technical skill intended to", "start": 1295.08, "end": 1304.6}
+{"id": "CgYogW-69PI-t1304.6", "text": "be appreciated for their beauty or emotional power.", "start": 1304.6, "end": 1307.96}
+{"id": "CgYogW-69PI-t1307.96", "text": "Okay, that seems reasonable.", "start": 1307.96, "end": 1310.72}
+{"id": "CgYogW-69PI-t1310.72", "text": "And then it goes on to say until the 17th century, art referred to any skill or mastery", "start": 1310.72, "end": 1317.3600000000001}
+{"id": "CgYogW-69PI-t1317.3600000000001", "text": "and was not differentiated from crafts or science.", "start": 1317.3600000000001, "end": 1322.08}
+{"id": "CgYogW-69PI-t1322.08", "text": "So Dana brought up Da Vinci earlier, and you were suggesting with that division, according", "start": 1322.08, "end": 1330.64}
+{"id": "CgYogW-69PI-t1330.64", "text": "to Wikipedia, I think he wouldn't have made any distinction.", "start": 1330.64, "end": 1333.08}
+{"id": "CgYogW-69PI-t1333.08", "text": "His paintings and his engineering are all art.", "start": 1333.08, "end": 1337.68}
+{"id": "CgYogW-69PI-t1337.68", "text": "So art here in the sense of artifact made by man.", "start": 1337.68, "end": 1340.92}
+{"id": "CgYogW-69PI-t1340.92", "text": "Right, but he would also say it's science.", "start": 1340.92, "end": 1343.88}
+{"id": "CgYogW-69PI-t1343.88", "text": "He would Leonardo thought that painting and his era was science because of the instrumentation", "start": 1343.88, "end": 1349.76}
+{"id": "CgYogW-69PI-t1349.76", "text": "and also that's like...", "start": 1349.76, "end": 1350.76}
+{"id": "CgYogW-69PI-t1350.76", "text": "So those two words would distinguish his activities, right?", "start": 1350.76, "end": 1353.04}
+{"id": "CgYogW-69PI-t1353.04", "text": "Yes.", "start": 1353.04, "end": 1354.04}
+{"id": "CgYogW-69PI-t1354.04", "text": "And that's like legacy now when we feel like liberal arts.", "start": 1354.04, "end": 1358.16}
+{"id": "CgYogW-69PI-t1358.16", "text": "So my sense is that the spirit of this show is actually a 17th century perspective of", "start": 1358.16, "end": 1366.48}
+{"id": "CgYogW-69PI-t1366.48", "text": "treating art and science as not having any division and that they are demonstrating a", "start": 1366.48, "end": 1372.72}
+{"id": "CgYogW-69PI-t1372.72", "text": "mastery to share an appreciation of the topic.", "start": 1372.72, "end": 1379.24}
+{"id": "CgYogW-69PI-t1379.24", "text": "So one of the things that if we're going to try and parse would be actually whether the", "start": 1379.24, "end": 1387.44}
+{"id": "CgYogW-69PI-t1387.44", "text": "artist had the intent of producing objects that had the purpose of being appreciated", "start": 1387.44, "end": 1394.56}
+{"id": "CgYogW-69PI-t1394.56", "text": "for beauty and emotional power.", "start": 1394.56, "end": 1397.1599999999999}
+{"id": "CgYogW-69PI-t1397.1599999999999", "text": "Okay, that's my position.", "start": 1397.1599999999999, "end": 1399.44}
+{"id": "CgYogW-69PI-t1399.44", "text": "I'm hoping someone would disagree.", "start": 1399.44, "end": 1401.84}
+{"id": "CgYogW-69PI-t1401.84", "text": "I would argue, I mean, being a person that created an artwork for the show that...", "start": 1401.84, "end": 1407.08}
+{"id": "CgYogW-69PI-t1407.08", "text": "Right, perfect.", "start": 1407.08, "end": 1408.08}
+{"id": "CgYogW-69PI-t1408.08", "text": "I mean, I really struggled.", "start": 1408.08, "end": 1410.36}
+{"id": "CgYogW-69PI-t1410.36", "text": "Is this an artwork or is it just a really fancy visualization of some type of phenomena?", "start": 1410.36, "end": 1417.12}
+{"id": "CgYogW-69PI-t1417.12", "text": "And for me, I'm not sure if it's art in my mind.", "start": 1417.12, "end": 1422.2}
+{"id": "CgYogW-69PI-t1422.2", "text": "I know it's an object I made.", "start": 1422.2, "end": 1425.28}
+{"id": "CgYogW-69PI-t1425.28", "text": "I'm coming also from an architecture background and it fits in a sculptural format and it was", "start": 1425.28, "end": 1432.0}
+{"id": "CgYogW-69PI-t1432.0", "text": "printed on really beautiful paper and it's this inkjet print.", "start": 1432.0, "end": 1434.76}
+{"id": "CgYogW-69PI-t1434.76", "text": "But I really struggle as someone creating and playing with this data as an experiment", "start": 1434.76, "end": 1441.52}
+{"id": "CgYogW-69PI-t1441.52", "text": "as I'm going through it in the process of just getting from the data set to what you", "start": 1441.52, "end": 1447.48}
+{"id": "CgYogW-69PI-t1447.48", "text": "see out there.", "start": 1447.48, "end": 1450.32}
+{"id": "CgYogW-69PI-t1450.32", "text": "I'm a former body surfer and so I could resonate to your comments about how attractive and", "start": 1450.32, "end": 1456.96}
+{"id": "CgYogW-69PI-t1456.96", "text": "frightening the ocean is and how you had the frustration in looking at a lot of other visualization", "start": 1456.96, "end": 1467.9199999999998}
+{"id": "CgYogW-69PI-t1467.9199999999998", "text": "work about waves that failed to convey any of that emotional energy and that you were...", "start": 1467.9199999999998, "end": 1475.84}
+{"id": "CgYogW-69PI-t1475.84", "text": "That missing bit was part of your motivation doing your piece.", "start": 1475.84, "end": 1481.12}
+{"id": "CgYogW-69PI-t1481.12", "text": "Trying to seek.", "start": 1481.12, "end": 1482.12}
+{"id": "CgYogW-69PI-t1482.12", "text": "I was seeking some way to view it, I guess, for myself, which would be kind of...", "start": 1482.12, "end": 1487.48}
+{"id": "CgYogW-69PI-t1487.48", "text": "I think that would tip me over into the realm of an artist in the process and also have", "start": 1487.48, "end": 1493.9199999999998}
+{"id": "CgYogW-69PI-t1493.9199999999998", "text": "served no purpose or consequence except for other people to look at it or myself to look", "start": 1493.9199999999998, "end": 1500.72}
+{"id": "CgYogW-69PI-t1500.72", "text": "at it and be like, okay, that looks like a really pressurized experience of what I'm", "start": 1500.72, "end": 1505.48}
+{"id": "CgYogW-69PI-t1505.48", "text": "trying to share while floating.", "start": 1505.48, "end": 1510.76}
+{"id": "CgYogW-69PI-t1510.76", "text": "Anyone else?", "start": 1510.76, "end": 1511.76}
+{"id": "CgYogW-69PI-t1511.76", "text": "So the question, would you distinguish just the pure visualization of the vortices?", "start": 1511.76, "end": 1517.2}
+{"id": "CgYogW-69PI-t1517.2", "text": "No, when you made your piece, I think you collaborated in several of them.", "start": 1517.2, "end": 1521.24}
+{"id": "CgYogW-69PI-t1521.24", "text": "Yes, some of them were collaboration with artists.", "start": 1521.24, "end": 1523.8}
+{"id": "CgYogW-69PI-t1523.8", "text": "Were you trying to produce something that would produce an experience of beauty in the observer", "start": 1523.8, "end": 1529.04}
+{"id": "CgYogW-69PI-t1529.04", "text": "or some other strong emotion or did you have a different purpose?", "start": 1529.04, "end": 1534.68}
+{"id": "CgYogW-69PI-t1534.68", "text": "So I was collaborating on the scientific part, so I was not actually having the goal of producing", "start": 1534.68, "end": 1540.68}
+{"id": "CgYogW-69PI-t1540.68", "text": "something was in the mind of the artist, that particular task, to deal with that.", "start": 1540.68, "end": 1546.3600000000001}
+{"id": "CgYogW-69PI-t1546.3600000000001", "text": "But there was our research about a concept behind, for example, the work by Rafael", "start": 1546.3600000000001, "end": 1551.76}
+{"id": "CgYogW-69PI-t1551.76", "text": "Lusano-Hamer.", "start": 1551.76, "end": 1552.76}
+{"id": "CgYogW-69PI-t1552.76", "text": "He was this concept of the words staying in the atmosphere forever.", "start": 1552.76, "end": 1559.3600000000001}
+{"id": "CgYogW-69PI-t1559.36", "text": "He tried to conceptualize that into a form of art and an object.", "start": 1559.36, "end": 1565.32}
+{"id": "CgYogW-69PI-t1565.32", "text": "And he actually tried to different kinds of pieces of art, but some of them didn't work", "start": 1565.32, "end": 1571.1599999999999}
+{"id": "CgYogW-69PI-t1571.1599999999999", "text": "out well like he wanted.", "start": 1571.1599999999999, "end": 1572.84}
+{"id": "CgYogW-69PI-t1572.84", "text": "And so eventually just one piece was eventually finalized, like the one that was here, the", "start": 1572.84, "end": 1578.24}
+{"id": "CgYogW-69PI-t1578.24", "text": "3D printed of the flow there of someone speaking.", "start": 1578.24, "end": 1581.9599999999998}
+{"id": "CgYogW-69PI-t1581.9599999999998", "text": "So in this case, there was a concept that wanted to be expressed.", "start": 1581.9599999999998, "end": 1587.56}
+{"id": "CgYogW-69PI-t1587.56", "text": "And I think also some form of beauty, but you have to ask the artist because I cannot", "start": 1587.56, "end": 1591.8}
+{"id": "CgYogW-69PI-t1591.8", "text": "speak for him.", "start": 1591.8, "end": 1593.8}
+{"id": "CgYogW-69PI-t1593.8", "text": "Okay, so I'm going to push to...", "start": 1593.8, "end": 1599.6}
+{"id": "CgYogW-69PI-t1599.6", "text": "So I saw the piece and I'm very interested in the concept of how it was made, and I was", "start": 1599.6, "end": 1605.08}
+{"id": "CgYogW-69PI-t1605.08", "text": "interested in seeing the form.", "start": 1605.08, "end": 1607.6}
+{"id": "CgYogW-69PI-t1607.6", "text": "But I wanted to ask, can we do a show of hands in the studio?", "start": 1607.6, "end": 1610.9199999999998}
+{"id": "CgYogW-69PI-t1610.9199999999998", "text": "Please.", "start": 1610.9199999999998, "end": 1611.9199999999998}
+{"id": "CgYogW-69PI-t1611.92", "text": "And so how many people were moved by the 3D visualization of the speech, the pressure", "start": 1611.92, "end": 1619.76}
+{"id": "CgYogW-69PI-t1619.76", "text": "pattern produced by the speech?", "start": 1619.76, "end": 1622.68}
+{"id": "CgYogW-69PI-t1622.68", "text": "Okay, and how many were not moved?", "start": 1622.68, "end": 1634.24}
+{"id": "CgYogW-69PI-t1634.24", "text": "So the sense of a strong, powerful emotion that overcomes you.", "start": 1634.24, "end": 1645.1200000000001}
+{"id": "CgYogW-69PI-t1645.1200000000001", "text": "You should re-ask the question, having defined it.", "start": 1645.1200000000001, "end": 1648.88}
+{"id": "CgYogW-69PI-t1648.88", "text": "Sorry.", "start": 1648.88, "end": 1649.88}
+{"id": "CgYogW-69PI-t1649.88", "text": "You should re-ask the question, ask it again.", "start": 1649.88, "end": 1652.24}
+{"id": "CgYogW-69PI-t1652.24", "text": "No, we've defined it.", "start": 1652.24, "end": 1654.08}
+{"id": "CgYogW-69PI-t1654.08", "text": "Okay, so shall we vote again?", "start": 1654.08, "end": 1657.2}
+{"id": "CgYogW-69PI-t1657.2", "text": "So how many people were moved by the visualization of the speech pattern?", "start": 1657.2, "end": 1663.48}
+{"id": "CgYogW-69PI-t1663.48", "text": "And how many people were not moved?", "start": 1663.48, "end": 1666.44}
+{"id": "CgYogW-69PI-t1666.44", "text": "About 50-50.", "start": 1666.44, "end": 1667.6}
+{"id": "CgYogW-69PI-t1667.6", "text": "So that means a lot of people here were moved.", "start": 1667.6, "end": 1669.96}
+{"id": "CgYogW-69PI-t1669.96", "text": "So that's a successful piece.", "start": 1669.96, "end": 1672.44}
+{"id": "CgYogW-69PI-t1672.44", "text": "Can I say this?", "start": 1672.44, "end": 1674.0}
+{"id": "CgYogW-69PI-t1674.0", "text": "Please.", "start": 1674.0, "end": 1675.0}
+{"id": "CgYogW-69PI-t1675.0", "text": "I don't remember the precise words that Keats used at one time, but I think he said something", "start": 1675.0, "end": 1681.28}
+{"id": "CgYogW-69PI-t1681.28", "text": "like this.", "start": 1681.28, "end": 1682.78}
+{"id": "CgYogW-69PI-t1682.78", "text": "If you begin to get into the nitty-gritty of things, you will sort of detract from its", "start": 1682.78, "end": 1690.1200000000001}
+{"id": "CgYogW-69PI-t1690.1200000000001", "text": "beauty.", "start": 1690.1200000000001, "end": 1691.1200000000001}
+{"id": "CgYogW-69PI-t1691.12", "text": "That is to say, you go to the ocean, you admire these beautiful waves, but once you begin", "start": 1691.12, "end": 1697.84}
+{"id": "CgYogW-69PI-t1697.84", "text": "asking, well, at what speed are they going, or at what angle are they propagating, and", "start": 1697.84, "end": 1704.32}
+{"id": "CgYogW-69PI-t1704.32", "text": "what kind of drop patterns it produces and so on.", "start": 1704.32, "end": 1707.8799999999999}
+{"id": "CgYogW-69PI-t1707.8799999999999", "text": "Keats thought that it diminishes the beauty of the whole thing.", "start": 1707.8799999999999, "end": 1711.52}
+{"id": "CgYogW-69PI-t1711.52", "text": "On the other hand, there is another view which says, why?", "start": 1711.52, "end": 1714.9599999999998}
+{"id": "CgYogW-69PI-t1714.9599999999998", "text": "Why would it do that?", "start": 1714.9599999999998, "end": 1716.4799999999998}
+{"id": "CgYogW-69PI-t1716.48", "text": "The object that you saw before is still exactly as formidable as it was before in some ways.", "start": 1716.48, "end": 1725.24}
+{"id": "CgYogW-69PI-t1725.24", "text": "But now, having asked these questions, you have a deeper insight into the phenomena that", "start": 1725.24, "end": 1731.32}
+{"id": "CgYogW-69PI-t1731.32", "text": "you admired before.", "start": 1731.32, "end": 1733.32}
+{"id": "CgYogW-69PI-t1733.32", "text": "Will the knowledge somehow diminish the beauty of the object?", "start": 1733.32, "end": 1739.0}
+{"id": "CgYogW-69PI-t1739.0", "text": "Now that's something that many people think is what happens.", "start": 1739.0, "end": 1743.88}
+{"id": "CgYogW-69PI-t1743.88", "text": "What is to say, you see this sunset, it's so beautiful, but once you begin to ask, well,", "start": 1743.88, "end": 1750.0}
+{"id": "CgYogW-69PI-t1750.0", "text": "what's the spectrum of the sunset, you know what angle is the sunsetting, etc.", "start": 1750.0, "end": 1754.8000000000002}
+{"id": "CgYogW-69PI-t1754.8000000000002", "text": "It somehow seems to become mundane, but I don't see that that's how it should be treated", "start": 1754.8000000000002, "end": 1759.2800000000002}
+{"id": "CgYogW-69PI-t1759.2800000000002", "text": "at all.", "start": 1759.2800000000002, "end": 1760.2800000000002}
+{"id": "CgYogW-69PI-t1760.2800000000002", "text": "So in fact, there is a speech pattern which you might abstractly admire, but once you", "start": 1760.2800000000002, "end": 1765.5600000000002}
+{"id": "CgYogW-69PI-t1765.5600000000002", "text": "somehow make a pattern out of it, you begin to say, is this what it is, and then you somehow", "start": 1765.5600000000002, "end": 1771.2}
+{"id": "CgYogW-69PI-t1771.2", "text": "lose interest or lose your ability to relate to the mystery that you had before?", "start": 1771.2, "end": 1778.8}
+{"id": "CgYogW-69PI-t1778.8", "text": "And to me, that somehow looks even though I was not terribly impressed and I raised my", "start": 1778.8, "end": 1784.04}
+{"id": "CgYogW-69PI-t1784.04", "text": "hand for the second category, I think the fact that you somehow make it more concrete,", "start": 1784.04, "end": 1791.44}
+{"id": "CgYogW-69PI-t1791.44", "text": "make it more understandable, make it more more expressible in terms of quantitative things,", "start": 1791.44, "end": 1798.28}
+{"id": "CgYogW-69PI-t1798.28", "text": "does not diminish the beauty of anything as I know.", "start": 1798.28, "end": 1801.44}
+{"id": "CgYogW-69PI-t1801.44", "text": "That's my personal prejudice.", "start": 1801.44, "end": 1803.68}
+{"id": "CgYogW-69PI-t1803.68", "text": "My sense is depends on the teacher.", "start": 1803.68, "end": 1806.72}
+{"id": "CgYogW-69PI-t1806.72", "text": "So many of the works here were produced by physicists and I am reasonably sure that they", "start": 1806.72, "end": 1815.28}
+{"id": "CgYogW-69PI-t1815.28", "text": "love physics and that the more they study physics, physics doesn't become less interesting", "start": 1815.28, "end": 1820.52}
+{"id": "CgYogW-69PI-t1820.52", "text": "or less attractive by the process of study.", "start": 1820.52, "end": 1823.8799999999999}
+{"id": "CgYogW-69PI-t1823.8799999999999", "text": "But there are some teachers who kill topics.", "start": 1823.8799999999999, "end": 1826.52}
+{"id": "CgYogW-69PI-t1826.52", "text": "In fact, what I was told as a graduate student was the purpose of you writing a paper is", "start": 1826.52, "end": 1835.56}
+{"id": "CgYogW-69PI-t1835.56", "text": "not to kill the field and that is to say, not say the last word on it, but actually", "start": 1835.56, "end": 1840.6}
+{"id": "CgYogW-69PI-t1840.6", "text": "to enhance the interest of others so it could be carried on further.", "start": 1840.6, "end": 1846.08}
+{"id": "CgYogW-69PI-t1846.08", "text": "So I think you are absolutely right.", "start": 1846.08, "end": 1848.72}
+{"id": "CgYogW-69PI-t1848.72", "text": "Some teachers can kill the interest, somehow present it as a finished product and then", "start": 1848.72, "end": 1854.48}
+{"id": "CgYogW-69PI-t1854.48", "text": "you have no interest in it anymore.", "start": 1854.48, "end": 1856.56}
+{"id": "CgYogW-69PI-t1856.56", "text": "I think that comes back to maybe what I was saying a little earlier about this kind of", "start": 1856.56, "end": 1861.84}
+{"id": "CgYogW-69PI-t1861.84", "text": "knowledge formation around the topic, going to the teacher or even the beauty found in", "start": 1861.84, "end": 1869.48}
+{"id": "CgYogW-69PI-t1869.48", "text": "the data, the quantitative data.", "start": 1869.48, "end": 1872.0}
+{"id": "CgYogW-69PI-t1872.0", "text": "And there's, I think the artists and I think what Raphael and some of these other artists", "start": 1872.0, "end": 1879.0}
+{"id": "CgYogW-69PI-t1879.0", "text": "are trying to do is essentially calibrate that quantitative information towards beauty", "start": 1879.0, "end": 1886.72}
+{"id": "CgYogW-69PI-t1886.72", "text": "again.", "start": 1886.72, "end": 1887.72}
+{"id": "CgYogW-69PI-t1887.72", "text": "So it starts as a phenomena, it gets removed from the phenomena into the numbers, numbers", "start": 1887.72, "end": 1895.56}
+{"id": "CgYogW-69PI-t1895.56", "text": "and then there's these kind of calibration techniques that are really specific to the", "start": 1895.56, "end": 1900.76}
+{"id": "CgYogW-69PI-t1900.76", "text": "artists and those experiments and calibration of resurrecting the beauty back out of the", "start": 1900.76, "end": 1908.16}
+{"id": "CgYogW-69PI-t1908.16", "text": "data to be experienced isn't going to kill the looking at a sunset.", "start": 1908.16, "end": 1918.48}
+{"id": "CgYogW-69PI-t1918.48", "text": "Even if you take a photograph of a sunset, that can never explain what you're actually", "start": 1918.48, "end": 1922.84}
+{"id": "CgYogW-69PI-t1922.84", "text": "seeing any photograph or any painting compared to what you're seeing and with your naked", "start": 1922.84, "end": 1928.8}
+{"id": "CgYogW-69PI-t1928.8", "text": "eye.", "start": 1928.8, "end": 1929.8}
+{"id": "CgYogW-69PI-t1929.8", "text": "And for me it goes back to this kind of human or naked eye observation of being able to", "start": 1929.8, "end": 1936.36}
+{"id": "CgYogW-69PI-t1936.36", "text": "look at a phenomena.", "start": 1936.36, "end": 1938.44}
+{"id": "CgYogW-69PI-t1938.44", "text": "There is the, you made a point that somehow there is an abstraction of something that", "start": 1938.44, "end": 1946.04}
+{"id": "CgYogW-69PI-t1946.04", "text": "is a workative and that's what the artists seem to work on.", "start": 1946.04, "end": 1951.84}
+{"id": "CgYogW-69PI-t1951.84", "text": "The point is that that's the kind of freedom that a scientist probably does not have in", "start": 1951.84, "end": 1957.8}
+{"id": "CgYogW-69PI-t1957.8", "text": "some sense.", "start": 1957.8, "end": 1958.96}
+{"id": "CgYogW-69PI-t1958.96", "text": "So you might say therefore they are somewhat different that is to say the abstractions", "start": 1958.96, "end": 1964.32}
+{"id": "CgYogW-69PI-t1964.32", "text": "should still in science satisfy certain rules which we think are all right.", "start": 1964.32, "end": 1972.8400000000001}
+{"id": "CgYogW-69PI-t1972.8400000000001", "text": "Now this constraint somehow is the heart of the matter of the distinction between these", "start": 1972.8400000000001, "end": 1979.2}
+{"id": "CgYogW-69PI-t1979.2", "text": "two activities.", "start": 1979.2, "end": 1984.04}
+{"id": "CgYogW-69PI-t1984.04", "text": "Now I'm not sure that if you train yourself a little bit that this requirement or the", "start": 1984.04, "end": 1990.8}
+{"id": "CgYogW-69PI-t1990.8", "text": "constraint that you have certain loss that you have to obey in how you abstract things", "start": 1990.8, "end": 1995.8799999999999}
+{"id": "CgYogW-69PI-t1995.8799999999999", "text": "and how you describe them and all that.", "start": 1995.8799999999999, "end": 1999.28}
+{"id": "CgYogW-69PI-t1999.28", "text": "I'm not sure that it should diminish the beauty of the enterprise.", "start": 1999.28, "end": 2004.68}
+{"id": "CgYogW-69PI-t2004.68", "text": "That's my own thinking on this.", "start": 2004.68, "end": 2008.04}
+{"id": "CgYogW-69PI-t2008.04", "text": "But I know a lot of people think that the fact that you are constrained somehow, the", "start": 2008.04, "end": 2013.02}
+{"id": "CgYogW-69PI-t2013.02", "text": "fact that you do not, you cannot write down any arbitrary equation or something like that,", "start": 2013.02, "end": 2022.2}
+{"id": "CgYogW-69PI-t2022.2", "text": "we will somehow kill the originality, creativity, beauty, etc.", "start": 2022.2, "end": 2027.6}
+{"id": "CgYogW-69PI-t2027.6", "text": "On the other hand the fact that you can describe something in nature in some quantitative ways", "start": 2027.6, "end": 2034.16}
+{"id": "CgYogW-69PI-t2034.16", "text": "is such an extraordinary phenomenon.", "start": 2034.16, "end": 2037.16}
+{"id": "CgYogW-69PI-t2037.16", "text": "We have no right to doing any of those things.", "start": 2037.16, "end": 2039.44}
+{"id": "CgYogW-69PI-t2039.44", "text": "I mean we are humans, we somehow we seem to comprehend everything that goes beyond us,", "start": 2039.44, "end": 2046.16}
+{"id": "CgYogW-69PI-t2046.16", "text": "the universe.", "start": 2046.16, "end": 2047.88}
+{"id": "CgYogW-69PI-t2047.88", "text": "How can we, tiny specks of dust in the universe, can comprehend something so universal, so", "start": 2047.88, "end": 2056.12}
+{"id": "CgYogW-69PI-t2056.12", "text": "large and so inspiring.", "start": 2056.12, "end": 2058.52}
+{"id": "CgYogW-69PI-t2058.52", "text": "So to me it actually enhances and adds beauty to the whole thing rather than diminish it.", "start": 2058.52, "end": 2067.44}
+{"id": "CgYogW-69PI-t2067.44", "text": "I can say how beautiful is this but then you want to really go a little bit deeper, a little", "start": 2067.44, "end": 2073.2400000000002}
+{"id": "CgYogW-69PI-t2073.2400000000002", "text": "understand a little bit more.", "start": 2073.2400000000002, "end": 2075.32}
+{"id": "CgYogW-69PI-t2075.32", "text": "Why does it diminish anything?", "start": 2075.32, "end": 2076.76}
+{"id": "CgYogW-69PI-t2076.76", "text": "Why does it diminish the sunset?", "start": 2076.76, "end": 2078.56}
+{"id": "CgYogW-69PI-t2078.56", "text": "I mean that's one position let's say, one I take just because you said one of us should", "start": 2078.56, "end": 2087.92}
+{"id": "CgYogW-69PI-t2087.92", "text": "agree.", "start": 2087.92, "end": 2088.92}
+{"id": "CgYogW-69PI-t2088.92", "text": "I can bring up an example of maybe a funny example that everyone can relate to.", "start": 2088.92, "end": 2093.52}
+{"id": "CgYogW-69PI-t2093.52", "text": "So when in 1972 we had the- Were you born at that time?", "start": 2093.52, "end": 2101.08}
+{"id": "CgYogW-69PI-t2101.08", "text": "Not yet, I was making it some way.", "start": 2101.08, "end": 2104.64}
+{"id": "CgYogW-69PI-t2104.64", "text": "So we're all familiar with the view of Earth from space, Blue Marble.", "start": 2104.64, "end": 2111.28}
+{"id": "CgYogW-69PI-t2111.28", "text": "That was a photograph that was taken by astronauts on Apollo 17, no, 11.", "start": 2111.28, "end": 2122.4}
+{"id": "CgYogW-69PI-t2122.4", "text": "So I'm not following that.", "start": 2122.4, "end": 2124.4}
+{"id": "CgYogW-69PI-t2124.4", "text": "Yes, sorry about fact, but anyway the point is that this single image of Earth was taken", "start": 2124.4, "end": 2131.64}
+{"id": "CgYogW-69PI-t2131.64", "text": "by a camera, set back down and the intent of the image wasn't by the astronauts to just", "start": 2131.64, "end": 2140.92}
+{"id": "CgYogW-69PI-t2140.92", "text": "take this grand image of the Earth that we knew it at that time and still know it.", "start": 2140.92, "end": 2150.4}
+{"id": "CgYogW-69PI-t2150.4", "text": "It wasn't part of the mission plan.", "start": 2150.4, "end": 2151.6800000000003}
+{"id": "CgYogW-69PI-t2151.68", "text": "So they took this photograph.", "start": 2151.68, "end": 2153.56}
+{"id": "CgYogW-69PI-t2153.56", "text": "It came back down and NASA flipped it.", "start": 2153.56, "end": 2158.3599999999997}
+{"id": "CgYogW-69PI-t2158.3599999999997", "text": "So I guess when it originally arrived on the film it was taken with the South Pole, basically", "start": 2158.3599999999997, "end": 2164.56}
+{"id": "CgYogW-69PI-t2164.56", "text": "not.", "start": 2164.56, "end": 2165.56}
+{"id": "CgYogW-69PI-t2165.56", "text": "So they flipped it and then they color corrected it a little bit and then that got put out", "start": 2165.56, "end": 2169.44}
+{"id": "CgYogW-69PI-t2169.44", "text": "into the world.", "start": 2169.44, "end": 2170.96}
+{"id": "CgYogW-69PI-t2170.96", "text": "And that had an effect on the astronauts who saw it and other people who have been in space,", "start": 2170.96, "end": 2178.3199999999997}
+{"id": "CgYogW-69PI-t2178.32", "text": "the overview effect, some emotional kind of shift that happens by looking at something", "start": 2178.32, "end": 2184.8}
+{"id": "CgYogW-69PI-t2184.8", "text": "from afar.", "start": 2184.8, "end": 2185.8}
+{"id": "CgYogW-69PI-t2185.8", "text": "But it can also happen to people who just see the photograph.", "start": 2185.8, "end": 2188.6000000000004}
+{"id": "CgYogW-69PI-t2188.6000000000004", "text": "So that's kind of one example of a phenomenon.", "start": 2188.6000000000004, "end": 2191.2400000000002}
+{"id": "CgYogW-69PI-t2191.2400000000002", "text": "Maybe there's like an emotional addition to this.", "start": 2191.2400000000002, "end": 2193.84}
+{"id": "CgYogW-69PI-t2193.84", "text": "We don't have access to that phenomenon with our own eyes.", "start": 2193.84, "end": 2197.6800000000003}
+{"id": "CgYogW-69PI-t2197.6800000000003", "text": "It comes through a camera.", "start": 2197.6800000000003, "end": 2199.52}
+{"id": "CgYogW-69PI-t2199.52", "text": "So that's one example where it's like a surprise that happens with the technology and the science", "start": 2199.52, "end": 2207.1600000000003}
+{"id": "CgYogW-69PI-t2207.16", "text": "and the instruments that allowed us to take this image.", "start": 2207.16, "end": 2210.52}
+{"id": "CgYogW-69PI-t2210.52", "text": "And people by just seeing this had emotional surprising reaction.", "start": 2210.52, "end": 2216.64}
+{"id": "CgYogW-69PI-t2216.64", "text": "It was maybe mirroring what the astronauts were feeling or if they've learned about this", "start": 2216.64, "end": 2220.72}
+{"id": "CgYogW-69PI-t2220.72", "text": "feeling, that there's no borders.", "start": 2220.72, "end": 2223.72}
+{"id": "CgYogW-69PI-t2223.72", "text": "There's this kind of Earth, not from space, but Earth in space and how that image could", "start": 2223.72, "end": 2231.24}
+{"id": "CgYogW-69PI-t2231.24", "text": "have an impact.", "start": 2231.24, "end": 2232.44}
+{"id": "CgYogW-69PI-t2232.44", "text": "So I think that's like one example.", "start": 2232.44, "end": 2234.44}
+{"id": "CgYogW-69PI-t2234.44", "text": "And I was stunningly beautiful, yes, I agree.", "start": 2234.44, "end": 2237.36}
+{"id": "CgYogW-69PI-t2237.36", "text": "And the way it was, the trip it was doing on your mind was part of it, yes.", "start": 2237.36, "end": 2241.96}
+{"id": "CgYogW-69PI-t2241.96", "text": "Yeah.", "start": 2241.96, "end": 2242.96}
+{"id": "CgYogW-69PI-t2242.96", "text": "So I do think that there is potential to have these dramatic emotional experiences through", "start": 2242.96, "end": 2250.92}
+{"id": "CgYogW-69PI-t2250.92", "text": "just one image.", "start": 2250.92, "end": 2252.56}
+{"id": "CgYogW-69PI-t2252.56", "text": "We're showing people something that they thought they knew in a strange way.", "start": 2252.56, "end": 2258.4}
+{"id": "CgYogW-69PI-t2258.4", "text": "It doesn't look like the toy worlds we grew up with.", "start": 2258.4, "end": 2262.68}
+{"id": "CgYogW-69PI-t2262.68", "text": "And we thought we knew the planet and then we realized that all the political lines are", "start": 2262.68, "end": 2266.24}
+{"id": "CgYogW-69PI-t2266.24", "text": "missing.", "start": 2266.24, "end": 2267.24}
+{"id": "CgYogW-69PI-t2267.24", "text": "We didn't know the planet.", "start": 2267.24, "end": 2268.24}
+{"id": "CgYogW-69PI-t2268.24", "text": "Yeah, that's a question of scale.", "start": 2268.24, "end": 2269.24}
+{"id": "CgYogW-69PI-t2269.24", "text": "And that's the same thing with a lot of these things.", "start": 2269.24, "end": 2271.7999999999997}
+{"id": "CgYogW-69PI-t2271.7999999999997", "text": "It's like, you can say, you think you know the ocean, but I'm going to show you a different", "start": 2271.7999999999997, "end": 2276.3199999999997}
+{"id": "CgYogW-69PI-t2276.3199999999997", "text": "way that I know the ocean or the web or that I've instrumented the ocean or that I've experienced", "start": 2276.3199999999997, "end": 2281.7999999999997}
+{"id": "CgYogW-69PI-t2281.7999999999997", "text": "the ocean.", "start": 2281.7999999999997, "end": 2282.7999999999997}
+{"id": "CgYogW-69PI-t2282.7999999999997", "text": "I think I know how speech works, but I don't actually know how speech works at all.", "start": 2282.7999999999997, "end": 2288.48}
+{"id": "CgYogW-69PI-t2288.48", "text": "Like this whole like, which way do you come in on a problem?", "start": 2288.48, "end": 2294.32}
+{"id": "CgYogW-69PI-t2294.32", "text": "I don't know.", "start": 2294.32, "end": 2295.32}
+{"id": "CgYogW-69PI-t2295.32", "text": "I always think it's really interesting trying to figure out these categories.", "start": 2295.32, "end": 2298.56}
+{"id": "CgYogW-69PI-t2298.56", "text": "I was trained as a musician.", "start": 2298.56, "end": 2300.52}
+{"id": "CgYogW-69PI-t2300.52", "text": "So John Cage has this kind of canny riff that just music is just organized sound.", "start": 2300.52, "end": 2307.88}
+{"id": "CgYogW-69PI-t2307.88", "text": "But another way of saying it is the complete opposite of it has nothing to do with sound.", "start": 2307.88, "end": 2312.88}
+{"id": "CgYogW-69PI-t2312.88", "text": "Music is emotionally manipulating people with physics algorithms and data.", "start": 2312.88, "end": 2317.88}
+{"id": "CgYogW-69PI-t2317.88", "text": "It has nothing to do with anything with your ears.", "start": 2317.88, "end": 2320.0}
+{"id": "CgYogW-69PI-t2320.0", "text": "So like at the micro level instruments or physics, you know, there's things that weren't", "start": 2320.0, "end": 2325.0}
+{"id": "CgYogW-69PI-t2325.0", "text": "running on physics, then we like sort of add keys and chords and scales as our algorithms.", "start": 2325.0, "end": 2329.92}
+{"id": "CgYogW-69PI-t2329.92", "text": "Then at the macro level, you have a whole piece as an information stream.", "start": 2329.92, "end": 2334.0}
+{"id": "CgYogW-69PI-t2334.0", "text": "So you can make music in a million different ways that have nothing to do with your ears", "start": 2334.0, "end": 2339.36}
+{"id": "CgYogW-69PI-t2339.36", "text": "if you can just sort of change the terms of the definition.", "start": 2339.36, "end": 2343.04}
+{"id": "CgYogW-69PI-t2343.04", "text": "And that's what I think is always exciting about this work.", "start": 2343.04, "end": 2345.08}
+{"id": "CgYogW-69PI-t2345.08", "text": "That's when Rico and I first met, I really enjoyed hearing him riff about the physics", "start": 2345.08, "end": 2353.72}
+{"id": "CgYogW-69PI-t2353.72", "text": "research you work on because you were talking to me about how it sounds.", "start": 2353.72, "end": 2357.84}
+{"id": "CgYogW-69PI-t2357.84", "text": "Do you remember this?", "start": 2357.84, "end": 2359.92}
+{"id": "CgYogW-69PI-t2359.92", "text": "You're talking about the spiracles and they make cracking noises.", "start": 2359.92, "end": 2363.48}
+{"id": "CgYogW-69PI-t2363.48", "text": "Oh, yeah.", "start": 2363.48, "end": 2364.48}
+{"id": "CgYogW-69PI-t2364.48", "text": "Yeah, and you were showing me this video.", "start": 2364.48, "end": 2367.12}
+{"id": "CgYogW-69PI-t2367.12", "text": "And I was like, oh, that's amazing.", "start": 2367.12, "end": 2369.08}
+{"id": "CgYogW-69PI-t2369.08", "text": "There's like this little like Janus is an achus piece in every stream of helium.", "start": 2369.08, "end": 2375.24}
+{"id": "CgYogW-69PI-t2375.24", "text": "And like if you could just get that out of there, we could like make some kind of crazy,", "start": 2375.24, "end": 2380.44}
+{"id": "CgYogW-69PI-t2380.44", "text": "you know, I don't know, thing that they could really evoke it.", "start": 2380.44, "end": 2384.12}
+{"id": "CgYogW-69PI-t2384.12", "text": "I don't know.", "start": 2384.12, "end": 2385.12}
+{"id": "CgYogW-69PI-t2385.12", "text": "And maybe I could remark on your comment on music.", "start": 2385.12, "end": 2389.96}
+{"id": "CgYogW-69PI-t2389.96", "text": "Music is, you said is organized sound.", "start": 2389.96, "end": 2393.36}
+{"id": "CgYogW-69PI-t2393.36", "text": "In some way, it's not the organization at all that matters, which also you said.", "start": 2393.36, "end": 2398.96}
+{"id": "CgYogW-69PI-t2398.96", "text": "But I want to say it in a different way.", "start": 2398.96, "end": 2402.28}
+{"id": "CgYogW-69PI-t2402.28", "text": "It's how different parts of music relate to the other parts.", "start": 2402.28, "end": 2406.2}
+{"id": "CgYogW-69PI-t2406.2", "text": "How an part really relates to the integral whole.", "start": 2406.2, "end": 2410.56}
+{"id": "CgYogW-69PI-t2410.56", "text": "That's what really is important in science to it is not the individual facts that are", "start": 2410.56, "end": 2415.28}
+{"id": "CgYogW-69PI-t2415.28", "text": "important.", "start": 2415.28, "end": 2416.28}
+{"id": "CgYogW-69PI-t2416.28", "text": "It's how they relate to each other.", "start": 2416.28, "end": 2418.2400000000002}
+{"id": "CgYogW-69PI-t2418.2400000000002", "text": "And that's without really relating to each other.", "start": 2418.2400000000002, "end": 2420.96}
+{"id": "CgYogW-69PI-t2420.96", "text": "It's really just an isolated fact.", "start": 2420.96, "end": 2422.92}
+{"id": "CgYogW-69PI-t2422.92", "text": "And that's not of any consequence in terms of, in terms we are discussing.", "start": 2422.92, "end": 2429.28}
+{"id": "CgYogW-69PI-t2429.28", "text": "So one definition of beauty would be how each, this is Heisenberg who said this.", "start": 2429.28, "end": 2435.88}
+{"id": "CgYogW-69PI-t2435.88", "text": "How one part relates to the next part and to the whole.", "start": 2435.88, "end": 2442.12}
+{"id": "CgYogW-69PI-t2442.12", "text": "And that's really what music is, why it is special.", "start": 2442.12, "end": 2446.48}
+{"id": "CgYogW-69PI-t2446.48", "text": "After all the notes are not that complicated.", "start": 2446.48, "end": 2449.4}
+{"id": "CgYogW-69PI-t2449.4", "text": "And I value if you listen to Mozart, it's a very different type of thing.", "start": 2449.4, "end": 2456.52}
+{"id": "CgYogW-69PI-t2456.52", "text": "Well conversation seems to have been more laminar than turbulence.", "start": 2456.52, "end": 2459.44}
+{"id": "CgYogW-69PI-t2459.44", "text": "So I'm wondering if maybe we could transition to talking a bit more about the turbulence", "start": 2459.44, "end": 2467.6800000000003}
+{"id": "CgYogW-69PI-t2467.6800000000003", "text": "that these projects also.", "start": 2467.6800000000003, "end": 2469.52}
+{"id": "CgYogW-69PI-t2469.52", "text": "You say something and decline laminar.", "start": 2469.52, "end": 2471.8}
+{"id": "CgYogW-69PI-t2471.8", "text": "Okay.", "start": 2471.8, "end": 2472.8}
+{"id": "CgYogW-69PI-t2472.8", "text": "Well we can start from the world actually also related to the project that was.", "start": 2472.8, "end": 2477.92}
+{"id": "CgYogW-69PI-t2477.92", "text": "That we are working on right now.", "start": 2477.92, "end": 2480.2400000000002}
+{"id": "CgYogW-69PI-t2480.2400000000002", "text": "We are looking at it right now.", "start": 2480.2400000000002, "end": 2481.52}
+{"id": "CgYogW-69PI-t2481.52", "text": "And it's about the confusion and creation about turbulence.", "start": 2481.52, "end": 2485.7200000000003}
+{"id": "CgYogW-69PI-t2485.7200000000003", "text": "So the turbulence comes from the Latin verb, verb, turbo, which means to agitate, throw", "start": 2485.7200000000003, "end": 2491.0}
+{"id": "CgYogW-69PI-t2491.0", "text": "into confusion.", "start": 2491.0, "end": 2492.76}
+{"id": "CgYogW-69PI-t2492.76", "text": "And we use for the first time by, first time by federal in his lupus and agnus, fable to", "start": 2492.76, "end": 2500.0}
+{"id": "CgYogW-69PI-t2500.0", "text": "describe the water stirred up by the lamb that's equinated, polluted the water by,", "start": 2500.0, "end": 2508.04}
+{"id": "CgYogW-69PI-t2508.04", "text": "out to the wolf.", "start": 2508.04, "end": 2510.12}
+{"id": "CgYogW-69PI-t2510.12", "text": "But then was used by Lnerald Ravinche to describe the turbulence actually of water.", "start": 2510.12, "end": 2514.72}
+{"id": "CgYogW-69PI-t2514.72", "text": "And was said, the turbulence was the word describing it.", "start": 2514.72, "end": 2519.0}
+{"id": "CgYogW-69PI-t2519.0", "text": "And he actually was one of the first one really getting some big insights about the turbulence.", "start": 2519.0, "end": 2525.44}
+{"id": "CgYogW-69PI-t2525.44", "text": "And again, turbulence something that's chaotic, random, and it's the motion of fluid.", "start": 2525.44, "end": 2536.2400000000002}
+{"id": "CgYogW-69PI-t2536.2400000000002", "text": "And he compared the motion of the fluid to the motion of hair.", "start": 2536.2400000000002, "end": 2541.96}
+{"id": "CgYogW-69PI-t2541.96", "text": "And he painted all these nice vortices and described a cascade of vortices, it goes from", "start": 2541.96, "end": 2549.2000000000003}
+{"id": "CgYogW-69PI-t2549.2000000000003", "text": "the large scale to the small scale.", "start": 2549.2000000000003, "end": 2551.64}
+{"id": "CgYogW-69PI-t2551.64", "text": "And so he had the profound insight also just by observing it.", "start": 2551.64, "end": 2555.68}
+{"id": "CgYogW-69PI-t2555.68", "text": "And he also put some very important questions regarding the nature of turbulence, the creation", "start": 2555.68, "end": 2559.8399999999997}
+{"id": "CgYogW-69PI-t2559.8399999999997", "text": "of turbulence, how it maintains and how it decays that are still open.", "start": 2559.8399999999997, "end": 2565.24}
+{"id": "CgYogW-69PI-t2565.24", "text": "You want to?", "start": 2565.24, "end": 2568.04}
+{"id": "CgYogW-69PI-t2568.04", "text": "Yeah.", "start": 2568.04, "end": 2569.44}
+{"id": "CgYogW-69PI-t2569.44", "text": "You will remember this question.", "start": 2569.44, "end": 2574.2}
+{"id": "CgYogW-69PI-t2574.2", "text": "Who will read this turbulent priest?", "start": 2574.2, "end": 2577.16}
+{"id": "CgYogW-69PI-t2577.16", "text": "Oh, remember this, who will read me of this turbulent priest?", "start": 2577.16, "end": 2582.16}
+{"id": "CgYogW-69PI-t2582.16", "text": "Yeah, who was this guy?", "start": 2582.16, "end": 2585.12}
+{"id": "CgYogW-69PI-t2585.12", "text": "That's the first use of the work turbulent, as well.", "start": 2585.12, "end": 2588.24}
+{"id": "CgYogW-69PI-t2588.24", "text": "You remember this in the cathedral.", "start": 2588.24, "end": 2591.2799999999997}
+{"id": "CgYogW-69PI-t2591.2799999999997", "text": "Is it?", "start": 2591.2799999999997, "end": 2593.2799999999997}
+{"id": "CgYogW-69PI-t2593.2799999999997", "text": "It's referring to Thomas Moore.", "start": 2593.2799999999997, "end": 2595.48}
+{"id": "CgYogW-69PI-t2595.48", "text": "Yeah.", "start": 2595.48, "end": 2596.48}
+{"id": "CgYogW-69PI-t2596.48", "text": "Now it's before Thomas Moore, it's his Henry, it's King Henry.", "start": 2596.48, "end": 2599.12}
+{"id": "CgYogW-69PI-t2599.12", "text": "Yeah, he's something, something number.", "start": 2599.12, "end": 2601.72}
+{"id": "CgYogW-69PI-t2601.72", "text": "Yeah.", "start": 2601.72, "end": 2602.72}
+{"id": "CgYogW-69PI-t2602.72", "text": "This is a priest that he got, he really killed and Peter or two actually played the role", "start": 2602.72, "end": 2611.7599999999998}
+{"id": "CgYogW-69PI-t2611.7599999999998", "text": "of Henry.", "start": 2611.7599999999998, "end": 2614.2799999999997}
+{"id": "CgYogW-69PI-t2614.2799999999997", "text": "And then what's this other guy who was, at least Taylor's husband twice, I forget his", "start": 2614.2799999999997, "end": 2620.7599999999998}
+{"id": "CgYogW-69PI-t2620.7599999999998", "text": "name.", "start": 2620.7599999999998, "end": 2621.7599999999998}
+{"id": "CgYogW-69PI-t2621.7599999999998", "text": "Yeah, Richard Burton.", "start": 2621.7599999999998, "end": 2623.7599999999998}
+{"id": "CgYogW-69PI-t2623.7599999999998", "text": "Richard Burton?", "start": 2623.7599999999998, "end": 2624.7599999999998}
+{"id": "CgYogW-69PI-t2624.7599999999998", "text": "Yeah, yeah, he played the role of the priest.", "start": 2624.7599999999998, "end": 2628.0}
+{"id": "CgYogW-69PI-t2628.0", "text": "So who will read this?", "start": 2628.0, "end": 2630.0}
+{"id": "CgYogW-69PI-t2630.0", "text": "Thomas Beckett.", "start": 2630.0, "end": 2631.0}
+{"id": "CgYogW-69PI-t2631.0", "text": "Thomas Beckett.", "start": 2631.0, "end": 2632.0}
+{"id": "CgYogW-69PI-t2632.0", "text": "Oh, sorry.", "start": 2632.0, "end": 2633.0}
+{"id": "CgYogW-69PI-t2633.0", "text": "Yeah, yeah, yeah, same idea.", "start": 2633.0, "end": 2635.32}
+{"id": "CgYogW-69PI-t2635.32", "text": "Yeah, yeah, that's the priest who get whacked because they talk up to the kings, right?", "start": 2635.32, "end": 2641.12}
+{"id": "CgYogW-69PI-t2641.12", "text": "So that's the, yeah.", "start": 2641.12, "end": 2642.24}
+{"id": "CgYogW-69PI-t2642.24", "text": "So for us, white turbulence is really important is this as I see it.", "start": 2642.24, "end": 2649.2}
+{"id": "CgYogW-69PI-t2649.2", "text": "Physics has generally, for a very long time, taken one object at a time like, for example,", "start": 2649.2, "end": 2656.56}
+{"id": "CgYogW-69PI-t2656.56", "text": "an atom or an electron in controlled circumstances and has studied its properties.", "start": 2656.56, "end": 2663.4}
+{"id": "CgYogW-69PI-t2663.4", "text": "And you can measure, let's say, the charge on the electron to, I don't know, 10 days,", "start": 2663.4, "end": 2667.88}
+{"id": "CgYogW-69PI-t2667.88", "text": "no place, whatever number that is.", "start": 2667.88, "end": 2671.72}
+{"id": "CgYogW-69PI-t2671.72", "text": "But it, so that's how physics has really gone for many, many years.", "start": 2671.72, "end": 2679.08}
+{"id": "CgYogW-69PI-t2679.08", "text": "But it turns out that when you cannot isolate objects, but the objects begin to interact", "start": 2679.08, "end": 2685.2}
+{"id": "CgYogW-69PI-t2685.2", "text": "with each other, then it becomes extremely complicated.", "start": 2685.2, "end": 2690.24}
+{"id": "CgYogW-69PI-t2690.24", "text": "And this is how chaos came into being, for instance, when, let's say, three objects interact", "start": 2690.24, "end": 2696.64}
+{"id": "CgYogW-69PI-t2696.64", "text": "with each other, you can no longer predict how their evolution takes place in long term.", "start": 2696.64, "end": 2704.16}
+{"id": "CgYogW-69PI-t2704.16", "text": "So, turbulence, the essence of the phenomenon is really interaction.", "start": 2704.16, "end": 2708.08}
+{"id": "CgYogW-69PI-t2708.08", "text": "Interaction among its constituent matter, which could be vortices, like Enrico said,", "start": 2708.08, "end": 2715.36}
+{"id": "CgYogW-69PI-t2715.36", "text": "it could be whatever else.", "start": 2715.36, "end": 2717.7999999999997}
+{"id": "CgYogW-69PI-t2717.7999999999997", "text": "So in reality, most of what we observe around us is really interaction among many components.", "start": 2717.7999999999997, "end": 2725.56}
+{"id": "CgYogW-69PI-t2725.56", "text": "Humans interact with each other, government interacts with the citizens in some way, businesses", "start": 2725.56, "end": 2731.44}
+{"id": "CgYogW-69PI-t2731.44", "text": "interact, financial markets are interacting.", "start": 2731.44, "end": 2733.96}
+{"id": "CgYogW-69PI-t2733.96", "text": "They're all the results of some interactions.", "start": 2733.96, "end": 2736.68}
+{"id": "CgYogW-69PI-t2736.68", "text": "So the real question is, when these things interact in some complicated way like that,", "start": 2736.68, "end": 2743.3599999999997}
+{"id": "CgYogW-69PI-t2743.3599999999997", "text": "is there some fundamental truth behind these interactions?", "start": 2743.3599999999997, "end": 2749.52}
+{"id": "CgYogW-69PI-t2749.52", "text": "If I, it may be statistical in nature or somehow or the other, that will transcend the real", "start": 2749.52, "end": 2756.3199999999997}
+{"id": "CgYogW-69PI-t2756.3199999999997", "text": "specific details of the phenomena you're looking at.", "start": 2756.3199999999997, "end": 2760.56}
+{"id": "CgYogW-69PI-t2760.56", "text": "Would the finance markets have some properties that transcend the details of the financial", "start": 2760.56, "end": 2767.72}
+{"id": "CgYogW-69PI-t2767.72", "text": "market and would relate to what, let's say, a flow of turbulent motion of fluid as.", "start": 2767.72, "end": 2774.32}
+{"id": "CgYogW-69PI-t2774.32", "text": "So, that's the question.", "start": 2774.32, "end": 2775.7999999999997}
+{"id": "CgYogW-69PI-t2775.7999999999997", "text": "So the ultimate question for many of us who work in this field is really to discover within", "start": 2775.7999999999997, "end": 2781.88}
+{"id": "CgYogW-69PI-t2781.88", "text": "quotation marks, if there are such rules that transcend the specific details of the constituents", "start": 2781.88, "end": 2788.48}
+{"id": "CgYogW-69PI-t2788.48", "text": "that interact with each other.", "start": 2788.48, "end": 2790.92}
+{"id": "CgYogW-69PI-t2790.92", "text": "And if it is, if that is the case, that would be spectacular.", "start": 2790.92, "end": 2795.88}
+{"id": "CgYogW-69PI-t2795.88", "text": "I don't know that that is the case.", "start": 2795.88, "end": 2797.72}
+{"id": "CgYogW-69PI-t2797.72", "text": "Each time we think we have some understanding of this universal aspects of it, we take one", "start": 2797.72, "end": 2804.64}
+{"id": "CgYogW-69PI-t2804.64", "text": "step back and we just find that that's not exactly right.", "start": 2804.64, "end": 2808.68}
+{"id": "CgYogW-69PI-t2808.68", "text": "And so it may well be true that there are at some level, they are probably similar.", "start": 2808.68, "end": 2815.04}
+{"id": "CgYogW-69PI-t2815.04", "text": "If you take the power spectrum of the financial, let's say the signal on the, and from the", "start": 2815.04, "end": 2821.68}
+{"id": "CgYogW-69PI-t2821.68", "text": "Wall Street stock market, it may have some resemblance to turbulence as a matter of fact.", "start": 2821.68, "end": 2827.56}
+{"id": "CgYogW-69PI-t2827.56", "text": "There have been a lot of people who have studied this.", "start": 2827.56, "end": 2831.64}
+{"id": "CgYogW-69PI-t2831.64", "text": "But you go deeper, one step deeper, this mirage of universality somehow disappears.", "start": 2831.64, "end": 2837.68}
+{"id": "CgYogW-69PI-t2837.68", "text": "If it doesn't disappear exactly, but it will say that they are not really exactly the same.", "start": 2837.68, "end": 2844.64}
+{"id": "CgYogW-69PI-t2844.64", "text": "You go one step deeper, you sort of figure out that really they are even more different.", "start": 2844.64, "end": 2850.64}
+{"id": "CgYogW-69PI-t2850.64", "text": "So it's like peeling onion one level at a time.", "start": 2850.64, "end": 2856.04}
+{"id": "CgYogW-69PI-t2856.04", "text": "It looks like you have, okay, you peel one layer and say, okay, the next layer is there,", "start": 2856.04, "end": 2863.04}
+{"id": "CgYogW-69PI-t2863.04", "text": "etc.", "start": 2863.04, "end": 2864.04}
+{"id": "CgYogW-69PI-t2864.04", "text": "But you go to the core, there may be nothing, right?", "start": 2864.04, "end": 2866.7999999999997}
+{"id": "CgYogW-69PI-t2866.7999999999997", "text": "I mean, unlike apple, which has a core, onion maybe doesn't.", "start": 2866.7999999999997, "end": 2873.3599999999997}
+{"id": "CgYogW-69PI-t2873.36", "text": "So the fact is we don't know whether there is such a universal set of rules.", "start": 2873.36, "end": 2880.2400000000002}
+{"id": "CgYogW-69PI-t2880.2400000000002", "text": "But there are indications that there are, but if it is true, that would be a spectacular", "start": 2880.2400000000002, "end": 2885.0}
+{"id": "CgYogW-69PI-t2885.0", "text": "discovery that would really have great consequence intellectually, utilitarian way and everything", "start": 2885.0, "end": 2892.84}
+{"id": "CgYogW-69PI-t2892.84", "text": "else.", "start": 2892.84, "end": 2893.84}
+{"id": "CgYogW-69PI-t2893.84", "text": "That would be why we would study.", "start": 2893.84, "end": 2896.52}
+{"id": "CgYogW-69PI-t2896.52", "text": "Of course, we know if you understand it, we can save fuel on aircraft and make the jets", "start": 2896.52, "end": 2903.52}
+{"id": "CgYogW-69PI-t2903.52", "text": "less noisy and all that.", "start": 2903.52, "end": 2905.64}
+{"id": "CgYogW-69PI-t2905.64", "text": "We understand that too.", "start": 2905.64, "end": 2906.8}
+{"id": "CgYogW-69PI-t2906.8", "text": "I think that's also very important.", "start": 2906.8, "end": 2909.36}
+{"id": "CgYogW-69PI-t2909.36", "text": "But at the bottom, as a person interested in the physics of it, the mathematics of it,", "start": 2909.36, "end": 2915.64}
+{"id": "CgYogW-69PI-t2915.64", "text": "that's really what drives us.", "start": 2915.64, "end": 2918.16}
+{"id": "CgYogW-69PI-t2918.16", "text": "So we write papers on the universality of such and such and next paper we are not so", "start": 2918.16, "end": 2927.0}
+{"id": "CgYogW-69PI-t2927.0", "text": "sure.", "start": 2927.0, "end": 2928.0}
+{"id": "CgYogW-69PI-t2928.0", "text": "So I'm exaggerating a little bit, but that's how it is.", "start": 2928.0, "end": 2936.3999999999996}
+{"id": "CgYogW-69PI-t2936.3999999999996", "text": "I wonder if you have more to say about the dimensions of beauty in relation to turbulence", "start": 2936.3999999999996, "end": 2944.04}
+{"id": "CgYogW-69PI-t2944.04", "text": "in this topic.", "start": 2944.04, "end": 2945.8399999999997}
+{"id": "CgYogW-69PI-t2945.84", "text": "So there was the relationship between turbulence and beauty was founded by Van Gogh somehow.", "start": 2945.84, "end": 2956.32}
+{"id": "CgYogW-69PI-t2956.32", "text": "In the stairs nights, they found that the probability of difference between the luminosity", "start": 2956.32, "end": 2965.6000000000004}
+{"id": "CgYogW-69PI-t2965.6000000000004", "text": "of two points in the paintings is the same of the probability of the difference of the", "start": 2965.6000000000004, "end": 2969.84}
+{"id": "CgYogW-69PI-t2969.84", "text": "velocity of two points in the fluid flow of turbulence.", "start": 2969.84, "end": 2975.36}
+{"id": "CgYogW-69PI-t2975.36", "text": "And this was, they found that it was mostly in the period where Van Gogh was mostly chaotic", "start": 2975.36, "end": 2981.1200000000003}
+{"id": "CgYogW-69PI-t2981.1200000000003", "text": "in his mind when he was upset and almost crazy.", "start": 2981.1200000000003, "end": 2987.52}
+{"id": "CgYogW-69PI-t2987.52", "text": "And while the period that was more relaxed, this characteristic of turbulent motion in", "start": 2987.52, "end": 2993.6800000000003}
+{"id": "CgYogW-69PI-t2993.6800000000003", "text": "his paintings was not there.", "start": 2993.6800000000003, "end": 2996.76}
+{"id": "CgYogW-69PI-t2996.76", "text": "We have a diagnosis for Van Gogh?", "start": 2996.76, "end": 3002.04}
+{"id": "CgYogW-69PI-t3002.04", "text": "Maybe analysts don't like to apply diagnosis to people we haven't in example.", "start": 3002.04, "end": 3008.44}
+{"id": "CgYogW-69PI-t3008.44", "text": "Especially in public.", "start": 3008.44, "end": 3010.0}
+{"id": "CgYogW-69PI-t3010.0", "text": "All right.", "start": 3010.0, "end": 3011.0}
+{"id": "CgYogW-69PI-t3011.0", "text": "Well, I think for me, at least in thinking about beauty and turbulence, it reminds me", "start": 3011.0, "end": 3015.7599999999998}
+{"id": "CgYogW-69PI-t3015.7599999999998", "text": "of a study I recently read that across the globe, different painting, landscape paintings", "start": 3015.7599999999998, "end": 3025.4}
+{"id": "CgYogW-69PI-t3025.4", "text": "were put in front of different types of people to see if there was some type of universal", "start": 3025.4, "end": 3029.44}
+{"id": "CgYogW-69PI-t3029.44", "text": "beauty in landscape art.", "start": 3029.44, "end": 3032.64}
+{"id": "CgYogW-69PI-t3032.64", "text": "And the consistent beautiful image that each culture had identified was a landscape that", "start": 3032.64, "end": 3043.2000000000003}
+{"id": "CgYogW-69PI-t3043.2000000000003", "text": "had these following components in it.", "start": 3043.2000000000003, "end": 3046.48}
+{"id": "CgYogW-69PI-t3046.48", "text": "So it had some view of the sky, some greenery, some trees, some type of path and some type", "start": 3046.48, "end": 3056.12}
+{"id": "CgYogW-69PI-t3056.12", "text": "of moving water feature.", "start": 3056.12, "end": 3059.56}
+{"id": "CgYogW-69PI-t3059.56", "text": "So this goes also to my other comment that I'm going to say that often spaces, this goes", "start": 3059.56, "end": 3066.3199999999997}
+{"id": "CgYogW-69PI-t3066.3199999999997", "text": "back to my architecture, the pattern language.", "start": 3066.3199999999997, "end": 3068.44}
+{"id": "CgYogW-69PI-t3068.44", "text": "You get anyone know about the pattern language?", "start": 3068.44, "end": 3070.96}
+{"id": "CgYogW-69PI-t3070.96", "text": "It's kind of an architectural Bible that has different patterns you can put together", "start": 3070.96, "end": 3074.96}
+{"id": "CgYogW-69PI-t3074.96", "text": "for designing a space.", "start": 3074.96, "end": 3076.2}
+{"id": "CgYogW-69PI-t3076.2", "text": "For example, windows need to be on two sides of a room.", "start": 3076.2, "end": 3078.8399999999997}
+{"id": "CgYogW-69PI-t3078.8399999999997", "text": "Those are the types of the rooms that people like to hang out in in different houses, et", "start": 3078.8399999999997, "end": 3082.2}
+{"id": "CgYogW-69PI-t3082.2", "text": "cetera, talks about curb height, and they're kind of cute patterns, but also you can design", "start": 3082.2, "end": 3087.64}
+{"id": "CgYogW-69PI-t3087.64", "text": "an entire community around them.", "start": 3087.64, "end": 3090.96}
+{"id": "CgYogW-69PI-t3090.96", "text": "And my favorite one is that people are most happy when they're near moving water and flowing", "start": 3090.96, "end": 3097.0}
+{"id": "CgYogW-69PI-t3097.0", "text": "water.", "start": 3097.0, "end": 3098.2}
+{"id": "CgYogW-69PI-t3098.2", "text": "And this always makes me think about spaces that are successful like Pali Park here.", "start": 3098.2, "end": 3106.3599999999997}
+{"id": "CgYogW-69PI-t3106.3599999999997", "text": "Anyone familiar with Pali Park?", "start": 3106.3599999999997, "end": 3109.8799999999997}
+{"id": "CgYogW-69PI-t3109.88", "text": "It has a water feature or even in front of the Seagram Center, so all these kind of water", "start": 3109.88, "end": 3114.48}
+{"id": "CgYogW-69PI-t3114.48", "text": "and moving water.", "start": 3114.48, "end": 3115.6400000000003}
+{"id": "CgYogW-69PI-t3115.6400000000003", "text": "Even at the, we're not, this could be the lay person just looking at it, but it's about", "start": 3115.6400000000003, "end": 3121.56}
+{"id": "CgYogW-69PI-t3121.56", "text": "being near water that has psychological and positive effects on humans.", "start": 3121.56, "end": 3128.6}
+{"id": "CgYogW-69PI-t3128.6", "text": "That's why we all go.", "start": 3128.6, "end": 3130.0}
+{"id": "CgYogW-69PI-t3130.0", "text": "Well, it also makes one wonder about the evolutionary significance of its potable moving water", "start": 3130.0, "end": 3135.2400000000002}
+{"id": "CgYogW-69PI-t3135.24", "text": "as opposed to still water and as opposed to ocean water as potable and must have adaptive", "start": 3135.24, "end": 3145.0}
+{"id": "CgYogW-69PI-t3145.0", "text": "meaning to, and that's kind of the, you know, you wonder about the connection between aesthetic", "start": 3145.0, "end": 3151.2799999999997}
+{"id": "CgYogW-69PI-t3151.2799999999997", "text": "perception, right?", "start": 3151.2799999999997, "end": 3153.4399999999996}
+{"id": "CgYogW-69PI-t3153.4399999999996", "text": "And making judgments about survival.", "start": 3153.4399999999996, "end": 3155.6}
+{"id": "CgYogW-69PI-t3155.6", "text": "Right.", "start": 3155.6, "end": 3156.6}
+{"id": "CgYogW-69PI-t3156.6", "text": "There's a really wonderful book that I think came out this past year called Blue Mind by", "start": 3156.6, "end": 3161.3199999999997}
+{"id": "CgYogW-69PI-t3161.32", "text": "Wallace Nichols, and they have a conference about the psychology behind being near water", "start": 3161.32, "end": 3169.84}
+{"id": "CgYogW-69PI-t3169.84", "text": "and the effects of water on the human.", "start": 3169.84, "end": 3171.88}
+{"id": "CgYogW-69PI-t3171.88", "text": "It's a really wonderful book, but the author himself puts sensors on his body and jumps", "start": 3171.88, "end": 3181.92}
+{"id": "CgYogW-69PI-t3181.92", "text": "in the water and swims for miles.", "start": 3181.92, "end": 3184.52}
+{"id": "CgYogW-69PI-t3184.52", "text": "But they're more physiological sensors, so it's trying to figure out also how he feels.", "start": 3184.52, "end": 3188.56}
+{"id": "CgYogW-69PI-t3188.56", "text": "And if anyone wants to check out that book, it's been a very, one of my favorites that", "start": 3188.56, "end": 3192.96}
+{"id": "CgYogW-69PI-t3192.96", "text": "I've read in the past year.", "start": 3192.96, "end": 3194.16}
+{"id": "CgYogW-69PI-t3194.16", "text": "What's the name again?", "start": 3194.16, "end": 3195.52}
+{"id": "CgYogW-69PI-t3195.52", "text": "Blue Mind.", "start": 3195.52, "end": 3196.52}
+{"id": "CgYogW-69PI-t3196.52", "text": "Could I make a remark on your comment?", "start": 3196.52, "end": 3202.4}
+{"id": "CgYogW-69PI-t3202.4", "text": "Yes.", "start": 3202.4, "end": 3203.4}
+{"id": "CgYogW-69PI-t3203.4", "text": "Maybe related, but if it is not, please excuse me.", "start": 3203.4, "end": 3206.7599999999998}
+{"id": "CgYogW-69PI-t3206.7599999999998", "text": "So I grew up, I was brought up and grew up in an interior part of another continent.", "start": 3206.7599999999998, "end": 3215.04}
+{"id": "CgYogW-69PI-t3215.04", "text": "And the first time I saw the ocean, I was probably 16 years old.", "start": 3215.04, "end": 3221.2}
+{"id": "CgYogW-69PI-t3221.2", "text": "For me, what was most beautiful was the kind of environment in which I grew.", "start": 3221.2, "end": 3227.04}
+{"id": "CgYogW-69PI-t3227.04", "text": "There were mountains and rocky mountains and not huge trees.", "start": 3227.04, "end": 3231.68}
+{"id": "CgYogW-69PI-t3231.68", "text": "It never bothered me about that much.", "start": 3231.68, "end": 3235.2799999999997}
+{"id": "CgYogW-69PI-t3235.2799999999997", "text": "So we, until I came away to, let's say, New England and something like that, I didn't", "start": 3235.2799999999997, "end": 3243.52}
+{"id": "CgYogW-69PI-t3243.52", "text": "quite really have a great admiration for greenery, or blowing water, or anything like", "start": 3243.52, "end": 3251.68}
+{"id": "CgYogW-69PI-t3251.68", "text": "that.", "start": 3251.68, "end": 3252.68}
+{"id": "CgYogW-69PI-t3252.68", "text": "So my sense of what is interesting, what is so admirable somehow, changed.", "start": 3252.68, "end": 3263.7599999999998}
+{"id": "CgYogW-69PI-t3263.7599999999998", "text": "It changed.", "start": 3263.7599999999998, "end": 3264.7599999999998}
+{"id": "CgYogW-69PI-t3264.7599999999998", "text": "I mean, in fact, on some other matters, I had a certain sense of what constitutes beauty", "start": 3264.7599999999998, "end": 3270.6}
+{"id": "CgYogW-69PI-t3270.6", "text": "in women.", "start": 3270.6, "end": 3271.6}
+{"id": "CgYogW-69PI-t3271.6", "text": "I mean it with no disrespect at all.", "start": 3271.6, "end": 3273.92}
+{"id": "CgYogW-69PI-t3273.92", "text": "But now, I mean a totally different environment for many years.", "start": 3273.92, "end": 3278.48}
+{"id": "CgYogW-69PI-t3278.48", "text": "My concept of what beauty in women is has changed altogether.", "start": 3278.48, "end": 3283.24}
+{"id": "CgYogW-69PI-t3283.24", "text": "If not altogether, I mean to a significant degree.", "start": 3283.24, "end": 3287.24}
+{"id": "CgYogW-69PI-t3287.24", "text": "So in some sense, the question for all of you is whether all this is really not as deep", "start": 3287.24, "end": 3293.12}
+{"id": "CgYogW-69PI-t3293.12", "text": "as evolution and things like that, but it is maybe more controlled by your environment.", "start": 3293.12, "end": 3300.4}
+{"id": "CgYogW-69PI-t3300.4", "text": "How, how, if all I know is where I grew up, I don't know that I would appreciate some", "start": 3300.4, "end": 3307.6}
+{"id": "CgYogW-69PI-t3307.6", "text": "of the same things that I do now.", "start": 3307.6, "end": 3310.84}
+{"id": "CgYogW-69PI-t3310.84", "text": "So it may not be as deep as one thing, may not be wired in your evolutionary means.", "start": 3310.84, "end": 3318.6}
+{"id": "CgYogW-69PI-t3318.6", "text": "So that's the question I had for you, actually.", "start": 3318.6, "end": 3321.56}
+{"id": "CgYogW-69PI-t3321.56", "text": "Oh, well, this was just something I was observing and the results came back that these features", "start": 3321.56, "end": 3327.96}
+{"id": "CgYogW-69PI-t3327.96", "text": "for me.", "start": 3327.96, "end": 3328.96}
+{"id": "CgYogW-69PI-t3328.96", "text": "I'm more like you.", "start": 3328.96, "end": 3331.7200000000003}
+{"id": "CgYogW-69PI-t3331.7200000000003", "text": "I grew up in midwest, so there's no ocean.", "start": 3331.7200000000003, "end": 3336.2}
+{"id": "CgYogW-69PI-t3336.2", "text": "I like a big muddy river in rocks.", "start": 3336.2, "end": 3340.08}
+{"id": "CgYogW-69PI-t3340.08", "text": "Yeah, rocks.", "start": 3340.08, "end": 3341.08}
+{"id": "CgYogW-69PI-t3341.08", "text": "Yeah, I do like the rocks.", "start": 3341.08, "end": 3343.68}
+{"id": "CgYogW-69PI-t3343.68", "text": "But there is something that's kind of, the ocean is more mystical or like it has a level", "start": 3343.68, "end": 3349.84}
+{"id": "CgYogW-69PI-t3349.84", "text": "of mystique for me that is, that shifts between day and night even.", "start": 3349.84, "end": 3357.84}
+{"id": "CgYogW-69PI-t3357.84", "text": "Because you look at the ocean at night, there's no color, so you just can see the forms,", "start": 3357.84, "end": 3363.4}
+{"id": "CgYogW-69PI-t3363.4", "text": "especially on a night with a full moon.", "start": 3363.4, "end": 3365.32}
+{"id": "CgYogW-69PI-t3365.32", "text": "You can really understand where the waves are coming from, how far they're coming,", "start": 3365.32, "end": 3369.28}
+{"id": "CgYogW-69PI-t3369.28", "text": "and it's unbelievable to see the ocean at night.", "start": 3369.28, "end": 3372.96}
+{"id": "CgYogW-69PI-t3372.96", "text": "But also, I would never go in the ocean.", "start": 3372.96, "end": 3375.92}
+{"id": "CgYogW-69PI-t3375.92", "text": "Has anyone gone swimming in the ocean at night?", "start": 3375.92, "end": 3378.2000000000003}
+{"id": "CgYogW-69PI-t3378.2000000000003", "text": "Way out.", "start": 3378.2000000000003, "end": 3379.2000000000003}
+{"id": "CgYogW-69PI-t3379.2000000000003", "text": "That way out.", "start": 3379.2000000000003, "end": 3380.2000000000003}
+{"id": "CgYogW-69PI-t3380.2000000000003", "text": "And this is scary.", "start": 3380.2000000000003, "end": 3381.2000000000003}
+{"id": "CgYogW-69PI-t3381.2000000000003", "text": "Yeah, that's, it seems, there's fear in that.", "start": 3381.2000000000003, "end": 3382.2000000000003}
+{"id": "CgYogW-69PI-t3382.2000000000003", "text": "Yeah.", "start": 3382.2000000000003, "end": 3383.2000000000003}
+{"id": "CgYogW-69PI-t3383.2", "text": "At least for me, and that's what that piece is a little bit about.", "start": 3383.2, "end": 3390.2}
+{"id": "CgYogW-69PI-t3390.2", "text": "Like big things we can't get.", "start": 3390.2, "end": 3391.72}
+{"id": "CgYogW-69PI-t3391.72", "text": "I didn't see stars, like a full night sky star, so I was a teenager.", "start": 3391.72, "end": 3396.7599999999998}
+{"id": "CgYogW-69PI-t3396.7599999999998", "text": "Because I grew up in cities with like so much light pollution, so I thought like stars", "start": 3396.7599999999998, "end": 3402.24}
+{"id": "CgYogW-69PI-t3402.24", "text": "was like, oh, there's like four of them.", "start": 3402.24, "end": 3405.7599999999998}
+{"id": "CgYogW-69PI-t3405.7599999999998", "text": "You know, and then I went and I had a, I took like a road trip, my sophomore year in college", "start": 3405.7599999999998, "end": 3411.96}
+{"id": "CgYogW-69PI-t3411.96", "text": "or something like that to Vermont, and then the sunset, and I was like, wait a minute.", "start": 3411.96, "end": 3417.2400000000002}
+{"id": "CgYogW-69PI-t3417.2400000000002", "text": "What?", "start": 3417.2400000000002, "end": 3418.2400000000002}
+{"id": "CgYogW-69PI-t3418.2400000000002", "text": "You know, and that was like this really amazing, you know, thing where, you know, you see", "start": 3418.2400000000002, "end": 3422.44}
+{"id": "CgYogW-69PI-t3422.44", "text": "something just that you thought was kind of manageable and simple, and it turns out to", "start": 3422.44, "end": 3426.28}
+{"id": "CgYogW-69PI-t3426.28", "text": "be incredibly awe-inspiring and complex.", "start": 3426.28, "end": 3428.92}
+{"id": "CgYogW-69PI-t3428.92", "text": "Gives you a little bit of perspective.", "start": 3428.92, "end": 3431.88}
+{"id": "CgYogW-69PI-t3431.88", "text": "That was my like blue marble moment.", "start": 3431.88, "end": 3433.56}
+{"id": "CgYogW-69PI-t3433.56", "text": "It was, it was backwards though.", "start": 3433.56, "end": 3435.8}
+{"id": "CgYogW-69PI-t3435.8", "text": "But it was that like you thought you knew the planet, and then you definitely didn't", "start": 3435.8, "end": 3438.64}
+{"id": "CgYogW-69PI-t3438.64", "text": "know the planet.", "start": 3438.64, "end": 3439.64}
+{"id": "CgYogW-69PI-t3439.64", "text": "And I kind of got, yeah.", "start": 3439.64, "end": 3443.04}
+{"id": "CgYogW-69PI-t3443.04", "text": "So when people do cross-cultural studies on aesthetics, one thing that comes out as a", "start": 3443.04, "end": 3447.72}
+{"id": "CgYogW-69PI-t3447.72", "text": "universal is a preference for curves over angular angles.", "start": 3447.72, "end": 3453.08}
+{"id": "CgYogW-69PI-t3453.08", "text": "That doesn't disprove it being cultural.", "start": 3453.08, "end": 3456.3599999999997}
+{"id": "CgYogW-69PI-t3456.3599999999997", "text": "It may just be cultural commonalities.", "start": 3456.3599999999997, "end": 3458.8799999999997}
+{"id": "CgYogW-69PI-t3458.8799999999997", "text": "Right.", "start": 3458.8799999999997, "end": 3459.8799999999997}
+{"id": "CgYogW-69PI-t3459.88", "text": "Returning to turbulence for another minute or so.", "start": 3459.88, "end": 3472.56}
+{"id": "CgYogW-69PI-t3472.56", "text": "So we all know that flow through a pipe is turbulent very often.", "start": 3472.56, "end": 3480.08}
+{"id": "CgYogW-69PI-t3480.08", "text": "The jet exiting from an aircraft is turbulent.", "start": 3480.08, "end": 3484.88}
+{"id": "CgYogW-69PI-t3484.88", "text": "The oceans are turbulent.", "start": 3484.88, "end": 3488.32}
+{"id": "CgYogW-69PI-t3488.32", "text": "The air quite often moves in turbulent ways.", "start": 3488.32, "end": 3495.0}
+{"id": "CgYogW-69PI-t3495.0", "text": "So there are two different views of looking at turbulence.", "start": 3495.0, "end": 3500.36}
+{"id": "CgYogW-69PI-t3500.36", "text": "In a certain sense, what happens inside the pipe is quite different from what happens", "start": 3500.36, "end": 3506.1200000000003}
+{"id": "CgYogW-69PI-t3506.1200000000003", "text": "inside the ocean because there is friction on the walls and pipes are of finite length", "start": 3506.1200000000003, "end": 3513.6800000000003}
+{"id": "CgYogW-69PI-t3513.6800000000003", "text": "and all of this kind of stuff.", "start": 3513.6800000000003, "end": 3516.1600000000003}
+{"id": "CgYogW-69PI-t3516.16", "text": "The oceans, although there are walls, they're so far away from the main activity that the", "start": 3516.16, "end": 3522.52}
+{"id": "CgYogW-69PI-t3522.52", "text": "walls may not have any effect.", "start": 3522.52, "end": 3526.0}
+{"id": "CgYogW-69PI-t3526.0", "text": "Therefore, one line of enquiry is to study each of these classes of turbulent flows on", "start": 3526.0, "end": 3533.08}
+{"id": "CgYogW-69PI-t3533.08", "text": "their own merits.", "start": 3533.08, "end": 3534.44}
+{"id": "CgYogW-69PI-t3534.44", "text": "So one becomes an expert in turbulence in pipe flows.", "start": 3534.44, "end": 3538.12}
+{"id": "CgYogW-69PI-t3538.12", "text": "Another becomes an expert in turbulence in ocean, etc.", "start": 3538.12, "end": 3543.08}
+{"id": "CgYogW-69PI-t3543.08", "text": "But there is a second part to which I made a lot of evolution earlier, which is to say", "start": 3543.08, "end": 3548.2799999999997}
+{"id": "CgYogW-69PI-t3548.2799999999997", "text": "yeah, there are specific aspects that are in fact different from one flow to another.", "start": 3548.2799999999997, "end": 3553.7999999999997}
+{"id": "CgYogW-69PI-t3553.7999999999997", "text": "But is there an essence of the turbulence, so to speak, that transcends each of these", "start": 3553.7999999999997, "end": 3560.56}
+{"id": "CgYogW-69PI-t3560.56", "text": "real specific things and what is that?", "start": 3560.56, "end": 3565.24}
+{"id": "CgYogW-69PI-t3565.24", "text": "And if it is true, is it a good model, even going more general, is it a good model for", "start": 3565.24, "end": 3571.12}
+{"id": "CgYogW-69PI-t3571.12", "text": "studying the interaction among many components, a large number of components in some nonlinear", "start": 3571.12, "end": 3577.7999999999997}
+{"id": "CgYogW-69PI-t3577.7999999999997", "text": "way, nonlinear way that you can sort of forget about the details of where you started.", "start": 3577.7999999999997, "end": 3583.88}
+{"id": "CgYogW-69PI-t3583.88", "text": "So that's the line of enquiry.", "start": 3583.88, "end": 3589.8399999999997}
+{"id": "CgYogW-69PI-t3589.8399999999997", "text": "But what I'm thinking about turbulence, how it's embodied by humans that are feeling it", "start": 3589.8399999999997, "end": 3597.08}
+{"id": "CgYogW-69PI-t3597.08", "text": "upon themselves as an airplane when you're on an airplane or you kind of understand this", "start": 3597.08, "end": 3602.2799999999997}
+{"id": "CgYogW-69PI-t3602.2799999999997", "text": "movement.", "start": 3602.2799999999997, "end": 3604.64}
+{"id": "CgYogW-69PI-t3604.64", "text": "I think one journey through turbulence, through many different layers of turbulence, could", "start": 3604.64, "end": 3611.08}
+{"id": "CgYogW-69PI-t3611.08", "text": "be the human experience or how it's impacting something that can be felt.", "start": 3611.08, "end": 3621.08}
+{"id": "CgYogW-69PI-t3621.08", "text": "My brother is actually an aerospace engineer and his PhD was how turbulent flow goes over", "start": 3621.08, "end": 3630.4}
+{"id": "CgYogW-69PI-t3630.4", "text": "the wings of jets and makes all these crazy models of it.", "start": 3630.4, "end": 3636.72}
+{"id": "CgYogW-69PI-t3636.72", "text": "So for him, it's just about going and being in a wind machine and observing it.", "start": 3636.72, "end": 3644.0}
+{"id": "CgYogW-69PI-t3644.0", "text": "And he actually has a little jet that I think runs off of algae fuel, just as a pet in his", "start": 3644.0, "end": 3649.6}
+{"id": "CgYogW-69PI-t3649.6", "text": "garage.", "start": 3649.6, "end": 3650.6}
+{"id": "CgYogW-69PI-t3650.6", "text": "But just kind of trying to understand this, the way he's looking at it as a model or", "start": 3650.6, "end": 3659.2799999999997}
+{"id": "CgYogW-69PI-t3659.2799999999997", "text": "through computation or through air.", "start": 3659.2799999999997, "end": 3662.04}
+{"id": "CgYogW-69PI-t3662.04", "text": "And we're fine with him.", "start": 3662.04, "end": 3663.04}
+{"id": "CgYogW-69PI-t3663.04", "text": "He loves it.", "start": 3663.04, "end": 3664.04}
+{"id": "CgYogW-69PI-t3664.04", "text": "Like when we're on an airplane, the skin tossed around in Colorado or whatever, like", "start": 3664.04, "end": 3667.52}
+{"id": "CgYogW-69PI-t3667.52", "text": "flipping upside down.", "start": 3667.52, "end": 3668.52}
+{"id": "CgYogW-69PI-t3668.52", "text": "He's like, this is awesome.", "start": 3668.52, "end": 3670.7999999999997}
+{"id": "CgYogW-69PI-t3670.7999999999997", "text": "But I think that it's about that kind of, is there a way that there's an embodied experience?", "start": 3670.7999999999997, "end": 3676.96}
+{"id": "CgYogW-69PI-t3676.96", "text": "Maybe not through human but other species or other like birds or other entities that are", "start": 3676.96, "end": 3687.36}
+{"id": "CgYogW-69PI-t3687.36", "text": "living that are being impacted by this.", "start": 3687.36, "end": 3693.44}
+{"id": "CgYogW-69PI-t3693.44", "text": "Each to himself or herself.", "start": 3693.44, "end": 3699.2400000000002}
+{"id": "CgYogW-69PI-t3699.2400000000002", "text": "Yeah.", "start": 3699.2400000000002, "end": 3700.2400000000002}
+{"id": "CgYogW-69PI-t3700.24", "text": "So, I think that's only in human mind at any given interval of time.", "start": 3700.24, "end": 3710.7599999999998}
+{"id": "CgYogW-69PI-t3710.7599999999998", "text": "Zillion thoughts fly through, I'm saying it in not in any real rigorous way.", "start": 3710.7599999999998, "end": 3719.6}
+{"id": "CgYogW-69PI-t3719.6", "text": "So many, many thoughts go by.", "start": 3719.6, "end": 3724.0}
+{"id": "CgYogW-69PI-t3724.0", "text": "One thought does not continue in the next instant, etc.", "start": 3724.0, "end": 3729.9199999999996}
+{"id": "CgYogW-69PI-t3729.92", "text": "So there is very poor correlation between what you think now and what you might think", "start": 3729.92, "end": 3736.32}
+{"id": "CgYogW-69PI-t3736.32", "text": "next minute, especially for people who haven't concentrated down their mind too much.", "start": 3736.32, "end": 3743.7200000000003}
+{"id": "CgYogW-69PI-t3743.7200000000003", "text": "See in turbulence too, something like that happens.", "start": 3743.7200000000003, "end": 3746.44}
+{"id": "CgYogW-69PI-t3746.44", "text": "That is to say, there's only finite correlation between what happens here and what might happen", "start": 3746.44, "end": 3752.28}
+{"id": "CgYogW-69PI-t3752.28", "text": "a little bit later.", "start": 3752.28, "end": 3754.8}
+{"id": "CgYogW-69PI-t3754.8", "text": "So I have often wondered whether in fact there are models one can make, models mathematical", "start": 3754.8, "end": 3762.28}
+{"id": "CgYogW-69PI-t3762.28", "text": "models that have finite correlation.", "start": 3762.28, "end": 3766.96}
+{"id": "CgYogW-69PI-t3766.96", "text": "If you're a yogi for instance, you concentrate on one thing for hours and end and the same", "start": 3766.96, "end": 3771.6400000000003}
+{"id": "CgYogW-69PI-t3771.6400000000003", "text": "thought, but most people are not.", "start": 3771.6400000000003, "end": 3774.0}
+{"id": "CgYogW-69PI-t3774.0", "text": "Most people are just fleeting thoughts, enhanced by the complexity, enhanced by the environment", "start": 3774.0, "end": 3783.6400000000003}
+{"id": "CgYogW-69PI-t3783.64", "text": "around oneself.", "start": 3783.64, "end": 3785.12}
+{"id": "CgYogW-69PI-t3785.12", "text": "So it may be that there is some deeper model one can actually tell, I have wondered sometimes", "start": 3785.12, "end": 3794.6}
+{"id": "CgYogW-69PI-t3794.6", "text": "between how the mind works and how let's say turbulent flow outside of the human's", "start": 3794.6, "end": 3802.0}
+{"id": "CgYogW-69PI-t3802.0", "text": "work.", "start": 3802.0, "end": 3804.0}
+{"id": "CgYogW-69PI-t3804.0", "text": "That might be very interesting and you are interested in mind and how it works and this", "start": 3804.0, "end": 3812.2799999999997}
+{"id": "CgYogW-69PI-t3812.28", "text": "would be a very fruitful line of dialogue at least until we decide it is useless.", "start": 3812.28, "end": 3820.0800000000004}
+{"id": "CgYogW-69PI-t3820.0800000000004", "text": "Do you have any speculation as to what some of the underlying connections are?", "start": 3820.0800000000004, "end": 3825.2400000000002}
+{"id": "CgYogW-69PI-t3825.2400000000002", "text": "So of course there are special characteristics of the mind or the brain let's say, brain", "start": 3825.2400000000002, "end": 3831.76}
+{"id": "CgYogW-69PI-t3831.76", "text": "and mind are two different entities I understand.", "start": 3831.76, "end": 3837.0800000000004}
+{"id": "CgYogW-69PI-t3837.0800000000004", "text": "Presumably they are very strongly related even though they're separate.", "start": 3837.0800000000004, "end": 3841.76}
+{"id": "CgYogW-69PI-t3841.76", "text": "So there is the spatial structure and then there is a temporal variations that take place", "start": 3841.76, "end": 3849.4}
+{"id": "CgYogW-69PI-t3849.4", "text": "and somehow these are all connected to thoughts and one should be able to somehow connect", "start": 3849.4, "end": 3859.0}
+{"id": "CgYogW-69PI-t3859.0", "text": "them and at least at a level of speculation it would be worth thinking about.", "start": 3859.0, "end": 3867.96}
+{"id": "CgYogW-69PI-t3867.96", "text": "So there has been quite a bit of work on EEG with thoughts that are parallel to what", "start": 3867.96, "end": 3876.88}
+{"id": "CgYogW-69PI-t3876.88", "text": "you are suggesting.", "start": 3876.88, "end": 3879.56}
+{"id": "CgYogW-69PI-t3879.56", "text": "When we are asleep there is a very strong algorithm and then when the person is awake", "start": 3879.56, "end": 3886.6}
+{"id": "CgYogW-69PI-t3886.6", "text": "you get less rhythmic behavior.", "start": 3886.6, "end": 3890.7200000000003}
+{"id": "CgYogW-69PI-t3890.72", "text": "I don't know what kinds of correlation lengths you get before you can't predict.", "start": 3890.72, "end": 3901.8399999999997}
+{"id": "CgYogW-69PI-t3901.8399999999997", "text": "I haven't done any EEG works I'm not sure.", "start": 3901.8399999999997, "end": 3906.2}
+{"id": "CgYogW-69PI-t3906.2", "text": "Very interesting.", "start": 3906.2, "end": 3910.12}
+{"id": "CgYogW-69PI-t3910.12", "text": "My son maps the brain and using FMRR machines.", "start": 3910.12, "end": 3918.7999999999997}
+{"id": "CgYogW-69PI-t3918.8", "text": "And then he tries to understand the relation between patterns on the one hand and functionality", "start": 3918.8, "end": 3925.6400000000003}
+{"id": "CgYogW-69PI-t3925.6400000000003", "text": "on the other.", "start": 3925.6400000000003, "end": 3929.0800000000004}
+{"id": "CgYogW-69PI-t3929.0800000000004", "text": "I'm not even sure whether the ideas are very properly formulated.", "start": 3929.0800000000004, "end": 3934.7200000000003}
+{"id": "CgYogW-69PI-t3934.7200000000003", "text": "Well, FMRRI isn't very good for this because it has a time constant of six seconds.", "start": 3934.7200000000003, "end": 3942.2000000000003}
+{"id": "CgYogW-69PI-t3942.2000000000003", "text": "It's not directly measuring neural activity, it's measuring the blood response.", "start": 3942.2000000000003, "end": 3946.48}
+{"id": "CgYogW-69PI-t3946.48", "text": "And so you don't really get temporal dynamics out of it.", "start": 3946.48, "end": 3950.6}
+{"id": "CgYogW-69PI-t3950.6", "text": "The megamission.", "start": 3950.6, "end": 3952.52}
+{"id": "CgYogW-69PI-t3952.52", "text": "So EEG and MEG both respond fine and they will be fine for looking at that.", "start": 3952.52, "end": 3962.0}
+{"id": "CgYogW-69PI-t3962.0", "text": "Dare we delve into the quantum dimensions of turbulence in our discussion?", "start": 3962.0, "end": 3968.08}
+{"id": "CgYogW-69PI-t3968.08", "text": "Yes.", "start": 3968.08, "end": 3970.08}
+{"id": "CgYogW-69PI-t3970.08", "text": "Well, quantum turbulence is this turbulence that happens in superfluid which is liquid", "start": 3970.08, "end": 3977.88}
+{"id": "CgYogW-69PI-t3977.88", "text": "helium at a temperature below 2.11 Kelvin and it has a macroscopic quantum order.", "start": 3977.88, "end": 3987.24}
+{"id": "CgYogW-69PI-t3987.24", "text": "So there is quantum mechanical effects on large scale and you have these vertices that instead", "start": 3987.24, "end": 3992.68}
+{"id": "CgYogW-69PI-t3992.68", "text": "of being all of different sizes like you have in a normal flow they are quantized.", "start": 3992.68, "end": 3997.48}
+{"id": "CgYogW-69PI-t3997.48", "text": "So they are all the same and are all multiple of the quantum of circulation which are certain", "start": 3997.48, "end": 4004.2400000000002}
+{"id": "CgYogW-69PI-t4004.2400000000002", "text": "quantity.", "start": 4004.2400000000002, "end": 4005.84}
+{"id": "CgYogW-69PI-t4005.84", "text": "And they are again of atomic size like I was saying in width but macroscopic in length", "start": 4005.84, "end": 4012.56}
+{"id": "CgYogW-69PI-t4012.56", "text": "and interact in different ways and if you've seen the videos of quantum words that they", "start": 4012.56, "end": 4017.04}
+{"id": "CgYogW-69PI-t4017.04", "text": "are you've seen the wave emotions they have.", "start": 4017.04, "end": 4020.4}
+{"id": "CgYogW-69PI-t4020.4", "text": "And it's very important for many reasons in the order of the dissipation of the energy", "start": 4020.4, "end": 4026.88}
+{"id": "CgYogW-69PI-t4026.88", "text": "in the quantum turbulence.", "start": 4026.88, "end": 4029.0}
+{"id": "CgYogW-69PI-t4029.0", "text": "And you have this mechanism which is called reconnection when two vertices get together.", "start": 4029.0, "end": 4034.52}
+{"id": "CgYogW-69PI-t4034.52", "text": "They get together the exchange tails and then they separate and you probably have seen also", "start": 4034.52, "end": 4040.2400000000002}
+{"id": "CgYogW-69PI-t4040.2400000000002", "text": "if you haven't you can look them later at this mechanism which is again central to the", "start": 4040.2400000000002, "end": 4045.6800000000003}
+{"id": "CgYogW-69PI-t4045.6800000000003", "text": "mechanism of dissipation.", "start": 4045.6800000000003, "end": 4047.04}
+{"id": "CgYogW-69PI-t4047.04", "text": "And dissipation is important because you wouldn't think that in a fluid which is completely", "start": 4047.04, "end": 4052.04}
+{"id": "CgYogW-69PI-t4052.04", "text": "without friction you will have any dissipation.", "start": 4052.04, "end": 4055.2000000000003}
+{"id": "CgYogW-69PI-t4055.2", "text": "But in fact you have also dissipation in a quantum fluid.", "start": 4055.2, "end": 4061.08}
+{"id": "CgYogW-69PI-t4061.08", "text": "And so that is also one of the reasons you would like to study quantum turbulence to", "start": 4061.08, "end": 4065.48}
+{"id": "CgYogW-69PI-t4065.48", "text": "see how dissipation compares between the classical and quantum flow.", "start": 4065.48, "end": 4074.04}
+{"id": "CgYogW-69PI-t4074.04", "text": "Could I maybe add a little bit maybe just make it less technical than I and Rick on said.", "start": 4074.04, "end": 4084.24}
+{"id": "CgYogW-69PI-t4084.24", "text": "But ordinary room temperature and pressure etc.", "start": 4084.24, "end": 4088.2799999999997}
+{"id": "CgYogW-69PI-t4088.2799999999997", "text": "The fluids that we know air and water and others they do not have any quantum mechanical", "start": 4088.2799999999997, "end": 4095.52}
+{"id": "CgYogW-69PI-t4095.52", "text": "properties or they do everything is quantum mechanics but it somehow gets smeared out", "start": 4095.52, "end": 4101.84}
+{"id": "CgYogW-69PI-t4101.84", "text": "so it doesn't really matter.", "start": 4101.84, "end": 4104.16}
+{"id": "CgYogW-69PI-t4104.16", "text": "So we are always looking at water and air and things like that where there are these", "start": 4104.16, "end": 4111.32}
+{"id": "CgYogW-69PI-t4111.32", "text": "vertices but each vortex spins differently that is different the magnitude that you can", "start": 4111.32, "end": 4118.4}
+{"id": "CgYogW-69PI-t4118.4", "text": "associate with those vertices will all be different they can be all over the map.", "start": 4118.4, "end": 4123.84}
+{"id": "CgYogW-69PI-t4123.84", "text": "There is no restriction of any sort.", "start": 4123.84, "end": 4127.28}
+{"id": "CgYogW-69PI-t4127.28", "text": "And so studying the interaction among them which is really one of the primary objects", "start": 4127.28, "end": 4132.04}
+{"id": "CgYogW-69PI-t4132.04", "text": "of turbulent studies becomes a little bit more complicated because you have so many", "start": 4132.04, "end": 4137.0}
+{"id": "CgYogW-69PI-t4137.0", "text": "dissimilar objects that are interacting with each other.", "start": 4137.0, "end": 4141.0}
+{"id": "CgYogW-69PI-t4141.0", "text": "But it so happens that if you take a fluid that can remain in a liquid form even at very", "start": 4141.0, "end": 4150.88}
+{"id": "CgYogW-69PI-t4150.88", "text": "low temperatures helium is the only one that remains a liquid if you go below about 2.7", "start": 4150.88, "end": 4157.96}
+{"id": "CgYogW-69PI-t4157.96", "text": "Kelvin everything else freezes to become a solid.", "start": 4157.96, "end": 4162.32}
+{"id": "CgYogW-69PI-t4162.32", "text": "But this one for whatever reason remains a liquid and then quantum mechanical effects", "start": 4162.32, "end": 4171.5599999999995}
+{"id": "CgYogW-69PI-t4171.5599999999995", "text": "begin to show up somehow and this is what you are saying long range order and things", "start": 4171.5599999999995, "end": 4177.719999999999}
+{"id": "CgYogW-69PI-t4177.719999999999", "text": "like that.", "start": 4177.719999999999, "end": 4179.12}
+{"id": "CgYogW-69PI-t4179.12", "text": "The manifestation of these emergence of quantum mechanics in fluids there one of the consequences", "start": 4179.12, "end": 4186.92}
+{"id": "CgYogW-69PI-t4186.92", "text": "is that these vertices which in room temperature were all very dissimilar and things like that", "start": 4186.92, "end": 4195.6}
+{"id": "CgYogW-69PI-t4195.6", "text": "they become really ordered the circulation around them that is says strength of these", "start": 4195.6, "end": 4200.12}
+{"id": "CgYogW-69PI-t4200.12", "text": "vertices are all identical.", "start": 4200.12, "end": 4203.56}
+{"id": "CgYogW-69PI-t4203.56", "text": "Therefore one thinks that somehow in studying the interaction of identical objects will", "start": 4203.56, "end": 4211.52}
+{"id": "CgYogW-69PI-t4211.52", "text": "be much easier to understand and in fact if there is any element of truth to what I was", "start": 4211.52, "end": 4217.240000000001}
+{"id": "CgYogW-69PI-t4217.240000000001", "text": "saying earlier that really interaction among elements is really what matters to understand", "start": 4217.240000000001, "end": 4222.360000000001}
+{"id": "CgYogW-69PI-t4222.360000000001", "text": "turbulence not so much what the objects themselves are.", "start": 4222.360000000001, "end": 4226.6}
+{"id": "CgYogW-69PI-t4226.6", "text": "Then the promises of the thought is that going to quantum mechanical temperatures lower temperatures", "start": 4226.6, "end": 4234.400000000001}
+{"id": "CgYogW-69PI-t4234.4", "text": "where quantum mechanical vertices become manifest it would be easier to understand and it would", "start": 4234.4, "end": 4242.32}
+{"id": "CgYogW-69PI-t4242.32", "text": "be easier to simulate on a computer it would be therefore lead us to understand that is", "start": 4242.32, "end": 4249.44}
+{"id": "CgYogW-69PI-t4249.44", "text": "really of interest to us which is turbulence around us and inside us as well.", "start": 4249.44, "end": 4257.44}
+{"id": "CgYogW-69PI-t4257.44", "text": "And Enrico was so this quantum mechanical quantum vertices have been around us thoughts", "start": 4257.44, "end": 4266.679999999999}
+{"id": "CgYogW-69PI-t4266.679999999999", "text": "for a long time fine one actually was the one who proposed the existence of this quantum", "start": 4266.679999999999, "end": 4272.0}
+{"id": "CgYogW-69PI-t4272.0", "text": "vertices and then there was some flurry of activity on this but nobody had seen these", "start": 4272.0, "end": 4278.0}
+{"id": "CgYogW-69PI-t4278.0", "text": "vertices for a very long time.", "start": 4278.0, "end": 4281.5599999999995}
+{"id": "CgYogW-69PI-t4281.56", "text": "So my graduate student Greg Buelly was the first one who actually observed these vertices", "start": 4281.56, "end": 4287.8}
+{"id": "CgYogW-69PI-t4287.8", "text": "and Enrico actually followed him and he made many improvements on how to visualize them", "start": 4287.8, "end": 4296.56}
+{"id": "CgYogW-69PI-t4296.56", "text": "and then also interaction among the vertices which is the part that he was talking about", "start": 4296.56, "end": 4302.04}
+{"id": "CgYogW-69PI-t4302.04", "text": "earlier.", "start": 4302.04, "end": 4303.04}
+{"id": "CgYogW-69PI-t4303.04", "text": "Well I think we are going to open it up to questions from the audience and you could", "start": 4303.04, "end": 4310.0}
+{"id": "CgYogW-69PI-t4310.0", "text": "step up to the microphone and say your name.", "start": 4310.0, "end": 4314.32}
+{"id": "CgYogW-69PI-t4314.32", "text": "Hi my name is William Grassy and I would like you to talk about fluid dynamic equations", "start": 4314.32, "end": 4326.44}
+{"id": "CgYogW-69PI-t4326.44", "text": "and the different aspects of that.", "start": 4326.44, "end": 4328.8}
+{"id": "CgYogW-69PI-t4328.8", "text": "So it is heat and viscosity and pressure and what is fluid there are four things in the", "start": 4328.8, "end": 4336.48}
+{"id": "CgYogW-69PI-t4336.48", "text": "velocity.", "start": 4336.48, "end": 4341.24}
+{"id": "CgYogW-69PI-t4341.24", "text": "So these are the equations that you are using to map out turbulence on an airplane wing", "start": 4341.24, "end": 4347.679999999999}
+{"id": "CgYogW-69PI-t4347.679999999999", "text": "or whatever and they are nonlinear.", "start": 4347.679999999999, "end": 4350.32}
+{"id": "CgYogW-69PI-t4350.32", "text": "My question is really can we think of those four dimensions of fluid dynamics metaphorically", "start": 4350.32, "end": 4363.2}
+{"id": "CgYogW-69PI-t4363.2", "text": "in the sense that these are the components of creating turbulence in gases and liquids.", "start": 4363.2, "end": 4373.679999999999}
+{"id": "CgYogW-69PI-t4373.679999999999", "text": "Is there something, can we play with that metaphorically in thinking about art and the", "start": 4373.679999999999, "end": 4379.0}
+{"id": "CgYogW-69PI-t4379.0", "text": "creation of art?", "start": 4379.0, "end": 4380.76}
+{"id": "CgYogW-69PI-t4380.76", "text": "That is the question.", "start": 4380.76, "end": 4381.76}
+{"id": "CgYogW-69PI-t4381.76", "text": "So interesting question.", "start": 4381.76, "end": 4382.76}
+{"id": "CgYogW-69PI-t4382.76", "text": "That is a good question.", "start": 4382.76, "end": 4383.76}
+{"id": "CgYogW-69PI-t4383.76", "text": "That is a good question.", "start": 4383.76, "end": 4384.76}
+{"id": "CgYogW-69PI-t4384.76", "text": "That is a good question.", "start": 4384.76, "end": 4385.76}
+{"id": "CgYogW-69PI-t4385.76", "text": "You got Dana.", "start": 4385.76, "end": 4386.76}
+{"id": "CgYogW-69PI-t4386.76", "text": "So thinking about just to repeat the question.", "start": 4386.76, "end": 4393.56}
+{"id": "CgYogW-69PI-t4393.56", "text": "Can these equations for turbulence be metaphorically thought of as art or in art or?", "start": 4393.56, "end": 4401.96}
+{"id": "CgYogW-69PI-t4401.96", "text": "It could be emotion or it could be.", "start": 4401.96, "end": 4407.12}
+{"id": "CgYogW-69PI-t4407.12", "text": "That is a very good question.", "start": 4407.12, "end": 4409.92}
+{"id": "CgYogW-69PI-t4409.92", "text": "If you could do it for economics and in the market it could get very rich.", "start": 4409.92, "end": 4415.96}
+{"id": "CgYogW-69PI-t4415.96", "text": "Well there is an interesting art project in which some artists took the stock market", "start": 4415.96, "end": 4427.52}
+{"id": "CgYogW-69PI-t4427.52", "text": "data and remapped it to a very believable mountain topography and they rendered it perfectly.", "start": 4427.52, "end": 4437.72}
+{"id": "CgYogW-69PI-t4437.72", "text": "Michael Najar.", "start": 4437.72, "end": 4438.72}
+{"id": "CgYogW-69PI-t4438.72", "text": "Michael Najar.", "start": 4438.72, "end": 4439.72}
+{"id": "CgYogW-69PI-t4439.72", "text": "Yes.", "start": 4439.72, "end": 4440.72}
+{"id": "CgYogW-69PI-t4440.72", "text": "So they spatialized the information and these equations in a certain way.", "start": 4440.72, "end": 4448.64}
+{"id": "CgYogW-69PI-t4448.64", "text": "So I do think that there are opportunities to when these would spatialize the information", "start": 4448.64, "end": 4460.12}
+{"id": "CgYogW-69PI-t4460.12", "text": "into some type of known representation so it could be landscapes or could be color or", "start": 4460.12, "end": 4471.0}
+{"id": "CgYogW-69PI-t4471.0", "text": "could be many things.", "start": 4471.0, "end": 4472.88}
+{"id": "CgYogW-69PI-t4472.88", "text": "So there is endless opportunities and I guess that is a problem with art because there is", "start": 4472.88, "end": 4477.84}
+{"id": "CgYogW-69PI-t4477.84", "text": "hundreds and hundreds of ways to look at it.", "start": 4477.84, "end": 4479.5199999999995}
+{"id": "CgYogW-69PI-t4479.5199999999995", "text": "But there is something that I think crosses over between the two and that might be showing", "start": 4479.5199999999995, "end": 4488.5199999999995}
+{"id": "CgYogW-69PI-t4488.52", "text": "something that is invisible, bringing visibility to it.", "start": 4488.52, "end": 4491.88}
+{"id": "CgYogW-69PI-t4491.88", "text": "So I think that is where the metaphor would start for me at least if I was to look at", "start": 4491.88, "end": 4496.8}
+{"id": "CgYogW-69PI-t4496.8", "text": "this and I was to look at turbulent flow over an airplane and I can look at what my", "start": 4496.8, "end": 4501.4800000000005}
+{"id": "CgYogW-69PI-t4501.4800000000005", "text": "brother is doing or I can look at these.", "start": 4501.4800000000005, "end": 4504.4400000000005}
+{"id": "CgYogW-69PI-t4504.4400000000005", "text": "What I was excited about, I think what Enrico said about the tail switching.", "start": 4504.4400000000005, "end": 4508.080000000001}
+{"id": "CgYogW-69PI-t4508.080000000001", "text": "Can you say something about tail switching?", "start": 4508.080000000001, "end": 4510.0}
+{"id": "CgYogW-69PI-t4510.0", "text": "I mean just thinking about that that is crazy and wild and this kind of uniformity that", "start": 4510.0, "end": 4516.0}
+{"id": "CgYogW-69PI-t4516.0", "text": "happens below this temperature and helium that Trini is mentioning.", "start": 4516.0, "end": 4520.2}
+{"id": "CgYogW-69PI-t4520.2", "text": "So there is so many ways to make this more visible in different ways.", "start": 4520.2, "end": 4527.08}
+{"id": "CgYogW-69PI-t4527.08", "text": "But the interesting thing about the piece out there is you can actually see it and it", "start": 4527.08, "end": 4531.56}
+{"id": "CgYogW-69PI-t4531.56", "text": "is a camera.", "start": 4531.56, "end": 4532.96}
+{"id": "CgYogW-69PI-t4532.96", "text": "To take maybe a higher level of stab at your question like one of the things that I have", "start": 4532.96, "end": 4541.72}
+{"id": "CgYogW-69PI-t4541.72", "text": "been working on a lot is problematizing this cultural moment that we live in where we sort", "start": 4541.72, "end": 4548.08}
+{"id": "CgYogW-69PI-t4548.08", "text": "of live in the era of the quantified selfie.", "start": 4548.08, "end": 4552.68}
+{"id": "CgYogW-69PI-t4552.68", "text": "We have all these tools around us, around instrumenting our lives.", "start": 4552.68, "end": 4556.320000000001}
+{"id": "CgYogW-69PI-t4556.320000000001", "text": "I have got five things on me that are measuring me right now.", "start": 4556.320000000001, "end": 4561.68}
+{"id": "CgYogW-69PI-t4561.68", "text": "I have got my heart beat and how far I have walked.", "start": 4561.68, "end": 4566.2}
+{"id": "CgYogW-69PI-t4566.2", "text": "I have got this thing with all my email, all this stuff.", "start": 4566.2, "end": 4569.4400000000005}
+{"id": "CgYogW-69PI-t4569.44", "text": "And I think to Trini's point about these very simple interactions add up to things that", "start": 4569.44, "end": 4576.5199999999995}
+{"id": "CgYogW-69PI-t4576.5199999999995", "text": "we can't predict.", "start": 4576.5199999999995, "end": 4578.24}
+{"id": "CgYogW-69PI-t4578.24", "text": "And that is a metaphor for humanity and life and all this stuff is something that I think", "start": 4578.24, "end": 4583.919999999999}
+{"id": "CgYogW-69PI-t4583.919999999999", "text": "artists have this lens on that is worth valorizing and preserving the idea that it is complicated.", "start": 4583.919999999999, "end": 4593.44}
+{"id": "CgYogW-69PI-t4593.44", "text": "I have a self-portrait that I made once where I took all of my email, so like about half", "start": 4593.44, "end": 4600.719999999999}
+{"id": "CgYogW-69PI-t4600.719999999999", "text": "a million emails.", "start": 4600.719999999999, "end": 4603.719999999999}
+{"id": "CgYogW-69PI-t4603.719999999999", "text": "And so every email I sent in like 20 years or something like that.", "start": 4603.719999999999, "end": 4607.2}
+{"id": "CgYogW-69PI-t4607.2", "text": "And I took all the names everybody I have ever emailed with, stuck them in the middle", "start": 4607.2, "end": 4613.12}
+{"id": "CgYogW-69PI-t4613.12", "text": "of a visualization.", "start": 4613.12, "end": 4614.879999999999}
+{"id": "CgYogW-69PI-t4614.879999999999", "text": "And it is called a force directed graph.", "start": 4614.879999999999, "end": 4617.839999999999}
+{"id": "CgYogW-69PI-t4617.839999999999", "text": "I run a physics equation on it.", "start": 4617.839999999999, "end": 4619.759999999999}
+{"id": "CgYogW-69PI-t4619.76", "text": "I blow them all up and give everybody gravity based on how long they have been emailing each", "start": 4619.76, "end": 4625.72}
+{"id": "CgYogW-69PI-t4625.72", "text": "other, how much they have been emailing each other.", "start": 4625.72, "end": 4628.0}
+{"id": "CgYogW-69PI-t4628.0", "text": "And then I would do sort of sentimental analysis on the name.", "start": 4628.0, "end": 4631.56}
+{"id": "CgYogW-69PI-t4631.56", "text": "So if I say I love you, you are heavier to me.", "start": 4631.56, "end": 4635.280000000001}
+{"id": "CgYogW-69PI-t4635.280000000001", "text": "And what happens is it ends up making this constellation of my life where there is this", "start": 4635.280000000001, "end": 4640.0}
+{"id": "CgYogW-69PI-t4640.0", "text": "main line complex and it is very messy.", "start": 4640.0, "end": 4643.04}
+{"id": "CgYogW-69PI-t4643.04", "text": "Yeah, it looks like a big graph.", "start": 4643.04, "end": 4647.4400000000005}
+{"id": "CgYogW-69PI-t4647.44", "text": "It looks like a big graph of everybody I ever talked to.", "start": 4647.44, "end": 4650.36}
+{"id": "CgYogW-69PI-t4650.36", "text": "And I hand wrote all the names.", "start": 4650.36, "end": 4652.28}
+{"id": "CgYogW-69PI-t4652.28", "text": "So it is not quite as digital as maybe I make it sound.", "start": 4652.28, "end": 4656.799999999999}
+{"id": "CgYogW-69PI-t4656.799999999999", "text": "But like that thing of these very simple things adding up to things that are really", "start": 4656.799999999999, "end": 4662.44}
+{"id": "CgYogW-69PI-t4662.44", "text": "complex can be.", "start": 4662.44, "end": 4663.44}
+{"id": "CgYogW-69PI-t4663.44", "text": "A little try to give you a higher answer.", "start": 4663.44, "end": 4665.44}
+{"id": "CgYogW-69PI-t4665.44", "text": "I would like to give a lower answer.", "start": 4665.44, "end": 4668.44}
+{"id": "CgYogW-69PI-t4668.44", "text": "Yeah, I mean, try anyhow.", "start": 4668.44, "end": 4671.5599999999995}
+{"id": "CgYogW-69PI-t4671.5599999999995", "text": "So I will interpret your question the following way.", "start": 4671.5599999999995, "end": 4675.839999999999}
+{"id": "CgYogW-69PI-t4675.84", "text": "If you take a gas flow, gas has zillions of molecules.", "start": 4675.84, "end": 4680.4400000000005}
+{"id": "CgYogW-69PI-t4680.4400000000005", "text": "Zillions is not a word, but still.", "start": 4680.4400000000005, "end": 4683.72}
+{"id": "CgYogW-69PI-t4683.72", "text": "And so each molecule must have some effect on how the flow happens.", "start": 4683.72, "end": 4689.56}
+{"id": "CgYogW-69PI-t4689.56", "text": "But it just so happens for most purposes, you don't need all these zillion things.", "start": 4689.56, "end": 4695.12}
+{"id": "CgYogW-69PI-t4695.12", "text": "You only need as you said five variables, pressure, density, velocity, etc.", "start": 4695.12, "end": 4701.6}
+{"id": "CgYogW-69PI-t4701.6", "text": "And so in general, when you are looking at very multidimensional phenomena, it may very", "start": 4701.6, "end": 4710.76}
+{"id": "CgYogW-69PI-t4710.76", "text": "well be that there are only a small number of things that are of interest and importance", "start": 4710.76, "end": 4714.88}
+{"id": "CgYogW-69PI-t4714.88", "text": "for us.", "start": 4714.88, "end": 4715.88}
+{"id": "CgYogW-69PI-t4715.88", "text": "And that's what happens in fluids and that's what you said.", "start": 4715.88, "end": 4719.96}
+{"id": "CgYogW-69PI-t4719.96", "text": "So the question now is whether in other human endeavors, there may be many influences that", "start": 4719.96, "end": 4729.4400000000005}
+{"id": "CgYogW-69PI-t4729.44", "text": "are happening on a thought or an object or a person, but really how many of them are", "start": 4729.44, "end": 4735.5599999999995}
+{"id": "CgYogW-69PI-t4735.5599999999995", "text": "important.", "start": 4735.5599999999995, "end": 4737.16}
+{"id": "CgYogW-69PI-t4737.16", "text": "And if in fact this huge multidimensional space can somehow be reduced to a small number of", "start": 4737.16, "end": 4743.2}
+{"id": "CgYogW-69PI-t4743.2", "text": "dimensions.", "start": 4743.2, "end": 4745.24}
+{"id": "CgYogW-69PI-t4745.24", "text": "Certainly in financial market, every investor, how he or she gets into the market, will have", "start": 4745.24, "end": 4752.36}
+{"id": "CgYogW-69PI-t4752.36", "text": "some influence on the behavior of the stock market.", "start": 4752.36, "end": 4756.04}
+{"id": "CgYogW-69PI-t4756.04", "text": "But actually, maybe not all of them are important.", "start": 4756.04, "end": 4759.76}
+{"id": "CgYogW-69PI-t4759.76", "text": "Maybe what happens to Apple may be much more important somehow.", "start": 4759.76, "end": 4763.4}
+{"id": "CgYogW-69PI-t4763.4", "text": "And so if you know a small number of things, it's conceivable that you can get, that's", "start": 4763.4, "end": 4767.92}
+{"id": "CgYogW-69PI-t4767.92", "text": "the purpose of S&P and all these business, that's what they do.", "start": 4767.92, "end": 4772.76}
+{"id": "CgYogW-69PI-t4772.76", "text": "So you might ask therefore an artist when she works on something, whether the multitude", "start": 4772.76, "end": 4781.56}
+{"id": "CgYogW-69PI-t4781.56", "text": "of influences that you think will influence production of an art, are they really important?", "start": 4781.56, "end": 4788.56}
+{"id": "CgYogW-69PI-t4788.56", "text": "Are the multitude of thoughts that happen inside the brain, inside our own world?", "start": 4788.56, "end": 4797.68}
+{"id": "CgYogW-69PI-t4797.68", "text": "Will all of them matter?", "start": 4797.68, "end": 4800.04}
+{"id": "CgYogW-69PI-t4800.04", "text": "Probably in some way, every little thing will have some little effect.", "start": 4800.04, "end": 4805.160000000001}
+{"id": "CgYogW-69PI-t4805.16", "text": "But is it only that there are five or ten or whatever variables that really control what", "start": 4805.16, "end": 4812.16}
+{"id": "CgYogW-69PI-t4812.16", "text": "happens?", "start": 4812.16, "end": 4813.16}
+{"id": "CgYogW-69PI-t4813.16", "text": "It may be as you said, Luke, it may be the technology of the moment, it may be the cultural", "start": 4813.16, "end": 4819.08}
+{"id": "CgYogW-69PI-t4819.08", "text": "background, it may be the political environment in which you live.", "start": 4819.08, "end": 4823.76}
+{"id": "CgYogW-69PI-t4823.76", "text": "I don't know, I mean are you up-bringing or the tensions that you had when you were a", "start": 4823.76, "end": 4828.639999999999}
+{"id": "CgYogW-69PI-t4828.639999999999", "text": "child?", "start": 4828.639999999999, "end": 4829.639999999999}
+{"id": "CgYogW-69PI-t4829.639999999999", "text": "Maybe there are only a small number of things like that.", "start": 4829.639999999999, "end": 4832.639999999999}
+{"id": "CgYogW-69PI-t4832.639999999999", "text": "And that would be interesting to explore.", "start": 4832.639999999999, "end": 4834.44}
+{"id": "CgYogW-69PI-t4834.44", "text": "Of course I don't know the answer, but I really like the question.", "start": 4834.44, "end": 4839.36}
+{"id": "CgYogW-69PI-t4839.36", "text": "I simply elaborated my understanding of what you said.", "start": 4839.36, "end": 4844.839999999999}
+{"id": "CgYogW-69PI-t4844.839999999999", "text": "I'm on painters, so I don't have as much background in science, but I felt that painting", "start": 4844.839999999999, "end": 4855.679999999999}
+{"id": "CgYogW-69PI-t4855.679999999999", "text": "or art was a little bit minimized here in its methodology.", "start": 4855.679999999999, "end": 4860.16}
+{"id": "CgYogW-69PI-t4860.16", "text": "And I've spoken before and probably have said some demon things like that word beauty has", "start": 4860.16, "end": 4865.32}
+{"id": "CgYogW-69PI-t4865.32", "text": "to be reconsidered, how it's spoken about.", "start": 4865.32, "end": 4869.0}
+{"id": "CgYogW-69PI-t4869.0", "text": "Because for the most part, when you read artist's writings, they don't say I'm working toward", "start": 4869.0, "end": 4875.16}
+{"id": "CgYogW-69PI-t4875.16", "text": "beauty.", "start": 4875.16, "end": 4876.16}
+{"id": "CgYogW-69PI-t4876.16", "text": "This is not what they say their motive is.", "start": 4876.16, "end": 4878.96}
+{"id": "CgYogW-69PI-t4878.96", "text": "And so what then is the artist trying to do?", "start": 4878.96, "end": 4882.0}
+{"id": "CgYogW-69PI-t4882.0", "text": "And there were some topics that came up that began to touch on it, like subjective and", "start": 4882.0, "end": 4887.44}
+{"id": "CgYogW-69PI-t4887.44", "text": "objective.", "start": 4887.44, "end": 4888.5199999999995}
+{"id": "CgYogW-69PI-t4888.52", "text": "The relationship of science to the subjective and objective.", "start": 4888.52, "end": 4892.360000000001}
+{"id": "CgYogW-69PI-t4892.360000000001", "text": "The relationship of art is a little different.", "start": 4892.360000000001, "end": 4895.040000000001}
+{"id": "CgYogW-69PI-t4895.040000000001", "text": "Now science you mentioned has constraints, and I like that.", "start": 4895.040000000001, "end": 4898.76}
+{"id": "CgYogW-69PI-t4898.76", "text": "But so do the arts.", "start": 4898.76, "end": 4900.080000000001}
+{"id": "CgYogW-69PI-t4900.080000000001", "text": "They have languages.", "start": 4900.080000000001, "end": 4902.040000000001}
+{"id": "CgYogW-69PI-t4902.040000000001", "text": "And languages change, they're complex, but they still have some constriction.", "start": 4902.040000000001, "end": 4907.120000000001}
+{"id": "CgYogW-69PI-t4907.120000000001", "text": "And so if you think about painting, for instance, they've dealt with these issues, but in a", "start": 4907.120000000001, "end": 4912.4800000000005}
+{"id": "CgYogW-69PI-t4912.4800000000005", "text": "very different way, space and time, for instance.", "start": 4912.4800000000005, "end": 4916.76}
+{"id": "CgYogW-69PI-t4916.76", "text": "The futurists were very interested in the concept of time.", "start": 4916.76, "end": 4920.2}
+{"id": "CgYogW-69PI-t4920.2", "text": "The cubists were interested in space.", "start": 4920.2, "end": 4922.92}
+{"id": "CgYogW-69PI-t4922.92", "text": "And so within that framework, they try to devise a language.", "start": 4922.92, "end": 4927.72}
+{"id": "CgYogW-69PI-t4927.72", "text": "Things are more complex today.", "start": 4927.72, "end": 4930.4800000000005}
+{"id": "CgYogW-69PI-t4930.4800000000005", "text": "And art is really not the thing in itself.", "start": 4930.4800000000005, "end": 4934.6}
+{"id": "CgYogW-69PI-t4934.6", "text": "It is a building block, just like sciences, toward a relationship between the self and", "start": 4934.6, "end": 4941.320000000001}
+{"id": "CgYogW-69PI-t4941.320000000001", "text": "the outer world.", "start": 4941.320000000001, "end": 4943.280000000001}
+{"id": "CgYogW-69PI-t4943.28", "text": "And to define how science says that is where the difference lies.", "start": 4943.28, "end": 4947.32}
+{"id": "CgYogW-69PI-t4947.32", "text": "What is the relationship between a scientist and the outer world, the subjective and the", "start": 4947.32, "end": 4952.32}
+{"id": "CgYogW-69PI-t4952.32", "text": "objective, and what is it in the artist?", "start": 4952.32, "end": 4955.36}
+{"id": "CgYogW-69PI-t4955.36", "text": "And the artist is an individualist.", "start": 4955.36, "end": 4957.5199999999995}
+{"id": "CgYogW-69PI-t4957.5199999999995", "text": "The scientist is too, but in a different way.", "start": 4957.5199999999995, "end": 4960.44}
+{"id": "CgYogW-69PI-t4960.44", "text": "I mean, Cezanne said I'm just a link in the long chain of development of my spatial concepts,", "start": 4960.44, "end": 4966.719999999999}
+{"id": "CgYogW-69PI-t4966.719999999999", "text": "my way of creating a landscape.", "start": 4966.719999999999, "end": 4969.24}
+{"id": "CgYogW-69PI-t4969.24", "text": "Oops.", "start": 4969.24, "end": 4970.24}
+{"id": "CgYogW-69PI-t4970.24", "text": "Anyway, I just want to speak up a little bit for the arts, because it's a very complex", "start": 4970.24, "end": 4977.719999999999}
+{"id": "CgYogW-69PI-t4977.719999999999", "text": "art.", "start": 4977.719999999999, "end": 4978.719999999999}
+{"id": "CgYogW-69PI-t4978.719999999999", "text": "Can you tell us what you tried to do as an artist?", "start": 4978.719999999999, "end": 4982.88}
+{"id": "CgYogW-69PI-t4982.88", "text": "Well, I can't.", "start": 4982.88, "end": 4986.48}
+{"id": "CgYogW-69PI-t4986.48", "text": "People say, oh, East to me, are you realist or abstract?", "start": 4986.48, "end": 4989.5599999999995}
+{"id": "CgYogW-69PI-t4989.5599999999995", "text": "And I find those questions ridiculous.", "start": 4989.5599999999995, "end": 4992.88}
+{"id": "CgYogW-69PI-t4992.88", "text": "I am interested in states of mind.", "start": 4992.88, "end": 4996.96}
+{"id": "CgYogW-69PI-t4996.96", "text": "And De Currico spoke about it, and he called it shtimmung.", "start": 4996.96, "end": 5002.0}
+{"id": "CgYogW-69PI-t5002.0", "text": "And in Indian music, they have ragas and things.", "start": 5002.0, "end": 5005.04}
+{"id": "CgYogW-69PI-t5005.04", "text": "But states of mind, I don't know, maybe it's more in the realm of study of the mind.", "start": 5005.04, "end": 5012.4}
+{"id": "CgYogW-69PI-t5012.4", "text": "I don't know quite how in science you would deal with such a factor.", "start": 5012.4, "end": 5015.68}
+{"id": "CgYogW-69PI-t5015.68", "text": "But I'm interested in states of mind and ways to, I consider myself a poet painter.", "start": 5015.68, "end": 5024.28}
+{"id": "CgYogW-69PI-t5024.28", "text": "So I'm interested in words as equivalents in shapes and forms, the way a poet would be.", "start": 5024.28, "end": 5031.2}
+{"id": "CgYogW-69PI-t5031.2", "text": "All right, that's fine.", "start": 5031.2, "end": 5032.36}
+{"id": "CgYogW-69PI-t5032.36", "text": "But I do feel that there needs to be a lot more bridges today.", "start": 5032.36, "end": 5038.2}
+{"id": "CgYogW-69PI-t5038.2", "text": "There were bridges in the Renaissance, but there needs to be a lot more bridges today", "start": 5038.2, "end": 5042.84}
+{"id": "CgYogW-69PI-t5042.84", "text": "about the complexity of the problem.", "start": 5042.84, "end": 5044.84}
+{"id": "CgYogW-69PI-t5044.84", "text": "And it can be discussed, but it's very difficult because we have to get a language set up for", "start": 5044.84, "end": 5050.96}
+{"id": "CgYogW-69PI-t5050.96", "text": "that.", "start": 5050.96, "end": 5051.96}
+{"id": "CgYogW-69PI-t5051.96", "text": "So I'm not sure what's going on today.", "start": 5051.96, "end": 5055.28}
+{"id": "CgYogW-69PI-t5055.28", "text": "There are so many pictorial languages existing.", "start": 5055.28, "end": 5058.88}
+{"id": "CgYogW-69PI-t5058.88", "text": "There are so many varieties of what art is today.", "start": 5058.88, "end": 5062.52}
+{"id": "CgYogW-69PI-t5062.52", "text": "It's extended beyond the canvas into the space you live in.", "start": 5062.52, "end": 5066.6}
+{"id": "CgYogW-69PI-t5066.6", "text": "I mean, it has ranged all over so we no longer can speak that there's only painting and someone", "start": 5066.6, "end": 5073.04}
+{"id": "CgYogW-69PI-t5073.04", "text": "will be doing a performance and they'll say that's an artist.", "start": 5073.04, "end": 5076.44}
+{"id": "CgYogW-69PI-t5076.44", "text": "So we have a lot of, it's a vast topic.", "start": 5076.44, "end": 5079.72}
+{"id": "CgYogW-69PI-t5079.72", "text": "Now in science, I don't know if you have the equivalents.", "start": 5079.72, "end": 5082.12}
+{"id": "CgYogW-69PI-t5082.12", "text": "It's the same, but it has spread so much that one part of the, one group of scientists can't", "start": 5082.12, "end": 5088.52}
+{"id": "CgYogW-69PI-t5088.52", "text": "relate to the other group.", "start": 5088.52, "end": 5090.400000000001}
+{"id": "CgYogW-69PI-t5090.400000000001", "text": "But once in a while something happens in science.", "start": 5090.400000000001, "end": 5093.4400000000005}
+{"id": "CgYogW-69PI-t5093.4400000000005", "text": "That is a concept arises and it will collapse a number of things which seem so disparate", "start": 5093.4400000000005, "end": 5098.68}
+{"id": "CgYogW-69PI-t5098.68", "text": "in the beginning.", "start": 5098.68, "end": 5099.96}
+{"id": "CgYogW-69PI-t5099.96", "text": "And now they are all sort of talking about the same.", "start": 5099.96, "end": 5103.64}
+{"id": "CgYogW-69PI-t5103.64", "text": "In art, I don't know if that happens.", "start": 5103.64, "end": 5105.400000000001}
+{"id": "CgYogW-69PI-t5105.4", "text": "I totally agree with you what you said that it has become very much.", "start": 5105.4, "end": 5110.719999999999}
+{"id": "CgYogW-69PI-t5110.719999999999", "text": "I think the idea of turbulence.", "start": 5110.719999999999, "end": 5113.5199999999995}
+{"id": "CgYogW-69PI-t5113.5199999999995", "text": "I think fixed form is a problem both in the visual world probably and in some way in the", "start": 5113.5199999999995, "end": 5119.92}
+{"id": "CgYogW-69PI-t5119.92", "text": "sciences.", "start": 5119.92, "end": 5121.48}
+{"id": "CgYogW-69PI-t5121.48", "text": "And I think artists are struggling with what, you know, form in forms in space and the", "start": 5121.48, "end": 5128.679999999999}
+{"id": "CgYogW-69PI-t5128.679999999999", "text": "irrational elements and the unknown elements.", "start": 5128.679999999999, "end": 5132.36}
+{"id": "CgYogW-69PI-t5132.36", "text": "And there's a lot of, well it started really with abstract expression is to try and explore", "start": 5132.36, "end": 5136.679999999999}
+{"id": "CgYogW-69PI-t5136.679999999999", "text": "the inner life and try and explore the inner life.", "start": 5136.679999999999, "end": 5139.48}
+{"id": "CgYogW-69PI-t5139.48", "text": "They got into a spatial realm that was also undefined in terms.", "start": 5139.48, "end": 5145.2}
+{"id": "CgYogW-69PI-t5145.2", "text": "So I think the languages are, you know, what you just said, it's whether we'll find a universal", "start": 5145.2, "end": 5151.5199999999995}
+{"id": "CgYogW-69PI-t5151.5199999999995", "text": "language.", "start": 5151.5199999999995, "end": 5152.5199999999995}
+{"id": "CgYogW-69PI-t5152.5199999999995", "text": "I don't know if we want to.", "start": 5152.5199999999995, "end": 5153.5199999999995}
+{"id": "CgYogW-69PI-t5153.5199999999995", "text": "I think the excitement in art is the X factor in which you don't know if you want to find", "start": 5153.5199999999995, "end": 5157.639999999999}
+{"id": "CgYogW-69PI-t5157.639999999999", "text": "the answer to X but it's the journey that's important.", "start": 5157.639999999999, "end": 5161.2}
+{"id": "CgYogW-69PI-t5161.2", "text": "And I think artists are very involved with journey more than anything.", "start": 5161.2, "end": 5164.8}
+{"id": "CgYogW-69PI-t5164.8", "text": "Yeah.", "start": 5164.8, "end": 5165.8}
+{"id": "CgYogW-69PI-t5165.8", "text": "Thank you.", "start": 5165.8, "end": 5166.8}
+{"id": "CgYogW-69PI-t5166.8", "text": "We would say the same too.", "start": 5166.8, "end": 5168.4}
+{"id": "CgYogW-69PI-t5168.4", "text": "It's not being there but the process, the becoming, becoming instead of being there is", "start": 5168.4, "end": 5176.0}
+{"id": "CgYogW-69PI-t5176.0", "text": "really the essence of science actually.", "start": 5176.0, "end": 5178.28}
+{"id": "CgYogW-69PI-t5178.28", "text": "That's very much the contemporary world.", "start": 5178.28, "end": 5180.5199999999995}
+{"id": "CgYogW-69PI-t5180.5199999999995", "text": "The journey and the, and yes, very much.", "start": 5180.5199999999995, "end": 5183.84}
+{"id": "CgYogW-69PI-t5183.84", "text": "Thank you.", "start": 5183.84, "end": 5184.84}
+{"id": "CgYogW-69PI-t5184.84", "text": "Thank you for your very interesting comment.", "start": 5184.84, "end": 5186.84}
+{"id": "CgYogW-69PI-t5186.84", "text": "Hi.", "start": 5186.84, "end": 5192.84}
+{"id": "CgYogW-69PI-t5192.84", "text": "So I teach English at high school level.", "start": 5192.84, "end": 5207.56}
+{"id": "CgYogW-69PI-t5207.56", "text": "And so one of the things that teaching in terms of two courses I'm teaching, both pretty", "start": 5207.56, "end": 5216.4400000000005}
+{"id": "CgYogW-69PI-t5216.44", "text": "much dealing with sort of like the idea of like what is art in terms of like something's", "start": 5216.44, "end": 5226.16}
+{"id": "CgYogW-69PI-t5226.16", "text": "going to ask a question.", "start": 5226.16, "end": 5227.5199999999995}
+{"id": "CgYogW-69PI-t5227.5199999999995", "text": "Isn't the job of both science and art to alert us to alert us and extend our understanding", "start": 5227.5199999999995, "end": 5235.799999999999}
+{"id": "CgYogW-69PI-t5235.799999999999", "text": "of meaning?", "start": 5235.799999999999, "end": 5238.5199999999995}
+{"id": "CgYogW-69PI-t5238.5199999999995", "text": "And then thinking of meaning in terms of like what is the archetypal?", "start": 5238.5199999999995, "end": 5243.799999999999}
+{"id": "CgYogW-69PI-t5243.8", "text": "You know, that extends beyond time and space.", "start": 5243.8, "end": 5248.16}
+{"id": "CgYogW-69PI-t5248.16", "text": "And then how does the archetypal extend to our current collective unconscious or the", "start": 5248.16, "end": 5254.92}
+{"id": "CgYogW-69PI-t5254.92", "text": "current zeitgeist?", "start": 5254.92, "end": 5258.72}
+{"id": "CgYogW-69PI-t5258.72", "text": "One of the things I was thinking about, like when you guys were talking about turbulence", "start": 5258.72, "end": 5262.16}
+{"id": "CgYogW-69PI-t5262.16", "text": "and if you can speak more into this, isn't our understanding of sort of what is chaos", "start": 5262.16, "end": 5270.52}
+{"id": "CgYogW-69PI-t5270.52", "text": "or what is turbulence or what is sort of even confusing?", "start": 5270.52, "end": 5280.040000000001}
+{"id": "CgYogW-69PI-t5280.040000000001", "text": "Just sort of where we are at the moment, you know, and isn't that sort of understanding", "start": 5280.040000000001, "end": 5290.52}
+{"id": "CgYogW-69PI-t5290.52", "text": "of like, I was looking at my notes here.", "start": 5290.52, "end": 5296.84}
+{"id": "CgYogW-69PI-t5296.84", "text": "The idea of like complexity of modernity, the same thing in the sense that like complexity", "start": 5296.84, "end": 5302.72}
+{"id": "CgYogW-69PI-t5302.72", "text": "is, modernity is always moving and therefore complexity is always moving and therefore", "start": 5302.72, "end": 5309.32}
+{"id": "CgYogW-69PI-t5309.32", "text": "like what we don't understand and what we come to understand is also always moving.", "start": 5309.32, "end": 5317.2}
+{"id": "CgYogW-69PI-t5317.2", "text": "Any takers?", "start": 5317.2, "end": 5327.0}
+{"id": "CgYogW-69PI-t5327.0", "text": "I'm not sure exactly what you were asking.", "start": 5327.0, "end": 5331.72}
+{"id": "CgYogW-69PI-t5331.72", "text": "Are you saying actually?", "start": 5331.72, "end": 5337.08}
+{"id": "CgYogW-69PI-t5337.08", "text": "So in chaos, what happens is you start with certain types of initial conditions that is", "start": 5337.08, "end": 5347.12}
+{"id": "CgYogW-69PI-t5347.12", "text": "you know one is born in certain way, once color is that etc.", "start": 5347.12, "end": 5352.92}
+{"id": "CgYogW-69PI-t5352.92", "text": "But all of them gets forgotten in a certain sharp period of time.", "start": 5352.92, "end": 5360.599999999999}
+{"id": "CgYogW-69PI-t5360.599999999999", "text": "That's the essence of chaos that is initial conditions get forgotten and the evolution", "start": 5360.599999999999, "end": 5366.5199999999995}
+{"id": "CgYogW-69PI-t5366.5199999999995", "text": "really leads you so far away from where you started that it doesn't matter.", "start": 5366.5199999999995, "end": 5374.08}
+{"id": "CgYogW-69PI-t5374.08", "text": "And then you have the complexity.", "start": 5374.08, "end": 5375.84}
+{"id": "CgYogW-69PI-t5375.84", "text": "The complexity comes in by the interplay of this forgetting about initial conditions", "start": 5375.84, "end": 5384.16}
+{"id": "CgYogW-69PI-t5384.16", "text": "and the relation to relation of that to the environment.", "start": 5384.16, "end": 5388.76}
+{"id": "CgYogW-69PI-t5388.76", "text": "So I think we are talking about words roughly the same meaning although it's not entirely", "start": 5388.76, "end": 5395.4400000000005}
+{"id": "CgYogW-69PI-t5395.4400000000005", "text": "obvious.", "start": 5395.4400000000005, "end": 5396.9400000000005}
+{"id": "CgYogW-69PI-t5396.9400000000005", "text": "So now after that I last track of your thread and thread of your question.", "start": 5396.9400000000005, "end": 5403.16}
+{"id": "CgYogW-69PI-t5403.16", "text": "So please repeat it for us.", "start": 5403.16, "end": 5410.16}
+{"id": "CgYogW-69PI-t5410.16", "text": "I think we are talking about the sort of pursuit of understanding.", "start": 5410.16, "end": 5417.16}
+{"id": "CgYogW-69PI-t5417.16", "text": "It seems like the forum is trying to deal with what is this sort of link between art and", "start": 5417.16, "end": 5435.68}
+{"id": "CgYogW-69PI-t5435.68", "text": "science.", "start": 5435.68, "end": 5436.68}
+{"id": "CgYogW-69PI-t5436.68", "text": "And it seems to me that sort of the sort of the pursuit of the sort of the artist is", "start": 5436.68, "end": 5463.08}
+{"id": "CgYogW-69PI-t5463.08", "text": "to sort of capture the current moment.", "start": 5463.08, "end": 5468.16}
+{"id": "CgYogW-69PI-t5468.16", "text": "Like the artist as an English teacher I teach that Mary Shelley is as a 16 year old sitting", "start": 5468.16, "end": 5475.92}
+{"id": "CgYogW-69PI-t5475.92", "text": "down and capturing the industrial revolution through Frankenstein.", "start": 5475.92, "end": 5484.08}
+{"id": "CgYogW-69PI-t5484.08", "text": "And you have all of these artists over the point who are sort of capturing our current", "start": 5484.08, "end": 5489.5599999999995}
+{"id": "CgYogW-69PI-t5489.56", "text": "understanding but it's so complex.", "start": 5489.56, "end": 5494.280000000001}
+{"id": "CgYogW-69PI-t5494.280000000001", "text": "And also like science kind of it seems to me that the scientist does that as well.", "start": 5494.280000000001, "end": 5502.6}
+{"id": "CgYogW-69PI-t5502.6", "text": "Like they only work to sort of like come from T.S. Eliot.", "start": 5502.6, "end": 5507.080000000001}
+{"id": "CgYogW-69PI-t5507.080000000001", "text": "Like I can only work from the school of English that I built up to this point.", "start": 5507.080000000001, "end": 5512.56}
+{"id": "CgYogW-69PI-t5512.56", "text": "It seems the same for the science.", "start": 5512.56, "end": 5514.8}
+{"id": "CgYogW-69PI-t5514.8", "text": "I think your question is so large that it might be something that you can also maybe", "start": 5514.8, "end": 5520.360000000001}
+{"id": "CgYogW-69PI-t5520.360000000001", "text": "you know address after the.", "start": 5520.360000000001, "end": 5521.84}
+{"id": "CgYogW-69PI-t5521.84", "text": "Can I make a quick response?", "start": 5521.84, "end": 5524.84}
+{"id": "CgYogW-69PI-t5524.84", "text": "So I think we would all agree that there is this challenge of anyone working in areas", "start": 5524.84, "end": 5533.12}
+{"id": "CgYogW-69PI-t5533.12", "text": "which are trying to achieve understanding of healing for example with this very complex", "start": 5533.12, "end": 5538.16}
+{"id": "CgYogW-69PI-t5538.16", "text": "world we're in.", "start": 5538.16, "end": 5539.88}
+{"id": "CgYogW-69PI-t5539.88", "text": "And Professor Shrinivasan was pointing out some similarities between art and science.", "start": 5539.88, "end": 5544.360000000001}
+{"id": "CgYogW-69PI-t5544.36", "text": "So I would like to add to that some important differences between art and science.", "start": 5544.36, "end": 5550.28}
+{"id": "CgYogW-69PI-t5550.28", "text": "And that one of them is the one concept of one truth.", "start": 5550.28, "end": 5555.12}
+{"id": "CgYogW-69PI-t5555.12", "text": "This came up actually just before we met with Rob because he in psychoanalytics they allow", "start": 5555.12, "end": 5560.92}
+{"id": "CgYogW-69PI-t5560.92", "text": "for multiple truths.", "start": 5560.92, "end": 5565.4}
+{"id": "CgYogW-69PI-t5565.4", "text": "Some people laugh at that.", "start": 5565.4, "end": 5566.839999999999}
+{"id": "CgYogW-69PI-t5566.839999999999", "text": "Thank you.", "start": 5566.839999999999, "end": 5568.88}
+{"id": "CgYogW-69PI-t5568.88", "text": "Thank you.", "start": 5568.88, "end": 5570.88}
+{"id": "CgYogW-69PI-t5570.88", "text": "It's a defining quality of most of modern science that we only allow one truth.", "start": 5570.88, "end": 5578.12}
+{"id": "CgYogW-69PI-t5578.12", "text": "And so a proposition is either right or wrong.", "start": 5578.12, "end": 5583.16}
+{"id": "CgYogW-69PI-t5583.16", "text": "And we work very hard to show it's right.", "start": 5583.16, "end": 5585.12}
+{"id": "CgYogW-69PI-t5585.12", "text": "Well actually people propose things and everyone tries to show they're wrong.", "start": 5585.12, "end": 5589.04}
+{"id": "CgYogW-69PI-t5589.04", "text": "But in the process you've been often create new things that are slightly different that", "start": 5589.04, "end": 5592.92}
+{"id": "CgYogW-69PI-t5592.92", "text": "will withstand all the attacks.", "start": 5592.92, "end": 5595.68}
+{"id": "CgYogW-69PI-t5595.68", "text": "And that concept of having one truth I don't think really has a parallel in art.", "start": 5595.68, "end": 5600.8}
+{"id": "CgYogW-69PI-t5600.8", "text": "And many people think that the ability of science to make progress, most of our modern", "start": 5600.8, "end": 5607.0}
+{"id": "CgYogW-69PI-t5607.0", "text": "technology comes from that method of reasoning of thinking that the world is one way and", "start": 5607.0, "end": 5614.72}
+{"id": "CgYogW-69PI-t5614.72", "text": "that we must prove things.", "start": 5614.72, "end": 5616.360000000001}
+{"id": "CgYogW-69PI-t5616.360000000001", "text": "And so it's a very different way of thinking and working.", "start": 5616.360000000001, "end": 5619.28}
+{"id": "CgYogW-69PI-t5619.28", "text": "Thank you.", "start": 5619.28, "end": 5620.28}
+{"id": "CgYogW-69PI-t5620.28", "text": "Is it one of the things for example when I teach post-modernism?", "start": 5620.28, "end": 5625.08}
+{"id": "CgYogW-69PI-t5625.08", "text": "I talk about the fact that my senior essay question was sort of-", "start": 5625.08, "end": 5633.44}
+{"id": "CgYogW-69PI-t5633.44", "text": "I'm sorry.", "start": 5633.44, "end": 5635.68}
+{"id": "CgYogW-69PI-t5635.68", "text": "So one of the senior questions for this year was like charts the death of the progress", "start": 5635.68, "end": 5643.64}
+{"id": "CgYogW-69PI-t5643.64", "text": "towards the death of the meta-narrative from the classic period to the post-modern period.", "start": 5643.64, "end": 5651.24}
+{"id": "CgYogW-69PI-t5651.24", "text": "And so with post-modernity we had that sort of at this point questioning of this idea", "start": 5651.24, "end": 5660.5199999999995}
+{"id": "CgYogW-69PI-t5660.5199999999995", "text": "of the ultimate truth, like the meta-narrative.", "start": 5660.5199999999995, "end": 5663.679999999999}
+{"id": "CgYogW-69PI-t5663.679999999999", "text": "And it seems that with science, because we talked about the fact of the Copernican papers", "start": 5663.679999999999, "end": 5670.8}
+{"id": "CgYogW-69PI-t5670.8", "text": "which were published and then 200 years under the pope until finally released.", "start": 5670.8, "end": 5680.96}
+{"id": "CgYogW-69PI-t5680.96", "text": "And even with science you had this sort of constant challenging of, you know, like with", "start": 5680.96, "end": 5688.36}
+{"id": "CgYogW-69PI-t5688.36", "text": "Einstein challenging Newton and all these other things, right?", "start": 5688.36, "end": 5693.4}
+{"id": "CgYogW-69PI-t5693.4", "text": "Thank you.", "start": 5693.4, "end": 5694.4}
+{"id": "CgYogW-69PI-t5694.4", "text": "Yeah.", "start": 5694.4, "end": 5695.4}
+{"id": "CgYogW-69PI-t5695.4", "text": "We can continue the discussion after I want to just leave time for other people to ask", "start": 5695.4, "end": 5699.04}
+{"id": "CgYogW-69PI-t5699.04", "text": "questions anyone has.", "start": 5699.04, "end": 5701.64}
+{"id": "CgYogW-69PI-t5701.64", "text": "Hello, I'm Bob Lang and I'm a psychoanalyst with the White Institute.", "start": 5701.64, "end": 5710.2}
+{"id": "CgYogW-69PI-t5710.2", "text": "And I'd like to go back to the Euler formula which I had never seen before.", "start": 5710.2, "end": 5715.639999999999}
+{"id": "CgYogW-69PI-t5715.639999999999", "text": "So you showed that, you said how beautiful it was.", "start": 5715.639999999999, "end": 5718.5199999999995}
+{"id": "CgYogW-69PI-t5718.5199999999995", "text": "It's very beautiful too.", "start": 5718.5199999999995, "end": 5720.32}
+{"id": "CgYogW-69PI-t5720.32", "text": "I didn't understand the item with all of the exponents and so on.", "start": 5720.32, "end": 5726.36}
+{"id": "CgYogW-69PI-t5726.36", "text": "But that plus one equals zero.", "start": 5726.36, "end": 5730.92}
+{"id": "CgYogW-69PI-t5730.92", "text": "So it's an equation.", "start": 5730.92, "end": 5732.44}
+{"id": "CgYogW-69PI-t5732.44", "text": "You take away one from the left side and take it away from the right side and you have the", "start": 5732.44, "end": 5740.08}
+{"id": "CgYogW-69PI-t5740.08", "text": "exponents equal zero minus one.", "start": 5740.08, "end": 5746.08}
+{"id": "CgYogW-69PI-t5746.08", "text": "Now mathematically of course you ignore the zero, but you can also pause and ask that", "start": 5746.08, "end": 5751.2}
+{"id": "CgYogW-69PI-t5751.2", "text": "question, how can you take one away from nothing?", "start": 5751.2, "end": 5756.2}
+{"id": "CgYogW-69PI-t5756.2", "text": "How can nothing have anything to take away from it, right?", "start": 5756.2, "end": 5760.6}
+{"id": "CgYogW-69PI-t5760.6", "text": "And what this brought to mind in relation to the rest of the topic about turbulence and", "start": 5760.6, "end": 5767.32}
+{"id": "CgYogW-69PI-t5767.32", "text": "how things change was the heart sutra in Buddhism which essentially is emptiness form.", "start": 5767.32, "end": 5776.48}
+{"id": "CgYogW-69PI-t5776.48", "text": "Form is emptiness, a big paradox, right?", "start": 5776.48, "end": 5780.84}
+{"id": "CgYogW-69PI-t5780.84", "text": "How can form be emptiness and emptiness form?", "start": 5780.84, "end": 5783.5199999999995}
+{"id": "CgYogW-69PI-t5783.5199999999995", "text": "Well, you know, I think a related aspect of this is impermanence.", "start": 5783.5199999999995, "end": 5788.599999999999}
+{"id": "CgYogW-69PI-t5788.599999999999", "text": "Everything is changing all the time.", "start": 5788.599999999999, "end": 5791.08}
+{"id": "CgYogW-69PI-t5791.08", "text": "That it's not just the breath forming that weird shape.", "start": 5791.08, "end": 5794.92}
+{"id": "CgYogW-69PI-t5794.92", "text": "It's the clouds of our thoughts appearing and disappearing just like that.", "start": 5794.92, "end": 5799.6}
+{"id": "CgYogW-69PI-t5799.6", "text": "It's our bodies going.", "start": 5799.6, "end": 5801.24}
+{"id": "CgYogW-69PI-t5801.24", "text": "You know, it all depends really the dimension I think that was left out or not emphasized", "start": 5801.24, "end": 5805.24}
+{"id": "CgYogW-69PI-t5805.24", "text": "so much as time.", "start": 5805.24, "end": 5807.24}
+{"id": "CgYogW-69PI-t5807.24", "text": "You know, if you speed up the clock, everything's gone before you know it and you slow it down", "start": 5807.24, "end": 5812.4400000000005}
+{"id": "CgYogW-69PI-t5812.4400000000005", "text": "and it seems like we're here, you know, with a certain degree of constancy.", "start": 5812.4400000000005, "end": 5817.76}
+{"id": "CgYogW-69PI-t5817.76", "text": "But everything is affecting everything else.", "start": 5817.76, "end": 5819.56}
+{"id": "CgYogW-69PI-t5819.56", "text": "There's the Brownian motion of every of the molecules in our ears.", "start": 5819.56, "end": 5823.64}
+{"id": "CgYogW-69PI-t5823.64", "text": "Everything is disappearing while it's reappearing.", "start": 5823.64, "end": 5825.96}
+{"id": "CgYogW-69PI-t5825.96", "text": "Creation, you know, it's like at the quantum level too.", "start": 5825.96, "end": 5829.280000000001}
+{"id": "CgYogW-69PI-t5829.280000000001", "text": "Things are here and then they're gone and then, you know, are there gone and they're", "start": 5829.280000000001, "end": 5832.84}
+{"id": "CgYogW-69PI-t5832.84", "text": "not gone and they're here and they're here.", "start": 5832.84, "end": 5835.12}
+{"id": "CgYogW-69PI-t5835.12", "text": "So I think there's something that's actually almost universal about chaos and the turbulence", "start": 5835.12, "end": 5843.240000000001}
+{"id": "CgYogW-69PI-t5843.240000000001", "text": "of existence that gets touched on with this.", "start": 5843.240000000001, "end": 5849.56}
+{"id": "CgYogW-69PI-t5849.56", "text": "And I wonder actually if the emptiness is formed, form emptiness seems relevant to any", "start": 5849.56, "end": 5857.120000000001}
+{"id": "CgYogW-69PI-t5857.120000000001", "text": "of you in this regard.", "start": 5857.120000000001, "end": 5859.0}
+{"id": "CgYogW-69PI-t5859.0", "text": "Yeah.", "start": 5859.0, "end": 5861.0}
+{"id": "CgYogW-69PI-t5861.0", "text": "This duality is not only prevalent in Buddhism and Hinduism and things like that, but also", "start": 5861.0, "end": 5870.320000000001}
+{"id": "CgYogW-69PI-t5870.320000000001", "text": "in physics.", "start": 5870.320000000001, "end": 5871.320000000001}
+{"id": "CgYogW-69PI-t5871.32", "text": "If you take a photon, which is the source of light, is it a particle or is it a wave?", "start": 5871.32, "end": 5880.28}
+{"id": "CgYogW-69PI-t5880.28", "text": "It's a particle sometimes, it's a wave sometimes.", "start": 5880.28, "end": 5883.44}
+{"id": "CgYogW-69PI-t5883.44", "text": "So I think all of these things come because we are trying to describe nature which we", "start": 5883.44, "end": 5891.16}
+{"id": "CgYogW-69PI-t5891.16", "text": "really don't understand that well.", "start": 5891.16, "end": 5893.5599999999995}
+{"id": "CgYogW-69PI-t5893.5599999999995", "text": "And we have a certain language, we have a certain framework within which we have tried", "start": 5893.5599999999995, "end": 5898.08}
+{"id": "CgYogW-69PI-t5898.08", "text": "to describe them and it's always inadequate, especially in the context you said, you know,", "start": 5898.08, "end": 5904.48}
+{"id": "CgYogW-69PI-t5904.48", "text": "voice doesn't reach there, your eyesight doesn't reach there, you don't know what your, you,", "start": 5904.48, "end": 5909.36}
+{"id": "CgYogW-69PI-t5909.36", "text": "I mean by you I don't mean you particularly.", "start": 5909.36, "end": 5912.5199999999995}
+{"id": "CgYogW-69PI-t5912.5199999999995", "text": "We don't know really what reality is like.", "start": 5912.5199999999995, "end": 5915.64}
+{"id": "CgYogW-69PI-t5915.64", "text": "We only have an image of reality and we construct that image through a language that we have,", "start": 5915.64, "end": 5923.24}
+{"id": "CgYogW-69PI-t5923.24", "text": "we are aware of.", "start": 5923.24, "end": 5924.88}
+{"id": "CgYogW-69PI-t5924.88", "text": "And this language is totally inadequate when you go very deep and I think the example you", "start": 5924.88, "end": 5930.96}
+{"id": "CgYogW-69PI-t5930.96", "text": "gave is one of them in my opinion.", "start": 5930.96, "end": 5934.76}
+{"id": "CgYogW-69PI-t5934.76", "text": "We just don't really know what the reality is.", "start": 5934.76, "end": 5939.04}
+{"id": "CgYogW-69PI-t5939.04", "text": "Thank you.", "start": 5939.04, "end": 5940.04}
+{"id": "CgYogW-69PI-t5940.04", "text": "That's a good place to be.", "start": 5940.04, "end": 5944.2}
+{"id": "CgYogW-69PI-t5944.2", "text": "Any other questions?", "start": 5944.2, "end": 5946.2}
+{"id": "CgYogW-69PI-t5946.2", "text": "This will be our last question.", "start": 5946.2, "end": 5950.400000000001}
+{"id": "CgYogW-69PI-t5950.4", "text": "I was listening to this conversation and I think like a little bit like the discussion", "start": 5950.4, "end": 5957.879999999999}
+{"id": "CgYogW-69PI-t5957.879999999999", "text": "was down to human beings and art I believe are regulated by something that we call conscience.", "start": 5957.879999999999, "end": 5966.879999999999}
+{"id": "CgYogW-69PI-t5966.879999999999", "text": "So we are aware of ourself, what we say our thoughts even if we don't control them.", "start": 5966.879999999999, "end": 5973.5599999999995}
+{"id": "CgYogW-69PI-t5973.56", "text": "While in nature in physics we assume that like there is not a reading is more objective.", "start": 5973.56, "end": 5982.240000000001}
+{"id": "CgYogW-69PI-t5982.240000000001", "text": "Yes, we are traditional image of science is more objective is not related to that subjectivity.", "start": 5982.240000000001, "end": 5990.04}
+{"id": "CgYogW-69PI-t5990.04", "text": "So what is the situation?", "start": 5990.04, "end": 5993.68}
+{"id": "CgYogW-69PI-t5993.68", "text": "Are we looking at science as an objective science while in reality there is like a huge", "start": 5993.68, "end": 5998.84}
+{"id": "CgYogW-69PI-t5998.84", "text": "subjective part or our thoughts, our processes are instead controlled by science and so doesn't", "start": 5998.84, "end": 6008.88}
+{"id": "CgYogW-69PI-t6008.88", "text": "exist the conscience is just like our illusion.", "start": 6008.88, "end": 6013.360000000001}
+{"id": "CgYogW-69PI-t6013.360000000001", "text": "Some of us work in brain science.", "start": 6013.360000000001, "end": 6015.4400000000005}
+{"id": "CgYogW-69PI-t6015.4400000000005", "text": "It gets murkier.", "start": 6015.4400000000005, "end": 6017.24}
+{"id": "CgYogW-69PI-t6017.24", "text": "No, of course.", "start": 6017.24, "end": 6019.4400000000005}
+{"id": "CgYogW-69PI-t6019.4400000000005", "text": "I was like not using the right term.", "start": 6019.4400000000005, "end": 6022.8}
+{"id": "CgYogW-69PI-t6022.8", "text": "So part one can take situations in physics that seem very objective and black and white", "start": 6022.8, "end": 6032.360000000001}
+{"id": "CgYogW-69PI-t6032.360000000001", "text": "and then you can get situations in physics that are become harder to describe and we", "start": 6032.360000000001, "end": 6036.92}
+{"id": "CgYogW-69PI-t6036.92", "text": "touched on some of those.", "start": 6036.92, "end": 6039.08}
+{"id": "CgYogW-69PI-t6039.08", "text": "But you can go into biology and you can say okay we are going to use magnetic resonance", "start": 6039.08, "end": 6045.68}
+{"id": "CgYogW-69PI-t6045.68", "text": "image and we are going to induce oscillations in the molecules and see what kind of radio", "start": 6045.68, "end": 6053.08}
+{"id": "CgYogW-69PI-t6053.08", "text": "ways we get out and from that we will be able to draw a picture of the brain and then we", "start": 6053.08, "end": 6057.88}
+{"id": "CgYogW-69PI-t6057.88", "text": "can see how brain activity modifies that and we get these patterns out we start making.", "start": 6057.88, "end": 6063.76}
+{"id": "CgYogW-69PI-t6063.76", "text": "But actually if you are interested in understanding human experience you still have to talk to", "start": 6063.76, "end": 6069.72}
+{"id": "CgYogW-69PI-t6069.72", "text": "the people and ask them what they felt.", "start": 6069.72, "end": 6072.56}
+{"id": "CgYogW-69PI-t6072.56", "text": "So some people are very interested in finding what parts of the brain are most active when", "start": 6072.56, "end": 6077.400000000001}
+{"id": "CgYogW-69PI-t6077.400000000001", "text": "we have the experience of beauty and there is some argument about that.", "start": 6077.400000000001, "end": 6082.4800000000005}
+{"id": "CgYogW-69PI-t6082.4800000000005", "text": "And so one can develop rigorous methods that we use to try and draw inferences about perception", "start": 6082.4800000000005, "end": 6093.52}
+{"id": "CgYogW-69PI-t6093.52", "text": "based on subjective reports of participants.", "start": 6093.52, "end": 6097.6}
+{"id": "CgYogW-69PI-t6097.6", "text": "So I do that every day in my lab.", "start": 6097.6, "end": 6100.88}
+{"id": "CgYogW-69PI-t6100.88", "text": "And it is pretty rigorous.", "start": 6100.88, "end": 6104.36}
+{"id": "CgYogW-69PI-t6104.36", "text": "Color vision is pretty well established now and we understand that color vision is the", "start": 6104.36, "end": 6108.76}
+{"id": "CgYogW-69PI-t6108.76", "text": "three dimensional space.", "start": 6108.76, "end": 6112.84}
+{"id": "CgYogW-69PI-t6112.84", "text": "And some people work on consciousness I happen not to.", "start": 6112.84, "end": 6116.84}
+{"id": "CgYogW-69PI-t6116.84", "text": "But it is obviously an important phenomena in our lives.", "start": 6116.84, "end": 6123.08}
+{"id": "CgYogW-69PI-t6123.08", "text": "But I am not sure that it really raises that much of a philosophical problem.", "start": 6123.08, "end": 6129.2}
+{"id": "CgYogW-69PI-t6129.2", "text": "In my work environment it is a technical issue.", "start": 6129.2, "end": 6134.4}
+{"id": "CgYogW-69PI-t6134.4", "text": "Consciousness gets slippery.", "start": 6134.4, "end": 6135.4}
+{"id": "CgYogW-69PI-t6135.4", "text": "The first time you ask someone to ask you whether something is conscious it seems like", "start": 6135.4, "end": 6138.88}
+{"id": "CgYogW-69PI-t6138.88", "text": "a clear question.", "start": 6138.88, "end": 6140.08}
+{"id": "CgYogW-69PI-t6140.08", "text": "The tenth time it is asked it starts to seem like a weird philosophical question does", "start": 6140.08, "end": 6146.0}
+{"id": "CgYogW-69PI-t6146.0", "text": "have a clear answer.", "start": 6146.0, "end": 6147.0}
+{"id": "CgYogW-69PI-t6147.0", "text": "If I understand what you are saying related to my question it is like that individuality", "start": 6147.0, "end": 6153.36}
+{"id": "CgYogW-69PI-t6153.36", "text": "doesn't exist because it happened at some point the number of molecules united in a", "start": 6153.36, "end": 6162.44}
+{"id": "CgYogW-69PI-t6162.44", "text": "certain form and processes a certain number of electric steam away the generate heart.", "start": 6162.44, "end": 6170.4}
+{"id": "CgYogW-69PI-t6170.4", "text": "What we call art.", "start": 6170.4, "end": 6171.4}
+{"id": "CgYogW-69PI-t6171.4", "text": "And it is not related to any subjective unique essence of that human being.", "start": 6171.4, "end": 6178.88}
+{"id": "CgYogW-69PI-t6178.88", "text": "I am not sure that follows.", "start": 6178.88, "end": 6184.96}
+{"id": "CgYogW-69PI-t6184.96", "text": "If you take similar constituent elements but they interact in different ways you will get", "start": 6184.96, "end": 6195.96}
+{"id": "CgYogW-69PI-t6195.96", "text": "a different outcome.", "start": 6195.96, "end": 6197.76}
+{"id": "CgYogW-69PI-t6197.76", "text": "The best may be the same but you will get a different outcome.", "start": 6197.76, "end": 6202.92}
+{"id": "CgYogW-69PI-t6202.92", "text": "The essence of the question you asked it seems to me was you are saying in science there", "start": 6202.92, "end": 6208.92}
+{"id": "CgYogW-69PI-t6208.92", "text": "is a clear distinction between the observer and the observed.", "start": 6208.92, "end": 6212.92}
+{"id": "CgYogW-69PI-t6212.92", "text": "Where is in art that is not.", "start": 6212.92, "end": 6214.68}
+{"id": "CgYogW-69PI-t6214.68", "text": "In fact it is the mixture of the two that makes it all the same.", "start": 6214.68, "end": 6220.04}
+{"id": "CgYogW-69PI-t6220.04", "text": "But your answer quite rightly was you know what at one time seemed very subjective can", "start": 6220.04, "end": 6226.92}
+{"id": "CgYogW-69PI-t6226.92", "text": "in fact be formulated now in a more objective where what appears to be more augutive.", "start": 6226.92, "end": 6232.64}
+{"id": "CgYogW-69PI-t6232.64", "text": "There are still some issues that you cannot tackle but maybe we will make more progress", "start": 6232.64, "end": 6237.8}
+{"id": "CgYogW-69PI-t6237.8", "text": "and so the real answer is maybe there is this distinction maybe that is because we don't", "start": 6237.8, "end": 6245.8}
+{"id": "CgYogW-69PI-t6245.8", "text": "understand it well enough maybe you are right who knows I don't know the answer but I think", "start": 6245.8, "end": 6252.08}
+{"id": "CgYogW-69PI-t6252.08", "text": "we are making progress in trying to link the two.", "start": 6252.08, "end": 6255.12}
+{"id": "CgYogW-69PI-t6255.12", "text": "That is how I see it anyhow.", "start": 6255.12, "end": 6257.280000000001}
+{"id": "CgYogW-69PI-t6257.28", "text": "As an artist I have kind of worked through kind of oscillating between objective, subjective", "start": 6257.28, "end": 6263.679999999999}
+{"id": "CgYogW-69PI-t6263.679999999999", "text": "my own conscious experience.", "start": 6263.679999999999, "end": 6265.8}
+{"id": "CgYogW-69PI-t6265.8", "text": "So for example I have this one piece that is about an earthquake.", "start": 6265.8, "end": 6268.12}
+{"id": "CgYogW-69PI-t6268.12", "text": "I was in the Tohoku earthquake in Japan and I felt it with my body.", "start": 6268.12, "end": 6275.759999999999}
+{"id": "CgYogW-69PI-t6275.759999999999", "text": "I wanted to make a work about it because it was an experience that was unforgettable and", "start": 6275.759999999999, "end": 6281.36}
+{"id": "CgYogW-69PI-t6281.36", "text": "it was very personal.", "start": 6281.36, "end": 6283.44}
+{"id": "CgYogW-69PI-t6283.44", "text": "My first instinct was go find the data in Shinjuku where I was find the sensor and try", "start": 6283.44, "end": 6290.24}
+{"id": "CgYogW-69PI-t6290.24", "text": "to look at that data in a bunch of different ways to understand the movement again.", "start": 6290.24, "end": 6294.799999999999}
+{"id": "CgYogW-69PI-t6294.799999999999", "text": "So I probably made like 20 to 30 experiments in different software, animating cameras,", "start": 6294.799999999999, "end": 6302.24}
+{"id": "CgYogW-69PI-t6302.24", "text": "animating particles, taking the XYZ data, looking at it just as a typical seismic reading", "start": 6302.24, "end": 6309.2}
+{"id": "CgYogW-69PI-t6309.2", "text": "and I finally realized that it was movement over time so I was able to generate a curve,", "start": 6309.2, "end": 6315.92}
+{"id": "CgYogW-69PI-t6315.92", "text": "like a really dense curve and almost looked like at the molecular level like a bomb.", "start": 6315.92, "end": 6321.92}
+{"id": "CgYogW-69PI-t6321.92", "text": "It was terrifying to look at but it still was distilled and it was still the data that", "start": 6321.92, "end": 6328.44}
+{"id": "CgYogW-69PI-t6328.44", "text": "was ruling.", "start": 6328.44, "end": 6329.44}
+{"id": "CgYogW-69PI-t6329.44", "text": "So I needed to rip that back into a subjective experience again even though the data was", "start": 6329.44, "end": 6334.32}
+{"id": "CgYogW-69PI-t6334.32", "text": "objective at this point it had been removed.", "start": 6334.32, "end": 6337.599999999999}
+{"id": "CgYogW-69PI-t6337.6", "text": "I brought it back and I did a gestural painting of what I saw in the data so it was like this", "start": 6337.6, "end": 6343.6}
+{"id": "CgYogW-69PI-t6343.6", "text": "kind of oscillation between, so that's something I'm dealing with all the time is someone making", "start": 6343.6, "end": 6348.200000000001}
+{"id": "CgYogW-69PI-t6348.200000000001", "text": "work trying to solve that and I don't think ever will but it's a really enjoyable space", "start": 6348.200000000001, "end": 6353.04}
+{"id": "CgYogW-69PI-t6353.04", "text": "to work through this kind of oscillation between subjective, objective, personal, looking at", "start": 6353.04, "end": 6358.84}
+{"id": "CgYogW-69PI-t6358.84", "text": "something at the way a machine would look at it but that can never replace what it felt", "start": 6358.84, "end": 6365.4400000000005}
+{"id": "CgYogW-69PI-t6365.44", "text": "like.", "start": 6365.44, "end": 6368.599999999999}
+{"id": "CgYogW-69PI-t6368.599999999999", "text": "Well on that note we'll have to leave things with some, the beauty of some of these uncertainties", "start": 6368.599999999999, "end": 6375.0}
+{"id": "CgYogW-69PI-t6375.0", "text": "which make them perhaps all the more beautiful.", "start": 6375.0, "end": 6377.44}
+{"id": "CgYogW-69PI-t6377.44", "text": "I want to ask you to join me in thanking our participants.", "start": 6377.44, "end": 6382.799999999999}
+{"id": "CgYogW-69PI-t6382.799999999999", "text": "Thank you Luke, Dana, extremely.", "start": 6382.799999999999, "end": 6386.36}
+{"id": "CgYogW-69PI-t6386.36", "text": "Dennis and especially Enrico who spearheaded the organization of this event and thank you", "start": 6386.36, "end": 6394.44}
+{"id": "CgYogW-69PI-t6394.44", "text": "so much.", "start": 6394.44, "end": 6395.44}
+{"id": "CgYogW-69PI-t6395.44", "text": "Thank you for hosting us.", "start": 6395.44, "end": 6396.44}
+{"id": "CgYogW-69PI-t6396.44", "text": "Thank you.", "start": 6396.44, "end": 6397.44}
+{"id": "CgYogW-69PI-t6397.44", "text": "Thank you.", "start": 6397.44, "end": 6398.44}
+{"id": "CgYogW-69PI-t6398.44", "text": "Thank you.", "start": 6398.44, "end": 6424.44}

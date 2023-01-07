@@ -1,0 +1,5400 @@
+1
+00:00:00,000 --> 00:00:04,620
+I'm Ed Nurse-Assyan, Director of the Helix Center.
+
+2
+00:00:04,620 --> 00:00:10,080
+Welcome to the program of this afternoon on biology of the mind.
+
+3
+00:00:10,080 --> 00:00:11,480
+Just two announcements.
+
+4
+00:00:11,480 --> 00:00:17,640
+Next week, the roundtable is on Nationalism, Phonaticism, and Identity.
+
+5
+00:00:17,640 --> 00:00:24,560
+And on April 12th, we can get this up.
+
+6
+00:00:24,560 --> 00:00:30,400
+And on April 12th, we have a roundtable on synchronicity.
+
+7
+00:00:30,400 --> 00:00:36,360
+Today's roundtable is Biology of the Mind, and I will briefly present you the participants.
+
+8
+00:00:36,360 --> 00:00:44,320
+I won't read everything that is on this paper, which I think some of you have, just the highlights.
+
+9
+00:00:44,320 --> 00:00:49,000
+When I read your name, if you raise your hands, that would be helpful.
+
+10
+00:00:49,000 --> 00:00:56,240
+So John Kraakauer is Professor of Neurology and Neuroscience at Johns Hopkins University
+
+11
+00:00:56,240 --> 00:01:07,720
+of School of Medicine, Director of the BLAM Lab and Co-Founder of the KATA project.
+
+12
+00:01:07,720 --> 00:01:15,680
+Gary Marcus is Director of the NYU Center for Language and Music and Professor of Psychology
+
+13
+00:01:15,680 --> 00:01:20,080
+at New York University.
+
+14
+00:01:20,080 --> 00:01:30,680
+Ken Miller, who has been here before, is Professor Department of Neuroscience, Department of Neuroscience,
+
+15
+00:01:30,680 --> 00:01:38,880
+Department of Physiology, and Director Center for Theoretical Neurobiology, Columbia University.
+
+16
+00:01:38,880 --> 00:01:46,520
+David Rosenthal is Professor of Philosophy and Coordinator of the Interdisciplinary Concentration
+
+17
+00:01:46,520 --> 00:01:51,120
+in Cognitive Science at the Graduate Center of the University of New York.
+
+18
+00:01:51,120 --> 00:01:55,360
+So Matthew, you want to...
+
+19
+00:01:55,360 --> 00:01:59,520
+Associate Professor of Computer Science and a member of the Center for Cognitive Science
+
+20
+00:01:59,520 --> 00:02:04,000
+at Rutgers in New Brunswick, New Jersey.
+
+21
+00:02:04,000 --> 00:02:05,000
+Thank you.
+
+22
+00:02:05,000 --> 00:02:09,000
+Okay, well, my main work used to be on the mind-body problem.
+
+23
+00:02:09,000 --> 00:02:13,640
+Now I mainly work on consciousness.
+
+24
+00:02:13,640 --> 00:02:19,400
+When I worked on the mind-body problem, it seemed to me very clear that all mental gongs
+
+25
+00:02:19,400 --> 00:02:26,320
+on are simply physical gongs on in the brain.
+
+26
+00:02:26,320 --> 00:02:33,720
+And maybe I won't say very much more about that right now, waiting to see what other people
+
+27
+00:02:33,720 --> 00:02:36,520
+say about that.
+
+28
+00:02:36,520 --> 00:02:38,320
+That seems to me unproblematic.
+
+29
+00:02:38,320 --> 00:02:46,640
+One of the things that was listed that we might talk about is how far down mental functioning
+
+30
+00:02:46,640 --> 00:02:50,120
+goes in the phylogenetic scale.
+
+31
+00:02:50,120 --> 00:02:53,920
+And I assume it goes pretty far down.
+
+32
+00:02:53,920 --> 00:02:55,720
+I don't know.
+
+33
+00:02:55,720 --> 00:03:00,240
+I don't know very much about fish.
+
+34
+00:03:00,240 --> 00:03:01,240
+I'm pretty sure...
+
+35
+00:03:01,240 --> 00:03:04,840
+Way lower than that.
+
+36
+00:03:04,840 --> 00:03:07,400
+Well I'm just saying I don't know very much about fish.
+
+37
+00:03:07,400 --> 00:03:10,240
+So you can...
+
+38
+00:03:10,240 --> 00:03:11,240
+I'm suspicious.
+
+39
+00:03:11,240 --> 00:03:15,240
+You're suspicious that fish have mental functioning?
+
+40
+00:03:15,240 --> 00:03:17,760
+I don't know very much about fish.
+
+41
+00:03:17,760 --> 00:03:19,600
+Fish may have mental functioning.
+
+42
+00:03:19,600 --> 00:03:23,960
+Fish certainly have complicated biological functioning.
+
+43
+00:03:23,960 --> 00:03:25,800
+But it seems to me...
+
+44
+00:03:25,800 --> 00:03:32,000
+Well they certainly make choices about what they should do in a given context.
+
+45
+00:03:32,000 --> 00:03:37,000
+So what behavioral evidence I'm not a fish expert, but they make decisions about mates.
+
+46
+00:03:37,000 --> 00:03:40,160
+They battle over mates.
+
+47
+00:03:40,160 --> 00:03:45,920
+They decide about obstacles and whether to go this way or that way.
+
+48
+00:03:45,920 --> 00:03:48,800
+To me that certainly counts as mental functioning.
+
+49
+00:03:48,800 --> 00:03:49,800
+You could...
+
+50
+00:03:49,800 --> 00:03:53,840
+I suppose have a definition of mental functioning that would have a higher bar.
+
+51
+00:03:53,840 --> 00:03:57,160
+You could say well you only have mental functioning if you can reflect on yourself.
+
+52
+00:03:57,160 --> 00:03:58,160
+But I would call that...
+
+53
+00:03:58,160 --> 00:03:59,160
+Oh no.
+
+54
+00:03:59,160 --> 00:04:00,160
+It's not mental functioning.
+
+55
+00:04:00,160 --> 00:04:01,160
+No, I don't...
+
+56
+00:04:01,160 --> 00:04:04,920
+They share lots of neurotransmitters and brain organization with us.
+
+57
+00:04:04,920 --> 00:04:08,840
+You can use the same kinds of instruments and even better instruments to look at their
+
+58
+00:04:08,840 --> 00:04:09,840
+neural processes.
+
+59
+00:04:09,840 --> 00:04:13,840
+To me it doesn't seem controversial to say that a fish has mental functioning.
+
+60
+00:04:13,840 --> 00:04:16,640
+It's just a question of deciding what is the mental function.
+
+61
+00:04:16,640 --> 00:04:18,640
+Or a fly or a spider.
+
+62
+00:04:18,640 --> 00:04:22,840
+I mean if you're an animal with a nervous system you have mental functioning at some
+
+63
+00:04:22,840 --> 00:04:23,840
+level or so.
+
+64
+00:04:23,840 --> 00:04:28,840
+I go down to jellyfish and maybe even take the argument to bacteria.
+
+65
+00:04:28,840 --> 00:04:35,200
+I don't think that you need to set the bar anywhere near consciousness in the sense of
+
+66
+00:04:35,200 --> 00:04:38,400
+self-awareness or self-reflection.
+
+67
+00:04:38,400 --> 00:04:45,480
+It seems to me some plants do various things that are beneficial to the plants.
+
+68
+00:04:45,480 --> 00:04:48,600
+And it doesn't seem to me we want to say that's mental functioning.
+
+69
+00:04:48,600 --> 00:04:54,040
+So if a fish does something that's beneficial to the fish like choose a nice mate or get
+
+70
+00:04:54,040 --> 00:05:01,000
+some food or go away from an environment that isn't conducive, that doesn't seem automatically
+
+71
+00:05:01,000 --> 00:05:02,440
+to be mental functioning.
+
+72
+00:05:02,440 --> 00:05:10,360
+It seems to me there must be some difference between biological functioning and mental
+
+73
+00:05:10,360 --> 00:05:11,360
+functioning.
+
+74
+00:05:11,360 --> 00:05:12,360
+Well what's this?
+
+75
+00:05:12,360 --> 00:05:14,800
+Now we get to what we really need to respond to.
+
+76
+00:05:14,800 --> 00:05:15,800
+Well I don't...
+
+77
+00:05:15,800 --> 00:05:17,800
+One of you would define what you mean by mental functioning.
+
+78
+00:05:17,800 --> 00:05:24,480
+Well it's his term and I want to define it but the last point that he said is even more
+
+79
+00:05:24,480 --> 00:05:29,440
+provocative I suppose, which is I take it and I thought you did that all mental functioning
+
+80
+00:05:29,440 --> 00:05:30,440
+is biological functioning.
+
+81
+00:05:30,440 --> 00:05:31,440
+Oh I take it.
+
+82
+00:05:31,440 --> 00:05:33,440
+And the functioning is a subset of biological functioning.
+
+83
+00:05:33,440 --> 00:05:34,920
+Absolutely but it's a subset.
+
+84
+00:05:34,920 --> 00:05:36,440
+I just agree with that.
+
+85
+00:05:36,440 --> 00:05:38,160
+You want to disagree with that part?
+
+86
+00:05:38,160 --> 00:05:41,720
+Well certainly it would be non-biological mental functioning.
+
+87
+00:05:41,720 --> 00:05:44,600
+Oh I agree with that.
+
+88
+00:05:44,600 --> 00:05:52,160
+I don't let's hear that argument.
+
+89
+00:05:52,160 --> 00:05:59,520
+In principle if you think that when you take a functional approach to the mind and you
+
+90
+00:05:59,520 --> 00:06:09,760
+want to describe either making decisions, pursuing goals, acting in ways that seem intelligent
+
+91
+00:06:09,760 --> 00:06:15,600
+in the context, that functional behavior as best we can tell is something that we can
+
+92
+00:06:15,600 --> 00:06:21,040
+understand at the level of what we usually call information processing in the sense that
+
+93
+00:06:21,040 --> 00:06:26,040
+there is represented information about the world in some physical form that's then controlling
+
+94
+00:06:26,040 --> 00:06:28,000
+the behavior of the system.
+
+95
+00:06:28,000 --> 00:06:34,320
+And we know that one way that that can happen is in neurons but as best we can tell that
+
+96
+00:06:34,320 --> 00:06:37,600
+can happen in silicon or really any other physical system.
+
+97
+00:06:37,600 --> 00:06:38,800
+That's a different kind of distinction.
+
+98
+00:06:38,800 --> 00:06:44,520
+I'm willing to, here I'll give you a revised version if we're opening the window to silicon
+
+99
+00:06:44,520 --> 00:06:50,880
+which would be that when biological creatures have mental functions they do it using biology.
+
+100
+00:06:50,880 --> 00:06:56,560
+For them it's a subset of biology but you could use silicon and then we don't really
+
+101
+00:06:56,560 --> 00:06:58,920
+apply the word biology to silicon.
+
+102
+00:06:58,920 --> 00:07:02,480
+There'd probably be mergers in the next 20 or 30 years we could talk about where it would
+
+103
+00:07:02,480 --> 00:07:04,880
+be more complicated to draw those dividing lines.
+
+104
+00:07:04,880 --> 00:07:08,800
+But if the argument you want to make is it's possible to have mental functioning and some
+
+105
+00:07:08,800 --> 00:07:12,600
+other kind of substrate say silicon I think that's a reasonable argument but I wouldn't
+
+106
+00:07:12,600 --> 00:07:17,840
+want to make the argument that there's any mental functioning that we humans do for example
+
+107
+00:07:17,840 --> 00:07:19,600
+that doesn't have a biological basis.
+
+108
+00:07:19,600 --> 00:07:24,520
+We can't ultimately trace down to these things like actions of neurons and so forth.
+
+109
+00:07:24,520 --> 00:07:27,320
+I don't know if anybody wants to challenge that view.
+
+110
+00:07:27,320 --> 00:07:29,520
+So I'm agreed with all of that.
+
+111
+00:07:29,520 --> 00:07:35,040
+I guess I would challenge another tiny aspect of what you said.
+
+112
+00:07:35,040 --> 00:07:41,560
+You said and I agree that mental functioning is a subset of biological functioning.
+
+113
+00:07:41,560 --> 00:07:42,560
+Which subset?
+
+114
+00:07:42,560 --> 00:07:47,640
+Well, I mean I think there are many things that go into that subset.
+
+115
+00:07:47,640 --> 00:07:53,480
+I think we can start exclusionarily maybe and we can say although it gets problematic quickly
+
+116
+00:07:53,480 --> 00:07:57,520
+so we can say we're mostly not talking about things like metabolism but the truth is that
+
+117
+00:07:57,520 --> 00:07:58,800
+they do matter.
+
+118
+00:07:58,800 --> 00:08:03,520
+So a lot of the machinery that goes into the biology of thought goes into the biology in
+
+119
+00:08:03,520 --> 00:08:04,520
+general.
+
+120
+00:08:04,520 --> 00:08:08,480
+So if you take away the Krebs cycle that gives us metabolism in individual cells you take
+
+121
+00:08:08,480 --> 00:08:11,160
+away thought you take a lot of other things away too.
+
+122
+00:08:11,160 --> 00:08:16,160
+But the way that evolution works is it builds new things on top of old things and mental
+
+123
+00:08:16,160 --> 00:08:20,840
+life is built on biological life so neurons are specialized cells.
+
+124
+00:08:20,840 --> 00:08:25,200
+A lot of the machinery we expect in a cell in general we find tweaked in some particular
+
+125
+00:08:25,200 --> 00:08:26,760
+way in a neuron.
+
+126
+00:08:26,760 --> 00:08:35,640
+So I understand all of that but I would have thought that the distinction between the mental
+
+127
+00:08:35,640 --> 00:08:42,640
+as a smaller subset of the biological was going to be in some way or another functional.
+
+128
+00:08:42,640 --> 00:08:48,400
+That is to say we would say well there's all this biological stuff going on and some
+
+129
+00:08:48,400 --> 00:08:52,680
+of it some of the biology serves mental functioning.
+
+130
+00:08:52,680 --> 00:08:57,040
+So liver is absorbing or dealing with toxins for example.
+
+131
+00:08:57,040 --> 00:08:59,720
+It's probably biological but it's not mental function.
+
+132
+00:08:59,720 --> 00:09:01,360
+I don't know what we're talking about.
+
+133
+00:09:01,360 --> 00:09:04,720
+I have to say the same thing.
+
+134
+00:09:04,720 --> 00:09:06,720
+I don't quite know.
+
+135
+00:09:06,720 --> 00:09:07,720
+Everyone must be completely bewildered.
+
+136
+00:09:07,720 --> 00:09:09,920
+I mean what are we arguing about?
+
+137
+00:09:09,920 --> 00:09:13,520
+In other words how do you know when you want to describe something?
+
+138
+00:09:13,520 --> 00:09:17,560
+I think it's you know it comes from philosophy and David there's our representative philosopher.
+
+139
+00:09:17,560 --> 00:09:21,960
+You want to be able to say what counts as mental what counts as physical and what is
+
+140
+00:09:21,960 --> 00:09:23,520
+the relation between the two.
+
+141
+00:09:23,520 --> 00:09:26,640
+If we don't give the audience an answer to this question that's been bandied about for
+
+142
+00:09:26,640 --> 00:09:29,120
+twenty five hundred years then they're right to ask for their money back.
+
+143
+00:09:29,120 --> 00:09:35,720
+So we should try to answer this question about what is the relation between them.
+
+144
+00:09:35,720 --> 00:09:40,200
+But there's I mean you're starting with the dualism which you know I think most of us
+
+145
+00:09:40,200 --> 00:09:42,800
+at bottom maybe all of us reject.
+
+146
+00:09:42,800 --> 00:09:44,920
+But I think we have a.
+
+147
+00:09:44,920 --> 00:09:45,920
+I think we have a.
+
+148
+00:09:45,920 --> 00:09:48,800
+But the question is what is the revised view?
+
+149
+00:09:48,800 --> 00:09:50,240
+How do you articulate the revised view?
+
+150
+00:09:50,240 --> 00:09:52,240
+I think there are no dualists I think.
+
+151
+00:09:52,240 --> 00:09:55,160
+But these are the tests you finish your song.
+
+152
+00:09:55,160 --> 00:09:58,080
+Thank you.
+
+153
+00:09:58,080 --> 00:10:02,040
+You know what we think of as mental functioning I think is where you sense what's going on
+
+154
+00:10:02,040 --> 00:10:08,720
+in the world and you decide how to behave toward the world based on that sensing.
+
+155
+00:10:08,720 --> 00:10:15,280
+And I guess and I would talk about I mean so some of that could be metabolic you sense
+
+156
+00:10:15,280 --> 00:10:18,640
+that there's some glucose in the environment or something.
+
+157
+00:10:18,640 --> 00:10:25,120
+So okay I'll grant it needs a little bit more distinction but in essence but maybe not maybe
+
+158
+00:10:25,120 --> 00:10:28,680
+that's even the beginning of mental functioning but it's basically what animals have to do
+
+159
+00:10:28,680 --> 00:10:35,880
+that plants don't have to do which is they've got to get their food by going after it and
+
+160
+00:10:35,880 --> 00:10:39,360
+they in order to do that and they've got to find their mates by going after them.
+
+161
+00:10:39,360 --> 00:10:45,440
+You know just to spur your seeds to the wind and all the apparatus that let's just do that
+
+162
+00:10:45,440 --> 00:10:52,840
+and let's just see you know sense what's going on out in the world and then develop a behavior
+
+163
+00:10:52,840 --> 00:10:56,880
+to deal with the world based on that that allows us to reproduce that's mental functioning
+
+164
+00:10:56,880 --> 00:10:57,880
+as far as I understand.
+
+165
+00:10:57,880 --> 00:11:03,280
+Well don't plants up the roots go after water or light or light.
+
+166
+00:11:03,280 --> 00:11:07,640
+It's a I mean I think this is the wrong level I mean I think what everyone I mean my guess
+
+167
+00:11:07,640 --> 00:11:12,560
+is that what people are intrigued by as you go up to a phylogenetic scale and I'm allowed
+
+168
+00:11:12,560 --> 00:11:16,760
+to say that people in evolutionary biology hate that value judgement about going up or
+
+169
+00:11:16,760 --> 00:11:23,160
+down is I'll give an example maybe this will help you know the lobster has its claws and
+
+170
+00:11:23,160 --> 00:11:28,320
+it's at the bottom of the ocean and its own tail gets into its line of sight and it suddenly
+
+171
+00:11:28,320 --> 00:11:34,640
+lunges for its tail is that because it doesn't realize that that tail belongs to me and is
+
+172
+00:11:34,640 --> 00:11:39,440
+that because it doesn't have such a conception I think people who care about consciousness
+
+173
+00:11:39,440 --> 00:11:43,080
+and some philosophers like Daniel Dannett will only speak about humans because of this notion
+
+174
+00:11:43,080 --> 00:11:48,720
+of I but on the other hand there are ways that the nervous system can actually give you
+
+175
+00:11:48,720 --> 00:11:53,680
+a sense of self through E. Fringe copy and proprioception so the lobster probably won't
+
+176
+00:11:53,680 --> 00:11:58,920
+start feasting on its own tail without actually having to conceive of the lobster saying I'm
+
+177
+00:11:58,920 --> 00:12:02,880
+not going to eat my own tail because it's mine and anyone who has a cat sometimes a
+
+178
+00:12:02,880 --> 00:12:06,960
+cat starts chasing its own tail you get the funny sense that it's forgotten that it's
+
+179
+00:12:06,960 --> 00:12:12,840
+actually something attached to itself okay now there's an entire neuroscience of this
+
+180
+00:12:12,840 --> 00:12:17,720
+notion of sense of your own body versus the external world and some philosophers and neuro
+
+181
+00:12:17,720 --> 00:12:22,200
+scientists have said that consciousness is just some kind of evolutionary adaptation
+
+182
+00:12:22,200 --> 00:12:28,600
+on that system that can distinguish self from non-self so there's certainly an argument that
+
+183
+00:12:28,600 --> 00:12:33,280
+can be made using neuro-sci-free principles for how you might be able to iteratively reach
+
+184
+00:12:33,280 --> 00:12:37,520
+something that phenomenologically is consciousness and I think what everyone in the room including
+
+185
+00:12:37,520 --> 00:12:42,440
+probably us is it doesn't feel comfortable intuitively that consciousness is just going
+
+186
+00:12:42,440 --> 00:12:49,160
+to be one more phenomenon generated by the nervous system that has all these as Nicholas
+
+187
+00:12:49,160 --> 00:12:54,400
+Humphrey puts it magical feeling and qualities to them therefore we have to invoke something
+
+188
+00:12:54,400 --> 00:13:00,280
+qualitatively different to explain it that we don't demand of any other manifestation
+
+189
+00:13:00,280 --> 00:13:04,200
+of another system now I frankly I don't want the other speakers think think that's an illusion
+
+190
+00:13:04,200 --> 00:13:10,360
+I take the Dennett view that because it feels qualitatively different therefore the mechanism
+
+191
+00:13:10,360 --> 00:13:15,440
+has to be qualitatively different and I think that is something that we need to basically
+
+192
+00:13:15,440 --> 00:13:20,480
+get rid of because what it really is if you say that is dualism in its modern guys right
+
+193
+00:13:20,480 --> 00:13:28,480
+that and I dismissed that actually and I think Ken does probably as well I'm not sure I followed
+
+194
+00:13:28,480 --> 00:13:37,760
+all of that I mean there can be simpler and more complicated neural mechanisms and so
+
+195
+00:13:37,760 --> 00:13:45,120
+there's no reason to suppose immediately that we know what mechanisms are going to
+
+196
+00:13:45,120 --> 00:13:51,600
+correspond what mechanisms are going to sub serve more or less advanced psychological or
+
+197
+00:13:51,600 --> 00:13:59,040
+mental functioning but my thought about this wasn't that there was anything magical I don't
+
+198
+00:13:59,040 --> 00:14:04,960
+think that there is anything magical I started out by saying it's all biological and I think
+
+199
+00:14:04,960 --> 00:14:11,640
+it's all neural so far as we know it is but it does seem to me that it's a subset of the
+
+200
+00:14:11,640 --> 00:14:18,360
+neural reflex arcs aren't going to count as something that is psychological or mental
+
+201
+00:14:18,360 --> 00:14:24,920
+I think even though they're neural and so we have to be able to give a little bit of
+
+202
+00:14:24,920 --> 00:14:33,480
+thought to what it is that constitutes the subset oh and there's wonderful work on that
+
+203
+00:14:33,480 --> 00:14:38,560
+and you're totally right in other words there's work on binocular rivalry there's work on
+
+204
+00:14:38,560 --> 00:14:44,160
+other phenomena where it does seem that it's a subset of regions that seem to be responsible
+
+205
+00:14:44,160 --> 00:14:49,720
+for this you know if you can extrapolate from perception for example V1 you know primary
+
+206
+00:14:49,720 --> 00:14:55,600
+visual cortex doesn't seem to have this property extra strike cortex may have this property
+
+207
+00:14:55,600 --> 00:15:00,720
+when it comes to motor cortex it doesn't seem to have this property prefrontal singular
+
+208
+00:15:00,720 --> 00:15:07,200
+inferior parietal cortex seems to have it so I absolutely the property of this extra
+
+209
+00:15:07,200 --> 00:15:11,560
+property of the mental of the kind that I was mentioning we should be careful here I don't
+
+210
+00:15:11,560 --> 00:15:15,520
+think it's a property yeah I think we're talking about two different things and we
+
+211
+00:15:15,520 --> 00:15:20,760
+need to keep them separate before we make decisions about them one one is about whether
+
+212
+00:15:20,760 --> 00:15:24,960
+something's mental or not and the other is about whether something is a part of awareness
+
+213
+00:15:24,960 --> 00:15:29,760
+and what I heard in your neuro anatomy there was an inventory of the things that participate
+
+214
+00:15:29,760 --> 00:15:34,160
+in awareness but I would argue that you don't need any of those things to have a mental
+
+215
+00:15:34,160 --> 00:15:41,160
+property so men reflexes are actually worth arguing about and or grounding our terms whether
+
+216
+00:15:41,160 --> 00:15:45,640
+a reflex is a mental property so I would say that a rock doesn't have a mental property
+
+217
+00:15:45,640 --> 00:15:51,880
+of being able to make anything like a decision and when I bang your knees not exactly a decision
+
+218
+00:15:51,880 --> 00:15:55,760
+but it is to me it seems like a cognitive system there's an input there's an output there's
+
+219
+00:15:55,760 --> 00:16:00,160
+information processing and so for me I would actually count that as mental not awareness
+
+220
+00:16:00,160 --> 00:16:05,040
+I mean almost by definition that particular reflex is not the word mental for you just
+
+221
+00:16:05,040 --> 00:16:13,080
+become anything that a nervous system does it well I mean basically that's making mental
+
+222
+00:16:13,080 --> 00:16:18,520
+synonymous with what a nervous system can do well just no work up to Matthew's point about
+
+223
+00:16:18,520 --> 00:16:24,120
+functionalism and maybe machines could do mental things too so if a machine does calculation
+
+224
+00:16:24,120 --> 00:16:28,840
+you know it depends on how you want to find the terms it goes back to do airplanes fly
+
+225
+00:16:28,840 --> 00:16:33,080
+or not well it depends on how you want to find fly and this is why I wanted us to ground
+
+226
+00:16:33,080 --> 00:16:36,920
+these definitions early before we get into the stratosphere of like what do we count
+
+227
+00:16:36,920 --> 00:16:44,320
+as mental or not I'm perfectly comfortable attributing mental to a reflex because I think
+
+228
+00:16:44,320 --> 00:16:49,560
+that's what biological creatures do in response to certain kinds of stimuli and all the grounds
+
+229
+00:16:49,560 --> 00:16:53,600
+for excluding it but we can we can make a different definition I just want to be firm about it
+
+230
+00:16:53,600 --> 00:17:01,680
+so if the stimulus is the sun and the plant goes towards the stimulus that's mental I'd
+
+231
+00:17:01,680 --> 00:17:05,120
+like to know more about plant biology there was a pretty interesting article in the Yorker
+
+232
+00:17:05,120 --> 00:17:11,360
+which I did not yet read I confess not too long ago there are lots of neurotransmitters
+
+233
+00:17:11,360 --> 00:17:15,600
+can might know this literature better than I do but you find in plants that there's you
+
+234
+00:17:15,600 --> 00:17:20,160
+know there's some relation between the neurotransmitters we have and some set of signaling molecules
+
+235
+00:17:20,160 --> 00:17:24,280
+that are in the plant so there's signaling and somebody could say that signaling is you
+
+236
+00:17:24,280 --> 00:17:30,600
+know at least the first step towards mentality so so well and maybe this is this is partly
+
+237
+00:17:30,600 --> 00:17:33,800
+the divide between the empirical scientists and the philosophy just how we think about
+
+238
+00:17:33,800 --> 00:17:36,840
+things but what we're talking about is not the world and what's out there what we're
+
+239
+00:17:36,840 --> 00:17:40,480
+talking about is our our concepts and where we want to draw the lines on them you know
+
+240
+00:17:40,480 --> 00:17:47,120
+and and we start with I mean I think our real interest from about the mind comes from the
+
+241
+00:17:47,120 --> 00:17:51,560
+fact that we have one and we experience one and so a lot of our real interest is in self
+
+242
+00:17:51,560 --> 00:17:55,240
+is in all the stuff we're aware of but then of course we're aware there's a lot of stuff
+
+243
+00:17:55,240 --> 00:18:00,160
+we're not aware of and so we're interested in that too and then you start trying to generalize
+
+244
+00:18:00,160 --> 00:18:03,400
+and look at other animals and try to see how much of it like us and how much of it different
+
+245
+00:18:03,400 --> 00:18:09,560
+from us and but it's a concept mind is not a thing that that God created or Plato put
+
+246
+00:18:09,560 --> 00:18:13,240
+out there in the world it's a concept we're just you can draw your lines where you like
+
+247
+00:18:13,240 --> 00:18:19,200
+I wouldn't be uncomfortable with with calling you know plants doing active things in the
+
+248
+00:18:19,200 --> 00:18:22,600
+world mind and I wouldn't be uncomfortable with not calling a mind I don't know that
+
+249
+00:18:22,600 --> 00:18:26,720
+it's a really critical thing to work out I mean I agree with you and I think it depends
+
+250
+00:18:26,720 --> 00:18:30,960
+on where you want to go from there if we're going to start as a ground assumption and
+
+251
+00:18:30,960 --> 00:18:34,960
+ask a question like what is the relation between consciousness and the mental we need to know
+
+252
+00:18:34,960 --> 00:18:38,960
+what we mean by the mental but I agree with you that these are things that don't have
+
+253
+00:18:38,960 --> 00:18:44,440
+an absolute truth we're we make some cut definitionally and then we can go from there and try to
+
+254
+00:18:44,440 --> 00:18:49,520
+build something based on that initial cut so suppose we just think about let's forget
+
+255
+00:18:49,520 --> 00:18:54,240
+about plants and we think about what nervous systems do as our as our grounding for mental
+
+256
+00:18:54,240 --> 00:18:58,920
+functioning and then maybe this some subset to that that we're particularly interested
+
+257
+00:18:58,920 --> 00:19:04,840
+in I would I would vote for you know let's just start there in order to focus the conversation
+
+258
+00:19:04,840 --> 00:19:09,080
+let me throw out a concrete example that I think is interesting to think about which
+
+259
+00:19:09,080 --> 00:19:13,400
+is the worm the CL again's worm which is one of these model organisms that we know a lot
+
+260
+00:19:13,400 --> 00:19:20,480
+about including the connective of all of its 302 neurons and there are some interesting
+
+261
+00:19:20,480 --> 00:19:25,680
+neurons in there like I think it's the AIB intern neuron one thing that it does is it
+
+262
+00:19:25,680 --> 00:19:30,760
+seems to correlate with hunger and with a kind of state where the worm can do one thing
+
+263
+00:19:30,760 --> 00:19:35,040
+or another thing depending on hunger I got this example from Corey Bergman who's who's
+
+264
+00:19:35,040 --> 00:19:40,360
+on the NIH panel among other things for the brain initiative and she's she described having
+
+265
+00:19:40,360 --> 00:19:45,360
+a picnic at her house and she said you know there was all this wonderful fresh meat that
+
+266
+00:19:45,360 --> 00:19:50,000
+all of her graduate students were gravitating to but she had a nora virus at that moment
+
+267
+00:19:50,000 --> 00:19:53,560
+and so she was repulsed by the same smell and the point is that you can be in different
+
+268
+00:19:53,560 --> 00:19:58,240
+states which were split back to an external stimulus in the worm I think is in this case
+
+269
+00:19:58,240 --> 00:20:03,560
+so there are there are input neurons that respond to particular smells there are motor
+
+270
+00:20:03,560 --> 00:20:07,920
+neurons that engage particular actions mostly turning around that's what worms do and then
+
+271
+00:20:07,920 --> 00:20:11,880
+there are these intern neurons that mediate so the worm can be basically be in a hunger
+
+272
+00:20:11,880 --> 00:20:16,880
+state or not for me and people can argue with it and it is partly definitional but for me
+
+273
+00:20:16,880 --> 00:20:22,040
+that seems like a rudimentary example of a kind of awareness and in this state or I'm
+
+274
+00:20:22,040 --> 00:20:27,440
+in that state I'm not any longer driven purely by reflex I'm driven by which state I'm in
+
+275
+00:20:27,440 --> 00:20:31,320
+for me that that act already puts it over the edge and then everything else is complexity
+
+276
+00:20:31,320 --> 00:20:35,600
+everything else is more complicated states I don't think you have to accept that view
+
+277
+00:20:35,600 --> 00:20:40,240
+but that's the view that I've been sort of gravitating towards like what state you're
+
+278
+00:20:40,240 --> 00:20:47,000
+in digestively you've had a big meal you've had a small meal you're starving whatever
+
+279
+00:20:47,000 --> 00:20:54,000
+it is you'll behave differently it doesn't seem to me that the digestive system is part
+
+280
+00:20:54,000 --> 00:20:59,920
+of what subserves psychology yeah well Gary I'm puzzled by you by using the word awareness
+
+281
+00:20:59,920 --> 00:21:04,120
+there I mean you can be a different state but you don't know you're not necessarily aware
+
+282
+00:21:04,120 --> 00:21:09,600
+of any of them well I mean I think the self-awareness is reflective awareness which I think is a different
+
+283
+00:21:09,600 --> 00:21:14,760
+thing so I would not argue that the worm has any self-awareness but I would say that it
+
+284
+00:21:14,760 --> 00:21:20,600
+has an awareness of its environment that those states it has an awareness of an internal
+
+285
+00:21:20,600 --> 00:21:25,680
+state it may not be able to reflect on it and speak about it but that internal state mediates
+
+286
+00:21:25,680 --> 00:21:29,960
+its input output relations that's true but that's true we've known about state dependent
+
+287
+00:21:29,960 --> 00:21:34,000
+reflexes for half a century I didn't say it was new I just thought it was a nice example
+
+288
+00:21:34,000 --> 00:21:42,160
+stretch reflex stretch reflex is state dependent tell me you know depending on where you are
+
+289
+00:21:42,160 --> 00:21:47,080
+in the gate cycle for example will completely determine what your 1A afferent neurons and
+
+290
+00:21:47,080 --> 00:21:53,400
+spindles will do so even I mean even the notion of a reflex itself is problematic because
+
+291
+00:21:53,400 --> 00:21:57,880
+reflexes can be remarkably intelligent they can have state dependent reversals they can
+
+292
+00:21:57,880 --> 00:22:03,240
+be context dependent so I think that I agree with you that you can take something that
+
+293
+00:22:03,240 --> 00:22:09,240
+seems so simple and rudimentary like a reflex and begin to show that they can have intelligence
+
+294
+00:22:09,240 --> 00:22:15,040
+and the view I would take about reflexes if they are simply primitives that we incorporate
+
+295
+00:22:15,040 --> 00:22:20,720
+into more complex behaviors and what you've described you know in C. elegans is simply
+
+296
+00:22:20,720 --> 00:22:25,840
+the stretch reflex in another dies well there's actually a second question in that neighborhood
+
+297
+00:22:25,840 --> 00:22:30,320
+that I've been thinking about lately which is I call it the subsumption issue so it seems
+
+298
+00:22:30,320 --> 00:22:35,120
+like consciousness is unified you have one conscious state and we could talk about split
+
+299
+00:22:35,120 --> 00:22:38,920
+brains as a possible counter example and so forth but in general it seems like you're
+
+300
+00:22:38,920 --> 00:22:44,360
+aware of one state and there's all kinds of details modulating that but it seems at least
+
+301
+00:22:44,360 --> 00:22:49,320
+logically possible that if you're let's say a low order creature and I know about the
+
+302
+00:22:49,320 --> 00:22:53,440
+evolutionary biology cautions on that you are already looting to but if you're a low
+
+303
+00:22:53,440 --> 00:22:57,800
+order creature that maybe your only state is hunger or not and if you're a high order
+
+304
+00:22:57,800 --> 00:23:01,600
+creature there are many things that enter into your awareness but maybe some of the principles
+
+305
+00:23:01,600 --> 00:23:02,600
+are the same.
+
+306
+00:23:02,600 --> 00:23:06,880
+Just one other point I mean awareness and consciousness in the incognative neuroscience
+
+307
+00:23:06,880 --> 00:23:13,760
+and not synonyms so they can dissociate so for example Anton syndrome where people have
+
+308
+00:23:13,760 --> 00:23:21,800
+occipital strokes and they're blind will be unaware that they're blind but they are
+
+309
+00:23:21,800 --> 00:23:27,000
+blind and they're having the problems are blindness experiencing them but they're not
+
+310
+00:23:27,000 --> 00:23:32,120
+unaware of other things but that but so in other words there's they're different so
+
+311
+00:23:32,120 --> 00:23:37,320
+I and also again I do think for the sake of myself and the audience we have to sort of
+
+312
+00:23:37,320 --> 00:23:43,480
+be clear where we're going one is what are what are the you know is there a hierarchy
+
+313
+00:23:43,480 --> 00:23:47,680
+of behaviors that only nervous systems are capable of and do they have to be implemented
+
+314
+00:23:47,680 --> 00:23:52,240
+by biological tissue or by silicon and I think we've agreed that you could probably imagine
+
+315
+00:23:52,240 --> 00:23:58,400
+processes being done by other materials we can have our clue as to what we're interested
+
+316
+00:23:58,400 --> 00:24:02,880
+in by behaviors and then have a hierarchy and I think what's being implied here is that
+
+317
+00:24:02,880 --> 00:24:08,640
+at the top of the hierarchy of behaviors that can be implemented by circuits whether biological
+
+318
+00:24:08,640 --> 00:24:13,200
+or not is consciousness right that's what we're really talking about here is we start
+
+319
+00:24:13,200 --> 00:24:20,600
+with reflexes can we go with the the approaches and experiments and concepts that we use to
+
+320
+00:24:20,600 --> 00:24:25,080
+explain reflexes and can we extrapolate to consciousness that's what we're really talking
+
+321
+00:24:25,080 --> 00:24:32,280
+about here and I think again that we probably can right that we it may seem counterintuitive
+
+322
+00:24:32,280 --> 00:24:37,200
+and there may be a dualist urge but I think we can go from reflexes which are surprisingly
+
+323
+00:24:37,200 --> 00:24:42,480
+complex which is good because they've already got characteristics that may make them worthy
+
+324
+00:24:42,480 --> 00:24:48,560
+of study and I'll be very blunt I study the motor system and visual motor transformations
+
+325
+00:24:48,560 --> 00:24:54,000
+which I think lie just in that intermediate space between reflexes and consciousness with
+
+326
+00:24:54,000 --> 00:24:58,200
+the hope that by studying this intermediate kind of behavior we're going to be able to
+
+327
+00:24:58,200 --> 00:25:03,120
+generalize up and down and actually get to where we're going rather than jumping in
+
+328
+00:25:03,120 --> 00:25:06,640
+and studying consciousness and I don't know what the psychologists say about that but
+
+329
+00:25:06,640 --> 00:25:12,560
+I do think it's important to realize that we can use the same armamentarium and the same
+
+330
+00:25:12,560 --> 00:25:18,800
+concepts to ultimately I think explain something even as seemingly mysterious as consciousness
+
+331
+00:25:18,800 --> 00:25:25,600
+but I think that's what we're talking about here can we get there right.
+
+332
+00:25:25,600 --> 00:25:31,280
+So I would let me let me throw out my thought on that which then people can shoot down that
+
+333
+00:25:31,280 --> 00:25:40,120
+well first of all we've got nobody's debating that it all just is something the mind the
+
+334
+00:25:40,120 --> 00:25:44,320
+brain does is the nervous system does and there's nothing else magical going on so if
+
+335
+00:25:44,320 --> 00:25:51,400
+we can all grant that but the question is you know what can we say scientifically about
+
+336
+00:25:51,400 --> 00:25:58,720
+consciousness important to what does it mean to explain it and my own thoughts are that
+
+337
+00:25:58,720 --> 00:26:06,920
+in principle we can we will be able to say you know with absolute clarity this kind of
+
+338
+00:26:06,920 --> 00:26:12,080
+structure of neural activity and through consciousness and this kind of structure of neural activity
+
+339
+00:26:12,080 --> 00:26:17,160
+does not enter consciousness and these aspects of this piece of mental of neural structure
+
+340
+00:26:17,160 --> 00:26:20,960
+and through consciousness will will be able in principle there's no reason why we can't
+
+341
+00:26:20,960 --> 00:26:27,320
+completely correlate every aspect of consciousness to every aspect of neural functioning but
+
+342
+00:26:27,320 --> 00:26:31,600
+to explain why we're not zombies we'll still have a question to explain why we actually
+
+343
+00:26:31,600 --> 00:26:36,600
+are aware of anything when all this happens I don't understand how science could possibly
+
+344
+00:26:36,600 --> 00:26:44,520
+approach that the whole nature of science is that we I mean the world as we encounter
+
+345
+00:26:44,520 --> 00:26:50,000
+it has subjectivity and objectivity the whole nature of science is to extract the objective
+
+346
+00:26:50,000 --> 00:26:55,800
+and the reproducible out of this mess of subjectivity and objectivity and now we want science to
+
+347
+00:26:55,800 --> 00:27:01,760
+tell us why some set of mental constructions leads to an internal awareness I don't even
+
+348
+00:27:01,760 --> 00:27:06,520
+know what why would mean I just don't see how you pose that as a scientific question we
+
+349
+00:27:06,520 --> 00:27:11,280
+could say everything about when it happens but why are we not zombies I don't see how
+
+350
+00:27:11,280 --> 00:27:17,560
+I don't know what to do with that question so by subjectivity you mean what well everything
+
+351
+00:27:17,560 --> 00:27:23,760
+that our internal experience our internal awareness so could you derive from first principles
+
+352
+00:27:23,760 --> 00:27:28,960
+just to make this concrete what it feels like to be in pain to experience an orgasm or what
+
+353
+00:27:28,960 --> 00:27:34,840
+it's like to perceive the color red so there's one piece of the problem that seems very straight
+
+354
+00:27:34,840 --> 00:27:41,320
+forward if not easy which is which which information source are you aware of it at any given point
+
+355
+00:27:41,320 --> 00:27:48,400
+neuroscience is making a lot of progress on that so we John Davis a rundown before these
+
+356
+00:27:48,400 --> 00:27:53,520
+areas seem to be part of that awareness circuitry and these aren't you can say that this particular
+
+357
+00:27:53,520 --> 00:27:59,000
+thing is enters into v1 but doesn't go beyond there and so forth we can characterize this
+
+358
+00:27:59,000 --> 00:28:05,000
+this is this is Ned Bloch's access consciousness versus phenomenal consciousness but can we
+
+359
+00:28:05,000 --> 00:28:10,800
+explain these other things could you explain to an alien what it's like to experience an
+
+360
+00:28:10,800 --> 00:28:16,280
+orgasm given the facts that we know about how the brain works or could you only say for
+
+361
+00:28:16,280 --> 00:28:20,560
+example it's represented in this way in the prefrontal cortex and there's this other
+
+362
+00:28:20,560 --> 00:28:25,160
+representation in the brainstem and these are the patterns of activity that we see during
+
+363
+00:28:25,160 --> 00:28:30,800
+the orgasm but not actually be able to explain yeah I mean I think this is the core question
+
+364
+00:28:30,800 --> 00:28:35,880
+would we ever be able to explain to an alien what it's like to see red and I think this
+
+365
+00:28:35,880 --> 00:28:41,160
+is the most I mean again I take the denit and Humphrey view this is such a pseudo question
+
+366
+00:28:41,160 --> 00:28:45,960
+I mean there's no denying that there's such a thing as qualia and experience but I think
+
+367
+00:28:45,960 --> 00:28:52,080
+what the fallacy of it is to think that the explanation is going to feel like the thing
+
+368
+00:28:52,080 --> 00:28:58,520
+it's explaining now why do we think that explanations when it comes to consciousness have to feel
+
+369
+00:28:58,520 --> 00:29:03,640
+like consciousness itself in other words it's the same fallacy I think anybody's saying
+
+370
+00:29:03,640 --> 00:29:07,840
+that well that I think that is what's actually happening is it okay you've explained memory
+
+371
+00:29:07,840 --> 00:29:12,800
+with synaptic changes but it doesn't have the memoryness of memory when you explain it that
+
+372
+00:29:12,800 --> 00:29:17,600
+way well but John take the question of the questions take take the question of why you
+
+373
+00:29:17,600 --> 00:29:20,760
+have an awareness of something and you're not a zombie that's the thing I think we can't
+
+374
+00:29:20,760 --> 00:29:24,680
+address but you think we can address that when you say why I want to know what you mean
+
+375
+00:29:24,680 --> 00:29:30,800
+by why so let me just you know take the denit Humphrey line right where they and there are
+
+376
+00:29:30,800 --> 00:29:35,920
+two questions that come to the bottom of consciousness well three right one is could you detect it
+
+377
+00:29:35,920 --> 00:29:40,120
+in another person doesn't mean you know what it feels like but couldn't alien come down
+
+378
+00:29:40,120 --> 00:29:44,880
+as Nicholas Humphrey has written about and do enough recordings and observations to say
+
+379
+00:29:44,880 --> 00:29:50,920
+this is a conscious being not a zombie a b what are the neural bases for consciousness
+
+380
+00:29:50,920 --> 00:29:55,440
+we don't know right he comes up you'll be interested with the idea of you piggyback on
+
+381
+00:29:55,440 --> 00:30:02,000
+E. France copy and forward models you develop a reverberating attractor and that itself
+
+382
+00:30:02,000 --> 00:30:06,720
+leads to a endogenous feeling that's called consciousness but there's there's all the
+
+383
+00:30:06,720 --> 00:30:12,760
+magic leads to no no no but I could say that about anything else so when when I say I want
+
+384
+00:30:12,760 --> 00:30:18,120
+to pick up this cup the commands that I need to generate to reach that cup we don't know
+
+385
+00:30:18,120 --> 00:30:21,880
+what they look like they certainly don't look like the movement itself in other words there's
+
+386
+00:30:21,880 --> 00:30:27,920
+no obvious mapping if you have a windscreen wipe of switch on your car right and you see
+
+387
+00:30:27,920 --> 00:30:31,240
+the windscreen wipe is going like that the one thing you don't need to do with the switch
+
+388
+00:30:31,240 --> 00:30:37,120
+on the cars it doesn't have to look anything like it I think you're attacking a strong
+
+389
+00:30:37,120 --> 00:30:43,960
+man optical illusions are the same thing it's never the explanations just going to be that
+
+390
+00:30:43,960 --> 00:30:48,240
+is the necessary and sufficient conditions in the brain to cause the phenomenal other
+
+391
+00:30:48,240 --> 00:30:52,800
+of all phenomenon and to say that the explanation has to feel like the phenomenon will never
+
+392
+00:30:52,800 --> 00:30:57,520
+happen well no no but this is this is my question I can say this is this is the you know this
+
+393
+00:30:57,520 --> 00:31:04,760
+is the correlate oh I mean we can't say cause we can say correlate in if you lesion it any
+
+394
+00:31:04,760 --> 00:31:10,840
+of you had a measure of consciousness go it goes I mean correlation and cause can be fused
+
+395
+00:31:10,840 --> 00:31:18,280
+if you do necessary sufficient conditions so you're you're not telling us what this subjectivity
+
+396
+00:31:18,280 --> 00:31:23,440
+is you're speaking of it is something other than you're speaking out of it is something
+
+397
+00:31:23,440 --> 00:31:30,840
+that gets caused or gets led to or something of that sort I think what probably an alien
+
+398
+00:31:30,840 --> 00:31:39,600
+isn't going to find out is an alien isn't going to have your experiences so if the demand
+
+399
+00:31:39,600 --> 00:31:45,720
+is to have your experiences then not going to happen but the alien isn't going to have
+
+400
+00:31:45,720 --> 00:31:51,800
+your stomach or your food or anything else you isn't going to have your home or your
+
+401
+00:31:51,800 --> 00:32:00,720
+car right that's different so I'm not I'm still puzzled by what this thing is you're calling
+
+402
+00:32:00,720 --> 00:32:06,040
+subjectivity so it does seem to me it does seem to me that you can give a pretty good
+
+403
+00:32:06,040 --> 00:32:13,040
+explanation not in neurological terms but in psychological terms as to what's going on
+
+404
+00:32:13,040 --> 00:32:22,600
+when you see red I won't for today hazard a guess as to how to describe orgasm but seeing
+
+405
+00:32:22,600 --> 00:32:28,520
+red is a lot closer for example to seeing orange than it is to seeing blue and you can
+
+406
+00:32:28,520 --> 00:32:34,200
+get a kind of quality space which people have mapped and you can give a description of what
+
+407
+00:32:34,200 --> 00:32:41,360
+it's like to see red in those terms and you and I assume that if neither of us colorblind
+
+408
+00:32:41,360 --> 00:32:48,000
+and colorblindness is perfectly testable empirically we assume that more or less my
+
+409
+00:32:48,000 --> 00:32:53,560
+do love the difference of cone distributions in our eyes this is going to be the same for
+
+410
+00:32:53,560 --> 00:32:57,840
+you and the same for me right but I'm not going to have your experiences and you're not going
+
+411
+00:32:57,840 --> 00:33:03,400
+to have my experiences so if that's the mystery of subjectivity it doesn't seem to be a mystery
+
+412
+00:33:03,400 --> 00:33:09,480
+at all my two degree well look we can build everybody agrees we can build a robot that
+
+413
+00:33:09,480 --> 00:33:13,040
+has some interesting behavior not nearly as interesting as ours but has some interesting
+
+414
+00:33:13,040 --> 00:33:16,920
+behavior I think we would also all agree that the robots we can build right now don't have
+
+415
+00:33:16,920 --> 00:33:20,800
+any self-awareness don't have any consciousness don't know if we know that in advance there
+
+416
+00:33:20,800 --> 00:33:25,800
+are this guy named Scott's a lady at Yale who's been building robots that have a swarm of self-awareness
+
+417
+00:33:25,800 --> 00:33:29,480
+so they can recognize themselves maybe in a mirror and they can plan around their own
+
+418
+00:33:29,480 --> 00:33:34,160
+bodies and so forth so that's actually not as obvious as as you're presuming it do you
+
+419
+00:33:34,160 --> 00:33:39,880
+I think that they have subjective awareness like you and I do well I mean I go back and
+
+420
+00:33:39,880 --> 00:33:43,720
+forth on this there are days in which I think this is a pseudo problem as these gentlemen
+
+421
+00:33:43,720 --> 00:33:49,040
+have been saying and that there's no way to answer that question so we don't have a meter
+
+422
+00:33:49,040 --> 00:33:54,120
+that can evaluate this person has a subject subjective awareness or not and I think the
+
+423
+00:33:54,120 --> 00:34:00,200
+reason why I think it's not a pseudo problem is because I can absolutely imagine a world
+
+424
+00:34:00,200 --> 00:34:06,080
+where we do all the things we do for all the reasons that we do them and we have no subjective
+
+425
+00:34:06,080 --> 00:34:10,440
+experience about it well I don't know what you're imagining when you imagine that there
+
+426
+00:34:10,440 --> 00:34:15,640
+these people like the Chalmers who say that they can imagine this and they can imagine
+
+427
+00:34:15,640 --> 00:34:26,360
+that and I think this is wonderful I can't and so I would like to know from you what it
+
+428
+00:34:26,360 --> 00:34:32,520
+is you're imagining that is to say what I'm imagining the robot for a good thing behavior
+
+429
+00:34:32,520 --> 00:34:37,360
+but I'm quite confident does not have anything like my experience so I'm taking you to be
+
+430
+00:34:37,360 --> 00:34:44,280
+a generous fellow and therefore to accord me experiences of Brown and so forth and so
+
+431
+00:34:44,280 --> 00:34:53,560
+on but on what basis just just by analogy to my own experience and then but what's the analogy
+
+432
+00:34:53,560 --> 00:34:58,160
+I mean you can't if it's the right I can never say for experience but I you know I take it
+
+433
+00:34:58,160 --> 00:35:03,760
+for granted but I can't prove it no no no no no not I'm not asking for proof proof is
+
+434
+00:35:03,760 --> 00:35:13,200
+for mathematicians that's what he is a little bit okay so in that field I defer to you with
+
+435
+00:35:13,200 --> 00:35:19,440
+proof but we just want a good reason we want something to go with here there are always
+
+436
+00:35:19,440 --> 00:35:24,960
+people in this room why do you think any of them has experiences of anything why aren't
+
+437
+00:35:24,960 --> 00:35:31,160
+they all like the robot that you were imagining what is the reason for this is it just an analogy
+
+438
+00:35:31,160 --> 00:35:37,840
+to one person it's good when I talk with them they exchange you know when we talk we exchange
+
+439
+00:35:37,840 --> 00:35:42,160
+we think that that that that tell me that that they make me believe that what goes on
+
+440
+00:35:42,160 --> 00:35:46,120
+inside you is pretty much like what goes on inside me I'm sure that they're going to
+
+441
+00:35:46,120 --> 00:35:51,440
+get robots that are really good at that kind of thing well at some point there may be a
+
+442
+00:35:51,440 --> 00:35:55,160
+question about the robots right now there isn't see what you're asking I'm not going to agree
+
+443
+00:35:55,160 --> 00:35:59,480
+with you some the second question I mean the neural basis of consciousness is very difficult
+
+444
+00:35:59,480 --> 00:36:04,080
+right and some the neural basis of it is very difficult some people may never agree maybe you
+
+445
+00:36:04,080 --> 00:36:10,080
+won't are you saying mental and I'm talking about consciousness now whatever this awareness
+
+446
+00:36:10,080 --> 00:36:14,960
+self-reflection the non the anti-zombie right that's what I'm talking about mental and
+
+447
+00:36:14,960 --> 00:36:20,320
+not interested just nervous system stuff okay but then the second question is why do we have
+
+448
+00:36:20,320 --> 00:36:25,000
+consciousness at all and my problem and I agree with you about this robot world where everyone
+
+449
+00:36:25,000 --> 00:36:30,960
+is it wouldn't look like our world I mean consciousness was presumably selected for it was
+
+450
+00:36:30,960 --> 00:36:36,240
+presumably piggybacked on some previous function and it probably has some benefits otherwise we
+
+451
+00:36:36,240 --> 00:36:41,480
+wouldn't have it and what those better than you're saying there is such an it and there'd be a
+
+452
+00:36:41,480 --> 00:36:46,400
+possibility of not having it I'm saying yes that's subjectivity I thought a minute ago you said that there
+
+453
+00:36:46,400 --> 00:36:52,360
+wasn't really any hit there no no no I said that there's no problem with I don't I don't just
+
+454
+00:36:52,360 --> 00:36:56,400
+agree that there's subjectivity in consciousness and I also agree there's more of it in humans than
+
+455
+00:36:56,400 --> 00:37:01,680
+other animals what I was saying is not sure that the Nagel the Nagel view of what it liked to be
+
+456
+00:37:01,680 --> 00:37:07,120
+a bat is not a scientific question in my view all we need to know I don't think it's a question of
+
+457
+00:37:07,120 --> 00:37:12,280
+any sort yes agreed but people get hung up on saying what's it like to be me and think that
+
+458
+00:37:12,280 --> 00:37:15,920
+scientists are going to come up with an explanation that's what I'm pointing to a question when I'm
+
+459
+00:37:15,920 --> 00:37:21,240
+asking about the what I'm saying about the robot point is that consciousness is probably what makes
+
+460
+00:37:21,240 --> 00:37:27,560
+everyone in this room sit and listen to us blather on right they actually come here and go I want to
+
+461
+00:37:27,560 --> 00:37:33,000
+learn about the mysteries of life I'm interested that when your dog is panting and can't wait to go
+
+462
+00:37:33,000 --> 00:37:38,680
+for a walk right take me for a walk give it were a robot it would just you know presumably you can
+
+463
+00:37:38,680 --> 00:37:44,240
+go robot to do that no but then what you're doing is your mimicking your mimicking these funny
+
+464
+00:37:44,240 --> 00:37:51,720
+features of joy and exuberance and curiosity and those might be useful actually for evolutionary
+
+465
+00:37:51,720 --> 00:37:58,200
+purposes and that may be what we're talking about but hold on there's evolutionary purpose in having
+
+466
+00:37:58,200 --> 00:38:03,160
+a motivational system and having a selective attention system and so forth and consciousness is a
+
+467
+00:38:03,160 --> 00:38:08,440
+uber version of that well that's the question is so what is it what is it adding beyond the
+
+468
+00:38:08,440 --> 00:38:13,240
+selection attention the motivation and so forth think why not just have an organism that had those
+
+469
+00:38:13,240 --> 00:38:17,560
+is there some extra thing that we're trying to explain and what is that extra well I'm gonna I'm
+
+470
+00:38:17,560 --> 00:38:24,000
+going to study for the next through four years to be a doctor because then I'll be able to make money
+
+471
+00:38:24,000 --> 00:38:28,240
+and help people think about that that's a motivational system an animal there's no animal that can
+
+472
+00:38:28,240 --> 00:38:33,440
+see four years ahead we have different motivational systems and other animals I don't doubt that all
+
+473
+00:38:33,440 --> 00:38:41,120
+I'm saying is that perhaps consciousness is the prerequisite for that much more complicated form
+
+474
+00:38:41,120 --> 00:38:46,400
+of motivation that's what I'm saying I think that there's reason to think that that's not the case
+
+475
+00:38:46,400 --> 00:38:53,920
+because look thinking thinking can occur without being conscious what is that mean how how how
+
+476
+00:38:53,920 --> 00:38:59,440
+oh easy oh so all the stuff that happened before you're aware what you think it's nothing but I'm
+
+477
+00:38:59,440 --> 00:39:04,240
+thinking just becomes again like mental a synonym for anything your nervous system can process and
+
+478
+00:39:04,240 --> 00:39:10,800
+do no it doesn't but it's quite specific you have a problem you don't know how to solve it you say
+
+479
+00:39:10,800 --> 00:39:16,960
+oh to heck with it I'm going to bed and the next morning you wake up and by gosh there's the solution
+
+480
+00:39:16,960 --> 00:39:24,720
+and so what's this what this is complicated enough that it's going to have mental content it's going
+
+481
+00:39:24,720 --> 00:39:30,880
+to have what people in philosophy call a propositional or intentional content expressable by that
+
+482
+00:39:30,880 --> 00:39:39,840
+causes I think that such and such I think so and so and it's going to be describable in the same way
+
+483
+00:39:39,840 --> 00:39:46,320
+that we describe conscious thought except for the bit about you're not aware of it taking place so
+
+484
+00:39:46,320 --> 00:39:54,640
+it's thinking but it is unconscious and the question is what is the being conscious add to it because
+
+485
+00:39:55,840 --> 00:40:03,120
+to get an animal to do what's good for the animal right it needs to think and it needs to have
+
+486
+00:40:03,120 --> 00:40:09,440
+selective attention it needs to have all of these things but none of those processes need to occur
+
+487
+00:40:09,440 --> 00:40:14,880
+consciously well I just want to just to clarify again for the audience no one's denying that
+
+488
+00:40:14,880 --> 00:40:19,840
+there are quite complex implicit cognitive processes a whole wonderful field your Tim
+
+489
+00:40:19,840 --> 00:40:25,920
+shallis is written beautifully on this that you can have processes that look analogous to
+
+490
+00:40:25,920 --> 00:40:30,480
+processes that you're conscious of without consciousness on them and you want to deny that those are
+
+491
+00:40:30,480 --> 00:40:34,640
+thinking no well okay so if you grant that those are thinking that I don't know how to make sense
+
+492
+00:40:34,640 --> 00:40:40,880
+of what I'm saying I'm going to say no right because then thinking stops doing useful work as a
+
+493
+00:40:40,880 --> 00:40:47,680
+concept so let's take me overnight well no it doesn't stop doing that useful work what you can do
+
+494
+00:40:47,680 --> 00:40:53,840
+with thinking is for one thing infer so you have this thought and that thought leads to this thought
+
+495
+00:40:53,840 --> 00:40:58,000
+which leads to that thought and you wake up in the morning with the solution well okay let me just
+
+496
+00:40:58,000 --> 00:41:04,800
+say talk about that so we have no evidence right that qualitatively what you just described when
+
+497
+00:41:04,800 --> 00:41:10,320
+awake and conscious is what's going on overnight when you have your aha moment in fact consolidation
+
+498
+00:41:10,320 --> 00:41:14,400
+so just for those of you who aren't neuroscience it is true that you can have all sorts of
+
+499
+00:41:15,600 --> 00:41:21,840
+improvements overnight in many many tasks that you did the day before and come back better the next
+
+500
+00:41:21,840 --> 00:41:27,200
+day with no additional practice right so the question is something was going on in your brain
+
+501
+00:41:27,200 --> 00:41:33,440
+overnight that continued what you were doing and you wake up and you're better and you could
+
+502
+00:41:33,440 --> 00:41:37,440
+extrapolate to say maybe that's the aha moment because you were doing something overnight there
+
+503
+00:41:37,440 --> 00:41:42,880
+people and study hippocampal replay for example but what seems to be happening is you may be
+
+504
+00:41:42,880 --> 00:41:48,800
+tuning neurons better right and so that when you now use that same circuit to do the same thing
+
+505
+00:41:48,800 --> 00:41:55,440
+the next day it's better at it that tuning that went on overnight doesn't itself need to be called
+
+506
+00:41:55,440 --> 00:41:59,600
+thinking it certainly needs to be called learning but they're not so not are you going to not
+
+507
+00:41:59,600 --> 00:42:04,720
+sit I mean I always think learning to be a subset of thinking but you've got a different definition
+
+508
+00:42:04,720 --> 00:42:09,920
+I think we obviously we have another uh definitional issue here what what is your definition of thinking
+
+509
+00:42:09,920 --> 00:42:15,440
+that it excludes learning no I think thinking is another one of these dangerous vague terms that
+
+510
+00:42:15,440 --> 00:42:20,160
+people have a fuzzy colloquial notion about you seem confident in writing around and excluding
+
+511
+00:42:20,160 --> 00:42:25,280
+things I gave you a pretty tight I would say that thinking is another word we give to conscious
+
+512
+00:42:25,280 --> 00:42:32,160
+neural processing no more no less so all of Kahneman's system one things you would exclude from thought
+
+513
+00:42:32,160 --> 00:42:37,760
+then I mean all this kind of automatic intuitive stuff that's well I mean that's another you know
+
+514
+00:42:37,760 --> 00:42:42,960
+what we're going to call Kahneman's cached ideas I mean for those you know system one system two
+
+515
+00:42:43,600 --> 00:42:47,920
+what system one is and there are many other areas in neuroscience that look like system one
+
+516
+00:42:47,920 --> 00:42:53,600
+it where you have a cached repertoire of responses that are triggered right because it would be
+
+517
+00:42:53,600 --> 00:42:58,640
+incredibly annoying if you had to keep from first principles deriving your responses so yes the
+
+518
+00:42:58,640 --> 00:43:02,880
+nervous system has cached repertoires of responses and we're gonna let's be careful there because
+
+519
+00:43:02,880 --> 00:43:08,800
+there's interpolation there so you can you can without conscious effort do some kind of posture
+
+520
+00:43:08,800 --> 00:43:13,120
+for example or adapt to some unusual posture let's say you're carrying something I'd give you some
+
+521
+00:43:13,120 --> 00:43:17,120
+extra weight you don't have to think about it but you're changing your motor system that's because
+
+522
+00:43:17,120 --> 00:43:23,360
+you have a control policy a pre-established cached control policy and basically system one in the
+
+523
+00:43:23,360 --> 00:43:29,440
+culture domain is a control policy we should probably define these terms well I'm just saying
+
+524
+00:43:29,440 --> 00:43:35,280
+I think what's better for the audience is to realize that once one starts to get systematic
+
+525
+00:43:35,280 --> 00:43:40,560
+and one starts to be thick in one's descriptions of the phenomena one's interested in then you
+
+526
+00:43:40,560 --> 00:43:45,440
+realize that it's not really the terms we're getting hung up on it's the range of the phenomenology
+
+527
+00:43:45,440 --> 00:43:53,360
+we're trying to talk about like that we have like a coffee which over here so um I think that
+
+528
+00:43:53,360 --> 00:43:58,720
+it's helpful just to talk about the phenomena and how we're trying to describe them and study them
+
+529
+00:43:58,720 --> 00:44:05,520
+so that's interesting but I'm still stuck with your your word thinking because you're using it
+
+530
+00:44:05,520 --> 00:44:08,800
+in a very different way than I've heard before I would just want to clarify something you're
+
+531
+00:44:08,800 --> 00:44:15,760
+saying that anything that's cached is not thinking I look I'm not going to be I'm saying you know
+
+532
+00:44:15,760 --> 00:44:23,600
+I'm like the philosophers I don't believe that interesting discussions require rigid definitions
+
+533
+00:44:23,600 --> 00:44:27,840
+if you look at modern epistemology and philosophy where you talk about knowledge a lot of very
+
+534
+00:44:27,840 --> 00:44:32,480
+interesting working philosophies been done on knowledge without a definition that's rigid of
+
+535
+00:44:32,480 --> 00:44:38,320
+what knowledge is and I'm saying that I'm trying to make distinctions which have fuzzy boundaries I
+
+536
+00:44:38,320 --> 00:44:46,400
+admit but I'm saying that to talk about offline tuning of neurons in the brain during sleep as
+
+537
+00:44:46,400 --> 00:44:51,840
+equivalent to what we do when we're awake and thinking I was granting your sleeping case but I
+
+538
+00:44:51,840 --> 00:44:57,760
+was very interested in the the Kahneman system one stuff so it's a different way of construing
+
+539
+00:44:57,760 --> 00:45:03,760
+what thought is to say that thought only includes the deliberate conscious reflective kind of stuff
+
+540
+00:45:03,760 --> 00:45:07,760
+when we sit here and we take a long time I guess as most people here probably think that's what it
+
+541
+00:45:07,760 --> 00:45:12,880
+means to well I think some people might include like the intuition you decide when you're trying
+
+542
+00:45:12,880 --> 00:45:17,520
+to pick which apartment you've looked at a lot of apartments and you might buy them and everybody
+
+543
+00:45:17,520 --> 00:45:21,920
+is fighting over you know putting down down payment first you're integrating a lot of information
+
+544
+00:45:21,920 --> 00:45:25,920
+about the view and how close it is to the subway what are the schools like and so forth you don't
+
+545
+00:45:25,920 --> 00:45:29,440
+necessarily put it all in a spreadsheet I mean if you're neurotic like me maybe you do but you
+
+546
+00:45:29,440 --> 00:45:34,400
+don't have to you can do it off in a way that feels a little bit offline but is that not thinking
+
+547
+00:45:34,400 --> 00:45:38,560
+it's like what you do is that kind of synthesis is that thinking so it's localizing a sound in
+
+548
+00:45:38,560 --> 00:45:46,080
+this room thinking well I don't see why that follows there's actually this guy in the Netherlands
+
+549
+00:45:46,080 --> 00:45:52,800
+Dijkstra house who has done it's example I was alluding to it's I can go yeah who's done experimental
+
+550
+00:45:52,800 --> 00:46:00,640
+work with complicated consumer decisions it works much better if you don't work it out consciously
+
+551
+00:46:00,640 --> 00:46:06,960
+with simple consumer decisions it does work out better if you work it out consciously I don't know
+
+552
+00:46:06,960 --> 00:46:13,200
+why that is but one would think with the complicated consumer decisions like buying a house and so
+
+553
+00:46:13,200 --> 00:46:21,600
+forth and so on with that benefit of a spreadsheet then this is thinking and it doesn't seem to me
+
+554
+00:46:21,600 --> 00:46:27,680
+that when you speak of tuning of neurons that's really at all relevant and the reason that I don't
+
+555
+00:46:27,680 --> 00:46:34,960
+think it's at all relevant is we started out we all agreed that at least for the non-silicon cases
+
+556
+00:46:34,960 --> 00:46:42,320
+if you've got psychological goings on it's going to be brain function so you can tune up the brain
+
+557
+00:46:42,320 --> 00:46:46,800
+in one way or another and maybe it's thinking and maybe it isn't and you've got to have some other
+
+558
+00:46:46,800 --> 00:46:52,960
+way of deciding whether that particular tuning up of the brain is thinking when you wake up you
+
+559
+00:46:52,960 --> 00:47:02,080
+find out well look I wasn't offering a proof as I said before I was offering a good reason to think
+
+560
+00:47:02,720 --> 00:47:08,080
+that if you're absolutely puzzled when you go to sleep by something and then you're very clear
+
+561
+00:47:08,080 --> 00:47:14,720
+headed and you see all the connections clearly when you wake up something in the meantime has
+
+562
+00:47:14,720 --> 00:47:20,560
+happened and I don't see why that isn't thinking but I think we're back to debating definition
+
+563
+00:47:20,560 --> 00:47:26,320
+rather than phenomena and I mean we can define thinking one way or another exactly
+
+564
+00:47:31,840 --> 00:47:37,680
+absolutely not neuroscience and it's a psychology psychoanalysis
+
+565
+00:47:39,760 --> 00:47:46,080
+sorry so you have a situation where somebody whenever they are
+
+566
+00:47:46,080 --> 00:47:58,320
+regretful or feel bad about something they have done or said that they then respond to that
+
+567
+00:47:59,040 --> 00:48:06,640
+by attacking the next person it's a common occurrence if you're looking at people's behavior
+
+568
+00:48:07,440 --> 00:48:13,520
+now they have no awareness that the reason why they are attacking this other person
+
+569
+00:48:13,520 --> 00:48:23,280
+has to do with whatever feeling so how would you in terms of you're talking about there's no
+
+570
+00:48:23,280 --> 00:48:31,120
+unconscious thinking how would you explain this right so first of all this is so far for my
+
+571
+00:48:31,120 --> 00:48:41,520
+purview that I doubt what is with rats it's no no no it's it's true that it is it is far from your
+
+572
+00:48:41,520 --> 00:48:48,080
+purview and it's not since what we are talking about is the biology of the mind and so what I'm
+
+573
+00:48:48,080 --> 00:48:55,600
+telling you is this is what I see as the mind and I'm asking you you tell me what is the biology
+
+574
+00:48:55,600 --> 00:49:02,240
+of this mind so as I said there's a fascinating and other people here know very interesting literature
+
+575
+00:49:02,240 --> 00:49:09,200
+and cognitive neuroscience showing surprisingly complex cognitive processing going on absolutely
+
+576
+00:49:09,200 --> 00:49:15,040
+absence of conscious awareness right in other words everyone wants to say that a certain
+
+577
+00:49:15,040 --> 00:49:20,880
+threshold of complexity of the cognitive process even if unconscious we're going to call it thinking
+
+578
+00:49:20,880 --> 00:49:27,120
+and I have no problem you can call it leading to behavior right yes I mean I have you know
+
+579
+00:49:27,120 --> 00:49:31,840
+cattleman from the from the behavioral economic side or whether it's all the work being done you
+
+580
+00:49:31,840 --> 00:49:38,320
+know by people like Tim Shales and Adrian Owen and all these people there's no question that
+
+581
+00:49:38,320 --> 00:49:45,120
+surprisingly public complex cognitive operations occur that have impact on behavior when people
+
+582
+00:49:45,120 --> 00:49:48,720
+are processing but when you ask them are they aware that they're doing so to the stimulus
+
+583
+00:49:48,720 --> 00:49:53,840
+they'll say no there won't be above chance so your example fits beautifully into these
+
+584
+00:49:54,560 --> 00:49:59,760
+vast range of phenomena where complex processing is going on and people don't realize they're
+
+585
+00:49:59,760 --> 00:50:06,080
+doing it so neuroscience is in complete agreement with the kind of thing that you just described
+
+586
+00:50:06,080 --> 00:50:10,800
+yours might be more subtle and more complicated and harder to do in a lab and more difficult to
+
+587
+00:50:10,800 --> 00:50:16,000
+control all the variables and to show systematic effects across many subjects so it might be difficult
+
+588
+00:50:16,000 --> 00:50:22,560
+to do classic cognitive science on your phenomenon so the real question but it can be done yeah the
+
+589
+00:50:22,560 --> 00:50:28,080
+real question is given how much can be done in that way that I would want to call unconscious
+
+590
+00:50:28,080 --> 00:50:33,840
+why we have a consciousness at all exactly right and so that's the question that I posed before
+
+591
+00:50:33,840 --> 00:50:39,280
+we got on to this terminological issue is if you had a motivational system and a selective
+
+592
+00:50:39,280 --> 00:50:43,920
+intentional system wouldn't that be enough why why do you need more well as I said the person
+
+593
+00:50:43,920 --> 00:50:49,120
+has written a whole book on this topic in Nicholas Humphrey and it's it's not my idea at all but
+
+594
+00:50:49,120 --> 00:50:55,200
+he's the most interesting so far in trying to answer exactly your excellent question which is
+
+595
+00:50:55,200 --> 00:51:03,120
+that consciousness really is a souped up qualitatively better way to do motivation and attention if you
+
+596
+00:51:03,120 --> 00:51:08,960
+want to be an organism in a common now look to me that almost seems like a category error if you
+
+597
+00:51:08,960 --> 00:51:13,200
+say that what you've got is motivation and attention and then there could be something else we'll
+
+598
+00:51:13,200 --> 00:51:17,920
+call that consciousness and it turns out that that consciousness is just better versions of the
+
+599
+00:51:17,920 --> 00:51:21,680
+first things that we don't actually need to evoke consciousness we just need to talk about how you
+
+600
+00:51:21,680 --> 00:51:26,640
+make a better selective attention system a better motivation system we don't need a third a lot of
+
+601
+00:51:26,640 --> 00:51:33,520
+empirical evidence that you get selective attention is really very fine grained which in the absence
+
+602
+00:51:33,520 --> 00:51:38,160
+of awareness there's just been a lot of work in the last time here yeah because another no problem
+
+603
+00:51:38,160 --> 00:51:47,200
+let me ask Matthew what you think of all this well I don't know so I don't actually I'm sort of more
+
+604
+00:51:48,880 --> 00:51:53,840
+you know also kind of sympathetic to zombie arguments I don't actually think that there's
+
+605
+00:51:53,840 --> 00:52:00,000
+anything that I could conscious that I could explicitly choose to program into a system that
+
+606
+00:52:00,000 --> 00:52:10,600
+would make it conscious in the sense of having a kind of first-person life even if we like had a
+
+607
+00:52:10,600 --> 00:52:17,680
+whole brain situation understood it's not I'm not I'm not I'm not saying that I would deny that it
+
+608
+00:52:17,680 --> 00:52:23,360
+would happen I'm just saying I can't say that I don't think it's a functional thing so I don't
+
+609
+00:52:23,360 --> 00:52:30,080
+actually think that by programming some capacities rather than others I'd be able to titrate what was
+
+610
+00:52:31,600 --> 00:52:39,520
+what it was like to be a robot so the awareness that we have of ourselves is things like I think
+
+611
+00:52:39,520 --> 00:52:46,800
+I'm sitting I think I'm talking to some people about the biology of mind I think there are various
+
+612
+00:52:46,800 --> 00:52:57,840
+things like that so if you can figure out how to get a gadget a machine to have thoughts and then
+
+613
+00:52:57,840 --> 00:53:03,360
+you can figure out how to get the gadget to have thoughts with this content and that content and
+
+614
+00:53:03,360 --> 00:53:10,240
+so forth then you're home free and you can have a gadget that thinks I'm doing this I'm doing that
+
+615
+00:53:10,240 --> 00:53:15,440
+I have the experience of bread again like you have you have a system whose representations have
+
+616
+00:53:15,440 --> 00:53:22,480
+have that content yeah something else from saying that like it's like anything to be that system
+
+617
+00:53:22,480 --> 00:53:27,760
+right so what I want to know is what the other thing is it's as far as I'm concerned it's just
+
+618
+00:53:27,760 --> 00:53:35,840
+this is the universe that we live in well I would I would add ours it's like no no no but I want
+
+619
+00:53:35,840 --> 00:53:41,360
+you to articulate what being with shallmurs amounts okay so what's the difference between
+
+620
+00:53:41,360 --> 00:53:46,960
+so you've got these guys who think that there's this subjectivity and it's mysterious and it
+
+621
+00:53:46,960 --> 00:53:55,520
+defies you know scientific treatment and Nagel's argument is subjectivity is where we start and
+
+622
+00:53:55,520 --> 00:54:01,680
+objectivity is getting away from subjectivity so objectivity can't give an account of subjectivity
+
+623
+00:54:01,680 --> 00:54:11,040
+it seems to me this is all word mongering and unless one can say what it is that's missing well
+
+624
+00:54:11,040 --> 00:54:18,720
+so so what's what's the difference between all this non-aware sophisticated cognitive processing
+
+625
+00:54:19,600 --> 00:54:26,240
+and aware sophisticated so I was saying that what the difference was was that when you've got
+
+626
+00:54:26,880 --> 00:54:33,680
+conscious seeing as opposed to subliminal seeing then you have an additional awareness so if I
+
+627
+00:54:33,680 --> 00:54:39,200
+subliminally see the table and I have an awareness of the table let's not worry about what the content
+
+628
+00:54:39,200 --> 00:54:45,760
+is but I have there's the table I have an awareness of it's subliminal it's not conscious if the
+
+629
+00:54:45,760 --> 00:54:52,560
+awareness of the table is conscious if it's conscious awareness then I have another awareness
+
+630
+00:54:52,560 --> 00:55:00,960
+of the first order awareness of the table so so so it's a popular robot that that can that can
+
+631
+00:55:00,960 --> 00:55:06,400
+enter into its memory banks you know the thought there is a table and the thought I just noticed
+
+632
+00:55:06,400 --> 00:55:11,760
+there was a table then is that that robot becomes well I thought we didn't know whether robots
+
+633
+00:55:11,760 --> 00:55:16,960
+were could be like us well but but suppose I just programmed a robot the way we know robots are now
+
+634
+00:55:16,960 --> 00:55:21,920
+where we know they're not like us and I programmed it to be able to say you know not only there's a
+
+635
+00:55:21,920 --> 00:55:26,960
+table but I just said there's a table I know there's a table so it's not conscious but just because
+
+636
+00:55:26,960 --> 00:55:31,280
+it has that in its memory right that's the soul sort of argument but I see you have to just look at
+
+637
+00:55:31,280 --> 00:55:37,280
+the world I mean let's take play I mean it's amazing how little neuroscience of play there's been okay
+
+638
+00:55:37,920 --> 00:55:44,480
+but playing people are beginning to look at it now not every animal plays so these animals that
+
+639
+00:55:44,480 --> 00:55:54,080
+have attention and motivation like a nute or a locust no one has seen play behavior right then
+
+640
+00:55:54,080 --> 00:56:00,640
+you get to crows and mammals and I'm not going to talk exactly whether you start to see this extra
+
+641
+00:56:00,640 --> 00:56:08,480
+behavior right and we call it play now all I'm saying is that there are these qualitatively
+
+642
+00:56:08,480 --> 00:56:15,840
+different extra behaviors that nervous system start to manifest that seem extraneous you know
+
+643
+00:56:15,840 --> 00:56:23,040
+and whether we want to go to the aesthetic to the planned to playful what some people are saying is
+
+644
+00:56:23,040 --> 00:56:29,360
+that those are the benefits that consciousness mechanisms might start to give you and now again
+
+645
+00:56:29,360 --> 00:56:34,400
+I'm in no position to say whether you can't play if not conscious or whether the beginnings of play
+
+646
+00:56:34,400 --> 00:56:41,680
+suggest a little bit of awareness of self and fun but the I think again quoting from Humphrey and
+
+647
+00:56:41,680 --> 00:56:47,360
+Dennett that the arguments for consciousness independent of the neural bases for it are going
+
+648
+00:56:47,360 --> 00:56:53,920
+to have to take this are we going to have a robot zombie writing a poem is it going to open the window
+
+649
+00:56:53,920 --> 00:56:59,440
+and go what a wonderful world it is today right now that's what I'm saying consciousness probably
+
+650
+00:56:59,440 --> 00:57:06,000
+you need to have it okay well so look not I would I would agree with you that there's evolutionary
+
+651
+00:57:06,000 --> 00:57:11,920
+reasons for this system which this part of the neural system that is the thing that enters our
+
+652
+00:57:11,920 --> 00:57:18,560
+awareness the only I I agree that it was selected for I agree that it has a function the only thing
+
+653
+00:57:18,560 --> 00:57:23,360
+I don't agree with is why I couldn't do exactly the same things without having any subjective
+
+654
+00:57:23,360 --> 00:57:29,840
+awareness of it because I'm saying it wouldn't lead to play forward planning well that's that's
+
+655
+00:57:29,840 --> 00:57:34,720
+the point it's not all the same your processing and behaviors happen why do you know what is
+
+656
+00:57:34,720 --> 00:57:38,720
+they they wouldn't be they wouldn't be triggered I mean that is a good question but I'm just saying
+
+657
+00:57:39,600 --> 00:57:45,120
+I believe purely intuitively that what I it's going to have to go in the direction that I'm
+
+658
+00:57:45,120 --> 00:57:50,880
+saying we're going to have to look at the phenomenology of conscious behavior to get clues as to what
+
+659
+00:57:50,880 --> 00:57:55,840
+it does extra rather than constantly falling back on these zombie arguments and I completely agree
+
+660
+00:57:55,840 --> 00:58:03,600
+with you they just they're negative pointing it to the limitation you know in other words a boy
+
+661
+00:58:05,360 --> 00:58:12,240
+it can a computer a robot do everything except be self-aware but you do everything
+
+662
+00:58:13,040 --> 00:58:16,320
+it could even be self-aware but it might not be aware that it's self-aware right now
+
+663
+00:58:16,320 --> 00:58:20,960
+it may not have any subjective experience
+
+664
+00:58:24,400 --> 00:58:30,000
+so I don't actually think I mean again I don't I don't think about consciousness that much because
+
+665
+00:58:30,000 --> 00:58:36,240
+like I said I don't think that there's any difference in from the point of view of the system
+
+666
+00:58:36,240 --> 00:58:38,880
+you know what's interesting from the point of view of
+
+667
+00:58:38,880 --> 00:58:49,120
+the programming as we're able to you know succeed in building more knowledge into systems in using
+
+668
+00:58:49,120 --> 00:58:58,160
+learning in new ways and in like having architectures that exhibit more flexible behavior is that we
+
+669
+00:58:58,160 --> 00:59:06,080
+understand more and more of the sophistication that goes into our unconscious processing in ways that
+
+670
+00:59:06,080 --> 00:59:11,440
+help us I think to reflect on the kind of engagement that we have with the world
+
+671
+00:59:15,040 --> 00:59:21,040
+and sort of why it is that mental explanations are such effective explanations of people
+
+672
+00:59:23,120 --> 00:59:28,160
+so one thing that's different between you know computer systems are very good at
+
+673
+00:59:28,160 --> 00:59:36,000
+solving classification problems so they'll be able to make a really good good prediction about
+
+674
+00:59:36,000 --> 00:59:42,560
+whether you're going to pay your credit card on time or whether you know whether you want to buy
+
+675
+00:59:42,560 --> 00:59:51,520
+a particular product based on your web surfing history but what they don't do is that they don't
+
+676
+00:59:51,520 --> 00:59:58,480
+kind of critique the representations that they have in the world so that they don't sort of use
+
+677
+00:59:58,480 --> 01:00:08,960
+their what they learn as sort of hypotheses going forward they don't have kind of they don't
+
+678
+01:00:08,960 --> 01:00:15,760
+pose questions to the world and they don't sort of have feedback and that sort of seems to be one
+
+679
+01:00:15,760 --> 01:00:21,440
+of the things that's really important when we attribute to each other beliefs about the world to say
+
+680
+01:00:21,440 --> 01:00:28,880
+like you know when I think that that's water on the table there that's making a complex set of
+
+681
+01:00:28,880 --> 01:00:33,360
+predictions about well I'm going to drink it if it doesn't taste good I'm going to try to figure
+
+682
+01:00:33,360 --> 01:00:39,040
+out what it is instead there's a kind of system-aticity to the way that our representations inform our
+
+683
+01:00:39,040 --> 01:00:46,480
+engagement with the world and that kind of functional structure allows us to appreciate why
+
+684
+01:00:48,160 --> 01:00:52,400
+it's so much easier to explain what somebody does in terms of what they believe
+
+685
+01:00:52,960 --> 01:00:59,280
+than to explain in terms of what's happening in their cortex or even to draw correlations
+
+686
+01:00:59,280 --> 01:01:02,400
+between what they've done before and what they're likely to do again.
+
+687
+01:01:02,400 --> 01:01:13,520
+Right now. I totally agree with your take on the difference between AI and human cognition.
+
+688
+01:01:14,480 --> 01:01:21,040
+I might say though that that's really about what intelligence is and we have a different kind
+
+689
+01:01:21,040 --> 01:01:24,880
+of intelligence than machines do of course different machines have different intelligence from one
+
+690
+01:01:24,880 --> 01:01:31,280
+another. I don't know that that's actually informative about what consciousness is so in one theory would
+
+691
+01:01:31,280 --> 01:01:36,560
+be in order to be conscious you have to have a certain kind of intelligence another theory would
+
+692
+01:01:36,560 --> 01:01:42,560
+be that our kind of intelligence is just one route to having consciousness and maybe machines could
+
+693
+01:01:42,560 --> 01:01:48,480
+have consciousness by taking a different route and again some of its different needs have
+
+694
+01:01:48,480 --> 01:01:54,000
+consciousness without having this. I mean I'm certainly willing to entertain that I'm not willing to
+
+695
+01:01:54,000 --> 01:01:59,920
+entertain that new to self-awareness I don't see any evidence of that but some level of awareness
+
+696
+01:01:59,920 --> 01:02:02,480
+that's prior to self-awareness I think it's probably do have.
+
+697
+01:02:05,760 --> 01:02:10,000
+Yeah the lobster that knows it's where its body ends and where the world begins.
+
+698
+01:02:10,560 --> 01:02:15,680
+So what's troubling for so might be troubling for some people is that iPhones have some sense
+
+699
+01:02:15,680 --> 01:02:20,880
+of awareness of where they are right they're GPS systems you know in fact where they are.
+
+700
+01:02:20,880 --> 01:02:26,240
+To me those kind of arguments are pseudo cleverness right they don't actually get to what we're
+
+701
+01:02:26,240 --> 01:02:31,120
+talking about I mean okay yes programmers made GPS systems in phones but if we're going to be
+
+702
+01:02:31,120 --> 01:02:36,080
+talking about evolution and how we go from certain forms of all awareness.
+
+703
+01:02:36,080 --> 01:02:39,920
+From you today is that it's a better motivational system and a better
+
+704
+01:02:39,920 --> 01:02:44,720
+I have I'm not somebody I can program an iPhone with a better awareness system and a better
+
+705
+01:02:44,720 --> 01:02:48,400
+motivational system. I'm not sure it's going to get me there I'm not sure it won't either but
+
+706
+01:02:48,400 --> 01:02:50,720
+iPhone having motivational awareness is just absurd.
+
+707
+01:02:51,520 --> 01:02:54,000
+Well certainly an iPhone has awareness.
+
+708
+01:02:54,000 --> 01:02:58,960
+iPhones have awareness they have accelerometers they have GPS systems they have microphones
+
+709
+01:02:58,960 --> 01:03:02,640
+they have information cameras they can sense things about the world they can sense a lot of
+
+710
+01:03:02,640 --> 01:03:07,520
+things about and and they can selectively filter it so they can focus right now on part of the
+
+711
+01:03:07,520 --> 01:03:11,120
+image rather than the whole image they can turn on one sensor rather than turn off.
+
+712
+01:03:11,120 --> 01:03:15,600
+They can turn on an iPhone where but you said a nuke wasn't and a reflex wasn't.
+
+713
+01:03:15,600 --> 01:03:20,400
+Why I said an iPhone you're giving iPhone awareness but you denied that
+
+714
+01:03:20,400 --> 01:03:24,000
+reflex is added. You denied that reflex is added.
+
+715
+01:03:24,880 --> 01:03:28,640
+Denied that reflex is had awareness. You said that at the very beginning.
+
+716
+01:03:28,640 --> 01:03:30,560
+I'm willing to exclude reflexes.
+
+717
+01:03:30,560 --> 01:03:33,840
+But not an iPhone.
+
+718
+01:03:34,720 --> 01:03:37,840
+iPhones I have not adjudicated one way or another.
+
+719
+01:03:39,360 --> 01:03:45,440
+I'm simply trying to pinpoint the distinction you're sort of rudely shaking your head but we're
+
+720
+01:03:45,440 --> 01:03:52,880
+trying to figure out where the distinction might go right so it doesn't seem to be at the level
+
+721
+01:03:52,880 --> 01:03:57,920
+of sensation it doesn't seem to be at the level of selective awareness unless we really have
+
+722
+01:03:57,920 --> 01:04:04,240
+two logical choices we're making some definitions here and one of our logical choices is to say
+
+723
+01:04:04,240 --> 01:04:08,000
+we're just going to attribute consciousness to iPhones. Most people in the room are comfortable
+
+724
+01:04:08,000 --> 01:04:12,160
+with that but some might we haven't really given a principled argument if we're going to go down
+
+725
+01:04:12,160 --> 01:04:17,120
+the line that says we're not going to attribute consciousness to iPhones then we can't do it because
+
+726
+01:04:17,120 --> 01:04:22,640
+iPhones lack sensation because they have them. We can't do it because they lack selective sensory
+
+727
+01:04:22,640 --> 01:04:27,360
+apparatus because they have them and even motivational system we could at least have an argument.
+
+728
+01:04:27,360 --> 01:04:32,320
+So if we want to say the iPhone doesn't have consciousness which I think is a respectable
+
+729
+01:04:32,320 --> 01:04:37,680
+position then we want to say why we are holding that position. I have not heard a good answer
+
+730
+01:04:37,680 --> 01:04:42,880
+to it yet today. Well I mean we're going back to the idea that I agree with you that reflexes
+
+731
+01:04:42,880 --> 01:04:48,800
+are based on simple after input output okay and that the arguments from evolutionally
+
+732
+01:04:48,800 --> 01:04:54,320
+standpoint are you start with sensation then you move to E-france copy and forward models
+
+733
+01:04:54,320 --> 01:04:59,840
+what does this mean by the way it's sort of internal representations of the external world that
+
+734
+01:04:59,840 --> 01:05:06,240
+simulate sensations and there's a lot of evidence for that that you can begin to predict the
+
+735
+01:05:06,240 --> 01:05:11,120
+sensory consequences of what you're going to do based on internal simulations without actually
+
+736
+01:05:11,120 --> 01:05:16,800
+having the sensations and so the argument might be that you go from sensations to these internal
+
+737
+01:05:16,800 --> 01:05:23,520
+simulations of sensations and then maybe that was piggyback to Pong for consciousness being
+
+738
+01:05:23,520 --> 01:05:29,200
+some extra feeling to this internal simulation of sensation and that one can construct that
+
+739
+01:05:29,200 --> 01:05:35,760
+kind of argument. Now that use of circuitry to go along that spectrum is a completely different
+
+740
+01:05:35,760 --> 01:05:40,800
+universe to talking about the fact that an iPhone could be programmed to have a GPS or an accelerometer
+
+741
+01:05:40,800 --> 01:05:45,840
+which you know of course but there's no way that the iPhone is now going to say thank you for giving
+
+742
+01:05:45,840 --> 01:05:51,440
+me a sensory system I'm now going to evolve to have internal copies and then I'm going to evolve
+
+743
+01:05:51,440 --> 01:05:56,160
+evolve to being conscious if it's true that an iPhone could evolve right in front of us in its
+
+744
+01:05:56,160 --> 01:06:01,040
+little lifetime and that's news to me. It seems to me that everything rests on the part that you
+
+745
+01:06:01,040 --> 01:06:06,800
+called the extra. So in terms of having internal models again computers have lots of internal
+
+746
+01:06:06,800 --> 01:06:13,760
+models there's a lot of it's worth noting that most voice interfaces only work because the system
+
+747
+01:06:13,760 --> 01:06:20,720
+is able to subtract its own expected sound from its input to detect what you're saying.
+
+748
+01:06:21,120 --> 01:06:27,600
+Right so so I'm saying that we understand from engineering computing the benefit of Ford models
+
+749
+01:06:27,600 --> 01:06:34,880
+and we've made them in nervous system and it's an interesting phenomenon and could one go with that
+
+750
+01:06:34,880 --> 01:06:40,240
+if we believe in evolution or I'm saying. Now a computer you give an internal model it's not going
+
+751
+01:06:40,240 --> 01:06:46,080
+to evolve right. Well that's not true either I mean you can you can make computers that have
+
+752
+01:06:46,080 --> 01:06:50,240
+evolved evolution systems there's some very nice work for example by Kenneth Stanley where
+
+753
+01:06:50,240 --> 01:06:56,240
+there's evolution over time the internal models of those computer systems evolve over time they get
+
+754
+01:06:56,240 --> 01:07:02,400
+better at learning all kinds of things so maybe they're limited still in the ways to maybe point
+
+755
+01:07:02,400 --> 01:07:07,760
+out but but they are I mean there it seems to me like just a technological question so there's
+
+756
+01:07:07,760 --> 01:07:12,400
+there's a whole field of genetic programming of evolutionary programming and it's made some
+
+757
+01:07:12,400 --> 01:07:16,960
+progress it hasn't made as much progress as I would like I mean I don't think that the systems are
+
+758
+01:07:16,960 --> 01:07:21,520
+that sophisticated but they're capable of learning some kind of new representation of building some
+
+759
+01:07:21,520 --> 01:07:26,640
+kind of new model and it seems like you know 25 years or 50 years that that field will be further
+
+760
+01:07:26,640 --> 01:07:31,280
+along like most fields my intuition is that still won't give us that something extra if there is
+
+761
+01:07:31,280 --> 01:07:36,000
+something extra but part of my intuition is maybe we are it's a it's a red herring looking for this
+
+762
+01:07:36,000 --> 01:07:41,920
+something extra well that I think I think we're not talking about the phenomenon is real the question
+
+763
+01:07:41,920 --> 01:07:46,400
+is whether the that's for nation for the phenomenon has to be qualitatively different I think I
+
+764
+01:07:46,400 --> 01:07:51,680
+did you all agree that quanera real the first person perspective is real that they are then I
+
+765
+01:07:51,680 --> 01:07:56,320
+would say we haven't today certainly offered any understanding of even how you would figure out
+
+766
+01:07:56,320 --> 01:08:05,360
+what that I think is a pseudo question okay question from the audience stand up and microphone please
+
+767
+01:08:08,880 --> 01:08:14,320
+it seems to me that one really simple epistemic can you go slightly closer to the mic or one is
+
+768
+01:08:14,320 --> 01:08:22,000
+very simple delineation that can be made perhaps is that consciousness can't be a discrete unit
+
+769
+01:08:24,400 --> 01:08:30,000
+it seems to me the consciousness how long phrase this consciousness is something that is shared
+
+770
+01:08:30,000 --> 01:08:36,160
+among us we all laugh at the same time I sort of share a consciousness with my pets they share some
+
+771
+01:08:36,160 --> 01:08:41,360
+of mine I know this is a little silly to to phrase it so simplistically but um
+
+772
+01:08:41,360 --> 01:08:50,160
+um a phenomenon like quorum sensing or the to describe an organization like the United
+
+773
+01:08:50,160 --> 01:08:57,120
+States of America we could describe this we could use the same descriptions of consciousness
+
+774
+01:08:57,760 --> 01:09:01,680
+to describe groups it seems to me that the descriptions break down when you try to
+
+775
+01:09:02,240 --> 01:09:07,680
+identify one discrete unit of consciousness I think the one place where neuroscience has
+
+776
+01:09:07,680 --> 01:09:14,640
+actually made some progress is on replacing this idea of pure localization one spot in the brain
+
+777
+01:09:14,640 --> 01:09:19,280
+that does this with the notion that there are networks and circuits and I think once you have
+
+778
+01:09:19,280 --> 01:09:23,680
+that realization that there are networks and circuits then at least a little bit of what you're
+
+779
+01:09:23,680 --> 01:09:29,360
+asking about gets gets a little bit easier so if you understand that what any computation
+
+780
+01:09:29,360 --> 01:09:33,040
+whether we're talking about language or walking or whether we're talking about consciousness
+
+781
+01:09:33,040 --> 01:09:37,360
+is a network and that these different networks overlap with one another then you're not quite
+
+782
+01:09:37,360 --> 01:09:42,480
+stuck I think in the puzzle of saying well it's it's not a discrete thing well most
+
+783
+01:09:42,480 --> 01:09:47,280
+most cognitive capacities aren't really discrete things there there are constellations of neural
+
+784
+01:09:47,280 --> 01:09:51,680
+processes that are in flux they may vary from one moment to the next even in one particular
+
+785
+01:09:51,680 --> 01:09:56,160
+individual and certainly across individuals and I think we're starting to have some understanding
+
+786
+01:09:56,160 --> 01:09:59,520
+of the network dynamics of the brain because they're not even figured it all out but I think
+
+787
+01:09:59,520 --> 01:10:06,720
+that's a place to make progress on that question. I'm Chris Kenzel I'm a psychiatrist and psychoanalyst
+
+788
+01:10:06,720 --> 01:10:14,720
+and I like to offer a new paradigm of just take me a minute. Ten years I'm sitting behind the couch
+
+789
+01:10:14,720 --> 01:10:25,280
+patients over over that time I have the distinct impression that the mind is consciousness and
+
+790
+01:10:25,280 --> 01:10:33,120
+unconsciousness. Don't ask me all the details of how I got there but that in fact is what the mind is
+
+791
+01:10:33,120 --> 01:10:44,560
+so what's the so the next question is well what is it it's it has to be a form of matter
+
+792
+01:10:47,680 --> 01:10:52,400
+but it does it's not like any other form of matter you can't see it you can't measure it you can't
+
+793
+01:10:52,400 --> 01:11:01,520
+weigh it you can't what is it is it up is it an abstraction then of matter is it a special form
+
+794
+01:11:01,520 --> 01:11:10,240
+of matter so I came across in Scientific American the notion that all matter is waves
+
+795
+01:11:13,120 --> 01:11:19,200
+I began to think well maybe consciousness and unconsciousness are indeed matter ways themselves
+
+796
+01:11:20,000 --> 01:11:26,320
+that is maybe the reason we can't break them down or get their components and so on is because
+
+797
+01:11:26,320 --> 01:11:33,280
+they're primary fundamental matter ways just like energy and time and substance so on that
+
+798
+01:11:33,280 --> 01:11:44,560
+they're fundamental matter ways I don't know if I can get the the theory of the hypothesis is that
+
+799
+01:11:45,920 --> 01:11:52,240
+at a certain point in the evolution of the universe that consciousness and unconsciousness matter
+
+800
+01:11:52,240 --> 01:12:02,400
+waves emerged that they then made life think about the cell without a survival drive and without a
+
+801
+01:12:02,400 --> 01:12:10,640
+survival implementation implementation how could a cell possibly survive without drive and without
+
+802
+01:12:10,640 --> 01:12:18,400
+a means to do it a procedure so unconsciousness became the drive the survival drive consciousness
+
+803
+01:12:18,400 --> 01:12:24,640
+became the procedure you have survival drive survival procedure you have adaptive drive
+
+804
+01:12:24,640 --> 01:12:34,400
+and animals adaptive procedure and you have a whole person evolution thing in human in human beings
+
+805
+01:12:34,400 --> 01:12:41,360
+so there's two parts in what you're saying one is is that drives are really important and I think
+
+806
+01:12:41,360 --> 01:12:47,280
+there's room to argue about what counts as a drive whether whether you find a drive in a single cell
+
+807
+01:12:47,280 --> 01:12:51,040
+and that's a definitional thing and we could talk about that on the other part of what you're saying
+
+808
+01:12:51,680 --> 01:12:58,320
+I would say that the waves aren't going to help us here but what we're looking for is an
+
+809
+01:12:58,320 --> 01:13:03,200
+organization of matter that's what's proven to be helpful in understanding life itself so people
+
+810
+01:13:03,200 --> 01:13:08,000
+were looking for this vitalist force which they never really found what we found instead was that
+
+811
+01:13:08,000 --> 01:13:13,600
+the right way to understand life is in terms of particular arrangements of matter that have
+
+812
+01:13:13,600 --> 01:13:18,480
+particular properties such that they reproduce such that they have metabolism and so forth
+
+813
+01:13:19,680 --> 01:13:24,160
+and that's how we understand life now is if you have the right arrangement of matter that gives
+
+814
+01:13:24,160 --> 01:13:28,240
+you those properties what I would say in consciousness is whatever the answer is it's going to start
+
+815
+01:13:28,240 --> 01:13:31,920
+with information processing that you're going to have arrangements of matter that allow you to
+
+816
+01:13:31,920 --> 01:13:36,400
+do information processing there may be some other requirement but I would say that's a beginning
+
+817
+01:13:36,400 --> 01:13:42,160
+necessary requirement that probably nobody here would disagree with can you will go and say something
+
+818
+01:13:42,160 --> 01:13:46,720
+yeah I mean I agree with that I just the a couple of things one is that the
+
+819
+01:13:50,480 --> 01:13:55,200
+the connection between you know the fact that matter is wave which is basically quantum mechanics
+
+820
+01:13:55,200 --> 01:14:02,080
+and and the mind or consciousness is that they're both not they're both mysterious
+
+821
+01:14:03,120 --> 01:14:08,160
+and and therefore there's a tendency to say this this is mysterious and that is mysterious so
+
+822
+01:14:08,160 --> 01:14:14,320
+this must explain that and they have nothing to do with each other exactly totally agree yeah and
+
+823
+01:14:14,320 --> 01:14:20,720
+the we know quantum mechanics is mysterious in certain special ways which typically go under the
+
+824
+01:14:20,720 --> 01:14:24,240
+name of entanglement when these special things happen it's very foreign to our experience and
+
+825
+01:14:24,240 --> 01:14:30,240
+it makes it mysterious it's it's very clear that there's entanglement is not playing a role in the
+
+826
+01:14:30,240 --> 01:14:34,560
+brain the brain is operating out of temperature under conditions where this is just not playing
+
+827
+01:14:34,560 --> 01:14:40,240
+any role so it's just it's just divorced what what is the other thing that I want to say is just
+
+828
+01:14:41,040 --> 01:14:47,280
+I mean we we all agreed on this issue and so therefore we didn't discuss it which is that
+
+829
+01:14:47,280 --> 01:14:52,720
+you know consciousness is and mind are just are just manifestations of the brain but
+
+830
+01:14:52,720 --> 01:15:00,480
+just to give an experience just to make I mean we live with this weird internal awareness which
+
+831
+01:15:00,480 --> 01:15:05,600
+is our mind and it's seen so mysterious like it must you know be connected to the cosmos or the
+
+832
+01:15:05,600 --> 01:15:13,120
+universe or something but when you start doing when you do surgery on on animals or on people
+
+833
+01:15:14,080 --> 01:15:19,520
+you know everyone has got a piece of meat called the heart and that pumps their blood
+
+834
+01:15:20,080 --> 01:15:24,960
+and everyone has got a piece of meat called you know a kidney and that filters their blood
+
+835
+01:15:24,960 --> 01:15:33,600
+and everyone inside their skull has got this brain thing and it's it more fat excuse me more
+
+836
+01:15:33,600 --> 01:15:40,400
+fat than meat yeah but it's me it's a piece of meat that evolved biologically to do a function
+
+837
+01:15:41,040 --> 01:15:45,200
+and it's no more mysterious or dependent on quantum mechanics than the kidney or the heart
+
+838
+01:15:46,400 --> 01:15:48,960
+I agree I agree okay next question please
+
+839
+01:15:48,960 --> 01:15:56,000
+first I want to say there are a few iPhones in here that don't seem to have intelligence
+
+840
+01:15:59,840 --> 01:16:05,280
+they just want a 10-cent second I have two I have two short questions that are sort of contradictory
+
+841
+01:16:05,280 --> 01:16:12,400
+one is we don't know what strength is in particular we know that it's an emergent
+
+842
+01:16:12,400 --> 01:16:21,200
+quality of certain objects so why can't consciousness be considered an emergent quality of the brain
+
+843
+01:16:22,160 --> 01:16:26,800
+and then the second question maybe I'll just let it go with it actually
+
+844
+01:16:28,000 --> 01:16:34,160
+I'll start on that one and other people can disagree if the analogy I was just making with life is
+
+845
+01:16:34,160 --> 01:16:37,920
+right well life is an emergent property but there are different kinds of emergent properties so
+
+846
+01:16:37,920 --> 01:16:42,880
+life is a kind of emergent property that we can well understand why the functions of particular
+
+847
+01:16:42,880 --> 01:16:48,400
+molecules lead to the configurations that give you the reproduction the metabolism and so forth so
+
+848
+01:16:49,360 --> 01:16:55,120
+life is different from the constituent molecules but it emerges in a lawful and predictable kind of
+
+849
+01:16:55,120 --> 01:17:00,560
+way so that's one kind of emergence it's conceivable that there's another kind of emergence that is not
+
+850
+01:17:00,560 --> 01:17:06,720
+sort of doesn't follow in the same reductionist or inverse reductionist fashion so I would argue
+
+851
+01:17:06,720 --> 01:17:12,880
+that if you understand the right information processing properties that that then consciousness
+
+852
+01:17:12,880 --> 01:17:18,640
+emerges I mean we I don't think we have a proof of that but at least with the rest of of mental
+
+853
+01:17:18,640 --> 01:17:23,360
+function that seems to me to be the right way to go as we say these mental functions emerge
+
+854
+01:17:23,360 --> 01:17:28,320
+if you have the right configurations of matter and I would just say I mean yes it is an emergent
+
+855
+01:17:28,320 --> 01:17:35,200
+property of the brain but it's not as sort of nonspecific as that I mean the brain has a lot
+
+856
+01:17:35,200 --> 01:17:39,760
+of detailed structure and different pieces of that structure are involved in different kinds
+
+857
+01:17:39,760 --> 01:17:46,480
+of cognitive processes and there are some detailed set of structures that we don't understand that
+
+858
+01:17:46,480 --> 01:17:51,600
+you know and or some some cons or some constellations of activity in all these detailed structures
+
+859
+01:17:51,600 --> 01:17:55,520
+that emerges consciousness but it's not just kind of you know a soup out of which continents
+
+860
+01:17:55,520 --> 01:18:00,080
+emerges it's a very specific thing that's involved it's not magic it's emergence from high degree of
+
+861
+01:18:00,080 --> 01:18:07,520
+structure yeah very briefly at what point would you all be willing to seed to an either an alien or
+
+862
+01:18:07,520 --> 01:18:17,520
+a robot the property of consciousness very good I have a hard enough time with other human beings
+
+863
+01:18:18,480 --> 01:18:23,440
+I don't think there's an easy answer to that because there are different ways that we
+
+864
+01:18:23,440 --> 01:18:32,160
+try to answer that question one is the thing that Kim said earlier there's a kind of an analogy
+
+865
+01:18:32,160 --> 01:18:38,960
+right we all look roughly alike and we seem to function in similar ways and so forth and so on
+
+866
+01:18:40,000 --> 01:18:47,600
+we can exchange things by way of language in non-linguistic ways so I assume that you're
+
+867
+01:18:47,600 --> 01:18:56,080
+kind of like me and you assume I'm kind of like you that's one thing but we know well we think we know
+
+868
+01:18:58,320 --> 01:19:05,120
+I guess the first point of contention was I said fish and all I said was I didn't know much about
+
+869
+01:19:05,120 --> 01:19:09,680
+fish and everybody jumped and they weren't mental they didn't have I said I didn't know
+
+870
+01:19:09,680 --> 01:19:19,760
+but everybody jumped on me but you know one thing about fishes I don't feel like a fish is very
+
+871
+01:19:19,760 --> 01:19:26,720
+much like me just looking at it off hand so when you look at its genome and its brain organization
+
+872
+01:19:26,720 --> 01:19:33,120
+that that's very different so the question is how do you do it right and what I'm saying is
+
+873
+01:19:33,120 --> 01:19:38,080
+we have different ways of doing it and one answer isn't going to fit all cases
+
+874
+01:19:38,080 --> 01:19:46,720
+I would say that you know I don't work in consciousness you know but people who do in neuroscience
+
+875
+01:19:46,720 --> 01:19:52,960
+and people who do in philosophy do come up with criteria behavioral criteria and we've
+
+876
+01:19:52,960 --> 01:19:57,840
+ultimately if we believe what we all do which if it's have a physical basis there will be neural
+
+877
+01:19:57,840 --> 01:20:04,160
+criteria which an alien would potentially then be able to say these conditions are necessary
+
+878
+01:20:04,160 --> 01:20:09,600
+insufficient to produce the behavioral phenomenon of consciousness so even though I'm not somebody
+
+879
+01:20:09,600 --> 01:20:16,320
+who's writing down the behavioral and neural requirements people to have it's not totally
+
+880
+01:20:16,880 --> 01:20:21,920
+impossible to do so I think we could do it but if you took Matthew's point from the very
+
+881
+01:20:21,920 --> 01:20:28,240
+beginning seriously and at least allowed the in principle possibility that machines could have
+
+882
+01:20:28,240 --> 01:20:32,960
+consciousness and you won't come up with necessary and sufficient neural conditions you might come
+
+883
+01:20:32,960 --> 01:20:39,920
+up with necessary sufficient computational I mean processes I mean component processes components
+
+884
+01:20:39,920 --> 01:20:45,120
+and processes I'm a functionalist I'm not an internal here I think David Mars levels in terms
+
+885
+01:20:45,120 --> 01:20:49,440
+of describing things in terms of algorithms and implementation we might be looking for
+
+886
+01:20:49,440 --> 01:20:53,600
+something that's algorithmic I'm not sure we can find it at all but if we can I would think it would
+
+887
+01:20:53,600 --> 01:20:58,640
+be I'm just saying that you got to figure out what the machinery is doing not what the machinery is
+
+888
+01:20:58,640 --> 01:21:06,640
+actually far as I'm a hootian neuro-conversity liberal liberal studies philosophy background so
+
+889
+01:21:06,640 --> 01:21:11,200
+this is going to be a little bit philosophy going on really enjoyed everything the contention was
+
+890
+01:21:11,200 --> 01:21:18,240
+great kind of heated up their own so these would be that first comment that might be helpful is
+
+891
+01:21:19,040 --> 01:21:23,920
+Immanuel Kant made a distinction regarding what science is because part of the discussion was
+
+892
+01:21:23,920 --> 01:21:29,520
+what science was that was maybe implied constitutive versus regulative principles
+
+893
+01:21:29,520 --> 01:21:33,920
+regulative principles helps sort of guide where science is going what's worth doing etc
+
+894
+01:21:33,920 --> 01:21:38,640
+constitutive principles are which atom which molecule under what conditions will do what for you
+
+895
+01:21:39,280 --> 01:21:45,280
+and it seemed like the something extra the magic that was banished immediately from the room which
+
+896
+01:21:45,280 --> 01:21:51,840
+is still here I think has to do with regular to print principles because the regulative principles
+
+897
+01:21:51,840 --> 01:21:57,600
+for Kant you can never get these you can't find them under microscope and yet you should try to
+
+898
+01:21:57,600 --> 01:22:02,320
+find them anyway for instance the beginning of time that kind of thing is the example he uses
+
+899
+01:22:02,320 --> 01:22:08,240
+so I think part of the discussion goes to that consciousness as a regulative principle helps to
+
+900
+01:22:08,240 --> 01:22:13,520
+guide the research whether it's functional research or other kinds of research about neurons and
+
+901
+01:22:13,520 --> 01:22:22,000
+connect homes and so forth because it's kind of why we're doing this on the other hand another
+
+902
+01:22:22,000 --> 01:22:27,760
+question that I have I guess at first a comment on the emergence thing if you do have all the
+
+903
+01:22:27,760 --> 01:22:34,560
+conditions I don't think it's predictable as Professor Marcus said you have conditions that
+
+904
+01:22:34,560 --> 01:22:38,400
+would give rise to life but you can't predict what kind of life it's going to be otherwise we could
+
+905
+01:22:38,400 --> 01:22:44,080
+predict evolution which we can't I think no one's going to say that the entire scenario was predictable
+
+906
+01:22:44,080 --> 01:22:53,920
+given the right to no one so with that I will then ask you a real question and the question is
+
+907
+01:22:53,920 --> 01:23:00,240
+basically we have the motivational thing the kind of constituency we're saying if we had these on
+
+908
+01:23:00,240 --> 01:23:06,480
+the iPhone would be conscious perhaps there's one thing missing that would be helpful I get this
+
+909
+01:23:06,480 --> 01:23:14,400
+from Whitehead it's the self intensification of experience something that has experience
+
+910
+01:23:14,400 --> 01:23:20,080
+will try to intensify its experience and it's that in that that Whitehead finds consciousness and life
+
+911
+01:23:20,720 --> 01:23:27,920
+and it finds it in the respect that it diverts from or diverges from routine it diverges from
+
+912
+01:23:27,920 --> 01:23:35,360
+reflex every time it does that things get intense if experience craves intensity then experience would
+
+913
+01:23:35,360 --> 01:23:41,600
+logically do that at some point and improve itself thereby so it kind of fits part of what you're
+
+914
+01:23:41,600 --> 01:23:48,000
+saying but I was wondering if there's any correlate to the effort to intensify one's experience at
+
+915
+01:23:48,000 --> 01:23:57,680
+whether one is a fish or a sea elegance or human I could take the first part of that there's something
+
+916
+01:23:57,680 --> 01:24:02,480
+that didn't come up today but always comes up and it should come up which is there are kind of a
+
+917
+01:24:02,480 --> 01:24:08,160
+few logical possibilities here one is the consciousness is like life that it's an emerging property if
+
+918
+01:24:08,160 --> 01:24:12,480
+we have the right definitions we understand the right molecular processes we can understand it
+
+919
+01:24:13,040 --> 01:24:18,880
+another possibility is that we can never understand it that we're not smart enough and that the
+
+920
+01:24:18,880 --> 01:24:23,120
+tools that we have won't get us there Colin McGinn has made this argument I've never been impressed
+
+921
+01:24:23,120 --> 01:24:27,600
+by it but it's it's out there it's a logical possibility and the third possibility is that
+
+922
+01:24:27,600 --> 01:24:32,400
+we're trying to find the answer to a question that is a non-problem that it doesn't really have an
+
+923
+01:24:32,400 --> 01:24:36,480
+answer so sometimes historically scientists have looked for things that don't exist and they were
+
+924
+01:24:36,480 --> 01:24:40,800
+just asking the wrong question I would say that today we have made no progress towards giving an
+
+925
+01:24:40,800 --> 01:24:45,760
+answer to what consciousness is because what I would count as an answer would be if we say what
+
+926
+01:24:45,760 --> 01:24:49,920
+that something extra is so that I can then go out and figure out whether I can program it into my
+
+927
+01:24:49,920 --> 01:24:54,400
+phone or not and until I have an answer about what it is such that I can decide whether it's
+
+928
+01:24:54,400 --> 01:24:58,400
+programable or not we haven't made progress so that just leaves those other two either we're too
+
+929
+01:24:58,400 --> 01:25:06,960
+stupid or it's not a good question in terms of the intensification I I can always tell you my
+
+930
+01:25:06,960 --> 01:25:12,800
+reaction to it is is that it we're taking ourselves as humans and our experience a little bit too
+
+931
+01:25:12,800 --> 01:25:20,240
+seriously as the explanation of of all of you know mental functioning or consciousness or awareness
+
+932
+01:25:20,240 --> 01:25:28,320
+that you know that that I don't have to just add a fly in the end it's an empirical question you
+
+933
+01:25:28,320 --> 01:25:33,360
+know we're gonna have to look the only creatures that we can be sure you know are fairly sure
+
+934
+01:25:33,360 --> 01:25:38,160
+our conscious are creatures that can report it to us which right now is just humans and you know
+
+935
+01:25:38,160 --> 01:25:42,320
+eventually maybe we'll be able to say in humans what neural processes lead to consciousness and
+
+936
+01:25:42,320 --> 01:25:46,080
+then maybe we'll be able to look for analogs that in animals and try to cross including
+
+937
+01:25:46,080 --> 01:25:51,760
+the imperative we don't know what it is and and I I guess the point is we're not going to get there
+
+938
+01:25:53,920 --> 01:25:58,000
+any more than we could understand quantum mechanics just by thinking about experience we're not
+
+939
+01:25:58,000 --> 01:26:02,640
+going to understand how the brain works just by thinking about experience it's it's going to be
+
+940
+01:26:02,640 --> 01:26:07,840
+a deeply empirical question and the answers are going to be you know completely surprising and
+
+941
+01:26:07,840 --> 01:26:12,000
+not at all what we imagined well that's something else we didn't really talk about today much is
+
+942
+01:26:12,000 --> 01:26:17,440
+what kinds of neural tools for example might help us so there's a lot of things on the table with
+
+943
+01:26:17,440 --> 01:26:21,760
+the brain initiative people are trying to figure out better ways of imaging circuits of neurons
+
+944
+01:26:21,760 --> 01:26:26,560
+rather than just individual neurons or large clusters of neurons I don't personally see how
+
+945
+01:26:26,560 --> 01:26:30,880
+that's going to lead us to an answer to consciousness but it's a it's a very interesting question is
+
+946
+01:26:30,880 --> 01:26:36,000
+there some circuit level property that if we understood that we would be in a better position
+
+947
+01:26:36,000 --> 01:26:40,560
+to understand consciousness or can we even be more articulate than that and say this is the kind
+
+948
+01:26:40,560 --> 01:26:45,520
+of circuit level property so there's been some efforts to look at the circuits that control the
+
+949
+01:26:45,520 --> 01:26:51,520
+flow of information on the notion that part of what consciousness is about is what I was calling
+
+950
+01:26:51,520 --> 01:26:55,280
+selective attention so there are many things you could attend to at any moment but you select
+
+951
+01:26:55,280 --> 01:27:00,320
+from those possibilities and I think we're on a good track to understand that at the neural level
+
+952
+01:27:00,320 --> 01:27:04,800
+but if consciousness is this extra thing that goes beyond selective attention then it's not
+
+953
+01:27:04,800 --> 01:27:09,280
+it's not so clear that getting more information about how the circuitry works is really going
+
+954
+01:27:09,280 --> 01:27:14,240
+to answer the question I would say I would say we're five or ten levels away of understanding
+
+955
+01:27:14,240 --> 01:27:19,200
+away from being able to talk maybe 50 or 100 from being able to talk about that I mean at
+
+956
+01:27:20,080 --> 01:27:25,760
+right now we just we need to understand how the pieces of the brain work to do small bits of
+
+957
+01:27:25,760 --> 01:27:29,040
+computation which is what we're going to understand from these studies looking at many more neurons
+
+958
+01:27:29,040 --> 01:27:34,160
+at once and then we're going to have to build up multiple levels of understanding of the brain
+
+959
+01:27:34,160 --> 01:27:38,320
+before we can never really get to this place we all want to get to now because it's what interests
+
+960
+01:27:38,320 --> 01:27:43,760
+us so much which is to say you know well what is it about neural processing that is a recent
+
+961
+01:27:43,760 --> 01:27:48,480
+conscious that's that's it isn't to say that by adding lots of neurons now we're going to solve
+
+962
+01:27:48,480 --> 01:27:52,240
+that by adding lots of neurons now we're going to help build the next level to the next level of the
+
+963
+01:27:52,240 --> 01:27:55,520
+next level and I don't know how many levels that before we finally get asking those questions
+
+964
+01:27:55,520 --> 01:28:09,040
+I think we need to go to the next question otherwise people there's quite a few people waiting so let's
+
+965
+01:28:09,040 --> 01:28:13,920
+we've reached two hours so we're out of time technically no we started at two-thirds it's not
+
+966
+01:28:13,920 --> 01:28:22,880
+four o'clock yet so go ahead hi there my name is Joe Russo I'm a web developer and just yeah we're
+
+967
+01:28:22,880 --> 01:28:27,360
+at the one and a half curious person what we're at the 90 minute mark we were just given incorrect
+
+968
+01:28:27,360 --> 01:28:35,440
+information very good I was wondering your thoughts on when there are people having near
+
+969
+01:28:35,440 --> 01:28:40,160
+death experiences and there are basically a lot of things shut down in their body and then they
+
+970
+01:28:40,160 --> 01:28:44,880
+they come and they're brought back some some who happen to be brought back claim to have
+
+971
+01:28:44,880 --> 01:28:52,400
+experiences of of certain kinds of things and it makes me wonder if perhaps the the biological
+
+972
+01:28:54,240 --> 01:29:00,160
+armor that we're sort of equipped with now is just simply one potential place where
+
+973
+01:29:01,040 --> 01:29:07,760
+the experience of consciousness and interaction and all that other individuality and all that
+
+974
+01:29:07,760 --> 01:29:14,000
+stuff occurs but it isn't necessarily recorded what are your thoughts on that the movie flatliners
+
+975
+01:29:14,000 --> 01:29:18,880
+talks about that a little bit too it's great so I didn't understand the question the question is
+
+976
+01:29:19,760 --> 01:29:25,520
+that we don't just say it again I was wondering your thoughts on the idea of them maybe consciousness
+
+977
+01:29:25,520 --> 01:29:35,040
+doesn't even require a body per se it may be something that actually can can have a persistence
+
+978
+01:29:35,040 --> 01:29:41,680
+without having biological home to live in one thing that comes to mind is like you know ducks
+
+979
+01:29:41,680 --> 01:29:45,520
+flying and they're kind of communicating and they have this real this really elegant harmonious
+
+980
+01:29:45,520 --> 01:29:50,240
+kind of interaction that goes on and granted yes they have little duck brains that hold their
+
+981
+01:29:50,240 --> 01:29:55,760
+little thoughts and everything but there is also this interaction that seems to happen between them
+
+982
+01:29:55,760 --> 01:30:00,400
+in the air and makes me think that this idea of consciousness of thinking of self-awareness
+
+983
+01:30:00,400 --> 01:30:04,480
+all these things that many of the things that we've been talking about you've been talking about today
+
+984
+01:30:04,480 --> 01:30:13,040
+may be piggybacking as it were off of biology but not even necessarily be necessary so there is hope
+
+985
+01:30:13,040 --> 01:30:18,400
+for the iPhone still well I think all of us would categorically reject that but we could we could
+
+986
+01:30:18,400 --> 01:30:25,040
+talk about why as well I mean there is some some interesting work about modules in the brain you
+
+987
+01:30:25,040 --> 01:30:30,400
+know stonice love to hane for example has this blackboard view that it's sort of like a working
+
+988
+01:30:30,400 --> 01:30:38,640
+memory buffer analog and sort of like your ducks that certain basic modules like s1 m1 v1
+
+989
+01:30:39,840 --> 01:30:45,280
+aren't conscious but there's a place where you can put their information into a buffer and this
+
+990
+01:30:45,280 --> 01:30:51,920
+buffer has the property of consciousness so we wouldn't be totally rejecting if we were to say
+
+991
+01:30:51,920 --> 01:30:57,440
+that maybe these network models that suggest that there's a way of bringing modules online
+
+992
+01:30:57,440 --> 01:31:02,960
+and this is the one theoretical model this blackboard model that's quite interesting with some
+
+993
+01:31:02,960 --> 01:31:09,280
+empirical data with it but not embodiment which if I think what you were getting at I don't think
+
+994
+01:31:09,280 --> 01:31:15,200
+we we've got I mean the idea that you can just leave the brain and the body behind I mean it's
+
+995
+01:31:15,200 --> 01:31:23,440
+about it's about what it feels like to us it feels like our our mind is disembodied it feels like
+
+996
+01:31:23,440 --> 01:31:29,520
+our mind floats free of any material substrate we would all agree that's a new one but yeah I mean
+
+997
+01:31:29,520 --> 01:31:35,360
+the fact is you know any any piece of your mind can be destroyed by destroying some
+
+998
+01:31:35,360 --> 01:31:40,320
+appropriate piece of your brain your mind can be split up in so many completely non-intuitive
+
+999
+01:31:40,320 --> 01:31:46,240
+surprising ways by losing bits and pieces of your brain yes you know and don't depress us
+
+1000
+01:31:46,240 --> 01:31:54,000
+do they don't depress us and all of us up here are physicalists so we're we're arguing a little bit
+
+1001
+01:31:54,000 --> 01:31:58,320
+about whether iPhones might possibly be conscious we don't really have the definitions and so forth
+
+1002
+01:31:58,320 --> 01:32:03,200
+but all of us think that whatever consciousness is as a physical basis so we all agree that as a
+
+1003
+01:32:03,200 --> 01:32:08,720
+biological basis in us a physical biological basis in us and we hold open the question
+
+1004
+01:32:08,720 --> 01:32:13,520
+depending on how you define things for whether it might have a different kind of physical basis in
+
+1005
+01:32:13,520 --> 01:32:17,040
+some other kind of creature as Matthew pointed out in the beginning but we all think that has a
+
+1006
+01:32:17,040 --> 01:32:21,520
+physical basis I'll say one sentence about near-death experiences the only sentence I'm going to say
+
+1007
+01:32:21,520 --> 01:32:25,840
+which is there's some very interesting work by Philip Lieberman who's a linguist and a mountain
+
+1008
+01:32:25,840 --> 01:32:31,920
+climber about what happens when you lack oxygen and your your brain gets distorted not surprisingly
+
+1009
+01:32:31,920 --> 01:32:36,240
+near-death experiences fall from my mind in the same category what happens when you don't have
+
+1010
+01:32:36,240 --> 01:32:40,720
+enough oxygen doesn't tell us anything about consciousness and I can I just say that the brain
+
+1011
+01:32:40,720 --> 01:32:47,280
+look everything you're seeing and experiencing now it's not like a camera opening its lens it's a
+
+1012
+01:32:47,280 --> 01:32:52,720
+computation your brain is computing this whole scene from the sensory information it's receiving
+
+1013
+01:32:52,720 --> 01:32:58,800
+brains sometimes compute hallucinations sometimes compute distortion they compute you can experience
+
+1014
+01:32:58,800 --> 01:33:02,800
+all kinds of things it doesn't mean they're out there it means that's what your brain is doing right
+
+1015
+01:33:02,800 --> 01:33:09,120
+now okay there's an additional thing that should we throw in I think all of us are physicalists not
+
+1016
+01:33:09,120 --> 01:33:14,720
+only with respect in mind and consciousness but with respect everything that is everything has a
+
+1017
+01:33:14,720 --> 01:33:21,920
+physical basis yeah I wanted to say I'm as interesting and make one comment and then
+
+1018
+01:33:21,920 --> 01:33:27,040
+quit comments and then ask the question the quick comment is just my opinion the early on
+
+1019
+01:33:28,160 --> 01:33:33,440
+the issue of definitions came up and I for one think that it is not just important to define
+
+1020
+01:33:33,440 --> 01:33:40,640
+things clearly that it's essential to define them precisely and because if you don't as many
+
+1021
+01:33:40,640 --> 01:33:46,080
+scientists agree and it seems would seem to be logically obvious if you don't define your terms
+
+1022
+01:33:46,640 --> 01:33:52,480
+you do not know what you are talking about so that's the point I wanted to make
+
+1023
+01:33:54,880 --> 01:33:59,120
+then the question I have has to do with all the talk about the rights room let's say I have a
+
+1024
+01:33:59,120 --> 01:34:07,360
+million questions on the subject but derives from the issue of motivation there are certain
+
+1025
+01:34:07,360 --> 01:34:12,960
+presumptions and assumptions that underlie that if you're talking about motivation as how it
+
+1026
+01:34:12,960 --> 01:34:17,680
+affects the brain and its development of consciousness well let me just step back one second I won't
+
+1027
+01:34:17,680 --> 01:34:24,000
+take it on the issue of definitions I think the example of it is how we in the discussion today
+
+1028
+01:34:24,000 --> 01:34:30,880
+there was a great deal of confusion and imprecision in the terms consciousness awareness thinking
+
+1029
+01:34:31,520 --> 01:34:38,320
+and so on there was talk about senses I didn't hear anyone say anything about conceptual
+
+1030
+01:34:38,320 --> 01:34:42,320
+consciousness which I think is specifically what was referred to by consciousness sometimes
+
+1031
+01:34:42,320 --> 01:34:46,560
+other times it was used in a general way then it went this is whisked like all kinds of
+
+1032
+01:34:46,560 --> 01:34:56,560
+confusion you know this perceptual consciousness sensual consciousness there's all kinds there's all
+
+1033
+01:34:56,560 --> 01:34:56,960
+you're sent an awareness let's say and thinking and the difference between that and thinking what is
+
+1034
+01:34:56,960 --> 01:35:02,400
+thinking I didn't hear a definition of thinking so and it's a simple thing to do I would say but
+
+1035
+01:35:02,400 --> 01:35:07,440
+let's back it into that now because it will become a more story my question is this on the motivation
+
+1036
+01:35:07,440 --> 01:35:12,320
+if you're going to get into motivation you have to get into free will because something has to cause
+
+1037
+01:35:12,320 --> 01:35:18,800
+it and what I'm thinking of I know that logically or philosophically to take the position of determinism
+
+1038
+01:35:18,800 --> 01:35:25,280
+is self-contradiction but when you think about what happens when you make a choice when a consciousness
+
+1039
+01:35:25,280 --> 01:35:31,440
+makes a choice that requires action and sends a message to pick up the glass of water or whatever
+
+1040
+01:35:31,440 --> 01:35:37,200
+it was then there's a change of state somewhere in the brain and you get an infinite regress if you
+
+1041
+01:35:37,200 --> 01:35:42,480
+try to explain it because according to the laws of physics physical you're all physical guides here
+
+1042
+01:35:43,440 --> 01:35:50,080
+the laws governing motion are pretty well determined for everything you have electrons you have molecules
+
+1043
+01:35:50,080 --> 01:35:58,800
+and so on and then you make the decision to do something the instant before that in order to send
+
+1044
+01:35:58,800 --> 01:36:08,080
+that message down a neuron something physical has to initiate it and I think that's where the real
+
+1045
+01:36:08,080 --> 01:36:15,600
+real serious mystery lies because what is what is the cause of that change when you make a decision
+
+1046
+01:36:15,600 --> 01:36:20,800
+how can you translate your decision into motion if you say well because this atom moved over this
+
+1047
+01:36:20,800 --> 01:36:26,080
+electron moved over there well how did it move what's physically what moved in and then you give
+
+1048
+01:36:26,080 --> 01:36:30,960
+that answer you say well oh okay because the electric potential change well then what changed
+
+1049
+01:36:30,960 --> 01:36:36,000
+it well because this or then what changed it and you get into an infinite regress and it seems
+
+1050
+01:36:36,000 --> 01:36:40,640
+incapable of solution that's the mystery to me and that's what I want to ask you if you have
+
+1051
+01:36:41,280 --> 01:36:50,080
+any comments so I don't accept the infinite regress argument I think people are actually
+
+1052
+01:36:50,080 --> 01:36:55,280
+making progress on cases like that so first of all I do accept your criticism that our definitions
+
+1053
+01:36:55,280 --> 01:37:00,480
+are really shoddy and I think our definitions are really shoddy because for the most part the things
+
+1054
+01:37:00,480 --> 01:37:06,080
+we're talking about don't have facts of the matter in the world so my example on this point was about
+
+1055
+01:37:06,080 --> 01:37:10,880
+whether airplanes fly there is no fact in the matter world about whether airplanes fly it's
+
+1056
+01:37:10,880 --> 01:37:16,240
+definitional you can choose to make that definition with respect to some other problem but there is
+
+1057
+01:37:16,240 --> 01:37:20,000
+no fact in the matter in the world and so it's hard to make those definitions I'm not going to let
+
+1058
+01:37:20,000 --> 01:37:25,200
+you take another question because there are other people waiting on the infinite regress part however
+
+1059
+01:37:25,200 --> 01:37:29,600
+what I will say is that people like 10 people who do molecular computational neuroscience
+
+1060
+01:37:30,160 --> 01:37:34,400
+so that people working in those two domains have made some real progress at looking at things
+
+1061
+01:37:34,400 --> 01:37:40,480
+like signal transduction where they look at the individual molecules that are just involved in
+
+1062
+01:37:40,480 --> 01:37:46,800
+very very low to sit low level decision making where we have a little bit of a cognition on one side
+
+1063
+01:37:46,800 --> 01:37:51,520
+and we have molecular events that we can actually identify and manipulate and so forth so I think
+
+1064
+01:37:51,520 --> 01:37:55,040
+there's real progress there I don't know that we've made any progress at all in understanding
+
+1065
+01:37:55,040 --> 01:37:59,920
+consciousness but in decision making we really have I really can't we really
+
+1066
+01:37:59,920 --> 01:38:03,600
+just another question just really give me a answer my question because my question is
+
+1067
+01:38:04,160 --> 01:38:11,440
+where does the free will or the conscious consciousness where is the point at which it enters that first
+
+1068
+01:38:11,440 --> 01:38:15,600
+pause that makes the physical thing process I think it's a mistake to think of keep it
+
+1069
+01:38:15,600 --> 01:38:23,840
+a finite physical process where is the entry point of your free will okay Matthew so so I tend to think
+
+1070
+01:38:23,840 --> 01:38:32,000
+of identity as a content so to say to say that I did something is to say that that action is
+
+1071
+01:38:32,000 --> 01:38:37,600
+responsible to my values and my beliefs at a point in time that is to say that I can take ownership
+
+1072
+01:38:37,600 --> 01:38:43,600
+of the action is expressing who I am well but what I think is that who I am the values and beliefs
+
+1073
+01:38:43,600 --> 01:38:52,080
+are represented their physical patterns of activation and so to say at what point does the physical
+
+1074
+01:38:52,080 --> 01:38:58,880
+pattern of activation well actually there we know how to implement inferences and and to like
+
+1075
+01:38:58,880 --> 01:39:05,040
+translate from you know statements of values and statements of beliefs to inferences that say
+
+1076
+01:39:05,040 --> 01:39:10,320
+certain actions are the best actions that respond to those things and it's it's completely mechanical
+
+1077
+01:39:10,320 --> 01:39:20,000
+the mistake is to think that the your identity the meaningful what's meaningful about who you are
+
+1078
+01:39:20,640 --> 01:39:26,160
+is separate from the physical instantiation that's making it all possible it's a way of looking at
+
+1079
+01:39:26,160 --> 01:39:34,080
+the physical instantiation that's making it all possible and so that's why you can make decisions
+
+1080
+01:39:34,080 --> 01:39:40,000
+because your brain makes you and it makes the decisions and it makes them match two two two
+
+1081
+01:39:40,000 --> 01:39:45,040
+answers your point about definitions and I absolutely agree the kind of science that I do
+
+1082
+01:39:45,520 --> 01:39:51,200
+and it kind of operational definition to essential on the other hand when we have quite
+
+1083
+01:39:51,200 --> 01:39:57,440
+nebulous things like thinking and consciousness operational definitions are possible and I agree
+
+1084
+01:39:57,440 --> 01:40:02,000
+with you but they're going to be fuzzy just like there's going to be a discussion potentially about
+
+1085
+01:40:02,000 --> 01:40:06,960
+art here one day no one's going to come up with the fundamental definition of art it doesn't mean
+
+1086
+01:40:06,960 --> 01:40:12,800
+you kind of interesting conversations about it beauty is another term so I would say that we are at
+
+1087
+01:40:12,800 --> 01:40:18,080
+the intersection between philosophy and science where strict operational definitions are not
+
+1088
+01:40:18,080 --> 01:40:22,800
+available yet but I agree with you and the second point about the the start point I think you're
+
+1089
+01:40:22,800 --> 01:40:29,120
+right that to talk about where did it start an infinite regress is to say that we have a t zero
+
+1090
+01:40:29,120 --> 01:40:35,920
+but we don't really have a t zero right in other words I'm in this room right now I'm biased towards
+
+1091
+01:40:35,920 --> 01:40:40,080
+being in this room there's a cup in front of me so there's a little bit of a biasing towards my
+
+1092
+01:40:40,080 --> 01:40:45,200
+language reach back up I'm in a context where I met at some point reach fit although now it's empty
+
+1093
+01:40:45,760 --> 01:40:54,720
+but um do I know exactly why I chose at this time point to go for it versus plus or minus five
+
+1094
+01:40:54,720 --> 01:41:02,080
+seconds on either side no okay but I definitely know that I'm in the context biasing me towards
+
+1095
+01:41:02,080 --> 01:41:08,560
+certain behaviors so there's no real t zero you see that's the mistake I think is that we're
+
+1096
+01:41:08,560 --> 01:41:15,200
+in this ever lengthening context with many different shells of time to it which all bias you towards
+
+1097
+01:41:15,200 --> 01:41:22,960
+certain behaviors because you're in it and so no I know and that might see a little bit indeterminate
+
+1098
+01:41:22,960 --> 01:41:28,960
+but being in a room in front of a cup was something that I decided to do so in other words I think
+
+1099
+01:41:28,960 --> 01:41:36,560
+that by t zeroing it the way you are it causes a slightly false infinite regress thank you okay
+
+1100
+01:41:36,560 --> 01:41:40,400
+next you can always approach the participants' labels
+
+1101
+01:41:44,160 --> 01:41:48,960
+so just a couple quick observations leading to the question about the the role that hasn't really
+
+1102
+01:41:48,960 --> 01:41:56,080
+been addressed of ecological context in which brains operate number one and the role in
+
+1103
+01:41:56,080 --> 01:42:02,320
+computational neurobiology of local minimum and maxima so in terms of ducks for example and fish
+
+1104
+01:42:02,320 --> 01:42:09,440
+birds flocking behavior we actually do know it's not ephemeral that it is the relationship of keeping
+
+1105
+01:42:09,440 --> 01:42:15,840
+the fish or bird next to you in front of you at a certain average distance at all times so it's
+
+1106
+01:42:15,840 --> 01:42:21,760
+simple but it is a social ecological context in which neural processing is occurring so that's my
+
+1107
+01:42:21,760 --> 01:42:26,000
+entry point to this I wanted to follow up on the first question about quorum sensing because I
+
+1108
+01:42:26,000 --> 01:42:31,760
+think the response took it wrongly I think it was more about again the social context not about one
+
+1109
+01:42:31,760 --> 01:42:38,480
+portion of a brain but one brain in an ecological context of other brains quorum sensing is ubiquitous
+
+1110
+01:42:38,480 --> 01:42:46,480
+it occurs in bacteria we can simulate it very nicely so I'm asking the question if consciousness
+
+1111
+01:42:46,480 --> 01:42:53,680
+is an emergent phenomena that is somewhat proportional to the degree of neuro complexity in a social
+
+1112
+01:42:53,680 --> 01:43:04,160
+species cats have a neuro cortex but it's smooth but the neocortices of more highly insephalized
+
+1113
+01:43:04,160 --> 01:43:10,480
+complex and sephalization in social mammals they tend to we tend to look at them and see more of
+
+1114
+01:43:10,480 --> 01:43:17,040
+our behavior and sensitivity elephants are looked at as quite emotionally sensitive for example
+
+1115
+01:43:18,400 --> 01:43:22,400
+we are very similar the question is not whether we are similar to champion
+
+1116
+01:43:22,400 --> 01:43:28,400
+champions champions ease for example a lot of behaviors they do everything from deception
+
+1117
+01:43:28,400 --> 01:43:35,520
+to certain social aggressions and the rest of it so my question is how would you address the again
+
+1118
+01:43:35,520 --> 01:43:41,680
+the ecological context of neurobiology and how that interaction might affect the local minimum
+
+1119
+01:43:41,680 --> 01:43:53,280
+maxima that can lead to a decision point that's it I mean I don't think any of us would challenge
+
+1120
+01:43:53,280 --> 01:43:58,640
+the notion that the social component is important there's a interesting new book which I have not
+
+1121
+01:43:58,640 --> 01:44:03,200
+finished yet by Michael Graziano that tries to give an account of consciousness evolutionarily
+
+1122
+01:44:03,200 --> 01:44:08,880
+in terms of social function you know whether you buy that argument partly depends on how you
+
+1123
+01:44:08,880 --> 01:44:12,720
+ground the definitions of consciousness in the first place so if you accepted my example of
+
+1124
+01:44:12,720 --> 01:44:18,560
+the worm you'd say well the worms got some modicum of awareness but it's not social or maybe it is
+
+1125
+01:44:18,560 --> 01:44:23,200
+socially you could probably argue that part too so me again there's a there's a grounding issue but
+
+1126
+01:44:23,200 --> 01:44:27,600
+I think Graziano has has some interesting arguments there and I don't think any one of us would want
+
+1127
+01:44:27,600 --> 01:44:33,120
+to deny that the social component is really important certainly to our subjective experience of the
+
+1128
+01:44:33,120 --> 01:44:38,160
+world I think we might make the argument that in order to understand that ultimately we need to
+
+1129
+01:44:38,160 --> 01:44:43,200
+catch that out in terms of my brain internal experiences how they cope with the information
+
+1130
+01:44:43,200 --> 01:44:47,920
+that comes from the outside world we don't want to say that you know information from the ecological
+
+1131
+01:44:47,920 --> 01:44:52,000
+and environment or the social environment isn't really crucial to the kind of experience that we
+
+1132
+01:44:52,000 --> 01:44:57,440
+have some of what we were trying to grapple with here is why does the experience have that we have
+
+1133
+01:44:57,440 --> 01:45:02,720
+have the flavor that it does so why does pain seal the way that it does and presumably social
+
+1134
+01:45:02,720 --> 01:45:06,400
+things should enter into an answer for that we just haven't figured out what would count as an
+
+1135
+01:45:06,400 --> 01:45:09,200
+answer but when we get there that should be part of it I just want to say that I'm saying
+
+1136
+01:45:09,200 --> 01:45:13,680
+that's the inverse I'm very concerned but I want to make sure the question is taken properly
+
+1137
+01:45:13,680 --> 01:45:19,600
+in my view it's not that we're coping with the social ecological context of others in our species
+
+1138
+01:45:20,160 --> 01:45:28,960
+it's that we need that my my small hypothesis is that consciousness emerges in our species because
+
+1139
+01:45:28,960 --> 01:45:35,200
+we even have the facial frequencies of one gyrus which is about to focus precisely on details in
+
+1140
+01:45:35,760 --> 01:45:42,000
+the facial facial musculature and motion of others in our species so that's my question
+
+1141
+01:45:42,000 --> 01:45:48,800
+the only look I can't say much about the social except obviously we're very social creatures and
+
+1142
+01:45:48,800 --> 01:45:55,440
+that was involved in our brains evolving but I just want to caution against taking familiar
+
+1143
+01:45:55,440 --> 01:46:00,400
+familiarity as humans with something essential about consciousness or about minds or about
+
+1144
+01:46:00,400 --> 01:46:06,320
+intelligence I mean the creatures whose behavior seems most familiar to us by and large are the
+
+1145
+01:46:06,320 --> 01:46:11,440
+creatures that were more closely related to and and so you know we have more mental structures
+
+1146
+01:46:11,440 --> 01:46:16,400
+in common with them but it doesn't mean that you know some very distant creatures I mean certainly
+
+1147
+01:46:16,400 --> 01:46:21,520
+crows and parrots and ravens are pretty distant but they're they independently evolved you know
+
+1148
+01:46:21,520 --> 01:46:26,880
+quite a quite a high intelligence but they don't write symposia well neither the dogs are cats or
+
+1149
+01:46:28,480 --> 01:46:33,280
+I just have one point tangential point about your question about the
+
+1150
+01:46:34,720 --> 01:46:39,840
+flocks of birds with these complex structures that's a great analogy and then you said
+
+1151
+01:46:39,840 --> 01:46:44,640
+correctly that the rule that leads to this so-called complex structure is actually quite
+
+1152
+01:46:44,640 --> 01:46:48,720
+simple it's about keeping an average so in other words there are many there are many examples of
+
+1153
+01:46:48,720 --> 01:46:53,680
+this where the phenomenon looks incredibly complex but the rule that leads to this so-called
+
+1154
+01:46:53,680 --> 01:46:57,920
+complexity from our viewpoint is unbelievably simple I'll give you another example a colleague
+
+1155
+01:46:57,920 --> 01:47:05,200
+of mine in california modeled little mice pups that you could film from above and these little
+
+1156
+01:47:05,200 --> 01:47:10,960
+mice pups when they're put in a box make quite complex pinwheel shapes okay and it looks quite
+
+1157
+01:47:10,960 --> 01:47:17,760
+complex and so he said he was going to make some robotic rap pups and he was going to then do
+
+1158
+01:47:17,760 --> 01:47:22,400
+you have to do a sort of like rat touring test you'd watch the film of the digitized real rap
+
+1159
+01:47:22,400 --> 01:47:27,360
+pups and the robot rap pups and he got the rap pups to do the same kind of thing what do you think
+
+1160
+01:47:27,360 --> 01:47:37,840
+the rule was anyone something random simony it was entirely random it was just that the shape
+
+1161
+01:47:37,840 --> 01:47:44,640
+to get to your point of the rap pups plus random behavior led to so-called complexity so I would
+
+1162
+01:47:44,640 --> 01:47:50,160
+say that's the same as consciousness it seems so mysterious and complex to us that we think the rules
+
+1163
+01:47:50,720 --> 01:47:56,240
+that lead to it in the nervous system have to also be very complex to us and what I'm saying
+
+1164
+01:47:56,240 --> 01:48:01,600
+is just like the flock of birds just like the rap pups the rules will turn out to be surprisingly
+
+1165
+01:48:01,600 --> 01:48:07,600
+simple and surprise us and we're going to be entirely wrong it's our incense hubris because
+
+1166
+01:48:07,600 --> 01:48:12,800
+we think it's so mysterious the explanation has going to have to live up to our sense of its
+
+1167
+01:48:12,800 --> 01:48:22,480
+mysterious it does and so I should be happy and keep my mouth checked but okay no no wait we have
+
+1168
+01:48:22,480 --> 01:48:28,080
+to have we have only 10 minutes left and we have still hi uh thematically that's exactly what I
+
+1169
+01:48:28,080 --> 01:48:32,240
+want to ask about it's not I don't really have a question I just wanted you guys to talk a little
+
+1170
+01:48:32,240 --> 01:48:37,920
+bit more about that inflection point and if it's the biology of the mind what's your question point
+
+1171
+01:48:37,920 --> 01:48:42,080
+towards having consciousness would yeah with the worm sorry I looked at you and assembly
+
+1172
+01:48:42,080 --> 01:48:48,400
+knew we were talking about the worm uh that that how biology evolved past that point and if we
+
+1173
+01:48:48,400 --> 01:48:54,240
+stepped forward in time maybe that's the best foil to look at where something more complex emerged
+
+1174
+01:48:54,960 --> 01:49:00,720
+but you know I think it's sobering to realize that you know life was kicking around on this
+
+1175
+01:49:00,720 --> 01:49:06,320
+particular planet for you know three and a half billion years before primates emerged and primates
+
+1176
+01:49:06,320 --> 01:49:13,200
+were kicking around for what 20 million years before 50 uh human or 15 50 million years before
+
+1177
+01:49:13,200 --> 01:49:18,320
+hominids emerged and hominids were kicking around for four or five million years before humans emerged
+
+1178
+01:49:18,320 --> 01:49:23,440
+and you know it there's a whole lot of life and a whole lot of intelligence a whole lot of brains
+
+1179
+01:49:23,440 --> 01:49:28,880
+a whole lot of minds that were happening before human beings happened to pop into the world and
+
+1180
+01:49:28,880 --> 01:49:36,800
+and and speak so uh I I'm worried about the idea that there's some magic you know there's some
+
+1181
+01:49:36,800 --> 01:49:42,160
+inflection point where we where life crosses it and then we're there you know life has gone in lots of
+
+1182
+01:49:42,160 --> 01:49:47,360
+ways and places and intelligence has evolved all over the place I mean octopus octopi are
+
+1183
+01:49:47,360 --> 01:49:50,640
+extremely intelligent by many measures I don't know if they have consciousness but they're they're
+
+1184
+01:49:50,640 --> 01:49:56,080
+smart just that it simplifies the problem a little bit more and I honestly just wanted to hear
+
+1185
+01:49:56,080 --> 01:50:01,600
+knowledgeable people talk about why they think what were the the evolutionary conditions in the
+
+1186
+01:50:01,600 --> 01:50:11,040
+selection why did that the brain take that power reaction I had to your question was to think about
+
+1187
+01:50:11,040 --> 01:50:17,200
+so there has been an inflection point clearly in uh human evolution so we're very different than
+
+1188
+01:50:17,200 --> 01:50:24,000
+our ancestors were 200,000 years ago people kind of slice at 50,000 or 200 they argue about that but
+
+1189
+01:50:24,000 --> 01:50:29,200
+certainly we're pretty different from 200,000 years ago a lot of things have changed since here's a
+
+1190
+01:50:29,200 --> 01:50:35,680
+question that's very app-proposed what we're talking about is was the evolution of some change in
+
+1191
+01:50:35,680 --> 01:50:41,600
+the system of consciousness really important to that so it could be that what really made all
+
+1192
+01:50:41,600 --> 01:50:45,920
+that change was language let's say and maybe that affected consciousness and maybe it didn't and
+
+1193
+01:50:45,920 --> 01:50:51,520
+of course again we don't have a machine we go around and say well our dogs conscious are
+
+1194
+01:50:51,520 --> 01:50:56,000
+bonobos conscious and then we could you know we could look at our ancestors if we had a time
+
+1195
+01:50:56,000 --> 01:50:59,680
+machine too right if we had a time machine and a consciousness meter we would you know be much
+
+1196
+01:50:59,680 --> 01:51:04,160
+better positioned to resolve these arguments but as we don't have either all we can do is
+
+1197
+01:51:04,160 --> 01:51:10,160
+these kind of thought experiments it seems to me like just having language and maybe the ability
+
+1198
+01:51:10,160 --> 01:51:16,800
+to represent hierarchical structures and to care about the intuitive theories or beliefs of others
+
+1199
+01:51:16,800 --> 01:51:20,640
+might be enough and maybe you wouldn't need consciousness but we don't really know so I thought it was
+
+1200
+01:51:20,640 --> 01:51:24,240
+actually a provocative question that was very difficult to answer but I think your point is
+
+1201
+01:51:24,240 --> 01:51:30,880
+well taken that we have to that you know I'll give an example of dexterity right some monkeys cannot
+
+1202
+01:51:30,880 --> 01:51:36,080
+individually their digits and we can't right it's a remarkable change in dexterity and then you
+
+1203
+01:51:36,080 --> 01:51:40,640
+ask well is it a biomechanical or is it neural and we think it's neural and then you start looking
+
+1204
+01:51:40,640 --> 01:51:46,240
+for what is the neural basis for this quite phenomenal leap from being able to really just do this
+
+1205
+01:51:46,240 --> 01:51:50,960
+to be able to do that and you know it's a few connections to the ventral horn a change but it's
+
+1206
+01:51:50,960 --> 01:51:58,160
+not a giant change in the neural mechanisms and yet you get behaviorally a very big change right
+
+1207
+01:51:58,160 --> 01:52:01,680
+so in other words I think what's going to turn out is that there's going there is an inflection
+
+1208
+01:52:01,680 --> 01:52:05,920
+point we're all talking about something that humans have an abundance we haven't defined it but
+
+1209
+01:52:05,920 --> 01:52:11,760
+consciousness and self-awareness we have it nevertheless we have to agree with Ken that it had to be
+
+1210
+01:52:11,760 --> 01:52:16,240
+piggybacking in some incremental way on a nervous system that's been around a very long time so we
+
+1211
+01:52:16,240 --> 01:52:21,920
+have this mismatch between an incremental work on the substrate and what seems to be a very non-linear
+
+1212
+01:52:21,920 --> 01:52:29,120
+change in behavior on the outside but that happens with non-linear systems right so evolution is the
+
+1213
+01:52:29,120 --> 01:52:34,560
+way to get at this and we will answer this how do we get this apparent behavioral leap with a
+
+1214
+01:52:34,560 --> 01:52:41,040
+fairly nondescript change relatively speaking in the brain it wasn't like a whole new lobe suddenly
+
+1215
+01:52:41,040 --> 01:52:44,720
+occurred right so that's the way we're going to have to go if this question is the right one and
+
+1216
+01:52:44,720 --> 01:52:48,000
+the inflection point is something we're going to have to look for and I think we will reverse
+
+1217
+01:52:48,000 --> 01:52:59,120
+engineer it frankly eventually thank you my question is like we say that the mind gets distracted
+
+1218
+01:52:59,120 --> 01:53:05,360
+the drones it it wanders and and like how how is it related to the underlying conscience like
+
+1219
+01:53:05,360 --> 01:53:11,200
+this the the mind being wandering or distracting or running how how does it relate to the underlying
+
+1220
+01:53:11,200 --> 01:53:16,880
+consciousness or subconsciousness and then how does that relate to the firing of the neurons and
+
+1221
+01:53:16,880 --> 01:53:23,600
+like how does this kind of like interlink and which way does it go meaning like does it go from the
+
+1222
+01:53:23,600 --> 01:53:29,680
+mind to the neurons or does it go from the neurons to the mind or like well the second part is the
+
+1223
+01:53:29,680 --> 01:53:34,240
+easier part to answer which is the mind is what the brain does Marvin Minsky said that originally
+
+1224
+01:53:35,200 --> 01:53:40,160
+so it's bi-directional they are they're just descriptions at a different level of the same thing
+
+1225
+01:53:40,160 --> 01:53:44,560
+the way that you can have physics and chemistry they're both true it's not that one is true and
+
+1226
+01:53:44,560 --> 01:53:48,720
+then makes the other one happen they're both simultaneously true and so we're really talking
+
+1227
+01:53:48,720 --> 01:53:53,760
+about different languages to describe the same phenomena we're talking about using psychological
+
+1228
+01:53:53,760 --> 01:53:58,640
+terms versus using neural terms in terms of the mind wandering stuff that you started with well
+
+1229
+01:53:58,640 --> 01:54:04,880
+that's about how the brain decides which information to follow at a given moment so for example we are
+
+1230
+01:54:04,880 --> 01:54:09,920
+distractible if there was suddenly a loud noise you'd stop paying attention to what i'm doing and
+
+1231
+01:54:09,920 --> 01:54:13,840
+if you stop paying attention to what i was talking about you might at that point start thinking about
+
+1232
+01:54:13,840 --> 01:54:16,960
+your laundry and this is a risky avenue for me to talk about because you might start thinking
+
+1233
+01:54:16,960 --> 01:54:23,440
+about your laundry don't think about pink elephants anyone please um but so we have some machinery
+
+1234
+01:54:23,440 --> 01:54:29,200
+that govern basically our train of thought i mean i think that that Freud and James and so forth
+
+1235
+01:54:29,200 --> 01:54:34,240
+thinking about stream of consciousness had something to it there there's filtering that we use to
+
+1236
+01:54:34,240 --> 01:54:39,280
+decide which stimulus should i pay attention to at a particular moment and account so it was mind
+
+1237
+01:54:39,280 --> 01:54:44,880
+wandering if your brain says i should pay attention to this thing they'd say of immediate importance
+
+1238
+01:54:44,880 --> 01:54:48,880
+even though i had decided i should be paying attention to my class and there's kind of very
+
+1239
+01:54:49,760 --> 01:54:53,440
+there's i mean there are different neural structures responsible for doing parts of
+
+1240
+01:54:53,440 --> 01:54:58,000
+attention but there's a there's an area which in monkeys is called lip lateral interpridal
+
+1241
+01:54:59,040 --> 01:55:05,920
+which is involved in in aspects of monitoring visual salience as to what you get the attention
+
+1242
+01:55:05,920 --> 01:55:10,160
+and there's an experiment that was done by micky golberg and jane beasley at columbia where
+
+1243
+01:55:10,160 --> 01:55:16,720
+they record from lip and the monkey is fixating and then it um it gets shown a target that says
+
+1244
+01:55:17,360 --> 01:55:23,040
+when the fixation light goes off sicada move your eyes over there and you'll get a reward and then
+
+1245
+01:55:23,040 --> 01:55:27,440
+while it's still fixed so then during that time lip is really representing that area quite a lot
+
+1246
+01:55:27,440 --> 01:55:32,000
+it's saying oh that's very important i'm going to tend to that and then something completely irrelevant
+
+1247
+01:55:32,000 --> 01:55:38,720
+flashes over here well lip represents that briefly uh but it goes away again because it's irrelevant
+
+1248
+01:55:38,720 --> 01:55:43,200
+and it turns out the attention you can also measure where the animal's attention is by various
+
+1249
+01:55:43,200 --> 01:55:50,160
+tricks and the animal's attention goes to the distractor precisely when the lip activity for
+
+1250
+01:55:50,160 --> 01:55:55,200
+the distractor is higher than the lip activity for the target and when it comes down again when the
+
+1251
+01:55:55,200 --> 01:56:00,640
+when the hill crosses that's when the attention switches back so that's a neural correlate of
+
+1252
+01:56:00,640 --> 01:56:03,520
+there's something there that where you know you there's something there that you're not
+
+1253
+01:56:03,520 --> 01:56:07,920
+attending to but it's still represented and then you come back to it when it gets to the the
+
+1254
+01:56:07,920 --> 01:56:12,320
+the biggest hill that's that's one example of some correlate between neurons and what you're
+
+1255
+01:56:12,320 --> 01:56:19,840
+asking about thank you um my question is one of the problems that you have in discussing consciousness
+
+1256
+01:56:19,840 --> 01:56:25,840
+is that we talk about it as a unitary phenomenon but it's really there are levels of consciousness
+
+1257
+01:56:25,840 --> 01:56:32,960
+even within the same individual so you can go from coma to acute awareness to meditation and
+
+1258
+01:56:32,960 --> 01:56:39,440
+then the other levels in between so um greenfield who's like a neurobiologist has studied
+
+1259
+01:56:39,440 --> 01:56:44,320
+different neural populations that she found that very small groups she calls them neural
+
+1260
+01:56:44,320 --> 01:56:52,400
+assemblies very small units are very briefly um activated and then disappear and she would link
+
+1261
+01:56:52,400 --> 01:56:59,360
+that more with a transient awareness maybe something like children have maybe animals other species
+
+1262
+01:56:59,360 --> 01:57:06,400
+but as consciousness as we call it like really attending builds up you find connections between
+
+1263
+01:57:06,400 --> 01:57:11,760
+the different neural assemblies and they're more long lasting and then out of that even
+
+1264
+01:57:11,760 --> 01:57:18,720
+of experience of self emerges from you know but it what it's really dealing with is going from
+
+1265
+01:57:18,720 --> 01:57:23,920
+let's say a coma state where almost nothing is happening where maybe um you can activate someone
+
+1266
+01:57:23,920 --> 01:57:29,600
+who's deeply unaware am I saying imagine yourself playing tennis you know they've done that experiment
+
+1267
+01:57:29,600 --> 01:57:35,440
+and they see on an fMRI the that area of the brain lights up so that brain of a deeply comatose
+
+1268
+01:57:35,440 --> 01:57:42,960
+person is indistinguishable from an aware person but obviously that person is not conscious um but
+
+1269
+01:57:42,960 --> 01:57:49,280
+in a conscious person you see many more areas activate so what we would call consciousness is
+
+1270
+01:57:49,280 --> 01:57:55,680
+more like a global long lasting level of activity and the experience of the individual as to whether
+
+1271
+01:57:55,680 --> 01:58:01,840
+or not they're really present in the moment or they're just um you know being activated bombarded
+
+1272
+01:58:01,840 --> 01:58:08,160
+with stimuli has to do with how much of the brain is functioning at the same time then the other
+
+1273
+01:58:08,160 --> 01:58:15,520
+um caveat is that the right and left sides of the brain have different styles of functioning and
+
+1274
+01:58:15,520 --> 01:58:22,160
+the right hemisphere processes in a more global very quick way and we call that unconscious it
+
+1275
+01:58:22,160 --> 01:58:28,480
+doesn't have language and when it gives some kind of message when you sleep on what you get when
+
+1276
+01:58:28,480 --> 01:58:35,520
+you wake up in the morning it then transfers to a more conscious of verbal which it pay we pay a
+
+1277
+01:58:35,520 --> 01:58:40,880
+price for the consciousness because it takes time you have to think about each detail and then come
+
+1278
+01:58:40,880 --> 01:58:47,920
+up with a decision like you're fed that information from your global intuitive side thank you i just
+
+1279
+01:58:47,920 --> 01:58:52,080
+don't want us to clarify the age of an experience very grief yeah the adrena experiment i mean i
+
+1280
+01:58:52,080 --> 01:58:56,720
+think to the audience it's very important to distinguish what neurologists mean by the word
+
+1281
+01:58:56,720 --> 01:59:01,280
+unconscious and conscious when it comes to coma versus what we mean by consciousness that's
+
+1282
+01:59:01,280 --> 01:59:06,400
+totally different things and to adren o n when they did that experiment on the tennis those
+
+1283
+01:59:06,400 --> 01:59:11,120
+patients were not in coma in fact the whole argument was these were the people who were being
+
+1284
+01:59:11,120 --> 01:59:16,880
+deemed to be in coma the bedside by neurologists but in fact what was called minimally conscious
+
+1285
+01:59:16,880 --> 01:59:23,040
+state so in fact it it's they're not in coma with a fragment of consciousness they're not in coma
+
+1286
+01:59:23,040 --> 01:59:30,960
+okay next briefly yes move be brief i'm going to toss this at uh professor morkers first
+
+1287
+01:59:30,960 --> 01:59:35,840
+i want the comments of the other members of the panel there's been a lot of discussion about
+
+1288
+01:59:35,840 --> 01:59:42,480
+definition and i'd like to ask you to comment on the valid solid definition that general
+
+1289
+01:59:42,480 --> 01:59:49,840
+element offers for consciousness self-awareness the ability to project into the future reflect
+
+1290
+01:59:49,840 --> 01:59:58,800
+on the past language use uh whether you might comment on his very concrete definition of consciousness
+
+1291
+01:59:58,800 --> 02:00:06,240
+which rises out of biological levels what i would say is that all of those things are well two
+
+1292
+02:00:06,720 --> 02:00:11,200
+points all those things are not a few points you have two other people away the one point
+
+1293
+02:00:11,200 --> 02:00:17,440
+can do all of those but it doesn't get at whether there's something extra thanks for
+
+1294
+02:00:20,080 --> 02:00:25,120
+i'm missing two things first is the female presence on the panel i think that would have
+
+1295
+02:00:25,120 --> 02:00:30,320
+added something secondly i'm always too easy to get to you
+
+1296
+02:00:30,320 --> 02:00:38,160
+mate um secondly that is an old problem that is the ambiguous ends of the day
+
+1297
+02:00:39,280 --> 02:00:44,880
+secondly i uh you're speaking a language it's very different from my language i come back from a
+
+1298
+02:00:44,880 --> 02:00:51,760
+psychoanalytic background and the unconscious is so important to this institution and i feel like
+
+1299
+02:00:51,760 --> 02:00:59,040
+i'm missing something today i feel like i'm missing you using the word unconscious i haven't heard
+
+1300
+02:00:59,040 --> 02:01:09,760
+it much and i uh to be brief i would be interested in who given your expertise in the research lab
+
+1301
+02:01:10,320 --> 02:01:20,480
+who who is uh approaching uh your terminology from a psychoanalytic perspective who's doing
+
+1302
+02:01:20,480 --> 02:01:29,040
+critical research today on brain functioning and the unconscious as it's used in the psychoanalytic
+
+1303
+02:01:29,040 --> 02:01:38,480
+community and as most people are aware of uh psychoanalysis was more or less uh left out of the
+
+1304
+02:01:38,480 --> 02:01:45,600
+academic community as our civilization has evolved because of its lack of research and ability to
+
+1305
+02:01:45,600 --> 02:01:53,120
+have control groups so my last question is what is the hope for psychoanalysis to be included in
+
+1306
+02:01:53,120 --> 02:01:59,200
+academia again in this world of research well there's a lot of work being done okay implicit bias
+
+1307
+02:02:00,080 --> 02:02:05,920
+a lot of work being done in that which you could argue the psychoanalytic you about before um
+
+1308
+02:02:05,920 --> 02:02:11,200
+all the unconscious processing work that i discussed that people like Tim Shallis are doing
+
+1309
+02:02:11,200 --> 02:02:15,680
+huge amount of fascinating neuroscience who's doing so Tim Shallis for example has written very well
+
+1310
+02:02:15,680 --> 02:02:20,480
+about this there's a lot of work on cognitive processes that are below the level of awareness
+
+1311
+02:02:21,040 --> 02:02:27,440
+so implicit bias that kind of work priming right i mean you could argue that what goes on the
+
+1312
+02:02:27,440 --> 02:02:32,960
+psychoanalytic is just a higher level version of of being primed in some way by your experiences so
+
+1313
+02:02:32,960 --> 02:02:39,360
+it may not look to you like it's in the domain of the phenomenology you like but at the level of
+
+1314
+02:02:39,360 --> 02:02:46,400
+proteins that beneath the level of awareness huge amount of neuroscience the problem is that most
+
+1315
+02:02:46,400 --> 02:02:53,440
+of the research done in neuroscience does not have to do with what you are saying what he said is
+
+1316
+02:02:53,440 --> 02:02:58,640
+not really the same unconscious you are talking about you are talking about what Freud called the
+
+1317
+02:02:58,640 --> 02:03:06,480
+dynamic unconscious and uh to my knowledge there is very little work on the dynamic unconscious
+
+1318
+02:03:06,480 --> 02:03:11,920
+and in my own personal view is that psychoanalysts first need to define that better than they have
+
+1319
+02:03:12,480 --> 02:03:18,800
+uh starting with Freud's original work i also just say that most neuroscience is not
+
+1320
+02:03:19,520 --> 02:03:24,240
+at the high cognitive level at all it's it's at levels of just understanding how basic little
+
+1321
+02:03:24,240 --> 02:03:29,440
+pieces of neural circuit to work and do very small things that are very far from cognitive
+
+1322
+02:03:29,440 --> 02:03:34,720
+processing little unconsciousness um so you know we we're just a long way from that level of understanding
+
+1323
+02:03:34,720 --> 02:03:44,080
+in the brain okay thank you one more question i have two very different questions the first one is
+
+1324
+02:03:44,080 --> 02:03:51,680
+assuming based on very poor science i know that it was true how do you integrate healing at a distance
+
+1325
+02:03:52,240 --> 02:03:58,160
+and sending messages that a distance into the biology of mind that's my first question my second
+
+1326
+02:03:58,160 --> 02:04:05,920
+question is related to basically what was stimulated by our uh Cambridge speaker uh when we have a
+
+1327
+02:04:05,920 --> 02:04:13,760
+slalom at the olympics and they're going down and we know that they're using a long term i'm using
+
+1328
+02:04:13,760 --> 02:04:20,160
+his words long-term motor skill learning and its relationship to higher cognitive processes
+
+1329
+02:04:20,160 --> 02:04:27,760
+such as decision making how much is body language that is learned does that put you at a lower or a
+
+1330
+02:04:27,760 --> 02:04:35,680
+higher level of mind and consciousness in terms of the first this is the last this was the last
+
+1331
+02:04:35,680 --> 02:04:42,480
+question so in turn to the first one the the mind's talking to each other to distance or healing at
+
+1332
+02:04:42,480 --> 02:04:48,080
+a distance i think i you know at least for myself i would say i don't believe in it and um until
+
+1333
+02:04:48,080 --> 02:04:52,720
+somebody can scientifically demonstrate that it happens i'm not going to try to explain it because
+
+1334
+02:04:52,720 --> 02:05:01,920
+i don't think it happens yeah so um just one general point i think i i think what Ken said is something
+
+1335
+02:05:01,920 --> 02:05:06,480
+that for us who do psychology neuroscience is very important we talked about consciousness today but
+
+1336
+02:05:06,480 --> 02:05:11,760
+we're far from being in a position scientifically i mean understanding that explanation in other
+
+1337
+02:05:11,760 --> 02:05:17,200
+words even now when it says looking at little circuits and they explain behavior we do a very
+
+1338
+02:05:17,200 --> 02:05:23,200
+poor job with even that right in other words it's the unspoken elephant in the room that we're not
+
+1339
+02:05:23,200 --> 02:05:28,640
+really that good at extrapolating from the behavior of neurons to behaviors we can correlate
+
+1340
+02:05:29,360 --> 02:05:34,960
+but the understanding is very poor so we have to be super super modest we do a really bad job
+
+1341
+02:05:34,960 --> 02:05:38,960
+even the low level stuff and here we are talking about consciousness that's why philosophy is
+
+1342
+02:05:38,960 --> 02:05:44,160
+a very important and psychologist before we get to the neurons okay to the skill thing
+
+1343
+02:05:44,160 --> 02:05:51,440
+um i don't quite get your question in other words what are you saying being good at something
+
+1344
+02:05:51,440 --> 02:05:56,240
+physical makes you less cognitive is that what you say no i'm saying that they spend a long time
+
+1345
+02:05:56,960 --> 02:06:02,800
+long time learning uh how to move their bodies but they make decisions at the same time that
+
+1346
+02:06:02,800 --> 02:06:07,840
+they're going down that slalom there is conscious thinking too so i'm just asking where do you put
+
+1347
+02:06:07,840 --> 02:06:15,280
+the learned body language is this now back to more a reflex response or are you dealing with a very
+
+1348
+02:06:15,280 --> 02:06:20,320
+advanced response yes it's a great question it's about the role of the motor the role of the motor
+
+1349
+02:06:20,320 --> 02:06:27,440
+system that is connected to consciousness yeah well yeah i control powers about that yeah okay
+
+1350
+02:06:27,440 --> 02:06:39,840
+thank you very much
+

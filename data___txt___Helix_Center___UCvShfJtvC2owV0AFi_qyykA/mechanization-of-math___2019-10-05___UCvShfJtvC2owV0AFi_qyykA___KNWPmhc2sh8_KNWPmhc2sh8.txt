@@ -1,0 +1,623 @@
+Welcome to the Hillic Center for the Program on Mechanization of Matter.
+Before I introduce the participants today, let you know what we are planning for December and November and December.
+Harold Ann Spucker from Switzerland has proposed a program called Mathematics and many other realities.
+That will be on December 7th and on November 16th Alberto Manguel has proposed and is planning roundtable on emergence of empathy and countering the other through fiction.
+Today's roundtable was proposed by Michael Harris and I will introduce the participants.
+So please lift your hand so people know who you are.
+Stephanie Dick is Assistant Professor of History and Sociology of Science at the University of Pennsylvania.
+She received her PhD in History of Science from Harvard University in 2015.
+Was a junior fellow at Harvard Society of Fellows prior to joining the faculty at Penn.
+Her work sits at the intersection of mathematics and computing primarily in the 20th century United States.
+She is currently in the process of completing her first book, A History of Automated Mathematical Theory and Proving with an eye to how the concepts of mathematical reasoning and knowledge were fashioned in that field.
+Francesca Rossi is the AI global, AI ethics global leader and a distinguished research staff member at IBM research.
+Her research interests focus on constraint reasoning preferences multi agent systems computational social choice and collective decision making.
+On this topic she has published over 200 scientific articles and journals and conference proceedings and as book chapters.
+She's a AI and a European AI fellow.
+She has been president of IJCAA, AI and the editor in chief of JAI, JAR.
+She's the executive she's in the executive committee of the IEE global initiative on ethical considerations on the development of autonomous and intelligent systems.
+And she's a board member on the board of directors of partnership on AI where she represents IBM as one of the founding partners.
+Brandon Fiddlson is distinguished professor of philosophy at Northeastern University before teaching at Northeastern Brandon health teaching positions at Rutgers Berkeley, San Jose State Stanford and visiting positions at the Munich Center for mathematical philosophy at LMU Munich
+and the Institute for logic language and computation at the University of Amsterdam.
+Thomas Hales is the professor, the Mellon professor of mathematics at the University of Pittsburgh.
+He received a bachelor's of science and an MS degree from Stanford at three post part three from Cambridge University and a PhD from Princeton.
+He has post his health postdoctoral and faculty appointments at MSRI Harvard University University of Chicago Institute for advanced study and the University of Michigan.
+In 1998, with the help of his graduate student Samuel Ferguson proved Kepler 1611 conjecture on the most efficient way to stack oranges.
+In 2014 he has his coworkers gave a formal proof of the Kepler conjecture in the computer proof assistant, a whole light.
+He has received the chauvinette prize of the MAA, the more prize the robin's prize of the AMS the less their fourth prize of the MA and the falcerson prize of the MPS and AMS.
+He's an inaugural fellow of the AMS 2012.
+Michael Harris, who's been here before, is professor of mathematics at Columbia University and is on extended leave from University, the University of the Pareddi D'Hou, where he taught for 20 years.
+Before that he was a professor at Bandai's University.
+He obtained his PhD in 77 from Harvard University under the direction of Barry Mazur.
+He has organized or co-organized more than 20 conferences, workshop special programs in his field of number theory and until 2018 directed the European Research Council project arithmetic of automorphic motives at the Institute de Hôts et Fütze on Tefic outside Paris.
+He's been a visiting professor at Bethlehem University in Palestine and the National Academy of Sciences Exchange Scholar at the Stekloff Institute in Moscow.
+Projects he initiated or helped to initiate include the signs for the people, signs for the people Nicaragua project, the London Paris number theory seminar, the Paris book project and the trace formula and Shimura varieties,
+and the Association of University of Pareddi D'Hou, Pareddi D'Hou, in Paris.
+His books Mathematics Without Apologies won the 2016 Prose Award in Mathematics from the Association of American Publishers.
+There's more on all of them, but I will stop here. Thank you.
+You have a broad topic. Do you have any comments?
+Yeah, a few opening comments, probably more than need to be made, but I just wanted to just to set the atmosphere a little bit.
+In the 1920s, David Hilbert famously declared that no one could expel us from Tantor's paradise.
+He was referring to the set theory of Georg Contre, which is used as the basis for at least informally mathematics.
+These days, and this is the theme of today's roundtable, these days, mathematicians are facing according to some people, not expulsion from Kantor's paradise, but self-deportation,
+and not just from Kantor's paradise, but from mathematics altogether.
+Now, this is the Hollywood version of a real discussion that's going on among mathematicians, but there are people who have been arguing in this way.
+For example, Paul Cohen, according to Reuben Hirsch, who unfortunately couldn't be here, Paul Cohen claimed that at some point in the indefinite future,
+all mathematics would be done by computers. Reuben Hirsch said that enraged him, and that's around that time that he began writing books and articles that were at the beginning,
+what's now called the humanistic mathematics movement, which as his name suggests, implies as the belief that mathematics is something that human beings do.
+And so, I'm really sorry that Reuben could not come here. He was originally planning just a few weeks ago, a few months, maybe a month or so ago, he said he wouldn't be able to, and I was hoping to meet him finally after having read his books for so many years.
+I hope he's watching in New Mexico, and if he is, I hope he will recognize his influence in what I have to say. But to return to Paul Cohen's predictions, I want to suggest that the discussion not take certain directions.
+And so, usually when we talk about the role of computers and mathematics, it's framed by stark oppositions, whether it's some desirable, undesirable, whether it's possible or impossible, or always by the question, isn't really mathematics.
+And I'm interested in shifting the terms of the debate to questions that are more promising for philosophical consideration, particularly specifically, and I'm going to quote from the presentation of the round table.
+Once positioned, I'm going to read it.
+Once positioned on the future mechanization of proof is a function of one's view of mathematics itself.
+Is it a means to an end that can be achieved as well or better by a competent machine as by a human being? And if so, what is that end?
+And why are machines seen as more reliable than humans?
+Or is mathematics rather an end in itself?
+A human practice that is pursued for its intrinsic value, as humanistic mathematics would suggest.
+So, what could that value be? And can it ever be shared with machines?
+I guess that maybe a few ideas.
+Well, I think that to me, that or that you put in the two options, so what is mathematics?
+I want to say that is mutually exclusive. I think that it can be a means to an end, but it definitely is an end also because I see that by proposing or thinking about theorem statements and proving them.
+It's also a way to frame, you know, I mean, have a certain framework for our own life, you know, like, like, and so to me, it is also an end, but not just mathematics, also other sciences.
+People that work in a certain science, then they have a certain frame of mind, not just when they are proving the theorem, but in general.
+And I think that, you know, for example, the one of the frameworks given by mathematics is a framework of being rigorous, yes, but also being very creative, because, yeah, maybe,
+there is a way to mechanize some proofs, but then somebody has to propose some statements to be proved.
+And that is something very creative, in my view, and very inherent in our human capabilities.
+So it's not just that we could be, the machines are better than human beings in maybe proving once the statement is there, but sometimes when we, and I'm not a mathematician, I'm a computer scientist, but of course, I worked in theoretical computer science,
+so I've stated theorems and I proved theorems and so on. So it's not just the task of mechanizing the proof, which, but it's the whole environment of working,
+especially in my case, for example, I usually worked in my career with a team of people, and the whole interaction with these people, trying to come up with the right statement,
+and maybe then by discussing you discover that is not the statement that you really want, so it's not that there is a reality that you are trying to prove.
+The reality is not given to you, you have to create that virtual reality, and that's something very typical and very inherent to human beings, and I hope it remains to you.
+Having said that, of course, machines, like I always say in AI, with artificial intelligence, the goal is to help people do better whatever they need to do.
+So also in scientific discoveries and proofs and etc, there is a role for machines and mechanization and automation to be able to help people,
+but I don't see that, I don't know, you say you don't want to go into that direction, if it's possible or not, whatever, but my goal, not just in automatizing mathematics,
+but also in many other things, machines should help people so that people can devote their time and effort and thinking into what is inherent to human, and maybe leave some success to machines.
+I don't want to discourage people from talking about whether it's possible, I just don't want the discussion to fall into a trap of yes, no, it isn't.
+Okay, this is going to be a really random sounding place to start, but there's a book that's a classical text from the history technology called More Work for Mother, and it's about the irony of the way that their housekeeping technologies were sold to women in the middle of the 20th century,
+so this is going to save you so much time, this is going to make your job so much more efficient, machines are going to be so much better at doing all these things that you've been toiling away doing, and that was the story, and then it turned out that in fact, housewives had to do a whole bunch more work to maintain these
+things, and it's a really classic story about how the way that technologies are often packaged for their users is being these incredibly liberating devices, sometimes turns out not to be true in really interesting ways, and there's a great parallel, I think, to
+attempt to automate mathematics, and in particular, I'm thinking about the development of one of the first automated algebraic systems in the 1960s, the Maxima system that was developed at MIT, and unlike all of the numerical support calculating systems that came before it, this was meant to assist
+mathematicians in doing symbolic and algebraic and non-numeric work, so supposed to be able to multiply matrices and factorise and simplify and take on all of what was seen as this kind of menial labour that mathematicians were wasting so much of their time at, but using the system, especially in the beginning,
+turned out to be so profoundly difficult and frustrating, in part because mathematicians had to work within representational systems that might be incredibly unnatural, or that might not be well suited to the problems that they were trying to solve, and in sort of describing these different choices
+about representation, the designers of Maxima, in particular this manjal Moses who still at MIT, used political language to talk about the different choices, there were radical representation systems that forced everybody to make use of sort of one type of equation, like a polynomial or something,
+solve certain class of problems, there were Catholic systems which were more like whatever tools you need, you should be able to use them in your automated system, there were liberal systems, there were conservative systems, there were conservative systems
+that we probably shouldn't be automating at all, and I think I just wanted to pick up on this point to say that we are not the way that mathematics is done and the tools that are used to do it don't remain stable as we develop automated systems, people have to do a lot of work to discipline themselves in order to gain access to the kinds of freedom
+that are often sold in association with these automated systems, so the question might not be should we automate, what do we lose, can we automate, what do we gain, the question might also be how much work do people have to do to sort of discipline their own mode of thinking, to discipline their own approach to problem solving
+in order to make these automated systems useful, because often the sort of freedom and liberating potential comes at a very high cost of sort of disciplining your own practice and the way you think and the way you approach problem solving, and in the maximum case, the goal really was to make
+mathematicians into people who think about mathematical problem solving like computer programmers, and the reason the system was hard to use is because there's a real friction between those two ways of thinking and modes of doing, at least in the
+1960s, although the chasm might be closing and that's one of the things that we're seeing, so I think I just wanted to point out the freedom comes with lots of self discipline, and the tools you use to think about problem solving are part of what's at stake in this conversation, I think
+I guess that's your cue, because you know more than anybody here, and maybe anybody anywhere about just what habits have to be changed in order to switch from working in this familiar framework of mathematics to the framework of proof verification
+Yeah, I can talk about that, let me just preface it a little bit with a discussion of what some of the activities are that we do when we talk about doing a computer assisted proof.
+At the most elementary level, we can use a computer as a calculator as part of a proof to do simple calculations, or they're the computer algebra systems.
+That we use often as part of a proof.
+But I think one thing that we want to discuss today are formalized methods of doing mathematical proof.
+So there are really two different groups of products there, what we call ATP, or automated, they're improving, and with that, the computer really does all of the work, and there's very little human interaction.
+There might be some configuration by the user before the computer starts its work, but once the computer starts, it takes over and tries to do proof entirely on its own.
+And then there's what we call ITP, or interactive theorem proving, and in that case, the user and the computer are more or less in constant interaction, the user will type a line, hit return, and wait for the computer's feedback.
+And with many of these systems, you take all of the basic rules of logic, and you put them into the computer, and all the basic axioms of mathematics, and put it into the computer, and you really require the computer to check every single step of a proof.
+And so the interaction really depends on which of these products that you're using on the computer.
+There are really a lot of mathematicians these days who use computer algebra systems, and it's just part of the everyday interaction and research endeavor with something like
+these formal proof systems, they really have a much smaller group of users, and some of these systems can take up to a year to learn how to use proficiently, and the estimates might be something like
+a week of work to transform a single page of mathematics into a format that can be accepted by the computer.
+And in the case of these interactive theorem proving systems, it really takes an enormous amount of dedication and persistence to learn how to use these systems, and then to get the computers to accept
+the proofs on the other end.
+Well, I can speak as a mathematician who has never used any of the computer algebra systems, and the reason is that I've always found that I've tried a few times.
+Every time it occurred to me to do that, I found that by the time I had reframed my question in language that I could even type into this rather elementary computer technology, I would have solved my problem myself.
+The problem was, so then there would be no point in actually going through the next step. I have had worked with colleagues who are able to do that sort of thing, but I don't deal in really complicated calculations.
+And so if there's a conceptual question, I don't see how by reformulating it in a, well, I think the concept is the obstacle, finding the way to reformulate the concept is the obstacle.
+Now, I don't know whether that is a barrier to future integration of the more sophisticated technologies into mathematical practice.
+You say it takes a week of translating a single page. That means that you're analyzing the concept, you're breaking them down.
+In fact, you're actually doing all the work, but then you have somebody has programmed the computer to say, yes, you did it at the right.
+Yes, it's right. Your reinterpretation is correct.
+Can I jump, Mr. K, if I jump in? I think it just seems that it might be helpful that sort of behind a lot of the comments here is one philosopher used to call it the context of justification versus the context of discovery.
+So the automated theorem pervers are about discovering solving open problems. I've been using those tools for a long time to do that to solve open problems, and that's about discovery.
+So actually, most of my use of these tools has been to discover new mathematical results or new logical results. On the other hand, there's justification. There's things you already know or you think you know, and then you want a rigorous verification.
+I think that's a useful way to divide, because I think those are very different tasks. It's not just that the use of the systems is different.
+The goals are much different. I find it personally much more exciting to discover new things than to justify.
+And I say this is a logician, which is a little weird. I'm not super interested in the context of justification myself. I'm more interested in discovering new things.
+But you can do both with the technology. And I think it's partly because those tasks are very different.
+The goals are very different. The experience of using the things is different.
+I mean, to me, it's worth putting in the effort to learn all the different theorem-proofing things and all the different languages.
+If you can solve problems, which I've done with much people. And that to me makes it much more worthwhile.
+It'd be a lot harder for me to convince myself to motivate myself to just do the 200,000 line of code and the verification of the Paris Harrington theorem or something.
+I'm just speaking personally. But I think there are two different personalities, two of people who work on these things because of the discovery versus justification thing.
+Could you say something more about the discovery? Because this, of course, is what's most interesting to me.
+The context of justification is very much secondary. But you have to set the parameters of what you want to discover, of what kind of thing you want to discover.
+I would be surprised if, but I'm certainly willing to be surprised if the system actually discovered something that you were not expecting at all.
+Oh, that happens to me all the time when I used the tools.
+Yeah. So I mean...
+No, but I think you were referring to discovery as the activity of given a statement. Let's see whether it's true or not.
+But somebody has to put the statement there. Somebody has to write the statement, right?
+Well, that's one use. I mean, actually, so I was thinking in a slightly more general way. I don't know if this is appropriate, but I was thinking about the mechanization of scientific inference in general, not just deductive inferences like in mathematics, but also in doctorate.
+So inductive, this is what Francesca and the people who do machine learning work on. They're trying to automate. They're trying to mechanize inductive reasoning.
+If you thought deduction was hard, try to mechanize induction. I mean, that's much harder, much more difficult.
+No one really knows how induction works, right? So what does it even mean to mechanize? It's not even clear.
+So when I think about this as a philosopher of science, I tend to think of it much more generally. Not just about mathematics per se, but if you will also apply mathematics.
+So about automating, not just deductive inference, maybe, but also inductive inference. So I don't know if that's appropriate to this. I don't want to get off track.
+I think it's worth noting also that what it means to have established that a statement is correct or what it means to solve a problem or what it means to prove a theorem in mathematics is one of the moving targets in this history, right?
+So there's historical conundrum. Descartes figures out that you can use algebra to describe geometric problems and solve them in this way. And yet he never accepts an algebraic answer to a geometric question.
+For him, at the end, you always had to go and do the construction. You had to still do the Euclidean construction in the end.
+And that's because for Descartes, geometry was not about solving equations. It was about cultivating the right kind of internal knowing and understanding of what geometric figures are and how they operate.
+And this debate between analytic geometers who think algebra is obviously better because it generalizes. You can just follow some steps and get the answer right.
+Everybody can do it. You don't have to spend a decade of your life futzing about with these weird Euclidean constructions that, by the way, you could never explain how to know how to do them.
+Obviously, algebra is better. There were whole schools of mathematicians throughout Europe all through the 19th century who insisted that synthetic approaches Euclidean constructions were not just better.
+That was what mathematical knowledge consisted in, was knowing how to establish these things.
+Matt Jones, who's a historian of mathematics at Columbia, has done work on how for Leibniz, for Pascal, for Descartes, mathematical knowledge was about cultivating a certain kind of inner life, right?
+It was about being a better Christian, among other things. It wasn't just about churning out answers to problems or establishing that things are correct syntactically.
+And I think we're having a similar kind of conversation right now, where for some mathematicians, they don't just want a certificate that a statement is correct.
+They don't just want a black box that outputs certificates for theory. They want to understand why things are true and what they think that understanding consistent is the proper province of mathematical work.
+And so I think it's not just that there's the context of discovering the context of justification.
+It's what it even means to solve a problem in the first place is one of the things that is a moving target in this landscape of automation.
+Oh, yeah, absolutely. So, yeah, mathematical understanding. What is that? I'm not sure anyone knows, but philosophers talk about that.
+Oh, sure. Yeah. And, you know, I've actually been one of the things I've been interested in doing with some of these tools is trying to use them to get better explanations.
+Better explanations from a human perspective. And that can, they can be helpful for that. See, these are, to me, these are just tools.
+It depends how you use them. If you're clever about how you use them, you can use them to actually get better explanations than to actually not just have proofs, but to have explanatory proofs, more explanatory proofs from a human perspective.
+And therefore, to increase understanding, I mean, I want to understand. I'm a philosopher. So definitely I want to understand for sure.
+I think the tools can be useful for that, too. I know some mathematicians look at a lot of the inner, the ITP stuff maybe, and they say, oh, that's not conferring understanding.
+It's really just this tiny little step-by-step thing that goes along. I don't know. I think that can be debated, but I do think certainly the tools can be used to help confer understanding.
+If you're clever about how you use them, I mean, they're just like any other tools I feel, you know, they can be helpful for understanding.
+You can use them to help reverse engineer proofs that humans would like. That's something that I've been working on to try to do in real cases.
+So, yeah, absolutely. So ultimately, we want to understand. I didn't mean, I just meant that might be a useful distinction for part of that discussion.
+Certainly, it's only a small part of the story.
+Yeah, so to me, I mean, besides the discovery, besides the certification, besides the understanding, there is also the learning that happens in a human being while you state a statement over here.
+I mean, you try to prove it with various techniques that you gather from all your, you know, multi-year decades experience.
+And this process of learning is then reused to be creative for another statement and other proofs and other understanding of how things work in another part of this virtual reality that you are building.
+So to me, the learning process, it's very important in stating theorems and proving them and trying to understand whether they're false or true or so on.
+So, and that I find it difficult that it can be, you know, that that can be, and I'm not saying replace, but can be, the machine can be useful in that regard.
+But, but every said that I'm not familiar with all the various tools that are available right now, you know.
+But I want to say something about this effort in preparing the input to that tool. I mean, but yeah, I mean, it's very dynamic process.
+What happens in mathematics, but it's also very dynamic process with the technology.
+So I think that the more we go, we advance the technology and the more the technology can be actually adapting to us rather than the opposite.
+So I am hopeful that in the future, maybe this effort can be, you know, decreased.
+I want to get back to understanding, I would want to talk a little bit about the motivations or draw out your thoughts about the motivations for this, this, these developments in the first place, and understanding and what you were talking about
+are part of human life that we don't necessarily want to attribute that to anything else, or even if computers understand, and they don't understand in a human way.
+So a human understanding is part of human life. We don't have to define it. It's just something that it's a word that we use.
+And it's used routinely in talking about, in talking about a lecturer and talking about teaching and writing letters of recommendation.
+I'll get back to letters of recommendation a little bit. The kinds of words, the values that are privileged by mathematicians are easy to recognize because you just read a lot of letters of recommendation and you see which ones are positive
+and which ones are not. And they're all rather philosophically difficult to pin down.
+So understanding is certainly a motivation and to the extent that mechanization of mathematics can contribute to understanding, obviously, I'm not going to raise any objections.
+Now, historically, as I understand, and this Stephanie will correct me, mechanizing mathematics is one of the very first tasks that was opposed in the development of computers.
+I guess it was Herbert Simon who mentioned three milestones, or writing music, and I suppose been achieved playing chess and then proving a mathematical theory.
+But each of these was qualified in a certain way, so it was to be valuable, not trivial. So that's one source.
+It's a challenge to computer science. All right. This is not something that's necessarily internally of importance to mathematicians.
+Within mathematics, a lot of people have been paying more attention to this because they're concerned about mistakes.
+They're concerned that they have written complicated proofs and then they want to be sure they're correct.
+And some, there are two kinds of experiences. There's the experience of Vio Wotski who found many years after paper had been published that there was a mistake and this upset him.
+And then there's the experience of Tom Hales who was unable to get a human referee to confirm that what he had done was correct.
+And so those are two different kinds of experiences. And there's a third which has been raised by my colleague, Kevin Buzzard, which is that the way mathematics is published is based to a large extent on expert ascent.
+Even the referees are checking the proofs are going to be experts. Well, when these experts disappear, will anybody be able to reconstruct the validation?
+So he's been working and learning this and he's enjoying it. It's a lot of work, but he's enjoying it. So that's fine.
+Those are motivations. But understanding is a very different one. And so I may be, maybe Tom, you can't say whether you've understood a lot in formalizing.
+I can talk a little bit about understanding and about reliability of proofs. So I want my mathematical proofs to be understandable in the sense that they're surveyable, that I want to have some high level understanding of everything that's going on inside the proof.
+And if part of the proof uses an algorithm and I understand the algorithm, then generally I'm pretty happy to accept the output of the computer.
+And I can still consider the proof as surveyable if I know what the computer is doing in general terms.
+So I take a fairly broad view of what I mean by surveyable there. I also want my proofs to be reproducible.
+That means that 10 years from now, I want to be possible to still run the same computer code and get the same answer.
+This is a real problem in the software industry that there's a thing called a code rot. And it's very real that you write computer code.
+And 10 years later, the systems that support the software are no longer available or they're new versions.
+And you can no longer run the software. And for computer proof, this is a real problem.
+If it's not reproducible and if it has a very short shelf life.
+So something like Euclid has had, well, it's lasted through centuries.
+We have to really worry whether proof written in a particular system will still be around 50 years now.
+And on the other hand, Michael points out that mathematicians die and they often don't record the full knowledge of what it is that you need to know to reconstruct a proof.
+So there's a problem on the human side as well with reproducibility. People worry about classification of finite simple groups.
+It's an old crowd now. What will happen when those people are no longer around?
+I will be able to reconstruct everything that we need to know to have the classification.
+I also want Pus to be reliable. So as part of the formalization of the Kepler conjecture, we found hundreds of mistakes in the original paper proof that Sam Ferguson and I did.
+And I just have no question whatsoever that these formal methods are easily an order of magnitude more reliable than anything that humans can do.
+People have done very extensive tests in the software industry about error rates.
+And I think the number is that people writing computer code make on average 1.5 errors per line when they're first writing out computer code.
+And even by the time computer code gets to the market, there's maybe one error per every 100 lines of code.
+So I have three mathematical papers and my experience is that you find an error on every page.
+So these are very real issues. And I think that by developing the mechanization of mathematics, we can reduce those error rates to something more acceptable.
+And I think that's a very important motivation coming from outside.
+My understanding that everybody at this table is in favor of human understanding and in favor of human life and just the persistence.
+Because there's a question, there's also a trend and supposedly I haven't actually met people who think this way.
+I didn't go to the transhumanism panel, so I don't know very much about people.
+But that people are coming to the end of their shelf life.
+For whatever reason, we've exhausted the resources.
+We're no longer able to write reliable proofs or to understand them.
+So maybe we need to be replaced by something better.
+And there are actually, of course, we know some of the names of the people who are actually counting on that and collecting their billions.
+In the hope that they'll be part of the first wave.
+But much more down to Earth is the question of what can, but it overlaps with this.
+Why is there are other people in Google, for example, who are repeating what Paul Cohen said 40 years ago,
+that at some point in the not definite future, machines will be doing mathematics and people will not,
+like many other, like driving trucks and so on.
+All the other things that people do, machines will do better.
+That perspective is not represented at this table, but it is out there.
+And when articles are written in the press, financial times, or lost feet journal,
+that's the framework that, if they talk about mathematics at all,
+there'll be one of the many things that people do that will be better done in the future by some machines.
+And one of the advantages, of course, is that whoever owns the machines will be able to collect,
+will be able to monetize this.
+Mathematics as it stands, mathematical research, for the most part, does not profit anybody, except the people who do it.
+So, yeah, from my point of view, I mean, that hypothesis is really very, very far in the future.
+There are still a lot of challenges that need to be addressed to make machines more capable of having, like,
+a horizontal kind of intelligent, but doing it better than human beings.
+And, you know, right now, you know, the state of computer science and artificial intelligence,
+although it has a lot of applications and a lot of, you know, successful applications,
+but it's still very, very far.
+There's Ernie Davis is here, hi Ernie.
+He just published a book together with Gary Marfus telling us really that we are very far from that moment.
+We need to understand how to embed common sense into machines.
+We need machines to be able to deal with causality, causal information.
+They are not very good at doing that by now to understand very well correlations between data, but not causality.
+And so, already these two things are big challenges that many people are working on,
+but until we solve them, we don't really know how, you know, how we can make these intelligence or capabilities,
+intelligence, we don't even know what it means.
+Capabilities of machine-batch broader and horizontal rather than very specific and narrow as they are now.
+So, that aspect of machines, you know, being able to do everything better, but having said that, you know,
+machine can do better than a human being already now in a very specific thing.
+But again, mathematics and proving and discovering is to me a kind of task or collection of tasks that really requires
+a lot of analogies and memories and drawing from experience, getting from previous knowledge and adapting it and so on.
+So, it needs a lot of capabilities that a very narrow system does not have.
+So, that's, you know, we're really very far from that.
+But having said that, the other point that you made before, this one, the fact that there are some proofs that people write
+of certain statements or conjectures that almost nobody can check, you know, like even recently,
+there was another proof that P is equal to NP, which is one of the, you know, the main computer science open question.
+And I don't know of people that have been checking this.
+So, that definitely, you know, but again, being able to do that, it may require capabilities that right now we don't have in machines probably.
+So, but can one capability of the machine contribute to finding and adding, in other words, can the machine itself
+figure out how to have common sense?
+Well, we don't, that capability is not there in a machine yet.
+But again, one of the things that in specific fields you can do is to try to exploit the complementarity of machines and humans.
+Because machines know how to reason with causality and common sense and so human beings.
+Machines can do other things much better, so it's usually the most successful results are when you try to succeed in combining these capabilities that are very complementary.
+Yeah.
+You see nobody so far wants to say that there may yet be things that humans can do mathematically, that machines cannot,
+that no one's made that to the bold claims all further out there.
+But to me, to me again, doing mathematics or proving to you, whether it's about mathematics areas or computer science, you know,
+it's something that is not just proving that to you and that statement that somebody gave me.
+It has, it needs a lot of analogies, common sense, social interaction.
+Most of my best work are done together with other people, you know, ideas come from one person and another one in the team.
+So, and that is typically human.
+And that's part of being a mathematician too.
+Right, right.
+So that part, the machines are just disqualified.
+Unless, unless we can't, unless they manage to pass themselves off as humans.
+But I think it's worth noting that even human faculties get redefined and experienced and manifested in new ways when we seek to automate.
+So, one of the first systems that I studied when I was working on this project was called the ORA, the Automated Reasoning Assistant.
+It was an interactive theorem prover that was developed at the Argonne National Laboratory starting in the 70s.
+And it was quite, it was quite powerful.
+It was one of the earliest systems to successfully help solve open problems about whether different axiom sets were independent.
+And minimal and stuff like that.
+And it was built by this team of people led by Larry Watts, who may be some of you who have encountered, he's quite a character, who really just believes that intuition, yeah.
+Intuition cannot be automated.
+Human intuition cannot be reduced to any set of rules whatsoever.
+If you want an automated system to participate in theorem proving, you're going to have to impart human intuitions to it for it to be useful at all.
+So, the system's really good at inference, let it do inference, and we'll guide its inference with intuition.
+That's the way that they set it up.
+But so ironically, in making human intuition useful and usable to a technical system, it had to be translated into terms that the computer could make use of.
+So, human intuition, this sort of ephemeral esoteric, eureka moment, mathematicians wake up in the middle of the night knowing how to solve a problem.
+They have ideas in the shower while they're washing the dishes, gets translated into a weighting mechanism.
+So, the user can impart at different moments in a proof run a weighting template that says things like, you know, prefer shorter clauses over longer ones, or prefer this logical operation over another.
+And so, this human intuition gets reduced to the weighting template, which is something quite different from what Larry Watts describes human intuition to be.
+So, even if what we're looking for is an interface where uniquely human capabilities are sort of put in conversation with the machine, we are still reimagining what our faculties are and translating them into the terms of the machine.
+And the flip side of the story was that Waus and his colleagues were extremely excited that working with a system like the ORA would help them develop new and otherwise impossible intuitions about a problem domain.
+But after reading all their work, it looks to me like what they developed intuitions about is actually the behavior of the theorem proving system and not intuitions about mathematics.
+Like, oh, I'm pretty sure that if we constrain the inference in this way, we make like addition more important than subtraction.
+That seems to work really well for getting the outputs that we want.
+And so, our own faculties are not stable as we develop these technologies to interact with, but we remake them, we translate them, we put them into the terms of the machine.
+We automate our own practice, we behave more machine like one of the great wonderful things about the history of technology is that Charles Babbage and Karl Marx inhabited the same 19th century London.
+I'm doing exactly the opposite project.
+And Marx saw Babbage presenting his, you know, different engine and his calculating machines in different contexts.
+And Marx's response was, why are you so quick to answer, premorpise your machine, talk about its memory, talk about its intelligence.
+At the same time as you were so quick to dehumanize people, namely the ones working in the factory, Babbage really famously wanted to do for mental labor, what factory automation had done for physical labor.
+And it just put him on the side of the machine as the one with the human faculties, whereas people just became cogs in the machine that was the factory.
+And I think we risk subjecting even our higher faculties like mathematical intuition to this automating impulse.
+When we imagine both that they can be developed by working with the machine, but also that we could translate them to be useful to the machine, this performs a kind of reduction that I think has, we have to pay attention to that, will we develop the tools that we want to work with.
+I just want to insert a quotation I'd like from William Burroughs on this, which is, this is what this is the sort of development to avoid from naked lunches.
+The junk merchant does not sell his product to the consumer, he sells the consumer to his product.
+He does not improve and simplify his merchandise, he degrades and simplifies the client.
+And I guess you can say that a lot of social media has managed to do that with human interactions of various kinds.
+One of my concerns is that mathematics, even though it has had many different forms in many different places at different times, I want to protect mathematics from that sort of development.
+Can I jump in on some of these stories, I worked at Argonne with Larry Wass.
+I'll read it again, yes.
+Oh, sorry.
+The junk merchant does not sell his product to the consumer, he sells the consumer to his product.
+He does not improve and simplify his merchandise, he degrades and simplifies the client.
+I was just hoping to follow up on Stephanie's story, so I worked at Argonne with Larry Wass. Larry Wass is a remarkable character, he was the first blind of PhD in Mathematics in the United States.
+I didn't know he was blind until three years into our collaboration because we talked on the phone.
+So the story about Larry is the story about many people who work on, I've met different kinds of people who work on mathematics, and when we talk about intuition, I don't think it's a univocal thing.
+So some people work more syntactically, just naturally, some people do mathematics in a very syntactical way, Larry's one of those people. He would sit at his braille terminal and look at these incredibly long formulas of proofs we were working on.
+And he just felt it, he just knew he just had this intuition for syntax.
+So just to do a little background about Larry, I think he really views his early statements as being vindicated because his intuitions really are syntactical.
+He's not the only one, I've met many mathematicians, just to throw this out there, I've met many mathematicians who have a much more syntactical, symbolic way of approaching mathematics, as opposed to, let's say, a more pictorial or other kinds of intuitive ways that may be more synthetic.
+I think that's worth getting out there.
+So yeah, I think Larry just views himself as having been vindicated, but he has peculiar intuitions, but so do many mathematicians.
+So, Karu Meredith, who was a magician, a Irish magician that worked with the Polish school, he had this unbelievable knack for doing axiomatic proofs.
+And Larry and I tried to get one of his proofs automatically, and it took 10 years, this was in the 90s, it took us 10 years to even get a proof of this result using theorem proving, and he could just do it in his head.
+So, when we talk about mathematicians in tuition, I think there's a variation in that.
+People approach humans, approach mathematics in very different ways, and it's important to keep in mind.
+And some people are just very syntactical, Larry, with his braille terminal as one of those guys.
+So just quickly, how can you communicate if you, to a syntact, how can you communicate a syntactic intuition to an audience?
+If it's the apprehension of the capacity to apprehend very, very long formulas and to interpret them, how can you communicate that if you're at a blackboard, for example?
+Oh, I'm not sure. I mean, I don't share that. I'm not like Larry. I tend to. I mean, I'm not like that at all myself, but I just point out that I've worked with people like Larry who are like that.
+And I don't really understand how a mind like that would work, but I know they're out there. And there are many of them.
+I mean, I think there are many mathematicians who are like this. So there's a presupposition that's sometimes in these discussions about the way humans think about mathematics, which may or may not be true for some people.
+It is. Some people are more syntactical. I wanted to just one little point about your question from before.
+I think even if the computers could take over, of course, they can't, but let's suppose they could in the following sense, make it analogous to chess.
+There are more people playing chess now than used to play it. I actually get more out of chess now, but it's totally, I mean, the computers are way better at than we are.
+That doesn't mean we're just going to stop doing it. In fact, I actually, as I said, I get more pleasure out of it now. I feel I have a deeper understanding of chess because of the computers.
+So this is the kind of thing I'm talking about, but that happens in mathematics too for me anyway.
+One thing about human understanding is that you might simply put it that when people understand something, they could say, now I know how to go on.
+Right? And that's something that seems to be so much intrinsic to human nature, maybe not machine nature.
+I wonder if that sort of makes sense, you all. How do you make sense of that?
+In the earliest text, the Egyptian and Babylonian texts, the end of an argument is C, now you see.
+I think that's very important. I think that's, you would not ask the computer whether it sees or not.
+It sees everything at the same time. It's not an understanding that unfolds in time.
+No, but I mean, the continues need to understand that I think you were referring to that is, you know, so in here, in human nature, you know, like to make sense of things.
+And so understand, create and understand continuously is what drives us and I think what drives mathematicians as well, to create new turems, improve them and then go on, as you say.
+And of course, I mean, that could be an objective function that can be put into a machine, but I mean, I'm not sure how it will get all the sub criteria that we have inside ourselves to really have that drive, you know, that makes us, you know, look for new turems, for new results, for new discoveries of other parts of the physical
+or virtual, you know, world around us.
+I've been said that, but however, to go back to games like chess or others, machines can be, I mean, in the case of chess, it was mostly computing power, you know, that allowed machines to be better than human beings.
+In the case of Go in 2016, it was not computing power because computer power alone could not have brought to make machines better than the best human beings playing Go.
+So, and in that case, it was a very clever combination of various techniques of machines also learning and reasoning and learning by playing against themselves and so on.
+And, you know, also being somewhat creative and surprising, because, for example, there is this famous move that the machine made that really shocked the human being playing against the machine and was instrumental in getting to the victory of that particular
+play. So, so there are aspects of into, not into which of creativity of surprise that machines can can achieve.
+But I wouldn't say like the kind of intuition. So, and the fact that they also in go the machine won against the human being doesn't mean that the machine has the kind as all the capabilities that that human being has.
+Sure, sure, but just to pick up on that, I mean, they're now using machine learning techniques in for automated theorem proving to instead of just maybe appealing to like WOSN intuitions about syntax, you just do a similar thing like you do with Go.
+I'd better apply to like a proof space, a search space for proofs. And, and you know, it's early days, but I think that's very exciting research that we should, we should really be excited about and we should be working supporting.
+So, I agree, this is still in the very early days. You know, we're still waiting for machine learning to prove its first big mathematical theorem that hasn't happened so far.
+And I think machine learning is still at a very early stage when it comes to understanding of mathematics, just to give one example.
+So, of course, computers can add its program into the computer. But suppose that the computer isn't given an algorithm to add numbers together, but we want the computer to learn how to add numbers and we give some big collection of data and we just say, okay, here's a machine learning project.
+Can you learn the algorithm for addition? As far as I understand neural networks are currently incapable of adding numbers together.
+And so the same with simple tasks like primality detection on small integers with small number of digits.
+And still machine learning is not capable of carrying out these relatively simple mathematical tasks. And so, you know, I think it's very easy right now to be swept away by all this happening in machine learning and artificial intelligence,
+because there really are some spectacular advances going on right now, but we really need to stay grounded in what is currently possible today's technology and realize that, you know, true mathematical understanding by computers of mathematics, maybe a few decades away.
+Yeah, and I think that because, you know, true mathematical understanding is not that different from my point of view, a true understanding of the world around us.
+So it is not like a subset of capabilities that you need. So, and to do that, as you say, machine learning is very spectacular successes and applications and especially in perception capabilities.
+But it's very primitive in giving capabilities of all kinds of machine. That's why I think that at this point, most of the researchers in AI are convinced that what you need is not to just focus just on machine learning,
+but to combine the learning and reasoning capabilities of the machine in a way that it's kind of similar to how we combine our perception, but also our logical reasoning capabilities.
+So, so more and more. And again, I want to cite Hermes book because that's the book that really advocates for that is called rebooting AI because it's really
+for many decades AI has been focused on the logical reasoning capabilities that could get to a certain point, but not not more than that because they were not working well on the perception abilities under, you know, interpreting text interpreting
+or vocal commands interpreting images and so on. Then people started using machine learning and they were so successful. Oh my God. So then we can do everything with machine learning. But then now we realize, well, maybe not. Maybe you need to, you know, combine the two kinds of main approaches, because otherwise you're not going to be able to do everything with just logical
+reasoning, but not even with just machine learning. So you really need both capabilities. Otherwise, you're going to stay very primitive in the two kinds of
+things. I get the impression that though you say things are a lot further into the future, but nobody seems to say it's just not going to happen. So just a question, but it may not be 50 years, it may be 200 years, but there's a sense when they say this that this is where we are going.
+Well, we actually know because we will have been transformed. Yeah. So by that process. And so we won't know whether what we were expecting it to be is what it is because it will be something else.
+Right. When you say it happens, we redefine it so that the machine can accomplish it. Right. That's how it goes every time. Now, does it.
+One of the dividing lines between mathematicians and computer scientists, you know, we share a lot. One difference is that mathematicians don't include time in the, in the as a criteria.
+So Tom and I both have worked in the Langlands program. The Langlands formulated his program. Oh, in the 1960s.
+And it's a program that's meant to take centuries. Although I think he would probably be happy to see it done now, but it's, but as things stand, it could very well take centuries.
+But nobody doubts that at this point that it's the ideas are going to be found to pull together, if at least if mathematics is continues to be practiced by human beings.
+It's not clear at all that that machines have it would have any interest in the Langlands program.
+If they go, they may have other priorities. They may, they, if mathematics is redefined to be the kind of of of of activity at which machines excel, then that may just be left left aside.
+So, so, so that's the, that's the, that's the, the more general question, you know, is whether the values of contemporary mathematics will can be trans can, can, can be implemented implemented is a terrible word.
+Can, can be shared with, with machines of any kind. And what would it take, what would the machine have to be like in order to share the contemporary values bearing in mind that the values of contemporary mathematics are not at all the same as the values of the mathematicians
+of the 18th century or the 19th century.
+Well, it seems to be one of the clues that there's a little bit of a problem still is that we're relying on a lot of algorithmic complexity and the ability of computers to do a bazillion calculations in very little time.
+And, but doesn't that algorithmic complexity, like for example, that it seems so much complexity required just for a computer learn how to learn on its own how to perform mathematics or arithmetic.
+That, isn't that a clue that there's something very different about the way we think the computers that, that, that so much power required to get to the same.
+Yeah, I just find it a little strange. That's where this discussion is going. I just tend to think of these things as tools. And then the question is how to use the most optimally for human advancement.
+I mean, so that's the way I think I'm not. Are you thinking about computers?
+You don't think they're going to think about this tool. I just don't think about that. I'm just more interested in what are better currently. That's not the case.
+And, you know, there are tools and I think we should be focused on the kind of thing that Frances was talking about building the kinds of systems that our existing technology would be the best at advancing our interest in understanding mathematics and other areas of science.
+That's what I'm focused on. So I just don't think about these questions at all.
+Yeah, and we have to keep in mind that it's not that these machines are like an alien coming from another planet here. I mean, we designed them. We gave them the objective function, the criteria, the values, as you say.
+So the point is that it's not that clear how to define our own values and then to model them so that you can code them into a machine or have the machine learn them, but or a combination of them. But I think we designed them.
+So it's not that they wake up one day and they start having a completely, but I mean, said that, you know, they can do very surprising and maybe undesired things already now, you know, especially those that are based on statistics and probabilities.
+So they're not deterministic. You're not sure exactly what they will do. They will have, they may have some surprising, you know, and undesired results, which in some high stake, the main that may be, you know, even harmful.
+Okay. I'm a little bit troubled by what looks to me like a kind of epistemological collapse, we might call it as the machine learning mode of thought sort of eats the world.
+What machine learning systems are really good at doing is taking in a bunch of unstructured data and outputting classifiers or prediction rules for certain kinds of phenomena.
+And we think that with a tool like that, we can be better at sentencing criminals, we can be better at figuring out what kinds of people are going to graduate from college.
+We're going to be able to prove mathematical theorems, we're going to be able to make better medical diagnoses.
+And I'm not sure that prediction rules or classifiers in the way that neural networks can produce them is actually the kind of knowledge that we want to be seeking in every domain.
+And as soon as there's a critique of machine learning from the outside, it's demonstrated by ProPublica that there's demonstrable racial bias in the error rates of the Compass Risk Assessment score that's being used in almost every state in the country.
+And their response is, oh, we just need to figure out how to encode what we mean by fairness and equality in machine learning terms.
+We then need to figure out how do we encode these longstanding ethical conundrums about self-driving cars, should they protect the consumer or the pedestrian or whatever.
+We just need to encode those in machine learning terms.
+And I'm just not sure I buy the idea that all of our values can in fact be translated into mathematical formalism.
+And it's an ethical question, but because I'm a historian of science, to me it's also an epistemological question.
+The only lesson from the history of science is that there is more than one way to know there are syntactical forms of intuition.
+There's this beautiful story recovered by Lorraine Dastin, who's a historian of mathematics, about how in the 17th century calculation is really held up as sort of a sign of mathematical genius.
+The ability to work in your mind quickly with numbers makes you a god among men.
+But by the 19th century, calculation has been relegated to the realm of the merely mechanical.
+It becomes women's work, it becomes the proper position for African Americans, where people aren't educated, for people aren't imaginative and creative, and the position of human computer becomes the realm of calculation.
+And part of what happens in that transition is the advent of the calculating machine that makes clear that if the machine can do it, it must not belong to genius.
+And so we are closing off certain forms of knowing or certain epistemological possibilities or certain value systems for knowledge or for doing by collapsing everything onto the terms that were currently in a position to translate into our technical systems.
+We're doing it in science, we're doing it in mathematics, we're doing it in the law, we're doing it everywhere, and that's what troubles me.
+I mean of course to me, let's do what we can do with the tools that we have, but maybe let's not.
+Maybe these aren't the right tools for doing certain kinds of work in the world because we don't know how to translate our values into these systems or because they cannot be so translated.
+Except the optimism that that's possible is rampant and problematic and the stakes are very high.
+It's seen as a future source of profit, which may be deductive reasoning, not so much.
+Yeah, I was just thinking of a very limited set of tools that are applied to maybe just doing a little bit better in mathematics.
+I mean absolutely ethical AI.
+I got to put an plug for my wife Tina, Halle Aasirad.
+That's her project, the Adjust Machine Learning.
+So I'm all 100% behind that for sure. I was thinking of something much more limited to myself, just about scientific discovery.
+But of course, that's a really good point that you raised because can you just restrict yourself to when you say you're just restricting myself to scientific discovery?
+Maybe you can't really do that, maybe that's an illusion too.
+Even the idea that you can just restrict it to that because inevitably they're going to be other effects and other uses of, let's say off-label uses of whatever technology you're doing.
+Whatever technology you might develop, that's certainly true.
+It'd be interesting if that were to happen with the kind of theorem for things.
+It probably will. I mean it's happened with everything else.
+You both mentioned, you both referred to statistical methods.
+And I can imagine, this is not a fantasy scenario.
+I can imagine developing on the basis of interaction with machine learning technology that mathematics would develop in a direction that privileges statistical deduction.
+So inductive reasoning over proofs.
+There are people who have talked like that and they've been considered provocateurs and outsiders.
+But that's a possible direction.
+It's not inconceivable in view of how mathematics has changed since the 18th century, for example.
+What's considered important, what's considered valuable?
+Yeah, it's much more empirical now with all simulations.
+And so computers are used in so many ways in mathematics simulation and not just in probabilistic proofs, like in the case of primality.
+I think those confer knowledge.
+I think I can know that something's prime based on probabilistic proof.
+I'm 100% behind that.
+So yeah, to me, this goes back to the point, it's about mathematical knowledge, generally.
+It's not just about mathematical knowledge, it's not just about mathematical knowledge, it's some narrow sense.
+And this is where it becomes, you're right, it's going to rub up against all kinds of important ethical issues because what really matters is scientific knowledge generally.
+And that touches on everything I think.
+I could give a Bayesian proof of the Langlands program right now.
+I mean it's, you know, it's so, it's so, all of these coincidences are so unlikely that it has to be true.
+It's just that.
+But I think probabilistic proofs are a little more secure than that, but we can, I mean, I don't want to get to in the woods, but in the mind, that's not fair.
+You, I think alluded to someone like Elon Musk before.
+So if Max Tegmark or Elon Musk were sitting here, what would they say to what you are saying about AI and what will happen?
+About what part of AI, I think that Max, you know, understands that, I mean, he wrote a book on AI that he explained his point of view, but I think that he is very, I mean, he's focused, they spend some of his time, you know, to focus on these artificial general, intelligent idea, which means, you know, when
+machines can be, you know, with the same capability, even better than human beings, but he's also very focused on concerns about current AI, and also about other concerns, like nuclear and other things, bio, you know, and so on.
+So, so to me, I see, Max has very, very constructive person that even in his book, you may have seen that he has a table where he demystifies a lot of myths about this idea of the artificial general intelligence.
+So, of course, he has this idea that this can happen, but again, I'm not sure exactly what it means that this, what is this that can happen because unless it happens today, which is not the case, but if it happens like in 100 years, it will not be what we imagine now, because the whole society and people, infrastructure,
+and everything will be changed. So, it's not that, you know, we remain static, and then, and then someday we wake up and there is this super intelligence.
+So, so he has this idea that, yes, maybe it's very improbable, but even if the probability is very small, we should still, you know, worry about it and think about it, because it's like a cosmologist.
+So, he always makes this analogy with the asteroid that, you know, maybe it's very, very probable that in 100 years, the asteroid will come and destroy Earth, but, you know, if there is some probability, then we should start now thinking about it.
+So, he always makes that. And then another thing that he always says that, I think he would say here as well, because I haven't seen any talk when he didn't say that.
+So, it's this idea that as the capabilities and intelligence capabilities of AI grow, we need to make also our wisdom grow.
+And so to compensate and to make sure that we build a system of wisdom and trust and to compensate, you know, to be in parallel with augmenting the capabilities of AI.
+Yeah, and so I just want to plug philosophy is important for that. And we should work with it. Seriously, we should be able to cross many disciplines.
+It's including philosophy, not just ethics though, but philosophy more generally.
+And I think this is going to require, because the technology is so powerful and far-reaching, it's going to require vast interdisciplinary projects, I think, to really, press to really get a handle on it.
+And I think that's a good challenge. I think that's a good thing.
+Okay, we can go to questions.
+Sure.
+One of the things that smart people do, and I'm thinking about AI, that AI doesn't do, is smart people ask questions.
+And I'm, it's very curious that that didn't come up. You know, when you talk with other people, I think we can trust the questions they ask more than the statements that they make.
+I mean, for one thing, they cut very deeply and tell you a great deal about that person. So, and I think that's true of any phenomenon where thought is involved.
+Yeah, of course. And that's what I meant in some sense when I said, you know, like the process of even deciding which statement you want to prove is asking a question.
+And I'm saying, okay, I would like to understand whether this thing is true or not. So I'm, I'm identifying a question that I want to answer for.
+And that process, even the process of identifying that question is a very social process that comes maybe with the people of your team, but even if it's not, or from outside, from other papers, other, you know, talks or people.
+So, so it's really a very collective process to be able to ask interesting and questions that go in the direction of this continuous learning and understanding.
+And I agree that for now, I don't see that machines are into doing that.
+Right. Right. So when we're talking about understanding, there's formulating the questions. Then there's finding answers and then there's checking answers.
+So maybe there's really those three things. And discovering both the formulation of the question and the discovering the answer to the question once formulated.
+So I think that's a helpful. That's helpful. I would stress the fact that the questions that are asked within mathematics as it's practiced are rooted in the history of mathematics.
+It's very, very unusual that a completely new kind of question is raised. And then that that represents a turning point in the history.
+But one of the ways to distinguish between human mathematics and mechanical mathematics may be that the machines may very well want to ask different kinds of questions.
+They may want to ask the kinds of questions for which their capabilities, the capabilities they have now or 20 years from now, have prepared them.
+And that's again, is that something we want to force them to think the way we do or do we want mathematics to differentiate into a human kind of mathematics and a mechanical kind of mathematics with different.
+Machines, I wrote an article, one of the things I was trying to imagine what machines intuition would be based on.
+We'll be based on, for example, doing the same thing over and over and over again. People don't like to do that.
+Computers have been designed to do the same kind of thing over and over again. So that's a different kind of mathematics.
+So I've got sort of a broad question and I'm curious what anyone here would think about this. And sure all, mathematical experts, certainly more than I am.
+I had my last math class more than 40 years ago. I was an English major, but I'm a science writer and I actually have to write about mathematics every now and then.
+And it seems to me that one of the problems that you're addressing and trying to mechanize mathematics is that checking proofs, especially as time goes on, is getting harder and harder.
+And there's more and more specialization in mathematics. There are very few generalists out there anymore.
+And when it comes to something like the supposed proof of Fermets last theorem, there's a very small group of people in the world were qualified to determine whether it is, in fact, a proof.
+So I guess my question is, is mathematics, you already have to be sort of a special person to do mathematics.
+Mathematics outrunning our cognitive capacity. And is that one reason why we are forced to mechanize it to a certain extent?
+Thank you.
+Thank you for you.
+So the first thing I want to say is that proofs that are complicated in one century may not be complicated a century later because we continually revise and update our understanding and invent new concepts that make very difficult proofs easier to understand as time goes by.
+Another issue that was brought up was just how do we check proofs and the process of refereeing and how that relates to mechanization and mathematics.
+And I think it's fair to say that for many mathematicians, refereeing other people's work is at a very low priority.
+This is when we try to say what our values are. This is not one of our values.
+I'm not a general president.
+You know, we might want to understand the ideas in the paper, but we don't want to go through the tedious details of checking other people's work.
+And so when we look to the future, one thing that we might really want to invest in would be tools for better refereeing mathematics and to relieve mathematicians of that burden.
+We want to judge whether it's important or significant, but we don't want to check whether it's correct or not.
+Another, now that you say this thing, but it's not really related. You made me think about something that in my career I saw that was different between computer science, even theoretical computer science and mathematics.
+And in computer science, once you have a statement and somebody proved it and people are more or less convinced that that's correct proof, that's it.
+Nobody's going to prove it again. Nobody's going to give a different proof.
+In mathematics, that's not the case. I've seen several times the same statement and I don't mean an incredible...
+But the same statement with different proofs and new papers were published and peer reviewed and accepted just because they had a different proof of the same statement that already people knew that it was true.
+So to me, even more that shows that it is not just a means to an end, it's the end as well. Because again, writing a more elegant proof, meaning with less concepts, more
+It's a value by itself because it allows your mind to also learn more and they reuse that what you learn in other ways.
+So that's something that I remember even when I was much younger that I saw this, why is this guy really writing the proof of the...
+Another proof of the same theorem and that's not something that happens. At least I haven't seen usually happening in computer science.
+Let me just combine these two with respect to from our last theorem in particular because it's a good example.
+The theorem that it was proved and people have been working on it on the ideas ever since. It's not just the proof is not just a certificate.
+An independent object that stands by itself is an object for analysis and for discussion. It raises more questions, namely why does this proof give this result?
+I can understand and then there's the part in between why is this a root to this piece of the Langlands program, so to speak. And that has been studied by many, many people by hundreds, if not thousands of people.
+And so that part now can be said has already been simplified considerably and 100 years from now it's not at all, I mean if there are people doing mathematics and those are the priorities, then it's not at all impossible that it can be taught in an advanced undergraduate course.
+I think that's true of scientific understanding generally as we go as we evolve where we get better at explaining things simpler and more illuminating terms, not just in mathematics, that's generally the case.
+And one of my fears about both formalization and automation is that it captures really well only the last stage of what is otherwise like a very messy process.
+And historians of science don't believe that you can write the history of how knowledge is produced, if all you do is read published papers.
+Because if you don't go to the archive, if you don't see what people were uncertain about, if you don't read their messy notebooks and their correspondence and their failed grant applications, if you don't try to recover the actual practice with which they came up with what then was fashioned as a really clean final product,
+you don't actually understand what it is that scientists do at all. And formalization and with it automation seems to fix in place and standardize what we all know actually takes place with the friction between systems that are incompatible with questions you don't seem to have tools that can answer
+interpersonally, and that if we're so focused on formalization and automation, we might have closed down all of the avenues that open up in the mess that comes before, you know?
+That can happen, but you know, one of my favorite book by Larry Woss is his experimenters notebook, which is all about showing you what he did.
+So he's all about that. He's not just showing you a finished product, he's not just showing you a certificate, he's trying to explain to you, hey, I'm a practitioner, I use these tools, here's how one uses them, you can do it well, you can do it badly, let me tell you about some false starts, let me tell you about some dead hands, let me tell you about some success stories, all, you know, warts and all.
+That's my favorite book of Larry Woss, just to throw that in there. It's a very interesting conversation, so thank you. But I noticed no one mentioned the incompleteness theorem.
+So I was just wondering, Godot's theorem, what would happen if an automated theorem prover is given an undecidable question?
+I interviewed Michael Rabina a number of times when I was a graduate student who did some of the early work in theorizing how difficult problems are, and I asked him a version of this question, and he said, oh, you will run into the practical limitations of computing so much
+sooner than you will run into the limitations of formal systems that it barely matters, there are lots of uncomputable problems, but the practical limitations of polynomial running time algorithms are so much more constraining than the constraints of the limitations of formal
+systems are incomplete systems, that's my understanding anyways, that doesn't come up actually all that much.
+I mean, take systems for which there are decision procedures, they're usually intractable, so they're not really helpful for anything. The theory is totally decidable.
+So I'm not sure I got with you guys for saying this now, just saying we're in a smaller sphere already, and we're just constrained by technology and the...
+Right, even systems that are fully decidable are completely intractable.
+Because we haven't explored all the decidable ones yet. There are decidable ones, but the point is the algorithms are so complex for deciding the questions that there's not useful.
+But the under-undecidable or decidable ones, if that falls into that category, where humans feel quite confident they know the answer, or maybe not perfectly, not 100%.
+So the decidability is relative to a particular system, so just because something is undecidable from the point of view of a particular system doesn't mean there couldn't be another system that explains why it's true anyway.
+Chinese-American logician by the name of Hao Wang, who also said that everybody was so focused on the incompleteness theorem, they forgot that actually one of its corollaries is that it opened up all of this new interest in the decidable subsets of different domains, actually logicians who work in automation are really key to.
+So there was a closing down, but also an opening up.
+Okay.
+This is not really a question, but just some comments. So I'm a computer scientist like Francesca.
+And I think from the perspective of computer science, it is obvious that proofs can be mechanized.
+Another way of saying it is that if you are a believer in constructive logic, then constructive logic and computation are just different sizes.
+So from that point of view, it is obvious that you can mechanize.
+Then maybe the question is, you know, how good is the mechanization and so forth.
+But I wanted to also mention a couple of things which we don't know how to do.
+Okay, so like intuition. So what is mathematical intuition?
+I'm not sure whether we know how to formalize it.
+I'm not saying that it cannot be formalized, but I'm not sure whether this has been done.
+Sometimes you want to suddenly result, you ask, oh, you know, what's the real reason for this result?
+And for some complicated reasons, actually, you can ask the expert and they cannot tell you the reason.
+It is, oh, look at the proof.
+So you're going to have to read this in a 50 page proof or whatever, and you still may be not much better off.
+But in some other cases, you have some intuition.
+So we don't understand those things very well, explanations, all those things.
+It doesn't mean they cannot be done, but maybe we just don't know the techniques.
+Then on the previous question, well, I mean, it just depends on the axioms you put into the proof system.
+You put the right axioms, it's just like that.
+So no problem in some sense.
+It starts to not get to the point that you want to get.
+I mean, every axiom builds on other axioms.
+So depends on what you choose to believe.
+Things are not cast in stone.
+That many problems are just hot.
+And to put it in another way, many problems are just undecidable.
+And whether it's machine or human, it doesn't mean that we not do it any better.
+So maybe you want to have human machine cooperation.
+Just like in chess, okay, for, let's say, professional chess players, they always use the machine.
+Like, they don't like, oh, I do it on myself.
+No, even the win, you better use the machine.
+And the human is good for some things, and the machine is good for some other things.
+And there are, in some sense, at the moment, complementary.
+So that's just some...
+Can I jump in on the explanation point?
+So there's some really great work in philosophy of mathematics.
+Let me give a shout out to a couple people.
+Paolo Mancosu at Berkeley has done great historical and philosophical work on mathematical explanation
+of what makes one proof more explanatory than a Mark Steiner has written.
+Several really good books on that.
+So I encourage, if you're interested in that, there's some really good work in philosophy mathematics on that.
+And I think that gives some hope towards, if not formalizing it at least,
+discovering some systematic structure in the nature of mathematical explanation
+as we think we've done for parts of scientific explanation in the empirical sciences.
+But I think that...
+I think that's the reason for this thing.
+Sometimes...
+You know what can happen?
+It could be a whole branch of mathematics can develop around trying to explain why such and such a proof is effective.
+Oh yeah, I know I just meant there are people thinking about that stuff and I think that's what we ought to be doing.
+And then not necessarily trying to formalize it, but certainly trying to find some law-like structure in it
+because that's what science does.
+I want to make a couple of points.
+One is that there is an area of experimental mathematics, which has conferences and journals and so on.
+And they use mathematics to prove theorems and they've proved some nice, rather new gen-like identities and so on.
+You know, it works better in some areas, at least so far it has worked better in some.
+It works nicely for its real analysis of certain kinds, not so well with abstract algebra's A.
+And it would be interesting to see whether the technology of proof verification will lead to interesting mathematics in that kind of way.
+And the other was just to follow up on the emphasize point which Francesca raised, which is that my feeling is that we're not going to get
+machines that really understand mathematics until we understand until they grasp not just pure mathematics, but applied mathematics.
+They understand how the mathematical symbols relate to the realities of the world.
+Hmm.
+That all seems to be possible to me.
+I mean, I like the experimental math stuff myself. I find it really interesting.
+Some of it's a little weird, but which is cool.
+Like, Zileberger was my colleague at Rutgers and he does a lot of interesting stuff, also a lot of weird stuff.
+Stephen Wolfram has been championing experimental mathematics for many years.
+I think that's great.
+But to me, again, that's just an example of thinking of these things as tools and there's different ways they can be helpful.
+I would try to exploit all the different ways they can be helpful.
+No other questions?
+Okay.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+Thank you.
+That's definitely an interesting point.
+Yeah.
+Thank you.

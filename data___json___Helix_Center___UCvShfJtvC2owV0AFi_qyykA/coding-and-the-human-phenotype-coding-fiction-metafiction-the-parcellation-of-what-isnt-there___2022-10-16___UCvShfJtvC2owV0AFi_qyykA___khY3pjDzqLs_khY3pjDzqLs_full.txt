@@ -1,0 +1,1044 @@
+{"id": "khY3pjDzqLs-t0.0", "text": "Good afternoon, everyone.", "start": 0.0, "end": 15.44}
+{"id": "khY3pjDzqLs-t15.44", "text": "Welcome again to the Heilich Center.", "start": 15.44, "end": 17.400000000000002}
+{"id": "khY3pjDzqLs-t17.400000000000002", "text": "I'm Gerald Her with the Associate Director at Heilich.", "start": 17.400000000000002, "end": 21.96}
+{"id": "khY3pjDzqLs-t21.96", "text": "I want to invite everyone, rather, to our third roundtable of the day entitled,", "start": 21.96, "end": 29.240000000000002}
+{"id": "khY3pjDzqLs-t29.24", "text": "Coding Fiction, Metafiction, the Parcelation of What Isn't There.", "start": 29.24, "end": 34.199999999999996}
+{"id": "khY3pjDzqLs-t34.199999999999996", "text": "I'm going to take a moment just to describe the brief bios of our wonderful cast of participants.", "start": 34.199999999999996, "end": 44.04}
+{"id": "khY3pjDzqLs-t44.04", "text": "So first, Unina Hoffman is an Assistant Professor of English at the U.S. Murchin Marine Academy.", "start": 44.04, "end": 50.72}
+{"id": "khY3pjDzqLs-t50.72", "text": "Unita's research applies systems theory and phenomenology to 20th century literature", "start": 50.72, "end": 56.480000000000004}
+{"id": "khY3pjDzqLs-t56.480000000000004", "text": "and the global systems novel.", "start": 56.480000000000004, "end": 58.68}
+{"id": "khY3pjDzqLs-t58.68", "text": "Unina's first book, The Voices of David Foster Wallace, used concepts from narrative theory,", "start": 58.68, "end": 65.28}
+{"id": "khY3pjDzqLs-t65.28", "text": "rhetoric, and phenomenology to examine the experiences of reading through novelistic progression", "start": 65.28, "end": 71.36}
+{"id": "khY3pjDzqLs-t71.36", "text": "and narrative voices.", "start": 71.36, "end": 73.0}
+{"id": "khY3pjDzqLs-t73.0", "text": "Unina's new book project, Ending the Endless, examines the way that contemporary system", "start": 73.0, "end": 78.64}
+{"id": "khY3pjDzqLs-t78.64", "text": "novels understand the globe.", "start": 78.64, "end": 82.8}
+{"id": "khY3pjDzqLs-t82.8", "text": "Next is Peter A. Glor, who is a research scientist at the Center for the Collective", "start": 82.8, "end": 88.44}
+{"id": "khY3pjDzqLs-t88.44", "text": "Intelligence at MIT's Sloan School of Management, where he leads a 20-year project exploring", "start": 88.44, "end": 95.52}
+{"id": "khY3pjDzqLs-t95.52", "text": "collaborative innovation networks.", "start": 95.52, "end": 98.44}
+{"id": "khY3pjDzqLs-t98.44", "text": "He is also founder and chief creative officer of software company Galaxy Advisors and honorary", "start": 98.44, "end": 105.84}
+{"id": "khY3pjDzqLs-t105.84", "text": "professor at University of Cologne and at Gillian University in Chan-Chun, China.", "start": 105.84, "end": 112.44}
+{"id": "khY3pjDzqLs-t112.44", "text": "He also taught at Universidad Catarica in Santiago de Chile, Alta University Helsinki, and a", "start": 112.44, "end": 120.8}
+{"id": "khY3pjDzqLs-t120.8", "text": "few other universities I have a difficult time pronouncing.", "start": 120.8, "end": 127.24}
+{"id": "khY3pjDzqLs-t127.24", "text": "University of Applied Sciences, Northwestern Switzerland, and the University of Applied", "start": 127.24, "end": 131.07999999999998}
+{"id": "khY3pjDzqLs-t131.07999999999998", "text": "Sciences in Luzern.", "start": 131.07999999999998, "end": 132.72}
+{"id": "khY3pjDzqLs-t132.72", "text": "Earlier, he was a partner with Deloitte and PwC and a manager at UBS.", "start": 132.72, "end": 139.0}
+{"id": "khY3pjDzqLs-t139.0", "text": "He got his PhD in computer science from the University of Zurich and was a post-doc at", "start": 139.0, "end": 143.16}
+{"id": "khY3pjDzqLs-t143.16", "text": "the MIT lab for computer science.", "start": 143.16, "end": 148.04}
+{"id": "khY3pjDzqLs-t148.04", "text": "Mark Hanson is the David and Heli Gurley Brown professor of journalism and the director", "start": 148.04, "end": 153.4}
+{"id": "khY3pjDzqLs-t153.4", "text": "of the Brown Institute for Media Innovation at Columbia University.", "start": 153.4, "end": 157.92000000000002}
+{"id": "khY3pjDzqLs-t157.92000000000002", "text": "He's had over 20 years of collaborations with designers, architects, and artists, helping", "start": 157.92000000000002, "end": 162.72}
+{"id": "khY3pjDzqLs-t162.72", "text": "make work that has been exhibited in the Museum of Modern Art in New York, the Whitney Museum,", "start": 162.72, "end": 168.92000000000002}
+{"id": "khY3pjDzqLs-t168.92", "text": "the Centro Deart Rhinosophia, the London Science Museum, the Cartaget Foundation in Paris,", "start": 168.92, "end": 175.23999999999998}
+{"id": "khY3pjDzqLs-t175.23999999999998", "text": "and the lobbies of the New York Times building and the public theater in Manhattan.", "start": 175.23999999999998, "end": 180.35999999999999}
+{"id": "khY3pjDzqLs-t180.35999999999999", "text": "Hanson holds a BS in Applied Math in the University of California, Davis, and PhD in MA in Statistics", "start": 180.35999999999999, "end": 185.88}
+{"id": "khY3pjDzqLs-t185.88", "text": "from the University of California, Berkeley.", "start": 185.88, "end": 190.2}
+{"id": "khY3pjDzqLs-t190.2", "text": "Jonathan Kramnik is a Maynard Mack professor of English at Yale University.", "start": 190.2, "end": 195.39999999999998}
+{"id": "khY3pjDzqLs-t195.4", "text": "His research and teaching is in 18th century literature and philosophy, philosophical approaches", "start": 195.4, "end": 200.4}
+{"id": "khY3pjDzqLs-t200.4", "text": "to literature, and cognitive science and the arts.", "start": 200.4, "end": 204.32}
+{"id": "khY3pjDzqLs-t204.32", "text": "He's the author of three books, his new book Paper Minds, Literature and the Ecology of", "start": 204.32, "end": 208.56}
+{"id": "khY3pjDzqLs-t208.56", "text": "Consciousness, asks what distinctive knowledge that literary disciplines and literary form", "start": 208.56, "end": 214.20000000000002}
+{"id": "khY3pjDzqLs-t214.20000000000002", "text": "can contribute to discussions of perceptual consciousness, created and natural environments,", "start": 214.20000000000002, "end": 220.68}
+{"id": "khY3pjDzqLs-t220.68", "text": "and skilled engagement with the world.", "start": 220.68, "end": 223.0}
+{"id": "khY3pjDzqLs-t223.0", "text": "Questions have appeared in critical inquiry, representations, and elsewhere.", "start": 223.0, "end": 228.0}
+{"id": "khY3pjDzqLs-t228.0", "text": "Before that, actions and objects from Hobbes to Richardson's Stanford 2010 considered representations", "start": 228.0, "end": 235.2}
+{"id": "khY3pjDzqLs-t235.2", "text": "of mind and material objects along with theories of action during the long 18th century.", "start": 235.2, "end": 241.8}
+{"id": "khY3pjDzqLs-t241.8", "text": "Dr. Nikos A. Saligaros is professor of mathematics and architecture at the University of Texas", "start": 241.8, "end": 247.64}
+{"id": "khY3pjDzqLs-t247.64", "text": "at San Antonio, and internationally recognized architectural theorist and urbanist.", "start": 247.64, "end": 253.64}
+{"id": "khY3pjDzqLs-t253.64", "text": "His publications include the books, Algorithmic Sustainable Design, Anti-Architecture and Deconstruction,", "start": 253.64, "end": 260.28}
+{"id": "khY3pjDzqLs-t260.28", "text": "A Theory of Architecture, Principles of Urban Structure and Unified Architectural Theory,", "start": 260.28, "end": 265.32}
+{"id": "khY3pjDzqLs-t265.32", "text": "plus numerous scientific articles.", "start": 265.32, "end": 267.76}
+{"id": "khY3pjDzqLs-t267.76", "text": "He co-authored the Michael, with Michael Mahafie, the books designed for a living planet and", "start": 267.76, "end": 272.91999999999996}
+{"id": "khY3pjDzqLs-t272.91999999999996", "text": "a new patterned language for growing regions.", "start": 272.91999999999996, "end": 276.28}
+{"id": "khY3pjDzqLs-t276.28", "text": "Saligaros collaborated with the visionary architect Christopher Alexander over more than", "start": 276.28, "end": 280.4}
+{"id": "khY3pjDzqLs-t280.4", "text": "20 years in editing Alexander's monumental, four volume book, The Nature of Order.", "start": 280.4, "end": 287.03999999999996}
+{"id": "khY3pjDzqLs-t287.03999999999996", "text": "I think I'll stop there.", "start": 287.03999999999996, "end": 289.15999999999997}
+{"id": "khY3pjDzqLs-t289.15999999999997", "text": "There's more to say about every one of these wonderful participants, and we'll get started", "start": 289.15999999999997, "end": 293.88}
+{"id": "khY3pjDzqLs-t293.88", "text": "with our talk.", "start": 293.88, "end": 301.79999999999995}
+{"id": "khY3pjDzqLs-t301.8", "text": "Okay, so this is a fairly broad topic I think, and I am amazed by the wide range of expertise", "start": 301.8, "end": 313.68}
+{"id": "khY3pjDzqLs-t313.68", "text": "we've assembled here today.", "start": 313.68, "end": 316.16}
+{"id": "khY3pjDzqLs-t316.16", "text": "So who wants to begin the narrative of this talk this evening?", "start": 316.16, "end": 328.84000000000003}
+{"id": "khY3pjDzqLs-t328.84000000000003", "text": "Why are we here?", "start": 328.84000000000003, "end": 329.84000000000003}
+{"id": "khY3pjDzqLs-t329.84", "text": "This is a conference on coding.", "start": 329.84, "end": 332.67999999999995}
+{"id": "khY3pjDzqLs-t332.67999999999995", "text": "Is there someone who can make sense of that relative to it?", "start": 332.67999999999995, "end": 336.08}
+{"id": "khY3pjDzqLs-t336.08", "text": "Oh, I have no idea what the topic is about, but it's fascinating, and the participants", "start": 336.08, "end": 342.76}
+{"id": "khY3pjDzqLs-t342.76", "text": "are fascinating people with fascinating expertise, so I was sort of waiting for a combustion", "start": 342.76, "end": 348.35999999999996}
+{"id": "khY3pjDzqLs-t348.35999999999996", "text": "effect of different ideas coming together.", "start": 348.35999999999996, "end": 353.55999999999995}
+{"id": "khY3pjDzqLs-t353.56", "text": "I was attracted to attend because of the link between coding and memes and literature, since", "start": 353.56, "end": 361.8}
+{"id": "khY3pjDzqLs-t361.8", "text": "I find many of the explanations I'm looking for in architectural design in literature,", "start": 361.8, "end": 367.48}
+{"id": "khY3pjDzqLs-t367.48", "text": "especially the topic literature, 1984 in a brave new world.", "start": 367.48, "end": 372.44}
+{"id": "khY3pjDzqLs-t372.44", "text": "I'll stop there.", "start": 372.44, "end": 374.72}
+{"id": "khY3pjDzqLs-t374.72", "text": "I'll add one more point.", "start": 374.72, "end": 377.52}
+{"id": "khY3pjDzqLs-t377.52", "text": "I guess my thinking about the subject heading was that there's the idea in coding and writing", "start": 377.52, "end": 386.12}
+{"id": "khY3pjDzqLs-t386.12", "text": "programs about narratives that it's fungible, that you can take it from here to there.", "start": 386.12, "end": 392.68}
+{"id": "khY3pjDzqLs-t392.68", "text": "It's all based on this code, and you can insert it wherever you want to create whatever effect", "start": 392.68, "end": 397.71999999999997}
+{"id": "khY3pjDzqLs-t397.71999999999997", "text": "you want, and it could be a literary effect, it could be from misinformation, which was", "start": 397.71999999999997, "end": 401.71999999999997}
+{"id": "khY3pjDzqLs-t401.71999999999997", "text": "the subject to our last roundtable.", "start": 401.71999999999997, "end": 404.47999999999996}
+{"id": "khY3pjDzqLs-t404.48", "text": "I could talk about coding because I was a coder at MIT 20 years ago, and I used to dream", "start": 404.48, "end": 411.64000000000004}
+{"id": "khY3pjDzqLs-t411.64000000000004", "text": "in hyper-talk, which was a programming language, and I still think today when I look at AI,", "start": 411.64000000000004, "end": 417.56}
+{"id": "khY3pjDzqLs-t417.56", "text": "that this is sort of the only field where people have their own language to communicate", "start": 417.56, "end": 422.8}
+{"id": "khY3pjDzqLs-t422.8", "text": "namely type v-steps for AI, and so I'm not sure whether there is other fields.", "start": 422.8, "end": 430.84000000000003}
+{"id": "khY3pjDzqLs-t430.84", "text": "I mean, in a sense, you have always liked the language of mathematics and so on, but for", "start": 430.84, "end": 436.03999999999996}
+{"id": "khY3pjDzqLs-t436.03999999999996", "text": "me, in software and in AI, I'm at the center for collective intelligence, and other level", "start": 436.03999999999996, "end": 443.32}
+{"id": "khY3pjDzqLs-t443.32", "text": "of collective intelligence, which is, you have this language that people use to communicate,", "start": 443.32, "end": 448.52}
+{"id": "khY3pjDzqLs-t448.52", "text": "which is called Python or some other programming language, and from my own experience, if you", "start": 448.52, "end": 453.28}
+{"id": "khY3pjDzqLs-t453.28", "text": "are totally immersed, now I'm useless as a coder, about 20 years ago, that's what I was hired,", "start": 453.28, "end": 459.4}
+{"id": "khY3pjDzqLs-t459.4", "text": "and you start reading and thinking in that programming language.", "start": 459.4, "end": 462.59999999999997}
+{"id": "khY3pjDzqLs-t462.59999999999997", "text": "But you can't do it, we're doing now in that programming language, I assume, this kind", "start": 462.59999999999997, "end": 467.0}
+{"id": "khY3pjDzqLs-t467.0", "text": "of communication.", "start": 467.0, "end": 468.0}
+{"id": "khY3pjDzqLs-t468.0", "text": "The gigs are, I mean, they are very introvert, and we have a hard time looking at each other", "start": 468.0, "end": 473.32}
+{"id": "khY3pjDzqLs-t473.32", "text": "into the AI.", "start": 473.32, "end": 474.32}
+{"id": "khY3pjDzqLs-t474.32", "text": "That's one of the problems when you are a coder.", "start": 474.32, "end": 477.35999999999996}
+{"id": "khY3pjDzqLs-t477.35999999999996", "text": "But I'm curious about the use of the word language here in the, you know, in the relationship", "start": 477.35999999999996, "end": 483.88}
+{"id": "khY3pjDzqLs-t483.88", "text": "to narrative, is what we're doing, we're a highly specialized human activity of communicating", "start": 483.88, "end": 491.32}
+{"id": "khY3pjDzqLs-t491.32", "text": "thoughts and meaning versus in spoken form, which then can take a kind of narrative shape.", "start": 491.32, "end": 497.68}
+{"id": "khY3pjDzqLs-t497.68", "text": "And I'm just wondering, I'm always wondered, like, you know, how much one can extend the", "start": 497.68, "end": 505.52}
+{"id": "khY3pjDzqLs-t505.52", "text": "meaning of the word language across those two different uses?", "start": 505.52, "end": 510.96}
+{"id": "khY3pjDzqLs-t510.96", "text": "Well, in my small startup, we are actually, you don't really need to have to talk too", "start": 510.96, "end": 517.68}
+{"id": "khY3pjDzqLs-t517.68", "text": "much anymore.", "start": 517.68, "end": 519.56}
+{"id": "khY3pjDzqLs-t519.56", "text": "But this other level of looking at each other and sharing the code seems to be enough sometimes.", "start": 519.56, "end": 527.96}
+{"id": "khY3pjDzqLs-t527.96", "text": "So in that sense, the collective intelligence seems to get to a higher level, that's my", "start": 527.96, "end": 535.28}
+{"id": "khY3pjDzqLs-t535.28", "text": "perception.", "start": 535.28, "end": 537.12}
+{"id": "khY3pjDzqLs-t537.12", "text": "I think it could be possible to have a conversation in code.", "start": 537.12, "end": 541.2}
+{"id": "khY3pjDzqLs-t541.2", "text": "It would just be a different kind of conversation because you would presumably have, it's not", "start": 541.2, "end": 546.8}
+{"id": "khY3pjDzqLs-t546.8", "text": "like you have language as this sort of flow, but rather you have the production of something", "start": 546.8, "end": 552.5600000000001}
+{"id": "khY3pjDzqLs-t552.5600000000001", "text": "that is encoded, it's a little bit more entrenched, the coded object, and then you put the code", "start": 552.5600000000001, "end": 559.32}
+{"id": "khY3pjDzqLs-t559.32", "text": "object out there and then someone else looks at it and then they write their own, which", "start": 559.32, "end": 563.04}
+{"id": "khY3pjDzqLs-t563.04", "text": "actually sounds a little bit to me like a historical model of what literature is like as well,", "start": 563.04, "end": 567.56}
+{"id": "khY3pjDzqLs-t567.56", "text": "that there is an encoded object that gets placed out there and then it does take a while, it's", "start": 567.56, "end": 572.28}
+{"id": "khY3pjDzqLs-t572.28", "text": "not this.", "start": 572.28, "end": 573.68}
+{"id": "khY3pjDzqLs-t573.68", "text": "But it seems similar.", "start": 573.68, "end": 578.4}
+{"id": "khY3pjDzqLs-t578.4", "text": "I was thinking that the idea of a metaphiction where you will cite one work of literature", "start": 578.4, "end": 585.3199999999999}
+{"id": "khY3pjDzqLs-t585.3199999999999", "text": "within the body of a second of work of literature is you're sort of lifting it, appropriating", "start": 585.3199999999999, "end": 590.12}
+{"id": "khY3pjDzqLs-t590.12", "text": "it, commodifying it in some way, and I think that coding is just rich for that reason,", "start": 590.12, "end": 598.24}
+{"id": "khY3pjDzqLs-t598.24", "text": "whether or not it's rich in a good way or not is a different question, but that sort", "start": 598.24, "end": 601.76}
+{"id": "khY3pjDzqLs-t601.76", "text": "of, I'm calling you the fungibility of those codes and the sort of narratives that can", "start": 601.76, "end": 606.0}
+{"id": "khY3pjDzqLs-t606.0", "text": "be taken out here and put over there reminds me of a metaphiction.", "start": 606.0, "end": 610.76}
+{"id": "khY3pjDzqLs-t610.76", "text": "I'm a little worried with the transition from coding to language because coding is a language", "start": 610.76, "end": 622.92}
+{"id": "khY3pjDzqLs-t622.92", "text": "spoken only by people who know how to code, whereas language should be understandable", "start": 622.92, "end": 629.0}
+{"id": "khY3pjDzqLs-t629.0", "text": "by other people, otherwise you cannot communicate.", "start": 629.0, "end": 631.96}
+{"id": "khY3pjDzqLs-t631.96", "text": "If you write something in a computer language and you give it to the ordinary person, it's", "start": 631.96, "end": 636.0}
+{"id": "khY3pjDzqLs-t636.0", "text": "meaningless.", "start": 636.0, "end": 637.72}
+{"id": "khY3pjDzqLs-t637.72", "text": "So I say two entirely different concepts here and I don't see how they can get mixed.", "start": 637.72, "end": 648.6800000000001}
+{"id": "khY3pjDzqLs-t648.6800000000001", "text": "For something to be useful to society in literature, I think it has to have a language that's", "start": 648.6800000000001, "end": 655.76}
+{"id": "khY3pjDzqLs-t655.76", "text": "universally available and a language that is even translatable, say from English, to finish.", "start": 655.76, "end": 662.1600000000001}
+{"id": "khY3pjDzqLs-t662.1600000000001", "text": "But if you write something in Python, it cannot be translated into a minutes for a", "start": 662.1600000000001, "end": 667.64}
+{"id": "khY3pjDzqLs-t667.64", "text": "spoken language.", "start": 667.64, "end": 668.64}
+{"id": "khY3pjDzqLs-t668.64", "text": "That was my point.", "start": 668.64, "end": 669.64}
+{"id": "khY3pjDzqLs-t669.64", "text": "I have some of the similar reservations as you do in the codes around some of these questions", "start": 669.64, "end": 676.28}
+{"id": "khY3pjDzqLs-t676.28", "text": "about how applicable it is across communities and then also about how helpful it is for", "start": 676.28, "end": 684.84}
+{"id": "khY3pjDzqLs-t684.84", "text": "our understanding of human cultures, written and spoken and aesthetic artifacts to think", "start": 684.84, "end": 691.72}
+{"id": "khY3pjDzqLs-t691.72", "text": "of them in terms of the language of the sticking from computer science, which has a ton of", "start": 691.72, "end": 699.2}
+{"id": "khY3pjDzqLs-t699.2", "text": "money and cultural power behind it, but you might not have as much explanatory force behind", "start": 699.2, "end": 704.84}
+{"id": "khY3pjDzqLs-t704.84", "text": "it.", "start": 704.84, "end": 705.84}
+{"id": "khY3pjDzqLs-t705.84", "text": "I think part of what Unina was suggesting is maybe thinking about it the other way around,", "start": 705.84, "end": 708.96}
+{"id": "khY3pjDzqLs-t708.96", "text": "which is that there's something literary about the computer world, but that would make it", "start": 708.96, "end": 714.8000000000001}
+{"id": "khY3pjDzqLs-t714.8", "text": "that notion of language and narrative more parasitic on what we're doing here and also", "start": 714.8, "end": 722.0799999999999}
+{"id": "khY3pjDzqLs-t722.0799999999999", "text": "the way in which many other people live their lives and practice their communicative acts", "start": 722.0799999999999, "end": 731.68}
+{"id": "khY3pjDzqLs-t731.68", "text": "and also spend time with works of art, aesthetic practices and acts as well.", "start": 731.68, "end": 737.3599999999999}
+{"id": "khY3pjDzqLs-t737.36", "text": "You might have heard of TPT-3, which is the biggest AI system available, which basically", "start": 737.36, "end": 744.36}
+{"id": "khY3pjDzqLs-t744.36", "text": "allows you to describe in English what software is supposed to do.", "start": 744.36, "end": 748.16}
+{"id": "khY3pjDzqLs-t748.16", "text": "That means you can have your English story and then convert that into executable code,", "start": 748.16, "end": 755.5600000000001}
+{"id": "khY3pjDzqLs-t755.5600000000001", "text": "but what I have been thinking more recently about the singularity, which basically means", "start": 755.5600000000001, "end": 760.92}
+{"id": "khY3pjDzqLs-t760.92", "text": "AI taking over, that basically means that we would have to somehow communicate and the", "start": 760.92, "end": 769.12}
+{"id": "khY3pjDzqLs-t769.12", "text": "question then is who is in the driver sitting in the end?", "start": 769.12, "end": 776.0799999999999}
+{"id": "khY3pjDzqLs-t776.0799999999999", "text": "Is it intelligence?", "start": 776.0799999999999, "end": 777.0799999999999}
+{"id": "khY3pjDzqLs-t777.0799999999999", "text": "Yes, the person who can pull the plug is in the driver's seat.", "start": 777.0799999999999, "end": 781.04}
+{"id": "khY3pjDzqLs-t781.04", "text": "That's the only way we'll save us from catastrophe.", "start": 781.04, "end": 784.4799999999999}
+{"id": "khY3pjDzqLs-t784.48", "text": "There's something common between code.", "start": 784.48, "end": 791.08}
+{"id": "khY3pjDzqLs-t791.08", "text": "I think the idea that coding itself may be a form of literature is not something that", "start": 791.08, "end": 797.4}
+{"id": "khY3pjDzqLs-t797.4", "text": "reminds me that musical notation is also something that many people don't know how to read.", "start": 797.4, "end": 805.0}
+{"id": "khY3pjDzqLs-t805.0", "text": "Oh, sorry.", "start": 805.0, "end": 806.0}
+{"id": "khY3pjDzqLs-t806.0", "text": "Yeah.", "start": 806.0, "end": 807.0}
+{"id": "khY3pjDzqLs-t807.0", "text": "Sorry about that.", "start": 807.0, "end": 808.0}
+{"id": "khY3pjDzqLs-t808.0", "text": "Musical notation is something that most people don't know how to read, but it does create", "start": 808.0, "end": 810.32}
+{"id": "khY3pjDzqLs-t810.32", "text": "a sort of, some people refer to as a sort of universal language, its production, its", "start": 810.32, "end": 816.36}
+{"id": "khY3pjDzqLs-t816.36", "text": "execution creates a kind of language.", "start": 816.36, "end": 818.9200000000001}
+{"id": "khY3pjDzqLs-t818.9200000000001", "text": "I think that's the sort of level at which maybe coding might apply.", "start": 818.9200000000001, "end": 822.84}
+{"id": "khY3pjDzqLs-t822.84", "text": "And again, I guess I would contribute to this.", "start": 822.84, "end": 826.72}
+{"id": "khY3pjDzqLs-t826.72", "text": "One is that in reading code, right, in picking up a piece of code and having a look at it,", "start": 826.72, "end": 834.1600000000001}
+{"id": "khY3pjDzqLs-t834.1600000000001", "text": "and I know this is, well, anyway, there can be moments of beauty in it in the same way", "start": 834.1600000000001, "end": 838.96}
+{"id": "khY3pjDzqLs-t838.96", "text": "that there are moments of beauty in reading a mathematical proof or something like that,", "start": 838.96, "end": 843.08}
+{"id": "khY3pjDzqLs-t843.08", "text": "right, that there is an aesthetic sense that someone can look at it and go, wow, what you", "start": 843.08, "end": 847.6800000000001}
+{"id": "khY3pjDzqLs-t847.6800000000001", "text": "did here?", "start": 847.6800000000001, "end": 848.6800000000001}
+{"id": "khY3pjDzqLs-t848.6800000000001", "text": "Oh, look, that little trip, that's amazing, right?", "start": 848.6800000000001, "end": 851.2800000000001}
+{"id": "khY3pjDzqLs-t851.2800000000001", "text": "So there is an aesthetic sense that comes along with it.", "start": 851.2800000000001, "end": 854.64}
+{"id": "khY3pjDzqLs-t854.64", "text": "I think the second thing is that in my mind, the previous discussion was a little bit upside", "start": 854.64, "end": 859.6800000000001}
+{"id": "khY3pjDzqLs-t859.6800000000001", "text": "down.", "start": 859.6800000000001, "end": 860.6800000000001}
+{"id": "khY3pjDzqLs-t860.68", "text": "I think that coded systems are creating, organizing into systems of power in our world, and part", "start": 860.68, "end": 870.64}
+{"id": "khY3pjDzqLs-t870.64", "text": "of the reason why they've gotten away with, and that they are as powerful as they are,", "start": 870.64, "end": 875.28}
+{"id": "khY3pjDzqLs-t875.28", "text": "is that there is this gap between the language that we are using to communicate and code,", "start": 875.28, "end": 882.4399999999999}
+{"id": "khY3pjDzqLs-t882.4399999999999", "text": "right, the fact that people don't understand how computer works is a problem, right, the", "start": 882.4399999999999, "end": 886.92}
+{"id": "khY3pjDzqLs-t886.92", "text": "fact that they don't understand the basics of meaning a lot of reverb, and that makes", "start": 886.92, "end": 891.7199999999999}
+{"id": "khY3pjDzqLs-t891.7199999999999", "text": "me nervous, like I'm saying, something awful.", "start": 891.7199999999999, "end": 893.52}
+{"id": "khY3pjDzqLs-t893.52", "text": "But the fact that people don't understand, you know, the suggest then that it's difficult", "start": 893.52, "end": 903.64}
+{"id": "khY3pjDzqLs-t903.64", "text": "to be, let's say, a responsible citizen, right, in our contemporary political or cultural setting,", "start": 903.64, "end": 915.56}
+{"id": "khY3pjDzqLs-t915.56", "text": "because we need to understand the basics of how a computer works, I think, and something", "start": 915.56, "end": 922.0799999999999}
+{"id": "khY3pjDzqLs-t922.0799999999999", "text": "of how code works, right, so I think that not having that access to that language is", "start": 922.0799999999999, "end": 932.9599999999999}
+{"id": "khY3pjDzqLs-t932.9599999999999", "text": "leaving us open to a lot of difficulties that we've seen.", "start": 932.9599999999999, "end": 936.7199999999999}
+{"id": "khY3pjDzqLs-t936.7199999999999", "text": "That's an interesting proposition, Mark.", "start": 936.7199999999999, "end": 939.9599999999999}
+{"id": "khY3pjDzqLs-t939.9599999999999", "text": "I mean, one year's all the time that we need basic scientific literacy, and I agree with", "start": 939.9599999999999, "end": 943.68}
+{"id": "khY3pjDzqLs-t943.68", "text": "that just as an article of fate, but it's a problem, and we've seen all too clearly in", "start": 943.68, "end": 949.56}
+{"id": "khY3pjDzqLs-t949.56", "text": "the last couple years, that it's a huge problem that when citizens lack kind of fundamental", "start": 949.56, "end": 956.7199999999999}
+{"id": "khY3pjDzqLs-t956.7199999999999", "text": "scientific literacy about the nature of things like what's the interesting climate and whether,", "start": 956.7199999999999, "end": 962.88}
+{"id": "khY3pjDzqLs-t962.88", "text": "you know, how do the dens work, that sort of stuff.", "start": 962.88, "end": 966.52}
+{"id": "khY3pjDzqLs-t966.52", "text": "It seems, however, that like, how it is that code works and the computer works seems to", "start": 966.52, "end": 972.3199999999999}
+{"id": "khY3pjDzqLs-t972.32", "text": "be a different kind of thing in a way that, I don't know how a plane works, I get in the", "start": 972.32, "end": 976.5600000000001}
+{"id": "khY3pjDzqLs-t976.5600000000001", "text": "plane to fly, just flew, you know, across the country last week.", "start": 976.5600000000001, "end": 980.6400000000001}
+{"id": "khY3pjDzqLs-t980.6400000000001", "text": "I have my iPhone and my computer, I feel, are sort of analogous to that in a way.", "start": 980.6400000000001, "end": 986.24}
+{"id": "khY3pjDzqLs-t986.24", "text": "I'm curious in how the argument is that there is something sort of threatening to democracy", "start": 986.24, "end": 992.7600000000001}
+{"id": "khY3pjDzqLs-t992.7600000000001", "text": "or wrong about not having a citizen, not having a capacity for coding, because it doesn't", "start": 992.7600000000001, "end": 998.0}
+{"id": "khY3pjDzqLs-t998.0", "text": "seem to me to be intuitive in the same way that say there's a real problem when people", "start": 998.0, "end": 1002.68}
+{"id": "khY3pjDzqLs-t1002.68", "text": "don't have access to science or don't understand the way that science works.", "start": 1002.68, "end": 1007.44}
+{"id": "khY3pjDzqLs-t1007.44", "text": "I mean, I feel, first of all, there's an increase in which science itself is computational", "start": 1007.44, "end": 1016.84}
+{"id": "khY3pjDzqLs-t1016.84", "text": "and it is inheriting, this is driving me crazy, and it's inheriting, yeah, that's a", "start": 1016.84, "end": 1024.92}
+{"id": "khY3pjDzqLs-t1024.92", "text": "problem.", "start": 1024.92, "end": 1025.92}
+{"id": "khY3pjDzqLs-t1025.92", "text": "I think what I'm suggesting, and I don't think it's either earth shattering or new,", "start": 1025.92, "end": 1034.92}
+{"id": "khY3pjDzqLs-t1034.92", "text": "the founder of Python or the gentleman who created it has a very long essay talking, I", "start": 1034.92, "end": 1044.44}
+{"id": "khY3pjDzqLs-t1044.44", "text": "guess it was a darker proposal or something about creating a programming language and", "start": 1044.44, "end": 1051.8000000000002}
+{"id": "khY3pjDzqLs-t1051.8000000000002", "text": "the title of it was programming for everyone.", "start": 1051.8000000000002, "end": 1055.0800000000002}
+{"id": "khY3pjDzqLs-t1055.08", "text": "And the idea is simply that we teach everyone to read and write, even though we don't expect", "start": 1055.08, "end": 1062.1599999999999}
+{"id": "khY3pjDzqLs-t1062.1599999999999", "text": "them to become poets and writers, and by the same token we should teach everyone to code", "start": 1062.1599999999999, "end": 1068.9199999999998}
+{"id": "khY3pjDzqLs-t1068.9199999999998", "text": "to understand programming or the act of it, because otherwise we are significantly removed", "start": 1068.9199999999998, "end": 1075.08}
+{"id": "khY3pjDzqLs-t1075.08", "text": "from the technological systems that we rely on.", "start": 1075.08, "end": 1079.8}
+{"id": "khY3pjDzqLs-t1079.8", "text": "And I would say that saying that this is a shiny box that we interact with and I don't", "start": 1079.8, "end": 1085.48}
+{"id": "khY3pjDzqLs-t1085.48", "text": "really have to know how it works means that now I'm cut off from all the little things", "start": 1085.48, "end": 1090.08}
+{"id": "khY3pjDzqLs-t1090.08", "text": "that it could do in terms of surveillance and other things.", "start": 1090.08, "end": 1092.56}
+{"id": "khY3pjDzqLs-t1092.56", "text": "I don't have the capacity to ask questions about what this is doing.", "start": 1092.56, "end": 1096.2}
+{"id": "khY3pjDzqLs-t1096.2", "text": "And my capacity, the fact that I don't have capacity to ask questions means that there", "start": 1096.2, "end": 1100.48}
+{"id": "khY3pjDzqLs-t1100.48", "text": "are significant systems of power in our world that are just happily going along doing their", "start": 1100.48, "end": 1106.08}
+{"id": "khY3pjDzqLs-t1106.08", "text": "thing.", "start": 1106.08, "end": 1107.24}
+{"id": "khY3pjDzqLs-t1107.24", "text": "And with my position in journalism school, I feel like the one thing that I can offer", "start": 1107.24, "end": 1111.0}
+{"id": "khY3pjDzqLs-t1111.0", "text": "them is access to the way these systems start to work, the way power builds up in a technological", "start": 1111.0, "end": 1118.68}
+{"id": "khY3pjDzqLs-t1118.68", "text": "system and some of that can start with something as modest as learning how to code.", "start": 1118.68, "end": 1125.04}
+{"id": "khY3pjDzqLs-t1125.04", "text": "It says my opinion.", "start": 1125.04, "end": 1126.04}
+{"id": "khY3pjDzqLs-t1126.04", "text": "I totally agree with what you say in the sense that if computers or the phone were perfect", "start": 1126.04, "end": 1131.88}
+{"id": "khY3pjDzqLs-t1131.88", "text": "and there would be no bad people on the world, we wouldn't need to know how to code because", "start": 1131.88, "end": 1136.4}
+{"id": "khY3pjDzqLs-t1136.4", "text": "it would trust in everything would work but unfortunately there is peace and so on.", "start": 1136.4, "end": 1140.72}
+{"id": "khY3pjDzqLs-t1140.72", "text": "And...", "start": 1140.72, "end": 1141.72}
+{"id": "khY3pjDzqLs-t1141.72", "text": "Right, no, I get that.", "start": 1141.72, "end": 1143.3600000000001}
+{"id": "khY3pjDzqLs-t1143.3600000000001", "text": "I feel like I have the same suspicion about what my phone is doing and tracking and the", "start": 1143.3600000000001, "end": 1153.44}
+{"id": "khY3pjDzqLs-t1153.44", "text": "threats to democracy there and also just the general modification of everything that happens", "start": 1153.44, "end": 1159.8000000000002}
+{"id": "khY3pjDzqLs-t1159.8000000000002", "text": "there.", "start": 1159.8000000000002, "end": 1160.8000000000002}
+{"id": "khY3pjDzqLs-t1160.8000000000002", "text": "And yet I don't know the infrastructure of how it's encoded.", "start": 1160.8000000000002, "end": 1164.0}
+{"id": "khY3pjDzqLs-t1164.0", "text": "And I guess I'm wondering about the connection from the state is a bit far away from questions", "start": 1164.0, "end": 1169.4}
+{"id": "khY3pjDzqLs-t1169.4", "text": "of narrative perhaps but still seems important to pursue.", "start": 1169.4, "end": 1174.24}
+{"id": "khY3pjDzqLs-t1174.24", "text": "How we move from the one level of implementation to another and would in fact knowing something", "start": 1174.24, "end": 1181.44}
+{"id": "khY3pjDzqLs-t1181.44", "text": "about coding give me an additional capacity for resisting the ways in which my phone may", "start": 1181.44, "end": 1191.36}
+{"id": "khY3pjDzqLs-t1191.36", "text": "or may not be tracking what I'm doing and so forth.", "start": 1191.36, "end": 1198.32}
+{"id": "khY3pjDzqLs-t1198.32", "text": "I think you could bring that pretty easily back to literature.", "start": 1198.32, "end": 1201.28}
+{"id": "khY3pjDzqLs-t1201.28", "text": "Great.", "start": 1201.28, "end": 1202.28}
+{"id": "khY3pjDzqLs-t1202.28", "text": "Because I mean really what are we doing here?", "start": 1202.28, "end": 1204.12}
+{"id": "khY3pjDzqLs-t1204.12", "text": "We're asking in any object or in any phenomenon of human life what is encoded and why.", "start": 1204.12, "end": 1210.36}
+{"id": "khY3pjDzqLs-t1210.36", "text": "And in the phone there are some things that are encoded that allow us to use the phone", "start": 1210.36, "end": 1214.0}
+{"id": "khY3pjDzqLs-t1214.0", "text": "for our purposes but there are some things that are encoded in the phone that allow counter", "start": 1214.0, "end": 1217.9199999999998}
+{"id": "khY3pjDzqLs-t1217.92", "text": "purposes or silent surveillance type purposes but the same is true for a novel.", "start": 1217.92, "end": 1223.2}
+{"id": "khY3pjDzqLs-t1223.2", "text": "I mean there are certain things that are encoded that are for the purposes of enjoyment and", "start": 1223.2, "end": 1227.8000000000002}
+{"id": "khY3pjDzqLs-t1227.8000000000002", "text": "there are other things that are encoded ideologies for the purposes of something perhaps behind", "start": 1227.8000000000002, "end": 1232.96}
+{"id": "khY3pjDzqLs-t1232.96", "text": "the scenes.", "start": 1232.96, "end": 1234.04}
+{"id": "khY3pjDzqLs-t1234.04", "text": "And so I mean yes we teach people to read and to write but do we teach at them very well", "start": 1234.04, "end": 1239.48}
+{"id": "khY3pjDzqLs-t1239.48", "text": "to see the sort of broader context of power within what they are reading and writing.", "start": 1239.48, "end": 1246.04}
+{"id": "khY3pjDzqLs-t1246.04", "text": "Maybe that is something that they also need to know.", "start": 1246.04, "end": 1249.08}
+{"id": "khY3pjDzqLs-t1249.08", "text": "Oh for sure and thank you for putting it that way and you know that's really perfect because", "start": 1249.08, "end": 1252.2}
+{"id": "khY3pjDzqLs-t1252.2", "text": "like it extends Mark's initial point about questions of pedagogy.", "start": 1252.2, "end": 1258.08}
+{"id": "khY3pjDzqLs-t1258.08", "text": "And the importance of sustaining not just kind of basic level computational pedagogy", "start": 1258.08, "end": 1264.68}
+{"id": "khY3pjDzqLs-t1264.68", "text": "as well as teaching and sort of fundamentals of science but also humanistic pedagogy.", "start": 1264.68, "end": 1271.08}
+{"id": "khY3pjDzqLs-t1271.08", "text": "And what it means to understand our culture from a more traditional humanistic perspective", "start": 1271.08, "end": 1280.1999999999998}
+{"id": "khY3pjDzqLs-t1280.1999999999998", "text": "for these kinds of reasons.", "start": 1280.1999999999998, "end": 1282.32}
+{"id": "khY3pjDzqLs-t1282.32", "text": "May I disagree with all that has been said up until now I don't think the solution to", "start": 1282.32, "end": 1288.56}
+{"id": "khY3pjDzqLs-t1288.56", "text": "saving our civilization is for people to learn how to code and to actually be able to code", "start": 1288.56, "end": 1295.04}
+{"id": "khY3pjDzqLs-t1295.04", "text": "the cell phone.", "start": 1295.04, "end": 1297.08}
+{"id": "khY3pjDzqLs-t1297.08", "text": "Because I believe that that actually pushes them in the direction of being embraced by", "start": 1297.08, "end": 1301.8799999999999}
+{"id": "khY3pjDzqLs-t1301.8799999999999", "text": "technology while technology is subjugating the free spirit and taking people away from", "start": 1301.8799999999999, "end": 1309.6}
+{"id": "khY3pjDzqLs-t1309.6", "text": "reading literature so that literature has decreasing value because people are not reading.", "start": 1309.6, "end": 1316.52}
+{"id": "khY3pjDzqLs-t1316.52", "text": "People are looking at their cell phone all the time.", "start": 1316.52, "end": 1319.32}
+{"id": "khY3pjDzqLs-t1319.32", "text": "So pushing them to learn the code of the cell phone is not going to steer society away from", "start": 1319.32, "end": 1325.32}
+{"id": "khY3pjDzqLs-t1325.32", "text": "a total dependence and a total domination by the big tech companies that are taking over", "start": 1325.32, "end": 1331.0}
+{"id": "khY3pjDzqLs-t1331.0", "text": "their lives.", "start": 1331.0, "end": 1332.72}
+{"id": "khY3pjDzqLs-t1332.72", "text": "Taking them away from looking at art, listening to music and reading literature.", "start": 1332.72, "end": 1340.8799999999999}
+{"id": "khY3pjDzqLs-t1340.8799999999999", "text": "Today's literature or the classical literature.", "start": 1340.8799999999999, "end": 1343.76}
+{"id": "khY3pjDzqLs-t1343.76", "text": "It's all going, going, going, going.", "start": 1343.76, "end": 1345.76}
+{"id": "khY3pjDzqLs-t1345.76", "text": "So Nick was I then saying we should take away the self-part of everybody and not keep on", "start": 1345.76, "end": 1350.8799999999999}
+{"id": "khY3pjDzqLs-t1350.88", "text": "anymore and put some well-class literature on their own.", "start": 1350.88, "end": 1357.2800000000002}
+{"id": "khY3pjDzqLs-t1357.2800000000002", "text": "Well there's been an effort to, and I'm not so sure I think it will work.", "start": 1357.2800000000002, "end": 1361.96}
+{"id": "khY3pjDzqLs-t1361.96", "text": "So I don't want to say I'm advocating this, but there's a movement toward all right well", "start": 1361.96, "end": 1366.72}
+{"id": "khY3pjDzqLs-t1366.72", "text": "we're going to take coding and have it write for stories.", "start": 1366.72, "end": 1370.8000000000002}
+{"id": "khY3pjDzqLs-t1370.8000000000002", "text": "I'm not still in the future a little bit but one of our talks tomorrow on the general", "start": 1370.8000000000002, "end": 1375.7600000000002}
+{"id": "khY3pjDzqLs-t1375.7600000000002", "text": "GPT-4.", "start": 1375.7600000000002, "end": 1376.7600000000002}
+{"id": "khY3pjDzqLs-t1376.7600000000002", "text": "GPT-4 is the next GPT-4.", "start": 1376.7600000000002, "end": 1377.7600000000002}
+{"id": "khY3pjDzqLs-t1377.7600000000002", "text": "Yeah, GPT-4 is the next GPT-4.", "start": 1377.7600000000002, "end": 1378.7600000000002}
+{"id": "khY3pjDzqLs-t1378.7600000000002", "text": "Yeah, GPT-4 is the next GPT-4.", "start": 1378.7600000000002, "end": 1379.7600000000002}
+{"id": "khY3pjDzqLs-t1379.76", "text": "Yeah, we'll talk about that and the ability of a computer program to write a story, let's", "start": 1379.76, "end": 1385.84}
+{"id": "khY3pjDzqLs-t1385.84", "text": "say.", "start": 1385.84, "end": 1386.84}
+{"id": "khY3pjDzqLs-t1386.84", "text": "Now again I'm not advocating for it, but it's happening or it's being developed.", "start": 1386.84, "end": 1390.72}
+{"id": "khY3pjDzqLs-t1390.72", "text": "There's an interesting I think trope about that which is, and this I think speaks to your", "start": 1390.72, "end": 1396.52}
+{"id": "khY3pjDzqLs-t1396.52", "text": "criticism although it doesn't invalidate it at all.", "start": 1396.52, "end": 1400.32}
+{"id": "khY3pjDzqLs-t1400.32", "text": "Namely we find that a little creepy.", "start": 1400.32, "end": 1403.56}
+{"id": "khY3pjDzqLs-t1403.56", "text": "Like I'm reading a story but there's really like a text beneath that that's the real", "start": 1403.56, "end": 1409.44}
+{"id": "khY3pjDzqLs-t1409.44", "text": "story right?", "start": 1409.44, "end": 1411.28}
+{"id": "khY3pjDzqLs-t1411.28", "text": "And that's a, look that's in a lot of horror stories about the how 9,000 computer right?", "start": 1411.28, "end": 1418.08}
+{"id": "khY3pjDzqLs-t1418.08", "text": "But that's a great point.", "start": 1418.08, "end": 1419.08}
+{"id": "khY3pjDzqLs-t1419.08", "text": "Why do you find it's creepy because you don't know what's going on?", "start": 1419.08, "end": 1422.9199999999998}
+{"id": "khY3pjDzqLs-t1422.9199999999998", "text": "If you knew and that's the same as with why I don't want to get the vaccine because I", "start": 1422.9199999999998, "end": 1427.84}
+{"id": "khY3pjDzqLs-t1427.84", "text": "don't trust the vaccine that it's not messing up my body because I don't know what's going", "start": 1427.84, "end": 1431.56}
+{"id": "khY3pjDzqLs-t1431.56", "text": "on.", "start": 1431.56, "end": 1432.56}
+{"id": "khY3pjDzqLs-t1432.56", "text": "But then you are back to the argument.", "start": 1432.56, "end": 1434.36}
+{"id": "khY3pjDzqLs-t1434.36", "text": "If you know how to code perhaps you know what's going on and then you don't think it's creepy", "start": 1434.36, "end": 1438.24}
+{"id": "khY3pjDzqLs-t1438.24", "text": "if you get the phone.", "start": 1438.24, "end": 1439.24}
+{"id": "khY3pjDzqLs-t1439.24", "text": "So you can blame literature for what fostering this trope about the weakness of computer", "start": 1439.24, "end": 1444.44}
+{"id": "khY3pjDzqLs-t1444.44", "text": "projects.", "start": 1444.44, "end": 1445.44}
+{"id": "khY3pjDzqLs-t1445.44", "text": "We have to be ever heard of the, you know, in the world that you need an iron in without,", "start": 1445.44, "end": 1450.76}
+{"id": "khY3pjDzqLs-t1450.76", "text": "you know, agreeing with Nico's point, you know, just quite quickly which is, you know, people", "start": 1450.76, "end": 1456.6}
+{"id": "khY3pjDzqLs-t1456.6", "text": "should be reading works of literature and encountering works of art.", "start": 1456.6, "end": 1459.9199999999998}
+{"id": "khY3pjDzqLs-t1459.92", "text": "I think, I mean, I think that's so compatible entirely with more people knowing more about", "start": 1459.92, "end": 1465.24}
+{"id": "khY3pjDzqLs-t1465.24", "text": "how to code.", "start": 1465.24, "end": 1466.24}
+{"id": "khY3pjDzqLs-t1466.24", "text": "I mean, it's, which is just to say that people should know as much as they can about the", "start": 1466.24, "end": 1470.44}
+{"id": "khY3pjDzqLs-t1470.44", "text": "world.", "start": 1470.44, "end": 1472.16}
+{"id": "khY3pjDzqLs-t1472.16", "text": "And I think from the perspective of the humanities, we often feel like our sector of the world,", "start": 1472.16, "end": 1479.68}
+{"id": "khY3pjDzqLs-t1479.68", "text": "which is as real and as important as anything else, is just not drawing as much attention", "start": 1479.68, "end": 1485.0}
+{"id": "khY3pjDzqLs-t1485.0", "text": "and it doesn't have the same kind of purchase within the university or among the young or", "start": 1485.0, "end": 1494.56}
+{"id": "khY3pjDzqLs-t1494.56", "text": "getting, have as much support from higher educational establishment as it used to.", "start": 1494.56, "end": 1500.84}
+{"id": "khY3pjDzqLs-t1500.84", "text": "So it's, again, it's hard not to feel like these conversations are sometimes weighted", "start": 1500.84, "end": 1505.52}
+{"id": "khY3pjDzqLs-t1505.52", "text": "against a more sort of aesthetically oriented view of the world and the kind of capacities", "start": 1505.52, "end": 1514.0}
+{"id": "khY3pjDzqLs-t1514.0", "text": "for flourishing and democracy that they can bring.", "start": 1514.0, "end": 1520.72}
+{"id": "khY3pjDzqLs-t1520.72", "text": "And this speaks to the point that you just raised about, you know, the future of computers", "start": 1520.72, "end": 1526.44}
+{"id": "khY3pjDzqLs-t1526.44", "text": "writing works of literature, which, you know, is an interesting thing to contemplate.", "start": 1526.44, "end": 1530.6}
+{"id": "khY3pjDzqLs-t1530.6", "text": "I've read some of the earliest stuff there, just like I've seen some of the computer", "start": 1530.6, "end": 1534.4}
+{"id": "khY3pjDzqLs-t1534.4", "text": "art that's been generated in the visual domain and it's all interesting and provocative.", "start": 1534.4, "end": 1538.12}
+{"id": "khY3pjDzqLs-t1538.12", "text": "There's nothing wrong with it as such.", "start": 1538.12, "end": 1540.48}
+{"id": "khY3pjDzqLs-t1540.48", "text": "What can be sometimes troubling about it is when it's bundled together into a kind of", "start": 1540.48, "end": 1547.3600000000001}
+{"id": "khY3pjDzqLs-t1547.3600000000001", "text": "reform picture or, say, higher education in a democratic society in which it is, you", "start": 1547.3600000000001, "end": 1554.32}
+{"id": "khY3pjDzqLs-t1554.32", "text": "know, deemed to be like the future.", "start": 1554.32, "end": 1557.88}
+{"id": "khY3pjDzqLs-t1557.88", "text": "And then it just becomes, you know, to me at least, and I think, you know, for reasons", "start": 1557.88, "end": 1562.68}
+{"id": "khY3pjDzqLs-t1562.68", "text": "that are real and just kind of ugly.", "start": 1562.68, "end": 1565.2}
+{"id": "khY3pjDzqLs-t1565.2", "text": "Not ugly as such.", "start": 1565.2, "end": 1566.2}
+{"id": "khY3pjDzqLs-t1566.2", "text": "There's nothing wrong with computers writing stories.", "start": 1566.2, "end": 1567.88}
+{"id": "khY3pjDzqLs-t1567.88", "text": "That's, again, interesting.", "start": 1567.88, "end": 1569.88}
+{"id": "khY3pjDzqLs-t1569.88", "text": "Ugly in some of the directions that that's pushed and some of the kind of like wide-eyed,", "start": 1569.88, "end": 1576.2}
+{"id": "khY3pjDzqLs-t1576.2", "text": "sort of like belated, alvin, pufflerism that it's sort of, you know, made to serve.", "start": 1576.2, "end": 1581.8000000000002}
+{"id": "khY3pjDzqLs-t1581.8000000000002", "text": "Like the future is here.", "start": 1581.8000000000002, "end": 1583.0400000000002}
+{"id": "khY3pjDzqLs-t1583.0400000000002", "text": "It looks like computers writing stories.", "start": 1583.0400000000002, "end": 1585.4}
+{"id": "khY3pjDzqLs-t1585.4", "text": "We need to put all of our money there and we need to basically just, you know, starve", "start": 1585.4, "end": 1589.2800000000002}
+{"id": "khY3pjDzqLs-t1589.2800000000002", "text": "the people who want to just sit around a table like this and talk about a book.", "start": 1589.2800000000002, "end": 1594.44}
+{"id": "khY3pjDzqLs-t1594.44", "text": "And that way lies, I think, you know, kind of disaster.", "start": 1594.44, "end": 1599.4}
+{"id": "khY3pjDzqLs-t1599.4", "text": "So obviously the sort of the idea that we teach people to code is not just, all right,", "start": 1599.4, "end": 1608.8400000000001}
+{"id": "khY3pjDzqLs-t1608.8400000000001", "text": "and we'll teach them basic and we'll hear as a variable and we'll assign it the number", "start": 1608.8400000000001, "end": 1613.1200000000001}
+{"id": "khY3pjDzqLs-t1613.1200000000001", "text": "five and we can add two to it and then we can do it.", "start": 1613.1200000000001, "end": 1616.2800000000002}
+{"id": "khY3pjDzqLs-t1616.2800000000002", "text": "Like, that's when I describe or when I think about or when in my classes we talk about", "start": 1616.2800000000002, "end": 1622.76}
+{"id": "khY3pjDzqLs-t1622.76", "text": "how computation works.", "start": 1622.76, "end": 1625.3200000000002}
+{"id": "khY3pjDzqLs-t1625.32", "text": "You know, there's a well-defined notion of what we're looking at or at least what I've", "start": 1625.32, "end": 1631.6799999999998}
+{"id": "khY3pjDzqLs-t1631.6799999999998", "text": "tried to put across in terms of computational literacy, right?", "start": 1631.6799999999998, "end": 1637.32}
+{"id": "khY3pjDzqLs-t1637.32", "text": "The step one is that coding step, like the functional literacy, how does it work?", "start": 1637.32, "end": 1643.08}
+{"id": "khY3pjDzqLs-t1643.08", "text": "Then there's a critical literacy, right?", "start": 1643.08, "end": 1645.72}
+{"id": "khY3pjDzqLs-t1645.72", "text": "The idea that you have enough capacity to say why does this look the way it does, right?", "start": 1645.72, "end": 1653.6799999999998}
+{"id": "khY3pjDzqLs-t1653.68", "text": "I mean, technology relentlessly tries to make itself look invisible, right?", "start": 1653.68, "end": 1658.0}
+{"id": "khY3pjDzqLs-t1658.0", "text": "So it's not there and so we want to have the capacity to say there's something here and", "start": 1658.0, "end": 1663.8400000000001}
+{"id": "khY3pjDzqLs-t1663.8400000000001", "text": "why does it look that way?", "start": 1663.8400000000001, "end": 1664.8400000000001}
+{"id": "khY3pjDzqLs-t1664.8400000000001", "text": "Could it look some other way?", "start": 1664.8400000000001, "end": 1666.44}
+{"id": "khY3pjDzqLs-t1666.44", "text": "So there's functional literacy, there is critical literacy and then a rhetorical literacy,", "start": 1666.44, "end": 1672.0800000000002}
+{"id": "khY3pjDzqLs-t1672.0800000000002", "text": "right?", "start": 1672.0800000000002, "end": 1673.0800000000002}
+{"id": "khY3pjDzqLs-t1673.0800000000002", "text": "Which is that all of these things are, there is no, you know, optimal iPhone, right?", "start": 1673.0800000000002, "end": 1678.0}
+{"id": "khY3pjDzqLs-t1678.0", "text": "It's a thing and it comes from human deliberation and it's a settling in some way.", "start": 1678.0, "end": 1683.64}
+{"id": "khY3pjDzqLs-t1683.64", "text": "And it itself gives off and kind of has a rhetorical function, right?", "start": 1683.64, "end": 1688.0400000000002}
+{"id": "khY3pjDzqLs-t1688.0400000000002", "text": "Again, it makes us feel modern, it makes us feel connected or something like that.", "start": 1688.0400000000002, "end": 1691.88}
+{"id": "khY3pjDzqLs-t1691.88", "text": "So you can deepen all of these concepts and they depend in many ways on sort of humanity-style", "start": 1691.88, "end": 1703.16}
+{"id": "khY3pjDzqLs-t1703.16", "text": "interpretation, right?", "start": 1703.16, "end": 1704.72}
+{"id": "khY3pjDzqLs-t1704.72", "text": "I bring in to my class people like Joanna Drucker or something who, you know, makes the", "start": 1704.72, "end": 1709.4}
+{"id": "khY3pjDzqLs-t1709.4", "text": "point about data versus capta, what is given versus what is taken, right?", "start": 1709.4, "end": 1714.5600000000002}
+{"id": "khY3pjDzqLs-t1714.5600000000002", "text": "Like, like, that these things make the teaching of code, right?", "start": 1714.5600000000002, "end": 1719.8400000000001}
+{"id": "khY3pjDzqLs-t1719.8400000000001", "text": "A richer, fuller experience so that people do come away or presumably students do come", "start": 1719.8400000000001, "end": 1727.2}
+{"id": "khY3pjDzqLs-t1727.2", "text": "away better understanding the systems of power that circulate around technologies in one", "start": 1727.2, "end": 1733.8000000000002}
+{"id": "khY3pjDzqLs-t1733.8000000000002", "text": "form or other.", "start": 1733.8000000000002, "end": 1734.8000000000002}
+{"id": "khY3pjDzqLs-t1734.8000000000002", "text": "And for someone in a journalism school, that's important because journalists are the experts", "start": 1734.8000000000002, "end": 1739.3600000000001}
+{"id": "khY3pjDzqLs-t1739.36", "text": "and explainers of last resort in our society and if they can't call shenanigans on something", "start": 1739.36, "end": 1743.24}
+{"id": "khY3pjDzqLs-t1743.24", "text": "that's happening, then I don't know who's going to do it.", "start": 1743.24, "end": 1746.0}
+{"id": "khY3pjDzqLs-t1746.0", "text": "Yeah, I'm afraid journalists have been singularly unsuccessful in alerting the world to all", "start": 1746.0, "end": 1753.28}
+{"id": "khY3pjDzqLs-t1753.28", "text": "the bad things and the manipulations that are occurring by-", "start": 1753.28, "end": 1756.6}
+{"id": "khY3pjDzqLs-t1756.6", "text": "I would say it's extremely-", "start": 1756.6, "end": 1758.36}
+{"id": "khY3pjDzqLs-t1758.36", "text": "The next extreme-", "start": 1758.36, "end": 1759.36}
+{"id": "khY3pjDzqLs-t1759.36", "text": "The next extreme-", "start": 1759.36, "end": 1760.36}
+{"id": "khY3pjDzqLs-t1760.36", "text": "The harsh, harsh comment.", "start": 1760.36, "end": 1762.36}
+{"id": "khY3pjDzqLs-t1762.36", "text": "And extreme, yeah, sure.", "start": 1762.36, "end": 1765.36}
+{"id": "khY3pjDzqLs-t1765.36", "text": "Yeah, okay, I said.", "start": 1765.36, "end": 1767.36}
+{"id": "khY3pjDzqLs-t1767.36", "text": "I want to answer to the challenge that Peter threw at me as in response to my early comment,", "start": 1767.36, "end": 1777.12}
+{"id": "khY3pjDzqLs-t1777.12", "text": "Peter, you said that therefore we should make people appreciate literature and art better,", "start": 1777.12, "end": 1786.1999999999998}
+{"id": "khY3pjDzqLs-t1786.1999999999998", "text": "but nobody can make anybody do anything.", "start": 1786.1999999999998, "end": 1789.1999999999998}
+{"id": "khY3pjDzqLs-t1789.1999999999998", "text": "The only way you can make someone do something is by tricking them into thinking that they're", "start": 1789.1999999999998, "end": 1794.04}
+{"id": "khY3pjDzqLs-t1794.04", "text": "getting an advantage by doing something.", "start": 1794.04, "end": 1796.1599999999999}
+{"id": "khY3pjDzqLs-t1796.16", "text": "So all the technologies that we have has tricked us by offering some utility for our", "start": 1796.16, "end": 1802.0800000000002}
+{"id": "khY3pjDzqLs-t1802.0800000000002", "text": "lives.", "start": 1802.0800000000002, "end": 1803.0800000000002}
+{"id": "khY3pjDzqLs-t1803.0800000000002", "text": "That's why we have adopted it.", "start": 1803.0800000000002, "end": 1804.0800000000002}
+{"id": "khY3pjDzqLs-t1804.0800000000002", "text": "So becoming slaves to the technology was a step-by-step process because it gave us the", "start": 1804.0800000000002, "end": 1811.64}
+{"id": "khY3pjDzqLs-t1811.64", "text": "power, increased power, and we felt that.", "start": 1811.64, "end": 1815.0800000000002}
+{"id": "khY3pjDzqLs-t1815.0800000000002", "text": "So the only way to get someone to study literature today is to make it advantageous in an evolutionary", "start": 1815.0800000000002, "end": 1824.16}
+{"id": "khY3pjDzqLs-t1824.16", "text": "sense.", "start": 1824.16, "end": 1825.68}
+{"id": "khY3pjDzqLs-t1825.68", "text": "If you do this, then you get an advantage, a evolutionary advantage.", "start": 1825.68, "end": 1830.1200000000001}
+{"id": "khY3pjDzqLs-t1830.1200000000001", "text": "And not by the academic.", "start": 1830.1200000000001, "end": 1833.44}
+{"id": "khY3pjDzqLs-t1833.44", "text": "You have to take this course because it's required.", "start": 1833.44, "end": 1836.72}
+{"id": "khY3pjDzqLs-t1836.72", "text": "Yes, but I mean, thank you very much for throwing the ball back to me.", "start": 1836.72, "end": 1841.16}
+{"id": "khY3pjDzqLs-t1841.16", "text": "But I think you are neglecting one point and that's beauty because what you raise is", "start": 1841.16, "end": 1847.16}
+{"id": "khY3pjDzqLs-t1847.16", "text": "a very cynical utilitarian view and that's unfortunately the main motivation, particularly", "start": 1847.16, "end": 1853.0}
+{"id": "khY3pjDzqLs-t1853.0", "text": "in capitalist societies.", "start": 1853.0, "end": 1854.8400000000001}
+{"id": "khY3pjDzqLs-t1854.84", "text": "Then there's this other aspect that I think it has been raised and if you look at pieces", "start": 1854.84, "end": 1858.32}
+{"id": "khY3pjDzqLs-t1858.32", "text": "of world art, and I'm not sure whether a computer will actually ever get there because", "start": 1858.32, "end": 1863.56}
+{"id": "khY3pjDzqLs-t1863.56", "text": "TPT-3, it can write something that sounds like a reporter or a lot of string and so on.", "start": 1863.56, "end": 1869.08}
+{"id": "khY3pjDzqLs-t1869.08", "text": "But it will never be, or even if you go to some higher level literature on the same level.", "start": 1869.08, "end": 1877.0}
+{"id": "khY3pjDzqLs-t1877.0", "text": "On to now.", "start": 1877.0, "end": 1878.0}
+{"id": "khY3pjDzqLs-t1878.0", "text": "Perhaps it will come at one point, but I'm not sure.", "start": 1878.0, "end": 1880.6799999999998}
+{"id": "khY3pjDzqLs-t1880.68", "text": "Well, is there something that you could say or can we itemize a number of things that", "start": 1880.68, "end": 1885.5600000000002}
+{"id": "khY3pjDzqLs-t1885.5600000000002", "text": "we believe really distinguishes literature from anything that might be available through", "start": 1885.5600000000002, "end": 1892.88}
+{"id": "khY3pjDzqLs-t1892.88", "text": "coding?", "start": 1892.88, "end": 1893.88}
+{"id": "khY3pjDzqLs-t1893.88", "text": "Yes.", "start": 1893.88, "end": 1894.88}
+{"id": "khY3pjDzqLs-t1894.88", "text": "Is there a way to itemize that?", "start": 1894.88, "end": 1897.0800000000002}
+{"id": "khY3pjDzqLs-t1897.0800000000002", "text": "I mean, I was about to pick up on that.", "start": 1897.0800000000002, "end": 1900.0800000000002}
+{"id": "khY3pjDzqLs-t1900.0800000000002", "text": "I wanted to respond to Peter's comment about we don't understand how it works and therefore", "start": 1900.0800000000002, "end": 1904.4}
+{"id": "khY3pjDzqLs-t1904.4", "text": "we're afraid because I actually think that frequently I don't know how a piece of literature", "start": 1904.4, "end": 1909.52}
+{"id": "khY3pjDzqLs-t1909.52", "text": "works, but that is the cause for wonder and delight rather than fear.", "start": 1909.52, "end": 1913.56}
+{"id": "khY3pjDzqLs-t1913.56", "text": "And that is because I think the distinguishing fact of a piece of literature from something", "start": 1913.56, "end": 1918.0}
+{"id": "khY3pjDzqLs-t1918.0", "text": "that might be encoded for utilitarian purposes is that it's okay for something like literature", "start": 1918.0, "end": 1924.96}
+{"id": "khY3pjDzqLs-t1924.96", "text": "to give us something we understand, something that exceeds us and something that is so saturated", "start": 1924.96, "end": 1929.56}
+{"id": "khY3pjDzqLs-t1929.56", "text": "with meaning that it can't be reduced to a single, perposive goal.", "start": 1929.56, "end": 1935.48}
+{"id": "khY3pjDzqLs-t1935.48", "text": "And that this kind of brings us back to a point that was coming up in earlier conversations,", "start": 1935.48, "end": 1939.04}
+{"id": "khY3pjDzqLs-t1939.04", "text": "the question of trust because the unique compact, I think rhetorically between reader and author", "start": 1939.04, "end": 1944.92}
+{"id": "khY3pjDzqLs-t1944.92", "text": "is ideally one of trust whereby the question of trust is a very different issue when we", "start": 1944.92, "end": 1949.6399999999999}
+{"id": "khY3pjDzqLs-t1949.6399999999999", "text": "look at code because we know that the person who is encoding something has perhaps more", "start": 1949.6399999999999, "end": 1954.92}
+{"id": "khY3pjDzqLs-t1954.92", "text": "defined purposes than the literary author.", "start": 1954.92, "end": 1957.84}
+{"id": "khY3pjDzqLs-t1957.84", "text": "But just to disagree about one thing for myself, Finnegan's Wake scares the daylights", "start": 1957.84, "end": 1963.76}
+{"id": "khY3pjDzqLs-t1963.76", "text": "out of him.", "start": 1963.76, "end": 1964.76}
+{"id": "khY3pjDzqLs-t1964.76", "text": "That's because it shows you something about yourself you don't want to admit.", "start": 1964.76, "end": 1968.6399999999999}
+{"id": "khY3pjDzqLs-t1968.64", "text": "It's a great thing.", "start": 1968.64, "end": 1969.64}
+{"id": "khY3pjDzqLs-t1969.64", "text": "This is a rather pedestrian response, but for many people that I know, especially younger", "start": 1969.64, "end": 1975.64}
+{"id": "khY3pjDzqLs-t1975.64", "text": "people, and people who have leading disorders for instance, the phone is their lifeline", "start": 1975.64, "end": 1983.4}
+{"id": "khY3pjDzqLs-t1983.4", "text": "to literature because they're listening to books on tape, they're listening to audio", "start": 1983.4, "end": 1988.4}
+{"id": "khY3pjDzqLs-t1988.4", "text": "books.", "start": 1988.4, "end": 1989.92}
+{"id": "khY3pjDzqLs-t1989.92", "text": "And for someone who's been dyslexic all their lives, it's like a whole world opens up to", "start": 1989.92, "end": 1995.24}
+{"id": "khY3pjDzqLs-t1995.24", "text": "them.", "start": 1995.24, "end": 1996.24}
+{"id": "khY3pjDzqLs-t1996.24", "text": "And for many people who are very busy, I'm in the world of literature all the time.", "start": 1996.24, "end": 2001.36}
+{"id": "khY3pjDzqLs-t2001.36", "text": "If I'm walking in Central Park, I'm listening to a novel.", "start": 2001.36, "end": 2006.0}
+{"id": "khY3pjDzqLs-t2006.0", "text": "It's the only time I have to go into fiction rather than professional books.", "start": 2006.0, "end": 2010.48}
+{"id": "khY3pjDzqLs-t2010.48", "text": "And that's through this little device.", "start": 2010.48, "end": 2014.52}
+{"id": "khY3pjDzqLs-t2014.52", "text": "And among the young who spend most of their time on social media, there's a lot of feedback", "start": 2014.52, "end": 2023.4}
+{"id": "khY3pjDzqLs-t2023.4", "text": "between online activity and staring at your phone and then also reading, which is a lot", "start": 2023.4, "end": 2028.0}
+{"id": "khY3pjDzqLs-t2028.0", "text": "of active book talk on TikTok, for example, which is all about the analog object.", "start": 2028.0, "end": 2033.8400000000001}
+{"id": "khY3pjDzqLs-t2033.8400000000001", "text": "It's not about the small shiny thing.", "start": 2033.8400000000001, "end": 2035.8400000000001}
+{"id": "khY3pjDzqLs-t2035.8400000000001", "text": "And in fact features usually have the aesthetics of books, what they look like, how they feel", "start": 2035.8400000000001, "end": 2043.6000000000001}
+{"id": "khY3pjDzqLs-t2043.6000000000001", "text": "in your hands.", "start": 2043.6000000000001, "end": 2044.6000000000001}
+{"id": "khY3pjDzqLs-t2044.6000000000001", "text": "And they'll show it, I've been reading this, etc.", "start": 2044.6000000000001, "end": 2048.12}
+{"id": "khY3pjDzqLs-t2048.12", "text": "So in fact, it's not just a dichotomous phenomena.", "start": 2048.12, "end": 2054.92}
+{"id": "khY3pjDzqLs-t2054.92", "text": "It's the digital world and the handheld world and the social media world has created a renewed", "start": 2054.92, "end": 2061.96}
+{"id": "khY3pjDzqLs-t2061.96", "text": "interest in literary artifacts and objects as it has and painted and sculpted ones as", "start": 2061.96, "end": 2067.4}
+{"id": "khY3pjDzqLs-t2067.4", "text": "well.", "start": 2067.4, "end": 2068.4}
+{"id": "khY3pjDzqLs-t2068.4", "text": "Things that exist, however, off your phone, not that you're listening to as you're walking", "start": 2068.4, "end": 2071.24}
+{"id": "khY3pjDzqLs-t2071.24", "text": "through Central Park, but as you're also just sitting and holding your hand as reading.", "start": 2071.24, "end": 2076.44}
+{"id": "khY3pjDzqLs-t2076.44", "text": "And I think that's, first of all, terrific.", "start": 2076.44, "end": 2079.2400000000002}
+{"id": "khY3pjDzqLs-t2079.2400000000002", "text": "I think it's an interesting cultural phenomenon in its own right.", "start": 2079.2400000000002, "end": 2082.6}
+{"id": "khY3pjDzqLs-t2082.6", "text": "But I also think it shows the viability and the prudence of the aesthetic domain as something", "start": 2082.6, "end": 2090.36}
+{"id": "khY3pjDzqLs-t2090.36", "text": "that has both a purchase on an appeal to humanity across the board, but also is worth cultivating", "start": 2090.36, "end": 2098.88}
+{"id": "khY3pjDzqLs-t2098.88", "text": "and spending time with and supporting ultimately.", "start": 2098.88, "end": 2101.96}
+{"id": "khY3pjDzqLs-t2101.96", "text": "You've got to listen to something and then I will go by the book.", "start": 2101.96, "end": 2106.4}
+{"id": "khY3pjDzqLs-t2106.4", "text": "And what I mostly was converted by was Finnegan's Wake.", "start": 2106.4, "end": 2112.04}
+{"id": "khY3pjDzqLs-t2112.04", "text": "Listening to Finnegan's Wake is a true adventure.", "start": 2112.04, "end": 2115.12}
+{"id": "khY3pjDzqLs-t2115.12", "text": "Well, I should definitely see all of that.", "start": 2115.12, "end": 2118.48}
+{"id": "khY3pjDzqLs-t2118.48", "text": "I want to return to you in his response because even though I made fun of the Finnegan's Wake", "start": 2118.48, "end": 2122.92}
+{"id": "khY3pjDzqLs-t2122.92", "text": "and fear, I like the idea that you mentioned trust.", "start": 2122.92, "end": 2126.16}
+{"id": "khY3pjDzqLs-t2126.16", "text": "I think that it's interesting that when I ask the question, all right, well, can we start", "start": 2126.16, "end": 2130.56}
+{"id": "khY3pjDzqLs-t2130.56", "text": "itemized differences between coding generated?", "start": 2130.56, "end": 2135.56}
+{"id": "khY3pjDzqLs-t2135.56", "text": "Art, not even just literature and literature.", "start": 2135.56, "end": 2140.68}
+{"id": "khY3pjDzqLs-t2140.68", "text": "You said something about trust, which I think is a wonderful sort of, it's an emotion.", "start": 2140.68, "end": 2145.04}
+{"id": "khY3pjDzqLs-t2145.04", "text": "It's an emotion.", "start": 2145.04, "end": 2146.04}
+{"id": "khY3pjDzqLs-t2146.04", "text": "You're expressing an emotional thought.", "start": 2146.04, "end": 2147.6}
+{"id": "khY3pjDzqLs-t2147.6", "text": "So far everyone else has made instrumental arguments about it.", "start": 2147.6, "end": 2151.4}
+{"id": "khY3pjDzqLs-t2151.4", "text": "As a psychiatrist, I like hearing, okay, so what about how are you feeling about this", "start": 2151.4, "end": 2155.4}
+{"id": "khY3pjDzqLs-t2155.4", "text": "and where does the feeling that is evoked by art, is that matchable?", "start": 2155.4, "end": 2161.52}
+{"id": "khY3pjDzqLs-t2161.52", "text": "Can we match that?", "start": 2161.52, "end": 2162.52}
+{"id": "khY3pjDzqLs-t2162.52", "text": "Because I think you're right.", "start": 2162.52, "end": 2163.52}
+{"id": "khY3pjDzqLs-t2163.52", "text": "You might be honest, something trust, it would be hard to earn it out of a machine.", "start": 2163.52, "end": 2170.04}
+{"id": "khY3pjDzqLs-t2170.04", "text": "So perhaps how does it bother an art drive?", "start": 2170.04, "end": 2174.7200000000003}
+{"id": "khY3pjDzqLs-t2174.7200000000003", "text": "Because if you look at Lord of the Ring, the original one, it was huge success.", "start": 2174.7200000000003, "end": 2180.52}
+{"id": "khY3pjDzqLs-t2180.52", "text": "And that sequel that Disney has been producing, the reception was horrible, because they were", "start": 2180.52, "end": 2185.8}
+{"id": "khY3pjDzqLs-t2185.8", "text": "just applying all the formalized things, so that means they didn't get the trust.", "start": 2185.8, "end": 2190.92}
+{"id": "khY3pjDzqLs-t2190.92", "text": "Is that what you would say?", "start": 2190.92, "end": 2193.4}
+{"id": "khY3pjDzqLs-t2193.4", "text": "Do you mean the movie adaptation?", "start": 2193.4, "end": 2194.4}
+{"id": "khY3pjDzqLs-t2194.4", "text": "Yes, exactly.", "start": 2194.4, "end": 2195.4}
+{"id": "khY3pjDzqLs-t2195.4", "text": "Oh, I see.", "start": 2195.4, "end": 2196.4}
+{"id": "khY3pjDzqLs-t2196.4", "text": "So the movie adaptations to the sequels failed to earn trust because they were too formalized", "start": 2196.4, "end": 2200.68}
+{"id": "khY3pjDzqLs-t2200.68", "text": "according to the cinematic industry.", "start": 2200.68, "end": 2204.32}
+{"id": "khY3pjDzqLs-t2204.32", "text": "Yes, they were too robotic.", "start": 2204.32, "end": 2206.32}
+{"id": "khY3pjDzqLs-t2206.32", "text": "They were too robotic.", "start": 2206.32, "end": 2207.32}
+{"id": "khY3pjDzqLs-t2207.32", "text": "But they were just applying some formulas.", "start": 2207.32, "end": 2211.7200000000003}
+{"id": "khY3pjDzqLs-t2211.7200000000003", "text": "And so that seems to me an example of what you said, but I'm not an expert in answer", "start": 2211.7200000000003, "end": 2219.1200000000003}
+{"id": "khY3pjDzqLs-t2219.1200000000003", "text": "you.", "start": 2219.1200000000003, "end": 2220.1200000000003}
+{"id": "khY3pjDzqLs-t2220.1200000000003", "text": "I would say that probably sounds right, because viewers of media are pretty savvy to tropes.", "start": 2220.1200000000003, "end": 2225.96}
+{"id": "khY3pjDzqLs-t2225.96", "text": "And yeah, I remember seeing the Lord of the Rings the second movie, and it's just trope", "start": 2225.96, "end": 2230.52}
+{"id": "khY3pjDzqLs-t2230.52", "text": "after trope kind of piled on each other, which feels like it falls short of the kind of meaning", "start": 2230.52, "end": 2236.1600000000003}
+{"id": "khY3pjDzqLs-t2236.16", "text": "saturation that I want from a single other human being.", "start": 2236.16, "end": 2241.16}
+{"id": "khY3pjDzqLs-t2241.16", "text": "I don't know if that answers your question.", "start": 2241.16, "end": 2245.3199999999997}
+{"id": "khY3pjDzqLs-t2245.3199999999997", "text": "The good question also was initially, like, would, can we imagine a novel written entirely", "start": 2245.3199999999997, "end": 2254.08}
+{"id": "khY3pjDzqLs-t2254.08", "text": "by a computer as appealing as a novel written by a human being?", "start": 2254.08, "end": 2259.2}
+{"id": "khY3pjDzqLs-t2259.2", "text": "I think if you assume time and exponentially increasing computer power, I have no difficulty", "start": 2259.2, "end": 2267.9199999999996}
+{"id": "khY3pjDzqLs-t2267.9199999999996", "text": "really imagining that.", "start": 2267.9199999999996, "end": 2271.12}
+{"id": "khY3pjDzqLs-t2271.12", "text": "And no strong feelings either way.", "start": 2271.12, "end": 2272.96}
+{"id": "khY3pjDzqLs-t2272.96", "text": "Well, okay, well then, why would it be difficult for, let's say, it would be a challenge.", "start": 2272.96, "end": 2278.7599999999998}
+{"id": "khY3pjDzqLs-t2278.7599999999998", "text": "What are they surmounting to meet that challenge, right?", "start": 2278.7599999999998, "end": 2282.08}
+{"id": "khY3pjDzqLs-t2282.08", "text": "There's something, anything that requires human intelligence to create.", "start": 2282.08, "end": 2286.8799999999997}
+{"id": "khY3pjDzqLs-t2286.88", "text": "And what's difficult about that, I think it's probably Peter's domain, or maybe Mark", "start": 2286.88, "end": 2292.04}
+{"id": "khY3pjDzqLs-t2292.04", "text": "more than mine.", "start": 2292.04, "end": 2294.08}
+{"id": "khY3pjDzqLs-t2294.08", "text": "But I think it's, you know, it would be an analogous problem to anything that requires,", "start": 2294.08, "end": 2302.08}
+{"id": "khY3pjDzqLs-t2302.08", "text": "again, human intelligence to do, whether or not that's write a novel or drive a car or", "start": 2302.08, "end": 2306.92}
+{"id": "khY3pjDzqLs-t2306.92", "text": "make scrambled eggs for you in the morning.", "start": 2306.92, "end": 2310.2400000000002}
+{"id": "khY3pjDzqLs-t2310.2400000000002", "text": "All of which have been really hard things to do.", "start": 2310.2400000000002, "end": 2313.56}
+{"id": "khY3pjDzqLs-t2313.56", "text": "I mean, it seems to me the most powerful advances in artificial intelligence, as far as I know,", "start": 2313.56, "end": 2321.04}
+{"id": "khY3pjDzqLs-t2321.04", "text": "and that's very little, have been in, you know, kind of narrow but deep domains.", "start": 2321.04, "end": 2327.08}
+{"id": "khY3pjDzqLs-t2327.08", "text": "A chance.", "start": 2327.08, "end": 2328.72}
+{"id": "khY3pjDzqLs-t2328.72", "text": "A chance, for example, sort of power, but radically so, I suppose.", "start": 2328.72, "end": 2333.7999999999997}
+{"id": "khY3pjDzqLs-t2333.7999999999997", "text": "Anything that involves, like, as many factors as, you know, would go into writing an novel", "start": 2333.7999999999997, "end": 2340.36}
+{"id": "khY3pjDzqLs-t2340.36", "text": "or again, you know, making you scrambled eggs in the morning, is going to be much harder", "start": 2340.36, "end": 2346.52}
+{"id": "khY3pjDzqLs-t2346.52", "text": "to do but not inconceivable.", "start": 2346.52, "end": 2348.52}
+{"id": "khY3pjDzqLs-t2348.52", "text": "So, Magnus Nielsen, the reigning Carlson.", "start": 2348.52, "end": 2351.7200000000003}
+{"id": "khY3pjDzqLs-t2351.7200000000003", "text": "Carlson, thank you.", "start": 2351.7200000000003, "end": 2355.08}
+{"id": "khY3pjDzqLs-t2355.08", "text": "He walked out on this match because I think something about the first several moves and", "start": 2355.08, "end": 2363.08}
+{"id": "khY3pjDzqLs-t2363.08", "text": "because of some previous report that his opponent made cheap.", "start": 2363.08, "end": 2366.6400000000003}
+{"id": "khY3pjDzqLs-t2366.64", "text": "Something about his body, this is opening with, that's it.", "start": 2366.64, "end": 2370.92}
+{"id": "khY3pjDzqLs-t2370.92", "text": "A human wouldn't do this, I know you're cheap, right?", "start": 2370.92, "end": 2374.0}
+{"id": "khY3pjDzqLs-t2374.0", "text": "So here you have, no, but that actually wasn't that intuitive that a human wouldn't do it.", "start": 2374.0, "end": 2378.7999999999997}
+{"id": "khY3pjDzqLs-t2378.7999999999997", "text": "That human would be cheap.", "start": 2378.7999999999997, "end": 2381.7999999999997}
+{"id": "khY3pjDzqLs-t2381.7999999999997", "text": "No, no, I think.", "start": 2381.7999999999997, "end": 2382.7999999999997}
+{"id": "khY3pjDzqLs-t2382.7999999999997", "text": "He was using a computer.", "start": 2382.7999999999997, "end": 2384.7999999999997}
+{"id": "khY3pjDzqLs-t2384.7999999999997", "text": "Oh, I see that.", "start": 2384.7999999999997, "end": 2385.7999999999997}
+{"id": "khY3pjDzqLs-t2385.7999999999997", "text": "He recognized that the movement was cheap in chess.", "start": 2385.7999999999997, "end": 2388.56}
+{"id": "khY3pjDzqLs-t2388.56", "text": "He recognized the judges being generated by a robot.", "start": 2388.56, "end": 2392.16}
+{"id": "khY3pjDzqLs-t2392.16", "text": "And so, it's interesting, so here you have something that's gotten right to the pinnacle", "start": 2392.16, "end": 2397.6}
+{"id": "khY3pjDzqLs-t2397.6", "text": "of computer programming and beating humans and it does beat humans.", "start": 2397.6, "end": 2401.2799999999997}
+{"id": "khY3pjDzqLs-t2401.2799999999997", "text": "But it's missing something from the perspective of human observers.", "start": 2401.2799999999997, "end": 2405.52}
+{"id": "khY3pjDzqLs-t2405.52", "text": "It's missing something, right?", "start": 2405.52, "end": 2407.52}
+{"id": "khY3pjDzqLs-t2407.52", "text": "Carlson was able to pick that up, it seems.", "start": 2407.52, "end": 2410.16}
+{"id": "khY3pjDzqLs-t2410.16", "text": "But when they'll go to chess for that, that was solved in the game of Go several years", "start": 2410.16, "end": 2417.7999999999997}
+{"id": "khY3pjDzqLs-t2417.7999999999997", "text": "ago.", "start": 2417.7999999999997, "end": 2418.7999999999997}
+{"id": "khY3pjDzqLs-t2418.8", "text": "Because Go became, the deep mind became the Go champion.", "start": 2418.8, "end": 2423.8}
+{"id": "khY3pjDzqLs-t2423.8", "text": "Right, but I'm saying there's still things that humans perceive about the difference between", "start": 2423.8, "end": 2429.44}
+{"id": "khY3pjDzqLs-t2429.44", "text": "their opponent when it's a human versus a, it's a human versus a computer.", "start": 2429.44, "end": 2434.44}
+{"id": "khY3pjDzqLs-t2434.44", "text": "And I'm wondering if that perception has something to do with what we would find deficient in", "start": 2434.44, "end": 2438.44}
+{"id": "khY3pjDzqLs-t2438.44", "text": "a computer generated work of the literature.", "start": 2438.44, "end": 2440.44}
+{"id": "khY3pjDzqLs-t2440.44", "text": "That's what I'm getting at.", "start": 2440.44, "end": 2441.44}
+{"id": "khY3pjDzqLs-t2441.44", "text": "Yeah, for sure.", "start": 2441.44, "end": 2442.44}
+{"id": "khY3pjDzqLs-t2442.44", "text": "And I'm out of the screen with you, maybe even in the very far-efficient future, even", "start": 2442.44, "end": 2445.8}
+{"id": "khY3pjDzqLs-t2445.8", "text": "that difference would be taken away.", "start": 2445.8, "end": 2448.2400000000002}
+{"id": "khY3pjDzqLs-t2448.24", "text": "In the visual arts where I have more experience being a painter in my youth, in the visual", "start": 2448.24, "end": 2456.8799999999997}
+{"id": "khY3pjDzqLs-t2456.8799999999997", "text": "arts, AI can produce paintings today that are better than the professional visual artists.", "start": 2456.8799999999997, "end": 2464.72}
+{"id": "khY3pjDzqLs-t2464.72", "text": "I think we have reached that.", "start": 2464.72, "end": 2465.72}
+{"id": "khY3pjDzqLs-t2465.72", "text": "I cannot speak about AI generated literature.", "start": 2465.72, "end": 2470.3599999999997}
+{"id": "khY3pjDzqLs-t2470.36", "text": "But the AI generated paintings, depending on what text to image AI programs can generate", "start": 2470.36, "end": 2480.84}
+{"id": "khY3pjDzqLs-t2480.84", "text": "very beautiful paintings because they sum the opinions of individuals, say, 10 to the", "start": 2480.84, "end": 2492.48}
+{"id": "khY3pjDzqLs-t2492.48", "text": "10th number of individuals, which is an extraordinary number.", "start": 2492.48, "end": 2497.08}
+{"id": "khY3pjDzqLs-t2497.08", "text": "So they can generate a very beautiful painting and you go to a contemporary art gallery,", "start": 2497.08, "end": 2501.2}
+{"id": "khY3pjDzqLs-t2501.2", "text": "it's mostly garbage.", "start": 2501.2, "end": 2503.12}
+{"id": "khY3pjDzqLs-t2503.12", "text": "So there's a huge disconnect between what the computers are generating or what are the", "start": 2503.12, "end": 2507.6}
+{"id": "khY3pjDzqLs-t2507.6", "text": "so-called artists are generating.", "start": 2507.6, "end": 2510.12}
+{"id": "khY3pjDzqLs-t2510.12", "text": "The Detroit Museum of Art has a new exhibition of Van Gogh and they did it because they", "start": 2510.12, "end": 2515.96}
+{"id": "khY3pjDzqLs-t2515.96", "text": "were the first American Museum to embrace Van Gogh.", "start": 2515.96, "end": 2519.24}
+{"id": "khY3pjDzqLs-t2519.24", "text": "And the reviewers in America, the armory show said this guy's dance is terrible, of course", "start": 2519.24, "end": 2525.84}
+{"id": "khY3pjDzqLs-t2525.84", "text": "he's about that.", "start": 2525.84, "end": 2526.84}
+{"id": "khY3pjDzqLs-t2526.84", "text": "He's about the most popular artists, visual arts now.", "start": 2526.84, "end": 2531.28}
+{"id": "khY3pjDzqLs-t2531.28", "text": "That's a trajectory that some human artists have pursued and we would say, well that's", "start": 2531.28, "end": 2537.32}
+{"id": "khY3pjDzqLs-t2537.32", "text": "a form of imagination, innovation.", "start": 2537.32, "end": 2540.32}
+{"id": "khY3pjDzqLs-t2540.32", "text": "That's incorrect.", "start": 2540.32, "end": 2541.32}
+{"id": "khY3pjDzqLs-t2541.32", "text": "That's incorrect.", "start": 2541.32, "end": 2542.32}
+{"id": "khY3pjDzqLs-t2542.32", "text": "That is propaganda in order for a certain click to make enormous amounts of money by", "start": 2542.32, "end": 2549.0}
+{"id": "khY3pjDzqLs-t2549.0", "text": "selling garbage and by promoting talentless charlatans.", "start": 2549.0, "end": 2553.6000000000004}
+{"id": "khY3pjDzqLs-t2553.6", "text": "But somebody...", "start": 2553.6, "end": 2557.8399999999997}
+{"id": "khY3pjDzqLs-t2557.8399999999997", "text": "What you are saying is totally out of date because it happened 100 years ago.", "start": 2557.8399999999997, "end": 2563.6}
+{"id": "khY3pjDzqLs-t2563.6", "text": "I don't agree with your extrapolation that what happened to Van Gogh, the same thing happened", "start": 2563.6, "end": 2567.88}
+{"id": "khY3pjDzqLs-t2567.88", "text": "to the Impressionist in Paris that totally extrapolated to the garbage we see produced", "start": 2567.88, "end": 2572.88}
+{"id": "khY3pjDzqLs-t2572.88", "text": "today and put in art galleries and displacing beautiful works of art from our museums.", "start": 2572.88, "end": 2581.6}
+{"id": "khY3pjDzqLs-t2581.6", "text": "The Museum's decommissioned wonderful pieces of art and sculpture and fill it with contemporary", "start": 2581.6, "end": 2587.8399999999997}
+{"id": "khY3pjDzqLs-t2587.8399999999997", "text": "art that's supposed to be art but it's really garbage.", "start": 2587.8399999999997, "end": 2591.0}
+{"id": "khY3pjDzqLs-t2591.0", "text": "And there's a definition.", "start": 2591.0, "end": 2592.0}
+{"id": "khY3pjDzqLs-t2592.0", "text": "And here's an AI conjugge where there's garbage for where the bits are because AI has this", "start": 2592.0, "end": 2599.2799999999997}
+{"id": "khY3pjDzqLs-t2599.2799999999997", "text": "attempt to the tense, a piece of data of human reactions.", "start": 2599.2799999999997, "end": 2604.16}
+{"id": "khY3pjDzqLs-t2604.16", "text": "Does this create a positive emotional reaction in the body?", "start": 2604.16, "end": 2609.92}
+{"id": "khY3pjDzqLs-t2609.92", "text": "And we have the sensors and the medical data to see if it creates distress then it's a", "start": 2609.92, "end": 2615.2000000000003}
+{"id": "khY3pjDzqLs-t2615.2000000000003", "text": "piece of garbage.", "start": 2615.2000000000003, "end": 2616.2000000000003}
+{"id": "khY3pjDzqLs-t2616.2000000000003", "text": "If it creates a positive healing reaction according to the movie, medical sensors that", "start": 2616.2000000000003, "end": 2622.12}
+{"id": "khY3pjDzqLs-t2622.12", "text": "can be worn today, is that what we're having to go to the laboratory, wearable sensors", "start": 2622.12, "end": 2626.88}
+{"id": "khY3pjDzqLs-t2626.88", "text": "if it's positive then it's a valid piece of art because it helps you to cope with the", "start": 2626.88, "end": 2632.32}
+{"id": "khY3pjDzqLs-t2632.32", "text": "stress.", "start": 2632.32, "end": 2633.32}
+{"id": "khY3pjDzqLs-t2633.32", "text": "This is...", "start": 2633.32, "end": 2634.32}
+{"id": "khY3pjDzqLs-t2634.32", "text": "This is...", "start": 2634.32, "end": 2635.32}
+{"id": "khY3pjDzqLs-t2635.32", "text": "Sorry.", "start": 2635.32, "end": 2636.32}
+{"id": "khY3pjDzqLs-t2636.32", "text": "Another example I suppose of we're not knowing how a computer functions and not knowing how", "start": 2636.32, "end": 2640.84}
+{"id": "khY3pjDzqLs-t2640.84", "text": "something works leads you to a kind of crazy conclusion.", "start": 2640.84, "end": 2644.76}
+{"id": "khY3pjDzqLs-t2644.76", "text": "And I'm assuming the way you were saying this meant ironically because the AI...", "start": 2644.76, "end": 2650.2400000000002}
+{"id": "khY3pjDzqLs-t2650.2400000000002", "text": "First of all, Dolly doesn't work by hooking up responses or anything like that.", "start": 2650.2400000000002, "end": 2656.2400000000002}
+{"id": "khY3pjDzqLs-t2656.2400000000002", "text": "But suppose it did the idea that a set of measurements, what are we going to measure", "start": 2656.2400000000002, "end": 2662.6800000000003}
+{"id": "khY3pjDzqLs-t2662.6800000000003", "text": "to capture our aesthetic reaction?", "start": 2662.6800000000003, "end": 2665.4}
+{"id": "khY3pjDzqLs-t2665.4", "text": "What are we going to choose?", "start": 2665.4, "end": 2666.4}
+{"id": "khY3pjDzqLs-t2666.4", "text": "How are we going to choose to measure that?", "start": 2666.4, "end": 2668.4}
+{"id": "khY3pjDzqLs-t2668.4", "text": "How are we going to choose to measure that?", "start": 2668.4, "end": 2669.4}
+{"id": "khY3pjDzqLs-t2669.4", "text": "I'm going to put some...", "start": 2669.4, "end": 2670.4}
+{"id": "khY3pjDzqLs-t2670.4", "text": "Hold on a second.", "start": 2670.4, "end": 2671.4}
+{"id": "khY3pjDzqLs-t2671.4", "text": "So first of all, there are choices in what to choose to represent lived experience and", "start": 2671.4, "end": 2676.6}
+{"id": "khY3pjDzqLs-t2676.6", "text": "to even...", "start": 2676.6, "end": 2678.4}
+{"id": "khY3pjDzqLs-t2678.4", "text": "To stop and to think that there are choices.", "start": 2678.4, "end": 2680.4}
+{"id": "khY3pjDzqLs-t2680.4", "text": "There are different ways of expressing it.", "start": 2680.4, "end": 2683.4}
+{"id": "khY3pjDzqLs-t2683.4", "text": "Do you talk to someone before seeing something and then interview them afterwards?", "start": 2683.4, "end": 2687.4}
+{"id": "khY3pjDzqLs-t2687.4", "text": "It's a little more qualitative but is that something?", "start": 2687.4, "end": 2689.6800000000003}
+{"id": "khY3pjDzqLs-t2689.6800000000003", "text": "Like why do we reduce it to a kind of physiological response first of all?", "start": 2689.6800000000003, "end": 2693.8}
+{"id": "khY3pjDzqLs-t2693.8", "text": "And secondly, what Dolly does is it's based on sort of collections of data where captions", "start": 2693.8, "end": 2699.6400000000003}
+{"id": "khY3pjDzqLs-t2699.6400000000003", "text": "are matched with images.", "start": 2699.6400000000003, "end": 2702.32}
+{"id": "khY3pjDzqLs-t2702.32", "text": "And the obvious question around almost all AI processes now are like what are the data", "start": 2702.32, "end": 2711.2000000000003}
+{"id": "khY3pjDzqLs-t2711.2000000000003", "text": "that they were trained on?", "start": 2711.2000000000003, "end": 2712.28}
+{"id": "khY3pjDzqLs-t2712.28", "text": "Who are the people who even if they were hooked up in some way?", "start": 2712.28, "end": 2715.6800000000003}
+{"id": "khY3pjDzqLs-t2715.6800000000003", "text": "Who are they?", "start": 2715.6800000000003, "end": 2716.6800000000003}
+{"id": "khY3pjDzqLs-t2716.6800000000003", "text": "What cultural references do they have?", "start": 2716.6800000000003, "end": 2718.7200000000003}
+{"id": "khY3pjDzqLs-t2718.7200000000003", "text": "What are you showing them that's consistent or not?", "start": 2718.7200000000003, "end": 2722.88}
+{"id": "khY3pjDzqLs-t2722.88", "text": "And I think that some of this discussion is what we're missing here is it's sort of", "start": 2722.88, "end": 2727.88}
+{"id": "khY3pjDzqLs-t2727.88", "text": "not AI versus the artist.", "start": 2727.88, "end": 2731.2000000000003}
+{"id": "khY3pjDzqLs-t2731.2000000000003", "text": "It's sort of AI and the artist, right?", "start": 2731.2000000000003, "end": 2733.4}
+{"id": "khY3pjDzqLs-t2733.4", "text": "If you've tried Dolly, you can type something out and put some text in and get an image", "start": 2733.4, "end": 2739.6400000000003}
+{"id": "khY3pjDzqLs-t2739.6400000000003", "text": "and go, well, that's not really what I'd like.", "start": 2739.6400000000003, "end": 2742.36}
+{"id": "khY3pjDzqLs-t2742.36", "text": "And so you alter a little bit and you alter a little bit and you alter a little bit and", "start": 2742.36, "end": 2746.04}
+{"id": "khY3pjDzqLs-t2746.04", "text": "you sort of start to work with it, right?", "start": 2746.04, "end": 2748.48}
+{"id": "khY3pjDzqLs-t2748.48", "text": "I think to go back to the literacy and then I'll shut up, but to go to the literacy question", "start": 2748.48, "end": 2753.88}
+{"id": "khY3pjDzqLs-t2753.88", "text": "one more time, that idea that you're typing something into Dolly to get an image and then", "start": 2753.88, "end": 2758.44}
+{"id": "khY3pjDzqLs-t2758.44", "text": "typing something else and to get an image, slowly Dolly is training you to do what it", "start": 2758.44, "end": 2763.2}
+{"id": "khY3pjDzqLs-t2763.2", "text": "expects so that you get the answer that you want in the exact same way that when you Google", "start": 2763.2, "end": 2768.16}
+{"id": "khY3pjDzqLs-t2768.16", "text": "something, right, and if you don't get back the set of results that you want, you don't", "start": 2768.16, "end": 2772.52}
+{"id": "khY3pjDzqLs-t2772.52", "text": "say bad Google, you say, oh, I did something wrong.", "start": 2772.52, "end": 2776.04}
+{"id": "khY3pjDzqLs-t2776.04", "text": "And in that moment, Google is training you how to interact with it.", "start": 2776.04, "end": 2778.96}
+{"id": "khY3pjDzqLs-t2778.96", "text": "And if you don't recognize those training moments, little by little, right, that's how", "start": 2778.96, "end": 2784.0}
+{"id": "khY3pjDzqLs-t2784.0", "text": "the systems of power work.", "start": 2784.0, "end": 2785.56}
+{"id": "khY3pjDzqLs-t2785.56", "text": "That's how things start to take to exercise control in a way.", "start": 2785.56, "end": 2792.12}
+{"id": "khY3pjDzqLs-t2792.12", "text": "Sorry.", "start": 2792.12, "end": 2793.6}
+{"id": "khY3pjDzqLs-t2793.6", "text": "What are you saying Mark?", "start": 2793.6, "end": 2796.6}
+{"id": "khY3pjDzqLs-t2796.6", "text": "We are already going there.", "start": 2796.6, "end": 2798.16}
+{"id": "khY3pjDzqLs-t2798.16", "text": "Exactly.", "start": 2798.16, "end": 2799.16}
+{"id": "khY3pjDzqLs-t2799.16", "text": "There's no question.", "start": 2799.16, "end": 2801.0}
+{"id": "khY3pjDzqLs-t2801.0", "text": "Our students don't have that connection, right?", "start": 2801.0, "end": 2804.16}
+{"id": "khY3pjDzqLs-t2804.16", "text": "They don't have Google more than my own.", "start": 2804.16, "end": 2807.16}
+{"id": "khY3pjDzqLs-t2807.16", "text": "Also the, yeah, then in return to Nikos' point, I mean, here I think I disagree entirely.", "start": 2807.16, "end": 2814.16}
+{"id": "khY3pjDzqLs-t2814.16", "text": "I mean, in the sense, but with you.", "start": 2814.16, "end": 2819.8799999999997}
+{"id": "khY3pjDzqLs-t2819.8799999999997", "text": "I think that first of all, I mean, I don't believe that you could actually hook people", "start": 2819.8799999999997, "end": 2825.64}
+{"id": "khY3pjDzqLs-t2825.64", "text": "up and get a picture of what their responses to works of art are.", "start": 2825.64, "end": 2830.16}
+{"id": "khY3pjDzqLs-t2830.16", "text": "But you could get a set of correlations.", "start": 2830.16, "end": 2835.8799999999997}
+{"id": "khY3pjDzqLs-t2835.8799999999997", "text": "What they would tell you is actually an entirely debatable phenomenon or question.", "start": 2835.8799999999997, "end": 2843.52}
+{"id": "khY3pjDzqLs-t2843.52", "text": "But, yes, of course you can record what's happening at various levels of your somatic", "start": 2843.52, "end": 2850.3599999999997}
+{"id": "khY3pjDzqLs-t2850.3599999999997", "text": "reaction when you were presented with an art object or anything else.", "start": 2850.3599999999997, "end": 2854.44}
+{"id": "khY3pjDzqLs-t2854.44", "text": "Whether that tells you anything meaningful is another question.", "start": 2854.44, "end": 2858.12}
+{"id": "khY3pjDzqLs-t2858.12", "text": "So that's one thing, even if you could, I mean the assumption that for work of art to", "start": 2858.12, "end": 2862.68}
+{"id": "khY3pjDzqLs-t2862.68", "text": "be beautiful, what it does is make you feel calm and happier, whatever your phrase was.", "start": 2862.68, "end": 2869.3199999999997}
+{"id": "khY3pjDzqLs-t2869.3199999999997", "text": "That also seems to me to be like just, you know, wrong.", "start": 2869.3199999999997, "end": 2876.16}
+{"id": "khY3pjDzqLs-t2876.16", "text": "And that, you know, what you call bad art would produce a somatic response of like irritation", "start": 2876.16, "end": 2881.44}
+{"id": "khY3pjDzqLs-t2881.44", "text": "or something else.", "start": 2881.44, "end": 2883.48}
+{"id": "khY3pjDzqLs-t2883.48", "text": "And that that somehow indicates the poor quality of the work also just seems to be", "start": 2883.48, "end": 2887.72}
+{"id": "khY3pjDzqLs-t2887.72", "text": "wrong.", "start": 2887.72, "end": 2888.72}
+{"id": "khY3pjDzqLs-t2888.72", "text": "But there's a set of nested assumptions here about what kind of response art works ought", "start": 2888.72, "end": 2893.72}
+{"id": "khY3pjDzqLs-t2893.72", "text": "to have, whether they're producing you that I think are debatable about whether or not", "start": 2893.72, "end": 2898.4399999999996}
+{"id": "khY3pjDzqLs-t2898.4399999999996", "text": "actually like, you know, whether the criterion of judgment ought to lie, whether it should", "start": 2898.4399999999996, "end": 2903.56}
+{"id": "khY3pjDzqLs-t2903.56", "text": "be in, you know, in just an immediate response by someone who has no relationship or education", "start": 2903.56, "end": 2908.8799999999997}
+{"id": "khY3pjDzqLs-t2908.88", "text": "in how to encounter and understand works of art or should be among those who have actually", "start": 2908.88, "end": 2920.88}
+{"id": "khY3pjDzqLs-t2920.88", "text": "spent time with and are educated in art and art history.", "start": 2920.88, "end": 2925.1600000000003}
+{"id": "khY3pjDzqLs-t2925.1600000000003", "text": "All those things are actually to be discussed and debated.", "start": 2925.1600000000003, "end": 2929.48}
+{"id": "khY3pjDzqLs-t2929.48", "text": "So I mean, and again, provide an argument for, it seems to me actually, to return to our", "start": 2929.48, "end": 2936.6800000000003}
+{"id": "khY3pjDzqLs-t2936.68", "text": "earlier discussion, you know, fundamental artistic and aesthetic literacy.", "start": 2936.68, "end": 2940.68}
+{"id": "khY3pjDzqLs-t2940.68", "text": "Because it's not the case that you can just simply like take someone, you know, and put", "start": 2940.68, "end": 2946.3599999999997}
+{"id": "khY3pjDzqLs-t2946.3599999999997", "text": "them in a museum and they will understand what it means to actually look at, you know, a", "start": 2946.3599999999997, "end": 2951.68}
+{"id": "khY3pjDzqLs-t2951.68", "text": "van Gogh, for example, to use a painter that was mentioned earlier or the works of the", "start": 2951.68, "end": 2957.04}
+{"id": "khY3pjDzqLs-t2957.04", "text": "French impressionist or let alone a more difficult and challenging working contemporary", "start": 2957.04, "end": 2963.68}
+{"id": "khY3pjDzqLs-t2963.68", "text": "art.", "start": 2963.68, "end": 2964.68}
+{"id": "khY3pjDzqLs-t2964.68", "text": "And all those things actually require, you know, discussion, education, learning, you", "start": 2964.68, "end": 2970.04}
+{"id": "khY3pjDzqLs-t2970.04", "text": "know, experience which, you know, ought to be available to as many people as possible.", "start": 2970.04, "end": 2976.68}
+{"id": "khY3pjDzqLs-t2976.68", "text": "Well, actually, Charlie, we have exactly done that experiment.", "start": 2976.68, "end": 2980.68}
+{"id": "khY3pjDzqLs-t2980.68", "text": "In Cologne, in the Kedekolis Museum, this year is one of the tools we developed at MIT.", "start": 2980.68, "end": 2985.04}
+{"id": "khY3pjDzqLs-t2985.04", "text": "It's the happy meter.", "start": 2985.04, "end": 2986.68}
+{"id": "khY3pjDzqLs-t2986.68", "text": "It measures my mood based on the habits.", "start": 2986.68, "end": 2989.44}
+{"id": "khY3pjDzqLs-t2989.44", "text": "Sorry, there's something so dystopian and frightening about the expression.", "start": 2989.44, "end": 2992.68}
+{"id": "khY3pjDzqLs-t2992.68", "text": "There's a lot of people in the", "start": 2992.68, "end": 2994.68}
+{"id": "khY3pjDzqLs-t2994.68", "text": "papers about that.", "start": 2994.68, "end": 2995.68}
+{"id": "khY3pjDzqLs-t2995.68", "text": "It has been used.", "start": 2995.68, "end": 2996.68}
+{"id": "khY3pjDzqLs-t2996.68", "text": "It measures my happiness based on heart rate, acceleration, voice emotion.", "start": 2996.68, "end": 3002.68}
+{"id": "khY3pjDzqLs-t3002.68", "text": "And in the Kedekolis Museum in Cologne, we have given that to participants, to people.", "start": 3002.68, "end": 3008.68}
+{"id": "khY3pjDzqLs-t3008.68", "text": "And then we have measured which rooms, which paintings and which sort of watching style", "start": 3008.68, "end": 3015.68}
+{"id": "khY3pjDzqLs-t3015.68", "text": "actually trigger the strongest emotional reaction.", "start": 3015.68, "end": 3018.68}
+{"id": "khY3pjDzqLs-t3018.68", "text": "And what is the result?", "start": 3018.68, "end": 3021.68}
+{"id": "khY3pjDzqLs-t3021.68", "text": "The result is that it very much matters on the tool guide.", "start": 3021.68, "end": 3025.68}
+{"id": "khY3pjDzqLs-t3025.68", "text": "On the tool guide?", "start": 3025.68, "end": 3027.68}
+{"id": "khY3pjDzqLs-t3027.68", "text": "Yeah, which is to say, which actually, which is part of what I was saying earlier, which", "start": 3027.68, "end": 3032.68}
+{"id": "khY3pjDzqLs-t3032.68", "text": "actually depends partly on how the work is presented.", "start": 3032.68, "end": 3035.68}
+{"id": "khY3pjDzqLs-t3035.68", "text": "Exactly.", "start": 3035.68, "end": 3036.68}
+{"id": "khY3pjDzqLs-t3036.68", "text": "So, like, you know, how each piece of art is present.", "start": 3036.68, "end": 3039.68}
+{"id": "khY3pjDzqLs-t3039.68", "text": "And, well, and also, you know, how, even in a very quick way, how the person viewing the", "start": 3039.68, "end": 3046.04}
+{"id": "khY3pjDzqLs-t3046.04", "text": "work of art, you know, is led into it.", "start": 3046.04, "end": 3048.08}
+{"id": "khY3pjDzqLs-t3048.08", "text": "It's led to understand it.", "start": 3048.08, "end": 3050.68}
+{"id": "khY3pjDzqLs-t3050.68", "text": "And, you know, how that person has been taught.", "start": 3050.68, "end": 3053.68}
+{"id": "khY3pjDzqLs-t3053.68", "text": "So, it's entirely, it seems to me, like, obvious and arguably so, that if someone is actually", "start": 3053.68, "end": 3059.68}
+{"id": "khY3pjDzqLs-t3059.68", "text": "shown through a museum, thereby an educated, you know, articulate personable tour guide,", "start": 3059.68, "end": 3063.68}
+{"id": "khY3pjDzqLs-t3063.68", "text": "they will have, they'll be happier on your happy meter because they will actually just", "start": 3063.68, "end": 3067.68}
+{"id": "khY3pjDzqLs-t3067.68", "text": "be able to understand what they're seeing a bit more.", "start": 3067.68, "end": 3070.68}
+{"id": "khY3pjDzqLs-t3070.68", "text": "That makes another point about context.", "start": 3070.68, "end": 3072.68}
+{"id": "khY3pjDzqLs-t3072.68", "text": "The context is always, because if you look at the Mona Lisa, the context is, I have this", "start": 3072.68, "end": 3078.68}
+{"id": "khY3pjDzqLs-t3078.68", "text": "expectation and I see that sort of vaguely interesting face, but because in East Mona", "start": 3078.68, "end": 3084.68}
+{"id": "khY3pjDzqLs-t3084.68", "text": "Lisa, I must feel this is the biggest piece of art on the world.", "start": 3084.68, "end": 3088.68}
+{"id": "khY3pjDzqLs-t3088.68", "text": "So, the context has already been said, and I'm sure I have never done that with happy", "start": 3088.68, "end": 3092.68}
+{"id": "khY3pjDzqLs-t3092.68", "text": "meter, but I would expect that I would get such a reaction.", "start": 3092.68, "end": 3095.68}
+{"id": "khY3pjDzqLs-t3095.68", "text": "I would like to clarify tremendous confusions here that have been thrown at the table.", "start": 3095.68, "end": 3102.68}
+{"id": "khY3pjDzqLs-t3102.68", "text": "I was referring to unconscious reaction of the human body based on the happy meter, exactly", "start": 3102.68, "end": 3110.68}
+{"id": "khY3pjDzqLs-t3110.68", "text": "those wearable sensors, but unconscious responses of the body without priming and they occur", "start": 3110.68, "end": 3118.68}
+{"id": "khY3pjDzqLs-t3118.68", "text": "within the first one second or even few milliseconds.", "start": 3118.68, "end": 3122.68}
+{"id": "khY3pjDzqLs-t3122.68", "text": "Whereas, if you explain the art, you are conditioning the individual to like something.", "start": 3122.68, "end": 3130.68}
+{"id": "khY3pjDzqLs-t3130.68", "text": "The second point is that when you are looking at the context of 100 people from the Mona", "start": 3130.68, "end": 3135.68}
+{"id": "khY3pjDzqLs-t3135.68", "text": "Lisa, of course you have to like it.", "start": 3135.68, "end": 3137.68}
+{"id": "khY3pjDzqLs-t3137.68", "text": "So, control and spur, and it has to be carried out with the individual measuring only the", "start": 3137.68, "end": 3143.68}
+{"id": "khY3pjDzqLs-t3143.68", "text": "first, the second or less of unconscious reaction.", "start": 3143.68, "end": 3147.68}
+{"id": "khY3pjDzqLs-t3147.68", "text": "But this, again, I just think that's a wrong understanding or a misguided understanding about", "start": 3147.68, "end": 3151.68}
+{"id": "khY3pjDzqLs-t3151.68", "text": "what's the issue, but that's an opinion.", "start": 3151.68, "end": 3154.68}
+{"id": "khY3pjDzqLs-t3154.68", "text": "Wait, but there's a different point I think.", "start": 3154.68, "end": 3156.68}
+{"id": "khY3pjDzqLs-t3156.68", "text": "Of course, and we have a different opinion.", "start": 3156.68, "end": 3157.68}
+{"id": "khY3pjDzqLs-t3157.68", "text": "I just wanted to explore that difference because I think it's an interesting one, which is", "start": 3157.68, "end": 3161.68}
+{"id": "khY3pjDzqLs-t3161.68", "text": "that there is on the one hand a model, which actually has some real history, historical", "start": 3161.68, "end": 3168.68}
+{"id": "khY3pjDzqLs-t3168.68", "text": "significance to it, that what aesthetic experience is all about is just like this raw, unschooled,", "start": 3168.68, "end": 3177.68}
+{"id": "khY3pjDzqLs-t3177.68", "text": "immediate thing where you just bring someone in and you show them something.", "start": 3177.68, "end": 3181.68}
+{"id": "khY3pjDzqLs-t3181.68", "text": "I don't think that's really the way that art tends to work.", "start": 3181.68, "end": 3184.68}
+{"id": "khY3pjDzqLs-t3184.68", "text": "We're talking about something very, very recent, these measurements.", "start": 3184.68, "end": 3188.68}
+{"id": "khY3pjDzqLs-t3188.68", "text": "Yes, I know we're talking about technology that's recent, but we're also talking about an understanding", "start": 3188.68, "end": 3191.68}
+{"id": "khY3pjDzqLs-t3191.68", "text": "about what art is that goes way back.", "start": 3191.68, "end": 3194.68}
+{"id": "khY3pjDzqLs-t3194.68", "text": "And actually, we have one of many of them, a millennial understanding what art is, and", "start": 3194.68, "end": 3198.68}
+{"id": "khY3pjDzqLs-t3198.68", "text": "we have contradictory opinions during millennia.", "start": 3198.68, "end": 3201.68}
+{"id": "khY3pjDzqLs-t3201.68", "text": "So that doesn't settle anything.", "start": 3201.68, "end": 3203.68}
+{"id": "khY3pjDzqLs-t3203.68", "text": "But what I'm proposing is that these recent technology actually settles the issue because", "start": 3203.68, "end": 3208.68}
+{"id": "khY3pjDzqLs-t3208.68", "text": "it matters positive body responses.", "start": 3208.68, "end": 3210.68}
+{"id": "khY3pjDzqLs-t3210.68", "text": "And here's what I disagree with you because you want to validate equally a work of art", "start": 3210.68, "end": 3216.68}
+{"id": "khY3pjDzqLs-t3216.68", "text": "that creates negative and stressful body responses.", "start": 3216.68, "end": 3219.68}
+{"id": "khY3pjDzqLs-t3219.68", "text": "I disagree with that.", "start": 3219.68, "end": 3220.68}
+{"id": "khY3pjDzqLs-t3220.68", "text": "I think that the purpose of art is to help in healing the human body because the human body", "start": 3220.68, "end": 3225.68}
+{"id": "khY3pjDzqLs-t3225.68", "text": "experiences daily stress, just from the act of living.", "start": 3225.68, "end": 3229.68}
+{"id": "khY3pjDzqLs-t3229.68", "text": "So what about where the phrase, which is that art should disturb the comfortable and comfort", "start": 3229.68, "end": 3236.68}
+{"id": "khY3pjDzqLs-t3236.68", "text": "that is disturbed?", "start": 3236.68, "end": 3237.68}
+{"id": "khY3pjDzqLs-t3237.68", "text": "Why can't we have both?", "start": 3237.68, "end": 3239.68}
+{"id": "khY3pjDzqLs-t3239.68", "text": "I'd like to be disturbed.", "start": 3239.68, "end": 3240.68}
+{"id": "khY3pjDzqLs-t3240.68", "text": "Yes.", "start": 3240.68, "end": 3241.68}
+{"id": "khY3pjDzqLs-t3241.68", "text": "Well, it should be interesting in a lot of words that are interesting.", "start": 3241.68, "end": 3244.68}
+{"id": "khY3pjDzqLs-t3244.68", "text": "But I think what's been lost here, and I was surprised, Niko, that you took the direction", "start": 3244.68, "end": 3249.68}
+{"id": "khY3pjDzqLs-t3249.68", "text": "you did, given that the first point you seemed to make was coding and computers are negative,", "start": 3249.68, "end": 3256.68}
+{"id": "khY3pjDzqLs-t3256.68", "text": "and we should be immersing ourselves in literature and art.", "start": 3256.68, "end": 3259.68}
+{"id": "khY3pjDzqLs-t3259.68", "text": "And I actually was trying to point out that maybe there are things that coding cannot", "start": 3259.68, "end": 3264.68}
+{"id": "khY3pjDzqLs-t3264.68", "text": "possibly provide, like for example, whether or not they produce really beautiful paintings,", "start": 3264.68, "end": 3270.68}
+{"id": "khY3pjDzqLs-t3270.68", "text": "there may yet be something that's missing.", "start": 3270.68, "end": 3272.68}
+{"id": "khY3pjDzqLs-t3272.68", "text": "I think it's wrong to conclude that when people say they don't mind being disturbed by art,", "start": 3272.68, "end": 3278.68}
+{"id": "khY3pjDzqLs-t3278.68", "text": "that the whole point of art and the end point of art is to be disturbed, I mentioned Van Gogh", "start": 3278.68, "end": 3284.68}
+{"id": "khY3pjDzqLs-t3284.68", "text": "because there was a point in the history when he disturbed some people, and now most people", "start": 3284.68, "end": 3289.68}
+{"id": "khY3pjDzqLs-t3289.68", "text": "I'm sure have happy meters going wild when they see him, right?", "start": 3289.68, "end": 3294.68}
+{"id": "khY3pjDzqLs-t3294.68", "text": "And that trajectory, that development is a wonderful thing about humanism, right?", "start": 3294.68, "end": 3301.68}
+{"id": "khY3pjDzqLs-t3301.68", "text": "And I don't see that in computers, that's the thing.", "start": 3301.68, "end": 3303.68}
+{"id": "khY3pjDzqLs-t3303.68", "text": "The computers can take a huge sampling of people's reactions and look at different works of art", "start": 3303.68, "end": 3310.68}
+{"id": "khY3pjDzqLs-t3310.68", "text": "that are considered wonderful by experts or not, and it could generate another monoliths, perhaps.", "start": 3310.68, "end": 3315.68}
+{"id": "khY3pjDzqLs-t3315.68", "text": "But when it comes to being equal to an artist who can create innovation, that may put us off kilter a little bit,", "start": 3315.68, "end": 3322.68}
+{"id": "khY3pjDzqLs-t3322.68", "text": "but then later we learned a lot of that's something I think I believe computers are not going to be able to do", "start": 3322.68, "end": 3326.68}
+{"id": "khY3pjDzqLs-t3326.68", "text": "for a long, long time, if at all.", "start": 3326.68, "end": 3328.68}
+{"id": "khY3pjDzqLs-t3328.68", "text": "Why?", "start": 3328.68, "end": 3329.68}
+{"id": "khY3pjDzqLs-t3329.68", "text": "I don't know, I was asking all of you, you're the expert.", "start": 3329.68, "end": 3332.68}
+{"id": "khY3pjDzqLs-t3332.68", "text": "What would I mean, you said you believed, but why?", "start": 3332.68, "end": 3334.68}
+{"id": "khY3pjDzqLs-t3334.68", "text": "Well, I got thrown into this loop because he started telling me why they could do that.", "start": 3334.68, "end": 3338.68}
+{"id": "khY3pjDzqLs-t3338.68", "text": "Okay, great.", "start": 3338.68, "end": 3339.68}
+{"id": "khY3pjDzqLs-t3339.68", "text": "First you were, yeah.", "start": 3339.68, "end": 3341.68}
+{"id": "khY3pjDzqLs-t3341.68", "text": "You're hung up on Frank Hock, who according to the 17th, 18th century sensibility of realism,", "start": 3341.68, "end": 3349.68}
+{"id": "khY3pjDzqLs-t3349.68", "text": "disturbs some people, but the colors are very beautiful and it's slightly disturbing,", "start": 3349.68, "end": 3353.68}
+{"id": "khY3pjDzqLs-t3353.68", "text": "but not as disturbing as the garbage we have seen later, that really creates anxiety,", "start": 3353.68, "end": 3358.68}
+{"id": "khY3pjDzqLs-t3358.68", "text": "measurable by the happy meter, okay?", "start": 3358.68, "end": 3361.68}
+{"id": "khY3pjDzqLs-t3361.68", "text": "Without an explanation, but our art schools have been teaching students that the goal of contemporary art", "start": 3361.68, "end": 3368.68}
+{"id": "khY3pjDzqLs-t3368.68", "text": "for the last several decades is to disturb and create anxiety, which I think is so neuro.", "start": 3368.68, "end": 3374.68}
+{"id": "khY3pjDzqLs-t3374.68", "text": "And here is where, here is where I think I would like to put two things together.", "start": 3374.68, "end": 3379.68}
+{"id": "khY3pjDzqLs-t3379.68", "text": "I mentioned earlier that healing comes to the body, not by looking at code, but by looking at beauty.", "start": 3379.68, "end": 3388.68}
+{"id": "khY3pjDzqLs-t3388.68", "text": "But if we go according to accepted contemporary standards of beauty, we can disturb because it creates anxiety,", "start": 3388.68, "end": 3396.68}
+{"id": "khY3pjDzqLs-t3396.68", "text": "it's not beautiful, it has switched the function of beauty.", "start": 3396.68, "end": 3400.68}
+{"id": "khY3pjDzqLs-t3400.68", "text": "And now only computers can tell you what's beautiful.", "start": 3400.68, "end": 3403.68}
+{"id": "khY3pjDzqLs-t3403.68", "text": "See, I would prefer not to debate that particular point further because it's a great topic.", "start": 3403.68, "end": 3409.68}
+{"id": "khY3pjDzqLs-t3409.68", "text": "And I'm not arguing, I don't want to argue about it.", "start": 3409.68, "end": 3411.68}
+{"id": "khY3pjDzqLs-t3411.68", "text": "I don't think we should be debating that any longer because the real issue is the one I'm trying to direct us to,", "start": 3411.68, "end": 3417.68}
+{"id": "khY3pjDzqLs-t3417.68", "text": "which is, let's imagine that there's this wonderful facsimile and it may be superior to what the garbage that they're putting out of art schools now.", "start": 3417.68, "end": 3425.68}
+{"id": "khY3pjDzqLs-t3425.68", "text": "That's okay, I'll accept that.", "start": 3425.68, "end": 3427.68}
+{"id": "khY3pjDzqLs-t3427.68", "text": "What is it that, is it still the case that there is some, is there some spirit in human creativity that the computers will or will not be able to produce?", "start": 3427.68, "end": 3439.68}
+{"id": "khY3pjDzqLs-t3439.68", "text": "And you think, Jonathan, that they will be able to eventually produce that?", "start": 3439.68, "end": 3443.68}
+{"id": "khY3pjDzqLs-t3443.68", "text": "I don't think I have any idea.", "start": 3443.68, "end": 3446.68}
+{"id": "khY3pjDzqLs-t3446.68", "text": "I mean, I wouldn't rule it out, I guess what I would say.", "start": 3446.68, "end": 3449.68}
+{"id": "khY3pjDzqLs-t3449.68", "text": "I mean, like, doesn't seem to be any, it seems to be par for the course for any complicated human creative activity.", "start": 3449.68, "end": 3456.68}
+{"id": "khY3pjDzqLs-t3456.68", "text": "And therefore, it's a problem for, again, like, Peter's world to solve.", "start": 3456.68, "end": 3462.68}
+{"id": "khY3pjDzqLs-t3462.68", "text": "But it doesn't seem to me to be, like, intractable.", "start": 3462.68, "end": 3465.68}
+{"id": "khY3pjDzqLs-t3465.68", "text": "I think that's the, I think part of the thing, I myself feel a little bit confused with parts of this discussion.", "start": 3465.68, "end": 3473.68}
+{"id": "khY3pjDzqLs-t3473.68", "text": "Because we are talking about, on the one hand, what is today, then we are talking about what AI is going to do in the future.", "start": 3473.68, "end": 3483.68}
+{"id": "khY3pjDzqLs-t3483.68", "text": "And whether it's going to do that or not, is AI going to be able to produce a work of literature or art that in any way is going to contain all of the emotions that are presently in the work of literature or in the work of art?", "start": 3483.68, "end": 3502.68}
+{"id": "khY3pjDzqLs-t3502.68", "text": "And all the personal experiences of the person who wrote it or who painted it is AI.", "start": 3502.68, "end": 3508.68}
+{"id": "khY3pjDzqLs-t3508.68", "text": "One day going to be able to do that, you may be have the answer to that, but as far as I know, we don't know yet.", "start": 3508.68, "end": 3517.68}
+{"id": "khY3pjDzqLs-t3517.68", "text": "So there are people who write about all the things that AI is going to do in the next 25, 50 years, such as Max Tegmark and others.", "start": 3517.68, "end": 3527.68}
+{"id": "khY3pjDzqLs-t3527.68", "text": "But we'll have to wait and see.", "start": 3527.68, "end": 3530.68}
+{"id": "khY3pjDzqLs-t3530.68", "text": "But so I don't see how that directly connects with the bigger or more general subject, which is coding.", "start": 3530.68, "end": 3539.68}
+{"id": "khY3pjDzqLs-t3539.68", "text": "Coding is not only about creating literature or art, it's also about all the positives that we have from being able to use the computer, the iPhone and so on.", "start": 3539.68, "end": 3550.68}
+{"id": "khY3pjDzqLs-t3550.68", "text": "Yes, there are of course plenty of negatives. One of our people who was here in the audience, a neuroscientist from Italy, was telling me how his son doesn't want to read anything because he's looking at his computer.", "start": 3550.68, "end": 3564.68}
+{"id": "khY3pjDzqLs-t3564.68", "text": "He said, my grandson isn't the same one. He said, my grandson doesn't want to read his constitution.", "start": 3564.68, "end": 3571.68}
+{"id": "khY3pjDzqLs-t3571.68", "text": "Yes, there are negatives, but there are also plenty of positives in terms of people being in contact with each other, being in touch with each other.", "start": 3571.68, "end": 3580.68}
+{"id": "khY3pjDzqLs-t3580.68", "text": "So I'm a little bit confused if you will about the direction that we are taking.", "start": 3580.68, "end": 3588.68}
+{"id": "khY3pjDzqLs-t3588.68", "text": "And as far as art goes, I think the example you gave of the, was it in cold experiment with the heart rate and so on?", "start": 3588.68, "end": 3597.68}
+{"id": "khY3pjDzqLs-t3597.68", "text": "In the cold experiment in the Kedakolis Museum.", "start": 3597.68, "end": 3600.68}
+{"id": "khY3pjDzqLs-t3600.68", "text": "Yes, so I think that already gives you an indication that wherever that research is nowhere near reality, if you are going to a museum and there are five paintings, one next to each other, and you have somebody explaining it to you, what you are reacting to is not really that much the painting as what the person is telling you.", "start": 3600.68, "end": 3620.68}
+{"id": "khY3pjDzqLs-t3620.68", "text": "Now, and that's why I feel when I go to a museum, a big part of it is a waste of time because I'm seeing so many things one after the other by the time I come out, I don't know what I've really seen.", "start": 3620.68, "end": 3634.68}
+{"id": "khY3pjDzqLs-t3634.68", "text": "If I see in front of one art and I spent ten minutes in front of it, I begin to appreciate and feel something that I can never feel walking through a museum.", "start": 3634.68, "end": 3645.68}
+{"id": "khY3pjDzqLs-t3645.68", "text": "So to test me just because I think that this is a very exciting color, he put it here especially because he does this and that doesn't tell me anything about the art or the ability of that particular feeling machine to assess anything.", "start": 3645.68, "end": 3667.68}
+{"id": "khY3pjDzqLs-t3667.68", "text": "It's too early for it.", "start": 3667.68, "end": 3669.68}
+{"id": "khY3pjDzqLs-t3669.68", "text": "Actually, it's not too early and it's just that I didn't get the idea and I have to thank me because for giving me the idea of having people doing exactly exactly experiment you described by exposing them to different pieces of art to compare which one is the best.", "start": 3669.68, "end": 3686.68}
+{"id": "khY3pjDzqLs-t3686.68", "text": "But let me just say this because I want to say this clearly. If you're criteria for what is the best is a measurable response of happiness, you're going to get a lot of shit.", "start": 3686.68, "end": 3699.68}
+{"id": "khY3pjDzqLs-t3699.68", "text": "Just a lot of fucking bad art and bad literature especially.", "start": 3699.68, "end": 3706.68}
+{"id": "khY3pjDzqLs-t3706.68", "text": "So again, I would just disagree with the basic premise.", "start": 3706.68, "end": 3717.68}
+{"id": "khY3pjDzqLs-t3717.68", "text": "We will support this premise that you disagree with if they are unconscious responses.", "start": 3717.68, "end": 3724.68}
+{"id": "khY3pjDzqLs-t3724.68", "text": "Unconscious or not?", "start": 3724.68, "end": 3727.68}
+{"id": "khY3pjDzqLs-t3727.68", "text": "It's just a bit of a ton of shit. If it's unconscious, it's the body using its evolved mechanism that helped in its survival and if it identifies positively with the art, then it's a positive response that's good for the health.", "start": 3727.68, "end": 3740.68}
+{"id": "khY3pjDzqLs-t3740.68", "text": "If it has to be explained and then you are conditioning.", "start": 3740.68, "end": 3744.68}
+{"id": "khY3pjDzqLs-t3744.68", "text": "No, I'm not talking about it.", "start": 3744.68, "end": 3746.68}
+{"id": "khY3pjDzqLs-t3746.68", "text": "In fact, I think probably most art that I would find interesting you have to have training to appreciate and understand and I think most art that produces that kind of evolved health response you're talking about is going to be crap.", "start": 3746.68, "end": 3761.68}
+{"id": "khY3pjDzqLs-t3761.68", "text": "We have a opposite opinion and we disagree violently.", "start": 3761.68, "end": 3765.68}
+{"id": "khY3pjDzqLs-t3765.68", "text": "I think Mark's happy meter is going to get too low for all of us.", "start": 3765.68, "end": 3769.68}
+{"id": "khY3pjDzqLs-t3769.68", "text": "It feels too close to a mood ring.", "start": 3769.68, "end": 3778.68}
+{"id": "khY3pjDzqLs-t3778.68", "text": "There is a moment that we can pop this up and talk about narrative for a second.", "start": 3778.68, "end": 3787.68}
+{"id": "khY3pjDzqLs-t3787.68", "text": "Think about the ways in which we are taking physiological data, whether we should be doing that or not or instantaneous or not, the idea that the AI optimizes something.", "start": 3787.68, "end": 3801.68}
+{"id": "khY3pjDzqLs-t3801.68", "text": "The narrative that comes along with it, there is an efficiency there in applying the AI.", "start": 3801.68, "end": 3807.68}
+{"id": "khY3pjDzqLs-t3807.68", "text": "There is an efficiency that comes along with it that we can make better things that are soothing to us or pointed to the progression.", "start": 3807.68, "end": 3815.68}
+{"id": "khY3pjDzqLs-t3815.68", "text": "That's a very common AI rationale, a very common narrative that goes along with applying an AI system.", "start": 3815.68, "end": 3824.68}
+{"id": "khY3pjDzqLs-t3824.68", "text": "It makes it hard to unpack and say, well, what are the problems here?", "start": 3824.68, "end": 3829.68}
+{"id": "khY3pjDzqLs-t3829.68", "text": "Where are the disparities?", "start": 3829.68, "end": 3832.68}
+{"id": "khY3pjDzqLs-t3832.68", "text": "To say that it's more efficient to whom and to, you know, are the physiological observations sort of steady across different race and gender characterizations and so on.", "start": 3832.68, "end": 3847.68}
+{"id": "khY3pjDzqLs-t3847.68", "text": "You have to kind of resist that narrative that says that AI is optimizing something.", "start": 3847.68, "end": 3854.68}
+{"id": "khY3pjDzqLs-t3854.68", "text": "The other thing I would say to the gentleman with his grandson, we say that, pardon?", "start": 3854.68, "end": 3864.68}
+{"id": "khY3pjDzqLs-t3864.68", "text": "Hold your son.", "start": 3864.68, "end": 3867.68}
+{"id": "khY3pjDzqLs-t3867.68", "text": "It's quite satisfying.", "start": 3867.68, "end": 3870.68}
+{"id": "khY3pjDzqLs-t3870.68", "text": "I would say that we say that they kiss her on their phones all the time, right?", "start": 3870.68, "end": 3877.68}
+{"id": "khY3pjDzqLs-t3877.68", "text": "We say that means that they're really good at computers because they're not good at computers.", "start": 3877.68, "end": 3884.68}
+{"id": "khY3pjDzqLs-t3884.68", "text": "They're good at learning other people's interfaces.", "start": 3884.68, "end": 3886.68}
+{"id": "khY3pjDzqLs-t3886.68", "text": "They're good at learning the choices that other people have made.", "start": 3886.68, "end": 3889.68}
+{"id": "khY3pjDzqLs-t3889.68", "text": "Because they don't recognize anything of that surface as being a choice, right, that this means zoom in and this means zoom out.", "start": 3889.68, "end": 3897.68}
+{"id": "khY3pjDzqLs-t3897.68", "text": "Somebody made that choice and it wasn't the student working at it.", "start": 3897.68, "end": 3901.68}
+{"id": "khY3pjDzqLs-t3901.68", "text": "And we have to be able to question those choices, right, and I feel like a citizenry that doesn't have access to the basic ways in which computer design works and computers work can't do that.", "start": 3901.68, "end": 3916.68}
+{"id": "khY3pjDzqLs-t3916.68", "text": "Yeah, and I agree entirely.", "start": 3916.68, "end": 3918.68}
+{"id": "khY3pjDzqLs-t3918.68", "text": "The conversation that we were just having about, you know, measuring somatic responses and this connection to artificial intelligence reminds me of just like the FAD 10 years ago,", "start": 3918.68, "end": 3930.68}
+{"id": "khY3pjDzqLs-t3930.68", "text": "the Vittorio remember very well of just using fMRI to settle all questions.", "start": 3930.68, "end": 3935.68}
+{"id": "khY3pjDzqLs-t3935.68", "text": "This lights up, that lights up, you know, therefore, you know, this can explain for us ex or wife phenomena in politics or the world or whatever.", "start": 3935.68, "end": 3943.68}
+{"id": "khY3pjDzqLs-t3943.68", "text": "And that had all the problems that you just identified, Mark and that Vittorio knows very well.", "start": 3943.68, "end": 3948.68}
+{"id": "khY3pjDzqLs-t3948.68", "text": "FMRI experiments were a good pioneering step in the right direction because they did settle some questions of beauty.", "start": 3948.68, "end": 3956.68}
+{"id": "khY3pjDzqLs-t3956.68", "text": "The problem is that FMRI is hugely inconvenient, but we're talking about a new generation, but it's a wearable sensor.", "start": 3956.68, "end": 3963.68}
+{"id": "khY3pjDzqLs-t3963.68", "text": "Yeah, because you can have thousands.", "start": 3963.68, "end": 3966.68}
+{"id": "khY3pjDzqLs-t3966.68", "text": "The N, FMRI is very small because it's so expensive and here you can, I mean, I have been measuring emotions for the last three years.", "start": 3966.68, "end": 3973.68}
+{"id": "khY3pjDzqLs-t3973.68", "text": "The phase emotion, voice emotion.", "start": 3973.68, "end": 3975.68}
+{"id": "khY3pjDzqLs-t3975.68", "text": "The last thing is that we have plans which are highly sensitive movement sensors and we take the electrostatic discharge and then we measure emotions of humans from the plant response.", "start": 3975.68, "end": 3985.68}
+{"id": "khY3pjDzqLs-t3985.68", "text": "That's totally privacy respecting.", "start": 3985.68, "end": 3988.68}
+{"id": "khY3pjDzqLs-t3988.68", "text": "Well, but, okay, so Nikas, you use this idea that the goal of art should be to be soothing or to help.", "start": 3988.68, "end": 3998.68}
+{"id": "khY3pjDzqLs-t3998.68", "text": "I didn't say soothing, I say.", "start": 3998.68, "end": 4000.68}
+{"id": "khY3pjDzqLs-t4000.68", "text": "Inducive to human health.", "start": 4000.68, "end": 4002.68}
+{"id": "khY3pjDzqLs-t4002.68", "text": "Okay.", "start": 4002.68, "end": 4003.68}
+{"id": "khY3pjDzqLs-t4003.68", "text": "Physiological condition.", "start": 4003.68, "end": 4004.68}
+{"id": "khY3pjDzqLs-t4004.68", "text": "Perfectly good.", "start": 4004.68, "end": 4005.68}
+{"id": "khY3pjDzqLs-t4005.68", "text": "Perfectly good.", "start": 4005.68, "end": 4006.68}
+{"id": "khY3pjDzqLs-t4006.68", "text": "Okay.", "start": 4006.68, "end": 4007.68}
+{"id": "khY3pjDzqLs-t4007.68", "text": "Now, so I feel happier in front of a beautiful painting and I'm sure I do.", "start": 4007.68, "end": 4013.68}
+{"id": "khY3pjDzqLs-t4013.68", "text": "Now, however, feeling happy on what time scale.", "start": 4013.68, "end": 4017.68}
+{"id": "khY3pjDzqLs-t4017.68", "text": "You know, one of the whole points about mental health, for example, people who are troubled by their own mental health is that they need to oftentimes go into some form of treatment.", "start": 4017.68, "end": 4027.68}
+{"id": "khY3pjDzqLs-t4027.68", "text": "They get psychotherapy and they talk about their problems and they may sit with their therapist and say, oh, I love this therapist.", "start": 4027.68, "end": 4034.68}
+{"id": "khY3pjDzqLs-t4034.68", "text": "What a great therapist they're going to make.", "start": 4034.68, "end": 4035.68}
+{"id": "khY3pjDzqLs-t4035.68", "text": "I feel so happy when I'm with them and then a month later they think this person doesn't like me.", "start": 4035.68, "end": 4040.68}
+{"id": "khY3pjDzqLs-t4040.68", "text": "I don't understand.", "start": 4040.68, "end": 4041.68}
+{"id": "khY3pjDzqLs-t4041.68", "text": "And they keep going, hopefully, and keep going and talking.", "start": 4041.68, "end": 4045.68}
+{"id": "khY3pjDzqLs-t4045.68", "text": "And they work through that and it involves trust to go back to your comment, you know, there's a trust between two human beings and over time the feeling of happiness or contentment really evolves.", "start": 4045.68, "end": 4059.68}
+{"id": "khY3pjDzqLs-t4059.68", "text": "So I believe that can happen with works of art as well.", "start": 4059.68, "end": 4062.68}
+{"id": "khY3pjDzqLs-t4062.68", "text": "That's the only reason I mentioned Van Gogh.", "start": 4062.68, "end": 4063.68}
+{"id": "khY3pjDzqLs-t4063.68", "text": "Are there other examples?", "start": 4063.68, "end": 4071.68}
+{"id": "khY3pjDzqLs-t4071.68", "text": "I don't think I would probably disagree with you about whether I like the same one you like or don't like.", "start": 4071.68, "end": 4078.68}
+{"id": "khY3pjDzqLs-t4078.68", "text": "I'm not so sure I would disagree in most cases.", "start": 4078.68, "end": 4080.68}
+{"id": "khY3pjDzqLs-t4080.68", "text": "But what I'm saying is that there's an evolution of feelings that you may not pick up in just a moment when you're looking at a work of art, even if it's based on unconscious experience because there's a trajectory that has some bearing on what we think about the art and literature in the long term.", "start": 4080.68, "end": 4089.68}
+{"id": "khY3pjDzqLs-t4089.68", "text": "You work our way through it.", "start": 4089.68, "end": 4090.68}
+{"id": "khY3pjDzqLs-t4090.68", "text": "There is a difference.", "start": 4090.68, "end": 4093.68}
+{"id": "khY3pjDzqLs-t4093.68", "text": "You are making an unsupported conjecture which may or may not be true.", "start": 4093.68, "end": 4096.68}
+{"id": "khY3pjDzqLs-t4096.68", "text": "It could be true possibly in your field.", "start": 4096.68, "end": 4099.68}
+{"id": "khY3pjDzqLs-t4099.68", "text": "But in our there are no measurements so far.", "start": 4099.68, "end": 4102.68}
+{"id": "khY3pjDzqLs-t4102.68", "text": "Measurements have to be done by apparatus exactly like me.", "start": 4102.68, "end": 4107.68}
+{"id": "khY3pjDzqLs-t4107.68", "text": "The meters those experiments have not yet been done.", "start": 4107.68, "end": 4110.68}
+{"id": "khY3pjDzqLs-t4110.68", "text": "I would like to bring it back to the question of coding and point out that when we talk about code, we are talking about mediation.", "start": 4110.68, "end": 4119.68}
+{"id": "khY3pjDzqLs-t4119.68", "text": "We are talking about something that is created and that the form of creation is not transparent.", "start": 4119.68, "end": 4126.68}
+{"id": "khY3pjDzqLs-t4126.68", "text": "And I think the problem here with this question is partly that we are only talking about visual art and visual art allows us to persist in this very strange assumption that visual art is unmediated.", "start": 4126.68, "end": 4138.68}
+{"id": "khY3pjDzqLs-t4138.68", "text": "That visual art is not encoded.", "start": 4138.68, "end": 4141.68}
+{"id": "khY3pjDzqLs-t4141.68", "text": "And your assumptions about our responses to visual art rely on an assumption about visual art that it is not encoded and that it lacks historicity.", "start": 4141.68, "end": 4152.68}
+{"id": "khY3pjDzqLs-t4152.68", "text": "But if we, so what would you say for instance if we had someone from I don't know 200 years ago or from a different country or from a different social position and they had the happy meter and they looked at a piece of visual art which is entirely encoded", "start": 4152.68, "end": 4170.68}
+{"id": "khY3pjDzqLs-t4170.68", "text": "and they had the opposite reaction.", "start": 4170.68, "end": 4173.68}
+{"id": "khY3pjDzqLs-t4173.68", "text": "So I mean what you are basically assuming here is that the visual art lacks any artistry as such and that our response to it is a purely one to one relationship between this sort of non-mediated thing that it does to our body.", "start": 4173.68, "end": 4192.68}
+{"id": "khY3pjDzqLs-t4192.68", "text": "And let me just add to you in this point the assumption also is that as you were saying earlier it is unconscious but not just unconscious somatically unconscious which leaves out the, you know anything that might be cognitive or intellectual.", "start": 4192.68, "end": 4207.68}
+{"id": "khY3pjDzqLs-t4207.68", "text": "The, you know that art actually might teach us things or change the way that we think or that might be actually conscious responses to or processes or you know or dynamics involved in encountering not only visual works of art but especially literary ones.", "start": 4207.68, "end": 4227.68}
+{"id": "khY3pjDzqLs-t4227.68", "text": "And I mean again like that's one account of maybe what an artwork does but it's an is an ought to do but it's a, but it seems to me a kind of you know a pretty small one.", "start": 4227.68, "end": 4238.68}
+{"id": "khY3pjDzqLs-t4238.68", "text": "I have an answer to this statement.", "start": 4238.68, "end": 4242.68}
+{"id": "khY3pjDzqLs-t4242.68", "text": "Based on unconfirmed data there seems to be a majority of invariant response from all people all races all cultures roughly estimated 80% and the other 20% is cultural locally variant.", "start": 4242.68, "end": 4262.68}
+{"id": "khY3pjDzqLs-t4262.68", "text": "But those of us who were in the topic we claim based upon unconfirmed data that about 80% is invariant across all people.", "start": 4262.68, "end": 4274.68}
+{"id": "khY3pjDzqLs-t4274.68", "text": "And this is the type of responses instantaneous.", "start": 4274.68, "end": 4277.68}
+{"id": "khY3pjDzqLs-t4277.68", "text": "I ask you a question in neuroscience they're finding out more and more that the placebo effect is partly based on placebo readiness and receptivity in the individual. Is there any placebo effect in relationship to how people respond to these different codes.", "start": 4277.68, "end": 4298.68}
+{"id": "khY3pjDzqLs-t4298.68", "text": "And the expression of the codes and the effect on the body in what you're describing. Well the honest answer is I have not thought about this deeply about I think the answer is yes that's my suspicion because you are conditioned", "start": 4298.68, "end": 4314.68}
+{"id": "khY3pjDzqLs-t4314.68", "text": "and this goes back to that we believe Google more than ourselves and so if the happy meters and happy then I think I have to be happy and if I look at painting like one of these are which has been given the reputation of being the most beautiful painting in the world and I have to feel that.", "start": 4314.68, "end": 4334.68}
+{"id": "khY3pjDzqLs-t4334.68", "text": "And so the happy me to show me that that sort of seems to me to confirm your. Yes the expectation that this is rewarding and stuff that like yes. Okay I would like to go ahead.", "start": 4334.68, "end": 4345.68}
+{"id": "khY3pjDzqLs-t4345.68", "text": "It's just another put another pay in for computation and narrative. Before you said like one of the positives of trying to apply an AI system right is comes from the or a set of them come from the work you have to do to get there.", "start": 4345.68, "end": 4371.68}
+{"id": "khY3pjDzqLs-t4371.68", "text": "Right so so that these questions we're asking about is an instantaneous response or not is it something that you can measure from a watch is it might is it a mood ring right taking a little camera of my mood ring right that we that to to go along the path of we're going to optimize", "start": 4371.68, "end": 4388.68}
+{"id": "khY3pjDzqLs-t4388.68", "text": "or we're going to make efficient the creation of a work of art or something like that means that we need to step back and break that down into pieces. So first of all how are we going to decide that something is great or not is it is it our our physiological response is it a survey that we give someone six months later", "start": 4388.68, "end": 4405.68}
+{"id": "khY3pjDzqLs-t4405.68", "text": "you're still thinking about this has this changed your opinion like like we can now sit and talk about what are the variables that might that might give rise to this and by talking about those set variables we are doing a lot of actual real work to kind of understand", "start": 4405.68, "end": 4420.68}
+{"id": "khY3pjDzqLs-t4420.68", "text": "and think about it theorize about the ways in which we appreciate art and that's coming from what's fundamentally a computational question the first place.", "start": 4420.68, "end": 4429.68}
+{"id": "khY3pjDzqLs-t4429.68", "text": "Yeah. You remind me I was I'm glad you mentioned that because I was about to again challenge Jonathan about his idea that eventually this will be something that will happen I'll tell you what I mean I want to apply what Mark just said.", "start": 4429.68, "end": 4440.68}
+{"id": "khY3pjDzqLs-t4440.68", "text": "I know I was thinking in a way I you may be again likely contradicting yourself so lightly here in this sense but if you say okay well the solution that Niko's has suggested you absolutely reject that couldn't possibly produce art", "start": 4440.68, "end": 4457.68}
+{"id": "khY3pjDzqLs-t4457.68", "text": "of you know equal to a human or it's the wrong way to go about performing so the question would be and I maybe Mark is beginning to provide an answer so what do you think other than time what else might get us there.", "start": 4457.68, "end": 4471.68}
+{"id": "khY3pjDzqLs-t4471.68", "text": "I was saying it's the wrong way of judging work. Yeah. No I would be a way that would allow to allow me machine learning to generate the sort of thing that we think would be equal to a human so-called genius.", "start": 4471.68, "end": 4486.68}
+{"id": "khY3pjDzqLs-t4486.68", "text": "I mean first of all I don't know because that's not what I do but the but I go from my gatherer and again what I didn't say I wasn't predicting anything because I would have no grounds to make any predictions.", "start": 4486.68, "end": 4496.68}
+{"id": "khY3pjDzqLs-t4496.68", "text": "I just said I have no problem with the idea that that very that you know very powerful artificial intelligence might be able to write a novel that someone might actually read and not understand that it was written by a machine and not a person but that's because actually that", "start": 4496.68, "end": 4512.68}
+{"id": "khY3pjDzqLs-t4512.68", "text": "program has been fed you know a gajillion novels written by humans so it actually seems to me that the achievement there is not as huge and kind of world creating as might be as others might claim.", "start": 4512.68, "end": 4526.68}
+{"id": "khY3pjDzqLs-t4526.68", "text": "Which is just a you know it's just a computing step in computing power and the way that computers work with work with linguistic objects that have been you know around and created by humans with", "start": 4526.68, "end": 4541.68}
+{"id": "khY3pjDzqLs-t4541.68", "text": "whose computational systems are you know web you still seem to be unsure about what criteria you could apply to train the computer.", "start": 4541.68, "end": 4550.68}
+{"id": "khY3pjDzqLs-t4550.68", "text": "I mean the ones you would say I guess you'd say the zonicos is suggestion at least in the middle arts would be too simplistic and it wouldn't.", "start": 4550.68, "end": 4558.68}
+{"id": "khY3pjDzqLs-t4558.68", "text": "No you said the my suggestion is moderately wrong.", "start": 4558.68, "end": 4560.68}
+{"id": "khY3pjDzqLs-t4560.68", "text": "Okay well it may be.", "start": 4560.68, "end": 4561.68}
+{"id": "khY3pjDzqLs-t4561.68", "text": "This is a suggestion of judgment right now.", "start": 4561.68, "end": 4564.68}
+{"id": "khY3pjDzqLs-t4564.68", "text": "Yeah you know so I think that the I think the question of like you know judgment is going to be this or the criteria judgment will be the same whether or not we are reading a book that's written by a computer or whether or not you're reading a book by a human being.", "start": 4564.68, "end": 4577.68}
+{"id": "khY3pjDzqLs-t4577.68", "text": "I think maybe you know there's a kind of like touring test level in which it might be interesting to see if something could be you know picked up and read and mistaken.", "start": 4577.68, "end": 4586.68}
+{"id": "khY3pjDzqLs-t4586.68", "text": "I think that that tells you more again about the powers of the computer than it tells you about the nature of you know of literary fiction or literary art simply because what the computer is doing is trying to actually figure out a way of like you know it's reengineering something by", "start": 4586.68, "end": 4603.68}
+{"id": "khY3pjDzqLs-t4603.68", "text": "amassing massive examples and trying to create something that's like them.", "start": 4603.68, "end": 4617.68}
+{"id": "khY3pjDzqLs-t4617.68", "text": "That would be the same whether you know the author is machine or person.", "start": 4617.68, "end": 4636.68}
+{"id": "khY3pjDzqLs-t4636.68", "text": "Especially with nonfiction writing when computers can actually like write papers for example so like there's you know this plagiarism software which can detect whether or not a student has a copy to paper.", "start": 4636.68, "end": 4650.68}
+{"id": "khY3pjDzqLs-t4650.68", "text": "You can track down sometimes you know whether or not another human being has written it for money but whether there will soon be programs available that will can have a machine write a paper for you if you simply input what the topic is and what the sources are.", "start": 4650.68, "end": 4665.68}
+{"id": "khY3pjDzqLs-t4665.68", "text": "The answer is it has this has been done.", "start": 4665.68, "end": 4668.68}
+{"id": "khY3pjDzqLs-t4668.68", "text": "It can.", "start": 4668.68, "end": 4669.68}
+{"id": "khY3pjDzqLs-t4669.68", "text": "So that presents a real question of judgment I think actually like where again like it's where the question is like you know has the human written that has a machine written that has a real you know kind of important practical dimension to it.", "start": 4669.68, "end": 4682.68}
+{"id": "khY3pjDzqLs-t4682.68", "text": "And we are actually doing what you just described not for literature but for marketing for simpler and tasks and we are having humans there in our hardware and our tools and then checking whether they respond differently to human designed", "start": 4682.68, "end": 4699.68}
+{"id": "khY3pjDzqLs-t4699.68", "text": "and we are I'm at business school so we use marketing concept or from cheap developed from cheap history and we don't know the answer yet but in half a year I can tell you.", "start": 4699.68, "end": 4711.68}
+{"id": "khY3pjDzqLs-t4711.68", "text": "No one's raised the possibility that because humans have free will yet I'm just going to throw that out there.", "start": 4711.68, "end": 4717.68}
+{"id": "khY3pjDzqLs-t4717.68", "text": "And computers don't wait let me finish that they do the humans are free will and we may have access to let's say an infinite realm including fictional world that don't exist yet and I'm going to have that you create a fictional world that hasn't been in literature so far.", "start": 4717.68, "end": 4734.68}
+{"id": "khY3pjDzqLs-t4734.68", "text": "The computer might be able to come close maybe but maybe not but don't know when it seems to have taken that possible slam.", "start": 4734.68, "end": 4748.68}
+{"id": "khY3pjDzqLs-t4748.68", "text": "I knew you were going to say that.", "start": 4748.68, "end": 4770.68}
+{"id": "khY3pjDzqLs-t4770.68", "text": "Of course there's no free will because free will means that from the stuff in the trash.", "start": 4770.68, "end": 4782.68}
+{"id": "khY3pjDzqLs-t4782.68", "text": "I think the problem is free will seems to me maybe the to be leading us down the wrong path I mean because I think I'm not sure it solves the question for us in the way that you might want to but maybe just thinking about this is something about the imagination.", "start": 4782.68, "end": 4799.68}
+{"id": "khY3pjDzqLs-t4799.68", "text": "It seems like what you're trying to get at like that humans have a kind of imagined the capacity to create something that has never existed before an entire world or just simply a community of other humans and problems specific to them.", "start": 4799.68, "end": 4817.68}
+{"id": "khY3pjDzqLs-t4817.68", "text": "And then is that something that if you give enough examples like feed a computer like you know hundreds and thousands of novels whether the computer could figure out what it means to create a world that has never existed before based on a kind of you know imitation of what it is read.", "start": 4817.68, "end": 4841.68}
+{"id": "khY3pjDzqLs-t4841.68", "text": "Without lacking the without having the human imaginative capacity to do it on its own without having done all that reading.", "start": 4841.68, "end": 4849.68}
+{"id": "khY3pjDzqLs-t4849.68", "text": "I think that's you know I mean that I guess is a kind of interesting question about like what gets added to these kind of just acts of basic like imitation and slight adjustment and whether or not there's something special that goes into something that's special", "start": 4849.68, "end": 4867.68}
+{"id": "khY3pjDzqLs-t4867.68", "text": "that's very detectable by a reader in an artifact that's created by human versus an artifact that's created by computer.", "start": 4867.68, "end": 4875.68}
+{"id": "khY3pjDzqLs-t4875.68", "text": "That's why I'm writing in the subtitle the Procellation of what's not there.", "start": 4875.68, "end": 4879.68}
+{"id": "khY3pjDzqLs-t4879.68", "text": "Yeah because there are things that are not there yet and computers can.", "start": 4879.68, "end": 4884.68}
+{"id": "khY3pjDzqLs-t4884.68", "text": "Right the question is can they get so advanced they can imagine something that humans can imagine.", "start": 4884.68, "end": 4890.68}
+{"id": "khY3pjDzqLs-t4890.68", "text": "It's impossible to me but it's an interesting question. I think we keep talking about computers as if they aren't human.", "start": 4890.68, "end": 4898.68}
+{"id": "khY3pjDzqLs-t4898.68", "text": "They come from us like we made them we made we're the ones who are programming them.", "start": 4898.68, "end": 4902.68}
+{"id": "khY3pjDzqLs-t4902.68", "text": "We are the ones who put the metaphors forward through which certain things are easy to express or hard to express.", "start": 4902.68, "end": 4908.68}
+{"id": "khY3pjDzqLs-t4908.68", "text": "We're the ones who are collecting the data.", "start": 4908.68, "end": 4910.68}
+{"id": "khY3pjDzqLs-t4910.68", "text": "We're the ones who setting up the individual criteria upon which it's running and which it's trying to evaluate it.", "start": 4910.68, "end": 4918.68}
+{"id": "khY3pjDzqLs-t4918.68", "text": "We're the ones putting putting all that together. It's us.", "start": 4918.68, "end": 4921.68}
+{"id": "khY3pjDzqLs-t4921.68", "text": "So it is a human thing I think to say that we invented hammers too and to do a hammer everything is in hell.", "start": 4921.68, "end": 4929.68}
+{"id": "khY3pjDzqLs-t4929.68", "text": "Isn't that what they say?", "start": 4929.68, "end": 4931.68}
+{"id": "khY3pjDzqLs-t4931.68", "text": "Yes.", "start": 4931.68, "end": 4932.68}
+{"id": "khY3pjDzqLs-t4932.68", "text": "They say that.", "start": 4932.68, "end": 4933.68}
+{"id": "khY3pjDzqLs-t4933.68", "text": "What they mean by that is that someone using a hammer everything appears in hell which I think is part of Mars coin.", "start": 4933.68, "end": 4939.68}
+{"id": "khY3pjDzqLs-t4939.68", "text": "There's a more sophisticated hammer. I think that my students I mean I teach computational journalism and we spend some time with natural language processing", "start": 4939.68, "end": 4955.68}
+{"id": "khY3pjDzqLs-t4955.68", "text": "which is sort of computers applied to creation of language to the Alice's language.", "start": 4955.68, "end": 4962.68}
+{"id": "khY3pjDzqLs-t4962.68", "text": "We play with GPT three off and on and ask them what are the tasks that are what kinds of things could you as a journalist imagine using the score.", "start": 4962.68, "end": 4978.68}
+{"id": "khY3pjDzqLs-t4978.68", "text": "There are certain data chain things you can do.", "start": 4978.68, "end": 4983.68}
+{"id": "khY3pjDzqLs-t4983.68", "text": "Like when New York State started publishing statistics about monkeypox it was putting it out on the health department website as a sentence.", "start": 4983.68, "end": 4994.68}
+{"id": "khY3pjDzqLs-t4994.68", "text": "Last week there were five cases in New York City. There were three cases in something county that were NGB three would do.", "start": 4994.68, "end": 5000.68}
+{"id": "khY3pjDzqLs-t5000.68", "text": "You could ask it to do to fleet take that number and put it into a tape those data put it into a table and it would happily do that for you.", "start": 5000.68, "end": 5006.68}
+{"id": "khY3pjDzqLs-t5006.68", "text": "You could also ask it write me something about a story about what's happening at the border.", "start": 5006.68, "end": 5013.68}
+{"id": "khY3pjDzqLs-t5013.68", "text": "Well problem is GPT three is not is trained up to like 2014 something like that.", "start": 5013.68, "end": 5020.68}
+{"id": "khY3pjDzqLs-t5020.68", "text": "So if you mentioned something about Ukraine it's not a contemporary situation it's a past situation.", "start": 5020.68, "end": 5027.68}
+{"id": "khY3pjDzqLs-t5027.68", "text": "But I think that what I wanted to say is that the way you interact with GPT three it's looking to complete an idea.", "start": 5027.68, "end": 5035.68}
+{"id": "khY3pjDzqLs-t5035.68", "text": "It's trained on a bank of literature as you suggest.", "start": 5035.68, "end": 5043.68}
+{"id": "khY3pjDzqLs-t5043.68", "text": "But what the underlying prediction problem is trying to do is to say given them this far in the sentence or this far into the paragraph or whatever it is what comes next.", "start": 5043.68, "end": 5052.68}
+{"id": "khY3pjDzqLs-t5052.68", "text": "It's always just like guessing what comes next to generate.", "start": 5052.68, "end": 5056.68}
+{"id": "khY3pjDzqLs-t5056.68", "text": "So you can start and you can do what's called prompt programming and start it you know often in a direction so easiest kind of prompt.", "start": 5056.68, "end": 5065.68}
+{"id": "khY3pjDzqLs-t5065.68", "text": "You could say English colon hi French colon Bonjour English colon skyscraper French colon and it'll give you what the French translation of skyscraper.", "start": 5065.68, "end": 5077.68}
+{"id": "khY3pjDzqLs-t5077.68", "text": "Thank you. And then you could ask it to you could start to ask it to you know here's here's an example of five yellow reviews of a particular thing identified to that have sort of racially biased whatever right so you can start to sort of weave it in", "start": 5077.68, "end": 5097.68}
+{"id": "khY3pjDzqLs-t5097.68", "text": "and there are various ways in which you might interact with a GPT three through through divine defining these prompts and you can chain them together and almost start to build programming ideas that I believe you could sort of teach the fundamentals of computational thinking", "start": 5097.68, "end": 5116.68}
+{"id": "khY3pjDzqLs-t5116.68", "text": "through a GPT three style interface because it's all just language at that point you're not you know do you know for I and one does something or they do this right I think you are you are pulling apart computational computational questions", "start": 5116.68, "end": 5131.68}
+{"id": "khY3pjDzqLs-t5131.68", "text": "by by giving instructions to a machine and seeing what comes back.", "start": 5131.68, "end": 5135.68}
+{"id": "khY3pjDzqLs-t5135.68", "text": "And there's always this moment of oh I didn't expect that.", "start": 5135.68, "end": 5138.68}
+{"id": "khY3pjDzqLs-t5138.68", "text": "Oh look what happened there right and there's a little bit of delight and whatever that comes from interacting with these systems and I think I think again it comes down to to to to to be open enough and having the exposure to to what these computational systems are all about to be able", "start": 5138.68, "end": 5155.68}
+{"id": "khY3pjDzqLs-t5155.68", "text": "to ground that conversation and to say all right this is where it might be useful this is where it might be dangerous and we can start to make choices.", "start": 5155.68, "end": 5163.68}
+{"id": "khY3pjDzqLs-t5163.68", "text": "I think thank you I think we should open the floor up to questions and please I'm going to put the microphone up there.", "start": 5163.68, "end": 5173.68}
+{"id": "khY3pjDzqLs-t5173.68", "text": "Come on up here.", "start": 5173.68, "end": 5180.68}
+{"id": "khY3pjDzqLs-t5180.68", "text": "So thank you so much for this lively discussion I'm here since then and in the heating meter I think you score the highest figures so far so thanks.", "start": 5180.68, "end": 5193.68}
+{"id": "khY3pjDzqLs-t5193.68", "text": "I have a comment and a question the comment is being having involved in some empirical research on aesthetics.", "start": 5193.68, "end": 5205.68}
+{"id": "khY3pjDzqLs-t5205.68", "text": "I think one is to distinguish the tools from the questions so with the same tools you can ask different questions you can be interested in spotting the place in the brain where beauty sits which is a few millimeters away from where the sublime sits", "start": 5205.68, "end": 5224.68}
+{"id": "khY3pjDzqLs-t5224.68", "text": "and legitimate question to be to be asked but it's not my cup of tea or you can be more interested in the experience in front of some cultural artifacts and then starts the difficulty because our experience is always situated.", "start": 5224.68, "end": 5242.68}
+{"id": "khY3pjDzqLs-t5242.68", "text": "So you can do it in easy experiment think about your favorite piece of music and listening to it while you're contemplating your favorite landscape with respect to when you're filling your tax form.", "start": 5242.68, "end": 5255.68}
+{"id": "khY3pjDzqLs-t5255.68", "text": "So the physiology up to a certain point is clearly the same you you activate the same or theatory pathway blah blah blah but then in the end the experience is completely different.", "start": 5255.68, "end": 5271.68}
+{"id": "khY3pjDzqLs-t5271.68", "text": "So one of the greatest difficulties is to contextualize the experience within the individual in different time of this life so it's incredibly difficult.", "start": 5271.68, "end": 5282.68}
+{"id": "khY3pjDzqLs-t5282.68", "text": "The question relates to the parallel between narrative and coding.", "start": 5282.68, "end": 5289.68}
+{"id": "khY3pjDzqLs-t5289.68", "text": "So if we can draw such a parallel and entertain the idea that narrative is a particular form of coding.", "start": 5289.68, "end": 5299.68}
+{"id": "khY3pjDzqLs-t5299.68", "text": "Can we also push it to say to the point to entertain the idea that they are more similar than they might look at first sight because narrative in itself is the outcome of a specific cognitive technology.", "start": 5299.68, "end": 5319.68}
+{"id": "khY3pjDzqLs-t5319.68", "text": "There are people who have been suggesting that the first form of narrative stems from the syntax of movement, the Shenoupe Ratua, Le Raguaran for example, was one of the earliest proposals of such theory.", "start": 5319.68, "end": 5336.68}
+{"id": "khY3pjDzqLs-t5336.68", "text": "So can this be this idea how does it sound to you? Do you think it is legitimate or?", "start": 5336.68, "end": 5343.68}
+{"id": "khY3pjDzqLs-t5343.68", "text": "I don't think that I quite understand the claim that narrative is based on a syntax of movement.", "start": 5343.68, "end": 5351.68}
+{"id": "khY3pjDzqLs-t5351.68", "text": "I think at its fundamentals narrative is based on an expression of causation.", "start": 5351.68, "end": 5356.68}
+{"id": "khY3pjDzqLs-t5356.68", "text": "And the root can be traced in a time of human evolution when the main activity was utility.", "start": 5356.68, "end": 5374.68}
+{"id": "khY3pjDzqLs-t5374.68", "text": "The main object whose main purpose is not to serve a specific need but the only purpose is to say something to someone else.", "start": 5374.68, "end": 5386.68}
+{"id": "khY3pjDzqLs-t5386.68", "text": "Can we trace is there a red line, a continuum between the motor syntax that enables the production of tools for example, with the motor syntax, the narrative syntax that enable you to produce", "start": 5386.68, "end": 5403.68}
+{"id": "khY3pjDzqLs-t5403.68", "text": "an average, a feature of narrative. Does it sound crazy?", "start": 5403.68, "end": 5410.68}
+{"id": "khY3pjDzqLs-t5410.68", "text": "I'll close it.", "start": 5410.68, "end": 5413.68}
+{"id": "khY3pjDzqLs-t5413.68", "text": "Yeah, I mean, it's an interesting way of thinking. I'm not really sure how you would explore the phenomena, to be honest.", "start": 5413.68, "end": 5421.68}
+{"id": "khY3pjDzqLs-t5421.68", "text": "I mean, like, or it seems like a good prompt for thinking.", "start": 5421.68, "end": 5426.68}
+{"id": "khY3pjDzqLs-t5426.68", "text": "Yeah, it's kind of a judgement story.", "start": 5426.68, "end": 5428.68}
+{"id": "khY3pjDzqLs-t5428.68", "text": "A little bit. I think that I share a Nina's intuition that there's a kind of deeply causal structure to most narratives if you want to get them to their simplest structure.", "start": 5428.68, "end": 5442.68}
+{"id": "khY3pjDzqLs-t5442.68", "text": "And establishing connections between one event and another. The on the side of response, like, why is it that we seem to have a kind of appetite again?", "start": 5442.68, "end": 5464.68}
+{"id": "khY3pjDzqLs-t5464.68", "text": "It's just so sort of phrased but for want to have a better term. Like, why we have an appetite for stories and narratives presents, you know, is to come at it from the other side, sort of more, you know, on this sort of level of like, you know, consumption rather than the production of stories", "start": 5464.68, "end": 5483.68}
+{"id": "khY3pjDzqLs-t5483.68", "text": "or what stories are. And I could be there that some of the kind of, some of the deep history you're talking about actually plays an important role.", "start": 5483.68, "end": 5493.68}
+{"id": "khY3pjDzqLs-t5493.68", "text": "Maybe I'll stop there.", "start": 5493.68, "end": 5497.68}
+{"id": "khY3pjDzqLs-t5497.68", "text": "I think it's a very, it's a complicated question. I think we're all having a little difficult time wrapping our minds around. Not because it's crazy because you asked, I wouldn't have used that adjective.", "start": 5497.68, "end": 5508.68}
+{"id": "khY3pjDzqLs-t5508.68", "text": "But you asked, but no, no, no, no, I really mean that. I don't know. I think it's interesting to think, you know, the one criticism of some books is that some literature is like, you know, nothing happens in this story, right?", "start": 5508.68, "end": 5519.68}
+{"id": "khY3pjDzqLs-t5519.68", "text": "And that doesn't mean that's a valid, that's only one way you can look at it. But more advanced forms of literature, there were, there are more stories where it's more internal that goes on in the story.", "start": 5519.68, "end": 5530.68}
+{"id": "khY3pjDzqLs-t5530.68", "text": "And some people don't go for that because obviously Homer, in Homer, a lot of action is happening. Closation and movement are closely related.", "start": 5530.68, "end": 5539.68}
+{"id": "khY3pjDzqLs-t5539.68", "text": "So for sure, we know was based on the idea of one billion ball, ball, that's another, that's sort of a paradigm for causation. So, yeah. There's a connection to between your initial comment and your question, which is that, and I agree entirely with your formulation that you gave of the", "start": 5539.68, "end": 5557.68}
+{"id": "khY3pjDzqLs-t5557.68", "text": "situatedness of any aesthetic response, which I think raises some real problems for the idea that you could just kind of connect it to something like a happiness meter, which is intrinsically decontextualized, it's just like attached to you.", "start": 5557.68, "end": 5574.68}
+{"id": "khY3pjDzqLs-t5574.68", "text": "And I think that that raises questions around how you would, I mean, most of the way that we think and talk about artificial intelligence in the way that it can pose the stories is unsituated, that is the program has no situation.", "start": 5574.68, "end": 5591.68}
+{"id": "khY3pjDzqLs-t5591.68", "text": "It's lifted out from the world. And it's only access to the world is through what we feed it, through other stories, and through a writing of code.", "start": 5591.68, "end": 5603.68}
+{"id": "khY3pjDzqLs-t5603.68", "text": "That seems to me, I mean, the picture that you were giving, which I know is one that you hold closely, is that of a kind of much of a more embodied interaction with the world, not embodied in the sense of, you know, the kind of unmoving physiology of someone who is just reading or looking at something and then attached to a meter, but actually acting in the world, moving around in it.", "start": 5603.68, "end": 5628.68}
+{"id": "khY3pjDzqLs-t5628.68", "text": "And there, I think, you know, our agree the entirely.", "start": 5628.68, "end": 5633.68}
+{"id": "khY3pjDzqLs-t5633.68", "text": "Anyone else?", "start": 5633.68, "end": 5640.68}
+{"id": "khY3pjDzqLs-t5640.68", "text": "Good to see you. I have a couple of colleagues here. I'm one of Jonathan's friends at Yale.", "start": 5640.68, "end": 5646.68}
+{"id": "khY3pjDzqLs-t5646.68", "text": "I was struck by the conversation about code from the beginning in that it didn't seem that we could ever, like there was ever really a consensus about what a code is, that there's a lot of sort of implicit", "start": 5646.68, "end": 5639.68}
+{"id": "khY3pjDzqLs-t5639.68", "text": "understanding about who, like, the difference between, you know, code switching and language and computer code. And like, so I, you know, while I was sitting there at Google, a little bit of etymological, I was just thinking about", "start": 5639.68, "end": 5656.68}
+{"id": "khY3pjDzqLs-t5656.68", "text": "where these words come from and code comes from codecs. It comes from the book of laws that were established that everyone kind of referenced as a kind of index of cultural authority, right? That was the sort of where we get the word code.", "start": 5656.68, "end": 5671.68}
+{"id": "khY3pjDzqLs-t5671.68", "text": "The idea of code as a cipher or system of signals and the rules which govern their use isn't until 1808. And then, you know, in subsequent decades, you get Morse code and things like that.", "start": 5671.68, "end": 5685.68}
+{"id": "khY3pjDzqLs-t5685.68", "text": "But the idea of it as a system of expressing information and instructions in the form, usable by a computer, is not until 1946 and 47 when it becomes a verb.", "start": 5685.68, "end": 5711.68}
+{"id": "khY3pjDzqLs-t5711.68", "text": "So what I want to ask is, do you understand code as being something that a computer is the sort of repository or archive of, or is it something that the computer does or that we do to a computer?", "start": 5711.68, "end": 5725.68}
+{"id": "khY3pjDzqLs-t5725.68", "text": "And I ask because it strikes me as an interesting question about decoding. Does the computer decode what we give it? And my assumption is no, the computer doesn't understand what's encoded, it just processes information.", "start": 5725.68, "end": 5742.68}
+{"id": "khY3pjDzqLs-t5742.68", "text": "But because it's described as code, there's almost a way in which the machine is sort of like from the origin of the term takes on this sort of humanistic aura that it's this thing that can do what we do, which is decode.", "start": 5742.68, "end": 5758.68}
+{"id": "khY3pjDzqLs-t5758.68", "text": "But in fact, machines don't decode, they just churn. I mean, I guess you could program something to decode something else, but that's different than saying in the way that we would decipher a cipher.", "start": 5758.68, "end": 5773.68}
+{"id": "khY3pjDzqLs-t5773.68", "text": "So tell me about code, why is it, why is, why are we using this term to describe what computers do? Well, I would actually just say the other way around, and I would say computer is capable of repeatably exactly in the same way as many times as I wanted, executing my code,", "start": 5773.68, "end": 5796.68}
+{"id": "khY3pjDzqLs-t5796.68", "text": "whereas if you have a codecs and you have humans interpreting it, then we have all these contexts, and so it's not repeatable. And you don't know because you have the mood of the day and many other influences.", "start": 5796.68, "end": 5809.68}
+{"id": "khY3pjDzqLs-t5809.68", "text": "And so I think in that sense, the computer is from a consistent.", "start": 5809.68, "end": 5814.68}
+{"id": "khY3pjDzqLs-t5814.68", "text": "I think all of the senses, the animal article senses that you gave, I think they're fairly consistent, and they do all come back to the sense of a set of rules.", "start": 5814.68, "end": 5825.68}
+{"id": "khY3pjDzqLs-t5825.68", "text": "And whether that's a set of rules for behavior, in the case of when you give a computer certain lines of code, those are then rules that determine what it will do, what it will produce, or if it's a code, say in narrative,", "start": 5825.68, "end": 5841.68}
+{"id": "khY3pjDzqLs-t5841.68", "text": "the fundamental set of rules that govern what a narrative is, that all of those different senses of code seem to me like compatible with this idea of a set of rules.", "start": 5841.68, "end": 5857.68}
+{"id": "khY3pjDzqLs-t5857.68", "text": "So, I mean, I guess if I were to say what is a code, I'm comfortable with it's a set of fundamental principles or rules that govern the generation of something further.", "start": 5857.68, "end": 5871.68}
+{"id": "khY3pjDzqLs-t5871.68", "text": "Anything else?", "start": 5871.68, "end": 5874.68}
+{"id": "khY3pjDzqLs-t5874.68", "text": "Okay.", "start": 5874.68, "end": 5876.68}
+{"id": "khY3pjDzqLs-t5876.68", "text": "Which is, yes, what you said is true, but the asymmetric conditions of the creation of code is inseparable from the cryptographic history, right?", "start": 5876.68, "end": 5886.68}
+{"id": "khY3pjDzqLs-t5886.68", "text": "So, understanding that, because that's one thing that I'm a magician, and I track asymmetric information conditions, and I interact with a lot of academics.", "start": 5886.68, "end": 5896.68}
+{"id": "khY3pjDzqLs-t5896.68", "text": "And one thing I find fascinating is that in these discussions, the asymmetric information condition associated with codes and information systems in general is not so well tracked or brought up in these conversations.", "start": 5896.68, "end": 5910.68}
+{"id": "khY3pjDzqLs-t5910.68", "text": "So, to his point, I think there's something much more deep under what he's saying that's actually quite relevant these days to track how this information, what's the nature of information, we know unique and interoperable data is incredibly valuable.", "start": 5910.68, "end": 5927.68}
+{"id": "khY3pjDzqLs-t5927.68", "text": "But it really takes a kind of cryptographer, my father-in-law was a naval commander in Holland who worked at NATO Command, and then I have a lot of friends in mathematics at places like the Institute for Defense Analysis, and I think they'd have a lot to say about this conversation.", "start": 5927.68, "end": 5946.68}
+{"id": "khY3pjDzqLs-t5946.68", "text": "So, and I think those things are especially relevant today, so I'm just backing up your point, really.", "start": 5946.68, "end": 5954.68}
+{"id": "khY3pjDzqLs-t5954.68", "text": "Well, thank you.", "start": 5954.68, "end": 5962.68}
+{"id": "khY3pjDzqLs-t5962.68", "text": "Thank you for another wonderful panel.", "start": 5962.68, "end": 5964.68}
+{"id": "khY3pjDzqLs-t5964.68", "text": "I want to make a question that's going to connect us with the previous panel.", "start": 5964.68, "end": 5969.68}
+{"id": "khY3pjDzqLs-t5969.68", "text": "Is the publishing of, let's say, computer-generated novel misinformation if I don't disclose that it's being generated by a computer?", "start": 5969.68, "end": 5986.68}
+{"id": "khY3pjDzqLs-t5986.68", "text": "Well, sure, I mean, in some level, if you define it as information, the question is whether or not...", "start": 5986.68, "end": 6000.68}
+{"id": "khY3pjDzqLs-t6000.68", "text": "Well, I'm sure, because the computer has been generated by humans.", "start": 6000.68, "end": 6004.68}
+{"id": "khY3pjDzqLs-t6004.68", "text": "There you go.", "start": 6004.68, "end": 6005.68}
+{"id": "khY3pjDzqLs-t6005.68", "text": "It's a good answer.", "start": 6005.68, "end": 6007.68}
+{"id": "khY3pjDzqLs-t6007.68", "text": "I think in journalistic applications, when a story has been written has been automated, even if it's human-edited, the bylines you just, it's been done by an AI.", "start": 6007.68, "end": 6024.68}
+{"id": "khY3pjDzqLs-t6024.68", "text": "But we do attribute middle marks to George Eliot, right?", "start": 6024.68, "end": 6030.68}
+{"id": "khY3pjDzqLs-t6030.68", "text": "Even though she wasn't a man, that's my point.", "start": 6030.68, "end": 6034.68}
+{"id": "khY3pjDzqLs-t6034.68", "text": "Yeah, what does it matter?", "start": 6034.68, "end": 6038.68}
+{"id": "khY3pjDzqLs-t6038.68", "text": "Yeah, so, question, I think the, from what I understand about the previous panel, was about misinformation, which has a real kind of social effect, or a political effect.", "start": 6038.68, "end": 6051.68}
+{"id": "khY3pjDzqLs-t6051.68", "text": "And in this case, I mean, it might, that would depend upon the context in which the information mattered.", "start": 6051.68, "end": 6066.68}
+{"id": "khY3pjDzqLs-t6066.68", "text": "As such, it would be either in some literal sense misleading or withholding, but it wouldn't necessarily.", "start": 6066.68, "end": 6070.68}
+{"id": "khY3pjDzqLs-t6070.68", "text": "Whether or not it counts as misinformation in the social meaning of that term today, which is really quite important, would depend entirely on the context that day.", "start": 6070.68, "end": 6080.68}
+{"id": "khY3pjDzqLs-t6080.68", "text": "I think it would be misinformation if you claimed that it was a work of nonfiction, but it would not be misinformation if you gave it the label of fiction.", "start": 6080.68, "end": 6090.68}
+{"id": "khY3pjDzqLs-t6090.68", "text": "That's all right.", "start": 6090.68, "end": 6091.68}
+{"id": "khY3pjDzqLs-t6091.68", "text": "Well, everyone, I want to thank you again for an amazing roundtable.", "start": 6091.68, "end": 6095.68}
+{"id": "khY3pjDzqLs-t6095.68", "text": "I want everyone to know that we're returning here tomorrow morning at 11 for the first roundtable is entitled, Our Natural Language Generators for Real, which is about GPT-3 that we spoke of tonight.", "start": 6095.68, "end": 6109.68}
+{"id": "khY3pjDzqLs-t6109.68", "text": "And then we'll end the conference with, is the universe a metaverse, and that begins at 2pm.", "start": 6109.68, "end": 6116.68}
+{"id": "khY3pjDzqLs-t6116.68", "text": "So thank you again, everyone. It was wonderful.", "start": 6116.68, "end": 6119.68}
+{"id": "khY3pjDzqLs-t6119.68", "text": "Thank you.", "start": 6119.68, "end": 6145.68}
+{"id": "khY3pjDzqLs-t6149.68", "text": "Thank you.", "start": 6149.68, "end": 6156.68}

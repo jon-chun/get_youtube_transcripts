@@ -1,0 +1,1057 @@
+{"id": "O0Ea5cS4QwE-t0.0", "text": "Okay, so I should just speak.", "start": 0.0, "end": 6.32}
+{"id": "O0Ea5cS4QwE-t6.32", "text": "I can, okay.", "start": 6.32, "end": 7.32}
+{"id": "O0Ea5cS4QwE-t7.32", "text": "All right, so we're gonna get started.", "start": 7.32, "end": 11.48}
+{"id": "O0Ea5cS4QwE-t11.48", "text": "My name is David Pollins.", "start": 11.48, "end": 12.72}
+{"id": "O0Ea5cS4QwE-t12.72", "text": "I'm head of the Poetry Committee here at Helix.", "start": 12.72, "end": 16.2}
+{"id": "O0Ea5cS4QwE-t16.2", "text": "And I wanna welcome you to the first poetry event in our tradition series, a series which", "start": 16.2, "end": 21.52}
+{"id": "O0Ea5cS4QwE-t21.52", "text": "will be devoted to the appreciation of literary traditions that are less familiar to a general", "start": 21.52, "end": 25.84}
+{"id": "O0Ea5cS4QwE-t25.84", "text": "audience.", "start": 25.84, "end": 28.2}
+{"id": "O0Ea5cS4QwE-t28.2", "text": "For future events in this series, we have begun preparations to organize programs on the Palestinian", "start": 28.2, "end": 34.36}
+{"id": "O0Ea5cS4QwE-t34.36", "text": "poet Mahoud Darwish, on Native American poetry, on modern Yiddish poetry, and the literary", "start": 34.36, "end": 42.2}
+{"id": "O0Ea5cS4QwE-t42.2", "text": "beauty of the Koran.", "start": 42.2, "end": 45.32}
+{"id": "O0Ea5cS4QwE-t45.32", "text": "I wanted to make a general announcement too that we wanted to apologize for the cancellation", "start": 45.32, "end": 50.28}
+{"id": "O0Ea5cS4QwE-t50.28", "text": "of the roundtable last week on Love, which has been rescheduled for next Saturday, and", "start": 50.28, "end": 57.16}
+{"id": "O0Ea5cS4QwE-t57.16", "text": "upcoming in the Helix series is the topology of fear.", "start": 57.16, "end": 61.44}
+{"id": "O0Ea5cS4QwE-t61.44", "text": "What's the date on that?", "start": 61.44, "end": 64.16}
+{"id": "O0Ea5cS4QwE-t64.16", "text": "March 9th.", "start": 64.16, "end": 66.39999999999999}
+{"id": "O0Ea5cS4QwE-t66.39999999999999", "text": "On March 16th, we'll have the first event in our Legacy series in poetry, a series that's", "start": 66.39999999999999, "end": 72.78}
+{"id": "O0Ea5cS4QwE-t72.78", "text": "dedicated to the work of English language poets.", "start": 72.78, "end": 76.19999999999999}
+{"id": "O0Ea5cS4QwE-t76.19999999999999", "text": "Our first event is a discussion of the poetry of Elizabeth Bishop and includes Bonnie Costello,", "start": 76.19999999999999, "end": 82.84}
+{"id": "O0Ea5cS4QwE-t82.84", "text": "Alice Quinn, Lloyd Schwartz, and Jean Valentine.", "start": 82.84, "end": 88.16}
+{"id": "O0Ea5cS4QwE-t88.16", "text": "We're currently planning an event for the fall on John Dunn and his influence on contemporary", "start": 88.16, "end": 92.80000000000001}
+{"id": "O0Ea5cS4QwE-t92.80000000000001", "text": "poetry, and that's being co-sponsored with Fordham University and the New York Public", "start": 92.80000000000001, "end": 97.76}
+{"id": "O0Ea5cS4QwE-t97.76", "text": "Library.", "start": 97.76, "end": 100.52000000000001}
+{"id": "O0Ea5cS4QwE-t100.52000000000001", "text": "I wanna thank the members of the Poetry Committee, the likes who are helping to prepare our events.", "start": 100.52000000000001, "end": 105.56}
+{"id": "O0Ea5cS4QwE-t105.56", "text": "They are Heather Dubrow, Rachel Haddis, Anne-Ree Levine, Patrick Rosal, and Polly Rosenweke.", "start": 105.56, "end": 112.64}
+{"id": "O0Ea5cS4QwE-t112.64", "text": "Today, we're very fortunate to have Francis Pritchett and Mustafa Menai with us to talk", "start": 112.64, "end": 117.76}
+{"id": "O0Ea5cS4QwE-t117.76", "text": "about the poetry of Gala, the great 19th century poet of the Urdu and Persian literary traditions.", "start": 117.76, "end": 125.76}
+{"id": "O0Ea5cS4QwE-t125.76", "text": "He was a preeminent master of the poetic form that I used to call gazelle, but now no better", "start": 125.76, "end": 130.4}
+{"id": "O0Ea5cS4QwE-t130.4", "text": "and pronounced guzzle.", "start": 130.4, "end": 131.84}
+{"id": "O0Ea5cS4QwE-t131.84", "text": "Mustafa Menai is lecturer of Urdu at the University of Pennsylvania, South Asia Studies.", "start": 131.84, "end": 138.72}
+{"id": "O0Ea5cS4QwE-t138.72", "text": "Francis Pritchett is professor of modern Indian languages in the Department of Middle Eastern,", "start": 138.72, "end": 143.6}
+{"id": "O0Ea5cS4QwE-t143.6", "text": "South Asian, and African Studies at Columbia University.", "start": 143.6, "end": 148.24}
+{"id": "O0Ea5cS4QwE-t148.24", "text": "She presides over a wonderful website devoted largely to the poetry of Mir and Gala, which", "start": 148.24, "end": 154.56}
+{"id": "O0Ea5cS4QwE-t154.56", "text": "we will have the opportunity to view today as our two presenters guide us into the world", "start": 154.56, "end": 159.76}
+{"id": "O0Ea5cS4QwE-t159.76", "text": "of Gala.", "start": 159.76, "end": 162.36}
+{"id": "O0Ea5cS4QwE-t162.36", "text": "Before turning the floor over to our presenters, I'd like to draw your attention to a charitable", "start": 162.36, "end": 166.84}
+{"id": "O0Ea5cS4QwE-t166.84", "text": "foundation that is special to them, the Hoshar Foundation, which is dedicated to providing", "start": 166.84, "end": 174.36}
+{"id": "O0Ea5cS4QwE-t174.36", "text": "opportunities for education and empowerment to the girls of Pakistan.", "start": 174.36, "end": 178.68}
+{"id": "O0Ea5cS4QwE-t178.68", "text": "I'll distribute some information about the foundation and the hope that you will find", "start": 178.68, "end": 182.8}
+{"id": "O0Ea5cS4QwE-t182.8", "text": "it worthy of your support.", "start": 182.8, "end": 185.16}
+{"id": "O0Ea5cS4QwE-t185.16", "text": "I now turn the presentation over to Mustafa and Francis.", "start": 185.16, "end": 189.8}
+{"id": "O0Ea5cS4QwE-t189.8", "text": "Well thank you very much, David.", "start": 189.8, "end": 191.4}
+{"id": "O0Ea5cS4QwE-t191.4", "text": "It's a really nice introduction and we appreciate your coming out on such a very pretty Saturday", "start": 191.4, "end": 198.08}
+{"id": "O0Ea5cS4QwE-t198.08", "text": "afternoon because I know for most of you this is an intellectual adventure and not something", "start": 198.08, "end": 203.48000000000002}
+{"id": "O0Ea5cS4QwE-t203.48000000000002", "text": "that you're already familiar with or interested in, so that deserves more credit and more", "start": 203.48000000000002, "end": 209.52}
+{"id": "O0Ea5cS4QwE-t209.52", "text": "admiration for your intellectual curiosity and outreach.", "start": 209.52, "end": 213.84}
+{"id": "O0Ea5cS4QwE-t213.84", "text": "So we'll try to make life interesting as best we can for the next hour and a half.", "start": 213.84, "end": 220.52}
+{"id": "O0Ea5cS4QwE-t220.52", "text": "I would like to begin by just reading a brief little historical and analytical presentation", "start": 220.52, "end": 226.56}
+{"id": "O0Ea5cS4QwE-t226.56", "text": "about the guzzle just to touch on a number of points that will help you sort of feel", "start": 226.56, "end": 231.96}
+{"id": "O0Ea5cS4QwE-t231.96", "text": "oriented about it and then we can move on and discuss any of the particulars in detail", "start": 231.96, "end": 240.12}
+{"id": "O0Ea5cS4QwE-t240.12", "text": "and look at one verse.", "start": 240.12, "end": 241.92000000000002}
+{"id": "O0Ea5cS4QwE-t241.92000000000002", "text": "I know the viewing angle isn't ideal but on our screen back there we have the one photograph", "start": 241.92000000000002, "end": 248.52}
+{"id": "O0Ea5cS4QwE-t248.52", "text": "ever taken of Mirza Akalib, the great poet that we're going to talk about today.", "start": 248.52, "end": 254.20000000000002}
+{"id": "O0Ea5cS4QwE-t254.20000000000002", "text": "This was done in 1868 and he died in 1869 and in 1868 photography was just coming to", "start": 254.20000000000002, "end": 262.48}
+{"id": "O0Ea5cS4QwE-t262.48", "text": "Delhi where he lived and in his letters you can see there are references that he makes", "start": 262.48, "end": 269.92}
+{"id": "O0Ea5cS4QwE-t269.92", "text": "to how oh his friends had urged him to go to have a photograph made but the photographer", "start": 269.92, "end": 275.40000000000003}
+{"id": "O0Ea5cS4QwE-t275.40000000000003", "text": "hadn't come.", "start": 275.40000000000003, "end": 276.40000000000003}
+{"id": "O0Ea5cS4QwE-t276.4", "text": "He didn't expect him to come to his house not to go to a studio and it was too much", "start": 276.4, "end": 280.28}
+{"id": "O0Ea5cS4QwE-t280.28", "text": "trouble and who who minded but then there was another occasion and so finally the photographer", "start": 280.28, "end": 284.88}
+{"id": "O0Ea5cS4QwE-t284.88", "text": "did come and it's very moving because we have all sorts of miniature paintings of this", "start": 284.88, "end": 289.96}
+{"id": "O0Ea5cS4QwE-t289.96", "text": "man.", "start": 289.96, "end": 292.44}
+{"id": "O0Ea5cS4QwE-t292.44", "text": "Let's just take a brief look.", "start": 292.44, "end": 297.12}
+{"id": "O0Ea5cS4QwE-t297.12", "text": "And you see it's a different world.", "start": 297.12, "end": 298.84}
+{"id": "O0Ea5cS4QwE-t298.84", "text": "When you move into the world of miniature paintings you are at one more remove from our world", "start": 298.84, "end": 308.2}
+{"id": "O0Ea5cS4QwE-t308.2", "text": "and you have to imagine the background and imagine the kind of poetic and painting and", "start": 308.2, "end": 312.67999999999995}
+{"id": "O0Ea5cS4QwE-t312.67999999999995", "text": "artistic conventions that are being used.", "start": 312.67999999999995, "end": 316.44}
+{"id": "O0Ea5cS4QwE-t316.44", "text": "These are all just interesting bits and pieces from my website.", "start": 316.44, "end": 319.23999999999995}
+{"id": "O0Ea5cS4QwE-t319.23999999999995", "text": "I'm just showing them for fun but these early photographs were pasted onto like visiting", "start": 319.23999999999995, "end": 325.76}
+{"id": "O0Ea5cS4QwE-t325.76", "text": "cards and you would give them as mementos to your friends.", "start": 325.76, "end": 329.2}
+{"id": "O0Ea5cS4QwE-t329.2", "text": "So this is a visiting card that had been preserved in the family of a friend of mine for a long", "start": 329.2, "end": 334.96}
+{"id": "O0Ea5cS4QwE-t334.96", "text": "time and it's very faded but this is the best access we'll ever have to what Khaleb", "start": 334.96, "end": 341.08}
+{"id": "O0Ea5cS4QwE-t341.08", "text": "actually looked like.", "start": 341.08, "end": 342.08}
+{"id": "O0Ea5cS4QwE-t342.08", "text": "Then we have of course the later visions by modern Pakistani writers of what they think", "start": 342.08, "end": 347.56}
+{"id": "O0Ea5cS4QwE-t347.56", "text": "about Khaleb or the impressions that they have.", "start": 347.56, "end": 351.32}
+{"id": "O0Ea5cS4QwE-t351.32", "text": "And here is an art student whom I know has imagined that Khaleb would appear on a Pakistani", "start": 351.32, "end": 359.28}
+{"id": "O0Ea5cS4QwE-t359.28", "text": "rupee note although that actually hasn't happened but he's just experimenting with the view", "start": 359.28, "end": 366.12}
+{"id": "O0Ea5cS4QwE-t366.12", "text": "in a sort of free ranging way.", "start": 366.12, "end": 370.03999999999996}
+{"id": "O0Ea5cS4QwE-t370.03999999999996", "text": "But let me just give you a little background about the genre and the poet.", "start": 370.03999999999996, "end": 377.36}
+{"id": "O0Ea5cS4QwE-t377.36", "text": "The word guzzle means something like conversations with women.", "start": 377.36, "end": 382.64}
+{"id": "O0Ea5cS4QwE-t382.64", "text": "Like the genre itself it originated in 6th century Arabic verse.", "start": 382.64, "end": 388.96000000000004}
+{"id": "O0Ea5cS4QwE-t388.96000000000004", "text": "Early Arabic guzzle revolved around two broad themes.", "start": 388.96000000000004, "end": 392.72}
+{"id": "O0Ea5cS4QwE-t392.72", "text": "The rakish celebration of wine, women and song and the elegiac lament over lost love.", "start": 392.72, "end": 399.32}
+{"id": "O0Ea5cS4QwE-t399.32", "text": "By the time the guzzle passed into Persian from the early 11th century onward the second", "start": 399.32, "end": 405.28000000000003}
+{"id": "O0Ea5cS4QwE-t405.28", "text": "theme had come to have mystical overtones.", "start": 405.28, "end": 409.2}
+{"id": "O0Ea5cS4QwE-t409.2", "text": "Separation and suffering were at the heart of love and the faithful longing lover was", "start": 409.2, "end": 413.44}
+{"id": "O0Ea5cS4QwE-t413.44", "text": "even a kind of martyr.", "start": 413.44, "end": 415.96}
+{"id": "O0Ea5cS4QwE-t415.96", "text": "Through Persian the medieval guzzle also came to develop major traditions in Turkish and", "start": 415.96, "end": 422.03999999999996}
+{"id": "O0Ea5cS4QwE-t422.03999999999996", "text": "Urdu.", "start": 422.03999999999996, "end": 423.03999999999996}
+{"id": "O0Ea5cS4QwE-t423.03999999999996", "text": "Nowadays among these languages the guzzle remains alive only in Urdu.", "start": 423.03999999999996, "end": 428.76}
+{"id": "O0Ea5cS4QwE-t428.76", "text": "If we focus on the classical that is 18th and 19th century guzzle in Urdu the two greatest", "start": 428.76, "end": 435.44}
+{"id": "O0Ea5cS4QwE-t435.44", "text": "poets of this tradition were Mir Muhammad Thape Mir 1722 to 1810 and Mirza Asadul al-Achan", "start": 435.44, "end": 444.28}
+{"id": "O0Ea5cS4QwE-t444.28", "text": "Ralib 1797 to 1869.", "start": 444.28, "end": 449.71999999999997}
+{"id": "O0Ea5cS4QwE-t449.71999999999997", "text": "Formally speaking a guzzle is a set of two line verses.", "start": 449.71999999999997, "end": 453.65999999999997}
+{"id": "O0Ea5cS4QwE-t453.65999999999997", "text": "They aren't technically couplets since in most of them the two lines don't rhyme and", "start": 453.65999999999997, "end": 458.03999999999996}
+{"id": "O0Ea5cS4QwE-t458.04", "text": "in a couplet usually the two lines rhyme.", "start": 458.04, "end": 461.48}
+{"id": "O0Ea5cS4QwE-t461.48", "text": "Ideally there are to be an odd number of them and ideally the number is to be something", "start": 461.48, "end": 466.76000000000005}
+{"id": "O0Ea5cS4QwE-t466.76000000000005", "text": "like seven or nine.", "start": 466.76000000000005, "end": 469.68}
+{"id": "O0Ea5cS4QwE-t469.68", "text": "Could we make the sound louder would that help would that make it easier sir?", "start": 469.68, "end": 473.20000000000005}
+{"id": "O0Ea5cS4QwE-t473.20000000000005", "text": "Is it okay?", "start": 473.20000000000005, "end": 474.20000000000005}
+{"id": "O0Ea5cS4QwE-t474.20000000000005", "text": "Okay.", "start": 474.20000000000005, "end": 475.20000000000005}
+{"id": "O0Ea5cS4QwE-t475.20000000000005", "text": "They these verses share a strictly defined Arabic derived quantitative meter and at the", "start": 475.20000000000005, "end": 483.36}
+{"id": "O0Ea5cS4QwE-t483.36", "text": "end of each verse they also share a common rhyme syllable and after it usually a common", "start": 483.36, "end": 489.92}
+{"id": "O0Ea5cS4QwE-t489.92", "text": "repeated refrain word or words as well.", "start": 489.92, "end": 494.28000000000003}
+{"id": "O0Ea5cS4QwE-t494.28000000000003", "text": "Beyond this the verses of a guzzle share only the larger guzzle universe of stylized", "start": 494.28000000000003, "end": 500.32}
+{"id": "O0Ea5cS4QwE-t500.32", "text": "characters scenes actions and images.", "start": 500.32, "end": 503.84000000000003}
+{"id": "O0Ea5cS4QwE-t503.84000000000003", "text": "A guzzle in short is a series of semantically independent two line mini poems that have", "start": 503.84000000000003, "end": 510.52000000000004}
+{"id": "O0Ea5cS4QwE-t510.52", "text": "a strong formal unity but usually no particular unity beyond that.", "start": 510.52, "end": 516.28}
+{"id": "O0Ea5cS4QwE-t516.28", "text": "Thus in performance oral recidors and singers freely rearrange the verses of a guzzle and", "start": 516.28, "end": 523.1999999999999}
+{"id": "O0Ea5cS4QwE-t523.1999999999999", "text": "almost always omit a good number of them.", "start": 523.1999999999999, "end": 527.28}
+{"id": "O0Ea5cS4QwE-t527.28", "text": "The first verse of a guzzle commonly incorporates the rhyme and refrain at the end of both lines", "start": 527.28, "end": 533.0799999999999}
+{"id": "O0Ea5cS4QwE-t533.0799999999999", "text": "instead of only at the end of the second line.", "start": 533.0799999999999, "end": 536.12}
+{"id": "O0Ea5cS4QwE-t536.12", "text": "If it does this it's called an opening verse there's a special name for it matla.", "start": 536.12, "end": 540.44}
+{"id": "O0Ea5cS4QwE-t540.44", "text": "Under oral performance conditions this feature enables the listeners to perceive the formal", "start": 540.44, "end": 545.32}
+{"id": "O0Ea5cS4QwE-t545.32", "text": "structure of the guzzle more quickly and we'll illustrate this when we look at an example", "start": 545.32, "end": 550.76}
+{"id": "O0Ea5cS4QwE-t550.76", "text": "later on.", "start": 550.76, "end": 551.76}
+{"id": "O0Ea5cS4QwE-t551.76", "text": "The last verse commonly includes the poet's chosen pen name.", "start": 551.76, "end": 555.8}
+{"id": "O0Ea5cS4QwE-t555.8", "text": "If it does this it's called a closing verse a monk the both these features reflect the", "start": 555.8, "end": 561.48}
+{"id": "O0Ea5cS4QwE-t561.48", "text": "guzzle's expectation of oral performance.", "start": 561.48, "end": 565.6}
+{"id": "O0Ea5cS4QwE-t565.6", "text": "The traditional venue for oral performance was the mushyra, the poetry place.", "start": 565.6, "end": 571.6800000000001}
+{"id": "O0Ea5cS4QwE-t571.6800000000001", "text": "Shared is poetry.", "start": 571.6800000000001, "end": 572.6800000000001}
+{"id": "O0Ea5cS4QwE-t572.6800000000001", "text": "Shyra is the poet.", "start": 572.6800000000001, "end": 574.0400000000001}
+{"id": "O0Ea5cS4QwE-t574.0400000000001", "text": "Mushyra is the performance of poetry.", "start": 574.0400000000001, "end": 577.6800000000001}
+{"id": "O0Ea5cS4QwE-t577.6800000000001", "text": "The mushyra consisted of a smallish group of patrons connoisseurs, master poets called", "start": 577.6800000000001, "end": 583.16}
+{"id": "O0Ea5cS4QwE-t583.16", "text": "wastads and apprentices shoggards.", "start": 583.16, "end": 586.76}
+{"id": "O0Ea5cS4QwE-t586.76", "text": "Most mushyra's were based on a well-known pattern line announced in advance so that", "start": 586.76, "end": 591.72}
+{"id": "O0Ea5cS4QwE-t591.72", "text": "everybody's guzzles composed in this pattern were formally identical, sharing meter, rhyme", "start": 591.72, "end": 597.5600000000001}
+{"id": "O0Ea5cS4QwE-t597.5600000000001", "text": "and refrain.", "start": 597.5600000000001, "end": 599.0}
+{"id": "O0Ea5cS4QwE-t599.0", "text": "This formal identity made them extremely comparable to each other so that individual achievement", "start": 599.0, "end": 604.5600000000001}
+{"id": "O0Ea5cS4QwE-t604.5600000000001", "text": "stood out very strikingly.", "start": 604.5600000000001, "end": 607.64}
+{"id": "O0Ea5cS4QwE-t607.64", "text": "Resitation of the first line of a verse was always followed by a long pause full of praise", "start": 607.64, "end": 612.28}
+{"id": "O0Ea5cS4QwE-t612.28", "text": "and carbon from the audience after which the first line was repeated and then finally followed", "start": 612.28, "end": 618.28}
+{"id": "O0Ea5cS4QwE-t618.28", "text": "by the second line.", "start": 618.28, "end": 620.24}
+{"id": "O0Ea5cS4QwE-t620.24", "text": "This style of presentation created a time period when the audience had access to the", "start": 620.24, "end": 625.48}
+{"id": "O0Ea5cS4QwE-t625.48", "text": "first line but not the second with possibilities for creating suspense, misdirection, surprise", "start": 625.48, "end": 633.8}
+{"id": "O0Ea5cS4QwE-t633.8", "text": "and so on that became major factors along with complex word play in the development of", "start": 633.8, "end": 641.08}
+{"id": "O0Ea5cS4QwE-t641.08", "text": "the guzzle's poetics.", "start": 641.08, "end": 644.2}
+{"id": "O0Ea5cS4QwE-t644.2", "text": "This recited in order of increasing seniority because the emphasis on apprenticeship over", "start": 644.2, "end": 650.76}
+{"id": "O0Ea5cS4QwE-t650.76", "text": "time and the required mastery of technical skills made it apparent to the organizers", "start": 650.76, "end": 658.32}
+{"id": "O0Ea5cS4QwE-t658.32", "text": "of Mushyra's that the senior most poets must be politely assumed to be the finest.", "start": 658.32, "end": 664.2}
+{"id": "O0Ea5cS4QwE-t664.2", "text": "Of course sometimes they weren't so their tensions were created there.", "start": 664.2, "end": 669.0}
+{"id": "O0Ea5cS4QwE-t669.0", "text": "Many had a small notebook in which he, and we have to say he because women very rarely", "start": 669.0, "end": 674.84}
+{"id": "O0Ea5cS4QwE-t674.84", "text": "attended Mushyra's, a small notebook in which he quickly jotted down verses that struck", "start": 674.84, "end": 679.84}
+{"id": "O0Ea5cS4QwE-t679.84", "text": "his fancy for later discussion with friends.", "start": 679.84, "end": 683.56}
+{"id": "O0Ea5cS4QwE-t683.56", "text": "Famous poets were often the rock stars of their day.", "start": 683.56, "end": 687.04}
+{"id": "O0Ea5cS4QwE-t687.04", "text": "Bands of their apprentices were even known to riot when they encountered each other in", "start": 687.04, "end": 692.04}
+{"id": "O0Ea5cS4QwE-t692.04", "text": "the streets of Lucknow.", "start": 692.04, "end": 694.2}
+{"id": "O0Ea5cS4QwE-t694.2", "text": "Though the majority of guzzle poets were upper or middle class Muslim men, guzzles by women,", "start": 694.2, "end": 701.0400000000001}
+{"id": "O0Ea5cS4QwE-t701.0400000000001", "text": "by people of other religions including Hindus, Sikhs and Christians and by people of working", "start": 701.0400000000001, "end": 706.12}
+{"id": "O0Ea5cS4QwE-t706.12", "text": "class backgrounds are amply documented.", "start": 706.12, "end": 710.5200000000001}
+{"id": "O0Ea5cS4QwE-t710.5200000000001", "text": "All poetry is made out of other poetry but not all poetry is glad of it.", "start": 710.5200000000001, "end": 715.84}
+{"id": "O0Ea5cS4QwE-t715.84", "text": "The guzzle however delights in its huge treasury of earlier verses.", "start": 715.84, "end": 720.88}
+{"id": "O0Ea5cS4QwE-t720.88", "text": "The very origins of Urdu poetry included macaroni or mixed Persian Urdu lines and verses.", "start": 720.88, "end": 728.0}
+{"id": "O0Ea5cS4QwE-t728.0", "text": "The classical training for a poet included memorizing literally thousands of verses by", "start": 728.0, "end": 732.56}
+{"id": "O0Ea5cS4QwE-t732.56", "text": "earlier Persian and Urdu-ostads.", "start": 732.56, "end": 735.88}
+{"id": "O0Ea5cS4QwE-t735.88", "text": "There were various technical terms for the deliberate or inadvertent use of another poet's", "start": 735.88, "end": 740.36}
+{"id": "O0Ea5cS4QwE-t740.36", "text": "line or idea or image.", "start": 740.36, "end": 742.8}
+{"id": "O0Ea5cS4QwE-t742.8", "text": "If deliberate it was either a tribute or a challenge or usually both.", "start": 742.8, "end": 746.96}
+{"id": "O0Ea5cS4QwE-t746.96", "text": "If inadvertent was it a creative coincidence, an innovative development or a vulgar imitation", "start": 746.96, "end": 753.5600000000001}
+{"id": "O0Ea5cS4QwE-t753.5600000000001", "text": "and was every usage of the early masters sacred or should modern idiom have legitimacy as well.", "start": 753.5600000000001, "end": 760.12}
+{"id": "O0Ea5cS4QwE-t760.12", "text": "Mushyra's functioned as technical workshops in which issues like these could be publicly", "start": 760.12, "end": 765.36}
+{"id": "O0Ea5cS4QwE-t765.36", "text": "debated.", "start": 765.36, "end": 767.6}
+{"id": "O0Ea5cS4QwE-t767.6", "text": "At the most basic level the guzzle is the first person voice of a passionate lover who", "start": 767.6, "end": 772.8000000000001}
+{"id": "O0Ea5cS4QwE-t772.8000000000001", "text": "laments his lack of access to his beloved.", "start": 772.8000000000001, "end": 776.2800000000001}
+{"id": "O0Ea5cS4QwE-t776.28", "text": "This lover is always construed as masculine.", "start": 776.28, "end": 779.68}
+{"id": "O0Ea5cS4QwE-t779.68", "text": "In some verses the beloved is very clearly feminine as for example when women's clothing,", "start": 779.68, "end": 785.48}
+{"id": "O0Ea5cS4QwE-t785.48", "text": "veiling, etc. is mentioned.", "start": 785.48, "end": 787.8399999999999}
+{"id": "O0Ea5cS4QwE-t787.8399999999999", "text": "She is then either a courtesan or an inaccessible lady in Parda.", "start": 787.8399999999999, "end": 793.0799999999999}
+{"id": "O0Ea5cS4QwE-t793.0799999999999", "text": "In other verses the beloved is very clearly masculine as when the beginnings of the coquettish", "start": 793.0799999999999, "end": 798.72}
+{"id": "O0Ea5cS4QwE-t798.72", "text": "adolescent boy's beard are said to appear, destroying his androgynous charm.", "start": 798.72, "end": 805.0}
+{"id": "O0Ea5cS4QwE-t805.0", "text": "In most verses the gender of the beloved can't be decided for sure.", "start": 805.0, "end": 809.92}
+{"id": "O0Ea5cS4QwE-t809.92", "text": "This undecidability is partly due to the brevity of the verses and to the emphasis on the lover's", "start": 809.92, "end": 815.32}
+{"id": "O0Ea5cS4QwE-t815.32", "text": "feelings rather than the descriptions of the beloved.", "start": 815.32, "end": 818.68}
+{"id": "O0Ea5cS4QwE-t818.68", "text": "In Persian it's also due to the nature of the grammar.", "start": 818.68, "end": 821.56}
+{"id": "O0Ea5cS4QwE-t821.56", "text": "Verb endings don't vary with gender.", "start": 821.56, "end": 823.8}
+{"id": "O0Ea5cS4QwE-t823.8", "text": "In Urdu the beloved is always treated as grammatically masculine.", "start": 823.8, "end": 828.56}
+{"id": "O0Ea5cS4QwE-t828.56", "text": "And ultimately this abstractly masculine gender is also due to the desire to keep open a mystical", "start": 828.56, "end": 834.52}
+{"id": "O0Ea5cS4QwE-t834.52", "text": "sufistic reading in which the supremely powerful and irresistibly beautiful divine beloved is", "start": 834.52, "end": 841.56}
+{"id": "O0Ea5cS4QwE-t841.56", "text": "the real object of desire.", "start": 841.56, "end": 844.52}
+{"id": "O0Ea5cS4QwE-t844.52", "text": "Since an erotic pursuit of God, especially by a male lover, is not only supremely transgressive", "start": 844.52, "end": 851.56}
+{"id": "O0Ea5cS4QwE-t851.56", "text": "but also bound to end badly, the lover knows from the beginning that his passion is doomed", "start": 851.56, "end": 857.4399999999999}
+{"id": "O0Ea5cS4QwE-t857.4399999999999", "text": "and will destroy him.", "start": 857.4399999999999, "end": 859.28}
+{"id": "O0Ea5cS4QwE-t859.28", "text": "God he doesn't care since it's so much more powerful and beautiful than anything on offer", "start": 859.28, "end": 864.8399999999999}
+{"id": "O0Ea5cS4QwE-t864.8399999999999", "text": "in this flimsy, transitory, real life.", "start": 864.8399999999999, "end": 868.76}
+{"id": "O0Ea5cS4QwE-t868.76", "text": "Thus the great metaphors of the lover's condition are the universal mystical ones of helplessness", "start": 868.76, "end": 875.1999999999999}
+{"id": "O0Ea5cS4QwE-t875.1999999999999", "text": "and or transcendence.", "start": 875.1999999999999, "end": 877.0799999999999}
+{"id": "O0Ea5cS4QwE-t877.0799999999999", "text": "And the four biggest are, not surprisingly, you'll recognize them if you know anything", "start": 877.0799999999999, "end": 881.4}
+{"id": "O0Ea5cS4QwE-t881.4", "text": "about mystical poetry, drunkenness, sex, madness, and death.", "start": 881.4, "end": 886.9599999999999}
+{"id": "O0Ea5cS4QwE-t886.96", "text": "Here's where we connect with no doubt psychoanalytic interests too.", "start": 886.96, "end": 890.44}
+{"id": "O0Ea5cS4QwE-t890.44", "text": "The stylized settings of the guzzle world, the garden, the desert, the wine house, the", "start": 890.44, "end": 895.6800000000001}
+{"id": "O0Ea5cS4QwE-t895.6800000000001", "text": "prison, and so on, and its supporting cast of characters, the rival, the messenger, the", "start": 895.6800000000001, "end": 901.96}
+{"id": "O0Ea5cS4QwE-t901.96", "text": "doorkeeper, the advisor, the ascetic, etc., are all carefully calibrated to accompany this", "start": 901.96, "end": 908.64}
+{"id": "O0Ea5cS4QwE-t908.64", "text": "passion play.", "start": 908.64, "end": 910.9200000000001}
+{"id": "O0Ea5cS4QwE-t910.9200000000001", "text": "Some modern readers in South Asia have worried over the depiction of the beloved as a beautiful", "start": 910.9200000000001, "end": 916.12}
+{"id": "O0Ea5cS4QwE-t916.12", "text": "boy, the implications of Pederasty distress them.", "start": 916.12, "end": 920.64}
+{"id": "O0Ea5cS4QwE-t920.64", "text": "But if the beloved can be envisioned as a beautiful boy or a courtesan, he can also be God,", "start": 920.64, "end": 927.24}
+{"id": "O0Ea5cS4QwE-t927.24", "text": "and plainly the guzzle lives in a world of its own, and thus is the very reverse of", "start": 927.24, "end": 931.8}
+{"id": "O0Ea5cS4QwE-t931.8", "text": "autobiographical.", "start": 931.8, "end": 933.88}
+{"id": "O0Ea5cS4QwE-t933.88", "text": "For if the beloved is a denizen of that guzzle world, so too is the lover, who can speak", "start": 933.88, "end": 939.04}
+{"id": "O0Ea5cS4QwE-t939.04", "text": "as a caged bird, a hunted animal, a naked madman, a drunkard, or as himself after his", "start": 939.04, "end": 945.9599999999999}
+{"id": "O0Ea5cS4QwE-t945.9599999999999", "text": "own death.", "start": 945.9599999999999, "end": 946.9599999999999}
+{"id": "O0Ea5cS4QwE-t946.9599999999999", "text": "This is one of the enjoyable parts of the guzzle.", "start": 946.9599999999999, "end": 949.3199999999999}
+{"id": "O0Ea5cS4QwE-t949.3199999999999", "text": "The lover is doomed, he dies, but it never stops him.", "start": 949.3199999999999, "end": 952.5999999999999}
+{"id": "O0Ea5cS4QwE-t952.5999999999999", "text": "He doesn't shut up, he keeps right on composing poetry about what happens after his death.", "start": 952.5999999999999, "end": 959.76}
+{"id": "O0Ea5cS4QwE-t959.76", "text": "The point is the transgressiveness, the liminality, the rush to break out of this flawed, doomed,", "start": 959.76, "end": 966.16}
+{"id": "O0Ea5cS4QwE-t966.16", "text": "limited, worldly life into a larger, truer universe of passion.", "start": 966.16, "end": 971.6}
+{"id": "O0Ea5cS4QwE-t971.6", "text": "The moth lying into the candle flame is thus one of the guzzles' emblematic images.", "start": 971.6, "end": 977.64}
+{"id": "O0Ea5cS4QwE-t977.64", "text": "The burning, melting, self-consuming candle itself is another.", "start": 977.64, "end": 982.4}
+{"id": "O0Ea5cS4QwE-t982.4", "text": "And the blossoming rose, whose smile is also her death warrant, as she blooms, is a third.", "start": 982.4, "end": 990.3199999999999}
+{"id": "O0Ea5cS4QwE-t990.3199999999999", "text": "The classical guzzle world with its aristocratic patronage and its famous ostads was killed", "start": 990.3199999999999, "end": 995.16}
+{"id": "O0Ea5cS4QwE-t995.16", "text": "off in the aftermath of the rebellion of 1857.", "start": 995.16, "end": 999.4399999999999}
+{"id": "O0Ea5cS4QwE-t999.4399999999999", "text": "Guzzles nowadays in Urdu are often either obscure and elite, printed in small poetry", "start": 999.4399999999999, "end": 1004.92}
+{"id": "O0Ea5cS4QwE-t1004.92", "text": "journals, or else popular and personally expressive, or even filmy, composed for Bollywood movies.", "start": 1004.92, "end": 1013.8399999999999}
+{"id": "O0Ea5cS4QwE-t1013.8399999999999", "text": "Modern Musharas too, though they still exist and though they happen all over North America,", "start": 1013.8399999999999, "end": 1019.1999999999999}
+{"id": "O0Ea5cS4QwE-t1019.1999999999999", "text": "including quite a number in our town.", "start": 1019.1999999999999, "end": 1022.1999999999999}
+{"id": "O0Ea5cS4QwE-t1022.1999999999999", "text": "Modern Musharas are greatly changed.", "start": 1022.1999999999999, "end": 1024.36}
+{"id": "O0Ea5cS4QwE-t1024.36", "text": "They are public performances, like concerts, presided over by popular MCs who adjust the", "start": 1024.36, "end": 1030.28}
+{"id": "O0Ea5cS4QwE-t1030.28", "text": "performances to the mood of the audience.", "start": 1030.28, "end": 1033.1999999999998}
+{"id": "O0Ea5cS4QwE-t1033.1999999999998", "text": "To some extent, these Musharas constitute a middle ground for the guzzle between the", "start": 1033.1999999999998, "end": 1038.08}
+{"id": "O0Ea5cS4QwE-t1038.08", "text": "elite and the popular in which it can continue to survive.", "start": 1038.08, "end": 1043.08}
+{"id": "O0Ea5cS4QwE-t1043.08", "text": "There is also now English guzzle to add to the picture.", "start": 1043.08, "end": 1047.4399999999998}
+{"id": "O0Ea5cS4QwE-t1047.44", "text": "It's become a popular genre in recent decades and a very influential and fascinating book", "start": 1047.44, "end": 1055.76}
+{"id": "O0Ea5cS4QwE-t1055.76", "text": "called Ravishing Disunities by the late Agashahid Ali is a very good point of entry for the", "start": 1055.76, "end": 1064.4}
+{"id": "O0Ea5cS4QwE-t1064.4", "text": "English guzzle.", "start": 1064.4, "end": 1066.8400000000001}
+{"id": "O0Ea5cS4QwE-t1066.8400000000001", "text": "So I've studied the guzzle for most of my scholarly career, but otherwise I'm an outsider.", "start": 1066.8400000000001, "end": 1073.96}
+{"id": "O0Ea5cS4QwE-t1073.96", "text": "I'm from Arkansas.", "start": 1073.96, "end": 1075.88}
+{"id": "O0Ea5cS4QwE-t1075.88", "text": "My started studying Hindi at 20 and Urdu at 22.", "start": 1075.88, "end": 1081.4}
+{"id": "O0Ea5cS4QwE-t1081.4", "text": "So it's very nice that we also have here a very extreme insider, my friend Mustafa Minayi,", "start": 1081.4, "end": 1089.4}
+{"id": "O0Ea5cS4QwE-t1089.4", "text": "who is of course not only an insider as a South Asian, but also he is an insider as", "start": 1089.4, "end": 1095.92}
+{"id": "O0Ea5cS4QwE-t1095.92", "text": "a direct descendant of a well-known Urdu poet called Amir Minayi, who was a junior contemporary", "start": 1095.92, "end": 1103.48}
+{"id": "O0Ea5cS4QwE-t1103.48", "text": "of Gollibs, and in Gollibs old age, the young man Amir Minayi often helped him write his", "start": 1103.48, "end": 1110.56}
+{"id": "O0Ea5cS4QwE-t1110.56", "text": "letters and acted as a secretary to him.", "start": 1110.56, "end": 1113.44}
+{"id": "O0Ea5cS4QwE-t1113.44", "text": "And so we have actually a sort of blood connection here.", "start": 1113.44, "end": 1117.1200000000001}
+{"id": "O0Ea5cS4QwE-t1117.1200000000001", "text": "So I'd like to ask Mustafa what he would add to this description or what he would change.", "start": 1117.1200000000001, "end": 1123.92}
+{"id": "O0Ea5cS4QwE-t1123.92", "text": "Sure.", "start": 1123.92, "end": 1124.92}
+{"id": "O0Ea5cS4QwE-t1124.92", "text": "Thanks a lot, friend.", "start": 1124.92, "end": 1125.92}
+{"id": "O0Ea5cS4QwE-t1125.92", "text": "First of all, just as Urdu has the ability to really absorb so many different words and", "start": 1125.92, "end": 1134.24}
+{"id": "O0Ea5cS4QwE-t1134.24", "text": "philosophies and styles from all over the world, I would say that you're not at all", "start": 1134.24, "end": 1139.1200000000001}
+{"id": "O0Ea5cS4QwE-t1139.1200000000001", "text": "an outsider because Urdu has embraced you with open arms just as you have embraced Urdu", "start": 1139.1200000000001, "end": 1145.76}
+{"id": "O0Ea5cS4QwE-t1145.76", "text": "as well.", "start": 1145.76, "end": 1147.44}
+{"id": "O0Ea5cS4QwE-t1147.44", "text": "And thanks a lot for your introduction.", "start": 1147.44, "end": 1151.1200000000001}
+{"id": "O0Ea5cS4QwE-t1151.12", "text": "And I would just say that, yes, just as Fran made the point that she's had a scholarly", "start": 1151.12, "end": 1159.34}
+{"id": "O0Ea5cS4QwE-t1159.34", "text": "connection to Urdu and its study, which of course is very deep and very expansive.", "start": 1159.34, "end": 1166.6}
+{"id": "O0Ea5cS4QwE-t1166.6", "text": "I had an experiential connection to it before I had a scholarly connection.", "start": 1166.6, "end": 1173.8}
+{"id": "O0Ea5cS4QwE-t1173.8", "text": "So I was, when I was coming off age and really understanding poetry, I was reacting to it", "start": 1173.8, "end": 1179.36}
+{"id": "O0Ea5cS4QwE-t1179.36", "text": "on an emotional level, which of course is the experience that most people have of poetry", "start": 1179.36, "end": 1186.08}
+{"id": "O0Ea5cS4QwE-t1186.08", "text": "rather than studying it to begin with.", "start": 1186.08, "end": 1190.28}
+{"id": "O0Ea5cS4QwE-t1190.28", "text": "And so the experience of Ralib and poetry in general is at a very deep emotional level", "start": 1190.28, "end": 1201.9199999999998}
+{"id": "O0Ea5cS4QwE-t1201.9199999999998", "text": "as well.", "start": 1201.9199999999998, "end": 1202.9199999999998}
+{"id": "O0Ea5cS4QwE-t1202.92", "text": "And so an emotional understanding based on one's life experiences, on personality, on", "start": 1202.92, "end": 1210.28}
+{"id": "O0Ea5cS4QwE-t1210.28", "text": "one's psychology, personality, et cetera, comes first.", "start": 1210.28, "end": 1214.96}
+{"id": "O0Ea5cS4QwE-t1214.96", "text": "And then after that, because the gazal can be, and gazal poetry can be interpreted in", "start": 1214.96, "end": 1219.3200000000002}
+{"id": "O0Ea5cS4QwE-t1219.3200000000002", "text": "so many levels, when you start studying it, more meanings, et cetera, come to light.", "start": 1219.3200000000002, "end": 1229.88}
+{"id": "O0Ea5cS4QwE-t1229.88", "text": "And just because I was experiencing it in the modern times, so I would say that, yes,", "start": 1229.88, "end": 1235.5600000000002}
+{"id": "O0Ea5cS4QwE-t1235.5600000000002", "text": "the gazal definitely had growing pains, was battered by the outrageous slings and arrows", "start": 1235.5600000000002, "end": 1243.0}
+{"id": "O0Ea5cS4QwE-t1243.0", "text": "of fortune, et cetera.", "start": 1243.0, "end": 1245.0400000000002}
+{"id": "O0Ea5cS4QwE-t1245.0400000000002", "text": "But it does survive.", "start": 1245.0400000000002, "end": 1246.88}
+{"id": "O0Ea5cS4QwE-t1246.88", "text": "It has changed quite a bit, although the formal structure of the rhyme and meter still", "start": 1246.88, "end": 1253.5600000000002}
+{"id": "O0Ea5cS4QwE-t1253.5600000000002", "text": "remains as well.", "start": 1253.5600000000002, "end": 1255.5600000000002}
+{"id": "O0Ea5cS4QwE-t1255.56", "text": "But a lot of new themes have been infused into it.", "start": 1255.56, "end": 1260.96}
+{"id": "O0Ea5cS4QwE-t1260.96", "text": "And I believe that that process would not have been as robust of innovation if it were", "start": 1260.96, "end": 1267.1599999999999}
+{"id": "O0Ea5cS4QwE-t1267.1599999999999", "text": "not for Ralib.", "start": 1267.1599999999999, "end": 1269.12}
+{"id": "O0Ea5cS4QwE-t1269.12", "text": "Because Ralib, I feel, was a major innovator in terms of using the same kind of classical", "start": 1269.12, "end": 1275.72}
+{"id": "O0Ea5cS4QwE-t1275.72", "text": "metaphors and vocabulary, but infusing new themes, which were coming from his personality,", "start": 1275.72, "end": 1282.36}
+{"id": "O0Ea5cS4QwE-t1282.36", "text": "as well as his times as well.", "start": 1282.36, "end": 1287.32}
+{"id": "O0Ea5cS4QwE-t1287.32", "text": "Just a small point about what Fran had mentioned, that the first verse is called a matl\u0101.", "start": 1287.32, "end": 1295.4799999999998}
+{"id": "O0Ea5cS4QwE-t1295.4799999999998", "text": "And in true Urdu literary tradition, even that is a beautiful wordplay, because matl\u0101", "start": 1295.4799999999998, "end": 1304.36}
+{"id": "O0Ea5cS4QwE-t1304.36", "text": "also means the sky.", "start": 1304.36, "end": 1306.9199999999998}
+{"id": "O0Ea5cS4QwE-t1306.92", "text": "And so figuratively, the first share of a gazal, when you call it the matl\u0101, you can", "start": 1306.92, "end": 1313.0800000000002}
+{"id": "O0Ea5cS4QwE-t1313.0800000000002", "text": "poetically think of it as the sky, the rest of the shares, the rest of the couplets are", "start": 1313.0800000000002, "end": 1318.0}
+{"id": "O0Ea5cS4QwE-t1318.0", "text": "descending from it after that.", "start": 1318.0, "end": 1320.8400000000001}
+{"id": "O0Ea5cS4QwE-t1320.8400000000001", "text": "And so that sets up a whole range of poetic images as well.", "start": 1320.8400000000001, "end": 1327.48}
+{"id": "O0Ea5cS4QwE-t1327.48", "text": "And even one thing that has also changed is the grammatically masculine reference in Urdu", "start": 1327.48, "end": 1334.5600000000002}
+{"id": "O0Ea5cS4QwE-t1334.56", "text": "poetry has also evolved and changed as well.", "start": 1334.56, "end": 1338.44}
+{"id": "O0Ea5cS4QwE-t1338.44", "text": "So now in these days and times you find a lot of women poets, and they use the feminine", "start": 1338.44, "end": 1347.24}
+{"id": "O0Ea5cS4QwE-t1347.24", "text": "gender as well as the masculine gender according to however they prefer to apply it as well.", "start": 1347.24, "end": 1356.12}
+{"id": "O0Ea5cS4QwE-t1356.12", "text": "And yes, without further ado, I think we can get more into Ralib then.", "start": 1356.12, "end": 1360.8799999999999}
+{"id": "O0Ea5cS4QwE-t1360.88", "text": "Are there any special questions?", "start": 1360.88, "end": 1364.48}
+{"id": "O0Ea5cS4QwE-t1364.48", "text": "I think we're basically planning to have a question period afterwards, but is there", "start": 1364.48, "end": 1369.0}
+{"id": "O0Ea5cS4QwE-t1369.0", "text": "anything anybody would like to raise or to ask at this point, since we're a small group", "start": 1369.0, "end": 1373.72}
+{"id": "O0Ea5cS4QwE-t1373.72", "text": "it seems that we should be informal.", "start": 1373.72, "end": 1375.68}
+{"id": "O0Ea5cS4QwE-t1375.68", "text": "Did you have a question?", "start": 1375.68, "end": 1377.48}
+{"id": "O0Ea5cS4QwE-t1377.48", "text": "The actual translation of the words that are conversations with women.", "start": 1377.48, "end": 1382.5600000000002}
+{"id": "O0Ea5cS4QwE-t1382.5600000000002", "text": "With women, that's what I'm talking about.", "start": 1382.5600000000002, "end": 1385.2800000000002}
+{"id": "O0Ea5cS4QwE-t1385.28", "text": "Now there's another etymology that attributes the word to the dying cry of a gazelle, but", "start": 1385.28, "end": 1392.96}
+{"id": "O0Ea5cS4QwE-t1392.96", "text": "I think that's a sort of folk etymology.", "start": 1392.96, "end": 1395.2}
+{"id": "O0Ea5cS4QwE-t1395.2", "text": "Right, there's the word gazala as well, which I think a friend you might know better.", "start": 1395.2, "end": 1403.6}
+{"id": "O0Ea5cS4QwE-t1403.6", "text": "Does that refer to a deer?", "start": 1403.6, "end": 1406.12}
+{"id": "O0Ea5cS4QwE-t1406.12", "text": "Well there is, gazelle has a cognate for a gazelle in Urdu, but I think that the etymology", "start": 1406.12, "end": 1412.68}
+{"id": "O0Ea5cS4QwE-t1412.68", "text": "is a folk etymology.", "start": 1412.68, "end": 1416.28}
+{"id": "O0Ea5cS4QwE-t1416.28", "text": "The true comment on the role of sukism in this form and also used to be written in the", "start": 1416.28, "end": 1427.2}
+{"id": "O0Ea5cS4QwE-t1427.2", "text": "form of a gazelle.", "start": 1427.2, "end": 1442.72}
+{"id": "O0Ea5cS4QwE-t1442.72", "text": "Absolutely.", "start": 1442.72, "end": 1443.72}
+{"id": "O0Ea5cS4QwE-t1443.72", "text": "Actually it's interesting about Omar Chayam because we think of him through Fitzgerald,", "start": 1443.72, "end": 1448.48}
+{"id": "O0Ea5cS4QwE-t1448.48", "text": "right?", "start": 1448.48, "end": 1449.48}
+{"id": "O0Ea5cS4QwE-t1449.48", "text": "We read the rubayat, the Fitzgerald the quatrains translated from Omar Chayam, but it's one", "start": 1449.48, "end": 1455.04}
+{"id": "O0Ea5cS4QwE-t1455.04", "text": "of those very free translations that we nowadays would call trans creations.", "start": 1455.04, "end": 1459.76}
+{"id": "O0Ea5cS4QwE-t1459.76", "text": "So actually Fitzgerald wrote an original poem in English that was very loosely based on", "start": 1459.76, "end": 1465.56}
+{"id": "O0Ea5cS4QwE-t1465.56", "text": "Omar Chayam and it was far more successful in English than Omar Chayam ever was in Persian.", "start": 1465.56, "end": 1472.92}
+{"id": "O0Ea5cS4QwE-t1472.92", "text": "And in fact I think Penguin has, one of the publishers has put out literal translation", "start": 1472.92, "end": 1477.28}
+{"id": "O0Ea5cS4QwE-t1477.28", "text": "of Omar Chayam and you can barely recognize the Fitzgerald approach.", "start": 1477.28, "end": 1483.24}
+{"id": "O0Ea5cS4QwE-t1483.24", "text": "You can really see that he's taken a lot of liberties.", "start": 1483.24, "end": 1485.52}
+{"id": "O0Ea5cS4QwE-t1485.52", "text": "As has happened with the rubay, by some measures, the rubay is now said to be the most popular", "start": 1485.52, "end": 1490.64}
+{"id": "O0Ea5cS4QwE-t1490.64", "text": "poet in America, but he's popular in the translations of Coleman Barks.", "start": 1490.64, "end": 1495.24}
+{"id": "O0Ea5cS4QwE-t1495.24", "text": "And of course if you actually look at the rubay in Persian, the difficulties, I mean", "start": 1495.24, "end": 1502.24}
+{"id": "O0Ea5cS4QwE-t1502.24", "text": "many difficulties are smoothed out and many things are ignored or altered in getting into", "start": 1502.24, "end": 1509.76}
+{"id": "O0Ea5cS4QwE-t1509.76", "text": "what makes Americans feel good in terms of modern poetry.", "start": 1509.76, "end": 1514.4}
+{"id": "O0Ea5cS4QwE-t1514.4", "text": "Let's, oh, any question?", "start": 1514.4, "end": 1516.04}
+{"id": "O0Ea5cS4QwE-t1516.04", "text": "I recently learned that Sufism may have originated among followers of rubay.", "start": 1516.04, "end": 1524.28}
+{"id": "O0Ea5cS4QwE-t1524.28", "text": "And at what point did these religious prohibitions begin to become, I'm not used to associating", "start": 1524.28, "end": 1534.52}
+{"id": "O0Ea5cS4QwE-t1534.52", "text": "drunkenness and such with spiritual, Muslim, or trade, anything because of statements,", "start": 1534.52, "end": 1545.28}
+{"id": "O0Ea5cS4QwE-t1545.28", "text": "most of statements.", "start": 1545.28, "end": 1546.28}
+{"id": "O0Ea5cS4QwE-t1546.28", "text": "So it meant to be here at all with history.", "start": 1546.28, "end": 1550.28}
+{"id": "O0Ea5cS4QwE-t1550.28", "text": "It goes back very far in the tradition.", "start": 1550.28, "end": 1553.68}
+{"id": "O0Ea5cS4QwE-t1553.68", "text": "And there is also a very nice back and forth sort of, you can always flip the coin and", "start": 1553.68, "end": 1559.48}
+{"id": "O0Ea5cS4QwE-t1559.48", "text": "look at the other side effect because you find that the lover is transgressive because", "start": 1559.48, "end": 1565.8}
+{"id": "O0Ea5cS4QwE-t1565.8", "text": "he loves his own beloved more than God.", "start": 1565.8, "end": 1569.84}
+{"id": "O0Ea5cS4QwE-t1569.84", "text": "He calls his beloved an idol and he worships his beloved and uses very explicitly religious", "start": 1569.84, "end": 1575.3600000000001}
+{"id": "O0Ea5cS4QwE-t1575.3600000000001", "text": "terminology for his beloved and he gets drunk and he runs out into the desert and carries", "start": 1575.3600000000001, "end": 1580.88}
+{"id": "O0Ea5cS4QwE-t1580.88", "text": "on like a crazy mad lover.", "start": 1580.88, "end": 1583.56}
+{"id": "O0Ea5cS4QwE-t1583.56", "text": "But of course his beloved may be God.", "start": 1583.56, "end": 1586.92}
+{"id": "O0Ea5cS4QwE-t1586.92", "text": "And so we have the picture of the lover with his clothes all ripped up, drunk, lying by", "start": 1586.92, "end": 1591.48}
+{"id": "O0Ea5cS4QwE-t1591.48", "text": "the side of the road.", "start": 1591.48, "end": 1592.72}
+{"id": "O0Ea5cS4QwE-t1592.72", "text": "And the pious shake goes past him on the way to the mosque and sneers at him and averts", "start": 1592.72, "end": 1597.5600000000002}
+{"id": "O0Ea5cS4QwE-t1597.5600000000002", "text": "his eyes because he thinks of this reprobate as a very unsatisfactory, badly behaving person.", "start": 1597.5600000000002, "end": 1603.68}
+{"id": "O0Ea5cS4QwE-t1603.68", "text": "But of course, in the guzzle world, the lover knows the real inward joy of the presence", "start": 1603.68, "end": 1609.1200000000001}
+{"id": "O0Ea5cS4QwE-t1609.1200000000001", "text": "of God and the pious person is just observing the letter of the law but not the spirit of", "start": 1609.1200000000001, "end": 1614.44}
+{"id": "O0Ea5cS4QwE-t1614.44", "text": "the law.", "start": 1614.44, "end": 1615.44}
+{"id": "O0Ea5cS4QwE-t1615.44", "text": "And so when we see the lover madly drunk and carrying on in a sacrilegious way, it can", "start": 1615.44, "end": 1621.3600000000001}
+{"id": "O0Ea5cS4QwE-t1621.3600000000001", "text": "be both sacrilegious and it could be a sign of real absorption in God and of having the", "start": 1621.3600000000001, "end": 1629.92}
+{"id": "O0Ea5cS4QwE-t1629.92", "text": "fuses of your mind and heart blown by contact with God.", "start": 1629.92, "end": 1634.0}
+{"id": "O0Ea5cS4QwE-t1634.0", "text": "Because after all, everybody, this goes to mysticism and sufism in general.", "start": 1634.0, "end": 1639.92}
+{"id": "O0Ea5cS4QwE-t1639.92", "text": "Every claim or attempt that you can comprehend or feel in your heart and your mind, the presence", "start": 1639.92, "end": 1645.42}
+{"id": "O0Ea5cS4QwE-t1645.42", "text": "of the power that made the universe, is obviously, it's inexpressible and it's also impossible,", "start": 1645.42, "end": 1650.6000000000001}
+{"id": "O0Ea5cS4QwE-t1650.6000000000001", "text": "you're going to blow up.", "start": 1650.6000000000001, "end": 1651.8000000000002}
+{"id": "O0Ea5cS4QwE-t1651.8000000000002", "text": "And so the imagery always comes from out of control areas of human life, drunkenness,", "start": 1651.8000000000002, "end": 1658.3600000000001}
+{"id": "O0Ea5cS4QwE-t1658.3600000000001", "text": "madness, sex and death.", "start": 1658.3600000000001, "end": 1660.88}
+{"id": "O0Ea5cS4QwE-t1660.88", "text": "And this is true in almost every mystical poetry that you can think of, that it fries", "start": 1660.88, "end": 1666.04}
+{"id": "O0Ea5cS4QwE-t1666.04", "text": "your brain and it blows up your heart to try to encounter God.", "start": 1666.04, "end": 1670.04}
+{"id": "O0Ea5cS4QwE-t1670.04", "text": "But of course, that doesn't stop people.", "start": 1670.04, "end": 1672.48}
+{"id": "O0Ea5cS4QwE-t1672.48", "text": "So the poetry is always balanced on that tension of doom and ecstasy and suffering.", "start": 1672.48, "end": 1679.92}
+{"id": "O0Ea5cS4QwE-t1679.92", "text": "So it's a remarkable and all this in little poems two lines long.", "start": 1679.92, "end": 1684.2}
+{"id": "O0Ea5cS4QwE-t1684.2", "text": "So it's a very powerful genre.", "start": 1684.2, "end": 1687.2}
+{"id": "O0Ea5cS4QwE-t1687.2", "text": "What would you add to that, most of all?", "start": 1687.2, "end": 1689.2}
+{"id": "O0Ea5cS4QwE-t1689.2", "text": "Right.", "start": 1689.2, "end": 1690.2}
+{"id": "O0Ea5cS4QwE-t1690.2", "text": "And I would say that just going back to the chronology of Sufism, that the earliest known", "start": 1690.2, "end": 1697.6}
+{"id": "O0Ea5cS4QwE-t1697.6", "text": "Sufism, I feel, would be around a couple of centuries even before Rumi, the tradition", "start": 1697.6, "end": 1706.56}
+{"id": "O0Ea5cS4QwE-t1706.56", "text": "I think had started.", "start": 1706.56, "end": 1707.8}
+{"id": "O0Ea5cS4QwE-t1707.8", "text": "It may not have come to be known as Sufism itself, but it had started.", "start": 1707.8, "end": 1713.9199999999998}
+{"id": "O0Ea5cS4QwE-t1713.9199999999998", "text": "And the in Sufism actions can lead to philosophies and philosophies can lead to actions as well.", "start": 1713.9199999999998, "end": 1722.76}
+{"id": "O0Ea5cS4QwE-t1722.76", "text": "So the physical manifestation of drunkenness and sex and death can be the result of certain", "start": 1722.76, "end": 1731.8799999999999}
+{"id": "O0Ea5cS4QwE-t1731.8799999999999", "text": "philosophies, et cetera, or they can then compel a person to think a certain way.", "start": 1731.8799999999999, "end": 1738.96}
+{"id": "O0Ea5cS4QwE-t1738.96", "text": "So on the philosophical plain, there were very established and still evolving philosophies", "start": 1738.96, "end": 1747.04}
+{"id": "O0Ea5cS4QwE-t1747.04", "text": "such as Vahadatul Vajud and Vahadul Shahud and stages of mysticism called Fana and Baka.", "start": 1747.04, "end": 1757.0}
+{"id": "O0Ea5cS4QwE-t1757.0", "text": "And so these are all Vahadul Vajud for instance, the unity of existence Vahadul Shahud holds", "start": 1757.0, "end": 1763.32}
+{"id": "O0Ea5cS4QwE-t1763.32", "text": "that God's existence is separate and man's existence is separate as well.", "start": 1763.32, "end": 1772.1599999999999}
+{"id": "O0Ea5cS4QwE-t1772.16", "text": "And Fana is sort of the last stage or the second last stage, I should say, of a wonder", "start": 1772.16, "end": 1781.1200000000001}
+{"id": "O0Ea5cS4QwE-t1781.1200000000001", "text": "with the divine and sort of Nirvana, if you would.", "start": 1781.1200000000001, "end": 1787.88}
+{"id": "O0Ea5cS4QwE-t1787.88", "text": "Where things began to change as going to your question about how when the prohibitions,", "start": 1787.88, "end": 1794.0}
+{"id": "O0Ea5cS4QwE-t1794.0", "text": "et cetera, came in and what we see today in the media and in the public eye in general,", "start": 1794.0, "end": 1805.68}
+{"id": "O0Ea5cS4QwE-t1805.68", "text": "this brand of Islam that may be called Vahab-yism for instance, a very strict orthodox fundamentalist", "start": 1805.68, "end": 1812.48}
+{"id": "O0Ea5cS4QwE-t1812.48", "text": "kind of strain.", "start": 1812.48, "end": 1814.08}
+{"id": "O0Ea5cS4QwE-t1814.08", "text": "So the strain I feel was always there, but yes, it was not as powerful or dominant or", "start": 1814.08, "end": 1823.56}
+{"id": "O0Ea5cS4QwE-t1823.56", "text": "as a gallib, excuse the pun, as it is now, gallib also means dominant and sometimes overwhelming", "start": 1823.56, "end": 1833.24}
+{"id": "O0Ea5cS4QwE-t1833.24", "text": "as well.", "start": 1833.24, "end": 1834.8}
+{"id": "O0Ea5cS4QwE-t1834.8", "text": "And so, but these things also seem to go in historical cycles.", "start": 1834.8, "end": 1839.28}
+{"id": "O0Ea5cS4QwE-t1839.28", "text": "So there were throughout the centuries, over a thousand years, various time periods, various", "start": 1839.28, "end": 1844.04}
+{"id": "O0Ea5cS4QwE-t1844.04", "text": "areas, where yes, the current practice of Islam as put forth by the Taliban for instance,", "start": 1844.04, "end": 1852.28}
+{"id": "O0Ea5cS4QwE-t1852.28", "text": "was dominant, but there are large, large pockets of Muslims.", "start": 1852.28, "end": 1859.56}
+{"id": "O0Ea5cS4QwE-t1859.56", "text": "I would say who are still in the majority, who still heart back to the more poetic and", "start": 1859.56, "end": 1868.04}
+{"id": "O0Ea5cS4QwE-t1868.04", "text": "romanticized form of Islam than the orthodox form that we see today.", "start": 1868.04, "end": 1873.08}
+{"id": "O0Ea5cS4QwE-t1873.08", "text": "Let's stop for a minute with our general discussions and just take a look at the specifics of", "start": 1873.08, "end": 1880.92}
+{"id": "O0Ea5cS4QwE-t1880.92", "text": "one guzzle, just if you bear with me, I think it will be worth it for examples.", "start": 1880.92, "end": 1885.96}
+{"id": "O0Ea5cS4QwE-t1885.96", "text": "So I maintain a website here and you can look up any of any of gallib's guzzles, there's", "start": 1885.96, "end": 1892.28}
+{"id": "O0Ea5cS4QwE-t1892.28", "text": "234 of them and they contain 1,459 little two line verses and this is guzzle one and it", "start": 1892.28, "end": 1902.1200000000001}
+{"id": "O0Ea5cS4QwE-t1902.1200000000001", "text": "has all sorts of extra things that go with it that most of the guzzles don't have.", "start": 1902.1200000000001, "end": 1907.8000000000002}
+{"id": "O0Ea5cS4QwE-t1907.8", "text": "It also has, as all the guzzles do have, the power for you to decide whether you want to", "start": 1907.8, "end": 1913.2}
+{"id": "O0Ea5cS4QwE-t1913.2", "text": "look at the website in Urdu script or in the Hindi script because many people nowadays", "start": 1913.2, "end": 1922.9199999999998}
+{"id": "O0Ea5cS4QwE-t1922.9199999999998", "text": "in India don't know the Urdu script but they're able to read the same content very nicely in", "start": 1922.9199999999998, "end": 1929.2}
+{"id": "O0Ea5cS4QwE-t1929.2", "text": "the Devanagri script.", "start": 1929.2, "end": 1930.68}
+{"id": "O0Ea5cS4QwE-t1930.68", "text": "So thanks to one of my really good graduate students who knows how to do these things", "start": 1930.68, "end": 1934.1599999999999}
+{"id": "O0Ea5cS4QwE-t1934.1599999999999", "text": "with Java script.", "start": 1934.1599999999999, "end": 1935.6399999999999}
+{"id": "O0Ea5cS4QwE-t1935.64", "text": "You have your viewing choices.", "start": 1935.64, "end": 1938.6000000000001}
+{"id": "O0Ea5cS4QwE-t1938.6000000000001", "text": "So this is diacritic such as is convenient for most of us.", "start": 1938.6000000000001, "end": 1942.88}
+{"id": "O0Ea5cS4QwE-t1942.88", "text": "And this is the first guzzle in Gallib's Devan, it has five verses and you can see that every", "start": 1942.88, "end": 1951.72}
+{"id": "O0Ea5cS4QwE-t1951.72", "text": "verse ends in ka, right?", "start": 1951.72, "end": 1955.24}
+{"id": "O0Ea5cS4QwE-t1955.24", "text": "So that's the refrain, it means of.", "start": 1955.24, "end": 1958.48}
+{"id": "O0Ea5cS4QwE-t1958.48", "text": "And every syllable before the ka is ir, has the form of ir, shir ka, sham shir ka, etc.,", "start": 1958.48, "end": 1966.84}
+{"id": "O0Ea5cS4QwE-t1966.84", "text": "and that's the rhyme syllable which is compulsory, the refrain is optional but the rhyme syllable", "start": 1966.84, "end": 1972.0}
+{"id": "O0Ea5cS4QwE-t1972.0", "text": "is compulsory.", "start": 1972.0, "end": 1973.28}
+{"id": "O0Ea5cS4QwE-t1973.28", "text": "And then you can see that the first verse has the rhyming elements at the end of each line", "start": 1973.28, "end": 1979.0}
+{"id": "O0Ea5cS4QwE-t1979.0", "text": "that makes it a muttla and that means that in an oral performance once you'd heard the", "start": 1979.0, "end": 1983.92}
+{"id": "O0Ea5cS4QwE-t1983.92", "text": "rhyming elements twice you could tell how much was rhyme and how much was refrain.", "start": 1983.92, "end": 1989.8400000000001}
+{"id": "O0Ea5cS4QwE-t1989.8400000000001", "text": "And until you'd heard them twice you couldn't.", "start": 1989.8400000000001, "end": 1991.88}
+{"id": "O0Ea5cS4QwE-t1991.88", "text": "So this is a preparation for oral performance.", "start": 1991.88, "end": 1995.44}
+{"id": "O0Ea5cS4QwE-t1995.44", "text": "And then the last verse very commonly contains the pen name of the poet.", "start": 1995.44, "end": 2002.4}
+{"id": "O0Ea5cS4QwE-t2002.4", "text": "And so here it is.", "start": 2002.4, "end": 2004.64}
+{"id": "O0Ea5cS4QwE-t2004.64", "text": "And it's a way of signing an oral poem.", "start": 2004.64, "end": 2007.04}
+{"id": "O0Ea5cS4QwE-t2007.04", "text": "You work your pen name right into the last verse.", "start": 2007.04, "end": 2010.44}
+{"id": "O0Ea5cS4QwE-t2010.44", "text": "In the Pukti tradition in medieval Hinduism we have exactly the same sorts of devices including", "start": 2010.44, "end": 2016.0}
+{"id": "O0Ea5cS4QwE-t2016.0", "text": "the pen name at the end of the verse to be able to sign an oral poem.", "start": 2016.0, "end": 2021.96}
+{"id": "O0Ea5cS4QwE-t2021.96", "text": "And the first verse of the first guzzle is particularly interesting.", "start": 2021.96, "end": 2026.8}
+{"id": "O0Ea5cS4QwE-t2026.8", "text": "And the reason I chose it for today's talk because I knew we wouldn't have time to look", "start": 2026.8, "end": 2031.16}
+{"id": "O0Ea5cS4QwE-t2031.16", "text": "at much.", "start": 2031.16, "end": 2032.3200000000002}
+{"id": "O0Ea5cS4QwE-t2032.3200000000002", "text": "And in a way it's the most interesting guzzle in any poet's divan.", "start": 2032.3200000000002, "end": 2036.52}
+{"id": "O0Ea5cS4QwE-t2036.52", "text": "The divan is the full volume of his poetry because it's the only one for which there", "start": 2036.52, "end": 2041.28}
+{"id": "O0Ea5cS4QwE-t2041.28", "text": "are extra expectations because it begins the divan and so many works by traditional Muslims", "start": 2041.28, "end": 2049.08}
+{"id": "O0Ea5cS4QwE-t2049.08", "text": "always begin with some sort of humb, some sort of praise of God.", "start": 2049.08, "end": 2054.2}
+{"id": "O0Ea5cS4QwE-t2054.2", "text": "And so it's very, very strong expectation that when you prepare your divan for copying,", "start": 2054.2, "end": 2061.16}
+{"id": "O0Ea5cS4QwE-t2061.16", "text": "and copying by a scribe or for publication, and Garle got his poetry published, he was", "start": 2061.16, "end": 2067.8399999999997}
+{"id": "O0Ea5cS4QwE-t2067.8399999999997", "text": "right at the first decades when it was possible for a poet to get his own divan published.", "start": 2067.8399999999997, "end": 2073.2799999999997}
+{"id": "O0Ea5cS4QwE-t2073.2799999999997", "text": "So he did.", "start": 2073.2799999999997, "end": 2075.3199999999997}
+{"id": "O0Ea5cS4QwE-t2075.3199999999997", "text": "And he knew that the expectation was that the first verse of the first guzzle had better", "start": 2075.3199999999997, "end": 2081.7599999999998}
+{"id": "O0Ea5cS4QwE-t2081.7599999999998", "text": "be in praise of God.", "start": 2081.7599999999998, "end": 2084.44}
+{"id": "O0Ea5cS4QwE-t2084.44", "text": "Everybody expects that.", "start": 2084.44, "end": 2085.7999999999997}
+{"id": "O0Ea5cS4QwE-t2085.7999999999997", "text": "It's just how it's supposed to be.", "start": 2085.7999999999997, "end": 2087.8399999999997}
+{"id": "O0Ea5cS4QwE-t2087.84", "text": "So he himself created a very clever way of not quite fulfilling those expectations but", "start": 2087.84, "end": 2096.48}
+{"id": "O0Ea5cS4QwE-t2096.48", "text": "not too conspicuously flouting them either.", "start": 2096.48, "end": 2098.92}
+{"id": "O0Ea5cS4QwE-t2098.92", "text": "I'm just hesitating on this because I just want you to think that if you go home and", "start": 2098.92, "end": 2103.6000000000004}
+{"id": "O0Ea5cS4QwE-t2103.6000000000004", "text": "are interested in this, you can look at these.", "start": 2103.6000000000004, "end": 2106.1600000000003}
+{"id": "O0Ea5cS4QwE-t2106.1600000000003", "text": "They're completely open to the public.", "start": 2106.1600000000003, "end": 2108.36}
+{"id": "O0Ea5cS4QwE-t2108.36", "text": "And every verse has its own commentary page.", "start": 2108.36, "end": 2111.56}
+{"id": "O0Ea5cS4QwE-t2111.56", "text": "And this one has a particularly long bunch because the commentators have argued about", "start": 2111.56, "end": 2115.44}
+{"id": "O0Ea5cS4QwE-t2115.44", "text": "it a great deal.", "start": 2115.44, "end": 2116.92}
+{"id": "O0Ea5cS4QwE-t2116.92", "text": "But every verse has a lot of, some of them have pictures just because I like pictures.", "start": 2116.92, "end": 2123.44}
+{"id": "O0Ea5cS4QwE-t2123.44", "text": "But this is the kind of thing I provided for him.", "start": 2123.44, "end": 2126.08}
+{"id": "O0Ea5cS4QwE-t2126.08", "text": "And it's a study site for my work.", "start": 2126.08, "end": 2129.2400000000002}
+{"id": "O0Ea5cS4QwE-t2129.2400000000002", "text": "And it also aims to provide lots of materials and resources for the guzzles, for people", "start": 2129.2400000000002, "end": 2134.44}
+{"id": "O0Ea5cS4QwE-t2134.44", "text": "to study them, even if they don't have a university library at hand.", "start": 2134.44, "end": 2139.04}
+{"id": "O0Ea5cS4QwE-t2139.04", "text": "So here is a very close, a very close study of this one verse.", "start": 2139.04, "end": 2146.6800000000003}
+{"id": "O0Ea5cS4QwE-t2146.68", "text": "So nux here's the definition, right?", "start": 2146.68, "end": 2149.72}
+{"id": "O0Ea5cS4QwE-t2149.72", "text": "Nux means a shape of painting, a picture, a form, etc., etc.", "start": 2149.72, "end": 2154.8399999999997}
+{"id": "O0Ea5cS4QwE-t2154.8399999999997", "text": "The nux.", "start": 2154.8399999999997, "end": 2155.8799999999997}
+{"id": "O0Ea5cS4QwE-t2155.8799999999997", "text": "And then furiadhi.", "start": 2155.8799999999997, "end": 2157.2799999999997}
+{"id": "O0Ea5cS4QwE-t2157.2799999999997", "text": "Furiad means complaint.", "start": 2157.2799999999997, "end": 2159.6}
+{"id": "O0Ea5cS4QwE-t2159.6", "text": "And a furiadhi means one who has a complaint.", "start": 2159.6, "end": 2162.9199999999996}
+{"id": "O0Ea5cS4QwE-t2162.9199999999996", "text": "And in legal terms, it's like plaintiff in English, which also means one who has a plaintiff", "start": 2162.9199999999996, "end": 2168.12}
+{"id": "O0Ea5cS4QwE-t2168.12", "text": "or a complaint.", "start": 2168.12, "end": 2169.72}
+{"id": "O0Ea5cS4QwE-t2169.72", "text": "So the picture or the form is a complainer, a plaintiff, of whose mischievousness of writing.", "start": 2169.72, "end": 2181.9599999999996}
+{"id": "O0Ea5cS4QwE-t2181.9599999999996", "text": "So that's our first line.", "start": 2181.9599999999996, "end": 2186.3599999999997}
+{"id": "O0Ea5cS4QwE-t2186.3599999999997", "text": "And of course writing, the word for writing, has the meaning also of setting at liberty,", "start": 2186.3599999999997, "end": 2191.2799999999997}
+{"id": "O0Ea5cS4QwE-t2191.2799999999997", "text": "which is why we talk about the Harrier Square when we talk about the Arab Spring.", "start": 2191.2799999999997, "end": 2195.3999999999996}
+{"id": "O0Ea5cS4QwE-t2195.3999999999996", "text": "It's not about writing, it's about liberty.", "start": 2195.3999999999996, "end": 2197.7999999999997}
+{"id": "O0Ea5cS4QwE-t2197.8", "text": "So you can see the multiple possibilities here.", "start": 2197.8, "end": 2201.5600000000004}
+{"id": "O0Ea5cS4QwE-t2201.5600000000004", "text": "And Adam O'Shire, I remember, you only get the first line and then you have to wait.", "start": 2201.5600000000004, "end": 2206.92}
+{"id": "O0Ea5cS4QwE-t2206.92", "text": "And you can't look ahead.", "start": 2206.92, "end": 2208.48}
+{"id": "O0Ea5cS4QwE-t2208.48", "text": "You have to, there's a narrative, students call this the authoritarian narrator, that", "start": 2208.48, "end": 2213.4}
+{"id": "O0Ea5cS4QwE-t2213.4", "text": "you're stuck, you can't look ahead.", "start": 2213.4, "end": 2215.32}
+{"id": "O0Ea5cS4QwE-t2215.32", "text": "So the shape is a plaintiff of whose mischievousness of writing.", "start": 2215.32, "end": 2222.52}
+{"id": "O0Ea5cS4QwE-t2222.52", "text": "Why don't you go ahead and recite it nicely?", "start": 2222.52, "end": 2224.76}
+{"id": "O0Ea5cS4QwE-t2224.76", "text": "Well, yeah, lots of stuff.", "start": 2224.76, "end": 2229.2400000000002}
+{"id": "O0Ea5cS4QwE-t2229.24", "text": "of paper.", "start": 2229.24, "end": 2245.12}
+{"id": "O0Ea5cS4QwE-t2245.12", "text": "Cara's is the paper.", "start": 2245.12, "end": 2246.74}
+{"id": "O0Ea5cS4QwE-t2246.74", "text": "Of paper is the garment of every form, face, countenance, shape, of or in the picture.", "start": 2246.74, "end": 2257.8799999999997}
+{"id": "O0Ea5cS4QwE-t2257.88", "text": "So obviously people ask, Galleb, about that.", "start": 2257.88, "end": 2260.7200000000003}
+{"id": "O0Ea5cS4QwE-t2260.7200000000003", "text": "What is this paper business?", "start": 2260.7200000000003, "end": 2261.96}
+{"id": "O0Ea5cS4QwE-t2261.96", "text": "What are paper garments?", "start": 2261.96, "end": 2263.56}
+{"id": "O0Ea5cS4QwE-t2263.56", "text": "And he had to reply in a letter.", "start": 2263.56, "end": 2265.52}
+{"id": "O0Ea5cS4QwE-t2265.52", "text": "So here is his reply, which is my translation from the Urdu.", "start": 2265.52, "end": 2270.8}
+{"id": "O0Ea5cS4QwE-t2270.8", "text": "And you can see that he's used to being asked questions like this, because he says,", "start": 2270.8, "end": 2276.08}
+{"id": "O0Ea5cS4QwE-t2276.08", "text": "bele mani a bhiate bemani suniye.", "start": 2276.08, "end": 2279.6400000000003}
+{"id": "O0Ea5cS4QwE-t2279.6400000000003", "text": "First, listen to the meaning of the meaningless verses, meaning at the beginning of his letter", "start": 2279.6400000000003, "end": 2283.6}
+{"id": "O0Ea5cS4QwE-t2283.6", "text": "to someone, he's going to answer someone's complaint that several of his verses were meaningless.", "start": 2283.6, "end": 2288.92}
+{"id": "O0Ea5cS4QwE-t2288.92", "text": "And he does.", "start": 2288.92, "end": 2289.92}
+{"id": "O0Ea5cS4QwE-t2289.92", "text": "He answers it for several verses, but one of them is this.", "start": 2289.92, "end": 2292.3199999999997}
+{"id": "O0Ea5cS4QwE-t2292.3199999999997", "text": "As for Nakhshvariadi, that's this verse that he's going to explain, in Iran there is the", "start": 2292.3199999999997, "end": 2297.8399999999997}
+{"id": "O0Ea5cS4QwE-t2297.8399999999997", "text": "custom that the seeker of justice, putting on paper garments, goes before the ruler.", "start": 2297.8399999999997, "end": 2304.24}
+{"id": "O0Ea5cS4QwE-t2304.24", "text": "As in the case of lighting a torch in the day, or carrying a blood-soaked cloth on a bamboo", "start": 2304.24, "end": 2312.92}
+{"id": "O0Ea5cS4QwE-t2312.92", "text": "pole to protest an injustice, thus the poet reflects of whose mischievousness of writing", "start": 2312.92, "end": 2320.0}
+{"id": "O0Ea5cS4QwE-t2320.0", "text": "is the image a plaintiff, since the aspect of a picture is that its garment is of paper.", "start": 2320.0, "end": 2326.48}
+{"id": "O0Ea5cS4QwE-t2326.48", "text": "That is to say, although existence may be like that of pictures, merely notional, it", "start": 2326.48, "end": 2332.36}
+{"id": "O0Ea5cS4QwE-t2332.36", "text": "is a cause of grief and sorrow and suffering.", "start": 2332.36, "end": 2336.4}
+{"id": "O0Ea5cS4QwE-t2336.4", "text": "And the commentators have complained, the early and authoritative commentator famously", "start": 2336.4, "end": 2342.32}
+{"id": "O0Ea5cS4QwE-t2342.32", "text": "said that's a meaningless verse, that's very bad, and the other commentators disagree,", "start": 2342.32, "end": 2346.52}
+{"id": "O0Ea5cS4QwE-t2346.52", "text": "and so forth.", "start": 2346.52, "end": 2347.52}
+{"id": "O0Ea5cS4QwE-t2347.52", "text": "But you can see how cleverly framed it is, because it doesn't attack God, but you would", "start": 2347.52, "end": 2352.8}
+{"id": "O0Ea5cS4QwE-t2352.8", "text": "certainly not call it a praise of God either.", "start": 2352.8, "end": 2355.4}
+{"id": "O0Ea5cS4QwE-t2355.4", "text": "It presents itself as a naive question.", "start": 2355.4, "end": 2358.1600000000003}
+{"id": "O0Ea5cS4QwE-t2358.1600000000003", "text": "Gee, I'm looking at a picture, and I notice that all the shapes and forms in the picture", "start": 2358.1600000000003, "end": 2363.6400000000003}
+{"id": "O0Ea5cS4QwE-t2363.6400000000003", "text": "are wearing robes of paper.", "start": 2363.6400000000003, "end": 2365.88}
+{"id": "O0Ea5cS4QwE-t2365.88", "text": "So they must be plaintiffs.", "start": 2365.88, "end": 2367.44}
+{"id": "O0Ea5cS4QwE-t2367.44", "text": "They must be seeking recourse against injustice.", "start": 2367.44, "end": 2371.4}
+{"id": "O0Ea5cS4QwE-t2371.4", "text": "And so against whom are they seeking recourse?", "start": 2371.4, "end": 2375.32}
+{"id": "O0Ea5cS4QwE-t2375.32", "text": "So after you hear the second misra, you realize the base, sorry, misra means line.", "start": 2375.32, "end": 2381.0}
+{"id": "O0Ea5cS4QwE-t2381.0", "text": "After you hear the second line, you realize the basis of the first line, that once you", "start": 2381.0, "end": 2386.4}
+{"id": "O0Ea5cS4QwE-t2386.4", "text": "have seen a picture and thought about all those paper garments that those poor, static,", "start": 2386.4, "end": 2390.76}
+{"id": "O0Ea5cS4QwE-t2390.76", "text": "helpless people in the picture are wearing, then you realize that you may wonder whose mischievousness", "start": 2390.76, "end": 2398.0}
+{"id": "O0Ea5cS4QwE-t2398.0", "text": "of writing are they complaining of that they were drawn badly, because obviously a figure", "start": 2398.0, "end": 2403.12}
+{"id": "O0Ea5cS4QwE-t2403.12", "text": "in a picture has no power of movement.", "start": 2403.12, "end": 2406.12}
+{"id": "O0Ea5cS4QwE-t2406.12", "text": "It can't control its looks or its appearance.", "start": 2406.12, "end": 2408.32}
+{"id": "O0Ea5cS4QwE-t2408.32", "text": "It has no volition.", "start": 2408.32, "end": 2409.52}
+{"id": "O0Ea5cS4QwE-t2409.52", "text": "It looks like it looks as though it's moving.", "start": 2409.52, "end": 2411.64}
+{"id": "O0Ea5cS4QwE-t2411.64", "text": "It looks as though it has human attributes, but it actually doesn't.", "start": 2411.64, "end": 2416.24}
+{"id": "O0Ea5cS4QwE-t2416.24", "text": "Someone has mischievously drawn it, or mischievously drawn it badly.", "start": 2416.24, "end": 2420.32}
+{"id": "O0Ea5cS4QwE-t2420.32", "text": "It's very hard to tell about that.", "start": 2420.32, "end": 2423.48}
+{"id": "O0Ea5cS4QwE-t2423.48", "text": "So there's a lot of word play here of words for writing and drawing and paper and such.", "start": 2423.48, "end": 2429.72}
+{"id": "O0Ea5cS4QwE-t2429.72", "text": "But this is an extremely famous verse.", "start": 2429.72, "end": 2433.12}
+{"id": "O0Ea5cS4QwE-t2433.12", "text": "It was used.", "start": 2433.12, "end": 2435.32}
+{"id": "O0Ea5cS4QwE-t2435.32", "text": "Nokchferiadi was used as a slightly transformed form within Azafat as the title of a collection", "start": 2435.32, "end": 2443.0}
+{"id": "O0Ea5cS4QwE-t2443.0", "text": "by Faz Emmeth Faz, who is a very popular modern Urdu poet, kind of the favorite poet of a", "start": 2443.0, "end": 2450.76}
+{"id": "O0Ea5cS4QwE-t2450.76", "text": "lot of Pakistanis along with it all.", "start": 2450.76, "end": 2453.7200000000003}
+{"id": "O0Ea5cS4QwE-t2453.7200000000003", "text": "So everybody has been a GALIB fan, or the literature ever since, kind of officially a", "start": 2453.7200000000003, "end": 2460.2400000000002}
+{"id": "O0Ea5cS4QwE-t2460.2400000000002", "text": "GALIB fan, and almost everybody.", "start": 2460.2400000000002, "end": 2464.6000000000004}
+{"id": "O0Ea5cS4QwE-t2464.6000000000004", "text": "There's Yoganna who hasn't, but most everybody has.", "start": 2464.6000000000004, "end": 2468.1600000000003}
+{"id": "O0Ea5cS4QwE-t2468.1600000000003", "text": "And this verse is known to everybody who knows anything about GALIB.", "start": 2468.1600000000003, "end": 2473.6400000000003}
+{"id": "O0Ea5cS4QwE-t2473.6400000000003", "text": "So it's a good verse for us to look at, and just to see how what tiny little poems these", "start": 2473.6400000000003, "end": 2478.92}
+{"id": "O0Ea5cS4QwE-t2478.92", "text": "are, and how they have to make use of lots of resources to make a powerful effect on", "start": 2478.92, "end": 2485.8}
+{"id": "O0Ea5cS4QwE-t2485.8", "text": "us, even though they're only like 15 or 20 words long.", "start": 2485.8, "end": 2490.36}
+{"id": "O0Ea5cS4QwE-t2490.36", "text": "So this is our first look at.", "start": 2490.36, "end": 2492.6800000000003}
+{"id": "O0Ea5cS4QwE-t2492.6800000000003", "text": "Our first look at the verse, which is sort of raw material for discussion.", "start": 2492.6800000000003, "end": 2496.92}
+{"id": "O0Ea5cS4QwE-t2496.92", "text": "So what would you add, Mustafa?", "start": 2496.92, "end": 2499.04}
+{"id": "O0Ea5cS4QwE-t2499.04", "text": "Sure.", "start": 2499.04, "end": 2500.04}
+{"id": "O0Ea5cS4QwE-t2500.04", "text": "I'd say that the Indo-Persian languages tradition, you could call it, is that a lot of words", "start": 2500.04, "end": 2511.12}
+{"id": "O0Ea5cS4QwE-t2511.12", "text": "have multiple meanings and shades of meaning as well, which lends such a beautiful complexity", "start": 2511.12, "end": 2519.6}
+{"id": "O0Ea5cS4QwE-t2519.6", "text": "and multilayeredness to Urdu and Indo-Persian and Arabic poetry.", "start": 2519.6, "end": 2525.8}
+{"id": "O0Ea5cS4QwE-t2525.8", "text": "As you can see from Fran's website that just, you get, that there are so many different", "start": 2525.8, "end": 2531.0}
+{"id": "O0Ea5cS4QwE-t2531.0", "text": "words for just one word, and you can literally take each word and plug in a different meaning", "start": 2531.0, "end": 2539.7200000000003}
+{"id": "O0Ea5cS4QwE-t2539.7200000000003", "text": "and shade of meaning and come up with a different interpretation or a slightly different shade", "start": 2539.7200000000003, "end": 2545.6000000000004}
+{"id": "O0Ea5cS4QwE-t2545.6000000000004", "text": "of meaning and experience as well.", "start": 2545.6000000000004, "end": 2549.4}
+{"id": "O0Ea5cS4QwE-t2549.4", "text": "So that's there, and I would say especially on the point of G-alib choosing this as the", "start": 2549.4, "end": 2557.0}
+{"id": "O0Ea5cS4QwE-t2557.0", "text": "opening verse of his divan.", "start": 2557.0, "end": 2559.2400000000002}
+{"id": "O0Ea5cS4QwE-t2559.2400000000002", "text": "So we know of G-alib's personality and his through his life as well that he was a very", "start": 2559.2400000000002, "end": 2566.52}
+{"id": "O0Ea5cS4QwE-t2566.52", "text": "self-assured person.", "start": 2566.52, "end": 2569.36}
+{"id": "O0Ea5cS4QwE-t2569.36", "text": "And you can see his personal as well as poetic conceit, as it were, to choose this couplet", "start": 2569.36, "end": 2577.32}
+{"id": "O0Ea5cS4QwE-t2577.32", "text": "over there, and ironically we can interpret it in terms of irony as well because as he's", "start": 2577.32, "end": 2585.88}
+{"id": "O0Ea5cS4QwE-t2585.88", "text": "asking the question of whose mischievousness is this naksh creation of, he himself is the", "start": 2585.88, "end": 2595.32}
+{"id": "O0Ea5cS4QwE-t2595.32", "text": "person who is actually writing, he is creating the naksh himself.", "start": 2595.32, "end": 2599.96}
+{"id": "O0Ea5cS4QwE-t2599.96", "text": "So in a very tongue and cheek way he is referring to himself as divine, as God as well.", "start": 2599.96, "end": 2607.0}
+{"id": "O0Ea5cS4QwE-t2607.0", "text": "And especially if you take the meaning, a shade of meaning of shokhi as not just mischievousness", "start": 2607.0, "end": 2613.32}
+{"id": "O0Ea5cS4QwE-t2613.32", "text": "but wantonness and the meaning of tahri as setting free, by the act of creating something,", "start": 2613.32, "end": 2624.04}
+{"id": "O0Ea5cS4QwE-t2624.04", "text": "you are actually setting it free or creating it, you are actually freeing it from your own", "start": 2624.04, "end": 2629.64}
+{"id": "O0Ea5cS4QwE-t2629.64", "text": "mind.", "start": 2629.64, "end": 2632.76}
+{"id": "O0Ea5cS4QwE-t2632.76", "text": "You can also see a lot of shades of meaning coming in there.", "start": 2632.76, "end": 2638.44}
+{"id": "O0Ea5cS4QwE-t2638.44", "text": "So he could be referring to himself as well and it reminds me of that line from King", "start": 2638.44, "end": 2648.0}
+{"id": "O0Ea5cS4QwE-t2648.0", "text": "Lear as flies to wanton boys, are we to the gods, they kill us for their sport.", "start": 2648.0, "end": 2655.1200000000003}
+{"id": "O0Ea5cS4QwE-t2655.1200000000003", "text": "And so you can see that in there as well.", "start": 2655.1200000000003, "end": 2658.5600000000004}
+{"id": "O0Ea5cS4QwE-t2658.56", "text": "And France's right, this particular couple it has been debated endlessly as well.", "start": 2658.56, "end": 2664.6}
+{"id": "O0Ea5cS4QwE-t2664.6", "text": "But you should notice that of course the first line is a question.", "start": 2664.6, "end": 2668.16}
+{"id": "O0Ea5cS4QwE-t2668.16", "text": "And so it does not say it's perhaps a naive question, gee who has done this mischievous", "start": 2668.16, "end": 2674.2799999999997}
+{"id": "O0Ea5cS4QwE-t2674.2799999999997", "text": "or bad writing or drawing, I don't know.", "start": 2674.2799999999997, "end": 2678.04}
+{"id": "O0Ea5cS4QwE-t2678.04", "text": "And so if anybody says it's God, it's we who say it's God, it's not the speaker.", "start": 2678.04, "end": 2682.68}
+{"id": "O0Ea5cS4QwE-t2682.68", "text": "The speaker simply asks a question.", "start": 2682.68, "end": 2685.48}
+{"id": "O0Ea5cS4QwE-t2685.48", "text": "And in fact, there's a lovely rhetorical feature of the guzzle that's a common trait, especially", "start": 2685.48, "end": 2692.12}
+{"id": "O0Ea5cS4QwE-t2692.12", "text": "in Raleigh and Meer, the two greatest masters.", "start": 2692.12, "end": 2695.64}
+{"id": "O0Ea5cS4QwE-t2695.64", "text": "The preference for inshaia over habariya speech.", "start": 2695.64, "end": 2700.12}
+{"id": "O0Ea5cS4QwE-t2700.12", "text": "And this is a sort of rhetorical distinction that exists in Persian poetic theory also.", "start": 2700.12, "end": 2706.6}
+{"id": "O0Ea5cS4QwE-t2706.6", "text": "Habariya gives you habari, it gives you information.", "start": 2706.6, "end": 2710.32}
+{"id": "O0Ea5cS4QwE-t2710.32", "text": "Like the sky is blue is a habariya statement.", "start": 2710.32, "end": 2713.68}
+{"id": "O0Ea5cS4QwE-t2713.68", "text": "And inshaia statement would be, is the sky blue?", "start": 2713.68, "end": 2718.04}
+{"id": "O0Ea5cS4QwE-t2718.04", "text": "How blue the sky is.", "start": 2718.04, "end": 2720.3599999999997}
+{"id": "O0Ea5cS4QwE-t2720.3599999999997", "text": "I wish the sky were blue.", "start": 2720.3599999999997, "end": 2723.08}
+{"id": "O0Ea5cS4QwE-t2723.08", "text": "Perhaps the sky might be blue.", "start": 2723.08, "end": 2725.44}
+{"id": "O0Ea5cS4QwE-t2725.44", "text": "If the sky were blue, et cetera, et cetera.", "start": 2725.44, "end": 2728.04}
+{"id": "O0Ea5cS4QwE-t2728.04", "text": "So almost anything that's not a falsifiable informative statement is called inshaia.", "start": 2728.04, "end": 2734.9199999999996}
+{"id": "O0Ea5cS4QwE-t2734.9199999999996", "text": "And it opens so many possibilities because a first line like that, it could be an exclamation", "start": 2734.9199999999996, "end": 2741.3999999999996}
+{"id": "O0Ea5cS4QwE-t2741.3999999999996", "text": "also.", "start": 2741.3999999999996, "end": 2742.3999999999996}
+{"id": "O0Ea5cS4QwE-t2742.4", "text": "Oh my, how extraordinary.", "start": 2742.4, "end": 2744.2000000000003}
+{"id": "O0Ea5cS4QwE-t2744.2000000000003", "text": "Why are all these figures in the picture wearing paper robes?", "start": 2744.2000000000003, "end": 2748.08}
+{"id": "O0Ea5cS4QwE-t2748.08", "text": "Or it could be an innocent question of someone who really has no idea.", "start": 2748.08, "end": 2752.52}
+{"id": "O0Ea5cS4QwE-t2752.52", "text": "Or it could be a cynical question.", "start": 2752.52, "end": 2753.92}
+{"id": "O0Ea5cS4QwE-t2753.92", "text": "Yeah, who are they complaining about?", "start": 2753.92, "end": 2755.7200000000003}
+{"id": "O0Ea5cS4QwE-t2755.7200000000003", "text": "You and I know who they're complaining about, don't we?", "start": 2755.7200000000003, "end": 2758.2000000000003}
+{"id": "O0Ea5cS4QwE-t2758.2000000000003", "text": "So in a lot of these little two line verses, the tone is everything.", "start": 2758.2000000000003, "end": 2762.92}
+{"id": "O0Ea5cS4QwE-t2762.92", "text": "But you have to provide the tone because nothing in the verse tells you the tone in", "start": 2762.92, "end": 2767.4}
+{"id": "O0Ea5cS4QwE-t2767.4", "text": "which it is to be recited.", "start": 2767.4, "end": 2769.28}
+{"id": "O0Ea5cS4QwE-t2769.28", "text": "So you may hear it recited if a very small number of people would ever have heard, gala,", "start": 2769.28, "end": 2774.2400000000002}
+{"id": "O0Ea5cS4QwE-t2774.2400000000002", "text": "recite that verse.", "start": 2774.2400000000002, "end": 2775.8}
+{"id": "O0Ea5cS4QwE-t2775.8", "text": "So when you read it on paper, which is how most people encountered it, every time someone", "start": 2775.8, "end": 2781.52}
+{"id": "O0Ea5cS4QwE-t2781.52", "text": "recites it, you have to recite it in a tone.", "start": 2781.52, "end": 2785.88}
+{"id": "O0Ea5cS4QwE-t2785.88", "text": "And that guides the interpretation too.", "start": 2785.88, "end": 2789.0}
+{"id": "O0Ea5cS4QwE-t2789.0", "text": "You inevitably help to create the verse yourself.", "start": 2789.0, "end": 2791.52}
+{"id": "O0Ea5cS4QwE-t2791.52", "text": "And that's part of the fascination and enjoyment of these tiny little, tiny little poems that", "start": 2791.52, "end": 2796.92}
+{"id": "O0Ea5cS4QwE-t2796.92", "text": "are partly do it yourself.", "start": 2796.92, "end": 2798.6400000000003}
+{"id": "O0Ea5cS4QwE-t2798.64", "text": "And so you have to work extra hard on them.", "start": 2798.64, "end": 2800.56}
+{"id": "O0Ea5cS4QwE-t2800.56", "text": "And that enhances their meaning.", "start": 2800.56, "end": 2802.24}
+{"id": "O0Ea5cS4QwE-t2802.24", "text": "Did you have a question?", "start": 2802.24, "end": 2803.24}
+{"id": "O0Ea5cS4QwE-t2803.24", "text": "Is he concerned with someone, this to me by the way seems almost like a one, one,", "start": 2803.24, "end": 2809.3199999999997}
+{"id": "O0Ea5cS4QwE-t2809.3199999999997", "text": "floating down on the face of whatever reader-like cake events or not?", "start": 2809.3199999999997, "end": 2814.2799999999997}
+{"id": "O0Ea5cS4QwE-t2814.2799999999997", "text": "But is he concerned about where the parents slipred his without language and so many", "start": 2814.2799999999997, "end": 2819.7599999999998}
+{"id": "O0Ea5cS4QwE-t2819.7599999999998", "text": "poets in the book about it?", "start": 2819.7599999999998, "end": 2821.52}
+{"id": "O0Ea5cS4QwE-t2821.52", "text": "And so you have to be aware of the fact that you're saying, one word, you go to hell,", "start": 2821.52, "end": 2828.52}
+{"id": "O0Ea5cS4QwE-t2828.52", "text": "and you say, one word, you go to hell as fast as an arrow.", "start": 2828.52, "end": 2831.52}
+{"id": "O0Ea5cS4QwE-t2831.52", "text": "So is that something about the reader?", "start": 2831.52, "end": 2834.52}
+{"id": "O0Ea5cS4QwE-t2834.52", "text": "He's talking about language itself.", "start": 2834.52, "end": 2836.32}
+{"id": "O0Ea5cS4QwE-t2836.32", "text": "He wasn't worried about going to hell because all the guzzle poets knew that the themes", "start": 2836.32, "end": 2840.92}
+{"id": "O0Ea5cS4QwE-t2840.92", "text": "or the musmoons of these verses were given by the tradition.", "start": 2840.92, "end": 2844.68}
+{"id": "O0Ea5cS4QwE-t2844.68", "text": "So if he wrote a verse that said, oh, I tear my clothes off and run around in the desert", "start": 2844.68, "end": 2850.04}
+{"id": "O0Ea5cS4QwE-t2850.04", "text": "getting drunk.", "start": 2850.04, "end": 2851.28}
+{"id": "O0Ea5cS4QwE-t2851.28", "text": "No one would think that was an autobiographical statement.", "start": 2851.28, "end": 2854.84}
+{"id": "O0Ea5cS4QwE-t2854.84", "text": "Everybody would realize that was just an expression of the themes of the guzzle world.", "start": 2854.84, "end": 2859.1600000000003}
+{"id": "O0Ea5cS4QwE-t2859.1600000000003", "text": "And he was speaking in the voice of the mad lover, who essentially is the inhabitant of", "start": 2859.1600000000003, "end": 2864.0}
+{"id": "O0Ea5cS4QwE-t2864.0", "text": "the guzzle world.", "start": 2864.0, "end": 2865.52}
+{"id": "O0Ea5cS4QwE-t2865.52", "text": "So there are lots and lots of verbal devices he used, and he certainly cared about them,", "start": 2865.52, "end": 2870.92}
+{"id": "O0Ea5cS4QwE-t2870.92", "text": "and people have tried to analyze them and figure them out ever since.", "start": 2870.92, "end": 2874.6800000000003}
+{"id": "O0Ea5cS4QwE-t2874.6800000000003", "text": "But there's no indication that he had a lot of anxiety about them.", "start": 2874.6800000000003, "end": 2878.8}
+{"id": "O0Ea5cS4QwE-t2878.8", "text": "Even in his generation, he was controversial because a lot of times earlier guzzle poets", "start": 2878.8, "end": 2887.0800000000004}
+{"id": "O0Ea5cS4QwE-t2887.0800000000004", "text": "had gone in for straightforward love poetry, lyrical, romantic, sweet, adorable, nice.", "start": 2887.0800000000004, "end": 2894.4}
+{"id": "O0Ea5cS4QwE-t2894.4", "text": "And then he brings in, sort of like John Dunn, the metaphysical poet.", "start": 2894.4, "end": 2898.52}
+{"id": "O0Ea5cS4QwE-t2898.52", "text": "He brings in the flea and writes about the flea that bites his beloved, John Dunn does,", "start": 2898.52, "end": 2902.36}
+{"id": "O0Ea5cS4QwE-t2902.36", "text": "I mean, or the drawing compass image that are not smooth and romantic.", "start": 2902.36, "end": 2906.52}
+{"id": "O0Ea5cS4QwE-t2906.52", "text": "They're kind of lumpy and cerebral and metaphysical.", "start": 2906.52, "end": 2909.72}
+{"id": "O0Ea5cS4QwE-t2909.72", "text": "So I think that Galleb is more like Dunn than like any other English poet.", "start": 2909.72, "end": 2914.04}
+{"id": "O0Ea5cS4QwE-t2914.04", "text": "And he delighted in using awkward, edgy, unheard of kinds of word and image play.", "start": 2914.04, "end": 2921.96}
+{"id": "O0Ea5cS4QwE-t2921.96", "text": "And he had many detractors, but he also had many great admirers.", "start": 2921.96, "end": 2926.84}
+{"id": "O0Ea5cS4QwE-t2926.84", "text": "He was very famous for his poetry and his letters also in his ordew and Persian ones", "start": 2926.84, "end": 2934.4}
+{"id": "O0Ea5cS4QwE-t2934.4", "text": "both.", "start": 2934.4, "end": 2935.56}
+{"id": "O0Ea5cS4QwE-t2935.56", "text": "So there's a lot to be said on this subject.", "start": 2935.56, "end": 2939.2799999999997}
+{"id": "O0Ea5cS4QwE-t2939.2799999999997", "text": "And God knows any of you who are interested can probably find more information than you", "start": 2939.2799999999997, "end": 2944.12}
+{"id": "O0Ea5cS4QwE-t2944.12", "text": "want on my website.", "start": 2944.12, "end": 2951.48}
+{"id": "O0Ea5cS4QwE-t2951.48", "text": "Did you have anything to add?", "start": 2951.48, "end": 2952.48}
+{"id": "O0Ea5cS4QwE-t2952.48", "text": "Oh, sorry.", "start": 2952.48, "end": 2953.48}
+{"id": "O0Ea5cS4QwE-t2953.48", "text": "Oh, sorry.", "start": 2953.48, "end": 2954.48}
+{"id": "O0Ea5cS4QwE-t2954.48", "text": "Sorry.", "start": 2954.48, "end": 2955.48}
+{"id": "O0Ea5cS4QwE-t2955.48", "text": "If you could answer it briefly, it's a big question.", "start": 2955.48, "end": 2958.48}
+{"id": "O0Ea5cS4QwE-t2958.48", "text": "What are the origins of the bazelle?", "start": 2958.48, "end": 2965.2}
+{"id": "O0Ea5cS4QwE-t2965.2", "text": "The deer or the poem?", "start": 2965.2, "end": 2969.48}
+{"id": "O0Ea5cS4QwE-t2969.48", "text": "Well, it started in Arabic.", "start": 2969.48, "end": 2971.9199999999996}
+{"id": "O0Ea5cS4QwE-t2971.9199999999996", "text": "I'm not so good on this because I do not know Arabic.", "start": 2971.9199999999996, "end": 2975.96}
+{"id": "O0Ea5cS4QwE-t2975.96", "text": "So it grew out of longer forms of poetry.", "start": 2975.96, "end": 2978.8399999999997}
+{"id": "O0Ea5cS4QwE-t2978.8399999999997", "text": "It was one part of an introductory part of a kind of longer genre in Arabic shortly before", "start": 2978.8399999999997, "end": 2988.8799999999997}
+{"id": "O0Ea5cS4QwE-t2988.8799999999997", "text": "the coming of Islam.", "start": 2988.8799999999997, "end": 2990.3599999999997}
+{"id": "O0Ea5cS4QwE-t2990.36", "text": "So like the sixth century, and it really was a minor genre in Arabic.", "start": 2990.36, "end": 2998.6}
+{"id": "O0Ea5cS4QwE-t2998.6", "text": "But when it came into Persian, then it exploded and became extremely important and became", "start": 2998.6, "end": 3004.2400000000002}
+{"id": "O0Ea5cS4QwE-t3004.2400000000002", "text": "a major form of literary, romantic and mystical expression in Persian and then in Turkish", "start": 3004.2400000000002, "end": 3013.0}
+{"id": "O0Ea5cS4QwE-t3013.0", "text": "and ordew also.", "start": 3013.0, "end": 3014.6800000000003}
+{"id": "O0Ea5cS4QwE-t3014.6800000000003", "text": "So it's never been a big deal in Arabic, but it did begin in Arabic.", "start": 3014.6800000000003, "end": 3018.1600000000003}
+{"id": "O0Ea5cS4QwE-t3018.16", "text": "Yeah.", "start": 3018.16, "end": 3021.16}
+{"id": "O0Ea5cS4QwE-t3021.16", "text": "I was surprised to hear you say that there was no performances of bazelle.", "start": 3021.16, "end": 3028.3999999999996}
+{"id": "O0Ea5cS4QwE-t3028.3999999999996", "text": "There were no longer than popular because there was a woman and there was an international", "start": 3028.3999999999996, "end": 3038.2799999999997}
+{"id": "O0Ea5cS4QwE-t3038.2799999999997", "text": "re as a puzzle of a singer.", "start": 3038.2799999999997, "end": 3041.6}
+{"id": "O0Ea5cS4QwE-t3041.6", "text": "I think she was Egyptian, I was where the guy some years ago, he was 70.", "start": 3041.6, "end": 3048.88}
+{"id": "O0Ea5cS4QwE-t3048.88", "text": "Oh, ohm kalsum, right?", "start": 3048.88, "end": 3050.68}
+{"id": "O0Ea5cS4QwE-t3050.68", "text": "Yeah.", "start": 3050.68, "end": 3051.68}
+{"id": "O0Ea5cS4QwE-t3051.68", "text": "Yes.", "start": 3051.68, "end": 3052.68}
+{"id": "O0Ea5cS4QwE-t3052.68", "text": "And there was a national deal.", "start": 3052.68, "end": 3053.68}
+{"id": "O0Ea5cS4QwE-t3053.68", "text": "There was a great passion for that for you, the beef and all.", "start": 3053.68, "end": 3058.68}
+{"id": "O0Ea5cS4QwE-t3058.68", "text": "And I had the impression that bazelle and singer were sort of like rock stars.", "start": 3058.68, "end": 3066.6}
+{"id": "O0Ea5cS4QwE-t3066.6", "text": "Well now in ordew, this can be the case.", "start": 3066.6, "end": 3068.8399999999997}
+{"id": "O0Ea5cS4QwE-t3068.84", "text": "But I believe om kalsum sang modern poems that were not guzzles or older poems that were", "start": 3068.84, "end": 3075.52}
+{"id": "O0Ea5cS4QwE-t3075.52", "text": "guzzles.", "start": 3075.52, "end": 3076.52}
+{"id": "O0Ea5cS4QwE-t3076.52", "text": "I really don't know.", "start": 3076.52, "end": 3077.52}
+{"id": "O0Ea5cS4QwE-t3077.52", "text": "Does anybody know Arabic and know what om kalsum used to sing?", "start": 3077.52, "end": 3080.28}
+{"id": "O0Ea5cS4QwE-t3080.28", "text": "I don't know Arabic, but I had a mention of the tradition of what was the great, great", "start": 3080.28, "end": 3088.28}
+{"id": "O0Ea5cS4QwE-t3088.28", "text": "minor of the poem.", "start": 3088.28, "end": 3090.28}
+{"id": "O0Ea5cS4QwE-t3090.28", "text": "We also had political, not only one thing in front of the left, but my impression was", "start": 3090.28, "end": 3097.52}
+{"id": "O0Ea5cS4QwE-t3097.52", "text": "that she was singing about popular things and not anything to do with this book.", "start": 3097.52, "end": 3104.52}
+{"id": "O0Ea5cS4QwE-t3104.52", "text": "She talked a lot about broken violinist lovers.", "start": 3104.52, "end": 3107.52}
+{"id": "O0Ea5cS4QwE-t3107.52", "text": "I don't think of any religious, but she was providing it.", "start": 3107.52, "end": 3113.52}
+{"id": "O0Ea5cS4QwE-t3113.52", "text": "She made a lot of it, she made a lot of it, and she wrote it all.", "start": 3113.52, "end": 3118.36}
+{"id": "O0Ea5cS4QwE-t3118.36", "text": "I'd say that the kind of ground that violin broke and set up, then gave, it was a very", "start": 3118.36, "end": 3127.36}
+{"id": "O0Ea5cS4QwE-t3127.36", "text": "great way to a lot of evolution in the way that Mosheirazah held, their frequencies,", "start": 3127.36, "end": 3135.2000000000003}
+{"id": "O0Ea5cS4QwE-t3135.2000000000003", "text": "the way that Urdu poetry has sung, how it's read, how it's practiced, the whole range", "start": 3135.2000000000003, "end": 3141.96}
+{"id": "O0Ea5cS4QwE-t3141.96", "text": "of experiences.", "start": 3141.96, "end": 3143.48}
+{"id": "O0Ea5cS4QwE-t3143.48", "text": "So I agree with Fran when she says that yes, Mosheirazah are not as popular today as they", "start": 3143.48, "end": 3151.8}
+{"id": "O0Ea5cS4QwE-t3151.8", "text": "used to be, and Mosheirazah are the gathering of poets who are going to be reciting their", "start": 3151.8, "end": 3158.6400000000003}
+{"id": "O0Ea5cS4QwE-t3158.6400000000003", "text": "own work primarily.", "start": 3158.6400000000003, "end": 3160.84}
+{"id": "O0Ea5cS4QwE-t3160.84", "text": "So there's that performance, and yes, their frequency, at least in Pakistan and India,", "start": 3160.84, "end": 3167.76}
+{"id": "O0Ea5cS4QwE-t3167.76", "text": "from what I know and have experienced, has gone down.", "start": 3167.76, "end": 3171.52}
+{"id": "O0Ea5cS4QwE-t3171.52", "text": "And I would say to a large degree, it's because of the times and the pace of life now and", "start": 3171.52, "end": 3180.6800000000003}
+{"id": "O0Ea5cS4QwE-t3180.68", "text": "the modernization process, et cetera, that's going on in these, in Urdu-speaking societies.", "start": 3180.68, "end": 3186.96}
+{"id": "O0Ea5cS4QwE-t3186.96", "text": "There's also, of course, the big question in Pakistan, the big issue of security, as", "start": 3186.96, "end": 3192.56}
+{"id": "O0Ea5cS4QwE-t3192.56", "text": "well things have not been very stable for the past two decades or so.", "start": 3192.56, "end": 3199.7999999999997}
+{"id": "O0Ea5cS4QwE-t3199.7999999999997", "text": "So there's a certain risk to having large gatherings and having people be in one place", "start": 3199.7999999999997, "end": 3207.08}
+{"id": "O0Ea5cS4QwE-t3207.08", "text": "and Mosheirazah were usually held during the evening and night hours, et cetera.", "start": 3207.08, "end": 3212.7999999999997}
+{"id": "O0Ea5cS4QwE-t3212.7999999999997", "text": "So that's one reason for that as well.", "start": 3212.7999999999997, "end": 3216.08}
+{"id": "O0Ea5cS4QwE-t3216.08", "text": "Performance-wise, there are singing performances of poetry as well.", "start": 3216.08, "end": 3220.84}
+{"id": "O0Ea5cS4QwE-t3220.84", "text": "So more along the lines of Ummikul-Sum and individual singers who became famous for singing", "start": 3220.84, "end": 3228.56}
+{"id": "O0Ea5cS4QwE-t3228.56", "text": "Urdu poetry, they have found outlets and survival through modern media.", "start": 3228.56, "end": 3236.88}
+{"id": "O0Ea5cS4QwE-t3236.88", "text": "So through the intervention of radio and TV and now the internet, you find that the", "start": 3236.88, "end": 3243.36}
+{"id": "O0Ea5cS4QwE-t3243.36", "text": "razal singing performance of the razal live on as you witness the opening razal that we", "start": 3243.36, "end": 3250.4}
+{"id": "O0Ea5cS4QwE-t3250.4", "text": "had that was playing when you were walking in by a singer called Talat Mehmud, who was", "start": 3250.4, "end": 3256.48}
+{"id": "O0Ea5cS4QwE-t3256.48", "text": "singing it a good 30, 40 years ago, if not earlier than that, but because of YouTube,", "start": 3256.48, "end": 3263.88}
+{"id": "O0Ea5cS4QwE-t3263.88", "text": "we have those as well.", "start": 3263.88, "end": 3266.92}
+{"id": "O0Ea5cS4QwE-t3266.92", "text": "But yes, even on that side of performance, things are getting tougher in terms of the", "start": 3266.92, "end": 3274.7200000000003}
+{"id": "O0Ea5cS4QwE-t3274.7200000000003", "text": "sheer number of people who are now practicing the classical art of razal singing, which", "start": 3274.7200000000003, "end": 3280.8}
+{"id": "O0Ea5cS4QwE-t3280.8", "text": "is also, and razal would then be fused with the whole science and art of Indian classical", "start": 3280.8, "end": 3288.88}
+{"id": "O0Ea5cS4QwE-t3288.88", "text": "music, which has its own, which is a whole science on its own.", "start": 3288.88, "end": 3294.4}
+{"id": "O0Ea5cS4QwE-t3294.4", "text": "And interest and patience in acquiring that art is also going down.", "start": 3294.4, "end": 3301.36}
+{"id": "O0Ea5cS4QwE-t3301.36", "text": "But now with the intervention, again, evolution keeps happening.", "start": 3301.36, "end": 3305.32}
+{"id": "O0Ea5cS4QwE-t3305.32", "text": "So now you have this mixing of pop genres coming into contact with classical Indian music and", "start": 3305.32, "end": 3313.2400000000002}
+{"id": "O0Ea5cS4QwE-t3313.24", "text": "modern Urdu poetry coming into contact with classical and sort of a mishmash occurring", "start": 3313.24, "end": 3321.4799999999996}
+{"id": "O0Ea5cS4QwE-t3321.4799999999996", "text": "and something new coming out of it.", "start": 3321.4799999999996, "end": 3324.56}
+{"id": "O0Ea5cS4QwE-t3324.56", "text": "So if you ask members of the younger generation, especially in Pakistan, if Urdu music, they", "start": 3324.56, "end": 3333.6}
+{"id": "O0Ea5cS4QwE-t3333.6", "text": "would call it Urdu music, is alive and well there, you would definitely get a very affirmative", "start": 3333.6, "end": 3339.9599999999996}
+{"id": "O0Ea5cS4QwE-t3339.96", "text": "answer, even if they do not listen to it much.", "start": 3339.96, "end": 3344.84}
+{"id": "O0Ea5cS4QwE-t3344.84", "text": "And there's of course also the regional folk influences.", "start": 3344.84, "end": 3348.7200000000003}
+{"id": "O0Ea5cS4QwE-t3348.7200000000003", "text": "In the regions of India and Pakistan, Urdu is of course just one of the languages that", "start": 3348.7200000000003, "end": 3353.6}
+{"id": "O0Ea5cS4QwE-t3353.6", "text": "is spoken.", "start": 3353.6, "end": 3354.6}
+{"id": "O0Ea5cS4QwE-t3354.6", "text": "It's the official language of Pakistan and the official language of five states in India,", "start": 3354.6, "end": 3359.16}
+{"id": "O0Ea5cS4QwE-t3359.16", "text": "but then there's a myriad number of other languages that are spoken.", "start": 3359.16, "end": 3362.48}
+{"id": "O0Ea5cS4QwE-t3362.48", "text": "And they all sort of interact with each other, flow in and out of each other, and new things", "start": 3362.48, "end": 3369.08}
+{"id": "O0Ea5cS4QwE-t3369.08", "text": "come out of those as well.", "start": 3369.08, "end": 3372.12}
+{"id": "O0Ea5cS4QwE-t3372.12", "text": "People have said a lot and perhaps you folks know something about the Hindi Urdu split.", "start": 3372.12, "end": 3379.0}
+{"id": "O0Ea5cS4QwE-t3379.0", "text": "Are they two languages or one?", "start": 3379.0, "end": 3380.4}
+{"id": "O0Ea5cS4QwE-t3380.4", "text": "Are they kind of a Siamese twin compound or what?", "start": 3380.4, "end": 3384.2}
+{"id": "O0Ea5cS4QwE-t3384.2", "text": "And there's been a lot of tension of course because Hindi is the official language of India", "start": 3384.2, "end": 3388.7599999999998}
+{"id": "O0Ea5cS4QwE-t3388.7599999999998", "text": "and Urdu is the official language of Pakistan and yet they share a common grammar and a large", "start": 3388.7599999999998, "end": 3395.24}
+{"id": "O0Ea5cS4QwE-t3395.24", "text": "amount of common basic vocabulary and then they have two different sources for their", "start": 3395.24, "end": 3399.72}
+{"id": "O0Ea5cS4QwE-t3399.72", "text": "fancy vocabulary and two different scripts.", "start": 3399.72, "end": 3402.7599999999998}
+{"id": "O0Ea5cS4QwE-t3402.7599999999998", "text": "But the real threat to both of them in my view is English now.", "start": 3402.7599999999998, "end": 3406.9199999999996}
+{"id": "O0Ea5cS4QwE-t3406.9199999999996", "text": "South Asians are picking up English at an astonishing pace.", "start": 3406.9199999999996, "end": 3411.6}
+{"id": "O0Ea5cS4QwE-t3411.6", "text": "And the really sad thing is there is as most of us said there's a long and strong tradition", "start": 3411.6, "end": 3416.4799999999996}
+{"id": "O0Ea5cS4QwE-t3416.4799999999996", "text": "of being multilingual in South Asia, not in a pretentious way but perhaps you would speak", "start": 3416.4799999999996, "end": 3421.08}
+{"id": "O0Ea5cS4QwE-t3421.08", "text": "one language in your village.", "start": 3421.08, "end": 3422.7999999999997}
+{"id": "O0Ea5cS4QwE-t3422.8", "text": "And if you want to mark it in a neighboring town there would be a different dialect there.", "start": 3422.8, "end": 3427.0800000000004}
+{"id": "O0Ea5cS4QwE-t3427.0800000000004", "text": "And if you were a highly educated man of an upper class you might have a separate language", "start": 3427.0800000000004, "end": 3431.2400000000002}
+{"id": "O0Ea5cS4QwE-t3431.2400000000002", "text": "that you would use for diplomatic or literary purposes.", "start": 3431.2400000000002, "end": 3436.88}
+{"id": "O0Ea5cS4QwE-t3436.88", "text": "But so you would think that English could be sustained along with at least one South", "start": 3436.88, "end": 3444.0800000000004}
+{"id": "O0Ea5cS4QwE-t3444.0800000000004", "text": "Asian language but in my observation this is not happening.", "start": 3444.0800000000004, "end": 3447.52}
+{"id": "O0Ea5cS4QwE-t3447.52", "text": "My friends who are Urdu, or the Ualas or Hindi Ualas who are really interested in these languages", "start": 3447.52, "end": 3452.2000000000003}
+{"id": "O0Ea5cS4QwE-t3452.2", "text": "and literatures, their kids have all been sent to English medium schools.", "start": 3452.2, "end": 3456.08}
+{"id": "O0Ea5cS4QwE-t3456.08", "text": "Meaning the medium of instruction is in English.", "start": 3456.08, "end": 3459.12}
+{"id": "O0Ea5cS4QwE-t3459.12", "text": "And they have tried very hard to make their kids fluent in Hindi or Urdu with varying", "start": 3459.12, "end": 3463.8799999999997}
+{"id": "O0Ea5cS4QwE-t3463.8799999999997", "text": "success.", "start": 3463.8799999999997, "end": 3465.08}
+{"id": "O0Ea5cS4QwE-t3465.08", "text": "But if you go to the kids' rooms and look at what they're choosing to read you know", "start": 3465.08, "end": 3468.72}
+{"id": "O0Ea5cS4QwE-t3468.72", "text": "it's English.", "start": 3468.72, "end": 3469.9199999999996}
+{"id": "O0Ea5cS4QwE-t3469.9199999999996", "text": "And if you put two of those kids in a room together you know they're going to be speaking", "start": 3469.9199999999996, "end": 3473.12}
+{"id": "O0Ea5cS4QwE-t3473.12", "text": "English to each other.", "start": 3473.12, "end": 3474.12}
+{"id": "O0Ea5cS4QwE-t3474.12", "text": "I mean it's a big problem for the future of this language at an elite level.", "start": 3474.12, "end": 3482.16}
+{"id": "O0Ea5cS4QwE-t3482.16", "text": "Because of course they may know Urdu for speaking to servants or something like that.", "start": 3482.16, "end": 3487.56}
+{"id": "O0Ea5cS4QwE-t3487.56", "text": "But their fancy education, their literary and artistic vocabulary and thinking often", "start": 3487.56, "end": 3493.3599999999997}
+{"id": "O0Ea5cS4QwE-t3493.3599999999997", "text": "happens in English.", "start": 3493.3599999999997, "end": 3496.12}
+{"id": "O0Ea5cS4QwE-t3496.12", "text": "And so this is the high end side of Urdu where if you don't have a good background in grammar", "start": 3496.12, "end": 3502.24}
+{"id": "O0Ea5cS4QwE-t3502.24", "text": "and the sense of the meter and the poetry and the Persianized vocabulary it's very hard", "start": 3502.24, "end": 3506.7999999999997}
+{"id": "O0Ea5cS4QwE-t3506.7999999999997", "text": "for you.", "start": 3506.7999999999997, "end": 3507.7999999999997}
+{"id": "O0Ea5cS4QwE-t3507.8", "text": "In fact the most heartfelt letters of thanks I get are from South Asians living in the", "start": 3507.8, "end": 3514.0800000000004}
+{"id": "O0Ea5cS4QwE-t3514.0800000000004", "text": "West who say thank you for your website.", "start": 3514.0800000000004, "end": 3517.1600000000003}
+{"id": "O0Ea5cS4QwE-t3517.1600000000003", "text": "I always wanted to understand the poetry of Gollib and I never could but you've explained", "start": 3517.1600000000003, "end": 3522.4}
+{"id": "O0Ea5cS4QwE-t3522.4", "text": "it all in English so now I can't.", "start": 3522.4, "end": 3524.8}
+{"id": "O0Ea5cS4QwE-t3524.8", "text": "And it's just something that's happening and then the migration of the Gazal into English", "start": 3524.8, "end": 3530.2400000000002}
+{"id": "O0Ea5cS4QwE-t3530.2400000000002", "text": "is kind of fascinating too.", "start": 3530.2400000000002, "end": 3531.8}
+{"id": "O0Ea5cS4QwE-t3531.8", "text": "Because of course what is it in English?", "start": 3531.8, "end": 3533.6400000000003}
+{"id": "O0Ea5cS4QwE-t3533.6400000000003", "text": "It doesn't have the meter or so is it the Gazal or not?", "start": 3533.6400000000003, "end": 3536.1200000000003}
+{"id": "O0Ea5cS4QwE-t3536.12", "text": "A whole set of questions but new things are happening all over the place.", "start": 3536.12, "end": 3539.7599999999998}
+{"id": "O0Ea5cS4QwE-t3539.7599999999998", "text": "And so we might as well celebrate and enjoy them.", "start": 3539.7599999999998, "end": 3542.88}
+{"id": "O0Ea5cS4QwE-t3542.88", "text": "But the definitely English in South Asia is just becoming, with every generation it's", "start": 3542.88, "end": 3550.08}
+{"id": "O0Ea5cS4QwE-t3550.08", "text": "absolutely taking over and I don't know what the future will hold but this is a very very", "start": 3550.08, "end": 3555.68}
+{"id": "O0Ea5cS4QwE-t3555.68", "text": "strong trend.", "start": 3555.68, "end": 3556.68}
+{"id": "O0Ea5cS4QwE-t3556.68", "text": "And I don't see any retreat from it or any counter trends do you?", "start": 3556.68, "end": 3560.68}
+{"id": "O0Ea5cS4QwE-t3560.68", "text": "No I wouldn't say that there's a retreat from it I would say that again there is a process", "start": 3560.68, "end": 3567.96}
+{"id": "O0Ea5cS4QwE-t3567.96", "text": "of sort of or doising it or Englishising it.", "start": 3567.96, "end": 3572.52}
+{"id": "O0Ea5cS4QwE-t3572.52", "text": "Yeah new hybrids.", "start": 3572.52, "end": 3573.52}
+{"id": "O0Ea5cS4QwE-t3573.52", "text": "As it were new new hybrids are coming out and slowly so I think even if every person in", "start": 3573.52, "end": 3582.08}
+{"id": "O0Ea5cS4QwE-t3582.08", "text": "South Asia became an English speaker exclusively that English would differ markedly from the", "start": 3582.08, "end": 3589.48}
+{"id": "O0Ea5cS4QwE-t3589.48", "text": "English spoken in England or the US because it would still have that flavour because of", "start": 3589.48, "end": 3595.84}
+{"id": "O0Ea5cS4QwE-t3595.84", "text": "course as we although that language is more than just the words in that language it's", "start": 3595.84, "end": 3601.72}
+{"id": "O0Ea5cS4QwE-t3601.72", "text": "a whole set of historical and cultural experiences and values that come with it as well.", "start": 3601.72, "end": 3609.4}
+{"id": "O0Ea5cS4QwE-t3609.4", "text": "Yes.", "start": 3609.4, "end": 3610.4}
+{"id": "O0Ea5cS4QwE-t3610.4", "text": "I mean one thing for us whether we just poetry you know the end of youth's name culture", "start": 3610.4, "end": 3620.4}
+{"id": "O0Ea5cS4QwE-t3620.4", "text": "and what percentage of the population did that audience represent?", "start": 3620.4, "end": 3624.4}
+{"id": "O0Ea5cS4QwE-t3624.4", "text": "Was it widespread or was it just a particular echelon?", "start": 3624.4, "end": 3628.4}
+{"id": "O0Ea5cS4QwE-t3628.4", "text": "How many women read it or who were they people that were reading it?", "start": 3628.4, "end": 3634.4}
+{"id": "O0Ea5cS4QwE-t3634.4", "text": "Who was he talking to?", "start": 3634.4, "end": 3636.4}
+{"id": "O0Ea5cS4QwE-t3636.4", "text": "Well.", "start": 3636.4, "end": 3641.4}
+{"id": "O0Ea5cS4QwE-t3641.4", "text": "Who had the word it's a lame dollar so that the thing could be so that it could be either", "start": 3641.4, "end": 3650.4}
+{"id": "O0Ea5cS4QwE-t3650.4", "text": "presented with a bad problem or was it a political problem?", "start": 3650.4, "end": 3655.4}
+{"id": "O0Ea5cS4QwE-t3655.4", "text": "If there were the characters of political problems to get it to be heard then did someone show", "start": 3655.4, "end": 3660.4}
+{"id": "O0Ea5cS4QwE-t3660.4", "text": "it to me?", "start": 3660.4, "end": 3667.4}
+{"id": "O0Ea5cS4QwE-t3667.4", "text": "Well remember most of them were not reading it because most people were illiterate for", "start": 3667.4, "end": 3674.52}
+{"id": "O0Ea5cS4QwE-t3674.52", "text": "one thing but certainly in Gollib's deli and in Agra where he was born and lived before", "start": 3674.52, "end": 3679.52}
+{"id": "O0Ea5cS4QwE-t3679.52", "text": "he moved to Delhi this kind of language the Hindustani or what we now call Urdu was a", "start": 3679.52, "end": 3685.96}
+{"id": "O0Ea5cS4QwE-t3685.96", "text": "lingua franca increasingly Persian had been the elite language of the local court but by", "start": 3685.96, "end": 3691.96}
+{"id": "O0Ea5cS4QwE-t3691.96", "text": "the time Gollib was living there the British were in charge and gradually the balance was", "start": 3691.96, "end": 3697.2}
+{"id": "O0Ea5cS4QwE-t3697.2", "text": "shifting away from Persian toward the local languages and so many people would understand", "start": 3697.2, "end": 3703.7200000000003}
+{"id": "O0Ea5cS4QwE-t3703.7200000000003", "text": "this poetry and in fact there are anecdotes in Tazkura's about how it would disseminate", "start": 3703.7200000000003, "end": 3708.52}
+{"id": "O0Ea5cS4QwE-t3708.52", "text": "because there would be Mushyra's where poets would recite their latest verses and of course", "start": 3708.52, "end": 3713.36}
+{"id": "O0Ea5cS4QwE-t3713.36", "text": "that those Mushyra's would be servants serving the food and drinks and taking care of people", "start": 3713.36, "end": 3719.04}
+{"id": "O0Ea5cS4QwE-t3719.04", "text": "and so instantly the servants would pass the word on because these things are so short", "start": 3719.04, "end": 3723.8}
+{"id": "O0Ea5cS4QwE-t3723.8", "text": "and if you know the meter system and the language they're very memorizable and very", "start": 3723.8, "end": 3727.6}
+{"id": "O0Ea5cS4QwE-t3727.6", "text": "recordable so the dancing girls would know them immediately and have them memorized and", "start": 3727.6, "end": 3731.8}
+{"id": "O0Ea5cS4QwE-t3731.8", "text": "the dancing girls and the musicians would want to have the latest verses and they would", "start": 3731.8, "end": 3736.28}
+{"id": "O0Ea5cS4QwE-t3736.28", "text": "arrange for disseminating them and there doesn't seem to have been a problem because", "start": 3736.28, "end": 3742.4}
+{"id": "O0Ea5cS4QwE-t3742.4", "text": "remember most poets were not as complicated as Gollib so most of the time people were", "start": 3742.4, "end": 3747.08}
+{"id": "O0Ea5cS4QwE-t3747.08", "text": "doing more straightforward love and longing poetry or perhaps mystical mystical poetry", "start": 3747.08, "end": 3752.92}
+{"id": "O0Ea5cS4QwE-t3752.92", "text": "but it wasn't exceedingly difficult or complex or in your face hard the way Gollib's verses", "start": 3752.92, "end": 3760.12}
+{"id": "O0Ea5cS4QwE-t3760.12", "text": "often were.", "start": 3760.12, "end": 3761.96}
+{"id": "O0Ea5cS4QwE-t3761.96", "text": "And there was also the aspect of being very alive to the preferences of one's patron", "start": 3761.96, "end": 3768.92}
+{"id": "O0Ea5cS4QwE-t3768.92", "text": "as well although Gollib was exceptional in that as well that he was a very self assured", "start": 3768.92, "end": 3775.7200000000003}
+{"id": "O0Ea5cS4QwE-t3775.7200000000003", "text": "person and he could get away with a lot that other poets could not because again in 18th", "start": 3775.7200000000003, "end": 3784.84}
+{"id": "O0Ea5cS4QwE-t3784.84", "text": "century India you could be only way that you could be earning your living by our pen was", "start": 3784.84, "end": 3791.7200000000003}
+{"id": "O0Ea5cS4QwE-t3791.7200000000003", "text": "if you had patronage from a wealthy noble or an emperor and were associated with their", "start": 3791.7200000000003, "end": 3797.56}
+{"id": "O0Ea5cS4QwE-t3797.56", "text": "court and so even if you were not writing something for the court you still had to you", "start": 3797.56, "end": 3806.6}
+{"id": "O0Ea5cS4QwE-t3806.6", "text": "it carried a little bit of risk if you wrote something that would not be well received", "start": 3806.6, "end": 3812.16}
+{"id": "O0Ea5cS4QwE-t3812.16", "text": "by our patron then yes you were really writing yourself out of a livelihood kind of thing", "start": 3812.16, "end": 3819.68}
+{"id": "O0Ea5cS4QwE-t3819.68", "text": "and but Ralev of course because of his stature etc was would be given a lot more leeway than", "start": 3819.68, "end": 3826.56}
+{"id": "O0Ea5cS4QwE-t3826.56", "text": "anyone else would have read and he had troubles right he got into some troubles as well so", "start": 3826.56, "end": 3833.44}
+{"id": "O0Ea5cS4QwE-t3833.44", "text": "yes so the short answer to your question would be that yes they were writing primarily for", "start": 3833.44, "end": 3839.64}
+{"id": "O0Ea5cS4QwE-t3839.64", "text": "the courts and people who of socio-economic and educational status who are associated", "start": 3839.64, "end": 3846.2}
+{"id": "O0Ea5cS4QwE-t3846.2", "text": "with the courts but that does not mean that their their poetry was not understood by people", "start": 3846.2, "end": 3852.0}
+{"id": "O0Ea5cS4QwE-t3852.0", "text": "outside of that circle.", "start": 3852.0, "end": 3858.6}
+{"id": "O0Ea5cS4QwE-t3858.6", "text": "I have a question.", "start": 3858.6, "end": 3860.68}
+{"id": "O0Ea5cS4QwE-t3860.68", "text": "Yes.", "start": 3860.68, "end": 3861.68}
+{"id": "O0Ea5cS4QwE-t3861.68", "text": "I'm fascinated by the whole city of meetings in the building and I am the depth or the", "start": 3861.68, "end": 3868.04}
+{"id": "O0Ea5cS4QwE-t3868.04", "text": "layers of interpretation that allows for it.", "start": 3868.04, "end": 3871.44}
+{"id": "O0Ea5cS4QwE-t3871.44", "text": "Do you think that's a fundamental factor in the formation of this form of poetry that", "start": 3871.44, "end": 3877.28}
+{"id": "O0Ea5cS4QwE-t3877.28", "text": "can be read but very resonant at the same time would it have worked as well with another", "start": 3877.28, "end": 3884.28}
+{"id": "O0Ea5cS4QwE-t3884.28", "text": "type of language?", "start": 3884.28, "end": 3885.28}
+{"id": "O0Ea5cS4QwE-t3885.28", "text": "That's such an interesting question I'm glad you asked that.", "start": 3885.28, "end": 3889.1600000000003}
+{"id": "O0Ea5cS4QwE-t3889.1600000000003", "text": "In the strong sense since Urdu Gazal comes right out of Persian Gazal.", "start": 3889.1600000000003, "end": 3893.52}
+{"id": "O0Ea5cS4QwE-t3893.52", "text": "In fact the birth of Urdu Gazal was part of the death of Persian in India.", "start": 3893.52, "end": 3898.96}
+{"id": "O0Ea5cS4QwE-t3898.96", "text": "People kind of took all the devices and the structures and the meters and the technical", "start": 3898.96, "end": 3904.2000000000003}
+{"id": "O0Ea5cS4QwE-t3904.2", "text": "and genre features that they loved in Persian and started doing them in Urdu and then they", "start": 3904.2, "end": 3909.08}
+{"id": "O0Ea5cS4QwE-t3909.08", "text": "didn't need Persian anymore.", "start": 3909.08, "end": 3910.8799999999997}
+{"id": "O0Ea5cS4QwE-t3910.8799999999997", "text": "At that point people were starting to feel that Persian was an alien language in a way", "start": 3910.8799999999997, "end": 3914.08}
+{"id": "O0Ea5cS4QwE-t3914.08", "text": "that they hadn't before for a lot of reasons.", "start": 3914.08, "end": 3918.04}
+{"id": "O0Ea5cS4QwE-t3918.04", "text": "In the strong sense it came right out of Persian but there are so many things that you can", "start": 3918.04, "end": 3922.12}
+{"id": "O0Ea5cS4QwE-t3922.12", "text": "do in Urdu because of constraints that you don't have, that we do have in English, that", "start": 3922.12, "end": 3932.3199999999997}
+{"id": "O0Ea5cS4QwE-t3932.3199999999997", "text": "it's quite striking.", "start": 3932.3199999999997, "end": 3934.0}
+{"id": "O0Ea5cS4QwE-t3934.0", "text": "For example you don't have capital letters and the kind of punctuation.", "start": 3934.0, "end": 3938.76}
+{"id": "O0Ea5cS4QwE-t3938.76", "text": "If you see punctuation in modern dewans of galle which you do it's imposed by a modern", "start": 3938.76, "end": 3943.48}
+{"id": "O0Ea5cS4QwE-t3943.48", "text": "editor.", "start": 3943.48, "end": 3944.48}
+{"id": "O0Ea5cS4QwE-t3944.48", "text": "They put English style punctuation into Galle's poetry which is of course quite ridiculous", "start": 3944.48, "end": 3949.44}
+{"id": "O0Ea5cS4QwE-t3949.44", "text": "because he certainly would never have done that or have wanted that to be done.", "start": 3949.44, "end": 3953.32}
+{"id": "O0Ea5cS4QwE-t3953.32", "text": "But there is also a lot of things like in English we have to make a distinction between", "start": 3953.32, "end": 3959.84}
+{"id": "O0Ea5cS4QwE-t3959.84", "text": "the sky is blue and is the sky blue.", "start": 3959.84, "end": 3963.2}
+{"id": "O0Ea5cS4QwE-t3963.2", "text": "It's because of the inversion.", "start": 3963.2, "end": 3965.0}
+{"id": "O0Ea5cS4QwE-t3965.0", "text": "In Urdu you have Asman Nilahe and there's a kya, yes or no question marker in front.", "start": 3965.0, "end": 3971.12}
+{"id": "O0Ea5cS4QwE-t3971.12", "text": "Kya Asman Nilahe but it can also be colloquially omitted.", "start": 3971.12, "end": 3975.08}
+{"id": "O0Ea5cS4QwE-t3975.08", "text": "So Asman Nilahe can register as a question or an exclamation if you wish as well as a", "start": 3975.08, "end": 3981.2}
+{"id": "O0Ea5cS4QwE-t3981.2", "text": "statement.", "start": 3981.2, "end": 3982.48}
+{"id": "O0Ea5cS4QwE-t3982.48", "text": "So there's a lot of features that are very well mobilized by Galle and Mih and other", "start": 3982.48, "end": 3988.52}
+{"id": "O0Ea5cS4QwE-t3988.52", "text": "poets but especially by Galle and Mih to create multiple meanings in these little tiny poems.", "start": 3988.52, "end": 3994.28}
+{"id": "O0Ea5cS4QwE-t3994.28", "text": "And I don't think you could do it as well in certainly you couldn't do it as well in", "start": 3994.28, "end": 3997.8}
+{"id": "O0Ea5cS4QwE-t3997.8", "text": "English and that's why translations of Galle as a rule just fail.", "start": 3997.8, "end": 4002.8}
+{"id": "O0Ea5cS4QwE-t4002.8", "text": "I have a couple of guzzles with anthologies of translations so that anybody who wishes", "start": 4002.8, "end": 4007.88}
+{"id": "O0Ea5cS4QwE-t4007.88", "text": "can compare and see what the translators have achieved.", "start": 4007.88, "end": 4010.92}
+{"id": "O0Ea5cS4QwE-t4010.92", "text": "You have to honor them because they're bound to fail but it can't be done but you can see", "start": 4010.92, "end": 4016.32}
+{"id": "O0Ea5cS4QwE-t4016.32", "text": "my translations are totally lousy and clunky and they're just meant to help push you back", "start": 4016.32, "end": 4021.0800000000004}
+{"id": "O0Ea5cS4QwE-t4021.0800000000004", "text": "to the Urdu with more understanding.", "start": 4021.0800000000004, "end": 4022.8}
+{"id": "O0Ea5cS4QwE-t4022.8", "text": "They're not remotely meant to be literary.", "start": 4022.8, "end": 4027.04}
+{"id": "O0Ea5cS4QwE-t4027.04", "text": "And no doubt there are things we can do in English that you can't do in Urdu but there's", "start": 4027.04, "end": 4032.0800000000004}
+{"id": "O0Ea5cS4QwE-t4032.0800000000004", "text": "a lot of things that you can do in Urdu partly because you have a different word, instead", "start": 4032.0800000000004, "end": 4037.92}
+{"id": "O0Ea5cS4QwE-t4037.92", "text": "of prepositions you have postpositions.", "start": 4037.92, "end": 4040.4}
+{"id": "O0Ea5cS4QwE-t4040.4", "text": "So instead of saying in the house you say house in.", "start": 4040.4, "end": 4043.4}
+{"id": "O0Ea5cS4QwE-t4043.4", "text": "And so at the ends of sentences and at the end of lines you also have your verbs there.", "start": 4043.4, "end": 4049.04}
+{"id": "O0Ea5cS4QwE-t4049.04", "text": "So it's easier to rhyme in Urdu than it is in English because your verbs often have common", "start": 4049.04, "end": 4054.44}
+{"id": "O0Ea5cS4QwE-t4054.44", "text": "endings that make all verbs in a certain tense, easy to rhyme with each other.", "start": 4054.44, "end": 4059.2400000000002}
+{"id": "O0Ea5cS4QwE-t4059.2400000000002", "text": "And postpositions end and can end the line.", "start": 4059.2400000000002, "end": 4062.8}
+{"id": "O0Ea5cS4QwE-t4062.8", "text": "That postposition, that means of.", "start": 4062.8, "end": 4065.08}
+{"id": "O0Ea5cS4QwE-t4065.08", "text": "And so it can be of this and of that, you know, of writing, of a picture.", "start": 4065.08, "end": 4069.2400000000002}
+{"id": "O0Ea5cS4QwE-t4069.2400000000002", "text": "But since the of comes at the end in rhymes and in English you'd have to say of the picture,", "start": 4069.2400000000002, "end": 4073.28}
+{"id": "O0Ea5cS4QwE-t4073.28", "text": "of the writing.", "start": 4073.28, "end": 4074.28}
+{"id": "O0Ea5cS4QwE-t4074.28", "text": "And so you can't get the same facility there.", "start": 4074.28, "end": 4076.6400000000003}
+{"id": "O0Ea5cS4QwE-t4076.6400000000003", "text": "But of course, you know, it's hard to make any meaningful comparison because really nobody", "start": 4076.6400000000003, "end": 4083.6000000000004}
+{"id": "O0Ea5cS4QwE-t4083.6000000000004", "text": "has tried to do what Gollib did exactly in English.", "start": 4083.6000000000004, "end": 4086.76}
+{"id": "O0Ea5cS4QwE-t4086.76", "text": "But we do have other effects.", "start": 4086.76, "end": 4088.2400000000002}
+{"id": "O0Ea5cS4QwE-t4088.2400000000002", "text": "I think a fascinating analysis to your question might be to compare Urdu with the Native American", "start": 4088.2400000000002, "end": 4096.16}
+{"id": "O0Ea5cS4QwE-t4096.16", "text": "languages.", "start": 4096.16, "end": 4097.16}
+{"id": "O0Ea5cS4QwE-t4097.16", "text": "For instance, the Hopi language spoken by the Hopi Indians also did not have had a very", "start": 4097.16, "end": 4107.04}
+{"id": "O0Ea5cS4QwE-t4107.04", "text": "loosely constructed sense of time which you see in Urdu is also very different from the", "start": 4107.04, "end": 4115.44}
+{"id": "O0Ea5cS4QwE-t4115.44", "text": "concept of time in English.", "start": 4115.44, "end": 4117.48}
+{"id": "O0Ea5cS4QwE-t4117.48", "text": "So once in Urdu we have the same word, one word for yesterday as well as tomorrow.", "start": 4117.48, "end": 4125.24}
+{"id": "O0Ea5cS4QwE-t4125.24", "text": "And it would be a fascinating line of inquiry.", "start": 4125.24, "end": 4128.08}
+{"id": "O0Ea5cS4QwE-t4128.08", "text": "I haven't done this and I don't know if anyone else has done it or not.", "start": 4128.08, "end": 4131.8}
+{"id": "O0Ea5cS4QwE-t4131.8", "text": "But I wonder if someone like Native American poetry as it was written, would that remind", "start": 4131.8, "end": 4139.84}
+{"id": "O0Ea5cS4QwE-t4139.84", "text": "one of Urdu poetry or not simply because of the way that the words were constructed,", "start": 4139.84, "end": 4146.28}
+{"id": "O0Ea5cS4QwE-t4146.28", "text": "etc.", "start": 4146.28, "end": 4147.28}
+{"id": "O0Ea5cS4QwE-t4147.28", "text": "And Urdu as well, it's a syllable time language as well in the sense that the syllables are", "start": 4147.28, "end": 4154.76}
+{"id": "O0Ea5cS4QwE-t4154.76", "text": "approximately of the same length and so they occur at approximately regular intervals as", "start": 4154.76, "end": 4162.0}
+{"id": "O0Ea5cS4QwE-t4162.0", "text": "well as well.", "start": 4162.0, "end": 4163.8}
+{"id": "O0Ea5cS4QwE-t4163.8", "text": "So you don't find one very short syllable but with one very long syllable as well which", "start": 4163.8, "end": 4169.72}
+{"id": "O0Ea5cS4QwE-t4169.72", "text": "also adds a lot to the rhythm of the poetry as well.", "start": 4169.72, "end": 4176.88}
+{"id": "O0Ea5cS4QwE-t4176.88", "text": "There were stresses right because when you were reciting the spoken verse I could hear", "start": 4176.88, "end": 4187.28}
+{"id": "O0Ea5cS4QwE-t4187.28", "text": "the stresses.", "start": 4187.28, "end": 4188.28}
+{"id": "O0Ea5cS4QwE-t4188.28", "text": "Right, I was introduced, right.", "start": 4188.28, "end": 4189.28}
+{"id": "O0Ea5cS4QwE-t4189.28", "text": "Because it was my own sort of bias and internalization of my own experience as I was growing up.", "start": 4189.28, "end": 4194.92}
+{"id": "O0Ea5cS4QwE-t4194.92", "text": "It was, I was reading it the way that I had heard it recited and the traditional way of", "start": 4194.92, "end": 4200.36}
+{"id": "O0Ea5cS4QwE-t4200.36", "text": "reciting it as well.", "start": 4200.36, "end": 4201.4400000000005}
+{"id": "O0Ea5cS4QwE-t4201.44", "text": "And the meter has the feet are there as well so a lot of people would recite it as, so", "start": 4201.44, "end": 4227.599999999999}
+{"id": "O0Ea5cS4QwE-t4227.599999999999", "text": "I was actually adding those.", "start": 4227.599999999999, "end": 4229.96}
+{"id": "O0Ea5cS4QwE-t4229.96", "text": "I can add an interesting little highlight here.", "start": 4229.96, "end": 4233.12}
+{"id": "O0Ea5cS4QwE-t4233.12", "text": "My friend Ralph Russell, a very well-known writer in the field of Urdu literature and", "start": 4233.12, "end": 4240.96}
+{"id": "O0Ea5cS4QwE-t4240.96", "text": "the author of the best book on Gollib's life.", "start": 4240.96, "end": 4244.28}
+{"id": "O0Ea5cS4QwE-t4244.28", "text": "It's called Gollib Life and Letters by Ralph Russell and his collaborator Khushidul Islam.", "start": 4244.28, "end": 4249.6}
+{"id": "O0Ea5cS4QwE-t4249.6", "text": "But he also was interested in meter and I've made a little handbook to teach people meter", "start": 4249.6, "end": 4254.56}
+{"id": "O0Ea5cS4QwE-t4254.56", "text": "and put it on my website.", "start": 4254.56, "end": 4256.04}
+{"id": "O0Ea5cS4QwE-t4256.04", "text": "He also made a handbook to teach his students meter but he had a slightly different approach.", "start": 4256.04, "end": 4260.84}
+{"id": "O0Ea5cS4QwE-t4260.84", "text": "But for this particular meter he had an English folk song that he thought corresponded to", "start": 4260.84, "end": 4266.8}
+{"id": "O0Ea5cS4QwE-t4266.8", "text": "it.", "start": 4266.8, "end": 4267.8}
+{"id": "O0Ea5cS4QwE-t4267.8", "text": "Oh my darling, oh my darling, oh my darling Clementine.", "start": 4267.8, "end": 4272.32}
+{"id": "O0Ea5cS4QwE-t4272.32", "text": "And this meter is, dum dum dum dum dum dum dum dum dum dum dum dum dum dum dum dum dum.", "start": 4272.32, "end": 4277.68}
+{"id": "O0Ea5cS4QwE-t4277.68", "text": "Nok chafur ya di hechiski shou rieta hirikah.", "start": 4277.68, "end": 4283.64}
+{"id": "O0Ea5cS4QwE-t4283.64", "text": "But of course the difference is we have stress meter in English of a very flexible and disputable", "start": 4283.64, "end": 4288.84}
+{"id": "O0Ea5cS4QwE-t4288.84", "text": "kind.", "start": 4288.84, "end": 4289.84}
+{"id": "O0Ea5cS4QwE-t4289.84", "text": "Whereas the meter here is strictly speaking, it's supposed to be quantitative.", "start": 4289.84, "end": 4295.04}
+{"id": "O0Ea5cS4QwE-t4295.04", "text": "So that a long syllable is supposed to take twice as long to say as a short syllable.", "start": 4295.04, "end": 4300.6}
+{"id": "O0Ea5cS4QwE-t4300.6", "text": "Not to go higher or lower or more or less stress.", "start": 4300.6, "end": 4302.8}
+{"id": "O0Ea5cS4QwE-t4302.8", "text": "So that you have the opportunity to do as you like with your voice provided you're keeping", "start": 4302.8, "end": 4307.92}
+{"id": "O0Ea5cS4QwE-t4307.92", "text": "to the time structure of it.", "start": 4307.92, "end": 4310.92}
+{"id": "O0Ea5cS4QwE-t4310.92", "text": "And some people extend that privilege very far of my two main listads, one of them recites", "start": 4310.92, "end": 4316.76}
+{"id": "O0Ea5cS4QwE-t4316.76", "text": "very elaborately nok chafur ya di hechiski shou rieta hirikah.", "start": 4316.76, "end": 4323.84}
+{"id": "O0Ea5cS4QwE-t4323.84", "text": "Carras is the words and my other listad snorts when he hears that performance and he considers", "start": 4323.84, "end": 4329.08}
+{"id": "O0Ea5cS4QwE-t4329.08", "text": "it improper and one should just recite plainly and let the words do the work.", "start": 4329.08, "end": 4334.28}
+{"id": "O0Ea5cS4QwE-t4334.28", "text": "But of course we don't know how Calleb recited so.", "start": 4334.28, "end": 4336.68}
+{"id": "O0Ea5cS4QwE-t4336.68", "text": "Oh please.", "start": 4336.68, "end": 4341.68}
+{"id": "O0Ea5cS4QwE-t4341.68", "text": "So especially in this, there are many instances, especially in the body sport, when you go", "start": 4341.68, "end": 4346.68}
+{"id": "O0Ea5cS4QwE-t4346.68", "text": "in the week of the month line then the month you go back to the month line you would read", "start": 4346.68, "end": 4351.68}
+{"id": "O0Ea5cS4QwE-t4351.68", "text": "it differently.", "start": 4351.68, "end": 4352.68}
+{"id": "O0Ea5cS4QwE-t4352.68", "text": "And I have almost parented for this particular lesson that when you read the month of the", "start": 4352.68, "end": 4356.68}
+{"id": "O0Ea5cS4QwE-t4356.68", "text": "last chair you will come back to this and you would read it and then you would interpret", "start": 4356.68, "end": 4361.68}
+{"id": "O0Ea5cS4QwE-t4361.68", "text": "the stress on the different words that you could be at knowing what the rest of the shot", "start": 4361.68, "end": 4367.68}
+{"id": "O0Ea5cS4QwE-t4367.68", "text": "were.", "start": 4367.68, "end": 4368.68}
+{"id": "O0Ea5cS4QwE-t4368.68", "text": "And much more than that I would say there are great many verses of Calleb because the real", "start": 4368.68, "end": 4373.320000000001}
+{"id": "O0Ea5cS4QwE-t4373.320000000001", "text": "poetic unit is the verse and not the guzzle that after you had heard the second line you", "start": 4373.320000000001, "end": 4378.52}
+{"id": "O0Ea5cS4QwE-t4378.52", "text": "would go back and reread or re-understand in your mind the first line which is really", "start": 4378.52, "end": 4383.6}
+{"id": "O0Ea5cS4QwE-t4383.6", "text": "a way of making a two line verse feel like a three or four line verse because you have", "start": 4383.6, "end": 4387.56}
+{"id": "O0Ea5cS4QwE-t4387.56", "text": "to go back in your head and reinterpret the first line which is quite spectacular.", "start": 4387.56, "end": 4392.56}
+{"id": "O0Ea5cS4QwE-t4392.56", "text": "I'm going to do this at the best.", "start": 4392.56, "end": 4395.56}
+{"id": "O0Ea5cS4QwE-t4395.56", "text": "Oh.", "start": 4395.56, "end": 4396.56}
+{"id": "O0Ea5cS4QwE-t4396.56", "text": "Sorry.", "start": 4396.56, "end": 4397.56}
+{"id": "O0Ea5cS4QwE-t4397.56", "text": "Sorry.", "start": 4397.56, "end": 4398.56}
+{"id": "O0Ea5cS4QwE-t4398.56", "text": "This is a little interdisciplinary.", "start": 4398.56, "end": 4399.56}
+{"id": "O0Ea5cS4QwE-t4399.56", "text": "First I just was thinking of the bar in the ancient Persia, the kind of same song way of", "start": 4399.56, "end": 4406.56}
+{"id": "O0Ea5cS4QwE-t4406.56", "text": "speaking when they told the story about Alexander the Great or what it looked.", "start": 4406.56, "end": 4410.56}
+{"id": "O0Ea5cS4QwE-t4410.56", "text": "But I'm also being a painter.", "start": 4410.56, "end": 4412.56}
+{"id": "O0Ea5cS4QwE-t4412.56", "text": "I'm also thinking of the Persian miniatures and the Indian miniatures and the compartmentalization", "start": 4412.56, "end": 4419.56}
+{"id": "O0Ea5cS4QwE-t4419.56", "text": "of little images and the way they interact with one another and the very tight structure", "start": 4419.56, "end": 4424.56}
+{"id": "O0Ea5cS4QwE-t4424.56", "text": "there involved with and the metaphors that are involved between a cloud and a dragon", "start": 4424.56, "end": 4429.56}
+{"id": "O0Ea5cS4QwE-t4429.56", "text": "and the water.", "start": 4429.56, "end": 4430.56}
+{"id": "O0Ea5cS4QwE-t4430.56", "text": "There are certain signs for it.", "start": 4430.56, "end": 4432.56}
+{"id": "O0Ea5cS4QwE-t4432.56", "text": "And I wondered what interaction did the painters or I guess it's the whole culture but what", "start": 4432.56, "end": 4438.56}
+{"id": "O0Ea5cS4QwE-t4438.56", "text": "I mean it's an interesting analogy that there are these interactions that take place.", "start": 4438.56, "end": 4443.56}
+{"id": "O0Ea5cS4QwE-t4443.56", "text": "Do you have any, do they relationship between the miniatures or anything?", "start": 4443.56, "end": 4448.56}
+{"id": "O0Ea5cS4QwE-t4448.56", "text": "Do you know anything in that area?", "start": 4448.56, "end": 4451.56}
+{"id": "O0Ea5cS4QwE-t4451.56", "text": "Anne Marie Schimmel actually used a very nice image.", "start": 4451.56, "end": 4455.56}
+{"id": "O0Ea5cS4QwE-t4455.56", "text": "When people used to complain that oh the guzzles themes were too hack need and boring and we", "start": 4455.56, "end": 4462.56}
+{"id": "O0Ea5cS4QwE-t4462.56", "text": "needed to give up the guzzle and start writing much freer forms of poetry and Urdu.", "start": 4462.56, "end": 4467.56}
+{"id": "O0Ea5cS4QwE-t4467.56", "text": "She compared classical guzzle and its themes to paintings of Majunun in the desert.", "start": 4467.56, "end": 4474.56}
+{"id": "O0Ea5cS4QwE-t4474.56", "text": "You know the lovers Leila and Majunun ran off into the desert and became a naked man", "start": 4474.56, "end": 4479.56}
+{"id": "O0Ea5cS4QwE-t4479.56", "text": "man cared for by the animals when he couldn't get his beloved Leila.", "start": 4479.56, "end": 4483.56}
+{"id": "O0Ea5cS4QwE-t4483.56", "text": "And so painter after painter has painted Majunun, scrawny and naked hanging out in the desert", "start": 4483.56, "end": 4489.56}
+{"id": "O0Ea5cS4QwE-t4489.56", "text": "being taken care of by the wild animals.", "start": 4489.56, "end": 4491.56}
+{"id": "O0Ea5cS4QwE-t4491.56", "text": "But every painter as Anne Marie Schimmel said would show his individuality by small touches.", "start": 4491.56, "end": 4498.56}
+{"id": "O0Ea5cS4QwE-t4498.56", "text": "So everybody painted the same scene but the great painter painted it differently, had some", "start": 4498.56, "end": 4503.56}
+{"id": "O0Ea5cS4QwE-t4503.56", "text": "extra thing or some trick of the light or some new way of framing the figure of Majununun", "start": 4503.56, "end": 4509.56}
+{"id": "O0Ea5cS4QwE-t4509.56", "text": "that made it all the more memorable because then it stood out from the similar paintings", "start": 4509.56, "end": 4514.56}
+{"id": "O0Ea5cS4QwE-t4514.56", "text": "of everybody else.", "start": 4514.56, "end": 4516.56}
+{"id": "O0Ea5cS4QwE-t4516.56", "text": "And I think something like that happens when you all use the same musmoons.", "start": 4516.56, "end": 4520.56}
+{"id": "O0Ea5cS4QwE-t4520.56", "text": "The same themes that your treatment of the theme becomes much more striking if you've got", "start": 4520.56, "end": 4526.56}
+{"id": "O0Ea5cS4QwE-t4526.56", "text": "something original out of it against a background of sort of well established tradition.", "start": 4526.56, "end": 4532.56}
+{"id": "O0Ea5cS4QwE-t4532.56", "text": "But there's also something inherent in the structure of the language and the structure of the images", "start": 4532.56, "end": 4537.56}
+{"id": "O0Ea5cS4QwE-t4537.56", "text": "because they're so highly terse and tight and...", "start": 4537.56, "end": 4542.56}
+{"id": "O0Ea5cS4QwE-t4542.56", "text": "They're miniatures.", "start": 4542.56, "end": 4543.56}
+{"id": "O0Ea5cS4QwE-t4543.56", "text": "They're miniatures.", "start": 4543.56, "end": 4544.56}
+{"id": "O0Ea5cS4QwE-t4544.56", "text": "Yeah.", "start": 4544.56, "end": 4545.56}
+{"id": "O0Ea5cS4QwE-t4545.56", "text": "And each little image has a universe within it and yet also the whole as a learn.", "start": 4545.56, "end": 4549.56}
+{"id": "O0Ea5cS4QwE-t4549.56", "text": "So I wondered something in the Philasonic tradition or where this concept of structure is so deep", "start": 4549.56, "end": 4557.56}
+{"id": "O0Ea5cS4QwE-t4557.56", "text": "in that middle, you know, in the Southeast Asia.", "start": 4557.56, "end": 4564.56}
+{"id": "O0Ea5cS4QwE-t4564.56", "text": "Do you have a sense of where this could go?", "start": 4564.56, "end": 4570.56}
+{"id": "O0Ea5cS4QwE-t4570.56", "text": "I'd say that yes, it's a great observation and honestly I haven't thought too much about it.", "start": 4570.56, "end": 4578.56}
+{"id": "O0Ea5cS4QwE-t4578.56", "text": "But again, just yes, thinking of the poetry and the art and the visual art as it was occurring.", "start": 4578.56, "end": 4588.56}
+{"id": "O0Ea5cS4QwE-t4588.56", "text": "Then yes, there are, you could say that the art is very poetic and the poetry is very, very visual as well.", "start": 4588.56, "end": 4598.56}
+{"id": "O0Ea5cS4QwE-t4598.56", "text": "And I really... But can we say that, for instance, if we look at Western art and Western poetry,", "start": 4598.56, "end": 4610.56}
+{"id": "O0Ea5cS4QwE-t4610.56", "text": "that the same kind of that are the images and the language structure or the political structure much more", "start": 4610.56, "end": 4618.56}
+{"id": "O0Ea5cS4QwE-t4618.56", "text": "much looser, like what would be an example of that?", "start": 4618.56, "end": 4621.56}
+{"id": "O0Ea5cS4QwE-t4621.56", "text": "It's not as the, I mean, romantic painting maybe in romantic poetry you could make some analogies, but this is so tight.", "start": 4621.56, "end": 4628.56}
+{"id": "O0Ea5cS4QwE-t4628.56", "text": "Being within the structural, the very thing, the building blocks or so have such an interaction with one another.", "start": 4628.56, "end": 4636.56}
+{"id": "O0Ea5cS4QwE-t4636.56", "text": "Because I mean, I've always been struck by the Persian miniatures by their telling stories that unfold and unfold", "start": 4636.56, "end": 4645.56}
+{"id": "O0Ea5cS4QwE-t4645.56", "text": "and then go off the borders, but they're still so, but they're still so enclosed and at the same time escape the border.", "start": 4645.56, "end": 4654.56}
+{"id": "O0Ea5cS4QwE-t4654.56", "text": "I don't think this happens in the poetry, does anything ever escape the structure go off?", "start": 4654.56, "end": 4660.56}
+{"id": "O0Ea5cS4QwE-t4660.56", "text": "I mean, will you leave the structure?", "start": 4660.56, "end": 4663.56}
+{"id": "O0Ea5cS4QwE-t4663.56", "text": "Yes, occasionally it does and now you find it happening more and more as the razelle structure itself becomes looser", "start": 4663.56, "end": 4671.56}
+{"id": "O0Ea5cS4QwE-t4671.56", "text": "or poetry is written in other formal structures other than the razelle.", "start": 4671.56, "end": 4677.56}
+{"id": "O0Ea5cS4QwE-t4677.56", "text": "So yes, especially for instance in postmodernist or the literature, yes, you find multiplicity of images that may not be connected", "start": 4677.56, "end": 4687.56}
+{"id": "O0Ea5cS4QwE-t4687.56", "text": "with any kind of deliberate intent on the writer's part as well.", "start": 4687.56, "end": 4693.56}
+{"id": "O0Ea5cS4QwE-t4693.56", "text": "At the time, we'll go to the very good song. I think that that poem is on the ministry itself.", "start": 4693.56, "end": 4702.56}
+{"id": "O0Ea5cS4QwE-t4702.56", "text": "Oh, is he meaning their connected, their writing and yes?", "start": 4702.56, "end": 4706.56}
+{"id": "O0Ea5cS4QwE-t4706.56", "text": "Yes, many of them.", "start": 4706.56, "end": 4707.56}
+{"id": "O0Ea5cS4QwE-t4707.56", "text": "A good part of the song.", "start": 4707.56, "end": 4709.56}
+{"id": "O0Ea5cS4QwE-t4709.56", "text": "She's not much familiar with this poem, she's not familiar with this poem.", "start": 4709.56, "end": 4711.56}
+{"id": "O0Ea5cS4QwE-t4711.56", "text": "Absolutely.", "start": 4711.56, "end": 4712.56}
+{"id": "O0Ea5cS4QwE-t4712.56", "text": "Well, think about how English poets now complain because up until recently English poets could assume that everybody knew the King James Bible", "start": 4712.56, "end": 4720.56}
+{"id": "O0Ea5cS4QwE-t4720.56", "text": "and the imagery from the Bible and they had a common set of stories that everybody knew and names they could refer to", "start": 4720.56, "end": 4727.56}
+{"id": "O0Ea5cS4QwE-t4727.56", "text": "and comparisons they could make and that was also informed European painting.", "start": 4727.56, "end": 4731.56}
+{"id": "O0Ea5cS4QwE-t4731.56", "text": "Of course, there were so many paintings of biblical scenes and such poems or poems from the Iliad and the Odyssey", "start": 4731.56, "end": 4738.56}
+{"id": "O0Ea5cS4QwE-t4738.56", "text": "and the classical tradition, but now an English poet, where does he or she go to get common imagery?", "start": 4738.56, "end": 4744.56}
+{"id": "O0Ea5cS4QwE-t4744.56", "text": "It's much harder in the culture now because we just don't have that same body of guaranteed known material.", "start": 4744.56, "end": 4752.56}
+{"id": "O0Ea5cS4QwE-t4752.56", "text": "I mean, what do we have Star Wars? I mean, it's a touchy subject.", "start": 4752.56, "end": 4758.56}
+{"id": "O0Ea5cS4QwE-t4758.56", "text": "Right, we did it on the subject of Star Wars.", "start": 4758.56, "end": 4762.56}
+{"id": "O0Ea5cS4QwE-t4762.56", "text": "And you mentioned Shanaama, for instance, so there were these, there's a long tradition of epics and epic prose", "start": 4762.56, "end": 4771.56}
+{"id": "O0Ea5cS4QwE-t4771.56", "text": "in Indo-Persian literature as well, just as there is an investor in the literature, so you have King Arthur's,", "start": 4771.56, "end": 4777.56}
+{"id": "O0Ea5cS4QwE-t4777.56", "text": "Stills, etc. and for the way you have the Dostania, Mirhamza, which Franek actually has done a lot of extensive work on.", "start": 4777.56, "end": 4785.56}
+{"id": "O0Ea5cS4QwE-t4785.56", "text": "And it's funny you mentioned visual arts and poetry because the Emperor Akbar in 1600s in India had commissioned a whole panel of paintings", "start": 4785.56, "end": 4799.56}
+{"id": "O0Ea5cS4QwE-t4799.56", "text": "that are just depictions of scenes from the Dostania, Mirhamza as well.", "start": 4799.56, "end": 4805.56}
+{"id": "O0Ea5cS4QwE-t4805.56", "text": "And so, yes, in a way, the written word sort of dictates as well what will be painted and how it will be painted as well.", "start": 4805.56, "end": 4814.56}
+{"id": "O0Ea5cS4QwE-t4814.56", "text": "And now I wonder if the reverse can happen as well.", "start": 4814.56, "end": 4820.56}
+{"id": "O0Ea5cS4QwE-t4820.56", "text": "I know a lot of literary works which have been painted, but I don't know about a lot of paintings", "start": 4820.56, "end": 4828.56}
+{"id": "O0Ea5cS4QwE-t4828.56", "text": "which have actually been then written about in terms of, has there been a poem written on a certain picture or not in India?", "start": 4828.56, "end": 4837.56}
+{"id": "O0Ea5cS4QwE-t4837.56", "text": "Which Japanese language sometimes will, in a way, they're always putting this kind of like an experimentation, so a lot of years have these.", "start": 4837.56, "end": 4858.56}
+{"id": "O0Ea5cS4QwE-t4858.56", "text": "And so, I think the literary or older experiments with language itself, this language would be modified from an artistic point of view or a form of each other.", "start": 4858.56, "end": 4872.56}
+{"id": "O0Ea5cS4QwE-t4872.56", "text": "Sure, actually, and I believe Fran is probably looking for the link to the calligraphy side that you have.", "start": 4872.56, "end": 4879.56}
+{"id": "O0Ea5cS4QwE-t4879.56", "text": "So, I'm going to look for the Shah Qarang Rupi-Bessar Osama because, in that case, Gollib commented about painting.", "start": 4879.56, "end": 4892.56}
+{"id": "O0Ea5cS4QwE-t4892.56", "text": "It's the one case that I know of. Give me a minute to find this.", "start": 4892.56, "end": 4896.56}
+{"id": "O0Ea5cS4QwE-t4896.56", "text": "And yes, calligraphy definitely, there's a long tradition of calligraphy in Indo-Persian Indian culture as well.", "start": 4896.56, "end": 4905.56}
+{"id": "O0Ea5cS4QwE-t4905.56", "text": "And yes, there were different styles as well. I'm not sure if the styles themselves were influenced by the particular language or not.", "start": 4905.56, "end": 4919.56}
+{"id": "O0Ea5cS4QwE-t4919.56", "text": "But yes, that is a question worth an answer to.", "start": 4919.56, "end": 4924.56}
+{"id": "O0Ea5cS4QwE-t4924.56", "text": "Here's a present for you and any other art history fans. Here is the one verse about which Gollib explicitly commented in painting terms.", "start": 4924.56, "end": 4936.56}
+{"id": "O0Ea5cS4QwE-t4936.56", "text": "Just look at what he said and then we'll look at the verse. He says, Rakhib, of course, has the meaning of opponent.", "start": 4936.56, "end": 4941.56}
+{"id": "O0Ea5cS4QwE-t4941.56", "text": "That is to say, Alder is the enemy of proper possession. The proof is that Kries, which Kries is the real name of the lover Majnun.", "start": 4941.56, "end": 4950.56}
+{"id": "O0Ea5cS4QwE-t4950.56", "text": "Therefore, he was called Majnun, which means possessed by gins. So, Bess is the mad lover who in life wandered around naked, remained naked even within the veil of a picture.", "start": 4950.56, "end": 4962.56}
+{"id": "O0Ea5cS4QwE-t4962.56", "text": "The pleasure of it is that Majnun is always pictured with his body naked whenever he is pictured.", "start": 4962.56, "end": 4968.56}
+{"id": "O0Ea5cS4QwE-t4968.56", "text": "But of course, this is atypical. This is the only case I know where he actually interpreted his own verse in terms of painting.", "start": 4968.56, "end": 4976.56}
+{"id": "O0Ea5cS4QwE-t4976.56", "text": "This is a neat case because remember you'd only get the first line.", "start": 4976.56, "end": 4981.56}
+{"id": "O0Ea5cS4QwE-t4981.56", "text": "Rakhib, Surosama, Nikla, Alder in every color mood mode aspect. It literally means color, but of course it has related meanings of all sorts.", "start": 4981.56, "end": 4992.56}
+{"id": "O0Ea5cS4QwE-t4992.56", "text": "Turned out to be a rival or enemy or opponent of Surosama, which means something like dignity, proper possession, being a bourgeois kind of thing.", "start": 4992.56, "end": 5004.56}
+{"id": "O0Ea5cS4QwE-t5004.56", "text": "And when you hear that line, you have no idea what's going on. It's a very abstract statement and it's incomprehensible. It's uninterpretable.", "start": 5004.56, "end": 5011.56}
+{"id": "O0Ea5cS4QwE-t5011.56", "text": "So then you have to wait at the Mushyra after the poet has read the first line, and then everybody says,", "start": 5011.56, "end": 5017.56}
+{"id": "O0Ea5cS4QwE-t5017.56", "text": "Vava, Subhan the law and starts praising him. And maybe they make him repeat the first line.", "start": 5017.56, "end": 5022.56}
+{"id": "O0Ea5cS4QwE-t5022.56", "text": "And there's a big interval when you're trying to think of what the second line would be.", "start": 5022.56, "end": 5026.56}
+{"id": "O0Ea5cS4QwE-t5026.56", "text": "Only when you hear the second line, Kries is Majnun. There's that same word, Tassvere, that we saw in the earlier verse.", "start": 5026.56, "end": 5033.56}
+{"id": "O0Ea5cS4QwE-t5033.56", "text": "We were looking at. Tassvere, part of that may be, part of that means veil. It's like the word people use in English, P-U-R-D-A-H, which they pronounce poor dust sometimes,", "start": 5033.56, "end": 5043.56}
+{"id": "O0Ea5cS4QwE-t5043.56", "text": "but it's part of that means being in a curtain or being behind a curtain.", "start": 5043.56, "end": 5048.56}
+{"id": "O0Ea5cS4QwE-t5048.56", "text": "Kries, even, this is even, in the curtain of a painting, turned out to be naked or emerged naked.", "start": 5048.56, "end": 5061.56}
+{"id": "O0Ea5cS4QwE-t5061.56", "text": "So, in other words, Kries, or the figure of Mad Majnun who ran off and lived nakedly with the animals in the desert,", "start": 5061.56, "end": 5070.56}
+{"id": "O0Ea5cS4QwE-t5070.56", "text": "was so opposed to all civilized bourgeois, urbane existence that even in the part of a picture,", "start": 5070.56, "end": 5079.56}
+{"id": "O0Ea5cS4QwE-t5079.56", "text": "which ought to veil him or cover him like a paper garment as we saw in the other verse we were looking at,", "start": 5079.56, "end": 5087.56}
+{"id": "O0Ea5cS4QwE-t5087.56", "text": "even in the part of a picture which ought to make for modesty, he turned out to be naked.", "start": 5087.56, "end": 5093.56}
+{"id": "O0Ea5cS4QwE-t5093.56", "text": "And Gaulib is very pleased because he's created that nice little effect that he feels is very enjoyable, and that surely the Mushyra,", "start": 5093.56, "end": 5103.56}
+{"id": "O0Ea5cS4QwE-t5103.56", "text": "here is probably, probably enjoyed it as well because Nick La can mean turned out to be, but it also can mean literally emerged.", "start": 5103.56, "end": 5112.56}
+{"id": "O0Ea5cS4QwE-t5112.56", "text": "So, it can actually mean even in the part of a picture as emerged naked as though he was so much breaking, so much concerned to break down the dignity and pompousness of bourgeois life,", "start": 5112.56, "end": 5126.56}
+{"id": "O0Ea5cS4QwE-t5126.56", "text": "that his incisiveness just cut through all the pomp and circumstance that surrounds him even in a picture.", "start": 5126.56, "end": 5135.56}
+{"id": "O0Ea5cS4QwE-t5135.56", "text": "So, it's a lovely verse, and it's anchored to the depiction of Christ and the wilderness.", "start": 5135.56, "end": 5141.56}
+{"id": "O0Ea5cS4QwE-t5141.56", "text": "Let me interpret the verse.", "start": 5141.56, "end": 5143.56}
+{"id": "O0Ea5cS4QwE-t5143.56", "text": "I'm sorry, I don't need to.", "start": 5143.56, "end": 5145.56}
+{"id": "O0Ea5cS4QwE-t5145.56", "text": "We only got five minutes left, and I'd like to pass around this material on the Hoshar Foundation for people to take a look at as we're finished.", "start": 5145.56, "end": 5152.56}
+{"id": "O0Ea5cS4QwE-t5152.56", "text": "Oh, that's lovely of you. It's a wonderful foundation, and we know the people who are running it, and every penny goes right to women's education in Pakistan.", "start": 5152.56, "end": 5162.56}
+{"id": "O0Ea5cS4QwE-t5162.56", "text": "It's not a big organization buying range rovers for a lot of outside experts coming in. It's people working with local schools.", "start": 5162.56, "end": 5171.56}
+{"id": "O0Ea5cS4QwE-t5171.56", "text": "So, people can make a note of their website if they want to.", "start": 5171.56, "end": 5174.56}
+{"id": "O0Ea5cS4QwE-t5174.56", "text": "It's interesting. My initial question was just answered very rapidly, and then who talked about this one, and also the question of the vocabulary, sex, death, madness, and nakedness.", "start": 5174.56, "end": 5185.56}
+{"id": "O0Ea5cS4QwE-t5185.56", "text": "In a way, it seems as if this type of culture was a breakthrough in terms of committing people to talk about things that weren't really supposed to talk about.", "start": 5185.56, "end": 5198.56}
+{"id": "O0Ea5cS4QwE-t5198.56", "text": "And using the proper language to talk about stuff that was not proper.", "start": 5198.56, "end": 5205.56}
+{"id": "O0Ea5cS4QwE-t5205.56", "text": "So, I'm suggesting that this kind of was a barrier, as I said, a breakthrough in the language.", "start": 5205.56, "end": 5212.56}
+{"id": "O0Ea5cS4QwE-t5212.56", "text": "First of all, being able to talk to in a valid manner, is that it was that sort of controversial thing in and of itself talking about, talking about the effect of women on a death station, being protected, and all that sort of.", "start": 5212.56, "end": 5231.56}
+{"id": "O0Ea5cS4QwE-t5231.56", "text": "Right, and yes, with the caveat that, yes, it was many times within the veil of the masculine gender, but everyone knew who to interpret it as both as well.", "start": 5231.56, "end": 5246.56}
+{"id": "O0Ea5cS4QwE-t5246.56", "text": "And yes, I completely agree. They did use their poetic license to very good and very intense effect to talk about these things.", "start": 5246.56, "end": 5257.56}
+{"id": "O0Ea5cS4QwE-t5257.56", "text": "And to really link them as Fran was mentioning earlier that these were mystical themes.", "start": 5257.56, "end": 5266.56}
+{"id": "O0Ea5cS4QwE-t5266.56", "text": "And even in this couple of over here, the interplay of Parda and Orya of nakedness and hidden, it's always the native speaker or reader will automates almost subconsciously be drawn into the contradiction between the two.", "start": 5266.56, "end": 5286.56}
+{"id": "O0Ea5cS4QwE-t5286.56", "text": "And the contradiction between the hidden, what we really know, do we really know anything going to decartian philosophy, etc.", "start": 5286.56, "end": 5296.56}
+{"id": "O0Ea5cS4QwE-t5296.56", "text": "But yes, I do feel that they did use their poetic license as a thing to talk about things that weren't the topics of everyday conversation in prose, for instance,", "start": 5296.56, "end": 5313.56}
+{"id": "O0Ea5cS4QwE-t5313.56", "text": "between a couple of people who were just chatting in the marketplace, for instance.", "start": 5313.56, "end": 5319.56}
+{"id": "O0Ea5cS4QwE-t5319.56", "text": "But I think what you do say is not my impression, it's not my impression that I don't think the, for example, the most reference to my thinking is from Parda and many of the others, and in person poetry.", "start": 5319.56, "end": 5343.56}
+{"id": "O0Ea5cS4QwE-t5343.56", "text": "And the idea is never really the one that I own that is kind of expressing what couldn't be expressed because of society within the other.", "start": 5343.56, "end": 5353.56}
+{"id": "O0Ea5cS4QwE-t5353.56", "text": "So it's never being put in the symbolic, everything the right, the symbolic is not literal.", "start": 5353.56, "end": 5359.56}
+{"id": "O0Ea5cS4QwE-t5359.56", "text": "Drinking, there's nothing to do with actually drinking, it's a symbolic of a change of level of consciousness.", "start": 5359.56, "end": 5371.56}
+{"id": "O0Ea5cS4QwE-t5371.56", "text": "Right.", "start": 5371.56, "end": 5373.56}
+{"id": "O0Ea5cS4QwE-t5373.56", "text": "Is there anything you would like to listen to that is safe room in all of this?", "start": 5373.56, "end": 5377.56}
+{"id": "O0Ea5cS4QwE-t5377.56", "text": "I mean, I'm just thinking now that Greeks couldn't have something come true.", "start": 5377.56, "end": 5385.56}
+{"id": "O0Ea5cS4QwE-t5385.56", "text": "Sure, yes, it could have because in the middle ages, there was a whole flowering of Andalusian and South, Southern, Spanish, Moorish culture.", "start": 5385.56, "end": 5398.56}
+{"id": "O0Ea5cS4QwE-t5398.56", "text": "And the Arabs are famously supposed to have a rescued Greek science and philosophy from oblivion, while Europe was going through its dark ages.", "start": 5398.56, "end": 5409.56}
+{"id": "O0Ea5cS4QwE-t5409.56", "text": "I mean, these are of course very loose time periods and categorizations.", "start": 5409.56, "end": 5413.56}
+{"id": "O0Ea5cS4QwE-t5413.56", "text": "You know, the Queen of Shiva, the song of Solomon, and the biblical, you know, it was supposedly for the love of God, but also, you know, both human love, physical, but beyond his love.", "start": 5413.56, "end": 5425.56}
+{"id": "O0Ea5cS4QwE-t5425.56", "text": "Yes, definitely. Right, definitely. So there's hardly any poetry in the classical period which talks just about sex or drunkenness or death just on their own as phenomenon.", "start": 5425.56, "end": 5438.56}
+{"id": "O0Ea5cS4QwE-t5438.56", "text": "It's always tight, it's always a road, a metaphor for a broader achievement of consciousness or dissipation of oneself into the divine whole.", "start": 5438.56, "end": 5451.56}
+{"id": "O0Ea5cS4QwE-t5451.56", "text": "Well, I'm afraid we're going to have to stop.", "start": 5451.56, "end": 5455.56}
+{"id": "O0Ea5cS4QwE-t5455.56", "text": "Thank you very much.", "start": 5455.56, "end": 5456.56}
+{"id": "O0Ea5cS4QwE-t5456.56", "text": "I feel like a door has opened into a wonderful mansion.", "start": 5456.56, "end": 5461.56}
+{"id": "O0Ea5cS4QwE-t5461.56", "text": "Thank you so much.", "start": 5461.56, "end": 5464.56}
+{"id": "O0Ea5cS4QwE-t5464.56", "text": "Thank you.", "start": 5464.56, "end": 5483.56}

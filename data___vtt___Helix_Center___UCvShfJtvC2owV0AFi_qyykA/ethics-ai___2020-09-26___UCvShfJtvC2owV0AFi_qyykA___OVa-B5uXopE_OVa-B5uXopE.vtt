@@ -1,0 +1,3527 @@
+WEBVTT
+
+00:00.000 --> 00:07.120
+Good afternoon, everyone. Welcome to the Hill Center's very first Zoom roundtable. Of course,
+
+00:07.120 --> 00:14.960
+you all appreciate we've been forced online by the ongoing coronapandemic, and we're looking forward
+
+00:14.960 --> 00:21.600
+soon to having ourselves back in our normal venue. But until then, we're adapting as best we can.
+
+00:21.600 --> 00:32.400
+And here we are with our first fall 2020 roundtable on ethics and AI. I'm joined here with the
+
+00:32.400 --> 00:38.800
+Hill Executive Director Ed Nursesian. I'm Jerry Herrwith, the Associate Director. And today we have an
+
+00:38.800 --> 00:49.040
+esteemed panel of experts. And I'll read your bios to you in just a moment, but we're looking
+
+00:49.040 --> 00:54.880
+forward to having a really wonderful, robust conversation about this very important topic.
+
+00:56.080 --> 01:03.600
+Let me just say a word about some of our participants. Our sort of acting moderate today is Brandon
+
+01:03.600 --> 01:10.000
+Fittleson. And Brandon is a distinguished professor of philosophy at Northeastern University.
+
+01:10.880 --> 01:15.040
+Before teaching at Northeastern Brandon had held teaching positions at Rutgers
+
+01:15.040 --> 01:21.360
+University of California Berkeley, San Jose State and Stanford, and visiting positions at the Munich
+
+01:21.360 --> 01:33.120
+Center for mathematical philosophy. Gabrielle Johnson is an assistant professor of philosophy
+
+01:33.120 --> 01:40.000
+at Claremont McKenna College. Before joining Claremont McKenna, she was a Bursauf faculty fellow at NYU
+
+01:40.000 --> 01:46.080
+affiliated with the Center for Mind, Brain and Consciousness. She works primarily in philosophy
+
+01:46.080 --> 01:52.080
+of psychology, philosophy of cognitive science, philosophy of science, and philosophy of technology.
+
+01:53.040 --> 01:59.120
+Her projects explore the nature and structure of social bias as it occurs in computational systems,
+
+01:59.120 --> 02:04.480
+including the visual perceptual system, socio cognitive systems, scientific inference,
+
+02:04.480 --> 02:08.000
+and predictive models and machine learning programs.
+
+02:08.000 --> 02:15.760
+Rhaed Ghani is a distinguished career professor in the machine learning department and the
+
+02:15.760 --> 02:22.880
+Heinz College of Public Policy at Carnegie Mellon University. Rhaed is a reformed computer scientist
+
+02:22.880 --> 02:29.440
+and a one of these social scientists. But most mostly just wants to increase the use of large scale
+
+02:29.440 --> 02:36.000
+AI machine learning data science in collaboratively solving large public policies and social challenges
+
+02:36.000 --> 02:42.640
+in a fair and equitable manner. Rhaed works with the government and nonprofits across policy areas
+
+02:42.640 --> 02:48.560
+including health, criminal justice, education, public safety, economic development, and urban
+
+02:48.560 --> 02:54.240
+infrastructure. Rhaed is also passionate about teaching and practical data and science and started
+
+02:54.240 --> 03:02.080
+the data science for social good and fellowship. Tracey Mears is the Walton Hale Hamilton professor
+
+03:02.080 --> 03:09.680
+and a founding director of the Justice Collaborative at Yale Law School. Before joining the faculty
+
+03:09.680 --> 03:16.240
+at Yale, she was a professor at the University of Chicago Law School from 1995 to 2007, serving
+
+03:16.240 --> 03:22.560
+as Max Pam Professor and Director of the Center for Studies and Criminal Justice. She was the first
+
+03:22.560 --> 03:28.960
+African American woman to be granted tenure at both law schools. Professor Mears is a nationally
+
+03:28.960 --> 03:34.400
+recognized expert on policing in urban communities. Her research focuses on understanding how members
+
+03:34.400 --> 03:39.600
+of the public think about their relationships with legal authorities such as police, prosecutors,
+
+03:39.600 --> 03:51.200
+and judges. Tina Eliasi-Radd is an associate professor of computer science at Northeastern
+
+03:51.200 --> 03:57.760
+University in Boston, Massachusetts. She is also a core faculty member at Northeastern University's
+
+03:57.760 --> 04:03.360
+Network Science Institute. Prior to joining Northeastern, Tina was an associate professor of computer
+
+04:03.360 --> 04:09.600
+science at Rutgers University. And before that, she was a member of the Technical Staff and
+
+04:09.600 --> 04:15.920
+Principal Investigator at Lawrence Livermore National Laboratory. Tina earned her PhD in
+
+04:15.920 --> 04:22.000
+computer science at the University of Wisconsin-Madison. Her research is rooted in data mining and machine
+
+04:22.000 --> 04:28.960
+learning and spans theory algorithms and applications of big data from networked representations of
+
+04:28.960 --> 04:34.960
+physical and social phenomena. She's had over 100 peer review publications, including a few
+
+04:34.960 --> 04:41.040
+best papers and best paper runner-up awards, and has given over 200 invited talks and 14 tutorials.
+
+04:42.080 --> 04:46.080
+So with all that, I'm handing it over now to Brandon Fittleson, who will get
+
+04:46.080 --> 04:52.400
+a discussion underway. Thanks, Jerry. I just want to start by saying thanks to both Ed and Jerry
+
+04:52.400 --> 04:57.680
+and to the Hillock Center. It's always a pleasure to do these round tables. I hope we can get back
+
+04:57.680 --> 05:03.600
+to doing them in person in New York City next year. And I want to welcome everybody both on the
+
+05:03.600 --> 05:11.680
+webinar here and also on YouTube in the live stream. I want to remind people that we, you can start
+
+05:11.680 --> 05:17.280
+putting questions into the Q&A tab and zoom if you're on zoom, or you can write in some comments
+
+05:17.280 --> 05:21.360
+and questions in the live stream on YouTube. And those are going to be compiled throughout the
+
+05:21.360 --> 05:27.200
+course of the first part of the round table. And then after we get done with this first part,
+
+05:27.200 --> 05:32.080
+which I'll say a little bit more in a second, we're going to have a Q&A at the end. So feel free to
+
+05:32.080 --> 05:39.040
+start entering questions and comments as you have them. All right, so the plan for today, such as it
+
+05:39.040 --> 05:47.360
+is, is roughly three parts, about 30 minutes each, where I'm going to ask the panel about first
+
+05:47.360 --> 05:54.320
+problems and pitfalls pertaining to the current use of AI technology and some of the moral problems
+
+05:54.320 --> 06:01.440
+that it currently faces and its applications now. And then we'll move on to potential solutions
+
+06:01.440 --> 06:06.560
+to some of those problems. And finally, I want to end on an up note. I want to end on a positive
+
+06:06.560 --> 06:11.920
+note here if we can, to say something about how we might harness these powerful technologies
+
+06:11.920 --> 06:18.080
+for good, for morally good outcomes in the future. All right, without further ado,
+
+06:18.080 --> 06:25.040
+starting with pitfalls and problems, I'm going to start, I'm going to ask Tracy to go ahead and tell
+
+06:25.040 --> 06:30.160
+us some of her thoughts about pitfalls and problems that she's seen and in her work, her work, she's
+
+06:30.160 --> 06:38.720
+addressing. Tracy? Good afternoon, everybody. As I was listening to the bios of my co-panelists,
+
+06:38.720 --> 06:45.120
+I thought, wow, one of these things is not like the other. And that would be me. Most of my work
+
+06:45.120 --> 06:50.880
+has focused on thinking about problems in the criminal legal system, although lately,
+
+06:52.320 --> 06:58.640
+my center, the Justice Collaboratory has branched out, I think, about problems of social media governance,
+
+06:58.640 --> 07:06.880
+which one might think is more directly related to what we're doing. But in the spirit of getting
+
+07:06.880 --> 07:12.400
+as many things on the table as possible, and at the beginning, especially in terms of articulating
+
+07:12.400 --> 07:21.760
+problems, I guess I would say, when I think about AI, big data, machine learning and automation,
+
+07:21.760 --> 07:29.920
+and in the context of criminal legal processing, we're faced with some serious issues about the
+
+07:29.920 --> 07:37.200
+difference between what we think about the fairness of how humans make decisions about outcomes,
+
+07:37.200 --> 07:43.360
+especially keenal outcomes for individuals, and how we think about machines doing this. There are
+
+07:43.360 --> 07:51.520
+many people who think that machines engaging in these processes make it fairer because they think
+
+07:52.800 --> 08:00.800
+that machines themselves aren't impacted by bias. That may or may not be true. It depends on,
+
+08:00.800 --> 08:08.400
+you know, how you think about how machines learn. But certainly, the crudest form of how this works
+
+08:08.400 --> 08:16.000
+ultimately or initially depends on how the machines are programmed. I'm not saying anything that anyone
+
+08:16.000 --> 08:23.360
+doesn't know already about thinking about risk assessments and who is denied bail and the extent
+
+08:23.360 --> 08:30.320
+to which one can make those algorithms fair. Just one point on that, and then I'll say something
+
+08:30.320 --> 08:38.160
+about social media. One point is to say, to the extent that people point to all of those problems
+
+08:38.160 --> 08:46.400
+with machine learning, again, focused on the issues inherent in having a human program,
+
+08:47.040 --> 08:54.800
+these machines, I think folks too often forget, of course, that the human beings making these
+
+08:54.800 --> 09:01.680
+decisions, which would be the alternative, it's always compared to what, of course, have algorithms
+
+09:01.680 --> 09:09.120
+in their head. And they always do. It's always when I'm at conferences like this, not this, but
+
+09:09.120 --> 09:14.000
+conferences discussing bail reform and risk assessment, I will always say, well, what about the algorithm
+
+09:14.000 --> 09:23.280
+and the judge's head? Because the critic always seems to posit the human alternative as better.
+
+09:23.280 --> 09:30.160
+And it might be that they both just to use my kids' terms suck. And so the question is,
+
+09:30.160 --> 09:35.760
+which sucks the least and how we think about which sucks the least, which gets to my second
+
+09:35.760 --> 09:45.280
+point around social media governance. One way in which humans may suck less is the ways in which
+
+09:45.280 --> 09:54.080
+we can be forced in a sense to explain what we do. There's ways in which machines and algorithms
+
+09:54.080 --> 10:01.280
+in particular are especially inscrutable. Even if we can make them transparent, they're still
+
+10:01.280 --> 10:07.760
+inscrutable in all the ways in which humans just have trouble at some level with the capacity
+
+10:07.760 --> 10:13.520
+making the assessments, even if I can explain to you in words what the algorithm is doing.
+
+10:13.520 --> 10:18.880
+And so in my social media work, and then I'll end with this because Brandon said I wasn't supposed
+
+10:18.880 --> 10:25.040
+to talk much more than about five minutes. So it's table setting. One of the things we've tried to
+
+10:25.040 --> 10:32.400
+do at the Collaboratory and the work on social media governance is to try to apply learnings from
+
+10:32.400 --> 10:38.000
+the social psychology of procedural justice and legitimacy in the real world, mostly in the criminal
+
+10:38.000 --> 10:46.000
+legal system context to how platforms for online interaction manage problems, disputes,
+
+10:46.000 --> 10:53.040
+content moderation, and so on. And we've been relatively successful working with a number of
+
+10:53.040 --> 10:59.440
+platforms to have them understand how they can use their data science to infuse that science
+
+10:59.440 --> 11:08.880
+with these ideas that procedural justice points to. I'll just say one more thing and we'll wait
+
+11:08.880 --> 11:17.600
+for the next session, but the key thing to understand about how procedural justice informs this is
+
+11:17.600 --> 11:24.560
+that it focuses much more on process than it focuses on outcome. So to the extent that when
+
+11:24.560 --> 11:31.040
+people are trying to make these outcomes fair through machine learning, the procedural justice
+
+11:31.040 --> 11:37.760
+approach would say don't worry about the outcome as much. Focus on the process by which you reach
+
+11:37.760 --> 11:46.080
+those outcomes and then the key would be is there a way in which we can have AI focus on these
+
+11:46.080 --> 11:55.520
+processes and ways that are transparent and sit transparent and salient to humans.
+
+11:56.320 --> 12:02.000
+Thanks so much Tracy. I think a natural this is a natural segue into asking Gabby to speak
+
+12:02.000 --> 12:06.640
+because Gabby's research really is about the similarities and differences between
+
+12:07.440 --> 12:13.280
+biases that occur in human judgment and and automatic biases people. So Gabby take it away.
+
+12:13.280 --> 12:20.320
+Great thanks Brandon. Yeah and thanks for the great intro Tracy. So as Brandon said I'm interested
+
+12:20.320 --> 12:27.040
+in cases of bias as they manifest both for human decision makers and for artificial decision makers.
+
+12:27.920 --> 12:34.560
+So insofar as I'm highlighting various pitfalls and problems now, I guess my hobby
+
+12:34.560 --> 12:40.240
+horse is the biases that manifest in these decision making procedures. And more so than with the
+
+12:40.240 --> 12:46.800
+human decision making procedures I think the issue is really bias under the guise of neutrality or
+
+12:46.800 --> 12:54.000
+scientific objectivity. And so I think every computer scientist has taught this motto of garbage
+
+12:54.000 --> 12:59.520
+and garbage out. The computer decision maker is only ever as good as the data going into it.
+
+12:59.520 --> 13:06.960
+And so I try to focus my area of research on two different focal points. One is on the data
+
+13:06.960 --> 13:12.960
+going into the decision making procedure and how various systematic patterns of oppression
+
+13:12.960 --> 13:19.360
+could be encoded in that data. But the other decision or focal point for me is on the decision
+
+13:19.360 --> 13:25.520
+points of the algorithmic designer. And I think both allow opportunities for bias to creep into
+
+13:25.520 --> 13:34.240
+what seem like objective or impartial decision making patterns. So I think that uncovering the
+
+13:34.240 --> 13:40.240
+theory behind the data is something that philosophers of science have been worried about for a long
+
+13:40.240 --> 13:46.880
+time and that various methodologies that are apparent in philosophy science could be useful in
+
+13:46.880 --> 13:52.480
+the domain of machine learning algorithms. And so part of what I'm trying to do is to bring a better
+
+13:52.480 --> 13:57.600
+theory to understanding both the patterns that are encoded in the data but also the theory of how
+
+13:57.600 --> 14:02.720
+we take objective scientific inference to occur more generally. Which is of course what we're trying
+
+14:02.720 --> 14:09.040
+to model in the case of algorithmic decision making. So just how human values get encoded in
+
+14:09.040 --> 14:14.800
+basically every single step of that procedure or that model is something that I think is that the
+
+14:14.800 --> 14:21.520
+four of those concerned with ethical AI. I also think as Tracy said, another issue is the lack
+
+14:21.520 --> 14:27.440
+of transparency. So we have a lack of transparency on two fronts. One is that machine learning
+
+14:27.440 --> 14:35.600
+programs are proprietary as we all know. And so because they're commercial and because they're
+
+14:35.600 --> 14:42.000
+commercial programs, it seems like they are not going to be open to public scrutiny. And even if
+
+14:42.000 --> 14:46.880
+they were the data that they're operating on would also cause issues of privacy concerns.
+
+14:48.080 --> 14:53.440
+So that their proprietary is one issue. But the second one, and I think this is the one that
+
+14:53.440 --> 15:00.000
+Tracy was intimating, is that they likely manifest what we call black box algorithms. That is even
+
+15:00.000 --> 15:05.840
+if we could as it were appear under the hood and take a closer look, it's not obvious that even a
+
+15:05.840 --> 15:11.040
+good computer scientist or philosopher would be able to understand exactly how the program is
+
+15:11.040 --> 15:16.000
+operating. So the lack of transparency on those two fronts I think makes and compounds these issues
+
+15:16.000 --> 15:25.360
+of bias. And then the third thing that I'll just say as a problem or pitfall is just the speed and
+
+15:25.360 --> 15:34.000
+ubiquity with which artificial intelligence and machine learning technology has proliferated way
+
+15:34.000 --> 15:42.880
+further than we anticipated at the rate that it has. And so it has been allowed to grow basically
+
+15:42.880 --> 15:51.760
+unchecked and unfettered throughout many aspects of human lives. And so I think that the lack of
+
+15:51.760 --> 16:00.720
+accountability or mechanisms for ethical responsibility is a big issue for our current technology industry.
+
+16:00.720 --> 16:06.800
+And so one of the major pitfalls that those of us interested in ethical AI need to approach and discuss.
+
+16:06.800 --> 16:16.560
+Thanks Gabby. That was great. So having heard from the legal and the philosophical
+
+16:16.560 --> 16:21.920
+sides of this, I want to turn out to sort of the more practical, the more of the practitioner side.
+
+16:22.960 --> 16:27.200
+So right, maybe you could share some of your thoughts from the more practical sides of one
+
+16:27.200 --> 16:29.360
+sort of on the ground using the tools doing the stuff.
+
+16:29.360 --> 16:40.560
+Yeah, so I think before we sort of, you know, before at least we start talking about all the
+
+16:40.560 --> 16:44.480
+horrible things, you know, I think the reason we're having this conversation, I'm assuming,
+
+16:44.480 --> 16:50.000
+is because we think there is some good that can be done. Right, that we have a lot of issues in
+
+16:50.000 --> 16:54.400
+this world and humans have been doing trying to fix these issues for a very long time, but
+
+16:54.400 --> 16:59.840
+they've created these issues. Right, it didn't just happen. And so I think if the premise is,
+
+17:00.560 --> 17:06.080
+there is some potential in using computers and data and evidence to improve policies.
+
+17:07.600 --> 17:11.040
+And there have been a lot of evidence about it. We've done a lot of good things that
+
+17:11.040 --> 17:14.960
+these are the risks that we're talking about. And these risks are only we're talking about
+
+17:14.960 --> 17:19.360
+because there is that potential for good. Otherwise, it would be very easy. Let's just stop, not do
+
+17:19.360 --> 17:26.480
+any of these things. And I think that comparison to sort of trace these points is, you know, it has
+
+17:26.480 --> 17:31.760
+to always be compared to what? Right, it's not compared to the perfection that we all desire,
+
+17:31.760 --> 17:36.240
+but compared to what humans do today. And I think that's a point that I think we need to
+
+17:36.240 --> 17:40.640
+keep repeating, which is why I'm repeating it, because it gets lost in practice very often,
+
+17:40.640 --> 17:45.360
+where the critics, you know, if you look at any criticism of these types of tools, it's often,
+
+17:45.360 --> 17:50.000
+you know, these machines, they are racist and they don't justify what they do. And you can
+
+17:50.000 --> 17:56.800
+replace the machines with humans and they would be the same paragraph. So I think, but in my mind,
+
+17:56.800 --> 18:01.760
+the bigger, so given that the risks are pretty much the same as they have been with humans all
+
+18:01.760 --> 18:07.440
+this time, any human decisions that are made have had these issues, to me, the incremental risk that
+
+18:07.440 --> 18:13.520
+comes up is partially what sort of, Gabrielle talked about, of how fast these tools are spreading,
+
+18:13.520 --> 18:19.760
+but then also, unfortunately, the consistency in these tools, right? The humans, the hope is that,
+
+18:19.760 --> 18:24.160
+you know, yeah, judges are, a lot of them are racist, but and they all make sort of horrible
+
+18:24.160 --> 18:29.360
+decisions generally, but there's variants and each individual decision combined, you know,
+
+18:29.360 --> 18:33.920
+it results in overall racism. We've seen that, but every single decision may not be racist,
+
+18:33.920 --> 18:39.760
+but if these systems, let's say for criminal justice or allocating human services or health
+
+18:39.760 --> 18:46.160
+services, if there are three such systems in the world that are being used, that variance goes away.
+
+18:46.160 --> 18:50.800
+And if these three systems are bad, then there is no hope for us to recover from that. So I think
+
+18:50.800 --> 18:56.720
+that's for me, it is an incremental risk, apart from what everything we've talked about, that makes
+
+18:56.720 --> 19:04.080
+it worth really focusing on and thinking through, second thing is again, what, again, both like
+
+19:04.080 --> 19:10.640
+Gabrielle and Tracy mentioned, was there is sort of this fake sense of trust, is, oh, because it's
+
+19:10.640 --> 19:16.560
+based on data, it must be right, right? And yes, you know, the garbage in, garbage out, but not
+
+19:16.560 --> 19:23.360
+garbage in doesn't mean not garbage out, right? You can put a lot of good data in, but the system
+
+19:23.360 --> 19:29.280
+can still result in horrible outputs, but more importantly, I think at least the work I do is
+
+19:29.280 --> 19:35.760
+less on autonomous decision making, if any sort, it's assisting humans in making better decisions.
+
+19:35.760 --> 19:42.000
+So you could have a perfectly fair AI system resulting in horrible outcomes, because the
+
+19:42.000 --> 19:49.360
+human that takes those recommendations does horrible things, or vice versa. A horribly biased AI system
+
+19:50.000 --> 19:56.480
+given to a human who understands how it works and can use it to create more equitable outcomes.
+
+19:56.480 --> 20:02.720
+And so I think that there is kind of this fake trust in data where data is never objective,
+
+20:03.600 --> 20:10.320
+there is no such thing as good data, it's whatever sensors we use to collect that information and
+
+20:10.320 --> 20:17.840
+how we use it. And the other risk I think is to connect to that is often people may use these
+
+20:17.840 --> 20:22.560
+systems an excuse to do what they would have done anyway. And now it gives them another
+
+20:22.560 --> 20:29.280
+evidence that see, this is what the computer told me to do. And there have been many cases again in
+
+20:29.280 --> 20:36.960
+the criminal justice system of judges claiming, well, I didn't make this decision, the computer
+
+20:36.960 --> 20:42.320
+told me to do that. Well, then why do we have you? Why not just have the computer take over?
+
+20:43.120 --> 20:47.520
+So I think those are kind of some initial thoughts, and I can go into those later more.
+
+20:47.520 --> 20:56.320
+Fantastic. That brings us to our final panelist, Tina, who I know has thought a lot about how
+
+20:56.320 --> 21:02.080
+humans interact with systems, especially when they serve as assistants, and also on how to educate
+
+21:02.080 --> 21:06.080
+people so they become more technically literate. Tina, you want to take it?
+
+21:06.720 --> 21:11.920
+Yes, thank you very much. And one update to my bio, I was promoted to full professor in July,
+
+21:11.920 --> 21:19.200
+even though it sounds like 100 years ago now. But thank you, thank you. So from my perspective,
+
+21:19.200 --> 21:24.720
+I teach a class called Algorithms that effect lives for freshmen, for incoming freshmen,
+
+21:24.720 --> 21:30.800
+and I don't require any math or programming. And my whole goal for them is should we do this? So
+
+21:30.800 --> 21:36.960
+this goes back to where Rahid was saying, just because we have the technology and somebody won't
+
+21:36.960 --> 21:43.840
+pay for it, should we do it? As citizens of this country, should we deploy these algorithms
+
+21:44.560 --> 21:51.200
+for x, y, z, just because we can do it, and somebody's willing to pay for it? Maybe not, right? So we
+
+21:51.200 --> 21:57.680
+should really think about that as one aspect of it. The other aspect of it is what Rahid touched in
+
+21:57.680 --> 22:04.240
+is that at least from the computer science perspective, there's this notion that data comes from gods.
+
+22:04.240 --> 22:11.120
+And when you talk to, for example, physicists or more natural scientists, no, there's a distribution,
+
+22:11.120 --> 22:18.640
+right? And so which part of this distribution did you actually see? It would be good, for example,
+
+22:18.640 --> 22:25.040
+to actually say, you know what, this algorithm only works on white men who are between 25 and 35.
+
+22:25.040 --> 22:30.000
+But computer scientists typically are not that honest. We're all about it's a master algorithm,
+
+22:30.000 --> 22:36.000
+right? My algorithm is the best algorithm on the planet, at least for five minutes, until the
+
+22:36.000 --> 22:41.040
+next paper is published, right? And knocks it down. So these are some of the things that,
+
+22:41.600 --> 22:46.640
+both in terms of basically putting doubt into the human in terms of that this algorithm is
+
+22:46.640 --> 22:52.960
+fabulous, and also making them think that there are certain scenarios in which the algorithm is
+
+22:52.960 --> 22:58.000
+really being treated as an expert witness, right? It's as if it's an expert witness, but it's not
+
+22:58.000 --> 23:04.400
+really being treated like an expert witness, right? Where like you can actually like audit the algorithm
+
+23:04.400 --> 23:10.240
+and ask you different questions. It seems like it's a one way street from the algorithm saying,
+
+23:10.240 --> 23:15.520
+you know, I think Tina's going to default on this loan, right? And not being able to ask,
+
+23:15.520 --> 23:20.320
+well, why do you think Tina's going to default on this loan, right? What if Tina was a white male,
+
+23:20.320 --> 23:26.160
+right? And had the royal flush of hands, would Tina still default on the loan, right? What if Tina's
+
+23:26.160 --> 23:32.000
+zip code was not so on and so forth, right? So there's some of these aspects of it, but I think in
+
+23:32.000 --> 23:37.200
+general, just thinking about just because we can do it, and somebody is willing to pay for it,
+
+23:37.840 --> 23:44.400
+should we do it? Is it good for our society, right? So one of the aspects is automation, for example,
+
+23:44.400 --> 23:50.880
+and there is an element in terms of AI and ethics, where robots in factories are taking away jobs,
+
+23:50.880 --> 23:56.480
+maybe you can say, oh, that's productivity growth, and that's a good thing. But then on the other
+
+23:56.480 --> 24:00.480
+hand, what are you going to do with all these people who are unemployed? Do we not care about them?
+
+24:01.280 --> 24:07.040
+Or for example, should we tax the companies who bring in robots into the factories and use that
+
+24:07.040 --> 24:12.240
+money to re-educate our population, right? And so there's some of these kinds of things that
+
+24:13.040 --> 24:17.680
+I've been teaching the freshmen, and they're amazing. They are amazing. And you know, so I'm
+
+24:17.680 --> 24:22.960
+hopeful for the future because they ask the right questions, and on that I'll stop.
+
+24:25.440 --> 24:30.320
+Well, that's great because that, see, I wanted this to be an increasing amount of optimism.
+
+24:30.960 --> 24:35.840
+So I'd like the trend, and I'm just going to reverse the order. So Tina, keep going.
+
+24:36.400 --> 24:42.480
+You're on a roll here. Solutions maybe. What are some ideas for how to solve or how to address
+
+24:42.480 --> 24:46.720
+some of the extant problems? I think you're already addressing some of that, but maybe you could just
+
+24:46.720 --> 24:51.280
+take the next segment, and then we'll just go and reverse order. All right? Go for it.
+
+24:51.280 --> 24:56.320
+Yeah. I think some of it is a citizenry that actually knows what's happening. Like, for example,
+
+24:56.320 --> 25:02.800
+a lot of my students ask, well, is there any way for me to figure out how much Google knows about
+
+25:02.800 --> 25:08.080
+me, right? Then perhaps I can make an informed decision as to whether I want to use all the
+
+25:08.080 --> 25:13.920
+Google products, whether I want to allow Google in my life. Or for example, many of them don't
+
+25:13.920 --> 25:18.640
+know about the privacy law that was passed in California, where you can go to these tech companies
+
+25:18.640 --> 25:24.480
+and ask them about your data. Now, of course, you can pass laws, but they may not have teeth,
+
+25:24.480 --> 25:34.080
+right? So there's that as well. But there's also aspects of just having algorithms have labels on
+
+25:34.080 --> 25:40.880
+them the same way prescription drugs have labels on them, right? Because these algorithms adversely
+
+25:40.880 --> 25:45.360
+affect different populations. So I need to know the risks and benefits and who the algorithm was
+
+25:45.360 --> 25:51.440
+for and what the algorithm audited and can I audit it? What are the privacy risks and rights?
+
+25:51.440 --> 25:58.800
+So my colleague Patricia Williams always says, what the hell does consent mean here when I consent
+
+25:58.800 --> 26:05.920
+to Apple to use their music, their iTunes? When am I consenting to exactly, right? So there's this
+
+26:05.920 --> 26:10.960
+kind of stuff that we need to unpack for our population so that they know what they're getting
+
+26:10.960 --> 26:14.800
+themselves into. I think that's one of the things that we don't know. And we can do that, right? We
+
+26:14.800 --> 26:21.120
+do have the tools to do that. And lastly, I think this was something that was mentioned before,
+
+26:21.120 --> 26:27.280
+which is you can't just lead the algorithm design to white men, because then they just think about
+
+26:27.280 --> 26:34.880
+like other white men. So you really need representatives from other slices of the population to be in
+
+26:34.880 --> 26:40.320
+the room to have this what's called human valued or human centric design to think about, well,
+
+26:40.320 --> 26:48.880
+how would this operate on somebody like me, right? So those are some of the solutions and we can't
+
+26:48.880 --> 26:53.440
+do them. It's just that, you know, why should I do it? If somebody's already paying me a lot of money
+
+26:53.440 --> 26:58.880
+to just tell them, you know, Tina's bad and Brandon's good. That's easier for me.
+
+26:58.880 --> 27:07.200
+Okay. But can I ask, but what about this issue where there's some value in a particular program
+
+27:07.760 --> 27:15.920
+that you're invited to use? And it's so sexy and exciting and or and or useful. And it's
+
+27:16.720 --> 27:22.800
+cheap to start up with. And then the implications and the, you know, the acceptance that you're
+
+27:22.800 --> 27:27.760
+asked to grant, it's a lot of people don't take the time where they should have buy into it before
+
+27:27.760 --> 27:32.000
+they really evaluate all the risk they're taking. What can we do about that? Is there something?
+
+27:32.560 --> 27:37.120
+Yeah. So I think that actually gets to a very good question. And that gets into a bigger question
+
+27:37.120 --> 27:42.080
+of what is the business model of these companies? You know, Google is an advertising company,
+
+27:42.080 --> 27:48.800
+whether you want it or not, it is an advertising company. Should we change the business model of
+
+27:48.800 --> 27:54.320
+them where you are willing to pay five dollars a month, right? Where you pay them five dollars a
+
+27:54.320 --> 27:59.200
+month and they won't sell your data and they will stop being an advertising company. Now, when I
+
+27:59.200 --> 28:05.120
+taught the same class in the spring, my students were like, I am not willing to pay five dollars
+
+28:05.120 --> 28:10.000
+a month. Like I'm willing to pay twenty dollars for burrito, but I'm not willing to pay five dollars
+
+28:10.000 --> 28:15.200
+a month. Now this semester, I have students who are like, no, I'm willing to pay five dollars a month
+
+28:15.200 --> 28:21.440
+to Google so that like they don't sell my data and so on and so forth. Now, there's a bigger problem
+
+28:21.440 --> 28:26.480
+in that it's not just Google that uses your data, right? Your credit card company is selling your data,
+
+28:27.120 --> 28:30.960
+right? I'm sure you've heard these stories about like your friend may have moved from the
+
+28:30.960 --> 28:36.880
+West Coast to the East Coast and Amazon knows where they have moved before you tell your parents.
+
+28:37.920 --> 28:43.120
+It's because they're all these data brokerage, right, that collect and sell data. So it's not
+
+28:43.120 --> 28:48.640
+just that you can like stock gap at one point, right? And this is also why you need basically a national
+
+28:48.640 --> 28:55.440
+call, a set of rules and regulations with teeth again. Like for example, if the A still has teeth,
+
+28:55.440 --> 29:00.320
+I think it's because our country is so litigious. Like people have to get sued. This goes back to,
+
+29:00.320 --> 29:07.360
+I think it was Gabby that mentioned in terms of having somebody who you say it's Tina's fault,
+
+29:07.360 --> 29:13.120
+right? I can put up a software out there and bring half the country down. I won't get sued.
+
+29:13.120 --> 29:19.920
+Like I am not like, right? I am not liable, right? Microsoft is not liable for all the bugs that are
+
+29:19.920 --> 29:24.720
+out there, right? In their Microsoft software. So there's some of that going on here as well,
+
+29:24.720 --> 29:30.560
+but you ask a very good question and that touches on changing the business model, right?
+
+29:32.640 --> 29:38.880
+I'm gonna reverse order here. Ray, you want to jump in on possible solutions or ways of
+
+29:38.880 --> 29:47.600
+addressing some of the current pitfalls? Regulation. I guess that's the easy answer.
+
+29:47.600 --> 29:53.040
+Connecting with Latina saying yes, we can change the business model. Yes, we can educate consumers.
+
+29:54.720 --> 30:01.760
+And it takes time and it may not happen, but I think as you said, FDA, FTC, CFPB,
+
+30:01.760 --> 30:09.840
+FEC, pick your favorite regulatory agency. And I think that's the solution,
+
+30:09.840 --> 30:13.360
+except they're not ready yet. They don't know how to do it. They're not trained. They don't have
+
+30:13.360 --> 30:21.360
+the expertise. And GAO, for example, a couple of weeks ago, shockingly, this country's
+
+30:21.360 --> 30:27.440
+GAO had a two day event on how do we audit and govern AI systems. And it was actually pretty
+
+30:27.440 --> 30:35.120
+reasonable. So I think that's one path. That's the only path. I think some of the things that I'm
+
+30:36.720 --> 30:43.040
+working on and sort of anything or worth pushing is coming in from both angles from what Tracy
+
+30:43.040 --> 30:47.840
+talked about, procedural, but also outcome focus, right? I mean, I think neither of them are enough.
+
+30:48.640 --> 30:56.400
+Procedural is today, it's very hard to audit procedural things, right? It's just so complicated.
+
+30:56.400 --> 31:00.400
+Outcomes are a little bit easier to audit. So that's a good starting point, but that's not a long
+
+31:00.400 --> 31:08.000
+terminal. We need both. And the reason I say outcomes instead of procedural is at least in the AI world,
+
+31:08.000 --> 31:14.400
+a lot of the focus in this area has been on fair algorithms or whatever that means, but that's
+
+31:14.400 --> 31:17.920
+sort of this little tiny box in the middle. And then there's all this stuff that happens before
+
+31:17.920 --> 31:22.080
+and all this stuff that happens after it. And if we just make those better, the world doesn't
+
+31:22.080 --> 31:30.880
+change. For example, if you sort of have, again, let's say a system to recommend who should be
+
+31:30.880 --> 31:38.000
+provided, prioritize for COVID testing or vaccines someday in the future. Well, you can have a fair
+
+31:38.000 --> 31:42.720
+system, but then the outreach to do those vaccinations or testing is happening in English,
+
+31:43.360 --> 31:50.080
+then it doesn't matter how fair your algorithm is, the system isn't fair. And in measuring
+
+31:50.080 --> 31:54.480
+outcomes, there is really helpful, right, to kind of audit those things. The second thing is, I think
+
+31:54.480 --> 32:00.800
+today, again, you can have perfect data, but there's still, you know, these systems optimize what
+
+32:00.800 --> 32:05.840
+the people building the systems tell them to optimize for. It's not as this sort of magical
+
+32:05.840 --> 32:12.720
+truth that they build. And we don't really teach those system developers to think about what to
+
+32:12.720 --> 32:17.360
+optimize for. You know, it's like, oh, it's the best system is the one that best replicates the past.
+
+32:17.360 --> 32:23.040
+Well, that's a horrible way of building these systems. And that's what accuracy often translates
+
+32:23.040 --> 32:28.400
+to, which is efficiency. It's the more correct you are, the more efficient you are. But that's not
+
+32:28.400 --> 32:33.440
+the framing we talk about in the policy world. There are trade offs and equity and effectiveness
+
+32:33.440 --> 32:37.760
+and efficiency. So I think part of it is both training the people developing these systems
+
+32:37.760 --> 32:43.760
+into these notions of there is no objective accuracy. It's not a trade off. It's your performance
+
+32:43.760 --> 32:48.880
+measure has to include all of those things as opposed to just efficiency. I think the other thing
+
+32:48.880 --> 32:54.800
+is that the point is, a lot of times, these systems are making, are forcing us to make some of these,
+
+32:55.840 --> 33:02.160
+as Tina was saying, these human societal policy values explicit. You know, before, you know,
+
+33:02.160 --> 33:06.480
+they were all implied in these systems, decisions were made inside people's heads or in political
+
+33:06.480 --> 33:12.480
+speeches or, you know, and now if you have to build a system, I have to put these values as numbers
+
+33:12.480 --> 33:17.840
+into an algorithm. And that's uncomfortable and painful. And again, we're not trained to have those
+
+33:17.840 --> 33:22.640
+discussions, especially not with the people who are being affected by these types of systems.
+
+33:22.640 --> 33:27.200
+Right. So it's not just, I'd say human centered is useful, but also culturally centered of the
+
+33:27.200 --> 33:34.320
+culture that you're trying to build it for. And yeah, so I think, I think, thinking through all
+
+33:34.320 --> 33:39.040
+these things, but I think in terms of moving forward, right, I think we have to expand the
+
+33:39.040 --> 33:44.960
+existing regulatory environment in order to deal with these types of things. It's not. And rather
+
+33:44.960 --> 33:50.000
+than having being kind of AI focused, they need to be kind of the focused on the area they're
+
+33:50.000 --> 33:56.800
+regulating. So it's FTCM again, FDA and CFPB, and you know, all of those that have to kind of,
+
+33:56.800 --> 34:01.680
+that are other than an AI regulatory body. I think we have to kind of create trainings for them in
+
+34:01.680 --> 34:06.640
+tools and processes. And other thing is, I think we don't today have, so that's one, the second is
+
+34:06.640 --> 34:10.640
+we need the same type of things for policymakers. Like right now, we don't have any tools and
+
+34:10.640 --> 34:16.080
+trainings and guidelines for them to take all the these systems being produced, because for them,
+
+34:16.080 --> 34:20.960
+the answer is either this is all magic and we're just going to use it, because it solves a problem.
+
+34:20.960 --> 34:26.160
+Or shit, this is scary. I read this paper that says they're all biased. So I shouldn't use any
+
+34:26.160 --> 34:31.520
+of this because again, humans are so wonderful in what they do today. And they also don't have
+
+34:31.520 --> 34:36.720
+any way of sort of procuring these types of systems that are, you know, so we have to kind of have
+
+34:36.720 --> 34:41.360
+procurement, procurement policies, trainings, policy, and then trainings for the people who are
+
+34:41.360 --> 34:46.160
+building these systems to be able to have these conversations, have these discussions and
+
+34:47.360 --> 34:50.480
+build these things that actually get to what we care about.
+
+34:53.200 --> 34:59.520
+Thanks a lot, right. Gabby, what's your take? So I will,
+
+34:59.520 --> 35:06.160
+yeah, redirect us away from the practical and applied back to the theoretical philosopher.
+
+35:07.600 --> 35:11.360
+So I just completely second everything that Raeed and Tina said, I think
+
+35:12.480 --> 35:19.360
+regulation and education are the way to go as far as applied safeguards. But another thing that
+
+35:19.360 --> 35:27.280
+I think we need to do is to redirect theoretical attention toward what sorts of aims we should
+
+35:27.280 --> 35:33.360
+be having. And one of the things that I focus on in my own work to just drill down for a second
+
+35:33.360 --> 35:41.600
+is getting away from this idea of objectivity as an ideal. So not only is objectivity something
+
+35:41.600 --> 35:48.800
+that we are incapable of achieving in a robust sense, but it's something that I think we shouldn't
+
+35:48.800 --> 35:53.440
+even be aiming for. And so here, maybe I'll say some things that are controversial from a certain
+
+35:53.440 --> 35:58.800
+sort of perspective, but I just want to be clear about what I'm saying. When I'm using the term bias,
+
+35:58.800 --> 36:05.200
+I don't mean it in any normatively laid in sense. So I want to be normatively agnostic about whether
+
+36:05.200 --> 36:09.680
+or not a bias is problematic either because it doesn't get us onto truth or it doesn't get us
+
+36:09.680 --> 36:14.000
+on the justification, or because we think it's doing something morally problematic. So for me,
+
+36:14.000 --> 36:21.600
+biases can be ethically good or bad, epistemologically good or bad. And so one of the things that we
+
+36:21.600 --> 36:26.800
+recognize from coming at both human decision making and algorithmic decision making from a
+
+36:26.800 --> 36:31.520
+naturalized perspective that is looking at how human beings actually make decisions is that we
+
+36:31.520 --> 36:35.760
+need bias. And this is something that any computer scientist is going to say and then immediately
+
+36:35.760 --> 36:40.720
+be confronted with like skeptical eyes. But it's something that we know just about how humans
+
+36:40.720 --> 36:45.200
+operate in the world. So as philosophers of science, we often focus on what's called the problem of
+
+36:45.200 --> 36:50.480
+underdetermination. That is any data set that you're given will vastly under determine the
+
+36:50.480 --> 36:55.600
+possible hypotheses that you could come up with in light of that data. And I think if you're someone
+
+36:55.600 --> 37:01.360
+who favors objectivity or impartiality overall, you'll notice that there's a problem here. If we
+
+37:01.360 --> 37:06.640
+treated all of those many infinitely indefinitely many hypotheses equally, we would just be crippled
+
+37:06.640 --> 37:11.200
+within decision. And so we wouldn't be able to make any decisions whatsoever. And so this is just
+
+37:11.200 --> 37:17.520
+the proof of concept that objectivity in a strict sense is impossible. And so from one perspective,
+
+37:17.520 --> 37:22.960
+if all implies can, we shouldn't even be aiming for it in that respect. But I think a more important
+
+37:22.960 --> 37:28.000
+one, and again, this comes out of like a naturalized viewpoint that is how humans and algorithmic
+
+37:28.000 --> 37:34.720
+decision making occurs, is that bias actually helps us. We know more not less when we have bias.
+
+37:35.680 --> 37:40.480
+And so one of the things that I think is coming out of these more practical discussions about,
+
+37:40.480 --> 37:47.120
+for example, so-called colorblind approaches or conceptions of fairness that involve not having
+
+37:47.120 --> 37:52.560
+a marker for socially marginalized demographics and the actual features that you encode in your
+
+37:52.560 --> 37:57.920
+algorithm. What all of those discussions are proving time and time again is that we're not able to
+
+37:57.920 --> 38:04.160
+erase the markers of systemic injustice by stripping away features of our data. Those patterns are
+
+38:04.160 --> 38:11.520
+so deeply ingrained in our environment that any program that we have that's intended to replicate
+
+38:11.520 --> 38:16.160
+or find consistencies in that data will necessarily imbibe those same biases. It's just like the human
+
+38:16.160 --> 38:21.600
+visual perceptual system encodes various biases like light comes from above. It's just how we,
+
+38:21.600 --> 38:29.920
+as finite knowers, come to decisions on the basis of data. So I think that this redirection away from
+
+38:30.720 --> 38:36.560
+impartiality in this robust sense will help us a lot. It's almost like if we thought of our
+
+38:36.560 --> 38:41.760
+algorithms as coming in at the beginning of the game, then a level playing field would make sense.
+
+38:41.760 --> 38:47.520
+But instead, we're coming in midway through a race for which some members of marginalized
+
+38:47.520 --> 38:52.160
+demographics have been working uphill throughout most of the race. And then we're saying, okay,
+
+38:52.160 --> 38:56.800
+from here on out, we're going to expect plateaus. And so we expect the level playing field.
+
+38:56.800 --> 39:01.280
+It's like midway through the race is not the time to adopt impartiality. And so taking into
+
+39:01.280 --> 39:06.000
+consideration the sorts of differences that have occurred up to this point will only help us better
+
+39:06.000 --> 39:12.400
+create what I think of as a move away from equality in general to do equity. That is what sorts of
+
+39:12.400 --> 39:18.800
+features or implementations do we have to adopt in order to give us a more playing field holistically.
+
+39:21.440 --> 39:26.000
+Thanks Gabby. That really resonated with some of the stuff Ray was saying because
+
+39:26.640 --> 39:30.320
+computer scientists will of course tell us that not only do we need bias if we want to learn,
+
+39:30.320 --> 39:35.680
+we need variance too. And that speaks to Ray's point about how if you eliminate too much variance,
+
+39:36.240 --> 39:39.920
+you're not going to be able to learn or do anything either or make decisions. So you need both bias
+
+39:39.920 --> 39:47.200
+and variation. And those are definitely challenges given the current regime of a technology. That
+
+39:47.200 --> 39:54.000
+brings us finally back to Tracy. The batting cleanup here on this topic Tracy. Yeah, batting cleanup.
+
+39:54.000 --> 40:01.600
+So I actually wrote down a few notes of things I wanted to say after listening to Tina and Ray
+
+40:01.600 --> 40:07.680
+Eid. And then Gabby went in kind of a different direction. And so when you're batting cleanup,
+
+40:07.680 --> 40:13.920
+it's like, okay, how am I going to do this? So I think the way I'm going to do it is by making
+
+40:13.920 --> 40:21.280
+four points, which are not necessarily like building on one another. So you should be thinking of
+
+40:21.280 --> 40:30.240
+them as responding to different parts of the conversation that we heard so far. And you know,
+
+40:30.240 --> 40:36.640
+hopefully the connections will be self-evident and it will be productive. So point number one,
+
+40:37.680 --> 40:46.240
+I just want to note that when Tina was talking about Google and her students, she said something
+
+40:46.240 --> 40:53.920
+about paying Google for your data. Think about that. Just that phrase. Or pay somebody for your
+
+40:53.920 --> 41:00.400
+data. The point was is that you had to go to somebody else for your stuff. So to a lawyer,
+
+41:00.400 --> 41:06.880
+that might sound strange that you would go to someone else for your stuff and actually even have to
+
+41:07.440 --> 41:13.840
+pay them for your stuff. Because when you think about what property law is, by definition, it's
+
+41:13.840 --> 41:20.400
+yours and you are entitled to it. And why would you pay somebody for something that was already yours
+
+41:20.400 --> 41:27.120
+unless you had relinquished it in some other kind of transaction that just calls to mind
+
+41:28.080 --> 41:32.560
+a relatively recent Supreme Court opinion, which some of you might be used to,
+
+41:32.560 --> 41:40.640
+Carpenter. I might be aware of Carpenter in which Justice Gorsuch tries to solve some of the problems
+
+41:40.640 --> 41:46.960
+around cell site location data. If you've read this opinion, you know that the justices were
+
+41:46.960 --> 41:54.240
+all over the place in it. But one of the things that Justice Gorsuch tried to do was to
+
+41:55.680 --> 42:01.920
+try to rely on these older concepts of property to solve these problems. I mentioned this because
+
+42:01.920 --> 42:08.000
+I do want to say something about regulation in a second. So just that point for a little bit
+
+42:08.000 --> 42:14.160
+of level setting. So then that does bring up the question if we think there are all these problems
+
+42:14.160 --> 42:20.320
+that might be solved by regulation, what should regulation look like? Typically, when we're thinking
+
+42:20.320 --> 42:30.160
+about regulation, for most people, ordinary folks, intuitively, regulation is about coming up with a
+
+42:30.160 --> 42:35.760
+set of rules that you want other people to obey, which means that you have to have a theory about
+
+42:35.760 --> 42:42.960
+compliance and the one that's typically available to most people is an idea that people will comply
+
+42:42.960 --> 42:47.760
+with rules or the law because they fear the consequences of failing to do so. So then,
+
+42:47.760 --> 42:55.200
+you know, your regulatory regime would be organized around punishment and would be
+
+42:55.200 --> 43:01.200
+organized around identifying wrongdoers, going back to something Tina said, trying to figure out
+
+43:01.200 --> 43:09.920
+blame worthiness in some sense, borrowing on concepts from criminal law. But I think,
+
+43:10.880 --> 43:16.640
+or at least I hope that the conversation so far has revealed all the ways in which thinking about
+
+43:16.640 --> 43:23.600
+that kind of regulatory structure doesn't work very well for this space. That doesn't mean that it
+
+43:23.600 --> 43:32.240
+doesn't do something or even some things to address problems, problems that might just be about
+
+43:32.240 --> 43:38.240
+identification of what's fair and unfair. But in the normal regulatory context, we're trying to
+
+43:38.240 --> 43:45.920
+think about changing behavior wholesale in some way that is good, right? And, you know, usually
+
+43:45.920 --> 43:54.000
+criminal law approaches and punishment regimes don't really help us get there. So, you know, you
+
+43:54.000 --> 44:00.720
+might be thinking again about the alphabet soup of administrative type interventions,
+
+44:00.720 --> 44:06.880
+which often have to do with getting entities to document a bunch of stuff. Like you can imagine,
+
+44:06.880 --> 44:14.160
+for example, I think Andrew Selps, who's a law professor at UCLA, has made arguments about
+
+44:14.160 --> 44:20.000
+requiring these companies to do a version of an environmental impact statement, you know,
+
+44:20.000 --> 44:25.280
+just sort of becoming much more self-aware about the ways in which their products,
+
+44:25.280 --> 44:32.720
+algorithms, and so on have particularly bad consequences for certain groups, right?
+
+44:34.320 --> 44:40.320
+But that brings up the question then when we're talking about regulation about what authorities
+
+44:40.320 --> 44:47.760
+are we even talking about in this context, right? So again, when we talk about regulation, at least
+
+44:47.760 --> 44:54.320
+in this country, we typically think about what the state is doing vis-a-vis some other actor,
+
+44:54.320 --> 45:02.880
+whether it's an individual actor or an entity. You can also imagine regulation being, that concept
+
+45:02.880 --> 45:12.880
+being a little bit more capacious, like imagining if the, from a governmental perspective, it would
+
+45:12.880 --> 45:19.680
+look like self-regulation, which a lot of people don't like, but it might be, depending on the
+
+45:19.680 --> 45:26.800
+regulatory regime we adopt, something like requiring these entities to have certain kinds of rules
+
+45:26.800 --> 45:34.400
+for themselves that could then be audited in certain ways, but outside of a punishment regime.
+
+45:34.400 --> 45:42.080
+So a kind of a combination of rules towards moral serration because it won't necessarily
+
+45:42.080 --> 45:49.360
+result in punishment. Hopefully that wasn't too confusing and I can say more as we talk about it.
+
+45:49.360 --> 45:54.640
+But again, I'm motivated by the work that we've done in this social media context. So,
+
+45:54.640 --> 46:03.440
+what have we done there? We have acknowledged the fact that in a lot of ways, that space is
+
+46:03.440 --> 46:10.960
+unregulated in the typical sense, right? That they're not subject to the usual kinds of administrative
+
+46:10.960 --> 46:17.680
+rules by the alphabet soup of administrative agencies. For good or ill, people have lots of
+
+46:17.680 --> 46:24.480
+views about whether the FCC should be doing more so on. But take that as a given. You can
+
+46:24.480 --> 46:32.320
+actually think about having these entities impose their own regulatory regimes in ways that are
+
+46:32.320 --> 46:39.680
+transparent to users, consumers, whatever you want to call the people who are interacting
+
+46:39.680 --> 46:45.120
+in that context. And you can also look to see what features you would want that regulation to have.
+
+46:45.120 --> 46:49.840
+And so here's where I'm going to say a little bit more about, you know, my favorite regulatory
+
+46:49.840 --> 46:58.160
+approach that depends on the social psychology of procedural justice. But the goal of that work is
+
+46:58.160 --> 47:09.920
+to encourage people in a space to voluntarily comply with the rules that they set out, right?
+
+47:10.640 --> 47:18.240
+Now, this view, this approach actually works in the real world too. In fact, it was developed
+
+47:18.240 --> 47:22.800
+for the real world. It's a recognition of the fact that despite the fact that most people
+
+47:24.560 --> 47:31.920
+seem to when they think about changing behavior, move immediately to crime-based deterrence
+
+47:31.920 --> 47:37.200
+punishment regimes. The reality is most people do not obey the law in rules because they fear the
+
+47:37.200 --> 47:43.520
+consequences of failing to do so. Most people obey the law at our rules because they agree with them,
+
+47:43.520 --> 47:49.920
+period. But the regulatory problem is what you do in a context in which someone doesn't agree
+
+47:49.920 --> 47:54.480
+with the rule or they think it's silly or inefficient or something. That's where the social
+
+47:54.480 --> 48:00.640
+psychology of procedural justice comes in. And we know that people are more likely to conclude
+
+48:00.640 --> 48:08.240
+that authorities slash rules are fair when four conditions obtain. First, when people have an
+
+48:08.240 --> 48:15.280
+opportunity and a particular interaction to tell their side of the story or if we're talking about
+
+48:15.280 --> 48:24.800
+articulation of rules, participate in the creation of those rules. And that's true even if that input
+
+48:24.800 --> 48:34.480
+doesn't have any particular impact on an outcome that's subject to those rules. And there are limits
+
+48:34.480 --> 48:42.080
+to that. But it's about having voice. That's what we call it. Second, people care a lot about being
+
+48:42.080 --> 48:47.280
+treated with dignity and respect and being listened to. So the conversations that we were talking
+
+48:47.280 --> 48:52.320
+about before, about transparency and the like have to do I think with these dignity concerns.
+
+48:52.320 --> 48:59.360
+Third, people care a lot about being able to ascertain whether decisions are fair. This gets
+
+48:59.360 --> 49:05.760
+to Gabby's point. I think about objectivity. I think what's interesting though about that is,
+
+49:05.760 --> 49:10.880
+of course, people never know what is in fact objective. They're just looking for a dishebed
+
+49:10.880 --> 49:17.760
+of objectivity. So they look for things they think are neutral. They look for factuality.
+
+49:17.760 --> 49:23.440
+They look for explanations. That's where the explanation piece comes in. When you are explained,
+
+49:23.440 --> 49:29.360
+when an outcome is explained to you, you are more likely to think that it is neutral and without bias,
+
+49:29.360 --> 49:36.400
+even if that's not true. And then fourth, people care a lot about being able to trust the motives
+
+49:36.400 --> 49:42.880
+of a decision maker. So this is obviously a huge problem for machines. How are you going to assess
+
+49:42.880 --> 49:51.440
+the motives of the machine or artificial intelligence? You're going to go immediately to the programmer,
+
+49:51.440 --> 49:59.200
+to the owner of the machine, to the sponsor of the project. That depends on these things,
+
+49:59.200 --> 50:06.080
+to ascertain those things. We know finally, when all of those things happen and people are able to
+
+50:08.560 --> 50:16.400
+to key in on those factors, we know that that folks are more likely to conclude that whatever
+
+50:16.400 --> 50:24.000
+experience they've had or the law or the rule is they're more likely to follow that rule. They're
+
+50:24.000 --> 50:29.120
+more likely to engage with the promulgator of the rule and they're more likely to cooperate
+
+50:29.120 --> 50:36.000
+with the promulgator of that rule. So all this to say, if there's the possibility, if we're
+
+50:36.000 --> 50:44.560
+talking about possible solutions, infusing these ideas into how we go about a regulatory structure,
+
+50:44.560 --> 50:51.680
+I think is really incredibly important. So if I may follow up on something that Tracy said,
+
+50:52.240 --> 50:59.520
+so right now, Google is providing a service and you are paying them with your data,
+
+51:00.080 --> 51:05.040
+right? Hence, they're in the advertising business. They're in the attention economy, right? Zane
+
+51:05.040 --> 51:10.800
+up to Fekki, who is a professor at UNC Chapel Hill, says it's like you're never hardcore enough for
+
+51:10.800 --> 51:17.360
+YouTube. They want you on their site, right? And so part of a solution is to think about can we
+
+51:17.360 --> 51:23.760
+change the business model of these companies? One is, okay, well, let's think of Google as
+
+51:23.760 --> 51:29.360
+electricity, right? You pay for electricity, you pay them, they don't sell your data, right?
+
+51:29.360 --> 51:34.240
+Because they need the infrastructure and all that to be for you to search the internet, right?
+
+51:34.240 --> 51:37.280
+The web, the worldwide web. Now, there are actually three
+
+51:37.280 --> 51:44.160
+approaches that people are talking about. One is the service model, right? Like electricity,
+
+51:44.160 --> 51:49.600
+like cable, etc, that you pay them monthly. The other one is what Paul Roemer has been talking
+
+51:49.600 --> 51:57.440
+about. Paul Roemer is a noted economist at NYU. He was one of the winners of the Nobel Prize in
+
+51:57.440 --> 52:04.080
+2018, where he says, we will tax them. We will tax Google, right? If they make over some certain
+
+52:04.080 --> 52:12.800
+number, we will tax them of profits. And then we will use that then for good for our society.
+
+52:12.800 --> 52:22.400
+And then there's Jaren Lanier and Glenn Weil. Jaren Lanier is one of the father's virtual reality
+
+52:22.400 --> 52:27.680
+and Glenn Weil is an economist where the, no, no, no, we'll keep the model as is, but Google will pay
+
+52:27.680 --> 52:34.480
+you for however much money they make off of your data, right? Now, of course, you can have that
+
+52:34.480 --> 52:39.440
+game, right? Any of these systems can be game the same way, like, for example, with a cable, right?
+
+52:39.440 --> 52:46.400
+You could game the cable payments. But as part of it possible solution, and I saw in one of the Q
+
+52:46.400 --> 52:52.400
+and A's, there was this thing about how people get hooked on the technology, is to think about,
+
+52:52.400 --> 52:56.960
+well, how, what is a better business model as well, right? So not just regulation, but what is a
+
+52:56.960 --> 53:02.160
+better business model. And they go hand in hand. So I just wanted to clarify that it's not so much
+
+53:02.160 --> 53:08.880
+that you're paying Google to get your data. It's just that Google will agree to not sell your data
+
+53:10.320 --> 53:18.160
+and for you paying them as a service. And in fact, there are certain other companies like Hulu,
+
+53:18.160 --> 53:22.480
+for example, right? You pay them, you see less ads, right? That doesn't mean that they're not
+
+53:22.480 --> 53:27.440
+selling your data, by the way. Everybody's selling your data. So rest assured, at this point,
+
+53:27.440 --> 53:33.360
+everybody's selling your data. And you are just the data cloud as you walk by, right?
+
+53:34.080 --> 53:39.040
+But Tina, I mean, yes, everybody's selling your data, but certain industries
+
+53:40.080 --> 53:44.960
+have been better regulated, right? So the oldest industry selling data is all the consumer behavior
+
+53:44.960 --> 53:52.640
+credit card. That industry is extremely regulated. They can only sell your data to market to you for
+
+53:52.640 --> 53:56.560
+nothing else. I mean, it's the most, one of the worst things you can do with it. But still,
+
+53:56.560 --> 54:00.160
+there are these rules that, oh, you want to do product development? Oh, we can't sell you the
+
+54:00.160 --> 54:06.960
+data for that. And I think the data ownership world for the AI world is still so, well, it's not
+
+54:06.960 --> 54:11.760
+new, but it's just hasn't been, it's like FPC not knowing how to regulate things on the internet,
+
+54:11.760 --> 54:19.600
+when they know how to regulate things on the print and TV. So if Google and Uber self-driving cars
+
+54:19.600 --> 54:27.120
+are training on pedestrians and taxpayer paid stop signs, and whose data are they training on?
+
+54:27.120 --> 54:31.680
+So is the algorithm that they've built part owned by the people whose data they were using?
+
+54:32.400 --> 54:38.480
+I think that's where I would put the legal profession right now on what about data ownership?
+
+54:38.480 --> 54:42.320
+The laws, I think we need to catch up. So everybody's selling data, but I think
+
+54:42.960 --> 54:48.080
+there are variations of that data, and there are better and worse models of consent. And every time
+
+54:48.080 --> 54:54.640
+we eat, our data gets used, do we get notified? Are there presets that we can choose as opposed to,
+
+54:55.840 --> 54:59.360
+and I think we just haven't caught up with that? Yeah, so I would completely agree with that.
+
+54:59.360 --> 55:06.240
+And for example, in healthcare, right, there are a lot of rules and regulations in terms of,
+
+55:06.240 --> 55:14.320
+you know, you getting access to let's say Tino's medical data. So yeah, it is, it is, you know,
+
+55:14.320 --> 55:21.440
+wild, wild, last in terms of the data that you are trailing, or is trailing behind you on all the
+
+55:21.440 --> 55:28.720
+apps that you use that you believe is good utility, right? So I am somebody that has like about 500
+
+55:28.720 --> 55:34.960
+apps on my iPhone just to confuse them all. If I could, if I could just, this is great, if I could
+
+55:34.960 --> 55:41.520
+just jump in and just, I'm seeing some connections here. So I think Tracy's remarks and also, Tino's,
+
+55:41.520 --> 55:45.360
+there's, there's something that they have in common. If you change the incentive structure
+
+55:45.360 --> 55:51.520
+in such a way that the users feel like they have more say in how everything works and is regulated,
+
+55:52.400 --> 55:57.040
+and since they have more power in the process, then that plays into that social science,
+
+55:57.040 --> 56:00.800
+social science, hit fake what we know about people in their group deliberations. Does that,
+
+56:00.800 --> 56:09.600
+does that make sense, Tracy? Yes, sorry, I had my phone muted because somebody was calling and
+
+56:09.600 --> 56:14.800
+I figured you didn't want to hear my phone ring. Oh, this is great. Gabby, you want to time in?
+
+56:15.520 --> 56:21.520
+If you'd like to. Yeah, the two things I was going to add is just in so far as we're attempting to
+
+56:21.520 --> 56:27.360
+theorize about various regulatory bodies that might transfer, not transfer well over to the
+
+56:27.360 --> 56:32.960
+algorithmic or machine learning domain technology industry more generally. One of the issues that
+
+56:32.960 --> 56:37.680
+came up in the discussions is just that the algorithms are proprietary. So one issue is the data on
+
+56:37.680 --> 56:42.880
+which they're operating, but again, the actual algorithmic design is proprietary as well. And in
+
+56:42.880 --> 56:50.240
+so far as we have regulatory bodies for proprietary recipes as it were, like the FDA is already
+
+56:50.240 --> 56:55.040
+available. And so that we could have some, I think the main thing is just that we have something
+
+56:55.040 --> 57:00.880
+external to the industry itself. And likewise, in scientific practice, we have institutional
+
+57:00.880 --> 57:05.280
+review boards and it's a key function of those that they have individuals on the institutional
+
+57:05.280 --> 57:10.000
+review boards who are divorced from the actual scientific practice itself. So that you just
+
+57:10.000 --> 57:14.640
+have an external eye looking in on how things are operating. And so all of this just speaks back
+
+57:14.640 --> 57:21.280
+to the importance of having a participatory voice in what's happening that the individuals who are
+
+57:21.280 --> 57:27.040
+the subjects or victims of the order of the technology industry that they could have
+
+57:27.040 --> 57:30.720
+a saying how things are being regulated. And so then this just shifts us back to the importance
+
+57:30.720 --> 57:35.920
+of not just regulation, but also education. It's important that people understand exactly how
+
+57:35.920 --> 57:40.240
+the algorithms are operating, what their data is being used for, what it could be used for,
+
+57:40.240 --> 57:44.720
+how they're playing a role in everything in order for them to have an informed voice about how things
+
+57:44.720 --> 57:51.040
+get regulated. Yeah, I think. Oh, sorry. Let me just ask a quick question. Didn't the EU pass
+
+57:51.040 --> 57:58.960
+certain regulations about the use of data? And that every time you go on a site, they ask you what
+
+57:58.960 --> 58:04.000
+data, what you want, what you don't want, which is, of course, an annoyance because you just want
+
+58:04.000 --> 58:13.280
+to get the information and move on. But is that a model that is going to be useful or is a useless
+
+58:13.280 --> 58:19.200
+model? Well, I guess from my perspective, not without education, because as you said, you go and
+
+58:19.200 --> 58:24.880
+you say, okay, okay, follow me through, right? And it's horrible. I mean, if you look at the
+
+58:24.880 --> 58:29.520
+cookies, I mean, there are software that you can see how many people are tracking you online.
+
+58:29.520 --> 58:33.760
+And you're like, okay, perhaps I don't want to see how many people are tracking me online.
+
+58:33.760 --> 58:38.480
+So, and then actually that dovetail suit, a comment that was going to say is that even if you decide,
+
+58:38.480 --> 58:43.920
+you know what, I'm not going to be online. Try to live in America right now with our credit card.
+
+58:43.920 --> 58:49.360
+Or as soon as you go to the ATM and get cash, they know where you are, right? So, you,
+
+58:49.360 --> 58:54.320
+maybe they don't know as much about you, but they know what where you are. So, there's some of that
+
+58:54.320 --> 59:00.080
+going on. On the flip side, I guess on a positive note here is that, for example, if there are images
+
+59:00.080 --> 59:05.760
+of you up on the web, but nobody has ever tagged you, then they don't know that it's you, right?
+
+59:05.760 --> 59:13.120
+It's not that it's basically like we're just giving them this data, right? And so, they take it and
+
+59:13.120 --> 59:17.760
+they, you know, they use it to make a lot of money. And in fact, as part of that, I think it was
+
+59:17.760 --> 59:22.800
+tracing that brought up explanation. So, supposedly on Facebook, actually, I know this for a fact,
+
+59:22.800 --> 59:27.200
+on Facebook, when you get something, you can say, why are you showing this to me? Why are you showing
+
+59:27.200 --> 59:32.480
+this ad to me? Or on Google and many other platforms? If you look at those explanations,
+
+59:32.480 --> 59:40.000
+the explanations are too general, right? Oh, I'm showing this because you were a woman between 20
+
+59:40.000 --> 59:46.960
+and 50 whose primary residence is in the US, you know? And I think that there's actually two
+
+59:46.960 --> 59:51.760
+aspects of it. One is explanation is hard and two, they don't want to let you know how much they
+
+59:51.760 --> 59:56.480
+know about you because that's going to creep you out, right? So, actually, this is one of the
+
+59:56.480 --> 01:00:01.120
+experiments, it's one of the assignments I give to my students. I'm like, okay, go and see the kind
+
+01:00:01.120 --> 01:00:05.440
+of ads you're getting and look at the explanations they're giving you and tell me, do you think that
+
+01:00:05.440 --> 01:00:10.160
+those explanations are good enough? And it's always too general, right? It's not specific enough in
+
+01:00:10.160 --> 01:00:17.600
+terms of why. And just one last thing about Google is even if you go to the Google private
+
+01:00:17.600 --> 01:00:22.960
+incognito, like you clear everything, you restart your machine, you are in the
+
+01:00:24.640 --> 01:00:33.920
+Chrome or Safari or Mozilla's Firefox's incognito or private mode, they're still tracking you. They
+
+01:00:33.920 --> 01:00:41.440
+know your location. Just search and then you're going to get ads for the beast around the corner.
+
+01:00:42.080 --> 01:00:48.480
+So, a lot of this has to do with us educating the public and by public, I mean everybody, right?
+
+01:00:49.920 --> 01:00:54.240
+And this is why for me, it's a freshman course, like these kids come in and they're like, whoa.
+
+01:00:55.920 --> 01:01:01.440
+So, I might just real quick add yet to some of these connections. So, I really like Tracy's
+
+01:01:01.440 --> 01:01:09.360
+comment about how a critical aspect of autonomy and self governance is consent. And as Tina just
+
+01:01:09.360 --> 01:01:14.320
+pointed out, we should be thinking about certain algorithmic decision making, our machine learning
+
+01:01:14.320 --> 01:01:18.960
+products more generally as things like utilities. And so then when we're confronted with these
+
+01:01:18.960 --> 01:01:24.320
+sorts of solutions where what we get is just bombarded with terms and conditions that everyone
+
+01:01:24.320 --> 01:01:29.520
+scrolls to the bottom of and clicks except that's supposed to be a token of consent. But of course,
+
+01:01:29.520 --> 01:01:33.760
+if you think about it on the model of utilities, that is we couldn't possibly opt out, we couldn't
+
+01:01:33.760 --> 01:01:38.640
+possibly read through all the terms and conditions. Then from a conceptualized standpoint where
+
+01:01:38.640 --> 01:01:43.440
+consent, you know, you can't give consent under duress or coercion, it seems like one of the
+
+01:01:43.440 --> 01:01:47.680
+elements that we're missing is not just that you need to be educated, but the point of contact
+
+01:01:47.680 --> 01:01:52.320
+where individuals consent, the use of these algorithms, be more informed and robust as well.
+
+01:01:52.320 --> 01:02:01.920
+Amen to that. I had heard, so just speaking back to the FDA analogy, a couple people mentioned that,
+
+01:02:01.920 --> 01:02:06.160
+I had heard maybe Tina, you were telling me about this, that there's some people are
+
+01:02:06.160 --> 01:02:12.720
+proposing that like drugs, you should treat algorithms like drugs and have some similar kinds
+
+01:02:12.720 --> 01:02:15.920
+of regular software regimes. Do you want to maybe say something about how would that work?
+
+01:02:15.920 --> 01:02:25.280
+Yeah, so when you go get a prescription drug, you get this long pamphlet that nobody reads,
+
+01:02:25.280 --> 01:02:35.200
+and then you get this very short label on the bottle itself. And it will be good if we could
+
+01:02:35.200 --> 01:02:42.240
+do that for algorithms. And in terms of the long pamphlet, there have been recent movements on that,
+
+01:02:42.240 --> 01:02:48.080
+so there was a group by Margaret Mitchell and another one by Tim Nitt,
+
+01:02:49.040 --> 01:02:54.400
+Gibru from Microsoft and Google and lots of other universities where they came up with model
+
+01:02:54.400 --> 01:03:01.680
+cards for models where for a particular model, like machine learning algorithm for the audience,
+
+01:03:02.400 --> 01:03:08.400
+you would say, you know, who created it, what was its uses, how was it trained, how was it
+
+01:03:08.400 --> 01:03:14.320
+evaluated, does it do well on the entire population, what are some of the ethical issues? So it's like
+
+01:03:14.320 --> 01:03:19.280
+a long-form birth certificate for the machine learning algorithms. And then the other one was
+
+01:03:20.560 --> 01:03:26.480
+data sheets for data sets, where, you know, again, it's like a long-form birth certificate for the
+
+01:03:26.480 --> 01:03:31.920
+data set, how was it collected, who collected it, how was it being maintained, how was it cleaned,
+
+01:03:31.920 --> 01:03:37.200
+right, lots of other kinds of stuff. Now, if you look at those papers and you look at these long-form
+
+01:03:37.200 --> 01:03:43.120
+birth certificates or these pamphlets, they're a little bit too inside baseball. The same way for
+
+01:03:43.120 --> 01:03:49.120
+me, I'm not going to read the big pamphlet for the prescription drug that I'm getting. So we also
+
+01:03:49.120 --> 01:03:55.120
+need to have some kind of a label that the general public will understand that perhaps I don't want
+
+01:03:55.120 --> 01:04:00.800
+to use this algorithm because they will have some adverse effects for me because then I will be
+
+01:04:00.800 --> 01:04:05.200
+trailing data and somebody is going to use it and say, well, Tina is not a good person to hire for
+
+01:04:05.200 --> 01:04:11.120
+this job, right, because of some data that they saw elsewhere that I did. So these kinds of labels
+
+01:04:11.120 --> 01:04:17.440
+are extremely important. And I think the analogy to prescription drugs for algorithms is just spot
+
+01:04:17.440 --> 01:04:23.120
+on here. I mean, I think I would want to go further, right, and I'm not disagreeing with
+
+01:04:25.520 --> 01:04:32.800
+starting with, because FDA still has pretty macro outputs, right, they'll say this drug is safe
+
+01:04:32.800 --> 01:04:39.120
+and this drug is not safe. Whereas I think that the question we're asking with these algorithms is
+
+01:04:39.120 --> 01:04:46.320
+not that they're overall safe or not safe. It's they're bad for lots of subpopulations.
+
+01:04:47.280 --> 01:04:54.400
+And today, FDA doesn't do a very good job of regulating that piece. It has a laundry list of,
+
+01:04:54.400 --> 01:04:57.680
+well, if you have these things, you should be careful. Well, yeah, but I don't. What about me?
+
+01:04:57.680 --> 01:05:03.920
+You know what things I have. Is this going to be useful for me? FDA doesn't do that. And I think
+
+01:05:03.920 --> 01:05:11.280
+same for me as if I am, you know, if I'm allocating health resources or making criminal justice
+
+01:05:11.280 --> 01:05:19.440
+decisions, I need sort of for my application, does this work, right? So one of the things we've
+
+01:05:19.440 --> 01:05:23.440
+developed over the last couple of years is sort of this thing we call the fairness tree,
+
+01:05:23.440 --> 01:05:28.160
+which sort of asks you, what are you using? What are you trying to do? What do you care about?
+
+01:05:28.160 --> 01:05:33.600
+Again, it's not it's not at all for the sort of the consumer as the public, but consumers,
+
+01:05:33.600 --> 01:05:38.720
+people, policymakers, decision makers are using these tools. It's sort of the input is, you know,
+
+01:05:38.720 --> 01:05:43.600
+what are you trying to do? For example, right, if you're, again, if you're making punitive decisions
+
+01:05:44.400 --> 01:05:49.280
+or interventions, then disparity and false positives is going to be much worse than this
+
+01:05:49.280 --> 01:05:53.920
+disparity and false negatives. If you're trying to help people and give them additional services,
+
+01:05:53.920 --> 01:05:57.760
+the false negative disparities are much worse rates. And those are a sort of concepts you can
+
+01:05:57.760 --> 01:06:03.200
+explain, but it's much easier. So same system used for two different things can have very
+
+01:06:03.200 --> 01:06:08.880
+different outcomes. So part of it is really kind of be much more deliberate about, you know, for
+
+01:06:08.880 --> 01:06:14.560
+this type of problem, here are the issues for these types of problems and having audit tools
+
+01:06:14.560 --> 01:06:21.280
+and all those things. So I agree that I think FDA is the closest we have, but I think we need to
+
+01:06:21.280 --> 01:06:29.920
+push much further in terms of sort of auditing these types of tools and putting out these things.
+
+01:06:29.920 --> 01:06:39.280
+The other thing is, I think, you know, we don't have the this sort of the practitioner set, you know,
+
+01:06:39.280 --> 01:06:42.800
+sort of guidelines for people building these things. We're not a very mature field, right?
+
+01:06:42.800 --> 01:06:49.600
+We only as a field discovered, there's a thing called ethics a few years ago, right? And we should
+
+01:06:49.600 --> 01:06:53.680
+do something about it. You know, all this work on machine learning people trying, you know,
+
+01:06:53.680 --> 01:06:58.640
+discovering the field of ethics. So I think we're just so new that we don't have reproducibility,
+
+01:06:58.640 --> 01:07:03.120
+we don't have sort of documentation guidelines, and we just need all of those things. And if we
+
+01:07:03.120 --> 01:07:07.440
+have those, this conversation would be much easier because we would start from that and say, well,
+
+01:07:07.440 --> 01:07:12.560
+we need to make these tweaks as opposed to, you know, we call ourselves a science and we have no
+
+01:07:12.560 --> 01:07:17.920
+reproducibility guidelines. And actually, we found ethics because we got back publicity.
+
+01:07:18.720 --> 01:07:24.960
+Otherwise, we wouldn't have found ethics. I mean, found me, you know, we can spell it now.
+
+01:07:24.960 --> 01:07:32.560
+Very good. So that's a start. But yeah, I think it's sort of embarrassing at some point, right?
+
+01:07:32.560 --> 01:07:38.560
+No, no, no, no, we're not on like that. Yeah, I mean, if I could jump in because, you know, at Northeastern,
+
+01:07:38.560 --> 01:07:45.200
+our ethics institute is one of the things we're really trying to do is be part of ethics education
+
+01:07:45.200 --> 01:07:50.080
+of technological people, people who work in the field practitioners, also policymakers.
+
+01:07:50.080 --> 01:07:54.160
+And I think that's so, well, just to throw this in, while we're talking about education, I do
+
+01:07:54.160 --> 01:08:00.560
+agree that technological literacy is probably the most important thing of the general population.
+
+01:08:00.560 --> 01:08:05.920
+But ethical is a little bit of thinking about ethics for the people doing the stuff and you
+
+01:08:05.920 --> 01:08:10.240
+said that's also probably a good idea too. I'm just to throw that in there.
+
+01:08:10.960 --> 01:08:16.160
+Brandon, can I throw in one little thing too, when you're talking about the general population?
+
+01:08:16.880 --> 01:08:21.280
+You know, one of the things that we've faced at Yale Law School, which, you know,
+
+01:08:22.320 --> 01:08:29.680
+it's a pretty good school. And we think that we get lots of really able students. We've been focused
+
+01:08:29.680 --> 01:08:37.520
+not just on educating people about technology, but basic numeracy. I mean, you know, the level
+
+01:08:37.520 --> 01:08:45.120
+of numeracy education in this country is really poor. And, you know, I think that precedes even
+
+01:08:45.120 --> 01:08:51.280
+this question about how much you can understand technology, which of course relates to the ethics.
+
+01:08:51.280 --> 01:08:58.240
+I also point out that all of us is, each one of us works in a different kind of school.
+
+01:08:58.240 --> 01:09:04.720
+And there are very little relationship between those schools in terms of conversation where
+
+01:09:04.720 --> 01:09:09.360
+they were talking about schools of information, schools of journalism, schools of communication,
+
+01:09:09.920 --> 01:09:15.440
+you know, the computer science stuff, and then the regulatory people law, not to mention
+
+01:09:16.240 --> 01:09:21.680
+business schools to get to Tina's point about business models. I mean, you really need to create
+
+01:09:21.680 --> 01:09:29.600
+an entirely, entire new field to get this work done, honestly. Yeah, I mean, go ahead.
+
+01:09:30.160 --> 01:09:37.440
+I just want to ask, there seems there is a difference between ethical and legal. So you were talking
+
+01:09:37.440 --> 01:09:48.720
+about FDA. So you FDA approves a drug. And then the company starts putting all sorts of ads one
+
+01:09:48.720 --> 01:09:56.000
+after the other and trying to have as many people on this drug as possible. Legally,
+
+01:09:56.000 --> 01:10:02.000
+they protect themselves by reading you a whole list of their side effects and they, including
+
+01:10:02.000 --> 01:10:10.480
+that you may die from it. But so you can control it legally, but ethically, it's a much harder
+
+01:10:10.480 --> 01:10:18.160
+thing to define and control, isn't it? Yeah, I would agree with that. Absolutely. And so I would
+
+01:10:18.160 --> 01:10:23.120
+say that speaks to the importance of ethical thinking, not just in the technical areas, but also in
+
+01:10:23.120 --> 01:10:27.360
+government and in the regulatory bodies. They should learn more ethics. I don't have anyone in
+
+01:10:27.360 --> 01:10:32.800
+particular mind, but you can imagine who I might be talking about. But like, for example, some of
+
+01:10:32.800 --> 01:10:36.960
+the things that I, again, I just want to come back to education, maybe because now I'm a professor,
+
+01:10:36.960 --> 01:10:41.520
+like it's all about education, you know, I haven't gone to the dark side. But this notion that,
+
+01:10:41.520 --> 01:10:47.120
+like when I go and talk to people, I'm like, for example, we can tell who's your romantic partner
+
+01:10:47.120 --> 01:10:52.880
+on Facebook, because not everybody says who their romantic partner is. And it's a very simple model,
+
+01:10:52.880 --> 01:10:57.520
+right? You're like the center of this flower, there are petals around you, this petal is high
+
+01:10:57.520 --> 01:11:02.400
+school, this petal is college, this petal is your book club, so on and so forth. People who are
+
+01:11:02.400 --> 01:11:07.040
+outside of these petals, who are friends with the people inside these petals, they're either
+
+01:11:07.040 --> 01:11:11.760
+your sibling or your romantic partner, because you're introducing them to different facets of your
+
+01:11:11.760 --> 01:11:17.280
+life. Now, if you stop doing those introductions, it's a leading indicator that you will break up in
+
+01:11:17.280 --> 01:11:22.560
+two months, and we can start pushing you single bar ads and other kinds of things, right? I think
+
+01:11:22.560 --> 01:11:28.160
+most people will find that very intrusive, right? But people don't know, you know, we know a lot
+
+01:11:28.160 --> 01:11:34.720
+about you guys, you know, we can find that really easily, be up to a lot more like bad stuff, which
+
+01:11:34.720 --> 01:11:46.320
+we are not. So, tread softly. Well, okay, so it's about 342. I was thinking maybe between 15 and 20
+
+01:11:46.320 --> 01:11:51.040
+more minutes before we get to Q&A possibly, so maybe, or we don't have to take that line, but maybe
+
+01:11:51.040 --> 01:11:59.440
+we could sort of turn towards the future, since I'm an incorrigible optimist, sorry, maybe each of
+
+01:11:59.440 --> 01:12:04.640
+you could try to throw in something about how you think, what are some ways we might be able to turn
+
+01:12:04.640 --> 01:12:11.200
+this, turn this ship around to so to speak, and actually use it to leverage good moral outcomes,
+
+01:12:11.200 --> 01:12:19.040
+and not be having to play catch up with all the pathology so much. Who wants to take that first?
+
+01:12:20.400 --> 01:12:28.480
+Gabby? Sure, I'll take it first. So, I just want to maybe bring it back to something that Raheet said
+
+01:12:28.480 --> 01:12:35.120
+that I really liked, which is, well, now putting it in my own words, every algorithm is an artifact.
+
+01:12:35.120 --> 01:12:41.200
+It's like a tool that we use, and so we can decide whether we want to use that tool for good or for
+
+01:12:41.200 --> 01:12:47.360
+bad. And so, as Raheet was saying, in a context where we're distributing resources, we might decide
+
+01:12:47.360 --> 01:12:52.560
+that a certain decision procedure that increases false positives isn't as bad as in a case where
+
+01:12:52.560 --> 01:12:58.000
+we're predicting recidivism risk, say. One of the things that's common about these cases, though,
+
+01:12:58.000 --> 01:13:04.320
+and that I think really comes out of the influence and impact of computational procedures more
+
+01:13:04.320 --> 01:13:10.240
+generally, is just a sort of computational prowess that we haven't seen before, and that will allow
+
+01:13:10.240 --> 01:13:17.440
+for a lot of, I think, positive impacts on the world. So, going back to this issue of garbage
+
+01:13:17.440 --> 01:13:23.520
+and garbage out, so I always ask computer scientists, you say that an algorithm is only as good as
+
+01:13:23.520 --> 01:13:27.520
+the data going in, garbage in, garbage out, but at the same time, it's supposed to be more objective
+
+01:13:27.520 --> 01:13:32.000
+than human decision makers, and so how do we reconcile these two claims that seem to be
+
+01:13:32.000 --> 01:13:36.640
+intention? And they usually say something like, well, you know, we'll be able to get rid of the
+
+01:13:36.640 --> 01:13:42.480
+hangry judges, so the judges who decide just before lunch and have harsher judgments, at least
+
+01:13:42.480 --> 01:13:48.960
+computers don't get hungry, and so they won't make more angry decisions. So, there are some
+
+01:13:48.960 --> 01:13:54.800
+personal level biases that I've studied in my own work, and that I think will be ameliorated
+
+01:13:54.800 --> 01:14:00.880
+by the use of objective, more objective machine learning programs, but what that objectivity
+
+01:14:00.880 --> 01:14:07.680
+means isn't necessarily robust strict objectivity. Rather, I think it comes out of just being able
+
+01:14:07.680 --> 01:14:13.520
+to notice and pick up on certain features of our world, that when we march through it in this
+
+01:14:13.520 --> 01:14:18.480
+individualized, over-intellectualized fashion, where we're focusing on human decision-making,
+
+01:14:18.480 --> 01:14:26.720
+we think that we're better than we are. And so, when we redirect focus, so here's how I think about
+
+01:14:27.680 --> 01:14:32.960
+the advantage that machine learning programs have on humans. It's like, if you think of just a simple,
+
+01:14:33.520 --> 01:14:37.920
+well, I won't get into the details, but like a two-dimensional decision procedure,
+
+01:14:38.720 --> 01:14:42.400
+where we have to just two features that we're making a decision on, and then we come to an
+
+01:14:42.400 --> 01:14:47.360
+inference on the basis of that, and now you get into like 100-dimensional feature space where
+
+01:14:47.360 --> 01:14:50.880
+machine learning programs are picking up on countless features, whether they're collecting
+
+01:14:50.880 --> 01:14:56.880
+through collection practices that we're not even aware of. So, think of like three dimensions that
+
+01:14:56.880 --> 01:15:01.600
+is easy enough, four dimensions that's harder. Now, think of like 100,000 dimensions folded in
+
+01:15:01.600 --> 01:15:07.760
+on itself, and you get something like a spikey ball, just kind of existing there. And computers are
+
+01:15:08.480 --> 01:15:13.120
+more objective than humans in the sense that they're able to deal with various spikey balls,
+
+01:15:13.120 --> 01:15:18.240
+whereas we humans, I think, are inclined towards smooth surfaces. We like for things to be easy.
+
+01:15:18.240 --> 01:15:22.400
+And because of their computational prowess, I think some of those spikes in that ball that
+
+01:15:22.400 --> 01:15:29.120
+pick out things like injustice or patterns of oppression in the environment, that they're picking
+
+01:15:29.120 --> 01:15:35.760
+up on them, I think, is good for us to redirect focus away from some of these questions about,
+
+01:15:35.760 --> 01:15:41.040
+I think the question of who's the blame is still an important one, but it redirects us away from
+
+01:15:41.040 --> 01:15:46.800
+what individual person has made a decision that is biased against a particular person to more
+
+01:15:46.800 --> 01:15:52.000
+so focus on the environment in which these algorithms are being used. And insofar as what's
+
+01:15:52.000 --> 01:15:56.240
+common in all these applications of machine learning programs is that they're picking up on those
+
+01:15:56.240 --> 01:16:00.960
+patterns that are out there in the world where realists about those patterns, we're not denying
+
+01:16:00.960 --> 01:16:05.680
+that those patterns exist, then the question just becomes, okay, how do we leverage their ability
+
+01:16:05.680 --> 01:16:10.480
+to pick up on those patterns better than we can to ameliorate some of the problematic patterns that
+
+01:16:10.480 --> 01:16:14.080
+we see in the environment? And so I think that's the main thing, and that should be the focus of
+
+01:16:14.080 --> 01:16:21.040
+what we do with algorithms going forward. Right, great. Yeah, as opposed to using that process to
+
+01:16:21.040 --> 01:16:24.720
+sell you more soap more effectively, which is basically what's happening now. Ray, do you want
+
+01:16:24.720 --> 01:16:31.440
+to jump in on this? Sure, so I like, I like Abby's sort of description of those these spikey balls,
+
+01:16:31.440 --> 01:16:39.280
+right? I think, I think that the part that's sort of extending that a little bit is, is what a lot
+
+01:16:39.280 --> 01:16:46.000
+of these algorithms trying to do is they're given these spikey balls, and then they're given some
+
+01:16:46.000 --> 01:16:50.160
+outcome, and they're saying, well, figure out the patterns of this spikey ball that lead to those
+
+01:16:50.160 --> 01:16:55.360
+outcomes. Now, the problem is those outcomes are not objective, right? Those outcomes,
+
+01:16:55.920 --> 01:17:00.000
+that there's sort of two types of problems we use AI for generally, right, for prediction,
+
+01:17:00.000 --> 01:17:05.040
+machine learning, prediction things for one is classification, right, where some human knows
+
+01:17:05.040 --> 01:17:10.800
+what a thing is. It's just too slow for us humans to figure that out fast and we're too slow for it.
+
+01:17:10.800 --> 01:17:15.120
+So is this an image of a person and all the horrible things we've heard about there?
+
+01:17:16.320 --> 01:17:20.800
+Their human biases and the outcome are the problem. The inputs the computer can adjust,
+
+01:17:20.800 --> 01:17:24.960
+but if the outcome is wrong, then the computer is by definition going to be wrong, because it's
+
+01:17:24.960 --> 01:17:31.600
+replicating that. So one example that is some work, we were talking about earlier, I've been doing
+
+01:17:31.600 --> 01:17:37.200
+with police departments on identifying police officers who are going to do horrible things in
+
+01:17:37.200 --> 01:17:41.920
+the future, shoot people and unjustified use of force and all those different things.
+
+01:17:42.560 --> 01:17:46.640
+The key word that I just said was unjustified, like who determines it was unjustified?
+
+01:17:47.840 --> 01:17:53.040
+Use of force happened, it got investigated, and some objective internal affairs team decided
+
+01:17:53.040 --> 01:17:58.720
+justified, unjustified. And if you're a department that's a pretty horrible department,
+
+01:17:58.720 --> 01:18:02.720
+like a lot of large police departments are today, it's going to be totally corrupt and you're going
+
+01:18:02.720 --> 01:18:07.280
+to say everything is justified. And so the computer is just going to take this by keyball and as good
+
+01:18:07.280 --> 01:18:14.240
+as identifying patterns, the outcome is not just perfectly justified. So that's I think one big thing
+
+01:18:14.240 --> 01:18:18.720
+is that or even things like somebody is going to graduate high school on time, that's not a
+
+01:18:18.720 --> 01:18:23.280
+objective. It's what support structures were in place, what their backgrounds were, how they grew
+
+01:18:23.280 --> 01:18:29.200
+up. So you can't say here's an objective thing and let the computers figure out how to get to
+
+01:18:29.200 --> 01:18:34.080
+that objective outcome because there is no such thing as objective outcome. We don't have counter
+
+01:18:34.080 --> 01:18:40.160
+factuals. So I'll give you another example of where we're trying to sort of, again, to
+
+01:18:40.880 --> 01:18:46.800
+think it was Gabby's point about equality and equity in the beginning of this was work we're
+
+01:18:46.800 --> 01:18:53.840
+doing with Los Angeles City Attorney's Office on reducing misdemeanor recidivism through social
+
+01:18:53.840 --> 01:18:59.360
+service interventions and diversion programs. And we sort of, they wanted to help in building a
+
+01:18:59.360 --> 01:19:04.880
+system that would help them get ready for people who might be, the police might be arresting and
+
+01:19:04.880 --> 01:19:10.240
+booking so that when they're called to come in front of the judge, they have a case file ready
+
+01:19:10.240 --> 01:19:14.160
+with all the connections and social service programs in place. And they didn't, they would
+
+01:19:14.160 --> 01:19:19.280
+have a couple of hours and that wasn't enough time. So we built the system and the first version
+
+01:19:19.280 --> 01:19:26.080
+of that system we found was about 80% efficient. If all the 150 people they could, they could have
+
+01:19:26.080 --> 01:19:31.680
+resources to prepare for, the list we would give them would be about 80% right. And the challenge
+
+01:19:31.680 --> 01:19:37.680
+of what is that that system was more right for white people than Hispanic people. And
+
+01:19:37.680 --> 01:19:44.640
+so playing that out of what that system does is helps both Hispanic and white people, but because
+
+01:19:44.640 --> 01:19:50.320
+Hispanic recidivism rate is higher than white, over time it results in both of the recidivism rates
+
+01:19:50.320 --> 01:19:56.320
+going down, but the disparity is increasing. That's the most efficient system. So we said,
+
+01:19:56.320 --> 01:20:02.320
+okay, here's option number two, which is focusing on equality. So we built the system to unit so
+
+01:20:02.320 --> 01:20:08.800
+that it's equally right for both. It's about 2% less efficient. What does that do? Well,
+
+01:20:08.800 --> 01:20:14.160
+it reduces equally for both. So it preserves the status code disparity. And so that's what you
+
+01:20:14.160 --> 01:20:18.480
+want. But here's option number two. Here's option number three, which is maybe another percent
+
+01:20:18.480 --> 01:20:25.200
+more expensive, less efficient. And it's better for Hispanic people than white. So not focused on
+
+01:20:25.200 --> 01:20:30.480
+equality, but what it results in is lowering the disparity in downstream, you know, a few years later,
+
+01:20:30.480 --> 01:20:36.240
+it gets to equity in recidivism rates. And now you have these three policy options. It's the menu.
+
+01:20:36.880 --> 01:20:41.520
+If you care about efficiency, you use option number one and you increase disparities. If you
+
+01:20:41.520 --> 01:20:47.600
+care about equality, you use option number two, it's 2% less more expensive. And you get to equality,
+
+01:20:47.600 --> 01:20:53.680
+but still preserving status code. And if you care about equity, definition of equity, you get to
+
+01:20:53.680 --> 01:21:00.080
+that. And there's another 1% more expensive. And they chose number three. But I think that's
+
+01:21:00.080 --> 01:21:06.400
+kind of an example where we can use these types of tools to help humans make decisions that lead
+
+01:21:06.400 --> 01:21:13.600
+to equitable outcomes. But it requires policymakers to want that outcome and requires people like us
+
+01:21:13.600 --> 01:21:18.160
+to provide them this menu that they can understand. And then all the math and everything else goes
+
+01:21:18.160 --> 01:21:22.000
+in the background, right? We can talk about these algorithms and build these systems. But
+
+01:21:22.000 --> 01:21:28.160
+reasoning at that level, I think there's a lot of hope of many other examples like that. And some
+
+01:21:28.160 --> 01:21:34.320
+recent work that we did for these types of resource allocation problems, we found this sort of the
+
+01:21:34.320 --> 01:21:39.360
+general assumption. You often go to these talks and AI fairness, most people will start with,
+
+01:21:39.360 --> 01:21:44.320
+well, there's a tradeoff in inaccuracy and fairness. And actually, there is no empirical
+
+01:21:44.320 --> 01:21:49.200
+evidence that there is such a tradeoff. It's just a thing we say. And so we actually found
+
+01:21:49.200 --> 01:21:54.400
+a paper and a review, but we looked at five or six of these problems that we've worked on
+
+01:21:54.400 --> 01:22:00.160
+with the last couple of years. And we found that for certain causes of problems, we could, you know,
+
+01:22:00.160 --> 01:22:07.920
+pretty, with some explicitly focusing on equity and kind of dealing with that issue, we can
+
+01:22:07.920 --> 01:22:15.040
+actually reduce disparities equal without losing any efficiency or accuracy, which I think, again,
+
+01:22:15.040 --> 01:22:21.600
+gives us a path forward so that we can start talking about these things as, kind of, you know,
+
+01:22:21.600 --> 01:22:26.720
+the equity is a first order goal in machine learning systems or any systems, any human decision-making
+
+01:22:26.720 --> 01:22:31.680
+systems. So that's the positive that I'm going to leave everybody with.
+
+01:22:33.440 --> 01:22:39.440
+Fantastic. We got a little bit of time left, Tina, and then I'll let Tracy take us on home.
+
+01:22:40.640 --> 01:22:48.640
+Yeah, so, I mean, AI technology and machine learning in particular, obviously, have been used for
+
+01:22:48.640 --> 01:22:55.920
+lots of good purposes, for example, disaster assistance or in medical informatics, imaging,
+
+01:22:55.920 --> 01:23:01.440
+right? You have an MRI and, you know, you can train a machine to say, well, you should look at this
+
+01:23:01.440 --> 01:23:07.760
+area, right? Or, for example, right now, during COVID-19, the next science institute that I'm
+
+01:23:07.760 --> 01:23:14.640
+part of, we're doing a lot of work in terms of can we find better therapeutics for COVID? We have
+
+01:23:14.640 --> 01:23:20.080
+COVID's fingerprint. We have the fingerprints of the drugs we know, the national compounds we know,
+
+01:23:20.080 --> 01:23:26.480
+can we find one that would be better for COVID? Or, for example, in terms of network epidemiology,
+
+01:23:27.040 --> 01:23:33.440
+you know, can we, for example, predict, you know, what is to come, right? And these are very
+
+01:23:33.440 --> 01:23:39.120
+complicated models, but, you know, they're helping to figure out what to do in terms of what policies
+
+01:23:39.120 --> 01:23:43.680
+should be enacted. The other aspect of it is basically like policing the police with these
+
+01:23:43.680 --> 01:23:48.720
+algorithms, right? When you have a policy, as I understand it, that policy has to have some
+
+01:23:48.720 --> 01:23:55.120
+intent. And then when you execute that policy, you're getting data from that execution, and you
+
+01:23:55.120 --> 01:23:59.680
+could try to reconstruct intent of the policy. And if they don't match, then you can say, well,
+
+01:23:59.680 --> 01:24:03.840
+something has to change, right? Stop and frisk in New York, for example, right? If you were to
+
+01:24:03.840 --> 01:24:10.080
+collect that data, try to reconstruct the policy, it seems like the policy was to harass young
+
+01:24:10.080 --> 01:24:16.880
+Black and Brown males, right? And clearly, that wasn't what they initially said, right? So there
+
+01:24:16.880 --> 01:24:23.440
+are a lot of these kinds of things that one can do to benefit society, right? But these are more,
+
+01:24:23.440 --> 01:24:28.640
+I would say, contained, right, in terms of disaster relief, or medical informatics,
+
+01:24:28.640 --> 01:24:34.640
+and so on and so forth. Then it gets harder, for example, in terms of misinformation or democratic
+
+01:24:34.640 --> 01:24:40.640
+backsliding, this is something I've worked at, where we know what to do to improve our democracy,
+
+01:24:40.640 --> 01:24:44.960
+it's just that we don't want to do them, in terms of, for example, misinformation spreading
+
+01:24:44.960 --> 01:24:50.960
+through the internet, et cetera, et cetera. It's just that we don't have the willingness to do that.
+
+01:24:52.720 --> 01:24:56.160
+Thanks, Tita. I'll trace you. Maybe you could just take us on home here in the last five minutes.
+
+01:24:56.160 --> 01:25:02.480
+Just a couple of points. I really like what Raeed said in terms of thinking about this,
+
+01:25:02.480 --> 01:25:10.560
+you know, that the old trope fairness versus accuracy, it also connects up with something
+
+01:25:10.560 --> 01:25:15.200
+he said earlier, which is that computer scientists, data scientists who are working on these issues
+
+01:25:15.840 --> 01:25:22.080
+understand accuracy as predicting something that's happened in the past, right? Which, you know,
+
+01:25:22.080 --> 01:25:26.960
+brings up the kind of path dependency point he illustrated with this three examples.
+
+01:25:26.960 --> 01:25:33.520
+And so I guess the question I would have for the group and for people listening is, you know,
+
+01:25:33.520 --> 01:25:38.240
+what is it that's going to motivate the people who are actually doing these things? I mean,
+
+01:25:38.240 --> 01:25:44.160
+maybe some of them exist out there. We've got two great computer scientists on our panels
+
+01:25:44.160 --> 01:25:50.400
+who are doing this. But to think forward, in a forward-looking way themselves, right? So, you
+
+01:25:50.400 --> 01:25:58.880
+know, Raeed says we can do it. But, you know, who are you waiting to ask for someone to ask to do
+
+01:25:58.880 --> 01:26:04.560
+rather than generating your own models of like, actually, let us be the leaders, let us show you
+
+01:26:04.560 --> 01:26:10.960
+through our technological prowess, how to imagine a better world. I mean, so, you know, this is
+
+01:26:10.960 --> 01:26:16.960
+supposed to be the part of the session where we imagine this future. And, you know, as a Black
+
+01:26:16.960 --> 01:26:23.600
+woman who reads a lot of science fiction, I want to say that, you know, the Afro-futurist
+
+01:26:23.600 --> 01:26:31.520
+vision is usually pretty pessimistic. You know, so if I'm going to be optimistic, you know,
+
+01:26:31.520 --> 01:26:37.600
+what is going to be my model, you know, what's the world I'm imagining, you know, we have to think
+
+01:26:37.600 --> 01:26:45.600
+about that. And I guess as we're imagining that world we want to live in, we don't have to think
+
+01:26:45.600 --> 01:26:51.600
+necessarily about what our technological limitations are. You know, any one of us can do this to
+
+01:26:51.600 --> 01:26:58.640
+imagine the world we want to live in. And then I guess, you know, it's the job of the tech folks
+
+01:26:58.640 --> 01:27:04.000
+to do it. I guess I just want to put a little bit more impetus on them to participate in the
+
+01:27:04.000 --> 01:27:10.720
+imagining of the future rather than being constrained by the world that has existed as,
+
+01:27:10.720 --> 01:27:21.200
+you know, the load star for perfection in your work. Great. So great. What a terrific panel.
+
+01:27:21.760 --> 01:27:27.760
+We're going to shift over to question to Q&A now for we got about a half an hour. And so our
+
+01:27:27.760 --> 01:27:31.360
+moderator, Alex, has come on. So I'll hand it to him to give us a touch.
+
+01:27:31.360 --> 01:27:36.240
+Actually, granted, before we go, Tracy asked the great question.
+
+01:27:36.240 --> 01:27:42.960
+Oh, right on this spot. Oh, okay. Right. You want to take a step first to Tracy's question,
+
+01:27:42.960 --> 01:27:46.320
+and then we'll go to Alex with questions from the audience.
+
+01:27:48.160 --> 01:27:51.120
+Well, she asked a couple of different questions, so basically you want to end.
+
+01:27:52.320 --> 01:27:56.320
+So I like the one about the, you know, who are you waiting for?
+
+01:27:58.960 --> 01:28:05.760
+Yeah. And I think that's the question I ask a lot of the computer scientists who are kind of
+
+01:28:05.760 --> 01:28:10.160
+on the deep end of theory of theorizing about fairness. Like, who are you waiting for to actually
+
+01:28:10.160 --> 01:28:14.880
+do this? And I think that that is a problem with, you know, before we started the panel,
+
+01:28:14.880 --> 01:28:20.640
+we were kind of chatting about conferences and there is this conference in that's kind of somewhat
+
+01:28:20.640 --> 01:28:24.720
+of an intersection of different disciplines, computer science or science law. But it's still
+
+01:28:24.720 --> 01:28:29.360
+a sort of computer science scene more than it needs to be that's sort of focused on the theory
+
+01:28:29.360 --> 01:28:34.960
+of fairness. And I think unfortunately, a lot of this work is too theoretical without any actual
+
+01:28:34.960 --> 01:28:44.560
+context. So I think as a field, there is there is a unfortunately a gap between practice and
+
+01:28:45.760 --> 01:28:52.880
+the field. And I think it has to be the, so at least I'm trying to figure out how to, you know,
+
+01:28:53.680 --> 01:28:59.040
+all of my work is with governments and nonprofits, because I feel like that's where the implementation
+
+01:28:59.040 --> 01:29:03.440
+is happening, that's where the actions are happening. But that doesn't scale. You know, if you work
+
+01:29:03.440 --> 01:29:07.600
+with one city, LA doesn't mean that every other city is going to do this. If you work with one
+
+01:29:07.600 --> 01:29:14.800
+country or one state. So I think the question is how do we take, I think what we need is
+
+01:29:17.600 --> 01:29:28.960
+ways to expose the computer science people to real problems and real people and real, you know,
+
+01:29:28.960 --> 01:29:35.920
+I guess data because it's a combination of not objective data, just real data. But then I think
+
+01:29:35.920 --> 01:29:41.520
+we need to kind of have more of these types of, I mean, this is a good example of different
+
+01:29:41.520 --> 01:29:46.400
+fields talking and we're using different vocabulary and we're learning about what the words are. And
+
+01:29:46.400 --> 01:29:50.480
+we do that, you know, again, all of us do that. And that's why we're here. But that doesn't mean
+
+01:29:50.480 --> 01:29:56.720
+that that's the norm in any of our disciplines. So I don't think we're waiting for anyone. I think
+
+01:29:56.720 --> 01:30:04.720
+it has to be kind of, right now it's both sides have to be proactive about going out and saying,
+
+01:30:05.440 --> 01:30:10.480
+I just want to help. I'm not in it for 10 year or paper. Tina's heavily has 10 year, right? So
+
+01:30:10.480 --> 01:30:14.480
+you don't care. And I think that's what we, that's part of it is our disciplines don't incentivize
+
+01:30:14.480 --> 01:30:20.640
+this type of work today, at least in academia. And we need to change that. And again, that's,
+
+01:30:20.640 --> 01:30:24.080
+you know, and then we can sort of say, well, it's somebody else's problem, but it is our problem.
+
+01:30:24.080 --> 01:30:28.640
+Oh, absolutely. That was my non answer. No, that's terrific. And let me just say,
+
+01:30:28.640 --> 01:30:33.040
+it's perhaps even more pronounced in philosophy, because very often ethicists
+
+01:30:34.160 --> 01:30:38.240
+do not are really just working on very theoretical questions. They're not, they don't have the
+
+01:30:38.240 --> 01:30:42.800
+lived experience. They're not even, they're just not aware of actual ethical problems in the
+
+01:30:42.800 --> 01:30:48.080
+societies that in which they're living. I hate to say that. This is why we need more,
+
+01:30:48.080 --> 01:30:53.920
+we need more, rubber meets the road, even in ethics in, I think, in every field. Yeah.
+
+01:30:53.920 --> 01:30:59.520
+Yeah. And if I may follow up on that, the incentive structure is not good across the board. I mean,
+
+01:30:59.520 --> 01:31:04.720
+if you look at the papers that are coming out in computer science, in these peer review conferences
+
+01:31:04.720 --> 01:31:10.880
+and journals, it's really little tweaks to things, right? And then if you look at like a master
+
+01:31:10.880 --> 01:31:16.160
+students, I teach some of the money maker courses, right? They're just like, teach me the algorithms
+
+01:31:16.160 --> 01:31:21.760
+are going to make me a lot of money. I don't care, right? And when I try to talk to them about ethics,
+
+01:31:21.760 --> 01:31:27.200
+it's just they don't care. But what's interesting is that they don't see that, for example, the
+
+01:31:27.200 --> 01:31:33.840
+algorithm that you're developing may enable misinformation that may get somebody elected,
+
+01:31:33.840 --> 01:31:39.680
+that will then change the line, you can no longer get H1 bv's up, right? They don't see
+
+01:31:39.680 --> 01:31:46.800
+that link, right? And so the incentive structure is just not there. I just want to make money,
+
+01:31:46.800 --> 01:31:51.280
+so teach me the money making algorithms. And it's either money or, you know, like I had this
+
+01:31:51.280 --> 01:31:54.880
+comment, I'm teaching a class right now, it's a machine learning and public policy, it's half
+
+01:31:54.880 --> 01:31:59.200
+to students or machine learning department half from the policy school, it's painful. And a lot
+
+01:31:59.200 --> 01:32:04.400
+of the students, machine learning PhD student comes to me and says, I'm a machine learning PhD student,
+
+01:32:04.400 --> 01:32:10.240
+I just want to do math. Why are you having us think about these things? And I think that's the
+
+01:32:10.240 --> 01:32:15.520
+problem. We have, you know, another student came last year and said, well, I'm going to go to the
+
+01:32:15.520 --> 01:32:20.880
+public private sector. So this ethics class that we did, I don't think it's relevant to me. Like,
+
+01:32:20.880 --> 01:32:26.800
+what? It's exactly relevant to you, just because it's painful, you know.
+
+01:32:26.800 --> 01:32:32.880
+I mean, and actually, like when I go to mind people and I give talks, I'm like, how many of you are
+
+01:32:32.880 --> 01:32:37.760
+okay with your algorithm being used on you? Nobody raises their hand, not even the white guys
+
+01:32:37.760 --> 01:32:43.200
+raise their own hand, right? So they know there's a problem, but it's just like, look, whatever,
+
+01:32:43.200 --> 01:32:49.520
+like they don't see that one leads to another to another to another and, you know, game over,
+
+01:32:50.560 --> 01:32:56.320
+which is very, very frustrating. But the incentive structure within the CS and the tech,
+
+01:32:56.320 --> 01:33:00.640
+the STEM fields have to change. Because right now we're just like, oh, look, this is such an
+
+01:33:00.640 --> 01:33:06.880
+interesting problem. Like, I remember when we were living in New York, I would go out with my
+
+01:33:06.880 --> 01:33:11.760
+friends who work in finance, I would come back and I'm like, oh, this is amazing problems. And
+
+01:33:11.760 --> 01:33:16.960
+Brandon would take get away from the cliff, get away from, because again, exactly, as Ray said,
+
+01:33:16.960 --> 01:33:22.160
+like this is a really cool problem. I don't care about this, look at the math, right? And so you
+
+01:33:22.160 --> 01:33:28.080
+have to get away from that and like, somebody could get hurt, right? And so you should know.
+
+01:33:28.080 --> 01:33:32.160
+This panel is amazing. It could go on forever. I do want to give Gabby a chance to maybe get a
+
+01:33:32.160 --> 01:33:36.720
+last word in here before we go to questions if you've got something. I'm in it for tenure.
+
+01:33:37.280 --> 01:33:38.560
+Don't talk to me about incentives.
+
+01:33:41.360 --> 01:33:46.400
+Point, that's a great way to segue into Q&A. Alex, you want to take this into Q&A?
+
+01:33:46.400 --> 01:33:52.640
+Yes, I just want to know to, I think, S, Mason, Dan Brock, apologies to single you out in the
+
+01:33:52.640 --> 01:33:57.600
+Zoom call, but you have your hand up. I can't really lay any question you may have. If your
+
+01:33:57.600 --> 01:34:05.600
+hands up, you need to write it in the Q&A option within Zoom. So with that said, I'm going to
+
+01:34:05.600 --> 01:34:12.640
+eradicate rhythmic decision-making. That forced me to this sort of deflationary view of how biases
+
+01:34:12.640 --> 01:34:18.720
+can manifest just from data and innocuous processes in the human decision-making domain. So it actually
+
+01:34:18.720 --> 01:34:23.600
+went the opposite direction for me. But insofar as both are cases, I think, where we're getting
+
+01:34:23.600 --> 01:34:28.160
+away from this overly intellectual view, as I was saying, about how biases manifest, that there
+
+01:34:28.160 --> 01:34:33.920
+is a person who is intentionally deciding to treat people differently on the basis of their belonging
+
+01:34:33.920 --> 01:34:44.720
+to a separate society. These differences might be an emphasis more so than categorical differences.
+
+01:34:44.720 --> 01:34:49.440
+And so one of the things I'm trying to bring out is that some of these decisions to use a
+
+01:34:49.440 --> 01:34:54.320
+simpler model, like linear regression or like a non-parametric model, like these decisions have
+
+01:34:54.320 --> 01:35:01.200
+ramifications that go up the line. And so even though it's true that we're using relatively innocuous
+
+01:35:01.200 --> 01:35:07.120
+conceptualizations of bias, I take it that some of the more systematic biases or the social biases
+
+01:35:07.120 --> 01:35:12.880
+that we're concerned about share some commonalities with these decision points earlier in the causal
+
+01:35:12.880 --> 01:35:20.400
+net. And so there is a relationship there. Yeah, I think there's a deeper conversation which we
+
+01:35:20.400 --> 01:35:26.000
+can leave for a later time, which means the design choices that a machine learning system developer
+
+01:35:26.000 --> 01:35:31.840
+makes in the data sources to use how you process them, how you think about them, and the downstream
+
+01:35:31.840 --> 01:35:37.760
+biases. And I think that's a very... We don't talk about them very much. There's no textbook that has
+
+01:35:37.760 --> 01:35:42.720
+things to think about at each step to deal with bias. And so I'm teaching this, those are the
+
+01:35:42.720 --> 01:35:46.640
+things that we're teaching about. But yeah, I think that's a different conversation because
+
+01:35:46.640 --> 01:35:53.360
+that's a huge line spot for the developers right now. You know, before we were all online, we had
+
+01:35:53.360 --> 01:35:59.120
+a little joke among ourselves about writing algorithms to check out our algorithms, right?
+
+01:35:59.680 --> 01:36:05.520
+And that did seem a little silly or aggressive. But there are some people who have this hope,
+
+01:36:05.520 --> 01:36:10.240
+talking about the far future. I don't subscribe to this, but I'm just going to say it that, you know,
+
+01:36:10.240 --> 01:36:16.400
+there may be some way for the computers to learn to be more ethical. And how would you go about
+
+01:36:16.400 --> 01:36:23.920
+doing that? And is it possible even, or are they just algorithms and ethics just really
+
+01:36:26.000 --> 01:36:30.800
+also be ethical because that would be the only way for them to become super intelligent, blah, blah.
+
+01:36:30.800 --> 01:36:35.440
+But it's interesting to think, well, could a super computer, we grant that maybe they'll
+
+01:36:35.440 --> 01:36:39.600
+be more intelligent than we will be. But I don't think it would be possible, isn't this a parabox,
+
+01:36:39.600 --> 01:36:43.760
+that they would be more ethical than we could be. Because how would we know that's the case?
+
+01:36:44.560 --> 01:36:48.880
+That's weird. I think it's a little bit of a paradox. Anyway, anyone think that computers might
+
+01:36:48.880 --> 01:36:53.360
+ultimately evolve towards making ethical decisions themselves without supervision?
+
+01:36:54.160 --> 01:36:57.600
+Well, let me jump in on this. I think, I mean, I tend to think of things
+
+01:36:58.560 --> 01:37:03.760
+more of a virtue ethics kind of way, like, who are the exemplars? Who do I look to?
+
+01:37:03.760 --> 01:37:09.440
+Who do I really think that they're acting in a really virtuous ways?
+
+01:37:10.080 --> 01:37:15.840
+And to the extent that we're looking for exemplars and we're modeling exemplars,
+
+01:37:15.840 --> 01:37:19.360
+then I think sure machine learning could also model exemplars. I don't see why they couldn't.
+
+01:37:20.480 --> 01:37:27.600
+Yeah, so that reminds me of something that Rima Bassuss said. Rima Bassuss is a professor
+
+01:37:27.600 --> 01:37:34.640
+at Claremont McKenna philosophy. And she was like, imagine a time where you could order an Uber driver
+
+01:37:34.640 --> 01:37:40.800
+who's a consequentialist or an Uber driver that is a virtue ethicist or something like that, right?
+
+01:37:40.800 --> 01:37:46.400
+With autonomous vehicles, et cetera, where you could put in the requirement for the driver that you want.
+
+01:37:47.440 --> 01:37:50.160
+I've stuck with me. It's an interesting idea.
+
+01:37:51.680 --> 01:37:54.000
+And they get different tips as the next question.
+
+01:37:54.000 --> 01:38:02.480
+Oh, I mean, think about chess. I mean, the deep learning chess machines are so much better than
+
+01:38:02.480 --> 01:38:08.160
+us, but we still we know that they're better. How? If they are, how do we know?
+
+01:38:08.160 --> 01:38:10.880
+Same. It's the same thing. I don't think it's fundamental. Well, we know they're better because
+
+01:38:10.880 --> 01:38:16.400
+they beat us. Right. No, no, but I mean specifically, we still have the sense that they're improving,
+
+01:38:16.400 --> 01:38:19.040
+even when they're way better than us. Yeah. Yeah.
+
+01:38:19.040 --> 01:38:25.760
+Yeah. They could just search the space better, you know, it's a bigger space. They just, you know,
+
+01:38:25.760 --> 01:38:30.080
+well, but maybe that's all ethics is to maybe maybe you said, yeah, the right rules and the right
+
+01:38:30.080 --> 01:38:34.320
+exemplars, you have to learn what that space is. You know, this has been taped. I would love to
+
+01:38:34.320 --> 01:38:39.840
+find out what Rahid and I don't know, Alex, where we are in the in the in the Q&A. So if this question
+
+01:38:39.840 --> 01:38:45.600
+isn't appropriate, I just I'll throw it out. You can manage the questions and then go ahead. But
+
+01:38:45.600 --> 01:38:51.760
+I just want to tie something that Gary said and Brandon said to something Rahid said earlier,
+
+01:38:51.760 --> 01:38:58.400
+which is to add that machines could model exemplars. But of course, if we think of exemplars
+
+01:38:59.600 --> 01:39:06.000
+of, you know, particularly virtuous people, no one, of course, is virtuous. Humans are not,
+
+01:39:06.720 --> 01:39:15.360
+you know, unrelentingly virtuous, like all the time, except for Jesus. I'll use my own face.
+
+01:39:15.360 --> 01:39:22.880
+Tradition. So, you know, and, and, you know, for a lot of people, and that wasn't real, right? So
+
+01:39:22.880 --> 01:39:30.160
+like all of the exemplars that we have are of real people are never virtuous all the time,
+
+01:39:30.160 --> 01:39:36.480
+which brings to mind Rahid's point about, he said, well, this is an incremental risk that the machine
+
+01:39:36.480 --> 01:39:42.560
+is going to whatever we program is going to do it all the time in a way in which, you know,
+
+01:39:42.560 --> 01:39:51.040
+humans never are that way. And I just wondering if if if you could reflect on just that idea a
+
+01:39:51.040 --> 01:39:58.960
+little bit, Rahid, about using humans as the exemplar of the virtue that a machine could be
+
+01:39:58.960 --> 01:40:06.000
+modeled after in a world in which we know there is no such thing as any virtuous human
+
+01:40:06.000 --> 01:40:13.600
+in all the time. Does that even make sense? Yeah, I mean, it's an interesting and I think
+
+01:40:13.600 --> 01:40:18.160
+Tina has talked about similar things before. It's sort of right now with these these systems
+
+01:40:19.040 --> 01:40:24.640
+don't use people as exemplars. They use let's say people's decisions or actions as exemplars,
+
+01:40:24.640 --> 01:40:29.840
+right? So we take historical judges, we take all the judges and we take their decisions and we say,
+
+01:40:29.840 --> 01:40:35.120
+okay, let's build a computer to replicate and aggregate all these decisions. And the computer
+
+01:40:35.120 --> 01:40:39.040
+is going to be wrong many of the time. So then we tell the computer which mistakes are worth more
+
+01:40:39.040 --> 01:40:45.120
+than others. And right now we say every mistake is worth the same. So then it gets most white
+
+01:40:45.120 --> 01:40:49.680
+decisions right. And then that's what happens in the world, right? And so now if we sort of think
+
+01:40:49.680 --> 01:40:54.160
+about, and I totally honest haven't thought about that, right? But it's a really good point,
+
+01:40:54.160 --> 01:40:59.680
+Tracy, you're making is what if the exemplars were humans and then some of this, some of this
+
+01:40:59.680 --> 01:41:07.520
+variant sort of gets embedded where we're really using humans as examples and trying to figure out
+
+01:41:07.520 --> 01:41:13.760
+what would this human do versus that human do. And then it's maybe also as Tina was saying, it becomes
+
+01:41:14.480 --> 01:41:19.440
+kind of an expert witness or a medical test, which is just another input. Like, well, here's what
+
+01:41:19.440 --> 01:41:23.360
+this human would say. And here's why. And here's what this human would say. And so you sort of have
+
+01:41:23.360 --> 01:41:31.600
+this committee that's advising you that you can talk to and then make a decision. Some of it is
+
+01:41:31.600 --> 01:41:35.440
+auditable, some of it is not. So I think it makes it makes a lot of sense to kind of think about it
+
+01:41:35.440 --> 01:41:42.560
+that way and see. And again, I mean, the danger and all of these things is that eventually these
+
+01:41:42.560 --> 01:41:49.440
+systems have some values embedded. And where are those values coming from? Does every time a new
+
+01:41:49.440 --> 01:41:56.320
+owner or decision maker takes over, do they then change the values to suit their values and all
+
+01:41:56.320 --> 01:42:00.160
+that kind of stuff? But I think it's, I'm sure other people have better thoughts around this.
+
+01:42:02.320 --> 01:42:07.680
+Yeah, so this is something I have thought about. And usually I get to push back in that, for example,
+
+01:42:07.680 --> 01:42:13.120
+there are better doctors or worse doctors, right? And in fact, if you think about law or medicine,
+
+01:42:13.120 --> 01:42:19.840
+it is very much this idea of apprenticeship learning, right? And so can you build a machine
+
+01:42:19.840 --> 01:42:25.280
+learning algorithm that's an apprentice to, let's say, a good judge, let's say, Ruth Bader Ginsburg,
+
+01:42:25.280 --> 01:42:30.720
+who recently passed away, right? The problem is that is a very difficult machine learning problem,
+
+01:42:30.720 --> 01:42:36.800
+right? To see why Ruth Bader Ginsburg made certain decisions, his reasoning processes,
+
+01:42:36.800 --> 01:42:42.720
+that's very difficult. It's not as simple as thumbs up or thumbs down, right? Which is really what
+
+01:42:42.720 --> 01:42:49.680
+it is now in terms of a lot of the algorithms you're seeing in terms of pre-trial disposition,
+
+01:42:49.680 --> 01:42:57.200
+hiring, etc. They're like gladiator, right? Tina thumbs down, Brandon thumbs up. And so
+
+01:42:58.000 --> 01:43:02.960
+it's a hard problem. And because it's a hard problem, we typically don't tackle it because
+
+01:43:02.960 --> 01:43:11.760
+it takes longer to have a paper up. But it would an active mercy coming from a computer mean the
+
+01:43:11.760 --> 01:43:17.520
+same to someone as an active mercy coming from a human, even if we're perfectly well modeled.
+
+01:43:21.040 --> 01:43:24.720
+That's a good question. I think for the computer, it's just going to go with the objective function
+
+01:43:24.720 --> 01:43:32.160
+it has, right? So in fact, usually for recommendation systems, we try to model items and not so much
+
+01:43:32.160 --> 01:43:39.600
+humans because humans are more complicated. So, you know, we have this term mercy that means
+
+01:43:39.600 --> 01:43:45.840
+something in particular that seems to be a very human quality. It's, anyway, it's interesting
+
+01:43:46.560 --> 01:43:51.840
+dilemma when it comes to applying it through a computer interface. So there are people who are
+
+01:43:51.840 --> 01:43:57.360
+working on this thing called affective computing, which is where the computer will develop empathy.
+
+01:43:57.360 --> 01:44:02.720
+So my colleague Stacy Marcella is working on it and others are working on it too, where you,
+
+01:44:02.720 --> 01:44:09.440
+the computer will learn empathy. And if like an element of being merciful is empathy, then
+
+01:44:09.440 --> 01:44:14.080
+that's what they're working on. All right, Lex, is there more questions?
+
+01:44:14.080 --> 01:44:18.560
+Yeah, we have three more. We can get through all three, I think. Is that
+
+01:44:19.200 --> 01:44:26.240
+kosher? Is that good? Okay. So we have Sarah Chen, who was asking or who wrote.
+
+01:44:26.240 --> 01:44:31.600
+I really like the idea of labeling algorithms based on user fit. For example, this algorithm is
+
+01:44:31.600 --> 01:44:36.160
+only useful, such accurate with white males. If this becomes a norm, do you think this will
+
+01:44:36.160 --> 01:44:41.440
+encourage more diverse teams slash community involved developments, or will it actually lead
+
+01:44:41.440 --> 01:44:50.480
+to more exclusionary products or algorithms? I guess for me, I don't think of it that way.
+
+01:44:50.480 --> 01:44:55.680
+I think of it more as like having forcing the algorithm designer to be more honest,
+
+01:44:56.240 --> 01:45:01.200
+right? Because right now we tend to not be honest. We say my algorithm will work on everything under
+
+01:45:01.200 --> 01:45:06.960
+the sun, right? So I work on complex networks for a long time in computer science, you would say
+
+01:45:06.960 --> 01:45:11.920
+my algorithm will work on any complex network you give it. But that's clearly not true,
+
+01:45:11.920 --> 01:45:17.760
+because biological networks are very different than social networks. Their structure is different.
+
+01:45:17.760 --> 01:45:25.920
+So I think, so I look at it in terms of more holding the algorithm designer to be honest,
+
+01:45:25.920 --> 01:45:31.840
+to say, okay, this algorithm works like this, like the auditing that Rahid mentioned, and it's
+
+01:45:31.840 --> 01:45:38.800
+only designed for this subpopulation, which of course, as Rahid nicely put, right now,
+
+01:45:38.800 --> 01:45:43.200
+drugs aren't so much like that, right? Though I guess there's some of it, right? Like if you're
+
+01:45:43.200 --> 01:45:47.120
+pregnant, you should not take it. If you're under 12, you should not take it, right? There's some
+
+01:45:47.120 --> 01:45:52.800
+of that in there. But I actually take it as just having the algorithm designer be honest.
+
+01:45:52.800 --> 01:45:58.640
+It sounds, Martina, that you would think that people would be internally motivated though,
+
+01:45:58.640 --> 01:46:07.280
+if they were honest with that kind of specificity to try to do better, precisely because of the
+
+01:46:07.280 --> 01:46:12.400
+ground setting claims about what we think it works all the time. And so if they're constantly
+
+01:46:12.400 --> 01:46:18.880
+faced with, it only works in this kind of context that, you know, in the back of your head, or left
+
+01:46:18.880 --> 01:46:26.160
+unsaid, it's probably at the front of your head, is that they're going that you think they're going
+
+01:46:26.160 --> 01:46:32.720
+to change what they do, but we don't know, right? This relates to the initial point that I brought
+
+01:46:32.720 --> 01:46:40.080
+up about objectivity and the bias under the guise of neutrality or under the guise of objectivity.
+
+01:46:40.080 --> 01:46:44.720
+And I think what Tina's mentioning is right that right now there's the skies that there's
+
+01:46:44.720 --> 01:46:49.360
+universal applicability of one in fact, it's actually only useful for particular demographics.
+
+01:46:49.360 --> 01:46:57.280
+And I think this question brings out that making those assumptions or biases explicit might help
+
+01:46:57.280 --> 01:47:02.160
+in holding the programmers or designers speak to the fire. But I think it also has another
+
+01:47:02.160 --> 01:47:08.080
+really important element, which is making good on some of the claims that people from marginalized
+
+01:47:08.080 --> 01:47:15.200
+demographics are already aware of that is giving voice to the disparate effect of various programs
+
+01:47:15.200 --> 01:47:21.040
+or drugs. Like that they're already trying to point out that this impartiality exists and that
+
+01:47:21.040 --> 01:47:26.400
+it's currently being ignored. And so insulating the biases that are just a part of the normal
+
+01:47:27.120 --> 01:47:31.440
+run of the mill programs, I think is really important that we could give voice to those sorts of
+
+01:47:31.440 --> 01:47:37.280
+discrepancies. So I think there is a risk for it being leading to more exclusionary practices,
+
+01:47:37.280 --> 01:47:42.400
+but I think also just making good on the fact that people are uncomfortable with the
+
+01:47:42.400 --> 01:47:45.040
+bias or with the programs already is important.
+
+01:47:49.680 --> 01:47:55.120
+Okay, so next question is from Ralph Alexuel off of YouTube. Before I get to his question,
+
+01:47:56.080 --> 01:47:59.680
+I just want to shout him out because he's been commenting the whole time on YouTube. Very
+
+01:47:59.680 --> 01:48:06.720
+interesting comments and summarization occurring. My favorite comment of his good summation was,
+
+01:48:06.720 --> 01:48:12.800
+how many of you are happy to have your algorithms used on you? Nobody. I like that comment a lot.
+
+01:48:12.800 --> 01:48:20.480
+But to his question, I was trying to, there may be some editorial work here because I'm trying to
+
+01:48:20.480 --> 01:48:25.440
+like formulate the best way because he kind of wrote a broken comment into a question. So he's
+
+01:48:25.440 --> 01:48:30.880
+sort of like balancing between accuracy, so using the passive protector and fairness,
+
+01:48:30.880 --> 01:48:37.120
+what will motivate people to do the right thing?
+
+01:48:41.600 --> 01:48:47.600
+I think Raheed, you want to take that because this whole notion that there's a trade-off as you just,
+
+01:48:49.040 --> 01:48:56.640
+so Raheed had mentioned something about the fact that there's this false notion of accuracy versus
+
+01:48:56.640 --> 01:49:03.760
+fairness. So it's not like you have to have one versus the other. I don't know if that answers
+
+01:49:03.760 --> 01:49:09.680
+this question, but Raheed. Yeah, I mean, I wonder, I think again, I think of accuracy as sort of a
+
+01:49:09.680 --> 01:49:14.720
+made-up construct. It's a very subjective, like we come up with some definition and we stick with it
+
+01:49:15.440 --> 01:49:22.800
+in practice, I think in most of again, most of the work I do, accuracy is kind of another way of
+
+01:49:22.800 --> 01:49:28.480
+saying efficiency, which is I have resources to help this many people and what I find is that the
+
+01:49:29.040 --> 01:49:35.440
+list my model helps me select has as many people from that as possible. So it's efficiency. And so,
+
+01:49:35.440 --> 01:49:41.120
+yes, there might be a trade-off in efficiency and equity and effectiveness. And I think
+
+01:49:43.040 --> 01:49:46.320
+theoretically there would be, but I think what I was saying was that in practice,
+
+01:49:46.320 --> 01:49:54.960
+for many problems of finding there is no empirical evidence of that, but also, I don't like the term
+
+01:49:54.960 --> 01:50:01.200
+accuracy, because somehow it by definition seems like it's the right thing to do. And accuracy is
+
+01:50:01.200 --> 01:50:07.360
+just saying, at least the definition we think of as accuracy in these types of systems is just saying
+
+01:50:07.920 --> 01:50:15.600
+replicate as much of the past as possible and treat every individual case equally, each error
+
+01:50:15.600 --> 01:50:20.960
+equally. And that's very narrow definition of what, and so I think I often sort of, you know,
+
+01:50:21.680 --> 01:50:25.600
+at least when I'm working with students, it's sort of our policymakers as well,
+
+01:50:25.600 --> 01:50:30.880
+let's come up with the performance goals that we have, what is the overall policy goal,
+
+01:50:31.440 --> 01:50:36.640
+and then let's define the thing that we then call performance. And that might include a bunch of
+
+01:50:36.640 --> 01:50:42.480
+different things. And we do that all the time for other types of systems. What's, why not do it for
+
+01:50:42.480 --> 01:50:48.880
+this? So yeah, I mean, I think the, the, the, the tradeoff is kind of more how we think about these
+
+01:50:48.880 --> 01:50:55.600
+things in a more of a knee jerk way, but, but it doesn't always appear to, to, to exist in practice.
+
+01:50:58.880 --> 01:51:04.480
+Okay. Do we have time for two more questions? Just one more. What do you guys,
+
+01:51:04.480 --> 01:51:12.080
+why don't you say both of them and then we can. Okay. Okay. So, so the first one's from Janu.
+
+01:51:12.080 --> 01:51:17.280
+I hope I'm pronouncing that correctly. Janu writes, how widespread is the use of facial
+
+01:51:17.280 --> 01:51:23.840
+recognition in the Western world and what regulation is coming? And then the, the, the second one is
+
+01:51:23.840 --> 01:51:30.720
+from an anonymous viewer. How can the new Supreme Court justice make fair decisions? I assume they're
+
+01:51:30.720 --> 01:51:37.360
+referring to the, I guess, what is the assumed nominee Amy Cohen Barrett or Coney Barrett, excuse me if
+
+01:51:37.360 --> 01:51:42.000
+I, I watched her name is religion a bias when it comes to social justice.
+
+01:51:48.720 --> 01:51:55.840
+Maybe someone should take the first one. Well, I'll say something about that since I am the law
+
+01:51:55.840 --> 01:52:02.640
+professor, not that anyone else would have anything else to say. But the first thing to say is, is it
+
+01:52:02.640 --> 01:52:10.640
+a bias? I really liked Gabby's discussion about biases before earlier. I don't know if the
+
+01:52:10.640 --> 01:52:19.520
+questioner was, was on the webinar at that point. But yes, of course it is. You're right. But I, I
+
+01:52:19.520 --> 01:52:24.880
+think, you know, implicit in the question, given the fact that that was the second part of the
+
+01:52:24.880 --> 01:52:31.440
+question in the first half was like, how can this person make fair decisions? Is this idea that that
+
+01:52:31.440 --> 01:52:37.120
+bias, you know, whatever it is, I already just mentioned, you know, my own faith tradition, which
+
+01:52:37.120 --> 01:52:45.520
+of course is a bias, in a sense, is pointing to some sense of this person should she be
+
+01:52:45.520 --> 01:52:54.080
+confirmed capability of making fair decisions. I think that goes back exactly to Raeed's question,
+
+01:52:54.080 --> 01:53:01.840
+which is, what does it mean to say a fair decision, the right decision, it definitely ties into this
+
+01:53:01.840 --> 01:53:08.960
+question of how we understand what accuracy is and tying that to what's right. And just to blow it
+
+01:53:08.960 --> 01:53:14.960
+up a little and the work that I do in, you know, criminal legal systems, people often talk about
+
+01:53:14.960 --> 01:53:20.720
+policy that works, you know, well, this works. Well, what the hell are you talking about when you say
+
+01:53:20.720 --> 01:53:28.240
+that, you know, stop and frisk works, works to do what is always, you know, the question. So
+
+01:53:28.240 --> 01:53:33.440
+that probably wasn't a satisfying answer for you, but like that is certainly an answer to the
+
+01:53:34.160 --> 01:53:39.360
+and answer to the Supreme Court question. I have no idea about facial recognition.
+
+01:53:39.360 --> 01:53:48.960
+Yeah, I guess in terms of facial recognition, as you have probably heard,
+
+01:53:51.760 --> 01:53:57.680
+some companies like Amazon, Microsoft and IBM have announced that they would like stop or pause
+
+01:53:57.680 --> 01:54:03.200
+their facial recognition offerings for law enforcement, but they're not the big companies. So facial
+
+01:54:03.200 --> 01:54:10.000
+recognition is being used. I don't know how wide, you know, what is widely, but it seems to be
+
+01:54:10.000 --> 01:54:15.920
+prevalent. So before the pandemic, when I was flying to Europe, they're like, we don't need your
+
+01:54:15.920 --> 01:54:22.400
+boarding pass, right? And they would just scan my face and I would go through or coming back from
+
+01:54:22.400 --> 01:54:28.000
+Germany, there was a faster way of going through immigration, where again, they would do facial
+
+01:54:28.000 --> 01:54:33.040
+recognition and I would just go out and go through and I didn't have to talk to anybody, right?
+
+01:54:33.040 --> 01:54:38.960
+And so and of course, you know, the facial recognition, the problems with facial recognition have been
+
+01:54:38.960 --> 01:54:48.240
+very well documented by Joy Boliomini et al. in the algorithmic Justice League that she has.
+
+01:54:49.360 --> 01:54:54.000
+In terms of regulations, I think somebody has to get sued and sued big with a lot of money.
+
+01:54:55.520 --> 01:54:59.680
+So that's something would happen. And right now that has not happened. Perhaps, you know,
+
+01:54:59.680 --> 01:55:05.920
+the unfortunate gentleman in Detroit that was arrested because the facial recognition
+
+01:55:05.920 --> 01:55:13.840
+couldn't tell one person from another. I think he is suing the city. And again, like with the
+
+01:55:13.840 --> 01:55:18.800
+facial recognition, in particular, just so you know, some of the ethical problems here,
+
+01:55:18.800 --> 01:55:23.200
+Google knows that it has a problem with facial recognition, like they don't have enough
+
+01:55:23.200 --> 01:55:28.640
+to put black people in their data set. So what do they do? They hire a contractor. The contractor
+
+01:55:28.640 --> 01:55:33.680
+says, okay, which city has a lot of black people? They're like, Atlanta, they go to Atlanta,
+
+01:55:34.240 --> 01:55:40.960
+then they start looking for easy, easy black people that they could take black pictures and
+
+01:55:40.960 --> 01:55:46.480
+have them sign a consent in consent form. So they target homeless people and they target college
+
+01:55:46.480 --> 01:55:50.640
+students. They have them sign a consent form. They give them $5, they take pictures of them.
+
+01:55:51.280 --> 01:55:55.680
+And they're like, okay, now we got our black people. Well, clearly that's wrong, right?
+
+01:55:55.680 --> 01:55:59.760
+And because now the system believes that black people are either homeless, predominantly male,
+
+01:55:59.760 --> 01:56:05.120
+that's where they were going for our college students. I mean, so they just go from one ethical
+
+01:56:05.120 --> 01:56:09.760
+quagmire to another. You know, and what I'm saying was, you know, it's publicly available.
+
+01:56:09.760 --> 01:56:13.680
+There were news about it and Google is like it wasn't us. It was the contractor, right?
+
+01:56:15.040 --> 01:56:20.320
+So yeah, and I think, I mean, so there are some regulations already there, right? So
+
+01:56:20.320 --> 01:56:28.720
+over the last year, San Francisco, Seattle, Portland have been the larger places. Oakland,
+
+01:56:29.920 --> 01:56:37.040
+I think, Somerville, Massachusetts, and have also banned. So these cities have banned the use of
+
+01:56:37.040 --> 01:56:42.000
+face recognition tools by city agencies. And the big one has been the police departments,
+
+01:56:42.000 --> 01:56:45.760
+but in general, by city agencies, there are probably other 10 states that have pending
+
+01:56:45.760 --> 01:56:51.040
+legislation that's going on. Not, you know, New York has a bunch, actually, not a bit as from
+
+01:56:51.040 --> 01:56:57.520
+what I remember has passed. So a lot of this is happening. On the other hand, I was at this
+
+01:56:57.520 --> 01:57:03.600
+event a couple of weeks ago, where police departments were talking about their experiences
+
+01:57:03.600 --> 01:57:08.640
+after these bans. And that was totally fascinating, where they're coming up with all sorts of loopholes.
+
+01:57:08.640 --> 01:57:15.520
+Like, well, we can't use it directly. But if a consumer or another, a retail store that
+
+01:57:15.520 --> 01:57:19.680
+has cameras and face recognition, if they give it to us, we can use it. So I think there's sort of
+
+01:57:19.680 --> 01:57:25.040
+this adversarial thing going on right now where how do we, you know, the intention of the ban wasn't
+
+01:57:25.040 --> 01:57:29.360
+who can own it and who can not own it, where it comes from, the intention was you cannot use it.
+
+01:57:29.360 --> 01:57:32.880
+But the way it was implemented, very detailed, and we're doing the same thing right now in
+
+01:57:32.880 --> 01:57:39.520
+Pittsburgh. And it's like, it's all these exclusions exist. So I think regulation is needs to happen,
+
+01:57:39.520 --> 01:57:45.360
+but it's happening. But there also is going to be this adversarial thing going on.
+
+01:57:46.320 --> 01:57:51.440
+Gabi, did you want to? Yeah. Yeah, add real quick. I think the example facial recognition software
+
+01:57:51.440 --> 01:57:57.520
+brings out really nicely something that Ravi was saying about talking about accuracy, really like
+
+01:57:57.520 --> 01:58:02.560
+narrowing us too much on a particular goal that might not be the sort of thing that we want to focus
+
+01:58:02.560 --> 01:58:10.640
+on. So I too have heard Joy Bellowini talk about her audits of facial recognition software.
+
+01:58:10.640 --> 01:58:15.920
+And when it initially started, it was like, and a lot of these discussions about the illegality
+
+01:58:15.920 --> 01:58:21.280
+of them come back to the accuracy issue, that is that they're only something like 50% accurate with
+
+01:58:21.280 --> 01:58:28.320
+non-pale male faces. And so this focus on accuracy, the response among corporations was of course,
+
+01:58:28.320 --> 01:58:33.760
+okay, we'll fix it exactly as Tina said, get more data that makes it more accurate on women and
+
+01:58:33.760 --> 01:58:39.680
+people of color and elderly individuals. And Joy talks about how the response anecdotally from
+
+01:58:39.680 --> 01:58:45.120
+the black activist community was like, please don't do this. Like it wasn't we don't want accurate
+
+01:58:45.120 --> 01:58:49.760
+machines for facial recognition programs. It's like we don't want facial recognition software at all.
+
+01:58:49.760 --> 01:58:54.160
+And so this focus on accuracy, I think, is like a bit of a red herring because it makes it sound
+
+01:58:54.160 --> 01:58:58.000
+like if we could only get more accurate facial recognition software. It's like we also need the
+
+01:58:58.000 --> 01:59:02.960
+safeguards against those accurate programs being used for nefarious ends. And so the discussion
+
+01:59:02.960 --> 01:59:07.760
+about what makes for an ethical or fair machine learning program, it really goes well beyond the
+
+01:59:07.760 --> 01:59:13.120
+scope of just the pure mathematics behind the program to what context is it being used for
+
+01:59:13.120 --> 01:59:22.160
+and what sort of ends is it trying to achieve. That might be a good place to stop. I think so.
+
+01:59:22.160 --> 01:59:31.040
+What a fantastic panel. Tracy, Tina, Gabby, Raeed. Thank you. And thanks so much to Ed, Jerry,
+
+01:59:31.040 --> 01:59:38.480
+and the center. And thank you, Brandon, for organizing it and doing such a great job moderating it.
+
+01:59:39.280 --> 01:59:45.280
+Thanks, Ed. I hope to see you guys in New York City back in person soon. You know?
+
+01:59:45.280 --> 01:59:53.280
+So do we. Yep, thank you all. And everyone, keep an eye out on our website and people in our mailing
+
+01:59:53.280 --> 02:00:01.360
+list, future roundtables will likely be advertised shortly. Thank you. Thank you, and thank you.
+
+02:00:01.360 --> 02:00:06.720
+Thank you, for thanks, everybody. Thank you. Thank you all. Be safe out there.
+
+02:00:06.720 --> 02:00:16.800
+Take care. Thank you.
+

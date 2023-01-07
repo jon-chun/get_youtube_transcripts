@@ -1,0 +1,682 @@
+{"id": "5SQ1Vpc8TFE-t0.0", "text": "I am Edner Sesien, I'm Director of the Helix Center, which is an inter-decip- center which", "start": 0.0, "end": 9.52}
+{"id": "5SQ1Vpc8TFE-t9.52", "text": "organizes interdisciplinary round tables and is located on 82nd circuit between 3rd Avenue", "start": 9.52, "end": 16.96}
+{"id": "5SQ1Vpc8TFE-t16.96", "text": "and 2nd Avenue.", "start": 16.96, "end": 19.16}
+{"id": "5SQ1Vpc8TFE-t19.16", "text": "We have a number of programs coming up that I just mentioned to you, but you have probably", "start": 19.16, "end": 25.2}
+{"id": "5SQ1Vpc8TFE-t25.2", "text": "picked up the flyers out there.", "start": 25.2, "end": 27.68}
+{"id": "5SQ1Vpc8TFE-t27.68", "text": "We have Complexity and Emergence on November 15th.", "start": 27.68, "end": 31.72}
+{"id": "5SQ1Vpc8TFE-t31.72", "text": "We have French Surrealism on December 6th and Immortality on December 13th.", "start": 31.72, "end": 39.88}
+{"id": "5SQ1Vpc8TFE-t39.88", "text": "The program tonight, Synchronicity and Other Mind, Matter, Conjecture, were sponsored by", "start": 39.88, "end": 47.84}
+{"id": "5SQ1Vpc8TFE-t47.84", "text": "the Young Encyclopedia Association and Helix.", "start": 47.84, "end": 53.480000000000004}
+{"id": "5SQ1Vpc8TFE-t53.48", "text": "As some of you may know, this is the second in the series on synchronicity, both of which", "start": 53.48, "end": 58.68}
+{"id": "5SQ1Vpc8TFE-t58.68", "text": "were organized by Beverly Zabrizki.", "start": 58.68, "end": 62.31999999999999}
+{"id": "5SQ1Vpc8TFE-t62.31999999999999", "text": "I just want to take this opportunity to tell her how appreciative we are for all her help", "start": 62.31999999999999, "end": 68.6}
+{"id": "5SQ1Vpc8TFE-t68.6", "text": "to Helix and to express my wish that we can continue to be a beneficiary of her knowledge", "start": 68.6, "end": 76.32}
+{"id": "5SQ1Vpc8TFE-t76.32", "text": "and wisdom moving into the future.", "start": 76.32, "end": 78.75999999999999}
+{"id": "5SQ1Vpc8TFE-t78.75999999999999", "text": "Thank you.", "start": 78.75999999999999, "end": 79.75999999999999}
+{"id": "5SQ1Vpc8TFE-t79.76", "text": "Good evening.", "start": 79.76, "end": 84.76}
+{"id": "5SQ1Vpc8TFE-t84.76", "text": "I'm Donald Krasing, President of the Union Psychoanalytic Association.", "start": 84.76, "end": 95.68}
+{"id": "5SQ1Vpc8TFE-t95.68", "text": "We too have flyers and I hope you get information on the way in.", "start": 95.68, "end": 101.24000000000001}
+{"id": "5SQ1Vpc8TFE-t101.24000000000001", "text": "I really want to say before we get started what it's delighted is to be participating", "start": 101.24000000000001, "end": 107.76}
+{"id": "5SQ1Vpc8TFE-t107.76", "text": "in the second collaborative effort with the Helix Center and capitalizing on the excitement", "start": 107.76, "end": 116.36}
+{"id": "5SQ1Vpc8TFE-t116.36", "text": "that we generate in the spring.", "start": 116.36, "end": 118.76}
+{"id": "5SQ1Vpc8TFE-t118.76", "text": "And with that, I'll turn you over to our moderator, Beverly Zabrizki.", "start": 118.76, "end": 122.76}
+{"id": "5SQ1Vpc8TFE-t122.76", "text": "Good evening.", "start": 122.76, "end": 123.76}
+{"id": "5SQ1Vpc8TFE-t123.76", "text": "So, I'm glad you came to leave with us tonight as we discuss this very difficult topic.", "start": 123.76, "end": 131.76}
+{"id": "5SQ1Vpc8TFE-t131.76", "text": "And as was mentioned, it's the second time we tried to address the speech.", "start": 131.76, "end": 138.76}
+{"id": "5SQ1Vpc8TFE-t138.76", "text": "It's especially, I think, in the spirit of the Jungian tradition and particularly the", "start": 138.76, "end": 146.76}
+{"id": "5SQ1Vpc8TFE-t146.76", "text": "J.K.A.", "start": 146.76, "end": 147.76}
+{"id": "5SQ1Vpc8TFE-t147.76", "text": "my organization that we do such an event with Helix at a certain point in his career, Jung", "start": 147.76, "end": 158.56}
+{"id": "5SQ1Vpc8TFE-t158.56", "text": "stopped going to just analytic conferences.", "start": 158.56, "end": 163.2}
+{"id": "5SQ1Vpc8TFE-t163.2", "text": "And instead, he converged a group called the Aeronos Roundtable, which was held in Switzerland", "start": 163.2, "end": 172.24}
+{"id": "5SQ1Vpc8TFE-t172.24", "text": "with scholars from all the different disciplines.", "start": 172.24, "end": 175.68}
+{"id": "5SQ1Vpc8TFE-t175.68", "text": "And the pathologist, endologist, scientist, poets.", "start": 175.68, "end": 181.52}
+{"id": "5SQ1Vpc8TFE-t181.52", "text": "And he felt that he was looking for analogies from whatever field existed because he saw", "start": 181.52, "end": 190.96}
+{"id": "5SQ1Vpc8TFE-t190.96", "text": "it all as expressions of the psyche.", "start": 190.96, "end": 194.76000000000002}
+{"id": "5SQ1Vpc8TFE-t194.76000000000002", "text": "That art, religion, science, itself, philosophy all emerged from the human psyche.", "start": 194.76000000000002, "end": 203.56}
+{"id": "5SQ1Vpc8TFE-t203.56", "text": "And so everything is relevant to its experience and to the way it manifests.", "start": 203.56, "end": 210.52}
+{"id": "5SQ1Vpc8TFE-t210.52", "text": "And so I think we've been particularly drawn to Helix because it picks up that same model", "start": 210.52, "end": 218.52}
+{"id": "5SQ1Vpc8TFE-t218.52", "text": "and brings people together.", "start": 218.52, "end": 221.52}
+{"id": "5SQ1Vpc8TFE-t221.52", "text": "The one big difference between Aeronos and the Roundtable format here is that these", "start": 221.52, "end": 228.52}
+{"id": "5SQ1Vpc8TFE-t228.52", "text": "were all scholars who wrote very scholarly papers and read them and presented them.", "start": 228.52, "end": 234.52}
+{"id": "5SQ1Vpc8TFE-t234.52", "text": "And we come together on the Helix model, which is a little bit more like a free-for-all.", "start": 234.52, "end": 241.52}
+{"id": "5SQ1Vpc8TFE-t241.52", "text": "And people don't really know each other ahead of time.", "start": 241.52, "end": 244.52}
+{"id": "5SQ1Vpc8TFE-t244.52", "text": "And one of the objects is that the speakers learned a great deal from each other.", "start": 244.52, "end": 250.52}
+{"id": "5SQ1Vpc8TFE-t250.52", "text": "And I think that happened the last time.", "start": 250.52, "end": 254.52}
+{"id": "5SQ1Vpc8TFE-t254.52", "text": "And I thought that happens again tonight.", "start": 254.52, "end": 257.52}
+{"id": "5SQ1Vpc8TFE-t257.52", "text": "I'm just going to give a couple of quotes and then I'm going to ask my colleagues here", "start": 257.52, "end": 265.52}
+{"id": "5SQ1Vpc8TFE-t265.52", "text": "to introduce themselves.", "start": 265.52, "end": 268.52}
+{"id": "5SQ1Vpc8TFE-t268.52", "text": "And then we will start the discussion and see where it goes.", "start": 268.52, "end": 274.52}
+{"id": "5SQ1Vpc8TFE-t274.52", "text": "And I'll say if they're too modest, I'll say a few things about them.", "start": 274.52, "end": 279.52}
+{"id": "5SQ1Vpc8TFE-t279.52", "text": "So please be as cold as possible.", "start": 279.52, "end": 281.52}
+{"id": "5SQ1Vpc8TFE-t281.52", "text": "I'm just so proud of myself.", "start": 281.52, "end": 288.52}
+{"id": "5SQ1Vpc8TFE-t288.52", "text": "Yoke was especially influenced by William James.", "start": 288.52, "end": 293.52}
+{"id": "5SQ1Vpc8TFE-t293.52", "text": "And William James's notions of the margins of consciousness and the varieties of experience.", "start": 293.52, "end": 300.52}
+{"id": "5SQ1Vpc8TFE-t300.52", "text": "And so following that idea, he tended to go toward the margins of consciousness and study", "start": 300.52, "end": 307.52}
+{"id": "5SQ1Vpc8TFE-t307.52", "text": "and one of the issues that he noticed was how very often he himself initiated a whole new", "start": 307.52, "end": 318.52}
+{"id": "5SQ1Vpc8TFE-t318.52", "text": "process in his life and how often his patients did because they had an experience that seemed", "start": 318.52, "end": 325.52}
+{"id": "5SQ1Vpc8TFE-t325.52", "text": "to them quite uncanny.", "start": 325.52, "end": 327.52}
+{"id": "5SQ1Vpc8TFE-t327.52", "text": "A variety of themes that came together somewhat simultaneously.", "start": 327.52, "end": 335.52}
+{"id": "5SQ1Vpc8TFE-t335.52", "text": "And so for instance, there would be an inner image or a dream image and then one would meet", "start": 335.52, "end": 342.52}
+{"id": "5SQ1Vpc8TFE-t342.52", "text": "that figure in life.", "start": 342.52, "end": 345.52}
+{"id": "5SQ1Vpc8TFE-t345.52", "text": "And that started him off on a whole exploration of what he called meaningful but eight causal", "start": 345.52, "end": 354.52}
+{"id": "5SQ1Vpc8TFE-t354.52", "text": "coincidences, which he terms in ethnicity.", "start": 354.52, "end": 358.52}
+{"id": "5SQ1Vpc8TFE-t358.52", "text": "And he called it synchronicity because there was a factor in time where the person would", "start": 358.52, "end": 365.52}
+{"id": "5SQ1Vpc8TFE-t365.52", "text": "have an inner experience or there'd be an outer event, there'd be a certain convergence of", "start": 365.52, "end": 372.52}
+{"id": "5SQ1Vpc8TFE-t372.52", "text": "seeing these similarities or dissimilarities.", "start": 372.52, "end": 375.52}
+{"id": "5SQ1Vpc8TFE-t375.52", "text": "But there was no way to explain why there was this convergence of something that was experienced", "start": 375.52, "end": 384.52}
+{"id": "5SQ1Vpc8TFE-t384.52", "text": "by an individual who was very meaningful.", "start": 384.52, "end": 388.52}
+{"id": "5SQ1Vpc8TFE-t388.52", "text": "And I'd just like to give you a couple of quotes here.", "start": 388.52, "end": 393.52}
+{"id": "5SQ1Vpc8TFE-t393.52", "text": "As someone who was trying to deal with the whole question of mind and matter, I had my", "start": 393.52, "end": 398.52}
+{"id": "5SQ1Vpc8TFE-t398.52", "text": "comeuppance before I came to that because I had all my notes in my printer and there was", "start": 398.52, "end": 404.52}
+{"id": "5SQ1Vpc8TFE-t404.52", "text": "a paper jam and no matter what I did, I couldn't get them out.", "start": 404.52, "end": 407.52}
+{"id": "5SQ1Vpc8TFE-t407.52", "text": "So I'm reading this off and I've had which I'm not quite used to, so bear with me.", "start": 407.52, "end": 413.52}
+{"id": "5SQ1Vpc8TFE-t413.52", "text": "You wrote, the problem with synchronicity has puzzled me for a long time ever since the", "start": 413.52, "end": 420.52}
+{"id": "5SQ1Vpc8TFE-t420.52", "text": "middle 1920s.", "start": 420.52, "end": 421.52}
+{"id": "5SQ1Vpc8TFE-t421.52", "text": "When I was investigating the phenomena of the collective unconscious and kept on coming", "start": 421.52, "end": 427.52}
+{"id": "5SQ1Vpc8TFE-t427.52", "text": "across connections, which I simply could not explain as chance groupings or runs.", "start": 427.52, "end": 435.52}
+{"id": "5SQ1Vpc8TFE-t435.52", "text": "What I found were coincidences which were connected so meaningfully that their chance", "start": 435.52, "end": 441.52}
+{"id": "5SQ1Vpc8TFE-t441.52", "text": "of concurrence would represent a degree of improbability.", "start": 441.52, "end": 446.52}
+{"id": "5SQ1Vpc8TFE-t446.52", "text": "So I hope you're able to follow that.", "start": 446.52, "end": 450.52}
+{"id": "5SQ1Vpc8TFE-t450.52", "text": "And then he writes 30 years later, 30 years later, Pauli, both found Pauli, the local", "start": 450.52, "end": 458.52}
+{"id": "5SQ1Vpc8TFE-t458.52", "text": "Laura, Gloria, and quantitative physicist, has prompted me to write my thoughts on the", "start": 458.52, "end": 463.52}
+{"id": "5SQ1Vpc8TFE-t463.52", "text": "concept of synchronicity.", "start": 463.52, "end": 465.52}
+{"id": "5SQ1Vpc8TFE-t465.52", "text": "Since physicists are the only people nowadays who would be able to deal with such a concept", "start": 465.52, "end": 472.52}
+{"id": "5SQ1Vpc8TFE-t472.52", "text": "successfully, it is from a physicist that I hope to meet with a critical understanding.", "start": 472.52, "end": 478.52}
+{"id": "5SQ1Vpc8TFE-t478.52", "text": "Although, as you will see, the empirical basis, the experience seems to lie wholly in the", "start": 478.52, "end": 485.52}
+{"id": "5SQ1Vpc8TFE-t485.52", "text": "realm of the psyche.", "start": 485.52, "end": 487.52}
+{"id": "5SQ1Vpc8TFE-t487.52", "text": "So it's on that basis that we sit here tonight, two Jungian analysts, two physicists, and", "start": 487.52, "end": 494.52}
+{"id": "5SQ1Vpc8TFE-t494.52", "text": "philosopher of science, that's the correct way to describe personod.", "start": 494.52, "end": 501.52}
+{"id": "5SQ1Vpc8TFE-t501.52", "text": "And now I would just like them to tell you about themselves and why they are drawn to", "start": 501.52, "end": 507.52}
+{"id": "5SQ1Vpc8TFE-t507.52", "text": "the subject and their entry point to myself.", "start": 507.52, "end": 514.52}
+{"id": "5SQ1Vpc8TFE-t514.52", "text": "My background is in philosophy and chemistry, kept hopping back and forth between those two", "start": 514.52, "end": 524.52}
+{"id": "5SQ1Vpc8TFE-t524.52", "text": "fields.", "start": 524.52, "end": 525.52}
+{"id": "5SQ1Vpc8TFE-t525.52", "text": "Currently I teach at New York University in the School of Liberal Studies, and I teach", "start": 525.52, "end": 531.52}
+{"id": "5SQ1Vpc8TFE-t531.52", "text": "both the science requirement and the humanities requirement.", "start": 531.52, "end": 536.52}
+{"id": "5SQ1Vpc8TFE-t536.52", "text": "And I'm very happy to be here.", "start": 536.52, "end": 537.52}
+{"id": "5SQ1Vpc8TFE-t537.52", "text": "This is one of those few places where, as you said, we can actually mix it up and do many", "start": 537.52, "end": 542.52}
+{"id": "5SQ1Vpc8TFE-t542.52", "text": "things at the same time.", "start": 542.52, "end": 544.52}
+{"id": "5SQ1Vpc8TFE-t544.52", "text": "Harold, I'm Harold.", "start": 544.52, "end": 547.52}
+{"id": "5SQ1Vpc8TFE-t547.52", "text": "I'm Harold.", "start": 547.52, "end": 548.52}
+{"id": "5SQ1Vpc8TFE-t548.52", "text": "At once, my mind, you said we shouldn't be too humble.", "start": 548.52, "end": 551.52}
+{"id": "5SQ1Vpc8TFE-t551.52", "text": "So I'm known as the Summit of Humility.", "start": 551.52, "end": 554.52}
+{"id": "5SQ1Vpc8TFE-t554.52", "text": "And I have been educated as a physicist.", "start": 554.52, "end": 563.52}
+{"id": "5SQ1Vpc8TFE-t563.52", "text": "I'm now working at the Swiss Federal Institute of Technology in Zurich, which is very close", "start": 563.52, "end": 570.52}
+{"id": "5SQ1Vpc8TFE-t570.52", "text": "to the place where you, together with the partly developed ideas.", "start": 570.52, "end": 575.52}
+{"id": "5SQ1Vpc8TFE-t575.52", "text": "And the partly young dialogue, as we called it previously, now we call it a little bit", "start": 575.52, "end": 580.52}
+{"id": "5SQ1Vpc8TFE-t580.52", "text": "more viciously, the partly human conjecture.", "start": 580.52, "end": 583.52}
+{"id": "5SQ1Vpc8TFE-t583.52", "text": "Land has been a topic of concern for me since more than 20 years.", "start": 583.52, "end": 591.52}
+{"id": "5SQ1Vpc8TFE-t591.52", "text": "And I don't want to make the story too long, but we can, maybe in the discussion, we can", "start": 591.52, "end": 597.52}
+{"id": "5SQ1Vpc8TFE-t597.52", "text": "go into more details of how this path actually developed.", "start": 597.52, "end": 601.52}
+{"id": "5SQ1Vpc8TFE-t601.52", "text": "But, yeah, here I am, and I'm really looking forward to this.", "start": 601.52, "end": 606.52}
+{"id": "5SQ1Vpc8TFE-t606.52", "text": "So Harold is the author of numerous scholarly articles.", "start": 606.52, "end": 611.52}
+{"id": "5SQ1Vpc8TFE-t611.52", "text": "He is the editor of Journal.", "start": 611.52, "end": 614.52}
+{"id": "5SQ1Vpc8TFE-t614.52", "text": "He conducts a research as a psychological institute in Germany.", "start": 614.52, "end": 620.52}
+{"id": "5SQ1Vpc8TFE-t620.52", "text": "And he has exposed himself to Congress's immune aid analysts, which I think is incredibly brave.", "start": 620.52, "end": 628.52}
+{"id": "5SQ1Vpc8TFE-t628.52", "text": "And he's been very generous in sharing his knowledge.", "start": 628.52, "end": 633.52}
+{"id": "5SQ1Vpc8TFE-t633.52", "text": "And Joe, Harold, my colleague.", "start": 633.52, "end": 637.52}
+{"id": "5SQ1Vpc8TFE-t637.52", "text": "Hello, I know some of you.", "start": 637.52, "end": 640.52}
+{"id": "5SQ1Vpc8TFE-t640.52", "text": "It's good to see you here.", "start": 640.52, "end": 643.52}
+{"id": "5SQ1Vpc8TFE-t643.52", "text": "In terms of my background that brings me to this, I actually, like far as I've trained", "start": 643.52, "end": 648.52}
+{"id": "5SQ1Vpc8TFE-t648.52", "text": "a person to chemistry, that's why I'm being a student, a lot of chemistry.", "start": 648.52, "end": 653.52}
+{"id": "5SQ1Vpc8TFE-t653.52", "text": "I have some shared interests across these two disciplines as well.", "start": 653.52, "end": 658.52}
+{"id": "5SQ1Vpc8TFE-t658.52", "text": "However, as a topic of scholarly interest, it really emerged out of my clinical work,", "start": 658.52, "end": 665.52}
+{"id": "5SQ1Vpc8TFE-t665.52", "text": "out of a number of trauma cases that I had in the late 80s and early 90s, where a number", "start": 665.52, "end": 670.52}
+{"id": "5SQ1Vpc8TFE-t670.52", "text": "of rather extraordinary events started to happen.", "start": 670.52, "end": 673.52}
+{"id": "5SQ1Vpc8TFE-t673.52", "text": "And the question was how to clinically understand them.", "start": 673.52, "end": 677.52}
+{"id": "5SQ1Vpc8TFE-t677.52", "text": "Probably back to a revision of going support, where did he give his ideas, how did he articulate these ideas.", "start": 677.52, "end": 684.52}
+{"id": "5SQ1Vpc8TFE-t684.52", "text": "And itself is an ongoing story, as many of us know, because with the vet book,", "start": 684.52, "end": 689.52}
+{"id": "5SQ1Vpc8TFE-t689.52", "text": "he got metal pieces of his narrative that we didn't have on the start of all these stories.", "start": 689.52, "end": 695.52}
+{"id": "5SQ1Vpc8TFE-t695.52", "text": "So I find myself being drawn into a little hole in my call, spiritual ancestry,", "start": 695.52, "end": 702.52}
+{"id": "5SQ1Vpc8TFE-t702.52", "text": "and where the problem is about these.", "start": 702.52, "end": 707.52}
+{"id": "5SQ1Vpc8TFE-t707.52", "text": "Not just somebody who has looked backwards, but also with a gender space way to look forward.", "start": 707.52, "end": 714.52}
+{"id": "5SQ1Vpc8TFE-t714.52", "text": "I think this is a question of art, I'm sure, in our culture.", "start": 714.52, "end": 719.52}
+{"id": "5SQ1Vpc8TFE-t719.52", "text": "The way that this conjecture, I think that's the way they're right, the main point of this point,", "start": 719.52, "end": 724.52}
+{"id": "5SQ1Vpc8TFE-t724.52", "text": "has something that points us, not backwards, but forwards.", "start": 724.52, "end": 729.52}
+{"id": "5SQ1Vpc8TFE-t729.52", "text": "Hi, my name is Eker Schuwery, and without a shadow of immunity, I am the least qualified psychologist in this room.", "start": 729.52, "end": 738.52}
+{"id": "5SQ1Vpc8TFE-t738.52", "text": "I'm competing outside of the psychology, but I have interest in this field, I should say why.", "start": 738.52, "end": 744.52}
+{"id": "5SQ1Vpc8TFE-t744.52", "text": "I'm a professor of applied physics at Princeton University.", "start": 744.52, "end": 747.52}
+{"id": "5SQ1Vpc8TFE-t747.52", "text": "My interests have to do with the space production, new concepts for a protonic space practice space.", "start": 747.52, "end": 754.52}
+{"id": "5SQ1Vpc8TFE-t754.52", "text": "The process I come to psychology is I have also a research area called", "start": 754.52, "end": 759.52}
+{"id": "5SQ1Vpc8TFE-t759.52", "text": "Psycho-Acoistics, how humans perceive sound, and how sound and music, especially music, can be recorded,", "start": 759.52, "end": 765.52}
+{"id": "5SQ1Vpc8TFE-t765.52", "text": "or produced in 3D to approach virtual reality.", "start": 765.52, "end": 769.52}
+{"id": "5SQ1Vpc8TFE-t769.52", "text": "My interest in this topic stems from my being intrigued by any time a people's psychology psychologist", "start": 769.52, "end": 777.52}
+{"id": "5SQ1Vpc8TFE-t777.52", "text": "applied physics to the concepts or try to combine psychology and physics.", "start": 777.52, "end": 784.52}
+{"id": "5SQ1Vpc8TFE-t784.52", "text": "In the case of the topic tonight, this started as early as the first probably,", "start": 784.52, "end": 791.52}
+{"id": "5SQ1Vpc8TFE-t791.52", "text": "maybe even before, I'll start with any high-style of dinners in the early part of the century.", "start": 791.52, "end": 797.52}
+{"id": "5SQ1Vpc8TFE-t797.52", "text": "The idea of developing a system, a worldview that combines minor matter in one construct,", "start": 797.52, "end": 806.52}
+{"id": "5SQ1Vpc8TFE-t806.52", "text": "is to take them both, and can you attempt to marry physics into it, make my attention.", "start": 806.52, "end": 813.52}
+{"id": "5SQ1Vpc8TFE-t813.52", "text": "As an outsider, I've been reading papers by our panelists today, and I have a person's questions.", "start": 813.52, "end": 820.52}
+{"id": "5SQ1Vpc8TFE-t820.52", "text": "My role, as I see it myself, is not as much a skeptic,", "start": 820.52, "end": 825.52}
+{"id": "5SQ1Vpc8TFE-t825.52", "text": "or if I am as a tech advisor as I can be, and I think I will be.", "start": 825.52, "end": 830.52}
+{"id": "5SQ1Vpc8TFE-t830.52", "text": "But I am asking questions to go, so I stand to learn most from today's discussion.", "start": 830.52, "end": 838.52}
+{"id": "5SQ1Vpc8TFE-t838.52", "text": "Paulie was a brilliant young man who I think he was still very young when he developed one of the major theories,", "start": 838.52, "end": 849.52}
+{"id": "5SQ1Vpc8TFE-t849.52", "text": "physics, the exclusion principle.", "start": 849.52, "end": 853.52}
+{"id": "5SQ1Vpc8TFE-t853.52", "text": "And he was very exacting, and he was called the scourge of physics, or the conscience of physics.", "start": 853.52, "end": 860.52}
+{"id": "5SQ1Vpc8TFE-t860.52", "text": "And so we have Edgar here tonight.", "start": 860.52, "end": 864.52}
+{"id": "5SQ1Vpc8TFE-t864.52", "text": "But that's an integral to the scourge of any obfuscation that we might go into.", "start": 864.52, "end": 875.52}
+{"id": "5SQ1Vpc8TFE-t875.52", "text": "So, the borrowing was the Paulie effect, you know, Paulie, but whatever you want in the room,", "start": 875.52, "end": 880.52}
+{"id": "5SQ1Vpc8TFE-t880.52", "text": "I make me stop working, so hopefully the microphones won't be able to stay with us.", "start": 880.52, "end": 885.52}
+{"id": "5SQ1Vpc8TFE-t885.52", "text": "Yes, but yes, every place Paulie entered something broke.", "start": 885.52, "end": 892.52}
+{"id": "5SQ1Vpc8TFE-t892.52", "text": "So he was very dangerous to have a laboratory, which was one reason he was not invited to the production of the I Am Bomb.", "start": 892.52, "end": 901.52}
+{"id": "5SQ1Vpc8TFE-t901.52", "text": "And I think that was possible to fix so much of a difficult phenomenon in this past year,", "start": 901.52, "end": 909.52}
+{"id": "5SQ1Vpc8TFE-t909.52", "text": "because he had this reputation.", "start": 909.52, "end": 912.52}
+{"id": "5SQ1Vpc8TFE-t912.52", "text": "That was another exclusion principle.", "start": 912.52, "end": 914.52}
+{"id": "5SQ1Vpc8TFE-t914.52", "text": "Joe, Joe is written the most cutting edge bull-penseachronicity,", "start": 914.52, "end": 920.52}
+{"id": "5SQ1Vpc8TFE-t920.52", "text": "which is available online, Texas A&M.", "start": 920.52, "end": 924.52}
+{"id": "5SQ1Vpc8TFE-t924.52", "text": "He was president of the International Association of Analytical Psychology,", "start": 924.52, "end": 929.52}
+{"id": "5SQ1Vpc8TFE-t929.52", "text": "which is the International Food Surprising and Analyst.", "start": 929.52, "end": 933.52}
+{"id": "5SQ1Vpc8TFE-t933.52", "text": "Again, this taught and lectured a great deal and has been a very good friend.", "start": 933.52, "end": 940.52}
+{"id": "5SQ1Vpc8TFE-t940.52", "text": "And Edgar is head of the aerospace department at Princeton.", "start": 940.52, "end": 944.52}
+{"id": "5SQ1Vpc8TFE-t944.52", "text": "He has one laboratory that is an airplane hangar.", "start": 944.52, "end": 948.52}
+{"id": "5SQ1Vpc8TFE-t948.52", "text": "And another one that is a sound studio.", "start": 948.52, "end": 951.52}
+{"id": "5SQ1Vpc8TFE-t951.52", "text": "So that gives you a sense.", "start": 951.52, "end": 954.52}
+{"id": "5SQ1Vpc8TFE-t954.52", "text": "And one of the great questions that comes up about this mind-matter correlation", "start": 954.52, "end": 960.52}
+{"id": "5SQ1Vpc8TFE-t960.52", "text": "is it's not only what does the mind perceive and take in about what's going on in the material world,", "start": 960.52, "end": 969.52}
+{"id": "5SQ1Vpc8TFE-t969.52", "text": "it's also how is the human mind able to penetrate the material world?", "start": 969.52, "end": 977.52}
+{"id": "5SQ1Vpc8TFE-t977.52", "text": "So how is it that a mind inside someone's head can penetrate how to send the rocket into space?", "start": 977.52, "end": 986.52}
+{"id": "5SQ1Vpc8TFE-t986.52", "text": "You know, that is one of the great, I think, questions.", "start": 986.52, "end": 991.52}
+{"id": "5SQ1Vpc8TFE-t991.52", "text": "There's a wonder of scientists in the Chalmers who talks about the great problem of consciousness,", "start": 991.52, "end": 1000.52}
+{"id": "5SQ1Vpc8TFE-t1000.52", "text": "but I think this idea of synchronicity extends it a bit to what is the place of consciousness in the world?", "start": 1000.52, "end": 1008.52}
+{"id": "5SQ1Vpc8TFE-t1008.52", "text": "What is the place of consciousness in the universe?", "start": 1008.52, "end": 1011.52}
+{"id": "5SQ1Vpc8TFE-t1011.52", "text": "And how does it function? And why is it here?", "start": 1011.52, "end": 1015.52}
+{"id": "5SQ1Vpc8TFE-t1015.52", "text": "And so I hope these are all topics that we can cover.", "start": 1015.52, "end": 1019.52}
+{"id": "5SQ1Vpc8TFE-t1019.52", "text": "Just to get a little historical background and then we'll just get going on some of the topics.", "start": 1019.52, "end": 1026.52}
+{"id": "5SQ1Vpc8TFE-t1026.52", "text": "Jung was a professor at the A. Taehah where Harold is now.", "start": 1026.52, "end": 1032.52}
+{"id": "5SQ1Vpc8TFE-t1032.52", "text": "And at the same time there was a young professor named Albert Einstein who didn't have much money.", "start": 1032.52, "end": 1038.52}
+{"id": "5SQ1Vpc8TFE-t1038.52", "text": "So Jung kept inviting him to his house for dinner to feed him and to learn what he could.", "start": 1038.52, "end": 1045.52}
+{"id": "5SQ1Vpc8TFE-t1045.52", "text": "And I think that these conversations with Albert Einstein had a huge effect on Jung's whole trajectory", "start": 1045.52, "end": 1054.52}
+{"id": "5SQ1Vpc8TFE-t1054.52", "text": "because it was in the summer of 1911 and 1912 when he wrote to Freud that he was having these conversations", "start": 1054.52, "end": 1063.52}
+{"id": "5SQ1Vpc8TFE-t1063.52", "text": "with the young physicist about the nature of light.", "start": 1063.52, "end": 1068.52}
+{"id": "5SQ1Vpc8TFE-t1068.52", "text": "And why not to describe Einstein's theory at the quantum of energy?", "start": 1068.52, "end": 1074.52}
+{"id": "5SQ1Vpc8TFE-t1074.52", "text": "Shortly after that Jung separated from Freud mostly around the topic of how all psychic energy could not be considered sexual.", "start": 1074.52, "end": 1085.52}
+{"id": "5SQ1Vpc8TFE-t1085.52", "text": "That you know this sense of the magnitude of how this young physicist was dealing with energy made it impossible for Jung to reduce it all", "start": 1085.52, "end": 1098.52}
+{"id": "5SQ1Vpc8TFE-t1098.52", "text": "to sexuality being the source of all forms of psychic energy in sort of hidden or obvious ways.", "start": 1098.52, "end": 1108.52}
+{"id": "5SQ1Vpc8TFE-t1108.52", "text": "And so he threw out his life.", "start": 1108.52, "end": 1112.52}
+{"id": "5SQ1Vpc8TFE-t1112.52", "text": "Thankfully, Jung thinks he felt that Einstein and then he got involved with this young physicist again.", "start": 1112.52, "end": 1120.52}
+{"id": "5SQ1Vpc8TFE-t1120.52", "text": "Jung was 55. Wilfmann Pauli was 30.", "start": 1120.52, "end": 1124.52}
+{"id": "5SQ1Vpc8TFE-t1124.52", "text": "He already was recognized as the brilliant but very disturbed.", "start": 1124.52, "end": 1129.52}
+{"id": "5SQ1Vpc8TFE-t1129.52", "text": "And so he came to Jung to ask for help with his psyche.", "start": 1129.52, "end": 1136.52}
+{"id": "5SQ1Vpc8TFE-t1136.52", "text": "And Jung said him to someone else to do analysis with but then Pauli gave Jung 1400 of his dreams that he had carefully worked on", "start": 1136.52, "end": 1147.52}
+{"id": "5SQ1Vpc8TFE-t1147.52", "text": "and made all sorts of associations and applications.", "start": 1147.52, "end": 1155.52}
+{"id": "5SQ1Vpc8TFE-t1155.52", "text": "And that became the material for a book that Jung then wrote called Psychology in Alchemy.", "start": 1155.52, "end": 1163.52}
+{"id": "5SQ1Vpc8TFE-t1163.52", "text": "And then after that he and Pauli started a correspondence which is then published by Princeton Press while Adam and Architite.", "start": 1163.52, "end": 1171.52}
+{"id": "5SQ1Vpc8TFE-t1171.52", "text": "And they worked out in this correspondence and in their meetings the theory of synchronicity that we're going to talk about tonight.", "start": 1171.52, "end": 1180.52}
+{"id": "5SQ1Vpc8TFE-t1180.52", "text": "So, Joe, do you want to start off with it in terms of how to do it from a psychological issue?", "start": 1180.52, "end": 1188.52}
+{"id": "5SQ1Vpc8TFE-t1188.52", "text": "And then Harold, would you give something about your entry to it?", "start": 1188.52, "end": 1196.52}
+{"id": "5SQ1Vpc8TFE-t1196.52", "text": "I guess where I like to start is that it was experiential freedom.", "start": 1196.52, "end": 1201.52}
+{"id": "5SQ1Vpc8TFE-t1201.52", "text": "This was not an abstract concept for him as part of his lived experience.", "start": 1201.52, "end": 1206.52}
+{"id": "5SQ1Vpc8TFE-t1206.52", "text": "And it started with some of the things that began to happen to him around the break with Freud and his own psychological struggles with that.", "start": 1206.52, "end": 1218.52}
+{"id": "5SQ1Vpc8TFE-t1218.52", "text": "He underwent a very intense process that's chronicled in the red book.", "start": 1218.52, "end": 1224.52}
+{"id": "5SQ1Vpc8TFE-t1224.52", "text": "But it's really when he is able to come through that and simultaneously World War I breaks up that he realizes that the struggle that he's undergone is mirrored in some way in the world and that's a problem for him because he neither believes himself to be a prophet, nor does he really think he's a mad man.", "start": 1224.52, "end": 1246.52}
+{"id": "5SQ1Vpc8TFE-t1246.52", "text": "And so the question of how does this influence?", "start": 1246.52, "end": 1249.52}
+{"id": "5SQ1Vpc8TFE-t1249.52", "text": "I guess in another 15 years before he's able to make an exit from that.", "start": 1249.52, "end": 1254.52}
+{"id": "5SQ1Vpc8TFE-t1254.52", "text": "The way he exits from that is that he is working a very deep way drawing these mandala images on a regular basis.", "start": 1254.52, "end": 1264.52}
+{"id": "5SQ1Vpc8TFE-t1264.52", "text": "And in the midst of a particularly gripping one, he received a manuscript from a close friend in China, Richard Wilhelm, which ultimately becomes the secret of the Golden Blower.", "start": 1264.52, "end": 1277.52}
+{"id": "5SQ1Vpc8TFE-t1277.52", "text": "And Wilhelm was writing him and asking him to do a commentary on this.", "start": 1277.52, "end": 1281.52}
+{"id": "5SQ1Vpc8TFE-t1281.52", "text": "And you'll look at the Vajramandala that's in there and he was stunned because for him it was a rather close replication of the material that he was working on.", "start": 1281.52, "end": 1291.52}
+{"id": "5SQ1Vpc8TFE-t1291.52", "text": "And after that, he's heard of this as a phenomenon that I can stop this red book business and return to the world of science.", "start": 1291.52, "end": 1299.52}
+{"id": "5SQ1Vpc8TFE-t1299.52", "text": "And it's an interesting conundrum. What does he mean by that? Part of the way I would understand it to enter from a psychological sense is that he has now realized that his dilemma of neither prophecy or madness as a solution comes with the notion that there may be a level of objective meaning", "start": 1299.52, "end": 1318.52}
+{"id": "5SQ1Vpc8TFE-t1318.52", "text": "that is part of human experience. And how we enter that is key. Clinically this is what comes up over and over again. Anyone who does depth work, I won't do it now to take the time, but I've got some work from some psychoanalysts who are not at all influenced by doing it.", "start": 1318.52, "end": 1335.52}
+{"id": "5SQ1Vpc8TFE-t1335.52", "text": "But when they present some of their clinical material, strikingly working at a deep level, these kinds of events, this correlation between what's happening internally and what's happening externally show up again and again.", "start": 1335.52, "end": 1348.52}
+{"id": "5SQ1Vpc8TFE-t1348.52", "text": "So this correlation that can't be easily ignored, that has great emotional impact and often is transformative for people, it comes for me a extremely important psychological tool. I don't think we can control it and manipulate it, but we do have to work with the levels of reality", "start": 1348.52, "end": 1368.52}
+{"id": "5SQ1Vpc8TFE-t1368.52", "text": "that the mind is able to penetrate into from a psychological side. And then I think it's our colleagues on the matter side that we're interested in being in dialogue with.", "start": 1368.52, "end": 1378.52}
+{"id": "5SQ1Vpc8TFE-t1378.52", "text": "Just to ground that, do you get any sample of the kind of synchronicity that either patients report or do you experience in the classroom?", "start": 1378.52, "end": 1388.52}
+{"id": "5SQ1Vpc8TFE-t1388.52", "text": "My own argument here, which is a little different than Jung's, is I think there's a spectrum that that is there are varying levels of intensity. And in fact, the model that he puts forward in this probably Jung conjecture", "start": 1388.52, "end": 1401.52}
+{"id": "5SQ1Vpc8TFE-t1401.52", "text": "actually gives us some tools to talk about that spectrum of these things because Jung as a pioneer looked for the largest examples, and I can give you one, you know, I was working with someone who would have very severe trauma history.", "start": 1401.52, "end": 1415.52}
+{"id": "5SQ1Vpc8TFE-t1415.52", "text": "Every time I would leave for more than a week, we would have to put her in the hospital so that self-destructive behaviors would get out of control.", "start": 1415.52, "end": 1425.52}
+{"id": "5SQ1Vpc8TFE-t1425.52", "text": "And finally, after about a year and a half of this rather continued work, she asked if she could have a phone call between...", "start": 1425.52, "end": 1433.52}
+{"id": "5SQ1Vpc8TFE-t1433.52", "text": "Well, I was awake. That's a course of breach of normal analytic protocol, but after some consultation, I decided to do this.", "start": 1433.52, "end": 1441.52}
+{"id": "5SQ1Vpc8TFE-t1441.52", "text": "And when I got on the phone with her, the first thing she said, I'm in Germany, asked her why she was asking me how that was. That was in the Caribbean, frankly.", "start": 1441.52, "end": 1451.52}
+{"id": "5SQ1Vpc8TFE-t1451.52", "text": "And she said, well, I haven't dreamed last night, you were in the black forest and I couldn't find you.", "start": 1451.52, "end": 1456.52}
+{"id": "5SQ1Vpc8TFE-t1456.52", "text": "And it obviously spoke to a level of disorganization and distress of this person in the cell phone.", "start": 1456.52, "end": 1462.52}
+{"id": "5SQ1Vpc8TFE-t1462.52", "text": "And I worked for the remainder of the time on the phone, helping contend that. And in fact, the woman was able to stay out of the hospital during that period.", "start": 1462.52, "end": 1472.52}
+{"id": "5SQ1Vpc8TFE-t1472.52", "text": "The next day, I was beginning a course in diving, well, we were in the Caribbean, and I was asked to go out for my maiden dive, the first dive in open water.", "start": 1472.52, "end": 1485.52}
+{"id": "5SQ1Vpc8TFE-t1485.52", "text": "And I, with some trepidation, agreed, and then the dive master said he would be my dive buddy.", "start": 1485.52, "end": 1493.52}
+{"id": "5SQ1Vpc8TFE-t1493.52", "text": "And as we got out there, he'd pull us around and say, let me tell you about the site today, it's called the black forest.", "start": 1493.52, "end": 1500.52}
+{"id": "5SQ1Vpc8TFE-t1500.52", "text": "And so there's this moment of crisis, obviously, you know, what am I jumping into?", "start": 1500.52, "end": 1504.52}
+{"id": "5SQ1Vpc8TFE-t1504.52", "text": "It's psychologically what's happened between the patient and myself as a pre-cognitive dream?", "start": 1504.52, "end": 1511.52}
+{"id": "5SQ1Vpc8TFE-t1511.52", "text": "What is the quality of this field of interaction between us?", "start": 1511.52, "end": 1515.52}
+{"id": "5SQ1Vpc8TFE-t1515.52", "text": "And one of the things, I won't go into a long detail, I won't close it quickly, but one of the things that I would be most impressed with is that we were both in an image that we shared that is the black forest.", "start": 1515.52, "end": 1526.52}
+{"id": "5SQ1Vpc8TFE-t1526.52", "text": "Hers was one of a sort of world of Grimm's fairy tales, childhood monsters, mine turned out to be black coral, which was an exquisite dive, that was one of the more transcendent moments in my life.", "start": 1526.52, "end": 1539.52}
+{"id": "5SQ1Vpc8TFE-t1539.52", "text": "And yet here we are both in the same image.", "start": 1539.52, "end": 1542.52}
+{"id": "5SQ1Vpc8TFE-t1542.52", "text": "I obviously had been overly rational with her, and I'd been hit by her irrationality, and together we have been brought into what I would call an emergent space, this edge of order and chaos, where this image of the black forest was manifesting in both of our lives in different ways, but in very parallel and meaningful ways.", "start": 1542.52, "end": 1562.52}
+{"id": "5SQ1Vpc8TFE-t1562.52", "text": "Yeah, I think it's important to say that there is one really essential commonality between the entry points of no, as is an image before, and power into this whole issue of what we would call the might matter for relations or like a physical correlation.", "start": 1562.52, "end": 1584.52}
+{"id": "5SQ1Vpc8TFE-t1584.52", "text": "And so, conicities are special cases, in a way, and this commonality is personal experience, really.", "start": 1584.52, "end": 1593.52}
+{"id": "5SQ1Vpc8TFE-t1593.52", "text": "You mentioned that you have these experiences, and it has therapeutic practice over and over again.", "start": 1593.52, "end": 1601.52}
+{"id": "5SQ1Vpc8TFE-t1601.52", "text": "How do you have them in his personal crisis in his life very much in the 1930s, 31, 32, which was actually the reason why he went to you and met him.", "start": 1601.52, "end": 1613.52}
+{"id": "5SQ1Vpc8TFE-t1613.52", "text": "And then also, I mean, I can mention these, how they affect things.", "start": 1613.52, "end": 1619.52}
+{"id": "5SQ1Vpc8TFE-t1619.52", "text": "Things would break when he entered laboratories of colleagues and stuff like that.", "start": 1619.52, "end": 1625.52}
+{"id": "5SQ1Vpc8TFE-t1625.52", "text": "So he had these experiences.", "start": 1625.52, "end": 1627.52}
+{"id": "5SQ1Vpc8TFE-t1627.52", "text": "But now the difference between a psychologist like Jung and the physicist like Pauli in how they confront themselves with these experiences is that Pauli would never tell people about his anecdotal experiences.", "start": 1627.52, "end": 1643.52}
+{"id": "5SQ1Vpc8TFE-t1643.52", "text": "He would try to find the systematic way to understand him.", "start": 1643.52, "end": 1648.52}
+{"id": "5SQ1Vpc8TFE-t1648.52", "text": "And he would enter into a public discussion only at the level of when he had a theoretical framework, at least an idea, how to talk about these things in a scientifically coherent fashion, like you say.", "start": 1648.52, "end": 1661.52}
+{"id": "5SQ1Vpc8TFE-t1661.52", "text": "And of course, we all know this is a very significant problem for these things.", "start": 1661.52, "end": 1667.52}
+{"id": "5SQ1Vpc8TFE-t1667.52", "text": "But that also makes the topic so interesting for us today.", "start": 1667.52, "end": 1679.52}
+{"id": "5SQ1Vpc8TFE-t1679.52", "text": "And what we now have from the Pauli EU correspondence and also from publications that you published and also with Pauli published in Jones and books, we have sort of fragments of something that might one day become a theory.", "start": 1679.52, "end": 1695.52}
+{"id": "5SQ1Vpc8TFE-t1695.52", "text": "It's not one in fragments, but we look at the material.", "start": 1695.52, "end": 1698.52}
+{"id": "5SQ1Vpc8TFE-t1698.52", "text": "And I think the real work that people like me and many others have been trying to do is reconstruct from these scattered remarks and fragments reconstruct what I would call a coherent framework of thinking.", "start": 1698.52, "end": 1713.52}
+{"id": "5SQ1Vpc8TFE-t1713.52", "text": "It's not near the theory.", "start": 1713.52, "end": 1715.52}
+{"id": "5SQ1Vpc8TFE-t1715.52", "text": "I really try to do it a long way, but it's a kind of attempt to reconstruct a historically existing material and bring it into a form that may allow us to understand these experiences in a better way.", "start": 1715.52, "end": 1730.52}
+{"id": "5SQ1Vpc8TFE-t1730.52", "text": "And for a physicist, it's a huge step to go outside physics, to go to experiences which are obviously not physically experiments or something like that.", "start": 1730.52, "end": 1747.52}
+{"id": "5SQ1Vpc8TFE-t1747.52", "text": "And we're really talking about the meaning of two spirits, two minds, two of the greatest minds of the 20th century, which try to approach this revolutionary thing, which we might call relationships between the mental and material.", "start": 1747.52, "end": 1766.52}
+{"id": "5SQ1Vpc8TFE-t1766.52", "text": "And you haven't mentioned Dave Thomas.", "start": 1766.52, "end": 1770.52}
+{"id": "5SQ1Vpc8TFE-t1770.52", "text": "You know Dave Thomas is since a few weeks, he's a member of the faculty here at New York University.", "start": 1770.52, "end": 1776.52}
+{"id": "5SQ1Vpc8TFE-t1776.52", "text": "And he has coined the notion of the heart problem of consciousness and I think this is very much related to the Pauli Jung debate, to the Pauli Jung conjecture I should say, as many other themes that are now discussed in the philosophy of mind and philosophy of science are related to this.", "start": 1776.52, "end": 1796.52}
+{"id": "5SQ1Vpc8TFE-t1796.52", "text": "And let me just finish with one remark, which was one observation that I actually am making since one or two years on conferences and also discussions with colleagues.", "start": 1796.52, "end": 1809.52}
+{"id": "5SQ1Vpc8TFE-t1809.52", "text": "The program that for a long time was considered the program in the philosophy of science, the physicalist program to reduce everything to physics.", "start": 1809.52, "end": 1820.52}
+{"id": "5SQ1Vpc8TFE-t1820.52", "text": "That has created now a lot of disappointment. There were huge promises in the 1990s, everybody was talking about the decade of the brain, right? And the decade of the brain is still somehow there, but people get more and more frustrated because the big problems could not be solved after 20, 25, 30 years by this, what I call the physicalist approach.", "start": 1820.52, "end": 1844.52}
+{"id": "5SQ1Vpc8TFE-t1844.52", "text": "And now people are looking for alternatives more and more at big conferences, this is really a theme which is discussed very openly.", "start": 1844.52, "end": 1852.52}
+{"id": "5SQ1Vpc8TFE-t1852.52", "text": "And I think the Pauli Jung stuff is one of the really viable alternatives, the physicalist, and that's why it has a very good chance to go beyond the psychoanalyst societies and beyond the people who know Pauli from the history of science point of view, it really becomes a research talk.", "start": 1852.52, "end": 1873.52}
+{"id": "5SQ1Vpc8TFE-t1873.52", "text": "And that's great.", "start": 1873.52, "end": 1878.52}
+{"id": "5SQ1Vpc8TFE-t1878.52", "text": "Thank you. One fact that is implicit and becoming more explicit is inside deep that the human mind can not only relate to the world around it, but decipher it.", "start": 1878.52, "end": 1896.52}
+{"id": "5SQ1Vpc8TFE-t1896.52", "text": "And also that it's the mind that notices unusual connections that cannot be explained with our understanding of what causality is.", "start": 1896.52, "end": 1909.52}
+{"id": "5SQ1Vpc8TFE-t1909.52", "text": "Is this whole idea of what is now called the mind, brain, or the mind, body continuum or the psychophysical world implicit in that is that the whole of the world's interconnected.", "start": 1909.52, "end": 1928.52}
+{"id": "5SQ1Vpc8TFE-t1928.52", "text": "And that the human mind is in an interconnected relationship with the world that now from the psychological point of view we register both unconsciously and consciously.", "start": 1928.52, "end": 1942.52}
+{"id": "5SQ1Vpc8TFE-t1942.52", "text": "Synchronicities are experienced as a kind of shock, as a kind of surprise, they seem anomalous.", "start": 1942.52, "end": 1952.52}
+{"id": "5SQ1Vpc8TFE-t1952.52", "text": "And what I have seen both in my own life and in the life of patients is that it's very often asking for very particular embodiment and coming into the presence and relating to the world from that.", "start": 1952.52, "end": 1971.52}
+{"id": "5SQ1Vpc8TFE-t1971.52", "text": "A further implication is that we are not just a hoot but a what. And that through our whatness that we are related to the whatness of the world.", "start": 1971.52, "end": 1987.52}
+{"id": "5SQ1Vpc8TFE-t1987.52", "text": "And from that sense of that experience that here we are somehow in some juncture where we are observing connections that we then are in this relation to the world that needs to have a responsiveness and responsibility that comes with it, the whatness of the world.", "start": 1987.52, "end": 2013.52}
+{"id": "5SQ1Vpc8TFE-t2013.52", "text": "So it develops I think into a very large kind of environmental sensitivity and a sense of relationship to the planet.", "start": 2013.52, "end": 2025.52}
+{"id": "5SQ1Vpc8TFE-t2025.52", "text": "That is why Jung talked about a certain kind of conscience coming along with experiences of sacredness.", "start": 2025.52, "end": 2033.52}
+{"id": "5SQ1Vpc8TFE-t2033.52", "text": "I just wanted to play that out a bit.", "start": 2033.52, "end": 2036.52}
+{"id": "5SQ1Vpc8TFE-t2036.52", "text": "I could continue both of these lines.", "start": 2036.52, "end": 2043.52}
+{"id": "5SQ1Vpc8TFE-t2043.52", "text": "The philosophy of science did has come to an impasse.", "start": 2043.52, "end": 2048.52}
+{"id": "5SQ1Vpc8TFE-t2048.52", "text": "It's been long coming since about the 50s and 60s when the whole program will have a positiveism and physicalism is questioned.", "start": 2048.52, "end": 2057.52}
+{"id": "5SQ1Vpc8TFE-t2057.52", "text": "And the expectations didn't come to fruition as dreamed up.", "start": 2057.52, "end": 2067.52}
+{"id": "5SQ1Vpc8TFE-t2067.52", "text": "In the meantime, a different program in philosophy of science came up that really addresses this issue of responsibility and conscience.", "start": 2067.52, "end": 2074.52}
+{"id": "5SQ1Vpc8TFE-t2074.52", "text": "The branch of it has different names but essentially looking at the sociology of science looking at the philosophy of science in practice as it's actually carried out within its social political context within its cultural context.", "start": 2074.52, "end": 2091.52}
+{"id": "5SQ1Vpc8TFE-t2091.52", "text": "Studies that have been done in that area tend to raise the awareness of scientists, well a certain general public, but the scientists themselves, that what they're doing has impact in a broad sense far beyond the theoretical frameworks that they're trying to perfect.", "start": 2091.52, "end": 2115.52}
+{"id": "5SQ1Vpc8TFE-t2115.52", "text": "Okay, so I will now zoom back into the pairing of Pauli and Jung.", "start": 2115.52, "end": 2124.52}
+{"id": "5SQ1Vpc8TFE-t2124.52", "text": "Here you have a physicist and a psychologist who in our framework of Western science as we have it are as far apart as you can get.", "start": 2124.52, "end": 2134.52}
+{"id": "5SQ1Vpc8TFE-t2134.52", "text": "They're about far enough that they would meet if this were a circle, which they in fact did.", "start": 2134.52, "end": 2139.52}
+{"id": "5SQ1Vpc8TFE-t2139.52", "text": "And the conjecture really is that they're not apart. There's one world of which these are dual aspects, the Pauli Jung conjecture that Harold's been talking about.", "start": 2139.52, "end": 2151.52}
+{"id": "5SQ1Vpc8TFE-t2151.52", "text": "So was that an exception?", "start": 2151.52, "end": 2157.52}
+{"id": "5SQ1Vpc8TFE-t2157.52", "text": "It sounds like one and it reminds me that there's a couple of ways of talking about synchronicity at least, one, two extremes maybe. One is that synchronicities are these extreme events of high emotional intensity that practically break a person down or shock a person into a moment of awareness.", "start": 2157.52, "end": 2177.52}
+{"id": "5SQ1Vpc8TFE-t2177.52", "text": "Then as Joseph mentioned tonight, there is a spectrum. There's an intensity that you can get stronger and stronger and weaker and weaker senses of synchronicity, where the meaningful coincidences are not just once in a lifetime or once a year or once a generation, but sort of a current because this is the nature of reality.", "start": 2177.52, "end": 2203.52}
+{"id": "5SQ1Vpc8TFE-t2203.52", "text": "Well, along those lines, if the philosophy of science is coming to a consciousness of its role in shaping both science and society, it would be ideal if the ethical awareness or the moral awareness would not have to be brought in externally to science the way it has been in the past with", "start": 2203.52, "end": 2229.52}
+{"id": "5SQ1Vpc8TFE-t2229.52", "text": "the Council on Ethics for the genome, another Council for the bomb, another Council. It should come up from within science itself. How would that happen?", "start": 2229.52, "end": 2243.52}
+{"id": "5SQ1Vpc8TFE-t2243.52", "text": "So, a recent set of studies within the last 10 years or less taking place with funding from the National Science Foundation and taking place in a number of universities across the country.", "start": 2243.52, "end": 2256.52}
+{"id": "5SQ1Vpc8TFE-t2256.52", "text": "So, we do this very simple thing of putting a humanist or social scientist within a lab, within a natural science lab, to basically be with the physical scientists.", "start": 2256.52, "end": 2273.52}
+{"id": "5SQ1Vpc8TFE-t2273.52", "text": "Why?", "start": 2273.52, "end": 2275.52}
+{"id": "5SQ1Vpc8TFE-t2275.52", "text": "That's technology.", "start": 2275.52, "end": 2277.52}
+{"id": "5SQ1Vpc8TFE-t2277.52", "text": "They're performing technology. They're acting like anthropologists. You could say in this foreign tribe, etc. The way that this was done in the early 60s and 70s by a brilliant Frenchman whose name escapes me at the moment.", "start": 2277.52, "end": 2293.52}
+{"id": "5SQ1Vpc8TFE-t2293.52", "text": "Anyone starts with a B, Bruno Littur, of course. So, this is sort of since the 70s when he did this laboratory life, I think, was the first study.", "start": 2293.52, "end": 2307.52}
+{"id": "5SQ1Vpc8TFE-t2307.52", "text": "This is now 2003, 4, 5, 10. What happens? Now, this is the part where I've become interested in science. I was not involved in any of these, but I was part of the team who looked at the results and tried to put together frameworks.", "start": 2307.52, "end": 2322.52}
+{"id": "5SQ1Vpc8TFE-t2322.52", "text": "What happens is something very similar as what happens in therapy situation or in this pairing of young and poly. They start to think alike. They start to essentially constellate something together that neither of them could do separately.", "start": 2322.52, "end": 2340.52}
+{"id": "5SQ1Vpc8TFE-t2340.52", "text": "By exposure of over 12 period or so, the questions of the social scientists or the humans become the questions of the physical scientists and vice versa. And this is not by virtue of the one asking ethics questions of the other, but sort of indirectly.", "start": 2340.52, "end": 2361.52}
+{"id": "5SQ1Vpc8TFE-t2361.52", "text": "The idea was to ask indirect questions of the scientist, what are you doing? How's it going? Sort of the way therapists are supposed to do when they're not being directed, not being a therapist. I'm not sure if that's the moment.", "start": 2361.52, "end": 2375.52}
+{"id": "5SQ1Vpc8TFE-t2375.52", "text": "Anyway, in the course of just being together and so forth, this thing emerges and at some point the frequency of interaction, the intensity of the conversation, and then the flipping where one dynamic of one way of thinking sort of is entrained by the dynamic of the other begins to happen.", "start": 2375.52, "end": 2398.52}
+{"id": "5SQ1Vpc8TFE-t2398.52", "text": "And not as intensely as we have with two geniuses, young poly, but sort of spread out widespread.", "start": 2398.52, "end": 2409.52}
+{"id": "5SQ1Vpc8TFE-t2409.52", "text": "So that's what I bring to the table, witnessing this thing and trying to see if there's some generality here, some sense of dynamic that is not restricted to the very exceptional case.", "start": 2409.52, "end": 2426.52}
+{"id": "5SQ1Vpc8TFE-t2426.52", "text": "It's not restricted to the very high level theory of how matter in mind could possibly be linked in some exotic mathematical format.", "start": 2426.52, "end": 2437.52}
+{"id": "5SQ1Vpc8TFE-t2437.52", "text": "It would include that, but also sort of spread further than that into these larger and larger and more general contexts of interaction between people across the spectrum.", "start": 2437.52, "end": 2450.52}
+{"id": "5SQ1Vpc8TFE-t2450.52", "text": "Could you give an example of what you've seen when you've gone into a laboratory and how your presence affects the experimental experiment?", "start": 2450.52, "end": 2460.52}
+{"id": "5SQ1Vpc8TFE-t2460.52", "text": "Well, I was not involved in doing these studies myself. I have worked in a lab with scientists as a chemist and all that, so I'm kind of an impure sample right here.", "start": 2460.52, "end": 2470.52}
+{"id": "5SQ1Vpc8TFE-t2470.52", "text": "But I can tell you the accounts of the PhD students who I did talk with and interviewed after they did their work.", "start": 2470.52, "end": 2480.52}
+{"id": "5SQ1Vpc8TFE-t2480.52", "text": "And essentially, what happened was, I think to put it in very brief form, the political scientist who was assigned to a fertility lab, so they're doing genomics.", "start": 2480.52, "end": 2493.52}
+{"id": "5SQ1Vpc8TFE-t2493.52", "text": "Basically, after some time, she went trial, or native. I guess that's the term, she went native.", "start": 2493.52, "end": 2503.52}
+{"id": "5SQ1Vpc8TFE-t2503.52", "text": "And what that means is that she became a member of the lab. She was trained in the techniques of preparing samples and so forth.", "start": 2503.52, "end": 2510.52}
+{"id": "5SQ1Vpc8TFE-t2510.52", "text": "So she was asking questions, questions, questions. They said, all right, listen, let's just show you how it's done.", "start": 2510.52, "end": 2516.52}
+{"id": "5SQ1Vpc8TFE-t2516.52", "text": "And then so she embodied the activity, the work of these people. In the process of doing that, sympathetically listening and then becoming actually quite good at sample prep, this changed their attitude about who she was.", "start": 2516.52, "end": 2537.52}
+{"id": "5SQ1Vpc8TFE-t2537.52", "text": "And they started to wonder more about her and think along her lines, to bring the story short, this is in an article, it's in a book coming out about Young's 100th anniversary, I forget the title of this book at the Ford and Lectures.", "start": 2537.52, "end": 2554.52}
+{"id": "5SQ1Vpc8TFE-t2554.52", "text": "But essentially the chart version and the story is that by the end of this, the lab director began to think along the lines of what does our lab look like from the outside?", "start": 2554.52, "end": 2568.52}
+{"id": "5SQ1Vpc8TFE-t2568.52", "text": "What is the impact we're having on the community that we're in? If we're having this effect on this moment, these are questions that she's having for us.", "start": 2568.52, "end": 2576.52}
+{"id": "5SQ1Vpc8TFE-t2576.52", "text": "Essentially, shifted his thinking and rearranged some of the activities of the lab, some of the communications of the lab, and actually asked to co-author some papers with her about the activity going on in the lab.", "start": 2576.52, "end": 2591.52}
+{"id": "5SQ1Vpc8TFE-t2591.52", "text": "One other thing that happened that I have to relate is that there had been persistent questions, questions both of procedure and of ethics about taking blood from the actual researchers. They were using their own blood in the research.", "start": 2591.52, "end": 2607.52}
+{"id": "5SQ1Vpc8TFE-t2607.52", "text": "And they weren't sure whether this was what the status of this was morally. And scientifically, they kind of worked it out, but they weren't really sure about the status of the morality of this. And they didn't know how to think about this.", "start": 2607.52, "end": 2621.52}
+{"id": "5SQ1Vpc8TFE-t2621.52", "text": "But that was just sort of sitting there below the surface, continuing and continuing, but never really reaching the surface to become a decision. And as with the case with the other social scientists and humanists, I know, in almost every case, something comes out from the depths and becomes a decision.", "start": 2621.52, "end": 2643.52}
+{"id": "5SQ1Vpc8TFE-t2643.52", "text": "Whereas before it was not even acknowledged as something that required decision in action. And that's the beginning really of responsibility.", "start": 2643.52, "end": 2654.52}
+{"id": "5SQ1Vpc8TFE-t2654.52", "text": "I'm still trying to figure out myself. But first, I should say that I'm very intrigued, but Harold and Frasza both said, and I want to pick up on it to the question.", "start": 2654.52, "end": 2678.52}
+{"id": "5SQ1Vpc8TFE-t2678.52", "text": "And I'll come back to the question of creativity and enthusiasm space research, if I can speculate on that. But mostly, I think what Harold told us, and also Frasza explained also more, that there is a consensus at least in the community of the strongness of science and also other communities,", "start": 2678.52, "end": 2700.52}
+{"id": "5SQ1Vpc8TFE-t2700.52", "text": "that the positivism and physicalism has failed in reaching both the world of the sciences of the mind and the sciences of the matter.", "start": 2700.52, "end": 2714.52}
+{"id": "5SQ1Vpc8TFE-t2714.52", "text": "And Harold talks about the young public conjecture as a starting point for a hopefully more successful description. But Harold didn't tell you because he's humble, but he has done a major headway in that direction.", "start": 2714.52, "end": 2731.52}
+{"id": "5SQ1Vpc8TFE-t2731.52", "text": "And in some seminal papers he actually, because of his background in physics, he was able to find really fundamental important relationship and properties, and I'm going to try to describe them in a simple fashion,", "start": 2731.52, "end": 2746.52}
+{"id": "5SQ1Vpc8TFE-t2746.52", "text": "and then he applied on this conjecture as being a very promising head point, a starting point. So what I'd like to do is describe to you from my understanding of what some of the world that Harold has done, and give it towards a question which I would like to ask.", "start": 2746.52, "end": 2765.52}
+{"id": "5SQ1Vpc8TFE-t2765.52", "text": "And basically, and this is really at the heart of the discussion today, the relevance of the hourly young conjecture. So basically, in physics, we do measurements, of course.", "start": 2765.52, "end": 2779.52}
+{"id": "5SQ1Vpc8TFE-t2779.52", "text": "The measurements take us from a realm of the properties of material, to the realm of knowledge of how materials behave.", "start": 2779.52, "end": 2787.52}
+{"id": "5SQ1Vpc8TFE-t2787.52", "text": "So using nomenclature, using in the field where Harold works, who talks, they talk about an empty reality, or ontology is the realm basically, a particle has mass, has momentum, has energy, thinks one could measure.", "start": 2787.52, "end": 2804.52}
+{"id": "5SQ1Vpc8TFE-t2804.52", "text": "We call that an empty, the realm of the reality. And a measurement takes us from that realm to an epistemic reality where we can know something about how the particles behave.", "start": 2804.52, "end": 2814.52}
+{"id": "5SQ1Vpc8TFE-t2814.52", "text": "So what scientists do, they take a measurement, it takes us from the onto-creality to a epistemic reality, the realm of epistemology, the science of knowledge.", "start": 2814.52, "end": 2825.52}
+{"id": "5SQ1Vpc8TFE-t2825.52", "text": "What's incredible about quantum physics, what the revolution that happens in the early part of that century, is that physicists discover, and partly play the major role in that, that the mere act of making the measurement has a back reaction, so to speak.", "start": 2825.52, "end": 2840.52}
+{"id": "5SQ1Vpc8TFE-t2840.52", "text": "It has an influence on the onto-creality itself. So that took a while to absorb. And now today there's no doubt that this is the case.", "start": 2840.52, "end": 2849.52}
+{"id": "5SQ1Vpc8TFE-t2849.52", "text": "There have been numerous experiments establishing this seemingly non-intuitive fact, a purely physics experiment, where people show how particles, the property of particles, by the mere observation, and the observation has to be done by a conscious observer, it could be done even by an instrument,", "start": 2849.52, "end": 2865.52}
+{"id": "5SQ1Vpc8TFE-t2865.52", "text": "or influence the property itself, or some of the properties of the particles. So this influence of the observer as its own quantum mechanics is a fundamental prediction and veryifiable and verified aspect of quantum mechanics.", "start": 2865.52, "end": 2881.52}
+{"id": "5SQ1Vpc8TFE-t2881.52", "text": "So what I found you did is, he was very much involved in this, he actually found a parallel, and in many ways convinced, I wouldn't say convinced, because Jung has already the people's position to take all that and run with it, basically that there's a parallel in the case of mind.", "start": 2881.52, "end": 2900.52}
+{"id": "5SQ1Vpc8TFE-t2900.52", "text": "So the parallel is that as we have onto-creality, which is the properties of the state particles, similarly there's an objective reality in the unconscious. These are, we talk about the local mental objects, which are states, mental states that can be defined in a Boolean fashion, zero, one, sad, for example, happy.", "start": 2900.52, "end": 2921.52}
+{"id": "5SQ1Vpc8TFE-t2921.52", "text": "These are things that we can talk about unconscious. And then awareness, which is the equivalent in a way the analog of measurement, takes us from this unconscious to the epistemic reality, which is consciousness, so to become conscious of a certain feeling, let's say.", "start": 2921.52, "end": 2938.52}
+{"id": "5SQ1Vpc8TFE-t2938.52", "text": "And like Pauli conjectures, so to speak, that there is same way as quantum physics, same way as we discovered that time in physics, there is a back reaction, there is an influence.", "start": 2938.52, "end": 2952.52}
+{"id": "5SQ1Vpc8TFE-t2952.52", "text": "So awareness, well, similar as in physics, the awareness of the unconscious as it becomes conscious reflects back on the unconscious and changes it. So this parallelism was stated as early as in 1954, I was already trying in a book, but it can be traced back even earlier.", "start": 2952.52, "end": 2977.52}
+{"id": "5SQ1Vpc8TFE-t2977.52", "text": "Now what Harold forgot to tell you, because of his humility, is that he did actually major discovery in that section. What I'm going to try to do is summarize very much in what he did.", "start": 2977.52, "end": 2990.52}
+{"id": "5SQ1Vpc8TFE-t2990.52", "text": "So the problem is that this is a mathematical trick or mathematical discovery that is hard to describe to one mathematician, so I'm going to do my best.", "start": 2990.52, "end": 2998.52}
+{"id": "5SQ1Vpc8TFE-t2998.52", "text": "Remember I talked about not only unconscious, which is the object to the epistemic.", "start": 2998.52, "end": 3004.52}
+{"id": "5SQ1Vpc8TFE-t3004.52", "text": "Now, an example, for example, you take a survey or do a questionnaire, and you have to report on some states, on mental states, the say of some, and the mere act of doing so will make you, which will put down in writing this epistemic realization has an influence on the actual states.", "start": 3004.52, "end": 3028.52}
+{"id": "5SQ1Vpc8TFE-t3028.52", "text": "Now what Harold did, he was able with a classic paper, which was, I think, already recognized to be classic paper at this background in Bomer 2012, that these mental states, or these, the realm of the ontic in this analogy, has some mathematical properties.", "start": 3028.52, "end": 3055.52}
+{"id": "5SQ1Vpc8TFE-t3055.52", "text": "And they are to use a technical term that can be described as non-commodative structures, which happens to be exactly the proper mathematical system with the mathematical properties that quantum mechanical systems in the realm of the ontic level possess, that can be described also as non-commodative structures.", "start": 3055.52, "end": 3076.52}
+{"id": "5SQ1Vpc8TFE-t3076.52", "text": "This is probably seems too technical, but actually is very stark, because it shows that there is indeed more than just an analogy between these two powers.", "start": 3076.52, "end": 3086.52}
+{"id": "5SQ1Vpc8TFE-t3086.52", "text": "It shows that there is actually a fundamental relationship.", "start": 3086.52, "end": 3091.52}
+{"id": "5SQ1Vpc8TFE-t3091.52", "text": "He talks about constitutive joint principle, combining what the mental and the physical.", "start": 3091.52, "end": 3097.52}
+{"id": "5SQ1Vpc8TFE-t3097.52", "text": "So now, this is my explanation of my interpretation of Thal's work. Thank God he is with us, so he can correct the mistakes I've done.", "start": 3097.52, "end": 3107.52}
+{"id": "5SQ1Vpc8TFE-t3107.52", "text": "But now I'm going to pose my question.", "start": 3107.52, "end": 3110.52}
+{"id": "5SQ1Vpc8TFE-t3110.52", "text": "And to understand the question, and again, stems from my intrigue, my being intrigued by this relationship between physics and that psychology, and wanting to talk more than just learn.", "start": 3110.52, "end": 3123.52}
+{"id": "5SQ1Vpc8TFE-t3123.52", "text": "So far, by poking I hope to learn more.", "start": 3123.52, "end": 3127.52}
+{"id": "5SQ1Vpc8TFE-t3127.52", "text": "So, the question I'm going to pose comes from my own work, I'll give you an example of my own work.", "start": 3127.52, "end": 3134.52}
+{"id": "5SQ1Vpc8TFE-t3134.52", "text": "So I work in a film of plasma rockets, where that point of detail is that rockets use plasma, which is a gas that is ionized to produce thrust for space breath.", "start": 3134.52, "end": 3147.52}
+{"id": "5SQ1Vpc8TFE-t3147.52", "text": "So, the rockets can become unstable, they can start to oscillate, and they can turn on and off, they use electrical power, and they have their own behavior.", "start": 3147.52, "end": 3157.52}
+{"id": "5SQ1Vpc8TFE-t3157.52", "text": "One particular behavior, one oscillation has been observed, and then has been successfully modeled and tested.", "start": 3157.52, "end": 3165.52}
+{"id": "5SQ1Vpc8TFE-t3165.52", "text": "And it's called the predator-praise study.", "start": 3165.52, "end": 3168.52}
+{"id": "5SQ1Vpc8TFE-t3168.52", "text": "Now, this study is interesting, it's like what happens when you have in a forest, characters and crayons.", "start": 3168.52, "end": 3176.52}
+{"id": "5SQ1Vpc8TFE-t3176.52", "text": "So, if the predators eat all the crayons, eventually the predators start to die, and then when the prey is out-compered with the predators, and we have a cycle that can keep feeding itself and go on oscillation.", "start": 3176.52, "end": 3191.52}
+{"id": "5SQ1Vpc8TFE-t3191.52", "text": "It turns out the oscillation happens in these clusters are exactly similar to this.", "start": 3191.52, "end": 3195.52}
+{"id": "5SQ1Vpc8TFE-t3195.52", "text": "And we use an equation to describe this oscillation, called the Lokka-Vortera equation.", "start": 3195.52, "end": 3201.52}
+{"id": "5SQ1Vpc8TFE-t3201.52", "text": "Lokka is an American mathematician, an ikrotlokka, and Pito-Vortera is an e-tanya mathematician who described the fish in the areaic sea by this equation, showing how the certain fish are predator, other fish that are prey.", "start": 3201.52, "end": 3217.52}
+{"id": "5SQ1Vpc8TFE-t3217.52", "text": "The population goes up and down and oscillates, exactly in the same way we see in the thrust.", "start": 3217.52, "end": 3223.52}
+{"id": "5SQ1Vpc8TFE-t3223.52", "text": "So, here is a mirror, I'm mirroring the fishes in the sea and my rocket in my lab, the same way in analogy here, as Harold is currently mirrored the backtracking that happens between the atomic reality and the epistemic reality in physics, the quantum physics, and one that happens in consciousness.", "start": 3223.52, "end": 3244.52}
+{"id": "5SQ1Vpc8TFE-t3244.52", "text": "So, you can add that to my question.", "start": 3244.52, "end": 3246.52}
+{"id": "5SQ1Vpc8TFE-t3246.52", "text": "So, basically, that success of not only both phenomena in the same equation has a limit in my opinion.", "start": 3246.52, "end": 3254.52}
+{"id": "5SQ1Vpc8TFE-t3254.52", "text": "The limit is we get to a point where in the rocket it turns out that the voltage that you apply to the rocket influences this instability.", "start": 3254.52, "end": 3264.52}
+{"id": "5SQ1Vpc8TFE-t3264.52", "text": "Not only this, the instability influences the voltage.", "start": 3264.52, "end": 3268.52}
+{"id": "5SQ1Vpc8TFE-t3268.52", "text": "This is the back reaction that I would like to find in the fishes. However, if I go down to the sea, the geoceses look at the fishes, I don't find them back.", "start": 3268.52, "end": 3278.52}
+{"id": "5SQ1Vpc8TFE-t3278.52", "text": "For example, I know that the predators in the sea, the fish predators, are in their concentration also influenced by the weather in the seasons.", "start": 3278.52, "end": 3287.52}
+{"id": "5SQ1Vpc8TFE-t3287.52", "text": "But the fishes themselves cannot influence the weather, not at least to zero, but in fact.", "start": 3287.52, "end": 3293.52}
+{"id": "5SQ1Vpc8TFE-t3293.52", "text": "So, we have this breakdown, which shows you that finding these beautiful analogies, these beautiful commonalities, can be very promising, can shed the light.", "start": 3293.52, "end": 3304.52}
+{"id": "5SQ1Vpc8TFE-t3304.52", "text": "But then pushes me to ask the question, is this beautiful, not only analogy, but beautiful mathematical similarity that you were able to find elegantly?", "start": 3304.52, "end": 3315.52}
+{"id": "5SQ1Vpc8TFE-t3315.52", "text": "Are they more, can one say that they are more than just analogy? Can we really expect them to materialize into an worldview that's very concise and very powerful of my matter interactions?", "start": 3315.52, "end": 3332.52}
+{"id": "5SQ1Vpc8TFE-t3332.52", "text": "Yeah, let me start with the following remark. I have always, I mean, not all my life, but for a long time I've waited for someone who can't explain these things so well as we were. Thank you very much.", "start": 3332.52, "end": 3345.52}
+{"id": "5SQ1Vpc8TFE-t3345.52", "text": "Now the, let me start with a quick answer to your kind of question, and then elaborate on this a little bit.", "start": 3345.52, "end": 3354.52}
+{"id": "5SQ1Vpc8TFE-t3354.52", "text": "I would think that there's one big difference between the log-comotero or predo the frame model and what we have in mind when we talk about these mind-brain relationships.", "start": 3354.52, "end": 3367.52}
+{"id": "5SQ1Vpc8TFE-t3367.52", "text": "And that big difference is rooted in the notion of causation. In the log-comotero cycle, you always have common interactions.", "start": 3367.52, "end": 3375.52}
+{"id": "5SQ1Vpc8TFE-t3375.52", "text": "While I would insist, I mean, Pauli and you also insisted that point in the circumstances like interrelations between the material, the material, the physical, are just free of causal interactions.", "start": 3375.52, "end": 3389.52}
+{"id": "5SQ1Vpc8TFE-t3389.52", "text": "And the, you know, we insist that we must not think about these correlations as causal relations. And then I think it's a big difference.", "start": 3389.52, "end": 3399.52}
+{"id": "5SQ1Vpc8TFE-t3399.52", "text": "Now, to, your question that follows from this, how seriously are we actually, or should we, should we take these analogies?", "start": 3399.52, "end": 3410.52}
+{"id": "5SQ1Vpc8TFE-t3410.52", "text": "And I would say, you know, just from developing a model or developing an interesting framework, this is not, I mean, this can maybe make us think that this might be an interesting way to go.", "start": 3410.52, "end": 3427.52}
+{"id": "5SQ1Vpc8TFE-t3427.52", "text": "But the point where we really can believe that this has something to do with reality is the point where we can derive empirical implications and then test whether these implications hold, whether the system behave like that.", "start": 3427.52, "end": 3444.52}
+{"id": "5SQ1Vpc8TFE-t3444.52", "text": "And with respect to that question, let me just make one additional remark to what he was saying about these non-communitive mental observables.", "start": 3444.52, "end": 3453.52}
+{"id": "5SQ1Vpc8TFE-t3453.52", "text": "And you realize, you know, if I ask you to just only to express the notion of non-communitivity, you will have problems.", "start": 3453.52, "end": 3460.52}
+{"id": "5SQ1Vpc8TFE-t3460.52", "text": "We are very much used to this because it's a concept that is, that is pervasive in quantum mechanics and in other areas of physics as well.", "start": 3460.52, "end": 3469.52}
+{"id": "5SQ1Vpc8TFE-t3469.52", "text": "But one important consequence of everything that behaves non-communitively is that the sequence in which you make measurements makes the difference.", "start": 3469.52, "end": 3480.52}
+{"id": "5SQ1Vpc8TFE-t3480.52", "text": "And I think that's not the case in classical systems. And the interesting thing is when you think about what happens when you make a measurement on a human mind, on a human measure state, it's, I think it's a fascinating observation that you will make, namely that such measurements, actually for such measurements, non-communativity is the rule rather than exception.", "start": 3480.52, "end": 3502.52}
+{"id": "5SQ1Vpc8TFE-t3502.52", "text": "So, because when I ask, you have a question for instance, right, you will output an answer and I hear the answer, I read out the value that you give me, but at the same moment, at the same moment, it's very clear to everybody that this also changes your state, so that that's the back reaction.", "start": 3502.52, "end": 3519.52}
+{"id": "5SQ1Vpc8TFE-t3519.52", "text": "Now, if you ask your second question on the change state, then of course, the answer that you give has to do with the change state, not with the original one. Now, when I exchange the sequence of the questions, then the change state after the first question is of course different from the change state after the first question, the first realization of the experiment.", "start": 3519.52, "end": 3543.52}
+{"id": "5SQ1Vpc8TFE-t3543.52", "text": "And that means at the final result, after the second question, will in general be difficult, that this can be tested. You can test this in questionnaires and we have the paper that you mentioned, thank you very much for your compliments.", "start": 3543.52, "end": 3556.52}
+{"id": "5SQ1Vpc8TFE-t3556.52", "text": "In that paper, we even give a classification of four different types of such order effects. They are well-known in the psychological literature, but very poorly understood.", "start": 3556.52, "end": 3566.52}
+{"id": "5SQ1Vpc8TFE-t3566.52", "text": "We have a career in frame of to predict these effects and even predict the effects that have never been observed in psychology, like uncertainty relations, products of variance, and all this kind of stuff.", "start": 3566.52, "end": 3576.52}
+{"id": "5SQ1Vpc8TFE-t3576.52", "text": "This can all be tested now. It can all be put to test, be put to test, and then it, I mean once the test is not already around in these directions, and once you see that the results fit the predictions, like this is what we do in sizes of five.", "start": 3576.52, "end": 3592.52}
+{"id": "5SQ1Vpc8TFE-t3592.52", "text": "When this happens, then our trust in the models that we have increases. And then we would say this is more than few and only.", "start": 3592.52, "end": 3601.52}
+{"id": "5SQ1Vpc8TFE-t3601.52", "text": "Yes, yes. Well, I think I'll follow up with the question. If that's the case, since you're talking about this good to hear of people in the field talking about testing and having a prediction, which as you know, in some circles, it's a bad word.", "start": 3601.52, "end": 3620.52}
+{"id": "5SQ1Vpc8TFE-t3620.52", "text": "And so it's here to hear that's good to hear that you think that. So how do you then formulate that you've reached a successful theory?", "start": 3620.52, "end": 3628.52}
+{"id": "5SQ1Vpc8TFE-t3628.52", "text": "I mean, physics is very clear, reproducibility is, but there is an inherent, I mean both the only, how we talked about this correlation is to be inherently non reproducible.", "start": 3628.52, "end": 3639.52}
+{"id": "5SQ1Vpc8TFE-t3639.52", "text": "And so how do you have dilemma? On one hand, you're hoping to get to a producer of experiments that are predicted. On the other hand, fundamentally, these collaborations are not predictable and not a producer.", "start": 3639.52, "end": 3652.52}
+{"id": "5SQ1Vpc8TFE-t3652.52", "text": "Right, good point. I have something to say about that too.", "start": 3652.52, "end": 3656.52}
+{"id": "5SQ1Vpc8TFE-t3656.52", "text": "Yeah, and I think that is one of the great differences between psychology and the heart sciences and the material sciences that we always have the individuals who object to the factor.", "start": 3656.52, "end": 3670.52}
+{"id": "5SQ1Vpc8TFE-t3670.52", "text": "And most often the individual emotional factor. And you can't really reproduce that. I mean, you can't go into a rabbit and make it happen.", "start": 3670.52, "end": 3680.52}
+{"id": "5SQ1Vpc8TFE-t3680.52", "text": "So I have to give a couple of examples of why I got interested in synchronicity and just hear your senses of it and how we're meant to think of it.", "start": 3680.52, "end": 3692.52}
+{"id": "5SQ1Vpc8TFE-t3692.52", "text": "And I just want to give a couple of examples out of my practice. The preamble that the last science class I took was dissecting the frog and freshman year of biology.", "start": 3692.52, "end": 3704.52}
+{"id": "5SQ1Vpc8TFE-t3704.52", "text": "This is a huge stretch for me and I'm sure it is for many of you too.", "start": 3704.52, "end": 3710.52}
+{"id": "5SQ1Vpc8TFE-t3710.52", "text": "One thing that frequently happens in the consulting room for me or even in the hallway when I open the door in my office, as that as the person is coming toward me, I have an image that comes.", "start": 3710.52, "end": 3725.52}
+{"id": "5SQ1Vpc8TFE-t3725.52", "text": "And it has got nothing to do with anything. I was thinking before or anything that I'm going to think after that session is over. For instance, in one case I opened the door and I saw a woman, a very lovely attractive woman I've worked with for a long time, and I thought lobster.", "start": 3725.52, "end": 3744.52}
+{"id": "5SQ1Vpc8TFE-t3744.52", "text": "Now she doesn't look at all like the lobster. And she came in and she described to me that in halfway through the session, the adjust come from canal street and when she went to take a car out of the parking slot, a lobster came right in front of the car.", "start": 3744.52, "end": 3763.52}
+{"id": "5SQ1Vpc8TFE-t3763.52", "text": "Canal street, the lobster came up from the canal and was there on the street.", "start": 3763.52, "end": 3769.52}
+{"id": "5SQ1Vpc8TFE-t3769.52", "text": "All right, so that's one kind of thing. Another is that it's extremely frequent that I will suddenly have an image of something in a session or we will be discussing something and an interpretation will come out that I hardly recognize.", "start": 3769.52, "end": 3790.52}
+{"id": "5SQ1Vpc8TFE-t3790.52", "text": "I mean, it's like it comes through. And then the patient tells me their dream from the night before and that image was in the dream and we have already interpreted the dream, even though the dream was not all communicated and shared.", "start": 3790.52, "end": 3809.52}
+{"id": "5SQ1Vpc8TFE-t3809.52", "text": "So that's correspondence on a level that is not an ego, an ego, and certainly not a rational to rational level.", "start": 3809.52, "end": 3821.52}
+{"id": "5SQ1Vpc8TFE-t3821.52", "text": "But the experience that really got me going in terms of exploring what these different synchronicities of unusual correspondences are.", "start": 3821.52, "end": 3830.52}
+{"id": "5SQ1Vpc8TFE-t3830.52", "text": "That's another way to think of it was that in the spring and summer of 2001, patient after patient was bringing in dreams of blackbirds or writing poetry about blackbirds and ravens or, you know, having and everything I read had blackbirds and ravens in them.", "start": 3830.52, "end": 3856.52}
+{"id": "5SQ1Vpc8TFE-t3856.52", "text": "And then when 9-11 happened, there was all this image of these black bird birds coming around the World Trade Center and many children in our classes.", "start": 3856.52, "end": 3872.52}
+{"id": "5SQ1Vpc8TFE-t3872.52", "text": "And then the woman who was working with children in school in New Jersey actually said that the primary imagery that the children in the schools were painting were blackbirds.", "start": 3872.52, "end": 3888.52}
+{"id": "5SQ1Vpc8TFE-t3888.52", "text": "And that was just this sense of this ominous quality that it was as if the psyche of these patients were picking them up.", "start": 3888.52, "end": 3898.52}
+{"id": "5SQ1Vpc8TFE-t3898.52", "text": "Now I was the only person who knew that there was this sort of critical mass of these images.", "start": 3898.52, "end": 3907.52}
+{"id": "5SQ1Vpc8TFE-t3907.52", "text": "So it's the human observer who's making the connections. It's not that they're there in the white universe as far as we can tell.", "start": 3907.52, "end": 3919.52}
+{"id": "5SQ1Vpc8TFE-t3919.52", "text": "But that's not an unusual kind of situation. On one day last week, every single patient had something to say about shoes or socks.", "start": 3919.52, "end": 3929.52}
+{"id": "5SQ1Vpc8TFE-t3929.52", "text": "You know, why were people referring to their shoes or socks? So then I have to start thinking about shoes and socks and what's the symbolic meaning of that and what's the communication around them.", "start": 3929.52, "end": 3941.52}
+{"id": "5SQ1Vpc8TFE-t3941.52", "text": "So we better call the team.", "start": 3941.52, "end": 3961.52}
+{"id": "5SQ1Vpc8TFE-t3961.52", "text": "So in any case, I just wanted to give that as a whole different point of view of what Jung was talking about in terms of synchronicities, which is a kind of nonverbal, non rational communication of a build up of different images or shared images or you think of someone and they call you the next day, that kind of thing.", "start": 3961.52, "end": 3988.52}
+{"id": "5SQ1Vpc8TFE-t3988.52", "text": "And does that at all fit into your realm? What you look at when you worked in this clinic and project what kind of anomalous situations are there?", "start": 3988.52, "end": 4002.52}
+{"id": "5SQ1Vpc8TFE-t4002.52", "text": "Oh, don't do that.", "start": 4002.52, "end": 4019.52}
+{"id": "5SQ1Vpc8TFE-t4019.52", "text": "So that happened because none of us really believe in all of it. So that had to happen. So we are sort of alert for responses.", "start": 4019.52, "end": 4033.52}
+{"id": "5SQ1Vpc8TFE-t4033.52", "text": "So we are not going to be able to talk about the topic. It's not right.", "start": 4033.52, "end": 4052.52}
+{"id": "5SQ1Vpc8TFE-t4052.52", "text": "Sometimes reproducibility is different than physics. It's psychology thinks that are not reproducible will not become a part of the established knowledge.", "start": 4052.52, "end": 4065.52}
+{"id": "5SQ1Vpc8TFE-t4065.52", "text": "So these events are completely different story. These are not psychological events. They are not physical events. You can think about how one called them. At some point, I call them psychophysically events, something like that.", "start": 4065.52, "end": 4084.52}
+{"id": "5SQ1Vpc8TFE-t4084.52", "text": "And I think in that respect, then we really come to what you are addressing in terms of some kind of synchronicities, but I think there are also other interesting psychophysically events which all into this kind of general.", "start": 4084.52, "end": 4099.52}
+{"id": "5SQ1Vpc8TFE-t4099.52", "text": "And again, we really hear the issue of reproducing the reading observation because obviously we know correlations between the physical, for instance, our body or our brain, and the mental, what do you think?", "start": 4099.52, "end": 4115.52}
+{"id": "5SQ1Vpc8TFE-t4115.52", "text": "And these correlations are pretty stable. For instance, when you look into cognitive neuroscience, then people know that certain mental states, you know, I let you ask, I let you do a kind of math task or something like that.", "start": 4115.52, "end": 4128.52}
+{"id": "5SQ1Vpc8TFE-t4128.52", "text": "And the brain activity that is correlated with that magic task is pretty much the same in all these cross-in-grid fields. So this is a very stable reproducible, mind-", "start": 4128.52, "end": 4145.26}
+{"id": "5SQ1Vpc8TFE-t4145.26", "text": "material. We call these ordinary or baseline correlations. Now, do you think that you are addressing? Do you want to talk a little bit more about that, I guess?", "start": 4145.26, "end": 4160.26}
+{"id": "5SQ1Vpc8TFE-t4160.26", "text": "Well, a couple of different things. I think it's important to say a little bit more about what you mean about structural correlations, these fundamental things, such as the relationship of mind and matter. When you reveal that synchronicity, he's queried by CA and lighter in several places where lighter is pushing on.", "start": 4160.26, "end": 4179.26}
+{"id": "5SQ1Vpc8TFE-t4179.26", "text": "And he says, you know, this question of causality in a 20-body relationship is possibly to be considered as a synchronicity problem, whatever that might be.", "start": 4179.26, "end": 4192.26}
+{"id": "5SQ1Vpc8TFE-t4192.26", "text": "And Jung said, well, if that's actually correct, then I have to rethink the whole notion, because then it's not just the real event. It is then something that's part of our reality.", "start": 4192.26, "end": 4203.26}
+{"id": "5SQ1Vpc8TFE-t4203.26", "text": "And so you have this problem that we've had no way to talk about these two different categories of experience, as if they were all one and the same.", "start": 4203.26, "end": 4210.26}
+{"id": "5SQ1Vpc8TFE-t4210.26", "text": "And I think what's particularly interesting about this conjecture is you begin to titrate that out a little bit. You have a structural interaction and on top of that, you have a sort of personal weight as it were.", "start": 4210.26, "end": 4226.26}
+{"id": "5SQ1Vpc8TFE-t4226.26", "text": "You have these induced correlations that can be a varying intensity there, positive or negative, positive reflect the moment we've been telling where the unexpected links come together, but then also negative whether dissociations, where things you expected to be there, but just simply aren't.", "start": 4226.26, "end": 4241.26}
+{"id": "5SQ1Vpc8TFE-t4241.26", "text": "There's one question I lead to from myself. I think this clinically could be extremely useful to begin to use this kind of model to look at the range of phenomena that we're talking about with these kinds of experiences, where I'd also like to give us a pick up a point that Edgar was talking about.", "start": 4241.26, "end": 4260.26}
+{"id": "5SQ1Vpc8TFE-t4260.26", "text": "And the difference between the two models, you can't add the whole notion of the ecological and the idea of systems that have holistic properties that are extremely difficult to catch into one simple description.", "start": 4260.26, "end": 4277.26}
+{"id": "5SQ1Vpc8TFE-t4277.26", "text": "And when Young says these are A-causal connections, if you're spending with his causality, it's a very 19th century thermodynamic form of causality. It's about thermodynamics systems that are equilibrium. It has very little to do with systems that are actually like human beings that are open that have all of these transformations possible in them.", "start": 4277.26, "end": 4296.26}
+{"id": "5SQ1Vpc8TFE-t4296.26", "text": "So, if we start to begin to think about an ecological model here, then I think we're at the edge of what, I don't think we know this as a community yet, how do ecological systems manifest their holistic features?", "start": 4296.26, "end": 4310.26}
+{"id": "5SQ1Vpc8TFE-t4310.26", "text": "And is there causality operating a fat model that we think about as a sub-set about?", "start": 4310.26, "end": 4318.26}
+{"id": "5SQ1Vpc8TFE-t4318.26", "text": "I think if you put it within another context, you can begin to see. And to be honest, if you follow where Young Anne probably got some of their ideas, this was part of the idea.", "start": 4318.26, "end": 4329.26}
+{"id": "5SQ1Vpc8TFE-t4329.26", "text": "I mean, James was one of the people that they do heavily on. And where did James get some of his ideas?", "start": 4329.26, "end": 4334.26}
+{"id": "5SQ1Vpc8TFE-t4334.26", "text": "Well, in the 1870s, he's reading James Quirk Maxwell on field theory. He's looking at fields that fill the universe and beginning to think of the mind as a field rather than as a localized substance.", "start": 4334.26, "end": 4347.26}
+{"id": "5SQ1Vpc8TFE-t4347.26", "text": "So I think that that kind of model, this is the same problem of 50 years of chemistry where we know all the ingredients of life and we can't self-assessive why.", "start": 4347.26, "end": 4356.26}
+{"id": "5SQ1Vpc8TFE-t4356.26", "text": "What's missing? That's a fascinating question there. There's another level to that question that has not yet been solved. And I think that's where in some way.", "start": 4356.26, "end": 4366.26}
+{"id": "5SQ1Vpc8TFE-t4366.26", "text": "Yes, actually that brings me to a question having to do with how one filters or how one calls a simplistic event, a simplistic event.", "start": 4366.26, "end": 4378.26}
+{"id": "5SQ1Vpc8TFE-t4378.26", "text": "Some rigorous has to be applied to some extent. I mean, I think how we talked as a simplistic event in the limit of meaningless correspondence become like pure chance.", "start": 4378.26, "end": 4394.26}
+{"id": "5SQ1Vpc8TFE-t4394.26", "text": "And that pushes me to ask, I believe especially going back to the 9-11, there are many times at 9-11 nothing luminous is happening. Nothing potential is being said.", "start": 4394.26, "end": 4409.26}
+{"id": "5SQ1Vpc8TFE-t4409.26", "text": "We don't register those. We talked about a degree about an emotional impact. Emotional impact will allow us when these things happen, we all become emotional.", "start": 4409.26, "end": 4420.26}
+{"id": "5SQ1Vpc8TFE-t4420.26", "text": "We forget about all the times 9-11 passes by on the clock and nobody said anything. So one has to normalize this event that happened tonight.", "start": 4420.26, "end": 4429.26}
+{"id": "5SQ1Vpc8TFE-t4429.26", "text": "By all the 9-11 times the clock said 9-11 nothing incredibly happened. And we find that it's to be very small numbers which we call statistical noise.", "start": 4429.26, "end": 4439.26}
+{"id": "5SQ1Vpc8TFE-t4439.26", "text": "So one has to, we're going to power, it has to be a limit where the meaningless correspondence takes us to a 9-chance. So how would you come up with this filter that would say this is a simplistic event and this is not?", "start": 4439.26, "end": 4453.26}
+{"id": "5SQ1Vpc8TFE-t4453.26", "text": "Every time I feel somebody looks like a lobster or somebody that comes to that course, when, why are there quite too yet?", "start": 4453.26, "end": 4460.26}
+{"id": "5SQ1Vpc8TFE-t4460.26", "text": "And how do you filter the emotional impact part? Because emotional impact will keep us, will all become clergymen and the scientists every time it happens.", "start": 4460.26, "end": 4470.26}
+{"id": "5SQ1Vpc8TFE-t4470.26", "text": "So we have to watch out against that. How do you watch out against that?", "start": 4470.26, "end": 4474.26}
+{"id": "5SQ1Vpc8TFE-t4474.26", "text": "I just like to respond to the clergy bit. Actually, Jung was exploring the idea of synchronicity to get away from magical thinking. Because up until the more scientific era, if something happened that had an uncanny quality, it was thought to be a message for God to God.", "start": 4474.26, "end": 4497.26}
+{"id": "5SQ1Vpc8TFE-t4497.26", "text": "And he wanted to find how we could understand things that we could not explain causally. So it was really an attempt to at least open the door to other ways that things connect that are not messages from the beyond in that sense.", "start": 4497.26, "end": 4515.26}
+{"id": "5SQ1Vpc8TFE-t4515.26", "text": "So it was very, it wasn't a time to...", "start": 4515.26, "end": 4517.26}
+{"id": "5SQ1Vpc8TFE-t4517.26", "text": "That thing's got out of the picture, which is fine. But still, the question is how do you filter out, not attribute them to this only small... to this realm of the architects and so much poverty fine.", "start": 4517.26, "end": 4529.26}
+{"id": "5SQ1Vpc8TFE-t4529.26", "text": "But the question is that when you put a threshold, how do you consider and what kind of statistic meaningful threshold you put on what is a simplistic event and what's the pure chance that's amplified by emotional impact?", "start": 4529.26, "end": 4542.26}
+{"id": "5SQ1Vpc8TFE-t4542.26", "text": "And that's where it's very individual, because it keeps not saying that there's, you know, that the whole world is a synchronicity, but rather that if a person perceives certain kinds of connections or experiences, based on these sort of networks of meaning, that that's for them.", "start": 4542.26, "end": 4562.26}
+{"id": "5SQ1Vpc8TFE-t4562.26", "text": "It's not that then you go out and start a religion of synchronicity and you have to come and confess that you have that kind of synchronicity.", "start": 4562.26, "end": 4572.26}
+{"id": "5SQ1Vpc8TFE-t4572.26", "text": "The act of creation, that the person is making for themselves and they have to figure out then why they've noticed it and added a little bit of reaction.", "start": 4572.26, "end": 4582.26}
+{"id": "5SQ1Vpc8TFE-t4582.26", "text": "I think that's really hard to keep away from the idea that they have to be universal and not enough.", "start": 4582.26, "end": 4592.26}
+{"id": "5SQ1Vpc8TFE-t4592.26", "text": "But I agree with Enco that this is a very important question. Maybe it's only too difficult for now.", "start": 4592.26, "end": 4598.26}
+{"id": "5SQ1Vpc8TFE-t4598.26", "text": "You know, we have to approach that question, maybe not we, maybe our grandchild or our young.", "start": 4598.26, "end": 4604.26}
+{"id": "5SQ1Vpc8TFE-t4604.26", "text": "But I think nevertheless, it's possible to make, you know, better than other sides of progress, progress in small steps.", "start": 4604.26, "end": 4613.26}
+{"id": "5SQ1Vpc8TFE-t4613.26", "text": "So what we can do, but the part of your picture, and maybe somewhat generally speaking with the school aspect of the work thinking,", "start": 4613.26, "end": 4622.26}
+{"id": "5SQ1Vpc8TFE-t4622.26", "text": "what we can predict the classification of what we call exceptional experiences, a classification of exceptional experiences.", "start": 4622.26, "end": 4631.26}
+{"id": "5SQ1Vpc8TFE-t4631.26", "text": "And this classification, again, can have it tested because we have a lot of material that's the beginning of studies that we mentioned from my work time.", "start": 4631.26, "end": 4640.26}
+{"id": "5SQ1Vpc8TFE-t4640.26", "text": "We have about 2,200 people now who are seeking help at this counseling unit there.", "start": 4640.26, "end": 4647.26}
+{"id": "5SQ1Vpc8TFE-t4647.26", "text": "And they have been, their cases have been documented since 1996 very carefully and particularly, and we can, so we can try to use this material, the period of material,", "start": 4647.26, "end": 4658.26}
+{"id": "5SQ1Vpc8TFE-t4658.26", "text": "in order to test whether the classification is correct or not.", "start": 4658.26, "end": 4662.26}
+{"id": "5SQ1Vpc8TFE-t4662.26", "text": "And what we found is the classification is perfect. It's not even perfect. It also applies, I mean, I was talking about client seeking advice now.", "start": 4662.26, "end": 4671.26}
+{"id": "5SQ1Vpc8TFE-t4671.26", "text": "But we also did the same study with samples from the general population. We find it, we do not only find the same classification patterns,", "start": 4671.26, "end": 4680.26}
+{"id": "5SQ1Vpc8TFE-t4680.26", "text": "we also find the same percentage over the different patterns. And we find that's plausible, we find less intensity and less frequency.", "start": 4680.26, "end": 4689.26}
+{"id": "5SQ1Vpc8TFE-t4689.26", "text": "Because this is also population, right? And now this is very interesting because now we have a, so this is already something that can be reproduced.", "start": 4689.26, "end": 4698.26}
+{"id": "5SQ1Vpc8TFE-t4698.26", "text": "It's not a value of a observable course. It's a different kind of reproducibility.", "start": 4698.26, "end": 4704.26}
+{"id": "5SQ1Vpc8TFE-t4704.26", "text": "But then, and this is something very interesting, I think, we did, this is a test, it's called a moony test.", "start": 4704.26, "end": 4713.26}
+{"id": "5SQ1Vpc8TFE-t4713.26", "text": "A moony test is you have a screen that you present on the screen, a random distribution of black and white pixels.", "start": 4713.26, "end": 4721.26}
+{"id": "5SQ1Vpc8TFE-t4721.26", "text": "Right? And then once in a while you manipulate the pixels in such a way that you see an indication of the face or an object or something like that.", "start": 4721.26, "end": 4730.26}
+{"id": "5SQ1Vpc8TFE-t4730.26", "text": "And then the subject is asked, do you see an object or do you see an object or a random distribution?", "start": 4730.26, "end": 4736.26}
+{"id": "5SQ1Vpc8TFE-t4736.26", "text": "And now one of the classes of exceptional experiences that we have does significantly correlate with false positives in the moony test.", "start": 4736.26, "end": 4747.26}
+{"id": "5SQ1Vpc8TFE-t4747.26", "text": "So what does that mean? This means when you show these people random distribution of points, they have a significant overabundance of telling you it's not random, there's a face or there's an object.", "start": 4747.26, "end": 4759.26}
+{"id": "5SQ1Vpc8TFE-t4759.26", "text": "So what they do, they attribute meaning to a pair of them, actually is blind chance, you know what I'm saying.", "start": 4759.26, "end": 4766.26}
+{"id": "5SQ1Vpc8TFE-t4766.26", "text": "And this is precisely the coincidence type, one of the four types in this classification.", "start": 4766.26, "end": 4772.26}
+{"id": "5SQ1Vpc8TFE-t4772.26", "text": "So now we have a psychophysical test, really, to select, I mean, a filter if you want, to select these people out of the whole bunch of all exceptional experiences.", "start": 4772.26, "end": 4783.26}
+{"id": "5SQ1Vpc8TFE-t4783.26", "text": "And that, you know, these are small steps, I completely ignore that, how size?", "start": 4783.26, "end": 4788.26}
+{"id": "5SQ1Vpc8TFE-t4788.26", "text": "Definitely the odd direction.", "start": 4788.26, "end": 4790.26}
+{"id": "5SQ1Vpc8TFE-t4790.26", "text": "Yeah, I don't know, this is the way to go.", "start": 4790.26, "end": 4792.26}
+{"id": "5SQ1Vpc8TFE-t4792.26", "text": "And I think now I will open up questions from the audience.", "start": 4792.26, "end": 4796.26}
+{"id": "5SQ1Vpc8TFE-t4796.26", "text": "Yeah, go ahead.", "start": 4796.26, "end": 4798.26}
+{"id": "5SQ1Vpc8TFE-t4798.26", "text": "Well, I have a couple of them. I'd like to take a start, a couple of them, this question.", "start": 4798.26, "end": 4802.26}
+{"id": "5SQ1Vpc8TFE-t4802.26", "text": "Can you hear me out there?", "start": 4802.26, "end": 4805.26}
+{"id": "5SQ1Vpc8TFE-t4805.26", "text": "Yes?", "start": 4805.26, "end": 4807.26}
+{"id": "5SQ1Vpc8TFE-t4807.26", "text": "Yeah, I should want to take a break.", "start": 4807.26, "end": 4810.26}
+{"id": "5SQ1Vpc8TFE-t4810.26", "text": "I'll bring it back.", "start": 4810.26, "end": 4812.26}
+{"id": "5SQ1Vpc8TFE-t4812.26", "text": "So about ecology, it reminded me that J. J. Gibson is ecological, or Givesonian psychology.", "start": 4812.26, "end": 4822.26}
+{"id": "5SQ1Vpc8TFE-t4822.26", "text": "He was attempting, as some may well know, to construct our representationless, the realism.", "start": 4822.26, "end": 4831.26}
+{"id": "5SQ1Vpc8TFE-t4831.26", "text": "So that there would be a seamless continuity between the ecological stimulus and the perception of that stimulus.", "start": 4831.26, "end": 4840.26}
+{"id": "5SQ1Vpc8TFE-t4840.26", "text": "There was no differentiation.", "start": 4840.26, "end": 4842.26}
+{"id": "5SQ1Vpc8TFE-t4842.26", "text": "So without just throwing that out there, if that would be something that would be of interest to that question about ecological circumstances.", "start": 4842.26, "end": 4851.26}
+{"id": "5SQ1Vpc8TFE-t4851.26", "text": "But I'll just throw them all out now.", "start": 4851.26, "end": 4853.26}
+{"id": "5SQ1Vpc8TFE-t4853.26", "text": "The second one that you raised, that was just answered about the differentiation between coincidence and synchronicity.", "start": 4853.26, "end": 4861.26}
+{"id": "5SQ1Vpc8TFE-t4861.26", "text": "Since one of the defined characteristics of synchronicity is the personal meaning that the individual experiences,", "start": 4861.26, "end": 4868.26}
+{"id": "5SQ1Vpc8TFE-t4868.26", "text": "that would imply, as per your most, you did the experiment you described, how I'll describe,", "start": 4868.26, "end": 4875.26}
+{"id": "5SQ1Vpc8TFE-t4875.26", "text": "suggest that there's going to be some neural activity that might be related to our previous position, to seeing, let's say, an arc,", "start": 4875.26, "end": 4884.26}
+{"id": "5SQ1Vpc8TFE-t4884.26", "text": "but to see a circle, or to fill in an incomplete letter of the alphabet.", "start": 4884.26, "end": 4888.26}
+{"id": "5SQ1Vpc8TFE-t4888.26", "text": "On the other hand, that's not necessarily meaningful.", "start": 4888.26, "end": 4891.26}
+{"id": "5SQ1Vpc8TFE-t4891.26", "text": "But one extension of that kind of experiment could be to have volunteers, and they'd have to be very dedicated volunteers.", "start": 4891.26, "end": 4901.26}
+{"id": "5SQ1Vpc8TFE-t4901.26", "text": "And if they did happen to have a synchronicity, and they were willing to have some type of fMRI at first at least,", "start": 4901.26, "end": 4912.26}
+{"id": "5SQ1Vpc8TFE-t4912.26", "text": "so we got down to more precise measurements of neural activity.", "start": 4912.26, "end": 4922.26}
+{"id": "5SQ1Vpc8TFE-t4922.26", "text": "And then gradually zone in on that area of the brain that was lighting up, if you will, when there was meaningful synchronicity,", "start": 4922.26, "end": 4929.26}
+{"id": "5SQ1Vpc8TFE-t4929.26", "text": "that would be the beginning of a start to have a mathematical structure when there was activity related to a synchronicity.", "start": 4929.26, "end": 4935.26}
+{"id": "5SQ1Vpc8TFE-t4935.26", "text": "That's just an observation.", "start": 4935.26, "end": 4937.26}
+{"id": "5SQ1Vpc8TFE-t4937.26", "text": "The question that I have though for Harold has to do with a lot of research, some of the quite recent,", "start": 4937.26, "end": 4942.26}
+{"id": "5SQ1Vpc8TFE-t4942.26", "text": "it seems to decouple causality from the direction of time at a quantum level, such that the effect, the experiment that's carried out in a normal direction of time,", "start": 4942.26, "end": 4950.26}
+{"id": "5SQ1Vpc8TFE-t4950.26", "text": "but the effect actually occurs, or can be detected or measured prior to the cause.", "start": 4950.26, "end": 4955.26}
+{"id": "5SQ1Vpc8TFE-t4955.26", "text": "And if that might have been a good deal with, some of you are talking about in terms of correlation or hyper correlation,", "start": 4955.26, "end": 4961.26}
+{"id": "5SQ1Vpc8TFE-t4961.26", "text": "not in time with a mass sense, but the a-temporal as related to a causal nature of some of these experiences.", "start": 4961.26, "end": 4970.26}
+{"id": "5SQ1Vpc8TFE-t4970.26", "text": "That's it.", "start": 4970.26, "end": 4978.26}
+{"id": "5SQ1Vpc8TFE-t4978.26", "text": "Anybody?", "start": 4978.26, "end": 4980.26}
+{"id": "5SQ1Vpc8TFE-t4980.26", "text": "Yeah, this last issue is really, I think it's pretty complicated because that touches on several fundamental research topics", "start": 4980.26, "end": 4989.26}
+{"id": "5SQ1Vpc8TFE-t4989.26", "text": "in basic theoretical physics. I don't know whether this is something I should go into much detail.", "start": 4989.26, "end": 4998.26}
+{"id": "5SQ1Vpc8TFE-t4998.26", "text": "It's correct that there are people who think that at the fundamental level, time doesn't play a role anymore in some sense,", "start": 4998.26, "end": 5006.26}
+{"id": "5SQ1Vpc8TFE-t5006.26", "text": "and then causation in the sense of something happening before something else is of course meaningless,", "start": 5006.26, "end": 5012.26}
+{"id": "5SQ1Vpc8TFE-t5012.26", "text": "because then the notion of time is not there.", "start": 5012.26, "end": 5015.26}
+{"id": "5SQ1Vpc8TFE-t5015.26", "text": "But maybe I can expand this into an issue which I think is rather an broader sense,", "start": 5015.26, "end": 5023.26}
+{"id": "5SQ1Vpc8TFE-t5023.26", "text": "and that's the issue that in many of the sciences, not necessarily in fundamental physics,", "start": 5023.26, "end": 5029.26}
+{"id": "5SQ1Vpc8TFE-t5029.26", "text": "but people are completely over-obsessed with causation.", "start": 5029.26, "end": 5033.26}
+{"id": "5SQ1Vpc8TFE-t5033.26", "text": "I think there's no experiment in the world in which you see causation.", "start": 5033.26, "end": 5039.26}
+{"id": "5SQ1Vpc8TFE-t5039.26", "text": "What you see is always correlations between observed, between observed, about variables or something.", "start": 5039.26, "end": 5045.26}
+{"id": "5SQ1Vpc8TFE-t5045.26", "text": "And then when you bring in causation, this is always based on the model that you have.", "start": 5045.26, "end": 5050.26}
+{"id": "5SQ1Vpc8TFE-t5050.26", "text": "And so this is already, if you want, this is a bias.", "start": 5050.26, "end": 5054.26}
+{"id": "5SQ1Vpc8TFE-t5054.26", "text": "Correct.", "start": 5054.26, "end": 5055.26}
+{"id": "5SQ1Vpc8TFE-t5055.26", "text": "And I would always, I mean, in the Paul Jung discussion, it shows in a very nice way", "start": 5055.26, "end": 5062.26}
+{"id": "5SQ1Vpc8TFE-t5062.26", "text": "that correlations can theoretically be more important than immediately ascribing causal relations to them.", "start": 5062.26, "end": 5070.26}
+{"id": "5SQ1Vpc8TFE-t5070.26", "text": "I think that would be my point in that direction.", "start": 5070.26, "end": 5073.26}
+{"id": "5SQ1Vpc8TFE-t5073.26", "text": "I'm going to take a stab at the ecological one and then ask a critic to, you're getting the same term about to get.", "start": 5073.26, "end": 5085.26}
+{"id": "5SQ1Vpc8TFE-t5085.26", "text": "And it's with regard to causality and one respects sort of other models of causality than the land.", "start": 5085.26, "end": 5096.26}
+{"id": "5SQ1Vpc8TFE-t5096.26", "text": "One could, I'm exploring the idea of whether synchronicity could be looked at as a sort of a cross-scale, cross-scale,", "start": 5096.26, "end": 5106.26}
+{"id": "5SQ1Vpc8TFE-t5106.26", "text": "a coupling, a phenomenon. And you would know this unless you were tracking all the different scales at which you've answered the current.", "start": 5106.26, "end": 5116.26}
+{"id": "5SQ1Vpc8TFE-t5116.26", "text": "And then you could see a line connecting these things.", "start": 5116.26, "end": 5120.26}
+{"id": "5SQ1Vpc8TFE-t5120.26", "text": "And then if something happens that is not expected, if you're just looking at that now,", "start": 5120.26, "end": 5126.26}
+{"id": "5SQ1Vpc8TFE-t5126.26", "text": "but then when you have a coupling across there on the scales, then you get something occurring.", "start": 5126.26, "end": 5131.26}
+{"id": "5SQ1Vpc8TFE-t5131.26", "text": "And I wonder whether in the case of the thrusters, things like the volume of the chamber makes a lot of difference to what kind of oscillations you get.", "start": 5131.26, "end": 5140.26}
+{"id": "5SQ1Vpc8TFE-t5140.26", "text": "Among other things that could be measured at various scales, much, much smaller than what's larger.", "start": 5140.26, "end": 5147.26}
+{"id": "5SQ1Vpc8TFE-t5147.26", "text": "But if you don't know, if you're not tracking all these different cycles, it just looks like magic.", "start": 5147.26, "end": 5154.26}
+{"id": "5SQ1Vpc8TFE-t5154.26", "text": "Yeah, no, I definitely see your point and tracking these cross-tails can present a total different picture than what you would see at the surface.", "start": 5154.26, "end": 5165.26}
+{"id": "5SQ1Vpc8TFE-t5165.26", "text": "By the way, just as a footnote to what all three of you have said regarding my invoking ecological model of the fish,", "start": 5165.26, "end": 5173.26}
+{"id": "5SQ1Vpc8TFE-t5173.26", "text": "I was only bringing that as an analogy between an instability as a truster and there.", "start": 5173.26, "end": 5180.26}
+{"id": "5SQ1Vpc8TFE-t5180.26", "text": "And then I was bringing the analogy of that mirror, that parallelism, with the parallelism that probably drew between the back reaction that happens in quantum physics", "start": 5180.26, "end": 5190.26}
+{"id": "5SQ1Vpc8TFE-t5190.26", "text": "and the one that was conjecturing also happens in my manner.", "start": 5190.26, "end": 5195.26}
+{"id": "5SQ1Vpc8TFE-t5195.26", "text": "So I wasn't trying to draw too many parallels between the ecology itself.", "start": 5195.26, "end": 5200.26}
+{"id": "5SQ1Vpc8TFE-t5200.26", "text": "But I'm intrigued by something you said early on, which I find very interesting.", "start": 5200.26, "end": 5205.26}
+{"id": "5SQ1Vpc8TFE-t5205.26", "text": "So you talked about planning and young at the end of the circle, so far from each other in the field that they are almost there in the circle.", "start": 5205.26, "end": 5214.26}
+{"id": "5SQ1Vpc8TFE-t5214.26", "text": "I think that's correct today, unfortunately, with exceptional people like Harold and also Joe who come from the background,", "start": 5214.26, "end": 5220.26}
+{"id": "5SQ1Vpc8TFE-t5220.26", "text": "and you who come from a background, I mean, three exceptions, and my fourth.", "start": 5220.26, "end": 5225.26}
+{"id": "5SQ1Vpc8TFE-t5225.26", "text": "But still, most physics physicists today do not involve 99.9% do not involve thinking about what humans do.", "start": 5225.26, "end": 5235.26}
+{"id": "5SQ1Vpc8TFE-t5235.26", "text": "They think about the physics. Of course, they are humans that are thinking, but they don't indulge in that science.", "start": 5235.26, "end": 5241.26}
+{"id": "5SQ1Vpc8TFE-t5241.26", "text": "And the other thing, the same thing most psychologists do indulge in the physics, is about particle.", "start": 5241.26, "end": 5246.26}
+{"id": "5SQ1Vpc8TFE-t5246.26", "text": "So today they are very far. However, Joe spent a lot of his recent writings showing how the atmosphere, especially the tradition,", "start": 5246.26, "end": 5255.26}
+{"id": "5SQ1Vpc8TFE-t5255.26", "text": "which was only talking about the 19th century German romantic tradition, had a huge impact on scientists at that time.", "start": 5255.26, "end": 5263.26}
+{"id": "5SQ1Vpc8TFE-t5263.26", "text": "So the German romantic scientists, so to speak, were poets in many ways.", "start": 5263.26, "end": 5268.26}
+{"id": "5SQ1Vpc8TFE-t5268.26", "text": "They actually were striving to combine the experimental and the aesthetic.", "start": 5268.26, "end": 5275.26}
+{"id": "5SQ1Vpc8TFE-t5275.26", "text": "And the young and partly with the direct product of that.", "start": 5275.26, "end": 5280.26}
+{"id": "5SQ1Vpc8TFE-t5280.26", "text": "And as a matter of fact, they can be traced.", "start": 5280.26, "end": 5283.26}
+{"id": "5SQ1Vpc8TFE-t5283.26", "text": "Harold Jung talks about the anxiety of influence, and talks about Freud having anxiously heightened the influence of Shakespeare.", "start": 5283.26, "end": 5294.26}
+{"id": "5SQ1Vpc8TFE-t5294.26", "text": "As Tim Jove, we read that Jung was probably anxiously hiding the influence of Spinoza,", "start": 5294.26, "end": 5303.26}
+{"id": "5SQ1Vpc8TFE-t5303.26", "text": "that went all the way down to Pomegerte, to Humboldt, to Hursted, to William James, too young and partly.", "start": 5303.26, "end": 5309.26}
+{"id": "5SQ1Vpc8TFE-t5309.26", "text": "Now, that makes people from that time, and physicists and the psychologists very equal to talk to each other.", "start": 5309.26, "end": 5319.26}
+{"id": "5SQ1Vpc8TFE-t5319.26", "text": "And very natural, especially when psychology is being born on science. It was nothing shocking.", "start": 5319.26, "end": 5324.26}
+{"id": "5SQ1Vpc8TFE-t5324.26", "text": "Einstein has been hosted by a psychologist. It's far less shocking than today I'm even invited to a psychologist's house for dinner.", "start": 5324.26, "end": 5331.26}
+{"id": "5SQ1Vpc8TFE-t5331.26", "text": "Very few psychologists would invite me, especially after tonight.", "start": 5331.26, "end": 5336.26}
+{"id": "5SQ1Vpc8TFE-t5336.26", "text": "But nonetheless, what I'm trying to say is that, could it be that this affinity with physics and chemistry,", "start": 5336.26, "end": 5345.26}
+{"id": "5SQ1Vpc8TFE-t5345.26", "text": "and physics and psychology, is a part of a tradition?", "start": 5345.26, "end": 5349.26}
+{"id": "5SQ1Vpc8TFE-t5349.26", "text": "And here I want to quote something that Beverly quoted Jung saying one of our articles.", "start": 5349.26, "end": 5354.26}
+{"id": "5SQ1Vpc8TFE-t5354.26", "text": "And Jung said, archetypes seem to belong as much to society as to individuals.", "start": 5354.26, "end": 5360.26}
+{"id": "5SQ1Vpc8TFE-t5360.26", "text": "They are therefore luminous and contagious in their effects.", "start": 5360.26, "end": 5364.26}
+{"id": "5SQ1Vpc8TFE-t5364.26", "text": "So could it be that the archetype of a psychologist's physicist was particular to German rheumecticism?", "start": 5364.26, "end": 5373.26}
+{"id": "5SQ1Vpc8TFE-t5373.26", "text": "And contagious? And that Jung and Paul just caught above.", "start": 5373.26, "end": 5379.26}
+{"id": "5SQ1Vpc8TFE-t5379.26", "text": "That's the question I have.", "start": 5379.26, "end": 5382.26}
+{"id": "5SQ1Vpc8TFE-t5382.26", "text": "It seems to be, there's always crime.", "start": 5382.26, "end": 5385.26}
+{"id": "5SQ1Vpc8TFE-t5385.26", "text": "That psychology works there particularly beautifully.", "start": 5385.26, "end": 5388.26}
+{"id": "5SQ1Vpc8TFE-t5388.26", "text": "But in the past 62 years, it has flourished.", "start": 5388.26, "end": 5391.26}
+{"id": "5SQ1Vpc8TFE-t5391.26", "text": "But the underpinning in the physics of mind matter based on any type of psychology has not, is still tenuous in the oligarchy,", "start": 5391.26, "end": 5399.26}
+{"id": "5SQ1Vpc8TFE-t5399.26", "text": "despite Harold's recent work. I mean, not that was standing.", "start": 5399.26, "end": 5404.26}
+{"id": "5SQ1Vpc8TFE-t5404.26", "text": "So I still have a tenuous system that tells me that, you know, I wonder whether this relationship with physics and psychology", "start": 5404.26, "end": 5411.26}
+{"id": "5SQ1Vpc8TFE-t5411.26", "text": "is kind of forced and is a part of this tradition more than intrinsically, you know, a reality.", "start": 5411.26, "end": 5419.26}
+{"id": "5SQ1Vpc8TFE-t5419.26", "text": "I mean, four years don't talk much about physics, but Jung is due.", "start": 5419.26, "end": 5424.26}
+{"id": "5SQ1Vpc8TFE-t5424.26", "text": "So I wonder if you think this is this archetype that's contagious.", "start": 5424.26, "end": 5429.26}
+{"id": "5SQ1Vpc8TFE-t5429.26", "text": "In fact, so this archetype.", "start": 5429.26, "end": 5432.26}
+{"id": "5SQ1Vpc8TFE-t5432.26", "text": "Okay, another question.", "start": 5432.26, "end": 5435.26}
+{"id": "5SQ1Vpc8TFE-t5435.26", "text": "I'll second throw out something that's a little bit different here.", "start": 5435.26, "end": 5439.26}
+{"id": "5SQ1Vpc8TFE-t5439.26", "text": "I've been studying vision because you basically see with your brain.", "start": 5439.26, "end": 5443.26}
+{"id": "5SQ1Vpc8TFE-t5443.26", "text": "So you can't see without moving your eyes and our ancestors are brainsy, Bob,", "start": 5443.26, "end": 5448.26}
+{"id": "5SQ1Vpc8TFE-t5448.26", "text": "from a state of nature. It's called a samurai vision.", "start": 5448.26, "end": 5451.26}
+{"id": "5SQ1Vpc8TFE-t5451.26", "text": "So human brain in a state of nature is actually capable of being aware of seven streams of awareness simultaneously.", "start": 5451.26, "end": 5459.26}
+{"id": "5SQ1Vpc8TFE-t5459.26", "text": "Sometimes it's given a situation of awareness today.", "start": 5459.26, "end": 5463.26}
+{"id": "5SQ1Vpc8TFE-t5463.26", "text": "But we lack of our eyes on static letters and we atrophy that ability.", "start": 5463.26, "end": 5467.26}
+{"id": "5SQ1Vpc8TFE-t5467.26", "text": "So with some of these things about synchronicity, if we live in this world of seven streams of awareness simultaneously,", "start": 5467.26, "end": 5474.26}
+{"id": "5SQ1Vpc8TFE-t5474.26", "text": "you might never ask this before. Think that synchronicity might possibly have something to do with that seven point awareness.", "start": 5474.26, "end": 5483.26}
+{"id": "5SQ1Vpc8TFE-t5483.26", "text": "That's across here, Bob.", "start": 5483.26, "end": 5487.26}
+{"id": "5SQ1Vpc8TFE-t5487.26", "text": "Yeah, exactly. I was going to ask what those streams they have certain, I guess, some cycling times or something like that.", "start": 5487.26, "end": 5495.26}
+{"id": "5SQ1Vpc8TFE-t5495.26", "text": "I have no idea.", "start": 5495.26, "end": 5497.26}
+{"id": "5SQ1Vpc8TFE-t5497.26", "text": "The Da Vinci Coa, you can see up and down left, right, you know, foreground.", "start": 5497.26, "end": 5503.26}
+{"id": "5SQ1Vpc8TFE-t5503.26", "text": "When I'm talking, you can also see at the same time.", "start": 5503.26, "end": 5507.26}
+{"id": "5SQ1Vpc8TFE-t5507.26", "text": "And I'm just saying, you know, that's a fact.", "start": 5507.26, "end": 5510.26}
+{"id": "5SQ1Vpc8TFE-t5510.26", "text": "I'm just curious because of what we ever looked at, what you think.", "start": 5510.26, "end": 5515.26}
+{"id": "5SQ1Vpc8TFE-t5515.26", "text": "It's really intriguing. It's really intriguing possibility.", "start": 5515.26, "end": 5519.26}
+{"id": "5SQ1Vpc8TFE-t5519.26", "text": "I mean, it does correspond to the idea that we're very focused on very little most of the time that we know of.", "start": 5519.26, "end": 5529.26}
+{"id": "5SQ1Vpc8TFE-t5529.26", "text": "Consciously. And we don't cultivate samurai awareness.", "start": 5529.26, "end": 5535.26}
+{"id": "5SQ1Vpc8TFE-t5535.26", "text": "I'm not sure some of this, I mean, I would really defer to these folks who've tracked these experiences more to see if it's something within the perceptual field or not.", "start": 5535.26, "end": 5547.26}
+{"id": "5SQ1Vpc8TFE-t5547.26", "text": "What you're suggesting is that it would be something that could be included in the perceptual field, that we're not tracking, something even small.", "start": 5547.26, "end": 5555.26}
+{"id": "5SQ1Vpc8TFE-t5555.26", "text": "It's quite cold. You know, in India, I, yoga, has been doing this for 3,000 years.", "start": 5555.26, "end": 5561.26}
+{"id": "5SQ1Vpc8TFE-t5561.26", "text": "So they have programs that are astounding that, you know, they used to practice this 2,000 years ago, but I was in the round back.", "start": 5561.26, "end": 5568.26}
+{"id": "5SQ1Vpc8TFE-t5568.26", "text": "But I used to wear it.", "start": 5568.26, "end": 5571.26}
+{"id": "5SQ1Vpc8TFE-t5571.26", "text": "We had just a few more minutes. Are there any other questions?", "start": 5571.26, "end": 5577.26}
+{"id": "5SQ1Vpc8TFE-t5577.26", "text": "Oh, I'm sorry, Margaret.", "start": 5577.26, "end": 5580.26}
+{"id": "5SQ1Vpc8TFE-t5580.26", "text": "Yes, you have one.", "start": 5580.26, "end": 5584.26}
+{"id": "5SQ1Vpc8TFE-t5584.26", "text": "Okay.", "start": 5584.26, "end": 5585.26}
+{"id": "5SQ1Vpc8TFE-t5585.26", "text": "Coming from an analyst point of view, I, then at first, Joe, you said something about their really clinical implications for all of this.", "start": 5585.26, "end": 5596.26}
+{"id": "5SQ1Vpc8TFE-t5596.26", "text": "And the one that struck me, and I'd like you to talk about it, see if this makes sense.", "start": 5596.26, "end": 5604.26}
+{"id": "5SQ1Vpc8TFE-t5604.26", "text": "Harold said, this is not about causality. It's not correlation.", "start": 5604.26, "end": 5609.26}
+{"id": "5SQ1Vpc8TFE-t5609.26", "text": "That sounds to be like a very serious analytic statement because we're not looking for the cause.", "start": 5609.26, "end": 5614.26}
+{"id": "5SQ1Vpc8TFE-t5614.26", "text": "We're looking for the patterns.", "start": 5614.26, "end": 5616.26}
+{"id": "5SQ1Vpc8TFE-t5616.26", "text": "That's what analysts do, and that's what heals. The cause is not the point.", "start": 5616.26, "end": 5623.26}
+{"id": "5SQ1Vpc8TFE-t5623.26", "text": "That's the end of the understanding of trauma theory. That's the new understanding of all of it.", "start": 5623.26, "end": 5627.26}
+{"id": "5SQ1Vpc8TFE-t5627.26", "text": "Is that what you were talking about about the implications of this, or what were you thinking of, Joe, when you talked about the implications of the emergence and synchronicity?", "start": 5627.26, "end": 5638.26}
+{"id": "5SQ1Vpc8TFE-t5638.26", "text": "Well, when I was particularly interested in this, actually it's a kind of background question I'm comparing, and that is when you start to look at, if you can take those structural things and you could study those alone,", "start": 5638.26, "end": 5651.26}
+{"id": "5SQ1Vpc8TFE-t5651.26", "text": "that would be more in the realm of physics in the mind matter relationship.", "start": 5651.26, "end": 5655.26}
+{"id": "5SQ1Vpc8TFE-t5655.26", "text": "What we've been talking about clinically, these examples above and below the baseline, because you get a spectrum there, I think it starts to go to the question that Edgar's raising about, how do you filter emotional?", "start": 5655.26, "end": 5667.26}
+{"id": "5SQ1Vpc8TFE-t5667.26", "text": "Do you filter emotional? That is these very large, numinous, kind of synchronicity experiences that are always charged, very highly charged with affect.", "start": 5667.26, "end": 5676.26}
+{"id": "5SQ1Vpc8TFE-t5676.26", "text": "What we don't do then is to scale that back. We start to look at experiences with less affect immediately in them.", "start": 5676.26, "end": 5685.26}
+{"id": "5SQ1Vpc8TFE-t5685.26", "text": "We now know that affect is part of cognition. You can't think of it as your affect.", "start": 5685.26, "end": 5691.26}
+{"id": "5SQ1Vpc8TFE-t5691.26", "text": "I wouldn't throw affect out, but I think you can say what happens asymptotically as you move back, as you begin to titrate the affect down to lower and lower levels.", "start": 5691.26, "end": 5702.26}
+{"id": "5SQ1Vpc8TFE-t5702.26", "text": "One of the things in science one can talk a lot about nowadays is serendipity.", "start": 5702.26, "end": 5707.26}
+{"id": "5SQ1Vpc8TFE-t5707.26", "text": "More and more of the biographies of science reveal how much accident is involved in so many key discoveries that people are looking at.", "start": 5707.26, "end": 5716.26}
+{"id": "5SQ1Vpc8TFE-t5716.26", "text": "It's looking very intently with a very well organized mind and finding something very that's curiously other than what you look for.", "start": 5716.26, "end": 5725.26}
+{"id": "5SQ1Vpc8TFE-t5725.26", "text": "If that becomes the place of breakthrough, that seems to be an extremely important correlation thing. You can say the same thing for analysis.", "start": 5725.26, "end": 5733.26}
+{"id": "5SQ1Vpc8TFE-t5733.26", "text": "So that's, yeah.", "start": 5733.26, "end": 5734.26}
+{"id": "5SQ1Vpc8TFE-t5734.26", "text": "Exactly. It's mostly serendipitous. I mean, these things about the law study that comes to mind, the field that you're in, have a serendipitous quality.", "start": 5734.26, "end": 5741.26}
+{"id": "5SQ1Vpc8TFE-t5741.26", "text": "I would say, every interpretation you make, you can't make an interpretation that isn't somehow part of this.", "start": 5741.26, "end": 5748.26}
+{"id": "5SQ1Vpc8TFE-t5748.26", "text": "There's a serendipitous field quality to what you're saying, especially if it's right.", "start": 5748.26, "end": 5752.26}
+{"id": "5SQ1Vpc8TFE-t5752.26", "text": "Yes, and that would bring in the question of the sequence of questions.", "start": 5752.26, "end": 5758.26}
+{"id": "5SQ1Vpc8TFE-t5758.26", "text": "Yes, yes, exactly.", "start": 5758.26, "end": 5759.26}
+{"id": "5SQ1Vpc8TFE-t5759.26", "text": "Every theory has a different way of thinking about how you come to approaching something, and that's sort of like a difference.", "start": 5759.26, "end": 5767.26}
+{"id": "5SQ1Vpc8TFE-t5767.26", "text": "And I'm very pleased to hear that.", "start": 5767.26, "end": 5770.26}
+{"id": "5SQ1Vpc8TFE-t5770.26", "text": "Yeah, that's part of the training.", "start": 5770.26, "end": 5773.26}
+{"id": "5SQ1Vpc8TFE-t5773.26", "text": "Yes.", "start": 5773.26, "end": 5774.26}
+{"id": "5SQ1Vpc8TFE-t5774.26", "text": "I'm not doing on a computer.", "start": 5774.26, "end": 5776.26}
+{"id": "5SQ1Vpc8TFE-t5776.26", "text": "You're a question.", "start": 5776.26, "end": 5778.26}
+{"id": "5SQ1Vpc8TFE-t5778.26", "text": "We have one nice question.", "start": 5778.26, "end": 5780.26}
+{"id": "5SQ1Vpc8TFE-t5780.26", "text": "It's interesting. I find it in my work as an analyst that, depending on a patient's state of mind, for example, I'm working with somebody who tends to be more disorganized.", "start": 5780.26, "end": 5793.26}
+{"id": "5SQ1Vpc8TFE-t5793.26", "text": "Or somebody who has sort of experienced the archetypal mythological realm that's less mitigated.", "start": 5793.26, "end": 5801.26}
+{"id": "5SQ1Vpc8TFE-t5801.26", "text": "Or with the archetypal realm that's asserting itself more forcefully in the field within the session, there seem to be more asynchronous events.", "start": 5801.26, "end": 5813.26}
+{"id": "5SQ1Vpc8TFE-t5813.26", "text": "I will want to say words that I usually don't say in fact and never say come to me and seem in those words seem to somehow match the patient's experience or something they've gone through that day.", "start": 5813.26, "end": 5825.26}
+{"id": "5SQ1Vpc8TFE-t5825.26", "text": "It seems to go back and forth and back and forth. Again, it often happens when I'm working with patients where the ego, let's say, is more permeable to the archetypal contents.", "start": 5825.26, "end": 5839.26}
+{"id": "5SQ1Vpc8TFE-t5839.26", "text": "And I'm wondering if you can, if anybody, if you notice that or if you can comment on that.", "start": 5839.26, "end": 5846.26}
+{"id": "5SQ1Vpc8TFE-t5846.26", "text": "I think that the weird field phenomenon and the kind of transmission that happens through body language to facial expression, to the whole near neuron system.", "start": 5846.26, "end": 5862.26}
+{"id": "5SQ1Vpc8TFE-t5862.26", "text": "I mean, we now know that how your face is arranged, you've got 10,000 different facial muscles combinations. And however your face is arranged to send the neural signals to different parts of the brain.", "start": 5862.26, "end": 5878.26}
+{"id": "5SQ1Vpc8TFE-t5878.26", "text": "If you smile, you're soothing and cooling the brain. And if you've rivisic, you're heating up the brain. And if you're with someone who is in a very tense and strange and stressed state, there's a certain facial expression that we all, since it's just analysts and analysts and it's also other kinds of connections.", "start": 5878.26, "end": 5904.26}
+{"id": "5SQ1Vpc8TFE-t5904.26", "text": "We are living in mirroring and sending the same signals and getting into something of the same brain state that used to be thought of as psychic contagion.", "start": 5904.26, "end": 5915.26}
+{"id": "5SQ1Vpc8TFE-t5915.26", "text": "We now know much more about how our whole emotional physical cognitive system works. So I would think of that more as their field, which is a dream with that.", "start": 5915.26, "end": 5926.26}
+{"id": "5SQ1Vpc8TFE-t5926.26", "text": "But in a way that can be so precise that the language is a choice of language is a choice of language.", "start": 5926.26, "end": 5933.26}
+{"id": "5SQ1Vpc8TFE-t5933.26", "text": "You know, someone like Joe to do, the NYU neuroscientist, thinks that these kind of communications are much more accurate and precise than any kind of verbal communication.", "start": 5933.26, "end": 5949.26}
+{"id": "5SQ1Vpc8TFE-t5949.26", "text": "So you've been wonderful to stay with us. You've been wonderful to come and to risk these kinds of discussions. So appreciate it.", "start": 5949.26, "end": 5960.26}
+{"id": "5SQ1Vpc8TFE-t5960.26", "text": "I've always learned a great deal. And I thank you for your presence and I thank you for your patience and perseverance.", "start": 5960.26, "end": 5981.26}
